@@ -1,6 +1,9 @@
 # Awesome MCP Servers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-A comprehensive collection of Model Context Protocol (MCP) servers.
+A growing collection of Model Context Protocol (MCP) servers.
+Continuously updated — feel free to submit a PR to add missing services or newly created ones.
+
+Please update both the main README.md and the sub-category under /docs/...
 
 ## Model Context Protocol
 
