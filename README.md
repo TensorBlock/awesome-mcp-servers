@@ -747,6 +747,7 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [omega-memory/core](https://github.com/omega-memory/core): Persistent memory for AI coding agents. Semantic search, auto-capture, cross-session learning, checkpoint/resume. #1 on LongMemEval (95.4%). Local-first, 25 MCP tools.
 - [gdcc/mcp-dataverse](https://github.com/gdcc/mcp-dataverse): Facilitates multilingual data integration and exploration in Dataverse using Croissant ML.
 - [digila/linear-mcp](https://github.com/digila/linear-mcp): A TypeScript-based MCP server for managing and summarizing text notes with URI-based access and LLM integration.
 - [xsp52Hz/cognigraph-mcp-server](https://github.com/xsp52Hz/cognigraph-mcp-server): CogniGraph MCP Server generates mind maps, relationship graphs, and knowledge graphs using CLI tools and AI analysis, compatible with various local MCP clients.
