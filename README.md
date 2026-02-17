@@ -530,6 +530,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [BrunoPessoa22/chiliz-marketing-intel](https://github.com/BrunoPessoa22/chiliz-marketing-intel): 67+ tools for fan token intelligence — whale flows, signal scores, sports calendar, backtesting, DEX trading, social sentiment. SSE with Bearer auth.
 - [decidefyi/decide](https://github.com/decidefyi/decide) – Deterministic MCP notary suite for subscription policies: refund, cancellation, return, and trial terms. Stateless, read-only rules engine with auditable verdicts.
 - [agentc22/x402engine-mcp](https://github.com/agentc22/x402engine-mcp): 51 pay-per-call APIs for AI agents — 23 LLMs (GPT-5.2, GPT-4o, Claude, Gemini, Grok, DeepSeek, Llama, Mistral, Qwen, Perplexity, Kimi, MiniMax, GLM, Devstral), image/video generation, code execution, TTS, transcription, embeddings, crypto data, wallet analytics, ENS, tx simulation, web scraping, and IPFS via HTTP 402 micropayments with USDC on Base/Solana and USDm on MegaETH.
 - [fernikolic/clawdentials](https://github.com/fernikolic/clawdentials): Trust layer for agent commerce with escrow, reputation, and payments. Enables AI agents to accept paid tasks with guaranteed payment, build verifiable reputation, and earn money in USDC, USDT, or BTC.
