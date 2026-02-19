@@ -1001,6 +1001,7 @@ Servers integrating with project management and task tracking tools.
 
 Servers accessing scientific databases, research platforms, or providing tools for scientific computation/simulation.
 
+- [connerlambden/bgpt-mcp](https://github.com/connerlambden/bgpt-mcp): Search scientific papers with structured experimental data extracted from full-text studies, returning 25+ fields per paper including methods, results, sample sizes, and quality scores.
 - [GreatApo/concrete-properties-mcp](https://github.com/GreatApo/concrete-properties-mcp): Facilitates AI-driven analysis of reinforced concrete sections by providing a unified API interface for calculating geometric and material properties.
 - [GooTec/NCBI-MCP](https://github.com/GooTec/NCBI-MCP): Facilitates access to NCBI Datasets through a modular MCP server with OpenAPI-driven endpoints for genome, gene, and taxonomy data.
 - [leelasd/molecule_mcp](https://github.com/leelasd/molecule_mcp): Facilitates chemistry-focused applications by visualizing molecules and retrieving molecular properties using SMILES codes, integrated with LLMs like Claude Desktop.
