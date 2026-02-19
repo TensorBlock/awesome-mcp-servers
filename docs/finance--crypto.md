@@ -15,6 +15,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [wealthy/wealthy-mcp](https://github.com/wealthy/wealthy-mcp): Facilitates smart trading on the Wealthy platform through a Golang-based MCP server, enabling seamless integration with trading tools and platforms like Claude and Cursor.
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server): Provides professional-grade financial data access for AI applications through a Model Context Protocol server, supporting multiple data providers like Tushare and Wind.
 - [leoncuhk/mcp-yahoo-finance](https://github.com/leoncuhk/mcp-yahoo-finance): Facilitates interaction with Yahoo Finance for retrieving financial data and generating visual analytics.
+- [Octav-Labs/octav-api-mcp](https://github.com/Octav-Labs/octav-api-mcp): MCP server for cryptocurrency portfolio tracking, transaction history, and DeFi analytics across 20+ blockchains.
 - [Sifu213/monad-mcp-magiceden](https://github.com/Sifu213/monad-mcp-magiceden): Facilitates interaction with NFT data on the Monad testnet, offering insights into holder addresses, total NFT value, and trending collections by sales and volume.
 - [MCPxLabs/mcpsol](https://github.com/MCPxLabs/mcpsol): Facilitates AI-driven interactions with the Solana blockchain, enabling seamless execution of transactions and management of wallets through a standardized interface.
 - [atompsv/my-red-envelope](https://github.com/atompsv/my-red-envelope): Facilitates querying MON token balances on the Monad testnet via an MCP server.
