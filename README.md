@@ -1074,6 +1074,7 @@ Servers providing web search capabilities or interfacing with specialized search
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [ndl-systems/kevros-governance-sdk](https://github.com/ndl-systems/kevros-governance-sdk): Cryptographic governance for AI agents — verify actions (ALLOW/CLAMP/DENY), create hash-chained provenance, bind intent to execution, and generate PQC-signed trust certificates via a hosted gateway.
 - [slowmist/MasterMCP](https://github.com/slowmist/MasterMCP): MasterMCP demonstrates security vulnerabilities in MCP frameworks through practical attack examples, aiding developers in understanding and mitigating potential risks.
 - [sxhxliang/mcp-security-scan](https://github.com/sxhxliang/mcp-security-scan): A Rust application for scanning and verifying the security of Model Context Protocol server configurations, prompts, resources, and tools.
 - [Eliran79/Vulnerable-file-reader-server](https://github.com/Eliran79/Vulnerable-file-reader-server): A Python MCP server showcasing command injection vulnerabilities for educational purposes, highlighting the risks of improper input sanitization.
