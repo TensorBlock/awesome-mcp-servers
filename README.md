@@ -355,6 +355,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 
 Servers specifically designed to interact with CMS platforms.
 
+- [UnMarkdown/mcp-server](https://github.com/UnMarkdown/mcp-server): Converts markdown to formatted documents for Google Docs, Word, Slack, OneNote, Email, and Plain Text with 62 templates, plus document management and publishing via 7 MCP tools.
 - [edgarrmondragon/limesurvey-mcp](https://github.com/edgarrmondragon/limesurvey-mcp): Facilitates seamless management of LimeSurvey surveys and responses through a dedicated MCP server.
 - [thoy-le-duc/mcp-woocommerce-thoy](https://github.com/thoy-le-duc/mcp-woocommerce-thoy): Facilitates seamless WooCommerce store management via JSON-RPC 2.0, integrating with WordPress REST API across multiple platforms.
 - [aguaitech/Elementor-MCP](https://github.com/aguaitech/Elementor-MCP): Facilitates CRUD operations on Elementor data within WordPress using a simple MCP server.
