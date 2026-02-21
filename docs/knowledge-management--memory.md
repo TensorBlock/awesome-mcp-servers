@@ -2,6 +2,7 @@
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [nicholasglazer/gnosis-mcp](https://github.com/nicholasglazer/gnosis-mcp): Zero-config MCP server that loads markdown docs into SQLite (FTS5 keyword search) or PostgreSQL (pgvector hybrid semantic+keyword search) and exposes 6 tools and 3 resources for AI agents to search, retrieve, and manage documentation.
 - [varun369/SuperLocalMemoryV2](https://github.com/varun369/SuperLocalMemoryV2): A local-first AI memory system providing persistent memory across 17+ AI tools via MCP, featuring knowledge graphs, hybrid search, and pattern learning with zero cloud dependency.
 - [gdcc/mcp-dataverse](https://github.com/gdcc/mcp-dataverse): Facilitates multilingual data integration and exploration in Dataverse using Croissant ML.
 - [digila/linear-mcp](https://github.com/digila/linear-mcp): A TypeScript-based MCP server for managing and summarizing text notes with URI-based access and LLM integration.
