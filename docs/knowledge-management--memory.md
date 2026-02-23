@@ -537,4 +537,4 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp): Integrates Claude with Notion to manage a minimalist todo list via MCP server.
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian): Facilitates seamless interaction with Obsidian through a REST API, enabling file management and content manipulation within the vault.
 - [Shubhaankar-Sharma/obsidian-brain](https://github.com/Shubhaankar-Sharma/obsidian-brain): Facilitates Claude's integration with Obsidian for seamless access to your digital brain.
-
+- [odei-ai/mcp-odei](https://github.com/odei-ai/mcp-odei): Constitutional knowledge graph MCP for AI agents. Provides world model queries across a 7-layer semantic graph (91 nodes), safety guardrail checks (APPROVED/REJECTED/ESCALATE), and EVM smart contract audit. Production cloud service since January 2026.
