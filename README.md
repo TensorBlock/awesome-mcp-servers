@@ -853,6 +853,7 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [cnych/seo-mcp](https://github.com/cnych/seo-mcp): Leverage Ahrefs data for comprehensive SEO analysis, including backlink and keyword research, through a Model Control Protocol service.
 - [edwardchoh/apollo-io-mcp-server](https://github.com/edwardchoh/apollo-io-mcp-server): Facilitates interaction with Apollo.io API through MCP tools for data enrichment and search functionalities.
 - [Offorte Proposal Software](https://github.com/offorte/offorte-mcp-server): The Offorte Proposal Software MCP server enables creation and sending of business proposals.
+- [BlockchainHB/launchfastmcp-skills](https://github.com/BlockchainHB/launchfastmcp-skills): Amazon FBA research tools for Claude Code. Includes product research with opportunity scoring, PPC keyword research with bulk upload CSV generation, Alibaba supplier outreach automation, and IP/trademark checks via Launch Fast MCP.
 
 ## 📡 Monitoring & Observability
 
