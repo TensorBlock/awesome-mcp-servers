@@ -321,6 +321,7 @@ Servers designed to execute code snippets or scripts in various languages, often
 
 Servers for interacting with email, chat platforms, SMS, or notification services.
 
+- [anipotts/imessage-mcp](https://github.com/anipotts/imessage-mcp): Provides 25 read-only tools for searching, analyzing, and exploring iMessage history on macOS, including conversation analytics, streaks, read receipts, and reactions.
 - [jamesacklin/tlon-mcp-server](https://github.com/jamesacklin/tlon-mcp-server): Facilitates interaction with Tlon agents through direct messaging, contact management, and natural language support.
 - [varunwahi-plivo/plivo-mcp-server](https://github.com/varunwahi-plivo/plivo-mcp-server): Facilitates SMS messaging through Plivo's API using the Message Control Protocol.
 - [deuslirio/mcp-server-whatsapp-message](https://github.com/deuslirio/mcp-server-whatsapp-message): Facilitates sending WhatsApp messages through the Meta WhatsApp Business API using MCP.
