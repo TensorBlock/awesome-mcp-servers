@@ -491,6 +491,7 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [miraclebakelaser/porkbun-mcp-server](https://github.com/miraclebakelaser/porkbun-mcp-server): Facilitates domain, DNS, and SSL management through the Porkbun API for MCP-compatible clients.
 - [urijan44/pr_creator_mcp](https://github.com/urijan44/pr_creator_mcp): Automates GitHub Pull Request creation with integration support for tools like Cursor and Claude.
 - [sbarbett/pihole-mcp-server](https://github.com/sbarbett/pihole-mcp-server): Facilitates AI assistants in managing and querying Pi-hole configurations and metrics through a Model Context Protocol server.
+- [HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy): Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary, zero dependencies.
 
 ## 📁 Filesystems
 
@@ -784,6 +785,7 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [angrysky56/NeoCoder-neo4j-ai-workflow](https://github.com/angrysky56/NeoCoder-neo4j-ai-workflow): Enables AI assistants to utilize a Neo4j knowledge graph for dynamic coding workflows and project memory management.
 - [CaptainCrouton89/alaria-wiki-mcp](https://github.com/CaptainCrouton89/alaria-wiki-mcp): A boilerplate for creating an MCP server that stores and retrieves information using vector embeddings, enabling semantic search and integration with AI assistants like Claude.
 - [CaptainCrouton89/mcp-boilerplate](https://github.com/CaptainCrouton89/mcp-boilerplate): A boilerplate for creating an MCP server that utilizes vector embeddings for storing and retrieving information, enabling semantic search and integration with AI assistants like Claude.
+- [HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy): Persistent memory across AI sessions with SQLite + FTS5 full-text search + knowledge graph with typed relations. Features session management, timeline browsing, graph traversal, and 17 memory tools.
 
 ## 🗺️ Location & Maps
 
