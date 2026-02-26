@@ -786,6 +786,7 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [CaptainCrouton89/alaria-wiki-mcp](https://github.com/CaptainCrouton89/alaria-wiki-mcp): A boilerplate for creating an MCP server that stores and retrieves information using vector embeddings, enabling semantic search and integration with AI assistants like Claude.
 - [CaptainCrouton89/mcp-boilerplate](https://github.com/CaptainCrouton89/mcp-boilerplate): A boilerplate for creating an MCP server that utilizes vector embeddings for storing and retrieving information, enabling semantic search and integration with AI assistants like Claude.
 - [HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy): Persistent memory across AI sessions with SQLite + FTS5 full-text search + knowledge graph with typed relations. Features session management, timeline browsing, graph traversal, and 17 memory tools.
+- [entire-vc/evc-team-relay-mcp](https://github.com/entire-vc/evc-team-relay-mcp): Give AI agents read/write access to your Obsidian vault via a collaborative Team Relay MCP server
 
 ## 🗺️ Location & Maps
 
