@@ -1082,6 +1082,7 @@ Servers providing web search capabilities or interfacing with specialized search
 ## 🔒 Security
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
+- [ark-forge/mcp-eu-ai-act](https://github.com/ark-forge/mcp-eu-ai-act): Scans codebases for AI framework usage (16 frameworks) and checks compliance against EU AI Act requirements. Features 4-tier risk categorization, GDPR compliance checking, report generation, and compliance document templates.
 
 - [ndl-systems/kevros-governance-sdk](https://github.com/ndl-systems/kevros-governance-sdk): Cryptographic governance for AI agents — verify actions (ALLOW/CLAMP/DENY), create hash-chained provenance, bind intent to execution, and generate PQC-signed trust certificates via a hosted gateway.
 - [slowmist/MasterMCP](https://github.com/slowmist/MasterMCP): MasterMCP demonstrates security vulnerabilities in MCP frameworks through practical attack examples, aiding developers in understanding and mitigating potential risks.
