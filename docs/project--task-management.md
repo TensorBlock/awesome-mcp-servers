@@ -2,6 +2,7 @@
 
 Servers integrating with project management and task tracking tools.
 
+- [spranab/saga-mcp](https://github.com/spranab/saga-mcp): A Jira-like project tracker MCP server for AI agents. SQLite-backed with full hierarchy (Projects > Epics > Tasks > Subtasks), automatic activity logging, dashboard overview, and unified notes system — so LLMs never lose track across sessions.
 - [ACNet-AI/OmniTaskAgent](https://github.com/ACNet-AI/OmniTaskAgent): OmniTaskAgent is a versatile multi-model task management system that integrates with various task management solutions and editors via the MCP protocol, enhancing intelligent workflow processes.
 - [linshu123/volar_docs](https://github.com/linshu123/volar_docs): Volar facilitates task management by aligning human and AI collaboration through an MCP server, enabling asynchronous workflows and context organization.
 - [eyalzh/kanban-mcp](https://github.com/eyalzh/kanban-mcp): Facilitates task management for AI-driven workflows using a kanban system, enabling structured planning and execution across multiple sessions.

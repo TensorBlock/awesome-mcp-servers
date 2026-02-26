@@ -2,6 +2,7 @@
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [ndl-systems/kevros-copilot](https://github.com/ndl-systems/kevros-copilot): Precision decisioning for autonomous agents — cryptographic ALLOW/CLAMP/DENY authorization with HMAC-signed release tokens and hash-chained provenance. Free tier: 100 calls/month. [Live gateway](https://governance.taskhawktech.com)
 - [slowmist/MasterMCP](https://github.com/slowmist/MasterMCP): MasterMCP demonstrates security vulnerabilities in MCP frameworks through practical attack examples, aiding developers in understanding and mitigating potential risks.
 - [sxhxliang/mcp-security-scan](https://github.com/sxhxliang/mcp-security-scan): A Rust application for scanning and verifying the security of Model Context Protocol server configurations, prompts, resources, and tools.
 - [Eliran79/Vulnerable-file-reader-server](https://github.com/Eliran79/Vulnerable-file-reader-server): A Python MCP server showcasing command injection vulnerabilities for educational purposes, highlighting the risks of improper input sanitization.
@@ -10,6 +11,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [crazyMarky/mcp_nuclei_server](https://github.com/crazyMarky/mcp_nuclei_server): Facilitates vulnerability scanning using Nuclei with MCP protocol integration, offering configurable filtering and JSON output.
 - [Medinios/SuricataMCP](https://github.com/Medinios/SuricataMCP): SuricataMCP enables autonomous network traffic analysis using Suricata through a Model Context Protocol server, facilitating seamless integration with AI coding tools.
 - [dev-lu/PentestMCP](https://github.com/dev-lu/PentestMCP): Facilitates security scans on Kali Linux using natural language commands via LLMs like Claude.
+- [The-Nexus-Guard/aip-mcp-server](https://github.com/The-Nexus-Guard/aip-mcp-server): Agent Identity Protocol MCP server providing cryptographic identity verification, trust chain management, and secure messaging for AI agents via 8 tools including DID creation, challenge-response verification, vouching, and artifact signing.
 - [trustasia-com/myssl-mcp-server-python](https://github.com/trustasia-com/myssl-mcp-server-python): MySSL MCP Server performs site security certificate inspections, integrating with LLM models for enhanced analysis.
 - [dkvdm/onepassword-mcp-server](https://github.com/dkvdm/onepassword-mcp-server): Facilitates secure credential retrieval from 1Password for integration with Agentic AI.
 - [GH05TCREW/MetasploitMCP](https://github.com/GH05TCREW/MetasploitMCP): Facilitates AI-driven interaction with Metasploit for dynamic security testing and exploitation workflows.

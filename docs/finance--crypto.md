@@ -2,6 +2,9 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp): MCP server for the deBridge protocol, enabling AI agents to find optimal cross-chain swap routes, check fees and conditions, and initiate non-custodial trades across major blockchain networks.
+- [BrunoPessoa22/chiliz-marketing-intel](https://github.com/BrunoPessoa22/chiliz-marketing-intel): 67+ tools for fan token intelligence — whale flows, signal scores, sports calendar, backtesting, DEX trading, social sentiment. SSE with Bearer auth.
+- [agentc22/x402engine-mcp](https://github.com/agentc22/x402engine-mcp): 51 pay-per-call APIs for AI agents — 23 LLMs (GPT-5.2, GPT-4o, Claude, Gemini, Grok, DeepSeek, Llama, Mistral, Qwen, Perplexity, Kimi, MiniMax, GLM, Devstral), image/video generation, code execution, TTS, transcription, embeddings, crypto data, wallet analytics, ENS, tx simulation, web scraping, and IPFS via HTTP 402 micropayments with USDC on Base/Solana and USDm on MegaETH.
 - [bnmbnmai/mcp-proxy](https://github.com/bnmbnmai/mcp-proxy): Apollo Intelligence MCP Server — 21 tools for AI agents including real-time crypto prices, trending tokens, web scraping via 190+ country residential proxy network, market sentiment, agentic trends, and curated intelligence feeds. Pay-per-request via x402 micropayments (USDC on Base). Install: `npm i -g @apollo_ai/mcp-proxy`
 - [RioTheGreat-ai/agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp): Crowdfunding for AI agents with milestone-based escrow on Base chain. Create funding proposals, track projects, receive payments.
 - [trayders/trayd-mcp](https://github.com/trayders/trayd-mcp): Trade Robinhood stocks through natural language in Claude Code, with portfolio analysis, real-time quotes, and order execution.
@@ -13,6 +16,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [wealthy/wealthy-mcp](https://github.com/wealthy/wealthy-mcp): Facilitates smart trading on the Wealthy platform through a Golang-based MCP server, enabling seamless integration with trading tools and platforms like Claude and Cursor.
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server): Provides professional-grade financial data access for AI applications through a Model Context Protocol server, supporting multiple data providers like Tushare and Wind.
 - [leoncuhk/mcp-yahoo-finance](https://github.com/leoncuhk/mcp-yahoo-finance): Facilitates interaction with Yahoo Finance for retrieving financial data and generating visual analytics.
+- [Octav-Labs/octav-api-mcp](https://github.com/Octav-Labs/octav-api-mcp): MCP server for cryptocurrency portfolio tracking, transaction history, and DeFi analytics across 20+ blockchains.
 - [Sifu213/monad-mcp-magiceden](https://github.com/Sifu213/monad-mcp-magiceden): Facilitates interaction with NFT data on the Monad testnet, offering insights into holder addresses, total NFT value, and trending collections by sales and volume.
 - [MCPxLabs/mcpsol](https://github.com/MCPxLabs/mcpsol): Facilitates AI-driven interactions with the Solana blockchain, enabling seamless execution of transactions and management of wallets through a standardized interface.
 - [atompsv/my-red-envelope](https://github.com/atompsv/my-red-envelope): Facilitates querying MON token balances on the Monad testnet via an MCP server.
@@ -335,4 +339,5 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [huahuayu/1scan](https://github.com/huahuayu/1scan): A unified API gateway that integrates multiple blockchain explorer APIs, enabling AI assistants to query blockchain data via MCP.
 - [Frederick-G764/brokers-mcp](https://github.com/Frederick-G764/brokers-mcp): Facilitates interaction with TradeStation's API for trading operations, including retrieving market data and managing orders and positions.
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server): Facilitates access to Coinmarket API endpoints for currency listings and token quotes via a custom URI scheme.
+- [VENTURE-AI-LABS/cryptodataapi-mcp](https://github.com/VENTURE-AI-LABS/cryptodataapi-mcp): Real-time crypto market data for AI agents — market health scores, derivatives, funding rates, ETF flows, cycle indicators, and 100+ endpoints via CryptoDataAPI.
 
