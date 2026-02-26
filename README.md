@@ -566,6 +566,8 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [pricepertoken/mcp-server](https://pricepertoken.com/mcp): Provides real-time LLM API pricing comparison and benchmark rankings across 100+ models from 30+ providers including OpenAI, Anthropic, Google, and Meta. No API key required.
 - [LightningProx MCP](https://github.com/unixlamadev-spec/lightningprox-mcp) - Lightning Network payment gateway for AI agents. Pay-per-request access to Claude, GPT-4 and other models using Bitcoin micropayments. Features model discovery, pricing, prepaid spend tokens, and autonomous payment flows.
 - [SolanaProx MCP](https://github.com/solanaprox/mcp-server) - Solana/USDC payment gateway for AI agents. Pay-per-request access to Claude, GPT-4 and other models using USDC micropayments. Features model discovery, pricing, real-time balance detection, and autonomous payment flows.
+- [AIProx MCP](https://github.com/unixlamadev-spec/aiprox-mcp) - MCP server for the AIProx open agent registry. Discover and connect to autonomous agents by capability and payment rail. DNS for the agent economy.
+- [LPXPoly MCP](https://github.com/unixlamadev-spec/lpxpoly-mcp) - AI-powered Polymarket analysis via Bitcoin Lightning micropayments. Find edge opportunities, analyze markets, get trading signals. Pay per analysis in sats.
 
 ## 🧰 Frameworks
 
