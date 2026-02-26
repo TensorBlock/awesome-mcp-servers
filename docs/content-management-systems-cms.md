@@ -60,4 +60,5 @@ Servers specifically designed to interact with CMS platforms.
 - [r-huijts/canvas-mcp](https://github.com/r-huijts/canvas-mcp): Facilitates AI-driven management of Canvas LMS through a Model Context Protocol server, enabling seamless interaction with course data and student information.
 - [Omedia/mcp-server-drupal](https://github.com/Omedia/mcp-server-drupal): A TypeScript-based MCP server designed to integrate with the Drupal MCP module using STDIO transport.
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp): Integrates with Contentful's API to manage content, spaces, and environments with full CRUD operations and bulk processing capabilities.
+- [jonradoff/lightcms](https://github.com/jonradoff/lightcms): AI-native CMS with 41 MCP tools for managing websites through natural language. Create pages, templates, assets, themes, collections, redirects, and more with full content versioning.
 
