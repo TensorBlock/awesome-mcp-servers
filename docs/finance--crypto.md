@@ -339,5 +339,6 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [huahuayu/1scan](https://github.com/huahuayu/1scan): A unified API gateway that integrates multiple blockchain explorer APIs, enabling AI assistants to query blockchain data via MCP.
 - [Frederick-G764/brokers-mcp](https://github.com/Frederick-G764/brokers-mcp): Facilitates interaction with TradeStation's API for trading operations, including retrieving market data and managing orders and positions.
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server): Facilitates access to Coinmarket API endpoints for currency listings and token quotes via a custom URI scheme.
+- [Philidor-Labs/philidor-mcp](https://github.com/Philidor-Labs/philidor-mcp): Search 700+ DeFi vaults, compare risk scores, analyze protocol security. Multi-vector risk framework covering Morpho, Aave, Spark, Yearn, Beefy, Compound, Uniswap. Remote server — no API key needed. [mcp.philidor.io](https://mcp.philidor.io)
 - [VENTURE-AI-LABS/cryptodataapi-mcp](https://github.com/VENTURE-AI-LABS/cryptodataapi-mcp): Real-time crypto market data for AI agents — market health scores, derivatives, funding rates, ETF flows, cycle indicators, and 100+ endpoints via CryptoDataAPI.
 
