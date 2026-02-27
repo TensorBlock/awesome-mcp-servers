@@ -350,4 +350,5 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [Sunwood-ai-labs/mcp-weather-service-server](https://github.com/Sunwood-ai-labs/mcp-weather-service-server): A weather service MCP server that manages and summarizes notes using a custom URI scheme.
 - [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer): Facilitates the installation of MCP servers from npm or PyPi using Claude, streamlining server setup and deployment.
 - [hide-org/hide-mcp](https://github.com/hide-org/hide-mcp): A headless IDE MCP server featuring a text editor and persistent bash shell for file management and command execution.
+- [KGT24k/mcp-tool-search](https://github.com/KGT24k/mcp-tool-search): MCP proxy that reduces context token usage by 85-96% via lazy tool loading, replacing 50-200+ tool schemas with 4 lightweight proxy tools. Compatible with Claude Code, Claude Desktop, Cursor, and Windsurf.
 
