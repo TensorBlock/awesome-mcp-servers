@@ -387,6 +387,7 @@ Servers specifically designed to interact with CMS platforms.
 - [rakeshgangwar/freshrss-server](https://github.com/rakeshgangwar/freshrss-server): Facilitates AI interaction with FreshRSS feeds via the Fever API, enabling feed management and item retrieval.
 - [sdi2200262/eclass-mcp-server](https://github.com/sdi2200262/eclass-mcp-server): Facilitates AI agents' interaction with Open eClass by enabling authentication, course retrieval, and session management.
 - [mrwyndham/pocketbase-mcp](https://github.com/mrwyndham/pocketbase-mcp): Facilitates rapid development of PocketBase applications with advanced database operations and schema management.
+- [jonradoff/lightcms](https://github.com/jonradoff/lightcms): AI-native CMS with 41 MCP tools for managing websites through natural language. Create pages, templates, assets, themes, collections, redirects, and more with full content versioning.
 
 ## 📊 Data Analysis & Business Intelligence
 
