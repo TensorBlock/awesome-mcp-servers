@@ -175,6 +175,7 @@ Servers using tools for browser control, automation, and extracting content from
 - [sungithubid/mcp-url2markdown](https://github.com/sungithubid/mcp-url2markdown): Transforms web page content from a given URL into clean, formatted markdown using MCP server capabilities.
 - [NexusX-MCP/data-mcp-server](https://github.com/NexusX-MCP/data-mcp-server): Facilitates web scraping, data extraction, and browser automation with integration for agents like OpenAI's CUA and Anthropic's Claude.
 - [korwabs/playwright-trace-mcp](https://github.com/korwabs/playwright-trace-mcp): Enhances browser automation with Playwright by adding trace viewer and video recording capabilities, enabling LLMs to interact with web pages through structured data.
+- [bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp): Screaming Frog SEO Spider integration for crawling websites, exporting SEO data, and managing crawl storage through AI assistants.
 
 ## 🏗️ Build & Deployment Tools
 

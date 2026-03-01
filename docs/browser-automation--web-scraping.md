@@ -259,4 +259,5 @@ Servers using tools for browser control, automation, and extracting content from
 - [jakedahn/deno2-playwright-mcp-server](https://github.com/jakedahn/deno2-playwright-mcp-server): Facilitates browser automation through Playwright and Deno 2, enabling LLMs to interact with web pages in a real browser environment.
 - [Sunwood-ai-labs/duckduckgo-web-search](https://github.com/Sunwood-ai-labs/duckduckgo-web-search): A TypeScript-based MCP server for Claude Desktop that implements a simple notes system using DuckDuckGo API.
 - [blazickjp/web-browser-mcp-server](https://github.com/blazickjp/web-browser-mcp-server): Empower AI models to navigate and extract data from websites using a streamlined MCP interface with advanced content targeting and error management.
+- [bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp): Screaming Frog SEO Spider integration for crawling websites, exporting SEO data, and managing crawl storage through AI assistants.
 
