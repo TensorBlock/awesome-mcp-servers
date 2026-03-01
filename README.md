@@ -464,6 +464,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
 - [CristianCiubancan/sequentialthinking](https://github.com/CristianCiubancan/sequentialthinking): Facilitates dynamic problem-solving through structured, step-by-step thinking processes.
+- [izzzzzi/codewiki-mcp](https://github.com/izzzzzi/codewiki-mcp): MCP server for codewiki.google — search repos, fetch AI-generated wiki docs, and ask questions about any open-source repository.
 - [jkosik/mcp-server-splunk](https://github.com/jkosik/mcp-server-splunk): Facilitates seamless integration with Splunk by providing a Go-based MCP server supporting STDIO and SSE modes.
 - [twinic/Twinic-server](https://github.com/twinic/Twinic-server): Facilitates the installation and configuration of MCP servers through simple prompts, integrating with npm and PyPi.
 - [ejoyee/ej-mcp-server-gdrive](https://github.com/ejoyee/ej-mcp-server-gdrive): Integrates with Google Drive to enable file listing, reading, and searching capabilities.
