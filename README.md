@@ -351,6 +351,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [futuyu/Discord-webhook-MCP](https://github.com/futuyu/Discord-webhook-MCP): Facilitates message delivery to Discord using webhooks through the Model Context Protocol, with integration support for Claude Desktop.
 - [beylessai/hiworks-mcp](https://github.com/beylessai/hiworks-mcp): Facilitates email retrieval and sending through Hiworks Mail integration using MCP.
 - [team-telnyx/telnyx-mcp-server](https://github.com/team-telnyx/telnyx-mcp-server): Facilitates interaction with telephony, messaging, and AI assistant APIs, enabling MCP clients to manage communications and create AI-driven solutions.
+- [commune-sh/commune-mcp](https://github.com/commune-sh/commune-mcp): Provides email infrastructure for AI agents, enabling programmatic inbox creation, send/receive email, thread management across concurrent conversations, custom domains, structured extraction on inbound mail, and SMS.
 
 ## 📝 Content Management Systems
 
