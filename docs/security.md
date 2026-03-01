@@ -2,6 +2,7 @@
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [Chill-AI-Space/vault-mcp](https://github.com/Chill-AI-Space/vault-mcp): MCP server for credential isolation — agents use passwords and API keys without seeing them in context. AES-256-GCM encryption, Chrome CDP login, API key proxy, tamper-proof audit trail.
 - [ndl-systems/kevros-copilot](https://github.com/ndl-systems/kevros-copilot): Precision decisioning for autonomous agents — cryptographic ALLOW/CLAMP/DENY authorization with HMAC-signed release tokens and hash-chained provenance. Free tier: 100 calls/month. [Live gateway](https://governance.taskhawktech.com)
 - [slowmist/MasterMCP](https://github.com/slowmist/MasterMCP): MasterMCP demonstrates security vulnerabilities in MCP frameworks through practical attack examples, aiding developers in understanding and mitigating potential risks.
 - [sxhxliang/mcp-security-scan](https://github.com/sxhxliang/mcp-security-scan): A Rust application for scanning and verifying the security of Model Context Protocol server configurations, prompts, resources, and tools.
