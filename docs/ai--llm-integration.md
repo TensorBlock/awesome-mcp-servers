@@ -2,6 +2,7 @@
 
 Servers integrating with other AI models, AI platforms, RAG tools, prompt management, or agent frameworks.
 
+- [heeyo-life/skillboss-mcp](https://github.com/heeyo-life/skillboss-mcp) - One API key for 100+ AI services: Claude, GPT, Gemini, DeepSeek, image/video generation, data scraping, payments, email, and more. OpenAI-compatible. Works in Claude Code, Cursor, Windsurf.
 - [bh-rat/context-awesome](https://github.com/bh-rat/context-awesome) - MCP server for querying 8,500+ curated awesome lists (1M+ items) and fetching the best resources for your agent.
 - [spranab/brainstorm-mcp](https://github.com/spranab/brainstorm-mcp) - Multi-round AI brainstorming debates between multiple models (GPT, DeepSeek, Groq, Ollama, etc.). Pit different LLMs against each other to explore ideas from diverse perspectives.
 - [comitest22/linear-mcp](https://github.com/comitest22/linear-mcp): Facilitates interaction with the Linear API through a Model Context Protocol server, offering tools for ticket management and prioritization.
