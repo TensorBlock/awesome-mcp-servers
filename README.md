@@ -392,6 +392,8 @@ Servers specifically designed to interact with CMS platforms.
 - [mrwyndham/pocketbase-mcp](https://github.com/mrwyndham/pocketbase-mcp): Facilitates rapid development of PocketBase applications with advanced database operations and schema management.
 - [jonradoff/lightcms](https://github.com/jonradoff/lightcms): AI-native CMS with 41 MCP tools for managing websites through natural language. Create pages, templates, assets, themes, collections, redirects, and more with full content versioning.
 
+- [robot-rubik/scopeshield-mcp](https://github.com/robot-rubik/ceoclaw/tree/master/ceoclaw/scopeshield-mcp): ScopeShield MCP server for freelancer scope creep management. Helps AI agents detect client change requests, log them to a tracker, and draft professional change-order responses to protect freelance income.
+
 ## 📊 Data Analysis & Business Intelligence
 
 Servers connecting to data warehouses, data query engines, analytics platforms, or specific data APIs.
