@@ -1783,6 +1783,7 @@ Empower lifelong learners and career growth to drive innovation at your company.
 
 ### <a name="marketing"></a>Marketing
 
+ - [agentic-ads](https://github.com/nicofains1/agentic-ads) - Ad monetization SDK for MCP servers. Publishers earn 70% revenue share on contextual affiliate ads in USDC on Base.
  - [360NRS MCP Server](https://mcp.pipedream.com/app/_360nrs) - Multichannel markting: SMS marketing, email marketing, WhatsApp and interactive voice.
  - [4Dem MCP Server](https://mcp.pipedream.com/app/_4dem) - Email software marketing for your Smart emails.
  - [Abyssale MCP Server](https://mcp.pipedream.com/app/abyssale) - Generate banners for social media & online advertising in minutes – No design skills required.
