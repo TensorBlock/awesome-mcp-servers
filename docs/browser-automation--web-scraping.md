@@ -1,6 +1,8 @@
 ## 🌐 Browser Automation & Web Scraping
 
 Servers using tools for browser control, automation, and extracting content from websites.
+- [Crawlio-app/crawlio](https://github.com/Crawlio-app/crawlio): AI-powered website crawling, browser enrichment capture, and export (WARC/ZIP/single-HTML) via 38 MCP tools. Includes observation timeline, evidence-backed findings, and framework detection. Install: `npx crawlio-mcp`.
+- [Crawlio-app/crawlio](https://github.com/Crawlio-app/crawlio): 96-tool browser automation MCP server for AI agents. Screenshots, DOM inspection, network capture, form filling, cookie management, and tab orchestration via Chrome extension. Install: `npx crawlio-browser`.
 
 - [giannisalinetti/python-mcp-server](https://github.com/giannisalinetti/python-mcp-server): Facilitates Python code execution for web scraping tasks using an LLM, leveraging Podman for container management.
 - [mhazarabad/browser-use-mcp](https://github.com/mhazarabad/browser-use-mcp): Automates browser tasks using the Browser Use API, offering task management and monitoring capabilities.
