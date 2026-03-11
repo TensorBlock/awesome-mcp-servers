@@ -2,6 +2,8 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [autonsol/sol-mcp](https://github.com/autonsol/sol-mcp): Real-time Solana token risk scoring and momentum signals for AI agents. 4 tools — risk score (0–100) with rug detection, momentum signals (STRONG_BUY to STRONG_SELL), batch analysis, and combined verdict. Specifically tuned for pump.fun token launches. Remote HTTP endpoint + x402 pay-per-call via Base USDC ($0.01/call).
+
 - [Scottcjn/rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp): MCP server for the RustChain blockchain and BoTTube video platform. 15 tools for AI agents — mining attestation, wallet management, bounty hunting, video publishing. Proof-of-Antiquity consensus rewards vintage hardware (PowerPC, retro x86). Install: `pip install rustchain-mcp`
 - [HCS412/ventureautomated](https://github.com/HCS412/ventureautomated) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis): Remote venture intelligence MCP for autonomous agents with startup discovery, company scoring, monitoring, and enterprise workspace automation.
 - [0xsl1m/cerebrus-pulse-mcp](https://github.com/0xsl1m/cerebrus-pulse-mcp): Real-time crypto intelligence for Hyperliquid perpetuals — RSI, EMAs, Bollinger Bands, funding rates, and sentiment for 30+ assets. Pay-per-call via x402 micropayments (USDC on Base).
