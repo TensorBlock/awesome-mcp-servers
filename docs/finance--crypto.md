@@ -1,6 +1,7 @@
 ## 💰 Finance & Crypto
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
+- [michu5696/paycrow](https://github.com/michu5696/paycrow): Smart escrow with dispute resolution for AI agent payments on Base. 9 MCP tools — trust-informed escrow (create/release/dispute/status), composite trust scoring from 4 on-chain sources, x402-protected API calls. Only escrow on Base with real dispute resolution. USDC via x402. Install: `npx paycrow`
 
 - [Scottcjn/rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp): MCP server for the RustChain blockchain and BoTTube video platform. 15 tools for AI agents — mining attestation, wallet management, bounty hunting, video publishing. Proof-of-Antiquity consensus rewards vintage hardware (PowerPC, retro x86). Install: `pip install rustchain-mcp`
 - [HCS412/ventureautomated](https://github.com/HCS412/ventureautomated) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis): Remote venture intelligence MCP for autonomous agents with startup discovery, company scoring, monitoring, and enterprise workspace automation.
