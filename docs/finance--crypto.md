@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [berthelius/frihet-mcp](https://github.com/berthelius/frihet-mcp): AI-native business management MCP server with 31 tools for invoicing, expenses, clients, products, quotes, tax compliance (VeriFactu), and webhooks. Multi-currency (40 currencies), OCR, and Stripe Connect. Install: `npm install @frihet/mcp-server`
 - [Scottcjn/rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp): MCP server for the RustChain blockchain and BoTTube video platform. 15 tools for AI agents — mining attestation, wallet management, bounty hunting, video publishing. Proof-of-Antiquity consensus rewards vintage hardware (PowerPC, retro x86). Install: `pip install rustchain-mcp`
 - [HCS412/ventureautomated](https://github.com/HCS412/ventureautomated) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis): Remote venture intelligence MCP for autonomous agents with startup discovery, company scoring, monitoring, and enterprise workspace automation.
 - [0xsl1m/cerebrus-pulse-mcp](https://github.com/0xsl1m/cerebrus-pulse-mcp): Real-time crypto intelligence for Hyperliquid perpetuals — RSI, EMAs, Bollinger Bands, funding rates, and sentiment for 30+ assets. Pay-per-call via x402 micropayments (USDC on Base).
