@@ -372,3 +372,5 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [Kiln-AI](https://github.com/Kiln-AI/Kiln) Kiln is a free tool for building production-ready AI systems. It supports RAG pipelines, evaluations, agents, MCP tool-calling, synthetic data generation, and fine-tuning.
 - [izzzzzi/codewiki-mcp](https://github.com/izzzzzi/codewiki-mcp): MCP server for codewiki.google — AI-powered wiki documentation for open-source repositories. Search repos, fetch wiki content, and ask questions about any repo.
 
+- [Docat0209/mcp-openapi](https://github.com/Docat0209/mcp-openapi): Converts any OpenAPI/Swagger spec into MCP tools with zero config. Supports Swagger 2.0, flat parameter schemas for better LLM understanding, built-in auth, and smart response truncation.
+- [Docat0209/mcp-graphql](https://github.com/Docat0209/mcp-graphql): Converts any GraphQL API into MCP tools via auto-introspection with zero config. Features flat parameter schemas, smart truncation, and retry logic.
