@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [coinpaprika/dexpaprika-mcp](https://github.com/coinpaprika/dexpaprika-mcp): Real-time DEX and DeFi data across all blockchains for AI agents. Pools, tokens, trades, OHLCV, and network data. Free, no API key, no rate limits. Install: `npx dexpaprika-mcp`
 - [reservoirprotocol/relay-mcp](https://github.com/reservoirprotocol/relay-mcp): Cross-chain bridge and swap quotes, fee estimation, and transaction tracking via Relay Protocol. 8 tools for AI agents — supported chains/tokens discovery, bridge and swap quotes, fee estimation, transaction status and history, and deep links to the Relay app. Install: `npm i -g @relayprotocol/relay-mcp`
 - [Scottcjn/rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp): MCP server for the RustChain blockchain and BoTTube video platform. 15 tools for AI agents — mining attestation, wallet management, bounty hunting, video publishing. Proof-of-Antiquity consensus rewards vintage hardware (PowerPC, retro x86). Install: `pip install rustchain-mcp`
 - [HCS412/ventureautomated](https://github.com/HCS412/ventureautomated) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis): Remote venture intelligence MCP for autonomous agents with startup discovery, company scoring, monitoring, and enterprise workspace automation.
