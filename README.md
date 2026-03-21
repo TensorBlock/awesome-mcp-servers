@@ -860,6 +860,7 @@ Servers using mapping APIs, providing geolocation services, address lookups, or 
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [sharozdawa/content-optimizer](https://github.com/sharozdawa/content-optimizer): Open source Surfer SEO alternative with SERP-based content scoring across 7 categories, entity analysis, heading optimization, and readability scoring.
 - [edupoli/zapdelivery](https://github.com/edupoli/zapdelivery): ZapDelivery API facilitates self-service delivery projects with an integrated MCP endpoint for seamless operations.
 - [Meerkats-Ai/rocketreach-mcp-server](https://github.com/Meerkats-Ai/rocketreach-mcp-server): Integrates with RocketReach API to provide email, phone number finding, and company enrichment capabilities.
 - [Meerkats-Ai/prospeo-mcp-server](https://github.com/Meerkats-Ai/prospeo-mcp-server): Integrates with the Prospeo API to provide email finding and LinkedIn profile enrichment capabilities.
