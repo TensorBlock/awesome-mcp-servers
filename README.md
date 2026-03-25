@@ -520,6 +520,7 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [Dave-London/Pare](https://github.com/Dave-London/Pare): Suite of 16 MCP servers wrapping 240+ CLI developer tools (git, npm, Docker, test runners, build tools, linters, Python, Cargo, Go, GitHub, K8s) with structured JSON output via `outputSchema` + `structuredContent`. Up to 92% fewer tokens vs raw CLI output. MIT licensed, 1,850+ tests.
 - [rm-rf-prod/GroundTruth-MCP](https://github.com/rm-rf-prod/GroundTruth-MCP): Self-hosted MCP server for live documentation, code audits, and best practices. 363+ curated libraries with npm/PyPI/crates.io/Go fallback, 100+ audit patterns across 18 categories with file:line locations and live fixes. No rate limits.
 
+- [mcp-lint](https://github.com/robert19001-cmyk/mcp-lint): CLI linting tool that validates MCP server tool schemas for cross-client compatibility across Claude, Cursor, Gemini, and VS Code Copilot. Features 13 rules, auto-fix for safe issues, JSON/Markdown output, and support for static files and live MCP servers via stdio/SSE.
 ## 📁 Filesystems
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
