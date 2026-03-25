@@ -294,6 +294,7 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [BangNGH/github-code-index-mcp-server](https://github.com/BangNGH/github-code-index-mcp-server): Facilitates code indexing, searching, and analysis for large language models across multiple programming languages.
 - [CodeLogicIncEngineering/codelogic-mcp-server](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server): Leverage Codelogic's software dependency data for impact assessments in AI programming assistants.
 - [autonomous-testing/wopee-mcp](https://github.com/autonomous-testing/wopee-mcp): AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
+- [WildRun MCP Validator](https://wildrunai.com/api/mcp): Validates MCP tool definitions for quality and spec compliance with 9 checks: naming conventions, descriptions, inputSchema, parameter descriptions, annotations, output schemas, and destructive tool detection. Available as MCP server, [web UI](https://wildrunai.com/tools/mcp-validator), REST API, and [GitHub Action](https://github.com/thomwseo/mcp-validate-action).
 
 ## 💻 Code Execution
 
