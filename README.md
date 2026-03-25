@@ -1299,6 +1299,7 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [trutohq/truto-mcp-stdio](https://github.com/trutohq/truto-mcp-stdio): A command-line interface proxy facilitating communication between JSON-RPC messages and HTTP Streamable MCP servers.
 - [veithly/ipfs-uploader](https://github.com/veithly/ipfs-uploader): A TypeScript-based MCP server for uploading images to IPFS, featuring a simple notes system with text note creation and summarization tools.
 - [OpenSourceGuru776/consist](https://github.com/OpenSourceGuru776/consist): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
+- [useful-ai/useful-ai-mcp](https://github.com/useful-ai/useful-ai-mcp): Dynamic MCP server with 100+ autonomously-built utilities (unit conversion, text processing, data parsing, math). No auth required. New tools added continuously via automated build pipeline.
 
 - [IteraTools](https://api.iteratools.com): Cloud-hosted multi-tool MCP API providing 34+ capabilities through a single endpoint: image generation (Flux), web scraping, TTS, OCR, browser automation, sandboxed code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and more. Pay-per-use with x402 micropayment protocol.
 
