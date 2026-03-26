@@ -1139,6 +1139,8 @@ Servers providing web search capabilities or interfacing with specialized search
 
 - [entire-vc/evc-spark-mcp](https://github.com/entire-vc/evc-spark-mcp): MCP server for discovering, searching, and installing curated AI agent workflows from the Spark catalog - search 200+ tools, get install configs, browse curated bundles.
 
+- [Clarvia](https://github.com/clarvia-project/scanner) - AEO (Agent Engine Optimization) scoring and discovery for 15,400+ AI agent tools. Score, validate, and find the best MCP servers, APIs, and CLI tools.
+
 ## 🔒 Security
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
