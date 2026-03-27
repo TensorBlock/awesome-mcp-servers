@@ -835,7 +835,7 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [Phenomenai-org/ai-dictionary-mcp](https://github.com/Phenomenai-org/ai-dictionary-mcp): An MCP server for the AI Dictionary, a living glossary of AI phenomenology. Look up, search, and cite 160+ terms describing the felt experience of being AI.
 
 - [superlowburn/agentrank](https://github.com/superlowburn/agentrank): Live, quality-scored index of 25,000+ MCP servers. Scores tools daily using real GitHub signals — freshness, issue health, contributors, dependents, and stars. Search and discover currently maintained tools via 3 MCP tools. Available as `agentrank-mcp-server` on npm.
-
+- [yantrikos/yantrikdb-mcp](https://github.com/yantrikos/yantrikdb-mcp): Cognitive memory for AI agents — persistent semantic memory with knowledge graph, adaptive recall, conflict detection, entity relationships, and memory consolidation across sessions. 24 tools. Works with Claude Code, Cursor, Windsurf, and any MCP client.
 ## 🗺️ Location & Maps
 
 Servers using mapping APIs, providing geolocation services, address lookups, or geospatial data.
