@@ -440,6 +440,7 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [roastedculti/metoro-mcp-server](https://github.com/roastedculti/metoro-mcp-server): Facilitates interaction with Kubernetes clusters through the Claude Desktop App by leveraging the Model Context Protocol.
 - [cheukyin175/metabase-mcp](https://github.com/cheukyin175/metabase-mcp): Facilitates seamless integration of AI assistants with Metabase analytics, enabling direct interaction with analytics data via MCP capabilities.
 - [Strale](https://strale.dev) - 250+ quality-scored capabilities for AI agents: company data across 27 countries, compliance checks (KYB, AML, sanctions, GDPR), financial validation, web intelligence, document extraction, developer tools, and data processing. Every capability independently tested with Strale Quality Score (SQS). Free tier available.
+- [africa-api/africa-api-mcp](https://github.com/africa-api/africa-api-mcp): Access structured data on all 54 African countries — 40 tools covering indicators, markets, trade, government, elections, and policies.
 
 ## 🗄️ Databases
 
