@@ -624,6 +624,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers, tools, and resources for HTTP-native cryptocurrency payments using USDC on Base, Arbitrum, and other EVM chains.
 - [arcadia-finance/mcp-server](https://github.com/arcadia-finance/mcp-server): Manage Uniswap and Aerodrome liquidity positions with leverage, tomated rebalancing, and yield optimization on Base and Unichain.
 - [whitmorelabs/polymarket-mcp](https://github.com/whitmorelabs/polymarket-mcp): Trading intelligence tools for Polymarket prediction markets: slippage estimation, liquidity depth scanning, arbitrage detection, multi-source price feeds, and on-chain wallet intelligence.
+- [FinancialData.Net MCP Server](https://financialdata.net/mcp-server) - Get real-time stock prices, fundamentals, institutional trading insights, and other financial data delivered through a universal Model Context Protocol (MCP) server.
 
 ## 🧰 Frameworks
 
