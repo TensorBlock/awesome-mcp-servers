@@ -155,6 +155,7 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 Servers using tools for browser control, automation, and extracting content from websites.
 
 - [giannisalinetti/python-mcp-server](https://github.com/giannisalinetti/python-mcp-server): Facilitates Python code execution for web scraping tasks using an LLM, leveraging Podman for container management.
+- [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs): Plugin-based MCP server that gives AI agents access to web applications through the user's authenticated browser session. Chrome extension with 100+ plugins for Slack, Discord, GitHub, Reddit, and more.
 - [mhazarabad/browser-use-mcp](https://github.com/mhazarabad/browser-use-mcp): Automates browser tasks using the Browser Use API, offering task management and monitoring capabilities.
 - [1999AZZAR/mcp-server-google-search](https://github.com/1999AZZAR/mcp-server-google-search): Facilitates Google Programmable Search Engine queries through a structured MCP server interface, enhancing integration with Claude Desktop.
 - [luminati-io/web-scraping-with-mcp](https://github.com/luminati-io/web-scraping-with-mcp): Connects Anthropic LLMs to external web scraping tools using Bright Data integration for real-world data extraction.
