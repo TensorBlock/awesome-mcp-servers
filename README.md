@@ -849,6 +849,7 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [entire-vc/evc-team-relay-mcp](https://github.com/entire-vc/evc-team-relay-mcp): Give AI agents read/write access to your Obsidian vault via a collaborative Team Relay MCP server
 - [Phenomenai-org/ai-dictionary-mcp](https://github.com/Phenomenai-org/ai-dictionary-mcp): An MCP server for the AI Dictionary, a living glossary of AI phenomenology. Look up, search, and cite 160+ terms describing the felt experience of being AI.
 
+- [blackpilledsoftware-prog/migas-mcp](https://github.com/blackpilledsoftware-prog/migas-mcp): Query local meeting transcripts from Migas, a macOS meeting copilot with on-device transcription and realtime speaker labels. Search across meetings, get full transcripts, and find what anyone said. Read-only, local SQLite.
 - [superlowburn/agentrank](https://github.com/superlowburn/agentrank): Live, quality-scored index of 25,000+ MCP servers. Scores tools daily using real GitHub signals — freshness, issue health, contributors, dependents, and stars. Search and discover currently maintained tools via 3 MCP tools. Available as `agentrank-mcp-server` on npm.
 - [wazionapps/nexo](https://github.com/wazionapps/nexo): Cognitive memory architecture for Claude Code. Implements Atkinson-Shiffrin memory model, Ebbinghaus forgetting curves, semantic RAG with knowledge graph, trust scoring, and metacognitive error prevention. 100+ MCP tools. Install via `npx nexo-brain init`.
 
