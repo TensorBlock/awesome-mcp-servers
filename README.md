@@ -584,6 +584,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [agentc22/x402engine-mcp](https://github.com/agentc22/x402engine-mcp): 51 pay-per-call APIs for AI agents — 23 LLMs (GPT-5.2, GPT-4o, Claude, Gemini, Grok, DeepSeek, Llama, Mistral, Qwen, Perplexity, Kimi, MiniMax, GLM, Devstral), image/video generation, code execution, TTS, transcription, embeddings, crypto data, wallet analytics, ENS, tx simulation, web scraping, and IPFS via HTTP 402 micropayments with USDC on Base/Solana and USDm on MegaETH.
 - [fernikolic/clawdentials](https://github.com/fernikolic/clawdentials): Trust layer for agent commerce with escrow, reputation, and payments. Enables AI agents to accept paid tasks with guaranteed payment, build verifiable reputation, and earn money in USDC, USDT, or BTC.
 - [ahmetsbilgin/finbrain-mcp](https://github.com/ahmetsbilgin/finbrain-mcp): Access institutional-grade alternative financial data directly in your LLM workflows.
+- [PreReason/mcp](https://github.com/PreReason/mcp): Pre-analyzed financial market briefings for AI agents. Returns trend signals, regime classification, and confidence scores instead of raw price feeds. 17 briefings covering BTC, macro, and cross-asset data. Markdown-first output, also available via REST API and x402 pay-per-call.
 - [ccassini/DEVNADS-Monad-TESNET-MCP-Tools](https://github.com/ccassini/DEVNADS-Monad-TESNET-MCP-Tools): Interact with the Monad blockchain testnet using a Model Context Protocol server for wallet management, network insights, and token operations.
 - [SheriffOladejo/mcp-monad](https://github.com/SheriffOladejo/mcp-monad): Facilitates querying MON token balances on the Monad testnet via an MCP server.
 - [letsbonk-ai/bonk-mcp](https://github.com/letsbonk-ai/bonk-mcp): Facilitates token launching and trading on the LetsBonk platform using Solana blockchain capabilities.
@@ -625,6 +626,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [arcadia-finance/mcp-server](https://github.com/arcadia-finance/mcp-server): Manage Uniswap and Aerodrome liquidity positions with leverage, tomated rebalancing, and yield optimization on Base and Unichain.
 - [whitmorelabs/polymarket-mcp](https://github.com/whitmorelabs/polymarket-mcp): Trading intelligence tools for Polymarket prediction markets: slippage estimation, liquidity depth scanning, arbitrage detection, multi-source price feeds, and on-chain wallet intelligence.
 - [FinancialData.Net MCP Server](https://financialdata.net/mcp-server) - Get real-time stock prices, fundamentals, institutional trading insights, and other financial data delivered through a universal Model Context Protocol (MCP) server.
+- [Veroq-api/veroq-mcp](https://github.com/Veroq-api/veroq-mcp): Financial intelligence MCP server with 52 tools for verified market data, trading signals, sentiment analysis, and fact-checking across 1,061+ tickers (equities, crypto, ETFs, commodities, indices). Multi-provider architecture with failover. Install via `npx veroq-mcp`.
 
 ## 🧰 Frameworks
 
@@ -1138,6 +1140,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [jindasy/mcp-news](https://github.com/jindasy/mcp-news): Facilitates news article retrieval through a FastMCP server utilizing NewsAPI.org for keyword, date range, and source-based searches.
 - [jmchat/mcp-search-console-ts](https://github.com/jmchat/mcp-search-console-ts): Manage Google Search Console properties, sitemaps, and search analytics via a Model Context Protocol server.
 - [OEvortex/ddg_search](https://github.com/OEvortex/ddg_search): A privacy-focused MCP server that leverages DuckDuckGo for efficient web search and URL content extraction.
+- [wd041216-bit/cross-validated-search](https://github.com/wd041216-bit/cross-validated-search): Evidence-aware search, page reading, and claim verification for AI agents with CLI, MCP, and skill surfaces for Gemini, Claude Code, Manus, and OpenClaw.
 - [BochaAI/bocha-search-mcp](https://github.com/BochaAI/bocha-search-mcp): Bocha Search MCP Server empowers AI applications with high-quality knowledge from billions of web pages and diverse content sources, enhancing search capabilities across multiple domains.
 - [nitish-raj/searxng-mcp-bridge](https://github.com/nitish-raj/searxng-mcp-bridge): Facilitates search operations by bridging MCP clients with a SearxNG instance.
 - [mytechnotalent/RAG_MCP](https://github.com/mytechnotalent/RAG_MCP): A semantic PDF search server utilizing OCR, FAISS, and transformers for intelligent query responses.
@@ -1163,6 +1166,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack): Open-source supply chain for AI agents — search and discover 3,000+ indie creations across 25 categories. 15 MCP tools including find_tools, build_stack, scan_project, compare_tools, and analyze_dependencies. Install via `uvx --from indiestack indiestack-mcp`.
 
 - [entire-vc/evc-spark-mcp](https://github.com/entire-vc/evc-spark-mcp): MCP server for discovering, searching, and installing curated AI agent workflows from the Spark catalog - search 200+ tools, get install configs, browse curated bundles.
+- [Nadeus/toolradar-mcp](https://github.com/Nadeus/toolradar-mcp): Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, and real alternatives.
 
 ## 🔒 Security
 
@@ -1199,6 +1203,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [javaDer/mcp-sentry-custom](https://github.com/javaDer/mcp-sentry-custom): Facilitates the retrieval and analysis of issues from Sentry, providing detailed insights into error reports and debugging information.
 - [auth0/auth0-mcp-server](https://github.com/auth0/auth0-mcp-server): Facilitates natural language-driven management of Auth0 operations through integration with LLMs and AI agents.
 - [bornpresident/MISP-MCP-SERVER](https://github.com/bornpresident/MISP-MCP-SERVER): Integrates with MISP to enhance threat intelligence capabilities for Large Language Models.
+- [bottobot/defense-mcp-server](https://github.com/bottobot/defense-mcp-server): 31 defensive security tools with 250+ actions for Linux system hardening, compliance auditing, firewall management, vulnerability scanning, and incident response. Dry-run by default.
 - [JithukrishnanV/MCP-CyberAgent](https://github.com/JithukrishnanV/MCP-CyberAgent): MCP-CyberAgent connects Claude Desktop with cybersecurity tools like VirusTotal, Nmap, and Shodan for AI-driven threat detection and network analysis.
 - [gleicon/mcp-osv](https://github.com/gleicon/mcp-osv): Facilitates code security reviews by integrating with OSV.dev and AI models to identify vulnerabilities.
 - [enkryptai/enkryptai-mcp-server](https://github.com/enkryptai/enkryptai-mcp-server): Integrate red-teaming, prompt auditing, and AI safety analysis into any MCP-compatible client with Enkrypt AI MCP Server.
