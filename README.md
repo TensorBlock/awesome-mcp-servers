@@ -1340,6 +1340,7 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [OpenSourceGuru776/consist](https://github.com/OpenSourceGuru776/consist): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 
 - [IteraTools](https://api.iteratools.com): Cloud-hosted multi-tool MCP API providing 34+ capabilities through a single endpoint: image generation (Flux), web scraping, TTS, OCR, browser automation, sandboxed code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and more. Pay-per-use with x402 micropayment protocol.
+- [COSAI-Labs/ToolPipe](https://github.com/COSAI-Labs/make-money-30day-challenge/tree/master/products/mcp-server): 88 developer utility tools accessible via MCP, including JSON/XML/YAML formatting, QR codes, PDF tools, hashing, UUID generation, DNS lookup, regex testing, JWT decode, crypto prices, web scraping, SQL formatting, Base64, and 70+ more. Install with `npx @cosai-labs/toolpipe-mcp-server`. Free tier (100 calls/day).
 
 ## 🔄 Version Control
 
