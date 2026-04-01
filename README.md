@@ -1251,6 +1251,3 @@ Servers interacting with version control systems and platforms for repository ma
 - [KarakuriAgent/karakuri_git_mcp](https://github.com/KarakuriAgent/karakuri_git_mcp): Facilitates Git repository interaction and automation through a Model Context Protocol server, enabling operations like reading, searching, and manipulating repositories via Large Language Models.
 - [kwanLeeFrmVi/mcp-git](https://github.com/kwanLeeFrmVi/mcp-git): Facilitates Git repository interaction and automation through a Model Context Protocol server, enabling operations like reading, searching, and manipulating repositories via Large Language Models.
 - [rahul-roy-glean/github-mcp-server](https://github.com/rahul-roy-glean/github-mcp-server): Facilitates seamless integration with GitHub's API for file operations, repository management, and search functionalities within CI workflows.
-
-
-
