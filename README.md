@@ -1309,6 +1309,7 @@ Servers providing data or services related to flights, trains, transportation AP
 - [COSAI-Labs/toolpipe-mcp-server](https://github.com/COSAI-Labs/make-money-30day-challenge/tree/master/products/mcp-server): 112+ developer utility APIs (JSON, PDF, QR, hash, UUID, DNS, regex, JWT, crypto prices, web scraping, code analysis) accessible to AI agents via MCP. Install with `npx -y @cosai-labs/toolpipe-mcp-server`.
 Servers providing simple, general-purpose tools like time/date information, calculators, dice rollers, formatters, unit converters, UUID generation, etc.
 
+- [COSAI-Labs/ToolPipe](https://github.com/COSAI-Labs/make-money-30day-challenge): MCP server with 112+ developer utility tools for JSON formatting, PDF generation, QR codes, hash computation, UUID generation, DNS lookup, regex testing, JWT decoding, IP geolocation, and more.
 - [FlatFilers/mcp-server-flatfile](https://github.com/FlatFilers/mcp-server-flatfile): Facilitates interaction with the Flatfile API through a customizable MCP server, enabling streamlined data management and integration.
 - [Nozomuts/date-mcp](https://github.com/Nozomuts/date-mcp): Provides current date and time in specified formats and timezones via a simple MCP server.
 - [BrightLin/mcp-server-port-cleaner](https://github.com/BrightLin/mcp-server-port-cleaner): Node.js server for resolving port conflicts by terminating processes occupying specified ports, ensuring smooth development workflows.
