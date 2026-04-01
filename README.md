@@ -488,6 +488,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [cafeTechne/antigravity-link-extension](https://github.com/cafeTechne/antigravity-link-extension): MCP server + OpenAPI API to control Antigravity IDE instances (snapshot, send, stop generation, switch instance, task/walkthrough/plan retrieval) with a mobile companion UI.
 - [rendoc](https://github.com/yoryocoruxo-ai/rendoc) - Generate professional PDF documents from HTML templates and dynamic data via MCP. Features template management, live preview, and usage tracking through rendoc.dev API.
 - [CristianCiubancan/sequentialthinking](https://github.com/CristianCiubancan/sequentialthinking): Facilitates dynamic problem-solving through structured, step-by-step thinking processes.
 - [hyperpolymath/boj-server](https://github.com/hyperpolymath/boj-server): Unified MCP server with 40+ tools covering GitHub, GitLab, Cloudflare, Vercel, Gmail, Calendar, browser automation, research, ML, and 50+ pluggable cartridges for extensible developer workflows.
