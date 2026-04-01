@@ -1306,6 +1306,7 @@ Servers providing data or services related to flights, trains, transportation AP
 
 ## 🔧 Utilities & Helpers
 
+- [COSAI-Labs/toolpipe-mcp-server](https://github.com/COSAI-Labs/make-money-30day-challenge/tree/master/products/mcp-server): 112+ developer utility APIs (JSON, PDF, QR, hash, UUID, DNS, regex, JWT, crypto prices, web scraping, code analysis) accessible to AI agents via MCP. Install with `npx -y @cosai-labs/toolpipe-mcp-server`.
 Servers providing simple, general-purpose tools like time/date information, calculators, dice rollers, formatters, unit converters, UUID generation, etc.
 
 - [FlatFilers/mcp-server-flatfile](https://github.com/FlatFilers/mcp-server-flatfile): Facilitates interaction with the Flatfile API through a customizable MCP server, enabling streamlined data management and integration.
