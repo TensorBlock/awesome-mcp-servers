@@ -820,6 +820,7 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [yantrikos/yantrikdb-mcp](https://github.com/yantrikos/yantrikdb-mcp): Cognitive memory for AI agents — persistent semantic memory with knowledge graph, adaptive recall, conflict detection, entity relationships, and memory consolidation across sessions. 24 tools. Works with Claude Code, Cursor, Windsurf, and any MCP client.
 - [Evanyuan-builder/memory-core](https://github.com/Evanyuan-builder/memory-core): Unified memory layer for AI agents and teams. Provides semantic search, temporal fact tracking (Graphiti/FalkorDB), and shared memory via REST API, Python SDK, and MCP server. Supports local Ollama — no cloud API key required.
 - [GuyMannDude/mnemo-cortex](https://github.com/GuyMannDude/mnemo-cortex): Persistent cross-agent semantic memory for AI agents (v2.0). Privacy-first share switch (separate/always/never + per-session toggle). Multi-agent with isolated writes and privacy-controlled reads. Local-first SQLite + FTS5, zero-cost compaction via local Ollama. Three integration paths: Claude Code, Claude Desktop, and OpenClaw MCP.
 - [Bpolat0/atlasmemory](https://github.com/Bpolat0/atlasmemory): Evidence-backed AI memory for codebases. Tree-sitter indexing (11 languages), proof system with line:hash anchors, token-budgeted context packs, drift detection, cross-session learning. 28 MCP tools, VS Code extension, zero config.
