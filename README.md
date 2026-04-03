@@ -901,6 +901,7 @@ Servers using mapping APIs, providing geolocation services, address lookups, or 
 ## 📈 Marketing, Sales & CRM
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
+- [SigParser](https://www.sigparser.com) - Email contact extraction, relationship warmth scoring, and CRM enrichment from email signatures and calendar data. Includes an MCP server for AI-powered access to contact, company, and relationship data. Syncs to Salesforce, HubSpot, and Dynamics.
 
 - [sharozdawa/ai-visibility](https://github.com/sharozdawa/ai-visibility): Track brand visibility across ChatGPT, Perplexity, Claude, and Gemini with visibility scores, sentiment analysis, and competitor detection.
 - [sharozdawa/indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp): Instant URL indexing via IndexNow (Bing, Yandex, Naver, Seznam) and Google Indexing API with sitemap parsing and key generation.
