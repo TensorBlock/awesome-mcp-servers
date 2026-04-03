@@ -232,3 +232,4 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [ruchernchong/mcp-server-google-analytics](https://github.com/ruchernchong/mcp-server-google-analytics): Facilitates the retrieval and analysis of Google Analytics 4 data through a Model Context Protocol server, enhancing LLM capabilities.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird): Facilitates interaction with Tinybird Workspaces, enabling data querying and management through MCP clients.
 
+- [Whatsonyourmind/oraclaw](https://github.com/Whatsonyourmind/oraclaw): Decision intelligence for AI agents — 19 algorithms (bandits, constraint solvers, Monte Carlo simulation, forecasting, anomaly detection, risk analysis), 12 MCP tools, sub-25ms, zero LLM cost. Install: `npx @oraclaw/mcp-server`.
