@@ -417,6 +417,7 @@ Servers specifically designed to interact with CMS platforms.
 
 Servers connecting to data warehouses, data query engines, analytics platforms, or specific data APIs.
 
+- [feriadosapi/mcp-server](https://mcp.feriadosapi.com): Brazilian holidays MCP server covering 5,570+ municipalities, 27 states, and national holidays. Returns holiday data by date, state, or city (IBGE code). Website: https://feriadosapi.com
 - [rotatingshov/go-mcp-mysql](https://github.com/rotatingshov/go-mcp-mysql): Effortlessly manage MySQL databases with a Go-based MCP server, offering CRUD operations and automation without the need for Node.js or Python.
 - [datafe/maxcompute-mcp-server](https://github.com/datafe/maxcompute-mcp-server): Facilitates data querying and schema management on Alibaba Cloud's MaxCompute platform using MCP protocol.
 - [atcol/glue-mcp](https://github.com/atcol/glue-mcp): Facilitates interaction with AWS Glue Data Catalog through a model context protocol server.
