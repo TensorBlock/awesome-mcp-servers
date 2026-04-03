@@ -2,6 +2,7 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [uAI-solana/useful-ai-mcp](https://github.com/uAI-solana/useful-ai-mcp): Fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data. Dispatch tasks in plain English, get structured output. No auth required. `https://api.usefulai.fun/mcp`
 - [CristianCiubancan/sequentialthinking](https://github.com/CristianCiubancan/sequentialthinking): Facilitates dynamic problem-solving through structured, step-by-step thinking processes.
 - [hyperpolymath/boj-server](https://github.com/hyperpolymath/boj-server): Unified MCP server with 40+ tools covering GitHub, GitLab, Cloudflare, Vercel, Gmail, Calendar, browser automation, research, ML, and 50+ pluggable cartridges for extensible developer workflows.
 - [jkosik/mcp-server-splunk](https://github.com/jkosik/mcp-server-splunk): Facilitates seamless integration with Splunk by providing a Go-based MCP server supporting STDIO and SSE modes.
