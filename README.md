@@ -1235,6 +1235,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 
 Servers interacting with social networks, content platforms, or feed aggregators.
 
+- [socialneuron/mcp-server](https://github.com/socialneuron/mcp-server): 64 MCP tools for end-to-end social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning. Supports YouTube, Instagram, TikTok.
 - [NexusX-MCP/integrate-mcp-server](https://github.com/NexusX-MCP/integrate-mcp-server): An extensible server providing standardized access to social and onchain data, supporting platforms like Farcaster with plans for Twitter integration.
 - [sriramsowmithri9807/MCP_X](https://github.com/sriramsowmithri9807/MCP_X): Facilitates AI model interactions with Twitter/X API through a standardized MCP interface, enabling tweet management and data retrieval.
 - [Arindam200/devto-mcp](https://github.com/Arindam200/devto-mcp): Enables AI assistants to interact with Dev.to content, offering features like fetching, searching, and managing articles.
