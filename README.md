@@ -1309,6 +1309,7 @@ Servers providing data or services related to flights, trains, transportation AP
 - [jason-tan-swe/railway-mcp](https://github.com/jason-tan-swe/railway-mcp): Facilitates seamless integration with Railway.app, enabling natural language management of deployments, services, and variables.
 - [arjunkmrm/mcp-sg-lta](https://github.com/arjunkmrm/mcp-sg-lta): Provides real-time transportation data from Singapore's LTA DataMall API, including bus arrivals, train alerts, and traffic incidents.
 - [lumile/lumbretravel-mcp](https://github.com/lumile/lumbretravel-mcp): Facilitates seamless integration with the LumbreTravel API for managing travel programs and activities.
+- [ticketlens/ticketlens-experiences-mcp](https://github.com/ticketlens/ticketlens-experiences-mcp): Official remote MCP and REST API for destination experiences, including tours, attraction tickets, sports tickets, and events.
 - [MariyaFilippova/mcp-strava](https://github.com/MariyaFilippova/mcp-strava): Facilitates seamless integration between Strava APIs and Claude for Desktop, enabling efficient interaction with Strava activity data.
 
 ## 🔧 Utilities & Helpers

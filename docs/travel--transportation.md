@@ -32,6 +32,7 @@ Servers providing data or services related to flights, trains, transportation AP
 - [jason-tan-swe/railway-mcp](https://github.com/jason-tan-swe/railway-mcp): Facilitates seamless integration with Railway.app, enabling natural language management of deployments, services, and variables.
 - [arjunkmrm/mcp-sg-lta](https://github.com/arjunkmrm/mcp-sg-lta): Provides real-time transportation data from Singapore's LTA DataMall API, including bus arrivals, train alerts, and traffic incidents.
 - [lumile/lumbretravel-mcp](https://github.com/lumile/lumbretravel-mcp): Facilitates seamless integration with the LumbreTravel API for managing travel programs and activities.
+- [ticketlens/ticketlens-experiences-mcp](https://github.com/ticketlens/ticketlens-experiences-mcp): Official remote MCP and REST API for destination experiences, including tours, attraction tickets, sports tickets, and events.
 - [MariyaFilippova/mcp-strava](https://github.com/MariyaFilippova/mcp-strava): Facilitates seamless integration between Strava APIs and Claude for Desktop, enabling efficient interaction with Strava activity data.
 - [ben4mn/amadeus-mcp](https://github.com/ben4mn/amadeus-mcp): Integrates Amadeus flight search capabilities with Claude Desktop for seamless travel planning.
 - [sarunasdaujotis/vilnius-transport-mcp-server](https://github.com/sarunasdaujotis/vilnius-transport-mcp-server): Enables LLMs to access real-time Vilnius public transport data for enhanced query responses.
@@ -39,4 +40,3 @@ Servers providing data or services related to flights, trains, transportation AP
 - [GongRzhe/TRAVEL-PLANNER-MCP-Server](https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server): Facilitates travel-related tasks by integrating with Google Maps for location search, place details, and route calculations.
 - [sunsetcoder/flightradar24-mcp-server](https://github.com/sunsetcoder/flightradar24-mcp-server): Track flights in real-time using Flightradar24 data with this Claude Desktop MCP server, ideal for aviation enthusiasts and travel planners.
 - [r-huijts/ns-mcp-server](https://github.com/r-huijts/ns-mcp-server): Connects Claude AI to real-time Dutch Railways travel information, enabling seamless access to train schedules, disruptions, and pricing through the official NS API.
-
