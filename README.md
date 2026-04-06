@@ -20,6 +20,7 @@ A comprehensive, community-curated collection of [Model Context Protocol (MCP)](
 
 > **What is MCP?** The Model Context Protocol is an open standard that lets AI models securely connect to external tools, APIs, databases, and filesystems. Think of it as a USB-C port for AI — a universal interface that any model can use to interact with the world.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 specialized AI agent system prompts for Claude Code leveraging MCP servers for multi-agent orchestration. MIT licensed.
 ## Coverage
 
 This repo currently includes coverage for **7260 MCP servers as of May 30, 2025**. Due to the limited space, we only show the most recent 30 servers in each category.
