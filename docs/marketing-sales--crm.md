@@ -151,4 +151,4 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server): Facilitates user context management through Apache Unomi's profile system, enabling seamless integration with Claude Desktop.
 - [Alec2435/amazon-fresh-server](https://github.com/Alec2435/amazon-fresh-server): A TypeScript-based MCP server implementing a notes system with resources, tools, and prompts for note management and summarization.
 - [Offorte Proposal Software](https://github.com/offorte/offorte-mcp-server): The Offorte Proposal Software MCP server enables creation and sending of business proposals.
-
+- [SigParser](https://ipaas.sigparser.com/api/mcp): Email contact extraction, relationship warmth scoring, and CRM enrichment from email signatures and calendar data. MCP server providing AI-powered access to contact, company, and relationship data. Syncs to Salesforce, HubSpot, and Dynamics.
