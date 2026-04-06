@@ -1017,6 +1017,7 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [intsig-textin/textin-mcp](https://github.com/intsig-textin/textin-mcp): TextIn MCP Server facilitates text extraction and OCR on documents, supporting recognition and conversion to Markdown format.
 - [PixVerseAI/PixVerse-MCP](https://github.com/PixVerseAI/PixVerse-MCP): Enables seamless interaction with PixVerse's AI video generation models through applications supporting the Model Context Protocol.
 - [falahgs/mcp-minimax-music-server](https://github.com/falahgs/mcp-minimax-music-server): Facilitates AI-driven music and audio content creation through the MiniMax Music API, seamlessly integrating with Claude Desktop.
+- [iterationlayer/mcp](https://github.com/iterationlayer/mcp): Document extraction, image transformation, programmatic image generation, document generation, and sheet generation via composable APIs with OAuth 2.1 authentication.
 - [morim3/mcp_adobe_premiere](https://github.com/morim3/mcp_adobe_premiere): Facilitates LLM control over Adobe Premiere Pro via an MCP server and UXP plugin integration.
 - [savethepolarbears/google-photos-mcp](https://github.com/savethepolarbears/google-photos-mcp): Facilitates AI assistants' access to Google Photos, enabling photo search and retrieval by content, date, and location.
 - [luebken/playlist-mcp](https://github.com/luebken/playlist-mcp): Provides access to YouTube playlist transcripts via an experimental MCP server, with initial support for KubeCon London 2025 content.
