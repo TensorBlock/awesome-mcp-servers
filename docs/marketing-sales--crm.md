@@ -2,6 +2,7 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [SWOTPal](https://github.com/aprilelevengo/swotpal-mcp-server): Generate SWOT analyses, competitive comparisons, and browse 100+ pre-built industry examples for any company or topic. Supports 12 languages.
 - [edupoli/zapdelivery](https://github.com/edupoli/zapdelivery): ZapDelivery API facilitates self-service delivery projects with an integrated MCP endpoint for seamless operations.
 - [Meerkats-Ai/rocketreach-mcp-server](https://github.com/Meerkats-Ai/rocketreach-mcp-server): Integrates with RocketReach API to provide email, phone number finding, and company enrichment capabilities.
 - [Meerkats-Ai/prospeo-mcp-server](https://github.com/Meerkats-Ai/prospeo-mcp-server): Integrates with the Prospeo API to provide email finding and LinkedIn profile enrichment capabilities.

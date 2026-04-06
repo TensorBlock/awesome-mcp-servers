@@ -904,6 +904,7 @@ Servers using mapping APIs, providing geolocation services, address lookups, or 
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [SWOTPal](https://github.com/aprilelevengo/swotpal-mcp-server): Generate SWOT analyses, competitive comparisons, and browse 100+ pre-built industry examples for any company or topic. Supports 12 languages.
 - [sharozdawa/ai-visibility](https://github.com/sharozdawa/ai-visibility): Track brand visibility across ChatGPT, Perplexity, Claude, and Gemini with visibility scores, sentiment analysis, and competitor detection.
 - [sharozdawa/indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp): Instant URL indexing via IndexNow (Bing, Yandex, Naver, Seznam) and Google Indexing API with sitemap parsing and key generation.
 - [sharozdawa/robotstxt-ai](https://github.com/sharozdawa/robotstxt-ai): Visual robots.txt manager for AI crawlers with toggle controls for 20+ bots including GPTBot, ClaudeBot, and PerplexityBot.
@@ -945,8 +946,6 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [teamsincetoday/podcast-commerce-mcp](https://github.com/teamsincetoday/podcast-commerce-mcp): Extracts affiliate products, sponsor mentions, and shoppable recommendations from podcast episodes using AI-powered content intelligence. Features cross-show product comparison and show notes generation.
 - [teamsincetoday/newsletter-commerce-mcp](https://github.com/teamsincetoday/newsletter-commerce-mcp): Extracts shoppable products and sponsor mentions from newsletter editions using AI-powered content intelligence. Generates affiliate-ready product sections for newsletters.
 - [teamsincetoday/recipe-commerce-mcp](https://github.com/teamsincetoday/recipe-commerce-mcp): Extracts affiliate-ready product recommendations from recipe content using AI-powered ingredient and kitchen tool analysis. Remote Streamable HTTP endpoint on Cloudflare Workers.
-- [aprilelevengo/swotpal-mcp-server](https://github.com/aprilelevengo/swotpal-mcp-server): Generate SWOT analyses, competitive comparisons, and browse 100+ pre-built industry examples for any company or topic. Supports 12 languages.
-
 ## 📡 Monitoring & Observability
 
 Servers connecting to monitoring systems, logging platforms, or providing system/application performance metrics.
