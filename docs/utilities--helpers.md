@@ -2,7 +2,7 @@
 
 Servers providing simple, general-purpose tools like time/date information, calculators, dice rollers, formatters, unit converters, UUID generation, etc.
 
-- [FlatFilers/mcp-server-flatfile](https://github.com/FlatFilers/mcp-server-flatfile): Facilitates interaction with the Flatfile API through a customizable MCP server, enabling streamlined data management and integration.
+- [Markgatcha/universal-mcp-toolkit](https://github.com/Markgatcha/universal-mcp-toolkit): An all-in-one MCP server aggregating 15+ tools across file system, web search, weather, SQLite database, system info, and more. Zero-config via `npx universal-mcp-toolkit`, Glama-listed, 100+ monthly npm downloads.
 - [Nozomuts/date-mcp](https://github.com/Nozomuts/date-mcp): Provides current date and time in specified formats and timezones via a simple MCP server.
 - [BrightLin/mcp-server-port-cleaner](https://github.com/BrightLin/mcp-server-port-cleaner): Node.js server for resolving port conflicts by terminating processes occupying specified ports, ensuring smooth development workflows.
 - [raymondlowe/roo-code-custom-mode-editor-mcp-server](https://github.com/raymondlowe/roo-code-custom-mode-editor-mcp-server): Facilitates editing of Roo Code custom modes by providing tools to list, create, and modify mode fields without direct file manipulation.
