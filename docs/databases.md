@@ -290,3 +290,4 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb): Facilitates database operations on DuckDB through MCP tools, enabling SQL queries and schema inspection with optional read-only mode for data integrity.
 - [lucas-deangelis/arango-mcp-server](https://github.com/lucas-deangelis/arango-mcp-server): Facilitates interaction with ArangoDB through the Model Context Protocol, enabling database queries and management via a structured command interface.
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox): Open source MCP server specializing in easy, fast, and secure tools for Databases.
+- [haymon-ai/database](https://github.com/haymon-ai/database): Single-binary MCP server for MySQL, MariaDB, PostgreSQL & SQLite. Built in Rust with zero runtime dependencies.

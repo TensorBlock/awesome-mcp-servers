@@ -2,11 +2,13 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [uAI-solana/useful-ai-mcp](https://github.com/uAI-solana/useful-ai-mcp): Fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data. Dispatch tasks in plain English, get structured output. No auth required. `https://api.usefulai.fun/mcp`
 - [CristianCiubancan/sequentialthinking](https://github.com/CristianCiubancan/sequentialthinking): Facilitates dynamic problem-solving through structured, step-by-step thinking processes.
 - [hyperpolymath/boj-server](https://github.com/hyperpolymath/boj-server): Unified MCP server with 40+ tools covering GitHub, GitLab, Cloudflare, Vercel, Gmail, Calendar, browser automation, research, ML, and 50+ pluggable cartridges for extensible developer workflows.
 - [jkosik/mcp-server-splunk](https://github.com/jkosik/mcp-server-splunk): Facilitates seamless integration with Splunk by providing a Go-based MCP server supporting STDIO and SSE modes.
 - [twinic/Twinic-server](https://github.com/twinic/Twinic-server): Facilitates the installation and configuration of MCP servers through simple prompts, integrating with npm and PyPi.
 - [ejoyee/ej-mcp-server-gdrive](https://github.com/ejoyee/ej-mcp-server-gdrive): Integrates with Google Drive to enable file listing, reading, and searching capabilities.
+- [ElromEvedElElyon/claw-mcp-toolkit](https://github.com/ElromEvedElElyon/claw-mcp-toolkit): Multi-purpose MCP toolkit with 26 tools across 5 modules — crypto (prices, trending, Fear & Greed), web (fetch, DNS, SSL, SEO), social (tweet gen, threads, content calendar), finance (stocks, forex, portfolio, invoices), and productivity (pomodoro, tasks, notes, reminders). Zero API keys, zero config. MIT license.
 - [joshuayoes/deno-kv-mcp](https://github.com/joshuayoes/deno-kv-mcp): Facilitates interaction with Deno KV instances through a robust MCP server, enabling seamless key-value operations.
 - [elhadjaoui/pr_reviewer](https://github.com/elhadjaoui/pr_reviewer): An MCP server that integrates with Claude Desktop to analyze GitHub Pull Requests and automatically saves reviews to Google Drive.
 - [skeet-build/skeet-local](https://github.com/skeet-build/skeet-local): Facilitates seamless integration and configuration of Skeet MCP tools for database and search operations.

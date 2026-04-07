@@ -2,6 +2,8 @@
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp): Persistent memory for AI agents with 107 tools: remember, recall, rollback, audit, knowledge graph, governed actions, eval, cortex, and Runtime v2 agent orchestration. Local SQLite (zero-config) or Novyx Cloud. Install via `uvx novyx-mcp`. MIT licensed.
+- [yantrikos/yantrikdb-mcp](https://github.com/yantrikos/yantrikdb-mcp): Cognitive memory for AI agents — persistent semantic memory with knowledge graph, adaptive recall, conflict detection, entity relationships, and memory consolidation across sessions. 24 tools. Works with Claude Code, Cursor, Windsurf, and any MCP client.
 - [nicholasglazer/gnosis-mcp](https://github.com/nicholasglazer/gnosis-mcp): Zero-config MCP server that loads markdown docs into SQLite (FTS5 keyword search) or PostgreSQL (pgvector hybrid semantic+keyword search) and exposes 6 tools and 3 resources for AI agents to search, retrieve, and manage documentation.
 - [varun369/SuperLocalMemoryV2](https://github.com/varun369/SuperLocalMemoryV2): A local-first AI memory system providing persistent memory across 17+ AI tools via MCP, featuring knowledge graphs, hybrid search, and pattern learning with zero cloud dependency.
 - [omega-memory/core](https://github.com/omega-memory/core): Persistent memory for AI coding agents with semantic search, auto-capture, intelligent forgetting, and cross-session learning. #1 on LongMemEval benchmark (95.4%). 12 MCP tools. Local-first with zero cloud dependency.

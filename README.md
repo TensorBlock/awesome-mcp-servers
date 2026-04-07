@@ -341,6 +341,7 @@ Servers designed to execute code snippets or scripts in various languages, often
 
 Servers for interacting with email, chat platforms, SMS, or notification services.
 
+- [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin): WhatsApp channel plugin for Claude Code. Connect WhatsApp as a native channel to your Claude Code session — send/receive messages, voice transcription, access control, and remote tool approval. Uses Baileys (no API keys needed).
 - [jamesacklin/tlon-mcp-server](https://github.com/jamesacklin/tlon-mcp-server): Facilitates interaction with Tlon agents through direct messaging, contact management, and natural language support.
 - [varunwahi-plivo/plivo-mcp-server](https://github.com/varunwahi-plivo/plivo-mcp-server): Facilitates SMS messaging through Plivo's API using the Message Control Protocol.
 - [virtualsms-io/virtualsms-mcp](https://github.com/virtualsms-io/virtualsms-mcp): Enables AI agents to get virtual phone numbers and receive SMS/OTP codes for automated phone verification workflows via VirtualSMS API.
@@ -418,6 +419,7 @@ Servers specifically designed to interact with CMS platforms.
 Servers connecting to data warehouses, data query engines, analytics platforms, or specific data APIs.
 
 - [Whatsonyourmind/oraclaw](https://github.com/Whatsonyourmind/oraclaw): Decision intelligence for AI agents — 19 algorithms (bandits, constraint solvers, Monte Carlo simulation, forecasting, anomaly detection, risk analysis), 12 MCP tools, sub-25ms, zero LLM cost. Install: `npx @oraclaw/mcp-server`.
+- [feriadosapi/mcp-server](https://mcp.feriadosapi.com): Brazilian holidays MCP server covering 5,570+ municipalities, 27 states, and national holidays. Returns holiday data by date, state, or city (IBGE code).
 - [rotatingshov/go-mcp-mysql](https://github.com/rotatingshov/go-mcp-mysql): Effortlessly manage MySQL databases with a Go-based MCP server, offering CRUD operations and automation without the need for Node.js or Python.
 - [datafe/maxcompute-mcp-server](https://github.com/datafe/maxcompute-mcp-server): Facilitates data querying and schema management on Alibaba Cloud's MaxCompute platform using MCP protocol.
 - [atcol/glue-mcp](https://github.com/atcol/glue-mcp): Facilitates interaction with AWS Glue Data Catalog through a model context protocol server.
@@ -485,6 +487,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [Pratye/MEC-Postgres](https://github.com/Pratye/MEC-Postgres): Facilitates read and write operations on PostgreSQL databases, allowing LLMs to interact with database schemas and execute SQL queries.
 - [Malove86/mcp-mysql-server](https://github.com/Malove86/mcp-mysql-server): Facilitates AI model interactions with MySQL databases via a standardized interface, supporting both local and remote deployment modes.
 - [stucchi/db-mcp-server](https://github.com/stucchi/db-mcp-server): Database MCP server for MySQL, PostgreSQL, and MongoDB with SSH tunneling support. Run queries, explore schemas, and manage data across multiple database types.
+- [haymon-ai/database](https://github.com/haymon-ai/database): Single-binary MCP server for MySQL, MariaDB, PostgreSQL & SQLite. Built in Rust with zero runtime dependencies.
 
 ## 🛠️ Developer Productivity & Utilities
 
@@ -498,9 +501,11 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [izzzzzi/codewiki-mcp](https://github.com/izzzzzi/codewiki-mcp): MCP server for codewiki.google — search repos, fetch AI-generated wiki docs, and ask questions about any open-source repository.
 - [jkosik/mcp-server-splunk](https://github.com/jkosik/mcp-server-splunk): Facilitates seamless integration with Splunk by providing a Go-based MCP server supporting STDIO and SSE modes.
 - [OpenClaw MCP Ecosystem](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers) - 9 remote MCP servers on Cloudflare Workers: JSON toolkit, regex engine, color palette, timestamp converter, prompt enhancer, AI market intelligence, fortune/horoscope, content publisher, and AI tool comparison. Free tier + Pro API keys ($9).
+- [uAI-solana/useful-ai-mcp](https://github.com/uAI-solana/useful-ai-mcp): Fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data. Dispatch tasks in plain English, get structured output. No auth required. `https://api.usefulai.fun/mcp`
 - [OzorOwn/frostbyte-mcp](https://github.com/OzorOwn/frostbyte-mcp): Developer API toolkit with 13 tools — IP geolocation, crypto prices, DNS/WHOIS lookup, website screenshots, web scraping, code execution (20+ languages), web search, URL shortener, PDF generation, pastebin, data conversion, and domain availability. One API key for 40+ services.
 - [twinic/Twinic-server](https://github.com/twinic/Twinic-server): Facilitates the installation and configuration of MCP servers through simple prompts, integrating with npm and PyPi.
 - [ejoyee/ej-mcp-server-gdrive](https://github.com/ejoyee/ej-mcp-server-gdrive): Integrates with Google Drive to enable file listing, reading, and searching capabilities.
+- [ElromEvedElElyon/claw-mcp-toolkit](https://github.com/ElromEvedElElyon/claw-mcp-toolkit): Multi-purpose MCP toolkit with 26 tools across 5 modules — crypto (prices, trending, Fear & Greed), web (fetch, DNS, SSL, SEO), social (tweet gen, threads, content calendar), finance (stocks, forex, portfolio, invoices), and productivity (pomodoro, tasks, notes, reminders). Zero API keys, zero config. MIT license.
 - [joshuayoes/deno-kv-mcp](https://github.com/joshuayoes/deno-kv-mcp): Facilitates interaction with Deno KV instances through a robust MCP server, enabling seamless key-value operations.
 - [elhadjaoui/pr_reviewer](https://github.com/elhadjaoui/pr_reviewer): An MCP server that integrates with Claude Desktop to analyze GitHub Pull Requests and automatically saves reviews to Google Drive.
 - [skeet-build/skeet-local](https://github.com/skeet-build/skeet-local): Facilitates seamless integration and configuration of Skeet MCP tools for database and search operations.
@@ -573,8 +578,10 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [FinancialData.Net MCP Server](https://financialdata.net/mcp-server) - Get real-time stock prices, fundamentals, institutional trading insights, and other financial data delivered through a universal Model Context Protocol (MCP) server.
 - [cnghockey/sats4ai-mcp-server](https://github.com/cnghockey/sats4ai-mcp-server) - Bitcoin Lightning-powered AI tools marketplace. 20+ tools for image, video, audio, text generation, TTS (467 voices), web search, document conversion, and phone calls. Pay per use with sats, no signup. Install: `npx sats4ai-mcp`.
 - [zemloai-ctrl/elecz-api](https://github.com/zemloai-ctrl/elecz-api) - Real-time Nordic and German electricity spot price API and MCP server. Fetches ENTSO-E day-ahead prices for Finland, Sweden, Norway, Denmark, and Germany with actionable contract recommendations for AI agents.
+- [ElromEvedElElyon/sovereign-agent-chain](https://github.com/ElromEvedElElyon/sovereign-agent-chain): Bitcoin-native AI agent marketplace with AGT meta-protocol on OP_RETURN. 32 MCP tools — PSBT wallet bridge, cross-chain swaps (BTC/SOL/ETH/Runes), agent registry, reputation system, escrow, and block scanner. 258 tests. Install: `git clone https://github.com/ElromEvedElElyon/sovereign-agent-chain.git && cd sovereign-agent-chain && npm install && npm run build`
 - [ElromEvedElElyon/flash-payment-system](https://github.com/ElromEvedElElyon/flash-payment-system): First write-capable Bitcoin Runes MCP server. 12 tools — mint, transfer, batch-mint, list BITCOIN•USD•ONE Runes, Chainlink Proof of Reserves, agent swarm coordination, and x402 agent-to-agent payments. bUSD1 stablecoin backed 1:1 by Runes on Bitcoin L1. 99 tests. Install: `git clone https://github.com/ElromEvedElElyon/flash-payment-system.git && cd flash-payment-system && npm install && npm run build`
 - [atxp-dev/atxp](https://github.com/atxp-dev/atxp): Agent identity platform. One command (`npx atxp@latest agent register`) gives your AI agent a USDC wallet (Base), @atxp.email inbox, phone number, and 100+ paid MCP tools including web search, image gen, SMS, voice calls, and 100+ LLM models. Self-registers without human login. $5 free credits. Works with Claude Desktop, Claude Code, Cursor, Windsurf, and any MCP client.
 - [covalenthq/goldrush-mcp-server](https://goldrush.dev/docs/goldrush-mcp-server): Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
@@ -818,6 +825,8 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp): Persistent memory for AI agents with 107 tools: remember, recall, rollback, audit, knowledge graph, governed actions, eval, cortex, and Runtime v2 agent orchestration. Local SQLite (zero-config) or Novyx Cloud. Install via `uvx novyx-mcp`. MIT licensed.
+- [yantrikos/yantrikdb-mcp](https://github.com/yantrikos/yantrikdb-mcp): Cognitive memory for AI agents — persistent semantic memory with knowledge graph, adaptive recall, conflict detection, entity relationships, and memory consolidation across sessions. 24 tools. Works with Claude Code, Cursor, Windsurf, and any MCP client.
 - [Evanyuan-builder/memory-core](https://github.com/Evanyuan-builder/memory-core): Unified memory layer for AI agents and teams. Provides semantic search, temporal fact tracking (Graphiti/FalkorDB), and shared memory via REST API, Python SDK, and MCP server. Supports local Ollama — no cloud API key required.
 - [GuyMannDude/mnemo-cortex](https://github.com/GuyMannDude/mnemo-cortex): Persistent cross-agent semantic memory for AI agents (v2.0). Privacy-first share switch (separate/always/never + per-session toggle). Multi-agent with isolated writes and privacy-controlled reads. Local-first SQLite + FTS5, zero-cost compaction via local Ollama. Three integration paths: Claude Code, Claude Desktop, and OpenClaw MCP.
 - [Bpolat0/atlasmemory](https://github.com/Bpolat0/atlasmemory): Evidence-backed AI memory for codebases. Tree-sitter indexing (11 languages), proof system with line:hash anchors, token-budgeted context packs, drift detection, cross-session learning. 28 MCP tools, VS Code extension, zero config.
@@ -1183,6 +1192,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [Rul1an/assay](https://github.com/Rul1an/assay): The firewall for MCP tool calls. Deterministic policy enforcement proxy with replayable evidence bundles, OWASP MCP Top 10 coverage (7/10), and compliance packs. MIT licensed.
 - [ClawSec](https://clawsec.cc): Security audit platform for MCP servers and AI agent skills. 5-tier analysis pipeline — static analysis, pattern matching, LLM semantic review, Firecracker sandbox execution, and LLM audit — detects malicious patterns, data exfiltration, and prompt injection. Database of 30,000+ audited skills with Trust Scores. Companion tool [ClawSearch](https://clawsearch.cc) provides safe skill discovery with security ratings.
 - [Chill-AI-Space/vault-mcp](https://github.com/Chill-AI-Space/vault-mcp): MCP server for credential isolation — agents use passwords and API keys without seeing them in context. AES-256-GCM encryption, Chrome CDP login, API key proxy, tamper-proof audit trail.
+- [ElromEvedElElyon/solanashield-mcp](https://github.com/ElromEvedElElyon/solanashield-mcp): AI-powered Solana smart contract security audit server with 40 vulnerability patterns and 12 MCP tools covering access control, CPI safety, PDA, tokens, arithmetic, and DeFi exploits.
 - [ark-forge/mcp-eu-ai-act](https://github.com/ark-forge/mcp-eu-ai-act): Scans codebases for AI framework usage (16 frameworks) and checks compliance against EU AI Act requirements. Features 4-tier risk categorization, GDPR compliance checking, report generation, and compliance document templates.
 
 - [ark-forge/arkforge-mcp](https://github.com/ark-forge/arkforge-mcp): Certifying proxy for AI agent API calls. Every tool call becomes a signed, timestamped Agent Action Receipt (AAR). Model-agnostic and vendor-independent — works across any LLM provider or infrastructure.
@@ -1229,6 +1239,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 
 Servers interacting with social networks, content platforms, or feed aggregators.
 
+- [socialneuron/mcp-server](https://github.com/socialneuron/mcp-server): 64 MCP tools for end-to-end social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning. Supports YouTube, Instagram, TikTok.
 - [NexusX-MCP/integrate-mcp-server](https://github.com/NexusX-MCP/integrate-mcp-server): An extensible server providing standardized access to social and onchain data, supporting platforms like Farcaster with plans for Twitter integration.
 - [sriramsowmithri9807/MCP_X](https://github.com/sriramsowmithri9807/MCP_X): Facilitates AI model interactions with Twitter/X API through a standardized MCP interface, enabling tweet management and data retrieval.
 - [Arindam200/devto-mcp](https://github.com/Arindam200/devto-mcp): Enables AI assistants to interact with Dev.to content, offering features like fetching, searching, and managing articles.
