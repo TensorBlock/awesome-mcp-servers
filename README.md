@@ -418,6 +418,7 @@ Servers specifically designed to interact with CMS platforms.
 
 Servers connecting to data warehouses, data query engines, analytics platforms, or specific data APIs.
 
+- [Whatsonyourmind/oraclaw](https://github.com/Whatsonyourmind/oraclaw): Decision intelligence for AI agents — 19 algorithms (bandits, constraint solvers, Monte Carlo simulation, forecasting, anomaly detection, risk analysis), 12 MCP tools, sub-25ms, zero LLM cost. Install: `npx @oraclaw/mcp-server`.
 - [feriadosapi/mcp-server](https://mcp.feriadosapi.com): Brazilian holidays MCP server covering 5,570+ municipalities, 27 states, and national holidays. Returns holiday data by date, state, or city (IBGE code).
 - [rotatingshov/go-mcp-mysql](https://github.com/rotatingshov/go-mcp-mysql): Effortlessly manage MySQL databases with a Go-based MCP server, offering CRUD operations and automation without the need for Node.js or Python.
 - [datafe/maxcompute-mcp-server](https://github.com/datafe/maxcompute-mcp-server): Facilitates data querying and schema management on Alibaba Cloud's MaxCompute platform using MCP protocol.
