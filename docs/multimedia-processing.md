@@ -198,4 +198,5 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [angheljf/dalle-image-server](https://github.com/angheljf/dalle-image-server): A TypeScript-based server that generates images using DALL·E 2 from text prompts, requiring an OpenAI API key.
 - [sammyl720/image-generator-mcp-server](https://github.com/sammyl720/image-generator-mcp-server): Generates images from prompts using OpenAI's DALL-E-3 model, with TypeScript implementation for seamless integration with Claude Desktop.
 - [kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript): Facilitates direct transcript retrieval from YouTube videos with language-specific options.
+- [iterationlayer/mcp](https://github.com/iterationlayer/mcp): Document extraction, image transformation, programmatic image generation, document generation, and sheet generation via composable APIs with OAuth 2.1 authentication.
 
