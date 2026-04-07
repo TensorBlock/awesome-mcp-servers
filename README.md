@@ -1143,6 +1143,7 @@ Servers accessing scientific databases, research platforms, or providing tools f
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [kansei-link/kansei-mcp-server](https://github.com/kansei-link/kansei-mcp-server): Intelligence layer for AI agents to discover and evaluate 156+ SaaS/API services with trust scores, 120 workflow recipes, intent-based search, and Agent Voice feedback from real agent usage.
 - [kokilabo/pdf-researcher](https://github.com/kokilabo/pdf-researcher): A specialized MCP server designed for searching PDF documents using the Brave Search API.
 - [joaomj/deep-search-mcp](https://github.com/joaomj/deep-search-mcp): Facilitates deep web searches using the LinkUp API, offering structured results and customizable search parameters.
 - [jarondonp/portfolio-mcp-server](https://github.com/jarondonp/portfolio-mcp-server): Integrates the Brave Search API to offer web and local search capabilities with flexible filtering and smart fallbacks.
