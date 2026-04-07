@@ -82,7 +82,7 @@ We welcome submissions! To add your MCP server:
 Servers integrating with other AI models, AI platforms, RAG tools, prompt management, or agent frameworks.
 
 - [ToolRouter](https://toolrouter.com) - Give your AI agent superpowers with access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`
-- [bh-rat/context-awesome](https://github.com/bh-rat/context-awesome) - MCP server for querying 8,500+ curated awesome lists (1M+ items) and fetching the best resources for your agent.
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for discovering, sharing, and selling AI skills and personas built on OpenClaw.- [bh-rat/context-awesome](https://github.com/bh-rat/context-awesome) - MCP server for querying 8,500+ curated awesome lists (1M+ items) and fetching the best resources for your agent.
 - [spranab/brainstorm-mcp](https://github.com/spranab/brainstorm-mcp) - Multi-round AI brainstorming debates between multiple models (GPT, DeepSeek, Groq, Ollama, etc.). Pit different LLMs against each other to explore ideas from diverse perspectives.
 - [deadpixel/roundtable-dashboard](https://github.com/deadpixel/roundtable-dashboard): Multi-model AI debate platform with remote MCP server. GPT-4o, Claude, Gemini and 200+ models discuss prompts in structured rounds and synthesize collective insight via Streamable HTTP at `https://mcp.roundtable.now/mcp`.
 - [comitest22/linear-mcp](https://github.com/comitest22/linear-mcp): Facilitates interaction with the Linear API through a Model Context Protocol server, offering tools for ticket management and prioritization.
