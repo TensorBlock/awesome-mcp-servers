@@ -579,6 +579,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [Elemzir/KTA-Oracle](https://github.com/Elemzir/KTA-Oracle) - Live KTA/fiat exchange rates (55+ currencies), payment rail comparison (Keeta vs SWIFT vs Stripe vs Visa), AML/VAT compliance for 50+ regions, business entity validation, and autonomous AI agent onboarding. 13 MCP tools. Keeta Network — 11.2M TPS, 400ms settlement.
 - [FinancialData.Net MCP Server](https://financialdata.net/mcp-server) - Get real-time stock prices, fundamentals, institutional trading insights, and other financial data delivered through a universal Model Context Protocol (MCP) server.
 - [cnghockey/sats4ai-mcp-server](https://github.com/cnghockey/sats4ai-mcp-server) - Bitcoin Lightning-powered AI tools marketplace. 20+ tools for image, video, audio, text generation, TTS (467 voices), web search, document conversion, and phone calls. Pay per use with sats, no signup. Install: `npx sats4ai-mcp`.
 - [zemloai-ctrl/elecz-api](https://github.com/zemloai-ctrl/elecz-api) - Real-time Nordic and German electricity spot price API and MCP server. Fetches ENTSO-E day-ahead prices for Finland, Sweden, Norway, Denmark, and Germany with actionable contract recommendations for AI agents.
