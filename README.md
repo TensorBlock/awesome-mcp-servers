@@ -1294,6 +1294,7 @@ Servers providing data or services related to flights, trains, transportation AP
 - [RikGmee/searchAPI-mcp](https://github.com/RikGmee/searchAPI-mcp): Facilitates complex travel planning by integrating flight, hotel, and map services through a multi-context protocol server.
 - [achel-b8/rakuten-hotel-search-mcp](https://github.com/achel-b8/rakuten-hotel-search-mcp): Facilitates hotel availability searches using Rakuten Travel's API, providing results based on specified criteria such as check-in dates and location.
 - [ralf-boltshauser/sbb-mcp-server](https://github.com/ralf-boltshauser/sbb-mcp-server): A TypeScript starter project for building MCP servers with an echo server implementation, supporting both STDIO and SSE communication modes.
+- [Fabsbags/sbb-mcp](https://github.com/Fabsbags/sbb-mcp): Swiss Federal Railways (SBB/CFF/FFS) MCP server with real-time train schedules, ticket prices with Half-Fare/GA support, and direct purchase links via the official SBB SMAPI.
 - [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp): Facilitates 12306 ticket searches using a simple API interface based on the Model Context Protocol.
 - [variflight/variflight-mcp](https://github.com/variflight/variflight-mcp): Facilitates querying flight information, weather data, and flight comfort metrics for Variflight services.
 - [cevatkerim/chargenow-mcp](https://github.com/cevatkerim/chargenow-mcp): Facilitates AI assistants in locating and providing real-time status of EV charging stations using the ChargeNow API.
