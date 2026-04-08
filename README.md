@@ -641,6 +641,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [arcadia-finance/mcp-server](https://github.com/arcadia-finance/mcp-server): Manage Uniswap and Aerodrome liquidity positions with leverage, tomated rebalancing, and yield optimization on Base and Unichain.
 - [whitmorelabs/polymarket-mcp](https://github.com/whitmorelabs/polymarket-mcp): Trading intelligence tools for Polymarket prediction markets: slippage estimation, liquidity depth scanning, arbitrage detection, multi-source price feeds, and on-chain wallet intelligence.
 - [Veroq-api/veroq-mcp](https://github.com/Veroq-api/veroq-mcp): Financial intelligence MCP server with 52 tools for verified market data, trading signals, sentiment analysis, and fact-checking across 1,061+ tickers (equities, crypto, ETFs, commodities, indices). Multi-provider architecture with failover. Install via `npx veroq-mcp`.
+- [AlgoVaultLabs/crypto-quant-signal-mcp](https://github.com/AlgoVaultLabs/crypto-quant-signal-mcp): AI trading brain for crypto perps — composite BUY/SELL/HOLD signals with confidence scoring, cross-venue funding rate arb scanning (Hyperliquid vs Binance vs Bybit), and market regime classification for 200+ Hyperliquid assets. Published track record via signal-performance resource. Remote MCP server with x402 micropayments (USDC on Base). Install: `npx crypto-quant-signal-mcp`.
 
 ## 🧰 Frameworks
 
