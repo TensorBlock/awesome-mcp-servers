@@ -115,6 +115,7 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [tangshuang/mcp-bone](https://github.com/tangshuang/mcp-bone): Facilitates connection to MCP Bone for tool registration and parsing LLM completion text into tool calls.
 - [belljustin/spotify-mcp](https://github.com/belljustin/spotify-mcp): Facilitates playlist creation on Spotify through a Model Context Protocol server, integrating seamlessly with Cursor for enhanced user interaction.
 - [Zerg00s/server-sharepoint](https://github.com/Zerg00s/server-sharepoint): Facilitates interaction with SharePoint Online through Claude Desktop using the SharePoint REST API.
+- [spritecook/spritecook-mcp](https://github.com/spritecook/spritecook-mcp): Generates pixel art sprites and animations for game developers, turning text prompts into game-ready characters, items, and sprite sheet animations.
 
 ## 🎨 Art, Culture & Media
 
