@@ -1143,6 +1143,7 @@ Servers accessing scientific databases, research platforms, or providing tools f
 - [HuaLuAI/CAD-MCP](https://github.com/HuaLuAI/CAD-MCP): CAD-MCP enables natural language-driven CAD operations across multiple software platforms, streamlining drawing tasks through intuitive text commands.
 - [danimal141/arxiv-search-mcp](https://github.com/danimal141/arxiv-search-mcp): Facilitates searching and retrieving academic papers from arXiv.org with customizable parameters.
 - [sebastien-le-paris/project-rules](https://github.com/sebastien-le-paris/project-rules): Facilitates the integration of external tools and data sources with Cursor through the Model Context Protocol, enhancing AI project rule management and tool execution.
+- [federicodeponte/openpaper-mcp](https://github.com/federicodeponte/openpaper-mcp): Generate full academic papers with verified citations via OpenPaper.dev using 18 specialized AI agents.
 
 ## 🔎 Search
 
