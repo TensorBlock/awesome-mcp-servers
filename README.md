@@ -115,6 +115,7 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [tangshuang/mcp-bone](https://github.com/tangshuang/mcp-bone): Facilitates connection to MCP Bone for tool registration and parsing LLM completion text into tool calls.
 - [belljustin/spotify-mcp](https://github.com/belljustin/spotify-mcp): Facilitates playlist creation on Spotify through a Model Context Protocol server, integrating seamlessly with Cursor for enhanced user interaction.
 - [Zerg00s/server-sharepoint](https://github.com/Zerg00s/server-sharepoint): Facilitates interaction with SharePoint Online through Claude Desktop using the SharePoint REST API.
+- [kansei-link/kansei-mcp-server](https://github.com/kansei-link/kansei-mcp-server): MCP intelligence layer for discovering and evaluating 156 SaaS/API services with trust scores from real agent usage, 120 workflow recipes, intent-based search, and Agent Voice feedback comparing Claude, GPT, and Gemini perspectives.
 
 ## 🎨 Art, Culture & Media
 
