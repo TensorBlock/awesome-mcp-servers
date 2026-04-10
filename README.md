@@ -200,6 +200,8 @@ Servers using tools for browser control, automation, and extracting content from
 Servers interacting with build systems, containerization, CI/CD, or deployment platforms.
 
 - [zenoengine/msbuild-mcp-server](https://github.com/zenoengine/msbuild-mcp-server): Automates MSBuild project builds with dynamic discovery and customizable configurations, integrating seamlessly with various MCP clients.
+- [lazymac/mcp](https://github.com/lazymac2x/lazymac-mcp) — Unified MCP server exposing 42+ developer tools (qr, ip-geo, ai-cost, llm-router, k-privacy, korean-nlp) backed by Cloudflare Workers. `npx -y @lazymac/mcp`
+- [lazymac/k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) — Korean wedge MCP — PIPA compliance, KRW + BOK rates, 사업자등록번호 lookup, address geocoding, NLP. `npx -y @lazymac/k-mcp`
 - [radostkali/gitlab-mcp-server](https://github.com/radostkali/gitlab-mcp-server): Facilitates GitLab integration using FastMCP for streamlined code review and repository management.
 - [rianvdm/remote-mcp-server](https://github.com/rianvdm/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [gabelul/perplexity-mcp](https://github.com/gabelul/perplexity-mcp): An intelligent research assistant leveraging Perplexity's AI models for automatic query complexity detection and optimal model routing.
