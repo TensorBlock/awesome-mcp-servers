@@ -1158,6 +1158,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [The-AI-Workshops/searxng-mcp-server](https://github.com/The-AI-Workshops/searxng-mcp-server): Integrates SearXNG with MCP to provide AI agents with privacy-focused search capabilities.
 - [atskimura/mcp-salesforce-code-search](https://github.com/atskimura/mcp-salesforce-code-search): Facilitates code search across Salesforce official sample repositories with filtering capabilities by component type and file extension.
 - [jindasy/mcp-news](https://github.com/jindasy/mcp-news): Facilitates news article retrieval through a FastMCP server utilizing NewsAPI.org for keyword, date range, and source-based searches.
+- [AgentGrade](https://agentgrade.com): Scan any website for AI agent readiness — scores 80+ checks across payments, MCP, OpenAPI, and discovery. Remote MCP server at agentgrade.com/mcp.
 - [jmchat/mcp-search-console-ts](https://github.com/jmchat/mcp-search-console-ts): Manage Google Search Console properties, sitemaps, and search analytics via a Model Context Protocol server.
 - [OEvortex/ddg_search](https://github.com/OEvortex/ddg_search): A privacy-focused MCP server that leverages DuckDuckGo for efficient web search and URL content extraction.
 - [wd041216-bit/cross-validated-search](https://github.com/wd041216-bit/cross-validated-search): Evidence-aware search, page reading, and claim verification for AI agents with CLI, MCP, and skill surfaces for Gemini, Claude Code, Manus, and OpenClaw.
