@@ -581,6 +581,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
 - [FinancialData.Net MCP Server](https://financialdata.net/mcp-server) - Get real-time stock prices, fundamentals, institutional trading insights, and other financial data delivered through a universal Model Context Protocol (MCP) server.
+- [grahammccain/chart-library-mcp](https://github.com/grahammccain/chart-library-mcp) - Historical chart pattern search engine — search 24M+ pre-computed embeddings across 15K+ symbols for similar patterns and forward returns.
 - [cnghockey/sats4ai-mcp-server](https://github.com/cnghockey/sats4ai-mcp-server) - Bitcoin Lightning-powered AI tools marketplace. 20+ tools for image, video, audio, text generation, TTS (467 voices), web search, document conversion, and phone calls. Pay per use with sats, no signup. Install: `npx sats4ai-mcp`.
 - [zemloai-ctrl/elecz-api](https://github.com/zemloai-ctrl/elecz-api) - Real-time Nordic and German electricity spot price API and MCP server. Fetches ENTSO-E day-ahead prices for Finland, Sweden, Norway, Denmark, and Germany with actionable contract recommendations for AI agents.
 - [ElromEvedElElyon/sovereign-agent-chain](https://github.com/ElromEvedElElyon/sovereign-agent-chain): Bitcoin-native AI agent marketplace with AGT meta-protocol on OP_RETURN. 32 MCP tools — PSBT wallet bridge, cross-chain swaps (BTC/SOL/ETH/Runes), agent registry, reputation system, escrow, and block scanner. 258 tests. Install: `git clone https://github.com/ElromEvedElElyon/sovereign-agent-chain.git && cd sovereign-agent-chain && npm install && npm run build`
@@ -862,6 +863,7 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [kiranraathod/taskflow-memory-server](https://github.com/kiranraathod/taskflow-memory-server): A task management server with persistent memory architecture, integrating Claude AI for intelligent planning and task execution using the Model Context Protocol.
 - [kaz56-t/mcp-latest-document](https://github.com/kaz56-t/mcp-latest-document): A Model Context Protocol server offering access to the latest documentation for various services.
 - [angrysky56/NeoCoder-neo4j-ai-workflow](https://github.com/angrysky56/NeoCoder-neo4j-ai-workflow): Enables AI assistants to utilize a Neo4j knowledge graph for dynamic coding workflows and project memory management.
+- [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag): Local RAG system for Claude Code via MCP with hybrid semantic + BM25 search, cross-encoder reranking, and 12 MCP tools — no external servers required.
 - [CaptainCrouton89/alaria-wiki-mcp](https://github.com/CaptainCrouton89/alaria-wiki-mcp): A boilerplate for creating an MCP server that stores and retrieves information using vector embeddings, enabling semantic search and integration with AI assistants like Claude.
 - [CaptainCrouton89/mcp-boilerplate](https://github.com/CaptainCrouton89/mcp-boilerplate): A boilerplate for creating an MCP server that utilizes vector embeddings for storing and retrieving information, enabling semantic search and integration with AI assistants like Claude.
 - [HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy): Persistent memory across AI sessions with SQLite + FTS5 full-text search + knowledge graph with typed relations. Features session management, timeline browsing, graph traversal, and 17 memory tools.
@@ -1149,6 +1151,7 @@ Servers accessing scientific databases, research platforms, or providing tools f
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [AgentGrade](https://agentgrade.com): Scan any website for AI agent readiness — scores 80+ checks across payments, MCP, OpenAPI, and discovery. Remote MCP server at agentgrade.com/mcp.
 - [kokilabo/pdf-researcher](https://github.com/kokilabo/pdf-researcher): A specialized MCP server designed for searching PDF documents using the Brave Search API.
 - [joaomj/deep-search-mcp](https://github.com/joaomj/deep-search-mcp): Facilitates deep web searches using the LinkUp API, offering structured results and customizable search parameters.
 - [jarondonp/portfolio-mcp-server](https://github.com/jarondonp/portfolio-mcp-server): Integrates the Brave Search API to offer web and local search capabilities with flexible filtering and smart fallbacks.
@@ -1249,6 +1252,7 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [NexusX-MCP/integrate-mcp-server](https://github.com/NexusX-MCP/integrate-mcp-server): An extensible server providing standardized access to social and onchain data, supporting platforms like Farcaster with plans for Twitter integration.
 - [sriramsowmithri9807/MCP_X](https://github.com/sriramsowmithri9807/MCP_X): Facilitates AI model interactions with Twitter/X API through a standardized MCP interface, enabling tweet management and data retrieval.
 - [Arindam200/devto-mcp](https://github.com/Arindam200/devto-mcp): Enables AI assistants to interact with Dev.to content, offering features like fetching, searching, and managing articles.
+- [azeemkafridi/bulkpublish-api](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server): MCP server for social media publishing across 11 platforms — create posts, schedule, upload media, and track analytics. 29 tools via `npx -y @bulkpublish/mcp-server`.
 - [Sergiolm17/genius-mcp-server](https://github.com/Sergiolm17/genius-mcp-server): Facilitates interaction with the Genius API for searching lyrics, artists, and song details via MCP client applications.
 - [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server): Facilitates AI-driven interactions with Twitter, enabling tweet management and user engagement through natural language commands.
 - [shariqriazz/upsplash-mcp-server](https://github.com/shariqriazz/upsplash-mcp-server): Facilitates interaction with the Unsplash API for photo searching and downloading through MCP tools.
