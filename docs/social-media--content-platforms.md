@@ -2,6 +2,7 @@
 
 Servers interacting with social networks, content platforms, or feed aggregators.
 
+- [Lebedinskas/content-to-social-mcp-server](https://github.com/Lebedinskas/content-to-social-mcp-server): Transforms any blog/article URL into ready-to-post social media content for Twitter/X, LinkedIn, Instagram, Facebook, and email newsletters. Hosted on Apify with pay-per-event pricing ($0.07/call) — zero setup, just add the MCP endpoint URL.
 - [azeemkafridi/bulkpublish-api](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server): MCP server for social media publishing across 11 platforms — create posts, schedule, upload media, and track analytics. 29 tools via `npx -y @bulkpublish/mcp-server`.
 - [socialneuron/mcp-server](https://github.com/socialneuron/mcp-server): 64 MCP tools for end-to-end social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning. Supports YouTube, Instagram, TikTok.
 - [NexusX-MCP/integrate-mcp-server](https://github.com/NexusX-MCP/integrate-mcp-server): An extensible server providing standardized access to social and onchain data, supporting platforms like Farcaster with plans for Twitter integration.
