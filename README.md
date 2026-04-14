@@ -579,6 +579,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [szhygulin/vaultpilot-mcp](https://github.com/szhygulin/vaultpilot-mcp) - Self-custodial crypto portfolio MCP. Reads DeFi positions (Aave V3, Compound V3, Morpho Blue, Uniswap V3 LP, Lido, EigenLayer) on Ethereum/Arbitrum/Polygon/Base, prepares EVM + TRON transactions, signs on a Ledger via WalletConnect — private keys never leave the device.
 - [FinancialData.Net MCP Server](https://financialdata.net/mcp-server) - Get real-time stock prices, fundamentals, institutional trading insights, and other financial data delivered through a universal Model Context Protocol (MCP) server.
 - [grahammccain/chart-library-mcp](https://github.com/grahammccain/chart-library-mcp) - Historical chart pattern search engine — search 24M+ pre-computed embeddings across 15K+ symbols for similar patterns and forward returns.
 - [cnghockey/sats4ai-mcp-server](https://github.com/cnghockey/sats4ai-mcp-server) - Bitcoin Lightning-powered AI tools marketplace. 20+ tools for image, video, audio, text generation, TTS (467 voices), web search, document conversion, and phone calls. Pay per use with sats, no signup. Install: `npx sats4ai-mcp`.
