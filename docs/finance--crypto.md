@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) - Remote MCP server for real-time news intelligence with bias scoring (3.2M+ articles, 5000+ sources, 15+ dimensions), financial market data (stocks, ETFs, crypto, AI bull/bear cases), ML options pricing (probability ITM, Greeks, fair value), balanced news synthesis, trending topics, and meme search. [Documentation](https://heliumtrades.com/mcp-page/)
 - [FinancialData.Net MCP Server](https://financialdata.net/mcp-server) - Get real-time stock prices, fundamentals, institutional trading insights, and other financial data delivered through a universal Model Context Protocol (MCP) server.
 - [SignalFuse MCP](https://github.com/hypeprinter007-stack/signalfuse-mcp) - Fused crypto trading signals (sentiment, macro regime, and Hyperliquid market structure) as MCP tools for AI coding agents.
 - [grahammccain/chart-library-mcp](https://github.com/grahammccain/chart-library-mcp) - Historical chart pattern search engine — search 24M+ pre-computed embeddings across 15K+ symbols for similar patterns and forward returns.
