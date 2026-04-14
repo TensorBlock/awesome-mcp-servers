@@ -2,8 +2,8 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
-- [lazymac2x/lazymac-mcp](https://github.com/lazymac2x/lazymac-mcp): Unified MCP server exposing 42+ developer tools (qr, ip-geo, ai-cost, llm-router, k-privacy, korean-nlp) backed by Cloudflare Workers. `npx -y @lazymac/mcp`
-- [lazymac2x/lazymac-k-mcp](https://github.com/lazymac2x/lazymac-k-mcp): Korean wedge MCP — PIPA compliance, KRW + BOK rates, 사업자등록번호 lookup, address geocoding, NLP. `npx -y @lazymac/k-mcp`
+- [lazymac2x/lazymac-mcp](https://github.com/lazymac2x/lazymac-mcp) — Unified MCP server exposing 42+ developer tools (qr, ip-geo, ai-cost, llm-router, k-privacy, korean-nlp) backed by Cloudflare Workers. `npx -y @lazymac/mcp`
+- [lazymac2x/lazymac-k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) — Korean wedge MCP — PIPA compliance, KRW + BOK rates, 사업자등록번호 lookup, address geocoding, NLP. `npx -y @lazymac/k-mcp`
 - [uAI-solana/useful-ai-mcp](https://github.com/uAI-solana/useful-ai-mcp): Fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data. Dispatch tasks in plain English, get structured output. No auth required. `https://api.usefulai.fun/mcp`
 - [CristianCiubancan/sequentialthinking](https://github.com/CristianCiubancan/sequentialthinking): Facilitates dynamic problem-solving through structured, step-by-step thinking processes.
 - [hyperpolymath/boj-server](https://github.com/hyperpolymath/boj-server): Unified MCP server with 40+ tools covering GitHub, GitLab, Cloudflare, Vercel, Gmail, Calendar, browser automation, research, ML, and 50+ pluggable cartridges for extensible developer workflows.
