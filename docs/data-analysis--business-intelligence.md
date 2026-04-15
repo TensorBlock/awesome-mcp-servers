@@ -234,3 +234,4 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird): Facilitates interaction with Tinybird Workspaces, enabling data querying and management through MCP clients.
 
 - [Whatsonyourmind/oraclaw](https://github.com/Whatsonyourmind/oraclaw): Decision intelligence for AI agents — 19 algorithms (bandits, constraint solvers, Monte Carlo simulation, forecasting, anomaly detection, risk analysis), 12 MCP tools, sub-25ms, zero LLM cost. Install: `npx @oraclaw/mcp-server`.
+- [meacheal-ai/mrc-data](https://github.com/meacheal-ai/mrc-data): Chinese apparel supply chain data for AI agents. Covers 3,000+ verified manufacturers, 350+ lab-tested fabrics, and 170+ industrial clusters with AATCC/ISO/GB lab test reports.
