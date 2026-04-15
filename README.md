@@ -229,6 +229,7 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [thepragmatik/mcp-server-jvm-build-tools](https://github.com/thepragmatik/mcp-server-jvm-build-tools): Facilitates natural language interaction with Apache Maven through an MCP server for streamlined project builds.
 - [f-inc/containerinc-mcp](https://github.com/f-inc/containerinc-mcp): Automates deployments to Container Inc. with ephemeral and free deployment capabilities.
 - [cpecf/docker-mcp](https://github.com/cpecf/docker-mcp): Facilitates Docker container and compose stack management through Claude AI integration.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## ☁️ Cloud Platforms & Services
 
