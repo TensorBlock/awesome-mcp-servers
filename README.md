@@ -1356,6 +1356,7 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [ASJordi/whois-mcp](https://github.com/ASJordi/whois-mcp): Provides WHOIS lookup functionality through a standardized interface using the Model Context Protocol.
 - [rims-dev/RIMS-MCP](https://github.com/rims-dev/RIMS-MCP): Facilitates the retrieval of RIMS information through a dedicated MCP server.
 - [nguyendinhsinh361/supergateway-sinhnd](https://github.com/nguyendinhsinh361/supergateway-sinhnd): Supergateway facilitates running MCP stdio-based servers over SSE or WebSockets, enabling seamless remote access and integration with web-based clients.
+- [jakobautomation/agentsvc-mcp](https://github.com/jakobautomation/agentsvc-mcp): Provides 20 pay-per-call utility tools for AI agents via x402 USDC micropayments on Base, including screenshots, OCR, PDF extraction, web scraping, weather forecasts, forex rates, crypto/stock prices, DNS/IP lookup, geocoding, translation, and news search. No API keys required.
 - [tvriesde/mcp-license-check](https://github.com/tvriesde/mcp-license-check): Provides vehicle data based on Dutch license plates through a simple MCP server.
 - [WeatherXM/weatherxm-pro-mcp](https://github.com/WeatherXM/weatherxm-pro-mcp): Access WeatherXM PRO APIs for weather data and forecasts via MCP tools.
 - [trutohq/truto-mcp-stdio](https://github.com/trutohq/truto-mcp-stdio): A command-line interface proxy facilitating communication between JSON-RPC messages and HTTP Streamable MCP servers.
