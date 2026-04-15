@@ -2,6 +2,7 @@
 
 Servers integrating with major cloud providers or specific cloud services.
 
+- [render-oss/render-mcp-server](https://github.com/render-oss/render-mcp-server) - Official Render MCP server for managing web services, static sites, cron jobs, Postgres databases, and Key Value stores, with deployment tracking, log querying, and performance metrics. Hosted at `https://mcp.render.com/mcp`.
 - [doma2k/monad-contract-deployment-mcp](https://github.com/doma2k/monad-contract-deployment-mcp): Facilitates the compilation and deployment of smart contracts within the Monad ecosystem, enabling interactions directly from chat prompts or compatible MCP clients.
 - [adrianmonad/MonDeployer](https://github.com/adrianmonad/MonDeployer): Facilitates the deployment of Solidity contracts to the Monad testnet using AI and MCP integration.
 - [groovyBugify/aws-security-mcp](https://github.com/groovyBugify/aws-security-mcp): Connects AI assistants to AWS security services for autonomous security analysis and threat modeling.
