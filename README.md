@@ -211,6 +211,7 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [vistaarjuneja/harness-mcp](https://github.com/vistaarjuneja/harness-mcp): Facilitates the management of connectors within the Harness platform using a Model Context Protocol server.
 - [ankit1057/nexuscontroller](https://github.com/ankit1057/nexuscontroller): NexusController offers advanced Android automation with MCP support for seamless AI integration, enabling robust device control and UI testing.
 - [yodablocks/mcp-installer.0](https://github.com/yodablocks/mcp-installer.0): Facilitates the installation of MCP servers from npm or PyPi using Claude, streamlining server setup processes.
+- [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 - [akr4/claude-code-mcp-docker](https://github.com/akr4/claude-code-mcp-docker): A Docker container for running Claude Code MCP server with enhanced security features, including a network firewall to prevent unauthorized outbound connections.
 - [sakomws/mcp-cf-deploy](https://github.com/sakomws/mcp-cf-deploy): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [hiroooo000/mydockers](https://github.com/hiroooo000/mydockers): Facilitates browser automation using Playwright within a Dockerized MCP server environment.
