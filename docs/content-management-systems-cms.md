@@ -1,0 +1,64 @@
+## 📝 Content Management Systems
+
+Servers specifically designed to interact with CMS platforms.
+
+- [UnMarkdown/mcp-server](https://github.com/UnMarkdown/mcp-server): Converts markdown to formatted documents for Google Docs, Word, Slack, OneNote, Email, and Plain Text with 62 templates, plus document management and publishing via 7 MCP tools.
+- [edgarrmondragon/limesurvey-mcp](https://github.com/edgarrmondragon/limesurvey-mcp): Facilitates seamless management of LimeSurvey surveys and responses through a dedicated MCP server.
+- [thoy-le-duc/mcp-woocommerce-thoy](https://github.com/thoy-le-duc/mcp-woocommerce-thoy): Facilitates seamless WooCommerce store management via JSON-RPC 2.0, integrating with WordPress REST API across multiple platforms.
+- [aguaitech/Elementor-MCP](https://github.com/aguaitech/Elementor-MCP): Facilitates CRUD operations on Elementor data within WordPress using a simple MCP server.
+- [galatanovidiu/wp-wordpress-remote-proxy](https://github.com/galatanovidiu/wp-wordpress-remote-proxy): Facilitates seamless communication between local and remote WordPress MCP servers through a bidirectional proxy.
+- [cromewar/ghost-mcp-server](https://github.com/cromewar/ghost-mcp-server): Facilitates seamless blog posting to Ghost CMS using Claude AI via the FastMCP framework.
+- [PragmaTech-GmbH/bootiful-wordpress-mcp-server](https://github.com/PragmaTech-GmbH/bootiful-wordpress-mcp-server): A Java and Spring Boot-based server facilitating WordPress integration through MCP.
+- [BCusack/sharepoint-mcp](https://github.com/BCusack/sharepoint-mcp): Facilitates access to organizational SharePoint resources via the Model Context Protocol, leveraging Microsoft Graph API for document management.
+- [SunnyCloudYang/hugo-mcp](https://github.com/SunnyCloudYang/hugo-mcp): Manage and deploy Hugo static sites with a comprehensive suite of tools for environment setup, site management, and theme customization.
+- [pixelsock/directus-mcp](https://github.com/pixelsock/directus-mcp): Facilitates AI client interactions with Directus CMS via MCP, enabling seamless API integration.
+- [gopalcnepal/mcp-wordpress](https://github.com/gopalcnepal/mcp-wordpress): Facilitates interaction with WordPress sites by fetching posts, pages, and categories using the REST API.
+- [injunko/figma-mcp-server](https://github.com/injunko/figma-mcp-server): Enable AI-powered coding tools to access and implement Figma design data seamlessly.
+- [soggycactus/paprika-3-mcp](https://github.com/soggycactus/paprika-3-mcp): Facilitates natural language interaction with Paprika 3 recipes, enabling creation and editing via LLMs like Claude.
+- [mabeldata/pocketbase-mcp](https://github.com/mabeldata/pocketbase-mcp): Facilitates interaction with PocketBase instances for managing records, files, and migrations.
+- [jpollock/wordpress-mcp](https://github.com/jpollock/wordpress-mcp): Facilitates comprehensive management of WordPress sites through the REST API, offering tools for site, content, user, taxonomy, plugin, and theme management.
+- [calafate40/MCP-FileMaker](https://github.com/calafate40/MCP-FileMaker): Facilitates access to FileMaker databases via the Model Context Protocol with token-based authentication and record search capabilities.
+- [burnworks/microcms-api-mcp-server](https://github.com/burnworks/microcms-api-mcp-server): Enables access to microCMS API through an MCP server, offering content retrieval, search, and filtering capabilities.
+- [loyaniu/moodle-mcp](https://github.com/loyaniu/moodle-mcp): Facilitates interaction with Moodle LMS through a Model Context Protocol server, offering features like retrieving upcoming events.
+- [Leonelberio/the-wordpress-mcp-server](https://github.com/Leonelberio/the-wordpress-mcp-server): Facilitates seamless interaction with WordPress sites via JSON-RPC 2.0, enabling post creation, retrieval, and updates through the WordPress REST API.
+- [tsainte/wordpress-automation-mcp](https://github.com/tsainte/wordpress-automation-mcp): Automate WordPress post management with a Python-based MCP server, offering CRUD operations and post status handling.
+- [tonioshikanlu/mcp-gdrive-server](https://github.com/tonioshikanlu/mcp-gdrive-server): Integrates with Google Drive to enable file listing, reading, and searching capabilities.
+- [Utsav-Ladani/WordPress-MCP](https://github.com/Utsav-Ladani/WordPress-MCP): Facilitates seamless content management in WordPress by enabling post creation, updates, and searches through a Model Context Protocol server.
+- [granthooks/Nocodb-MCP-Server](https://github.com/granthooks/Nocodb-MCP-Server): Facilitates CRUD operations on Nocodb databases via the Model Context Protocol, ensuring seamless integration and management of database records.
+- [rijkvanzanten/directus-mcp-server](https://github.com/rijkvanzanten/directus-mcp-server): Facilitates AI tool integration with Directus APIs, enabling seamless interaction and data retrieval.
+- [harlley/storyblok-mcp](https://github.com/harlley/storyblok-mcp): Manage Storyblok components using natural language descriptions with this MCP implementation.
+- [starbuck93/tandoor-mcp-server](https://github.com/starbuck93/tandoor-mcp-server): Facilitates seamless interaction with Tandoor Recipe Manager, enabling recipe creation, meal planning, and shopping list management.
+- [theWDY/office-editor-mcp](https://github.com/theWDY/office-editor-mcp): Enhance productivity by seamlessly integrating comprehensive Microsoft Office document processing capabilities into MCP Clients, enabling creation, editing, and management of Word, Excel, and PowerPoint documents without leaving the client environment.
+- [johnnyrobot/claude-canvas-mcp](https://github.com/johnnyrobot/claude-canvas-mcp): Facilitates seamless interaction with Canvas LMS through a Claude desktop MCP server, enabling comprehensive course and student management via the Canvas API.
+- [rakeshgangwar/freshrss-server](https://github.com/rakeshgangwar/freshrss-server): Facilitates AI interaction with FreshRSS feeds via the Fever API, enabling feed management and item retrieval.
+- [sdi2200262/eclass-mcp-server](https://github.com/sdi2200262/eclass-mcp-server): Facilitates AI agents' interaction with Open eClass by enabling authentication, course retrieval, and session management.
+- [mrwyndham/pocketbase-mcp](https://github.com/mrwyndham/pocketbase-mcp): Facilitates rapid development of PocketBase applications with advanced database operations and schema management.
+- [aryankeluskar/canvas-mcp](https://github.com/aryankeluskar/canvas-mcp): Empower AI agents to seamlessly interact with Canvas LMS and Gradescope, enabling natural language queries for courses, assignments, and resources.
+- [SpringMT/microcms-mcp-server](https://github.com/SpringMT/microcms-mcp-server): Facilitates content search and retrieval from microCMS using the Model Context Protocol, enabling seamless integration with LLM clients.
+- [LaubPlusCo/mcp-webdav-server](https://github.com/LaubPlusCo/mcp-webdav-server): Facilitates CRUD operations on WebDAV endpoints through natural language commands, integrating seamlessly with Claude Desktop.
+- [tuanle96/mcp-odoo](https://github.com/tuanle96/mcp-odoo): Integrates AI assistants with Odoo ERP systems via the Model Context Protocol, offering comprehensive access to Odoo models and data.
+- [tejedamiguel6/MCP-server-Contenful](https://github.com/tejedamiguel6/MCP-server-Contenful): Facilitates direct interaction between Claude and Contentful CMS data, enabling seamless content retrieval and management.
+- [RoyDGerkoeter/ghost-mcp](https://github.com/RoyDGerkoeter/ghost-mcp): Interact with Ghost CMS using LLM interfaces like Claude, offering secure access and management of blog entities through a comprehensive MCP server.
+- [mikecreighton/mikecreighton-dot-com-content-mcp](https://github.com/mikecreighton/mikecreighton-dot-com-content-mcp): Facilitates collaboration and content management for Mike Creighton Consulting by providing website pages as accessible resources to MCP clients.
+- [peancor/moodle-mcp-server](https://github.com/peancor/moodle-mcp-server): Facilitates LLM interactions with Moodle for managing courses, students, assignments, and quizzes.
+- [l33tdawg/strapi-mcp](https://github.com/l33tdawg/strapi-mcp): Facilitates seamless interaction with Strapi CMS by providing CRUD operations and media management through the MCP protocol.
+- [tbshiki/wp-mcpy](https://github.com/tbshiki/wp-mcpy): Facilitates MCP server configuration for Claude for Desktop to interact with WordPress sites.
+- [soderdrew/gdrive-mcp](https://github.com/soderdrew/gdrive-mcp): Facilitates AI assistants' seamless access to Google Docs, enabling document search, reading, and format conversion.
+- [sanity-io/sanity-mcp-server](https://github.com/sanity-io/sanity-mcp-server): Facilitates seamless interaction between AI models and Sanity's CMS, offering document management, GROQ querying, and semantic search capabilities.
+- [amgadabdelhafez/dbx-mcp-server](https://github.com/amgadabdelhafez/dbx-mcp-server): Facilitates seamless interaction with Dropbox through MCP-compatible clients, offering robust file and account management tools.
+- [kapilduraphe/webflow-mcp-server](https://github.com/kapilduraphe/webflow-mcp-server): Facilitates interaction between Claude and Webflow's APIs, enabling site management and data retrieval.
+- [MFYDev/ghost-mcp](https://github.com/MFYDev/ghost-mcp): Interact with Ghost CMS using LLM interfaces like Claude, managing posts, users, and newsletters securely via a Model Context Protocol server.
+- [Cleversoft-IT/drupal-modules-mcp](https://github.com/Cleversoft-IT/drupal-modules-mcp): A TypeScript-based server for retrieving detailed Drupal module information from drupal.org, enhancing AI and tool integration with accurate module data.
+- [Cleversoft-IT/drupal-tools-mcp](https://github.com/Cleversoft-IT/drupal-tools-mcp): Enhances Drupal development workflows by providing a TypeScript-based MCP server for managing and summarizing text notes with seamless integration into existing tools.
+- [glendaviesnz/wp-mcp](https://github.com/glendaviesnz/wp-mcp): Facilitates interaction between WordPress tools and LLMs through a Model Context Protocol server.
+- [deus-h/claudeus-wp-mcp](https://github.com/deus-h/claudeus-wp-mcp): Claudeus WordPress MCP empowers WordPress management with AI-driven automation, enhancing content creation, SEO, and multi-site operations.
+- [aaronsb/confluence-cloud-mcp](https://github.com/aaronsb/confluence-cloud-mcp): Facilitates AI-driven management of Confluence Cloud spaces, pages, and content through a standardized MCP interface.
+- [stefans71/wordpress-mcp-server](https://github.com/stefans71/wordpress-mcp-server): Automate WordPress interactions using JSON-RPC 2.0 protocol with this MCP server.
+- [nloui/paperless-mcp](https://github.com/nloui/paperless-mcp): Facilitates seamless interaction with Paperless-NGX for document management, including operations like tagging, searching, and uploading documents.
+- [emzimmer/server-wp-mcp](https://github.com/emzimmer/server-wp-mcp): Facilitates AI-driven interactions with multiple WordPress sites via secure REST API access, enabling seamless content management and site configuration.
+- [misterboe/strapi-mcp-server](https://github.com/misterboe/strapi-mcp-server): Facilitates AI-driven interactions with Strapi CMS through a standardized protocol, supporting content management and REST API operations.
+- [r-huijts/canvas-mcp](https://github.com/r-huijts/canvas-mcp): Facilitates AI-driven management of Canvas LMS through a Model Context Protocol server, enabling seamless interaction with course data and student information.
+- [Omedia/mcp-server-drupal](https://github.com/Omedia/mcp-server-drupal): A TypeScript-based MCP server designed to integrate with the Drupal MCP module using STDIO transport.
+- [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp): Integrates with Contentful's API to manage content, spaces, and environments with full CRUD operations and bulk processing capabilities.
+- [jonradoff/lightcms](https://github.com/jonradoff/lightcms): AI-native CMS with 41 MCP tools for managing websites through natural language. Create pages, templates, assets, themes, collections, redirects, and more with full content versioning.
+

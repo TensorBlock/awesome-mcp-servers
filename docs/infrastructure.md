@@ -1,0 +1,156 @@
+## 🏗️ Infrastructure
+
+Servers or systems that deliver core runtime functionalities for MCP, such as proxying, aggregation, orchestration, hosting, routing, or acting as gateways.
+
+- [lijian-ui/vcenter-mcp-server](https://github.com/lijian-ui/vcenter-mcp-server): Facilitates seamless integration with vCenter Server for efficient virtual machine management, including migration and information retrieval.
+- [chris-sun-star/mcp-server-k8s](https://github.com/chris-sun-star/mcp-server-k8s): Facilitates Kubernetes integration with Claude Desktop through a simple MCP server setup.
+- [Michael98671/agentbay](https://github.com/Michael98671/agentbay): AgentBay MCP Server offers a serverless cloud infrastructure for AI Agents, enabling rapid integration and execution of AI tasks with Alibaba Cloud's Wuying platform.
+- [shaxiaozz/prometheus-mcp-server](https://github.com/shaxiaozz/prometheus-mcp-server): A Golang-based server that integrates with Prometheus to provide real-time metric querying and exploration via the Model Context Protocol.
+- [LuizBranco-ClickHype/VPS-MCP-SERVER](https://github.com/LuizBranco-ClickHype/VPS-MCP-SERVER): Automates the setup and management of MCP servers for infrastructure management using natural language commands.
+- [messageaid/mcp](https://github.com/messageaid/mcp): Facilitates message brokering across RabbitMQ, Azure Service Bus, and SQS with multi-broker support.
+- [3loka/consul-mcp-server](https://github.com/3loka/consul-mcp-server): Facilitates AI-driven analysis and management of Consul service discovery and mesh through natural language interaction.
+- [pcholakov/restate-mcp-server](https://github.com/pcholakov/restate-mcp-server): Facilitates management and deployment of Restate services through an MCP server interface.
+- [kocierik/mcp-nomad](https://github.com/kocierik/mcp-nomad): Golang-based server facilitating seamless integration with Nomad for job management and monitoring.
+- [FunnyPuppet/mcp-s3-server](https://github.com/FunnyPuppet/mcp-s3-server): Facilitates object storage operations with a comprehensive set of commands for managing buckets and objects.
+- [kocierik/consul-mcp-server](https://github.com/kocierik/consul-mcp-server): Facilitates interaction with Consul's service management, health checks, KV store, and more via a standardized MCP interface.
+- [Cognitive-Stack/ares-devops-mcp](https://github.com/Cognitive-Stack/ares-devops-mcp): Facilitates seamless integration and management of Azure DevOps Git repositories with secure operations and pipeline automation.
+- [kmathur/mcp-server-kubernetes](https://github.com/kmathur/mcp-server-kubernetes): Facilitates Kubernetes cluster management through a Model Context Protocol server, enabling operations like pod management, namespace creation, and Helm chart installations.
+- [AdLibML/mcpserver](https://github.com/AdLibML/mcpserver): Deploys math, weather, and Brave search services using FastAPI and Docker for remote access via MCP protocol.
+- [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server): Facilitates cloud operations by managing and automating Alibaba Cloud resources through a comprehensive MCP server.
+- [bourbonkk/k8s-pilot](https://github.com/bourbonkk/k8s-pilot): Centralized control plane server for managing multiple Kubernetes clusters with intuitive APIs and multi-cluster context switching.
+- [kartikgajjar/mcp-server](https://github.com/kartikgajjar/mcp-server): Facilitates integration with Elastic Search through a demo MCP server setup.
+- [Markermav/ProxmoxMCP-advance](https://github.com/Markermav/ProxmoxMCP-advance): Manage and automate Proxmox virtual machines and clusters with advanced features like VM provisioning, command execution, and resource monitoring.
+- [ayushps1/remote-mcp-server](https://github.com/ayushps1/remote-mcp-server): Deploy and manage a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.
+- [iannuttall/flux-ui-mcp](https://github.com/iannuttall/flux-ui-mcp): A TypeScript-based server offering AI assistants access to Flux UI component documentation and examples through the Model Context Protocol.
+- [Houlong66/mns-mcp-server](https://github.com/Houlong66/mns-mcp-server): Facilitates management of Alibaba Cloud Message Service queues through an MCP framework, enabling easy integration and operation via configuration files.
+- [melihteke/Subnet-Calculator-MCP-Server](https://github.com/melihteke/Subnet-Calculator-MCP-Server): Facilitates subnet calculations using CIDR notation through an MCP server with SSE transport.
+- [stolostron/server-foundation-dev-context](https://github.com/stolostron/server-foundation-dev-context): Facilitates the setup and management of server foundation repositories through an MCP server integration with code agents.
+- [ardecode/netbox-mcp-server](https://github.com/ardecode/netbox-mcp-server): Connects to NetBox to expose network infrastructure data for use with MCP-compatible LLMs like Claude.
+- [G1L1-Tech/remote-mcp-server](https://github.com/G1L1-Tech/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool invocation.
+- [ap425q/CutterMCP](https://github.com/ap425q/CutterMCP): Facilitates autonomous reverse engineering of applications by LLMs using Cutter's core functionalities.
+- [cappt-team/mcp-server-nodejs](https://github.com/cappt-team/mcp-server-nodejs): Facilitates the generation of outlines and presentations using Cappt with NodeJS.
+- [devilofdev/mcp-config](https://github.com/devilofdev/mcp-config): Facilitates the configuration and management of multiple MCP servers, including filesystem, Obsidian, and Git integrations.
+- [koudaiDemon/mcp-server-hand](https://github.com/koudaiDemon/mcp-server-hand): Enhances user shopping experiences by analyzing conversations to provide personalized product recommendations through intelligent tag matching.
+- [Humboldtian/remote-mcp-server](https://github.com/Humboldtian/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [str8zero/Str8zeroMCP](https://github.com/str8zero/Str8zeroMCP): A template MCP server integrated with Mem0, enabling AI agents to manage long-term memory through semantic search and storage.
+- [tjun/terraform-doc-mcp](https://github.com/tjun/terraform-doc-mcp): Facilitates access to Terraform provider and resource documentation for integration with LLMs like Claude Desktop.
+- [jgarciaga/overseerr-mcp](https://github.com/jgarciaga/overseerr-mcp): Facilitates interaction with the Overseerr API for managing movie and TV show requests.
+- [joinbuildclub/buildclub-mcp-server](https://github.com/joinbuildclub/buildclub-mcp-server): BuildClub's official server facilitates seamless integration with Claude Desktop through MCP protocol.
+- [SpaceFrontiers/mcp](https://github.com/SpaceFrontiers/mcp): Facilitates interaction with Space Frontiers data sources via a Model Context Protocol server using FastAPI.
+- [adityaoberai/github-profile-mcp](https://github.com/adityaoberai/github-profile-mcp): Facilitates AI assistants in accessing and analyzing GitHub profile data and repositories through a simple API.
+- [jroyal/remote-mcp-server](https://github.com/jroyal/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [BhagyaAmarasinghe/mcp-kubernetes](https://github.com/BhagyaAmarasinghe/mcp-kubernetes): Facilitates the execution of Kubernetes commands via Claude Desktop or any MCP-compatible client.
+- [mrexodia/test-mcp](https://github.com/mrexodia/test-mcp): A simple MCP server designed for testing and development with integration support for Claude Desktop and Cline Extension.
+- [Spel/remote-mcp-server1](https://github.com/Spel/remote-mcp-server1): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
+- [POC-2025/servers](https://github.com/POC-2025/servers): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled tool and data access for Large Language Models.
+- [zhuzhoulin/dify-mcp-server](https://github.com/zhuzhoulin/dify-mcp-server): A TypeScript-based server that dynamically connects MCP Clients to Dify applications, exposing them as tools for seamless integration.
+- [chaso-pa/mcp-server-template](https://github.com/chaso-pa/mcp-server-template): A template for setting up MCP servers with customizable command configurations for GitHub, PyPI, and local environments.
+- [mmcspiritt/remote-mcp-server](https://github.com/mmcspiritt/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [renato0307/go-mcp-rest](https://github.com/renato0307/go-mcp-rest): A toolkit for generating Go-based MCP server and client code from OpenAPI specifications, following the Model-Controller-Provider pattern.
+- [oyzh888/weather](https://github.com/oyzh888/weather): Provides real-time weather alerts and forecasts using the National Weather Service API.
+- [danfmaia/mcp-server](https://github.com/danfmaia/mcp-server): A general MCP server offering tools for AI agents to check HTTP/HTTPS links in Markdown files via stdin/stdout communication.
+- [wstcpyt/mcp-node-template](https://github.com/wstcpyt/mcp-node-template): A Node.js and TypeScript template for building MCP servers with integrated resources, tools, and prompts for LLM interaction.
+- [fdmocho/MCP_Quick_Resources](https://github.com/fdmocho/MCP_Quick_Resources): A repository offering quickstart resources for building MCP servers and clients, including a weather server and LLM-powered chatbot client.
+- [shaunliew/weather_mcp](https://github.com/shaunliew/weather_mcp): A tutorial and implementation of a weather forecasting MCP server with LangChain and SmolAgents integration.
+- [t-j-thomas/jama-mcp-server](https://github.com/t-j-thomas/jama-mcp-server): Facilitates read-only interactions with Jama Connect using the Model Context Protocol.
+- [terrytaylorbonn/348_mcp_github](https://github.com/terrytaylorbonn/348_mcp_github): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for LLMs.
+- [JckHoe/python-mcp-client](https://github.com/JckHoe/python-mcp-client): A command-line interface tool for interacting with various AI models through MCP servers.
+- [sujal862/MCPTester](https://github.com/sujal862/MCPTester): A web application designed to test MCP servers locally using JSON or NPX command formats, offering real-time response monitoring and error detection.
+- [peakacom/peaka-mcp-server](https://github.com/peakacom/peaka-mcp-server): Facilitates LLMs in executing SQL queries and inspecting schemas on Peaka projects using the Model Context Protocol.
+- [tyson-tx/mcp-server-cursorshare](https://github.com/tyson-tx/mcp-server-cursorshare): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
+- [joon1251ai/smithery-mcp-server-test](https://github.com/joon1251ai/smithery-mcp-server-test): Facilitates GitHub API interactions for file operations, repository management, and advanced search capabilities.
+- [guolisen/ts_mcp_client](https://github.com/guolisen/ts_mcp_client): A TypeScript-based client for testing MCP servers with support for multiple LLM providers and tool calling capabilities.
+- [mthadley-workos/remote-mcp-server](https://github.com/mthadley-workos/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool invocation.
+- [infactory-io/infactory-mcp](https://github.com/infactory-io/infactory-mcp): Facilitates interaction with Infactory APIs using language models for project management, data manipulation, and user management.
+- [jongkwang/allthatnode-mcp](https://github.com/jongkwang/allthatnode-mcp): Facilitates AI assistants' interaction with blockchain networks via AllThatNode's RPC services.
+- [nnquant/qmt-mcp-server](https://github.com/nnquant/qmt-mcp-server): Facilitates stock trading by interfacing with the XunTou QMT trading system, offering functionalities like account asset queries, order placements, and cancellations.
+- [VesperAkshay/MCP-Hive](https://github.com/VesperAkshay/MCP-Hive): MCP-Hive is a versatile client that connects to various MCP servers, integrating AI providers like OpenAI and Groq for enhanced interactions.
+- [shuaking/remote-mcp-server](https://github.com/shuaking/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [Eric775430/my-mcp-server](https://github.com/Eric775430/my-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool invocation.
+- [githubpradeep/remote-mcp-server](https://github.com/githubpradeep/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [gdlf13/MCP-Servers](https://github.com/gdlf13/MCP-Servers): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access for LLMs to various tools and data sources.
+- [blackpr/mcp-tutorial](https://github.com/blackpr/mcp-tutorial): A comprehensive suite of MCP servers demonstrating tasks like process control, task scheduling, and resource monitoring.
+- [JackXuyi/env-mcp](https://github.com/JackXuyi/env-mcp): A cross-platform MCP toolkit for retrieving detailed system information, easily integrable into MCP-supported applications with TypeScript support.
+- [anix001/mcp-server-starter-kit](https://github.com/anix001/mcp-server-starter-kit): A TypeScript SDK for building MCP servers and clients, facilitating seamless context provision for LLMs.
+- [openeuler-mirror/mcp-servers](https://github.com/openeuler-mirror/mcp-servers): A repository for hosting various MCP Servers focused on enhancing the openEuler operating system's interaction capabilities.
+- [yorkchanpru/mcp-ssh](https://github.com/yorkchanpru/mcp-ssh): Facilitates secure SSH access and command execution on remote virtual machines with comprehensive session management and error handling.
+- [SimFG/etcd-mcp](https://github.com/SimFG/etcd-mcp): A Management Control Panel server for etcd, offering tools for cluster health monitoring, key-value management, and data backup and restoration.
+- [0kenx/mcp-servers](https://github.com/0kenx/mcp-servers): A comprehensive suite of MCP servers enabling AI assistants to securely execute code, manage files, and process web content in local environments.
+- [shris-ai/mcp-server-sarvam](https://github.com/shris-ai/mcp-server-sarvam): Facilitates language processing tasks like translation, language identification, and transliteration between English and Indic languages.
+- [aaPanel/mcp-server](https://github.com/aaPanel/mcp-server): Facilitates management of aaPanel services and resources through an MCP interface, including PHP websites, MySQL databases, and Docker containers.
+- [AleWarriorPrior/remote-mcp-server](https://github.com/AleWarriorPrior/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [AvinashBole/quip-mcp-server](https://github.com/AvinashBole/quip-mcp-server): Facilitates seamless interaction with Quip documents through AI assistants by leveraging the Model Context Protocol.
+- [yupengfei1209/coding_devops_mcp_server](https://github.com/yupengfei1209/coding_devops_mcp_server): Facilitates interaction with the CODING DevOps platform through standardized interfaces for project and work item management.
+- [alexei-led/k8s-mcp-server](https://github.com/alexei-led/k8s-mcp-server): Facilitates secure execution of Kubernetes commands by AI assistants, bridging language models with Kubernetes CLI tools for efficient cluster management.
+- [GGEDeveloper/servers](https://github.com/GGEDeveloper/servers): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for Large Language Models.
+- [AdsPower/local-api-mcp-typescript](https://github.com/AdsPower/local-api-mcp-typescript): Facilitates interaction with AdsPower's LocalAPI for browser management via MCP, enabling LLMs to create, update, and manage browser instances.
+- [kwenhwang/hrfco-service](https://github.com/kwenhwang/hrfco-service): Provides real-time hydrological information retrieval, including water levels and dam discharge rates, through an MCP server.
+- [tomtev/remote-mcp-server](https://github.com/tomtev/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool invocation.
+- [dpk83/adomcpserver](https://github.com/dpk83/adomcpserver): Facilitates seamless interaction with Azure DevOps using natural language queries via the REST API.
+- [h4nz4/testovoe-mcpserver](https://github.com/h4nz4/testovoe-mcpserver): A Node.js and TypeScript-based MCP server designed for integration with Claude Desktop, featuring tools for weather, currency exchange rates, and news feeds.
+- [Kostya-Zhdanovich/Mcp-server-test](https://github.com/Kostya-Zhdanovich/Mcp-server-test): Facilitates weather updates, currency conversion, and news retrieval through an MCP server with Claude Desktop integration.
+- [lupuletic/onyx-mcp-server](https://github.com/lupuletic/onyx-mcp-server): Connects MCP-compatible clients to Onyx AI knowledge bases for semantic search and chat capabilities.
+- [LOTUSSSB/MCPServer](https://github.com/LOTUSSSB/MCPServer): AlgoMD simplifies algorithm code analysis and documentation generation using MCP, with features like automatic C++ code reading and structured Markdown output.
+- [mmruesch12/azdo-mcp](https://github.com/mmruesch12/azdo-mcp): Facilitates AI-driven interactions with Azure DevOps work items, pull requests, and wikis.
+- [davidlin2k/pox-mcp-server](https://github.com/davidlin2k/pox-mcp-server): A Model Context Protocol server that enhances network control and management through the POX SDN controller, ideal for educational and research purposes.
+- [peterclemenko/mcp-nu-rs-template](https://github.com/peterclemenko/mcp-nu-rs-template): A Rust-based CLI server template for implementing MCP, facilitating seamless integration between LLM applications and external data sources.
+- [kelvin6365/plane-mcp-server](https://github.com/kelvin6365/plane-mcp-server): Facilitates LLMs to manage projects and issues through Plane's API, ensuring user control and security.
+- [hoshinotsuyoshi/mcp-server-local-rails-runner](https://github.com/hoshinotsuyoshi/mcp-server-local-rails-runner): Facilitates local execution of Rails console commands with tools for safe read-only operations and managed mutations.
+- [AliNagy/godspeed-mcp](https://github.com/AliNagy/godspeed-mcp): Facilitates seamless integration with the Godspeed Task Management API for efficient task handling and list management.
+- [husqvaluna/symbol-mcp-server](https://github.com/husqvaluna/symbol-mcp-server): Facilitates interaction with the Symbol blockchain through REST API tools using the Model Context Protocol.
+- [Gloomysunday28/mcp-server](https://github.com/Gloomysunday28/mcp-server): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
+- [minovap/mcp-gateway](https://github.com/minovap/mcp-gateway): A centralized gateway that consolidates multiple MCP servers into a single access point, optimizing parallel execution and configuration management.
+- [crp1212/mcp-test-serve](https://github.com/crp1212/mcp-test-serve): A TypeScript-based MCP server implementing a simple notes system with features for creating and summarizing text notes.
+- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos): Provides real-time access to NixOS resources, ensuring AI assistants deliver accurate information about packages, system options, and configurations.
+- [oenius/servers](https://github.com/oenius/servers): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled tool access for LLMs using TypeScript and Python SDKs.
+- [tekorex/umcp-php](https://github.com/tekorex/umcp-php): μMCP offers a minimalist PHP library for building MCP servers with zero dependencies, enabling quick tool creation for MCP clients.
+- [BitteProtocol/mcp](https://github.com/BitteProtocol/mcp): Facilitates AI integrations through MCP servers, leveraging a monorepo structure for efficient service management.
+- [tmizuma/mcp-server](https://github.com/tmizuma/mcp-server): A Node.js-based MCP server designed for executing and managing frequent word analysis tasks on AWS.
+- [derbenoo/fiberflow-mcp-gateway](https://github.com/derbenoo/fiberflow-mcp-gateway): Fiberflow MCP Gateway facilitates running a Fiberflow MCP SSE Server over stdio, enabling seamless integration with Fiberflow's API.
+- [pavanjava/kafka_mcp_server](https://github.com/pavanjava/kafka_mcp_server): Integrates Apache Kafka with AI models for seamless message publishing and consumption through a standardized interface.
+- [jkf87/mcp-google-calendar](https://github.com/jkf87/mcp-google-calendar): Facilitates Claude's integration with Google Calendar using MCP, enabling seamless event management through OAuth authentication.
+- [abhijeetka/mcp-k8s-server](https://github.com/abhijeetka/mcp-k8s-server): Facilitates Kubernetes cluster management through natural language interactions with LLMs, leveraging the Model Context Protocol for seamless integration.
+- [bitflower/mcp-servers](https://github.com/bitflower/mcp-servers): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing its versatility in providing secure and controlled access to tools and data sources for LLMs.
+- [hannesj/mcp-openapi-schema](https://github.com/hannesj/mcp-openapi-schema): Facilitates LLMs in exploring and understanding OpenAPI specifications through specialized tools for schema interaction.
+- [newtype-01/obsidian-mcp](https://github.com/newtype-01/obsidian-mcp): Connects AI models with Obsidian knowledge bases for seamless note management and integration.
+- [severity1/terraform-cloud-mcp](https://github.com/severity1/terraform-cloud-mcp): Integrates AI assistants with Terraform Cloud API for infrastructure management through natural conversation.
+- [saurrx/mcp-test](https://github.com/saurrx/mcp-test): Integrates with the Spheron Protocol SDK to enable compute deployment and management via natural language to YAML conversion.
+- [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server): Integrates with Vectorize for advanced vector retrieval and text extraction.
+- [3dify-project/dify-mcp-client](https://github.com/3dify-project/dify-mcp-client): This repository provides an MCP Client as an Agent Strategy Plugin for connecting to MCP servers, facilitating tool integration and interaction with LLMs.
+- [im2nguyen/mcp-cli](https://github.com/im2nguyen/mcp-cli): A versatile command-line interface for managing and interacting with AI-powered MCP servers, supporting both on-demand and long-running server processes.
+- [jiantao88/android-mcp-server](https://github.com/jiantao88/android-mcp-server): Facilitates interaction between Claude and Android devices via ADB, offering a suite of device management tools.
+- [Dhananjay-JSR/tailscale-mcp](https://github.com/Dhananjay-JSR/tailscale-mcp): An experimental server leveraging Tailscale's capabilities through reverse engineering, exclusively supporting Windows platforms.
+- [Dienvm/mcp-servers](https://github.com/Dienvm/mcp-servers): Facilitates GitHub API interactions and web browser automation through Puppeteer with MCP server configurations.
+- [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp): A command-line tool enabling AI assistants to manage Terraform environments through the Model Context Protocol, with integration for Claude Desktop.
+- [usegranthq/mcp-server](https://github.com/usegranthq/mcp-server): Facilitates interaction with the UseGrant API by managing providers, clients, tenants, and access tokens.
+- [vlttnv/k8s-mcp](https://github.com/vlttnv/k8s-mcp): A Python-based MCP server for Kubernetes clusters, offering a comprehensive API to access cluster information and diagnose issues.
+- [yeakub108/mcp-server](https://github.com/yeakub108/mcp-server): An AI-powered MCP server for Windsurf that offers intelligent coding assistance through advanced reasoning LLMs and custom AI tools.
+- [FREEZONEX/mcp-server-supos](https://github.com/FREEZONEX/mcp-server-supos): Facilitates access to supOS open APIs for querying and analyzing topic structures and real-time data using the MCP protocol.
+- [neurelo-connect/neurelo-connect-mcp](https://github.com/neurelo-connect/neurelo-connect-mcp): Facilitates natural language interactions with databases using the Neurelo Connect MCP server, enabling tasks like schema retrieval and SQL query execution.
+- [ArthurClune/MCP-Demo](https://github.com/ArthurClune/MCP-Demo): A minimal MCP server that executes the shell command 'ls' to list directory contents, designed for educational purposes.
+- [dennismartis/mcp-server](https://github.com/dennismartis/mcp-server): A basic MCP server implementing a note storage system with custom URI schemes and summarization capabilities.
+- [mattjoyce/senechal-mcp](https://github.com/mattjoyce/senechal-mcp): A companion MCP server for the Senechal project, enabling LLMs to access and analyze health data through a standardized interface.
+- [ragieai/ragie-mcp-server](https://github.com/ragieai/ragie-mcp-server): Facilitates AI model access to Ragie's knowledge base through a Model Context Protocol server, enabling efficient information retrieval.
+- [Asphere-xyz/aapi-mcp-server](https://github.com/Asphere-xyz/aapi-mcp-server): Facilitates AI models in accessing blockchain data and executing operations via Ankr's Advanced APIs.
+- [nefino/mcp-nefino](https://github.com/nefino/mcp-nefino): Provides LLMs with structured access to renewable energy news and information in Germany via the Nefino API.
+- [AojdevStudio/servers](https://github.com/AojdevStudio/servers): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing its versatility in providing secure, controlled access to tools and data sources for LLMs.
+- [Lumi-node/all_servers](https://github.com/Lumi-node/all_servers): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled tool access for LLMs.
+- [shin-t-o/mcp-access](https://github.com/shin-t-o/mcp-access): A custom MCP server enabling web and PDF text extraction and command execution through a user-friendly interface.
+- [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp): Tavily MCP server enables seamless integration with AI clients like Claude, offering real-time web search and intelligent data extraction capabilities.
+- [waldur/waldur-mcp-server](https://github.com/waldur/waldur-mcp-server): Facilitates seamless interaction between Waldur and Claude Desktop through the Model Context Protocol.
+- [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp): A fast, secure MCP server enhanced with WebAssembly plugins for versatile AI integration across platforms.
+- [PoliTwit1984/second-opinion-mcp-server](https://github.com/PoliTwit1984/second-opinion-mcp-server): Provides AI-powered coding assistance by integrating insights from Google's Gemini AI, Stack Overflow, and Perplexity AI.
+- [asbloom-py/mcp-servers](https://github.com/asbloom-py/mcp-servers): Facilitates GitHub API interactions with advanced file operations, repository management, and search capabilities.
+- [AgentWong/optimized-memory-mcp-server](https://github.com/AgentWong/optimized-memory-mcp-server): A Python-based MCP server utilizing a local knowledge graph for persistent memory, enabling Claude AI to remember user information across interactions.
+- [zentu-co/mcp-servers](https://github.com/zentu-co/mcp-servers): A monorepo of MCP server implementations, including a server for accessing Svelte 5 documentation, managed with pnpm workspaces.
+- [folderr-tech/folderr-mcp-server](https://github.com/folderr-tech/folderr-mcp-server): Facilitates interaction with Folderr's API for managing and communicating with Folderr Assistants.
+- [aindreyway/mcp-neurolora](https://github.com/aindreyway/mcp-neurolora): An intelligent server offering tools for code analysis, collection, and documentation generation using OpenAI API.
+- [TaichiHo/k8s-interactive-mcp](https://github.com/TaichiHo/k8s-interactive-mcp): Facilitates Kubernetes command execution and interpretation via MCP tools, enhancing command line flexibility and error handling.
+- [gxjansen/MCP](https://github.com/gxjansen/MCP): Enhance Cline's functionality with specialized MCP servers for Astro documentation access and file comparison.
+- [Bina-man/modelcontextprotocol](https://github.com/Bina-man/modelcontextprotocol): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for LLMs.
+- [toolhouse-community/mcp-server-toolhouse](https://github.com/toolhouse-community/mcp-server-toolhouse): Connects MCP clients with Toolhouse's tools for enhanced capabilities using Groq's API for fast inference.
+- [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server): Facilitates interaction with Kubernetes clusters via the Claude Desktop App, leveraging eBPF-based telemetry for deep observability.
+- [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes): Facilitates Kubernetes cluster management through a robust MCP server, enabling seamless interaction with Kubernetes resources and Helm charts.
+- [netcaster1/e2b-mcp](https://github.com/netcaster1/e2b-mcp): A secure sandbox environment for executing code using the Model Context Protocol, tailored for integration with Claude Desktop.
+- [kswap/consul-mcp](https://github.com/kswap/consul-mcp): Facilitates Consul service discovery and mesh integration through an MCP server interface.
+
