@@ -546,3 +546,4 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [nikitacometa/mnemon-mcp](https://github.com/nikitacometa/mnemon-mcp): Persistent layered memory for AI agents. SQLite FTS5, fact versioning with superseding chains, and zero-cloud local storage.
 
 - [OdinBot33/cce-mcp-server](https://github.com/OdinBot33/cce-mcp-server): AI agent astrology and identity layer. Computes natal birth charts from creation timestamps using Swiss Ephemeris, delivers personalized transits, cosmic weather with Volatility Index, agent-to-agent synastry, and network intelligence. 8 MCP tools with a resonance progression system.
+- [get-engram/engram](https://github.com/get-engram/engram): Hosted memory service for AI agents that stores complete, verbatim conversation transcripts and makes them searchable via semantic search. Built on Cloudflare Workers + D1 + Vectorize. Free tier at mcp.getengram.app.
