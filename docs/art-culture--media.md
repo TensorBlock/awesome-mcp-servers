@@ -2,6 +2,7 @@
 
 Servers interacting with APIs for museums, media databases, image/video hosting, or creative content platforms.
 
+- [spritecook/spritecook-mcp](https://github.com/spritecook/spritecook-mcp): Generates pixel art sprites and animations for game developers, turning text prompts into game-ready characters, items, and sprite sheet animations.
 - [ourongxing/newsnow-mcp-server](https://github.com/ourongxing/newsnow-mcp-server): Facilitates access to over 40 news sources through a dedicated MCP server for NewsNow.
 - [trevhud/vibe-mcp](https://github.com/trevhud/vibe-mcp): Generates music based on coding context with support for multiple audio backends and seamless playback.
 - [eluc1a/mcp-news](https://github.com/eluc1a/mcp-news): Facilitates access to categorized news articles from a database, enabling clients to retrieve and summarize the latest content.
