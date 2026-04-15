@@ -2,6 +2,7 @@
 
 Servers focused on generating or manipulating images, processing video, audio transcription, text-to-speech, or document conversion.
 
+- [spritecook/spritecook-mcp](https://github.com/spritecook/spritecook-mcp): Generates pixel art sprites and animations for game developers, turning text prompts into game-ready characters, items, and sprite sheet animations.
 - [AIDC-AI/Pixelle-MCP](https://github.com/AIDC-AI/Pixelle-MCP): An omnimodal AIGC framework that seamlessly converts ComfyUI workflows into MCP tools with zero code, enabling full-modal support for Text, Image, Sound, and Video generation with Chainlit-based web interface.
 - [aimino/imagemagic-mcp](https://github.com/aimino/imagemagic-mcp): Enhance images with binarization, color adjustment, and resizing using ImageMagick via the MCP protocol.
 - [SkyworkAI/Mureka-mcp](https://github.com/SkyworkAI/Mureka-mcp): Facilitates the creation of lyrics, songs, and background music through an MCP server, enabling seamless integration with platforms like Claude Desktop and OpenAI Agents.
