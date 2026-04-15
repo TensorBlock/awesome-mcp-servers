@@ -195,6 +195,7 @@ Servers using tools for browser control, automation, and extracting content from
 - [yifanyifan897645/webcheck-mcp](https://github.com/yifanyifan897645/webcheck-mcp) - Website health checker MCP server: SEO audit, accessibility scan, broken link detection, and performance analysis.
 - [yifanyifan897645/deadlink-checker-mcp](https://github.com/yifanyifan897645/deadlink-checker-mcp) - Dead link checker MCP server for websites: detects broken links, redirects, and timeouts with detailed reporting.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern): Automates browser-based workflows using LLMs and computer vision, with a Playwright-compatible SDK, no-code workflow builder, and MCP server for AI agents to control any website.
+- [Darko893/mcp-server](https://github.com/Darko893/mcp-server): AI-powered web scraping MCP server that extracts structured data from any webpage using natural language prompts. Supports JavaScript rendering, CSS selectors, and free tier (100 req/mo).
 
 ## 🏗️ Build & Deployment Tools
 
