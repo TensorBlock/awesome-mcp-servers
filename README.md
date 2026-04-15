@@ -495,6 +495,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing prevents overwrites, shared memory compounds learnings, cross-machine sync eliminates merge conflicts. One MCP server, any IDE.
 - [cafeTechne/antigravity-link-extension](https://github.com/cafeTechne/antigravity-link-extension): MCP server + OpenAPI API to control Antigravity IDE instances (snapshot, send, stop generation, switch instance, task/walkthrough/plan retrieval) with a mobile companion UI.
 - [rendoc](https://github.com/yoryocoruxo-ai/rendoc) - Generate professional PDF documents from HTML templates and dynamic data via MCP. Features template management, live preview, and usage tracking through rendoc.dev API.
 - [CristianCiubancan/sequentialthinking](https://github.com/CristianCiubancan/sequentialthinking): Facilitates dynamic problem-solving through structured, step-by-step thinking processes.
