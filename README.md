@@ -828,6 +828,7 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [hilyfux/knowledge-graph](https://github.com/hilyfux/knowledge-graph): Built on Anthropic internal engineering practices and Karpathy's AutoResearch methodology. A zero-dependency, git-native memory layer for Claude Code that persists learned context across sessions, pure bash, ~3ms/event, and privacy-first.
 - [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp): Persistent memory for AI agents with 107 tools: remember, recall, rollback, audit, knowledge graph, governed actions, eval, cortex, and Runtime v2 agent orchestration. Local SQLite (zero-config) or Novyx Cloud. Install via `uvx novyx-mcp`. MIT licensed.
 - [yantrikos/yantrikdb-mcp](https://github.com/yantrikos/yantrikdb-mcp): Cognitive memory for AI agents — persistent semantic memory with knowledge graph, adaptive recall, conflict detection, entity relationships, and memory consolidation across sessions. 24 tools. Works with Claude Code, Cursor, Windsurf, and any MCP client.
 - [Evanyuan-builder/memory-core](https://github.com/Evanyuan-builder/memory-core): Unified memory layer for AI agents and teams. Provides semantic search, temporal fact tracking (Graphiti/FalkorDB), and shared memory via REST API, Python SDK, and MCP server. Supports local Ollama — no cloud API key required.
