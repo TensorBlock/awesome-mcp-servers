@@ -653,6 +653,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [arcadia-finance/mcp-server](https://github.com/arcadia-finance/mcp-server): Manage Uniswap and Aerodrome liquidity positions with leverage, tomated rebalancing, and yield optimization on Base and Unichain.
 - [whitmorelabs/polymarket-mcp](https://github.com/whitmorelabs/polymarket-mcp): Trading intelligence tools for Polymarket prediction markets: slippage estimation, liquidity depth scanning, arbitrage detection, multi-source price feeds, and on-chain wallet intelligence.
 - [Veroq-api/veroq-mcp](https://github.com/Veroq-api/veroq-mcp): Financial intelligence MCP server with 52 tools for verified market data, trading signals, sentiment analysis, and fact-checking across 1,061+ tickers (equities, crypto, ETFs, commodities, indices). Multi-provider architecture with failover. Install via `npx veroq-mcp`.
+- [vdalhambra/financekit-mcp](https://github.com/vdalhambra/financekit-mcp): Financial market intelligence MCP with 17 tools for AI agents — stock quotes, technical analysis (RSI, MACD, Bollinger, ADX, Stochastic + Golden/Death Cross detection with structured verdicts), crypto via CoinGecko, risk metrics (VaR, Sharpe, Sortino, Beta), correlation matrix, options chains, earnings calendar, sector rotation, and portfolio analysis. No API keys required. FastMCP 3.2, MIT.
 
 ## 🧰 Frameworks
 
@@ -991,6 +992,7 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 - [groundlight/groundlight-mcp-server](https://github.com/groundlight/groundlight-mcp-server): Facilitates image analysis and query handling through detectors that leverage natural-language processing for Groundlight.
 - [mrwadams/otx-mcp](https://github.com/mrwadams/otx-mcp): Facilitates real-time interaction with AlienVault OTX for threat intelligence analysis and management through a comprehensive set of MCP tools.
 - [bobtista/honeybadger-mcp](https://github.com/bobtista/honeybadger-mcp): Facilitates AI-driven error analysis by bridging AI agents with the Honeybadger error monitoring service.
+- [vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp): Instant website audits MCP with 11 tools — full SEO (20+ checks), security headers + SSL, Lighthouse performance via Google PageSpeed, multi-site competitive comparison, broken link crawler, WCAG accessibility audit, Schema.org structured data validation, competitor gap analysis, robots.txt parser. No API keys. FastMCP 3.2, MIT.
 - [maito1201/cloudrun-logs-mcp](https://github.com/maito1201/cloudrun-logs-mcp): Facilitates AI assistants in accessing Google Cloud Run logs and service information through an MCP interface.
 - [Lee-1024/mcp-glances](https://github.com/Lee-1024/mcp-glances): Integrates MCP with LLMs to analyze server monitoring data via Glances API, providing real-time system status feedback.
 - [jalexspringer/impact-mcp-server](https://github.com/jalexspringer/impact-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
