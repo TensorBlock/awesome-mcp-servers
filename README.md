@@ -182,6 +182,7 @@ Servers using tools for browser control, automation, and extracting content from
 - [ronantakizawa/a11ymcp](https://github.com/ronantakizawa/a11ymcp): Empowers LLMs to conduct comprehensive web accessibility testing using Deque Axe-core API and Puppeteer.
 - [hamibot/hamibot-mcp-server](https://github.com/hamibot/hamibot-mcp-server): Facilitates interaction with the Hamibot API, offering tools for device and script management, including custom JavaScript execution on specified devices.
 - [YantaoMou/mcp_droid](https://github.com/YantaoMou/mcp_droid): Facilitates direct control and operation of Android devices by large language models through a standardized interface.
+- [avabuildsdata/mcp-us-business-data](https://github.com/avabuildsdata/mcp-us-business-data): Enables AI agents to search US business entities across 17 state Secretary of State databases, building permits in 400+ cities, and Yellow Pages listings with structured lead data.
 - [LuckyXYJ/mcp_ios_project](https://github.com/LuckyXYJ/mcp_ios_project): An MCP server configured for iOS projects, utilizing Python scripts for server execution.
 - [ying-dao/yingdao_mcp_server](https://github.com/ying-dao/yingdao_mcp_server): Empowers YingDao AI Power and other MCP Hosts to execute RPA tasks, supporting both SSE and Stdio server modes.
 - [catinair/aipower-rpa-mcp-server](https://github.com/catinair/aipower-rpa-mcp-server): Facilitates seamless interaction between YindDao AI Power and RPA tools, enabling AI-driven automation workflows.
