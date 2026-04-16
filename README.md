@@ -611,6 +611,8 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [ccassini/DEVNADS-Monad-TESNET-MCP-Tools](https://github.com/ccassini/DEVNADS-Monad-TESNET-MCP-Tools): Interact with the Monad blockchain testnet using a Model Context Protocol server for wallet management, network insights, and token operations.
 - [SheriffOladejo/mcp-monad](https://github.com/SheriffOladejo/mcp-monad): Facilitates querying MON token balances on the Monad testnet via an MCP server.
 - [letsbonk-ai/bonk-mcp](https://github.com/letsbonk-ai/bonk-mcp): Facilitates token launching and trading on the LetsBonk platform using Solana blockchain capabilities.
+- [jacksun911/megalaunch-mcp](https://github.com/jacksun911/megalaunch-mcp): AI-powered meme token launch on Solana/pump.fun via MCP. 6 tools: create orders, check status, get pricing. One-command install: `npx megalaunch-mcp`. Glama A/A/A rated.
+- [jacksun911/megaswap-mcp](https://github.com/jacksun911/megaswap-mcp): AI-native DEX on MegaETH. 9 tools for token swaps, price quotes, liquidity management. Supports ETH, MEGAS, USDM, USDT0 and any ERC-20. `npx megaswap-mcp`
 - [mvk24199/zerodha-trade](https://github.com/mvk24199/zerodha-trade): Facilitates automated stock trading on the Zerodha platform using Bun.js and Claude MCP integration.
 - [acambitsis/mcp-investec-sapb-simple](https://github.com/acambitsis/mcp-investec-sapb-simple): Facilitates seamless interaction with Investec SA Private Banking API through a streamlined MCP server implementation.
 - [wealthy/wealthy-mcp](https://github.com/wealthy/wealthy-mcp): Facilitates smart trading on the Wealthy platform through a Golang-based MCP server, enabling seamless integration with trading tools and platforms like Claude and Cursor.
