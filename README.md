@@ -1045,6 +1045,9 @@ Servers focused on generating or manipulating images, processing video, audio tr
 
 Servers providing access to the host operating system's command line/shell, executing OS commands, or managing system information.
 
+- [hairglasses-studio/process-mcp](https://github.com/hairglasses-studio/process-mcp): MCP server for Linux process inspection and debugging with composed multi-operation tools. Built with Go and mcpkit.
+- [hairglasses-studio/systemd-mcp](https://github.com/hairglasses-studio/systemd-mcp): MCP server for systemd service and timer management — start, stop, restart, enable/disable units, journal logs, failed service detection. Built with Go and mcpkit.
+- [hairglasses-studio/tmux-mcp](https://github.com/hairglasses-studio/tmux-mcp): MCP server for tmux session, window, and pane management with a declarative workspace builder. Built with Go and mcpkit.
 - [anurag-dhamala/os-info-mcp-server](https://github.com/anurag-dhamala/os-info-mcp-server): Provides real-time operating system information through an MCP server interface.
 - [aybelatchane/mcp-server-terminal](https://github.com/aybelatchane/mcp-server-terminal): MCP server enabling AI agents to interact with terminal applications (TUI/CLI) through structured Terminal State Tree representation. Think Playwright for terminals.
 - [mnardit/clipboard-mcp](https://github.com/mnardit/clipboard-mcp): Cross-platform system clipboard access (read, write, watch for changes) for AI assistants. Single Rust binary, zero runtime deps. Supports Windows, macOS, Linux (X11 + Wayland).
