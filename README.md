@@ -306,6 +306,7 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [BangNGH/github-code-index-mcp-server](https://github.com/BangNGH/github-code-index-mcp-server): Facilitates code indexing, searching, and analysis for large language models across multiple programming languages.
 - [CodeLogicIncEngineering/codelogic-mcp-server](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server): Leverage Codelogic's software dependency data for impact assessments in AI programming assistants.
 - [autonomous-testing/wopee-mcp](https://github.com/autonomous-testing/wopee-mcp): AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
+- [kuberstar/qartez-mcp](https://github.com/kuberstar/qartez-mcp): Semantic code intelligence MCP server with 27 tools for project maps, symbol search, impact analysis, call hierarchies, architecture boundaries, and safe refactoring. Built in Rust.
 
 ## 💻 Code Execution
 
