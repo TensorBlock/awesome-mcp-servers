@@ -377,3 +377,5 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [Kiln-AI](https://github.com/Kiln-AI/Kiln) Kiln is a free tool for building production-ready AI systems. It supports RAG pipelines, evaluations, agents, MCP tool-calling, synthetic data generation, and fine-tuning.
 - [izzzzzi/codewiki-mcp](https://github.com/izzzzzi/codewiki-mcp): MCP server for codewiki.google — AI-powered wiki documentation for open-source repositories. Search repos, fetch wiki content, and ask questions about any repo.
 
+
+- [pumanitro/global-chat](https://github.com/pumanitro/global-chat): Cross-protocol AI agent discovery MCP server. Search and register agents across MCP, A2A, and agents.txt protocols. Aggregates 18K+ MCP servers from 6+ registries with tools for searching, browsing, and validating agent configurations. Published as `@global-chat/mcp-server`.
