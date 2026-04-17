@@ -68,6 +68,7 @@ We welcome submissions! To add your MCP server:
 - 🖼️ - [Multimedia Processing](#️-multimedia-processing)
 - 🖥️ - [Operating System & Command Line](#️-operating-system--command-line)
 - ✅ - [Project & Task Management](#-project--task-management)
+- 🏠 - [Real Estate & Home Services](#-real-estate--home-services)
 - 🔬 - [Science & Research](#-science--research)
 - 🔎 - [Search](#-search)
 - 🔒 - [Security](#-security)
@@ -1127,6 +1128,12 @@ Servers integrating with project management and task tracking tools.
 - [menma-at-here/calendar-mcp-server](https://github.com/menma-at-here/calendar-mcp-server): Facilitates retrieval of Google Calendar events through an MCP server interface.
 - [taskade/mcp](https://github.com/taskade/mcp) – Official Taskade MCP server: connect Taskade’s API to any MCP-compatible client (e.g. Claude or Cursor), enabling workspace loading, task retrieval, and interactive operations.
 - [TourAround/LystBot](https://github.com/TourAround/LystBot): AI-powered list management MCP server. Create grocery lists, todos, and packing lists, add items, check them off, and share lists with family. 10 MCP tools for the full list lifecycle. Free iOS + Android app at lystbot.com.
+
+## 🏠 Real Estate & Home Services
+
+Servers for real-estate workflows, property management, and on-demand home services (bookings, cleaning, maintenance).
+
+- [GetColby/claw-cleaning](https://github.com/GetColby/claw-cleaning): Remote MCP server to book apartment cleanings in San Francisco via natural language. $40/hour, weekends, 8 AM–6 PM PT, SF addresses only. No install; endpoint `https://claw.cleaning/mcp`.
 
 ## 🔬 Science & Research
 
