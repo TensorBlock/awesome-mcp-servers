@@ -1216,6 +1216,7 @@ Servers providing web search capabilities or interfacing with specialized search
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [eltociear/skill-audit](https://github.com/eltociear/my-molt-agent/tree/main/mcp_servers/skill-audit) - Security vulnerability scanner for MCP servers. 68 attack patterns covering command injection, path traversal, SSRF, and unsafe deserialization. Found 68+ CVEs across 48 repos including awslabs/mcp, pal-mcp-server, and Google genai-toolbox.
 - [Agent Trust Stack MCP](https://github.com/alexfleetcommander/agent-trust-stack-mcp) - Cryptographic provenance, trust scoring, and tamper-evident logging for AI agent interactions via the Chain of Consciousness protocol.
 - [AgentLair](https://agentlair.dev): Secure identity infrastructure for AI agents — gives agents their own @agentlair.dev email address, encrypted credential vault, and cryptographically signed audit trail. Remote MCP server, no SMTP/DNS setup. npm: `@agentlair/mcp`.
 - [Rul1an/assay](https://github.com/Rul1an/assay): The firewall for MCP tool calls. Deterministic policy enforcement proxy with replayable evidence bundles, OWASP MCP Top 10 coverage (7/10), and compliance packs. MIT licensed.
