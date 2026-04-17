@@ -1167,6 +1167,7 @@ Servers accessing scientific databases, research platforms, or providing tools f
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
 - [AgentGrade](https://agentgrade.com): Scan any website for AI agent readiness — scores 80+ checks across payments, MCP, OpenAPI, and discovery. Remote MCP server at agentgrade.com/mcp.
+- [nothumansearch](https://nothumansearch.ai/mcp): Search engine and discovery index for 8,600+ agent-native services. Query MCP servers, OpenAPI providers, and llms.txt publishers by keyword, category, or minimum agentic readiness score (0-100). 6 tools: search_agents, get_site_details, get_stats, submit_site, register_monitor, verify_mcp.
 - [kansei-link/kansei-mcp-server](https://github.com/kansei-link/kansei-mcp-server): Intelligence layer for AI agents to discover and evaluate 156+ SaaS/API services with trust scores, 120 workflow recipes, intent-based search, and Agent Voice feedback from real agent usage.
 - [kokilabo/pdf-researcher](https://github.com/kokilabo/pdf-researcher): A specialized MCP server designed for searching PDF documents using the Brave Search API.
 - [joaomj/deep-search-mcp](https://github.com/joaomj/deep-search-mcp): Facilitates deep web searches using the LinkUp API, offering structured results and customizable search parameters.
