@@ -2,6 +2,8 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [vdalhambra/financekit-mcp](https://github.com/vdalhambra/financekit-mcp): Financial market intelligence MCP with 17 tools for AI agents — stock quotes, technical analysis (RSI, MACD, Bollinger, ADX, Stochastic + Golden/Death Cross detection with structured verdicts), crypto via CoinGecko, risk metrics (VaR, Sharpe, Sortino, Beta), correlation matrix, options chains, earnings calendar, sector rotation, and portfolio analysis. No API keys required. FastMCP 3.2, MIT.
+- [FXMacroData](https://github.com/fxmacrodata/fxmacrodata) - Macroeconomic indicators, central bank policy rates, FX spot rates, COT positioning data, and economic release calendars for 18+ currencies via a remote MCP server at https://fxmacrodata.com/mcp
 - [Helium MCP](https://github.com/connerlambden/helium-mcp) - Remote MCP server for real-time news intelligence with bias scoring (3.2M+ articles, 5000+ sources, 15+ dimensions), financial market data (stocks, ETFs, crypto, AI bull/bear cases), ML options pricing (probability ITM, Greeks, fair value), balanced news synthesis, trending topics, and meme search. [Documentation](https://heliumtrades.com/mcp-page/)
 - [FinancialData.Net MCP Server](https://financialdata.net/mcp-server) - Get real-time stock prices, fundamentals, institutional trading insights, and other financial data delivered through a universal Model Context Protocol (MCP) server.
 - [SignalFuse MCP](https://github.com/hypeprinter007-stack/signalfuse-mcp) - Fused crypto trading signals (sentiment, macro regime, and Hyperliquid market structure) as MCP tools for AI coding agents.
@@ -29,6 +31,8 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [ccassini/DEVNADS-Monad-TESNET-MCP-Tools](https://github.com/ccassini/DEVNADS-Monad-TESNET-MCP-Tools): Interact with the Monad blockchain testnet using a Model Context Protocol server for wallet management, network insights, and token operations.
 - [SheriffOladejo/mcp-monad](https://github.com/SheriffOladejo/mcp-monad): Facilitates querying MON token balances on the Monad testnet via an MCP server.
 - [letsbonk-ai/bonk-mcp](https://github.com/letsbonk-ai/bonk-mcp): Facilitates token launching and trading on the LetsBonk platform using Solana blockchain capabilities.
+- [jacksun911/megalaunch-mcp](https://github.com/jacksun911/megalaunch-mcp): AI-powered meme token launch on Solana/pump.fun via MCP. 6 tools: create orders, check status, get pricing. One-command install: `npx megalaunch-mcp`. Glama A/A/A rated.
+- [jacksun911/megaswap-mcp](https://github.com/jacksun911/megaswap-mcp): AI-native DEX on MegaETH. 9 tools for token swaps, price quotes, liquidity management. Supports ETH, MEGAS, USDM, USDT0 and any ERC-20. `npx megaswap-mcp`
 - [mvk24199/zerodha-trade](https://github.com/mvk24199/zerodha-trade): Facilitates automated stock trading on the Zerodha platform using Bun.js and Claude MCP integration.
 - [acambitsis/mcp-investec-sapb-simple](https://github.com/acambitsis/mcp-investec-sapb-simple): Facilitates seamless interaction with Investec SA Private Banking API through a streamlined MCP server implementation.
 - [wealthy/wealthy-mcp](https://github.com/wealthy/wealthy-mcp): Facilitates smart trading on the Wealthy platform through a Golang-based MCP server, enabling seamless integration with trading tools and platforms like Claude and Cursor.
