@@ -548,6 +548,8 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [saurav61091/mcp-openapi](https://github.com/saurav61091/mcp-openapi): Turn any OpenAPI 3.x spec into MCP tools for Claude — zero config, instant API access.
 
 - [mcp-lint](https://github.com/robert19001-cmyk/mcp-lint): CLI linting tool that validates MCP server tool schemas for cross-client compatibility across Claude, Cursor, Gemini, and VS Code Copilot. Features 13 rules, auto-fix for safe issues, JSON/Markdown output, and support for static files and live MCP servers via stdio/SSE.
+- [theihtisham/agent-shadow-brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory, genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [theihtisham/omni-skills-forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, and Cline with visual dashboard and one-click install.
 ## 📁 Filesystems
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
