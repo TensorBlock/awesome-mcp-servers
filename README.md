@@ -1164,6 +1164,7 @@ Servers accessing scientific databases, research platforms, or providing tools f
 - [HuaLuAI/CAD-MCP](https://github.com/HuaLuAI/CAD-MCP): CAD-MCP enables natural language-driven CAD operations across multiple software platforms, streamlining drawing tasks through intuitive text commands.
 - [danimal141/arxiv-search-mcp](https://github.com/danimal141/arxiv-search-mcp): Facilitates searching and retrieving academic papers from arXiv.org with customizable parameters.
 - [sebastien-le-paris/project-rules](https://github.com/sebastien-le-paris/project-rules): Facilitates the integration of external tools and data sources with Cursor through the Model Context Protocol, enhancing AI project rule management and tool execution.
+- [xmpuspus/ph-civic-data-mcp](https://github.com/xmpuspus/ph-civic-data-mcp): Philippine government data as MCP tools — PHIVOLCS earthquakes + volcano alerts, PAGASA weather + typhoons, PhilGEPS procurement, PSA 2020 Census population + poverty, and AQICN air quality. 12 tools including a cross-source multi-hazard risk profiler. Install: `uvx ph-civic-data-mcp`.
 
 ## 🔎 Search
 
