@@ -23,6 +23,8 @@ A comprehensive, community-curated collection of [Model Context Protocol (MCP)](
 ## Coverage
 
 This repo currently includes coverage for **7260 MCP servers as of May 30, 2025**. Due to the limited space, we only show the most recent 30 servers in each category.
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. TypeScript/Node.js. MIT.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. TypeScript/Node.js. MIT.
 
 ## Contributing
 
