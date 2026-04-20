@@ -662,6 +662,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [Veroq-api/veroq-mcp](https://github.com/Veroq-api/veroq-mcp): Financial intelligence MCP server with 52 tools for verified market data, trading signals, sentiment analysis, and fact-checking across 1,061+ tickers (equities, crypto, ETFs, commodities, indices). Multi-provider architecture with failover. Install via `npx veroq-mcp`.
 - [vdalhambra/financekit-mcp](https://github.com/vdalhambra/financekit-mcp): Financial market intelligence MCP with 17 tools for AI agents — stock quotes, technical analysis (RSI, MACD, Bollinger, ADX, Stochastic + Golden/Death Cross detection with structured verdicts), crypto via CoinGecko, risk metrics (VaR, Sharpe, Sortino, Beta), correlation matrix, options chains, earnings calendar, sector rotation, and portfolio analysis. No API keys required. FastMCP 3.2, MIT.
 - [Chain.Love MCP](https://github.com/Chain-Love/chain.love-mcp) – Hosted MCP gateway that enables AI agents to discover and compare Web3 infra services (RPCs, indexing, oracles, storage, compute, dev tools, and more) across 50+ networks via a single endpoint.
+ - [Horus Flow Intelligence](https://github.com/ashraf-hanafy/horus-flow-mcp): Real-time market microstructure, order flow analytics, and liquidity-based intelligence for AI agents.
 
 ## 🧰 Frameworks
 
