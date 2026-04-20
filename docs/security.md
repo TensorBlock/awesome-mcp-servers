@@ -2,6 +2,7 @@
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [AgentSeal](https://github.com/JoeyBrar/agentseal-mcp) - Action logs for AI agents. Records every action in a SHA-256 hash chain for verifiable audit trails. Install via `npx agentseal-mcp`.
 - [Agent Trust Stack MCP](https://github.com/alexfleetcommander/agent-trust-stack-mcp) - Cryptographic provenance, trust scoring, and tamper-evident logging for AI agent interactions via the Chain of Consciousness protocol.
 - [Chill-AI-Space/vault-mcp](https://github.com/Chill-AI-Space/vault-mcp): MCP server for credential isolation — agents use passwords and API keys without seeing them in context. AES-256-GCM encryption, Chrome CDP login, API key proxy, tamper-proof audit trail.
 - [ElromEvedElElyon/solanashield-mcp](https://github.com/ElromEvedElElyon/solanashield-mcp): AI-powered Solana smart contract security audit server with 40 vulnerability patterns (8 critical, 12 high, 12 medium, 8 low) and 12 MCP tools covering access control, CPI safety, PDA, token operations, arithmetic, and DeFi exploits.
