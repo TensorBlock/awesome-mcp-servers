@@ -1051,6 +1051,7 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [transloadit/node-sdk](https://github.com/transloadit/node-sdk/tree/main/packages/mcp-server): Agent-native media processing via Transloadit's 86+ Robots, supporting video encoding, image manipulation, document conversion, OCR, and speech transcription. Hosted or self-hosted via npx.
 - [fasuizu-br/speech-ai-examples](https://github.com/fasuizu-br/speech-ai-examples): Speech AI MCP server with pronunciation assessment (phoneme-level scoring, 17MB model, <300ms), text-to-speech, and speech-to-text. 8 tools for AI agents building language learning, accessibility, and voice applications.
 - [ssembleinc/ssemble-mcp-server](https://github.com/ssembleinc/ssemble-mcp-server) - Create AI-generated short-form video clips from YouTube with captions, music, gameplay overlays, meme hooks, and viral scoring.
+- [smartdatabrokers/slideforge-mcp](https://github.com/smartdatabrokers/slideforge-mcp): Remote MCP server for generating consulting-quality PowerPoint (.pptx) presentations. 35 composable components (Metric, BarList, OrgChart, Waterfall, Gantt, RAGScorecard, ThreeHorizons), deterministic render ($0.03-$0.05/slide, sub-second) + AI generate ($0.20/slide) engines, OAuth 2.1. Hosted at [slideforge.dev](https://slideforge.dev).
 
 ## 🖥️ Operating System & Command Line
 
