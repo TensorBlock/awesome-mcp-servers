@@ -810,6 +810,7 @@ Servers integrating with healthcare standards, medical literature databases, bio
 
 Servers or systems that deliver core runtime functionalities for MCP, such as proxying, aggregation, orchestration, hosting, routing, or acting as gateways.
 
+- [systempromptio/systemprompt-template](https://github.com/systempromptio/systemprompt-template): Rust infrastructure runtime for hosting and governing MCP servers. Built-in RBAC, secret detection, rate limiting, audit logging, OAuth 2.0. Single ~50MB binary, no Kubernetes. [BSL-1.1]
 - [agiletec-inc/airis-mcp-gateway](https://github.com/agiletec-inc/airis-mcp-gateway): Docker-based MCP multiplexer that aggregates 60+ tools behind 7 meta-tools for 97% token reduction, with lazy server loading, idle-kill, circuit breaker, and API key auth.
 - [lijian-ui/vcenter-mcp-server](https://github.com/lijian-ui/vcenter-mcp-server): Facilitates seamless integration with vCenter Server for efficient virtual machine management, including migration and information retrieval.
 - [chris-sun-star/mcp-server-k8s](https://github.com/chris-sun-star/mcp-server-k8s): Facilitates Kubernetes integration with Claude Desktop through a simple MCP server setup.
