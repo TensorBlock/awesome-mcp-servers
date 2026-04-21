@@ -199,4 +199,5 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [sammyl720/image-generator-mcp-server](https://github.com/sammyl720/image-generator-mcp-server): Generates images from prompts using OpenAI's DALL-E-3 model, with TypeScript implementation for seamless integration with Claude Desktop.
 - [kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript): Facilitates direct transcript retrieval from YouTube videos with language-specific options.
 - [iterationlayer/mcp](https://github.com/iterationlayer/mcp): Document extraction, image transformation, programmatic image generation, document generation, and sheet generation via composable APIs with OAuth 2.1 authentication.
+- [neugence/whipscribe-mcp](https://github.com/neugence/whipscribe-mcp): MCP server for audio/video transcription via the Whipscribe API. Transcribes from a URL (YouTube, podcasts, direct media links) or local file; returns txt/json/srt/vtt/docx with optional speaker diarization and word timestamps. Install: `uvx whipscribe-mcp`.
 
