@@ -2,7 +2,9 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/mcp): Remote MCP server for searching live agentic AI engineering jobs by framework (LangChain, LlamaIndex, CrewAI, etc.), seniority, location, and remote status. Query aggregate salary benchmarks. Zero-auth streamable HTTP endpoint.
 - [AgentGrade](https://agentgrade.com): Scan any website for AI agent readiness — scores 80+ checks across payments, MCP, OpenAPI, and discovery. Remote MCP server at agentgrade.com/mcp.
+- [kansei-link/kansei-mcp-server](https://github.com/kansei-link/kansei-mcp-server): Intelligence layer for AI agents to discover and evaluate 156+ SaaS/API services with trust scores, 120 workflow recipes, intent-based search, and Agent Voice feedback from real agent usage.
 - [kokilabo/pdf-researcher](https://github.com/kokilabo/pdf-researcher): A specialized MCP server designed for searching PDF documents using the Brave Search API.
 - [joaomj/deep-search-mcp](https://github.com/joaomj/deep-search-mcp): Facilitates deep web searches using the LinkUp API, offering structured results and customizable search parameters.
 - [jarondonp/portfolio-mcp-server](https://github.com/jarondonp/portfolio-mcp-server): Integrates the Brave Search API to offer web and local search capabilities with flexible filtering and smart fallbacks.
@@ -113,6 +115,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [NightTrek/Serper-search-mcp](https://github.com/NightTrek/Serper-search-mcp): Provides Google search capabilities and AI-powered deep research tools for MCP-enabled applications using the Serper API.
 - [kevinwatt/mcp-server-searxng](https://github.com/kevinwatt/mcp-server-searxng): Integrates with SearXNG to offer privacy-focused meta search capabilities across multiple engines.
 - [wysh3/perplexity-mcp-zerver](https://github.com/wysh3/perplexity-mcp-zerver): A TypeScript-based MCP server enabling AI-driven research through Perplexity's web interface without API keys, featuring browser automation and persistent chat capabilities.
+- [workopia/workopia-mcp](https://github.com/workopia/workopia-mcp): Hosted MCP server for job search (direct from employer career pages), PDF resume generation with 50+ templates and career advice. Free, no auth required. Endpoint: https://workopia.io/api/mcp-gpt
 - [fengin/search-server](https://github.com/fengin/search-server): A Python-based MCP server offering seamless integration with Cursor and Claude Desktop for multi-engine search capabilities, supporting Brave, Metaso, and Bocha search engines.
 - [afrise/academic-search-mcp-server](https://github.com/afrise/academic-search-mcp-server): Facilitates real-time academic paper searches and metadata retrieval from Semantic Scholar and Crossref for Claude Desktop integration.
 - [jaacob/perplexity-mcp](https://github.com/jaacob/perplexity-mcp): Enables Claude Desktop to perform web searches using Perplexity's API for enhanced information retrieval.
