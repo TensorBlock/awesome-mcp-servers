@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [szhygulin/vaultpilot-mcp](https://github.com/szhygulin/vaultpilot-mcp) - Self-custodial crypto portfolio MCP. Reads DeFi positions (Aave V3, Compound V3, Morpho Blue, Uniswap V3 LP, Lido, EigenLayer) on Ethereum/Arbitrum/Polygon/Base, prepares EVM + TRON transactions, signs on a Ledger via WalletConnect — private keys never leave the device.
 - [FinancialData.Net MCP Server](https://financialdata.net/mcp-server) - Get real-time stock prices, fundamentals, institutional trading insights, and other financial data delivered through a universal Model Context Protocol (MCP) server.
 - [SignalFuse MCP](https://github.com/hypeprinter007-stack/signalfuse-mcp) - Fused crypto trading signals (sentiment, macro regime, and Hyperliquid market structure) as MCP tools for AI coding agents.
 - [grahammccain/chart-library-mcp](https://github.com/grahammccain/chart-library-mcp) - Historical chart pattern search engine — search 24M+ pre-computed embeddings across 15K+ symbols for similar patterns and forward returns.
