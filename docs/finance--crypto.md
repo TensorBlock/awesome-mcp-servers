@@ -2,7 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
-- [szhygulin/vaultpilot-mcp](https://github.com/szhygulin/vaultpilot-mcp) - Self-custodial crypto portfolio MCP. Reads DeFi positions (Aave V3, Compound V3, Morpho Blue, Uniswap V3 LP, Lido, EigenLayer) on Ethereum/Arbitrum/Polygon/Base, prepares EVM + TRON transactions, signs on a Ledger via WalletConnect — private keys never leave the device.
+- [szhygulin/vaultpilot-mcp](https://github.com/szhygulin/vaultpilot-mcp) - Hardware-verified DeFi for AI agents. The agent proposes, you approve on your Ledger — designed for when the AI can be compromised.
 - [Chain.Love MCP](https://github.com/Chain-Love/chain.love-mcp) – Hosted MCP gateway that enables AI agents to discover and compare Web3 infra services (RPCs, indexing, oracles, storage, compute, dev tools, and more) across 50+ networks via a single endpoint.
 - [horustechltd/horus-flow-mcp](https://github.com/horustechltd/horus-flow-mcp): Institutional crypto & equity orderflow engine for AI agents. Detects spoofing, BUY_ABSORPTION, and LIQUIDITY_EVENT signals with sub-second lead time over price action. Glama A-Tier verified.
 - [vdalhambra/financekit-mcp](https://github.com/vdalhambra/financekit-mcp): Financial market intelligence MCP with 17 tools for AI agents — stock quotes, technical analysis (RSI, MACD, Bollinger, ADX, Stochastic + Golden/Death Cross detection with structured verdicts), crypto via CoinGecko, risk metrics (VaR, Sharpe, Sortino, Beta), correlation matrix, options chains, earnings calendar, sector rotation, and portfolio analysis. No API keys required. FastMCP 3.2, MIT.
