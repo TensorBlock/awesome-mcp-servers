@@ -383,6 +383,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [commune-sh/commune-mcp](https://github.com/commune-sh/commune-mcp): Provides email infrastructure for AI agents, enabling programmatic inbox creation, send/receive email, thread management across concurrent conversations, custom domains, structured extraction on inbound mail, and SMS.
 - [wazionapps/mcp-server](https://github.com/wazionapps/mcp-server): WAzion - WhatsApp Business platform with 244 MCP tools for messaging, CRM, campaigns, workflows, and AI automation. Supports Streamable HTTP and stdio transports.
 - [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant): MCP server for Microsoft Outlook with 20 consolidated tools for email, calendar, contacts, and mailbox management via Graph API. Features dry-run preview, session rate limiting, and recipient allowlists for safe email sending.
+- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases): Native macOS MCP server with 105 tools covering Mail, Calendar, Contacts, Microsoft Teams, Slack, OneDrive, iMessage, Notes, Reminders, OmniFocus, and Office documents. Runs 100% locally — no cloud, no tokens, no API keys required. Works with Claude, Cursor, Windsurf, and VS Code.
 
 ## 📝 Content Management Systems
 
