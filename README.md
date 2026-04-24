@@ -116,6 +116,7 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [tangshuang/mcp-bone](https://github.com/tangshuang/mcp-bone): Facilitates connection to MCP Bone for tool registration and parsing LLM completion text into tool calls.
 - [belljustin/spotify-mcp](https://github.com/belljustin/spotify-mcp): Facilitates playlist creation on Spotify through a Model Context Protocol server, integrating seamlessly with Cursor for enhanced user interaction.
 - [Zerg00s/server-sharepoint](https://github.com/Zerg00s/server-sharepoint): Facilitates interaction with SharePoint Online through Claude Desktop using the SharePoint REST API.
+- [rogertheunissenmerge-oss/mcp-server](https://github.com/rogertheunissenmerge-oss/mcp-server): Remote MCP server for sommelier-grade wine pairing. 7 tools powered by a proprietary Wine DNA algorithm with 600+ wine archetypes. Pair wines with meals, ingredients, or recipe URLs; reverse pairing; group dinner planning. Supports API key and x402 pay-per-call (USDC on Base). Live at `https://api.sommelierx.com/mcp`.
 
 ## 🎨 Art, Culture & Media
 
