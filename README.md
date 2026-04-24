@@ -459,6 +459,7 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [cheukyin175/metabase-mcp](https://github.com/cheukyin175/metabase-mcp): Facilitates seamless integration of AI assistants with Metabase analytics, enabling direct interaction with analytics data via MCP capabilities.
 - [Strale](https://strale.dev) - 250+ quality-scored capabilities for AI agents: company data across 27 countries, compliance checks (KYB, AML, sanctions, GDPR), financial validation, web intelligence, document extraction, developer tools, and data processing. Every capability independently tested with Strale Quality Score (SQS). Free tier available.
 - [trendsmcp/trends-mcp](https://github.com/trendsmcp/trends-mcp): Real-time trend data from Google Trends (Search, Images, News, Shopping), YouTube, TikTok, Reddit, Amazon, Wikipedia, npm, Steam, Spotify, X (Twitter), App Store, Google Play, web traffic, and news sentiment via one MCP connection. Works with Claude, Cursor, VS Code, Windsurf, ChatGPT, and any MCP-compatible AI. Free API key, 20 requests/day.
+- [shagarwal/agentdatamarketplace](https://github.com/shagarwal/agentdatamarketplace): DataBazaar — an agent-first data marketplace. AI agents discover, preview, bid on, and purchase datasets via MCP tools (`search_datasets`, `get_dataset`, `buy_now`, `place_bid`, `get_download_url`). Free datasets download without auth; paid ones use a saved Stripe card.
 
 ## 🗄️ Databases
 
