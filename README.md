@@ -270,6 +270,7 @@ Servers integrating with major cloud providers or specific cloud services.
 - [bittush8789/MCP](https://github.com/bittush8789/MCP): Fetches weather data from the National Weather Service API, providing tools for retrieving active alerts and short-term forecasts.
 - [antymijaljevic/k8s-doc-mcp](https://github.com/antymijaljevic/k8s-doc-mcp): A Python-based MCP server for managing and summarizing sticky notes using the Model Context Protocol SDK.
 - [stephenlacy/mcp-proxy](https://github.com/stephenlacy/mcp-proxy): A fast Rust-based proxy facilitating bidirectional communication between stdio and SSE for MCP servers.
+- [kubestellar/console](https://github.com/kubestellar/console): Multi-cluster Kubernetes MCP server (kc-agent) for AI-assisted operations across edge and cloud clusters. 50+ tools for workload placement, policy enforcement, and observability via natural language.
 - [xmpuspus/cloudwright](https://github.com/xmpuspus/cloudwright): Architecture intelligence for cloud engineers. Design AWS/GCP/Azure systems from natural language and get back a structured ArchSpec, multi-cloud cost estimates with workload profiles (small/medium/large/enterprise), compliance reports for HIPAA, PCI-DSS, SOC 2, FedRAMP, and GDPR, Terraform/CloudFormation code, Mermaid/D2/C4 diagrams, security scans, and what-if scenario analysis. 9 MCP tools including persistent multi-turn design sessions. Install: `pip install cloudwright-ai-mcp`.
 
 ## ✨ Code Analysis & Quality
