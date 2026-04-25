@@ -269,6 +269,7 @@ Servers integrating with major cloud providers or specific cloud services.
 - [bittush8789/MCP](https://github.com/bittush8789/MCP): Fetches weather data from the National Weather Service API, providing tools for retrieving active alerts and short-term forecasts.
 - [antymijaljevic/k8s-doc-mcp](https://github.com/antymijaljevic/k8s-doc-mcp): A Python-based MCP server for managing and summarizing sticky notes using the Model Context Protocol SDK.
 - [stephenlacy/mcp-proxy](https://github.com/stephenlacy/mcp-proxy): A fast Rust-based proxy facilitating bidirectional communication between stdio and SSE for MCP servers.
+- [kubestellar/console](https://github.com/kubestellar/console): Multi-cluster Kubernetes MCP server (kc-agent) for AI-assisted operations across edge and cloud clusters. 50+ tools for workload placement, policy enforcement, and observability via natural language.
 
 ## ✨ Code Analysis & Quality
 
