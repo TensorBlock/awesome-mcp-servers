@@ -665,6 +665,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [Chain.Love MCP](https://github.com/Chain-Love/chain.love-mcp) – Hosted MCP gateway that enables AI agents to discover and compare Web3 infra services (RPCs, indexing, oracles, storage, compute, dev tools, and more) across 50+ networks via a single endpoint.
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading): Natural-language finance research MCP server with 17 tools — market data across 5 auto-fallback sources (tushare/okx/yfinance/akshare/ccxt), 7 backtest engines (A-shares/US/Crypto/Futures/Forex/Options plus cross-market CompositeEngine), 29 swarm presets (investment committee, quant desk, risk committee), trade-journal behavior diagnostics for 同花顺/东财/富途 exports, and document/URL readers. Works with Claude Desktop, Cursor, and OpenClaw. MIT.
  - [Horus Flow Intelligence](https://github.com/ashraf-hanafy/horus-flow-mcp): Real-time market microstructure, order flow analytics, and liquidity-based intelligence for AI agents.
+- [TradeRouter/trade-router-mcp](https://github.com/TradeRouter/trade-router-mcp): Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools (swap, limit, trailing, TWAP, DCA, combo orders) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected. Ed25519 server-message verification. Private key never leaves the agent. `npx -y @traderouter/trade-router-mcp`.
 
 ## 🧰 Frameworks
 
