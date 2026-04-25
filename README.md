@@ -137,6 +137,7 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 - [Otto-J/podcast-xyzrank-mcp](https://github.com/Otto-J/podcast-xyzrank-mcp): Facilitates podcast recommendations using MCP to access curated podcast rankings.
 - [miyamo2/hotpepper-gourmet-mcp-server](https://github.com/miyamo2/hotpepper-gourmet-mcp-server): Facilitates gourmet search and area-based queries using the Hot Pepper Gourmet API.
 - [Antipas/4oimage-mcp](https://github.com/Antipas/4oimage-mcp): Integrates with 4o-image API to enable AI-driven image generation and editing through text prompts.
+- [MohamedAbdallah-14/prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset): Generates production-ready visual assets (app icons, favicons, OG images, logos) by routing requests across 30+ image generation models. Zero API key for first run via Pollinations, Stable Horde, and HuggingFace free tiers. MIT licensed.
 - [sunqirui1987/ae-mcp](https://github.com/sunqirui1987/ae-mcp): Enables AI assistants to control Adobe After Effects through a standardized MCP interface, offering extensive functionality for compositions, layers, and effects.
 - [lieyanqzu/ygocdb-mcp](https://github.com/lieyanqzu/ygocdb-mcp): Facilitates interaction with the YGO Chinese card database API, offering tools for card information retrieval and image access.
 - [dbeltra/scryfall-mcp](https://github.com/dbeltra/scryfall-mcp): Interfaces with the Scryfall API to fetch and display detailed Magic: The Gathering card data.
@@ -552,6 +553,7 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [saurav61091/mcp-openapi](https://github.com/saurav61091/mcp-openapi): Turn any OpenAPI 3.x spec into MCP tools for Claude — zero config, instant API access.
 
 - [mcp-lint](https://github.com/robert19001-cmyk/mcp-lint): CLI linting tool that validates MCP server tool schemas for cross-client compatibility across Claude, Cursor, Gemini, and VS Code Copilot. Features 13 rules, auto-fix for safe issues, JSON/Markdown output, and support for static files and live MCP servers via stdio/SSE.
+- [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop): MCP server and CLI that removes named AI writing patterns from text: tricolons, em-dash overuse, hedging stacks, sycophancy openers, and overused vocab like "delve" and "crucial". Lint-only audit mode and five intensity levels. MIT licensed.
 ## 📁 Filesystems
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
