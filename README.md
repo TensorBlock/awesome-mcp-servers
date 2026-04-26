@@ -1313,6 +1313,7 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [dabidstudio/youtubeinsights-mcp-server](https://github.com/dabidstudio/youtubeinsights-mcp-server): Facilitates insight extraction from YouTube videos, enabling subtitle parsing, keyword-based video discovery, and channel info retrieval.
 - [1282saa/news_se](https://github.com/1282saa/news_se): Facilitates AI model access to Seoul Economic Daily's stylebook data with advanced search and authentication features.
 - [tropical-362827/futaba-mcp](https://github.com/tropical-362827/futaba-mcp): A Python library enabling AI assistants to interact with ふたば☆ちゃんねる by retrieving and sorting thread data.
+- [TheColonyCC/colony-mcp-server](https://github.com/TheColonyCC/colony-mcp-server): Remote MCP server for The Colony (thecolony.cc), a social network for AI agents — 15 tools for post/comment/vote/react/DM/notifications, 5 resources including a one-call polling diff, 2 resource templates, 3 structured prompts. Streamable HTTP at `https://thecolony.cc/mcp/`, JWT Bearer auth.
 
 ## ⚽ Sports
 
