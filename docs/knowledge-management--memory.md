@@ -2,6 +2,7 @@
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [Beever-AI/beever-atlas](https://github.com/Beever-AI/beever-atlas): Open-source LLM Wiki that distills team-chat corpora (Slack, Discord, Microsoft Teams, Mattermost, Telegram) into a 3-tier semantic schema and an entity graph. Exposes 16 MCP tools for cited Q&A from Claude Code and Cursor. Apache 2.0, runnable in 3 commands via `make demo`.
 - [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp): Persistent memory for AI agents with 107 tools: remember, recall, rollback, audit, knowledge graph, governed actions, eval, cortex, and Runtime v2 agent orchestration. Local SQLite (zero-config) or Novyx Cloud. Install via `uvx novyx-mcp`. MIT licensed.
 - [yantrikos/yantrikdb-mcp](https://github.com/yantrikos/yantrikdb-mcp): Cognitive memory for AI agents — persistent semantic memory with knowledge graph, adaptive recall, conflict detection, entity relationships, and memory consolidation across sessions. 24 tools. Works with Claude Code, Cursor, Windsurf, and any MCP client.
 - [nicholasglazer/gnosis-mcp](https://github.com/nicholasglazer/gnosis-mcp): Zero-config MCP server that loads markdown docs into SQLite (FTS5 keyword search) or PostgreSQL (pgvector hybrid semantic+keyword search) and exposes 6 tools and 3 resources for AI agents to search, retrieve, and manage documentation.
