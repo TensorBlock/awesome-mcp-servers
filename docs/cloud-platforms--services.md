@@ -2,6 +2,7 @@
 
 Servers integrating with major cloud providers or specific cloud services.
 
+- [kubestellar/console](https://github.com/kubestellar/console): Multi-cluster Kubernetes MCP server (kc-agent) for AI-assisted operations across edge and cloud clusters. 50+ tools for workload placement, policy enforcement, and observability via natural language.
 - [xmpuspus/cloudwright](https://github.com/xmpuspus/cloudwright): Architecture intelligence for cloud engineers. Design AWS/GCP/Azure systems from natural language and get back a structured ArchSpec, multi-cloud cost estimates with workload profiles (small/medium/large/enterprise), compliance reports for HIPAA, PCI-DSS, SOC 2, FedRAMP, and GDPR, Terraform/CloudFormation code, Mermaid/D2/C4 diagrams, security scans, and what-if scenario analysis. 9 MCP tools including persistent multi-turn design sessions. Install: `pip install cloudwright-ai-mcp`.
 - [render-oss/render-mcp-server](https://github.com/render-oss/render-mcp-server) - Official Render MCP server for managing web services, static sites, cron jobs, Postgres databases, and Key Value stores, with deployment tracking, log querying, and performance metrics. Hosted at `https://mcp.render.com/mcp`.
 - [doma2k/monad-contract-deployment-mcp](https://github.com/doma2k/monad-contract-deployment-mcp): Facilitates the compilation and deployment of smart contracts within the Monad ecosystem, enabling interactions directly from chat prompts or compatible MCP clients.
