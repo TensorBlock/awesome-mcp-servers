@@ -667,6 +667,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [Chain.Love MCP](https://github.com/Chain-Love/chain.love-mcp) – Hosted MCP gateway that enables AI agents to discover and compare Web3 infra services (RPCs, indexing, oracles, storage, compute, dev tools, and more) across 50+ networks via a single endpoint.
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading): Natural-language finance research MCP server with 17 tools — market data across 5 auto-fallback sources (tushare/okx/yfinance/akshare/ccxt), 7 backtest engines (A-shares/US/Crypto/Futures/Forex/Options plus cross-market CompositeEngine), 29 swarm presets (investment committee, quant desk, risk committee), trade-journal behavior diagnostics for 同花顺/东财/富途 exports, and document/URL readers. Works with Claude Desktop, Cursor, and OpenClaw. MIT.
  - [Horus Flow Intelligence](https://github.com/ashraf-hanafy/horus-flow-mcp): Real-time market microstructure, order flow analytics, and liquidity-based intelligence for AI agents.
+- [chopmob-cloud/AlgoVoi-Platform-Adapters](https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters): Multi-chain x402/MPP/AP2 payment gateway MCP. Create hosted USDC checkouts across 7 chains (Algorand, VOI, Hedera, Stellar, Base, Solana, Tempo) from any MCP client. Verifies on-chain settlement (Solana Pay `reference` binding, EVM Transfer-log scans, Algorand memo-bound), generates agent payment challenges. Install: `npx @algovoi/mcp-server` or `uvx algovoi-mcp`.
 
 ## 🧰 Frameworks
 
