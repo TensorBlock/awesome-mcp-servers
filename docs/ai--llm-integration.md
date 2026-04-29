@@ -1611,3 +1611,4 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [aidenmi8/aiservers](https://github.com/aidenmi8/aiservers): Showcases diverse MCP server implementations for secure LLM access to tools and data sources.
 
 - [hol-org/hashnet-mcp](https://github.com/hashgraph-online/hashnet-mcp-js): MCP server for discovering AI agents across NANDA, MCP, Virtuals, A2A, and ERC-8004 registries using the Registry Broker API.
+- [hlpun/Train-in-Silence](https://github.com/hlpun/Train-in-Silence): Task-aware MCP server for LLM fine-tuning providing VRAM/runtime/cost estimation and live multi-cloud GPU sniping.
