@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [voidly-ai/voidly-pay](https://github.com/voidly-ai/voidly-pay/tree/main/pay-mcp): Agent-to-agent payment rail. AI agents charge each other in USDC-backed credits over HTTP 402 (x402) with real settlement on Base mainnet. 28 tools — wallet, transfer, escrow, hire, marketplace, x402 quote/verify, streams, subscriptions, webhooks, and a universal reverse proxy that paywalls any public HTTPS URL with one query parameter (no SDK install required on the URL owner's side). Live demo: https://huggingface.co/spaces/emperor-mew/voidly-pay. Install: `npx -y @voidly/pay-mcp`.
 - [szhygulin/vaultpilot-mcp](https://github.com/szhygulin/vaultpilot-mcp) - Safety first. Hardware-verified DeFi for AI agents. The agent proposes, you approve on your Ledger — designed for when the AI can be compromised.
 - [Chain.Love MCP](https://github.com/Chain-Love/chain.love-mcp) – Hosted MCP gateway that enables AI agents to discover and compare Web3 infra services (RPCs, indexing, oracles, storage, compute, dev tools, and more) across 50+ networks via a single endpoint.
 - [horustechltd/horus-flow-mcp](https://github.com/horustechltd/horus-flow-mcp): Institutional crypto & equity orderflow engine for AI agents. Detects spoofing, BUY_ABSORPTION, and LIQUIDITY_EVENT signals with sub-second lead time over price action. Glama A-Tier verified.
