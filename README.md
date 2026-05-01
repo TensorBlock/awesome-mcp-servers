@@ -1410,6 +1410,7 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [OpenSourceGuru776/consist](https://github.com/OpenSourceGuru776/consist): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 
 - [IteraTools](https://api.iteratools.com): Cloud-hosted multi-tool MCP API providing 34+ capabilities through a single endpoint: image generation (Flux), web scraping, TTS, OCR, browser automation, sandboxed code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and more. Pay-per-use with x402 micropayment protocol.
+- [Instafill.ai](https://instafill.ai): AI-powered PDF form filler MCP server. Auto-completes any PDF form by extracting fields and filling them from saved profiles, uploaded files, or supplied data.
 
 ## 🔄 Version Control
 
