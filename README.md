@@ -76,6 +76,7 @@ We welcome submissions! To add your MCP server:
 - ✈️ - [Travel & Transportation](#️-travel--transportation)
 - 🔧 - [Utilities & Helpers](#-utilities--helpers)
 - 🔄 - [Version Control](#-version-control)
+- [Inferventis](https://inferventis.ai) - Live financial data MCP: real-time FX rates, stock quotes, crypto prices (10,000+ coins via CoinGecko), Open Banking (PSD2/TrueLayer, 300+ banks), Stripe payment data, financial calculator (compound interest, loan, ROI, NPV, break-even). Built-in `tool_finder` semantic discovery. Pay-per-call via x402 micropayments on Base ($0.001 USDC) — no API key needed for autonomous agents. Remote at `https://mcp-server-295985738387.europe-west1.run.app/mcp-pay`.
 
 ## 🤖 AI & LLM Integration
 
