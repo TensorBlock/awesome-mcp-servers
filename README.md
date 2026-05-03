@@ -229,6 +229,7 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [aaomidi/mcp-bazel](https://github.com/aaomidi/mcp-bazel): Facilitates Bazel project interactions by providing build, test, and dependency analysis tools.
 - [ThomasRohde/mcp_server_manager](https://github.com/ThomasRohde/mcp_server_manager): A backend Python application offering a Model Context Protocol interface and FastAPI web interface for managing MCP servers integrated with Claude Desktop.
 - [addozhang/spring-rest-to-mcp](https://github.com/addozhang/spring-rest-to-mcp): Effortlessly transform Spring Web REST APIs into MCP server tools using OpenRewrite recipes for seamless AI integration.
+- [Swagger MCP Bridge](https://github.com/Neo1228/spring-boot-starter-swagger-mcp): A Spring Boot starter that exposes SpringDoc OpenAPI operations as MCP tools with validation, workflow orchestration, and guardrails.
 - [gunpal5/QuickMCP](https://github.com/gunpal5/QuickMCP): QuickMCP enables rapid creation and deployment of MCP servers using OpenAPI, Swagger, or Google Discovery specifications with .NET.
 - [Drew-Goddyn/buildkite-mcp](https://github.com/Drew-Goddyn/buildkite-mcp): Facilitates seamless integration with Buildkite by providing a microservice for retrieving and managing build information via MCP.
 - [thepragmatik/mcp-server-jvm-build-tools](https://github.com/thepragmatik/mcp-server-jvm-build-tools): Facilitates natural language interaction with Apache Maven through an MCP server for streamlined project builds.
