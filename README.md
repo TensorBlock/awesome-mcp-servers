@@ -1323,6 +1323,7 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [dabidstudio/youtubeinsights-mcp-server](https://github.com/dabidstudio/youtubeinsights-mcp-server): Facilitates insight extraction from YouTube videos, enabling subtitle parsing, keyword-based video discovery, and channel info retrieval.
 - [1282saa/news_se](https://github.com/1282saa/news_se): Facilitates AI model access to Seoul Economic Daily's stylebook data with advanced search and authentication features.
 - [tropical-362827/futaba-mcp](https://github.com/tropical-362827/futaba-mcp): A Python library enabling AI assistants to interact with ふたば☆ちゃんねる by retrieving and sorting thread data.
+- [Freespirits/social-auto-engine](https://github.com/Freespirits/social-auto-engine): Multi-channel social media management platform with 37 Facebook Graph API tools, Instagram and WhatsApp adapters, approval queue dashboard (FastAPI + HTMX), and 17 AI content skills. Publish to Facebook, Instagram, and WhatsApp from one dashboard or via MCP.
 
 ## ⚽ Sports
 
