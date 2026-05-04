@@ -2,6 +2,7 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [dejuknow/md-redline](https://github.com/dejuknow/md-redline): Inline review comments for markdown specs and design docs. Agents request human review mid-task via MCP and pause until you send feedback. Comments stored as invisible HTML markers in the markdown file itself.
 - [walkojas-boop/regexforge](https://github.com/walkojas-boop/regexforge): Deterministic regex synthesis. Send labeled examples, get a battle-tested regex + test matrix + backtracking-risk analysis. Zero LLM at serve time. $0.002/call. Live at https://regexforge.jason-12c.workers.dev/.
 - [walkojas-boop/ghostdom](https://github.com/walkojas-boop/ghostdom): Headless-browser-as-JSON for AI agents. POST a URL, get rendered DOM + text + screenshot from real Chromium. Memorymarket pricing: first agent to render a URL earns 90% of cache-hit fees from subsequent agents within a 10-min TTL. Stack: Cloudflare Workers + Durable Objects + KV + x402. Live at https://ghostdom.jason-12c.workers.dev/.
 - [walkojas-boop/linkpulse](https://github.com/walkojas-boop/linkpulse): URL reality check for AI agents. Returns status, SHA-256 content hash, classification, readability score, title, and wayback-machine fallback when dead. Cached 10 min, $0.001 per call. Live at https://linkpulse-neon.vercel.app/.
