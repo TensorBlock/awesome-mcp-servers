@@ -1377,6 +1377,7 @@ Servers providing data or services related to flights, trains, transportation AP
 
 Servers providing simple, general-purpose tools like time/date information, calculators, dice rollers, formatters, unit converters, UUID generation, etc.
 
+- [dmeldrum6/PHP-MCP-Web-Tools](https://github.com/dmeldrum6/PHP-MCP-Web-Tools) - PHP MCP tools including fetch webpage, fetch links, date & time, DNS lookup, text utils, MCP Server code and chat client configured for using them
 - [rogertheunissenmerge-oss/mcp-server](https://github.com/rogertheunissenmerge-oss/mcp-server): Remote MCP server for sommelier-grade wine pairing. 7 tools powered by a proprietary Wine DNA algorithm with 600+ wine archetypes. Pair wines with meals, ingredients, or recipe URLs; reverse pairing; group dinner planning. Supports API key and x402 pay-per-call (USDC on Base). Live at `https://api.sommelierx.com/mcp`.
 - [FlatFilers/mcp-server-flatfile](https://github.com/FlatFilers/mcp-server-flatfile): Facilitates interaction with the Flatfile API through a customizable MCP server, enabling streamlined data management and integration.
 - [Nozomuts/date-mcp](https://github.com/Nozomuts/date-mcp): Provides current date and time in specified formats and timezones via a simple MCP server.
@@ -1409,7 +1410,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [veithly/ipfs-uploader](https://github.com/veithly/ipfs-uploader): A TypeScript-based MCP server for uploading images to IPFS, featuring a simple notes system with text note creation and summarization tools.
 - [OpenSourceGuru776/consist](https://github.com/OpenSourceGuru776/consist): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [IteraTools](https://api.iteratools.com): Cloud-hosted multi-tool MCP API providing 34+ capabilities through a single endpoint: image generation (Flux), web scraping, TTS, OCR, browser automation, sandboxed code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and more. Pay-per-use with x402 micropayment protocol.
-- [dmeldrum6/PHP-MCP-Web-Tools](https://github.com/dmeldrum6/PHP-MCP-Web-Tools) - PHP MCP tools including fetch webpage, fetch links, date & time, DNS lookup, text utils, MCP Server code and chat client configured for using them
 
 ## 🔄 Version Control
 
