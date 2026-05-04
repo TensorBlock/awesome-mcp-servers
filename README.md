@@ -1376,6 +1376,7 @@ Servers providing data or services related to flights, trains, transportation AP
 - [lumile/lumbretravel-mcp](https://github.com/lumile/lumbretravel-mcp): Facilitates seamless integration with the LumbreTravel API for managing travel programs and activities.
 - [ticketlens/ticketlens-experiences-mcp](https://github.com/ticketlens/ticketlens-experiences-mcp): Official remote MCP and REST API for destination experiences, including tours, attraction tickets, sports tickets, and events.
 - [MariyaFilippova/mcp-strava](https://github.com/MariyaFilippova/mcp-strava): Facilitates seamless integration between Strava APIs and Claude for Desktop, enabling efficient interaction with Strava activity data.
+- [ivannikolovbg/repull-mcp](https://github.com/ivannikolovbg/repull-mcp): MCP server for the Repull API — the unified API for vacation-rental tech. Connect to every PMS, OTA, and channel manager (Airbnb, Booking.com, VRBO, Smoobu + 46 more) through one server.
 
 ## 🔧 Utilities & Helpers
 
