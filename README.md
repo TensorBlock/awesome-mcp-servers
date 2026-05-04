@@ -116,6 +116,7 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [tangshuang/mcp-bone](https://github.com/tangshuang/mcp-bone): Facilitates connection to MCP Bone for tool registration and parsing LLM completion text into tool calls.
 - [belljustin/spotify-mcp](https://github.com/belljustin/spotify-mcp): Facilitates playlist creation on Spotify through a Model Context Protocol server, integrating seamlessly with Cursor for enhanced user interaction.
 - [Zerg00s/server-sharepoint](https://github.com/Zerg00s/server-sharepoint): Facilitates interaction with SharePoint Online through Claude Desktop using the SharePoint REST API.
+- [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein): Multi-agent orchestrator with first-class MCP server; coordinates 37 CLI coding agents (Claude Code, Codex, Gemini CLI, OpenHands, Aider, and 32 more) through MCP tool calls. Apache 2.0.
 - [hlpun/Train-in-Silence](https://github.com/hlpun/Train-in-Silence): Task-aware MCP server for LLM fine-tuning providing VRAM/runtime/cost estimation and live multi-cloud GPU sniping.
 
 ## 🎨 Art, Culture & Media

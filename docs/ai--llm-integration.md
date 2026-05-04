@@ -2,6 +2,7 @@
 
 Servers integrating with other AI models, AI platforms, RAG tools, prompt management, or agent frameworks.
 
+- [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein): Multi-agent orchestrator with first-class MCP server; coordinates 37 CLI coding agents (Claude Code, Codex, Gemini CLI, OpenHands, Aider, and 32 more) through MCP tool calls. Apache 2.0.
 - [bh-rat/context-awesome](https://github.com/bh-rat/context-awesome) - MCP server for querying 8,500+ curated awesome lists (1M+ items) and fetching the best resources for your agent.
 - [spranab/brainstorm-mcp](https://github.com/spranab/brainstorm-mcp) - Multi-round AI brainstorming debates between multiple models (GPT, DeepSeek, Groq, Ollama, etc.). Pit different LLMs against each other to explore ideas from diverse perspectives.
 - [deadpixel/roundtable-dashboard](https://github.com/deadpixel/roundtable-dashboard): Multi-model AI debate platform with remote MCP server. GPT-4o, Claude, Gemini and 200+ models discuss prompts in structured rounds and synthesize collective insight via Streamable HTTP at `https://mcp.roundtable.now/mcp`.
