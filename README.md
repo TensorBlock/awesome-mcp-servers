@@ -993,6 +993,7 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [teamsincetoday/podcast-commerce-mcp](https://github.com/teamsincetoday/podcast-commerce-mcp): Extracts affiliate products, sponsor mentions, and shoppable recommendations from podcast episodes using AI-powered content intelligence. Features cross-show product comparison and show notes generation.
 - [teamsincetoday/newsletter-commerce-mcp](https://github.com/teamsincetoday/newsletter-commerce-mcp): Extracts shoppable products and sponsor mentions from newsletter editions using AI-powered content intelligence. Generates affiliate-ready product sections for newsletters.
 - [teamsincetoday/recipe-commerce-mcp](https://github.com/teamsincetoday/recipe-commerce-mcp): Extracts affiliate-ready product recommendations from recipe content using AI-powered ingredient and kitchen tool analysis. Remote Streamable HTTP endpoint on Cloudflare Workers.
+- [AppVisionOS/apple-search-ads-mcp](https://github.com/AppVisionOS/apple-search-ads-mcp): Full Apple Ads (Search Ads) Campaign Management API v5 — 74 typed tools covering campaigns, ad groups, ads, creatives, custom product pages, keywords, reports, and impression-share reports, with ES256 JWT auth handled. Published on npm as `apple-search-ads-mcp`.
 
 ## 📡 Monitoring & Observability
 
