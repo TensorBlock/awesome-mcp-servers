@@ -2,6 +2,7 @@
 
 Servers for interacting with email, chat platforms, SMS, or notification services.
 
+- [nylas/cli](https://github.com/nylas/cli): MCP server for email, calendar, and contacts. 16 tools across Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP via a single auth flow. JSON output, install with `nylas mcp install`, works with Claude Code, Cursor, Codex, and Windsurf. Docs at https://cli.nylas.com.
 - [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin): WhatsApp channel plugin for Claude Code. Connect WhatsApp as a native channel to your Claude Code session — send/receive messages, voice transcription, access control, and remote tool approval. Uses Baileys (no API keys needed).
 - [jamesacklin/tlon-mcp-server](https://github.com/jamesacklin/tlon-mcp-server): Facilitates interaction with Tlon agents through direct messaging, contact management, and natural language support.
 - [varunwahi-plivo/plivo-mcp-server](https://github.com/varunwahi-plivo/plivo-mcp-server): Facilitates SMS messaging through Plivo's API using the Message Control Protocol.
