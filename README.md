@@ -508,6 +508,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [unitedideas/agentprobe](https://github.com/unitedideas/agentprobe): Probe any seller URL for agentic commerce readiness. Returns a 0-95 score and grade (NOT_READY/PARTIAL/AGENT_READY/CERTIFIED) across 10 checks: llms.txt, OpenAPI, ai-plugin.json, MCP endpoint, commerce.json, catalog/quote/checkout APIs, payment rail declarations, and refund/contact metadata. One tool: `probe_site(url)`. CI action available.
 - [lazymac2x/lazymac-mcp](https://github.com/lazymac2x/lazymac-mcp) — Unified MCP server exposing 42+ developer tools (qr, ip-geo, ai-cost, llm-router, k-privacy, korean-nlp) backed by Cloudflare Workers. `npx -y @lazymac/mcp`
 - [lazymac2x/lazymac-k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) — Korean wedge MCP — PIPA compliance, KRW + BOK rates, 사업자등록번호 lookup, address geocoding, NLP. `npx -y @lazymac/k-mcp`
 - [cafeTechne/antigravity-link-extension](https://github.com/cafeTechne/antigravity-link-extension): MCP server + OpenAPI API to control Antigravity IDE instances (snapshot, send, stop generation, switch instance, task/walkthrough/plan retrieval) with a mobile companion UI.
