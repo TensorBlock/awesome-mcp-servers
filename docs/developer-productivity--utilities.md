@@ -2,6 +2,7 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI): Self-repairing CLI catalog exposing 238 sites and 1,458 commands across web, desktop apps, Electron apps, and bridge CLIs through one MCP server (counts from the repo's live STATS counters). Declarative YAML adapters with structured error envelopes let agents fix failing adapters and retry; per-call token budget published in `docs/BENCHMARK.md`.
 - [sarveshsea/m-moire](https://github.com/sarveshsea/m-moire): MCP server and CLI for shadcn-native Design CI. Diagnose UI debt, extract Tailwind tokens, export shadcn registries, and plan safe UI fixes.
 - [dejuknow/md-redline](https://github.com/dejuknow/md-redline): Inline review comments for markdown specs and design docs. Agents request human review mid-task via MCP and pause until you send feedback. Comments stored as invisible HTML markers in the markdown file itself.
 - [walkojas-boop/regexforge](https://github.com/walkojas-boop/regexforge): Deterministic regex synthesis. Send labeled examples, get a battle-tested regex + test matrix + backtracking-risk analysis. Zero LLM at serve time. $0.002/call. Live at https://regexforge.jason-12c.workers.dev/.
