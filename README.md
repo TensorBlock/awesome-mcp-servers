@@ -1046,6 +1046,7 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [echozyr2001/ali-flux-mcp](https://github.com/echozyr2001/ali-flux-mcp): Facilitates image generation and management using Alibaba Cloud's DashScope API, with task tracking and local storage capabilities.
 - [c-rick/jimeng-mcp](https://github.com/c-rick/jimeng-mcp): A TypeScript-based MCP server integrating Volcengine's AI image generation service, offering tools for creating images with customizable parameters and direct URL returns.
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp): Harnesses Google's Imagen 3.0 for photorealistic image generation via MCP, requiring a Google Gemini API key.
+- [KyaniteLabs/mcp-video](https://github.com/KyaniteLabs/mcp-video): AI-native video editing MCP server for trimming, merging, text overlays, audio, subtitles, effects, quality checks, and FFmpeg-backed workflows.
 - [SealinGp/mcp-video-extraction](https://github.com/SealinGp/mcp-video-extraction): Facilitates text extraction from videos and audio files across multiple platforms using OpenAI's Whisper model.
 - [kdr/mcp-draw](https://github.com/kdr/mcp-draw): Facilitates AI-driven image generation from text prompts via a standardized interface.
 - [4kk11/mcp-gpt-image](https://github.com/4kk11/mcp-gpt-image): Generates and edits images using OpenAI API, providing scalable previews and Docker integration.
