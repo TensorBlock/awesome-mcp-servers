@@ -574,6 +574,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [Aigen Protocol](https://github.com/Aigen-Protocol/aigen-protocol): Token safety analysis and DeFi data for AI agents. 27 scam patterns, honeypot simulation, safety scoring across 6 EVM chains. 38 MCP tools.
 - [FinancialData.Net MCP Server](https://financialdata.net/mcp-server) - Get real-time stock prices, fundamentals, institutional trading insights, and other financial data delivered through a universal Model Context Protocol (MCP) server.
 - [cnghockey/sats4ai-mcp-server](https://github.com/cnghockey/sats4ai-mcp-server) - Bitcoin Lightning-powered AI tools marketplace. 20+ tools for image, video, audio, text generation, TTS (467 voices), web search, document conversion, and phone calls. Pay per use with sats, no signup. Install: `npx sats4ai-mcp`.
 - [zemloai-ctrl/elecz-api](https://github.com/zemloai-ctrl/elecz-api) - Real-time Nordic and German electricity spot price API and MCP server. Fetches ENTSO-E day-ahead prices for Finland, Sweden, Norway, Denmark, and Germany with actionable contract recommendations for AI agents.
@@ -618,7 +619,6 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [0xanpham/my-crypto-mcp](https://github.com/0xanpham/my-crypto-mcp): Provides real-time cryptocurrency data through Claude Desktop by connecting to the CoinMarketCap API.
 - [aixbt/mcp-server](https://github.com/aixbt/mcp-server): Facilitates cryptocurrency data retrieval and analysis through a Model Context Protocol server for AIXBT API.
 - [DuneRaccoon/financial-markets-analyser](https://github.com/DuneRaccoon/financial-markets-analyser): FastMCP server providing financial data endpoints for stocks and cryptocurrencies with multi-source fallback for reliability.
-- [Aigen-Protocol/aigen-protocol](https://github.com/Aigen-Protocol/aigen-protocol): Token safety analysis and DeFi data for AI agents. 27 scam patterns, honeypot simulation, safety scoring across 6 EVM chains. 38 MCP tools.
 - [thryxagi/obsd-launchpad](https://github.com/thryxagi/obsd-launchpad): Full token lifecycle MCP for AI agents on Base. 12 tools: deploy tokens, buy, sell, claim fees, quotes, referral program, and earnings analytics via `npx obsd-launchpad-mcp`. Treasury-backed intrinsic value floor, progressive sell tax, 37.5% passive OBSD income. 10 verified contracts, 275 tests.
 - [MardiantoS/alpaca-mcp-server](https://github.com/MardiantoS/alpaca-mcp-server): Facilitates interaction between Large Language Models and Alpaca's trading API for automated trading operations.
 - [alokamgnaneswarasai/nuvama-mcp](https://github.com/alokamgnaneswarasai/nuvama-mcp): Integrates Nuvama's trading platform with Claude AI, enabling direct interaction and trading through a FastMCP server.
@@ -1185,6 +1185,7 @@ Servers providing web search capabilities or interfacing with specialized search
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [Aigen Protocol](https://github.com/Aigen-Protocol/aigen-protocol): Real-time token safety scanner. Detects honeypots via DEX swap simulation, hidden mints, ownership exploits across Ethereum, Base, Optimism, Arbitrum, BSC, Polygon.
 - [AgentLair](https://agentlair.dev): Secure identity infrastructure for AI agents — gives agents their own @agentlair.dev email address, encrypted credential vault, and cryptographically signed audit trail. Remote MCP server, no SMTP/DNS setup. npm: `@agentlair/mcp`.
 - [Rul1an/assay](https://github.com/Rul1an/assay): The firewall for MCP tool calls. Deterministic policy enforcement proxy with replayable evidence bundles, OWASP MCP Top 10 coverage (7/10), and compliance packs. MIT licensed.
 - [ClawSec](https://clawsec.cc): Security audit platform for MCP servers and AI agent skills. 5-tier analysis pipeline — static analysis, pattern matching, LLM semantic review, Firecracker sandbox execution, and LLM audit — detects malicious patterns, data exfiltration, and prompt injection. Database of 30,000+ audited skills with Trust Scores. Companion tool [ClawSearch](https://clawsearch.cc) provides safe skill discovery with security ratings.
@@ -1229,7 +1230,6 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit): Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
 
 - [operantlabs/operant-mcp](https://github.com/operantlabs/operant-mcp): Security testing MCP server with 51 tools for penetration testing, network forensics, memory analysis, and vulnerability assessment. Install via `npx operant-mcp`.
-- [Aigen-Protocol/aigen-protocol](https://github.com/Aigen-Protocol/aigen-protocol): Real-time token safety scanner. Detects honeypots via DEX swap simulation, hidden mints, ownership exploits across Ethereum, Base, Optimism, Arbitrum, BSC, Polygon.
 - [scopeblind/scopeblind-gateway](https://github.com/scopeblind/scopeblind-gateway): Security gateway for MCP servers — per-tool policies (Cedar + JSON), Ed25519-signed decision receipts, human approval gates, trust tiers. Shadow mode by default. Install via `npx protect-mcp`.
 
 - [shadoprizm/cyberlens-mcp-server](https://github.com/shadoprizm/cyberlens-mcp-server): Security scanning MCP server for AI assistants — scan websites for missing headers and HTTPS issues, scan GitHub repos for secrets and CVE vulnerabilities, and scan Claw Hub skills for malicious code before installing. Free tier with local quick-scan (no account needed). `npx -y @shadoprizm/cyberlens-mcp-server`

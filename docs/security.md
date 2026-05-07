@@ -2,6 +2,7 @@
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [Aigen Protocol](https://github.com/Aigen-Protocol/aigen-protocol): Real-time token safety scanner. Detects honeypots via DEX swap simulation, hidden mints, ownership exploits across Ethereum, Base, Optimism, Arbitrum, BSC, Polygon.
 - [Chill-AI-Space/vault-mcp](https://github.com/Chill-AI-Space/vault-mcp): MCP server for credential isolation — agents use passwords and API keys without seeing them in context. AES-256-GCM encryption, Chrome CDP login, API key proxy, tamper-proof audit trail.
 - [ElromEvedElElyon/solanashield-mcp](https://github.com/ElromEvedElElyon/solanashield-mcp): AI-powered Solana smart contract security audit server with 40 vulnerability patterns (8 critical, 12 high, 12 medium, 8 low) and 12 MCP tools covering access control, CPI safety, PDA, token operations, arithmetic, and DeFi exploits.
 - [ark-forge/arkforge-mcp](https://github.com/ark-forge/arkforge-mcp): Certifying proxy for AI agent API calls. Every tool call becomes a signed, timestamped Agent Action Receipt (AAR). Model-agnostic and vendor-independent — works across any LLM provider or infrastructure.
