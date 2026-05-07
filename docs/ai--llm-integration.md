@@ -2,6 +2,7 @@
 
 Servers integrating with other AI models, AI platforms, RAG tools, prompt management, or agent frameworks.
 
+- [us-all/mlflow-mcp-server](https://github.com/us-all/mlflow-mcp-server) - MLflow MCP server with 82 tools across experiments, runs, registered models, model versions, traces, and assessments. MLflow 3 GenAI traces support and 5 workflow Prompts.
 - [OpenAgent](https://github.com/the-open-agent/openagent) - Open-source personal AI assistant platform powered by LLM, RAG and agent loops. Supports browser-use, shell execution, web search, office automation, and connects any MCP-compatible server over SSE, Stdio, or StreamableHTTP. Features visual workflow builder, multi-tenant support, and 30+ model providers. Apache-2.0.
 - [RipperMercs/tensorfeed](https://github.com/RipperMercs/tensorfeed/tree/main/mcp-server): Real-time AI industry intelligence MCP server with 6 free tools (news, service status, model pricing, today summary, agent activity) and 13 paid premium tools (routing recommendations, news search, history series, cost projection, provider deep-dive, model comparison, agents directory, what's new brief, webhook watches with digest tier). Pay-per-call in USDC on Base mainnet, no accounts. `npx -y @tensorfeed/mcp-server`
 - [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein): Multi-agent orchestrator with first-class MCP server; coordinates 37 CLI coding agents (Claude Code, Codex, Gemini CLI, OpenHands, Aider, and 32 more) through MCP tool calls. Apache 2.0.
