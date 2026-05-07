@@ -2,6 +2,7 @@
 
 Servers connecting to data warehouses, data query engines, analytics platforms, or specific data APIs.
 
+- [us-all/openmetadata-mcp-server](https://github.com/us-all/openmetadata-mcp-server) - OpenMetadata MCP server with 170 tools across metadata, lineage, search, data quality, sample data, and OM 1.12+ Data Contracts. Includes `lineage-impact` and `quality-rollup` aggregations.
 - [feriadosapi/mcp-server](https://mcp.feriadosapi.com): Brazilian holidays MCP server covering 5,570+ municipalities, 27 states, and national holidays. Returns holiday data by date, state, or city (IBGE code).
 - [rotatingshov/go-mcp-mysql](https://github.com/rotatingshov/go-mcp-mysql): Effortlessly manage MySQL databases with a Go-based MCP server, offering CRUD operations and automation without the need for Node.js or Python.
 - [datafe/maxcompute-mcp-server](https://github.com/datafe/maxcompute-mcp-server): Facilitates data querying and schema management on Alibaba Cloud's MaxCompute platform using MCP protocol.

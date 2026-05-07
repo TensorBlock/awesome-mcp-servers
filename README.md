@@ -120,6 +120,7 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [RipperMercs/tensorfeed](https://github.com/RipperMercs/tensorfeed/tree/main/mcp-server): Real-time AI industry intelligence MCP server with 6 free tools (news, service status, model pricing, today summary, agent activity) and 13 paid premium tools (routing recommendations, news search, history series, cost projection, provider deep-dive, model comparison, agents directory, what's new brief, webhook watches with digest tier). Pay-per-call in USDC on Base mainnet, no accounts. `npx -y @tensorfeed/mcp-server`
 - [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein): Multi-agent orchestrator with first-class MCP server; coordinates 37 CLI coding agents (Claude Code, Codex, Gemini CLI, OpenHands, Aider, and 32 more) through MCP tool calls. Apache 2.0.
 - [hlpun/Train-in-Silence](https://github.com/hlpun/Train-in-Silence): Task-aware MCP server for LLM fine-tuning providing VRAM/runtime/cost estimation and live multi-cloud GPU sniping.
+- [us-all/mlflow-mcp-server](https://github.com/us-all/mlflow-mcp-server) - MLflow MCP server with 82 tools across experiments, runs, registered models, model versions, traces, and assessments. MLflow 3 GenAI traces support and 5 workflow Prompts.
 
 ## 🎨 Art, Culture & Media
 
@@ -466,6 +467,7 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [cheukyin175/metabase-mcp](https://github.com/cheukyin175/metabase-mcp): Facilitates seamless integration of AI assistants with Metabase analytics, enabling direct interaction with analytics data via MCP capabilities.
 - [Strale](https://strale.dev) - 250+ quality-scored capabilities for AI agents: company data across 27 countries, compliance checks (KYB, AML, sanctions, GDPR), financial validation, web intelligence, document extraction, developer tools, and data processing. Every capability independently tested with Strale Quality Score (SQS). Free tier available.
 - [trendsmcp/trends-mcp](https://github.com/trendsmcp/trends-mcp): Real-time trend data from Google Trends (Search, Images, News, Shopping), YouTube, TikTok, Reddit, Amazon, Wikipedia, npm, Steam, Spotify, X (Twitter), App Store, Google Play, web traffic, and news sentiment via one MCP connection. Works with Claude, Cursor, VS Code, Windsurf, ChatGPT, and any MCP-compatible AI. Free API key, 20 requests/day.
+- [us-all/openmetadata-mcp-server](https://github.com/us-all/openmetadata-mcp-server) - OpenMetadata MCP server with 170 tools across metadata, lineage, search, data quality, sample data, and OM 1.12+ Data Contracts. Includes `lineage-impact` and `quality-rollup` aggregations.
 
 ## 🗄️ Databases
 
@@ -597,6 +599,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 - [SDILogin/filesystem-android](https://github.com/SDILogin/filesystem-android): A Claude MCP server facilitating secure access to Android project files for AI-assisted code navigation and analysis.
 - [1yhy/oss-mcp](https://github.com/1yhy/oss-mcp): Facilitates seamless file uploads to Alibaba Cloud OSS, integrating with various MCP tools for enhanced workflow automation.
 - [diganto-deb/local_file_organizer](https://github.com/diganto-deb/local_file_organizer): A Python-based system that organizes and manages files across directories using the Model Context Protocol framework.
+- [us-all/google-drive-mcp-server](https://github.com/us-all/google-drive-mcp-server) - Google Drive + Workspace MCP server with 98 tools across Docs, Sheets, Slides, Shared Drives, Labels, and Approvals. OAuth2 / Service Account + Domain-Wide Delegation auth.
 
 ## 💰 Finance & Crypto
 
@@ -716,6 +719,7 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 - [vincent-pli/openapi-mcpserver-generator](https://github.com/vincent-pli/openapi-mcpserver-generator): A command-line tool that generates MCP server code from OpenAPI specifications, facilitating seamless integration between APIs and LLMs.
 - [mgd1984/cursor-rules](https://github.com/mgd1984/cursor-rules): Facilitates the integration of Cursor Rules MCP server for consistent development guidance in Next.js applications with TypeScript.
 - [wewei/skill-set](https://github.com/wewei/skill-set): A Model Context Protocol server built with mcp-framework, enabling the creation and integration of custom tools for enhanced functionality.
+- [us-all/mcp-toolkit](https://github.com/us-all/mcp-toolkit) - Shared library for MCP server authors with token-efficient defaults: category toggles, extractFields response slimming, search-tools meta-tool, ToolRegistry, and runtime helper supporting stdio + Streamable HTTP transports.
 
 ## 🎮 Gaming
 
@@ -861,6 +865,7 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [stucchi/mcp-advisor](https://github.com/stucchi/mcp-advisor): Browse, search, and discover 7,000+ MCP servers from the official registry. Search by name, tag, or transport, get install instructions for any client, and view trending servers.
 - [kswap/consul-mcp](https://github.com/kswap/consul-mcp): Facilitates Consul service discovery and mesh integration through an MCP server interface.
 - [adw0rd/awesome-mcp-tools-mcp](https://github.com/adw0rd/awesome-mcp-tools-mcp): Hosted MCP server exposing the [awesome-mcp.tools](https://awesome-mcp.tools) catalog of 2,000+ MCP servers as searchable tools — search, compare, top, trending, hot. Refreshed every 6h. Includes a CLI (`npx awesome-mcp search postgres`) and a stdio↔HTTP bridge (`npx -y -p awesome-mcp awesome-mcp-bridge`) for clients without remote-URL support. Endpoint: `https://awesome-mcp.tools/mcp` (Streamable HTTP, no auth).
+- [us-all/unifi-mcp-server](https://github.com/us-all/unifi-mcp-server) - UniFi semantic-analysis MCP server with 54 tools on top of Site Manager API and Cloud Connector. 8 workflow Prompts (4 fleet-ops + 4 MSP). Anomaly detection, fleet health, cross-site analytics. Read-only.
 
 ## 🧠 Knowledge Management & Memory
 
@@ -1036,6 +1041,7 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 - [brunoborges/jvm-diagnostics-mcp](https://github.com/brunoborges/jvm-diagnostics-mcp): Enhances JVM diagnostic tools with a user-friendly prompt and exposes them via an MCP server for local use.
 - [gkhays/mcp-sbom-server](https://github.com/gkhays/mcp-sbom-server): Generates a Software Bill of Materials (SBOM) using Trivy scans, outputting in CycloneDX format.
 - [smigolsmigol/llmkit](https://github.com/smigolsmigol/llmkit): AI cost tracking and budget enforcement MCP server with 11 tools for monitoring spend, session costs, and token usage across Claude Code, Cursor, and Cline.
+- [us-all/datadog-mcp-server](https://github.com/us-all/datadog-mcp-server) - Datadog observability MCP server with 165 tools across metrics, monitors, logs, APM, RUM, incidents, status pages, and fleet automation. 4 workflow Prompts and `incident-triage-snapshot` aggregation tool.
 
 ## 🖼️ Multimedia Processing
 
@@ -1115,6 +1121,7 @@ Servers providing access to the host operating system's command line/shell, exec
 - [wgr1984/ns-lookup-mcp](https://github.com/wgr1984/ns-lookup-mcp): Provides a REST API for DNS lookups using the nslookup command, enabling easy integration of DNS resolution into applications.
 - [GeLi2001/mcp-terminal](https://github.com/GeLi2001/mcp-terminal): A terminal-based interactive client for managing and communicating with MCP servers, supporting multiple transport methods and server configurations.
 - [Wh0am123/MCP-Kali-Server](https://github.com/Wh0am123/MCP-Kali-Server): A lightweight API bridge enabling AI-driven offensive security testing by connecting MCP clients to a Kali Linux machine for executing terminal commands and solving CTF challenges.
+- [us-all/android-mcp-server](https://github.com/us-all/android-mcp-server) - Android MCP server with 76 ADB-based tools across device management, apps, UI automation, logcat, emulator, files, system, and debug. 7 workflow Prompts (crash investigation, ANR, battery drain).
 
 ## ✅ Project & Task Management
 
