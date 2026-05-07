@@ -120,6 +120,7 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [RipperMercs/tensorfeed](https://github.com/RipperMercs/tensorfeed/tree/main/mcp-server): Real-time AI industry intelligence MCP server with 6 free tools (news, service status, model pricing, today summary, agent activity) and 13 paid premium tools (routing recommendations, news search, history series, cost projection, provider deep-dive, model comparison, agents directory, what's new brief, webhook watches with digest tier). Pay-per-call in USDC on Base mainnet, no accounts. `npx -y @tensorfeed/mcp-server`
 - [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein): Multi-agent orchestrator with first-class MCP server; coordinates 37 CLI coding agents (Claude Code, Codex, Gemini CLI, OpenHands, Aider, and 32 more) through MCP tool calls. Apache 2.0.
 - [hlpun/Train-in-Silence](https://github.com/hlpun/Train-in-Silence): Task-aware MCP server for LLM fine-tuning providing VRAM/runtime/cost estimation and live multi-cloud GPU sniping.
+- [kevinastuhuaman/trackly-cli](https://github.com/kevinastuhuaman/trackly-cli): AI job search MCP server with 128K+ live openings across 1,900+ companies. 10 tools for searching jobs, tracking applications, finding contacts, and starting referral campaigns. Two connection modes: hosted streamable-http with OAuth 2.1 at `https://mcp.usetrackly.app/api/mcp`, or local stdio via `npx trackly-cli mcp`. Listed in the official MCP Registry as `io.github.kevinastuhuaman/trackly`.
 
 ## 🎨 Art, Culture & Media
 
