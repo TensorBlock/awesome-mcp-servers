@@ -24,6 +24,8 @@ A comprehensive, community-curated collection of [Model Context Protocol (MCP)](
 
 This repo currently includes coverage for **7260 MCP servers as of May 30, 2025**. Due to the limited space, we only show the most recent 30 servers in each category.
 
+- [tolegm/astranl-mcp](https://github.com/tolegm/astranl-mcp) - AI inference dispatch aggregator routing tasks to Anthropic, OpenAI, Gemini, and xAI Grok. Flat per-task pricing (€0.005-€0.05). 9 MCP tools.
+
 ## Contributing
 
 We welcome submissions! To add your MCP server:
