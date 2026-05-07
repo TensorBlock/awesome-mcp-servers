@@ -2,6 +2,7 @@
 
 Servers or systems that deliver core runtime functionalities for MCP, such as proxying, aggregation, orchestration, hosting, routing, or acting as gateways.
 
+- [adw0rd/awesome-mcp-tools-mcp](https://github.com/adw0rd/awesome-mcp-tools-mcp): Hosted MCP server exposing the [awesome-mcp.tools](https://awesome-mcp.tools) catalog of 2,000+ MCP servers as searchable tools — search, compare, top, trending, hot. Refreshed every 6h. Includes a CLI (`npx awesome-mcp search postgres`) and a stdio↔HTTP bridge (`npx -y -p awesome-mcp awesome-mcp-bridge`) for clients without remote-URL support. Endpoint: `https://awesome-mcp.tools/mcp` (Streamable HTTP, no auth).
 - [lijian-ui/vcenter-mcp-server](https://github.com/lijian-ui/vcenter-mcp-server): Facilitates seamless integration with vCenter Server for efficient virtual machine management, including migration and information retrieval.
 - [chris-sun-star/mcp-server-k8s](https://github.com/chris-sun-star/mcp-server-k8s): Facilitates Kubernetes integration with Claude Desktop through a simple MCP server setup.
 - [Michael98671/agentbay](https://github.com/Michael98671/agentbay): AgentBay MCP Server offers a serverless cloud infrastructure for AI Agents, enabling rapid integration and execution of AI tasks with Alibaba Cloud's Wuying platform.

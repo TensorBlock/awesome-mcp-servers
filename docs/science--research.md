@@ -2,6 +2,7 @@
 
 Servers accessing scientific databases, research platforms, or providing tools for scientific computation/simulation.
 
+- [xmpuspus/ph-civic-data-mcp](https://github.com/xmpuspus/ph-civic-data-mcp): Philippine government data plus global Earth observation as MCP tools. Covers PHIVOLCS earthquakes and volcano alerts, PAGASA weather and typhoons, PhilGEPS procurement, PSA population and poverty, NASA POWER solar/climate, Open-Meteo air quality, NASA MODIS NDVI, USGS earthquakes, NOAA IBTrACS typhoon tracks, and World Bank indicators. 17 tools across 10 sources, zero required API keys, with a cross-source multi-hazard risk profiler. Install: `uvx ph-civic-data-mcp`.
 - [connerlambden/bgpt-mcp](https://github.com/connerlambden/bgpt-mcp): Search scientific papers with structured experimental data extracted from full-text studies, returning 25+ fields per paper including methods, results, sample sizes, and quality scores.
 - [GreatApo/concrete-properties-mcp](https://github.com/GreatApo/concrete-properties-mcp): Facilitates AI-driven analysis of reinforced concrete sections by providing a unified API interface for calculating geometric and material properties.
 - [GooTec/NCBI-MCP](https://github.com/GooTec/NCBI-MCP): Facilitates access to NCBI Datasets through a modular MCP server with OpenAPI-driven endpoints for genome, gene, and taxonomy data.

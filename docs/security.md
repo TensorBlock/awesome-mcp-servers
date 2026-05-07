@@ -2,6 +2,8 @@
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [Agnuxo1/enigmagent-mcp](https://github.com/Agnuxo1/enigmagent-mcp): Encrypted local vault MCP server (AES-256-GCM + Argon2id) that resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in LLM prompts, logs, or context. Local-only, MIT, zero telemetry. `npx enigmagent-mcp`.
+- [rudi193-cmd/willow-1.7](https://github.com/rudi193-cmd/willow-1.7): Portless MCP server with PGP-signed SAFE manifest authorization. SQLite + Postgres knowledge graph, bubblewrap-sandboxed task queue, file intake pipeline, and local inference with free cloud fallback. Zero network attack surface — stdio only, no HTTP listeners.
 - [AgentSeal](https://github.com/JoeyBrar/agentseal-mcp) - Action logs for AI agents. Records every action in a SHA-256 hash chain for verifiable audit trails. Install via `npx agentseal-mcp`.
 - [Agent Trust Stack MCP](https://github.com/alexfleetcommander/agent-trust-stack-mcp) - Cryptographic provenance, trust scoring, and tamper-evident logging for AI agent interactions via the Chain of Consciousness protocol.
 - [Chill-AI-Space/vault-mcp](https://github.com/Chill-AI-Space/vault-mcp): MCP server for credential isolation — agents use passwords and API keys without seeing them in context. AES-256-GCM encryption, Chrome CDP login, API key proxy, tamper-proof audit trail.

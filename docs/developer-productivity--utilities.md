@@ -2,6 +2,9 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI): Self-repairing CLI catalog that exposes web, desktop apps, Electron apps, and bridge CLIs as deterministic commands through one MCP server. Declarative YAML adapters with structured error envelopes let agents fix failing adapters and retry. Live catalog size and per-call token budget tracked in the repo's README and `docs/BENCHMARK.md`.
+- [sarveshsea/m-moire](https://github.com/sarveshsea/m-moire): MCP server and CLI for shadcn-native Design CI. Diagnose UI debt, extract Tailwind tokens, export shadcn registries, and plan safe UI fixes.
+- [dejuknow/md-redline](https://github.com/dejuknow/md-redline): Inline review comments for markdown specs and design docs. Agents request human review mid-task via MCP and pause until you send feedback. Comments stored as invisible HTML markers in the markdown file itself.
 - [walkojas-boop/regexforge](https://github.com/walkojas-boop/regexforge): Deterministic regex synthesis. Send labeled examples, get a battle-tested regex + test matrix + backtracking-risk analysis. Zero LLM at serve time. $0.002/call. Live at https://regexforge.jason-12c.workers.dev/.
 - [walkojas-boop/ghostdom](https://github.com/walkojas-boop/ghostdom): Headless-browser-as-JSON for AI agents. POST a URL, get rendered DOM + text + screenshot from real Chromium. Memorymarket pricing: first agent to render a URL earns 90% of cache-hit fees from subsequent agents within a 10-min TTL. Stack: Cloudflare Workers + Durable Objects + KV + x402. Live at https://ghostdom.jason-12c.workers.dev/.
 - [walkojas-boop/linkpulse](https://github.com/walkojas-boop/linkpulse): URL reality check for AI agents. Returns status, SHA-256 content hash, classification, readability score, title, and wayback-machine fallback when dead. Cached 10 min, $0.001 per call. Live at https://linkpulse-neon.vercel.app/.
@@ -380,4 +383,3 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [kennethnym/claude-prompt-manager](https://github.com/kennethnym/claude-prompt-manager): A TypeScript-based CLI prompt manager for Claude utilizing the MCP protocol, enabling prompt creation and management from the command line.
 - [Kiln-AI](https://github.com/Kiln-AI/Kiln) Kiln is a free tool for building production-ready AI systems. It supports RAG pipelines, evaluations, agents, MCP tool-calling, synthetic data generation, and fine-tuning.
 - [izzzzzi/codewiki-mcp](https://github.com/izzzzzi/codewiki-mcp): MCP server for codewiki.google — AI-powered wiki documentation for open-source repositories. Search repos, fetch wiki content, and ask questions about any repo.
-
