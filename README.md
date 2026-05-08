@@ -606,6 +606,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [ar-agents/ar-agents](https://github.com/ar-agents/ar-agents/tree/main/packages/mcp) - Argentine business automation. Bundles 7 packages: `@ar-agents/mercadopago` (89 typed MP tools), `@ar-agents/identity` (CUIT + AFIP/ARCA padron), `@ar-agents/facturacion` (factura electronica WSFE), `@ar-agents/whatsapp`, `@ar-agents/banking` (CBU/BCRA), `@ar-agents/shipping` (Andreani/OCA/Correo). [![Glama](https://glama.ai/mcp/servers/ar-agents/ar-agents/badges/score.svg)](https://glama.ai/mcp/servers/ar-agents/ar-agents)
 - [szhygulin/vaultpilot-mcp](https://github.com/szhygulin/vaultpilot-mcp) - Safety first. Hardware-verified DeFi for AI agents. The agent proposes, you approve on your Ledger — designed for when the AI can be compromised.
 - [FXMacroData](https://github.com/fxmacrodata/fxmacrodata) - Macroeconomic indicators, central bank policy rates, FX spot rates, COT positioning data, and economic release calendars for 18+ currencies via a remote MCP server at https://fxmacrodata.com/mcp
 - [Haiku MCP Server](https://github.com/Haiku-Trading/haiku-mcp-server) - Execute DeFi transactions across 22 blockchain networks. Swaps, lending, vaults, LP, cross-chain bridges.
