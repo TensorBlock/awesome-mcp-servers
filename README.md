@@ -680,7 +680,6 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
  - [Horus Flow Intelligence](https://github.com/ashraf-hanafy/horus-flow-mcp): Real-time market microstructure, order flow analytics, and liquidity-based intelligence for AI agents.
 - [FluxA AI Wallet MCP](https://github.com/FluxA-Agent-Payment/FluxA-AI-Wallet-MCP) - MCP server for AI agent payments via x402 and AEP2 protocols, with AgentCards, co-wallets, and stablecoin (USDC) micropayments.
 - [chopmob-cloud/AlgoVoi-Platform-Adapters](https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters): Multi-chain x402/MPP/AP2 payment gateway MCP. Create hosted USDC checkouts across 7 chains (Algorand, VOI, Hedera, Stellar, Base, Solana, Tempo) from any MCP client. Verifies on-chain settlement (Solana Pay `reference` binding, EVM Transfer-log scans, Algorand memo-bound), generates agent payment challenges. Install: `npx @algovoi/mcp-server` or `uvx algovoi-mcp`.
-main
 
 ## 🧰 Frameworks
 
