@@ -11,6 +11,7 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [echozyr2001/ali-flux-mcp](https://github.com/echozyr2001/ali-flux-mcp): Facilitates image generation and management using Alibaba Cloud's DashScope API, with task tracking and local storage capabilities.
 - [c-rick/jimeng-mcp](https://github.com/c-rick/jimeng-mcp): A TypeScript-based MCP server integrating Volcengine's AI image generation service, offering tools for creating images with customizable parameters and direct URL returns.
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp): Harnesses Google's Imagen 3.0 for photorealistic image generation via MCP, requiring a Google Gemini API key.
+- [KyaniteLabs/mcp-video](https://github.com/KyaniteLabs/mcp-video): AI-native video editing MCP server for trimming, merging, text overlays, audio, subtitles, effects, quality checks, and FFmpeg-backed workflows.
 - [SealinGp/mcp-video-extraction](https://github.com/SealinGp/mcp-video-extraction): Facilitates text extraction from videos and audio files across multiple platforms using OpenAI's Whisper model.
 - [kdr/mcp-draw](https://github.com/kdr/mcp-draw): Facilitates AI-driven image generation from text prompts via a standardized interface.
 - [4kk11/mcp-gpt-image](https://github.com/4kk11/mcp-gpt-image): Generates and edits images using OpenAI API, providing scalable previews and Docker integration.
@@ -201,4 +202,3 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript): Facilitates direct transcript retrieval from YouTube videos with language-specific options.
 - [iterationlayer/mcp](https://github.com/iterationlayer/mcp): Document extraction, image transformation, programmatic image generation, document generation, and sheet generation via composable APIs with OAuth 2.1 authentication.
 - [neugence/whipscribe-mcp](https://github.com/neugence/whipscribe-mcp): MCP server for audio/video transcription via the Whipscribe API. Transcribes from a URL (YouTube, podcasts, direct media links) or local file; returns txt/json/srt/vtt/docx with optional speaker diarization and word timestamps. Hosted remote endpoint at `https://whipscribe.com/mcp` (Bearer auth) or local install via `uvx whipscribe-mcp`.
-
