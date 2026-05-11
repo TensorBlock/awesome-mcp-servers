@@ -3,6 +3,8 @@
 Servers connecting to data warehouses, data query engines, analytics platforms, or specific data APIs.
 
 - [us-all/openmetadata-mcp-server](https://github.com/us-all/openmetadata-mcp-server) - OpenMetadata MCP server with 170 tools across metadata, lineage, search, data quality, sample data, and OM 1.12+ Data Contracts. Includes `lineage-impact` and `quality-rollup` aggregations.
+- [us-all/dbt-mcp-server](https://github.com/us-all/dbt-mcp-server): dbt MCP server with 22 read-only tools across `manifest.json` / `run_results.json` / `sources.json` / `catalog.json` (model/test/source introspection, run-history analysis, slow models, per-column test coverage, lineage walks) plus 5 DQ result-table tools (BigQuery + Postgres lazy peer imports). 4 triage Prompts and 4 aggregations.
+- [us-all/airflow-mcp-server](https://github.com/us-all/airflow-mcp-server): Airflow MCP for the Airflow 3.x `/api/v2` REST API with JWT auth (SimpleAuthManager). 7 tools (DAG list, runs, task instances, log tails, trigger, clear) plus `dag-health-rollup` aggregation and 2 triage Prompts. Read-only by default; trigger/clear gated by `AIRFLOW_ALLOW_WRITE`.
 - [feriadosapi/mcp-server](https://mcp.feriadosapi.com): Brazilian holidays MCP server covering 5,570+ municipalities, 27 states, and national holidays. Returns holiday data by date, state, or city (IBGE code).
 - [rotatingshov/go-mcp-mysql](https://github.com/rotatingshov/go-mcp-mysql): Effortlessly manage MySQL databases with a Go-based MCP server, offering CRUD operations and automation without the need for Node.js or Python.
 - [datafe/maxcompute-mcp-server](https://github.com/datafe/maxcompute-mcp-server): Facilitates data querying and schema management on Alibaba Cloud's MaxCompute platform using MCP protocol.
