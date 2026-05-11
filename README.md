@@ -985,6 +985,7 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [RagaviManohar/Ragavi-ImmoBricks](https://github.com/RagaviManohar/Ragavi-ImmoBricks): Facilitates communication between AI coding tools and Figma design files for efficient code generation based on design specifications.
 - [jeevanism/odoo-accounting-mcp](https://github.com/jeevanism/odoo-accounting-mcp): Facilitates AI-driven analysis of Odoo accounting data through a secure MCP server integration.
 - [sarayd/mcp-shopify](https://github.com/sarayd/mcp-shopify): Facilitates seamless interaction with Shopify store data via GraphQL API, offering comprehensive tools for managing products, customers, orders, and collections.
+- [BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp): Product catalog API for AI agents — search, compare, and buy 3M+ products across Singapore retailers. [Website](https://buywhere.ai)
 - [ciaraadkins/mixpanel-mcp-server](https://github.com/ciaraadkins/mixpanel-mcp-server): Integrates Mixpanel analytics with Claude and other MCP clients, enabling event tracking and user profile updates.
 - [borgius/jobspy-mcp-server](https://github.com/borgius/jobspy-mcp-server): Facilitates job searches across multiple platforms using AI assistants, offering structured data output and multiple transport options.
 - [ciaraadkins/mixpanel-mcp-wrapper](https://github.com/ciaraadkins/mixpanel-mcp-wrapper): Facilitates seamless integration of Mixpanel analytics with Claude Desktop by automatically injecting project tokens into MCP requests.
