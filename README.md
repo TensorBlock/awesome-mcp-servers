@@ -122,6 +122,7 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [hlpun/Train-in-Silence](https://github.com/hlpun/Train-in-Silence): Task-aware MCP server for LLM fine-tuning providing VRAM/runtime/cost estimation and live multi-cloud GPU sniping.
 - [us-all/mlflow-mcp-server](https://github.com/us-all/mlflow-mcp-server) - MLflow MCP server with 82 tools across experiments, runs, registered models, model versions, traces, and assessments. MLflow 3 GenAI traces support and 5 workflow Prompts.
 
+- [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) - Look up and compare LLM API pricing across 138 models from 22 providers. Built-in MCP server with tools for cost calculation, model comparison, and budget planning. Zero dependencies, works offline.
 ## 🎨 Art, Culture & Media
 
 Servers interacting with APIs for museums, media databases, image/video hosting, or creative content platforms.
