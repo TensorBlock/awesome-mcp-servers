@@ -1248,6 +1248,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [Nadeus/toolradar-mcp](https://github.com/Nadeus/toolradar-mcp): Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, and real alternatives.
 - [workopia/workopia-mcp](https://github.com/workopia/workopia-mcp): Hosted MCP server for job search (direct from employer career pages), PDF resume generation with 50+ templates and career advice. Free, no auth required. Endpoint: https://workopia.io/api/mcp-gpt 
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/mcp): Remote MCP server for searching live agentic AI engineering jobs by framework (LangChain, LlamaIndex, CrewAI, etc.), seniority, location, and remote status. Query aggregate salary benchmarks. Zero-auth streamable HTTP endpoint.
+- [Archivarix-com/tube-search-mcp](https://github.com/Archivarix-com/tube-search-mcp): Search archived YouTube videos including deleted content via the Wayback Machine. 9 tools for channel discovery, full-text search, video metadata, transcripts, and AI-generated summaries. Install via `npx tube-search-mcp`. Free tier with API key.
 
 ## 🔒 Security
 
@@ -1304,7 +1305,6 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [shadoprizm/cyberlens-mcp-server](https://github.com/shadoprizm/cyberlens-mcp-server): Security scanning MCP server for AI assistants — scan websites for missing headers and HTTPS issues, scan GitHub repos for secrets and CVE vulnerabilities, and scan Claw Hub skills for malicious code before installing. Free tier with local quick-scan (no account needed). `npx -y @shadoprizm/cyberlens-mcp-server`
 - [rudi193-cmd/willow-1.7](https://github.com/rudi193-cmd/willow-1.7): Portless MCP server with PGP-signed SAFE manifest authorization. SQLite + Postgres knowledge graph, bubblewrap-sandboxed task queue, file intake pipeline, and local inference with free cloud fallback. Zero network attack surface — stdio only, no HTTP listeners.
 - [AgentSeal](https://github.com/JoeyBrar/agentseal-mcp) - Action logs for AI agents. Records every action in a SHA-256 hash chain for verifiable audit trails. Install via `npx agentseal-mcp`.
-- [Archivarix-com/tube-search-mcp](https://github.com/Archivarix-com/tube-search-mcp): Search archived YouTube videos including deleted content via the Wayback Machine. 9 tools for channel discovery, full-text search, video metadata, transcripts, and AI-generated summaries. Install via `npx tube-search-mcp`. Free tier with API key.
 ## 📱 Social Media & Content Platforms
 
 Servers interacting with social networks, content platforms, or feed aggregators.
