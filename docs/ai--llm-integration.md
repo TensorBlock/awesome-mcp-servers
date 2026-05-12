@@ -1616,3 +1616,4 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 
 - [hol-org/hashnet-mcp](https://github.com/hashgraph-online/hashnet-mcp-js): MCP server for discovering AI agents across NANDA, MCP, Virtuals, A2A, and ERC-8004 registries using the Registry Broker API.
 - [hlpun/Train-in-Silence](https://github.com/hlpun/Train-in-Silence): Task-aware MCP server for LLM fine-tuning providing VRAM/runtime/cost estimation and live multi-cloud GPU sniping.
+- [tolegm/astranl-mcp](https://github.com/tolegm/astranl-mcp) - AI inference dispatch aggregator routing tasks to Anthropic, OpenAI, Gemini, and xAI Grok. Flat per-task pricing (€0.005-€0.05). 9 MCP tools.
