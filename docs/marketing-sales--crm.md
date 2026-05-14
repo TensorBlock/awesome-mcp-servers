@@ -12,6 +12,7 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [crunchloop/mcp-teamtailor](https://github.com/crunchloop/mcp-teamtailor): Facilitates seamless integration with the Teamtailor API for managing candidate data.
 - [deezsecc/Hubspot-MCP](https://github.com/deezsecc/Hubspot-MCP): Facilitates seamless integration of an MCP server with Hubspot databases for enhanced CRM capabilities.
 - [enzoemir1/leadpipe-mcp](https://github.com/enzoemir1/leadpipe-mcp): AI-powered CRM and lead pipeline management with lead ingestion, AI enrichment, scoring (0-100), batch import, search, and export to HubSpot/Pipedrive/Sheets. 8 tools, 3 resources.
+- [herohunt-ai/herohunt-mcp](https://github.com/herohunt-ai/herohunt-mcp): People search API. Find 1 billion candidates across LinkedIn and GitHub with natural language queries. Enrich profiles with verified emails and phones. Install: `npx herohunt-mcp`.
 - [enzoemir1/shopops-mcp](https://github.com/enzoemir1/shopops-mcp): E-commerce operations with inventory management, dynamic pricing, customer segmentation, sales analytics, product catalog, and order management. 11 tools, 4 resources.
 - [beswindev/simple_shopify](https://github.com/beswindev/simple_shopify): Facilitates seamless interaction with Shopify store data via GraphQL API, offering comprehensive management of products, customers, and orders.
 - [metricool/mcp-metricool](https://github.com/metricool/mcp-metricool): Facilitates AI-driven analysis and scheduling of social media metrics and campaigns via the Metricool API.

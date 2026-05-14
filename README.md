@@ -970,6 +970,7 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [sharozdawa/schema-gen](https://github.com/sharozdawa/schema-gen): Schema.org JSON-LD markup generator with 12 types (Person, Product, FAQ, Article, Organization, HowTo, etc.) and live preview.
 - [edupoli/zapdelivery](https://github.com/edupoli/zapdelivery): ZapDelivery API facilitates self-service delivery projects with an integrated MCP endpoint for seamless operations.
 - [Meerkats-Ai/rocketreach-mcp-server](https://github.com/Meerkats-Ai/rocketreach-mcp-server): Integrates with RocketReach API to provide email, phone number finding, and company enrichment capabilities.
+- [herohunt-ai/herohunt-mcp](https://github.com/herohunt-ai/herohunt-mcp): People search API. Find 1 billion candidates across LinkedIn and GitHub with natural language queries. Enrich profiles with verified emails and phones. Install: `npx herohunt-mcp`.
 - [Meerkats-Ai/prospeo-mcp-server](https://github.com/Meerkats-Ai/prospeo-mcp-server): Integrates with the Prospeo API to provide email finding and LinkedIn profile enrichment capabilities.
 - [ShiftEngineering/mcp-close-server](https://github.com/ShiftEngineering/mcp-close-server): Connects to Close.com API to manage leads, contacts, emails, tasks, opportunities, calls, and users for AI assistants.
 - [Meerkats-Ai/smartlead-mcp-server](https://github.com/Meerkats-Ai/smartlead-mcp-server): Facilitates Smartlead campaign management by providing tools for creating, updating, and managing campaigns and their sequences.
