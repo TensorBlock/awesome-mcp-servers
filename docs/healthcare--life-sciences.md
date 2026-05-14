@@ -2,6 +2,7 @@
 
 Servers integrating with healthcare standards, medical literature databases, bioinformatics resources, or specific healthcare platforms.
 
+- [Legal Fournier Spain Legal](https://legalfournier.com/en/mcp/spain-legal/): Read-only Streamable HTTP MCP server for Spain legal route screening, including visas, Beckham Law eligibility, NIE/TIE, residency, nationality, EU family routes, and handoff preparation.
 - [fastomop/omcp_a2a](https://github.com/fastomop/omcp_a2a): Facilitates LLM-driven analysis of healthcare data in OMOP format through modular MCP servers and A2A protocol integration.
 - [deak-ai/openehr-mcp-server](https://github.com/deak-ai/openehr-mcp-server): Facilitates seamless integration with openEHR REST APIs, enabling the creation and management of electronic health records and compositions.
 - [shinichi-takayanagi/myweight-mcp-server](https://github.com/shinichi-takayanagi/myweight-mcp-server): Connects to the Health Planet API to securely retrieve and analyze weight data using any MCP-compatible client.
