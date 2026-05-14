@@ -1411,6 +1411,7 @@ Servers providing data or services related to flights, trains, transportation AP
 
 Servers providing simple, general-purpose tools like time/date information, calculators, dice rollers, formatters, unit converters, UUID generation, etc.
 
+- [demo112/cn-calendar-skill](https://github.com/demo112/cn-calendar-skill): Chinese calendar and holiday queries — public holidays, workday schedules (调休), traditional festivals, and 24 solar terms (二十四节气) via MCP tools.
 - [dmeldrum6/PHP-MCP-Web-Tools](https://github.com/dmeldrum6/PHP-MCP-Web-Tools) - PHP MCP tools including fetch webpage, fetch links, date & time, DNS lookup, text utils, MCP Server code and chat client configured for using them
 - [rogertheunissenmerge-oss/mcp-server](https://github.com/rogertheunissenmerge-oss/mcp-server): Remote MCP server for sommelier-grade wine pairing. 7 tools powered by a proprietary Wine DNA algorithm with 600+ wine archetypes. Pair wines with meals, ingredients, or recipe URLs; reverse pairing; group dinner planning. Supports API key and x402 pay-per-call (USDC on Base). Live at `https://api.sommelierx.com/mcp`.
 - [FlatFilers/mcp-server-flatfile](https://github.com/FlatFilers/mcp-server-flatfile): Facilitates interaction with the Flatfile API through a customizable MCP server, enabling streamlined data management and integration.
