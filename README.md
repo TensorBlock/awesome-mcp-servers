@@ -315,6 +315,7 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [CodeLogicIncEngineering/codelogic-mcp-server](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server): Leverage Codelogic's software dependency data for impact assessments in AI programming assistants.
 - [autonomous-testing/wopee-mcp](https://github.com/autonomous-testing/wopee-mcp): AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
 - [kuberstar/qartez-mcp](https://github.com/kuberstar/qartez-mcp): Semantic code intelligence MCP server with 27 tools for project maps, symbol search, impact analysis, call hierarchies, architecture boundaries, and safe refactoring. Built in Rust.
+- [Cranot/roam-code](https://github.com/Cranot/roam-code): Local-first MCP server with 116 tools for codebase intelligence — graph-aware retrieval (FTS5 + personalized PageRank + clones), patch verifier (clones-not-edited check), in-toto v1 Code Graph Attestation with cosign signing, OpenVEX-correct taint reachability, AIBOM extension (CycloneDX 1.7) for EU AI Act compliance. 27 languages, 33-tool core preset + dedicated 14-tool compliance preset. Zero API keys, 100% local SQLite.
 
 ## 💻 Code Execution
 
