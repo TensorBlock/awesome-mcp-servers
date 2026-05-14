@@ -316,6 +316,8 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [autonomous-testing/wopee-mcp](https://github.com/autonomous-testing/wopee-mcp): AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
 - [kuberstar/qartez-mcp](https://github.com/kuberstar/qartez-mcp): Semantic code intelligence MCP server with 27 tools for project maps, symbol search, impact analysis, call hierarchies, architecture boundaries, and safe refactoring. Built in Rust.
 
+- [Muvon/octocode](https://github.com/Muvon/octocode): Rust-built semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, code signatures, and LanceDB vector storage. 13+ languages. Local-first, Apache 2.0.
+
 ## 💻 Code Execution
 
 Servers designed to execute code snippets or scripts in various languages, often in sandboxed environments.
