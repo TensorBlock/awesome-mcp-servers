@@ -163,6 +163,7 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 Servers using tools for browser control, automation, and extracting content from websites.
 - [Darko893/mcp-server](https://github.com/Darko893/mcp-server): AI-powered web scraping MCP server with Cloudflare bypass, JavaScript rendering, and structured data extraction via the Haunt API. Pay-per-use with generous free tier.
 
+- [babelwrap/babelwrap-mcp](https://github.com/babelwrap/babelwrap-mcp): HTTP API and MCP server that lets AI agents interact with websites through natural language instead of CSS selectors. Navigate, click, fill forms, and extract data via plain English descriptions.
 - [Custodia-Admin/pagebolt-mcp](https://github.com/Custodia-Admin/pagebolt-mcp): Provides hosted web capture and browser automation via REST API and MCP. Supports screenshot, PDF, OG image, multi-step sequences, AI-narrated video recording, and page inspection (CSS selectors + element maps for AI agents). Works natively in Claude Desktop, Cursor, and Windsurf.
 - [giannisalinetti/python-mcp-server](https://github.com/giannisalinetti/python-mcp-server): Facilitates Python code execution for web scraping tasks using an LLM, leveraging Podman for container management.
 - [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs): Plugin-based MCP server that gives AI agents access to web applications through the user's authenticated browser session. Chrome extension with 100+ plugins for Slack, Discord, GitHub, Reddit, and more.
