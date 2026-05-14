@@ -157,6 +157,7 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 - [opensourcedev90s/uk-science-museum-group-mcp](https://github.com/opensourcedev90s/uk-science-museum-group-mcp): Facilitates data retrieval from the UK Science Museum Group API for LLMs via a Python-based MCP server.
 - [AnshulDalua/illustrator-mcp](https://github.com/AnshulDalua/illustrator-mcp): Facilitates script execution in Adobe Illustrator via MCP, leveraging JavaScript and AppleScript on MacOS.
 - [hugeicons/mcp-server](https://github.com/hugeicons/mcp-server): Facilitates seamless integration of Hugeicons across various platforms by providing tools, resources, and platform-specific guides for AI assistants.
+- [techwell-inc-jp/shirabe-calendar-api](https://github.com/techwell-inc-jp/shirabe-calendar-api): Japanese calendar API for AI agents — Rokuyo (六曜), Rekichu (暦注 — auspicious days like ichiryū-manbai-bi 一粒万倍日 and tenshanichi 天赦日), Eto (干支), 24 Solar Terms, and purpose-specific fortune judgments (wedding/moving/business etc.) over MCP and REST. Backed by an in-house astronomical engine; covers 1873-2100. Free tier 10,000 calls/month.
 
 ## 🌐 Browser Automation & Web Scraping
 
