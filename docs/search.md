@@ -2,6 +2,7 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [Archivarix-com/tube-search-mcp](https://github.com/Archivarix-com/tube-search-mcp): Search archived YouTube videos including deleted content via the Wayback Machine. 9 tools for channel discovery, full-text search, video metadata, transcripts, and AI-generated summaries. Install via `npx tube-search-mcp`. Free tier with API key.
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/mcp): Remote MCP server for searching live agentic AI engineering jobs by framework (LangChain, LlamaIndex, CrewAI, etc.), seniority, location, and remote status. Query aggregate salary benchmarks. Zero-auth streamable HTTP endpoint.
 - [AgentGrade](https://agentgrade.com): Scan any website for AI agent readiness — scores 80+ checks across payments, MCP, OpenAPI, and discovery. Remote MCP server at agentgrade.com/mcp.
 - [kansei-link/kansei-mcp-server](https://github.com/kansei-link/kansei-mcp-server): Intelligence layer for AI agents to discover and evaluate 156+ SaaS/API services with trust scores, 120 workflow recipes, intent-based search, and Agent Voice feedback from real agent usage.

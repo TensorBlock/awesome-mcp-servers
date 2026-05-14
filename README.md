@@ -1258,6 +1258,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [Nadeus/toolradar-mcp](https://github.com/Nadeus/toolradar-mcp): Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, and real alternatives.
 - [workopia/workopia-mcp](https://github.com/workopia/workopia-mcp): Hosted MCP server for job search (direct from employer career pages), PDF resume generation with 50+ templates and career advice. Free, no auth required. Endpoint: https://workopia.io/api/mcp-gpt 
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/mcp): Remote MCP server for searching live agentic AI engineering jobs by framework (LangChain, LlamaIndex, CrewAI, etc.), seniority, location, and remote status. Query aggregate salary benchmarks. Zero-auth streamable HTTP endpoint.
+- [Archivarix-com/tube-search-mcp](https://github.com/Archivarix-com/tube-search-mcp): Search archived YouTube videos including deleted content via the Wayback Machine. 9 tools for channel discovery, full-text search, video metadata, transcripts, and AI-generated summaries. Install via `npx tube-search-mcp`. Free tier with API key.
 
 ## 🔒 Security
 
