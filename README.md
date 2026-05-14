@@ -1060,6 +1060,7 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 
 Servers focused on generating or manipulating images, processing video, audio transcription, text-to-speech, or document conversion.
 
+- [demo112/mcp-server-convert](https://github.com/demo112/mcp-server-convert): Converts PDF, DOCX, HTML, EPUB, CSV, Excel, PowerPoint, JSON, XML to Markdown via MCP tools with batch processing and metadata extraction.
 - [AIDC-AI/Pixelle-MCP](https://github.com/AIDC-AI/Pixelle-MCP): An omnimodal AIGC framework that seamlessly converts ComfyUI workflows into MCP tools with zero code, enabling full-modal support for Text, Image, Sound, and Video generation with Chainlit-based web interface.
 - [aimino/imagemagic-mcp](https://github.com/aimino/imagemagic-mcp): Enhance images with binarization, color adjustment, and resizing using ImageMagick via the MCP protocol.
 - [SkyworkAI/Mureka-mcp](https://github.com/SkyworkAI/Mureka-mcp): Facilitates the creation of lyrics, songs, and background music through an MCP server, enabling seamless integration with platforms like Claude Desktop and OpenAI Agents.
