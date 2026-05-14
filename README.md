@@ -121,6 +121,7 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein): Multi-agent orchestrator with first-class MCP server; coordinates 37 CLI coding agents (Claude Code, Codex, Gemini CLI, OpenHands, Aider, and 32 more) through MCP tool calls. Apache 2.0.
 - [hlpun/Train-in-Silence](https://github.com/hlpun/Train-in-Silence): Task-aware MCP server for LLM fine-tuning providing VRAM/runtime/cost estimation and live multi-cloud GPU sniping.
 - [us-all/mlflow-mcp-server](https://github.com/us-all/mlflow-mcp-server) - MLflow MCP server with 82 tools across experiments, runs, registered models, model versions, traces, and assessments. MLflow 3 GenAI traces support and 5 workflow Prompts.
+- [tolegm/astranl-mcp](https://github.com/tolegm/astranl-mcp) - AI inference dispatch aggregator routing tasks to Anthropic, OpenAI, Gemini, and xAI Grok. Flat per-task pricing (€0.005-€0.05). 9 MCP tools.
 
 ## 🎨 Art, Culture & Media
 
