@@ -831,6 +831,7 @@ Servers integrating with healthcare standards, medical literature databases, bio
 - [ChatMol/molecule-mcp](https://github.com/ChatMol/molecule-mcp): Facilitates molecule modeling by integrating molecule science tools with Claude AI through the Model Context Protocol.
 - [jagan-shanmugam/climatiq-mcp-server](https://github.com/jagan-shanmugam/climatiq-mcp-server): Facilitates real-time carbon emission calculations and climate impact insights for AI assistants using the Climatiq API.
 - [elizabethtrykin/8sleep-mcp](https://github.com/elizabethtrykin/8sleep-mcp): Access and control Eight Sleep Pod data and settings through a Model Context Protocol server.
+- [EmperorMew/WWF](https://github.com/EmperorMew/WWF): 43 tools for U.S. veteran benefits, crisis routing, and service-locator queries — Veterans Crisis Line (988), VA disability rating calculations, PACT Act presumptive condition matching, VA form lookup, accredited representative search, county/CVSO finder, and HSDS-formatted resource search across 100,437 veteran service records. Built on open data: VA disability rates, ACS demographics, CDC PLACES, housing burden. Streamable HTTP at `https://warriors-fund-api.emperormew.workers.dev/mcp`.
 
 ## 🏛️ Infrastructure
 
