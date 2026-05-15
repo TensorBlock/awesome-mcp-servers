@@ -2,6 +2,8 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [Parsegl/parse-mcp](https://github.com/Parsegl/parse-mcp): Look up how any brand surfaces in ChatGPT and Google AI Overviews. Parse's public AI visibility index, queryable from any MCP-capable client. Search brands, prompts, sources, and niches; fetch brand briefs and prompt details; pull dataset stats. 577,000+ brands. No auth required.
+- [opusforge/gorilla-mcp](https://github.com/opusforge/gorilla-mcp): Lead discovery for solo SaaS founders. One run searches Reddit, X, YouTube, and TikTok in parallel and ranks each post by buying intent. Tools for end-to-end acquisition: `leads.find`, `idea.refine`, `outreach.draft`, and `outreach.plan` (Week-1 cadence).
 - [edupoli/zapdelivery](https://github.com/edupoli/zapdelivery): ZapDelivery API facilitates self-service delivery projects with an integrated MCP endpoint for seamless operations.
 - [Meerkats-Ai/rocketreach-mcp-server](https://github.com/Meerkats-Ai/rocketreach-mcp-server): Integrates with RocketReach API to provide email, phone number finding, and company enrichment capabilities.
 - [Meerkats-Ai/prospeo-mcp-server](https://github.com/Meerkats-Ai/prospeo-mcp-server): Integrates with the Prospeo API to provide email finding and LinkedIn profile enrichment capabilities.
@@ -9,6 +11,9 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [Meerkats-Ai/smartlead-mcp-server](https://github.com/Meerkats-Ai/smartlead-mcp-server): Facilitates Smartlead campaign management by providing tools for creating, updating, and managing campaigns and their sequences.
 - [crunchloop/mcp-teamtailor](https://github.com/crunchloop/mcp-teamtailor): Facilitates seamless integration with the Teamtailor API for managing candidate data.
 - [deezsecc/Hubspot-MCP](https://github.com/deezsecc/Hubspot-MCP): Facilitates seamless integration of an MCP server with Hubspot databases for enhanced CRM capabilities.
+- [enzoemir1/leadpipe-mcp](https://github.com/enzoemir1/leadpipe-mcp): AI-powered CRM and lead pipeline management with lead ingestion, AI enrichment, scoring (0-100), batch import, search, and export to HubSpot/Pipedrive/Sheets. 8 tools, 3 resources.
+- [herohunt-ai/herohunt-mcp](https://github.com/herohunt-ai/herohunt-mcp): People search API. Find 1 billion candidates across LinkedIn and GitHub with natural language queries. Enrich profiles with verified emails and phones. Install: `npx herohunt-mcp`.
+- [enzoemir1/shopops-mcp](https://github.com/enzoemir1/shopops-mcp): E-commerce operations with inventory management, dynamic pricing, customer segmentation, sales analytics, product catalog, and order management. 11 tools, 4 resources.
 - [beswindev/simple_shopify](https://github.com/beswindev/simple_shopify): Facilitates seamless interaction with Shopify store data via GraphQL API, offering comprehensive management of products, customers, and orders.
 - [metricool/mcp-metricool](https://github.com/metricool/mcp-metricool): Facilitates AI-driven analysis and scheduling of social media metrics and campaigns via the Metricool API.
 - [jean-technologies/smartlead-mcp-server-local](https://github.com/jean-technologies/smartlead-mcp-server-local): Facilitates seamless interaction with Smartlead's email marketing features through a simplified MCP server interface, supporting AI assistants and automation tools.
@@ -22,6 +27,7 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [RagaviManohar/Ragavi-ImmoBricks](https://github.com/RagaviManohar/Ragavi-ImmoBricks): Facilitates communication between AI coding tools and Figma design files for efficient code generation based on design specifications.
 - [jeevanism/odoo-accounting-mcp](https://github.com/jeevanism/odoo-accounting-mcp): Facilitates AI-driven analysis of Odoo accounting data through a secure MCP server integration.
 - [sarayd/mcp-shopify](https://github.com/sarayd/mcp-shopify): Facilitates seamless interaction with Shopify store data via GraphQL API, offering comprehensive tools for managing products, customers, orders, and collections.
+- [Packrift/packrift-mcp](https://github.com/Packrift/packrift-mcp): Remote MCP server for Packrift's packaging-supplies catalog with product search, pricing, inventory, packaging recommendations, and checkout URLs.
 - [ciaraadkins/mixpanel-mcp-server](https://github.com/ciaraadkins/mixpanel-mcp-server): Integrates Mixpanel analytics with Claude and other MCP clients, enabling event tracking and user profile updates.
 - [borgius/jobspy-mcp-server](https://github.com/borgius/jobspy-mcp-server): Facilitates job searches across multiple platforms using AI assistants, offering structured data output and multiple transport options.
 - [ciaraadkins/mixpanel-mcp-wrapper](https://github.com/ciaraadkins/mixpanel-mcp-wrapper): Facilitates seamless integration of Mixpanel analytics with Claude Desktop by automatically injecting project tokens into MCP requests.
@@ -151,4 +157,4 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server): Facilitates user context management through Apache Unomi's profile system, enabling seamless integration with Claude Desktop.
 - [Alec2435/amazon-fresh-server](https://github.com/Alec2435/amazon-fresh-server): A TypeScript-based MCP server implementing a notes system with resources, tools, and prompts for note management and summarization.
 - [Offorte Proposal Software](https://github.com/offorte/offorte-mcp-server): The Offorte Proposal Software MCP server enables creation and sending of business proposals.
-
+- [SigParser](https://ipaas.sigparser.com/api/mcp): Email contact extraction, relationship warmth scoring, and CRM enrichment from email signatures and calendar data. MCP server providing AI-powered access to contact, company, and relationship data. Syncs to Salesforce, HubSpot, and Dynamics.

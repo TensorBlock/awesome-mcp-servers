@@ -262,5 +262,6 @@ Servers using tools for browser control, automation, and extracting content from
 - [Sunwood-ai-labs/duckduckgo-web-search](https://github.com/Sunwood-ai-labs/duckduckgo-web-search): A TypeScript-based MCP server for Claude Desktop that implements a simple notes system using DuckDuckGo API.
 - [blazickjp/web-browser-mcp-server](https://github.com/blazickjp/web-browser-mcp-server): Empower AI models to navigate and extract data from websites using a streamlined MCP interface with advanced content targeting and error management.
 - [bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp): Screaming Frog SEO Spider integration for crawling websites, exporting SEO data, and managing crawl storage through AI assistants.
-
 - [ExceptionRegret/Kryfto](https://github.com/ExceptionRegret/Kryfto): Open-source web-browsing backend for AI agents with a 42-tool MCP server, REST API for n8n/Zapier/Make, federated multi-engine search, anti-bot stealth, and enterprise infrastructure (Postgres, Redis, BullMQ, MinIO).
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern): Automates browser-based workflows using LLMs and computer vision, with a Playwright-compatible SDK, no-code workflow builder, and MCP server for AI agents to control any website.
+- [avabuildsdata/mcp-us-business-data](https://github.com/avabuildsdata/mcp-us-business-data): Enables AI agents to search US business entities across 17 state Secretary of State databases, building permits in 400+ cities, and Yellow Pages listings with structured lead data.

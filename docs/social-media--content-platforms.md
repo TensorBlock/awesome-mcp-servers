@@ -2,6 +2,8 @@
 
 Servers interacting with social networks, content platforms, or feed aggregators.
 
+- [Lebedinskas/content-to-social-mcp-server](https://github.com/Lebedinskas/content-to-social-mcp-server): Transforms any blog/article URL into ready-to-post social media content for Twitter/X, LinkedIn, Instagram, Facebook, and email newsletters. Hosted on Apify with pay-per-event pricing ($0.07/call) — zero setup, just add the MCP endpoint URL.
+- [azeemkafridi/bulkpublish-api](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server): MCP server for social media publishing across 11 platforms — create posts, schedule, upload media, and track analytics. 29 tools via `npx -y @bulkpublish/mcp-server`.
 - [socialneuron/mcp-server](https://github.com/socialneuron/mcp-server): 64 MCP tools for end-to-end social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning. Supports YouTube, Instagram, TikTok.
 - [NexusX-MCP/integrate-mcp-server](https://github.com/NexusX-MCP/integrate-mcp-server): An extensible server providing standardized access to social and onchain data, supporting platforms like Farcaster with plans for Twitter integration.
 - [sriramsowmithri9807/MCP_X](https://github.com/sriramsowmithri9807/MCP_X): Facilitates AI model interactions with Twitter/X API through a standardized MCP interface, enabling tweet management and data retrieval.
@@ -45,6 +47,7 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [berlinbra/news-api-mcp](https://github.com/berlinbra/news-api-mcp): Access global news articles with advanced filtering and headline retrieval through a standardized MCP interface.
 - [diasm3/serpapi-youtube-mcp-server](https://github.com/diasm3/serpapi-youtube-mcp-server): Facilitates extraction and analysis of YouTube video transcripts and comments using SerpAPI.
 - [DynamicEndpoints/social-media-automation-mcp](https://github.com/DynamicEndpoints/social-media-automation-mcp): A TypeScript-based server that automates social media note management by creating, accessing, and summarizing text notes using MCP protocols.
+- [Freespirits/social-auto-engine](https://github.com/Freespirits/social-auto-engine): Open-source multi-platform social media manager. Publish to Facebook, Instagram, Threads, WhatsApp, and LinkedIn from one dashboard or via MCP; TikTok and YouTube adapters await platform review. FastAPI/HTMX approval queue (no silent automation), 17 AI content skills (voice training, post writing, carousels). MIT, self-hosted.
 - [tiroshanm/facebook-mcp-server](https://github.com/tiroshanm/facebook-mcp-server): Facilitates automated Facebook Page management, including posting, comment moderation, and content retrieval.
 - [0xGval/twitter-X-mcp-server](https://github.com/0xGval/twitter-X-mcp-server): A toolkit enabling Claude to perform advanced Twitter searches using natural language and syntax, with options for raw data or AI-driven analysis.
 - [AudienseCo/mcp-audiense-di-linkedin](https://github.com/AudienseCo/mcp-audiense-di-linkedin): Facilitates interaction with LinkedIn's Digital Intelligence service, enabling report creation, insights retrieval, and typeahead suggestions through MCP-compatible clients.
@@ -101,5 +104,4 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [laulauland/bluesky-context-server](https://github.com/laulauland/bluesky-context-server): Facilitates querying Bluesky instances through MCP client integration.
 - [Muralikrishankp/Twitter-MCP-Server-for-Claude](https://github.com/Muralikrishankp/Twitter-MCP-Server-for-Claude): Connects Twitter's trending topics with Claude's analysis capabilities to identify business opportunities.
 - [VibeMarketing](https://vibemarketing.ninja/mcp): Social media scheduling for X/Twitter and LinkedIn with AI-powered content generation. OAuth authentication, schedule posts, manage accounts, subscription tracking.
-- [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper): X/Twitter data platform — MCP server with StreamableHTTP transport, 76 REST API endpoints, 20 extraction tools.
-
+- [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper): X/Twitter automation platform with an MCP server, 100+ REST API endpoints, 23 extraction types, HMAC webhooks, and SDKs.

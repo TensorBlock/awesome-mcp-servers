@@ -2,6 +2,10 @@
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [Agnuxo1/enigmagent-mcp](https://github.com/Agnuxo1/enigmagent-mcp): Encrypted local vault MCP server (AES-256-GCM + Argon2id) that resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in LLM prompts, logs, or context. Local-only, MIT, zero telemetry. `npx enigmagent-mcp`.
+- [rudi193-cmd/willow-1.7](https://github.com/rudi193-cmd/willow-1.7): Portless MCP server with PGP-signed SAFE manifest authorization. SQLite + Postgres knowledge graph, bubblewrap-sandboxed task queue, file intake pipeline, and local inference with free cloud fallback. Zero network attack surface — stdio only, no HTTP listeners.
+- [AgentSeal](https://github.com/JoeyBrar/agentseal-mcp) - Action logs for AI agents. Records every action in a SHA-256 hash chain for verifiable audit trails. Install via `npx agentseal-mcp`.
+- [Agent Trust Stack MCP](https://github.com/alexfleetcommander/agent-trust-stack-mcp) - Cryptographic provenance, trust scoring, and tamper-evident logging for AI agent interactions via the Chain of Consciousness protocol.
 - [Chill-AI-Space/vault-mcp](https://github.com/Chill-AI-Space/vault-mcp): MCP server for credential isolation — agents use passwords and API keys without seeing them in context. AES-256-GCM encryption, Chrome CDP login, API key proxy, tamper-proof audit trail.
 - [ElromEvedElElyon/solanashield-mcp](https://github.com/ElromEvedElElyon/solanashield-mcp): AI-powered Solana smart contract security audit server with 40 vulnerability patterns (8 critical, 12 high, 12 medium, 8 low) and 12 MCP tools covering access control, CPI safety, PDA, token operations, arithmetic, and DeFi exploits.
 - [ark-forge/arkforge-mcp](https://github.com/ark-forge/arkforge-mcp): Certifying proxy for AI agent API calls. Every tool call becomes a signed, timestamped Agent Action Receipt (AAR). Model-agnostic and vendor-independent — works across any LLM provider or infrastructure.
@@ -108,4 +112,5 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [Sladey01/github-snyk-server](https://github.com/Sladey01/github-snyk-server): Integrates GitHub repository access with Snyk security scanning for enhanced vulnerability analysis in Claude.
 - [fr0gger/MCP_Security](https://github.com/fr0gger/MCP_Security): A Model Context Protocol server for querying the ORKL API, providing tools for threat intelligence analysis and integration with MCP-compatible applications.
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit): Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- [true-alter/alter-identity](https://github.com/true-alter/alter-identity): Identity infrastructure for the AI economy — 33-trait psychometric engine delivering verified human identity via MCP. Tools for trait vectors, belonging probability, attunement depth, and privacy-gated inference. Streamable-HTTP remote server at `https://mcp.truealter.com/api/v1/mcp`. Free tier: 16 tools, 10 req/min.
 
