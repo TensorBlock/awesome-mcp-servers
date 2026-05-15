@@ -1445,6 +1445,8 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [OpenSourceGuru776/consist](https://github.com/OpenSourceGuru776/consist): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [IteraTools](https://api.iteratools.com): Cloud-hosted multi-tool MCP API providing 34+ capabilities through a single endpoint: image generation (Flux), web scraping, TTS, OCR, browser automation, sandboxed code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and more. Pay-per-use with x402 micropayment protocol.
 
+- **[MEOK Governance Suite](https://github.com/CSOAI-ORG)** - 38 AI compliance MCPs covering EU AI Act, DORA, NIS2, CRA, MDR, FDA SaMD, MiCA, AML, Basel III, MiFID II, COPPA/FERPA, watermarking + C2PA, AI-BOM, bias detection, prompt-injection firewall, CISA KEV, MITRE ATT&CK/ATLAS, SLSA, Sigstore. HMAC-signed attestations. `npx meok-setup --pack governance`.
+
 ## 🔄 Version Control
 
 Servers interacting with version control systems and platforms for repository management, issues, pull requests, etc.
