@@ -742,7 +742,7 @@ Servers interacting with game engines, game platforms/APIs, or providing game-re
 - [Jeremy-Min-Yang/minecraft-mcp-server-pixel](https://github.com/Jeremy-Min-Yang/minecraft-mcp-server-pixel): Enables AI-driven control of a Minecraft bot using the Mineflayer API for automated building and exploration.
 - [v9rt3x/cs2-rcon-mcp](https://github.com/v9rt3x/cs2-rcon-mcp): Facilitates remote management and monitoring of Counter-Strike 2 servers using RCON commands through a Model Context Protocol interface.
 - [passontw/slotdemo](https://github.com/passontw/slotdemo): A modern slot machine game built with native JavaScript, CSS animations, and Tailwind CSS, offering a smooth and interactive gaming experience.
-- [jimbo530/baselings-mcp](https://www.npmjs.com/package/baselings-mcp): 35 MCP tools for AI agents to play Baselings, a yield-generating pet game on Base chain with carbon retirement mechanics.
+- [jimbo530/baselings-mcp](https://github.com/jimbo530/baselings-mcp): 43 MCP tools for AI agents to play Baselings, a yield-generating pet game on Base chain with guardrailed DeFi swaps, token launches, reactor burns, and carbon retirement. No API key required. Install: `npx baselings-mcp`.
 - [andrzejsliwa/6510emu_in_c](https://github.com/andrzejsliwa/6510emu_in_c): A modern C implementation of a 6510/6502 CPU emulator with disassembly support, used in the Commodore 64.
 - [8tako8tako8/sample_mcp_pokemon](https://github.com/8tako8tako8/sample_mcp_pokemon): Retrieve Pokémon data using a dedicated MCP server that interfaces with PokeAPI.
 - [h0rv/d2-mcp](https://github.com/h0rv/d2-mcp): Facilitates the integration of D2 diagram creation and validation into development workflows, offering syntax validation and rendering capabilities.
