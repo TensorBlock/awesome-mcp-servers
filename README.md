@@ -1265,6 +1265,7 @@ Servers providing web search capabilities or interfacing with specialized search
 
 ## 🔒 Security
 
+- [smq9sn5jck-coder/causallayer-mcp](https://github.com/smq9sn5jck-coder/causallayer-mcp): Deterministic AI-liability attribution. Issues signed, Bitcoin-anchored CausalCertificateV1 receipts that compute vendor/deployer/user fault shares for AI incidents — closed-form math, no LLM in the scoring path. Free demo at `https://mcp.faultkey.com/mcp`.
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
 - [Agnuxo1/enigmagent-mcp](https://github.com/Agnuxo1/enigmagent-mcp): Encrypted local vault MCP server (AES-256-GCM + Argon2id) that resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in LLM prompts, logs, or context. Local-only, MIT, zero telemetry. `npx enigmagent-mcp`.
