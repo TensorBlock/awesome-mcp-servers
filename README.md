@@ -569,6 +569,8 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [mcp-lint](https://github.com/robert19001-cmyk/mcp-lint): CLI linting tool that validates MCP server tool schemas for cross-client compatibility across Claude, Cursor, Gemini, and VS Code Copilot. Features 13 rules, auto-fix for safe issues, JSON/Markdown output, and support for static files and live MCP servers via stdio/SSE.
 - [dejuknow/md-redline](https://github.com/dejuknow/md-redline): Inline review comments for markdown specs and design docs. Agents request human review mid-task via MCP and pause until you send feedback. Comments stored as invisible HTML markers in the markdown file itself.
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI): Self-repairing CLI catalog that exposes web, desktop apps, Electron apps, and bridge CLIs as deterministic commands through one MCP server. Declarative YAML adapters with structured error envelopes let agents fix failing adapters and retry. Live catalog size and per-call token budget tracked in the repo's README and `docs/BENCHMARK.md`.
+- [miloantaeus/milo-usage-forecaster-mcp](https://github.com/miloantaeus/milo-usage-forecaster-mcp): Predicts your monthly LLM spend from local Claude Code / Cursor / Codex logs. Projects end-of-month $, ranks spike drivers (subagents / projects / files), warns before budget breach. Installs via stdio in any MCP-aware editor. Free tier + paid tier ($19/mo via x402/PayPal), MIT licensed, no telemetry. Companion to `milo-cost-auditor-mcp` (audit past → predict future).
+
 ## 📁 Filesystems
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
