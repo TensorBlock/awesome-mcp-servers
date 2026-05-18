@@ -707,6 +707,7 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 
 - [johnhenry/hackernews-mcp](https://github.com/johnhenry/hackernews-mcp): A template for creating new MCP servers with features like sandboxed JavaScript execution and debug logging.
 - [CristianCiubancan/YO-mcp](https://github.com/CristianCiubancan/YO-mcp): A CLI tool for quickly setting up an MCP server using FastMCP with dual transport support and TypeScript integration.
+- [Coding-Dev-Tools/click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp): Auto-wrap any Click/typer CLI as an MCP server by introspecting CLI commands and options at runtime. Supports stdio and HTTP+SSE transport. Python package, no changes to existing CLI code needed.
 - [macchen-yu/HSIPL_auto_fastmcp](https://github.com/macchen-yu/HSIPL_auto_fastmcp): Facilitates the setup and development of MCP servers using Python and uv on Windows PowerShell.
 - [RoryMB/Make_MCP](https://github.com/RoryMB/Make_MCP): Facilitates the creation of custom MCP servers with integration support for Claude Desktop.
 - [trilogy-group/oneroster-ts](https://github.com/trilogy-group/oneroster-ts): A TypeScript SDK offering a type-safe interface for interacting with the 1EdTech OneRoster API, also deployable as an MCP server for AI applications.
