@@ -767,6 +767,7 @@ Servers interacting with game engines, game platforms/APIs, or providing game-re
 - [jlgrimes/ptcg-mcp](https://github.com/jlgrimes/ptcg-mcp): Enables Claude to search and display Pokemon Trading Card Game cards with detailed filtering options.
 - [xhulz/mcp-game-helper](https://github.com/xhulz/mcp-game-helper): AI-powered tools for game developers to optimize combat balancing, skill analysis, and level pacing.
 - [appleweed/UnrealMCPBridge](https://github.com/appleweed/UnrealMCPBridge): Facilitates access to the Unreal Engine Python API for MCP clients, enabling dynamic tool development and automation within the UE environment.
+- [loomle/loomle](https://github.com/loomle/loomle): Unreal Engine MCP server for Claude Code, Codex, and AI agents to inspect and edit live UE projects through Blueprint, Material, PCG, UMG, asset, context, and diagnostics tools.
 - [wangyafu/haiguitangmcp](https://github.com/wangyafu/haiguitangmcp): Facilitates solo play of the Turtlesoup game by having a large language model act as the game host.
 - [kdqed/zaturn](https://github.com/kdqed/zaturn): Zaturn is an AI-powered data analytics and business intelligence tool that connects to various data sources, executes SQL queries, and provides insightful visualizations, all integrated as an MCP server.
 - [weekitmo/mcp_godot_rag](https://github.com/weekitmo/mcp_godot_rag): Facilitates access to Godot documentation for the Godot RAG model through an MCP server.
