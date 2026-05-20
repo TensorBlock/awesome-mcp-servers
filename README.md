@@ -736,6 +736,7 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 - [mgd1984/cursor-rules](https://github.com/mgd1984/cursor-rules): Facilitates the integration of Cursor Rules MCP server for consistent development guidance in Next.js applications with TypeScript.
 - [wewei/skill-set](https://github.com/wewei/skill-set): A Model Context Protocol server built with mcp-framework, enabling the creation and integration of custom tools for enhanced functionality.
 - [us-all/mcp-toolkit](https://github.com/us-all/mcp-toolkit) - Shared library for MCP server authors with token-efficient defaults: category toggles, extractFields response slimming, search-tools meta-tool, ToolRegistry, and runtime helper supporting stdio + Streamable HTTP transports.
+- [saml7n/parbaked](https://github.com/saml7n/parbaked) - Agent-native FastAPI scaffold for invite-only Python apps. 15 MCP tools to scaffold a project, add routes + SQLModel tables, run dev, manage users (approve/reject/reset), check email/deploy status, and ship to fly.io. Install: `uv tool install parbaked && parbaked mcp`.
 
 ## 🎮 Gaming
 
