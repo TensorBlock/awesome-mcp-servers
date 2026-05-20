@@ -1367,6 +1367,7 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [1282saa/news_se](https://github.com/1282saa/news_se): Facilitates AI model access to Seoul Economic Daily's stylebook data with advanced search and authentication features.
 - [tropical-362827/futaba-mcp](https://github.com/tropical-362827/futaba-mcp): A Python library enabling AI assistants to interact with ふたば☆ちゃんねる by retrieving and sorting thread data.
 - [Freespirits/social-auto-engine](https://github.com/Freespirits/social-auto-engine): Open-source multi-platform social media manager. Publish to Facebook, Instagram, Threads, WhatsApp, and LinkedIn from one dashboard or via MCP; TikTok and YouTube adapters await platform review. FastAPI/HTMX approval queue (no silent automation), 17 AI content skills (voice training, post writing, carousels). MIT, self-hosted.
+- [Tinyposter](https://tinyposter.app): Post to 11 social platforms (Instagram, X, Threads, TikTok, LinkedIn, YouTube, Facebook, Pinterest, Bluesky, Mastodon, Reddit) from any MCP client. OAuth + bearer auth, RFC 9728 compliant. Scheduling, calendar, multi-brand support. Docs at [tinyposter.app/docs/mcp](https://tinyposter.app/docs/mcp).
 
 ## ⚽ Sports
 
