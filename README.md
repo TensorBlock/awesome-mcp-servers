@@ -936,6 +936,7 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [superlowburn/agentrank](https://github.com/superlowburn/agentrank): Live, quality-scored index of 25,000+ MCP servers. Scores tools daily using real GitHub signals — freshness, issue health, contributors, dependents, and stars. Search and discover currently maintained tools via 3 MCP tools. Available as `agentrank-mcp-server` on npm.
 - [wazionapps/nexo](https://github.com/wazionapps/nexo): Cognitive memory architecture for Claude Code. Implements Atkinson-Shiffrin memory model, Ebbinghaus forgetting curves, semantic RAG with knowledge graph, trust scoring, and metacognitive error prevention. 100+ MCP tools. Install via `npx nexo-brain init`.
 - [Beever-AI/beever-atlas](https://github.com/Beever-AI/beever-atlas): Open-source LLM Wiki that distills team-chat corpora (Slack, Discord, Microsoft Teams, Mattermost, Telegram) into a 3-tier semantic schema and an entity graph. Exposes 16 MCP tools for cited Q&A from Claude Code and Cursor. Apache 2.0, runnable in 3 commands via `make demo`.
+- [STiFLeR7/memex](https://github.com/STiFLeR7/memex): Developer context continuity system. Watches your git repos and builds a temporal knowledge graph of modules, symbols, decisions, and open problems via Graphiti + Neo4j, then serves it to any AI coding agent over MCP. Every edge carries a validity window and a confidence score that decays over time. 12 tools across read and write. Install via `npx -y stifler-memex-mcp`. MIT licensed.
 
 ## 🗺️ Location & Maps
 
