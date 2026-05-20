@@ -161,7 +161,7 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 - [opensourcedev90s/uk-science-museum-group-mcp](https://github.com/opensourcedev90s/uk-science-museum-group-mcp): Facilitates data retrieval from the UK Science Museum Group API for LLMs via a Python-based MCP server.
 - [AnshulDalua/illustrator-mcp](https://github.com/AnshulDalua/illustrator-mcp): Facilitates script execution in Adobe Illustrator via MCP, leveraging JavaScript and AppleScript on MacOS.
 - [hugeicons/mcp-server](https://github.com/hugeicons/mcp-server): Facilitates seamless integration of Hugeicons across various platforms by providing tools, resources, and platform-specific guides for AI assistants.
-- [SebastienGal/emile-app](https://github.com/SebastienGal/emile-app/tree/main/mcp): Émile — personal wine cellar MCP. 10 tools to list, add, recommend, scan and search across a 100k+ wine catalog. Stdio via `npx @emile-wine/mcp-server` or OAuth-protected remote at https://mcp.emile.wine/mcp. Listed on the Official MCP Registry as `io.github.SebastienGal/emile-wine`.
+- [emile-wine/mcp-server](https://emile.wine/mcp/): Émile — personal wine cellar MCP. 10 tools to list, add, recommend, scan and search across a 100k+ wine catalog. Stdio via [`npx @emile-wine/mcp-server`](https://www.npmjs.com/package/@emile-wine/mcp-server) or OAuth-protected remote at https://mcp.emile.wine/mcp. Listed on the Official MCP Registry as `io.github.SebastienGal/emile-wine`.
 
 ## 🌐 Browser Automation & Web Scraping
 
