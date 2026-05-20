@@ -1265,7 +1265,6 @@ Servers providing web search capabilities or interfacing with specialized search
 
 ## 🔒 Security
 
-- [smq9sn5jck-coder/causallayer-mcp](https://github.com/smq9sn5jck-coder/causallayer-mcp): Deterministic AI-liability attribution. Issues signed, Bitcoin-anchored CausalCertificateV1 receipts that compute vendor/deployer/user fault shares for AI incidents — closed-form math, no LLM in the scoring path. Free demo at `https://mcp.faultkey.com/mcp`.
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
 - [Agnuxo1/enigmagent-mcp](https://github.com/Agnuxo1/enigmagent-mcp): Encrypted local vault MCP server (AES-256-GCM + Argon2id) that resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in LLM prompts, logs, or context. Local-only, MIT, zero telemetry. `npx enigmagent-mcp`.
@@ -1280,6 +1279,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [ark-forge/arkforge-mcp](https://github.com/ark-forge/arkforge-mcp): Certifying proxy for AI agent API calls. Every tool call becomes a signed, timestamped Agent Action Receipt (AAR). Model-agnostic and vendor-independent — works across any LLM provider or infrastructure.
 - [Kevros](https://governance.taskhawktech.com): Runtime intelligence for autonomous AI agents — cryptographic action verification, hash-chained provenance, ML-DSA-87 post-quantum attestation. Free tier: 1,000 calls/month. Paid via L402, x402, or MPP.
 - [slowmist/MasterMCP](https://github.com/slowmist/MasterMCP): MasterMCP demonstrates security vulnerabilities in MCP frameworks through practical attack examples, aiding developers in understanding and mitigating potential risks.
+- [smq9sn5jck-coder/causallayer-mcp](https://github.com/smq9sn5jck-coder/causallayer-mcp): Deterministic AI-liability attribution. Issues signed, Bitcoin-anchored CausalCertificateV1 receipts that compute vendor/deployer/user fault shares for AI incidents — closed-form math, no LLM in the scoring path. Free demo at `https://mcp.faultkey.com/mcp`.
 - [sxhxliang/mcp-security-scan](https://github.com/sxhxliang/mcp-security-scan): A Rust application for scanning and verifying the security of Model Context Protocol server configurations, prompts, resources, and tools.
 - [Eliran79/Vulnerable-file-reader-server](https://github.com/Eliran79/Vulnerable-file-reader-server): A Python MCP server showcasing command injection vulnerabilities for educational purposes, highlighting the risks of improper input sanitization.
 - [R3verseIN/HackerMCP](https://github.com/R3verseIN/HackerMCP): HackerMCP empowers AI assistants to utilize penetration testing and security tools like Nmap and Metasploit through a streamlined interface.
