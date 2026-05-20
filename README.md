@@ -81,6 +81,7 @@ We welcome submissions! To add your MCP server:
 
 Servers integrating with other AI models, AI platforms, RAG tools, prompt management, or agent frameworks.
 
+- [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) - Zero-dependency Python CLI and MCP server for comparing LLM API costs across 277 models and 47 providers (OpenAI, Anthropic, Google, Mistral, xAI, Groq, DeepSeek, and more). 6 MCP tools: get pricing, calculate costs, compare models, find cheapest options. No API key required — pricing data is baked in.
 - [OpenAgent](https://github.com/the-open-agent/openagent) - Open-source personal AI assistant platform powered by LLM, RAG and agent loops. Supports browser-use, shell execution, web search, office automation, and connects any MCP-compatible server over SSE, Stdio, or StreamableHTTP. Features visual workflow builder, multi-tenant support, and 30+ model providers. Apache-2.0.
 - [MadGapun/PBP](https://github.com/MadGapun/PBP): AI-powered MCP server for job application management in the German-speaking market (DACH). 73 tools, 18 guided workflows, 18 job portal scrapers, React dashboard with 8 tabs, email integration (.msg/.eml), calendar with .ics export, intelligent scoring, and AI coaching. Currently German language only. MIT licensed, runs locally, privacy-first.
 - [ToolRouter](https://toolrouter.com) - Give your AI agent superpowers with access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`
