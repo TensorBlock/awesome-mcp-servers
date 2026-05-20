@@ -1064,6 +1064,7 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 - [brunoborges/jvm-diagnostics-mcp](https://github.com/brunoborges/jvm-diagnostics-mcp): Enhances JVM diagnostic tools with a user-friendly prompt and exposes them via an MCP server for local use.
 - [gkhays/mcp-sbom-server](https://github.com/gkhays/mcp-sbom-server): Generates a Software Bill of Materials (SBOM) using Trivy scans, outputting in CycloneDX format.
 - [smigolsmigol/llmkit](https://github.com/smigolsmigol/llmkit): AI cost tracking and budget enforcement MCP server with 11 tools for monitoring spend, session costs, and token usage across Claude Code, Cursor, and Cline.
+- [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp): Governed MCP runtime for AI coding agents with budgets, verifier gates, and inspectable runs.
 - [us-all/datadog-mcp-server](https://github.com/us-all/datadog-mcp-server) - Datadog observability MCP server with 165 tools across metrics, monitors, logs, APM, RUM, incidents, status pages, and fleet automation. 4 workflow Prompts and `incident-triage-snapshot` aggregation tool.
 
 ## 🖼️ Multimedia Processing
