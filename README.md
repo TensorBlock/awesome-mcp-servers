@@ -124,6 +124,8 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [us-all/mlflow-mcp-server](https://github.com/us-all/mlflow-mcp-server) - MLflow MCP server with 82 tools across experiments, runs, registered models, model versions, traces, and assessments. MLflow 3 GenAI traces support and 5 workflow Prompts.
 - [tolegm/astranl-mcp](https://github.com/tolegm/astranl-mcp) - AI inference dispatch aggregator routing tasks to Anthropic, OpenAI, Gemini, and xAI Grok. Flat per-task pricing (€0.005-€0.05). 9 MCP tools.
 - [garasegae/aiskillstore](https://github.com/garasegae/aiskillstore) - Agent-first AI skill marketplace with open USK standard. Search, install, and share reusable skills across 7 platforms (Claude Code, Cursor, Codex CLI, Windsurf, Cline, Roo Code) via MCP. Features skill vetting, agent-autonomous upload, and cross-platform discovery.
+- [daedalus/mcp-llm-gateway](https://github.com/daedalus/mcp-llm-gateway) - MCP-compatible LLM gateway that proxies completion requests to downstream OpenAI-compatible providers.
+- [daedalus/mcp-smart-proxy](https://github.com/daedalus/mcp-smart-proxy) - Token-efficient MCP server gateway with semantic tool search.
 
 ## 🎨 Art, Culture & Media
 
@@ -320,6 +322,9 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [CodeLogicIncEngineering/codelogic-mcp-server](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server): Leverage Codelogic's software dependency data for impact assessments in AI programming assistants.
 - [autonomous-testing/wopee-mcp](https://github.com/autonomous-testing/wopee-mcp): AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
 - [kuberstar/qartez-mcp](https://github.com/kuberstar/qartez-mcp): Semantic code intelligence MCP server with 27 tools for project maps, symbol search, impact analysis, call hierarchies, architecture boundaries, and safe refactoring. Built in Rust.
+- [daedalus/mcp-capstone](https://github.com/daedalus/mcp-capstone) - MCP server exposing Capstone 5.0.7 disassembly framework.
+- [daedalus/mcp-pyright](https://github.com/daedalus/mcp-pyright) - MCP server that exposes Pyright language server functionality.
+- [daedalus/mcp-gdbserver](https://github.com/daedalus/mcp-gdbserver) - MCP server for remote debugging with gdbserver.
 
 ## 💻 Code Execution
 
@@ -396,6 +401,9 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [wazionapps/mcp-server](https://github.com/wazionapps/mcp-server): WAzion - WhatsApp Business platform with 244 MCP tools for messaging, CRM, campaigns, workflows, and AI automation. Supports Streamable HTTP and stdio transports.
 - [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant): MCP server for Microsoft Outlook with 20 consolidated tools for email, calendar, contacts, and mailbox management via Graph API. Features dry-run preview, session rate limiting, and recipient allowlists for safe email sending.
 - [nylas/cli](https://github.com/nylas/cli): MCP server for email, calendar, and contacts. 16 tools across Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP via a single auth flow. JSON output, install with `nylas mcp install`, works with Claude Code, Cursor, Codex, and Windsurf. Docs at https://cli.nylas.com.
+- [daedalus/mcp-telegram-bot](https://github.com/daedalus/mcp-telegram-bot) - MCP server that exposes a Telegram bot.
+- [daedalus/mcp-whatsapp](https://github.com/daedalus/mcp-whatsapp) - MCP server exposing WhatsApp bot functionality.
+- [daedalus/mcp-zmq](https://github.com/daedalus/mcp-zmq) - MCP server for ZMQ messaging.
 
 ## 📝 Content Management Systems
 
@@ -513,6 +521,11 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [Malove86/mcp-mysql-server](https://github.com/Malove86/mcp-mysql-server): Facilitates AI model interactions with MySQL databases via a standardized interface, supporting both local and remote deployment modes.
 - [stucchi/db-mcp-server](https://github.com/stucchi/db-mcp-server): Database MCP server for MySQL, PostgreSQL, and MongoDB with SSH tunneling support. Run queries, explore schemas, and manage data across multiple database types.
 - [haymon-ai/database](https://github.com/haymon-ai/database): Single-binary MCP server for MySQL, MariaDB, PostgreSQL & SQLite. Built in Rust with zero runtime dependencies.
+- [daedalus/mcp-mysql-connector](https://github.com/daedalus/mcp-mysql-connector) - MCP server for MySQL database connectivity.
+- [daedalus/mcp-psycopg2](https://github.com/daedalus/mcp-psycopg2) - MCP server exposing psycopg2 PostgreSQL database adapter functionality.
+- [daedalus/mcp-redis-server](https://github.com/daedalus/mcp-redis-server) - MCP server that exposes Redis API to AI models.
+- [daedalus/mcp-server-mssql](https://github.com/daedalus/mcp-server-mssql) - MCP server for Microsoft SQL Server.
+- [daedalus/mcp-sqlite3](https://github.com/daedalus/mcp-sqlite3) - MCP server exposing sqlite3 library functionality.
 
 ## 🛠️ Developer Productivity & Utilities
 
@@ -573,6 +586,8 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [mcp-lint](https://github.com/robert19001-cmyk/mcp-lint): CLI linting tool that validates MCP server tool schemas for cross-client compatibility across Claude, Cursor, Gemini, and VS Code Copilot. Features 13 rules, auto-fix for safe issues, JSON/Markdown output, and support for static files and live MCP servers via stdio/SSE.
 - [dejuknow/md-redline](https://github.com/dejuknow/md-redline): Inline review comments for markdown specs and design docs. Agents request human review mid-task via MCP and pause until you send feedback. Comments stored as invisible HTML markers in the markdown file itself.
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI): Self-repairing CLI catalog that exposes web, desktop apps, Electron apps, and bridge CLIs as deterministic commands through one MCP server. Declarative YAML adapters with structured error envelopes let agents fix failing adapters and retry. Live catalog size and per-call token budget tracked in the repo's README and `docs/BENCHMARK.md`.
+- [daedalus/mcp-registry](https://github.com/daedalus/mcp-registry) - MCP server for interacting with the MCP Registry API.
+- [daedalus/mcp-rfc-editor](https://github.com/daedalus/mcp-rfc-editor) - MCP server for editing RFC documents using rfc-editor library.
 ## 📁 Filesystems
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
@@ -699,6 +714,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [SolvoHQ/web3-discover](https://github.com/SolvoHQ/web3-discover): Curated directory of 32 active crypto airdrops with per-wallet eligibility checks across 7 chains (Ethereum, Base, Linea, Arbitrum, Polygon, BSC, Solana). 3 tools — `list_active_airdrops` (filter by chain/risk/deadline), `get_airdrop` (full details, action steps, cost floor), `check_wallet` (multi-chain eligibility scan). Hosted HTTP MCP at `https://web3-discover.vercel.app/api/mcp` — no install, no auth, CORS-open.
 - [Aigen-Protocol/aigen-protocol](https://github.com/Aigen-Protocol/aigen-protocol): Open bounty protocol for AI agents. 22 MCP tools spanning token safety scans (6 EVM chains + Solana SPL) and a paid mission marketplace (create/submit/vote with USDC/ETH/SOL/SPL rewards), agent reputation, and peer voting. Live at `https://cryptogenesis.duckdns.org/mcp` (streamable_http). Listed on the official MCP Registry as `org.duckdns.cryptogenesis/safe-agent`. Framework SDKs for Mastra, LangChain, CrewAI, Letta, OpenAI Agents, Vercel AI, Workers AI, and a universal client.
 - [RipperMercs/tensorfeed-x402-base-mcp](https://github.com/RipperMercs/tensorfeed-x402-base-mcp): Read-only Base mainnet chain reader for x402 payment verification. 11 tools: verify on-chain that a USDC settlement matches a claimed x402 receipt (recipient + amount), parse publisher `/.well-known/x402` manifests, list recent USDC payments to an address, check AFTA federation status, plus generic Base reads (balance, usdc_balance, get_tx_receipt, call, recent_transfers). No private keys, no signing, no broadcasts. MIT, published with cryptographic provenance via OIDC. Install: `npx -y @tensorfeed/x402-base-mcp`.
+- [daedalus/mcp-python-bitcoinlib](https://github.com/daedalus/mcp-python-bitcoinlib) - An MCP server that exposes the python-bitcoinlib API.
 
 ## 🧰 Frameworks
 
@@ -808,6 +824,13 @@ Servers controlling hardware devices, interacting with embedded systems, serial 
 - [noboru-i/nature-remo-mcp-server](https://github.com/noboru-i/nature-remo-mcp-server): Facilitates automation and management of Nature Remo devices through the Model Context Protocol SDK.
 - [octoco-ltd/sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp): Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.
 - [roomi-fields/osc-bridge](https://github.com/roomi-fields/osc-bridge): OSC ↔ MIDI/SysEx bridge for 849 hardware synthesizers plus music software (Ableton, Bitwig, Reaper, SuperCollider…). A MIDI MCP and OSC MCP — discover devices, read their named control surface, and send OSC to drive them. `npx -y @roomi-fields/osc-bridge mcp`
+- [daedalus/mcp-canbus](https://github.com/daedalus/mcp-canbus) - MCP server for CAN bus communication.
+- [daedalus/mcp-delonghi-ecam](https://github.com/daedalus/mcp-delonghi-ecam) - MCP server for DeLonghi ECAM espresso coffee machines via local network.
+- [daedalus/mcp-homeassistant](https://github.com/daedalus/mcp-homeassistant) - MCP server for Home Assistant integration.
+- [daedalus/mcp-kicad](https://github.com/daedalus/mcp-kicad) - MCP server exposing KiCad PCB Editor functionality via IPC API.
+- [daedalus/mcp-rs232](https://github.com/daedalus/mcp-rs232) - An MCP server that exposes RS232 serial port connectivity.
+- [daedalus/mcp-rs485](https://github.com/daedalus/mcp-rs485) - An MCP server that exposes RS485 bus connectivity.
+- [daedalus/mcp-snap7](https://github.com/daedalus/mcp-snap7) - MCP server for python-snap7, enabling MCP clients to interact with Siemens PLCs.
 
 ## ❤️ Healthcare & Life Sciences
 
@@ -885,6 +908,8 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [kswap/consul-mcp](https://github.com/kswap/consul-mcp): Facilitates Consul service discovery and mesh integration through an MCP server interface.
 - [adw0rd/awesome-mcp-tools-mcp](https://github.com/adw0rd/awesome-mcp-tools-mcp): Hosted MCP server exposing the [awesome-mcp.tools](https://awesome-mcp.tools) catalog of 2,000+ MCP servers as searchable tools — search, compare, top, trending, hot. Refreshed every 6h. Includes a CLI (`npx awesome-mcp search postgres`) and a stdio↔HTTP bridge (`npx -y -p awesome-mcp awesome-mcp-bridge`) for clients without remote-URL support. Endpoint: `https://awesome-mcp.tools/mcp` (Streamable HTTP, no auth).
 - [us-all/unifi-mcp-server](https://github.com/us-all/unifi-mcp-server) - UniFi semantic-analysis MCP server with 54 tools on top of Site Manager API and Cloud Connector. 8 workflow Prompts (4 fleet-ops + 4 MSP). Anomaly detection, fleet health, cross-site analytics. Read-only.
+- [daedalus/mcp-mdns](https://github.com/daedalus/mcp-mdns) - MCP server for mDNS (Multicast DNS) service discovery.
+- [daedalus/mcp-ntp-server](https://github.com/daedalus/mcp-ntp-server) - MCP server providing NTP time synchronization tools for AI agents.
 
 ## 🧠 Knowledge Management & Memory
 
@@ -939,6 +964,7 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [superlowburn/agentrank](https://github.com/superlowburn/agentrank): Live, quality-scored index of 25,000+ MCP servers. Scores tools daily using real GitHub signals — freshness, issue health, contributors, dependents, and stars. Search and discover currently maintained tools via 3 MCP tools. Available as `agentrank-mcp-server` on npm.
 - [wazionapps/nexo](https://github.com/wazionapps/nexo): Cognitive memory architecture for Claude Code. Implements Atkinson-Shiffrin memory model, Ebbinghaus forgetting curves, semantic RAG with knowledge graph, trust scoring, and metacognitive error prevention. 100+ MCP tools. Install via `npx nexo-brain init`.
 - [Beever-AI/beever-atlas](https://github.com/Beever-AI/beever-atlas): Open-source LLM Wiki that distills team-chat corpora (Slack, Discord, Microsoft Teams, Mattermost, Telegram) into a 3-tier semantic schema and an entity graph. Exposes 16 MCP tools for cited Q&A from Claude Code and Cursor. Apache 2.0, runnable in 3 commands via `make demo`.
+- [daedalus/mcp-external-memory](https://github.com/daedalus/mcp-external-memory) - An MCP server that gives LLMs persistent, searchable semantic memory.
 
 ## 🗺️ Location & Maps
 
@@ -1068,6 +1094,7 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 - [gkhays/mcp-sbom-server](https://github.com/gkhays/mcp-sbom-server): Generates a Software Bill of Materials (SBOM) using Trivy scans, outputting in CycloneDX format.
 - [smigolsmigol/llmkit](https://github.com/smigolsmigol/llmkit): AI cost tracking and budget enforcement MCP server with 11 tools for monitoring spend, session costs, and token usage across Claude Code, Cursor, and Cline.
 - [us-all/datadog-mcp-server](https://github.com/us-all/datadog-mcp-server) - Datadog observability MCP server with 165 tools across metrics, monitors, logs, APM, RUM, incidents, status pages, and fleet automation. 4 workflow Prompts and `incident-triage-snapshot` aggregation tool.
+- [daedalus/mcp-zabbix](https://github.com/daedalus/mcp-zabbix) - MCP server for Zabbix API.
 
 ## 🖼️ Multimedia Processing
 
@@ -1111,6 +1138,7 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [ssembleinc/ssemble-mcp-server](https://github.com/ssembleinc/ssemble-mcp-server) - Create AI-generated short-form video clips from YouTube with captions, music, gameplay overlays, meme hooks, and viral scoring.
 - [neugence/whipscribe-mcp](https://github.com/neugence/whipscribe-mcp): MCP server for audio/video transcription via the Whipscribe API. Transcribes from a URL (YouTube, podcasts, direct media links) or local file; returns txt/json/srt/vtt/docx with optional speaker diarization and word timestamps. Hosted remote endpoint at `https://whipscribe.com/mcp` (Bearer auth) or local install via `uvx whipscribe-mcp`.
 - [MohamedAbdallah-14/prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset): Generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing each request across 30+ image generation models to the best fit. Zero-key first run via free-tier providers (Pollinations, Stable Horde, HuggingFace). MIT licensed.
+- [daedalus/mcp-stl](https://github.com/daedalus/mcp-stl) - MCP server for editing STL 3D model files.
 
 ## 🖥️ Operating System & Command Line
 
@@ -1226,6 +1254,15 @@ Servers accessing scientific databases, research platforms, or providing tools f
 - [danimal141/arxiv-search-mcp](https://github.com/danimal141/arxiv-search-mcp): Facilitates searching and retrieving academic papers from arXiv.org with customizable parameters.
 - [sebastien-le-paris/project-rules](https://github.com/sebastien-le-paris/project-rules): Facilitates the integration of external tools and data sources with Cursor through the Model Context Protocol, enhancing AI project rule management and tool execution.
 - [xmpuspus/ph-civic-data-mcp](https://github.com/xmpuspus/ph-civic-data-mcp): Philippine government data plus global Earth observation as MCP tools. Covers PHIVOLCS earthquakes and volcano alerts, PAGASA weather and typhoons, PhilGEPS procurement, PSA population and poverty, NASA POWER solar/climate, Open-Meteo air quality, NASA MODIS NDVI, USGS earthquakes, NOAA IBTrACS typhoon tracks, and World Bank indicators. 17 tools across 10 sources, zero required API keys, with a cross-source multi-hazard risk profiler. Install: `uvx ph-civic-data-mcp`.
+- [daedalus/mcp-gmpy2](https://github.com/daedalus/mcp-gmpy2) - MCP server exposing gmpy2 arbitrary precision arithmetic functions.
+- [daedalus/mcp-manimgl](https://github.com/daedalus/mcp-manimgl) - MCP server exposing manimgl mathematical animation functionality.
+- [daedalus/mcp-number-theory](https://github.com/daedalus/mcp-number-theory) - MCP server exposing number theory functions and factorization algorithms from RsaCtfTool.
+- [daedalus/mcp-numpy](https://github.com/daedalus/mcp-numpy) - An MCP server that exposes NumPy functionality.
+- [daedalus/mcp-oeis](https://github.com/daedalus/mcp-oeis) - MCP server for the OEIS (Online Encyclopedia of Integer Sequences) API.
+- [daedalus/mcp-parigp](https://github.com/daedalus/mcp-parigp) - MCP server exposing cypari2 (PARI/GP) number theory library.
+- [daedalus/mcp-qiskit](https://github.com/daedalus/mcp-qiskit) - MCP server exposing Qiskit quantum computing functionality.
+- [daedalus/mcp-sympy](https://github.com/daedalus/mcp-sympy) - MCP server that exposes SymPy's symbolic mathematics functionality.
+- [daedalus/mcp-z3-prover](https://github.com/daedalus/mcp-z3-prover) - MCP server exposing Z3 solver API.
 
 ## 🔎 Search
 
@@ -1275,6 +1312,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [workopia/workopia-mcp](https://github.com/workopia/workopia-mcp): Hosted MCP server for job search (direct from employer career pages), PDF resume generation with 50+ templates and career advice. Free, no auth required. Endpoint: https://workopia.io/api/mcp-gpt 
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/mcp): Remote MCP server for searching live agentic AI engineering jobs by framework (LangChain, LlamaIndex, CrewAI, etc.), seniority, location, and remote status. Query aggregate salary benchmarks. Zero-auth streamable HTTP endpoint.
 - [Archivarix-com/tube-search-mcp](https://github.com/Archivarix-com/tube-search-mcp): Search archived YouTube videos including deleted content via the Wayback Machine. 9 tools for channel discovery, full-text search, video metadata, transcripts, and AI-generated summaries. Install via `npx tube-search-mcp`. Free tier with API key.
+- [daedalus/mcp-exa](https://github.com/daedalus/mcp-exa) - MCP server exposing Exa websearch API.
 
 ## 🔒 Security
 
@@ -1332,6 +1370,17 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [shadoprizm/cyberlens-mcp-server](https://github.com/shadoprizm/cyberlens-mcp-server): Security scanning MCP server for AI assistants — scan websites for missing headers and HTTPS issues, scan GitHub repos for secrets and CVE vulnerabilities, and scan Claw Hub skills for malicious code before installing. Free tier with local quick-scan (no account needed). `npx -y @shadoprizm/cyberlens-mcp-server`
 - [rudi193-cmd/willow-1.7](https://github.com/rudi193-cmd/willow-1.7): Portless MCP server with PGP-signed SAFE manifest authorization. SQLite + Postgres knowledge graph, bubblewrap-sandboxed task queue, file intake pipeline, and local inference with free cloud fallback. Zero network attack surface — stdio only, no HTTP listeners.
 - [AgentSeal](https://github.com/JoeyBrar/agentseal-mcp) - Action logs for AI agents. Records every action in a SHA-256 hash chain for verifiable audit trails. Install via `npx agentseal-mcp`.
+- [daedalus/mcp-cryptography](https://github.com/daedalus/mcp-cryptography) - MCP server exposing cryptography library functionality.
+- [daedalus/mcp-ecdsa](https://github.com/daedalus/mcp-ecdsa) - MCP server for ECDSA cryptography.
+- [daedalus/mcp-hashlib](https://github.com/daedalus/mcp-hashlib) - An MCP server that exposes hashlib functionality.
+- [daedalus/mcp-pcapy-ng](https://github.com/daedalus/mcp-pcapy-ng) - MCP server exposing pcapy-ng packet capture functionality.
+- [daedalus/mcp-pymetasploit3](https://github.com/daedalus/mcp-pymetasploit3) - MCP server for Metasploit Framework via pymetasploit3.
+- [daedalus/mcp-pwntools](https://github.com/daedalus/mcp-pwntools) - MCP server exposing pwntools functionality for binary exploitation.
+- [daedalus/mcp-recon-ng](https://github.com/daedalus/mcp-recon-ng) - MCP server exposing full recon-ng OSINT framework functionality.
+- [daedalus/mcp-reverse-engineering](https://github.com/daedalus/mcp-reverse-engineering) - Sandboxed MCP tool for reverse engineering with security restrictions.
+- [daedalus/mcp-server-nmap](https://github.com/daedalus/mcp-server-nmap) - MCP server that exposes the python-nmap API for network scanning.
+- [daedalus/mcp-shodan](https://github.com/daedalus/mcp-shodan) - MCP server exposing all Shodan API functionality.
+- [daedalus/mcp-smbmap](https://github.com/daedalus/mcp-smbmap) - MCP server exposing smbmap SMB enumeration functionality.
 ## 📱 Social Media & Content Platforms
 
 Servers interacting with social networks, content platforms, or feed aggregators.
@@ -1421,6 +1470,7 @@ Servers providing data or services related to flights, trains, transportation AP
 - [ticketlens/ticketlens-experiences-mcp](https://github.com/ticketlens/ticketlens-experiences-mcp): Official remote MCP and REST API for destination experiences, including tours, attraction tickets, sports tickets, and events.
 - [MariyaFilippova/mcp-strava](https://github.com/MariyaFilippova/mcp-strava): Facilitates seamless integration between Strava APIs and Claude for Desktop, enabling efficient interaction with Strava activity data.
 - [ivannikolovbg/repull-mcp](https://github.com/ivannikolovbg/repull-mcp): MCP server for the Repull API — the unified API for vacation-rental tech. Connect to every PMS, OTA, and channel manager (Airbnb, Booking.com, VRBO, Smoobu + 46 more) through one server.
+- [daedalus/mcp-metar](https://github.com/daedalus/mcp-metar) - MCP server for METAR/TAF aviation weather data.
 
 ## 🔧 Utilities & Helpers
 
@@ -1459,6 +1509,8 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [veithly/ipfs-uploader](https://github.com/veithly/ipfs-uploader): A TypeScript-based MCP server for uploading images to IPFS, featuring a simple notes system with text note creation and summarization tools.
 - [OpenSourceGuru776/consist](https://github.com/OpenSourceGuru776/consist): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [IteraTools](https://api.iteratools.com): Cloud-hosted multi-tool MCP API providing 34+ capabilities through a single endpoint: image generation (Flux), web scraping, TTS, OCR, browser automation, sandboxed code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and more. Pay-per-use with x402 micropayment protocol.
+- [daedalus/mcp-epochs](https://github.com/daedalus/mcp-epochs) - MCP tool that provides current Unix timestamp.
+- [daedalus/mcp-rpn](https://github.com/daedalus/mcp-rpn) - MCP server that exposes an RPN calculator.
 
 ## 🔄 Version Control
 
