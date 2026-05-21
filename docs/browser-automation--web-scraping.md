@@ -22,6 +22,7 @@ Servers using tools for browser control, automation, and extracting content from
 - [Elvis720/mcp-agent](https://github.com/Elvis720/mcp-agent): Facilitates browser automation for LLMs using Playwright's accessibility tree, enabling structured web interactions without visual models.
 - [xinlei413/MCP-DOC-Server-OpenRouter](https://github.com/xinlei413/MCP-DOC-Server-OpenRouter): Facilitates efficient scraping, processing, and searching of third-party package documentation with advanced hybrid search capabilities.
 - [thomasvan/mcp-brave-search](https://github.com/thomasvan/mcp-brave-search): Facilitates AI assistant integration with Brave Search through a Model Context Protocol server.
+- [manchittlab/TheCrawler](https://github.com/manchittlab/TheCrawler): Web crawler and extractor MCP server with markdown output, PDF/DOCX parsing, structured errors, and validated extraction contract diagnostics for agents.
 - [oddlyspaced/ultimate-android-mcp](https://github.com/oddlyspaced/ultimate-android-mcp): Empower LLMs to autonomously manage and interact with Android devices through a comprehensive MCP server.
 - [ronantakizawa/a11ymcp](https://github.com/ronantakizawa/a11ymcp): Empowers LLMs to conduct comprehensive web accessibility testing using Deque Axe-core API and Puppeteer.
 - [hamibot/hamibot-mcp-server](https://github.com/hamibot/hamibot-mcp-server): Facilitates interaction with the Hamibot API, offering tools for device and script management, including custom JavaScript execution on specified devices.
