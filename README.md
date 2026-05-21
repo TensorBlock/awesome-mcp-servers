@@ -617,6 +617,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [Longbridge MCP](https://github.com/longbridge/longbridge-mcp): Official Longbridge brokerage MCP — 133 tools for US/HK real-time quotes, options, trading, fundamentals, IPO, alerts, DCA & portfolio. Remote streamable-HTTP endpoint at `https://openapi.longbridge.com/mcp`. OAuth 2.1 (RFC 9728).
 - [Octodamus Intelligence Oracle](https://github.com/Octodamus/octodamus-core): AI consensus oracle for crypto traders and autonomous agents. BTC/ETH/SOL directional signals, Polymarket prediction market edges, congressional trading patterns, and Grok X sentiment in a single MCP call. Ed25519-signed responses (on-chain verifiable). x402 native micropayments -- $0.01/call via Base USDC. Remote SSE: `https://api.octodamus.com/mcp`. Also on Smithery: `octodamusai/market-intelligence`.
 - [szhygulin/vaultpilot-mcp](https://github.com/szhygulin/vaultpilot-mcp) - Safety first. Hardware-verified DeFi for AI agents. The agent proposes, you approve on your Ledger — designed for when the AI can be compromised.
 - [FXMacroData](https://github.com/fxmacrodata/fxmacrodata) - Macroeconomic indicators, central bank policy rates, FX spot rates, COT positioning data, and economic release calendars for 18+ currencies via a remote MCP server at https://fxmacrodata.com/mcp
