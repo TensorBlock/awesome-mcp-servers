@@ -1154,6 +1154,7 @@ Servers providing access to the host operating system's command line/shell, exec
 
 Servers integrating with project management and task tracking tools.
 
+- [Claw Task Hub](https://github.com/Catfish-75/claw-task-hub): Local-first, SQLite-backed task hub with MCP-compatible tools for AI agent issue tracking, sessions, claims, comments, and acceptance trails.
 - [Writbase/writbase](https://github.com/Writbase/writbase): MCP-native task management for AI agent fleets with multi-agent permissions, full provenance, inter-agent delegation, and A2A protocol alignment.
 - [ACNet-AI/OmniTaskAgent](https://github.com/ACNet-AI/OmniTaskAgent): OmniTaskAgent is a versatile multi-model task management system that integrates with various task management solutions and editors via the MCP protocol, enhancing intelligent workflow processes.
 - [linshu123/volar_docs](https://github.com/linshu123/volar_docs): Volar facilitates task management by aligning human and AI collaboration through an MCP server, enabling asynchronous workflows and context organization.
