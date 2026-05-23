@@ -219,3 +219,4 @@ Servers integrating with project management and task tracking tools.
 - [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro): Connects to the MIRO Whiteboard Application for board manipulation and bulk operations using the Model Context Protocol.
 
 - [TourAround/LystBot](https://github.com/TourAround/LystBot): AI-powered list management MCP server. Create grocery lists, todos, and packing lists, add items, check them off, and share lists with family. 10 MCP tools for the full list lifecycle. Free iOS + Android app at lystbot.com.
+- [SprintFlint/sprintflint-rails](https://github.com/SprintFlint/sprintflint-rails): Opinionated sprint tracker for small dev teams. Remote MCP server at `https://mcp.sprintflint.com` (streamable HTTP, bearer-token auth) lets Claude/Cursor/Claude Code/Zed read and update tickets, sprints, comments, and velocity. Listed on the official MCP Registry as `io.github.neoflintai/sprintflint`. Free tier 300 tickets, no card.
