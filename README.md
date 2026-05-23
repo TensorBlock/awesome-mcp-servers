@@ -1386,6 +1386,7 @@ Servers providing access to sports-related APIs and analysis.
 
 Servers providing data or services related to flights, trains, transportation APIs, or travel planning.
 
+- [tools-mcp/vessel-traffic-mcp](https://github.com/tools-mcp/vessel-traffic-mcp): Read-only maritime and logistics MCP server for vessel identity lookup, AIS-style positions, tracks, port calls, carrier schedules, vessel schedules, and delay heuristics.
 - [drivly/auto-dev-skill](https://github.com/drivly/auto-dev-skill): Automotive data APIs for AI agents — VIN decode, vehicle listings, payments, recalls, and specs.
 - [MyCarTracks](https://mycartracks.com/resources/connect-with-ai): Remote MCP server for app-based GPS vehicle tracking and automatic mileage tracking, exposing authorized trip, track, and vehicle data via `https://mycartracks.com/mcp`.
 - [RikGmee/searchAPI-mcp](https://github.com/RikGmee/searchAPI-mcp): Facilitates complex travel planning by integrating flight, hotel, and map services through a multi-context protocol server.
