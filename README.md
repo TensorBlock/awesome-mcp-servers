@@ -281,6 +281,7 @@ Servers integrating with major cloud providers or specific cloud services.
 - [stephenlacy/mcp-proxy](https://github.com/stephenlacy/mcp-proxy): A fast Rust-based proxy facilitating bidirectional communication between stdio and SSE for MCP servers.
 - [kubestellar/console](https://github.com/kubestellar/console): Multi-cluster Kubernetes MCP server (kc-agent) for AI-assisted operations across edge and cloud clusters. 50+ tools for workload placement, policy enforcement, and observability via natural language.
 - [xmpuspus/cloudwright](https://github.com/xmpuspus/cloudwright): Architecture intelligence for cloud engineers. Design AWS/GCP/Azure systems from natural language and get back a structured ArchSpec, multi-cloud cost estimates with workload profiles (small/medium/large/enterprise), compliance reports for HIPAA, PCI-DSS, SOC 2, FedRAMP, and GDPR, Terraform/CloudFormation code, Mermaid/D2/C4 diagrams, security scans, and what-if scenario analysis. 9 MCP tools including persistent multi-turn design sessions. Install: `pip install cloudwright-ai-mcp`.
+- [MarsHeer/agentdomain-mcp](https://github.com/MarsHeer/agentdomain-mcp): Register, manage, and renew domain names directly from AI agents via MCP. Supports domain search, purchase, DNS management, and wallet operations. Install: `uvx agentdomain-mcp` or connect via HTTP endpoint at `https://api.agentdomain.cloud/mcp`.
 
 ## ✨ Code Analysis & Quality
 
