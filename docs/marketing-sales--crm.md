@@ -73,6 +73,7 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [jindalsaj/product-description-mcp](https://github.com/jindalsaj/product-description-mcp): Transforms spreadsheets by analyzing product images to generate detailed descriptions using vision AI.
 - [paypal/agent-toolkit](https://github.com/paypal/agent-toolkit): Integrate PayPal APIs with popular agent frameworks using the Model Context Protocol for seamless function calling.
 - [pamaybg/crm-mcp-server](https://github.com/pamaybg/crm-mcp-server): Facilitates CRM campaign management through Docker-deployed MCP server with Spring AI integration.
+- [sankaHQ/sanka-mcp](https://github.com/sankaHQ/sanka-mcp): Hosted remote MCP server for Sanka API, connecting AI agents to CRM and back-office workflows.
 - [kompallik/ATLASSIAN-MCP](https://github.com/kompallik/ATLASSIAN-MCP): Facilitates seamless integration with Atlassian JIRA and Confluence through the Model Context Protocol.
 - [metehan777/google-search-console-mcp](https://github.com/metehan777/google-search-console-mcp): Facilitates interaction with Google Search Console data through AI tools like Claude Desktop, enabling performance queries and URL inspections.
 - [rakeshgangwar/erpnext-server](https://github.com/rakeshgangwar/erpnext-server): Facilitates seamless integration between AI assistants and ERPNext systems using the Model Context Protocol.
