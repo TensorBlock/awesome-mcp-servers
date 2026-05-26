@@ -384,3 +384,5 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [kennethnym/claude-prompt-manager](https://github.com/kennethnym/claude-prompt-manager): A TypeScript-based CLI prompt manager for Claude utilizing the MCP protocol, enabling prompt creation and management from the command line.
 - [Kiln-AI](https://github.com/Kiln-AI/Kiln) Kiln is a free tool for building production-ready AI systems. It supports RAG pipelines, evaluations, agents, MCP tool-calling, synthetic data generation, and fine-tuning.
 - [izzzzzi/codewiki-mcp](https://github.com/izzzzzi/codewiki-mcp): MCP server for codewiki.google — AI-powered wiki documentation for open-source repositories. Search repos, fetch wiki content, and ask questions about any repo.
+- [daedalus/mcp-registry](https://github.com/daedalus/mcp-registry) - MCP server for interacting with the MCP Registry API.
+- [daedalus/mcp-rfc-editor](https://github.com/daedalus/mcp-rfc-editor) - MCP server for editing RFC documents using rfc-editor library.

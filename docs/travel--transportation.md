@@ -44,3 +44,4 @@ Servers providing data or services related to flights, trains, transportation AP
 - [sunsetcoder/flightradar24-mcp-server](https://github.com/sunsetcoder/flightradar24-mcp-server): Track flights in real-time using Flightradar24 data with this Claude Desktop MCP server, ideal for aviation enthusiasts and travel planners.
 - [r-huijts/ns-mcp-server](https://github.com/r-huijts/ns-mcp-server): Connects Claude AI to real-time Dutch Railways travel information, enabling seamless access to train schedules, disruptions, and pricing through the official NS API.
 - [ivannikolovbg/repull-mcp](https://github.com/ivannikolovbg/repull-mcp): MCP server for the Repull API — the unified API for vacation-rental tech. Connect to every PMS, OTA, and channel manager (Airbnb, Booking.com, VRBO, Smoobu + 46 more) through one server.
+- [daedalus/mcp-metar](https://github.com/daedalus/mcp-metar) - MCP server for METAR/TAF aviation weather data.

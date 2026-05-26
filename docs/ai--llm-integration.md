@@ -1619,3 +1619,5 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [garasegae/aiskillstore](https://github.com/garasegae/aiskillstore) - Agent-first AI skill marketplace with open USK standard. Search, install, and share reusable skills across 7 platforms (Claude Code, Cursor, Codex CLI, Windsurf, Cline, Roo Code) via MCP. Features skill vetting, agent-autonomous upload, and cross-platform discovery.
 - [hlpun/Train-in-Silence](https://github.com/hlpun/Train-in-Silence): Task-aware MCP server for LLM fine-tuning providing VRAM/runtime/cost estimation and live multi-cloud GPU sniping.
 - [tolegm/astranl-mcp](https://github.com/tolegm/astranl-mcp) - AI inference dispatch aggregator routing tasks to Anthropic, OpenAI, Gemini, and xAI Grok. Flat per-task pricing (€0.005-€0.05). 9 MCP tools.
+- [daedalus/mcp-llm-gateway](https://github.com/daedalus/mcp-llm-gateway) - MCP-compatible LLM gateway that proxies completion requests to downstream OpenAI-compatible providers.
+- [daedalus/mcp-smart-proxy](https://github.com/daedalus/mcp-smart-proxy) - Token-efficient MCP server gateway with semantic tool search.
