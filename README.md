@@ -1423,6 +1423,9 @@ Servers providing data or services related to flights, trains, transportation AP
 - [MariyaFilippova/mcp-strava](https://github.com/MariyaFilippova/mcp-strava): Facilitates seamless integration between Strava APIs and Claude for Desktop, enabling efficient interaction with Strava activity data.
 - [ivannikolovbg/repull-mcp](https://github.com/ivannikolovbg/repull-mcp): MCP server for the Repull API — the unified API for vacation-rental tech. Connect to every PMS, OTA, and channel manager (Airbnb, Booking.com, VRBO, Smoobu + 46 more) through one server.
 
+- [cargoffer/bolsa_de_carga-mcp](https://github.com/cargoffer/bolsa_de_carga-mcp): Freight marketplace/load board MCP server. Tools for managing addresses, truckers, vehicles, deliveries, and auctions. Enables AI agents to interact with freight loads, bids, and logistics operations.
+- [cargoffer/ecmr-mcp](https://github.com/cargoffer/ecmr-mcp): Electronic Consignment Note (eCMR) MCP server. Tools for managing drivers, vehicles, addresses, digital signatures, eCMR creation, QR codes, and PDF generation.
+
 ## 🔧 Utilities & Helpers
 
 Servers providing simple, general-purpose tools like time/date information, calculators, dice rollers, formatters, unit converters, UUID generation, etc.
