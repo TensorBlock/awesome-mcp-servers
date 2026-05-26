@@ -82,4 +82,5 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 - [chatmcp/mcp-server-collector](https://github.com/chatmcp/mcp-server-collector): Facilitates the discovery and submission of MCP servers by extracting them from URLs and content, and submitting them to directories.
 - [loglmhq/mcp-server-prometheus](https://github.com/loglmhq/mcp-server-prometheus): Facilitates interaction with Prometheus metrics and data through a TypeScript-based MCP server, bridging Claude and Prometheus via the Model Context Protocol.
 - [sqr/datadog-mcp](https://github.com/sqr/datadog-mcp): Facilitates log retrieval from Datadog for analysis by Claude within a Kubernetes environment.
+- [vdineshk/dominion-observatory](https://github.com/vdineshk/dominion-observatory): Behavioral trust scoring for MCP servers. Continuously probes 22,500+ servers for uptime, latency, and success rate; provides trust_score (0-100) and behavioral drift detection via a free REST API.
 
