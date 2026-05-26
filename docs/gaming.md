@@ -2,6 +2,7 @@
 
 Servers interacting with game engines, game platforms/APIs, or providing game-related tools.
 
+- [BASIC-BIT/vrchat-mcp](https://github.com/BASIC-BIT/vrchat-mcp): Access VRChat friends, worlds, groups, events, notifications, status, avatars, and VRCX history from MCP clients.
 - [Signal-Loop/UnityCodeMCPServer](https://github.com/Signal-Loop/UnityCodeMCPServer): Performs any task in Unity Editor by executing C# scripts. Full access to UnityEngine, UnityEditor APIs, and reflection. Use for manipulating GameObjects, scenes, components, or automating Unity Editor tasks.
 - [sedyh/ebitengine-mcp](https://github.com/sedyh/ebitengine-mcp): Facilitates the integration of Ebitengine games with MCP servers for enhanced game control and management.
 - [ecovacs-ai/ecovacs-mcp](https://github.com/ecovacs-ai/ecovacs-mcp): Ecovacs MCP Server enables seamless integration of cleaning robot services into large models, facilitating device management and control operations like cleaning and recharging.
