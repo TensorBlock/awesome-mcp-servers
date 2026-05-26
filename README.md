@@ -168,6 +168,7 @@ Servers using tools for browser control, automation, and extracting content from
 - [Darko893/mcp-server](https://github.com/Darko893/mcp-server): AI-powered web scraping MCP server with Cloudflare bypass, JavaScript rendering, and structured data extraction via the Haunt API. Pay-per-use with generous free tier.
 
 - [Custodia-Admin/pagebolt-mcp](https://github.com/Custodia-Admin/pagebolt-mcp): Provides hosted web capture and browser automation via REST API and MCP. Supports screenshot, PDF, OG image, multi-step sequences, AI-narrated video recording, and page inspection (CSS selectors + element maps for AI agents). Works natively in Claude Desktop, Cursor, and Windsurf.
+- [Komos MCP](https://docs.komos.ai/mcp-server): Hosted MCP server for creating, running, and monitoring browser workflow automations with integrations, files, web search, and email tools.
 - [giannisalinetti/python-mcp-server](https://github.com/giannisalinetti/python-mcp-server): Facilitates Python code execution for web scraping tasks using an LLM, leveraging Podman for container management.
 - [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs): Plugin-based MCP server that gives AI agents access to web applications through the user's authenticated browser session. Chrome extension with 100+ plugins for Slack, Discord, GitHub, Reddit, and more.
 - [mhazarabad/browser-use-mcp](https://github.com/mhazarabad/browser-use-mcp): Automates browser tasks using the Browser Use API, offering task management and monitoring capabilities.
