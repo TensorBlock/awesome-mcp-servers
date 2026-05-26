@@ -1318,6 +1318,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [shadoprizm/cyberlens-mcp-server](https://github.com/shadoprizm/cyberlens-mcp-server): Security scanning MCP server for AI assistants — scan websites for missing headers and HTTPS issues, scan GitHub repos for secrets and CVE vulnerabilities, and scan Claw Hub skills for malicious code before installing. Free tier with local quick-scan (no account needed). `npx -y @shadoprizm/cyberlens-mcp-server`
 - [rudi193-cmd/willow-1.7](https://github.com/rudi193-cmd/willow-1.7): Portless MCP server with PGP-signed SAFE manifest authorization. SQLite + Postgres knowledge graph, bubblewrap-sandboxed task queue, file intake pipeline, and local inference with free cloud fallback. Zero network attack surface — stdio only, no HTTP listeners.
 - [AgentSeal](https://github.com/JoeyBrar/agentseal-mcp) - Action logs for AI agents. Records every action in a SHA-256 hash chain for verifiable audit trails. Install via `npx agentseal-mcp`.
+- [MEOK Governance Suite](https://github.com/CSOAI-ORG/meok-setup): 38 AI compliance MCPs covering EU AI Act, DORA, NIS2, CRA, MDR, FDA SaMD, MiCA, AML, Basel III, MiFID II, COPPA/FERPA, watermarking + C2PA, AI-BOM, bias detection, prompt-injection firewall, CISA KEV, MITRE ATT&CK/ATLAS, SLSA, Sigstore. HMAC-signed attestations. `npx meok-setup --pack governance`.
 ## 📱 Social Media & Content Platforms
 
 Servers interacting with social networks, content platforms, or feed aggregators.
@@ -1444,8 +1445,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [veithly/ipfs-uploader](https://github.com/veithly/ipfs-uploader): A TypeScript-based MCP server for uploading images to IPFS, featuring a simple notes system with text note creation and summarization tools.
 - [OpenSourceGuru776/consist](https://github.com/OpenSourceGuru776/consist): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [IteraTools](https://api.iteratools.com): Cloud-hosted multi-tool MCP API providing 34+ capabilities through a single endpoint: image generation (Flux), web scraping, TTS, OCR, browser automation, sandboxed code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and more. Pay-per-use with x402 micropayment protocol.
-
-- **[MEOK Governance Suite](https://github.com/CSOAI-ORG)** - 38 AI compliance MCPs covering EU AI Act, DORA, NIS2, CRA, MDR, FDA SaMD, MiCA, AML, Basel III, MiFID II, COPPA/FERPA, watermarking + C2PA, AI-BOM, bias detection, prompt-injection firewall, CISA KEV, MITRE ATT&CK/ATLAS, SLSA, Sigstore. HMAC-signed attestations. `npx meok-setup --pack governance`.
 
 ## 🔄 Version Control
 
