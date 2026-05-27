@@ -165,6 +165,8 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 ## 🌐 Browser Automation & Web Scraping
 
 Servers using tools for browser control, automation, and extracting content from websites.
+
+- [hshintelligence/agent-scrape](https://github.com/hshintelligence/agent-scrape) - Pay-per-call web scraping for AI agents via the x402 protocol on Base USDC. Six tools (scrape, extract via Groq+Llama 4, screenshot, metadata, session, workflow). No signup, no API keys. Remote MCP at `https://agent-scrape.healingsunhaven.workers.dev/mcp`. MIT licensed.
 - [Darko893/mcp-server](https://github.com/Darko893/mcp-server): AI-powered web scraping MCP server with Cloudflare bypass, JavaScript rendering, and structured data extraction via the Haunt API. Pay-per-use with generous free tier.
 
 - [Custodia-Admin/pagebolt-mcp](https://github.com/Custodia-Admin/pagebolt-mcp): Provides hosted web capture and browser automation via REST API and MCP. Supports screenshot, PDF, OG image, multi-step sequences, AI-narrated video recording, and page inspection (CSS selectors + element maps for AI agents). Works natively in Claude Desktop, Cursor, and Windsurf.
