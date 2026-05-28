@@ -1034,6 +1034,7 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [teamsincetoday/recipe-commerce-mcp](https://github.com/teamsincetoday/recipe-commerce-mcp): Extracts affiliate-ready product recommendations from recipe content using AI-powered ingredient and kitchen tool analysis. Remote Streamable HTTP endpoint on Cloudflare Workers.
 - [Parsegl/parse-mcp](https://github.com/Parsegl/parse-mcp): Look up how any brand surfaces in ChatGPT and Google AI Overviews. Parse's public AI visibility index, queryable from any MCP-capable client. Search brands, prompts, sources, and niches; fetch brand briefs and prompt details; pull dataset stats. 577,000+ brands. No auth required.
 - [opusforge/gorilla-mcp](https://github.com/opusforge/gorilla-mcp): Lead discovery for solo SaaS founders. One run searches Reddit, X, YouTube, and TikTok in parallel and ranks each post by buying intent. Tools for end-to-end acquisition: `leads.find`, `idea.refine`, `outreach.draft`, and `outreach.plan` (Week-1 cadence).
+- [yeshello-app/mcp](https://github.com/yeshello-app/mcp): Digital business cards, lead capture forms, and service listings. AI builds from a URL in minutes. 63 tools with live browser editing, stock photos, and guided tours.
 
 ## 📡 Monitoring & Observability
 
