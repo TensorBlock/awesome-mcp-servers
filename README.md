@@ -124,6 +124,7 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [us-all/mlflow-mcp-server](https://github.com/us-all/mlflow-mcp-server) - MLflow MCP server with 82 tools across experiments, runs, registered models, model versions, traces, and assessments. MLflow 3 GenAI traces support and 5 workflow Prompts.
 - [tolegm/astranl-mcp](https://github.com/tolegm/astranl-mcp) - AI inference dispatch aggregator routing tasks to Anthropic, OpenAI, Gemini, and xAI Grok. Flat per-task pricing (€0.005-€0.05). 9 MCP tools.
 - [garasegae/aiskillstore](https://github.com/garasegae/aiskillstore) - Agent-first AI skill marketplace with open USK standard. Search, install, and share reusable skills across 7 platforms (Claude Code, Cursor, Codex CLI, Windsurf, Cline, Roo Code) via MCP. Features skill vetting, agent-autonomous upload, and cross-platform discovery.
+- [New1Direction/webmcp-anything](https://github.com/New1Direction/webmcp-anything): Turn any URL into agent-callable MCP tools. 5-tier adapter chain (Shopify ~4M storefronts / generic JSON-LD / OpenAPI compiler / known providers like Stripe/Slack/Notion/GitHub / Claude 3.5 Haiku fallback). Hosted at [wmcp.sh](https://wmcp.sh) — free public API, paid tier with custom adapters + verified directory listings.
 
 ## 🎨 Art, Culture & Media
 
