@@ -81,6 +81,7 @@ We welcome submissions! To add your MCP server:
 
 Servers integrating with other AI models, AI platforms, RAG tools, prompt management, or agent frameworks.
 
+- [Tuning Engines](https://github.com/cerebrixos-org/tuning-engines-cli) - Govern model, agent, skill, and MCP workflows with RBAC, traffic policies, approvals, traces, and usage analytics. Install the MCP server with `npx -y --package tuningengines-cli@latest te mcp serve`.
 - [SignalSpore MCP](https://github.com/yeahdog/signalspore-mcp) - Model-aware preflight MCP server for AI agents; gates risky tasks, returns trap-aware execution briefs, and records safe post-task deltas. `npx -y github:yeahdog/signalspore-mcp`
 - [ejentum/ejentum-mcp](https://github.com/ejentum/ejentum-mcp) - MCP server with reasoning, code, anti-deception, and memory tools for AI agents (stdio via npm, or hosted HTTPS at api.ejentum.com/mcp).
 - [OpenAgent](https://github.com/the-open-agent/openagent) - Open-source personal AI assistant platform powered by LLM, RAG and agent loops. Supports browser-use, shell execution, web search, office automation, and connects any MCP-compatible server over SSE, Stdio, or StreamableHTTP. Features visual workflow builder, multi-tenant support, and 30+ model providers. Apache-2.0.
