@@ -710,6 +710,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [realmint-io/mcp](https://github.com/realmint-io/mcp): Agent-native scoring, search, and routing for tokenized real-world assets across Injective and multi-chain. 7 read-only tools for RWA discovery, six-dimension Risk & Rights Score (backing / enforceability / control / exit / liquidity / social), routable-venue mapping, market and price history. Remote server at https://mcp.realmint.io/mcp — no API key.
 - [vatnode/vatnode-mcp](https://github.com/vatnode/vatnode-mcp): Official EU VAT validation via the EU Commission's VIES service plus offline VAT rates and format checks for 45 European countries. Five tools — four work offline without an API key. MIT, signed with npm provenance. Install: `npx -y vatnode-mcp`.
 
+- [YIELD INTELLIGENCE](https://github.com/thebrierfox/yield-intelligence-skill): Passive income portfolio analysis MCP server — live US Treasury yields (1M→30Y), dividend ETF analysis (VYM, SCHD, JEPI), REIT yield tracking, and AI-powered portfolio optimization targeting monthly income goals. Remote server at `https://api.intuitek.ai/yield/mcp`, no auth required. MIT.
 ## 🧰 Frameworks
 
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp): An AI Agents framework providing 64+ built-in MCP tools for search, memory management, workflow orchestration, code execution, and file operations. Install via uvx praisonai-mcp.
