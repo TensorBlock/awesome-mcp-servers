@@ -902,6 +902,7 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [SunFlash12/forge-cascade-mcp](https://github.com/SunFlash12/forge-cascade-mcp): Enterprise AI memory and RAG buyer-route connector exposing Forge docs, pricing, intake, and direct enterprise checkout paths for agents.
 - [sunnja69/akephalos](https://github.com/sunnja69/akephalos): Local-first, markdown-first `.akephalos` passport for portable preferences, tool notes, rules, project context, and durable memories across Codex, Claude Code, Cursor, Hermes, OpenClaw, MCP clients, and machines via plain files/Git. Exposes a local MCP stdio server.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe): 24/7 local screen + microphone recording with OCR, audio transcription, and semantic search. MCP server exposes 6 tools (search-content, export-video, list-meetings, activity-summary, search-elements, frame-context) so Claude can search everything you've seen, said, or heard. 100% local SQLite. MIT licensed, 18k+ stars.
 - [a2cr/a2cr](https://github.com/a2cr/a2cr): MCP server for AI-agent handoffs. Saves client-encrypted WorkBaton checkpoints and WorkStash notes so Codex, Claude Code, Roo Code, and other MCP clients can resume work without passing full chat history.
