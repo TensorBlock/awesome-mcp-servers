@@ -2,6 +2,7 @@
 
 Servers providing access to the host operating system's command line/shell, executing OS commands, or managing system information.
 
+- [us-all/android-mcp-server](https://github.com/us-all/android-mcp-server) - Android MCP server with 76 ADB-based tools across device management, apps, UI automation, logcat, emulator, files, system, and debug. 7 workflow Prompts (crash investigation, ANR, battery drain).
 - [anurag-dhamala/os-info-mcp-server](https://github.com/anurag-dhamala/os-info-mcp-server): Provides real-time operating system information through an MCP server interface.
 - [magicuidesign/cli](https://github.com/magicuidesign/cli): Facilitates the installation and configuration of Magic UI components through a command-line interface.
 - [classfang/ssh-mcp-server](https://github.com/classfang/ssh-mcp-server): Facilitates secure remote SSH command execution via the MCP protocol, enabling AI assistants to interact with servers without exposing SSH credentials.

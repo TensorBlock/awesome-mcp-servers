@@ -3,6 +3,7 @@
 Servers providing data or services related to flights, trains, transportation APIs, or travel planning.
 
 - [drivly/auto-dev-skill](https://github.com/drivly/auto-dev-skill): Automotive data APIs for AI agents — VIN decode, vehicle listings, payments, recalls, and specs.
+- [MyCarTracks](https://mycartracks.com/resources/connect-with-ai): Remote MCP server for app-based GPS vehicle tracking and automatic mileage tracking, exposing authorized trip, track, and vehicle data via `https://mycartracks.com/mcp`.
 - [ckorhonen/mta-mcp](https://subwayinfo.nyc): Provides real-time NYC subway arrivals, service status, alerts, station search, and trip planning capabilities.
 - [RikGmee/searchAPI-mcp](https://github.com/RikGmee/searchAPI-mcp): Facilitates complex travel planning by integrating flight, hotel, and map services through a multi-context protocol server.
 - [achel-b8/rakuten-hotel-search-mcp](https://github.com/achel-b8/rakuten-hotel-search-mcp): Facilitates hotel availability searches using Rakuten Travel's API, providing results based on specified criteria such as check-in dates and location.
@@ -42,3 +43,8 @@ Servers providing data or services related to flights, trains, transportation AP
 - [GongRzhe/TRAVEL-PLANNER-MCP-Server](https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server): Facilitates travel-related tasks by integrating with Google Maps for location search, place details, and route calculations.
 - [sunsetcoder/flightradar24-mcp-server](https://github.com/sunsetcoder/flightradar24-mcp-server): Track flights in real-time using Flightradar24 data with this Claude Desktop MCP server, ideal for aviation enthusiasts and travel planners.
 - [r-huijts/ns-mcp-server](https://github.com/r-huijts/ns-mcp-server): Connects Claude AI to real-time Dutch Railways travel information, enabling seamless access to train schedules, disruptions, and pricing through the official NS API.
+- [ivannikolovbg/repull-mcp](https://github.com/ivannikolovbg/repull-mcp): MCP server for the Repull API — the unified API for vacation-rental tech. Connect to every PMS, OTA, and channel manager (Airbnb, Booking.com, VRBO, Smoobu + 46 more) through one server.
+
+- [cargoffer/bolsa_de_carga-mcp](https://github.com/cargoffer/bolsa_de_carga-mcp): Freight marketplace/load board MCP server. Tools for managing addresses, truckers, vehicles, deliveries, and auctions. Enables AI agents to interact with freight loads, bids, and logistics operations.
+- [cargoffer/ecmr-mcp](https://github.com/cargoffer/ecmr-mcp): Electronic Consignment Note (eCMR) MCP server. Tools for managing drivers, vehicles, addresses, digital signatures, eCMR creation, QR codes, and PDF generation.
+- [cargoffer/transcend-mcp-server](https://github.com/cargoffer/transcend-mcp-server) - AI-powered route optimization MCP server for heavy vehicles. Calculate truck routes, predict traffic with LSTM neural networks, compute tolls, fuel costs and CO2 emissions. Find truck stops and check weather along European routes.

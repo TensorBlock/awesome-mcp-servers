@@ -2,6 +2,7 @@
 
 Servers integrating with project management and task tracking tools.
 
+- [Claw Task Hub](https://github.com/Catfish-75/claw-task-hub): Local-first, SQLite-backed task hub with MCP-compatible tools for AI agent issue tracking, sessions, claims, comments, and acceptance trails.
 - [MadGapun/PBP](https://github.com/MadGapun/PBP): AI-powered MCP server for job application management in the German-speaking market (DACH). 73 tools, 18 guided workflows, 18 job portal scrapers, React dashboard with 8 tabs, email integration (.msg/.eml), calendar with .ics export, intelligent scoring, and AI coaching. Currently German language only. MIT licensed, runs locally, privacy-first.
 - [Writbase/writbase](https://github.com/Writbase/writbase): MCP-native task management for AI agent fleets with multi-agent permissions, full provenance, inter-agent delegation, and A2A protocol alignment.
 - [spranab/saga-mcp](https://github.com/spranab/saga-mcp): A Jira-like project tracker MCP server for AI agents. SQLite-backed with full hierarchy (Projects > Epics > Tasks > Subtasks), automatic activity logging, dashboard overview, and unified notes system — so LLMs never lose track across sessions.
@@ -219,3 +220,4 @@ Servers integrating with project management and task tracking tools.
 - [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro): Connects to the MIRO Whiteboard Application for board manipulation and bulk operations using the Model Context Protocol.
 
 - [TourAround/LystBot](https://github.com/TourAround/LystBot): AI-powered list management MCP server. Create grocery lists, todos, and packing lists, add items, check them off, and share lists with family. 10 MCP tools for the full list lifecycle. Free iOS + Android app at lystbot.com.
+- [SprintFlint](https://sprintflint.com/mcp): Opinionated sprint tracker for small dev teams. Remote MCP server at `https://mcp.sprintflint.com` (streamable HTTP, bearer-token auth) lets Claude/Cursor/Claude Code/Zed read and update tickets, sprints, comments, and velocity. Listed on the official MCP Registry as `io.github.neoflintai/sprintflint`. Free tier 300 tickets, no card.
