@@ -1132,6 +1132,7 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [MohamedAbdallah-14/prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset): Generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing each request across 30+ image generation models to the best fit. Zero-key first run via free-tier providers (Pollinations, Stable Horde, HuggingFace). MIT licensed.
 - [rendobar/mcp](https://github.com/rendobar/mcp): Official local stdio MCP server for Rendobar's media-processing API. Lets AI agents submit FFmpeg, transcode, caption, and watermark jobs and upload local files to the cloud backend. TypeScript, MIT licensed.
 
+- [getcutpro/mcp](https://github.com/getcutpro/mcp): MCP server that exposes the full CutPro v1 API as 34 tools for AI clients — analyze videos, submit clipping jobs, manage clips, render, publish posts, and more. Supports stdio (local), Streamable HTTP (remote), and OAuth 2.1 (browser clients).
 ## 🖥️ Operating System & Command Line
 
 Servers providing access to the host operating system's command line/shell, executing OS commands, or managing system information.
