@@ -1209,6 +1209,7 @@ Servers integrating with project management and task tracking tools.
 - [menma-at-here/calendar-mcp-server](https://github.com/menma-at-here/calendar-mcp-server): Facilitates retrieval of Google Calendar events through an MCP server interface.
 - [taskade/mcp](https://github.com/taskade/mcp) – Official Taskade MCP server: connect Taskade’s API to any MCP-compatible client (e.g. Claude or Cursor), enabling workspace loading, task retrieval, and interactive operations.
 - [TourAround/LystBot](https://github.com/TourAround/LystBot): AI-powered list management MCP server. Create grocery lists, todos, and packing lists, add items, check them off, and share lists with family. 10 MCP tools for the full list lifecycle. Free iOS + Android app at lystbot.com.
+- [SprintFlint](https://sprintflint.com/mcp): Opinionated sprint tracker for small dev teams. Remote MCP server at `https://mcp.sprintflint.com` (streamable HTTP, bearer-token auth) lets Claude/Cursor/Claude Code/Zed read and update tickets, sprints, comments, and velocity. Listed on the official MCP Registry as `io.github.neoflintai/sprintflint`. Free tier 300 tickets, no card.
 
 ## 🔬 Science & Research
 
