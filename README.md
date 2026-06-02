@@ -292,6 +292,7 @@ Servers integrating with major cloud providers or specific cloud services.
 
 Servers focused on static analysis, linting, code metrics, security scanning, vulnerability checks, or code quality assessment.
 
+- [KyaniteLabs/checkyourself](https://github.com/KyaniteLabs/checkyourself): Local-first production-readiness audit for AI-built apps — read-only checks, an evidence-based 0-100 score, and guided fixes before launch.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp): Fastest code intelligence MCP server — indexes the Linux kernel (28M LOC) in 3 minutes, answers structural queries in <1ms. Builds a persistent knowledge graph with call chains, HTTP routes, and cross-service links across 66 languages. 120x fewer tokens. Single static binary, plug-and-play across 10 coding agents.
 - [dhylan01/MCP_OA](https://github.com/dhylan01/MCP_OA): Facilitates AI assistants in analyzing code by identifying function usage within Python and TypeScript/TSX files.
 - [angrysky56/ast-mcp-server](https://github.com/angrysky56/ast-mcp-server): Provides code structure and semantic analysis using AST and ASG for multiple programming languages, enhancing code analysis capabilities in Claude Desktop.
@@ -526,6 +527,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [KyaniteLabs/DialectOS](https://github.com/KyaniteLabs/DialectOS): Spanish dialect localization MCP server and CLI — translate and QA across 25 regional variants with register control and structure preservation.
 - [incultnitollc/mcp-probe](https://github.com/incultnitollc/mcp-probe) - CLI health-check for MCP servers. Enumerates tools/resources/prompts, calls them, validates schemas, prints pass/fail scorecard. CI-friendly (exits 0/1).
 - [gyuch-an02/claude-omakase](https://github.com/gyuch-an02/claude-omakase) — MCP server plus bundled Claude skill that recommends and installs Claude Code skills from a federated catalog after explicit user approval.
 - [lazymac2x/lazymac-mcp](https://github.com/lazymac2x/lazymac-mcp) — Unified MCP server exposing 42+ developer tools (qr, ip-geo, ai-cost, llm-router, k-privacy, korean-nlp) backed by Cloudflare Workers. `npx -y @lazymac/mcp`
@@ -1174,6 +1176,7 @@ Servers providing access to the host operating system's command line/shell, exec
 
 Servers integrating with project management and task tracking tools.
 
+- [KyaniteLabs/Epoch](https://github.com/KyaniteLabs/Epoch): Software estimation MCP server — PERT, COCOMO II, Monte Carlo, sprint forecasting, and schedule-risk tools for AI agents.
 - [Claw Task Hub](https://github.com/Catfish-75/claw-task-hub): Local-first, SQLite-backed task hub with MCP-compatible tools for AI agent issue tracking, sessions, claims, comments, and acceptance trails.
 - [Writbase/writbase](https://github.com/Writbase/writbase): MCP-native task management for AI agent fleets with multi-agent permissions, full provenance, inter-agent delegation, and A2A protocol alignment.
 - [ACNet-AI/OmniTaskAgent](https://github.com/ACNet-AI/OmniTaskAgent): OmniTaskAgent is a versatile multi-model task management system that integrates with various task management solutions and editors via the MCP protocol, enhancing intelligent workflow processes.
