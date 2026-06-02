@@ -1453,6 +1453,7 @@ Servers providing data or services related to flights, trains, transportation AP
 - [cargoffer/bolsa_de_carga-mcp](https://github.com/cargoffer/bolsa_de_carga-mcp): Freight marketplace/load board MCP server. Tools for managing addresses, truckers, vehicles, deliveries, and auctions. Enables AI agents to interact with freight loads, bids, and logistics operations.
 - [cargoffer/ecmr-mcp](https://github.com/cargoffer/ecmr-mcp): Electronic Consignment Note (eCMR) MCP server. Tools for managing drivers, vehicles, addresses, digital signatures, eCMR creation, QR codes, and PDF generation.
 - [cargoffer/transcend-mcp-server](https://github.com/cargoffer/transcend-mcp-server) - AI-powered route optimization MCP server for heavy vehicles. Calculate truck routes, predict traffic with LSTM neural networks, compute tolls, fuel costs and CO2 emissions. Find truck stops and check weather along European routes.
+- [whitetirocket/idphotosnap-mcp](https://idphotosnap.com/developers/mcp): Passport and visa photo specifications for 100+ countries and 248 document formats. Tools for country specs, government portal file-size constraints (DS-160 240KB, Saudi Enjaz 200KB, India Sarathi 20-50KB, China COVA, Canada IRCC, Schengen VFS, K-ETA), and deep links to a browser-only photo tool. Validated against 15+ official government sources. Endpoint: `https://idphotosnap.com/api/mcp`. Open MIT dataset at github.com/whitetirocket/passport-photo-specs.
 
 ## 🔧 Utilities & Helpers
 
