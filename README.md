@@ -1453,6 +1453,7 @@ Servers providing data or services related to flights, trains, transportation AP
 - [cargoffer/bolsa_de_carga-mcp](https://github.com/cargoffer/bolsa_de_carga-mcp): Freight marketplace/load board MCP server. Tools for managing addresses, truckers, vehicles, deliveries, and auctions. Enables AI agents to interact with freight loads, bids, and logistics operations.
 - [cargoffer/ecmr-mcp](https://github.com/cargoffer/ecmr-mcp): Electronic Consignment Note (eCMR) MCP server. Tools for managing drivers, vehicles, addresses, digital signatures, eCMR creation, QR codes, and PDF generation.
 - [cargoffer/transcend-mcp-server](https://github.com/cargoffer/transcend-mcp-server) - AI-powered route optimization MCP server for heavy vehicles. Calculate truck routes, predict traffic with LSTM neural networks, compute tolls, fuel costs and CO2 emissions. Find truck stops and check weather along European routes.
+- [easyname889/worldcitisim-frontend](https://github.com/easyname889/worldcitisim-frontend/tree/main/apps/mcp-server): Travel eSIM MCP server for 193 countries + UK SMS verification numbers. Stripe + Bitcoin checkout, QR delivered by email in ~30s. Anonymous, no API key needed. Published as `@worldcitisim/mcp-esim`.
 
 ## 🔧 Utilities & Helpers
 
