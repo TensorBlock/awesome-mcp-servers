@@ -444,6 +444,7 @@ Servers specifically designed to interact with CMS platforms.
 
 Servers connecting to data warehouses, data query engines, analytics platforms, or specific data APIs.
 
+- [nikhonit/zillow-skills](https://github.com/nikhonit/zillow-skills): Zillow property data via the Zillapi REST API. Tools for property lookup by address or ZPID, Zestimate valuations, rent estimates, and listing search. Returns 300+ fields including tax records, price history, schools, and photos. Streamable HTTP, OAuth 2.1 + PKCE, free tier.
 - [Whatsonyourmind/oraclaw](https://github.com/Whatsonyourmind/oraclaw): Decision intelligence for AI agents — 19 algorithms (bandits, constraint solvers, Monte Carlo simulation, forecasting, anomaly detection, risk analysis), 12 MCP tools, sub-25ms, zero LLM cost. Install: `npx @oraclaw/mcp-server`.
 - [feriadosapi/mcp-server](https://mcp.feriadosapi.com): Brazilian holidays MCP server covering 5,570+ municipalities, 27 states, and national holidays. Returns holiday data by date, state, or city (IBGE code).
 - [rotatingshov/go-mcp-mysql](https://github.com/rotatingshov/go-mcp-mysql): Effortlessly manage MySQL databases with a Go-based MCP server, offering CRUD operations and automation without the need for Node.js or Python.

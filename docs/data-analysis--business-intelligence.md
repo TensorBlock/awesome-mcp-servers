@@ -2,6 +2,7 @@
 
 Servers connecting to data warehouses, data query engines, analytics platforms, or specific data APIs.
 
+- [nikhonit/zillow-skills](https://github.com/nikhonit/zillow-skills): Zillow property data via the Zillapi REST API. Tools for property lookup by address or ZPID, Zestimate valuations, rent estimates, and listing search. Returns 300+ fields including tax records, price history, schools, and photos. Streamable HTTP, OAuth 2.1 + PKCE, free tier.
 - [us-all/openmetadata-mcp-server](https://github.com/us-all/openmetadata-mcp-server) - OpenMetadata MCP server with 170 tools across metadata, lineage, search, data quality, sample data, and OM 1.12+ Data Contracts. Includes `lineage-impact` and `quality-rollup` aggregations.
 - [us-all/dbt-mcp-server](https://github.com/us-all/dbt-mcp-server): dbt MCP server with 22 read-only tools across `manifest.json` / `run_results.json` / `sources.json` / `catalog.json` (model/test/source introspection, run-history analysis, slow models, per-column test coverage, lineage walks) plus 5 DQ result-table tools (BigQuery + Postgres lazy peer imports). 4 triage Prompts and 4 aggregations.
 - [us-all/airflow-mcp-server](https://github.com/us-all/airflow-mcp-server): Airflow MCP for the Airflow 3.x `/api/v2` REST API with JWT auth (SimpleAuthManager). 7 tools (DAG list, runs, task instances, log tails, trigger, clear) plus `dag-health-rollup` aggregation and 2 triage Prompts. Read-only by default; trigger/clear gated by `AIRFLOW_ALLOW_WRITE`.
