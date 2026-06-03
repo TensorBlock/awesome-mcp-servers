@@ -168,6 +168,7 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 
 Servers using tools for browser control, automation, and extracting content from websites.
 
+- [skuzadev/wpfpilot-mcp](https://github.com/skuzadev/wpfpilot-mcp): Automates Windows WPF desktop apps for AI agents using semantic UI Automation selectors, query/act/wait/assert tools, screenshots, workflow recording, and xUnit + FlaUI test generation. Works with Codex, Claude, Cursor, VS Code, and other MCP clients via `npx -y @skuzadev/wpfpilot-mcp`.
 - [hshintelligence/agent-scrape](https://github.com/hshintelligence/agent-scrape) - Pay-per-call web scraping for AI agents via the x402 protocol on Base USDC. Six tools (scrape, extract via Groq+Llama 4, screenshot, metadata, session, workflow). No signup, no API keys. Remote MCP at `https://agent-scrape.healingsunhaven.workers.dev/mcp`. MIT licensed.
 - [Darko893/mcp-server](https://github.com/Darko893/mcp-server): AI-powered web scraping MCP server with Cloudflare bypass, JavaScript rendering, and structured data extraction via the Haunt API. Pay-per-use with generous free tier.
 
