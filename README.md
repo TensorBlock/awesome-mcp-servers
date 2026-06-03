@@ -163,6 +163,7 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 - [opensourcedev90s/uk-science-museum-group-mcp](https://github.com/opensourcedev90s/uk-science-museum-group-mcp): Facilitates data retrieval from the UK Science Museum Group API for LLMs via a Python-based MCP server.
 - [AnshulDalua/illustrator-mcp](https://github.com/AnshulDalua/illustrator-mcp): Facilitates script execution in Adobe Illustrator via MCP, leveraging JavaScript and AppleScript on MacOS.
 - [hugeicons/mcp-server](https://github.com/hugeicons/mcp-server): Facilitates seamless integration of Hugeicons across various platforms by providing tools, resources, and platform-specific guides for AI assistants.
+- [freellmpool](https://github.com/0xzr/freellmpool) - MCP server exposing pooled free LLM tiers from 16 providers (Groq, Cerebras, Gemini, OpenRouter, …) as ask/models/quota tools, with automatic failover; keyless to start (`pip install freellmpool`).
 
 ## 🌐 Browser Automation & Web Scraping
 
