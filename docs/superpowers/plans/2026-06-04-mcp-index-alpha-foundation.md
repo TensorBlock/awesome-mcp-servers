@@ -561,11 +561,19 @@ describe("parseMarkdownEntries", () => {
 
 describe("slugFromUrl", () => {
   it("creates stable GitHub slugs", () => {
-    expect(slugFromUrl("https://github.com/Owner/Repo")).toBe("github-owner-repo");
+    const slug = slugFromUrl("https://github.com/Owner/Repo");
+    expect(slug).toMatch(/^github-owner-repo-[a-f0-9]{8}$/);
+    expect(slugFromUrl("https://github.com/Owner/Repo")).toBe(slug);
   });
 
   it("creates stable domain slugs", () => {
-    expect(slugFromUrl("https://example.com/mcp/server")).toBe("example-com-mcp-server");
+    expect(slugFromUrl("https://example.com/mcp/server")).toMatch(/^example-com-mcp-server-[a-f0-9]{8}$/);
+  });
+
+  it("keeps similar URLs collision-resistant", () => {
+    const first = slugFromUrl("https://github.com/besthand/mcp-server-taiwan-aqi");
+    const second = slugFromUrl("https://github.com/besthand/mcp-server-taiwan-aqi--");
+    expect(first).not.toBe(second);
   });
 });
 ```
@@ -628,6 +636,7 @@ export const CATEGORY_TO_DOCS_PATH: Record<string, string> = {
 Create `packages/catalog-builder/src/parseMarkdown.ts`:
 
 ```ts
+import { createHash } from "node:crypto";
 import type { ParsedMarkdownEntry } from "./types.js";
 
 const ENTRY_RE = /^-\s+\[([^\]]+)\]\(([^)]+)\)\s*(?::|-|—|–)\s*(.+)$/;
@@ -670,10 +679,43 @@ export function parseMarkdownEntries(markdown: string, sourcePath: string): Pars
 }
 
 export function slugFromUrl(url: string): string {
+  const canonicalUrl = canonicalizeUrl(url);
+  const parsed = new URL(canonicalUrl);
+  const hostname = parsed.hostname;
+  const githubMatch = hostname.toLowerCase() === "github.com"
+    ? parsed.pathname.match(/^\/([^/]+)\/([^/]+)/)
+    : null;
+
+  const readableSlug = githubMatch ? githubSlug(githubMatch) : domainSlug(hostname, parsed.pathname);
+  const hash = createHash("sha256").update(canonicalUrl).digest("hex").slice(0, 8);
+
+  return `${readableSlug}-${hash}`;
+}
+
+function canonicalizeUrl(url: string): string {
   const parsed = new URL(url);
-  const parts = [parsed.hostname.replace(/^www\./, ""), parsed.pathname]
+  parsed.hash = "";
+  parsed.protocol = parsed.protocol.toLowerCase();
+  parsed.hostname = parsed.hostname.toLowerCase().replace(/^www\./, "");
+
+  if ((parsed.protocol === "https:" && parsed.port === "443") || (parsed.protocol === "http:" && parsed.port === "80")) {
+    parsed.port = "";
+  }
+
+  return parsed.toString();
+}
+
+function githubSlug(githubMatch: RegExpMatchArray): string {
+  const [, owner, repo] = githubMatch;
+  return `github-${owner}-${repo.replace(/\.git$/i, "")}`
+    .replace(/[^a-zA-Z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .toLowerCase();
+}
+
+function domainSlug(hostname: string, pathname: string): string {
+  const parts = [hostname, pathname]
     .join("/")
-    .replace(/^github\.com\/([^/]+)\/([^/]+).*$/i, "github-$1-$2")
     .replace(/[^a-zA-Z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "")
     .toLowerCase();
@@ -738,13 +780,13 @@ describe("buildCatalogFromMarkdown", () => {
     const result = buildCatalogFromMarkdown(readme, docs);
 
     expect(result.entries).toHaveLength(2);
-    expect(result.entries[0].id).toBe("github-owner-search-mcp");
+    expect(result.entries[0].id).toMatch(/^github-owner-search-mcp-[a-f0-9]{8}$/);
     expect(result.entries[0].source.docsPath).toBe("docs/search.md");
     expect(result.errors).toEqual([
       {
         code: "missing_docs_mirror",
         message: "Entry is present in README.md but missing from docs/search.md",
-        entryId: "github-owner-only-readme",
+        entryId: expect.stringMatching(/^github-owner-only-readme-[a-f0-9]{8}$/),
         sourcePath: "README.md",
         line: 3
       }
