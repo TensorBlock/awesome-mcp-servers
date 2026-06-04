@@ -67,6 +67,21 @@ describe("buildCatalogFromMarkdown", () => {
     expect(result.errors).toEqual([]);
   });
 
+  it("uses homepage instead of repo for non-GitHub entries", () => {
+    const readme = [
+      "## Experimental",
+      "- [Hosted MCP](https://example.com/hosted-mcp): Hosted server.",
+    ].join("\n");
+
+    const result = buildCatalogFromMarkdown(readme, new Map());
+
+    expect(result.entries[0]?.links).toMatchObject({
+      primary: "https://example.com/hosted-mcp",
+      repo: null,
+      homepage: "https://example.com/hosted-mcp",
+    });
+  });
+
   it("infers install, auth, client, tool, and license metadata from descriptions", () => {
     const readme = [
       "## Experimental",
