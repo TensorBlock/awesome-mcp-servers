@@ -4,6 +4,7 @@ import type { ParsedMarkdownEntry } from "./types.js";
 const BULLET_LINK_RE = /^-\s+\[([^\]]+)\]\(([^)]+)\)(.*)$/;
 const LEADING_METADATA_LINK_RE =
   /^(?:\[!\[[^\]]*\]\([^)]+\)\]\([^)]+\)|!\[[^\]]*\]\([^)]+\)|\[[^\]]+\]\([^)]+\))\s*/;
+const TEXT_CONTENT_RE = /[\p{L}\p{N}]/u;
 const HASH_LENGTH = 8;
 
 export function cleanCategoryHeading(raw: string): string {
@@ -53,7 +54,7 @@ function parseDescriptionRemainder(raw: string): string | null {
   const explicitSeparator = remainder.match(/^.*?(?::\s*|(?:^|\s)[-\u2014\u2013]\s+)(.+)$/u);
   const description = explicitSeparator ? explicitSeparator[1].trim() : remainder.trim();
 
-  return description || null;
+  return TEXT_CONTENT_RE.test(description) ? description : null;
 }
 
 function stripLeadingMetadataLinks(raw: string): string {

@@ -83,6 +83,9 @@ describe("parseMarkdownEntries", () => {
       "- This bullet has no link.",
       "- [No description](https://example.com)",
       "- [Blank description](https://example.com/blank):   ",
+      "- [Icon only](https://example.com/e) 🎖️",
+      "- [Badge only](https://example.com/badge) [![Status](https://example.com/status.svg)](https://example.com/status)",
+      "- [Separator icon only](https://example.com/icon): 🎖️",
       "- [Valid](https://example.com/valid): Valid description.",
     ].join("\n");
 
