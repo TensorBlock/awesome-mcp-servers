@@ -20,17 +20,25 @@
     "community"
   ],
   "properties": {
-    "id": { "type": "string", "minLength": 1 },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
     "name": { "type": "string", "minLength": 1 },
-    "description": { "type": "string" },
+    "description": { "type": "string", "minLength": 1 },
     "category": { "type": "string", "minLength": 1 },
     "source": {
       "type": "object",
-      "required": ["readmePath"],
+      "required": ["readmePath", "docsPath"],
       "properties": {
-        "readmePath": { "type": "string" },
-        "docsPath": { "type": ["string", "null"] },
-        "pullRequest": { "type": ["integer", "null"] }
+        "readmePath": { "type": "string", "minLength": 1 },
+        "docsPath": {
+          "anyOf": [
+            { "type": "string", "minLength": 1 },
+            { "type": "null" }
+          ]
+        },
+        "pullRequest": { "type": ["integer", "null"], "minimum": 1 }
       },
       "additionalProperties": false
     },
@@ -38,11 +46,31 @@
       "type": "object",
       "required": ["primary"],
       "properties": {
-        "primary": { "type": "string" },
-        "repo": { "type": ["string", "null"] },
-        "homepage": { "type": ["string", "null"] },
-        "docs": { "type": ["string", "null"] },
-        "endpoint": { "type": ["string", "null"] }
+        "primary": { "type": "string", "format": "uri", "minLength": 1 },
+        "repo": {
+          "anyOf": [
+            { "type": "string", "format": "uri", "minLength": 1 },
+            { "type": "null" }
+          ]
+        },
+        "homepage": {
+          "anyOf": [
+            { "type": "string", "format": "uri", "minLength": 1 },
+            { "type": "null" }
+          ]
+        },
+        "docs": {
+          "anyOf": [
+            { "type": "string", "format": "uri", "minLength": 1 },
+            { "type": "null" }
+          ]
+        },
+        "endpoint": {
+          "anyOf": [
+            { "type": "string", "format": "uri", "minLength": 1 },
+            { "type": "null" }
+          ]
+        }
       },
       "additionalProperties": false
     },
@@ -50,8 +78,8 @@
       "type": "object",
       "required": ["commands", "env", "confidence"],
       "properties": {
-        "commands": { "type": "array", "items": { "type": "string" } },
-        "env": { "type": "array", "items": { "type": "string" } },
+        "commands": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "env": { "type": "array", "items": { "type": "string", "minLength": 1 } },
         "confidence": { "enum": ["high", "medium", "low"] }
       },
       "additionalProperties": false
@@ -66,22 +94,22 @@
       "required": ["type", "notes"],
       "properties": {
         "type": { "enum": ["none", "api-key", "oauth", "bearer", "unknown"] },
-        "notes": { "type": "array", "items": { "type": "string" } }
+        "notes": { "type": "array", "items": { "type": "string", "minLength": 1 } }
       },
       "additionalProperties": false
     },
-    "clients": { "type": "array", "items": { "type": "string" } },
+    "clients": { "type": "array", "items": { "type": "string", "minLength": 1 } },
     "tools": {
       "type": "object",
       "required": ["count", "names", "source"],
       "properties": {
         "count": { "type": ["integer", "null"], "minimum": 0 },
-        "names": { "type": "array", "items": { "type": "string" } },
+        "names": { "type": "array", "items": { "type": "string", "minLength": 1 } },
         "source": { "enum": ["self_reported", "verified", "unknown"] }
       },
       "additionalProperties": false
     },
-    "license": { "type": "string" },
+    "license": { "type": "string", "minLength": 1 },
     "health": {
       "type": "object",
       "required": ["repoPublic", "packageFound", "endpointReachable", "lastCheckedAt"],
@@ -89,7 +117,12 @@
         "repoPublic": { "type": ["boolean", "null"] },
         "packageFound": { "type": ["boolean", "null"] },
         "endpointReachable": { "type": ["boolean", "null"] },
-        "lastCheckedAt": { "type": ["string", "null"] }
+        "lastCheckedAt": {
+          "anyOf": [
+            { "type": "string", "format": "date-time", "minLength": 1 },
+            { "type": "null" }
+          ]
+        }
       },
       "additionalProperties": false
     },
@@ -98,7 +131,7 @@
       "required": ["status", "notes"],
       "properties": {
         "status": { "enum": ["unknown", "self_reported", "partial", "verified", "failing"] },
-        "notes": { "type": "array", "items": { "type": "string" } }
+        "notes": { "type": "array", "items": { "type": "string", "minLength": 1 } }
       },
       "additionalProperties": false
     },
@@ -106,8 +139,8 @@
       "type": "object",
       "required": ["maintainedBy", "verifiedBy", "claimed"],
       "properties": {
-        "maintainedBy": { "type": "array", "items": { "type": "string" } },
-        "verifiedBy": { "type": "array", "items": { "type": "string" } },
+        "maintainedBy": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "verifiedBy": { "type": "array", "items": { "type": "string", "minLength": 1 } },
         "claimed": { "type": "boolean" }
       },
       "additionalProperties": false
