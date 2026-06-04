@@ -1,4 +1,6 @@
+import { existsSync, readFileSync } from "node:fs";
 import { describe, expect, it } from "vitest";
+import { CATEGORY_TO_DOCS_PATH } from "../src/category-map.js";
 import { cleanCategoryHeading, parseMarkdownEntries, slugFromUrl } from "../src/parseMarkdown.js";
 
 describe("cleanCategoryHeading", () => {
@@ -89,14 +91,107 @@ describe("parseMarkdownEntries", () => {
     expect(entries).toHaveLength(1);
     expect(entries[0]?.name).toBe("Valid");
   });
+
+  it("parses entries with extra markdown links before the separator", () => {
+    const markdown = [
+      "## 💰 Finance & Crypto",
+      "- [HCS412/ventureautomated](https://github.com/HCS412/ventureautomated) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis): Remote venture intelligence MCP for autonomous agents.",
+    ].join("\n");
+
+    const entries = parseMarkdownEntries(markdown, "README.md");
+
+    expect(entries).toEqual([
+      {
+        category: "Finance & Crypto",
+        name: "HCS412/ventureautomated",
+        url: "https://github.com/HCS412/ventureautomated",
+        description: "Remote venture intelligence MCP for autonomous agents.",
+        sourcePath: "README.md",
+        line: 2,
+      },
+    ]);
+  });
+
+  it("parses entries with status icons before the separator", () => {
+    const markdown = [
+      "## 💰 Finance & Crypto",
+      "- [hive-intel/hive-crypto-mcp](https://github.com/hive-intel/hive-crypto-mcp) 🎖️ 📇 ☁️ 🏠 - Institutional-grade crypto market infrastructure for AI.",
+    ].join("\n");
+
+    const entries = parseMarkdownEntries(markdown, "README.md");
+
+    expect(entries).toHaveLength(1);
+    expect(entries[0]?.description).toBe("Institutional-grade crypto market infrastructure for AI.");
+  });
+
+  it("parses entries with status badges before the separator", () => {
+    const markdown = [
+      "## 🔎 Search",
+      "- [Badge Server](https://example.com/badge) [![Status](https://example.com/status.svg)](https://example.com/status) - Badge-backed MCP server.",
+    ].join("\n");
+
+    const entries = parseMarkdownEntries(markdown, "README.md");
+
+    expect(entries).toHaveLength(1);
+    expect(entries[0]?.description).toBe("Badge-backed MCP server.");
+  });
+
+  it("parses entries with whitespace description fallback", () => {
+    const markdown = [
+      "## 🛠️ Developer Productivity & Utilities",
+      "- [Kiln-AI](https://github.com/Kiln-AI/Kiln) Kiln is a free tool for building production-ready AI systems.",
+    ].join("\n");
+
+    const entries = parseMarkdownEntries(markdown, "README.md");
+
+    expect(entries).toEqual([
+      {
+        category: "Developer Productivity & Utilities",
+        name: "Kiln-AI",
+        url: "https://github.com/Kiln-AI/Kiln",
+        description: "Kiln is a free tool for building production-ready AI systems.",
+        sourcePath: "README.md",
+        line: 2,
+      },
+    ]);
+  });
 });
 
 describe("slugFromUrl", () => {
-  it("creates stable GitHub slugs", () => {
-    expect(slugFromUrl("https://github.com/Owner/Repo")).toBe("github-owner-repo");
+  it("creates stable hash-suffixed GitHub slugs", () => {
+    const slug = slugFromUrl("https://github.com/Owner/Repo");
+
+    expect(slug).toMatch(/^github-owner-repo-[a-f0-9]{8}$/);
+    expect(slugFromUrl("https://github.com/Owner/Repo")).toBe(slug);
   });
 
-  it("creates stable domain slugs", () => {
-    expect(slugFromUrl("https://example.com/mcp/server")).toBe("example-com-mcp-server");
+  it("creates stable hash-suffixed domain slugs", () => {
+    expect(slugFromUrl("https://example.com/mcp/server")).toMatch(/^example-com-mcp-server-[a-f0-9]{8}$/);
+  });
+
+  it("does not collide when normalized readable slugs match", () => {
+    const first = slugFromUrl("https://github.com/besthand/mcp-server-taiwan-aqi");
+    const second = slugFromUrl("https://github.com/besthand/mcp-server-taiwan-aqi--");
+
+    expect(first).toMatch(/^github-besthand-mcp-server-taiwan-aqi-[a-f0-9]{8}$/);
+    expect(second).toMatch(/^github-besthand-mcp-server-taiwan-aqi-[a-f0-9]{8}$/);
+    expect(first).not.toBe(second);
+  });
+});
+
+describe("CATEGORY_TO_DOCS_PATH", () => {
+  it("maps every README category heading to an existing docs file", () => {
+    const readme = readFileSync("README.md", "utf8");
+    const lines = readme.split(/\r?\n/);
+    const startIndex = lines.findIndex((line) => line === "## Server Categories");
+    const categories = lines
+      .slice(startIndex + 1)
+      .filter((line) => /^##\s+/.test(line))
+      .map(cleanCategoryHeading);
+
+    expect(startIndex).toBeGreaterThanOrEqual(0);
+    expect(categories).toHaveLength(Object.keys(CATEGORY_TO_DOCS_PATH).length);
+    expect(categories.filter((category) => !CATEGORY_TO_DOCS_PATH[category])).toEqual([]);
+    expect(Object.values(CATEGORY_TO_DOCS_PATH).filter((docsPath) => !existsSync(docsPath))).toEqual([]);
   });
 });
