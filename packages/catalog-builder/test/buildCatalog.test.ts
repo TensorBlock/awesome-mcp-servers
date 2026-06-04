@@ -82,6 +82,60 @@ describe("buildCatalogFromMarkdown", () => {
     });
   });
 
+  it("extracts only URLs that look like remote MCP endpoints", () => {
+    const readme = [
+      "## Experimental",
+      [
+        "- [Awesome MCP](https://github.com/owner/awesome):",
+        "See [catalog](https://awesome-mcp.tools),",
+        "Endpoint: `https://awesome-mcp.tools/mcp`.",
+      ].join(" "),
+      [
+        "- [Post For Me](https://github.com/owner/postforme):",
+        "Get started at [postforme.dev](https://www.postforme.dev),",
+        "then access our [hosted server](https://mcp.postforme.dev).",
+      ].join(" "),
+      "- [Docs Only](https://github.com/owner/docs-only): Read docs at https://docs.example.com/setup.",
+    ].join("\n");
+
+    const result = buildCatalogFromMarkdown(readme, new Map());
+
+    expect(result.entries.map((entry) => entry.links.endpoint)).toEqual([
+      "https://awesome-mcp.tools/mcp",
+      "https://mcp.postforme.dev",
+      null,
+    ]);
+  });
+
+  it("reports malformed docs mirror URLs without crashing the build", () => {
+    const readme = [
+      "## 🔎 Search",
+      "- [Valid](https://example.com/mcp): Valid server.",
+    ].join("\n");
+    const docs = new Map([
+      [
+        "docs/search.md",
+        [
+          "## 🔎 Search",
+          "- [Bad](notaurl): Bad mirror entry.",
+          "- [Valid](https://example.com/mcp): Valid server.",
+        ].join("\n"),
+      ],
+    ]);
+
+    const result = buildCatalogFromMarkdown(readme, docs);
+
+    expect(result.entries).toHaveLength(1);
+    expect(result.errors).toEqual([
+      {
+        code: "parse_error",
+        message: "Invalid URL",
+        sourcePath: "docs/search.md",
+        line: 2,
+      },
+    ]);
+  });
+
   it("infers install, auth, client, tool, and license metadata from descriptions", () => {
     const readme = [
       "## Experimental",

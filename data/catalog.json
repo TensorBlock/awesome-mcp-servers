@@ -2285,7 +2285,7 @@
       "repo": "https://github.com/New1Direction/webmcp-anything",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://wmcp.sh"
+      "endpoint": null
     },
     "install": {
       "commands": [],
@@ -14680,7 +14680,7 @@
       "repo": "https://github.com/nylas/cli",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://cli.nylas.com"
+      "endpoint": null
     },
     "install": {
       "commands": [],
@@ -21198,7 +21198,7 @@
       "repo": "https://github.com/walkojas-boop/regexforge",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://regexforge.jason-12c.workers.dev/"
+      "endpoint": null
     },
     "install": {
       "commands": [],
@@ -21249,7 +21249,7 @@
       "repo": "https://github.com/walkojas-boop/ghostdom",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://ghostdom.jason-12c.workers.dev/"
+      "endpoint": null
     },
     "install": {
       "commands": [],
@@ -21302,7 +21302,7 @@
       "repo": "https://github.com/walkojas-boop/linkpulse",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://linkpulse-neon.vercel.app/"
+      "endpoint": null
     },
     "install": {
       "commands": [],
@@ -21355,7 +21355,7 @@
       "repo": "https://github.com/walkojas-boop/jsonshelf",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://jsonshelf.vercel.app/"
+      "endpoint": null
     },
     "install": {
       "commands": [],
@@ -25000,7 +25000,7 @@
       "repo": "https://github.com/connerlambden/helium-mcp",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://heliumtrades.com/mcp-page/"
+      "endpoint": null
     },
     "install": {
       "commands": [],
@@ -25257,7 +25257,7 @@
       "repo": "https://github.com/ElromEvedElElyon/sovereign-agent-chain",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://github.com/ElromEvedElElyon/sovereign-agent-chain.git"
+      "endpoint": null
     },
     "install": {
       "commands": [
@@ -25310,7 +25310,7 @@
       "repo": "https://github.com/ElromEvedElElyon/flash-payment-system",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://github.com/ElromEvedElElyon/flash-payment-system.git"
+      "endpoint": null
     },
     "install": {
       "commands": [
@@ -28049,7 +28049,7 @@
       "repo": "https://github.com/hive-intel/hive-crypto-mcp",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://hiveintelligence.xyz/install"
+      "endpoint": null
     },
     "install": {
       "commands": [],
@@ -28410,7 +28410,7 @@
       "repo": "https://github.com/voidly-ai/voidly-pay/tree/main/pay-mcp",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://huggingface.co/spaces/emperor-mew/voidly-pay"
+      "endpoint": null
     },
     "install": {
       "commands": [
@@ -37449,7 +37449,7 @@
       "repo": "https://github.com/adw0rd/awesome-mcp-tools-mcp",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://awesome-mcp.tools"
+      "endpoint": "https://awesome-mcp.tools/mcp"
     },
     "install": {
       "commands": [
@@ -55935,7 +55935,7 @@
       "repo": null,
       "homepage": "https://clawsec.cc",
       "docs": null,
-      "endpoint": "https://clawsearch.cc"
+      "endpoint": null
     },
     "install": {
       "commands": [],
@@ -58349,7 +58349,7 @@
       "repo": "https://github.com/DayMoonDevelopment/post-for-me-typescript/tree/main/packages/mcp-server",
       "homepage": null,
       "docs": null,
-      "endpoint": "https://www.postforme.dev"
+      "endpoint": "https://mcp.postforme.dev"
     },
     "install": {
       "commands": [],

@@ -7,13 +7,22 @@ export interface CatalogBuildResult {
   errors: CatalogBuildError[];
 }
 
+interface NormalizedParsedEntry {
+  normalizedUrl: string;
+}
+
+interface ParsedDocsEntries {
+  entriesByPath: Map<string, NormalizedParsedEntry[]>;
+  errors: CatalogBuildError[];
+}
+
 export function buildCatalogFromMarkdown(
   readmeMarkdown: string,
   docsByPath: Map<string, string>,
 ): CatalogBuildResult {
   const readmeEntries = parseMarkdownEntries(readmeMarkdown, "README.md");
-  const docsEntriesByPath = parseDocsEntries(docsByPath);
-  const errors: CatalogBuildError[] = [];
+  const docsEntries = parseDocsEntries(docsByPath);
+  const errors: CatalogBuildError[] = [...docsEntries.errors];
   const seenUrls = new Map<string, ParsedMarkdownEntry>();
   const entries: CatalogEntry[] = [];
 
@@ -48,7 +57,7 @@ export function buildCatalogFromMarkdown(
       seenUrls.set(normalizedUrl, entry);
     }
 
-    if (docsPath && !isMirroredInDocs(entry.url, docsEntriesByPath.get(docsPath) ?? [])) {
+    if (docsPath && !isMirroredInDocs(normalizedUrl, docsEntries.entriesByPath.get(docsPath) ?? [])) {
       errors.push({
         code: "missing_docs_mirror",
         message: `Entry is present in README.md but missing from ${docsPath}`,
@@ -64,19 +73,37 @@ export function buildCatalogFromMarkdown(
   return { entries, errors };
 }
 
-function parseDocsEntries(docsByPath: Map<string, string>): Map<string, ParsedMarkdownEntry[]> {
-  const docsEntriesByPath = new Map<string, ParsedMarkdownEntry[]>();
+function parseDocsEntries(docsByPath: Map<string, string>): ParsedDocsEntries {
+  const entriesByPath = new Map<string, NormalizedParsedEntry[]>();
+  const errors: CatalogBuildError[] = [];
 
   for (const [path, markdown] of docsByPath.entries()) {
-    docsEntriesByPath.set(path, parseMarkdownEntries(markdown, path));
+    const entries = parseMarkdownEntries(markdown, path);
+    const normalizedEntries: NormalizedParsedEntry[] = [];
+
+    for (const entry of entries) {
+      try {
+        normalizedEntries.push({
+          normalizedUrl: normalizeUrl(entry.url),
+        });
+      } catch (error) {
+        errors.push({
+          code: "parse_error",
+          message: error instanceof Error ? error.message : "Unable to parse docs entry URL",
+          sourcePath: entry.sourcePath,
+          line: entry.line,
+        });
+      }
+    }
+
+    entriesByPath.set(path, normalizedEntries);
   }
 
-  return docsEntriesByPath;
+  return { entriesByPath, errors };
 }
 
-function isMirroredInDocs(url: string, docsEntries: ParsedMarkdownEntry[]): boolean {
-  const normalizedUrl = normalizeUrl(url);
-  return docsEntries.some((docsEntry) => normalizeUrl(docsEntry.url) === normalizedUrl);
+function isMirroredInDocs(normalizedUrl: string, docsEntries: NormalizedParsedEntry[]): boolean {
+  return docsEntries.some((docsEntry) => docsEntry.normalizedUrl === normalizedUrl);
 }
 
 function toCatalogEntry(entry: ParsedMarkdownEntry, id: string, docsPath: string | null): CatalogEntry {
@@ -160,8 +187,12 @@ function extractEnvVars(text: string): string[] {
 }
 
 function extractEndpoint(text: string): string | null {
-  const match = text.match(/https?:\/\/[^\s`,)]+(?:\/(?:mcp|sse|api\/mcp)[^\s`,)]*)?/i);
-  return match ? match[0].replace(/[.;:!?]+$/, "") : null;
+  const matches = text.match(/https?:\/\/[^\s`,)\]]+/gi) ?? [];
+  const endpoint = matches
+    .map(stripUrlPunctuation)
+    .find((url) => looksLikeRemoteEndpoint(url));
+
+  return endpoint ?? null;
 }
 
 function inferTransport(text: string): CatalogEntry["transport"] {
@@ -211,4 +242,30 @@ function inferLicense(text: string): string {
 
 function unique(values: string[]): string[] {
   return Array.from(new Set(values));
+}
+
+function stripUrlPunctuation(url: string): string {
+  return url.replace(/[.;:!?]+$/, "");
+}
+
+function looksLikeRemoteEndpoint(url: string): boolean {
+  try {
+    const parsed = new URL(url);
+    const hostname = parsed.hostname.toLowerCase().replace(/^www\./, "");
+    const pathname = parsed.pathname.toLowerCase().replace(/\/+$/, "");
+
+    return (
+      hostname.startsWith("mcp.") ||
+      hostname.startsWith("sse.") ||
+      pathname === "/mcp" ||
+      pathname.endsWith("/mcp") ||
+      pathname.startsWith("/mcp/") ||
+      pathname === "/sse" ||
+      pathname.endsWith("/sse") ||
+      pathname.startsWith("/sse/") ||
+      pathname.includes("/api/mcp")
+    );
+  } catch {
+    return false;
+  }
 }
