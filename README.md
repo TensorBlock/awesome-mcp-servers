@@ -583,6 +583,7 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [dejuknow/md-redline](https://github.com/dejuknow/md-redline): Inline review comments for markdown specs and design docs. Agents request human review mid-task via MCP and pause until you send feedback. Comments stored as invisible HTML markers in the markdown file itself.
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI): Self-repairing CLI catalog that exposes web, desktop apps, Electron apps, and bridge CLIs as deterministic commands through one MCP server. Declarative YAML adapters with structured error envelopes let agents fix failing adapters and retry. Live catalog size and per-call token budget tracked in the repo's README and `docs/BENCHMARK.md`.
 - [AutomateLab-tech/n8n-mcp](https://github.com/AutomateLab-tech/n8n-mcp): Nine-tool MCP server for n8n: generate workflow JSON from natural language, lint for deprecated node types, missing typeVersion, and broken connections, and debug per-node execution failures. Install: `npx @automatelab/n8n-mcp`.
+
 ## 📁 Filesystems
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
