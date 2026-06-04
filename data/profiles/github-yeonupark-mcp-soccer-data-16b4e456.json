@@ -1,0 +1,24 @@
+{
+  "id": "github-yeonupark-mcp-soccer-data-16b4e456",
+  "name": "yeonupark/mcp-soccer-data",
+  "description": "Delivers real-time football match data through natural language interactions using the SoccerDataAPI.",
+  "category": "Sports",
+  "profileUrl": "https://tensorblock.co/mcp/github-yeonupark-mcp-soccer-data-16b4e456",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yeonupark-mcp-soccer-data-16b4e456)",
+  "links": {
+    "primary": "https://github.com/yeonupark/mcp-soccer-data",
+    "repo": "https://github.com/yeonupark/mcp-soccer-data",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

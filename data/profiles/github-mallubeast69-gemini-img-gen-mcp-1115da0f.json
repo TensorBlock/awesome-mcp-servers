@@ -1,0 +1,24 @@
+{
+  "id": "github-mallubeast69-gemini-img-gen-mcp-1115da0f",
+  "name": "MalluBeast69/gemini-img-gen-MCP",
+  "description": "Generate images using Google's Gemini model via a dedicated MCP server.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-mallubeast69-gemini-img-gen-mcp-1115da0f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mallubeast69-gemini-img-gen-mcp-1115da0f)",
+  "links": {
+    "primary": "https://github.com/MalluBeast69/gemini-img-gen-MCP",
+    "repo": "https://github.com/MalluBeast69/gemini-img-gen-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

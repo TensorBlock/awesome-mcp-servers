@@ -1,0 +1,24 @@
+{
+  "id": "github-shibayu36-mysql-schema-explorer-mcp-da0b0b7e",
+  "name": "shibayu36/mysql-schema-explorer-mcp",
+  "description": "Facilitates efficient access to MySQL database schema information using the Model Context Protocol, ideal for large-scale databases.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-shibayu36-mysql-schema-explorer-mcp-da0b0b7e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shibayu36-mysql-schema-explorer-mcp-da0b0b7e)",
+  "links": {
+    "primary": "https://github.com/shibayu36/mysql-schema-explorer-mcp",
+    "repo": "https://github.com/shibayu36/mysql-schema-explorer-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

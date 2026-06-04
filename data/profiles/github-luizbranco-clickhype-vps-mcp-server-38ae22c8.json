@@ -1,0 +1,24 @@
+{
+  "id": "github-luizbranco-clickhype-vps-mcp-server-38ae22c8",
+  "name": "LuizBranco-ClickHype/VPS-MCP-SERVER",
+  "description": "Automates the setup and management of MCP servers for infrastructure management using natural language commands.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-luizbranco-clickhype-vps-mcp-server-38ae22c8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-luizbranco-clickhype-vps-mcp-server-38ae22c8)",
+  "links": {
+    "primary": "https://github.com/LuizBranco-ClickHype/VPS-MCP-SERVER",
+    "repo": "https://github.com/LuizBranco-ClickHype/VPS-MCP-SERVER",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

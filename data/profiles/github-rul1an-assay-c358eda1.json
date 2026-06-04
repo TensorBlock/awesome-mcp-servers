@@ -1,0 +1,24 @@
+{
+  "id": "github-rul1an-assay-c358eda1",
+  "name": "Rul1an/assay",
+  "description": "The firewall for MCP tool calls. Deterministic policy enforcement proxy with replayable evidence bundles, OWASP MCP Top 10 coverage (7/10), and compliance packs. MIT licensed.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-rul1an-assay-c358eda1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rul1an-assay-c358eda1)",
+  "links": {
+    "primary": "https://github.com/Rul1an/assay",
+    "repo": "https://github.com/Rul1an/assay",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

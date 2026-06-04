@@ -1,0 +1,24 @@
+{
+  "id": "github-mva-mcp-servers-filesystem-871cbd2b",
+  "name": "MVA-MCP-servers/filesystem",
+  "description": "Node.js server for advanced filesystem operations using Model Context Protocol, featuring smart file management and directory navigation.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-mva-mcp-servers-filesystem-871cbd2b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mva-mcp-servers-filesystem-871cbd2b)",
+  "links": {
+    "primary": "https://github.com/MVA-MCP-servers/filesystem",
+    "repo": "https://github.com/MVA-MCP-servers/filesystem",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-brightlin-mcp-server-port-cleaner-60509c3a",
+  "name": "BrightLin/mcp-server-port-cleaner",
+  "description": "Node.js server for resolving port conflicts by terminating processes occupying specified ports, ensuring smooth development workflows.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-brightlin-mcp-server-port-cleaner-60509c3a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-brightlin-mcp-server-port-cleaner-60509c3a)",
+  "links": {
+    "primary": "https://github.com/BrightLin/mcp-server-port-cleaner",
+    "repo": "https://github.com/BrightLin/mcp-server-port-cleaner",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

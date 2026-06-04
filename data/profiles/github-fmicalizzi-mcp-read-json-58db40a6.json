@@ -1,0 +1,24 @@
+{
+  "id": "github-fmicalizzi-mcp-read-json-58db40a6",
+  "name": "fmicalizzi/mcp-read-json",
+  "description": "Facilitates reading and querying JSON-based knowledge bases for seamless integration with LLMs like Claude.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-fmicalizzi-mcp-read-json-58db40a6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fmicalizzi-mcp-read-json-58db40a6)",
+  "links": {
+    "primary": "https://github.com/fmicalizzi/mcp-read-json",
+    "repo": "https://github.com/fmicalizzi/mcp-read-json",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

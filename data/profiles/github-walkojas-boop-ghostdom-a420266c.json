@@ -1,0 +1,24 @@
+{
+  "id": "github-walkojas-boop-ghostdom-a420266c",
+  "name": "walkojas-boop/ghostdom",
+  "description": "Headless-browser-as-JSON for AI agents. POST a URL, get rendered_html + structured_dom + visible_text + title + links + screenshot_url from real Chromium via Cloudflare Browser Rendering. Memorymarket pricing: the first agent to render a URL earns 90% of every cache-hit fee from subsequent agents within a 10-min TTL. Stack: Cloudflare Workers + Durable Objects + KV + x402. Wallet auth minted programmatically. Live at https://ghostdom.jason-12c.workers.dev/.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-walkojas-boop-ghostdom-a420266c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-walkojas-boop-ghostdom-a420266c)",
+  "links": {
+    "primary": "https://github.com/walkojas-boop/ghostdom",
+    "repo": "https://github.com/walkojas-boop/ghostdom",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
