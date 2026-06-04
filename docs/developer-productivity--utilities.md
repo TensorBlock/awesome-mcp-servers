@@ -2,6 +2,7 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [KyaniteLabs/DialectOS](https://github.com/KyaniteLabs/DialectOS): Spanish dialect localization MCP server and CLI — translate and QA across 25 regional variants with register control and structure preservation.
 - [incultnitollc/mcp-probe](https://github.com/incultnitollc/mcp-probe) - CLI health-check for MCP servers. Enumerates tools/resources/prompts, calls them, validates schemas, prints pass/fail scorecard. CI-friendly (exits 0/1).
 - [gyuch-an02/claude-omakase](https://github.com/gyuch-an02/claude-omakase) — MCP server plus bundled Claude skill that recommends and installs Claude Code skills from a federated catalog after explicit user approval.
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI): Self-repairing CLI catalog that exposes web, desktop apps, Electron apps, and bridge CLIs as deterministic commands through one MCP server. Declarative YAML adapters with structured error envelopes let agents fix failing adapters and retry. Live catalog size and per-call token budget tracked in the repo's README and `docs/BENCHMARK.md`.

@@ -2,6 +2,7 @@
 
 Servers integrating with project management and task tracking tools.
 
+- [KyaniteLabs/Epoch](https://github.com/KyaniteLabs/Epoch): Software estimation MCP server — PERT, COCOMO II, Monte Carlo, sprint forecasting, and schedule-risk tools for AI agents.
 - [Claw Task Hub](https://github.com/Catfish-75/claw-task-hub): Local-first, SQLite-backed task hub with MCP-compatible tools for AI agent issue tracking, sessions, claims, comments, and acceptance trails.
 - [MadGapun/PBP](https://github.com/MadGapun/PBP): AI-powered MCP server for job application management in the German-speaking market (DACH). 73 tools, 18 guided workflows, 18 job portal scrapers, React dashboard with 8 tabs, email integration (.msg/.eml), calendar with .ics export, intelligent scoring, and AI coaching. Currently German language only. MIT licensed, runs locally, privacy-first.
 - [Writbase/writbase](https://github.com/Writbase/writbase): MCP-native task management for AI agent fleets with multi-agent permissions, full provenance, inter-agent delegation, and A2A protocol alignment.
