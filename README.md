@@ -715,7 +715,6 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [vatnode/vatnode-mcp](https://github.com/vatnode/vatnode-mcp): Official EU VAT validation via the EU Commission's VIES service plus offline VAT rates and format checks for 45 European countries. Five tools — four work offline without an API key. MIT, signed with npm provenance. Install: `npx -y vatnode-mcp`.
 - [danishashko/fred-economic-mcp](https://github.com/danishashko/fred-economic-mcp): Federal Reserve economic data (FRED): 800,000+ time series including GDP, inflation, unemployment, and interest rates, with transforms and a one-call economic snapshot. 6 tools, free API key, install via `npx fred-economic-mcp`.
 - [danishashko/edgar-mcp](https://github.com/danishashko/edgar-mcp): U.S. SEC EDGAR company filings and XBRL financials: company search, recent filings (10-K/10-Q/8-K), financial facts, and full-text filing search. 6 tools, no API key, install via `npx edgar-mcp`.
-- [danishashko/geocode-mcp](https://github.com/danishashko/geocode-mcp): Geocoding via OpenStreetMap Nominatim: forward and reverse geocoding, place search, and distance between locations. 4 tools, no API key, install via `npx geocode-mcp`.
 
 ## 🧰 Frameworks
 
@@ -995,6 +994,7 @@ Servers using mapping APIs, providing geolocation services, address lookups, or 
 - [hiroaqii/jp-weather-mcp-server](https://github.com/hiroaqii/jp-weather-mcp-server): Provides weather forecasts for Japan using a compatible API.
 - [lincw/cwa-mcp-server](https://github.com/lincw/cwa-mcp-server): Connects Claude Desktop to Taiwan's Central Weather Bureau API for weather data access.
 - [lincw/dwd-mcp-server](https://github.com/lincw/dwd-mcp-server): Connects Claude Desktop to the Deutsche Wetterdienst API for real-time German weather data and warnings.
+- [danishashko/geocode-mcp](https://github.com/danishashko/geocode-mcp): Geocoding via OpenStreetMap Nominatim: forward and reverse geocoding, place search, and distance between locations. 4 tools, no API key, install via `npx geocode-mcp`.
 
 ## 📈 Marketing, Sales & CRM
 
