@@ -1,0 +1,646 @@
+[
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/ai--llm-integration.md",
+    "entryId": "github-madgapun-pbp-e042a37f",
+    "sourcePath": "README.md",
+    "line": 87
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/ai--llm-integration.md",
+    "entryId": "toolrouter-com-340ac431",
+    "sourcePath": "README.md",
+    "line": 88
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/browser-automation--web-scraping.md",
+    "entryId": "github-darko893-mcp-server-64f62812",
+    "sourcePath": "README.md",
+    "line": 172
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/browser-automation--web-scraping.md",
+    "entryId": "github-custodia-admin-pagebolt-mcp-6be62b04",
+    "sourcePath": "README.md",
+    "line": 174
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/browser-automation--web-scraping.md",
+    "entryId": "github-opentabs-dev-opentabs-d1ea5fb3",
+    "sourcePath": "README.md",
+    "line": 177
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/browser-automation--web-scraping.md",
+    "entryId": "github-ai-dashboad-flutter-skill-2f642cd5",
+    "sourcePath": "README.md",
+    "line": 185
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/browser-automation--web-scraping.md",
+    "entryId": "github-kengerlwl-phonemcp-5bd32de0",
+    "sourcePath": "README.md",
+    "line": 198
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/browser-automation--web-scraping.md",
+    "entryId": "github-achiya-automation-safari-mcp-070d6ec3",
+    "sourcePath": "README.md",
+    "line": 212
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/browser-automation--web-scraping.md",
+    "entryId": "github-yifanyifan897645-webcheck-mcp-2327c55a",
+    "sourcePath": "README.md",
+    "line": 213
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/browser-automation--web-scraping.md",
+    "entryId": "github-yifanyifan897645-deadlink-checker-mcp-c7eba0ac",
+    "sourcePath": "README.md",
+    "line": 214
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/code-analysis--quality.md",
+    "entryId": "vulert-com-f9948ad2",
+    "sourcePath": "README.md",
+    "line": 312
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/code-analysis--quality.md",
+    "entryId": "github-autonomous-testing-wopee-mcp-14d2f8f5",
+    "sourcePath": "README.md",
+    "line": 327
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/communication--messaging.md",
+    "entryId": "github-commune-sh-commune-mcp-162bb29c",
+    "sourcePath": "README.md",
+    "line": 402
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/data-analysis--business-intelligence.md",
+    "entryId": "strale-dev-8de17913",
+    "sourcePath": "README.md",
+    "line": 483
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/data-analysis--business-intelligence.md",
+    "entryId": "github-trendsmcp-trends-mcp-94d1f628",
+    "sourcePath": "README.md",
+    "line": 484
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/databases.md",
+    "entryId": "github-stucchi-db-mcp-server-d978f968",
+    "sourcePath": "README.md",
+    "line": 523
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/developer-productivity--utilities.md",
+    "entryId": "github-cafetechne-antigravity-link-extension-599f9f63",
+    "sourcePath": "README.md",
+    "line": 534
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/developer-productivity--utilities.md",
+    "entryId": "github-yoryocoruxo-ai-rendoc-86830535",
+    "sourcePath": "README.md",
+    "line": 535
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/developer-productivity--utilities.md",
+    "entryId": "github-yedanyagamiai-cmd-openclaw-mcp-servers-28b300ac",
+    "sourcePath": "README.md",
+    "line": 542
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/developer-productivity--utilities.md",
+    "entryId": "github-ozorown-frostbyte-mcp-33c766b5",
+    "sourcePath": "README.md",
+    "line": 544
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/developer-productivity--utilities.md",
+    "entryId": "agentnativeregistry-com-741486ea",
+    "sourcePath": "README.md",
+    "line": 578
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/developer-productivity--utilities.md",
+    "entryId": "github-dave-london-pare-9778d412",
+    "sourcePath": "README.md",
+    "line": 579
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/developer-productivity--utilities.md",
+    "entryId": "github-rm-rf-prod-groundtruth-mcp-926f8a6d",
+    "sourcePath": "README.md",
+    "line": 580
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/developer-productivity--utilities.md",
+    "entryId": "github-saurav61091-mcp-openapi-e8352554",
+    "sourcePath": "README.md",
+    "line": 581
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/developer-productivity--utilities.md",
+    "entryId": "github-robert19001-cmyk-mcp-lint-b8967ab1",
+    "sourcePath": "README.md",
+    "line": 583
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/filesystems.md",
+    "entryId": "github-efforthye-fast-filesystem-mcp-e835de03",
+    "sourcePath": "README.md",
+    "line": 595
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-cnghockey-sats4ai-mcp-server-5cdaf233",
+    "sourcePath": "README.md",
+    "line": 640
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-zemloai-ctrl-elecz-api-a9683588",
+    "sourcePath": "README.md",
+    "line": 641
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-atxp-dev-atxp-bba679f7",
+    "sourcePath": "README.md",
+    "line": 645
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "goldrush-dev-docs-goldrush-mcp-server-7e1fac02",
+    "sourcePath": "README.md",
+    "line": 646
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-ozorown-defi-mcp-e5818830",
+    "sourcePath": "README.md",
+    "line": 654
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-decidefyi-decide-8f859ee8",
+    "sourcePath": "README.md",
+    "line": 657
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-fernikolic-clawdentials-f5285191",
+    "sourcePath": "README.md",
+    "line": 660
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-ahmetsbilgin-finbrain-mcp-06f8f502",
+    "sourcePath": "README.md",
+    "line": 661
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-prereason-mcp-db65d77a",
+    "sourcePath": "README.md",
+    "line": 662
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-shieldspprt-solhunt-recovery-a9d60c79",
+    "sourcePath": "README.md",
+    "line": 675
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-thryxagi-obsd-launchpad-c4548dac",
+    "sourcePath": "README.md",
+    "line": 689
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-hive-intel-hive-crypto-mcp-c95cf921",
+    "sourcePath": "README.md",
+    "line": 696
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "pricepertoken-com-mcp-3f8c69cc",
+    "sourcePath": "README.md",
+    "line": 697
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-unixlamadev-spec-aiprox-mcp-3aa8abc2",
+    "sourcePath": "README.md",
+    "line": 698
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-unixlamadev-spec-lightningprox-mcp-035b66dd",
+    "sourcePath": "README.md",
+    "line": 699
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-solanaprox-mcp-server-45652fc8",
+    "sourcePath": "README.md",
+    "line": 700
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-unixlamadev-spec-lpxpoly-mcp-bb693940",
+    "sourcePath": "README.md",
+    "line": 701
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-xpaysh-awesome-x402-78e858cb",
+    "sourcePath": "README.md",
+    "line": 702
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-whitmorelabs-polymarket-mcp-c50c458d",
+    "sourcePath": "README.md",
+    "line": 706
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/finance--crypto.md",
+    "entryId": "github-veroq-api-veroq-mcp-7ed45a8f",
+    "sourcePath": "README.md",
+    "line": 707
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/frameworks.md",
+    "entryId": "github-mervinpraison-praisonai-mcp-6f485a77",
+    "sourcePath": "README.md",
+    "line": 723
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/infrastructure.md",
+    "entryId": "github-agiletec-inc-airis-mcp-gateway-67a976c4",
+    "sourcePath": "README.md",
+    "line": 872
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/infrastructure.md",
+    "entryId": "github-mcpjungle-mcpjungle-fc218a1d",
+    "sourcePath": "README.md",
+    "line": 903
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/infrastructure.md",
+    "entryId": "github-stucchi-mcp-advisor-3c4993e8",
+    "sourcePath": "README.md",
+    "line": 904
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/knowledge-management--memory.md",
+    "entryId": "github-evanyuan-builder-memory-core-6eaa1b85",
+    "sourcePath": "README.md",
+    "line": 919
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/knowledge-management--memory.md",
+    "entryId": "github-guymanndude-mnemo-cortex-bc5cafb8",
+    "sourcePath": "README.md",
+    "line": 920
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/knowledge-management--memory.md",
+    "entryId": "github-bpolat0-atlasmemory-babd6dd4",
+    "sourcePath": "README.md",
+    "line": 921
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/knowledge-management--memory.md",
+    "entryId": "github-leandropg19-cuba-memorys-252cd2b9",
+    "sourcePath": "README.md",
+    "line": 933
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/knowledge-management--memory.md",
+    "entryId": "github-hendryavila-hoofy-e99de56f",
+    "sourcePath": "README.md",
+    "line": 955
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/knowledge-management--memory.md",
+    "entryId": "github-entire-vc-evc-team-relay-mcp-86d934af",
+    "sourcePath": "README.md",
+    "line": 956
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/knowledge-management--memory.md",
+    "entryId": "github-blackpilledsoftware-prog-migas-mcp-cc999957",
+    "sourcePath": "README.md",
+    "line": 959
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/knowledge-management--memory.md",
+    "entryId": "github-superlowburn-agentrank-7df20d3f",
+    "sourcePath": "README.md",
+    "line": 960
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/knowledge-management--memory.md",
+    "entryId": "github-wazionapps-nexo-08bda674",
+    "sourcePath": "README.md",
+    "line": 961
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/marketing-sales--crm.md",
+    "entryId": "github-sharozdawa-ai-visibility-5b4f932c",
+    "sourcePath": "README.md",
+    "line": 1005
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/marketing-sales--crm.md",
+    "entryId": "github-sharozdawa-indexnow-mcp-cafb3b8e",
+    "sourcePath": "README.md",
+    "line": 1006
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/marketing-sales--crm.md",
+    "entryId": "github-sharozdawa-robotstxt-ai-32b46bc8",
+    "sourcePath": "README.md",
+    "line": 1007
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/marketing-sales--crm.md",
+    "entryId": "github-sharozdawa-schema-gen-eae97404",
+    "sourcePath": "README.md",
+    "line": 1008
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/marketing-sales--crm.md",
+    "entryId": "github-brandu-mos-konquest-meta-ads-mcp-37a5412b",
+    "sourcePath": "README.md",
+    "line": 1044
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/marketing-sales--crm.md",
+    "entryId": "github-blockchainhb-launchfastmcp-skills-73b9f4d6",
+    "sourcePath": "README.md",
+    "line": 1045
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/marketing-sales--crm.md",
+    "entryId": "github-teamsincetoday-podcast-commerce-mcp-8074d8ca",
+    "sourcePath": "README.md",
+    "line": 1047
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/marketing-sales--crm.md",
+    "entryId": "github-teamsincetoday-newsletter-commerce-mcp-0f447ae6",
+    "sourcePath": "README.md",
+    "line": 1048
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/marketing-sales--crm.md",
+    "entryId": "github-teamsincetoday-recipe-commerce-mcp-4124d9ba",
+    "sourcePath": "README.md",
+    "line": 1049
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/monitoring--observability.md",
+    "entryId": "github-unitedideas-resolve-mcp-7dcceb54",
+    "sourcePath": "README.md",
+    "line": 1070
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/monitoring--observability.md",
+    "entryId": "github-smigolsmigol-llmkit-4cb5153e",
+    "sourcePath": "README.md",
+    "line": 1093
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/multimedia-processing.md",
+    "entryId": "github-transloadit-node-sdk-536e1c5a",
+    "sourcePath": "README.md",
+    "line": 1134
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/multimedia-processing.md",
+    "entryId": "github-fasuizu-br-speech-ai-examples-432db3f7",
+    "sourcePath": "README.md",
+    "line": 1135
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/multimedia-processing.md",
+    "entryId": "github-ssembleinc-ssemble-mcp-server-adfb25c4",
+    "sourcePath": "README.md",
+    "line": 1136
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/operating-system--command-line.md",
+    "entryId": "github-aybelatchane-mcp-server-terminal-a7c8d5f0",
+    "sourcePath": "README.md",
+    "line": 1146
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/operating-system--command-line.md",
+    "entryId": "github-mnardit-clipboard-mcp-7ee37281",
+    "sourcePath": "README.md",
+    "line": 1147
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/project--task-management.md",
+    "entryId": "github-taskade-mcp-b7f322b1",
+    "sourcePath": "README.md",
+    "line": 1216
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/search.md",
+    "entryId": "github-wd041216-bit-cross-validated-search-e02252e4",
+    "sourcePath": "README.md",
+    "line": 1277
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/search.md",
+    "entryId": "github-supertrained-rhumb-679f5110",
+    "sourcePath": "README.md",
+    "line": 1287
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/search.md",
+    "entryId": "github-uju777-coupang-mcp-47e613fc",
+    "sourcePath": "README.md",
+    "line": 1297
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/search.md",
+    "entryId": "github-uju777-mcp-server-naver-search-64602c02",
+    "sourcePath": "README.md",
+    "line": 1298
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/search.md",
+    "entryId": "github-entire-vc-evc-spark-mcp-be803a47",
+    "sourcePath": "README.md",
+    "line": 1302
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/search.md",
+    "entryId": "github-nadeus-toolradar-mcp-020bb565",
+    "sourcePath": "README.md",
+    "line": 1303
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/security.md",
+    "entryId": "agentlair-dev-f92b1539",
+    "sourcePath": "README.md",
+    "line": 1316
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/security.md",
+    "entryId": "clawsec-cc-3c48b1a4",
+    "sourcePath": "README.md",
+    "line": 1318
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/security.md",
+    "entryId": "github-ark-forge-mcp-eu-ai-act-5773cecc",
+    "sourcePath": "README.md",
+    "line": 1321
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/security.md",
+    "entryId": "governance-taskhawktech-com-cbf7150f",
+    "sourcePath": "README.md",
+    "line": 1324
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/security.md",
+    "entryId": "github-bottobot-defense-mcp-server-8fe4cd53",
+    "sourcePath": "README.md",
+    "line": 1349
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/security.md",
+    "entryId": "github-operantlabs-operant-mcp-ff90d8a4",
+    "sourcePath": "README.md",
+    "line": 1360
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/security.md",
+    "entryId": "github-scopeblind-scopeblind-gateway-7eb21f28",
+    "sourcePath": "README.md",
+    "line": 1361
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/security.md",
+    "entryId": "github-shadoprizm-cyberlens-mcp-server-eb4e55d8",
+    "sourcePath": "README.md",
+    "line": 1363
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/utilities--helpers.md",
+    "entryId": "github-flatfilers-mcp-server-flatfile-605ae932",
+    "sourcePath": "README.md",
+    "line": 1471
+  },
+  {
+    "code": "missing_docs_mirror",
+    "message": "Entry is present in README.md but missing from docs/utilities--helpers.md",
+    "entryId": "api-iteratools-com-a6ad2d28",
+    "sourcePath": "README.md",
+    "line": 1501
+  }
+]
