@@ -163,3 +163,4 @@ Servers providing web search capabilities or interfacing with specialized search
 
 - [pranciskus/newsmcp](https://github.com/pranciskus/newsmcp): Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack): Open-source supply chain for AI agents — search and discover 3,000+ indie creations across 25 categories. 15 MCP tools including find_tools, build_stack, scan_project, compare_tools, and analyze_dependencies. Install via `uvx --from indiestack indiestack-mcp`.
+- [AutomateLab-tech/citation-intelligence](https://github.com/AutomateLab-tech/citation-intelligence): Query which URLs Perplexity, Claude, ChatGPT, Gemini, Bing, and Google AI Overviews cite for any query. Self-hosted, BYO API key. Install: `npx @automatelab/citation-intelligence`.
