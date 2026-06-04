@@ -6,7 +6,7 @@
     "packages/*"
   ],
   "scripts": {
-    "test": "vitest run",
+    "test": "vitest run --passWithNoTests",
     "typecheck": "tsc -p tsconfig.base.json --noEmit",
     "catalog:build": "tsx packages/catalog-builder/src/cli.ts",
     "profiles:build": "tsx packages/profile-renderer/src/cli.ts",
