@@ -47,9 +47,9 @@ export const generateClientConfig = (
 };
 
 const buildServerConfig = (entry: CatalogEntry): ServerConfig => {
-  const commandParts = splitCommand(entry.install.commands[0] ?? "");
+  const commandParts = findLaunchCommand(entry.install.commands);
 
-  if (commandParts.length > 0) {
+  if (commandParts) {
     const [command, ...args] = commandParts;
     const config: ServerConfig = {
       command,
@@ -87,7 +87,50 @@ const buildNotes = (entry: CatalogEntry): string[] => {
     notes.push(`Authentication type: ${entry.auth.type}.`);
   }
 
+  if (entry.install.commands.length > 0 && !findLaunchCommand(entry.install.commands)) {
+    notes.push("Install commands look like setup steps; provide the server launch command before use.");
+  }
+
   return notes;
+};
+
+const findLaunchCommand = (commands: string[]): string[] | null => {
+  for (const command of commands) {
+    const parts = splitCommand(command);
+
+    if (isLaunchCommand(command, parts)) {
+      return parts;
+    }
+  }
+
+  return null;
+};
+
+const isLaunchCommand = (command: string, parts: string[]): boolean => {
+  if (parts.length === 0 || /(?:&&|\|\||[;|<>])/.test(command)) {
+    return false;
+  }
+
+  const [binary, firstArg = ""] = parts;
+  const normalizedBinary = binary.toLowerCase();
+
+  if (normalizedBinary === "npx" || normalizedBinary === "uvx") {
+    return true;
+  }
+
+  if (normalizedBinary === "docker") {
+    return firstArg === "run";
+  }
+
+  if (normalizedBinary === "node" || normalizedBinary === "python" || normalizedBinary === "python3") {
+    return true;
+  }
+
+  if (normalizedBinary === "npm") {
+    return firstArg === "exec" || firstArg === "start";
+  }
+
+  return normalizedBinary.includes("mcp");
 };
 
 const splitCommand = (command: string): string[] => {

@@ -111,4 +111,30 @@ describe("generateClientConfig", () => {
       },
     });
   });
+
+  it("falls back when install commands are setup steps instead of launch commands", () => {
+    const entry = createEntry({
+      install: {
+        commands: [
+          "git clone https://github.com/owner/demo.git && cd demo && npm install && npm run build",
+        ],
+        env: [],
+        confidence: "low",
+      },
+    });
+
+    const config = generateClientConfig(entry, "claude");
+
+    expect(config.config).toEqual({
+      mcpServers: {
+        "github-owner-demo": {
+          command: "<command>",
+          args: ["<args>"],
+        },
+      },
+    });
+    expect(config.notes).toContain(
+      "Install commands look like setup steps; provide the server launch command before use."
+    );
+  });
 });
