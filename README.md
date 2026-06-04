@@ -40,6 +40,12 @@ We welcome submissions! To add your MCP server:
 - Search the list before submitting to avoid duplicates
 - Place entries in the most relevant category
 
+## TensorBlock MCP Index Alpha
+
+We are building a free MCP Index layer on top of this community list. The alpha will generate structured catalog data, install configs, server profiles, and an MCP registry endpoint that agents can search.
+
+If you submit a server, include install command, transport, auth, supported clients, tool count, license, and docs URL when possible. See [MCP Index Metadata Contribution Guide](docs/index-alpha/contribution-guide.md).
+
 ## Server Categories
 
 - 🤖 - [AI & LLM Integration](#-ai--llm-integration)
