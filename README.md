@@ -582,6 +582,7 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [mcp-lint](https://github.com/robert19001-cmyk/mcp-lint): CLI linting tool that validates MCP server tool schemas for cross-client compatibility across Claude, Cursor, Gemini, and VS Code Copilot. Features 13 rules, auto-fix for safe issues, JSON/Markdown output, and support for static files and live MCP servers via stdio/SSE.
 - [dejuknow/md-redline](https://github.com/dejuknow/md-redline): Inline review comments for markdown specs and design docs. Agents request human review mid-task via MCP and pause until you send feedback. Comments stored as invisible HTML markers in the markdown file itself.
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI): Self-repairing CLI catalog that exposes web, desktop apps, Electron apps, and bridge CLIs as deterministic commands through one MCP server. Declarative YAML adapters with structured error envelopes let agents fix failing adapters and retry. Live catalog size and per-call token budget tracked in the repo's README and `docs/BENCHMARK.md`.
+- [AutomateLab-tech/n8n-mcp](https://github.com/AutomateLab-tech/n8n-mcp): Nine-tool MCP server for n8n: generate workflow JSON from natural language, lint for deprecated node types, missing typeVersion, and broken connections, and debug per-node execution failures. Install: `npx @automatelab/n8n-mcp`.
 ## 📁 Filesystems
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
@@ -1045,6 +1046,8 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [teamsincetoday/recipe-commerce-mcp](https://github.com/teamsincetoday/recipe-commerce-mcp): Extracts affiliate-ready product recommendations from recipe content using AI-powered ingredient and kitchen tool analysis. Remote Streamable HTTP endpoint on Cloudflare Workers.
 - [Parsegl/parse-mcp](https://github.com/Parsegl/parse-mcp): Look up how any brand surfaces in ChatGPT and Google AI Overviews. Parse's public AI visibility index, queryable from any MCP-capable client. Search brands, prompts, sources, and niches; fetch brand briefs and prompt details; pull dataset stats. 577,000+ brands. No auth required.
 - [opusforge/gorilla-mcp](https://github.com/opusforge/gorilla-mcp): Lead discovery for solo SaaS founders. One run searches Reddit, X, YouTube, and TikTok in parallel and ranks each post by buying intent. Tools for end-to-end acquisition: `leads.find`, `idea.refine`, `outreach.draft`, and `outreach.plan` (Week-1 cadence).
+- [AutomateLab-tech/ai-seo-mcp](https://github.com/AutomateLab-tech/ai-seo-mcp): AI-SEO / AEO / GEO audit MCP for any public URL. Scores schema.org coverage, robots.txt and llms.txt health, canonical and OpenGraph setup, and AI-citation likelihood; suggests rewrites tuned for Answer Engine and Generative Engine surfaces. No vendor keys. Install: `npx -y @automatelab/ai-seo-mcp`.
+- [AutomateLab-tech/seo-performance-mcp](https://github.com/AutomateLab-tech/seo-performance-mcp): Post-publish SEO performance MCP that unifies Google Search Console, Matomo, GA4, Clarity, and AI-citation signals per URL and emits a verdict (refresh / expand / merge / kill / double_down / hold) per post with reason codes.
 
 ## 📡 Monitoring & Observability
 
@@ -1298,6 +1301,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [workopia/workopia-mcp](https://github.com/workopia/workopia-mcp): Hosted MCP server for job search (direct from employer career pages), PDF resume generation with 50+ templates and career advice. Free, no auth required. Endpoint: https://workopia.io/api/mcp-gpt 
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/mcp): Remote MCP server for searching live agentic AI engineering jobs by framework (LangChain, LlamaIndex, CrewAI, etc.), seniority, location, and remote status. Query aggregate salary benchmarks. Zero-auth streamable HTTP endpoint.
 - [Archivarix-com/tube-search-mcp](https://github.com/Archivarix-com/tube-search-mcp): Search archived YouTube videos including deleted content via the Wayback Machine. 9 tools for channel discovery, full-text search, video metadata, transcripts, and AI-generated summaries. Install via `npx tube-search-mcp`. Free tier with API key.
+- [AutomateLab-tech/citation-intelligence](https://github.com/AutomateLab-tech/citation-intelligence): Query which URLs Perplexity, Claude, ChatGPT, Gemini, Bing, and Google AI Overviews cite for any query. Self-hosted, BYO API key. Install: `npx @automatelab/citation-intelligence`.
 
 ## 🔒 Security
 
