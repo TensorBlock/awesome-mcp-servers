@@ -1,6 +1,7 @@
+import { existsSync } from "node:fs";
 import { describe, expect, it } from "vitest";
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
-import { getServerProfile, searchServers } from "../src/server.js";
+import { catalogPath, getServerProfile, searchServers } from "../src/server.js";
 
 const createEntry = (overrides: Partial<CatalogEntry> = {}): CatalogEntry => ({
   id: "shopify-analytics",
@@ -73,9 +74,35 @@ describe("registry MCP server helpers", () => {
     );
   });
 
+  it("prioritizes entries matching all query terms", () => {
+    const results = searchServers(
+      [
+        createEntry({
+          id: "shopify-only",
+          name: "Shopify Storefront",
+          description: "Shopify storefront operations.",
+        }),
+        createEntry({
+          id: "stripe-only",
+          name: "Stripe Billing",
+          description: "Stripe billing operations.",
+        }),
+        createEntry(),
+      ],
+      "shopify stripe"
+    );
+
+    expect(results[0]?.id).toBe("shopify-analytics");
+  });
+
   it("returns a server profile by id", () => {
     expect(getServerProfile(catalog, "shopify-analytics")?.name).toBe(
       "Shopify Analytics"
     );
+  });
+
+  it("resolves the catalog path independent of process cwd", () => {
+    expect(catalogPath()).toMatch(/data\/catalog\.json$/);
+    expect(existsSync(catalogPath())).toBe(true);
   });
 });

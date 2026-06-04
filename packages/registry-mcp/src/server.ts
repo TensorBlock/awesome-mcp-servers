@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs";
-import { resolve } from "node:path";
+import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
@@ -41,9 +41,12 @@ export const getServerProfile = (
   serverId: string
 ): CatalogEntry | undefined => catalog.find((entry) => entry.id === serverId);
 
+export const catalogPath = (): string =>
+  resolve(dirname(fileURLToPath(import.meta.url)), "../../../data/catalog.json");
+
 export const main = async (): Promise<void> => {
   const catalog = JSON.parse(
-    readFileSync("data/catalog.json", "utf8")
+    readFileSync(catalogPath(), "utf8")
   ) as CatalogEntry[];
   const server = new McpServer({
     name: "tensorblock-mcp-registry",
@@ -111,24 +114,35 @@ const scoreEntry = (entry: CatalogEntry, terms: string[]): number => {
   const name = entry.name.toLowerCase();
   const description = entry.description.toLowerCase();
   const category = entry.category.toLowerCase();
+  let matchedTerms = 0;
 
-  return terms.reduce((score, term) => {
-    let nextScore = score;
+  const score = terms.reduce((currentScore, term) => {
+    let nextScore = currentScore;
+    let termMatched = false;
 
     if (name.includes(term)) {
       nextScore += 3;
+      termMatched = true;
     }
 
     if (description.includes(term)) {
       nextScore += 2;
+      termMatched = true;
     }
 
     if (category.includes(term)) {
       nextScore += 1;
+      termMatched = true;
+    }
+
+    if (termMatched) {
+      matchedTerms += 1;
     }
 
     return nextScore;
   }, 0);
+
+  return score + matchedTerms * 10 + (matchedTerms === terms.length ? 100 : 0);
 };
 
 const jsonResult = (value: unknown) => ({
