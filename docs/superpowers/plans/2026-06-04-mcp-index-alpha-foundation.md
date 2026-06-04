@@ -39,7 +39,6 @@ Create:
 - `packages/registry-mcp/src/server.ts` - MCP registry server.
 - `packages/registry-mcp/test/server.test.ts` - registry tool tests.
 - `docs/index-alpha/contribution-guide.md` - contributor-facing metadata guidance.
-- `docs/index-alpha/launch-plan.md` - alpha launch and engagement plan.
 
 Generated during implementation:
 
@@ -1600,7 +1599,6 @@ git commit -m "feat: add TensorBlock MCP registry alpha"
 
 **Files:**
 - Create: `docs/index-alpha/contribution-guide.md`
-- Create: `docs/index-alpha/launch-plan.md`
 - Modify: `README.md`
 
 - [ ] **Step 1: Create contribution guide**
@@ -1610,7 +1608,14 @@ Create `docs/index-alpha/contribution-guide.md`:
 ```md
 # MCP Index Metadata Contribution Guide
 
-TensorBlock MCP Index turns this awesome list into structured data that agents and users can search.
+TensorBlock MCP Index turns this awesome list into structured data that agents and users can search, compare, and install from.
+
+The indexer reads the markdown catalog and generates:
+
+- structured catalog entries,
+- server profile JSON,
+- install config previews,
+- and a local MCP registry that agents can query directly.
 
 When adding a server, include as much of this metadata as possible in the PR body or entry description:
 
@@ -1630,53 +1635,23 @@ Complete metadata helps TensorBlock generate:
 - registry entries,
 - install confidence notes,
 - and future verification reports.
+
+This makes each listed server more useful than a directory link: agents can discover it by intent, inspect profile metadata, and draft a client config without manually reading every README.
 ```
 
-- [ ] **Step 2: Create launch plan**
+- [ ] **Step 2: Add README index section**
 
-Create `docs/index-alpha/launch-plan.md`:
+Add this section after `Coverage` and before the `Contributing` guidelines in `README.md`:
 
 ```md
-# MCP Index Alpha Launch Plan
+## TensorBlock MCP Index
 
-## Message
+This list is becoming an agent-ready MCP Index: a structured catalog that agents can search, compare, and use to generate install configs.
 
-TensorBlock MCP Index Alpha makes listed MCP servers searchable, install-ready, and discoverable by agents.
-
-## Launch Checklist
-
-- Build `data/catalog.json`.
-- Build `data/profiles/*.json`.
-- Confirm Claude, Cursor, Codex, and VS Code config generation works for at least five entries.
-- Start registry MCP locally and test `search_servers`, `get_server_profile`, and `get_install_config`.
-- Prepare merge comment template with profile URL, badge, and registry ID.
-
-## Outreach
-
-- Invite authors from the last 50 merged PRs to improve metadata.
-- Post in TensorBlock Discord.
-- Share examples from Finance & Crypto, Search, AI & LLM Integration, and Developer Productivity.
-
-## Cadence
-
-- Weekly catalog refresh.
-- Biweekly public changelog.
-- Monthly MCP Index report.
+The alpha indexer now produces structured catalog data, server profiles, client install configs, and a local MCP registry endpoint that agents can search.
 ```
 
-- [ ] **Step 3: Add README alpha section**
-
-Add this section after the `Contributing` guidelines in `README.md`:
-
-```md
-## TensorBlock MCP Index Alpha
-
-We are building a free MCP Index layer on top of this community list. The alpha will generate structured catalog data, install configs, server profiles, and an MCP registry endpoint that agents can search.
-
-If you submit a server, include install command, transport, auth, supported clients, tool count, license, and docs URL when possible. See [MCP Index Metadata Contribution Guide](docs/index-alpha/contribution-guide.md).
-```
-
-- [ ] **Step 4: Run markdown smoke checks**
+- [ ] **Step 3: Run markdown smoke checks**
 
 Run:
 
@@ -1687,10 +1662,10 @@ git diff --check
 
 Expected: catalog still builds and diff has no whitespace errors.
 
-- [ ] **Step 5: Commit docs**
+- [ ] **Step 4: Commit docs**
 
 ```bash
-git add README.md docs/index-alpha/contribution-guide.md docs/index-alpha/launch-plan.md
+git add README.md docs/index-alpha/contribution-guide.md
 git commit -m "docs: add MCP Index alpha contribution guidance"
 ```
 

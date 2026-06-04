@@ -1,6 +1,13 @@
 # MCP Index Metadata Contribution Guide
 
-TensorBlock MCP Index turns this awesome list into structured data that agents and users can search.
+TensorBlock MCP Index turns this awesome list into structured data that agents and users can search, compare, and install from.
+
+The indexer reads the markdown catalog and generates:
+
+- structured catalog entries,
+- server profile JSON,
+- install config previews,
+- and a local MCP registry that agents can query directly.
 
 When adding a server, include as much of this metadata as possible in the PR body or entry description:
 
@@ -20,3 +27,5 @@ Complete metadata helps TensorBlock generate:
 - registry entries,
 - install confidence notes,
 - and future verification reports.
+
+This makes each listed server more useful than a directory link: agents can discover it by intent, inspect profile metadata, and draft a client config without manually reading every README.

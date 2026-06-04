@@ -22,7 +22,20 @@ A comprehensive, community-curated collection of [Model Context Protocol (MCP)](
 
 ## Coverage
 
-This repo currently includes coverage for **7260 MCP servers as of May 30, 2025**. Due to the limited space, we only show the most recent 30 servers in each category.
+This repo currently tracks **7,490 unique MCP server links** across the README and category docs. Due to limited space, the README highlights the most recent servers in each category while the category docs keep the broader archive.
+
+## TensorBlock MCP Index
+
+This list is becoming an agent-ready MCP Index: a structured catalog that agents can search, compare, and use to generate install configs.
+
+The alpha indexer now produces:
+
+- `data/catalog.json` - normalized MCP server metadata from the markdown list.
+- `data/profiles/*.json` - stable server profile artifacts with badge links.
+- Client install configs for Claude Desktop, Cursor, Codex, and VS Code.
+- A local MCP registry server with `search_servers`, `get_server_profile`, and `get_install_config` tools.
+
+If you submit a server, include install command, transport, auth, supported clients, tool count, license, docs URL, and remote MCP endpoint when possible. Better metadata makes your server easier for agents and users to discover. See [MCP Index Metadata Contribution Guide](docs/index-alpha/contribution-guide.md).
 
 ## Contributing
 
@@ -39,12 +52,6 @@ We welcome submissions! To add your MCP server:
 - Server must be publicly accessible (open source or a hosted service with a public endpoint)
 - Search the list before submitting to avoid duplicates
 - Place entries in the most relevant category
-
-## TensorBlock MCP Index Alpha
-
-We are building a free MCP Index layer on top of this community list. The alpha will generate structured catalog data, install configs, server profiles, and an MCP registry endpoint that agents can search.
-
-If you submit a server, include install command, transport, auth, supported clients, tool count, license, and docs URL when possible. See [MCP Index Metadata Contribution Guide](docs/index-alpha/contribution-guide.md).
 
 ## Server Categories
 
