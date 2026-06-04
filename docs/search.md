@@ -2,6 +2,7 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [bryanmichael-hue/yearbook-mcp-public](https://github.com/bryanmichael-hue/yearbook-mcp-public): e-yearbook.com archive search — over 300K U.S. yearbooks and over 100M person mentions (high school, college, military). Free preview returns coarsened state + decade; subscription unlocks school name, exact year, page numbers, and scan images. Streamable HTTP at `mcp.digitaldataonline.com/mcp`, bearer auth, paste-and-go token at /for-ai-agents/. Registry: `com.digitaldataonline.mcp/e-yearbook`.
 - [Archivarix-com/tube-search-mcp](https://github.com/Archivarix-com/tube-search-mcp): Search archived YouTube videos including deleted content via the Wayback Machine. 9 tools for channel discovery, full-text search, video metadata, transcripts, and AI-generated summaries. Install via `npx tube-search-mcp`. Free tier with API key.
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/mcp): Remote MCP server for searching live agentic AI engineering jobs by framework (LangChain, LlamaIndex, CrewAI, etc.), seniority, location, and remote status. Query aggregate salary benchmarks. Zero-auth streamable HTTP endpoint.
 - [AgentGrade](https://agentgrade.com): Scan any website for AI agent readiness — scores 80+ checks across payments, MCP, OpenAPI, and discovery. Remote MCP server at agentgrade.com/mcp.
