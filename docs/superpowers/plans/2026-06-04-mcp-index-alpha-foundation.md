@@ -19,6 +19,7 @@ This plan implements the first alpha foundation only. It does not build a hosted
 Create:
 
 - `package.json` - workspace scripts and dev dependencies.
+- `.gitignore` - Node/generated artifact ignores.
 - `tsconfig.base.json` - shared TypeScript compiler options.
 - `vitest.config.ts` - test runner configuration.
 - `schemas/server.schema.json` - JSON Schema for catalog entries.
@@ -60,6 +61,7 @@ Do not modify:
 
 **Files:**
 - Create: `package.json`
+- Create: `.gitignore`
 - Create: `tsconfig.base.json`
 - Create: `vitest.config.ts`
 
@@ -76,7 +78,7 @@ Create `package.json`:
     "packages/*"
   ],
   "scripts": {
-    "test": "vitest run",
+    "test": "vitest run --passWithNoTests",
     "typecheck": "tsc -p tsconfig.base.json --noEmit",
     "catalog:build": "tsx packages/catalog-builder/src/cli.ts",
     "profiles:build": "tsx packages/profile-renderer/src/cli.ts",
@@ -98,6 +100,16 @@ Create `package.json`:
 ```
 
 - [ ] **Step 2: Create TypeScript config**
+
+Create `.gitignore`:
+
+```gitignore
+node_modules/
+dist-ts/
+coverage/
+```
+
+- [ ] **Step 3: Create TypeScript config**
 
 Create `tsconfig.base.json`:
 
@@ -121,7 +133,7 @@ Create `tsconfig.base.json`:
 }
 ```
 
-- [ ] **Step 3: Create Vitest config**
+- [ ] **Step 4: Create Vitest config**
 
 Create `vitest.config.ts`:
 
@@ -136,7 +148,7 @@ export default defineConfig({
 });
 ```
 
-- [ ] **Step 4: Install dependencies**
+- [ ] **Step 5: Install dependencies**
 
 Run:
 
@@ -146,21 +158,21 @@ npm install
 
 Expected: `package-lock.json` is created and dependencies install without errors.
 
-- [ ] **Step 5: Verify empty test suite**
+- [ ] **Step 6: Verify empty test suite**
 
 Run:
 
 ```bash
-npm test -- --passWithNoTests
+npm test
 npm run typecheck
 ```
 
 Expected: typecheck passes; tests pass with no matching test files or no failures.
 
-- [ ] **Step 6: Commit toolchain**
+- [ ] **Step 7: Commit toolchain**
 
 ```bash
-git add package.json package-lock.json tsconfig.base.json vitest.config.ts
+git add .gitignore package.json package-lock.json tsconfig.base.json vitest.config.ts
 git commit -m "chore: add MCP Index TypeScript toolchain"
 ```
 
