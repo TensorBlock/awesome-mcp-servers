@@ -1,3 +1,5 @@
+import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs";
+import { join } from "node:path";
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
 
 export interface ServerProfile {
@@ -37,4 +39,28 @@ export const renderProfile = (entry: CatalogEntry, baseUrl: string): ServerProfi
       toolCount: entry.tools.count,
     },
   };
+};
+
+export const writeProfiles = (
+  catalog: CatalogEntry[],
+  baseUrl: string,
+  outputDir: string
+): number => {
+  mkdirSync(outputDir, { recursive: true });
+  removeStaleProfiles(outputDir);
+
+  for (const entry of catalog) {
+    const profile = renderProfile(entry, baseUrl);
+    writeFileSync(join(outputDir, `${entry.id}.json`), `${JSON.stringify(profile, null, 2)}\n`);
+  }
+
+  return catalog.length;
+};
+
+const removeStaleProfiles = (outputDir: string): void => {
+  for (const fileName of readdirSync(outputDir)) {
+    if (fileName.endsWith(".json")) {
+      rmSync(join(outputDir, fileName));
+    }
+  }
 };

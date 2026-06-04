@@ -1,5 +1,8 @@
+import { mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs";
+import { tmpdir } from "node:os";
+import { join } from "node:path";
 import { describe, expect, it } from "vitest";
-import { renderProfile } from "../src/renderProfiles.js";
+import { renderProfile, writeProfiles } from "../src/renderProfiles.js";
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
 
 const createEntry = (overrides: Partial<CatalogEntry> = {}): CatalogEntry => ({
@@ -61,5 +64,22 @@ describe("renderProfile", () => {
     expect(profile.profileUrl).toBe("https://tensorblock.co/mcp/github-owner-demo");
     expect(profile.badgeMarkdown).toContain("Listed on TensorBlock MCP Index");
     expect(profile.summary.installConfidence).toBe("medium");
+  });
+
+  it("removes stale profile JSON files before writing current profiles", () => {
+    const outputDir = mkdtempSync(join(tmpdir(), "mcp-profiles-"));
+
+    try {
+      writeFileSync(join(outputDir, "stale-profile.json"), "{}\n");
+
+      const written = writeProfiles([createEntry()], "https://tensorblock.co/mcp/", outputDir);
+      const files = readdirSync(outputDir);
+
+      expect(written).toBe(1);
+      expect(files).toEqual(["github-owner-demo.json"]);
+      expect(readFileSync(join(outputDir, "github-owner-demo.json"), "utf8")).toMatch(/\n$/);
+    } finally {
+      rmSync(outputDir, { recursive: true, force: true });
+    }
   });
 });
