@@ -9,8 +9,9 @@ export interface CatalogEntry {
   description: string;
   category: string;
   source: {
-    readmePath: string;
+    readmePath: string | null;
     docsPath: string | null;
+    featuredInReadme: boolean;
     pullRequest?: number | null;
   };
   links: {

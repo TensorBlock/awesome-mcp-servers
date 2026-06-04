@@ -1,7 +1,7 @@
 {
   "id": "github-izzzzzi-codewiki-mcp-f4370cb1",
   "name": "izzzzzi/codewiki-mcp",
-  "description": "MCP server for codewiki.google — search repos, fetch AI-generated wiki docs, and ask questions about any open-source repository.",
+  "description": "MCP server for codewiki.google — AI-powered wiki documentation for open-source repositories. Search repos, fetch wiki content, and ask questions about any repo.",
   "category": "Developer Productivity & Utilities",
   "profileUrl": "https://tensorblock.co/mcp/github-izzzzzi-codewiki-mcp-f4370cb1",
   "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-izzzzzi-codewiki-mcp-f4370cb1)",

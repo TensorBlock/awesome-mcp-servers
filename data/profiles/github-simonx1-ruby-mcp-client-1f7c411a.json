@@ -1,0 +1,24 @@
+{
+  "id": "github-simonx1-ruby-mcp-client-1f7c411a",
+  "name": "simonx1/ruby-mcp-client",
+  "description": "A Ruby client for the Model Context Protocol (MCP) enabling integration with external tools and services via a standardized protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-simonx1-ruby-mcp-client-1f7c411a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-simonx1-ruby-mcp-client-1f7c411a)",
+  "links": {
+    "primary": "https://github.com/simonx1/ruby-mcp-client",
+    "repo": "https://github.com/simonx1/ruby-mcp-client",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

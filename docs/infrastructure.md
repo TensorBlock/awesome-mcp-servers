@@ -156,3 +156,7 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [netcaster1/e2b-mcp](https://github.com/netcaster1/e2b-mcp): A secure sandbox environment for executing code using the Model Context Protocol, tailored for integration with Claude Desktop.
 - [kswap/consul-mcp](https://github.com/kswap/consul-mcp): Facilitates Consul service discovery and mesh integration through an MCP server interface.
 
+
+- [agiletec-inc/airis-mcp-gateway](https://github.com/agiletec-inc/airis-mcp-gateway): Docker-based MCP multiplexer that aggregates 60+ tools behind 7 meta-tools for 97% token reduction, with lazy server loading, idle-kill, circuit breaker, and API key auth.
+- [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle): Self-hosted MCP Registry and Gateway for AI Agents
+- [stucchi/mcp-advisor](https://github.com/stucchi/mcp-advisor): Browse, search, and discover 7,000+ MCP servers from the official registry. Search by name, tag, or transport, get install instructions for any client, and view trending servers.

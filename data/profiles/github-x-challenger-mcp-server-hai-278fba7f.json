@@ -1,0 +1,24 @@
+{
+  "id": "github-x-challenger-mcp-server-hai-278fba7f",
+  "name": "x-challenger/mcp-server-hai",
+  "description": "Facilitates the management of Tencent HAI services through an MCP server, enabling instance creation, status querying, and network management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-x-challenger-mcp-server-hai-278fba7f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-x-challenger-mcp-server-hai-278fba7f)",
+  "links": {
+    "primary": "https://github.com/x-challenger/mcp-server-hai",
+    "repo": "https://github.com/x-challenger/mcp-server-hai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

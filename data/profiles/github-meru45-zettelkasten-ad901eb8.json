@@ -1,0 +1,24 @@
+{
+  "id": "github-meru45-zettelkasten-ad901eb8",
+  "name": "Meru45/Zettelkasten",
+  "description": "Zettelkasten is an MCP server tailored for chatbot applications, utilizing hybrid data storage with Pinecone and Neo4j for efficient cross-session chat context retrieval.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-meru45-zettelkasten-ad901eb8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-meru45-zettelkasten-ad901eb8)",
+  "links": {
+    "primary": "https://github.com/Meru45/Zettelkasten",
+    "repo": "https://github.com/Meru45/Zettelkasten",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

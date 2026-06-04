@@ -22,7 +22,8 @@ const createValidEntry = (): CatalogEntry => ({
   category: "Search",
   source: {
     readmePath: "README.md",
-    docsPath: "docs/search.md"
+    docsPath: "docs/search.md",
+    featuredInReadme: true
   },
   links: {
     primary: "https://github.com/owner/repo",

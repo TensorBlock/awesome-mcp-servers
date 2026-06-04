@@ -29,15 +29,21 @@
     "category": { "type": "string", "minLength": 1 },
     "source": {
       "type": "object",
-      "required": ["readmePath", "docsPath"],
+      "required": ["readmePath", "docsPath", "featuredInReadme"],
       "properties": {
-        "readmePath": { "type": "string", "minLength": 1 },
+        "readmePath": {
+          "anyOf": [
+            { "type": "string", "minLength": 1 },
+            { "type": "null" }
+          ]
+        },
         "docsPath": {
           "anyOf": [
             { "type": "string", "minLength": 1 },
             { "type": "null" }
           ]
         },
+        "featuredInReadme": { "type": "boolean" },
         "pullRequest": { "type": ["integer", "null"], "minimum": 1 }
       },
       "additionalProperties": false

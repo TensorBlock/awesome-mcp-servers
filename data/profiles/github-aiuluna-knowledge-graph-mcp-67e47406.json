@@ -1,0 +1,24 @@
+{
+  "id": "github-aiuluna-knowledge-graph-mcp-67e47406",
+  "name": "aiuluna/knowledge-graph-mcp",
+  "description": "Facilitates the creation, management, and visualization of knowledge graphs with seamless integration into MCP-compatible AI assistants.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-aiuluna-knowledge-graph-mcp-67e47406",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aiuluna-knowledge-graph-mcp-67e47406)",
+  "links": {
+    "primary": "https://github.com/aiuluna/knowledge-graph-mcp",
+    "repo": "https://github.com/aiuluna/knowledge-graph-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

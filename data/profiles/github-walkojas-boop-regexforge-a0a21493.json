@@ -1,7 +1,7 @@
 {
   "id": "github-walkojas-boop-regexforge-a0a21493",
   "name": "walkojas-boop/regexforge",
-  "description": "Deterministic regex synthesis for AI agents. Send 2-100 labeled examples + optional NL description; get back a battle-tested regex + test-matrix proof + static backtracking-risk analysis. Zero LLM at serve time - ~65-template bank with character-class inference fallback. $0.002/call. Live at https://regexforge.jason-12c.workers.dev/.",
+  "description": "Deterministic regex synthesis. Send labeled examples, get a battle-tested regex + test matrix + backtracking-risk analysis. Zero LLM at serve time. $0.002/call. Live at https://regexforge.jason-12c.workers.dev/.",
   "category": "Developer Productivity & Utilities",
   "profileUrl": "https://tensorblock.co/mcp/github-walkojas-boop-regexforge-a0a21493",
   "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-walkojas-boop-regexforge-a0a21493)",

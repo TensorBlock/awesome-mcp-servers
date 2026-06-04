@@ -1,0 +1,24 @@
+{
+  "id": "github-wescleytorres-mcp-postgres-ebf0fb77",
+  "name": "wescleytorres/mcp-postgres",
+  "description": "Facilitates read-only access to PostgreSQL databases, enabling LLMs to inspect schemas and execute queries.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-wescleytorres-mcp-postgres-ebf0fb77",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wescleytorres-mcp-postgres-ebf0fb77)",
+  "links": {
+    "primary": "https://github.com/wescleytorres/mcp-postgres",
+    "repo": "https://github.com/wescleytorres/mcp-postgres",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

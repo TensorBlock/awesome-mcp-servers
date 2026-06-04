@@ -1,0 +1,25 @@
+{
+  "id": "github-lecepin-gen-mcp-e0ec88ea",
+  "name": "lecepin/gen-mcp",
+  "description": "A CLI tool that generates MCP server scaffolding with TypeScript support, offering templates for Stdio and SSE transport methods.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-lecepin-gen-mcp-e0ec88ea",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lecepin-gen-mcp-e0ec88ea)",
+  "links": {
+    "primary": "https://github.com/lecepin/gen-mcp",
+    "repo": "https://github.com/lecepin/gen-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

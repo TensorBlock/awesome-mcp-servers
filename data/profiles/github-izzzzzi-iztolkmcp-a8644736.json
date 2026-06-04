@@ -1,7 +1,7 @@
 {
   "id": "github-izzzzzi-iztolkmcp-a8644736",
   "name": "izzzzzi/izTolkMcp",
-  "description": "MCP server for the Tolk smart contract compiler on TON blockchain. Compile, syntax-check, and generate deployment links for TON smart contracts from any AI assistant. 4 tools, 3 resources, 33 tests.",
+  "description": "MCP server for the Tolk smart contract compiler on the TON blockchain. Compile, syntax check, deploy link generation, language docs, stdlib, and contract prompts.",
   "category": "Finance & Crypto",
   "profileUrl": "https://tensorblock.co/mcp/github-izzzzzi-iztolkmcp-a8644736",
   "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-izzzzzi-iztolkmcp-a8644736)",
@@ -19,6 +19,6 @@
     "auth": "unknown",
     "installConfidence": "low",
     "verification": "unknown",
-    "toolCount": 4
+    "toolCount": null
   }
 }

@@ -1,0 +1,24 @@
+{
+  "id": "github-f440-docbase-mcp-server-48ae8b0a",
+  "name": "f440/docbase-mcp-server",
+  "description": "Facilitates seamless interaction with the DocBase API to retrieve and manage posts.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-f440-docbase-mcp-server-48ae8b0a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-f440-docbase-mcp-server-48ae8b0a)",
+  "links": {
+    "primary": "https://github.com/f440/docbase-mcp-server",
+    "repo": "https://github.com/f440/docbase-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-aimozar-my-mcp-server-0545954e",
+  "name": "Aimozar/my_mcp_server",
+  "description": "A Python-based MCP server for web search, utilizing FastMCP to provide seamless internet content retrieval.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-aimozar-my-mcp-server-0545954e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aimozar-my-mcp-server-0545954e)",
+  "links": {
+    "primary": "https://github.com/Aimozar/my_mcp_server",
+    "repo": "https://github.com/Aimozar/my_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

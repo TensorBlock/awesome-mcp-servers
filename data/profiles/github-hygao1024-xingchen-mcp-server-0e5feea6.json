@@ -1,0 +1,24 @@
+{
+  "id": "github-hygao1024-xingchen-mcp-server-0e5feea6",
+  "name": "hygao1024/xingchen-mcp-server",
+  "description": "Facilitates intelligent workflow scheduling with iFlytek integration, supporting diverse business scenarios through robust node support and advanced orchestration modes.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-hygao1024-xingchen-mcp-server-0e5feea6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hygao1024-xingchen-mcp-server-0e5feea6)",
+  "links": {
+    "primary": "https://github.com/hygao1024/xingchen-mcp-server",
+    "repo": "https://github.com/hygao1024/xingchen-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -11,6 +11,7 @@ const createEntry = (overrides: Partial<CatalogEntry> = {}): CatalogEntry => ({
   source: {
     readmePath: "README.md",
     docsPath: "docs/shopify-analytics.md",
+    featuredInReadme: true,
   },
   links: {
     primary: "https://example.com/shopify-analytics",

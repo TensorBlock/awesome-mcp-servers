@@ -1,0 +1,24 @@
+{
+  "id": "github-korwabs-playwright-record-mcp-4e716d76",
+  "name": "korwabs/playwright-record-mcp",
+  "description": "Enables LLMs to automate browser interactions with video recording using Playwright.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-korwabs-playwright-record-mcp-4e716d76",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-korwabs-playwright-record-mcp-4e716d76)",
+  "links": {
+    "primary": "https://github.com/korwabs/playwright-record-mcp",
+    "repo": "https://github.com/korwabs/playwright-record-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

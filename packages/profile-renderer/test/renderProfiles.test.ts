@@ -13,6 +13,7 @@ const createEntry = (overrides: Partial<CatalogEntry> = {}): CatalogEntry => ({
   source: {
     readmePath: "README.md",
     docsPath: null,
+    featuredInReadme: true,
   },
   links: {
     primary: "https://github.com/owner/demo",

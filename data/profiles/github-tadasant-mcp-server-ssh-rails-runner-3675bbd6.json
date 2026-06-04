@@ -1,0 +1,24 @@
+{
+  "id": "github-tadasant-mcp-server-ssh-rails-runner-3675bbd6",
+  "name": "tadasant/mcp-server-ssh-rails-runner",
+  "description": "Facilitates secure remote execution of Rails console commands via SSH, enabling both read-only and managed mutation operations in a deployed Rails environment.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-tadasant-mcp-server-ssh-rails-runner-3675bbd6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tadasant-mcp-server-ssh-rails-runner-3675bbd6)",
+  "links": {
+    "primary": "https://github.com/tadasant/mcp-server-ssh-rails-runner",
+    "repo": "https://github.com/tadasant/mcp-server-ssh-rails-runner",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

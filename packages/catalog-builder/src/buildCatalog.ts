@@ -8,11 +8,13 @@ export interface CatalogBuildResult {
 }
 
 interface NormalizedParsedEntry {
+  entry: ParsedMarkdownEntry;
   normalizedUrl: string;
 }
 
 interface ParsedDocsEntries {
   entriesByPath: Map<string, NormalizedParsedEntry[]>;
+  entries: NormalizedParsedEntry[];
   errors: CatalogBuildError[];
 }
 
@@ -23,38 +25,39 @@ export function buildCatalogFromMarkdown(
   const readmeEntries = parseMarkdownEntries(readmeMarkdown, "README.md");
   const docsEntries = parseDocsEntries(docsByPath);
   const errors: CatalogBuildError[] = [...docsEntries.errors];
-  const seenUrls = new Map<string, ParsedMarkdownEntry>();
+  const readmeEntriesByUrl = normalizeReadmeEntries(readmeEntries, errors);
+  const seenUrls = new Map<string, NormalizedParsedEntry>();
   const entries: CatalogEntry[] = [];
 
-  for (const entry of readmeEntries) {
-    let id: string;
-    let normalizedUrl: string;
-
-    try {
-      id = slugFromUrl(entry.url);
-      normalizedUrl = normalizeUrl(entry.url);
-    } catch (error) {
+  for (const docsEntry of docsEntries.entries) {
+    const id = slugFromUrl(docsEntry.entry.url);
+    const previous = seenUrls.get(docsEntry.normalizedUrl);
+    if (previous) {
       errors.push({
-        code: "parse_error",
-        message: error instanceof Error ? error.message : "Unable to parse entry URL",
-        sourcePath: entry.sourcePath,
-        line: entry.line,
+        code: "duplicate_url",
+        message: `Duplicate URL also appears at ${previous.entry.sourcePath}:${previous.entry.line}`,
+        entryId: id,
+        sourcePath: docsEntry.entry.sourcePath,
+        line: docsEntry.entry.line,
       });
       continue;
     }
 
-    const docsPath = CATEGORY_TO_DOCS_PATH[entry.category] ?? null;
+    seenUrls.set(docsEntry.normalizedUrl, docsEntry);
+    entries.push(toCatalogEntry(
+      docsEntry.entry,
+      id,
+      docsEntry.entry.sourcePath,
+      readmeEntriesByUrl.has(docsEntry.normalizedUrl)
+    ));
+  }
+
+  for (const [normalizedUrl, readmeEntry] of readmeEntriesByUrl.entries()) {
+    const id = slugFromUrl(readmeEntry.url);
+    const docsPath = CATEGORY_TO_DOCS_PATH[readmeEntry.category] ?? null;
     const previous = seenUrls.get(normalizedUrl);
     if (previous) {
-      errors.push({
-        code: "duplicate_url",
-        message: `Duplicate URL also appears at ${previous.sourcePath}:${previous.line}`,
-        entryId: id,
-        sourcePath: entry.sourcePath,
-        line: entry.line,
-      });
-    } else {
-      seenUrls.set(normalizedUrl, entry);
+      continue;
     }
 
     if (docsPath && !isMirroredInDocs(normalizedUrl, docsEntries.entriesByPath.get(docsPath) ?? [])) {
@@ -62,15 +65,53 @@ export function buildCatalogFromMarkdown(
         code: "missing_docs_mirror",
         message: `Entry is present in README.md but missing from ${docsPath}`,
         entryId: id,
+        sourcePath: readmeEntry.sourcePath,
+        line: readmeEntry.line,
+      });
+    }
+
+    const normalizedEntry = { entry: readmeEntry, normalizedUrl };
+    seenUrls.set(normalizedUrl, normalizedEntry);
+    entries.push(toCatalogEntry(readmeEntry, id, null, true));
+  }
+
+  return { entries, errors };
+}
+
+function normalizeReadmeEntries(
+  readmeEntries: ParsedMarkdownEntry[],
+  errors: CatalogBuildError[],
+): Map<string, ParsedMarkdownEntry> {
+  const entriesByUrl = new Map<string, ParsedMarkdownEntry>();
+
+  for (const entry of readmeEntries) {
+    try {
+      const normalizedUrl = normalizeUrl(entry.url);
+      const previous = entriesByUrl.get(normalizedUrl);
+      const id = slugFromUrl(entry.url);
+
+      if (previous) {
+        errors.push({
+          code: "duplicate_url",
+          message: `Duplicate URL also appears at ${previous.sourcePath}:${previous.line}`,
+          entryId: id,
+          sourcePath: entry.sourcePath,
+          line: entry.line,
+        });
+      } else {
+        entriesByUrl.set(normalizedUrl, entry);
+      }
+    } catch (error) {
+      errors.push({
+        code: "parse_error",
+        message: error instanceof Error ? error.message : "Unable to parse README entry URL",
         sourcePath: entry.sourcePath,
         line: entry.line,
       });
     }
-
-    entries.push(toCatalogEntry(entry, id, docsPath));
   }
 
-  return { entries, errors };
+  return entriesByUrl;
 }
 
 function parseDocsEntries(docsByPath: Map<string, string>): ParsedDocsEntries {
@@ -83,9 +124,11 @@ function parseDocsEntries(docsByPath: Map<string, string>): ParsedDocsEntries {
 
     for (const entry of entries) {
       try {
-        normalizedEntries.push({
+        const normalizedEntry = {
+          entry,
           normalizedUrl: normalizeUrl(entry.url),
-        });
+        };
+        normalizedEntries.push(normalizedEntry);
       } catch (error) {
         errors.push({
           code: "parse_error",
@@ -99,14 +142,19 @@ function parseDocsEntries(docsByPath: Map<string, string>): ParsedDocsEntries {
     entriesByPath.set(path, normalizedEntries);
   }
 
-  return { entriesByPath, errors };
+  return { entriesByPath, entries: Array.from(entriesByPath.values()).flat(), errors };
 }
 
 function isMirroredInDocs(normalizedUrl: string, docsEntries: NormalizedParsedEntry[]): boolean {
   return docsEntries.some((docsEntry) => docsEntry.normalizedUrl === normalizedUrl);
 }
 
-function toCatalogEntry(entry: ParsedMarkdownEntry, id: string, docsPath: string | null): CatalogEntry {
+function toCatalogEntry(
+  entry: ParsedMarkdownEntry,
+  id: string,
+  docsPath: string | null,
+  featuredInReadme: boolean,
+): CatalogEntry {
   const repo = isGithubUrl(entry.url) ? entry.url : null;
   const installCommands = extractInstallCommands(entry.description);
   const toolCount = extractToolCount(entry.description);
@@ -117,8 +165,9 @@ function toCatalogEntry(entry: ParsedMarkdownEntry, id: string, docsPath: string
     description: entry.description,
     category: entry.category,
     source: {
-      readmePath: entry.sourcePath,
+      readmePath: featuredInReadme ? "README.md" : null,
       docsPath,
+      featuredInReadme,
     },
     links: {
       primary: entry.url,

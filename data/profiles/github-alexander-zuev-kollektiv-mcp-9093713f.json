@@ -1,0 +1,24 @@
+{
+  "id": "github-alexander-zuev-kollektiv-mcp-9093713f",
+  "name": "alexander-zuev/kollektiv-mcp",
+  "description": "Kollektiv MCP server facilitates seamless document interaction and querying directly from IDEs using Cloudflare Workers and Supabase authentication.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-alexander-zuev-kollektiv-mcp-9093713f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexander-zuev-kollektiv-mcp-9093713f)",
+  "links": {
+    "primary": "https://github.com/alexander-zuev/kollektiv-mcp",
+    "repo": "https://github.com/alexander-zuev/kollektiv-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

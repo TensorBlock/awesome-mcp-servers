@@ -1,0 +1,24 @@
+{
+  "id": "github-justicedavid-slight-cf873e80",
+  "name": "justicedavid/slight",
+  "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-justicedavid-slight-cf873e80",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-justicedavid-slight-cf873e80)",
+  "links": {
+    "primary": "https://github.com/justicedavid/slight",
+    "repo": "https://github.com/justicedavid/slight",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

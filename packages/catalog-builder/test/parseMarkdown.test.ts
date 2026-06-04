@@ -183,18 +183,17 @@ describe("slugFromUrl", () => {
 });
 
 describe("CATEGORY_TO_DOCS_PATH", () => {
-  it("maps every README category heading to an existing docs file", () => {
+  it("maps every README category table link to an existing docs file", () => {
     const readme = readFileSync("README.md", "utf8");
-    const lines = readme.split(/\r?\n/);
-    const startIndex = lines.findIndex((line) => line === "## Server Categories");
-    const categories = lines
-      .slice(startIndex + 1)
-      .filter((line) => /^##\s+/.test(line))
-      .map(cleanCategoryHeading);
+    const categoryRows = readme
+      .split(/\r?\n/)
+      .filter((line) => line.startsWith("| ") && line.includes("[Browse]("));
+    const categories = categoryRows.map((line) => line.split("|")[1]?.trim());
+    const docsPaths = categoryRows.map((line) => line.match(/\[Browse\]\((docs\/[^)]+\.md)\)/)?.[1]);
 
-    expect(startIndex).toBeGreaterThanOrEqual(0);
     expect(categories).toHaveLength(Object.keys(CATEGORY_TO_DOCS_PATH).length);
-    expect(categories.filter((category) => !CATEGORY_TO_DOCS_PATH[category])).toEqual([]);
+    expect(categories.filter((category) => !category || !CATEGORY_TO_DOCS_PATH[category])).toEqual([]);
+    expect(docsPaths).toEqual(categories.map((category) => CATEGORY_TO_DOCS_PATH[category ?? ""]));
     expect(Object.values(CATEGORY_TO_DOCS_PATH).filter((docsPath) => !existsSync(docsPath))).toEqual([]);
   });
 });

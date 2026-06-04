@@ -1,0 +1,24 @@
+{
+  "id": "github-johancodinha-nrepl-mcp-server-889dd6df",
+  "name": "JohanCodinha/nrepl-mcp-server",
+  "description": "Facilitates interaction with Clojure nREPL instances for code evaluation and namespace management via MCP.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-johancodinha-nrepl-mcp-server-889dd6df",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-johancodinha-nrepl-mcp-server-889dd6df)",
+  "links": {
+    "primary": "https://github.com/JohanCodinha/nrepl-mcp-server",
+    "repo": "https://github.com/JohanCodinha/nrepl-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

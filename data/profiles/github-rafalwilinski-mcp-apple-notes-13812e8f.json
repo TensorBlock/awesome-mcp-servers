@@ -1,0 +1,24 @@
+{
+  "id": "github-rafalwilinski-mcp-apple-notes-13812e8f",
+  "name": "RafalWilinski/mcp-apple-notes",
+  "description": "Facilitates semantic search and retrieval over Apple Notes using Claude, enabling AI-driven note referencing and interaction.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-rafalwilinski-mcp-apple-notes-13812e8f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rafalwilinski-mcp-apple-notes-13812e8f)",
+  "links": {
+    "primary": "https://github.com/RafalWilinski/mcp-apple-notes",
+    "repo": "https://github.com/RafalWilinski/mcp-apple-notes",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

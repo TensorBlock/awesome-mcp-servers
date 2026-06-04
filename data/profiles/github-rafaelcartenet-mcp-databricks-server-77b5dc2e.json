@@ -1,0 +1,24 @@
+{
+  "id": "github-rafaelcartenet-mcp-databricks-server-77b5dc2e",
+  "name": "RafaelCartenet/mcp-databricks-server",
+  "description": "Facilitates SQL query execution on Databricks using the Statement Execution API, enabling complex task automation in Agent mode.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-rafaelcartenet-mcp-databricks-server-77b5dc2e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rafaelcartenet-mcp-databricks-server-77b5dc2e)",
+  "links": {
+    "primary": "https://github.com/RafaelCartenet/mcp-databricks-server",
+    "repo": "https://github.com/RafaelCartenet/mcp-databricks-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

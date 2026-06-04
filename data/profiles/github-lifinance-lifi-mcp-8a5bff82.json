@@ -1,0 +1,24 @@
+{
+  "id": "github-lifinance-lifi-mcp-8a5bff82",
+  "name": "lifinance/lifi-mcp",
+  "description": "Integrates with the LI.FI API to enable cross-chain swaps across multiple liquidity pools and bridges.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-lifinance-lifi-mcp-8a5bff82",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lifinance-lifi-mcp-8a5bff82)",
+  "links": {
+    "primary": "https://github.com/lifinance/lifi-mcp",
+    "repo": "https://github.com/lifinance/lifi-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

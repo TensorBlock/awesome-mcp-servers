@@ -1,7 +1,7 @@
 {
   "id": "github-arcadia-finance-mcp-server-25c621e5",
   "name": "arcadia-finance/mcp-server",
-  "description": "Manage Uniswap and Aerodrome liquidity positions with leverage, tomated rebalancing, and yield optimization on Base and Unichain.",
+  "description": "Manage Uniswap and Aerodrome liquidity positions with leverage, automated rebalancing, and yield optimization on Base and Unichain.",
   "category": "Finance & Crypto",
   "profileUrl": "https://tensorblock.co/mcp/github-arcadia-finance-mcp-server-25c621e5",
   "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arcadia-finance-mcp-server-25c621e5)",

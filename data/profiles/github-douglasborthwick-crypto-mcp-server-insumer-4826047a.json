@@ -1,7 +1,7 @@
 {
   "id": "github-douglasborthwick-crypto-mcp-server-insumer-4826047a",
   "name": "douglasborthwick-crypto/mcp-server-insumer",
-  "description": "On-chain token verification and ECDSA-signed attestation across 31 EVM blockchains. 16 tools for AI agents to verify holdings, generate proofs, manage merchants, and process USDC payments.",
+  "description": "On-chain verification MCP server with 25 tools across 32 blockchains (EVM, Solana, XRPL). Provides ECDSA-signed boolean attestations of token balances, NFT ownership, EAS credentials, and wallet trust profiles. No Web3 libraries required. Used by DJD Agent Score (Coinbase x402).",
   "category": "Finance & Crypto",
   "profileUrl": "https://tensorblock.co/mcp/github-douglasborthwick-crypto-mcp-server-insumer-4826047a",
   "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-douglasborthwick-crypto-mcp-server-insumer-4826047a)",
@@ -19,6 +19,6 @@
     "auth": "unknown",
     "installConfidence": "low",
     "verification": "unknown",
-    "toolCount": 16
+    "toolCount": 25
   }
 }

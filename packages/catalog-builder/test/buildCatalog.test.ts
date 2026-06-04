@@ -31,11 +31,67 @@ describe("buildCatalogFromMarkdown", () => {
     expect(result.entries).toHaveLength(2);
     expect(result.entries[0]?.id).toMatch(/^github-owner-search-mcp-[a-f0-9]{8}$/);
     expect(result.entries[0]?.source.docsPath).toBe("docs/search.md");
+    expect(result.entries[0]?.source).toMatchObject({
+      readmePath: "README.md",
+      featuredInReadme: true,
+    });
     expect(result.errors).toEqual([
       {
         code: "missing_docs_mirror",
         message: "Entry is present in README.md but missing from docs/search.md",
         entryId: expect.stringMatching(/^github-owner-only-readme-[a-f0-9]{8}$/),
+        sourcePath: "README.md",
+        line: 3,
+      },
+    ]);
+  });
+
+  it("uses docs as the primary catalog source and keeps README-only entries as featured supplements", () => {
+    const readme = [
+      "## 🔎 Search",
+      "- [Featured](https://github.com/owner/featured): Featured in README.",
+      "- [README Only](https://github.com/owner/readme-only): Missing mirror.",
+    ].join("\n");
+    const docs = new Map([
+      [
+        "docs/search.md",
+        [
+          "## 🔎 Search",
+          "- [Featured](https://github.com/owner/featured): Full docs entry.",
+          "- [Docs Only](https://github.com/owner/docs-only): Archived docs entry.",
+        ].join("\n"),
+      ],
+    ]);
+
+    const result = buildCatalogFromMarkdown(readme, docs);
+
+    expect(result.entries.map((entry) => entry.name)).toEqual([
+      "Featured",
+      "Docs Only",
+      "README Only",
+    ]);
+    expect(result.entries.map((entry) => entry.source)).toEqual([
+      {
+        readmePath: "README.md",
+        docsPath: "docs/search.md",
+        featuredInReadme: true,
+      },
+      {
+        readmePath: null,
+        docsPath: "docs/search.md",
+        featuredInReadme: false,
+      },
+      {
+        readmePath: "README.md",
+        docsPath: null,
+        featuredInReadme: true,
+      },
+    ]);
+    expect(result.errors).toEqual([
+      {
+        code: "missing_docs_mirror",
+        message: "Entry is present in README.md but missing from docs/search.md",
+        entryId: expect.stringMatching(/^github-owner-readme-only-[a-f0-9]{8}$/),
         sourcePath: "README.md",
         line: 3,
       },

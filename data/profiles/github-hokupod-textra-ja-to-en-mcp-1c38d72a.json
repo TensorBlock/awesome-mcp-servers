@@ -1,0 +1,24 @@
+{
+  "id": "github-hokupod-textra-ja-to-en-mcp-1c38d72a",
+  "name": "hokupod/textra-ja-to-en-mcp",
+  "description": "Facilitates Japanese to English translation for LLMs using the Textra API, enhancing language comprehension.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-hokupod-textra-ja-to-en-mcp-1c38d72a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hokupod-textra-ja-to-en-mcp-1c38d72a)",
+  "links": {
+    "primary": "https://github.com/hokupod/textra-ja-to-en-mcp",
+    "repo": "https://github.com/hokupod/textra-ja-to-en-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
