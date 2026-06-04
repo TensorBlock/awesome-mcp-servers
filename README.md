@@ -625,6 +625,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [Sharpe MCP Server](https://www.sharpe.ai/docs/mcp-server): Crypto market intelligence for AI agents, covering derivatives, funding rates, arbitrage, narratives, news, stablecoins, and token-risk checks. Install with `uvx sharpe-mcp`.
 - [Longbridge MCP](https://github.com/longbridge/longbridge-mcp): Official Longbridge brokerage MCP — 145 tools for US/HK real-time quotes, options, trading, fundamentals, IPO, alerts, DCA & portfolio. Remote streamable-HTTP endpoint at `https://openapi.longbridge.com/mcp`. OAuth 2.1 (RFC 9728).
 - [YIELD INTELLIGENCE](https://github.com/thebrierfox/intuitek-ace) - Passive income opportunity analysis with live US Treasury rates, portfolio yield calculator, and AI-powered income optimization. Remote MCP endpoint: https://api.intuitek.ai/yield/mcp (open, no auth required).
 - [Octodamus Intelligence Oracle](https://github.com/Octodamus/octodamus-core): AI consensus oracle for crypto traders and autonomous agents. BTC/ETH/SOL directional signals, Polymarket prediction market edges, congressional trading patterns, and Grok X sentiment in a single MCP call. Ed25519-signed responses (on-chain verifiable). x402 native micropayments -- $0.01/call via Base USDC. Remote SSE: `https://api.octodamus.com/mcp`. Also on Smithery: `octodamusai/market-intelligence`.

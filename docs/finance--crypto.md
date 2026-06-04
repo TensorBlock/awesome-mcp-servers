@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [Sharpe MCP Server](https://www.sharpe.ai/docs/mcp-server): Crypto market intelligence for AI agents, covering derivatives, funding rates, arbitrage, narratives, news, stablecoins, and token-risk checks. Install with `uvx sharpe-mcp`.
 - [FluxA AI Wallet MCP](https://github.com/FluxA-Agent-Payment/FluxA-AI-Wallet-MCP) - MCP server for AI agent payments via x402 and AEP2 protocols, with AgentCards, co-wallets, and stablecoin (USDC) micropayments.
 - [YIELD INTELLIGENCE](https://github.com/thebrierfox/intuitek-ace) - Passive income opportunity analysis with live US Treasury rates, portfolio yield calculator, and AI-powered income optimization. Remote MCP endpoint: https://api.intuitek.ai/yield/mcp (open, no auth required).
 - [Octodamus Intelligence Oracle](https://github.com/Octodamus/octodamus-core): AI consensus oracle for crypto traders and autonomous agents. BTC/ETH/SOL directional signals, Polymarket prediction market edges, congressional trading patterns, and Grok X sentiment in a single MCP call. Ed25519-signed responses (on-chain verifiable). x402 native micropayments -- $0.01/call via Base USDC. Remote SSE: `https://api.octodamus.com/mcp`. Also on Smithery: `octodamusai/market-intelligence`.
