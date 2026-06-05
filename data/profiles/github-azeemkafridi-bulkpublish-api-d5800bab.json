@@ -1,0 +1,24 @@
+{
+  "id": "github-azeemkafridi-bulkpublish-api-d5800bab",
+  "name": "azeemkafridi/bulkpublish-api",
+  "description": "MCP server for social media publishing across 11 platforms — create posts, schedule, upload media, and track analytics. 29 tools via `npx -y @bulkpublish/mcp-server`.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-azeemkafridi-bulkpublish-api-d5800bab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-azeemkafridi-bulkpublish-api-d5800bab)",
+  "links": {
+    "primary": "https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server",
+    "repo": "https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": 29
+  }
+}

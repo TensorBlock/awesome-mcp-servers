@@ -1,0 +1,24 @@
+{
+  "id": "github-yoda-digital-horologic-mcp-57e5ecb6",
+  "name": "yoda-digital/horologic-mcp",
+  "description": "Horologic MCP is a TypeScript server for time and timezone operations, seamlessly integrating with MCP-compatible clients like Claude Desktop.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-yoda-digital-horologic-mcp-57e5ecb6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yoda-digital-horologic-mcp-57e5ecb6)",
+  "links": {
+    "primary": "https://github.com/yoda-digital/horologic-mcp",
+    "repo": "https://github.com/yoda-digital/horologic-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

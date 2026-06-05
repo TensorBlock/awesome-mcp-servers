@@ -1,0 +1,24 @@
+{
+  "id": "github-gifflet-graphiti-mcp-server-12708a10",
+  "name": "gifflet/graphiti-mcp-server",
+  "description": "Graphiti MCP Server empowers AI agents with dynamic knowledge graph management using Neo4j and seamless OpenAI model integration.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-gifflet-graphiti-mcp-server-12708a10",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gifflet-graphiti-mcp-server-12708a10)",
+  "links": {
+    "primary": "https://github.com/gifflet/graphiti-mcp-server",
+    "repo": "https://github.com/gifflet/graphiti-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-atharvagupta2003-mcp-lemonsqueezy-dabdb1c0",
+  "name": "atharvagupta2003/mcp-lemonsqueezy",
+  "description": "Integrates with Lemon Squeezy to manage subscriptions, checkouts, and products with audit logging and tool-based control.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-atharvagupta2003-mcp-lemonsqueezy-dabdb1c0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-atharvagupta2003-mcp-lemonsqueezy-dabdb1c0)",
+  "links": {
+    "primary": "https://github.com/atharvagupta2003/mcp-lemonsqueezy",
+    "repo": "https://github.com/atharvagupta2003/mcp-lemonsqueezy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

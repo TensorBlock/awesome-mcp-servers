@@ -1,0 +1,24 @@
+{
+  "id": "github-shannonlal-mcp-postman-48177e18",
+  "name": "shannonlal/mcp-postman",
+  "description": "Facilitates API testing by running Postman collections with Newman, providing detailed results through a standardized interface for LLMs.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-shannonlal-mcp-postman-48177e18",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shannonlal-mcp-postman-48177e18)",
+  "links": {
+    "primary": "https://github.com/shannonlal/mcp-postman",
+    "repo": "https://github.com/shannonlal/mcp-postman",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

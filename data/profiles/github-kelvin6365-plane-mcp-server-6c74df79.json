@@ -1,0 +1,24 @@
+{
+  "id": "github-kelvin6365-plane-mcp-server-6c74df79",
+  "name": "kelvin6365/plane-mcp-server",
+  "description": "Facilitates LLMs to manage projects and issues through Plane's API, ensuring user control and security.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-kelvin6365-plane-mcp-server-6c74df79",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kelvin6365-plane-mcp-server-6c74df79)",
+  "links": {
+    "primary": "https://github.com/kelvin6365/plane-mcp-server",
+    "repo": "https://github.com/kelvin6365/plane-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

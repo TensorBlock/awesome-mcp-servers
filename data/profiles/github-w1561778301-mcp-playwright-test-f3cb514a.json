@@ -1,0 +1,24 @@
+{
+  "id": "github-w1561778301-mcp-playwright-test-f3cb514a",
+  "name": "w1561778301/mcp-playwright-test",
+  "description": "Automates Playwright tests by generating and executing UI and API test cases with detailed reporting.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-w1561778301-mcp-playwright-test-f3cb514a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-w1561778301-mcp-playwright-test-f3cb514a)",
+  "links": {
+    "primary": "https://github.com/w1561778301/mcp-playwright-test",
+    "repo": "https://github.com/w1561778301/mcp-playwright-test",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

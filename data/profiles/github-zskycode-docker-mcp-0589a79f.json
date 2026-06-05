@@ -1,0 +1,24 @@
+{
+  "id": "github-zskycode-docker-mcp-0589a79f",
+  "name": "zskycode/docker-mcp",
+  "description": "A Docker management tool implementing the MCP protocol, offering comprehensive support for Docker CLI and Docker Compose operations.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-zskycode-docker-mcp-0589a79f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zskycode-docker-mcp-0589a79f)",
+  "links": {
+    "primary": "https://github.com/zskycode/docker-mcp",
+    "repo": "https://github.com/zskycode/docker-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

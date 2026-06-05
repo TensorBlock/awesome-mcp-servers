@@ -1,0 +1,24 @@
+{
+  "id": "github-solana-foundation-solana-dev-mcp-0369ce3e",
+  "name": "solana-foundation/solana-dev-mcp",
+  "description": "A demo MCP server for Solana development, offering basic RPC methods and development prompts.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-solana-foundation-solana-dev-mcp-0369ce3e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-solana-foundation-solana-dev-mcp-0369ce3e)",
+  "links": {
+    "primary": "https://github.com/solana-foundation/solana-dev-mcp",
+    "repo": "https://github.com/solana-foundation/solana-dev-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

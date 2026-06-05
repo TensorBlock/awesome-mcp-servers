@@ -1,0 +1,24 @@
+{
+  "id": "github-strowk-synf-cea333a1",
+  "name": "strowk/synf",
+  "description": "Synf enhances MCP server development by enabling hot-reloading on file changes, ensuring seamless integration and state management between client and server.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-strowk-synf-cea333a1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-strowk-synf-cea333a1)",
+  "links": {
+    "primary": "https://github.com/strowk/synf",
+    "repo": "https://github.com/strowk/synf",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

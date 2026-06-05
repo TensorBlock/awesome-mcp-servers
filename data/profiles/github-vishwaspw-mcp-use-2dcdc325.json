@@ -1,0 +1,24 @@
+{
+  "id": "github-vishwaspw-mcp-use-2dcdc325",
+  "name": "vishwaspw/mcp-use",
+  "description": "An AI-powered interactive chatbot leveraging MCP, LangChain, and Groq for natural language conversations with service integration.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-vishwaspw-mcp-use-2dcdc325",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vishwaspw-mcp-use-2dcdc325)",
+  "links": {
+    "primary": "https://github.com/vishwaspw/mcp-use",
+    "repo": "https://github.com/vishwaspw/mcp-use",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

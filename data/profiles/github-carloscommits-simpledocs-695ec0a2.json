@@ -1,0 +1,24 @@
+{
+  "id": "github-carloscommits-simpledocs-695ec0a2",
+  "name": "CarlosCommits/SimpleDocs",
+  "description": "A documentation web scraper and search engine utilizing MCP for intelligent content extraction and semantic search across multiple sources.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-carloscommits-simpledocs-695ec0a2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-carloscommits-simpledocs-695ec0a2)",
+  "links": {
+    "primary": "https://github.com/CarlosCommits/SimpleDocs",
+    "repo": "https://github.com/CarlosCommits/SimpleDocs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

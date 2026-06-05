@@ -1,0 +1,24 @@
+{
+  "id": "github-thepragmatik-mcp-server-jvm-build-tools-ddcb5046",
+  "name": "thepragmatik/mcp-server-jvm-build-tools",
+  "description": "Facilitates natural language interaction with Apache Maven through an MCP server for streamlined project builds.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-thepragmatik-mcp-server-jvm-build-tools-ddcb5046",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thepragmatik-mcp-server-jvm-build-tools-ddcb5046)",
+  "links": {
+    "primary": "https://github.com/thepragmatik/mcp-server-jvm-build-tools",
+    "repo": "https://github.com/thepragmatik/mcp-server-jvm-build-tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

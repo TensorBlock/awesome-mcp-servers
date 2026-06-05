@@ -1,0 +1,24 @@
+{
+  "id": "sharpe-ai-docs-mcp-server-e0e6e158",
+  "name": "Sharpe MCP Server",
+  "description": "Crypto market intelligence for AI agents, covering derivatives, funding rates, arbitrage, narratives, news, stablecoins, and token-risk checks. Install with `uvx sharpe-mcp`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/sharpe-ai-docs-mcp-server-e0e6e158",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/sharpe-ai-docs-mcp-server-e0e6e158)",
+  "links": {
+    "primary": "https://www.sharpe.ai/docs/mcp-server",
+    "repo": null,
+    "homepage": "https://www.sharpe.ai/docs/mcp-server",
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

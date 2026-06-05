@@ -1,0 +1,24 @@
+{
+  "id": "github-sqr-datadog-mcp-f58368b3",
+  "name": "sqr/datadog-mcp",
+  "description": "Facilitates log retrieval from Datadog for analysis by Claude within a Kubernetes environment.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-sqr-datadog-mcp-f58368b3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sqr-datadog-mcp-f58368b3)",
+  "links": {
+    "primary": "https://github.com/sqr/datadog-mcp",
+    "repo": "https://github.com/sqr/datadog-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
