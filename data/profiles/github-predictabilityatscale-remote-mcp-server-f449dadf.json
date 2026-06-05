@@ -1,0 +1,24 @@
+{
+  "id": "github-predictabilityatscale-remote-mcp-server-f449dadf",
+  "name": "PredictabilityAtScale/remote-mcp-server",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool invocation.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-predictabilityatscale-remote-mcp-server-f449dadf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-predictabilityatscale-remote-mcp-server-f449dadf)",
+  "links": {
+    "primary": "https://github.com/PredictabilityAtScale/remote-mcp-server",
+    "repo": "https://github.com/PredictabilityAtScale/remote-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

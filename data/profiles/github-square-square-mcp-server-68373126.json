@@ -1,0 +1,24 @@
+{
+  "id": "github-square-square-mcp-server-68373126",
+  "name": "square/square-mcp-server",
+  "description": "Facilitates AI assistant interactions with Square's API ecosystem through the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-square-square-mcp-server-68373126",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-square-square-mcp-server-68373126)",
+  "links": {
+    "primary": "https://github.com/square/square-mcp-server",
+    "repo": "https://github.com/square/square-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

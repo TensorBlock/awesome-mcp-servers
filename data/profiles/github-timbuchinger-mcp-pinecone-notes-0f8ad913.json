@@ -1,0 +1,24 @@
+{
+  "id": "github-timbuchinger-mcp-pinecone-notes-0f8ad913",
+  "name": "timbuchinger/mcp-pinecone-notes",
+  "description": "Facilitates semantic note management using Pinecone's vector database for efficient search and retrieval.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-timbuchinger-mcp-pinecone-notes-0f8ad913",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-timbuchinger-mcp-pinecone-notes-0f8ad913)",
+  "links": {
+    "primary": "https://github.com/timbuchinger/mcp-pinecone-notes",
+    "repo": "https://github.com/timbuchinger/mcp-pinecone-notes",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-azure-ai-foundry-mcp-foundry-00247646",
+  "name": "azure-ai-foundry/mcp-foundry",
+  "description": "Integrates Azure AI Foundry with MCP clients, enabling seamless connections to Azure AI Agents and leveraging Azure's AI models and tools.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-azure-ai-foundry-mcp-foundry-00247646",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-azure-ai-foundry-mcp-foundry-00247646)",
+  "links": {
+    "primary": "https://github.com/azure-ai-foundry/mcp-foundry",
+    "repo": "https://github.com/azure-ai-foundry/mcp-foundry",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

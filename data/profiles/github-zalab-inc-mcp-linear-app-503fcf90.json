@@ -1,0 +1,24 @@
+{
+  "id": "github-zalab-inc-mcp-linear-app-503fcf90",
+  "name": "zalab-inc/mcp-linear-app",
+  "description": "Facilitates seamless AI-driven interactions with Linear for issue management and team collaboration.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-zalab-inc-mcp-linear-app-503fcf90",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zalab-inc-mcp-linear-app-503fcf90)",
+  "links": {
+    "primary": "https://github.com/zalab-inc/mcp-linear-app",
+    "repo": "https://github.com/zalab-inc/mcp-linear-app",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

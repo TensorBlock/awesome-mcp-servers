@@ -1,0 +1,24 @@
+{
+  "id": "github-sinkect-unity-mcp-for-editor-41caef20",
+  "name": "sinkect/unity-mcp-for-editor",
+  "description": "Enhances Unity editor integration with VSCode IDEs by providing tools for executing menu items, managing game objects, and running tests via an MCP server.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-sinkect-unity-mcp-for-editor-41caef20",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sinkect-unity-mcp-for-editor-41caef20)",
+  "links": {
+    "primary": "https://github.com/sinkect/unity-mcp-for-editor",
+    "repo": "https://github.com/sinkect/unity-mcp-for-editor",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

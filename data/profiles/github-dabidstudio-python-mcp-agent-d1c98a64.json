@@ -1,0 +1,24 @@
+{
+  "id": "github-dabidstudio-python-mcp-agent-d1c98a64",
+  "name": "dabidstudio/python_mcp_agent",
+  "description": "A Python-based MCP server for YouTube content analysis, integrating with OpenAI Agents SDK for enhanced AI-driven insights.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-dabidstudio-python-mcp-agent-d1c98a64",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dabidstudio-python-mcp-agent-d1c98a64)",
+  "links": {
+    "primary": "https://github.com/dabidstudio/python_mcp_agent",
+    "repo": "https://github.com/dabidstudio/python_mcp_agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

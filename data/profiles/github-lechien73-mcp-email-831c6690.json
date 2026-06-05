@@ -1,0 +1,24 @@
+{
+  "id": "github-lechien73-mcp-email-831c6690",
+  "name": "lechien73/mcp_email",
+  "description": "Facilitates sending emails via Proton Mail or Gmail using MCP tools in Python.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-lechien73-mcp-email-831c6690",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lechien73-mcp-email-831c6690)",
+  "links": {
+    "primary": "https://github.com/lechien73/mcp_email",
+    "repo": "https://github.com/lechien73/mcp_email",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

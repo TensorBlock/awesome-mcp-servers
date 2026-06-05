@@ -1,0 +1,24 @@
+{
+  "id": "github-sujianqingfeng-mcp-apifox-598c6e8b",
+  "name": "sujianqingfeng/mcp-apifox",
+  "description": "Facilitates seamless integration between Apifox API documentation and AI assistants using the Model Context Protocol.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-sujianqingfeng-mcp-apifox-598c6e8b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sujianqingfeng-mcp-apifox-598c6e8b)",
+  "links": {
+    "primary": "https://github.com/sujianqingfeng/mcp-apifox",
+    "repo": "https://github.com/sujianqingfeng/mcp-apifox",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

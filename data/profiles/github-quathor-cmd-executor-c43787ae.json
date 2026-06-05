@@ -1,0 +1,24 @@
+{
+  "id": "github-quathor-cmd-executor-c43787ae",
+  "name": "Quathor/CMD-Executor",
+  "description": "Facilitates remote execution of Windows CMD commands via the MCP protocol, ensuring secure and configurable command execution.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-quathor-cmd-executor-c43787ae",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-quathor-cmd-executor-c43787ae)",
+  "links": {
+    "primary": "https://github.com/Quathor/CMD-Executor",
+    "repo": "https://github.com/Quathor/CMD-Executor",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

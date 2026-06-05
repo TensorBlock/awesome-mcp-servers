@@ -1,0 +1,24 @@
+{
+  "id": "github-us-all-datadog-mcp-server-bbfb7899",
+  "name": "us-all/datadog-mcp-server",
+  "description": "Datadog observability MCP server with 165 tools across metrics, monitors, logs, APM, RUM, incidents, status pages, and fleet automation. 4 workflow Prompts and `incident-triage-snapshot` aggregation tool.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-us-all-datadog-mcp-server-bbfb7899",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-us-all-datadog-mcp-server-bbfb7899)",
+  "links": {
+    "primary": "https://github.com/us-all/datadog-mcp-server",
+    "repo": "https://github.com/us-all/datadog-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 165
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-godzilla675-agentic-ai-tool-suite-0c75df10",
+  "name": "Godzilla675/agentic-ai-tool-suite",
+  "description": "Enhances AI agent capabilities with a suite of MCP servers for media search, web information retrieval, and document creation.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-godzilla675-agentic-ai-tool-suite-0c75df10",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-godzilla675-agentic-ai-tool-suite-0c75df10)",
+  "links": {
+    "primary": "https://github.com/Godzilla675/agentic-ai-tool-suite",
+    "repo": "https://github.com/Godzilla675/agentic-ai-tool-suite",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

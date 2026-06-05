@@ -1,0 +1,24 @@
+{
+  "id": "github-idanref-mcp-server-example-ff368709",
+  "name": "Idanref/mcp-server-example",
+  "description": "Facilitates integration with Claude and other LLMs through a customizable MCP server setup.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-idanref-mcp-server-example-ff368709",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-idanref-mcp-server-example-ff368709)",
+  "links": {
+    "primary": "https://github.com/Idanref/mcp-server-example",
+    "repo": "https://github.com/Idanref/mcp-server-example",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

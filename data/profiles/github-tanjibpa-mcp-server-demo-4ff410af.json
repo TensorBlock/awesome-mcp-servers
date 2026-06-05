@@ -1,0 +1,24 @@
+{
+  "id": "github-tanjibpa-mcp-server-demo-4ff410af",
+  "name": "tanjibpa/mcp-server-demo",
+  "description": "A demo MCP server for managing organizations and devices with distance calculation using PostgreSQL.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-tanjibpa-mcp-server-demo-4ff410af",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tanjibpa-mcp-server-demo-4ff410af)",
+  "links": {
+    "primary": "https://github.com/tanjibpa/mcp-server-demo",
+    "repo": "https://github.com/tanjibpa/mcp-server-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-difybase-dify-connect-mcp-c88e2dd4",
+  "name": "difybase/dify-connect-mcp",
+  "description": "Facilitates interaction with Dify API for chat and knowledge base queries through an MCP server.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-difybase-dify-connect-mcp-c88e2dd4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-difybase-dify-connect-mcp-c88e2dd4)",
+  "links": {
+    "primary": "https://github.com/difybase/dify-connect-mcp",
+    "repo": "https://github.com/difybase/dify-connect-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

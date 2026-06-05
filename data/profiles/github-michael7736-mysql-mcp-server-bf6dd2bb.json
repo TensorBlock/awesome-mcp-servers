@@ -1,0 +1,24 @@
+{
+  "id": "github-michael7736-mysql-mcp-server-bf6dd2bb",
+  "name": "michael7736/mysql-mcp-server",
+  "description": "Facilitates SQL query execution on MySQL databases via MCP, supporting CRUD operations with JSON results and transaction logging.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-michael7736-mysql-mcp-server-bf6dd2bb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-michael7736-mysql-mcp-server-bf6dd2bb)",
+  "links": {
+    "primary": "https://github.com/michael7736/mysql-mcp-server",
+    "repo": "https://github.com/michael7736/mysql-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

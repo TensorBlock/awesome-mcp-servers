@@ -1,0 +1,24 @@
+{
+  "id": "github-xiaomingx-modelcontextprotocol-servers-643845d7",
+  "name": "XiaomingX/modelcontextprotocol-servers",
+  "description": "A collection of MCP servers enabling LLMs to securely interact with diverse tools and data sources, enhancing their functionality and integration capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-xiaomingx-modelcontextprotocol-servers-643845d7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xiaomingx-modelcontextprotocol-servers-643845d7)",
+  "links": {
+    "primary": "https://github.com/XiaomingX/modelcontextprotocol-servers",
+    "repo": "https://github.com/XiaomingX/modelcontextprotocol-servers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

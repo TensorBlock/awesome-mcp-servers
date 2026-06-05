@@ -1,0 +1,24 @@
+{
+  "id": "github-maxparisotto-iggy-mcp-server-2707c9ac",
+  "name": "MaxParisotto/iggy-mcp-server",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with tools for note creation and summarization.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-maxparisotto-iggy-mcp-server-2707c9ac",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maxparisotto-iggy-mcp-server-2707c9ac)",
+  "links": {
+    "primary": "https://github.com/MaxParisotto/iggy-mcp-server",
+    "repo": "https://github.com/MaxParisotto/iggy-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

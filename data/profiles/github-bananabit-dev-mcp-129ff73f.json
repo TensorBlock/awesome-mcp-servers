@@ -1,0 +1,24 @@
+{
+  "id": "github-bananabit-dev-mcp-129ff73f",
+  "name": "bananabit-dev/mcp",
+  "description": "Facilitates image generation and web scraping for Windsurf using the Flux Pro model and ScrapeGraph API.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-bananabit-dev-mcp-129ff73f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bananabit-dev-mcp-129ff73f)",
+  "links": {
+    "primary": "https://github.com/bananabit-dev/mcp",
+    "repo": "https://github.com/bananabit-dev/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

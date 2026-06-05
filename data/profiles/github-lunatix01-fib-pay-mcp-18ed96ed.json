@@ -1,0 +1,24 @@
+{
+  "id": "github-lunatix01-fib-pay-mcp-18ed96ed",
+  "name": "Lunatix01/fib-pay-mcp",
+  "description": "Facilitates secure interactions with First Iraqi Bank's Online Payment API using a lightweight MCP server.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-lunatix01-fib-pay-mcp-18ed96ed",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lunatix01-fib-pay-mcp-18ed96ed)",
+  "links": {
+    "primary": "https://github.com/Lunatix01/fib-pay-mcp",
+    "repo": "https://github.com/Lunatix01/fib-pay-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

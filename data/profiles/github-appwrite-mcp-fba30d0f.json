@@ -1,0 +1,24 @@
+{
+  "id": "github-appwrite-mcp-fba30d0f",
+  "name": "appwrite/mcp",
+  "description": "Facilitates seamless interaction with Appwrite's API, enabling efficient management of databases, users, functions, and more within your Appwrite project.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-appwrite-mcp-fba30d0f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-appwrite-mcp-fba30d0f)",
+  "links": {
+    "primary": "https://github.com/appwrite/mcp",
+    "repo": "https://github.com/appwrite/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

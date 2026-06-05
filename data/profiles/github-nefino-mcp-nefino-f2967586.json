@@ -1,0 +1,24 @@
+{
+  "id": "github-nefino-mcp-nefino-f2967586",
+  "name": "nefino/mcp-nefino",
+  "description": "Provides LLMs with structured access to renewable energy news and information in Germany via the Nefino API.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-nefino-mcp-nefino-f2967586",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nefino-mcp-nefino-f2967586)",
+  "links": {
+    "primary": "https://github.com/nefino/mcp-nefino",
+    "repo": "https://github.com/nefino/mcp-nefino",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

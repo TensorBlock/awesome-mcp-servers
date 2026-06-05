@@ -1,0 +1,24 @@
+{
+  "id": "github-hizuki1030-visa-mcp-f31f2243",
+  "name": "Hizuki1030/visa-mcp",
+  "description": "Facilitates the control of oscilloscopes using the VISA architecture through an MCP server, enabling seamless integration and automation of various measurement tasks.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-hizuki1030-visa-mcp-f31f2243",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hizuki1030-visa-mcp-f31f2243)",
+  "links": {
+    "primary": "https://github.com/Hizuki1030/visa-mcp",
+    "repo": "https://github.com/Hizuki1030/visa-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

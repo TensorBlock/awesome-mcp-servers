@@ -1,0 +1,24 @@
+{
+  "id": "github-fastnai-mcp-fastn-b058e7cb",
+  "name": "fastnai/mcp-fastn",
+  "description": "Fastn Server offers a scalable platform for dynamic tool registration and execution, integrating seamlessly with services like Claude.ai and Cursor.ai for real-time API-driven operations.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-fastnai-mcp-fastn-b058e7cb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fastnai-mcp-fastn-b058e7cb)",
+  "links": {
+    "primary": "https://github.com/fastnai/mcp-fastn",
+    "repo": "https://github.com/fastnai/mcp-fastn",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
