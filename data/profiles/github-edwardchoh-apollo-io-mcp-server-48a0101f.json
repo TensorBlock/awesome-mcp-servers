@@ -1,0 +1,24 @@
+{
+  "id": "github-edwardchoh-apollo-io-mcp-server-48a0101f",
+  "name": "edwardchoh/apollo-io-mcp-server",
+  "description": "Facilitates interaction with Apollo.io API through MCP tools for data enrichment and search functionalities.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-edwardchoh-apollo-io-mcp-server-48a0101f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-edwardchoh-apollo-io-mcp-server-48a0101f)",
+  "links": {
+    "primary": "https://github.com/edwardchoh/apollo-io-mcp-server",
+    "repo": "https://github.com/edwardchoh/apollo-io-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

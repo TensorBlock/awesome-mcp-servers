@@ -1,0 +1,24 @@
+{
+  "id": "github-glassbead-tc-audius-mcp-atris-506f4242",
+  "name": "glassBead-tc/audius-mcp-atris",
+  "description": "Atris MCP server enables seamless interaction with the Audius music platform, offering tools for music discovery, content creation, social engagement, and monetization through LLMs.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-glassbead-tc-audius-mcp-atris-506f4242",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-glassbead-tc-audius-mcp-atris-506f4242)",
+  "links": {
+    "primary": "https://github.com/glassBead-tc/audius-mcp-atris",
+    "repo": "https://github.com/glassBead-tc/audius-mcp-atris",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-8bitgentleman-activitywatch-mcp-server-5f5778c0",
+  "name": "8bitgentleman/activitywatch-mcp-server",
+  "description": "Facilitates interaction between ActivityWatch time tracking data and LLMs like Claude, enabling advanced data queries and settings retrieval.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-8bitgentleman-activitywatch-mcp-server-5f5778c0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-8bitgentleman-activitywatch-mcp-server-5f5778c0)",
+  "links": {
+    "primary": "https://github.com/8bitgentleman/activitywatch-mcp-server",
+    "repo": "https://github.com/8bitgentleman/activitywatch-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

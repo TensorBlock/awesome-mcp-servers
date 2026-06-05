@@ -1,0 +1,24 @@
+{
+  "id": "github-cjavier-mcpserverbasic-30d7b716",
+  "name": "cjavier/McpServerBasic",
+  "description": "Facilitates AI assistants' interaction with external services and data sources through a Model Context Protocol server compatible with Claude.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-cjavier-mcpserverbasic-30d7b716",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cjavier-mcpserverbasic-30d7b716)",
+  "links": {
+    "primary": "https://github.com/cjavier/McpServerBasic",
+    "repo": "https://github.com/cjavier/McpServerBasic",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

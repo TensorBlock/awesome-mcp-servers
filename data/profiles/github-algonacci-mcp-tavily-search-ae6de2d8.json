@@ -1,0 +1,24 @@
+{
+  "id": "github-algonacci-mcp-tavily-search-ae6de2d8",
+  "name": "algonacci/mcp-tavily-search",
+  "description": "Empowers clients with internet search capabilities through a configurable MCP server.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-algonacci-mcp-tavily-search-ae6de2d8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-algonacci-mcp-tavily-search-ae6de2d8)",
+  "links": {
+    "primary": "https://github.com/algonacci/mcp-tavily-search",
+    "repo": "https://github.com/algonacci/mcp-tavily-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

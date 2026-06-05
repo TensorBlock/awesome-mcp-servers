@@ -1,0 +1,24 @@
+{
+  "id": "github-meilisearch-meilisearch-mcp-5cf3856b",
+  "name": "meilisearch/meilisearch-mcp",
+  "description": "Facilitates seamless interaction with Meilisearch through LLM interfaces, offering dynamic connection management, smart search capabilities, and comprehensive API key and task management.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-meilisearch-meilisearch-mcp-5cf3856b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-meilisearch-meilisearch-mcp-5cf3856b)",
+  "links": {
+    "primary": "https://github.com/meilisearch/meilisearch-mcp",
+    "repo": "https://github.com/meilisearch/meilisearch-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

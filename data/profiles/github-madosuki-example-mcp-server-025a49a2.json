@@ -1,0 +1,24 @@
+{
+  "id": "github-madosuki-example-mcp-server-025a49a2",
+  "name": "madosuki/example-mcp-server",
+  "description": "A Clojure-based stdio MCP server utilizing the Java SDK for integration with Claude desktop configurations.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-madosuki-example-mcp-server-025a49a2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-madosuki-example-mcp-server-025a49a2)",
+  "links": {
+    "primary": "https://github.com/madosuki/example-mcp-server",
+    "repo": "https://github.com/madosuki/example-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

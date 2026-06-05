@@ -1,0 +1,24 @@
+{
+  "id": "github-paul-m-kallarackal-marchina-mcp-85507305",
+  "name": "Paul-M-Kallarackal/marchina-mcp",
+  "description": "Facilitates seamless project creation for guest users by integrating with the Marchina backend through a Model Context Protocol server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-paul-m-kallarackal-marchina-mcp-85507305",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-paul-m-kallarackal-marchina-mcp-85507305)",
+  "links": {
+    "primary": "https://github.com/Paul-M-Kallarackal/marchina-mcp",
+    "repo": "https://github.com/Paul-M-Kallarackal/marchina-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

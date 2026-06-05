@@ -1,0 +1,24 @@
+{
+  "id": "github-gkvsanjeev-dbmcpserver-e69ae0a3",
+  "name": "gkvsanjeev/DBMCPServer",
+  "description": "Facilitates database access and querying through MCP integration, leveraging Legion Query Runner for seamless AI-driven data interactions.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-gkvsanjeev-dbmcpserver-e69ae0a3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gkvsanjeev-dbmcpserver-e69ae0a3)",
+  "links": {
+    "primary": "https://github.com/gkvsanjeev/DBMCPServer",
+    "repo": "https://github.com/gkvsanjeev/DBMCPServer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

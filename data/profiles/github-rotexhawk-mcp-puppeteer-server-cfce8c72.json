@@ -1,0 +1,24 @@
+{
+  "id": "github-rotexhawk-mcp-puppeteer-server-cfce8c72",
+  "name": "rotexhawk/Mcp-Puppeteer-Server",
+  "description": "Enables LLMs to automate browser tasks using Puppeteer, including navigation, interaction, and JavaScript execution.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-rotexhawk-mcp-puppeteer-server-cfce8c72",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rotexhawk-mcp-puppeteer-server-cfce8c72)",
+  "links": {
+    "primary": "https://github.com/rotexhawk/Mcp-Puppeteer-Server",
+    "repo": "https://github.com/rotexhawk/Mcp-Puppeteer-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

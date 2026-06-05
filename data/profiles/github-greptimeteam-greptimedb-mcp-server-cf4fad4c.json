@@ -1,0 +1,24 @@
+{
+  "id": "github-greptimeteam-greptimedb-mcp-server-cf4fad4c",
+  "name": "GreptimeTeam/greptimedb-mcp-server",
+  "description": "Facilitates secure and structured database exploration and analysis for AI assistants using GreptimeDB.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-greptimeteam-greptimedb-mcp-server-cf4fad4c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-greptimeteam-greptimedb-mcp-server-cf4fad4c)",
+  "links": {
+    "primary": "https://github.com/GreptimeTeam/greptimedb-mcp-server",
+    "repo": "https://github.com/GreptimeTeam/greptimedb-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

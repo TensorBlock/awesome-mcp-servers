@@ -1,0 +1,24 @@
+{
+  "id": "github-tituslhy-sturdy-octo-fortnight-38fbcafc",
+  "name": "tituslhy/sturdy-octo-fortnight",
+  "description": "Facilitates seamless integration with Atlassian's Confluence and Jira through a robust MCP server, enabling efficient content management and issue tracking.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-tituslhy-sturdy-octo-fortnight-38fbcafc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tituslhy-sturdy-octo-fortnight-38fbcafc)",
+  "links": {
+    "primary": "https://github.com/tituslhy/sturdy-octo-fortnight",
+    "repo": "https://github.com/tituslhy/sturdy-octo-fortnight",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

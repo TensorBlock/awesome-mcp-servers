@@ -1,0 +1,24 @@
+{
+  "id": "github-torohash-brave-search-sse-mcp-6db96572",
+  "name": "torohash/brave-search-sse-mcp",
+  "description": "Facilitates web and local searches via Brave Search API using an SSE-based MCP server.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-torohash-brave-search-sse-mcp-6db96572",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-torohash-brave-search-sse-mcp-6db96572)",
+  "links": {
+    "primary": "https://github.com/torohash/brave-search-sse-mcp",
+    "repo": "https://github.com/torohash/brave-search-sse-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-devspectrum-max-zebra-e223734f",
+  "name": "DevSpectrum-max/zebra",
+  "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-devspectrum-max-zebra-e223734f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-devspectrum-max-zebra-e223734f)",
+  "links": {
+    "primary": "https://github.com/DevSpectrum-max/zebra",
+    "repo": "https://github.com/DevSpectrum-max/zebra",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-tomokiishimine-svg-render-mcp-1c26cd94",
+  "name": "TomokiIshimine/svg-render-mcp",
+  "description": "Transforms SVG strings into PNG images with customizable dimensions and background colors.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-tomokiishimine-svg-render-mcp-1c26cd94",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tomokiishimine-svg-render-mcp-1c26cd94)",
+  "links": {
+    "primary": "https://github.com/TomokiIshimine/svg-render-mcp",
+    "repo": "https://github.com/TomokiIshimine/svg-render-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

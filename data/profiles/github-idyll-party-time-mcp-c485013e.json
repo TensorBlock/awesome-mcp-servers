@@ -1,0 +1,24 @@
+{
+  "id": "github-idyll-party-time-mcp-c485013e",
+  "name": "idyll/party-time-mcp",
+  "description": "A lightweight MCP server that humorously responds with \"It's Party Time\" when queried for the current time, showcasing basic JSON-RPC message handling.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-idyll-party-time-mcp-c485013e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-idyll-party-time-mcp-c485013e)",
+  "links": {
+    "primary": "https://github.com/idyll/party-time-mcp",
+    "repo": "https://github.com/idyll/party-time-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

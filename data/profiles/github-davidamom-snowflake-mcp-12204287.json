@@ -1,0 +1,24 @@
+{
+  "id": "github-davidamom-snowflake-mcp-12204287",
+  "name": "davidamom/snowflake-mcp",
+  "description": "Facilitates seamless integration between AI applications and Snowflake databases, enabling secure SQL query execution and robust connection management for MCP clients.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-davidamom-snowflake-mcp-12204287",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-davidamom-snowflake-mcp-12204287)",
+  "links": {
+    "primary": "https://github.com/davidamom/snowflake-mcp",
+    "repo": "https://github.com/davidamom/snowflake-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

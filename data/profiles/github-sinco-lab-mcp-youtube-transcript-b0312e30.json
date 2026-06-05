@@ -1,0 +1,24 @@
+{
+  "id": "github-sinco-lab-mcp-youtube-transcript-b0312e30",
+  "name": "sinco-lab/mcp-youtube-transcript",
+  "description": "Facilitates the extraction and processing of YouTube video transcripts for content analysis.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-sinco-lab-mcp-youtube-transcript-b0312e30",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sinco-lab-mcp-youtube-transcript-b0312e30)",
+  "links": {
+    "primary": "https://github.com/sinco-lab/mcp-youtube-transcript",
+    "repo": "https://github.com/sinco-lab/mcp-youtube-transcript",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

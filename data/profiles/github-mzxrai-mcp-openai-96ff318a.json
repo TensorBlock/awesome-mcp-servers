@@ -1,0 +1,24 @@
+{
+  "id": "github-mzxrai-mcp-openai-96ff318a",
+  "name": "mzxrai/mcp-openai",
+  "description": "Seamlessly integrates OpenAI's chat models with Claude Desktop for enhanced conversational capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-mzxrai-mcp-openai-96ff318a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mzxrai-mcp-openai-96ff318a)",
+  "links": {
+    "primary": "https://github.com/mzxrai/mcp-openai",
+    "repo": "https://github.com/mzxrai/mcp-openai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

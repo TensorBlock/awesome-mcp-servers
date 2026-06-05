@@ -1,0 +1,24 @@
+{
+  "id": "github-lee-1024-mcp-glances-3c93c27c",
+  "name": "Lee-1024/mcp-glances",
+  "description": "Integrates MCP with LLMs to analyze server monitoring data via Glances API, providing real-time system status feedback.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-lee-1024-mcp-glances-3c93c27c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lee-1024-mcp-glances-3c93c27c)",
+  "links": {
+    "primary": "https://github.com/Lee-1024/mcp-glances",
+    "repo": "https://github.com/Lee-1024/mcp-glances",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

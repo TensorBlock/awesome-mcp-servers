@@ -1,0 +1,24 @@
+{
+  "id": "github-agentwong-iac-memory-mcp-server-681e118c",
+  "name": "AgentWong/iac-memory-mcp-server",
+  "description": "Enhances Claude AI's capabilities by providing persistent memory storage and version tracking for Infrastructure-as-Code components, focusing on Terraform and Ansible resources.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-agentwong-iac-memory-mcp-server-681e118c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-agentwong-iac-memory-mcp-server-681e118c)",
+  "links": {
+    "primary": "https://github.com/AgentWong/iac-memory-mcp-server",
+    "repo": "https://github.com/AgentWong/iac-memory-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

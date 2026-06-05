@@ -1,0 +1,24 @@
+{
+  "id": "github-supabase-community-supabase-mcp-5a2b1bfa",
+  "name": "supabase-community/supabase-mcp",
+  "description": "Facilitates seamless integration of Supabase projects with AI assistants for efficient project management and database operations.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-supabase-community-supabase-mcp-5a2b1bfa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-supabase-community-supabase-mcp-5a2b1bfa)",
+  "links": {
+    "primary": "https://github.com/supabase-community/supabase-mcp",
+    "repo": "https://github.com/supabase-community/supabase-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

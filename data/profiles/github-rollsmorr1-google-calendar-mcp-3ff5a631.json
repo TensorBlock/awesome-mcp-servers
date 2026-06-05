@@ -1,0 +1,24 @@
+{
+  "id": "github-rollsmorr1-google-calendar-mcp-3ff5a631",
+  "name": "rollsmorr1/google-calendar-mcp",
+  "description": "Facilitates seamless integration with Google Calendar, enabling LLMs to manage events and attendees through a secure and standardized interface.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-rollsmorr1-google-calendar-mcp-3ff5a631",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rollsmorr1-google-calendar-mcp-3ff5a631)",
+  "links": {
+    "primary": "https://github.com/rollsmorr1/google-calendar-mcp",
+    "repo": "https://github.com/rollsmorr1/google-calendar-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-tdergouzi-mcp-server-web3-6f9ffaeb",
+  "name": "tdergouzi/mcp-server-web3",
+  "description": "A Web3 function plugin server leveraging Anthropic's MCP framework for seamless integration with Claude clients.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-tdergouzi-mcp-server-web3-6f9ffaeb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tdergouzi-mcp-server-web3-6f9ffaeb)",
+  "links": {
+    "primary": "https://github.com/tdergouzi/mcp-server-web3",
+    "repo": "https://github.com/tdergouzi/mcp-server-web3",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
