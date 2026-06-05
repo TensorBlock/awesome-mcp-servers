@@ -1,0 +1,24 @@
+{
+  "id": "github-jkf87-mcp-google-calendar-b0d9e3eb",
+  "name": "jkf87/mcp-google-calendar",
+  "description": "Facilitates Claude's integration with Google Calendar using MCP, enabling seamless event management through OAuth authentication.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-jkf87-mcp-google-calendar-b0d9e3eb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jkf87-mcp-google-calendar-b0d9e3eb)",
+  "links": {
+    "primary": "https://github.com/jkf87/mcp-google-calendar",
+    "repo": "https://github.com/jkf87/mcp-google-calendar",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

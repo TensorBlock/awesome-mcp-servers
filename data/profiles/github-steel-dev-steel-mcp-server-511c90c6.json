@@ -1,0 +1,24 @@
+{
+  "id": "github-steel-dev-steel-mcp-server-511c90c6",
+  "name": "steel-dev/steel-mcp-server",
+  "description": "Facilitates web navigation and automation for LLMs using Puppeteer and Steel, enabling tasks like searching, form filling, and price comparison.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-steel-dev-steel-mcp-server-511c90c6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-steel-dev-steel-mcp-server-511c90c6)",
+  "links": {
+    "primary": "https://github.com/steel-dev/steel-mcp-server",
+    "repo": "https://github.com/steel-dev/steel-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

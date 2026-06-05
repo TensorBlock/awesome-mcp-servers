@@ -1,0 +1,24 @@
+{
+  "id": "github-302ai-302-file-parser-mcp-aca5a743",
+  "name": "302ai/302_file_parser_mcp",
+  "description": "Facilitates file parsing through a MCP server, integrating seamlessly with Claude Desktop for enhanced data processing.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-302ai-302-file-parser-mcp-aca5a743",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-302ai-302-file-parser-mcp-aca5a743)",
+  "links": {
+    "primary": "https://github.com/302ai/302_file_parser_mcp",
+    "repo": "https://github.com/302ai/302_file_parser_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

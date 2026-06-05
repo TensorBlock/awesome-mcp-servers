@@ -1,0 +1,24 @@
+{
+  "id": "github-sujal011-mobile-mcp-fdddeb27",
+  "name": "sujal011/mobile-mcp",
+  "description": "A mobile-compatible backend and frontend UI for executing MCP tools, integrating tool calls into LLM responses, and supporting mobile device usage.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-sujal011-mobile-mcp-fdddeb27",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sujal011-mobile-mcp-fdddeb27)",
+  "links": {
+    "primary": "https://github.com/sujal011/mobile-mcp",
+    "repo": "https://github.com/sujal011/mobile-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

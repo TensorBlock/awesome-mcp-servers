@@ -1,0 +1,24 @@
+{
+  "id": "github-zandko-mcp-use-fc67b2de",
+  "name": "zandko/mcp-use",
+  "description": "A TypeScript library facilitating the connection of LangChain.js-compatible LLMs with MCP servers for building AI agents with dynamic tool access.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-zandko-mcp-use-fc67b2de",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zandko-mcp-use-fc67b2de)",
+  "links": {
+    "primary": "https://github.com/zandko/mcp-use",
+    "repo": "https://github.com/zandko/mcp-use",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-laubplusco-mcp-webdav-server-0efc35cf",
+  "name": "LaubPlusCo/mcp-webdav-server",
+  "description": "Facilitates CRUD operations on WebDAV endpoints through natural language commands, integrating seamlessly with Claude Desktop.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-laubplusco-mcp-webdav-server-0efc35cf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-laubplusco-mcp-webdav-server-0efc35cf)",
+  "links": {
+    "primary": "https://github.com/LaubPlusCo/mcp-webdav-server",
+    "repo": "https://github.com/LaubPlusCo/mcp-webdav-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

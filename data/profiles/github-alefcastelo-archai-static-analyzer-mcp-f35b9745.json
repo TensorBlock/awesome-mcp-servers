@@ -1,0 +1,24 @@
+{
+  "id": "github-alefcastelo-archai-static-analyzer-mcp-f35b9745",
+  "name": "alefcastelo/archai-static-analyzer-mcp",
+  "description": "A static analysis MCP server leveraging Bun for efficient JavaScript runtime execution.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-alefcastelo-archai-static-analyzer-mcp-f35b9745",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alefcastelo-archai-static-analyzer-mcp-f35b9745)",
+  "links": {
+    "primary": "https://github.com/alefcastelo/archai-static-analyzer-mcp",
+    "repo": "https://github.com/alefcastelo/archai-static-analyzer-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

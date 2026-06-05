@@ -1,0 +1,24 @@
+{
+  "id": "github-rycid-randomusermcp-fd35b880",
+  "name": "rycid/randomuserMCP",
+  "description": "Enhances randomuser.me API access with custom formatting, password generation, and weighted nationality distribution.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-rycid-randomusermcp-fd35b880",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rycid-randomusermcp-fd35b880)",
+  "links": {
+    "primary": "https://github.com/rycid/randomuserMCP",
+    "repo": "https://github.com/rycid/randomuserMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

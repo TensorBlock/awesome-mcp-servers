@@ -1,0 +1,24 @@
+{
+  "id": "github-ndthanhdev-mcp-browser-kit-b6ff3ac1",
+  "name": "ndthanhdev/mcp-browser-kit",
+  "description": "Facilitates interaction with manifest v2 compatible browsers through an MCP server, supporting integration with Brave and Firefox.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-ndthanhdev-mcp-browser-kit-b6ff3ac1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ndthanhdev-mcp-browser-kit-b6ff3ac1)",
+  "links": {
+    "primary": "https://github.com/ndthanhdev/mcp-browser-kit",
+    "repo": "https://github.com/ndthanhdev/mcp-browser-kit",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

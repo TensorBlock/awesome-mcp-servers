@@ -1,0 +1,24 @@
+{
+  "id": "github-superlowburn-agentrank-7df20d3f",
+  "name": "superlowburn/agentrank",
+  "description": "Live, quality-scored index of 25,000+ MCP servers. Scores tools daily using real GitHub signals — freshness, issue health, contributors, dependents, and stars. Search and discover currently maintained tools via 3 MCP tools. Available as `agentrank-mcp-server` on npm.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-superlowburn-agentrank-7df20d3f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-superlowburn-agentrank-7df20d3f)",
+  "links": {
+    "primary": "https://github.com/superlowburn/agentrank",
+    "repo": "https://github.com/superlowburn/agentrank",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 3
+  }
+}

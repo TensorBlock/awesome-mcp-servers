@@ -1,0 +1,24 @@
+{
+  "id": "github-beilingai-simple-mcp-server-d08d4679",
+  "name": "beilingai/simple-mcp-server",
+  "description": "A simple MCP server that generates random sets of Double Color Ball lottery numbers, interactable via the MCP protocol.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-beilingai-simple-mcp-server-d08d4679",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-beilingai-simple-mcp-server-d08d4679)",
+  "links": {
+    "primary": "https://github.com/beilingai/simple-mcp-server",
+    "repo": "https://github.com/beilingai/simple-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-dannyxiaocn-a-stock-mcp-0bf9bcdc",
+  "name": "dannyxiaocn/a_stock_mcp",
+  "description": "A comprehensive toolset for analyzing A-shares, integrating financial data retrieval, stock trend tracking, market news analysis, and investment recommendations.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-dannyxiaocn-a-stock-mcp-0bf9bcdc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dannyxiaocn-a-stock-mcp-0bf9bcdc)",
+  "links": {
+    "primary": "https://github.com/dannyxiaocn/a_stock_mcp",
+    "repo": "https://github.com/dannyxiaocn/a_stock_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

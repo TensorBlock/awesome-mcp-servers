@@ -1,0 +1,24 @@
+{
+  "id": "github-joeseesun-qiniu-mcp-joe-498d9039",
+  "name": "joeseesun/qiniu-mcp-joe",
+  "description": "Facilitates file uploads to Qiniu Cloud Storage, providing a seamless integration for managing media assets.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-joeseesun-qiniu-mcp-joe-498d9039",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-joeseesun-qiniu-mcp-joe-498d9039)",
+  "links": {
+    "primary": "https://github.com/joeseesun/qiniu-mcp-joe",
+    "repo": "https://github.com/joeseesun/qiniu-mcp-joe",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

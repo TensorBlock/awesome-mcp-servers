@@ -1,0 +1,24 @@
+{
+  "id": "github-clay-inc-clay-mcp-30eb37e6",
+  "name": "clay-inc/clay-mcp",
+  "description": "Facilitates contact and interaction management through a Model Context Protocol server for Clay, enabling efficient search and organization of personal and professional networks.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-clay-inc-clay-mcp-30eb37e6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-clay-inc-clay-mcp-30eb37e6)",
+  "links": {
+    "primary": "https://github.com/clay-inc/clay-mcp",
+    "repo": "https://github.com/clay-inc/clay-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

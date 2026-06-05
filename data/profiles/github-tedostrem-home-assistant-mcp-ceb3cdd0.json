@@ -1,0 +1,24 @@
+{
+  "id": "github-tedostrem-home-assistant-mcp-ceb3cdd0",
+  "name": "tedostrem/home-assistant-mcp",
+  "description": "Facilitates AI-driven control of Home Assistant devices via natural language commands.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-tedostrem-home-assistant-mcp-ceb3cdd0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tedostrem-home-assistant-mcp-ceb3cdd0)",
+  "links": {
+    "primary": "https://github.com/tedostrem/home-assistant-mcp",
+    "repo": "https://github.com/tedostrem/home-assistant-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

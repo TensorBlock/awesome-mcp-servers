@@ -1,0 +1,24 @@
+{
+  "id": "github-pankaj-knit-mcp-sv-82f08a99",
+  "name": "pankaj-knit/MCP-SV",
+  "description": "Provides weather information from the National Weather Service API for integration with AI assistants like Claude.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-pankaj-knit-mcp-sv-82f08a99",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pankaj-knit-mcp-sv-82f08a99)",
+  "links": {
+    "primary": "https://github.com/pankaj-knit/MCP-SV",
+    "repo": "https://github.com/pankaj-knit/MCP-SV",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

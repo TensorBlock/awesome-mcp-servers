@@ -1,0 +1,24 @@
+{
+  "id": "github-stefh-mcpserver-azuredevops-f7049710",
+  "name": "StefH/mcpserver.azuredevops",
+  "description": "A dotnet tool providing a Stdio MCP server interface for seamless interaction with Azure DevOps projects, repositories, and pipelines.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-stefh-mcpserver-azuredevops-f7049710",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stefh-mcpserver-azuredevops-f7049710)",
+  "links": {
+    "primary": "https://github.com/StefH/mcpserver.azuredevops",
+    "repo": "https://github.com/StefH/mcpserver.azuredevops",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

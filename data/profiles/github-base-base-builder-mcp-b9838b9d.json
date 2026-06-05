@@ -1,0 +1,24 @@
+{
+  "id": "github-base-base-builder-mcp-b9838b9d",
+  "name": "base/base-builder-mcp",
+  "description": "Facilitates integration with Base Docs for Model Context Protocol, enabling seamless interaction with Base Builders.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-base-base-builder-mcp-b9838b9d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-base-base-builder-mcp-b9838b9d)",
+  "links": {
+    "primary": "https://github.com/base/base-builder-mcp",
+    "repo": "https://github.com/base/base-builder-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

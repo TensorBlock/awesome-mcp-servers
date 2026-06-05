@@ -1,0 +1,24 @@
+{
+  "id": "github-tonioshikanlu-mcp-gdrive-server-5ad15136",
+  "name": "tonioshikanlu/mcp-gdrive-server",
+  "description": "Integrates with Google Drive to enable file listing, reading, and searching capabilities.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-tonioshikanlu-mcp-gdrive-server-5ad15136",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tonioshikanlu-mcp-gdrive-server-5ad15136)",
+  "links": {
+    "primary": "https://github.com/tonioshikanlu/mcp-gdrive-server",
+    "repo": "https://github.com/tonioshikanlu/mcp-gdrive-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

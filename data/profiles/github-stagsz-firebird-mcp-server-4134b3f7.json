@@ -1,0 +1,24 @@
+{
+  "id": "github-stagsz-firebird-mcp-server-4134b3f7",
+  "name": "stagsz/firebird-mcp-server",
+  "description": "Facilitates read-only SQL queries and schema exploration for Firebird databases, enhancing LLM capabilities.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-stagsz-firebird-mcp-server-4134b3f7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stagsz-firebird-mcp-server-4134b3f7)",
+  "links": {
+    "primary": "https://github.com/stagsz/firebird-mcp-server",
+    "repo": "https://github.com/stagsz/firebird-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

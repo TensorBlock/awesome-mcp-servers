@@ -1,0 +1,24 @@
+{
+  "id": "github-jchris-fp-mcp-b35a8ba1",
+  "name": "jchris/fp-mcp",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-jchris-fp-mcp-b35a8ba1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jchris-fp-mcp-b35a8ba1)",
+  "links": {
+    "primary": "https://github.com/jchris/fp-mcp",
+    "repo": "https://github.com/jchris/fp-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

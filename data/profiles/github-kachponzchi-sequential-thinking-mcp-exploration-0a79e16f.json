@@ -1,0 +1,24 @@
+{
+  "id": "github-kachponzchi-sequential-thinking-mcp-exploration-0a79e16f",
+  "name": "kachponzchi/sequential-thinking-mcp-exploration",
+  "description": "Facilitates structured, progressive thinking by breaking down complex problems into sequential thoughts and generating summaries.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-kachponzchi-sequential-thinking-mcp-exploration-0a79e16f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kachponzchi-sequential-thinking-mcp-exploration-0a79e16f)",
+  "links": {
+    "primary": "https://github.com/kachponzchi/sequential-thinking-mcp-exploration",
+    "repo": "https://github.com/kachponzchi/sequential-thinking-mcp-exploration",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

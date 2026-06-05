@@ -1,0 +1,24 @@
+{
+  "id": "github-catfish-75-claw-task-hub-5d81929a",
+  "name": "Claw Task Hub",
+  "description": "Local-first, SQLite-backed task hub with MCP-compatible tools for AI agent issue tracking, sessions, claims, comments, and acceptance trails.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-catfish-75-claw-task-hub-5d81929a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-catfish-75-claw-task-hub-5d81929a)",
+  "links": {
+    "primary": "https://github.com/Catfish-75/claw-task-hub",
+    "repo": "https://github.com/Catfish-75/claw-task-hub",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

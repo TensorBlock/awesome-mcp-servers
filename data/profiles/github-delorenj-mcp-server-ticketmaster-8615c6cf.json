@@ -1,0 +1,24 @@
+{
+  "id": "github-delorenj-mcp-server-ticketmaster-8615c6cf",
+  "name": "delorenj/mcp-server-ticketmaster",
+  "description": "Facilitates event, venue, and attraction searches via the Ticketmaster Discovery API with flexible filtering and output options.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-delorenj-mcp-server-ticketmaster-8615c6cf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-delorenj-mcp-server-ticketmaster-8615c6cf)",
+  "links": {
+    "primary": "https://github.com/delorenj/mcp-server-ticketmaster",
+    "repo": "https://github.com/delorenj/mcp-server-ticketmaster",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-peng-shawn-mermaid-mcp-server-d7267ab3",
+  "name": "peng-shawn/mermaid-mcp-server",
+  "description": "Transforms Mermaid diagram code into PNG images using Puppeteer for seamless AI integration.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-peng-shawn-mermaid-mcp-server-d7267ab3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-peng-shawn-mermaid-mcp-server-d7267ab3)",
+  "links": {
+    "primary": "https://github.com/peng-shawn/mermaid-mcp-server",
+    "repo": "https://github.com/peng-shawn/mermaid-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

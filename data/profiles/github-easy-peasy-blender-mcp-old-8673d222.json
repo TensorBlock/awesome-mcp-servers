@@ -1,0 +1,24 @@
+{
+  "id": "github-easy-peasy-blender-mcp-old-8673d222",
+  "name": "easy-peasy/blender-mcp-OLD",
+  "description": "Facilitates seamless interaction between Blender and Claude AI for enhanced 3D modeling and scene manipulation through the Model Context Protocol.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-easy-peasy-blender-mcp-old-8673d222",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-easy-peasy-blender-mcp-old-8673d222)",
+  "links": {
+    "primary": "https://github.com/easy-peasy/blender-mcp-OLD",
+    "repo": "https://github.com/easy-peasy/blender-mcp-OLD",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

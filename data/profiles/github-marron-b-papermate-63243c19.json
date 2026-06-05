@@ -1,0 +1,24 @@
+{
+  "id": "github-marron-b-papermate-63243c19",
+  "name": "marron-b/paperMate",
+  "description": "PaperMate enhances academic research by integrating MCP server capabilities for paper search, recommendation, and PDF conversion through the Claude Desktop app.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-marron-b-papermate-63243c19",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-marron-b-papermate-63243c19)",
+  "links": {
+    "primary": "https://github.com/marron-b/paperMate",
+    "repo": "https://github.com/marron-b/paperMate",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

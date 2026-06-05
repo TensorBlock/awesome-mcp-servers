@@ -1,0 +1,24 @@
+{
+  "id": "github-2re1million-barentswatch-mcp-99fb23b1",
+  "name": "2re1million/barentswatch-mcp",
+  "description": "Facilitates real-time maritime vessel tracking and analysis in Norwegian waters using the Barentswatch AIS API.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-2re1million-barentswatch-mcp-99fb23b1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-2re1million-barentswatch-mcp-99fb23b1)",
+  "links": {
+    "primary": "https://github.com/2re1million/barentswatch-mcp",
+    "repo": "https://github.com/2re1million/barentswatch-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

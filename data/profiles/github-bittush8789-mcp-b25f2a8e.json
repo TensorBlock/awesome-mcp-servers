@@ -1,0 +1,24 @@
+{
+  "id": "github-bittush8789-mcp-b25f2a8e",
+  "name": "bittush8789/MCP",
+  "description": "Fetches weather data from the National Weather Service API, providing tools for retrieving active alerts and short-term forecasts.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-bittush8789-mcp-b25f2a8e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bittush8789-mcp-b25f2a8e)",
+  "links": {
+    "primary": "https://github.com/bittush8789/MCP",
+    "repo": "https://github.com/bittush8789/MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

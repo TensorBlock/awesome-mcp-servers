@@ -1,0 +1,24 @@
+{
+  "id": "github-kbyk004-playwright-lighthouse-mcp-5feef1c4",
+  "name": "kbyk004/playwright-lighthouse-mcp",
+  "description": "Analyzes website performance using Playwright and Lighthouse, enabling LLMs to perform detailed performance analysis via MCP.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-kbyk004-playwright-lighthouse-mcp-5feef1c4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kbyk004-playwright-lighthouse-mcp-5feef1c4)",
+  "links": {
+    "primary": "https://github.com/kbyk004/playwright-lighthouse-mcp",
+    "repo": "https://github.com/kbyk004/playwright-lighthouse-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

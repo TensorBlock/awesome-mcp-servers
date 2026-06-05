@@ -1,0 +1,24 @@
+{
+  "id": "github-jhsu-llm-model-providers-mcp-bc4269c1",
+  "name": "jhsu/llm-model-providers-mcp",
+  "description": "Fetches available LLM models from various providers for integration with Claude Desktop.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-jhsu-llm-model-providers-mcp-bc4269c1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jhsu-llm-model-providers-mcp-bc4269c1)",
+  "links": {
+    "primary": "https://github.com/jhsu/llm-model-providers-mcp",
+    "repo": "https://github.com/jhsu/llm-model-providers-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

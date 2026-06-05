@@ -1,0 +1,24 @@
+{
+  "id": "github-quantgeekdev-mcp-framework-74331916",
+  "name": "QuantGeekDev/mcp-framework",
+  "description": "A TypeScript framework for building Model Context Protocol servers with automatic discovery and multiple transport support.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-quantgeekdev-mcp-framework-74331916",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-quantgeekdev-mcp-framework-74331916)",
+  "links": {
+    "primary": "https://github.com/QuantGeekDev/mcp-framework",
+    "repo": "https://github.com/QuantGeekDev/mcp-framework",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
