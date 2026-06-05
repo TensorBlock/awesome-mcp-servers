@@ -1,0 +1,24 @@
+{
+  "id": "github-amitgupta4407-my-custom-mcp-d6c69388",
+  "name": "amitgupta4407/my-custom-mcp",
+  "description": "A customizable MCP server for managing and summarizing text-based notes with support for Mistral OCR and Crawl4AI.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-amitgupta4407-my-custom-mcp-d6c69388",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amitgupta4407-my-custom-mcp-d6c69388)",
+  "links": {
+    "primary": "https://github.com/amitgupta4407/my-custom-mcp",
+    "repo": "https://github.com/amitgupta4407/my-custom-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

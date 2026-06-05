@@ -1,0 +1,24 @@
+{
+  "id": "github-raymondlowe-roo-code-custom-mode-editor-mcp-server-1c6e2182",
+  "name": "raymondlowe/roo-code-custom-mode-editor-mcp-server",
+  "description": "Facilitates editing of Roo Code custom modes by providing tools to list, create, and modify mode fields without direct file manipulation.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-raymondlowe-roo-code-custom-mode-editor-mcp-server-1c6e2182",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-raymondlowe-roo-code-custom-mode-editor-mcp-server-1c6e2182)",
+  "links": {
+    "primary": "https://github.com/raymondlowe/roo-code-custom-mode-editor-mcp-server",
+    "repo": "https://github.com/raymondlowe/roo-code-custom-mode-editor-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-yuzhi-jiang-memos-mcp-cfc0951d",
+  "name": "yuzhi-jiang/memos-mcp",
+  "description": "Connects to Memos for structured access and interaction via AI assistants like Claude, offering features like search, creation, and management of memos.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-yuzhi-jiang-memos-mcp-cfc0951d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yuzhi-jiang-memos-mcp-cfc0951d)",
+  "links": {
+    "primary": "https://github.com/yuzhi-jiang/memos-mcp",
+    "repo": "https://github.com/yuzhi-jiang/memos-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

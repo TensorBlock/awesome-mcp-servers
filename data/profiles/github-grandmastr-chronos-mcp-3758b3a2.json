@@ -1,0 +1,24 @@
+{
+  "id": "github-grandmastr-chronos-mcp-3758b3a2",
+  "name": "grandmastr/chronos-mcp",
+  "description": "Chronos empowers AI assistants with on-chain tools for seamless interactions with the Stellar blockchain, offering wallet connectivity, token management, and fund transfers.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-grandmastr-chronos-mcp-3758b3a2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-grandmastr-chronos-mcp-3758b3a2)",
+  "links": {
+    "primary": "https://github.com/grandmastr/chronos-mcp",
+    "repo": "https://github.com/grandmastr/chronos-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

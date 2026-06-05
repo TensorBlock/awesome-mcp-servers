@@ -1,0 +1,24 @@
+{
+  "id": "github-dablclub-polygon-mcp-6b485ced",
+  "name": "Dablclub/polygon-mcp",
+  "description": "Facilitates interaction with the Polygon PoS blockchain for Claude AI, enabling contract function calls, ERC20 token management, and gas price retrieval.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-dablclub-polygon-mcp-6b485ced",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dablclub-polygon-mcp-6b485ced)",
+  "links": {
+    "primary": "https://github.com/Dablclub/polygon-mcp",
+    "repo": "https://github.com/Dablclub/polygon-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

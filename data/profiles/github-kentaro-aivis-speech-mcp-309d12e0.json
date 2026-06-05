@@ -1,0 +1,24 @@
+{
+  "id": "github-kentaro-aivis-speech-mcp-309d12e0",
+  "name": "kentaro/aivis-speech-mcp",
+  "description": "Facilitates seamless integration of AivisSpeech Engine for high-quality speech synthesis through MCP protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-kentaro-aivis-speech-mcp-309d12e0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kentaro-aivis-speech-mcp-309d12e0)",
+  "links": {
+    "primary": "https://github.com/kentaro/aivis-speech-mcp",
+    "repo": "https://github.com/kentaro/aivis-speech-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

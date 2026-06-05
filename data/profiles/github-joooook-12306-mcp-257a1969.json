@@ -1,0 +1,24 @@
+{
+  "id": "github-joooook-12306-mcp-257a1969",
+  "name": "Joooook/12306-mcp",
+  "description": "Facilitates 12306 ticket searches using a simple API interface based on the Model Context Protocol.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-joooook-12306-mcp-257a1969",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-joooook-12306-mcp-257a1969)",
+  "links": {
+    "primary": "https://github.com/Joooook/12306-mcp",
+    "repo": "https://github.com/Joooook/12306-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

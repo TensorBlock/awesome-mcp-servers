@@ -1,0 +1,24 @@
+{
+  "id": "github-ab498-code-context-provider-mcp-86d43be8",
+  "name": "AB498/code-context-provider-mcp",
+  "description": "Provides code context and analysis for AI assistants by extracting directory structures and code symbols using WebAssembly Tree-sitter parsers.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-ab498-code-context-provider-mcp-86d43be8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ab498-code-context-provider-mcp-86d43be8)",
+  "links": {
+    "primary": "https://github.com/AB498/code-context-provider-mcp",
+    "repo": "https://github.com/AB498/code-context-provider-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

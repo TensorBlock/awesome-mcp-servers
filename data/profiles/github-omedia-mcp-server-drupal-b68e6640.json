@@ -1,0 +1,24 @@
+{
+  "id": "github-omedia-mcp-server-drupal-b68e6640",
+  "name": "Omedia/mcp-server-drupal",
+  "description": "A TypeScript-based MCP server designed to integrate with the Drupal MCP module using STDIO transport.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-omedia-mcp-server-drupal-b68e6640",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-omedia-mcp-server-drupal-b68e6640)",
+  "links": {
+    "primary": "https://github.com/Omedia/mcp-server-drupal",
+    "repo": "https://github.com/Omedia/mcp-server-drupal",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

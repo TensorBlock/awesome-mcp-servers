@@ -1,0 +1,24 @@
+{
+  "id": "github-pietrozullo-mcp-use-3e1b476d",
+  "name": "pietrozullo/mcp-use",
+  "description": "MCP-Use is an open-source library that facilitates connecting any LLM to MCP tools, enabling the creation of custom agents with tool access for tasks like web browsing and file operations.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-pietrozullo-mcp-use-3e1b476d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pietrozullo-mcp-use-3e1b476d)",
+  "links": {
+    "primary": "https://github.com/pietrozullo/mcp-use",
+    "repo": "https://github.com/pietrozullo/mcp-use",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

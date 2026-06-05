@@ -1,0 +1,24 @@
+{
+  "id": "github-correctroadh-zimaos-mcp-0230d7e8",
+  "name": "CorrectRoadH/ZimaOS-MCP",
+  "description": "ZimaOS-MCP leverages the mcp-framework to provide a robust server environment for Model Context Protocol operations.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-correctroadh-zimaos-mcp-0230d7e8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-correctroadh-zimaos-mcp-0230d7e8)",
+  "links": {
+    "primary": "https://github.com/CorrectRoadH/ZimaOS-MCP",
+    "repo": "https://github.com/CorrectRoadH/ZimaOS-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

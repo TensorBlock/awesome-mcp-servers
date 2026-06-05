@@ -1,0 +1,24 @@
+{
+  "id": "github-william-dic-self-reflection-claude-e8ac1815",
+  "name": "william-Dic/Self-Reflection-Claude",
+  "description": "An autonomous learning system for Claude that enhances its error detection and correction capabilities using the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-william-dic-self-reflection-claude-e8ac1815",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-william-dic-self-reflection-claude-e8ac1815)",
+  "links": {
+    "primary": "https://github.com/william-Dic/Self-Reflection-Claude",
+    "repo": "https://github.com/william-Dic/Self-Reflection-Claude",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

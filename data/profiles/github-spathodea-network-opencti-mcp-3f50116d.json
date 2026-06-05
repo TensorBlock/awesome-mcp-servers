@@ -1,0 +1,24 @@
+{
+  "id": "github-spathodea-network-opencti-mcp-3f50116d",
+  "name": "Spathodea-Network/opencti-mcp",
+  "description": "OpenCTI MCP Server integrates seamlessly with the OpenCTI platform to enable querying and retrieving cyber threat intelligence data through a standardized interface.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-spathodea-network-opencti-mcp-3f50116d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-spathodea-network-opencti-mcp-3f50116d)",
+  "links": {
+    "primary": "https://github.com/Spathodea-Network/opencti-mcp",
+    "repo": "https://github.com/Spathodea-Network/opencti-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

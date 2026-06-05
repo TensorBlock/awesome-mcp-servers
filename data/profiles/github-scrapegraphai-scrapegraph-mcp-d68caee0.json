@@ -1,0 +1,24 @@
+{
+  "id": "github-scrapegraphai-scrapegraph-mcp-d68caee0",
+  "name": "ScrapeGraphAI/scrapegraph-mcp",
+  "description": "Enables language models to perform advanced AI-powered web scraping with ScapeGraph API integration.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-scrapegraphai-scrapegraph-mcp-d68caee0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-scrapegraphai-scrapegraph-mcp-d68caee0)",
+  "links": {
+    "primary": "https://github.com/ScrapeGraphAI/scrapegraph-mcp",
+    "repo": "https://github.com/ScrapeGraphAI/scrapegraph-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

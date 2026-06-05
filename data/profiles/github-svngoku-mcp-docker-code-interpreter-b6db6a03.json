@@ -1,0 +1,24 @@
+{
+  "id": "github-svngoku-mcp-docker-code-interpreter-b6db6a03",
+  "name": "svngoku/mcp-docker-code-interpreter",
+  "description": "A secure Docker-based environment for executing code through MCP, enabling AI assistants to run code safely within isolated containers.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-svngoku-mcp-docker-code-interpreter-b6db6a03",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-svngoku-mcp-docker-code-interpreter-b6db6a03)",
+  "links": {
+    "primary": "https://github.com/svngoku/mcp-docker-code-interpreter",
+    "repo": "https://github.com/svngoku/mcp-docker-code-interpreter",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-gongrzhe-travel-planner-mcp-server-9b51a63f",
+  "name": "GongRzhe/TRAVEL-PLANNER-MCP-Server",
+  "description": "Facilitates travel-related tasks by integrating with Google Maps for location search, place details, and route calculations.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-gongrzhe-travel-planner-mcp-server-9b51a63f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gongrzhe-travel-planner-mcp-server-9b51a63f)",
+  "links": {
+    "primary": "https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server",
+    "repo": "https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

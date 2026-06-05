@@ -1,0 +1,24 @@
+{
+  "id": "github-landicefu-android-adb-mcp-server-072cc2c5",
+  "name": "landicefu/android-adb-mcp-server",
+  "description": "Facilitates AI-driven automation and management of Android devices via ADB, enhancing development and testing workflows.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-landicefu-android-adb-mcp-server-072cc2c5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-landicefu-android-adb-mcp-server-072cc2c5)",
+  "links": {
+    "primary": "https://github.com/landicefu/android-adb-mcp-server",
+    "repo": "https://github.com/landicefu/android-adb-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

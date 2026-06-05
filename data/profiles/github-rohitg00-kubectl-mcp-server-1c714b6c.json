@@ -1,0 +1,24 @@
+{
+  "id": "github-rohitg00-kubectl-mcp-server-1c714b6c",
+  "name": "rohitg00/kubectl-mcp-server",
+  "description": "Facilitates natural language interaction with Kubernetes clusters via AI assistants, leveraging the Model Context Protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-rohitg00-kubectl-mcp-server-1c714b6c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rohitg00-kubectl-mcp-server-1c714b6c)",
+  "links": {
+    "primary": "https://github.com/rohitg00/kubectl-mcp-server",
+    "repo": "https://github.com/rohitg00/kubectl-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

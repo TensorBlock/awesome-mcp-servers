@@ -1,0 +1,24 @@
+{
+  "id": "github-svilupp-modelcontextprotocol-jl-b18e8612",
+  "name": "svilupp/ModelContextProtocol.jl",
+  "description": "A Julia SDK for building MCP-compliant servers and clients, enabling AI models to access external tools via JSON-RPC 2.0.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-svilupp-modelcontextprotocol-jl-b18e8612",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-svilupp-modelcontextprotocol-jl-b18e8612)",
+  "links": {
+    "primary": "https://github.com/svilupp/ModelContextProtocol.jl",
+    "repo": "https://github.com/svilupp/ModelContextProtocol.jl",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

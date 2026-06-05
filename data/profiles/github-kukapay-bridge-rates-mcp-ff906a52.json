@@ -1,0 +1,24 @@
+{
+  "id": "github-kukapay-bridge-rates-mcp-ff906a52",
+  "name": "kukapay/bridge-rates-mcp",
+  "description": "Delivers real-time cross-chain bridge rates and optimal transfer routes for onchain AI agents.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-bridge-rates-mcp-ff906a52",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-bridge-rates-mcp-ff906a52)",
+  "links": {
+    "primary": "https://github.com/kukapay/bridge-rates-mcp",
+    "repo": "https://github.com/kukapay/bridge-rates-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

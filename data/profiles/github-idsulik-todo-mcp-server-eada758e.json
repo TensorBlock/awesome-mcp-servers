@@ -1,0 +1,24 @@
+{
+  "id": "github-idsulik-todo-mcp-server-eada758e",
+  "name": "idsulik/todo-mcp-server",
+  "description": "A minimal Todo application utilizing MCP for managing and interacting with tasks, serving as a practical demonstration of MCP server capabilities.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-idsulik-todo-mcp-server-eada758e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-idsulik-todo-mcp-server-eada758e)",
+  "links": {
+    "primary": "https://github.com/idsulik/todo-mcp-server",
+    "repo": "https://github.com/idsulik/todo-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

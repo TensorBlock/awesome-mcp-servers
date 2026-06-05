@@ -1,0 +1,24 @@
+{
+  "id": "github-wuwen1030-mysql-mcp-server-a75f1ae3",
+  "name": "wuwen1030/mysql-mcp-server",
+  "description": "Facilitates AI model interactions with MySQL databases via a standardized MCP interface.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-wuwen1030-mysql-mcp-server-a75f1ae3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wuwen1030-mysql-mcp-server-a75f1ae3)",
+  "links": {
+    "primary": "https://github.com/wuwen1030/mysql-mcp-server",
+    "repo": "https://github.com/wuwen1030/mysql-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
