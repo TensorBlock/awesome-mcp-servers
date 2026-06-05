@@ -1,0 +1,24 @@
+{
+  "id": "github-cyreslab-ai-satellitetracking-mcp-server-7e0a5e70",
+  "name": "Cyreslab-AI/satellitetracking-mcp-server",
+  "description": "Access real-time satellite tracking data and predictions using the N2YO API.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-cyreslab-ai-satellitetracking-mcp-server-7e0a5e70",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cyreslab-ai-satellitetracking-mcp-server-7e0a5e70)",
+  "links": {
+    "primary": "https://github.com/Cyreslab-AI/satellitetracking-mcp-server",
+    "repo": "https://github.com/Cyreslab-AI/satellitetracking-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

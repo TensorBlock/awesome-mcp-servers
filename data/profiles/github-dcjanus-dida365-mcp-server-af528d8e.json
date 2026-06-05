@@ -1,0 +1,24 @@
+{
+  "id": "github-dcjanus-dida365-mcp-server-af528d8e",
+  "name": "DCjanus/dida365-mcp-server",
+  "description": "Facilitates seamless integration with Dida365 through a secure OAuth 2.0 authenticated MCP server interface.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-dcjanus-dida365-mcp-server-af528d8e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dcjanus-dida365-mcp-server-af528d8e)",
+  "links": {
+    "primary": "https://github.com/DCjanus/dida365-mcp-server",
+    "repo": "https://github.com/DCjanus/dida365-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

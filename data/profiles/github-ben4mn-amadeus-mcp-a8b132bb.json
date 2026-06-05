@@ -1,0 +1,24 @@
+{
+  "id": "github-ben4mn-amadeus-mcp-a8b132bb",
+  "name": "ben4mn/amadeus-mcp",
+  "description": "Integrates Amadeus flight search capabilities with Claude Desktop for seamless travel planning.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-ben4mn-amadeus-mcp-a8b132bb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ben4mn-amadeus-mcp-a8b132bb)",
+  "links": {
+    "primary": "https://github.com/ben4mn/amadeus-mcp",
+    "repo": "https://github.com/ben4mn/amadeus-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

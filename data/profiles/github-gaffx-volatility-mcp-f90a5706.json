@@ -1,0 +1,24 @@
+{
+  "id": "github-gaffx-volatility-mcp-f90a5706",
+  "name": "Gaffx/volatility-mcp",
+  "description": "Integrates Volatility 3's memory analysis capabilities with FastAPI and MCP for seamless AI-assisted memory forensics.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-gaffx-volatility-mcp-f90a5706",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gaffx-volatility-mcp-f90a5706)",
+  "links": {
+    "primary": "https://github.com/Gaffx/volatility-mcp",
+    "repo": "https://github.com/Gaffx/volatility-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

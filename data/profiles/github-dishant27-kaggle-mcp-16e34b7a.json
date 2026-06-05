@@ -1,0 +1,24 @@
+{
+  "id": "github-dishant27-kaggle-mcp-16e34b7a",
+  "name": "Dishant27/kaggle-MCP",
+  "description": "Facilitates seamless interaction with Kaggle competitions through AI assistants like Claude, enabling operations such as listing competitions, downloading files, and submitting predictions.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-dishant27-kaggle-mcp-16e34b7a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dishant27-kaggle-mcp-16e34b7a)",
+  "links": {
+    "primary": "https://github.com/Dishant27/kaggle-MCP",
+    "repo": "https://github.com/Dishant27/kaggle-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

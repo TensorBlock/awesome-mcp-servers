@@ -1,0 +1,24 @@
+{
+  "id": "github-kaichen-mcp-local-router-57dee2bc",
+  "name": "kaichen/mcp-local-router",
+  "description": "A local router that aggregates multiple MCP servers into a unified interface for streamlined client access.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-kaichen-mcp-local-router-57dee2bc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kaichen-mcp-local-router-57dee2bc)",
+  "links": {
+    "primary": "https://github.com/kaichen/mcp-local-router",
+    "repo": "https://github.com/kaichen/mcp-local-router",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

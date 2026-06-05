@@ -1,0 +1,24 @@
+{
+  "id": "github-karayaman-lichess-mcp-874e860a",
+  "name": "karayaman/lichess-mcp",
+  "description": "Facilitates natural language interaction with the Lichess chess platform via Claude Desktop, enabling users to play, analyze, and manage chess activities seamlessly.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-karayaman-lichess-mcp-874e860a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-karayaman-lichess-mcp-874e860a)",
+  "links": {
+    "primary": "https://github.com/karayaman/lichess-mcp",
+    "repo": "https://github.com/karayaman/lichess-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

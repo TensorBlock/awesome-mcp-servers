@@ -1,0 +1,24 @@
+{
+  "id": "github-0010aor-mcp-pr-pilot-91e74007",
+  "name": "0010aor/mcp-pr-pilot",
+  "description": "Enhances pull request workflows by generating PR descriptions, commit messages, and code reviews using LLMs based on code changes.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-0010aor-mcp-pr-pilot-91e74007",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-0010aor-mcp-pr-pilot-91e74007)",
+  "links": {
+    "primary": "https://github.com/0010aor/mcp-pr-pilot",
+    "repo": "https://github.com/0010aor/mcp-pr-pilot",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

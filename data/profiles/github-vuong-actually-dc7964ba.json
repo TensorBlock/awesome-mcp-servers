@@ -1,0 +1,24 @@
+{
+  "id": "github-vuong-actually-dc7964ba",
+  "name": "Vuong/actually",
+  "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-vuong-actually-dc7964ba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vuong-actually-dc7964ba)",
+  "links": {
+    "primary": "https://github.com/Vuong/actually",
+    "repo": "https://github.com/Vuong/actually",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

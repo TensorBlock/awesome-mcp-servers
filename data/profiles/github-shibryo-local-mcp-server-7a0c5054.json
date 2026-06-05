@@ -1,0 +1,24 @@
+{
+  "id": "github-shibryo-local-mcp-server-7a0c5054",
+  "name": "shibryo/local-mcp-server",
+  "description": "A personal MCP server setup guide using Go for local development.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-shibryo-local-mcp-server-7a0c5054",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shibryo-local-mcp-server-7a0c5054)",
+  "links": {
+    "primary": "https://github.com/shibryo/local-mcp-server",
+    "repo": "https://github.com/shibryo/local-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

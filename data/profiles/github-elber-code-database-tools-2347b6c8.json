@@ -1,0 +1,24 @@
+{
+  "id": "github-elber-code-database-tools-2347b6c8",
+  "name": "elber-code/database-tools",
+  "description": "Facilitates direct interaction between Claude AI and MySQL databases for executing SQL queries and retrieving table information.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-elber-code-database-tools-2347b6c8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elber-code-database-tools-2347b6c8)",
+  "links": {
+    "primary": "https://github.com/elber-code/database-tools",
+    "repo": "https://github.com/elber-code/database-tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

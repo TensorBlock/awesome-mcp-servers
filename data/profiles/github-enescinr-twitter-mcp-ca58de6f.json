@@ -1,0 +1,24 @@
+{
+  "id": "github-enescinr-twitter-mcp-ca58de6f",
+  "name": "EnesCinr/twitter-mcp",
+  "description": "Facilitates interaction with Twitter by enabling tweet posting and search functionalities.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-enescinr-twitter-mcp-ca58de6f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-enescinr-twitter-mcp-ca58de6f)",
+  "links": {
+    "primary": "https://github.com/EnesCinr/twitter-mcp",
+    "repo": "https://github.com/EnesCinr/twitter-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

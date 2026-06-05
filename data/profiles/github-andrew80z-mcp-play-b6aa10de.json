@@ -1,0 +1,24 @@
+{
+  "id": "github-andrew80z-mcp-play-b6aa10de",
+  "name": "andrew80z/MCP_play",
+  "description": "Enables LLMs to automate browser interactions using Playwright's accessibility snapshots for efficient and structured web page navigation.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-andrew80z-mcp-play-b6aa10de",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-andrew80z-mcp-play-b6aa10de)",
+  "links": {
+    "primary": "https://github.com/andrew80z/MCP_play",
+    "repo": "https://github.com/andrew80z/MCP_play",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

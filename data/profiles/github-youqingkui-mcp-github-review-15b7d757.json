@@ -1,0 +1,24 @@
+{
+  "id": "github-youqingkui-mcp-github-review-15b7d757",
+  "name": "youqingkui/mcp_github_review",
+  "description": "Facilitates GitHub pull request reviews by providing summaries, comments, and code analysis through an MCP server integrated with Claude Desktop.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-youqingkui-mcp-github-review-15b7d757",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-youqingkui-mcp-github-review-15b7d757)",
+  "links": {
+    "primary": "https://github.com/youqingkui/mcp_github_review",
+    "repo": "https://github.com/youqingkui/mcp_github_review",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

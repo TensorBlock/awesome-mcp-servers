@@ -1,0 +1,24 @@
+{
+  "id": "github-ahujasid-blender-mcp-d593f340",
+  "name": "ahujasid/blender-mcp",
+  "description": "BlenderMCP enables seamless integration between Blender and Claude AI for interactive 3D modeling and scene manipulation via the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ahujasid-blender-mcp-d593f340",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ahujasid-blender-mcp-d593f340)",
+  "links": {
+    "primary": "https://github.com/ahujasid/blender-mcp",
+    "repo": "https://github.com/ahujasid/blender-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

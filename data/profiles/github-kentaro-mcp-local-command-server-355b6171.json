@@ -1,0 +1,24 @@
+{
+  "id": "github-kentaro-mcp-local-command-server-355b6171",
+  "name": "kentaro/mcp-local-command-server",
+  "description": "A TypeScript-based server that executes commands and returns structured outputs, designed for integration with Claude Desktop.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-kentaro-mcp-local-command-server-355b6171",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kentaro-mcp-local-command-server-355b6171)",
+  "links": {
+    "primary": "https://github.com/kentaro/mcp-local-command-server",
+    "repo": "https://github.com/kentaro/mcp-local-command-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

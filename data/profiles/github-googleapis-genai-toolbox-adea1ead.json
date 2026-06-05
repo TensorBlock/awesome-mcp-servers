@@ -1,0 +1,24 @@
+{
+  "id": "github-googleapis-genai-toolbox-adea1ead",
+  "name": "googleapis/genai-toolbox",
+  "description": "Open source MCP server specializing in easy, fast, and secure tools for Databases.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-googleapis-genai-toolbox-adea1ead",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-googleapis-genai-toolbox-adea1ead)",
+  "links": {
+    "primary": "https://github.com/googleapis/genai-toolbox",
+    "repo": "https://github.com/googleapis/genai-toolbox",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

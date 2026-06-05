@@ -1,0 +1,24 @@
+{
+  "id": "github-mottibec-israeli-bank-mcp-044b0bca",
+  "name": "mottibec/israeli-bank-mcp",
+  "description": "Manage Israeli bank accounts and transactions securely using the Model Context Protocol, supporting all major banks and credit card companies.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-mottibec-israeli-bank-mcp-044b0bca",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mottibec-israeli-bank-mcp-044b0bca)",
+  "links": {
+    "primary": "https://github.com/mottibec/israeli-bank-mcp",
+    "repo": "https://github.com/mottibec/israeli-bank-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

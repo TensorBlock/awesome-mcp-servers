@@ -1,0 +1,24 @@
+{
+  "id": "github-landmaster135-mcps-go-32ef5f76",
+  "name": "landmaster135/mcps-go",
+  "description": "A Go-based MCP server facilitating arithmetic, datetime calculations, HTTP requests, and Brave web searches.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-landmaster135-mcps-go-32ef5f76",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-landmaster135-mcps-go-32ef5f76)",
+  "links": {
+    "primary": "https://github.com/landmaster135/mcps-go",
+    "repo": "https://github.com/landmaster135/mcps-go",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

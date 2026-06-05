@@ -1,0 +1,24 @@
+{
+  "id": "github-yangkyeongmo-mcp-server-apache-airflow-8035ca3f",
+  "name": "yangkyeongmo/mcp-server-apache-airflow",
+  "description": "Facilitates seamless interaction with Apache Airflow through a standardized MCP interface, leveraging the official client library for robust DAG and task management.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-yangkyeongmo-mcp-server-apache-airflow-8035ca3f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yangkyeongmo-mcp-server-apache-airflow-8035ca3f)",
+  "links": {
+    "primary": "https://github.com/yangkyeongmo/mcp-server-apache-airflow",
+    "repo": "https://github.com/yangkyeongmo/mcp-server-apache-airflow",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

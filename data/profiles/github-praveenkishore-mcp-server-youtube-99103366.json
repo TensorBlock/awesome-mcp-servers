@@ -1,0 +1,24 @@
+{
+  "id": "github-praveenkishore-mcp-server-youtube-99103366",
+  "name": "PraveenKishore/mcp-server-youtube",
+  "description": "Facilitates secure and efficient retrieval of YouTube video transcripts for LLMs using the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-praveenkishore-mcp-server-youtube-99103366",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-praveenkishore-mcp-server-youtube-99103366)",
+  "links": {
+    "primary": "https://github.com/PraveenKishore/mcp-server-youtube",
+    "repo": "https://github.com/PraveenKishore/mcp-server-youtube",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

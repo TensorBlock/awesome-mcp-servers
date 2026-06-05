@@ -1,0 +1,24 @@
+{
+  "id": "github-iimuz-mcp-servers-ba06090f",
+  "name": "iimuz/mcp-servers",
+  "description": "A collection of MCP servers configured for personal use, optimized for SSE mode in Docker environments.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-iimuz-mcp-servers-ba06090f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iimuz-mcp-servers-ba06090f)",
+  "links": {
+    "primary": "https://github.com/iimuz/mcp-servers",
+    "repo": "https://github.com/iimuz/mcp-servers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

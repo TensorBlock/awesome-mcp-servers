@@ -1,0 +1,24 @@
+{
+  "id": "github-pollyannaanalytics-figma-bdd-mcp-server-32053934",
+  "name": "pollyannaanalytics/Figma-BDD-MCP-Server",
+  "description": "Automatically generates BDD test plans from Figma designs using a microservice architecture.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-pollyannaanalytics-figma-bdd-mcp-server-32053934",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pollyannaanalytics-figma-bdd-mcp-server-32053934)",
+  "links": {
+    "primary": "https://github.com/pollyannaanalytics/Figma-BDD-MCP-Server",
+    "repo": "https://github.com/pollyannaanalytics/Figma-BDD-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

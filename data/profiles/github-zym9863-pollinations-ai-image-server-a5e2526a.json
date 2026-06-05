@@ -1,0 +1,24 @@
+{
+  "id": "github-zym9863-pollinations-ai-image-server-a5e2526a",
+  "name": "zym9863/pollinations-ai-image-server",
+  "description": "A TypeScript-based server for generating images using Pollinations AI, featuring integration with Claude Desktop.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-zym9863-pollinations-ai-image-server-a5e2526a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zym9863-pollinations-ai-image-server-a5e2526a)",
+  "links": {
+    "primary": "https://github.com/zym9863/pollinations-ai-image-server",
+    "repo": "https://github.com/zym9863/pollinations-ai-image-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

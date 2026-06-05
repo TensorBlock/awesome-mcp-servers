@@ -1,0 +1,24 @@
+{
+  "id": "github-metoro-io-mcp-golang-57ee5ba2",
+  "name": "metoro-io/mcp-golang",
+  "description": "Effortlessly create Model Context Protocol servers and clients in Go with minimal code using mcp-golang.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-metoro-io-mcp-golang-57ee5ba2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-metoro-io-mcp-golang-57ee5ba2)",
+  "links": {
+    "primary": "https://github.com/metoro-io/mcp-golang",
+    "repo": "https://github.com/metoro-io/mcp-golang",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
