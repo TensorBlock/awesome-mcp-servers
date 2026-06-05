@@ -1,0 +1,24 @@
+{
+  "id": "github-tonytimo-onboarding-mcp-addc6824",
+  "name": "tonytimo/onboarding-mcp",
+  "description": "Orellis enables engineers to query and explore their local Python codebase using natural language, ensuring secure and private onboarding assistance through a local LLM.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-tonytimo-onboarding-mcp-addc6824",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tonytimo-onboarding-mcp-addc6824)",
+  "links": {
+    "primary": "https://github.com/tonytimo/onboarding-mcp",
+    "repo": "https://github.com/tonytimo/onboarding-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

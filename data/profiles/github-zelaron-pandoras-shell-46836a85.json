@@ -1,0 +1,24 @@
+{
+  "id": "github-zelaron-pandoras-shell-46836a85",
+  "name": "Zelaron/Pandoras-Shell",
+  "description": "Pandora's Shell allows AI assistants to execute terminal commands securely through a shell interface, emphasizing controlled environments for safe usage.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-zelaron-pandoras-shell-46836a85",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zelaron-pandoras-shell-46836a85)",
+  "links": {
+    "primary": "https://github.com/Zelaron/Pandoras-Shell",
+    "repo": "https://github.com/Zelaron/Pandoras-Shell",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-elromevedelelyon-sovereign-agent-chain-8240067e",
+  "name": "ElromEvedElElyon/sovereign-agent-chain",
+  "description": "Bitcoin-native AI agent marketplace with AGT meta-protocol on OP_RETURN. 32 MCP tools — PSBT wallet bridge, cross-chain swaps (BTC/SOL/ETH/Runes), agent registry, reputation system, escrow, and block scanner. 258 tests. Install: `git clone https://github.com/ElromEvedElElyon/sovereign-agent-chain.git && cd sovereign-agent-chain && npm install && npm run build`",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-elromevedelelyon-sovereign-agent-chain-8240067e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elromevedelelyon-sovereign-agent-chain-8240067e)",
+  "links": {
+    "primary": "https://github.com/ElromEvedElElyon/sovereign-agent-chain",
+    "repo": "https://github.com/ElromEvedElElyon/sovereign-agent-chain",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": 32
+  }
+}

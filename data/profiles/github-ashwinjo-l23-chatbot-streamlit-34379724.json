@@ -1,0 +1,24 @@
+{
+  "id": "github-ashwinjo-l23-chatbot-streamlit-34379724",
+  "name": "ashwinjo/l23-chatbot-streamlit",
+  "description": "The repository provides a unified client library to connect any LLM to MCP servers, enabling the creation of custom agents with tool access.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ashwinjo-l23-chatbot-streamlit-34379724",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ashwinjo-l23-chatbot-streamlit-34379724)",
+  "links": {
+    "primary": "https://github.com/ashwinjo/l23-chatbot-streamlit",
+    "repo": "https://github.com/ashwinjo/l23-chatbot-streamlit",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-pimzino-vscode-local-snapshots-2ddcf2c3",
+  "name": "Pimzino/vscode-local-snapshots",
+  "description": "Local Snapshots for VS Code enables seamless workspace file snapshot management with manual and automatic capabilities, featuring an optional MCP server for AI tool integration.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-pimzino-vscode-local-snapshots-2ddcf2c3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pimzino-vscode-local-snapshots-2ddcf2c3)",
+  "links": {
+    "primary": "https://github.com/Pimzino/vscode-local-snapshots",
+    "repo": "https://github.com/Pimzino/vscode-local-snapshots",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-fisheepx-mcp-easy-copy-a3c3c344",
+  "name": "fisheepx/mcp-easy-copy",
+  "description": "Facilitates easy discovery and copying of available MCP services in Claude Desktop by listing them in a user-friendly format.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-fisheepx-mcp-easy-copy-a3c3c344",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fisheepx-mcp-easy-copy-a3c3c344)",
+  "links": {
+    "primary": "https://github.com/fisheepx/mcp-easy-copy",
+    "repo": "https://github.com/fisheepx/mcp-easy-copy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

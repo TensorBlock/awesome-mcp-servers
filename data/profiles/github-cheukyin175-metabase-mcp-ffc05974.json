@@ -1,0 +1,24 @@
+{
+  "id": "github-cheukyin175-metabase-mcp-ffc05974",
+  "name": "cheukyin175/metabase-mcp",
+  "description": "Facilitates seamless integration of AI assistants with Metabase analytics, enabling direct interaction with analytics data via MCP capabilities.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-cheukyin175-metabase-mcp-ffc05974",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cheukyin175-metabase-mcp-ffc05974)",
+  "links": {
+    "primary": "https://github.com/cheukyin175/metabase-mcp",
+    "repo": "https://github.com/cheukyin175/metabase-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

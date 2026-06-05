@@ -1,0 +1,24 @@
+{
+  "id": "github-atcol-glue-mcp-eef63cfe",
+  "name": "atcol/glue-mcp",
+  "description": "Facilitates interaction with AWS Glue Data Catalog through a model context protocol server.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-atcol-glue-mcp-eef63cfe",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-atcol-glue-mcp-eef63cfe)",
+  "links": {
+    "primary": "https://github.com/atcol/glue-mcp",
+    "repo": "https://github.com/atcol/glue-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

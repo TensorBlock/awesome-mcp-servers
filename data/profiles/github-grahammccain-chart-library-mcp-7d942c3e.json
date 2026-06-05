@@ -1,0 +1,24 @@
+{
+  "id": "github-grahammccain-chart-library-mcp-7d942c3e",
+  "name": "grahammccain/chart-library-mcp",
+  "description": "Historical chart pattern search engine — search 24M+ pre-computed embeddings across 15K+ symbols for similar patterns and forward returns.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-grahammccain-chart-library-mcp-7d942c3e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-grahammccain-chart-library-mcp-7d942c3e)",
+  "links": {
+    "primary": "https://github.com/grahammccain/chart-library-mcp",
+    "repo": "https://github.com/grahammccain/chart-library-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

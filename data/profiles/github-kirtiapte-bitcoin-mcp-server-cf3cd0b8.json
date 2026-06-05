@@ -1,0 +1,24 @@
+{
+  "id": "github-kirtiapte-bitcoin-mcp-server-cf3cd0b8",
+  "name": "kirtiapte/bitcoin-mcp-server",
+  "description": "Facilitates real-time Bitcoin price tracking through an LLM interface using CoinGecko APIs.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-kirtiapte-bitcoin-mcp-server-cf3cd0b8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kirtiapte-bitcoin-mcp-server-cf3cd0b8)",
+  "links": {
+    "primary": "https://github.com/kirtiapte/bitcoin-mcp-server",
+    "repo": "https://github.com/kirtiapte/bitcoin-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

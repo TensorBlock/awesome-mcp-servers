@@ -1,0 +1,24 @@
+{
+  "id": "github-nayshins-mcp-server-ccxt-f08bda52",
+  "name": "Nayshins/mcp-server-ccxt",
+  "description": "Facilitates real-time and historical cryptocurrency market data access through integration with major exchanges for LLMs like Claude.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-nayshins-mcp-server-ccxt-f08bda52",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nayshins-mcp-server-ccxt-f08bda52)",
+  "links": {
+    "primary": "https://github.com/Nayshins/mcp-server-ccxt",
+    "repo": "https://github.com/Nayshins/mcp-server-ccxt",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-tatn-mcp-server-diff-typescript-50b3df07",
+  "name": "tatn/mcp-server-diff-typescript",
+  "description": "A TypeScript-based server offering unified diff generation for text comparison and analysis.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tatn-mcp-server-diff-typescript-50b3df07",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tatn-mcp-server-diff-typescript-50b3df07)",
+  "links": {
+    "primary": "https://github.com/tatn/mcp-server-diff-typescript",
+    "repo": "https://github.com/tatn/mcp-server-diff-typescript",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

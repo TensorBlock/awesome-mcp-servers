@@ -1,0 +1,24 @@
+{
+  "id": "github-kohei25-mcp-servers-pouch-1d823a0b",
+  "name": "kohei25/mcp-servers-pouch",
+  "description": "Facilitates the setup and execution of MCP servers for managing and running tasks like Arxiv data processing.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-kohei25-mcp-servers-pouch-1d823a0b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kohei25-mcp-servers-pouch-1d823a0b)",
+  "links": {
+    "primary": "https://github.com/kohei25/mcp-servers-pouch",
+    "repo": "https://github.com/kohei25/mcp-servers-pouch",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

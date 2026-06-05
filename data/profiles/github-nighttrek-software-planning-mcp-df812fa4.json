@@ -1,0 +1,24 @@
+{
+  "id": "github-nighttrek-software-planning-mcp-df812fa4",
+  "name": "NightTrek/Software-planning-mcp",
+  "description": "Facilitates structured software development planning by breaking down projects into tasks, tracking progress, and managing detailed plans.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-nighttrek-software-planning-mcp-df812fa4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nighttrek-software-planning-mcp-df812fa4)",
+  "links": {
+    "primary": "https://github.com/NightTrek/Software-planning-mcp",
+    "repo": "https://github.com/NightTrek/Software-planning-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-bmorphism-say-mcp-server-0e5fd201",
+  "name": "bmorphism/say-mcp-server",
+  "description": "Enhances macOS's text-to-speech capabilities with customizable voice modulation and integration options.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-bmorphism-say-mcp-server-0e5fd201",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bmorphism-say-mcp-server-0e5fd201)",
+  "links": {
+    "primary": "https://github.com/bmorphism/say-mcp-server",
+    "repo": "https://github.com/bmorphism/say-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

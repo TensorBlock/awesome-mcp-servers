@@ -1,0 +1,24 @@
+{
+  "id": "github-dazeb-cline-mcp-memory-bank-61de9f7e",
+  "name": "dazeb/cline-mcp-memory-bank",
+  "description": "A persistent memory system for Cline that maintains project context and tracks progress across development sessions.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-dazeb-cline-mcp-memory-bank-61de9f7e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dazeb-cline-mcp-memory-bank-61de9f7e)",
+  "links": {
+    "primary": "https://github.com/dazeb/cline-mcp-memory-bank",
+    "repo": "https://github.com/dazeb/cline-mcp-memory-bank",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

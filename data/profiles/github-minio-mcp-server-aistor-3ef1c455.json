@@ -1,0 +1,24 @@
+{
+  "id": "github-minio-mcp-server-aistor-3ef1c455",
+  "name": "minio/mcp-server-aistor",
+  "description": "Facilitates seamless interaction with AIStor object stores through comprehensive read, write, and admin operations, leveraging AI for content description.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-minio-mcp-server-aistor-3ef1c455",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-minio-mcp-server-aistor-3ef1c455)",
+  "links": {
+    "primary": "https://github.com/minio/mcp-server-aistor",
+    "repo": "https://github.com/minio/mcp-server-aistor",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

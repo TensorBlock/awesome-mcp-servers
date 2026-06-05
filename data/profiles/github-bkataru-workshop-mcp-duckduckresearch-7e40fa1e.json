@@ -1,0 +1,24 @@
+{
+  "id": "github-bkataru-workshop-mcp-duckduckresearch-7e40fa1e",
+  "name": "bkataru-workshop/mcp-duckduckresearch",
+  "description": "Enhances DuckDuckGo search with web content extraction and screenshot capabilities, integrating seamlessly with Roo Code for automated information retrieval.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-bkataru-workshop-mcp-duckduckresearch-7e40fa1e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bkataru-workshop-mcp-duckduckresearch-7e40fa1e)",
+  "links": {
+    "primary": "https://github.com/bkataru-workshop/mcp-duckduckresearch",
+    "repo": "https://github.com/bkataru-workshop/mcp-duckduckresearch",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

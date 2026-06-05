@@ -1,0 +1,24 @@
+{
+  "id": "github-jmorrell-cloudflare-mcp-bearer-auth-example-c49ce729",
+  "name": "jmorrell-cloudflare/mcp-bearer-auth-example",
+  "description": "A remote MCP server implementation on Cloudflare utilizing Bearer Token authentication for secure connections.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-jmorrell-cloudflare-mcp-bearer-auth-example-c49ce729",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jmorrell-cloudflare-mcp-bearer-auth-example-c49ce729)",
+  "links": {
+    "primary": "https://github.com/jmorrell-cloudflare/mcp-bearer-auth-example",
+    "repo": "https://github.com/jmorrell-cloudflare/mcp-bearer-auth-example",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "bearer",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

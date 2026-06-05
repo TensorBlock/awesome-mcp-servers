@@ -1,0 +1,24 @@
+{
+  "id": "github-crawlio-app-crawlio-browser-agent-a8f4691c",
+  "name": "Crawlio-app/crawlio-browser-agent",
+  "description": "AI-powered website crawling MCP server with 38 tools for crawl control, browser enrichment capture, export (WARC/ZIP/single-HTML), observation timeline, and evidence-backed findings. Install: `npx crawlio-mcp`.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-crawlio-app-crawlio-browser-agent-a8f4691c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-crawlio-app-crawlio-browser-agent-a8f4691c)",
+  "links": {
+    "primary": "https://github.com/Crawlio-app/crawlio-browser-agent",
+    "repo": "https://github.com/Crawlio-app/crawlio-browser-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": 38
+  }
+}

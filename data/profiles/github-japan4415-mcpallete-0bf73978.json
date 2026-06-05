@@ -1,0 +1,24 @@
+{
+  "id": "github-japan4415-mcpallete-0bf73978",
+  "name": "japan4415/MCPallete",
+  "description": "MCPallete is a Rust TUI tool for interactively managing multiple MCP server configurations and presets with live-coded precision.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-japan4415-mcpallete-0bf73978",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-japan4415-mcpallete-0bf73978)",
+  "links": {
+    "primary": "https://github.com/japan4415/MCPallete",
+    "repo": "https://github.com/japan4415/MCPallete",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

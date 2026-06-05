@@ -1,0 +1,24 @@
+{
+  "id": "github-rogertheunissenmerge-oss-mcp-server-ed973927",
+  "name": "rogertheunissenmerge-oss/mcp-server",
+  "description": "Remote MCP server for sommelier-grade wine pairing. 7 tools powered by a proprietary Wine DNA algorithm with 600+ wine archetypes. Pair wines with meals, ingredients, or recipe URLs; reverse pairing; group dinner planning. Supports API key and x402 pay-per-call (USDC on Base). Live at `https://api.sommelierx.com/mcp`.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-rogertheunissenmerge-oss-mcp-server-ed973927",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rogertheunissenmerge-oss-mcp-server-ed973927)",
+  "links": {
+    "primary": "https://github.com/rogertheunissenmerge-oss/mcp-server",
+    "repo": "https://github.com/rogertheunissenmerge-oss/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://api.sommelierx.com/mcp"
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 7
+  }
+}

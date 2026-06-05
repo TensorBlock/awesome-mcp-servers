@@ -1,0 +1,24 @@
+{
+  "id": "github-hrishabhn-flight-mcp-7b0ac4bb",
+  "name": "hrishabhn/flight-mcp",
+  "description": "Facilitates flight queries and bookings using the RapidAPI Skyscanner API through the Model Context Protocol.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-hrishabhn-flight-mcp-7b0ac4bb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hrishabhn-flight-mcp-7b0ac4bb)",
+  "links": {
+    "primary": "https://github.com/hrishabhn/flight-mcp",
+    "repo": "https://github.com/hrishabhn/flight-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

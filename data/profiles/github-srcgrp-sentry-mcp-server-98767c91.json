@@ -1,0 +1,24 @@
+{
+  "id": "github-srcgrp-sentry-mcp-server-98767c91",
+  "name": "srcgrp/sentry-mcp-server",
+  "description": "Integrate Sentry error tracking into your development workflow by accessing release health data and issue details directly within your MCP-enabled environment.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-srcgrp-sentry-mcp-server-98767c91",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-srcgrp-sentry-mcp-server-98767c91)",
+  "links": {
+    "primary": "https://github.com/srcgrp/sentry-mcp-server",
+    "repo": "https://github.com/srcgrp/sentry-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

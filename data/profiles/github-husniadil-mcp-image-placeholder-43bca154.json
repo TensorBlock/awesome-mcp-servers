@@ -1,0 +1,24 @@
+{
+  "id": "github-husniadil-mcp-image-placeholder-43bca154",
+  "name": "husniadil/mcp-image-placeholder",
+  "description": "Generates placeholder images from multiple providers, offering seamless integration with tools like Claude for Desktop and Cursor.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-husniadil-mcp-image-placeholder-43bca154",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-husniadil-mcp-image-placeholder-43bca154)",
+  "links": {
+    "primary": "https://github.com/husniadil/mcp-image-placeholder",
+    "repo": "https://github.com/husniadil/mcp-image-placeholder",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
