@@ -1,0 +1,24 @@
+{
+  "id": "github-syedazharmbnr1-claude-outlook-mcp-e07c6375",
+  "name": "syedazharmbnr1/claude-outlook-mcp",
+  "description": "Facilitates seamless interaction between Claude and Microsoft Outlook on macOS, enabling email, calendar, and contact management through MCP integration.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-syedazharmbnr1-claude-outlook-mcp-e07c6375",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-syedazharmbnr1-claude-outlook-mcp-e07c6375)",
+  "links": {
+    "primary": "https://github.com/syedazharmbnr1/claude-outlook-mcp",
+    "repo": "https://github.com/syedazharmbnr1/claude-outlook-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-mediapublishing-mcp-manager-87fe5a59",
+  "name": "MediaPublishing/mcp-manager",
+  "description": "A user-friendly web-based GUI for managing and configuring MCP servers in Claude and Cursor environments.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-mediapublishing-mcp-manager-87fe5a59",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mediapublishing-mcp-manager-87fe5a59)",
+  "links": {
+    "primary": "https://github.com/MediaPublishing/mcp-manager",
+    "repo": "https://github.com/MediaPublishing/mcp-manager",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

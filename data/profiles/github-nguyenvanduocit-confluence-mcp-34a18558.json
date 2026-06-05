@@ -1,0 +1,24 @@
+{
+  "id": "github-nguyenvanduocit-confluence-mcp-34a18558",
+  "name": "nguyenvanduocit/confluence-mcp",
+  "description": "Facilitates interaction with Confluence API for managing pages and spaces through MCP.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-nguyenvanduocit-confluence-mcp-34a18558",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nguyenvanduocit-confluence-mcp-34a18558)",
+  "links": {
+    "primary": "https://github.com/nguyenvanduocit/confluence-mcp",
+    "repo": "https://github.com/nguyenvanduocit/confluence-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

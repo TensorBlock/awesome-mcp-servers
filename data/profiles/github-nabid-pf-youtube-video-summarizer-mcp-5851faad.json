@@ -1,0 +1,24 @@
+{
+  "id": "github-nabid-pf-youtube-video-summarizer-mcp-5851faad",
+  "name": "nabid-pf/youtube-video-summarizer-mcp",
+  "description": "Enables Claude to fetch and summarize YouTube videos by extracting titles, descriptions, and transcripts.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-nabid-pf-youtube-video-summarizer-mcp-5851faad",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nabid-pf-youtube-video-summarizer-mcp-5851faad)",
+  "links": {
+    "primary": "https://github.com/nabid-pf/youtube-video-summarizer-mcp",
+    "repo": "https://github.com/nabid-pf/youtube-video-summarizer-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-aughey-threed-ai-viewer-f545ffb2",
+  "name": "aughey/threed_ai_viewer",
+  "description": "Integrate AI agents with a 3D scene using a Model Context Protocol server for real-time interaction and control.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-aughey-threed-ai-viewer-f545ffb2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aughey-threed-ai-viewer-f545ffb2)",
+  "links": {
+    "primary": "https://github.com/aughey/threed_ai_viewer",
+    "repo": "https://github.com/aughey/threed_ai_viewer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

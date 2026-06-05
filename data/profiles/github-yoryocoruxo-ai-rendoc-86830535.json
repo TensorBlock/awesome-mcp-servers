@@ -1,0 +1,24 @@
+{
+  "id": "github-yoryocoruxo-ai-rendoc-86830535",
+  "name": "rendoc",
+  "description": "Generate professional PDF documents from HTML templates and dynamic data via MCP. Features template management, live preview, and usage tracking through rendoc.dev API.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-yoryocoruxo-ai-rendoc-86830535",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yoryocoruxo-ai-rendoc-86830535)",
+  "links": {
+    "primary": "https://github.com/yoryocoruxo-ai/rendoc",
+    "repo": "https://github.com/yoryocoruxo-ai/rendoc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

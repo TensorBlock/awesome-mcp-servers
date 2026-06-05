@@ -1,0 +1,24 @@
+{
+  "id": "github-nkkko-daytona-mcp-interpreter-4234767e",
+  "name": "nkkko/daytona-mcp-interpreter",
+  "description": "Daytona MCP Interpreter facilitates secure Python code execution and shell command operations in isolated environments, enhancing AI assistant capabilities.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-nkkko-daytona-mcp-interpreter-4234767e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nkkko-daytona-mcp-interpreter-4234767e)",
+  "links": {
+    "primary": "https://github.com/nkkko/daytona-mcp-interpreter",
+    "repo": "https://github.com/nkkko/daytona-mcp-interpreter",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

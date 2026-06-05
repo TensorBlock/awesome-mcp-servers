@@ -1,0 +1,24 @@
+{
+  "id": "github-genomoncology-biomcp-ab5234cb",
+  "name": "genomoncology/biomcp",
+  "description": "BioMCP enables LLMs to access and interact with critical biomedical databases using the Model Context Protocol, facilitating advanced searches and data retrieval.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-genomoncology-biomcp-ab5234cb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-genomoncology-biomcp-ab5234cb)",
+  "links": {
+    "primary": "https://github.com/genomoncology/biomcp",
+    "repo": "https://github.com/genomoncology/biomcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

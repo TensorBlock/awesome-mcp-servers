@@ -1,0 +1,24 @@
+{
+  "id": "github-tom-semple-mcp-apple-notes-fixed-dcb4192f",
+  "name": "Tom-Semple/mcp-apple-notes-fixed",
+  "description": "Facilitates semantic search and retrieval over Apple Notes for AI assistants like Claude, leveraging on-device embeddings and vector storage.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-tom-semple-mcp-apple-notes-fixed-dcb4192f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tom-semple-mcp-apple-notes-fixed-dcb4192f)",
+  "links": {
+    "primary": "https://github.com/Tom-Semple/mcp-apple-notes-fixed",
+    "repo": "https://github.com/Tom-Semple/mcp-apple-notes-fixed",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

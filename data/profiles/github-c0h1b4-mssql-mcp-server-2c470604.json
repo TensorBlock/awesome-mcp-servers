@@ -1,0 +1,24 @@
+{
+  "id": "github-c0h1b4-mssql-mcp-server-2c470604",
+  "name": "c0h1b4/mssql-mcp-server",
+  "description": "Facilitates SQL query execution and database management for Microsoft SQL Server through MCP integration.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-c0h1b4-mssql-mcp-server-2c470604",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-c0h1b4-mssql-mcp-server-2c470604)",
+  "links": {
+    "primary": "https://github.com/c0h1b4/mssql-mcp-server",
+    "repo": "https://github.com/c0h1b4/mssql-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

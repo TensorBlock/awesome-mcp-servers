@@ -1,0 +1,24 @@
+{
+  "id": "github-dnakov-frida-mcp-a75c67e2",
+  "name": "dnakov/frida-mcp",
+  "description": "Facilitates AI-driven interaction with applications via Frida's dynamic instrumentation toolkit, leveraging the MCP protocol.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-dnakov-frida-mcp-a75c67e2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dnakov-frida-mcp-a75c67e2)",
+  "links": {
+    "primary": "https://github.com/dnakov/frida-mcp",
+    "repo": "https://github.com/dnakov/frida-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

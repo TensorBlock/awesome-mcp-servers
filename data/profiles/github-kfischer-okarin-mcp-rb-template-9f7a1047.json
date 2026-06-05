@@ -1,0 +1,24 @@
+{
+  "id": "github-kfischer-okarin-mcp-rb-template-9f7a1047",
+  "name": "kfischer-okarin/mcp-rb-template",
+  "description": "A customizable MCP server template for seamless integration with Claude using Ruby and Justfile.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-kfischer-okarin-mcp-rb-template-9f7a1047",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kfischer-okarin-mcp-rb-template-9f7a1047)",
+  "links": {
+    "primary": "https://github.com/kfischer-okarin/mcp-rb-template",
+    "repo": "https://github.com/kfischer-okarin/mcp-rb-template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

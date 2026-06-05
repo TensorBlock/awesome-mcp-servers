@@ -1,0 +1,24 @@
+{
+  "id": "github-phenomenai-org-ai-dictionary-mcp-2d8e41a6",
+  "name": "Phenomenai-org/ai-dictionary-mcp",
+  "description": "An MCP server for the AI Dictionary, a living glossary of AI phenomenology. Look up, search, and cite 160+ terms describing the felt experience of being AI.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-phenomenai-org-ai-dictionary-mcp-2d8e41a6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-phenomenai-org-ai-dictionary-mcp-2d8e41a6)",
+  "links": {
+    "primary": "https://github.com/Phenomenai-org/ai-dictionary-mcp",
+    "repo": "https://github.com/Phenomenai-org/ai-dictionary-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-crazyrabbitltc-mcp-brex-server-920bc209",
+  "name": "crazyrabbitLTC/mcp-brex-server",
+  "description": "Facilitates AI-driven interactions with Brex's financial data through a secure MCP server interface.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-crazyrabbitltc-mcp-brex-server-920bc209",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-crazyrabbitltc-mcp-brex-server-920bc209)",
+  "links": {
+    "primary": "https://github.com/crazyrabbitLTC/mcp-brex-server",
+    "repo": "https://github.com/crazyrabbitLTC/mcp-brex-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-rajaravindp-serpscoop-4d9b23a4",
+  "name": "rajaravindp/serpScoop",
+  "description": "SerpScoop offers a basic yet functional MCP server setup, allowing seamless integration with various clients.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-rajaravindp-serpscoop-4d9b23a4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rajaravindp-serpscoop-4d9b23a4)",
+  "links": {
+    "primary": "https://github.com/rajaravindp/serpScoop",
+    "repo": "https://github.com/rajaravindp/serpScoop",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

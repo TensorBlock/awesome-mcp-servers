@@ -1,0 +1,24 @@
+{
+  "id": "github-genm-mcp-server-discord-webhook-1cd33131",
+  "name": "genm/mcp-server-discord-webhook",
+  "description": "Facilitates message posting to Discord via webhooks using MCP server commands.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-genm-mcp-server-discord-webhook-1cd33131",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-genm-mcp-server-discord-webhook-1cd33131)",
+  "links": {
+    "primary": "https://github.com/genm/mcp-server-discord-webhook",
+    "repo": "https://github.com/genm/mcp-server-discord-webhook",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

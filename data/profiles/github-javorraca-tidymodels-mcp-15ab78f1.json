@@ -1,0 +1,24 @@
+{
+  "id": "github-javorraca-tidymodels-mcp-15ab78f1",
+  "name": "JavOrraca/tidymodels-mcp",
+  "description": "Enhances agentic workflows by providing comprehensive tools and resources for interacting with the tidymodels ecosystem in R.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-javorraca-tidymodels-mcp-15ab78f1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-javorraca-tidymodels-mcp-15ab78f1)",
+  "links": {
+    "primary": "https://github.com/JavOrraca/tidymodels-mcp",
+    "repo": "https://github.com/JavOrraca/tidymodels-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jonradoff-lightcms-9fec13db",
+  "name": "jonradoff/lightcms",
+  "description": "AI-native CMS with 41 MCP tools for managing websites through natural language. Create pages, templates, assets, themes, collections, redirects, and more with full content versioning.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-jonradoff-lightcms-9fec13db",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jonradoff-lightcms-9fec13db)",
+  "links": {
+    "primary": "https://github.com/jonradoff/lightcms",
+    "repo": "https://github.com/jonradoff/lightcms",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 41
+  }
+}

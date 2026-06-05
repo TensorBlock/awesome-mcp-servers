@@ -1,0 +1,24 @@
+{
+  "id": "github-datawiz168-mcp-snowflake-service-afcdacb3",
+  "name": "datawiz168/mcp-snowflake-service",
+  "description": "Enables Claude to securely execute SQL queries on Snowflake databases with automatic connection management.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-datawiz168-mcp-snowflake-service-afcdacb3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-datawiz168-mcp-snowflake-service-afcdacb3)",
+  "links": {
+    "primary": "https://github.com/datawiz168/mcp-snowflake-service",
+    "repo": "https://github.com/datawiz168/mcp-snowflake-service",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

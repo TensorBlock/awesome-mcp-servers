@@ -1,0 +1,24 @@
+{
+  "id": "github-kinark-mcp-neo4j-memory-claude-47dc70d5",
+  "name": "Kinark/mcp-neo4j-memory-claude",
+  "description": "Enables Claude AI to utilize Neo4j for persistent knowledge graph memory, enhancing conversational reasoning and semantic search capabilities.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-kinark-mcp-neo4j-memory-claude-47dc70d5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kinark-mcp-neo4j-memory-claude-47dc70d5)",
+  "links": {
+    "primary": "https://github.com/Kinark/mcp-neo4j-memory-claude",
+    "repo": "https://github.com/Kinark/mcp-neo4j-memory-claude",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

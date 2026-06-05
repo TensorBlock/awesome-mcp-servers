@@ -1,0 +1,24 @@
+{
+  "id": "github-charlesverge-mcp-open-interest-ac5da2ca",
+  "name": "charlesverge/mcp_open_interest",
+  "description": "Analyzes options open interest data to calculate market sentiment using put/call ratios for specified stock symbols.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-charlesverge-mcp-open-interest-ac5da2ca",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-charlesverge-mcp-open-interest-ac5da2ca)",
+  "links": {
+    "primary": "https://github.com/charlesverge/mcp_open_interest",
+    "repo": "https://github.com/charlesverge/mcp_open_interest",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-ai-yliu-filesystem-mcp-server-1715b354",
+  "name": "ai-yliu/filesystem-mcp-server",
+  "description": "Facilitates filesystem operations for Claude AI, enabling file reading, writing, directory management, and metadata retrieval.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-ai-yliu-filesystem-mcp-server-1715b354",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ai-yliu-filesystem-mcp-server-1715b354)",
+  "links": {
+    "primary": "https://github.com/ai-yliu/filesystem-mcp-server",
+    "repo": "https://github.com/ai-yliu/filesystem-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
