@@ -1,0 +1,24 @@
+{
+  "id": "github-demontie-my-first-mcp-6b8fc709",
+  "name": "Demontie/my-first-mcp",
+  "description": "A MCP server that interfaces with the DummyJSON API to retrieve and filter product data.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-demontie-my-first-mcp-6b8fc709",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-demontie-my-first-mcp-6b8fc709)",
+  "links": {
+    "primary": "https://github.com/Demontie/my-first-mcp",
+    "repo": "https://github.com/Demontie/my-first-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

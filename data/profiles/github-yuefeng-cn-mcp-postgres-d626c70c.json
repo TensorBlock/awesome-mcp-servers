@@ -1,0 +1,24 @@
+{
+  "id": "github-yuefeng-cn-mcp-postgres-d626c70c",
+  "name": "yuefeng-cn/mcp-postgres",
+  "description": "Facilitates the integration of PostgreSQL with AI agents through MCP server configurations.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-yuefeng-cn-mcp-postgres-d626c70c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yuefeng-cn-mcp-postgres-d626c70c)",
+  "links": {
+    "primary": "https://github.com/yuefeng-cn/mcp-postgres",
+    "repo": "https://github.com/yuefeng-cn/mcp-postgres",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-configfacets-configfacets-mcp-bffcee05",
+  "name": "configfacets/configfacets_mcp",
+  "description": "Configfacets MCP Server facilitates the management and deployment of configuration facets using a Python-based server setup.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-configfacets-configfacets-mcp-bffcee05",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-configfacets-configfacets-mcp-bffcee05)",
+  "links": {
+    "primary": "https://github.com/configfacets/configfacets_mcp",
+    "repo": "https://github.com/configfacets/configfacets_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jasondsmith72-browser-use-claude-mcp-ca0fe1eb",
+  "name": "jasondsmith72/Browser-use-claude-mcp",
+  "description": "Enables AI models like Claude and Gemini 2.5 to perform browser automation and web interactions through natural language commands.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-jasondsmith72-browser-use-claude-mcp-ca0fe1eb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jasondsmith72-browser-use-claude-mcp-ca0fe1eb)",
+  "links": {
+    "primary": "https://github.com/jasondsmith72/Browser-use-claude-mcp",
+    "repo": "https://github.com/jasondsmith72/Browser-use-claude-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

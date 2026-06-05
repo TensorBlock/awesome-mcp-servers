@@ -1,0 +1,24 @@
+{
+  "id": "github-c4pt0r-mcp-server-tidb-dd0025af",
+  "name": "c4pt0r/mcp-server-tidb",
+  "description": "Facilitates seamless integration with TiDB serverless databases using the MCP protocol.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-c4pt0r-mcp-server-tidb-dd0025af",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-c4pt0r-mcp-server-tidb-dd0025af)",
+  "links": {
+    "primary": "https://github.com/c4pt0r/mcp-server-tidb",
+    "repo": "https://github.com/c4pt0r/mcp-server-tidb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

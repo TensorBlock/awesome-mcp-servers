@@ -1,0 +1,24 @@
+{
+  "id": "github-6-mcp-server-rubygems-e561e3be",
+  "name": "6/mcp-server-rubygems",
+  "description": "Fetches and manages RubyGems metadata through the RubyGems.org API, facilitating integration with MCP clients.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-6-mcp-server-rubygems-e561e3be",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-6-mcp-server-rubygems-e561e3be)",
+  "links": {
+    "primary": "https://github.com/6/mcp-server-rubygems",
+    "repo": "https://github.com/6/mcp-server-rubygems",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

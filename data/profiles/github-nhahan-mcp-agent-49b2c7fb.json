@@ -1,0 +1,24 @@
+{
+  "id": "github-nhahan-mcp-agent-49b2c7fb",
+  "name": "Nhahan/mcp-agent",
+  "description": "A versatile AI agent web container enabling natural language processing and tool invocation through a web API, integrated with MCP servers for multilingual support and interaction logging.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-nhahan-mcp-agent-49b2c7fb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nhahan-mcp-agent-49b2c7fb)",
+  "links": {
+    "primary": "https://github.com/Nhahan/mcp-agent",
+    "repo": "https://github.com/Nhahan/mcp-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

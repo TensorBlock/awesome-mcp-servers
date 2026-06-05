@@ -1,0 +1,24 @@
+{
+  "id": "github-codacy-codacy-mcp-server-fdee038f",
+  "name": "codacy/codacy-mcp-server",
+  "description": "Codacy's MCP Server provides comprehensive tools for repository management, code quality analysis, and security assessments, integrating seamlessly with the Codacy API.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-codacy-codacy-mcp-server-fdee038f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-codacy-codacy-mcp-server-fdee038f)",
+  "links": {
+    "primary": "https://github.com/codacy/codacy-mcp-server",
+    "repo": "https://github.com/codacy/codacy-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

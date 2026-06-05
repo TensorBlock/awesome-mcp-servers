@@ -1,0 +1,24 @@
+{
+  "id": "github-fredericbarthelet-linkedin-mcp-server-36983dbc",
+  "name": "fredericbarthelet/linkedin-mcp-server",
+  "description": "Facilitates interaction with LinkedIn's Community Management API using MCP protocol, supporting post creation and user information retrieval.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-fredericbarthelet-linkedin-mcp-server-36983dbc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fredericbarthelet-linkedin-mcp-server-36983dbc)",
+  "links": {
+    "primary": "https://github.com/fredericbarthelet/linkedin-mcp-server",
+    "repo": "https://github.com/fredericbarthelet/linkedin-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

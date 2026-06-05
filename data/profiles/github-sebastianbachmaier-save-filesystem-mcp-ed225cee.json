@@ -1,0 +1,24 @@
+{
+  "id": "github-sebastianbachmaier-save-filesystem-mcp-ed225cee",
+  "name": "sebastianbachmaier/save-filesystem-mcp",
+  "description": "A filesystem MCP server enabling secure file operations within a designated root directory, preventing unauthorized access beyond specified boundaries.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-sebastianbachmaier-save-filesystem-mcp-ed225cee",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sebastianbachmaier-save-filesystem-mcp-ed225cee)",
+  "links": {
+    "primary": "https://github.com/sebastianbachmaier/save-filesystem-mcp",
+    "repo": "https://github.com/sebastianbachmaier/save-filesystem-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

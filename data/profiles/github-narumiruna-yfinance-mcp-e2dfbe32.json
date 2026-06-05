@@ -1,0 +1,24 @@
+{
+  "id": "github-narumiruna-yfinance-mcp-e2dfbe32",
+  "name": "narumiruna/yfinance-mcp",
+  "description": "A Yahoo Finance MCP server leveraging yfinance to provide tools for fetching stock data, news, and financial insights.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-narumiruna-yfinance-mcp-e2dfbe32",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-narumiruna-yfinance-mcp-e2dfbe32)",
+  "links": {
+    "primary": "https://github.com/narumiruna/yfinance-mcp",
+    "repo": "https://github.com/narumiruna/yfinance-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

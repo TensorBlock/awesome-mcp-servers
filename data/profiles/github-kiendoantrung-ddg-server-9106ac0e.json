@@ -1,0 +1,24 @@
+{
+  "id": "github-kiendoantrung-ddg-server-9106ac0e",
+  "name": "kiendoantrung/ddg-server",
+  "description": "Enables web search capabilities through DuckDuckGo using the Model Context Protocol.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-kiendoantrung-ddg-server-9106ac0e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kiendoantrung-ddg-server-9106ac0e)",
+  "links": {
+    "primary": "https://github.com/kiendoantrung/ddg-server",
+    "repo": "https://github.com/kiendoantrung/ddg-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

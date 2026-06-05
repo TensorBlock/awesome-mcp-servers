@@ -1,0 +1,24 @@
+{
+  "id": "github-shengshengshengbuxi-mysql-mcp-server-da4dee1e",
+  "name": "shengshengshengbuxi/mysql_mcp_server",
+  "description": "Facilitates SQL query execution via the MCP protocol on a MySQL server.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-shengshengshengbuxi-mysql-mcp-server-da4dee1e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shengshengshengbuxi-mysql-mcp-server-da4dee1e)",
+  "links": {
+    "primary": "https://github.com/shengshengshengbuxi/mysql_mcp_server",
+    "repo": "https://github.com/shengshengshengbuxi/mysql_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

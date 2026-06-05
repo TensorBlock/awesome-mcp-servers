@@ -1,0 +1,24 @@
+{
+  "id": "github-sunrabbit123-awesome-fe-mcp-bundle-6b4cc9d5",
+  "name": "sunrabbit123/awesome-fe-mcp-bundle",
+  "description": "A comprehensive bundle of MCP servers for integrating with GitHub, Slack, GitLab, and Atlassian services, tailored for frontend applications.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-sunrabbit123-awesome-fe-mcp-bundle-6b4cc9d5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sunrabbit123-awesome-fe-mcp-bundle-6b4cc9d5)",
+  "links": {
+    "primary": "https://github.com/sunrabbit123/awesome-fe-mcp-bundle",
+    "repo": "https://github.com/sunrabbit123/awesome-fe-mcp-bundle",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

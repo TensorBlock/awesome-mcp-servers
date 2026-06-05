@@ -1,0 +1,24 @@
+{
+  "id": "github-recallnet-block-explorer-mcp-e078f824",
+  "name": "recallnet/block-explorer-mcp",
+  "description": "Facilitates AI assistants in querying the Recall block explorer through MCP integration, enhancing knowledge access.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-recallnet-block-explorer-mcp-e078f824",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-recallnet-block-explorer-mcp-e078f824)",
+  "links": {
+    "primary": "https://github.com/recallnet/block-explorer-mcp",
+    "repo": "https://github.com/recallnet/block-explorer-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

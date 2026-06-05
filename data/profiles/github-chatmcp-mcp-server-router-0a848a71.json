@@ -1,0 +1,24 @@
+{
+  "id": "github-chatmcp-mcp-server-router-0a848a71",
+  "name": "chatmcp/mcp-server-router",
+  "description": "A proxy server facilitating remote connections to MCP servers, configurable with various clients like Claude Desktop.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-chatmcp-mcp-server-router-0a848a71",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chatmcp-mcp-server-router-0a848a71)",
+  "links": {
+    "primary": "https://github.com/chatmcp/mcp-server-router",
+    "repo": "https://github.com/chatmcp/mcp-server-router",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

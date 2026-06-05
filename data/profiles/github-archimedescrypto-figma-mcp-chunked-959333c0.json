@@ -1,0 +1,24 @@
+{
+  "id": "github-archimedescrypto-figma-mcp-chunked-959333c0",
+  "name": "ArchimedesCrypto/figma-mcp-chunked",
+  "description": "Interact with the Figma API using a memory-efficient MCP server that supports chunking and pagination for handling large files.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-archimedescrypto-figma-mcp-chunked-959333c0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-archimedescrypto-figma-mcp-chunked-959333c0)",
+  "links": {
+    "primary": "https://github.com/ArchimedesCrypto/figma-mcp-chunked",
+    "repo": "https://github.com/ArchimedesCrypto/figma-mcp-chunked",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

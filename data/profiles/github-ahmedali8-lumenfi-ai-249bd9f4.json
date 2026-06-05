@@ -1,0 +1,24 @@
+{
+  "id": "github-ahmedali8-lumenfi-ai-249bd9f4",
+  "name": "ahmedali8/lumenfi-ai",
+  "description": "A DeFi agent integrating multiple MCP servers for cryptocurrency market data and EVM blockchain interactions.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ahmedali8-lumenfi-ai-249bd9f4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ahmedali8-lumenfi-ai-249bd9f4)",
+  "links": {
+    "primary": "https://github.com/ahmedali8/lumenfi-ai",
+    "repo": "https://github.com/ahmedali8/lumenfi-ai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-keli-wen-mcp-chatbot-ec6ea4c5",
+  "name": "keli-wen/mcp_chatbot",
+  "description": "Integrates MCP with customized LLMs to create a chatbot capable of processing and summarizing Markdown files.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-keli-wen-mcp-chatbot-ec6ea4c5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-keli-wen-mcp-chatbot-ec6ea4c5)",
+  "links": {
+    "primary": "https://github.com/keli-wen/mcp_chatbot",
+    "repo": "https://github.com/keli-wen/mcp_chatbot",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

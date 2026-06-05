@@ -1,0 +1,24 @@
+{
+  "id": "github-burnworks-burnworks-mcp-server-fetch-bd9c6aa6",
+  "name": "burnworks/burnworks-mcp-server-fetch",
+  "description": "Enables LLMs to fetch and process web content using CSS selectors, converting HTML to markdown for efficient data extraction.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-burnworks-burnworks-mcp-server-fetch-bd9c6aa6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-burnworks-burnworks-mcp-server-fetch-bd9c6aa6)",
+  "links": {
+    "primary": "https://github.com/burnworks/burnworks-mcp-server-fetch",
+    "repo": "https://github.com/burnworks/burnworks-mcp-server-fetch",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

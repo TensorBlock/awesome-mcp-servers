@@ -1,0 +1,24 @@
+{
+  "id": "github-takase-est-outlook-schedular-2ec83ce1",
+  "name": "takase-est/outlook-schedular",
+  "description": "A TypeScript-based MCP server implementing a notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-takase-est-outlook-schedular-2ec83ce1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-takase-est-outlook-schedular-2ec83ce1)",
+  "links": {
+    "primary": "https://github.com/takase-est/outlook-schedular",
+    "repo": "https://github.com/takase-est/outlook-schedular",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

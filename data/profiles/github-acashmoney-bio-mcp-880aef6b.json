@@ -1,0 +1,24 @@
+{
+  "id": "github-acashmoney-bio-mcp-880aef6b",
+  "name": "acashmoney/bio-mcp",
+  "description": "BioMCP enhances language models with protein structure analysis capabilities, enabling detailed examination of protein active sites and disease-related protein searches.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-acashmoney-bio-mcp-880aef6b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-acashmoney-bio-mcp-880aef6b)",
+  "links": {
+    "primary": "https://github.com/acashmoney/bio-mcp",
+    "repo": "https://github.com/acashmoney/bio-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

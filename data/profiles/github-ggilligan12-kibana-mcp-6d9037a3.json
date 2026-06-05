@@ -1,0 +1,24 @@
+{
+  "id": "github-ggilligan12-kibana-mcp-6d9037a3",
+  "name": "ggilligan12/kibana-mcp",
+  "description": "Facilitates AI-driven interaction with Kibana Security alerts by tagging, adjusting status, and retrieving alerts.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-ggilligan12-kibana-mcp-6d9037a3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ggilligan12-kibana-mcp-6d9037a3)",
+  "links": {
+    "primary": "https://github.com/ggilligan12/kibana-mcp",
+    "repo": "https://github.com/ggilligan12/kibana-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

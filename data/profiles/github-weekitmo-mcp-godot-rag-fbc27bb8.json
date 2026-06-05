@@ -1,0 +1,24 @@
+{
+  "id": "github-weekitmo-mcp-godot-rag-fbc27bb8",
+  "name": "weekitmo/mcp_godot_rag",
+  "description": "Facilitates access to Godot documentation for the Godot RAG model through an MCP server.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-weekitmo-mcp-godot-rag-fbc27bb8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-weekitmo-mcp-godot-rag-fbc27bb8)",
+  "links": {
+    "primary": "https://github.com/weekitmo/mcp_godot_rag",
+    "repo": "https://github.com/weekitmo/mcp_godot_rag",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
