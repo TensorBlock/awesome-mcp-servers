@@ -1,0 +1,24 @@
+{
+  "id": "github-raju-deriv-mcp-deriv-api-server-95d15290",
+  "name": "raju-deriv/mcp-deriv-api-server",
+  "description": "Facilitates interaction with the Deriv API through a Model Context Protocol server, offering features like active symbols retrieval and account balance checks.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-raju-deriv-mcp-deriv-api-server-95d15290",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-raju-deriv-mcp-deriv-api-server-95d15290)",
+  "links": {
+    "primary": "https://github.com/raju-deriv/mcp-deriv-api-server",
+    "repo": "https://github.com/raju-deriv/mcp-deriv-api-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

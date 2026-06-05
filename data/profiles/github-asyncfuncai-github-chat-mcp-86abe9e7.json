@@ -1,0 +1,24 @@
+{
+  "id": "github-asyncfuncai-github-chat-mcp-86abe9e7",
+  "name": "AsyncFuncAI/github-chat-mcp",
+  "description": "Facilitates the analysis and querying of GitHub repositories using the GitHub Chat API, enabling efficient repository indexing and information retrieval.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-asyncfuncai-github-chat-mcp-86abe9e7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-asyncfuncai-github-chat-mcp-86abe9e7)",
+  "links": {
+    "primary": "https://github.com/AsyncFuncAI/github-chat-mcp",
+    "repo": "https://github.com/AsyncFuncAI/github-chat-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-sparshdrolia-persistent-code-mcp-dc500859",
+  "name": "sparshdrolia/Persistent-code-mcp",
+  "description": "Facilitates persistent semantic understanding of codebases by creating and maintaining a knowledge graph, enabling advanced semantic search and context management across sessions.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-sparshdrolia-persistent-code-mcp-dc500859",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sparshdrolia-persistent-code-mcp-dc500859)",
+  "links": {
+    "primary": "https://github.com/sparshdrolia/Persistent-code-mcp",
+    "repo": "https://github.com/sparshdrolia/Persistent-code-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

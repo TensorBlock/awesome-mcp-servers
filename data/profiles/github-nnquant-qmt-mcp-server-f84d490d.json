@@ -1,0 +1,24 @@
+{
+  "id": "github-nnquant-qmt-mcp-server-f84d490d",
+  "name": "nnquant/qmt-mcp-server",
+  "description": "Facilitates stock trading by interfacing with the XunTou QMT trading system, offering functionalities like account asset queries, order placements, and cancellations.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-nnquant-qmt-mcp-server-f84d490d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nnquant-qmt-mcp-server-f84d490d)",
+  "links": {
+    "primary": "https://github.com/nnquant/qmt-mcp-server",
+    "repo": "https://github.com/nnquant/qmt-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

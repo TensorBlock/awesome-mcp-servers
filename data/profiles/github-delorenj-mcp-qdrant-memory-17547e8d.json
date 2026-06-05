@@ -1,0 +1,24 @@
+{
+  "id": "github-delorenj-mcp-qdrant-memory-17547e8d",
+  "name": "delorenj/mcp-qdrant-memory",
+  "description": "A knowledge graph MCP server with semantic search capabilities using Qdrant vector database for efficient entity and relation management.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-delorenj-mcp-qdrant-memory-17547e8d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-delorenj-mcp-qdrant-memory-17547e8d)",
+  "links": {
+    "primary": "https://github.com/delorenj/mcp-qdrant-memory",
+    "repo": "https://github.com/delorenj/mcp-qdrant-memory",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

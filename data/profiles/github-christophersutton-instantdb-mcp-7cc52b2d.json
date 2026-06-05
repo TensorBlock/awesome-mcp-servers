@@ -1,0 +1,24 @@
+{
+  "id": "github-christophersutton-instantdb-mcp-7cc52b2d",
+  "name": "christophersutton/instantdb-mcp",
+  "description": "Facilitates read-only querying of InstantDB with dynamic schema loading and environment configuration.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-christophersutton-instantdb-mcp-7cc52b2d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-christophersutton-instantdb-mcp-7cc52b2d)",
+  "links": {
+    "primary": "https://github.com/christophersutton/instantdb-mcp",
+    "repo": "https://github.com/christophersutton/instantdb-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

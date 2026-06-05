@@ -1,0 +1,24 @@
+{
+  "id": "github-yasunoritani-v8ui-b54dd1bd",
+  "name": "yasunoritani/v8ui",
+  "description": "A custom MCP server enabling natural language control of Max environments through Claude Desktop, enhancing creative workflows in music and multimedia production.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-yasunoritani-v8ui-b54dd1bd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yasunoritani-v8ui-b54dd1bd)",
+  "links": {
+    "primary": "https://github.com/yasunoritani/v8ui",
+    "repo": "https://github.com/yasunoritani/v8ui",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

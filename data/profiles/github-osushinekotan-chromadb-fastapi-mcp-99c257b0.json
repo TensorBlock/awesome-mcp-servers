@@ -1,0 +1,24 @@
+{
+  "id": "github-osushinekotan-chromadb-fastapi-mcp-99c257b0",
+  "name": "osushinekotan/chromadb-fastapi-mcp",
+  "description": "Integrates ChromaDB with FastAPI to function as an MCP server, enabling efficient document management and querying through API endpoints.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-osushinekotan-chromadb-fastapi-mcp-99c257b0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-osushinekotan-chromadb-fastapi-mcp-99c257b0)",
+  "links": {
+    "primary": "https://github.com/osushinekotan/chromadb-fastapi-mcp",
+    "repo": "https://github.com/osushinekotan/chromadb-fastapi-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

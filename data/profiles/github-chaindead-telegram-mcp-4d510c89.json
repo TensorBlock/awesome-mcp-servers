@@ -1,0 +1,24 @@
+{
+  "id": "github-chaindead-telegram-mcp-4d510c89",
+  "name": "chaindead/telegram-mcp",
+  "description": "Facilitates seamless integration between Telegram and AI assistants using the Model Context Protocol.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-chaindead-telegram-mcp-4d510c89",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chaindead-telegram-mcp-4d510c89)",
+  "links": {
+    "primary": "https://github.com/chaindead/telegram-mcp",
+    "repo": "https://github.com/chaindead/telegram-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-christianhinge-dicom-mcp-c292bcaa",
+  "name": "ChristianHinge/dicom-mcp",
+  "description": "Facilitates AI-driven interactions with DICOM servers for querying and analyzing medical imaging metadata.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-christianhinge-dicom-mcp-c292bcaa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-christianhinge-dicom-mcp-c292bcaa)",
+  "links": {
+    "primary": "https://github.com/ChristianHinge/dicom-mcp",
+    "repo": "https://github.com/ChristianHinge/dicom-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

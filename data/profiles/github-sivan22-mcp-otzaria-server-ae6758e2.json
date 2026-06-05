@@ -1,0 +1,24 @@
+{
+  "id": "github-sivan22-mcp-otzaria-server-ae6758e2",
+  "name": "Sivan22/mcp-otzaria-server",
+  "description": "Facilitates advanced search and reference of Jewish texts for LLMs via the MCP protocol.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-sivan22-mcp-otzaria-server-ae6758e2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sivan22-mcp-otzaria-server-ae6758e2)",
+  "links": {
+    "primary": "https://github.com/Sivan22/mcp-otzaria-server",
+    "repo": "https://github.com/Sivan22/mcp-otzaria-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

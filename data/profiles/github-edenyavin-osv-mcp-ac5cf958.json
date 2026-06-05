@@ -1,0 +1,24 @@
+{
+  "id": "github-edenyavin-osv-mcp-ac5cf958",
+  "name": "EdenYavin/OSV-MCP",
+  "description": "A lightweight server for querying the OSV database to fetch CVE details, affected versions, and fix versions using the Model Context Protocol.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-edenyavin-osv-mcp-ac5cf958",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-edenyavin-osv-mcp-ac5cf958)",
+  "links": {
+    "primary": "https://github.com/EdenYavin/OSV-MCP",
+    "repo": "https://github.com/EdenYavin/OSV-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

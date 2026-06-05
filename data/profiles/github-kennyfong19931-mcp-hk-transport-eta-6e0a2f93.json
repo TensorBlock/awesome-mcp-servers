@@ -1,0 +1,24 @@
+{
+  "id": "github-kennyfong19931-mcp-hk-transport-eta-6e0a2f93",
+  "name": "kennyfong19931/mcp-hk-transport-eta",
+  "description": "Facilitates real-time public transport ETA retrieval in Hong Kong via an MCP server.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-kennyfong19931-mcp-hk-transport-eta-6e0a2f93",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kennyfong19931-mcp-hk-transport-eta-6e0a2f93)",
+  "links": {
+    "primary": "https://github.com/kennyfong19931/mcp-hk-transport-eta",
+    "repo": "https://github.com/kennyfong19931/mcp-hk-transport-eta",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-giri-aayush-finix-ethtaipei-2025-599cfffe",
+  "name": "Giri-Aayush/finix-ethtaipei-2025",
+  "description": "Facilitates seamless interaction between Claude AI and the Celo blockchain ecosystem, enabling operations like balance checks, transactions, and DeFi interactions with Aave, all within a secure environment.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-giri-aayush-finix-ethtaipei-2025-599cfffe",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-giri-aayush-finix-ethtaipei-2025-599cfffe)",
+  "links": {
+    "primary": "https://github.com/Giri-Aayush/finix-ethtaipei-2025",
+    "repo": "https://github.com/Giri-Aayush/finix-ethtaipei-2025",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

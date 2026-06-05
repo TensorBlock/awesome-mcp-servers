@@ -1,0 +1,24 @@
+{
+  "id": "github-kazuph-mcp-screenshot-a1967e82",
+  "name": "kazuph/mcp-screenshot",
+  "description": "Captures screenshots and performs OCR text recognition with support for Japanese and English, offering multiple output formats.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-kazuph-mcp-screenshot-a1967e82",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kazuph-mcp-screenshot-a1967e82)",
+  "links": {
+    "primary": "https://github.com/kazuph/mcp-screenshot",
+    "repo": "https://github.com/kazuph/mcp-screenshot",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

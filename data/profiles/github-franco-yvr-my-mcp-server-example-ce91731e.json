@@ -1,0 +1,24 @@
+{
+  "id": "github-franco-yvr-my-mcp-server-example-ce91731e",
+  "name": "Franco-yvr/my-mcp-server-example",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-franco-yvr-my-mcp-server-example-ce91731e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-franco-yvr-my-mcp-server-example-ce91731e)",
+  "links": {
+    "primary": "https://github.com/Franco-yvr/my-mcp-server-example",
+    "repo": "https://github.com/Franco-yvr/my-mcp-server-example",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

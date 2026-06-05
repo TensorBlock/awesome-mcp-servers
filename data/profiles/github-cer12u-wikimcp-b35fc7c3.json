@@ -1,0 +1,24 @@
+{
+  "id": "github-cer12u-wikimcp-b35fc7c3",
+  "name": "cer12u/wikimcp",
+  "description": "Facilitates interaction between Claude Desktop and Wiki.js by enabling page listing, reading, creation, and updating.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-cer12u-wikimcp-b35fc7c3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cer12u-wikimcp-b35fc7c3)",
+  "links": {
+    "primary": "https://github.com/cer12u/wikimcp",
+    "repo": "https://github.com/cer12u/wikimcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

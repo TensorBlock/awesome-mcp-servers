@@ -1,0 +1,24 @@
+{
+  "id": "github-garethcott-enhanced-postgres-mcp-server-e39400ca",
+  "name": "GarethCott/enhanced-postgres-mcp-server",
+  "description": "Enables LLMs to interact with PostgreSQL databases by providing read and write access, schema management, and data modification capabilities.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-garethcott-enhanced-postgres-mcp-server-e39400ca",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-garethcott-enhanced-postgres-mcp-server-e39400ca)",
+  "links": {
+    "primary": "https://github.com/GarethCott/enhanced-postgres-mcp-server",
+    "repo": "https://github.com/GarethCott/enhanced-postgres-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-adhikasp-mcp-linkedin-3ed2ad90",
+  "name": "adhikasp/mcp-linkedin",
+  "description": "Facilitates interaction with LinkedIn's Feeds and Job API using unofficial LinkedIn API tools.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-adhikasp-mcp-linkedin-3ed2ad90",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adhikasp-mcp-linkedin-3ed2ad90)",
+  "links": {
+    "primary": "https://github.com/adhikasp/mcp-linkedin",
+    "repo": "https://github.com/adhikasp/mcp-linkedin",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

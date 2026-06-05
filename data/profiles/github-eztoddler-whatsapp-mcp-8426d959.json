@@ -1,0 +1,24 @@
+{
+  "id": "github-eztoddler-whatsapp-mcp-8426d959",
+  "name": "eztoddler/whatsapp-mcp",
+  "description": "Facilitates seamless interaction with WhatsApp through Claude, enabling message retrieval, contact searches, and media exchanges via the WhatsApp web multidevice API.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-eztoddler-whatsapp-mcp-8426d959",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-eztoddler-whatsapp-mcp-8426d959)",
+  "links": {
+    "primary": "https://github.com/eztoddler/whatsapp-mcp",
+    "repo": "https://github.com/eztoddler/whatsapp-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

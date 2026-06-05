@@ -1,0 +1,24 @@
+{
+  "id": "github-vitthalr-github-copilot-talk-to-figma-mcp-33ee491a",
+  "name": "vitthalr/github-copilot-talk-to-figma-mcp",
+  "description": "Facilitates seamless integration between GitHub Copilot and Figma, enabling programmatic design modifications via a TypeScript MCP server and WebSocket communication.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-vitthalr-github-copilot-talk-to-figma-mcp-33ee491a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vitthalr-github-copilot-talk-to-figma-mcp-33ee491a)",
+  "links": {
+    "primary": "https://github.com/vitthalr/github-copilot-talk-to-figma-mcp",
+    "repo": "https://github.com/vitthalr/github-copilot-talk-to-figma-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

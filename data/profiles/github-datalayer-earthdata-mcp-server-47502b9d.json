@@ -1,0 +1,24 @@
+{
+  "id": "github-datalayer-earthdata-mcp-server-47502b9d",
+  "name": "datalayer/earthdata-mcp-server",
+  "description": "Facilitates efficient dataset discovery and retrieval from NASA Earth Data for geospatial analysis.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-datalayer-earthdata-mcp-server-47502b9d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-datalayer-earthdata-mcp-server-47502b9d)",
+  "links": {
+    "primary": "https://github.com/datalayer/earthdata-mcp-server",
+    "repo": "https://github.com/datalayer/earthdata-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

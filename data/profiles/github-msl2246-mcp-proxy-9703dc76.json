@@ -1,0 +1,25 @@
+{
+  "id": "github-msl2246-mcp-proxy-9703dc76",
+  "name": "msl2246/mcp-proxy",
+  "description": "Facilitates seamless communication between stdio and SSE transports for MCP servers, enhancing connectivity for clients like Claude Desktop.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-msl2246-mcp-proxy-9703dc76",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-msl2246-mcp-proxy-9703dc76)",
+  "links": {
+    "primary": "https://github.com/msl2246/mcp-proxy",
+    "repo": "https://github.com/msl2246/mcp-proxy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

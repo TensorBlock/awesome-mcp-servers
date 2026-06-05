@@ -1,0 +1,24 @@
+{
+  "id": "github-anaisbetts-mcp-installer-50df7a2c",
+  "name": "anaisbetts/mcp-installer",
+  "description": "Facilitates the installation of MCP servers from npm or PyPi using Claude, streamlining server setup and deployment.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-anaisbetts-mcp-installer-50df7a2c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anaisbetts-mcp-installer-50df7a2c)",
+  "links": {
+    "primary": "https://github.com/anaisbetts/mcp-installer",
+    "repo": "https://github.com/anaisbetts/mcp-installer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

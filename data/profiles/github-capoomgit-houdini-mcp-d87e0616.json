@@ -1,0 +1,24 @@
+{
+  "id": "github-capoomgit-houdini-mcp-d87e0616",
+  "name": "capoomgit/houdini-mcp",
+  "description": "Facilitates control of SideFX Houdini from Claude using the Model Context Protocol, featuring a Houdini plugin and an MCP bridge script.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-capoomgit-houdini-mcp-d87e0616",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-capoomgit-houdini-mcp-d87e0616)",
+  "links": {
+    "primary": "https://github.com/capoomgit/houdini-mcp",
+    "repo": "https://github.com/capoomgit/houdini-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
