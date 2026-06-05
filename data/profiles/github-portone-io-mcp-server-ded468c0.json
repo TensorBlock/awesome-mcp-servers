@@ -1,0 +1,24 @@
+{
+  "id": "github-portone-io-mcp-server-ded468c0",
+  "name": "portone-io/mcp-server",
+  "description": "Facilitates easy and accurate retrieval of PortOne Developer Center documentation using LLMs.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-portone-io-mcp-server-ded468c0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-portone-io-mcp-server-ded468c0)",
+  "links": {
+    "primary": "https://github.com/portone-io/mcp-server",
+    "repo": "https://github.com/portone-io/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

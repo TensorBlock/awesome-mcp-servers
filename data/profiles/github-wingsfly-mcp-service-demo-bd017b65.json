@@ -1,0 +1,25 @@
+{
+  "id": "github-wingsfly-mcp-service-demo-bd017b65",
+  "name": "wingsfly/mcp_service_demo",
+  "description": "Demonstrates the use of Model Context Protocol services with support for SSE and stdio interactions, compatible with various large model formats.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-wingsfly-mcp-service-demo-bd017b65",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wingsfly-mcp-service-demo-bd017b65)",
+  "links": {
+    "primary": "https://github.com/wingsfly/mcp_service_demo",
+    "repo": "https://github.com/wingsfly/mcp_service_demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-navisbio-ctgov-mcp-e74a8ce5",
+  "name": "navisbio/ctgov_MCP",
+  "description": "Facilitates analysis of clinical trial data from the AACT database, offering insights into therapeutic landscapes.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-navisbio-ctgov-mcp-e74a8ce5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-navisbio-ctgov-mcp-e74a8ce5)",
+  "links": {
+    "primary": "https://github.com/navisbio/ctgov_MCP",
+    "repo": "https://github.com/navisbio/ctgov_MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

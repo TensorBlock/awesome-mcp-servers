@@ -1,0 +1,24 @@
+{
+  "id": "github-its-dart-dart-mcp-server-1116eae4",
+  "name": "its-dart/dart-mcp-server",
+  "description": "Facilitates AI-driven project management with task and document management capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-its-dart-dart-mcp-server-1116eae4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-its-dart-dart-mcp-server-1116eae4)",
+  "links": {
+    "primary": "https://github.com/its-dart/dart-mcp-server",
+    "repo": "https://github.com/its-dart/dart-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

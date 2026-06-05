@@ -1,0 +1,24 @@
+{
+  "id": "github-cmann50-mcp-chrome-google-search-e54e64be",
+  "name": "cmann50/mcp-chrome-google-search",
+  "description": "Facilitates Google search and webpage content extraction via Chrome, integrating with Claude for seamless content fetching.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-cmann50-mcp-chrome-google-search-e54e64be",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cmann50-mcp-chrome-google-search-e54e64be)",
+  "links": {
+    "primary": "https://github.com/cmann50/mcp-chrome-google-search",
+    "repo": "https://github.com/cmann50/mcp-chrome-google-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

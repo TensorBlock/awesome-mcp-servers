@@ -1,0 +1,24 @@
+{
+  "id": "github-biocontext-uniprot-mcp-ad8f058d",
+  "name": "BioContext/UniProt-MCP",
+  "description": "Facilitates LLMs like Claude to access and retrieve detailed protein and proteomics data from the UniProt database.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-biocontext-uniprot-mcp-ad8f058d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-biocontext-uniprot-mcp-ad8f058d)",
+  "links": {
+    "primary": "https://github.com/BioContext/UniProt-MCP",
+    "repo": "https://github.com/BioContext/UniProt-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

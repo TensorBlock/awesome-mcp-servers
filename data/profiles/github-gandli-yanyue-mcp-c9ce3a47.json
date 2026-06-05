@@ -1,0 +1,24 @@
+{
+  "id": "github-gandli-yanyue-mcp-c9ce3a47",
+  "name": "gandli/yanyue-mcp",
+  "description": "Fetches cigarette data from Yanyue with a search tool for cigarette information.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-gandli-yanyue-mcp-c9ce3a47",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gandli-yanyue-mcp-c9ce3a47)",
+  "links": {
+    "primary": "https://github.com/gandli/yanyue-mcp",
+    "repo": "https://github.com/gandli/yanyue-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

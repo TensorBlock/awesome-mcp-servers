@@ -1,0 +1,24 @@
+{
+  "id": "github-lq0910-vuesage-349490c3",
+  "name": "lq0910/vuesage",
+  "description": "VueSage enhances Vue component quality through intelligent analysis and optimization, leveraging MCP for seamless integration with editors.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-lq0910-vuesage-349490c3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lq0910-vuesage-349490c3)",
+  "links": {
+    "primary": "https://github.com/lq0910/vuesage",
+    "repo": "https://github.com/lq0910/vuesage",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

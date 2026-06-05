@@ -1,0 +1,24 @@
+{
+  "id": "github-ray0907-mcp-arxiv-19e4e868",
+  "name": "Ray0907/mcp-arxiv",
+  "description": "Facilitates seamless academic paper search and retrieval from arXiv for LLMs, bypassing complex HTML parsing.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-ray0907-mcp-arxiv-19e4e868",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ray0907-mcp-arxiv-19e4e868)",
+  "links": {
+    "primary": "https://github.com/Ray0907/mcp-arxiv",
+    "repo": "https://github.com/Ray0907/mcp-arxiv",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

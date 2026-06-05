@@ -1,0 +1,24 @@
+{
+  "id": "github-maoxiaoke-create-mcp-server-5022d7b9",
+  "name": "maoxiaoke/create-mcp-server",
+  "description": "Facilitates the creation of new MCP server scaffolds with structured development protocols and example templates.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-maoxiaoke-create-mcp-server-5022d7b9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maoxiaoke-create-mcp-server-5022d7b9)",
+  "links": {
+    "primary": "https://github.com/maoxiaoke/create-mcp-server",
+    "repo": "https://github.com/maoxiaoke/create-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

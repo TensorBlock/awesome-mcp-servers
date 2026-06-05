@@ -1,0 +1,24 @@
+{
+  "id": "github-tnep4-asteria-674e3feb",
+  "name": "TNEP4/Asteria",
+  "description": "Asteria orchestrates productivity tools like Notion, Airtable, and Qdrant through Claude AI using MCP integrations for seamless project and task management.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-tnep4-asteria-674e3feb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tnep4-asteria-674e3feb)",
+  "links": {
+    "primary": "https://github.com/TNEP4/Asteria",
+    "repo": "https://github.com/TNEP4/Asteria",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

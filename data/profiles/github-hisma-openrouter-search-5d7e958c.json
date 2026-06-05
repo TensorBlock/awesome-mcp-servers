@@ -1,0 +1,24 @@
+{
+  "id": "github-hisma-openrouter-search-5d7e958c",
+  "name": "Hisma/openrouter-search",
+  "description": "Leverages the OpenRouter API to enable web search capabilities through an MCP server using the google/gemini-2.5-pro-preview-03-25:online model.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-hisma-openrouter-search-5d7e958c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hisma-openrouter-search-5d7e958c)",
+  "links": {
+    "primary": "https://github.com/Hisma/openrouter-search",
+    "repo": "https://github.com/Hisma/openrouter-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

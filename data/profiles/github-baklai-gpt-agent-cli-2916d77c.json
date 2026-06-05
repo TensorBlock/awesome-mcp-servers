@@ -1,0 +1,24 @@
+{
+  "id": "github-baklai-gpt-agent-cli-2916d77c",
+  "name": "baklai/gpt-agent-cli",
+  "description": "Utilize the Model Context Protocol with OpenAI API to create a chat-based client that integrates with various MCP servers for dynamic tool responses.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-baklai-gpt-agent-cli-2916d77c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-baklai-gpt-agent-cli-2916d77c)",
+  "links": {
+    "primary": "https://github.com/baklai/gpt-agent-cli",
+    "repo": "https://github.com/baklai/gpt-agent-cli",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

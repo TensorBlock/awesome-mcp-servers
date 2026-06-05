@@ -1,0 +1,24 @@
+{
+  "id": "github-sotayamashita-mcp-server-demo-4d030106",
+  "name": "sotayamashita/mcp-server-demo",
+  "description": "A demonstration of creating and testing a Model Context Protocol server with tools and resources using FastMCP and Claude Desktop.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-sotayamashita-mcp-server-demo-4d030106",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sotayamashita-mcp-server-demo-4d030106)",
+  "links": {
+    "primary": "https://github.com/sotayamashita/mcp-server-demo",
+    "repo": "https://github.com/sotayamashita/mcp-server-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

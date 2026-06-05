@@ -1,0 +1,24 @@
+{
+  "id": "github-l-chris-douban-mcp-0be6d061",
+  "name": "L-Chris/douban-mcp",
+  "description": "Facilitates searching and interacting with Douban content, including books, movies, and group discussions, through an MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-l-chris-douban-mcp-0be6d061",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-l-chris-douban-mcp-0be6d061)",
+  "links": {
+    "primary": "https://github.com/L-Chris/douban-mcp",
+    "repo": "https://github.com/L-Chris/douban-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

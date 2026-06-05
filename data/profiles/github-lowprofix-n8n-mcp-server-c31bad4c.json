@@ -1,0 +1,24 @@
+{
+  "id": "github-lowprofix-n8n-mcp-server-c31bad4c",
+  "name": "lowprofix/n8n-mcp-server",
+  "description": "Enhance your n8n automation projects with workflow validation tools and NextJS integration capabilities.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-lowprofix-n8n-mcp-server-c31bad4c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lowprofix-n8n-mcp-server-c31bad4c)",
+  "links": {
+    "primary": "https://github.com/lowprofix/n8n-mcp-server",
+    "repo": "https://github.com/lowprofix/n8n-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

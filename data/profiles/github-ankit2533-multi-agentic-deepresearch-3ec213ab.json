@@ -1,0 +1,24 @@
+{
+  "id": "github-ankit2533-multi-agentic-deepresearch-3ec213ab",
+  "name": "Ankit2533/multi-agentic_deepresearch",
+  "description": "A multi-agent deep researcher leveraging MCP to orchestrate AI agents for collaborative deep web searches and knowledge synthesis.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ankit2533-multi-agentic-deepresearch-3ec213ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ankit2533-multi-agentic-deepresearch-3ec213ab)",
+  "links": {
+    "primary": "https://github.com/Ankit2533/multi-agentic_deepresearch",
+    "repo": "https://github.com/Ankit2533/multi-agentic_deepresearch",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

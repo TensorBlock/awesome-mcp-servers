@@ -1,0 +1,24 @@
+{
+  "id": "github-norisuke3-mcp-state-server-750e91ce",
+  "name": "norisuke3/mcp-state-server",
+  "description": "A TypeScript-based MCP server implementing a notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-norisuke3-mcp-state-server-750e91ce",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-norisuke3-mcp-state-server-750e91ce)",
+  "links": {
+    "primary": "https://github.com/norisuke3/mcp-state-server",
+    "repo": "https://github.com/norisuke3/mcp-state-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

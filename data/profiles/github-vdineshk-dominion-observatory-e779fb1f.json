@@ -1,0 +1,24 @@
+{
+  "id": "github-vdineshk-dominion-observatory-e779fb1f",
+  "name": "vdineshk/dominion-observatory",
+  "description": "Behavioral trust scoring for MCP servers. Continuously probes 22,500+ servers for uptime, latency, and success rate; provides trust_score (0-100) and behavioral drift detection via a free REST API.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-vdineshk-dominion-observatory-e779fb1f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vdineshk-dominion-observatory-e779fb1f)",
+  "links": {
+    "primary": "https://github.com/vdineshk/dominion-observatory",
+    "repo": "https://github.com/vdineshk/dominion-observatory",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

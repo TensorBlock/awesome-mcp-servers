@@ -1,0 +1,24 @@
+{
+  "id": "github-domdomegg-airtable-mcp-server-4c435f3a",
+  "name": "domdomegg/airtable-mcp-server",
+  "description": "Facilitates AI-driven interactions with Airtable databases by providing read and write access through a Model Context Protocol server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-domdomegg-airtable-mcp-server-4c435f3a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-domdomegg-airtable-mcp-server-4c435f3a)",
+  "links": {
+    "primary": "https://github.com/domdomegg/airtable-mcp-server",
+    "repo": "https://github.com/domdomegg/airtable-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

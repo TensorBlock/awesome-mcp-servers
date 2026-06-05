@@ -1,0 +1,24 @@
+{
+  "id": "github-semgrep-mcp-32f573c8",
+  "name": "semgrep/mcp",
+  "description": "Utilize Semgrep to efficiently scan code for security vulnerabilities through an MCP server interface.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-semgrep-mcp-32f573c8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-semgrep-mcp-32f573c8)",
+  "links": {
+    "primary": "https://github.com/semgrep/mcp",
+    "repo": "https://github.com/semgrep/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jt-atan-access-com-f6ec74cd",
+  "name": "jt-atan/Access-COM",
+  "description": "Facilitates seamless interaction with 32-bit Microsoft Access databases through a Model Context Protocol tool, supporting SQL queries and linked table management.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-jt-atan-access-com-f6ec74cd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jt-atan-access-com-f6ec74cd)",
+  "links": {
+    "primary": "https://github.com/jt-atan/Access-COM",
+    "repo": "https://github.com/jt-atan/Access-COM",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

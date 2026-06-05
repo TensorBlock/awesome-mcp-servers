@@ -1,0 +1,24 @@
+{
+  "id": "github-3mdistal-css-mcp-server-41cfee09",
+  "name": "3mdistal/css-mcp-server",
+  "description": "A Node.js and TypeScript-based server that acts as a CSS Tutor, offering personalized CSS updates to AI clients via the Model Context Protocol.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-3mdistal-css-mcp-server-41cfee09",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-3mdistal-css-mcp-server-41cfee09)",
+  "links": {
+    "primary": "https://github.com/3mdistal/css-mcp-server",
+    "repo": "https://github.com/3mdistal/css-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

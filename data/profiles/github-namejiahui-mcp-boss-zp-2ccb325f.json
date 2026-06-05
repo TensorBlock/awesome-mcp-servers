@@ -1,0 +1,24 @@
+{
+  "id": "github-namejiahui-mcp-boss-zp-2ccb325f",
+  "name": "namejiahui/mcp-boss-zp",
+  "description": "Facilitates large language models in accessing Boss Zhipin interfaces for job filtering and communication.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-namejiahui-mcp-boss-zp-2ccb325f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-namejiahui-mcp-boss-zp-2ccb325f)",
+  "links": {
+    "primary": "https://github.com/namejiahui/mcp-boss-zp",
+    "repo": "https://github.com/namejiahui/mcp-boss-zp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

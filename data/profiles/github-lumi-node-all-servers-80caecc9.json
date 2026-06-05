@@ -1,0 +1,24 @@
+{
+  "id": "github-lumi-node-all-servers-80caecc9",
+  "name": "Lumi-node/all_servers",
+  "description": "A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled tool access for LLMs.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-lumi-node-all-servers-80caecc9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lumi-node-all-servers-80caecc9)",
+  "links": {
+    "primary": "https://github.com/Lumi-node/all_servers",
+    "repo": "https://github.com/Lumi-node/all_servers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

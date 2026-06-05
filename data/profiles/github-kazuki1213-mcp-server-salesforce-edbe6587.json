@@ -1,0 +1,24 @@
+{
+  "id": "github-kazuki1213-mcp-server-salesforce-edbe6587",
+  "name": "kazuki1213/mcp-server-salesforce",
+  "description": "Facilitates seamless interaction with Salesforce through a Model Context Protocol server, enabling note management and Salesforce data operations.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-kazuki1213-mcp-server-salesforce-edbe6587",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kazuki1213-mcp-server-salesforce-edbe6587)",
+  "links": {
+    "primary": "https://github.com/kazuki1213/mcp-server-salesforce",
+    "repo": "https://github.com/kazuki1213/mcp-server-salesforce",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

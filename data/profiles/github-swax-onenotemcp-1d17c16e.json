@@ -1,0 +1,24 @@
+{
+  "id": "github-swax-onenotemcp-1d17c16e",
+  "name": "swax/OneNoteMCP",
+  "description": "Facilitates seamless access to personal OneNote notebooks via an updated MCP API with enhanced authentication and performance features.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-swax-onenotemcp-1d17c16e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-swax-onenotemcp-1d17c16e)",
+  "links": {
+    "primary": "https://github.com/swax/OneNoteMCP",
+    "repo": "https://github.com/swax/OneNoteMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
