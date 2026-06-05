@@ -1,0 +1,24 @@
+{
+  "id": "github-ankitpatel12-stravamcp-909e8a47",
+  "name": "AnkitPatel12/StravaMCP",
+  "description": "Connects to Strava's API to enable AI assistants like Claude to access and analyze fitness data.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-ankitpatel12-stravamcp-909e8a47",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ankitpatel12-stravamcp-909e8a47)",
+  "links": {
+    "primary": "https://github.com/AnkitPatel12/StravaMCP",
+    "repo": "https://github.com/AnkitPatel12/StravaMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

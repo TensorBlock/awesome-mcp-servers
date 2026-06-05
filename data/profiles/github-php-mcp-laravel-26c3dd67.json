@@ -1,0 +1,24 @@
+{
+  "id": "github-php-mcp-laravel-26c3dd67",
+  "name": "php-mcp/laravel",
+  "description": "Seamlessly integrates the PHP MCP Server package into Laravel, enabling applications to expose MCP tools, resources, and prompts with ease.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-php-mcp-laravel-26c3dd67",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-php-mcp-laravel-26c3dd67)",
+  "links": {
+    "primary": "https://github.com/php-mcp/laravel",
+    "repo": "https://github.com/php-mcp/laravel",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

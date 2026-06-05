@@ -1,0 +1,24 @@
+{
+  "id": "github-cicatriiz-text-toolkit-fc3e2be4",
+  "name": "Cicatriiz/text-toolkit",
+  "description": "TextToolkit offers over 40 specialized utilities for text transformation, encoding, formatting, and analysis, seamlessly integrating into AI workflows.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-cicatriiz-text-toolkit-fc3e2be4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cicatriiz-text-toolkit-fc3e2be4)",
+  "links": {
+    "primary": "https://github.com/Cicatriiz/text-toolkit",
+    "repo": "https://github.com/Cicatriiz/text-toolkit",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

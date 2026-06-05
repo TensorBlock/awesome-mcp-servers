@@ -1,0 +1,24 @@
+{
+  "id": "github-hirokidaichi-imark-377c6cf3",
+  "name": "hirokidaichi/imark",
+  "description": "A versatile CLI tool that leverages AI for image recognition, cataloging, and generation, with MCP server capabilities for enhanced image processing.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-hirokidaichi-imark-377c6cf3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hirokidaichi-imark-377c6cf3)",
+  "links": {
+    "primary": "https://github.com/hirokidaichi/imark",
+    "repo": "https://github.com/hirokidaichi/imark",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

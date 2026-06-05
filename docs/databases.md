@@ -291,3 +291,10 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [lucas-deangelis/arango-mcp-server](https://github.com/lucas-deangelis/arango-mcp-server): Facilitates interaction with ArangoDB through the Model Context Protocol, enabling database queries and management via a structured command interface.
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox): Open source MCP server specializing in easy, fast, and secure tools for Databases.
 - [haymon-ai/database](https://github.com/haymon-ai/database): Single-binary MCP server for MySQL, MariaDB, PostgreSQL & SQLite. Built in Rust with zero runtime dependencies.
+- [daedalus/mcp-mysql-connector](https://github.com/daedalus/mcp-mysql-connector) - MCP server for MySQL database connectivity.
+- [daedalus/mcp-psycopg2](https://github.com/daedalus/mcp-psycopg2) - MCP server exposing psycopg2 PostgreSQL database adapter functionality.
+- [daedalus/mcp-redis-server](https://github.com/daedalus/mcp-redis-server) - MCP server that exposes Redis API to AI models.
+- [daedalus/mcp-server-mssql](https://github.com/daedalus/mcp-server-mssql) - MCP server for Microsoft SQL Server.
+- [daedalus/mcp-sqlite3](https://github.com/daedalus/mcp-sqlite3) - MCP server exposing sqlite3 library functionality.
+
+- [stucchi/db-mcp-server](https://github.com/stucchi/db-mcp-server): Database MCP server for MySQL, PostgreSQL, and MongoDB with SSH tunneling support. Run queries, explore schemas, and manage data across multiple database types.

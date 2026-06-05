@@ -1,0 +1,24 @@
+{
+  "id": "github-gitmaxd-dubco-mcp-server-npm-f7a186f8",
+  "name": "Gitmaxd/dubco-mcp-server-npm",
+  "description": "Enables AI assistants to manage Dub.co short links through the Model Context Protocol, offering tools for creating, updating, and deleting links.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-gitmaxd-dubco-mcp-server-npm-f7a186f8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gitmaxd-dubco-mcp-server-npm-f7a186f8)",
+  "links": {
+    "primary": "https://github.com/Gitmaxd/dubco-mcp-server-npm",
+    "repo": "https://github.com/Gitmaxd/dubco-mcp-server-npm",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

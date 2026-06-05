@@ -1,0 +1,24 @@
+{
+  "id": "github-irvinebroque-remote-mcp-server-20-0582f070",
+  "name": "irvinebroque/remote-mcp-server-20",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with Claude Desktop and MCP Inspector.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-irvinebroque-remote-mcp-server-20-0582f070",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-irvinebroque-remote-mcp-server-20-0582f070)",
+  "links": {
+    "primary": "https://github.com/irvinebroque/remote-mcp-server-20",
+    "repo": "https://github.com/irvinebroque/remote-mcp-server-20",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

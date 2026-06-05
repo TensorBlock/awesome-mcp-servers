@@ -1,0 +1,24 @@
+{
+  "id": "github-davidvc-code-knowledge-mcptool-f8647892",
+  "name": "davidvc/code-knowledge-mcptool",
+  "description": "A tool for managing and querying codebase knowledge using vector embeddings, integrated with RooCode and Cline via MCP.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-davidvc-code-knowledge-mcptool-f8647892",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-davidvc-code-knowledge-mcptool-f8647892)",
+  "links": {
+    "primary": "https://github.com/davidvc/code-knowledge-mcptool",
+    "repo": "https://github.com/davidvc/code-knowledge-mcptool",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

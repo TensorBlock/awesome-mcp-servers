@@ -1,0 +1,24 @@
+{
+  "id": "github-flipsai-do-anything-mcp-a1cfdde2",
+  "name": "flipsai/do-anything-mcp",
+  "description": "Facilitates seamless integration of Claude AI with various applications through a versatile MCP server supporting file uploads, TTS, STT, and multimedia processing.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-flipsai-do-anything-mcp-a1cfdde2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-flipsai-do-anything-mcp-a1cfdde2)",
+  "links": {
+    "primary": "https://github.com/flipsai/do-anything-mcp",
+    "repo": "https://github.com/flipsai/do-anything-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

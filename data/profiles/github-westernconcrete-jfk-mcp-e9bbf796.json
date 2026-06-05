@@ -1,0 +1,24 @@
+{
+  "id": "github-westernconcrete-jfk-mcp-e9bbf796",
+  "name": "WesternConcrete/jfk-mcp",
+  "description": "Leverages the Archives API to query JFK documents efficiently.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-westernconcrete-jfk-mcp-e9bbf796",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-westernconcrete-jfk-mcp-e9bbf796)",
+  "links": {
+    "primary": "https://github.com/WesternConcrete/jfk-mcp",
+    "repo": "https://github.com/WesternConcrete/jfk-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-elizabethtrykin-oura-mcp-e6e467b6",
+  "name": "elizabethtrykin/oura-mcp",
+  "description": "Access and manage Oura Ring data through a Model Context Protocol server, integrating seamlessly with Claude Desktop.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-elizabethtrykin-oura-mcp-e6e467b6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elizabethtrykin-oura-mcp-e6e467b6)",
+  "links": {
+    "primary": "https://github.com/elizabethtrykin/oura-mcp",
+    "repo": "https://github.com/elizabethtrykin/oura-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

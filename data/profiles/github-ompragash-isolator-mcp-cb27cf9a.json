@@ -1,0 +1,24 @@
+{
+  "id": "github-ompragash-isolator-mcp-cb27cf9a",
+  "name": "Ompragash/isolator-mcp",
+  "description": "Facilitates secure execution of Python, Go, and JavaScript code snippets within isolated Docker containers, accessible via MCP.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-ompragash-isolator-mcp-cb27cf9a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ompragash-isolator-mcp-cb27cf9a)",
+  "links": {
+    "primary": "https://github.com/Ompragash/isolator-mcp",
+    "repo": "https://github.com/Ompragash/isolator-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

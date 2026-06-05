@@ -1,0 +1,24 @@
+{
+  "id": "github-teamsincetoday-newsletter-commerce-mcp-0f447ae6",
+  "name": "teamsincetoday/newsletter-commerce-mcp",
+  "description": "Extracts shoppable products and sponsor mentions from newsletter editions using AI-powered content intelligence. Generates affiliate-ready product sections for newsletters.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-teamsincetoday-newsletter-commerce-mcp-0f447ae6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-teamsincetoday-newsletter-commerce-mcp-0f447ae6)",
+  "links": {
+    "primary": "https://github.com/teamsincetoday/newsletter-commerce-mcp",
+    "repo": "https://github.com/teamsincetoday/newsletter-commerce-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-mumunha-mcp-evolution-whatsapp-api-58dde673",
+  "name": "mumunha/mcp-evolution-whatsapp-api",
+  "description": "Facilitates WhatsApp automation by integrating Claude with the Evolution API for managing instances, sending messages, and configuring webhooks.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-mumunha-mcp-evolution-whatsapp-api-58dde673",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mumunha-mcp-evolution-whatsapp-api-58dde673)",
+  "links": {
+    "primary": "https://github.com/mumunha/mcp-evolution-whatsapp-api",
+    "repo": "https://github.com/mumunha/mcp-evolution-whatsapp-api",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

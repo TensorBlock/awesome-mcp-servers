@@ -1,0 +1,24 @@
+{
+  "id": "github-captaincrouton89-requirements-gathering-c8f1f428",
+  "name": "CaptainCrouton89/requirements-gathering",
+  "description": "Facilitates storage and retrieval of information using vector embeddings for semantic search via the AI Embeddings API.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-captaincrouton89-requirements-gathering-c8f1f428",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-captaincrouton89-requirements-gathering-c8f1f428)",
+  "links": {
+    "primary": "https://github.com/CaptainCrouton89/requirements-gathering",
+    "repo": "https://github.com/CaptainCrouton89/requirements-gathering",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

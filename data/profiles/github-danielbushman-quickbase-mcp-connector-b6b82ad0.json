@@ -1,0 +1,24 @@
+{
+  "id": "github-danielbushman-quickbase-mcp-connector-b6b82ad0",
+  "name": "danielbushman/Quickbase-MCP-connector",
+  "description": "Facilitates AI-driven interactions with Quickbase's API, enabling seamless data management and report access through natural language commands.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-danielbushman-quickbase-mcp-connector-b6b82ad0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-danielbushman-quickbase-mcp-connector-b6b82ad0)",
+  "links": {
+    "primary": "https://github.com/danielbushman/Quickbase-MCP-connector",
+    "repo": "https://github.com/danielbushman/Quickbase-MCP-connector",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

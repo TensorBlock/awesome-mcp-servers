@@ -1,0 +1,24 @@
+{
+  "id": "github-soggycactus-paprika-3-mcp-c2aa7c11",
+  "name": "soggycactus/paprika-3-mcp",
+  "description": "Facilitates natural language interaction with Paprika 3 recipes, enabling creation and editing via LLMs like Claude.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-soggycactus-paprika-3-mcp-c2aa7c11",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-soggycactus-paprika-3-mcp-c2aa7c11)",
+  "links": {
+    "primary": "https://github.com/soggycactus/paprika-3-mcp",
+    "repo": "https://github.com/soggycactus/paprika-3-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

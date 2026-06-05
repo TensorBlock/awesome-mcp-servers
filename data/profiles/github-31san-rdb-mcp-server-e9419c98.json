@@ -1,0 +1,24 @@
+{
+  "id": "github-31san-rdb-mcp-server-e9419c98",
+  "name": "31San/rdb_mcp_server",
+  "description": "An experimental MCP server leveraging Spring AI for executing low-level SQL operations across multiple databases using JDBC.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-31san-rdb-mcp-server-e9419c98",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-31san-rdb-mcp-server-e9419c98)",
+  "links": {
+    "primary": "https://github.com/31San/rdb_mcp_server",
+    "repo": "https://github.com/31San/rdb_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

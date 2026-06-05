@@ -1,0 +1,24 @@
+{
+  "id": "github-yosider-cosense-mcp-server-6cbfd7b9",
+  "name": "yosider/cosense-mcp-server",
+  "description": "Facilitates interaction with Cosense pages through a suite of tools for page retrieval, listing, searching, and text insertion.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-yosider-cosense-mcp-server-6cbfd7b9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yosider-cosense-mcp-server-6cbfd7b9)",
+  "links": {
+    "primary": "https://github.com/yosider/cosense-mcp-server",
+    "repo": "https://github.com/yosider/cosense-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -91,3 +91,4 @@ Servers using mapping APIs, providing geolocation services, address lookups, or 
 - [youqingkui/dify_service](https://github.com/youqingkui/dify_service): A server that manages note storage and summarization with custom URI schemes and prompt tools.
 - [egublog/claude_mcp_weather](https://github.com/egublog/claude_mcp_weather): A TypeScript-based MCP server implementing a notes system with tools for note creation and summarization.
 - [duan-li/mcp-weather-server-example](https://github.com/duan-li/mcp-weather-server-example): A weather server utilizing MCP to manage and summarize note resources with customizable prompts.
+- [danishashko/geocode-mcp](https://github.com/danishashko/geocode-mcp): Geocoding via OpenStreetMap Nominatim: forward and reverse geocoding, place search, and distance between locations. 4 tools, no API key, install via `npx geocode-mcp`.

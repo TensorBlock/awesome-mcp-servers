@@ -1,0 +1,24 @@
+{
+  "id": "github-malikelate-yt-description-mcp-da6a9f80",
+  "name": "MalikElate/yt-description-mcp",
+  "description": "Facilitates AI-driven extraction of YouTube video transcripts for seamless integration with Cursor and Claude Desktop.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-malikelate-yt-description-mcp-da6a9f80",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-malikelate-yt-description-mcp-da6a9f80)",
+  "links": {
+    "primary": "https://github.com/MalikElate/yt-description-mcp",
+    "repo": "https://github.com/MalikElate/yt-description-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

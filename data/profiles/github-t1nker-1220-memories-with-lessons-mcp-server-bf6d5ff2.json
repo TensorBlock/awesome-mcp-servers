@@ -1,0 +1,24 @@
+{
+  "id": "github-t1nker-1220-memories-with-lessons-mcp-server-bf6d5ff2",
+  "name": "T1nker-1220/memories-with-lessons-mcp-server",
+  "description": "Enhances a memory MCP server with a local knowledge graph for persistent memory, enabling error learning and solution tracking through a lesson system.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-t1nker-1220-memories-with-lessons-mcp-server-bf6d5ff2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-t1nker-1220-memories-with-lessons-mcp-server-bf6d5ff2)",
+  "links": {
+    "primary": "https://github.com/T1nker-1220/memories-with-lessons-mcp-server",
+    "repo": "https://github.com/T1nker-1220/memories-with-lessons-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

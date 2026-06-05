@@ -1,0 +1,24 @@
+{
+  "id": "github-etanlightstone-domino-mcp-server-90f55548",
+  "name": "etanlightstone/domino_mcp_server",
+  "description": "Facilitates interaction with Domino Data Lab through Cursor, enabling job execution and status checks directly from the chat interface.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-etanlightstone-domino-mcp-server-90f55548",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-etanlightstone-domino-mcp-server-90f55548)",
+  "links": {
+    "primary": "https://github.com/etanlightstone/domino_mcp_server",
+    "repo": "https://github.com/etanlightstone/domino_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

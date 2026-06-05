@@ -1,0 +1,24 @@
+{
+  "id": "github-curious-pm-mcp-google-cloud-billing-78564750",
+  "name": "curious-pm/mcp-google_cloud_billing",
+  "description": "Facilitates integration with Google Cloud Billing API, enabling AI assistants to analyze and manage cloud costs efficiently.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-curious-pm-mcp-google-cloud-billing-78564750",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-curious-pm-mcp-google-cloud-billing-78564750)",
+  "links": {
+    "primary": "https://github.com/curious-pm/mcp-google_cloud_billing",
+    "repo": "https://github.com/curious-pm/mcp-google_cloud_billing",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

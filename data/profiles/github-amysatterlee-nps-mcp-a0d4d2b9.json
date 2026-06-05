@@ -1,0 +1,24 @@
+{
+  "id": "github-amysatterlee-nps-mcp-a0d4d2b9",
+  "name": "amysatterlee/nps_mcp",
+  "description": "Facilitates access to National Park Services data through an MCP server interface, enabling retrieval of park lists and detailed information via the NPS API.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-amysatterlee-nps-mcp-a0d4d2b9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amysatterlee-nps-mcp-a0d4d2b9)",
+  "links": {
+    "primary": "https://github.com/amysatterlee/nps_mcp",
+    "repo": "https://github.com/amysatterlee/nps_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

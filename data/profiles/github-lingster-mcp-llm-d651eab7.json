@@ -1,0 +1,24 @@
+{
+  "id": "github-lingster-mcp-llm-d651eab7",
+  "name": "lingster/mcp-llm",
+  "description": "A CLI tool enabling interactive chat with Anthropic's Claude model via multiple MCP servers, offering real-time response streaming and rich terminal output.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-lingster-mcp-llm-d651eab7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lingster-mcp-llm-d651eab7)",
+  "links": {
+    "primary": "https://github.com/lingster/mcp-llm",
+    "repo": "https://github.com/lingster/mcp-llm",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

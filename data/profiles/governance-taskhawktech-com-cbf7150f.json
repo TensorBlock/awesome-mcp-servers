@@ -1,0 +1,24 @@
+{
+  "id": "governance-taskhawktech-com-cbf7150f",
+  "name": "Kevros",
+  "description": "Runtime intelligence for autonomous AI agents — cryptographic action verification, hash-chained provenance, ML-DSA-87 post-quantum attestation. Free tier: 1,000 calls/month. Paid via L402, x402, or MPP.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/governance-taskhawktech-com-cbf7150f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/governance-taskhawktech-com-cbf7150f)",
+  "links": {
+    "primary": "https://governance.taskhawktech.com",
+    "repo": null,
+    "homepage": "https://governance.taskhawktech.com",
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
