@@ -1,0 +1,24 @@
+{
+  "id": "github-ryaker-mcp-js-server-template-76716e80",
+  "name": "ryaker/MCP-JS-Server-Template",
+  "description": "A streamlined Node.js template for developing custom MCP servers with integration capabilities for Claude Desktop.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-ryaker-mcp-js-server-template-76716e80",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ryaker-mcp-js-server-template-76716e80)",
+  "links": {
+    "primary": "https://github.com/ryaker/MCP-JS-Server-Template",
+    "repo": "https://github.com/ryaker/MCP-JS-Server-Template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

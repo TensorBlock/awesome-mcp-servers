@@ -1,0 +1,24 @@
+{
+  "id": "github-lyonsupernova-mcp-x-fc0a70da",
+  "name": "Lyonsupernova/mcp-x",
+  "description": "Facilitates integration between Claude and X API for posting tweets.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-lyonsupernova-mcp-x-fc0a70da",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lyonsupernova-mcp-x-fc0a70da)",
+  "links": {
+    "primary": "https://github.com/Lyonsupernova/mcp-x",
+    "repo": "https://github.com/Lyonsupernova/mcp-x",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

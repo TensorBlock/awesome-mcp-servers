@@ -1,0 +1,24 @@
+{
+  "id": "github-conardli-mcp-client-nodejs-36407529",
+  "name": "ConardLi/mcp-client-nodejs",
+  "description": "This repository provides a Node.js client implementation for connecting to various MCP servers, enabling interaction with large language models (LLMs) through a standardized protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-conardli-mcp-client-nodejs-36407529",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-conardli-mcp-client-nodejs-36407529)",
+  "links": {
+    "primary": "https://github.com/ConardLi/mcp-client-nodejs",
+    "repo": "https://github.com/ConardLi/mcp-client-nodejs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

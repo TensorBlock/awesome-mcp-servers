@@ -1,0 +1,24 @@
+{
+  "id": "github-sangcnguyen-gridly-mcp-server-92058c41",
+  "name": "sangcnguyen/gridly-mcp-server",
+  "description": "Facilitates project, grid, and database management through the Gridly API with comprehensive MCP server functionalities.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-sangcnguyen-gridly-mcp-server-92058c41",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sangcnguyen-gridly-mcp-server-92058c41)",
+  "links": {
+    "primary": "https://github.com/sangcnguyen/gridly-mcp-server",
+    "repo": "https://github.com/sangcnguyen/gridly-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

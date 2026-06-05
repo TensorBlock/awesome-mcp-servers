@@ -1,0 +1,24 @@
+{
+  "id": "github-korwabs-playwright-trace-mcp-35c6db41",
+  "name": "korwabs/playwright-trace-mcp",
+  "description": "Enhances browser automation with Playwright by adding trace viewer and video recording capabilities, enabling LLMs to interact with web pages through structured data.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-korwabs-playwright-trace-mcp-35c6db41",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-korwabs-playwright-trace-mcp-35c6db41)",
+  "links": {
+    "primary": "https://github.com/korwabs/playwright-trace-mcp",
+    "repo": "https://github.com/korwabs/playwright-trace-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

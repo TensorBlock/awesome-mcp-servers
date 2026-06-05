@@ -1,0 +1,24 @@
+{
+  "id": "github-tryd0g0lik-mcp-server-2aa5cc7b",
+  "name": "Tryd0g0lik/mcp-server",
+  "description": "A Python-based MCP server that searches for files in the filesystem based on path fragments and returns results in JSON format.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-tryd0g0lik-mcp-server-2aa5cc7b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tryd0g0lik-mcp-server-2aa5cc7b)",
+  "links": {
+    "primary": "https://github.com/Tryd0g0lik/mcp-server",
+    "repo": "https://github.com/Tryd0g0lik/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

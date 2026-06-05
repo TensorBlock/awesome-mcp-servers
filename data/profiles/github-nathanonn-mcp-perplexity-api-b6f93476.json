@@ -1,0 +1,24 @@
+{
+  "id": "github-nathanonn-mcp-perplexity-api-b6f93476",
+  "name": "nathanonn/mcp-perplexity-api",
+  "description": "Integrates Perplexity's API to empower Claude with real-time web-wide research capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-nathanonn-mcp-perplexity-api-b6f93476",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nathanonn-mcp-perplexity-api-b6f93476)",
+  "links": {
+    "primary": "https://github.com/nathanonn/mcp-perplexity-api",
+    "repo": "https://github.com/nathanonn/mcp-perplexity-api",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

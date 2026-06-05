@@ -1,0 +1,24 @@
+{
+  "id": "github-indroneelray-pokemon-mcp-server-774192e3",
+  "name": "indroneelray/pokemon-mcp-server",
+  "description": "Fetch Pokémon data using a Model Context Protocol server integrated with the official PokéAPI.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-indroneelray-pokemon-mcp-server-774192e3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-indroneelray-pokemon-mcp-server-774192e3)",
+  "links": {
+    "primary": "https://github.com/indroneelray/pokemon-mcp-server",
+    "repo": "https://github.com/indroneelray/pokemon-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

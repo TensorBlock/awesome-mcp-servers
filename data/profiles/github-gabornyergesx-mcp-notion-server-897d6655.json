@@ -1,0 +1,24 @@
+{
+  "id": "github-gabornyergesx-mcp-notion-server-897d6655",
+  "name": "gabornyergesX/mcp-notion-server",
+  "description": "Facilitates seamless interaction between Claude and Notion through a TypeScript-based MCP server, enabling efficient management and analysis of Notion content.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-gabornyergesx-mcp-notion-server-897d6655",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gabornyergesx-mcp-notion-server-897d6655)",
+  "links": {
+    "primary": "https://github.com/gabornyergesX/mcp-notion-server",
+    "repo": "https://github.com/gabornyergesX/mcp-notion-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

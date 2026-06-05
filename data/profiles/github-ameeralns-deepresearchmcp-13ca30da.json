@@ -1,0 +1,24 @@
+{
+  "id": "github-ameeralns-deepresearchmcp-13ca30da",
+  "name": "ameeralns/DeepResearchMCP",
+  "description": "DeepResearch MCP is an intelligent research assistant that conducts iterative research and generates comprehensive reports using the Model Context Protocol.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-ameeralns-deepresearchmcp-13ca30da",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ameeralns-deepresearchmcp-13ca30da)",
+  "links": {
+    "primary": "https://github.com/ameeralns/DeepResearchMCP",
+    "repo": "https://github.com/ameeralns/DeepResearchMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

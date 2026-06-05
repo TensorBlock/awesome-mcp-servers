@@ -1,0 +1,24 @@
+{
+  "id": "github-c-rick-dioxide-mcp-server-9439853a",
+  "name": "c-rick/dioxide-mcp-server",
+  "description": "Facilitates the distribution of Dioxide tokens on a test network using the Model Context Protocol.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-c-rick-dioxide-mcp-server-9439853a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-c-rick-dioxide-mcp-server-9439853a)",
+  "links": {
+    "primary": "https://github.com/c-rick/dioxide-mcp-server",
+    "repo": "https://github.com/c-rick/dioxide-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

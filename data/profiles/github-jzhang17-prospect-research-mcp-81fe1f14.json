@@ -1,0 +1,24 @@
+{
+  "id": "github-jzhang17-prospect-research-mcp-81fe1f14",
+  "name": "jzhang17/prospect-research-mcp",
+  "description": "A specialized MCP server for prospect research, offering semantic search, webpage scraping, and batch search processing on the Smithery Web infrastructure.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-jzhang17-prospect-research-mcp-81fe1f14",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jzhang17-prospect-research-mcp-81fe1f14)",
+  "links": {
+    "primary": "https://github.com/jzhang17/prospect-research-mcp",
+    "repo": "https://github.com/jzhang17/prospect-research-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

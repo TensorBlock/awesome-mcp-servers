@@ -1,0 +1,24 @@
+{
+  "id": "github-tayler-id-comic-panel-description-generator-d1bb69c6",
+  "name": "tayler-id/comic-panel-description-generator",
+  "description": "AI-powered tool that transforms comic sketches into detailed textual descriptions, featuring Claude integration via an MCP server.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-tayler-id-comic-panel-description-generator-d1bb69c6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tayler-id-comic-panel-description-generator-d1bb69c6)",
+  "links": {
+    "primary": "https://github.com/tayler-id/comic-panel-description-generator",
+    "repo": "https://github.com/tayler-id/comic-panel-description-generator",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

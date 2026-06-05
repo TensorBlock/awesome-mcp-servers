@@ -1,0 +1,24 @@
+{
+  "id": "github-oezguercelebi-mcp-server-simple-example-3ff6a30a",
+  "name": "oezguercelebi/MCP-Server-Simple-Example",
+  "description": "A Node.js and Express-based MCP server offering tools, resources, and prompts for testing and debugging.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-oezguercelebi-mcp-server-simple-example-3ff6a30a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-oezguercelebi-mcp-server-simple-example-3ff6a30a)",
+  "links": {
+    "primary": "https://github.com/oezguercelebi/MCP-Server-Simple-Example",
+    "repo": "https://github.com/oezguercelebi/MCP-Server-Simple-Example",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
