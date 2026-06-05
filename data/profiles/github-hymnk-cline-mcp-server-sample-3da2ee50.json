@@ -1,0 +1,24 @@
+{
+  "id": "github-hymnk-cline-mcp-server-sample-3da2ee50",
+  "name": "hymnk/cline-mcp-server-sample",
+  "description": "A sample MCP server setup using Bun for integration with Cline in VSCode.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-hymnk-cline-mcp-server-sample-3da2ee50",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hymnk-cline-mcp-server-sample-3da2ee50)",
+  "links": {
+    "primary": "https://github.com/hymnk/cline-mcp-server-sample",
+    "repo": "https://github.com/hymnk/cline-mcp-server-sample",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

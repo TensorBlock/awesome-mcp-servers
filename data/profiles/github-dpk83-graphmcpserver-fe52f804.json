@@ -1,0 +1,24 @@
+{
+  "id": "github-dpk83-graphmcpserver-fe52f804",
+  "name": "dpk83/graphmcpserver",
+  "description": "Facilitates seamless integration with Microsoft Graph via REST API using MCP.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-dpk83-graphmcpserver-fe52f804",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dpk83-graphmcpserver-fe52f804)",
+  "links": {
+    "primary": "https://github.com/dpk83/graphmcpserver",
+    "repo": "https://github.com/dpk83/graphmcpserver",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

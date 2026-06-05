@@ -1,0 +1,24 @@
+{
+  "id": "github-atom2ueki-mcp-server-ios-simulator-5e0209dd",
+  "name": "atom2ueki/mcp-server-ios-simulator",
+  "description": "Facilitates programmatic control of iOS simulators using the Model Context Protocol for seamless integration with MCP-compatible clients.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-atom2ueki-mcp-server-ios-simulator-5e0209dd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-atom2ueki-mcp-server-ios-simulator-5e0209dd)",
+  "links": {
+    "primary": "https://github.com/atom2ueki/mcp-server-ios-simulator",
+    "repo": "https://github.com/atom2ueki/mcp-server-ios-simulator",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

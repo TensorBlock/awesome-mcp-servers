@@ -1,0 +1,24 @@
+{
+  "id": "github-wowinter13-solscan-mcp-5ebb4101",
+  "name": "wowinter13/solscan-mcp",
+  "description": "Facilitates natural language queries of Solana blockchain data using the Solscan API.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-wowinter13-solscan-mcp-5ebb4101",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wowinter13-solscan-mcp-5ebb4101)",
+  "links": {
+    "primary": "https://github.com/wowinter13/solscan-mcp",
+    "repo": "https://github.com/wowinter13/solscan-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

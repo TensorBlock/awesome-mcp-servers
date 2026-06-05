@@ -1,0 +1,24 @@
+{
+  "id": "github-armorwallet-armor-crypto-mcp-2101231e",
+  "name": "armorwallet/armor-crypto-mcp",
+  "description": "Armor Crypto MCP integrates AI agents with the crypto ecosystem, enabling wallet management, swaps, and strategic trades across multiple blockchains.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-armorwallet-armor-crypto-mcp-2101231e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-armorwallet-armor-crypto-mcp-2101231e)",
+  "links": {
+    "primary": "https://github.com/armorwallet/armor-crypto-mcp",
+    "repo": "https://github.com/armorwallet/armor-crypto-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

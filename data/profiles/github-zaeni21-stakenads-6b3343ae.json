@@ -1,0 +1,24 @@
+{
+  "id": "github-zaeni21-stakenads-6b3343ae",
+  "name": "Zaeni21/stakenads",
+  "description": "Provides enriched blockchain data from Codex for MCP-compatible clients.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-zaeni21-stakenads-6b3343ae",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zaeni21-stakenads-6b3343ae)",
+  "links": {
+    "primary": "https://github.com/Zaeni21/stakenads",
+    "repo": "https://github.com/Zaeni21/stakenads",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

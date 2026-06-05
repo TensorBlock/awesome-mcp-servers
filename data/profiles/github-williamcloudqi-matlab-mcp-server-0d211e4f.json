@@ -1,0 +1,24 @@
+{
+  "id": "github-williamcloudqi-matlab-mcp-server-0d211e4f",
+  "name": "WilliamCloudQi/matlab-mcp-server",
+  "description": "Integrates MATLAB with AI to execute code, generate scripts from natural language, and access documentation directly through AI assistants.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-williamcloudqi-matlab-mcp-server-0d211e4f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-williamcloudqi-matlab-mcp-server-0d211e4f)",
+  "links": {
+    "primary": "https://github.com/WilliamCloudQi/matlab-mcp-server",
+    "repo": "https://github.com/WilliamCloudQi/matlab-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

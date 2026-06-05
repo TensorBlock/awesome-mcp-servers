@@ -1,0 +1,24 @@
+{
+  "id": "github-madhavarora1988-mcp-sqlite-poc-0cdbf753",
+  "name": "madhavarora1988/mcp_sqlite_poc",
+  "description": "Facilitates AI model interactions with SQLite databases through a Model Context Protocol server, offering query execution, schema discovery, and feedback collection.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-madhavarora1988-mcp-sqlite-poc-0cdbf753",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-madhavarora1988-mcp-sqlite-poc-0cdbf753)",
+  "links": {
+    "primary": "https://github.com/madhavarora1988/mcp_sqlite_poc",
+    "repo": "https://github.com/madhavarora1988/mcp_sqlite_poc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jordandalton-podscanmcpserver-8baa16a3",
+  "name": "JordanDalton/PodscanMcpServer",
+  "description": "Podscan MCP Server enables seamless integration with Podscan's API for efficient podcast data retrieval.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-jordandalton-podscanmcpserver-8baa16a3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jordandalton-podscanmcpserver-8baa16a3)",
+  "links": {
+    "primary": "https://github.com/JordanDalton/PodscanMcpServer",
+    "repo": "https://github.com/JordanDalton/PodscanMcpServer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

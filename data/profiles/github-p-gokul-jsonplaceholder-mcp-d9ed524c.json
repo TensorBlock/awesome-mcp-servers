@@ -1,0 +1,24 @@
+{
+  "id": "github-p-gokul-jsonplaceholder-mcp-d9ed524c",
+  "name": "p-gokul/JsonPlaceHolder-MCP",
+  "description": "Facilitates interaction with the JSONPlaceholder API, offering tools to access and manage user, post, and album data.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-p-gokul-jsonplaceholder-mcp-d9ed524c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-p-gokul-jsonplaceholder-mcp-d9ed524c)",
+  "links": {
+    "primary": "https://github.com/p-gokul/JsonPlaceHolder-MCP",
+    "repo": "https://github.com/p-gokul/JsonPlaceHolder-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-apifox-apifox-mcp-server-b917a7e3",
+  "name": "apifox/apifox-mcp-server",
+  "description": "Apifox MCP Server enables AI-powered IDEs to access and utilize Apifox project API documentation for code generation and modification.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-apifox-apifox-mcp-server-b917a7e3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-apifox-apifox-mcp-server-b917a7e3)",
+  "links": {
+    "primary": "https://github.com/apifox/apifox-mcp-server",
+    "repo": "https://github.com/apifox/apifox-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

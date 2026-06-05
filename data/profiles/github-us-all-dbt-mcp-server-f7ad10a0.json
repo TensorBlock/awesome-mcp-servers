@@ -1,0 +1,24 @@
+{
+  "id": "github-us-all-dbt-mcp-server-f7ad10a0",
+  "name": "us-all/dbt-mcp-server",
+  "description": "dbt MCP server with 22 read-only tools across `manifest.json` / `run_results.json` / `sources.json` / `catalog.json` (model/test/source introspection, run-history analysis, slow models, per-column test coverage, lineage walks) plus 5 DQ result-table tools (BigQuery + Postgres lazy peer imports). 4 triage Prompts and 4 aggregations.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-us-all-dbt-mcp-server-f7ad10a0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-us-all-dbt-mcp-server-f7ad10a0)",
+  "links": {
+    "primary": "https://github.com/us-all/dbt-mcp-server",
+    "repo": "https://github.com/us-all/dbt-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

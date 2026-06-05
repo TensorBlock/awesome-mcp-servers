@@ -1,0 +1,24 @@
+{
+  "id": "github-shadoprizm-cyberlens-mcp-server-eb4e55d8",
+  "name": "shadoprizm/cyberlens-mcp-server",
+  "description": "Security scanning MCP server for AI assistants — scan websites for missing headers and HTTPS issues, scan GitHub repos for secrets and CVE vulnerabilities, and scan Claw Hub skills for malicious code before installing. Free tier with local quick-scan (no account needed). `npx -y @shadoprizm/cyberlens-mcp-server`",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-shadoprizm-cyberlens-mcp-server-eb4e55d8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shadoprizm-cyberlens-mcp-server-eb4e55d8)",
+  "links": {
+    "primary": "https://github.com/shadoprizm/cyberlens-mcp-server",
+    "repo": "https://github.com/shadoprizm/cyberlens-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

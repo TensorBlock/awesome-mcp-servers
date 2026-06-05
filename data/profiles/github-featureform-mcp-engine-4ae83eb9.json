@@ -1,0 +1,24 @@
+{
+  "id": "github-featureform-mcp-engine-4ae83eb9",
+  "name": "featureform/mcp-engine",
+  "description": "MCPEngine offers a robust, scalable framework for integrating enterprise applications with LLMs using the Model Context Protocol, featuring built-in OAuth and seamless proxy-based architecture.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-featureform-mcp-engine-4ae83eb9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-featureform-mcp-engine-4ae83eb9)",
+  "links": {
+    "primary": "https://github.com/featureform/mcp-engine",
+    "repo": "https://github.com/featureform/mcp-engine",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

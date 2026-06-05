@@ -1,0 +1,24 @@
+{
+  "id": "github-jakenuts-mcp-solarwinds-01c48303",
+  "name": "jakenuts/mcp-solarwinds",
+  "description": "Access and visualize SolarWinds Observability logs with advanced filtering and customizable time intervals.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-jakenuts-mcp-solarwinds-01c48303",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jakenuts-mcp-solarwinds-01c48303)",
+  "links": {
+    "primary": "https://github.com/jakenuts/mcp-solarwinds",
+    "repo": "https://github.com/jakenuts/mcp-solarwinds",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

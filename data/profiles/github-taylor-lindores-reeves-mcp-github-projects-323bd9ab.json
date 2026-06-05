@@ -1,0 +1,24 @@
+{
+  "id": "github-taylor-lindores-reeves-mcp-github-projects-323bd9ab",
+  "name": "taylor-lindores-reeves/mcp-github-projects",
+  "description": "Facilitates AI-driven management of Agile Sprint-based projects using GitHub Projects via a robust MCP server.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-taylor-lindores-reeves-mcp-github-projects-323bd9ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-taylor-lindores-reeves-mcp-github-projects-323bd9ab)",
+  "links": {
+    "primary": "https://github.com/taylor-lindores-reeves/mcp-github-projects",
+    "repo": "https://github.com/taylor-lindores-reeves/mcp-github-projects",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
