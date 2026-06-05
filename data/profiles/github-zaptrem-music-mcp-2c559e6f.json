@@ -1,0 +1,24 @@
+{
+  "id": "github-zaptrem-music-mcp-2c559e6f",
+  "name": "zaptrem/music-mcp",
+  "description": "Facilitates music generation through text prompts using Sonauto's API, integrated with Claude Desktop.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-zaptrem-music-mcp-2c559e6f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zaptrem-music-mcp-2c559e6f)",
+  "links": {
+    "primary": "https://github.com/zaptrem/music-mcp",
+    "repo": "https://github.com/zaptrem/music-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-bsv-blockchain-bsv-mpc-efd03de9",
+  "name": "bsv-blockchain/bsv-mpc",
+  "description": "Facilitates Bitcoin SV development by providing tools and prompts for LLMs to interact with BSV codebases through MCP-compatible clients.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-bsv-blockchain-bsv-mpc-efd03de9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bsv-blockchain-bsv-mpc-efd03de9)",
+  "links": {
+    "primary": "https://github.com/bsv-blockchain/bsv-mpc",
+    "repo": "https://github.com/bsv-blockchain/bsv-mpc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

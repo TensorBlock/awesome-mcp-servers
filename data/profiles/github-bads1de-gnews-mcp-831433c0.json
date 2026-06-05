@@ -1,0 +1,24 @@
+{
+  "id": "github-bads1de-gnews-mcp-831433c0",
+  "name": "bads1de/GNews-MCP",
+  "description": "Integrates with the GNews API to provide access to global news articles across various categories and languages.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-bads1de-gnews-mcp-831433c0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bads1de-gnews-mcp-831433c0)",
+  "links": {
+    "primary": "https://github.com/bads1de/GNews-MCP",
+    "repo": "https://github.com/bads1de/GNews-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

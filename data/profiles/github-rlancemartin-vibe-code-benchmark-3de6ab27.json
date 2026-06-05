@@ -1,0 +1,24 @@
+{
+  "id": "github-rlancemartin-vibe-code-benchmark-3de6ab27",
+  "name": "rlancemartin/vibe-code-benchmark",
+  "description": "Benchmarking code agents' integration with external data sources using MCP servers for context retrieval and semantic search.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-rlancemartin-vibe-code-benchmark-3de6ab27",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rlancemartin-vibe-code-benchmark-3de6ab27)",
+  "links": {
+    "primary": "https://github.com/rlancemartin/vibe-code-benchmark",
+    "repo": "https://github.com/rlancemartin/vibe-code-benchmark",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-runeape-sats-unreal-mcp-9942675d",
+  "name": "runeape-sats/unreal-mcp",
+  "description": "Facilitates interaction between Claude Desktop and Unreal Engine 5.3, enabling text-based creation and manipulation of 3D objects.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-runeape-sats-unreal-mcp-9942675d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-runeape-sats-unreal-mcp-9942675d)",
+  "links": {
+    "primary": "https://github.com/runeape-sats/unreal-mcp",
+    "repo": "https://github.com/runeape-sats/unreal-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

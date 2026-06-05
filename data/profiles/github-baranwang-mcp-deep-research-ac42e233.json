@@ -1,0 +1,24 @@
+{
+  "id": "github-baranwang-mcp-deep-research-ac42e233",
+  "name": "baranwang/mcp-deep-research",
+  "description": "MCP Deep Research leverages the Tavily API to facilitate web searches through the Model Context Protocol, optimized for prompt-based MCP clients.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-baranwang-mcp-deep-research-ac42e233",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-baranwang-mcp-deep-research-ac42e233)",
+  "links": {
+    "primary": "https://github.com/baranwang/mcp-deep-research",
+    "repo": "https://github.com/baranwang/mcp-deep-research",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

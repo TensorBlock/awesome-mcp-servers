@@ -1,0 +1,24 @@
+{
+  "id": "github-tsuchijo-sandbox-mcp-7d7d1ef4",
+  "name": "Tsuchijo/sandbox-mcp",
+  "description": "Facilitates secure and isolated code execution in Docker containers with multi-language support and environment persistence.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tsuchijo-sandbox-mcp-7d7d1ef4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tsuchijo-sandbox-mcp-7d7d1ef4)",
+  "links": {
+    "primary": "https://github.com/Tsuchijo/sandbox-mcp",
+    "repo": "https://github.com/Tsuchijo/sandbox-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

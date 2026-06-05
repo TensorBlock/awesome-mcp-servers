@@ -1,0 +1,24 @@
+{
+  "id": "github-jagreehal-mcp-payment-example-2a283acb",
+  "name": "jagreehal/mcp-payment-example",
+  "description": "A robust payment system leveraging MCP for seamless AI integration and interactive development, featuring multi-currency support and advanced fraud detection.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-jagreehal-mcp-payment-example-2a283acb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jagreehal-mcp-payment-example-2a283acb)",
+  "links": {
+    "primary": "https://github.com/jagreehal/mcp-payment-example",
+    "repo": "https://github.com/jagreehal/mcp-payment-example",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

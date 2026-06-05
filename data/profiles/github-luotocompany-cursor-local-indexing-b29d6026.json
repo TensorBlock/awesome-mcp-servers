@@ -1,0 +1,24 @@
+{
+  "id": "github-luotocompany-cursor-local-indexing-b29d6026",
+  "name": "LuotoCompany/cursor-local-indexing",
+  "description": "Provides local codebase indexing and semantic search capabilities for Cursor using ChromaDB, accessible via an MCP server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-luotocompany-cursor-local-indexing-b29d6026",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-luotocompany-cursor-local-indexing-b29d6026)",
+  "links": {
+    "primary": "https://github.com/LuotoCompany/cursor-local-indexing",
+    "repo": "https://github.com/LuotoCompany/cursor-local-indexing",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

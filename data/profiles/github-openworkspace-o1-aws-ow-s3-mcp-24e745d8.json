@@ -1,0 +1,24 @@
+{
+  "id": "github-openworkspace-o1-aws-ow-s3-mcp-24e745d8",
+  "name": "OpenWorkspace-o1/aws-ow-s3-mcp",
+  "description": "Facilitates secure AWS S3 operations through pre-signed URLs, enabling efficient object management.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-openworkspace-o1-aws-ow-s3-mcp-24e745d8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-openworkspace-o1-aws-ow-s3-mcp-24e745d8)",
+  "links": {
+    "primary": "https://github.com/OpenWorkspace-o1/aws-ow-s3-mcp",
+    "repo": "https://github.com/OpenWorkspace-o1/aws-ow-s3-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

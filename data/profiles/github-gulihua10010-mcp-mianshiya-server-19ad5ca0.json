@@ -1,0 +1,24 @@
+{
+  "id": "github-gulihua10010-mcp-mianshiya-server-19ad5ca0",
+  "name": "gulihua10010/mcp-mianshiya-server",
+  "description": "A Java-based MCP server for searching interview questions on Mianshiya, compatible with various intelligent assistants.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-gulihua10010-mcp-mianshiya-server-19ad5ca0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gulihua10010-mcp-mianshiya-server-19ad5ca0)",
+  "links": {
+    "primary": "https://github.com/gulihua10010/mcp-mianshiya-server",
+    "repo": "https://github.com/gulihua10010/mcp-mianshiya-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

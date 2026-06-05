@@ -1,0 +1,24 @@
+{
+  "id": "github-langjihao-remote-mcp-server-21cb3b5a",
+  "name": "langjihao/remote-mcp-server",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-langjihao-remote-mcp-server-21cb3b5a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-langjihao-remote-mcp-server-21cb3b5a)",
+  "links": {
+    "primary": "https://github.com/langjihao/remote-mcp-server",
+    "repo": "https://github.com/langjihao/remote-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-rtuin-mcp-mermaid-validator-9e0bda49",
+  "name": "rtuin/mcp-mermaid-validator",
+  "description": "Facilitates the validation and rendering of Mermaid diagrams through a Model Context Protocol server, enabling seamless integration with LLMs.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-rtuin-mcp-mermaid-validator-9e0bda49",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rtuin-mcp-mermaid-validator-9e0bda49)",
+  "links": {
+    "primary": "https://github.com/rtuin/mcp-mermaid-validator",
+    "repo": "https://github.com/rtuin/mcp-mermaid-validator",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

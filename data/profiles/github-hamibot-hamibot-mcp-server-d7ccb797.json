@@ -1,0 +1,24 @@
+{
+  "id": "github-hamibot-hamibot-mcp-server-d7ccb797",
+  "name": "hamibot/hamibot-mcp-server",
+  "description": "Facilitates interaction with the Hamibot API, offering tools for device and script management, including custom JavaScript execution on specified devices.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-hamibot-hamibot-mcp-server-d7ccb797",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hamibot-hamibot-mcp-server-d7ccb797)",
+  "links": {
+    "primary": "https://github.com/hamibot/hamibot-mcp-server",
+    "repo": "https://github.com/hamibot/hamibot-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

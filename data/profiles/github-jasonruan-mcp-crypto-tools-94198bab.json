@@ -1,0 +1,24 @@
+{
+  "id": "github-jasonruan-mcp-crypto-tools-94198bab",
+  "name": "JasonRUAN/mcp-crypto-tools",
+  "description": "Facilitates the extraction and parsing of base64 encoded certificates from JSON logs.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-jasonruan-mcp-crypto-tools-94198bab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jasonruan-mcp-crypto-tools-94198bab)",
+  "links": {
+    "primary": "https://github.com/JasonRUAN/mcp-crypto-tools",
+    "repo": "https://github.com/JasonRUAN/mcp-crypto-tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

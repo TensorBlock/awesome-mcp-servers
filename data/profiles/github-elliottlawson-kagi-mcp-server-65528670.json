@@ -1,0 +1,24 @@
+{
+  "id": "github-elliottlawson-kagi-mcp-server-65528670",
+  "name": "elliottlawson/kagi-mcp-server",
+  "description": "A Node.js server enabling AI assistants to perform web searches using the Kagi API, supporting parallel queries and formatted results.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-elliottlawson-kagi-mcp-server-65528670",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elliottlawson-kagi-mcp-server-65528670)",
+  "links": {
+    "primary": "https://github.com/elliottlawson/kagi-mcp-server",
+    "repo": "https://github.com/elliottlawson/kagi-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

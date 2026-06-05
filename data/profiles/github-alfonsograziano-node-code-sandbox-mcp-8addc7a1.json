@@ -1,0 +1,24 @@
+{
+  "id": "github-alfonsograziano-node-code-sandbox-mcp-8addc7a1",
+  "name": "alfonsograziano/node-code-sandbox-mcp",
+  "description": "Node.js server for executing JavaScript in isolated Docker containers with dynamic npm dependency management.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-alfonsograziano-node-code-sandbox-mcp-8addc7a1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alfonsograziano-node-code-sandbox-mcp-8addc7a1)",
+  "links": {
+    "primary": "https://github.com/alfonsograziano/node-code-sandbox-mcp",
+    "repo": "https://github.com/alfonsograziano/node-code-sandbox-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
