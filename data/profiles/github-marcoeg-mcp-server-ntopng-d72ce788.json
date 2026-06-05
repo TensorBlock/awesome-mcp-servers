@@ -1,0 +1,24 @@
+{
+  "id": "github-marcoeg-mcp-server-ntopng-d72ce788",
+  "name": "marcoeg/mcp-server-ntopng",
+  "description": "Enables AI agents to query network monitoring data using NTOPNG's database.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-marcoeg-mcp-server-ntopng-d72ce788",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-marcoeg-mcp-server-ntopng-d72ce788)",
+  "links": {
+    "primary": "https://github.com/marcoeg/mcp-server-ntopng",
+    "repo": "https://github.com/marcoeg/mcp-server-ntopng",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

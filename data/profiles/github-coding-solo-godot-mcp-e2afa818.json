@@ -1,0 +1,24 @@
+{
+  "id": "github-coding-solo-godot-mcp-e2afa818",
+  "name": "Coding-Solo/godot-mcp",
+  "description": "Facilitates AI-driven interactions with the Godot game engine, enabling project execution, debugging, and scene management through a standardized interface.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-coding-solo-godot-mcp-e2afa818",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-coding-solo-godot-mcp-e2afa818)",
+  "links": {
+    "primary": "https://github.com/Coding-Solo/godot-mcp",
+    "repo": "https://github.com/Coding-Solo/godot-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

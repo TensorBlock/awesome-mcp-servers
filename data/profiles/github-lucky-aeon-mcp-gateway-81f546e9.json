@@ -1,0 +1,24 @@
+{
+  "id": "github-lucky-aeon-mcp-gateway-81f546e9",
+  "name": "lucky-aeon/mcp-gateway",
+  "description": "A reverse proxy server that facilitates unified access and management of multiple MCP servers through a single gateway.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-lucky-aeon-mcp-gateway-81f546e9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lucky-aeon-mcp-gateway-81f546e9)",
+  "links": {
+    "primary": "https://github.com/lucky-aeon/mcp-gateway",
+    "repo": "https://github.com/lucky-aeon/mcp-gateway",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jarondonp-airbnb-8d862e94",
+  "name": "jarondonp/airbnb",
+  "description": "Facilitates searching and retrieving detailed information on Airbnb listings without requiring an API key.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-jarondonp-airbnb-8d862e94",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jarondonp-airbnb-8d862e94)",
+  "links": {
+    "primary": "https://github.com/jarondonp/airbnb",
+    "repo": "https://github.com/jarondonp/airbnb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-meetdhanani17-xgmem-603a5a8d",
+  "name": "meetdhanani17/xgmem",
+  "description": "A TypeScript-based MCP server for managing project-specific and cross-project knowledge graph memory for LLM agents and tools.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-meetdhanani17-xgmem-603a5a8d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-meetdhanani17-xgmem-603a5a8d)",
+  "links": {
+    "primary": "https://github.com/meetdhanani17/xgmem",
+    "repo": "https://github.com/meetdhanani17/xgmem",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

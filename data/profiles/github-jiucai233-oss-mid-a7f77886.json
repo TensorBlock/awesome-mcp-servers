@@ -1,0 +1,24 @@
+{
+  "id": "github-jiucai233-oss-mid-a7f77886",
+  "name": "jiucai233/oss_mid",
+  "description": "Facilitates Claude's interaction with the LearnUs platform, automating login and data retrieval while integrating with Notion.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-jiucai233-oss-mid-a7f77886",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jiucai233-oss-mid-a7f77886)",
+  "links": {
+    "primary": "https://github.com/jiucai233/oss_mid",
+    "repo": "https://github.com/jiucai233/oss_mid",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-juklee0ira-telegram-mcp-3e56c590",
+  "name": "JukLee0ira/telegram_MCP",
+  "description": "Facilitates interaction between Large Language Models and Telegram chats, enabling message sending and reading through the Telegram API with user control and security.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-juklee0ira-telegram-mcp-3e56c590",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-juklee0ira-telegram-mcp-3e56c590)",
+  "links": {
+    "primary": "https://github.com/JukLee0ira/telegram_MCP",
+    "repo": "https://github.com/JukLee0ira/telegram_MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

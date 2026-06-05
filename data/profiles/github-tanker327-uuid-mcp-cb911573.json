@@ -1,0 +1,24 @@
+{
+  "id": "github-tanker327-uuid-mcp-cb911573",
+  "name": "tanker327/uuid-mcp",
+  "description": "Generates timestamp-based UUIDs using UUID v7 for seamless integration with LLMs like Claude.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-tanker327-uuid-mcp-cb911573",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tanker327-uuid-mcp-cb911573)",
+  "links": {
+    "primary": "https://github.com/tanker327/uuid-mcp",
+    "repo": "https://github.com/tanker327/uuid-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

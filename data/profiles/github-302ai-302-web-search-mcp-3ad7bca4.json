@@ -1,0 +1,24 @@
+{
+  "id": "github-302ai-302-web-search-mcp-3ad7bca4",
+  "name": "302ai/302_web_search_mcp",
+  "description": "Facilitates web search integration with Claude Desktop through a configurable MCP server.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-302ai-302-web-search-mcp-3ad7bca4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-302ai-302-web-search-mcp-3ad7bca4)",
+  "links": {
+    "primary": "https://github.com/302ai/302_web_search_mcp",
+    "repo": "https://github.com/302ai/302_web_search_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

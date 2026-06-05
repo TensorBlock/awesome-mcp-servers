@@ -1,0 +1,24 @@
+{
+  "id": "github-dhavalgujar-esp-rainmaker-mcp-bfeef018",
+  "name": "dhavalgujar/esp-rainmaker-mcp",
+  "description": "Facilitates interaction with ESP RainMaker devices through MCP-compatible clients using the ESP-Rainmaker CLI.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-dhavalgujar-esp-rainmaker-mcp-bfeef018",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dhavalgujar-esp-rainmaker-mcp-bfeef018)",
+  "links": {
+    "primary": "https://github.com/dhavalgujar/esp-rainmaker-mcp",
+    "repo": "https://github.com/dhavalgujar/esp-rainmaker-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

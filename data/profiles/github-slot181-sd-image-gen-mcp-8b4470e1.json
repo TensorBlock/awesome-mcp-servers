@@ -1,0 +1,24 @@
+{
+  "id": "github-slot181-sd-image-gen-mcp-8b4470e1",
+  "name": "slot181/sd-image-gen-mcp",
+  "description": "Provides text-to-image generation using Stable Diffusion WebUI API with optional Cloudflare ImgBed integration.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-slot181-sd-image-gen-mcp-8b4470e1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-slot181-sd-image-gen-mcp-8b4470e1)",
+  "links": {
+    "primary": "https://github.com/slot181/sd-image-gen-mcp",
+    "repo": "https://github.com/slot181/sd-image-gen-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

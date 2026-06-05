@@ -1,0 +1,24 @@
+{
+  "id": "github-felippefarias-refine-prompt-3b3dbb0b",
+  "name": "FelippeFarias/refine-prompt",
+  "description": "Refine Prompt enhances ordinary prompts into structured instructions for any LLM, leveraging Claude's capabilities for improved AI interactions.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-felippefarias-refine-prompt-3b3dbb0b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-felippefarias-refine-prompt-3b3dbb0b)",
+  "links": {
+    "primary": "https://github.com/FelippeFarias/refine-prompt",
+    "repo": "https://github.com/FelippeFarias/refine-prompt",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

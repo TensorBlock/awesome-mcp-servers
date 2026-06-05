@@ -1,0 +1,24 @@
+{
+  "id": "github-agentdank-dank-mcp-da92ecf8",
+  "name": "AgentDank/dank-mcp",
+  "description": "A specialized MCP server for querying and analyzing cannabis datasets, designed for integration with LLMs like Claude Desktop.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-agentdank-dank-mcp-da92ecf8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-agentdank-dank-mcp-da92ecf8)",
+  "links": {
+    "primary": "https://github.com/AgentDank/dank-mcp",
+    "repo": "https://github.com/AgentDank/dank-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

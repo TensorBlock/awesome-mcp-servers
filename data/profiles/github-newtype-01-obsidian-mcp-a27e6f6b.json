@@ -1,0 +1,24 @@
+{
+  "id": "github-newtype-01-obsidian-mcp-a27e6f6b",
+  "name": "newtype-01/obsidian-mcp",
+  "description": "Connects AI models with Obsidian knowledge bases for seamless note management and integration.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-newtype-01-obsidian-mcp-a27e6f6b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-newtype-01-obsidian-mcp-a27e6f6b)",
+  "links": {
+    "primary": "https://github.com/newtype-01/obsidian-mcp",
+    "repo": "https://github.com/newtype-01/obsidian-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

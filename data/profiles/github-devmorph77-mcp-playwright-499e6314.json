@@ -1,0 +1,24 @@
+{
+  "id": "github-devmorph77-mcp-playwright-499e6314",
+  "name": "DevMorph77/mcp-playwright",
+  "description": "Integrates Playwright with MCP for seamless web automation and testing through natural language or programmatic interaction.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-devmorph77-mcp-playwright-499e6314",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-devmorph77-mcp-playwright-499e6314)",
+  "links": {
+    "primary": "https://github.com/DevMorph77/mcp-playwright",
+    "repo": "https://github.com/DevMorph77/mcp-playwright",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

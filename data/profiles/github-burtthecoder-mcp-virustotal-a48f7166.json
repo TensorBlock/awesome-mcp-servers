@@ -1,0 +1,24 @@
+{
+  "id": "github-burtthecoder-mcp-virustotal-a48f7166",
+  "name": "BurtTheCoder/mcp-virustotal",
+  "description": "Query the VirusTotal API for comprehensive security analysis with automatic relationship data fetching, seamlessly integrating with MCP-compatible applications.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-burtthecoder-mcp-virustotal-a48f7166",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-burtthecoder-mcp-virustotal-a48f7166)",
+  "links": {
+    "primary": "https://github.com/BurtTheCoder/mcp-virustotal",
+    "repo": "https://github.com/BurtTheCoder/mcp-virustotal",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

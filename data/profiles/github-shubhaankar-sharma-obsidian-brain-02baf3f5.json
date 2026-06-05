@@ -1,0 +1,24 @@
+{
+  "id": "github-shubhaankar-sharma-obsidian-brain-02baf3f5",
+  "name": "Shubhaankar-Sharma/obsidian-brain",
+  "description": "Facilitates Claude's integration with Obsidian for seamless access to your digital brain.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-shubhaankar-sharma-obsidian-brain-02baf3f5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shubhaankar-sharma-obsidian-brain-02baf3f5)",
+  "links": {
+    "primary": "https://github.com/Shubhaankar-Sharma/obsidian-brain",
+    "repo": "https://github.com/Shubhaankar-Sharma/obsidian-brain",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

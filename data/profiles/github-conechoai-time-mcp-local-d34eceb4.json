@@ -1,0 +1,24 @@
+{
+  "id": "github-conechoai-time-mcp-local-d34eceb4",
+  "name": "ConechoAI/time-mcp-local",
+  "description": "Facilitates time and timezone conversions for LLMs using IANA timezone names with automatic system timezone detection.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-conechoai-time-mcp-local-d34eceb4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-conechoai-time-mcp-local-d34eceb4)",
+  "links": {
+    "primary": "https://github.com/ConechoAI/time-mcp-local",
+    "repo": "https://github.com/ConechoAI/time-mcp-local",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

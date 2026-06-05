@@ -1,0 +1,24 @@
+{
+  "id": "github-beamlit-mcp-gateway-9d1775a1",
+  "name": "beamlit/mcp-gateway",
+  "description": "Facilitates seamless interaction between Beamlit CLI and AI models through a robust MCP server implementation.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-beamlit-mcp-gateway-9d1775a1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-beamlit-mcp-gateway-9d1775a1)",
+  "links": {
+    "primary": "https://github.com/beamlit/mcp-gateway",
+    "repo": "https://github.com/beamlit/mcp-gateway",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

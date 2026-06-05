@@ -1,0 +1,24 @@
+{
+  "id": "github-overstarry-qweather-mcp-de9f6cd4",
+  "name": "overstarry/qweather-mcp",
+  "description": "Provides weather information query capabilities through the QWeather API using Model Context Protocol.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-overstarry-qweather-mcp-de9f6cd4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-overstarry-qweather-mcp-de9f6cd4)",
+  "links": {
+    "primary": "https://github.com/overstarry/qweather-mcp",
+    "repo": "https://github.com/overstarry/qweather-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

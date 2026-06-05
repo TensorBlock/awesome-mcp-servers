@@ -1,0 +1,24 @@
+{
+  "id": "github-kvick-games-unrealmcp-a30fe246",
+  "name": "kvick-games/UnrealMCP",
+  "description": "UnrealMCP enables AI agents to programmatically control and manipulate Unreal Engine environments using a TCP server and JSON-based command protocol.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-kvick-games-unrealmcp-a30fe246",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kvick-games-unrealmcp-a30fe246)",
+  "links": {
+    "primary": "https://github.com/kvick-games/UnrealMCP",
+    "repo": "https://github.com/kvick-games/UnrealMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

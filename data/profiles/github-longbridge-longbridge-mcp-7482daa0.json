@@ -1,0 +1,24 @@
+{
+  "id": "github-longbridge-longbridge-mcp-7482daa0",
+  "name": "Longbridge MCP",
+  "description": "Official Longbridge brokerage MCP — 145 tools for US/HK real-time quotes, options, trading, fundamentals, IPO, alerts, DCA & portfolio. Remote streamable-HTTP endpoint at `https://openapi.longbridge.com/mcp`. OAuth 2.1 (RFC 9728).",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-longbridge-longbridge-mcp-7482daa0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-longbridge-longbridge-mcp-7482daa0)",
+  "links": {
+    "primary": "https://github.com/longbridge/longbridge-mcp",
+    "repo": "https://github.com/longbridge/longbridge-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://openapi.longbridge.com/mcp"
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 145
+  }
+}

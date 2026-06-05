@@ -1,0 +1,24 @@
+{
+  "id": "github-7nohe-adonis-mcp-8c7b56b7",
+  "name": "7nohe/adonis-mcp",
+  "description": "An AdonisJS package enabling the creation of remote MCP servers using Server-Sent Events.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-7nohe-adonis-mcp-8c7b56b7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-7nohe-adonis-mcp-8c7b56b7)",
+  "links": {
+    "primary": "https://github.com/7nohe/adonis-mcp",
+    "repo": "https://github.com/7nohe/adonis-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

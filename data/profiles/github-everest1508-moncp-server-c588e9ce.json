@@ -1,0 +1,24 @@
+{
+  "id": "github-everest1508-moncp-server-c588e9ce",
+  "name": "Everest1508/moncp-server",
+  "description": "Fetches MON balances on Monad Testnet using wallet addresses or private keys.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-everest1508-moncp-server-c588e9ce",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-everest1508-moncp-server-c588e9ce)",
+  "links": {
+    "primary": "https://github.com/Everest1508/moncp-server",
+    "repo": "https://github.com/Everest1508/moncp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-cyanheads-ntfy-mcp-server-ac3a6669",
+  "name": "cyanheads/ntfy-mcp-server",
+  "description": "Facilitates AI-driven notifications through the ntfy service, offering extensive customization for device alerts.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-cyanheads-ntfy-mcp-server-ac3a6669",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cyanheads-ntfy-mcp-server-ac3a6669)",
+  "links": {
+    "primary": "https://github.com/cyanheads/ntfy-mcp-server",
+    "repo": "https://github.com/cyanheads/ntfy-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

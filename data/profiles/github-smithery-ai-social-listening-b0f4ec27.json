@@ -1,0 +1,24 @@
+{
+  "id": "github-smithery-ai-social-listening-b0f4ec27",
+  "name": "smithery-ai/social-listening",
+  "description": "Enables AI-driven social listening and real-time notifications using Syften's API.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-smithery-ai-social-listening-b0f4ec27",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-smithery-ai-social-listening-b0f4ec27)",
+  "links": {
+    "primary": "https://github.com/smithery-ai/social-listening",
+    "repo": "https://github.com/smithery-ai/social-listening",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

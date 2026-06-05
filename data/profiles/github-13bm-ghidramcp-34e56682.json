@@ -1,0 +1,24 @@
+{
+  "id": "github-13bm-ghidramcp-34e56682",
+  "name": "13bm/GhidraMCP",
+  "description": "Enhances Ghidra's reverse engineering capabilities with AI-assisted binary analysis via the Model Context Protocol.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-13bm-ghidramcp-34e56682",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-13bm-ghidramcp-34e56682)",
+  "links": {
+    "primary": "https://github.com/13bm/GhidraMCP",
+    "repo": "https://github.com/13bm/GhidraMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
