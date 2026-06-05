@@ -1,0 +1,24 @@
+{
+  "id": "github-letsbuildagent-perplexity-tool-1203f459",
+  "name": "letsbuildagent/perplexity-tool",
+  "description": "Integrates Perplexity AI's API with Claude Desktop for web-based research and citation-enhanced answers.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-letsbuildagent-perplexity-tool-1203f459",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-letsbuildagent-perplexity-tool-1203f459)",
+  "links": {
+    "primary": "https://github.com/letsbuildagent/perplexity-tool",
+    "repo": "https://github.com/letsbuildagent/perplexity-tool",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

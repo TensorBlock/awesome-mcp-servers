@@ -1,0 +1,24 @@
+{
+  "id": "github-tanevanwifferen-mcp-inception-b2ae9405",
+  "name": "tanevanwifferen/mcp-inception",
+  "description": "A TypeScript-based MCP server enabling task delegation and context window offloading through parallel and map-reduce execution of LLM queries.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-tanevanwifferen-mcp-inception-b2ae9405",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tanevanwifferen-mcp-inception-b2ae9405)",
+  "links": {
+    "primary": "https://github.com/tanevanwifferen/mcp-inception",
+    "repo": "https://github.com/tanevanwifferen/mcp-inception",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

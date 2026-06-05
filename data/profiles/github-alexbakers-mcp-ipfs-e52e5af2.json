@@ -1,0 +1,24 @@
+{
+  "id": "github-alexbakers-mcp-ipfs-e52e5af2",
+  "name": "alexbakers/mcp-ipfs",
+  "description": "Facilitates seamless interaction with storacha.network via the w3 CLI, enabling language models and MCP clients to manage spaces, data, and delegations.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-alexbakers-mcp-ipfs-e52e5af2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexbakers-mcp-ipfs-e52e5af2)",
+  "links": {
+    "primary": "https://github.com/alexbakers/mcp-ipfs",
+    "repo": "https://github.com/alexbakers/mcp-ipfs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

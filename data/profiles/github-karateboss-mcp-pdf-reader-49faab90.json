@@ -1,0 +1,24 @@
+{
+  "id": "github-karateboss-mcp-pdf-reader-49faab90",
+  "name": "karateboss/mcp_pdf_reader",
+  "description": "Enables reading of PDF documents through an MCP server, tested with Claude Desktop and LibreChat.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-karateboss-mcp-pdf-reader-49faab90",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-karateboss-mcp-pdf-reader-49faab90)",
+  "links": {
+    "primary": "https://github.com/karateboss/mcp_pdf_reader",
+    "repo": "https://github.com/karateboss/mcp_pdf_reader",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

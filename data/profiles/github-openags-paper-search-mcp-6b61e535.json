@@ -1,0 +1,24 @@
+{
+  "id": "github-openags-paper-search-mcp-6b61e535",
+  "name": "openags/paper-search-mcp",
+  "description": "Facilitates seamless academic paper search and download from multiple sources, enhancing LLM workflows with MCP integration.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-openags-paper-search-mcp-6b61e535",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-openags-paper-search-mcp-6b61e535)",
+  "links": {
+    "primary": "https://github.com/openags/paper-search-mcp",
+    "repo": "https://github.com/openags/paper-search-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

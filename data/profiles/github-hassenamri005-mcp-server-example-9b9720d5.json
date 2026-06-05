@@ -1,0 +1,24 @@
+{
+  "id": "github-hassenamri005-mcp-server-example-9b9720d5",
+  "name": "Hassenamri005/mcp-server-example",
+  "description": "Facilitates interaction between AI assistants and local data files using a lightweight MCP server in Python.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-hassenamri005-mcp-server-example-9b9720d5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hassenamri005-mcp-server-example-9b9720d5)",
+  "links": {
+    "primary": "https://github.com/Hassenamri005/mcp-server-example",
+    "repo": "https://github.com/Hassenamri005/mcp-server-example",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

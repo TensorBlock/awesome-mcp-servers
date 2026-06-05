@@ -1,0 +1,24 @@
+{
+  "id": "github-michael98671-agentbay-93300340",
+  "name": "Michael98671/agentbay",
+  "description": "AgentBay MCP Server offers a serverless cloud infrastructure for AI Agents, enabling rapid integration and execution of AI tasks with Alibaba Cloud's Wuying platform.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-michael98671-agentbay-93300340",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-michael98671-agentbay-93300340)",
+  "links": {
+    "primary": "https://github.com/Michael98671/agentbay",
+    "repo": "https://github.com/Michael98671/agentbay",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

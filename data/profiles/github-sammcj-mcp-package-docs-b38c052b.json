@@ -1,0 +1,24 @@
+{
+  "id": "github-sammcj-mcp-package-docs-b38c052b",
+  "name": "sammcj/mcp-package-docs",
+  "description": "Facilitates efficient access to multi-language package documentation with LSP capabilities for LLMs.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-sammcj-mcp-package-docs-b38c052b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sammcj-mcp-package-docs-b38c052b)",
+  "links": {
+    "primary": "https://github.com/sammcj/mcp-package-docs",
+    "repo": "https://github.com/sammcj/mcp-package-docs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

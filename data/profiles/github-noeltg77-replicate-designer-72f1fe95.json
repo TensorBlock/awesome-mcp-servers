@@ -1,0 +1,24 @@
+{
+  "id": "github-noeltg77-replicate-designer-72f1fe95",
+  "name": "noeltg77/Replicate-Designer",
+  "description": "Generates images using Replicate's Flux 1.1 Pro model with customizable parameters for aspect ratio, output format, and quality.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-noeltg77-replicate-designer-72f1fe95",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-noeltg77-replicate-designer-72f1fe95)",
+  "links": {
+    "primary": "https://github.com/noeltg77/Replicate-Designer",
+    "repo": "https://github.com/noeltg77/Replicate-Designer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

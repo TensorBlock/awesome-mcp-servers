@@ -1,0 +1,24 @@
+{
+  "id": "github-kwanleefrmvi-mcp-rag-server-0def235f",
+  "name": "kwanLeeFrmVi/mcp-rag-server",
+  "description": "Empowers LLMs with Retrieval Augmented Generation capabilities by efficiently indexing and retrieving document content.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-kwanleefrmvi-mcp-rag-server-0def235f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kwanleefrmvi-mcp-rag-server-0def235f)",
+  "links": {
+    "primary": "https://github.com/kwanLeeFrmVi/mcp-rag-server",
+    "repo": "https://github.com/kwanLeeFrmVi/mcp-rag-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

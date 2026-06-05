@@ -1,0 +1,24 @@
+{
+  "id": "github-webscraping-ai-webscraping-ai-mcp-server-b9acd0b7",
+  "name": "webscraping-ai/webscraping-ai-mcp-server",
+  "description": "Integrates with WebScraping.AI to provide advanced web data extraction capabilities using the Model Context Protocol.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-webscraping-ai-webscraping-ai-mcp-server-b9acd0b7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-webscraping-ai-webscraping-ai-mcp-server-b9acd0b7)",
+  "links": {
+    "primary": "https://github.com/webscraping-ai/webscraping-ai-mcp-server",
+    "repo": "https://github.com/webscraping-ai/webscraping-ai-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

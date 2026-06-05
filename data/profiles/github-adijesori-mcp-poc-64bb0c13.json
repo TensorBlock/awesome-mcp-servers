@@ -1,0 +1,26 @@
+{
+  "id": "github-adijesori-mcp-poc-64bb0c13",
+  "name": "adijesori/mcp-poc",
+  "description": "A monorepo showcasing MCP servers for weather alerts and forecasts using stdio and HTTP/SSE protocols.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-adijesori-mcp-poc-64bb0c13",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adijesori-mcp-poc-64bb0c13)",
+  "links": {
+    "primary": "https://github.com/adijesori/mcp-poc",
+    "repo": "https://github.com/adijesori/mcp-poc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

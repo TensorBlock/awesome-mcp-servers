@@ -1,0 +1,25 @@
+{
+  "id": "github-ralf-boltshauser-mcp-typescript-server-starter-6f2fbb28",
+  "name": "ralf-boltshauser/mcp-typescript-server-starter",
+  "description": "A TypeScript starter project for building MCP servers with an echo server implementation, supporting both STDIO and SSE communication modes.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-ralf-boltshauser-mcp-typescript-server-starter-6f2fbb28",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ralf-boltshauser-mcp-typescript-server-starter-6f2fbb28)",
+  "links": {
+    "primary": "https://github.com/ralf-boltshauser/mcp-typescript-server-starter",
+    "repo": "https://github.com/ralf-boltshauser/mcp-typescript-server-starter",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

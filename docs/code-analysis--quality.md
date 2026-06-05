@@ -2,6 +2,7 @@
 
 Servers focused on static analysis, linting, code metrics, security scanning, vulnerability checks, or code quality assessment.
 
+- [KyaniteLabs/checkyourself](https://github.com/KyaniteLabs/checkyourself): Local-first production-readiness audit for AI-built apps — read-only checks, an evidence-based 0-100 score, and guided fixes before launch.
 - [preflight-dev/preflight](https://github.com/preflight-dev/preflight): A 24-tool MCP server for Claude Code that scores prompts across 12 categories before execution, catches ambiguity and missing context, tracks correction patterns, and provides semantic search over session history with LanceDB vectors.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp): Fastest code intelligence MCP server — indexes the Linux kernel (28M LOC) in 3 minutes, answers structural queries in <1ms. Builds a persistent knowledge graph with call chains, HTTP routes, and cross-service links across 66 languages. 120x fewer tokens. Single static binary, plug-and-play across 10 coding agents.
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server): Helps MCP enabled clients navigate codebases more easily by giving them access to semantic tools like get definition, references, rename, and diagnostics.
@@ -103,3 +104,13 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [dillip285/mcp-dev-server](https://github.com/dillip285/mcp-dev-server): Facilitates software development project management with comprehensive context awareness and code execution via Docker.
 - [y86/ex-mcp-test](https://github.com/y86/ex-mcp-test): An Elixir-based MCP server for testing and experimenting with the Model Context Protocol, featuring JSON-RPC 2.0 compliance and schema-driven validation.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code): A super light-weight embedded MCP server for coding agents that uses tree-sitter for code search and indexing, saving 70% tokens and improving speed with Apache-2.0 license.
+- [kuberstar/qartez-mcp](https://github.com/kuberstar/qartez-mcp): Semantic code intelligence MCP server with 27 tools for project maps, symbol search, impact analysis, call hierarchies, architecture boundaries, and safe refactoring. Built in Rust.
+- [daedalus/mcp-capstone](https://github.com/daedalus/mcp-capstone) - MCP server exposing Capstone 5.0.7 disassembly framework.
+- [daedalus/mcp-pyright](https://github.com/daedalus/mcp-pyright) - MCP server that exposes Pyright language server functionality.
+- [daedalus/mcp-gdbserver](https://github.com/daedalus/mcp-gdbserver) - MCP server for remote debugging with gdbserver.
+- [Laith0003/ux-skill](https://github.com/Laith0003/ux-skill): Deterministic design-intelligence MCP server with 18 tools that lints AI-generated UI against 152 anti-slop rules, drawing on 160 brand specs and a 7-axis synthesizer. Runs fully offline and never calls an LLM.
+
+- [Vulert](https://www.vulert.com): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
+- [autonomous-testing/wopee-mcp](https://github.com/autonomous-testing/wopee-mcp): AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
+- [Aboudjem/sniff](https://github.com/Aboudjem/sniff): Autonomous QA and accessibility scanner that walks real user flows in a headless browser, reporting broken pages, dead links, console errors, and WCAG issues. Install with `npx -y sniff-qa --mcp`.
+- [Aboudjem/ui-ux-suite](https://github.com/Aboudjem/ui-ux-suite): UI/UX design-audit server that scores a project across 12 dimensions including color contrast, typography, accessibility, layout, and spacing against WCAG 2.2 and APCA. Install with `npx -y ui-ux-suite`.

@@ -1,0 +1,24 @@
+{
+  "id": "github-cohnen-mcp-google-ads-5bc24451",
+  "name": "cohnen/mcp-google-ads",
+  "description": "Connects Google Ads with Claude AI for natural language-driven advertising data analysis, offering insights into campaign performance, keyword analytics, and ad management.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-cohnen-mcp-google-ads-5bc24451",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cohnen-mcp-google-ads-5bc24451)",
+  "links": {
+    "primary": "https://github.com/cohnen/mcp-google-ads",
+    "repo": "https://github.com/cohnen/mcp-google-ads",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

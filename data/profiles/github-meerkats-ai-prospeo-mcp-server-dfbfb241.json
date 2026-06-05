@@ -1,0 +1,24 @@
+{
+  "id": "github-meerkats-ai-prospeo-mcp-server-dfbfb241",
+  "name": "Meerkats-Ai/prospeo-mcp-server",
+  "description": "Integrates with the Prospeo API to provide email finding and LinkedIn profile enrichment capabilities.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-meerkats-ai-prospeo-mcp-server-dfbfb241",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-meerkats-ai-prospeo-mcp-server-dfbfb241)",
+  "links": {
+    "primary": "https://github.com/Meerkats-Ai/prospeo-mcp-server",
+    "repo": "https://github.com/Meerkats-Ai/prospeo-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

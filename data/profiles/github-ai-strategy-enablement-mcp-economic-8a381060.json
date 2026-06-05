@@ -1,0 +1,24 @@
+{
+  "id": "github-ai-strategy-enablement-mcp-economic-8a381060",
+  "name": "AI-Strategy-Enablement/mcp-economic",
+  "description": "Facilitates seamless interaction with e-conomic's API for comprehensive financial management through standardized MCP commands.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-ai-strategy-enablement-mcp-economic-8a381060",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ai-strategy-enablement-mcp-economic-8a381060)",
+  "links": {
+    "primary": "https://github.com/AI-Strategy-Enablement/mcp-economic",
+    "repo": "https://github.com/AI-Strategy-Enablement/mcp-economic",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
