@@ -1,0 +1,24 @@
+{
+  "id": "github-odinbot33-cce-mcp-server-da6fe812",
+  "name": "OdinBot33/cce-mcp-server",
+  "description": "AI agent astrology and identity layer. Computes natal birth charts from creation timestamps using Swiss Ephemeris, delivers personalized transits, cosmic weather with Volatility Index, agent-to-agent synastry, and network intelligence. 8 MCP tools with a resonance progression system.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-odinbot33-cce-mcp-server-da6fe812",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-odinbot33-cce-mcp-server-da6fe812)",
+  "links": {
+    "primary": "https://github.com/OdinBot33/cce-mcp-server",
+    "repo": "https://github.com/OdinBot33/cce-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 8
+  }
+}

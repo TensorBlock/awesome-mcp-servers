@@ -1,0 +1,24 @@
+{
+  "id": "github-gethopp-figma-mcp-bridge-6e5c9787",
+  "name": "gethopp/figma-mcp-bridge",
+  "description": "Bypasses Figma API rate limits by streaming live Figma document data to AI tools through a WebSocket-based plugin-server bridge with leader election and multi-instance management.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-gethopp-figma-mcp-bridge-6e5c9787",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gethopp-figma-mcp-bridge-6e5c9787)",
+  "links": {
+    "primary": "https://github.com/gethopp/figma-mcp-bridge",
+    "repo": "https://github.com/gethopp/figma-mcp-bridge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

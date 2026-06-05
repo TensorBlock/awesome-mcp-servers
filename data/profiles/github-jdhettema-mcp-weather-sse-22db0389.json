@@ -1,0 +1,24 @@
+{
+  "id": "github-jdhettema-mcp-weather-sse-22db0389",
+  "name": "jdhettema/mcp-weather-sse",
+  "description": "Connects AI assistants to real-time weather data via OpenWeatherMap API using SSE.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-jdhettema-mcp-weather-sse-22db0389",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jdhettema-mcp-weather-sse-22db0389)",
+  "links": {
+    "primary": "https://github.com/jdhettema/mcp-weather-sse",
+    "repo": "https://github.com/jdhettema/mcp-weather-sse",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

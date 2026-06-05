@@ -1,0 +1,24 @@
+{
+  "id": "github-8lwxpg-mcp-server-sqlite-7523fccb",
+  "name": "8LWXpg/mcp-server-sqlite",
+  "description": "Facilitates database interaction and business intelligence through SQLite, enabling SQL queries and automatic business insight generation.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-8lwxpg-mcp-server-sqlite-7523fccb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-8lwxpg-mcp-server-sqlite-7523fccb)",
+  "links": {
+    "primary": "https://github.com/8LWXpg/mcp-server-sqlite",
+    "repo": "https://github.com/8LWXpg/mcp-server-sqlite",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

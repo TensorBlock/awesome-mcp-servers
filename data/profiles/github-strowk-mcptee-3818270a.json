@@ -1,0 +1,24 @@
+{
+  "id": "github-strowk-mcptee-3818270a",
+  "name": "strowk/mcptee",
+  "description": "A tool for MCP developers to log and troubleshoot client-server interactions by proxying and recording data exchanges in YAML format.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-strowk-mcptee-3818270a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-strowk-mcptee-3818270a)",
+  "links": {
+    "primary": "https://github.com/strowk/mcptee",
+    "repo": "https://github.com/strowk/mcptee",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

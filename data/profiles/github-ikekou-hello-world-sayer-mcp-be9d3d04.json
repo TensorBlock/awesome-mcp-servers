@@ -1,0 +1,24 @@
+{
+  "id": "github-ikekou-hello-world-sayer-mcp-be9d3d04",
+  "name": "ikekou/hello-world-sayer-mcp",
+  "description": "A TypeScript-based MCP server that returns personalized 'Hello World' messages, designed for integration with Claude Desktop.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-ikekou-hello-world-sayer-mcp-be9d3d04",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ikekou-hello-world-sayer-mcp-be9d3d04)",
+  "links": {
+    "primary": "https://github.com/ikekou/hello-world-sayer-mcp",
+    "repo": "https://github.com/ikekou/hello-world-sayer-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

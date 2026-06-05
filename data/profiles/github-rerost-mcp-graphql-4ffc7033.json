@@ -1,0 +1,24 @@
+{
+  "id": "github-rerost-mcp-graphql-4ffc7033",
+  "name": "rerost/mcp-graphql",
+  "description": "Facilitates GraphQL queries to GitHub's API using a Go-based MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-rerost-mcp-graphql-4ffc7033",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rerost-mcp-graphql-4ffc7033)",
+  "links": {
+    "primary": "https://github.com/rerost/mcp-graphql",
+    "repo": "https://github.com/rerost/mcp-graphql",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

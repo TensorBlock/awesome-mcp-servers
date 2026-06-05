@@ -1,0 +1,24 @@
+{
+  "id": "github-simfg-etcd-mcp-769d0bc3",
+  "name": "SimFG/etcd-mcp",
+  "description": "A Management Control Panel server for etcd, offering tools for cluster health monitoring, key-value management, and data backup and restoration.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-simfg-etcd-mcp-769d0bc3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-simfg-etcd-mcp-769d0bc3)",
+  "links": {
+    "primary": "https://github.com/SimFG/etcd-mcp",
+    "repo": "https://github.com/SimFG/etcd-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

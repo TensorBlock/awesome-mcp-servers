@@ -1,0 +1,24 @@
+{
+  "id": "github-suprjack-context7-clone-54b2b2a1",
+  "name": "Suprjack/context7-clone",
+  "description": "Facilitates up-to-date documentation retrieval for LLMs and AI code editors through the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-suprjack-context7-clone-54b2b2a1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-suprjack-context7-clone-54b2b2a1)",
+  "links": {
+    "primary": "https://github.com/Suprjack/context7-clone",
+    "repo": "https://github.com/Suprjack/context7-clone",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-flyer103-mcp-client-b9d42ceb",
+  "name": "flyer103/mcp-client",
+  "description": "A versatile client for connecting applications to MCP servers, facilitating standardized context provision for LLMs.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-flyer103-mcp-client-b9d42ceb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-flyer103-mcp-client-b9d42ceb)",
+  "links": {
+    "primary": "https://github.com/flyer103/mcp-client",
+    "repo": "https://github.com/flyer103/mcp-client",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

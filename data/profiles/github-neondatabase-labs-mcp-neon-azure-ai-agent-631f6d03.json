@@ -1,0 +1,24 @@
+{
+  "id": "github-neondatabase-labs-mcp-neon-azure-ai-agent-631f6d03",
+  "name": "neondatabase-labs/mcp-neon-azure-ai-agent",
+  "description": "Integrates Azure AI Agent Service with Neon Serverless Postgres using MCP to automate project and database management through natural language commands.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-neondatabase-labs-mcp-neon-azure-ai-agent-631f6d03",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-neondatabase-labs-mcp-neon-azure-ai-agent-631f6d03)",
+  "links": {
+    "primary": "https://github.com/neondatabase-labs/mcp-neon-azure-ai-agent",
+    "repo": "https://github.com/neondatabase-labs/mcp-neon-azure-ai-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

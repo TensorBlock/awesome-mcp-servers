@@ -1,0 +1,24 @@
+{
+  "id": "github-faizrazadec-mcphostwithllmsandtoolservers-625b3667",
+  "name": "faizrazadec/MCPHostWithLLMsAndToolServers",
+  "description": "MCPHost enables LLMs to interact with external tools and system resources via MCP, facilitating tasks like file management and GitHub repository automation.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-faizrazadec-mcphostwithllmsandtoolservers-625b3667",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-faizrazadec-mcphostwithllmsandtoolservers-625b3667)",
+  "links": {
+    "primary": "https://github.com/faizrazadec/MCPHostWithLLMsAndToolServers",
+    "repo": "https://github.com/faizrazadec/MCPHostWithLLMsAndToolServers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

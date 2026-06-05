@@ -1,0 +1,24 @@
+{
+  "id": "github-kirill812-gplay-reviews-mcp-server-b8818e70",
+  "name": "Kirill812/GPlay_reviews_MCP_server",
+  "description": "Access and analyze Google Play Store reviews with advanced filtering, search, and reply management capabilities.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-kirill812-gplay-reviews-mcp-server-b8818e70",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kirill812-gplay-reviews-mcp-server-b8818e70)",
+  "links": {
+    "primary": "https://github.com/Kirill812/GPlay_reviews_MCP_server",
+    "repo": "https://github.com/Kirill812/GPlay_reviews_MCP_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

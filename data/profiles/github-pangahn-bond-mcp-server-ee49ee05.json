@@ -1,0 +1,24 @@
+{
+  "id": "github-pangahn-bond-mcp-server-ee49ee05",
+  "name": "pangahn/bond-mcp-server",
+  "description": "Integrates China bond market data with AkShare using a lightweight MCP server framework.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-pangahn-bond-mcp-server-ee49ee05",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pangahn-bond-mcp-server-ee49ee05)",
+  "links": {
+    "primary": "https://github.com/pangahn/bond-mcp-server",
+    "repo": "https://github.com/pangahn/bond-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

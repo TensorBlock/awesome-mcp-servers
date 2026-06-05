@@ -1,0 +1,24 @@
+{
+  "id": "github-watabee-mcp-server-adb-7b715049",
+  "name": "watabee/mcp-server-adb",
+  "description": "Facilitates interaction with Android devices via ADB, enabling operations like package management, file transfer, and device control.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-watabee-mcp-server-adb-7b715049",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-watabee-mcp-server-adb-7b715049)",
+  "links": {
+    "primary": "https://github.com/watabee/mcp-server-adb",
+    "repo": "https://github.com/watabee/mcp-server-adb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

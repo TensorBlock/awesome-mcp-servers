@@ -1,0 +1,24 @@
+{
+  "id": "github-mrexodia-user-feedback-mcp-355c1aa5",
+  "name": "mrexodia/user-feedback-mcp",
+  "description": "Facilitates human-in-the-loop workflows by integrating user feedback into desktop application development using MCP tools.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-mrexodia-user-feedback-mcp-355c1aa5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mrexodia-user-feedback-mcp-355c1aa5)",
+  "links": {
+    "primary": "https://github.com/mrexodia/user-feedback-mcp",
+    "repo": "https://github.com/mrexodia/user-feedback-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

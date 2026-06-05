@@ -1,0 +1,24 @@
+{
+  "id": "github-gopalcnepal-mcp-wordpress-7230d095",
+  "name": "gopalcnepal/mcp-wordpress",
+  "description": "Facilitates interaction with WordPress sites by fetching posts, pages, and categories using the REST API.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-gopalcnepal-mcp-wordpress-7230d095",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gopalcnepal-mcp-wordpress-7230d095)",
+  "links": {
+    "primary": "https://github.com/gopalcnepal/mcp-wordpress",
+    "repo": "https://github.com/gopalcnepal/mcp-wordpress",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

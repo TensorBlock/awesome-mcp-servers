@@ -1,0 +1,24 @@
+{
+  "id": "github-l1lhu1hu1-mcp-play-0dfd237e",
+  "name": "l1lhu1hu1/mcp-play",
+  "description": "A trial MCP server built using the Model Context Protocol TypeScript SDK, designed for integration with Claude Desktop.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-l1lhu1hu1-mcp-play-0dfd237e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-l1lhu1hu1-mcp-play-0dfd237e)",
+  "links": {
+    "primary": "https://github.com/l1lhu1hu1/mcp-play",
+    "repo": "https://github.com/l1lhu1hu1/mcp-play",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

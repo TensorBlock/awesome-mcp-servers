@@ -1,0 +1,24 @@
+{
+  "id": "github-rootly-ai-labs-rootly-mcp-server-5626015d",
+  "name": "Rootly-AI-Labs/Rootly-MCP-server",
+  "description": "Integrate Rootly API with MCP-compatible editors to swiftly resolve production incidents directly from your IDE.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-rootly-ai-labs-rootly-mcp-server-5626015d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rootly-ai-labs-rootly-mcp-server-5626015d)",
+  "links": {
+    "primary": "https://github.com/Rootly-AI-Labs/Rootly-MCP-server",
+    "repo": "https://github.com/Rootly-AI-Labs/Rootly-MCP-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

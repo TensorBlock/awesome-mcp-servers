@@ -1,0 +1,24 @@
+{
+  "id": "github-harukikaneko-esa-mcp-fa3b6b3f",
+  "name": "harukikaneko/esa-mcp",
+  "description": "Facilitates integration with ESA through a customizable MCP server setup.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-harukikaneko-esa-mcp-fa3b6b3f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-harukikaneko-esa-mcp-fa3b6b3f)",
+  "links": {
+    "primary": "https://github.com/harukikaneko/esa-mcp",
+    "repo": "https://github.com/harukikaneko/esa-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

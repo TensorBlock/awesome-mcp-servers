@@ -1,0 +1,24 @@
+{
+  "id": "github-deak-ai-openehr-mcp-server-cf59f3e4",
+  "name": "deak-ai/openehr-mcp-server",
+  "description": "Facilitates seamless integration with openEHR REST APIs, enabling the creation and management of electronic health records and compositions.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-deak-ai-openehr-mcp-server-cf59f3e4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-deak-ai-openehr-mcp-server-cf59f3e4)",
+  "links": {
+    "primary": "https://github.com/deak-ai/openehr-mcp-server",
+    "repo": "https://github.com/deak-ai/openehr-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

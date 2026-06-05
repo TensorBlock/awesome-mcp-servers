@@ -1,0 +1,24 @@
+{
+  "id": "github-amornpan-py-mcp-mssql-7a8160e4",
+  "name": "amornpan/py-mcp-mssql",
+  "description": "Facilitates seamless interaction with Microsoft SQL Server databases through a Model Context Protocol server, enabling Language Models to execute SQL queries and inspect table schemas via a standardized interface.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-amornpan-py-mcp-mssql-7a8160e4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amornpan-py-mcp-mssql-7a8160e4)",
+  "links": {
+    "primary": "https://github.com/amornpan/py-mcp-mssql",
+    "repo": "https://github.com/amornpan/py-mcp-mssql",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

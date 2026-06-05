@@ -1,0 +1,24 @@
+{
+  "id": "github-kunalworldwide-mcp-server-demo-c97a3b7b",
+  "name": "kunalworldwide/mcp_server_demo",
+  "description": "A collection of MCP servers that enhance Claude's capabilities by integrating real-time data from weather forecasts, movie databases, and university information.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-kunalworldwide-mcp-server-demo-c97a3b7b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kunalworldwide-mcp-server-demo-c97a3b7b)",
+  "links": {
+    "primary": "https://github.com/kunalworldwide/mcp_server_demo",
+    "repo": "https://github.com/kunalworldwide/mcp_server_demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
