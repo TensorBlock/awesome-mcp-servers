@@ -1,0 +1,24 @@
+{
+  "id": "github-niledatabase-nile-mcp-server-701a9a6c",
+  "name": "niledatabase/nile-mcp-server",
+  "description": "Facilitates seamless interaction with Nile databases through a standardized interface, enabling LLM applications to manage databases, tenants, and execute SQL queries.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-niledatabase-nile-mcp-server-701a9a6c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-niledatabase-nile-mcp-server-701a9a6c)",
+  "links": {
+    "primary": "https://github.com/niledatabase/nile-mcp-server",
+    "repo": "https://github.com/niledatabase/nile-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

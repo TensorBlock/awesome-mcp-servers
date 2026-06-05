@@ -1,0 +1,24 @@
+{
+  "id": "github-overseer66-comfyui-mcp-server-ff05fc24",
+  "name": "Overseer66/comfyui-mcp-server",
+  "description": "Integrates ComfyUI with MCP, enabling seamless workflow execution and image processing through customizable tools.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-overseer66-comfyui-mcp-server-ff05fc24",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-overseer66-comfyui-mcp-server-ff05fc24)",
+  "links": {
+    "primary": "https://github.com/Overseer66/comfyui-mcp-server",
+    "repo": "https://github.com/Overseer66/comfyui-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-kennethreitz-mcp-applemusic-4e4bdca9",
+  "name": "kennethreitz/mcp-applemusic",
+  "description": "Control Apple Music on macOS using AppleScript commands via a FastMCP server.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-kennethreitz-mcp-applemusic-4e4bdca9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kennethreitz-mcp-applemusic-4e4bdca9)",
+  "links": {
+    "primary": "https://github.com/kennethreitz/mcp-applemusic",
+    "repo": "https://github.com/kennethreitz/mcp-applemusic",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

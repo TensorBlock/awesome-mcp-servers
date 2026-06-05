@@ -1,0 +1,24 @@
+{
+  "id": "github-go-rod-rod-mcp-96f2f381",
+  "name": "go-rod/rod-mcp",
+  "description": "Rod-MCP enhances browser automation by leveraging Rod to enable LLMs to interact with web pages through actions like clicking, screenshotting, and PDF generation.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-go-rod-rod-mcp-96f2f381",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-go-rod-rod-mcp-96f2f381)",
+  "links": {
+    "primary": "https://github.com/go-rod/rod-mcp",
+    "repo": "https://github.com/go-rod/rod-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-ajot-mcp-servers-e9cee61b",
+  "name": "ajot/mcp_servers",
+  "description": "A versatile collection of MCP servers for managing databases, sending SMS and emails, and deploying functions, all integrated with Cursor IDE for seamless LLM interactions.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-ajot-mcp-servers-e9cee61b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ajot-mcp-servers-e9cee61b)",
+  "links": {
+    "primary": "https://github.com/ajot/mcp_servers",
+    "repo": "https://github.com/ajot/mcp_servers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

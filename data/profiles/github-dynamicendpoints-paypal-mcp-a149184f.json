@@ -1,0 +1,24 @@
+{
+  "id": "github-dynamicendpoints-paypal-mcp-a149184f",
+  "name": "DynamicEndpoints/Paypal-MCP",
+  "description": "Facilitates seamless integration with PayPal's payment processing and business management features through a standardized MCP interface.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-dynamicendpoints-paypal-mcp-a149184f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dynamicendpoints-paypal-mcp-a149184f)",
+  "links": {
+    "primary": "https://github.com/DynamicEndpoints/Paypal-MCP",
+    "repo": "https://github.com/DynamicEndpoints/Paypal-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-nighttrek-ollama-mcp-a9a771a3",
+  "name": "NightTrek/Ollama-mcp",
+  "description": "Seamlessly integrates Ollama's local LLM capabilities into MCP-powered applications, offering full API coverage and OpenAI-compatible chat features.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-nighttrek-ollama-mcp-a9a771a3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nighttrek-ollama-mcp-a9a771a3)",
+  "links": {
+    "primary": "https://github.com/NightTrek/Ollama-mcp",
+    "repo": "https://github.com/NightTrek/Ollama-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

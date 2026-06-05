@@ -1,0 +1,24 @@
+{
+  "id": "github-nathanonn-mcp-url-fetcher-585f6ce0",
+  "name": "nathanonn/mcp-url-fetcher",
+  "description": "Fetches and converts web content from any URL into various formats, enhancing LLMs' ability to access and analyze web data.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-nathanonn-mcp-url-fetcher-585f6ce0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nathanonn-mcp-url-fetcher-585f6ce0)",
+  "links": {
+    "primary": "https://github.com/nathanonn/mcp-url-fetcher",
+    "repo": "https://github.com/nathanonn/mcp-url-fetcher",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

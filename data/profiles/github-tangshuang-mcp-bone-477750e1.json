@@ -1,0 +1,24 @@
+{
+  "id": "github-tangshuang-mcp-bone-477750e1",
+  "name": "tangshuang/mcp-bone",
+  "description": "Facilitates connection to MCP Bone for tool registration and parsing LLM completion text into tool calls.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tangshuang-mcp-bone-477750e1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tangshuang-mcp-bone-477750e1)",
+  "links": {
+    "primary": "https://github.com/tangshuang/mcp-bone",
+    "repo": "https://github.com/tangshuang/mcp-bone",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

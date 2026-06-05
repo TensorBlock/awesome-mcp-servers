@@ -1,0 +1,24 @@
+{
+  "id": "github-zueai-vercel-api-mcp-048c0d6e",
+  "name": "zueai/vercel-api-mcp",
+  "description": "Facilitates seamless interaction with the Vercel API, offering tools for managing deployments, DNS, domains, projects, and environment variables.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-zueai-vercel-api-mcp-048c0d6e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zueai-vercel-api-mcp-048c0d6e)",
+  "links": {
+    "primary": "https://github.com/zueai/vercel-api-mcp",
+    "repo": "https://github.com/zueai/vercel-api-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-haris-musa-excel-mcp-server-34b04656",
+  "name": "haris-musa/excel-mcp-server",
+  "description": "Facilitates Excel file manipulation with advanced features like charts and pivot tables, without needing Microsoft Excel.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-haris-musa-excel-mcp-server-34b04656",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-haris-musa-excel-mcp-server-34b04656)",
+  "links": {
+    "primary": "https://github.com/haris-musa/excel-mcp-server",
+    "repo": "https://github.com/haris-musa/excel-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-takashiishida-arxiv-latex-mcp-f40fbb70",
+  "name": "takashiishida/arxiv-latex-mcp",
+  "description": "Facilitates precise interpretation of mathematical expressions in arXiv papers by processing LaTeX sources for Claude Desktop.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-takashiishida-arxiv-latex-mcp-f40fbb70",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-takashiishida-arxiv-latex-mcp-f40fbb70)",
+  "links": {
+    "primary": "https://github.com/takashiishida/arxiv-latex-mcp",
+    "repo": "https://github.com/takashiishida/arxiv-latex-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

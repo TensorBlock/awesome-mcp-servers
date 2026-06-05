@@ -1,0 +1,24 @@
+{
+  "id": "github-chipkent-test-dh-mcp-479a4946",
+  "name": "chipkent/test-dh-mcp",
+  "description": "Demonstrates the setup and operation of a Deephaven Core MCP server using FastMCP, with examples for tool registration and client-server interaction.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-chipkent-test-dh-mcp-479a4946",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chipkent-test-dh-mcp-479a4946)",
+  "links": {
+    "primary": "https://github.com/chipkent/test-dh-mcp",
+    "repo": "https://github.com/chipkent/test-dh-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

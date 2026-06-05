@@ -1,0 +1,24 @@
+{
+  "id": "github-coleam00-mcp-mem0-ad732855",
+  "name": "coleam00/mcp-mem0",
+  "description": "Facilitates AI agents with persistent memory capabilities using Mem0, serving as a template for building MCP servers with Python.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-coleam00-mcp-mem0-ad732855",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-coleam00-mcp-mem0-ad732855)",
+  "links": {
+    "primary": "https://github.com/coleam00/mcp-mem0",
+    "repo": "https://github.com/coleam00/mcp-mem0",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

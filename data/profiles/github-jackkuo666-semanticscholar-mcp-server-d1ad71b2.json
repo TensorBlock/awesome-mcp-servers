@@ -1,0 +1,24 @@
+{
+  "id": "github-jackkuo666-semanticscholar-mcp-server-d1ad71b2",
+  "name": "JackKuo666/semanticscholar-MCP-Server",
+  "description": "Facilitates interaction with the Semantic Scholar API, enabling paper searches, author details retrieval, and citation management.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-jackkuo666-semanticscholar-mcp-server-d1ad71b2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jackkuo666-semanticscholar-mcp-server-d1ad71b2)",
+  "links": {
+    "primary": "https://github.com/JackKuo666/semanticscholar-MCP-Server",
+    "repo": "https://github.com/JackKuo666/semanticscholar-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

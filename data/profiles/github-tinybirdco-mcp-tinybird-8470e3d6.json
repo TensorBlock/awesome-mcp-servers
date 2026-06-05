@@ -1,0 +1,24 @@
+{
+  "id": "github-tinybirdco-mcp-tinybird-8470e3d6",
+  "name": "tinybirdco/mcp-tinybird",
+  "description": "Facilitates interaction with Tinybird Workspaces, enabling data querying and management through MCP clients.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-tinybirdco-mcp-tinybird-8470e3d6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tinybirdco-mcp-tinybird-8470e3d6)",
+  "links": {
+    "primary": "https://github.com/tinybirdco/mcp-tinybird",
+    "repo": "https://github.com/tinybirdco/mcp-tinybird",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

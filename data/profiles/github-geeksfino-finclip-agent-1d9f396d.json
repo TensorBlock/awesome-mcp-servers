@@ -1,0 +1,24 @@
+{
+  "id": "github-geeksfino-finclip-agent-1d9f396d",
+  "name": "Geeksfino/finclip-agent",
+  "description": "An AI-powered customer experience agent that integrates with MCP servers for enhanced knowledge base access and intelligent responses.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-geeksfino-finclip-agent-1d9f396d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-geeksfino-finclip-agent-1d9f396d)",
+  "links": {
+    "primary": "https://github.com/Geeksfino/finclip-agent",
+    "repo": "https://github.com/Geeksfino/finclip-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

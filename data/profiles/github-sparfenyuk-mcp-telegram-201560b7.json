@@ -1,0 +1,24 @@
+{
+  "id": "github-sparfenyuk-mcp-telegram-201560b7",
+  "name": "sparfenyuk/mcp-telegram",
+  "description": "Facilitates AI assistants' interaction with Telegram by providing read-only access to the Telegram API through the Model Context Protocol.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-sparfenyuk-mcp-telegram-201560b7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sparfenyuk-mcp-telegram-201560b7)",
+  "links": {
+    "primary": "https://github.com/sparfenyuk/mcp-telegram",
+    "repo": "https://github.com/sparfenyuk/mcp-telegram",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

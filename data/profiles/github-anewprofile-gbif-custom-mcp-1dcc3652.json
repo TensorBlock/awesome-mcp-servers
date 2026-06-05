@@ -1,0 +1,24 @@
+{
+  "id": "github-anewprofile-gbif-custom-mcp-1dcc3652",
+  "name": "ANewProfile/gbif-custom-mcp",
+  "description": "Facilitates access to GBIF datasets via MCP servers, integrating with Claude Desktop for enhanced LLM context and BigQuery data retrieval.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-anewprofile-gbif-custom-mcp-1dcc3652",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anewprofile-gbif-custom-mcp-1dcc3652)",
+  "links": {
+    "primary": "https://github.com/ANewProfile/gbif-custom-mcp",
+    "repo": "https://github.com/ANewProfile/gbif-custom-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

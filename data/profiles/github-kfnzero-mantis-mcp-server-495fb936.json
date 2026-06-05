@@ -1,0 +1,24 @@
+{
+  "id": "github-kfnzero-mantis-mcp-server-495fb936",
+  "name": "kfnzero/mantis-mcp-server",
+  "description": "Integrates with Mantis Bug Tracker for querying and analyzing data via the MCP protocol.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-kfnzero-mantis-mcp-server-495fb936",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kfnzero-mantis-mcp-server-495fb936)",
+  "links": {
+    "primary": "https://github.com/kfnzero/mantis-mcp-server",
+    "repo": "https://github.com/kfnzero/mantis-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

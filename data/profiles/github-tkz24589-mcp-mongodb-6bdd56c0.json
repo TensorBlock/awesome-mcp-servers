@@ -1,0 +1,24 @@
+{
+  "id": "github-tkz24589-mcp-mongodb-6bdd56c0",
+  "name": "tkz24589/mcp_mongodb",
+  "description": "Facilitates AI-driven interactions with MongoDB through natural language queries, supporting seamless data management and retrieval.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-tkz24589-mcp-mongodb-6bdd56c0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tkz24589-mcp-mongodb-6bdd56c0)",
+  "links": {
+    "primary": "https://github.com/tkz24589/mcp_mongodb",
+    "repo": "https://github.com/tkz24589/mcp_mongodb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

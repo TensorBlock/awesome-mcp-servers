@@ -1,0 +1,24 @@
+{
+  "id": "github-aaronsb-salesforce-cloud-d37964bc",
+  "name": "aaronsb/salesforce-cloud",
+  "description": "Facilitates structured interactions between AI models and Salesforce data, offering tools for querying, updating, and managing Salesforce records with built-in pagination and simplified data structures.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-aaronsb-salesforce-cloud-d37964bc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aaronsb-salesforce-cloud-d37964bc)",
+  "links": {
+    "primary": "https://github.com/aaronsb/salesforce-cloud",
+    "repo": "https://github.com/aaronsb/salesforce-cloud",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

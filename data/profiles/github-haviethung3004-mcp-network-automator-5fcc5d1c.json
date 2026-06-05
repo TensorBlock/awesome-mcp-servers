@@ -1,0 +1,24 @@
+{
+  "id": "github-haviethung3004-mcp-network-automator-5fcc5d1c",
+  "name": "haviethung3004/MCP_Network_automator",
+  "description": "An AI-assisted tool for automating Cisco network device management through natural language commands, integrated with Claude Desktop.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-haviethung3004-mcp-network-automator-5fcc5d1c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-haviethung3004-mcp-network-automator-5fcc5d1c)",
+  "links": {
+    "primary": "https://github.com/haviethung3004/MCP_Network_automator",
+    "repo": "https://github.com/haviethung3004/MCP_Network_automator",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

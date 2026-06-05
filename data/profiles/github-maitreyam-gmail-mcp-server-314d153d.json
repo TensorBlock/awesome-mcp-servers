@@ -1,0 +1,24 @@
+{
+  "id": "github-maitreyam-gmail-mcp-server-314d153d",
+  "name": "MaitreyaM/Gmail-mcp-server",
+  "description": "Facilitates email sending through Gmail's SMTP server using AI agents with robust attachment handling and resilience features.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-maitreyam-gmail-mcp-server-314d153d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maitreyam-gmail-mcp-server-314d153d)",
+  "links": {
+    "primary": "https://github.com/MaitreyaM/Gmail-mcp-server",
+    "repo": "https://github.com/MaitreyaM/Gmail-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
