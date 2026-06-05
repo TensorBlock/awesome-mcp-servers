@@ -1,0 +1,24 @@
+{
+  "id": "github-laith0003-ux-skill-da883017",
+  "name": "Laith0003/ux-skill",
+  "description": "Deterministic design-intelligence MCP server with 18 tools that lints AI-generated UI against 152 anti-slop rules, drawing on 160 brand specs and a 7-axis synthesizer. Runs fully offline and never calls an LLM.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-laith0003-ux-skill-da883017",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-laith0003-ux-skill-da883017)",
+  "links": {
+    "primary": "https://github.com/Laith0003/ux-skill",
+    "repo": "https://github.com/Laith0003/ux-skill",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 18
+  }
+}

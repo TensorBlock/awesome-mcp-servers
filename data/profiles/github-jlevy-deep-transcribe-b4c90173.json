@@ -1,0 +1,24 @@
+{
+  "id": "github-jlevy-deep-transcribe-b4c90173",
+  "name": "jlevy/deep-transcribe",
+  "description": "Facilitates deep transcription of video and audio content with speaker identification and annotations, operable as an MCP server.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-jlevy-deep-transcribe-b4c90173",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jlevy-deep-transcribe-b4c90173)",
+  "links": {
+    "primary": "https://github.com/jlevy/deep-transcribe",
+    "repo": "https://github.com/jlevy/deep-transcribe",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-nextfire-criteo-mcp-server-7da96c02",
+  "name": "NextFire/criteo-mcp-server",
+  "description": "Facilitates integration with Criteo's API using MCP server capabilities for retail media and marketing solutions.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-nextfire-criteo-mcp-server-7da96c02",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nextfire-criteo-mcp-server-7da96c02)",
+  "links": {
+    "primary": "https://github.com/NextFire/criteo-mcp-server",
+    "repo": "https://github.com/NextFire/criteo-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-stoyky-mitre-attack-mcp-289a0f2b",
+  "name": "stoyky/mitre-attack-mcp",
+  "description": "Facilitates querying and visualizing the MITRE ATT&CK knowledge base, enabling threat actor and malware attribution through a Model-Context Protocol server.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-stoyky-mitre-attack-mcp-289a0f2b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stoyky-mitre-attack-mcp-289a0f2b)",
+  "links": {
+    "primary": "https://github.com/stoyky/mitre-attack-mcp",
+    "repo": "https://github.com/stoyky/mitre-attack-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

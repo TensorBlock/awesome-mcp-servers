@@ -1,0 +1,24 @@
+{
+  "id": "github-aldrin-labs-solana-mcp-server-e6b8b118",
+  "name": "aldrin-labs/solana-mcp-server",
+  "description": "Facilitates natural language queries to access Solana blockchain data via a comprehensive set of RPC methods.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-aldrin-labs-solana-mcp-server-e6b8b118",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aldrin-labs-solana-mcp-server-e6b8b118)",
+  "links": {
+    "primary": "https://github.com/aldrin-labs/solana-mcp-server",
+    "repo": "https://github.com/aldrin-labs/solana-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

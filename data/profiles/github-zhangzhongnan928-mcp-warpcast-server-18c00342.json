@@ -1,0 +1,24 @@
+{
+  "id": "github-zhangzhongnan928-mcp-warpcast-server-18c00342",
+  "name": "zhangzhongnan928/mcp-warpcast-server",
+  "description": "Facilitates seamless interaction with Warpcast through Claude, enabling posting, reading, and searching of casts, as well as channel management.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-zhangzhongnan928-mcp-warpcast-server-18c00342",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zhangzhongnan928-mcp-warpcast-server-18c00342)",
+  "links": {
+    "primary": "https://github.com/zhangzhongnan928/mcp-warpcast-server",
+    "repo": "https://github.com/zhangzhongnan928/mcp-warpcast-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

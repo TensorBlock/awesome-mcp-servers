@@ -1,0 +1,24 @@
+{
+  "id": "github-ahmadsoliman-mcp-n8n-server-c9bcac45",
+  "name": "ahmadsoliman/mcp-n8n-server",
+  "description": "Facilitates seamless interaction with n8n workflows through MCP, enabling Claude AI integration for workflow management and execution.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ahmadsoliman-mcp-n8n-server-c9bcac45",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ahmadsoliman-mcp-n8n-server-c9bcac45)",
+  "links": {
+    "primary": "https://github.com/ahmadsoliman/mcp-n8n-server",
+    "repo": "https://github.com/ahmadsoliman/mcp-n8n-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

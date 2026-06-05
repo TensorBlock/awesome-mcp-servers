@@ -1,0 +1,24 @@
+{
+  "id": "github-hwenyi-edge-tts-mcp-5c423e82",
+  "name": "Hwenyi/edge-tts-mcp",
+  "description": "Enhance AI assistants with natural-sounding text-to-speech capabilities using Microsoft Edge's TTS service.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-hwenyi-edge-tts-mcp-5c423e82",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hwenyi-edge-tts-mcp-5c423e82)",
+  "links": {
+    "primary": "https://github.com/Hwenyi/edge-tts-mcp",
+    "repo": "https://github.com/Hwenyi/edge-tts-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

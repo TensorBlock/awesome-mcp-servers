@@ -1,0 +1,24 @@
+{
+  "id": "github-matthewdcage-pbs-mcp-server-65abef44",
+  "name": "matthewdcage/pbs-mcp-server",
+  "description": "Enables AI models to access and integrate Australian Pharmaceutical Benefits Scheme data through a standalone MCP server, facilitating seamless interaction with pharmaceutical information.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-matthewdcage-pbs-mcp-server-65abef44",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-matthewdcage-pbs-mcp-server-65abef44)",
+  "links": {
+    "primary": "https://github.com/matthewdcage/pbs-mcp-server",
+    "repo": "https://github.com/matthewdcage/pbs-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

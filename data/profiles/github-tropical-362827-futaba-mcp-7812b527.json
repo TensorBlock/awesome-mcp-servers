@@ -1,0 +1,24 @@
+{
+  "id": "github-tropical-362827-futaba-mcp-7812b527",
+  "name": "tropical-362827/futaba-mcp",
+  "description": "A Python library enabling AI assistants to interact with ふたば☆ちゃんねる by retrieving and sorting thread data.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-tropical-362827-futaba-mcp-7812b527",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tropical-362827-futaba-mcp-7812b527)",
+  "links": {
+    "primary": "https://github.com/tropical-362827/futaba-mcp",
+    "repo": "https://github.com/tropical-362827/futaba-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

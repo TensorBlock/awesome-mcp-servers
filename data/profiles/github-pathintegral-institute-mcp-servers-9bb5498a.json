@@ -1,0 +1,24 @@
+{
+  "id": "github-pathintegral-institute-mcp-servers-9bb5498a",
+  "name": "pathintegral-institute/mcp-servers",
+  "description": "Open source MCP servers designed to facilitate scientific research through customizable server configurations and tool integrations.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-pathintegral-institute-mcp-servers-9bb5498a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pathintegral-institute-mcp-servers-9bb5498a)",
+  "links": {
+    "primary": "https://github.com/pathintegral-institute/mcp-servers",
+    "repo": "https://github.com/pathintegral-institute/mcp-servers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

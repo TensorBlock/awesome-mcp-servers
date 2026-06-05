@@ -1,0 +1,24 @@
+{
+  "id": "github-nocodeboy-youtube-mcp-server-b6de6367",
+  "name": "Nocodeboy/youtube-mcp-server",
+  "description": "Facilitates AI assistants like Claude to interact with YouTube's API for video and channel data retrieval.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-nocodeboy-youtube-mcp-server-b6de6367",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nocodeboy-youtube-mcp-server-b6de6367)",
+  "links": {
+    "primary": "https://github.com/Nocodeboy/youtube-mcp-server",
+    "repo": "https://github.com/Nocodeboy/youtube-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

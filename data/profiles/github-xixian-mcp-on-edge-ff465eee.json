@@ -1,0 +1,24 @@
+{
+  "id": "github-xixian-mcp-on-edge-ff465eee",
+  "name": "xixian/mcp-on-edge",
+  "description": "Leverage EdgeOne Pages Functions to create an intelligent chat application with a complete MCP workflow, featuring a streamable HTTP server and client for seamless context management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-xixian-mcp-on-edge-ff465eee",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xixian-mcp-on-edge-ff465eee)",
+  "links": {
+    "primary": "https://github.com/xixian/mcp-on-edge",
+    "repo": "https://github.com/xixian/mcp-on-edge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
