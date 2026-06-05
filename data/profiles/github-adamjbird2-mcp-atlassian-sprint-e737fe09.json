@@ -1,0 +1,24 @@
+{
+  "id": "github-adamjbird2-mcp-atlassian-sprint-e737fe09",
+  "name": "adamjbird2/mcp-atlassian-sprint",
+  "description": "Integrates Confluence and Jira for seamless project management across Atlassian Cloud and Server/Data Center environments.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-adamjbird2-mcp-atlassian-sprint-e737fe09",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adamjbird2-mcp-atlassian-sprint-e737fe09)",
+  "links": {
+    "primary": "https://github.com/adamjbird2/mcp-atlassian-sprint",
+    "repo": "https://github.com/adamjbird2/mcp-atlassian-sprint",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-thirionlogan-aurora-4x-mcp-b3721574",
+  "name": "thirionlogan/Aurora-4X-MCP",
+  "description": "Facilitates integration with the Aurora 4X game by providing a Model Context Protocol server for managing game data and interactions.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-thirionlogan-aurora-4x-mcp-b3721574",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thirionlogan-aurora-4x-mcp-b3721574)",
+  "links": {
+    "primary": "https://github.com/thirionlogan/Aurora-4X-MCP",
+    "repo": "https://github.com/thirionlogan/Aurora-4X-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-alejandro-ao-mcp-server-example-7bc494c5",
+  "name": "alejandro-ao/mcp-server-example",
+  "description": "An educational MCP server implementation demonstrating integration with LLM clients and showcasing standardized context provision for AI applications.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-alejandro-ao-mcp-server-example-7bc494c5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alejandro-ao-mcp-server-example-7bc494c5)",
+  "links": {
+    "primary": "https://github.com/alejandro-ao/mcp-server-example",
+    "repo": "https://github.com/alejandro-ao/mcp-server-example",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

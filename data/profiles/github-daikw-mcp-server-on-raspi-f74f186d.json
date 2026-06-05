@@ -1,0 +1,24 @@
+{
+  "id": "github-daikw-mcp-server-on-raspi-f74f186d",
+  "name": "daikw/mcp-server-on-raspi",
+  "description": "A Raspberry Pi-based MCP server for managing and summarizing notes with customizable prompts and note storage capabilities.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-daikw-mcp-server-on-raspi-f74f186d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-daikw-mcp-server-on-raspi-f74f186d)",
+  "links": {
+    "primary": "https://github.com/daikw/mcp-server-on-raspi",
+    "repo": "https://github.com/daikw/mcp-server-on-raspi",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

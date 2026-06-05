@@ -1,0 +1,24 @@
+{
+  "id": "github-hyukkyulee-scllab-mcp-test-94754ba0",
+  "name": "hyukkyulee-scllab/MCP_test",
+  "description": "A Python-based MCP server using fastmcp to generate personalized greeting messages.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-hyukkyulee-scllab-mcp-test-94754ba0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hyukkyulee-scllab-mcp-test-94754ba0)",
+  "links": {
+    "primary": "https://github.com/hyukkyulee-scllab/MCP_test",
+    "repo": "https://github.com/hyukkyulee-scllab/MCP_test",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

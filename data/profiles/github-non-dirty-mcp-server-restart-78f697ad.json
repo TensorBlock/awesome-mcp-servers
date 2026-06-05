@@ -1,0 +1,24 @@
+{
+  "id": "github-non-dirty-mcp-server-restart-78f697ad",
+  "name": "non-dirty/mcp-server-restart",
+  "description": "Facilitates the seamless restart of Claude Desktop on Mac using MCP, ensuring tool installations take effect efficiently.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-non-dirty-mcp-server-restart-78f697ad",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-non-dirty-mcp-server-restart-78f697ad)",
+  "links": {
+    "primary": "https://github.com/non-dirty/mcp-server-restart",
+    "repo": "https://github.com/non-dirty/mcp-server-restart",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

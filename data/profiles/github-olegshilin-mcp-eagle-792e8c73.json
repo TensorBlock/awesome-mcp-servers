@@ -1,0 +1,24 @@
+{
+  "id": "github-olegshilin-mcp-eagle-792e8c73",
+  "name": "olegshilin/mcp-eagle",
+  "description": "Facilitates communication between the Eagle app and Claude Desktop through a Model Context Protocol server.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-olegshilin-mcp-eagle-792e8c73",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-olegshilin-mcp-eagle-792e8c73)",
+  "links": {
+    "primary": "https://github.com/olegshilin/mcp-eagle",
+    "repo": "https://github.com/olegshilin/mcp-eagle",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

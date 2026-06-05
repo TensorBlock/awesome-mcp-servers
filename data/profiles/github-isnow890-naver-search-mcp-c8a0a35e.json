@@ -1,0 +1,24 @@
+{
+  "id": "github-isnow890-naver-search-mcp-c8a0a35e",
+  "name": "isnow890/naver-search-mcp",
+  "description": "Facilitates comprehensive search and data trend analysis across Naver services using the Naver Search and DataLab APIs.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-isnow890-naver-search-mcp-c8a0a35e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-isnow890-naver-search-mcp-c8a0a35e)",
+  "links": {
+    "primary": "https://github.com/isnow890/naver-search-mcp",
+    "repo": "https://github.com/isnow890/naver-search-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

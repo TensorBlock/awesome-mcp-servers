@@ -1,0 +1,24 @@
+{
+  "id": "github-enggpt-it-mcp-server-cybersecurity-news-6794762f",
+  "name": "enggpt-it/MCP-Server-Cybersecurity-News",
+  "description": "Access the latest cybersecurity news from various websites with seamless Claude Desktop integration.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-enggpt-it-mcp-server-cybersecurity-news-6794762f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-enggpt-it-mcp-server-cybersecurity-news-6794762f)",
+  "links": {
+    "primary": "https://github.com/enggpt-it/MCP-Server-Cybersecurity-News",
+    "repo": "https://github.com/enggpt-it/MCP-Server-Cybersecurity-News",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

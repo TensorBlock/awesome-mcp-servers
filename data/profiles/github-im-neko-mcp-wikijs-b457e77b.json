@@ -1,0 +1,24 @@
+{
+  "id": "github-im-neko-mcp-wikijs-b457e77b",
+  "name": "Im-neko/mcp-wikijs",
+  "description": "Facilitates AI model interaction with WikiJS content through a TypeScript-based MCP server, enabling document search, creation, and management.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-im-neko-mcp-wikijs-b457e77b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-im-neko-mcp-wikijs-b457e77b)",
+  "links": {
+    "primary": "https://github.com/Im-neko/mcp-wikijs",
+    "repo": "https://github.com/Im-neko/mcp-wikijs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-ivlad003-mcp-newrelic-99fe5422",
+  "name": "Ivlad003/mcp_newrelic",
+  "description": "Facilitates querying New Relic logs with NRQL through a Model Context Protocol server, enabling seamless interaction with LLMs like Claude.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-ivlad003-mcp-newrelic-99fe5422",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ivlad003-mcp-newrelic-99fe5422)",
+  "links": {
+    "primary": "https://github.com/Ivlad003/mcp_newrelic",
+    "repo": "https://github.com/Ivlad003/mcp_newrelic",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-fundfluent-admin-funding-assistant-ff9e47fd",
+  "name": "fundfluent-admin/funding-assistant",
+  "description": "Facilitates access to funding options and document requirements through the FluentLab's Funding Assistant API.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-fundfluent-admin-funding-assistant-ff9e47fd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fundfluent-admin-funding-assistant-ff9e47fd)",
+  "links": {
+    "primary": "https://github.com/fundfluent-admin/funding-assistant",
+    "repo": "https://github.com/fundfluent-admin/funding-assistant",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

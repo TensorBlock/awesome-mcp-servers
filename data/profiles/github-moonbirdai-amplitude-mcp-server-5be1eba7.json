@@ -1,0 +1,24 @@
+{
+  "id": "github-moonbirdai-amplitude-mcp-server-5be1eba7",
+  "name": "moonbirdai/amplitude-mcp-server",
+  "description": "Integrates Amplitude analytics into AI workflows, enabling AI assistants to track events, page views, user signups, and revenue through natural language requests.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-moonbirdai-amplitude-mcp-server-5be1eba7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-moonbirdai-amplitude-mcp-server-5be1eba7)",
+  "links": {
+    "primary": "https://github.com/moonbirdai/amplitude-mcp-server",
+    "repo": "https://github.com/moonbirdai/amplitude-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

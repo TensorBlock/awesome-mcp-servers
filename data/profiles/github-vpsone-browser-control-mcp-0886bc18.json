@@ -1,0 +1,24 @@
+{
+  "id": "github-vpsone-browser-control-mcp-0886bc18",
+  "name": "vpsone/browser-control-mcp",
+  "description": "Empowers LLM clients to control local Firefox browsers by managing tabs, browsing history, and web content through an MCP server and browser extension.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-vpsone-browser-control-mcp-0886bc18",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vpsone-browser-control-mcp-0886bc18)",
+  "links": {
+    "primary": "https://github.com/vpsone/browser-control-mcp",
+    "repo": "https://github.com/vpsone/browser-control-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

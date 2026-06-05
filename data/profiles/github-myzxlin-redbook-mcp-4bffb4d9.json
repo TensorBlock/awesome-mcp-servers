@@ -1,0 +1,24 @@
+{
+  "id": "github-myzxlin-redbook-mcp-4bffb4d9",
+  "name": "myzxlin/redbook-mcp",
+  "description": "Facilitates automated publishing of text and video notes on Xiaohongshu using Playwright for browser automation.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-myzxlin-redbook-mcp-4bffb4d9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-myzxlin-redbook-mcp-4bffb4d9)",
+  "links": {
+    "primary": "https://github.com/myzxlin/redbook-mcp",
+    "repo": "https://github.com/myzxlin/redbook-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

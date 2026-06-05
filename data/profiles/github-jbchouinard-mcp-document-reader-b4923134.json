@@ -1,0 +1,24 @@
+{
+  "id": "github-jbchouinard-mcp-document-reader-b4923134",
+  "name": "jbchouinard/mcp-document-reader",
+  "description": "Facilitates LLM interaction with EPUB and PDF files through a basic MCP server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-jbchouinard-mcp-document-reader-b4923134",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jbchouinard-mcp-document-reader-b4923134)",
+  "links": {
+    "primary": "https://github.com/jbchouinard/mcp-document-reader",
+    "repo": "https://github.com/jbchouinard/mcp-document-reader",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

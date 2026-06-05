@@ -1,0 +1,24 @@
+{
+  "id": "github-alexandredavi-mcp-webmvc-server-350fdb52",
+  "name": "alexandredavi/mcp-webmvc-server",
+  "description": "A Spring Boot-based MCP server providing weather forecasts and alerts via WebMVC and STDIO transports.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-alexandredavi-mcp-webmvc-server-350fdb52",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexandredavi-mcp-webmvc-server-350fdb52)",
+  "links": {
+    "primary": "https://github.com/alexandredavi/mcp-webmvc-server",
+    "repo": "https://github.com/alexandredavi/mcp-webmvc-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

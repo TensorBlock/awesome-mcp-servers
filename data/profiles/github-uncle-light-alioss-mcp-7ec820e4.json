@@ -1,0 +1,24 @@
+{
+  "id": "github-uncle-light-alioss-mcp-7ec820e4",
+  "name": "uncle-light/alioss-mcp",
+  "description": "Facilitates direct interaction with Alibaba Cloud OSS for AI coding tools, enabling seamless file management without manual intervention.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-uncle-light-alioss-mcp-7ec820e4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-uncle-light-alioss-mcp-7ec820e4)",
+  "links": {
+    "primary": "https://github.com/uncle-light/alioss-mcp",
+    "repo": "https://github.com/uncle-light/alioss-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

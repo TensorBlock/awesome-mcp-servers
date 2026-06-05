@@ -1,0 +1,24 @@
+{
+  "id": "github-tywenk-mcp-sol-60577e8a",
+  "name": "tywenk/mcp-sol",
+  "description": "Facilitates interaction with Solana blockchain through a Model Context Protocol server, offering a suite of tools for blockchain data retrieval and transaction management.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-tywenk-mcp-sol-60577e8a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tywenk-mcp-sol-60577e8a)",
+  "links": {
+    "primary": "https://github.com/tywenk/mcp-sol",
+    "repo": "https://github.com/tywenk/mcp-sol",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

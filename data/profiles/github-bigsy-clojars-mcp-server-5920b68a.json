@@ -1,0 +1,24 @@
+{
+  "id": "github-bigsy-clojars-mcp-server-5920b68a",
+  "name": "Bigsy/Clojars-MCP-Server",
+  "description": "Fetches and verifies Clojars dependency versions, seamlessly integrating with Claude for enhanced dependency management.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-bigsy-clojars-mcp-server-5920b68a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bigsy-clojars-mcp-server-5920b68a)",
+  "links": {
+    "primary": "https://github.com/Bigsy/Clojars-MCP-Server",
+    "repo": "https://github.com/Bigsy/Clojars-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

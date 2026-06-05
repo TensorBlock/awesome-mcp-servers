@@ -1,0 +1,24 @@
+{
+  "id": "github-mcpflow-bitfactory-mcp-99a85cba",
+  "name": "mcpflow/bitfactory-mcp",
+  "description": "BitFactory MCP streamlines interactions with BitFactory's blockchain services using a lightweight, type-safe interface built on the Model Context Protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-mcpflow-bitfactory-mcp-99a85cba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mcpflow-bitfactory-mcp-99a85cba)",
+  "links": {
+    "primary": "https://github.com/mcpflow/bitfactory-mcp",
+    "repo": "https://github.com/mcpflow/bitfactory-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

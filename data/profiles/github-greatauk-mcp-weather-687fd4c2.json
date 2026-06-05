@@ -1,0 +1,24 @@
+{
+  "id": "github-greatauk-mcp-weather-687fd4c2",
+  "name": "GreatAuk/mcp-weather",
+  "description": "A TypeScript starter template for building production-ready MCP servers with tools for fast development and automated version management.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-greatauk-mcp-weather-687fd4c2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-greatauk-mcp-weather-687fd4c2)",
+  "links": {
+    "primary": "https://github.com/GreatAuk/mcp-weather",
+    "repo": "https://github.com/GreatAuk/mcp-weather",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

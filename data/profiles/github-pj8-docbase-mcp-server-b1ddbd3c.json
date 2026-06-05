@@ -1,0 +1,24 @@
+{
+  "id": "github-pj8-docbase-mcp-server-b1ddbd3c",
+  "name": "pj8/docbase-mcp-server",
+  "description": "Facilitates seamless integration with Docbase by providing APIs for searching and retrieving memo details.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-pj8-docbase-mcp-server-b1ddbd3c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pj8-docbase-mcp-server-b1ddbd3c)",
+  "links": {
+    "primary": "https://github.com/pj8/docbase-mcp-server",
+    "repo": "https://github.com/pj8/docbase-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

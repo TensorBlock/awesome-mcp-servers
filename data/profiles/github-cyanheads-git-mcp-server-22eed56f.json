@@ -1,0 +1,24 @@
+{
+  "id": "github-cyanheads-git-mcp-server-22eed56f",
+  "name": "cyanheads/git-mcp-server",
+  "description": "Facilitates AI-driven Git repository management by exposing Git operations as MCP resources and tools, ensuring secure and standardized interactions for LLM agents.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-cyanheads-git-mcp-server-22eed56f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cyanheads-git-mcp-server-22eed56f)",
+  "links": {
+    "primary": "https://github.com/cyanheads/git-mcp-server",
+    "repo": "https://github.com/cyanheads/git-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

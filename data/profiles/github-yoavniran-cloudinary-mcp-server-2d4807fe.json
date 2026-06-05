@@ -1,0 +1,24 @@
+{
+  "id": "github-yoavniran-cloudinary-mcp-server-2d4807fe",
+  "name": "yoavniran/cloudinary-mcp-server",
+  "description": "Facilitates AI-driven interactions with Cloudinary by exposing its Upload & Admin API methods as callable tools.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-yoavniran-cloudinary-mcp-server-2d4807fe",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yoavniran-cloudinary-mcp-server-2d4807fe)",
+  "links": {
+    "primary": "https://github.com/yoavniran/cloudinary-mcp-server",
+    "repo": "https://github.com/yoavniran/cloudinary-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

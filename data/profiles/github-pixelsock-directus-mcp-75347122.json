@@ -1,0 +1,24 @@
+{
+  "id": "github-pixelsock-directus-mcp-75347122",
+  "name": "pixelsock/directus-mcp",
+  "description": "Facilitates AI client interactions with Directus CMS via MCP, enabling seamless API integration.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-pixelsock-directus-mcp-75347122",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pixelsock-directus-mcp-75347122)",
+  "links": {
+    "primary": "https://github.com/pixelsock/directus-mcp",
+    "repo": "https://github.com/pixelsock/directus-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

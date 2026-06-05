@@ -1,0 +1,24 @@
+{
+  "id": "github-renato0307-go-mcp-rest-0b20272b",
+  "name": "renato0307/go-mcp-rest",
+  "description": "A toolkit for generating Go-based MCP server and client code from OpenAPI specifications, following the Model-Controller-Provider pattern.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-renato0307-go-mcp-rest-0b20272b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-renato0307-go-mcp-rest-0b20272b)",
+  "links": {
+    "primary": "https://github.com/renato0307/go-mcp-rest",
+    "repo": "https://github.com/renato0307/go-mcp-rest",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

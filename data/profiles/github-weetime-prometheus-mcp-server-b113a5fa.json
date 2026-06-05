@@ -1,0 +1,24 @@
+{
+  "id": "github-weetime-prometheus-mcp-server-b113a5fa",
+  "name": "weetime/prometheus-mcp-server",
+  "description": "A TypeScript-based server bridging Prometheus metrics with Claude via the Model Context Protocol.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-weetime-prometheus-mcp-server-b113a5fa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-weetime-prometheus-mcp-server-b113a5fa)",
+  "links": {
+    "primary": "https://github.com/weetime/prometheus-mcp-server",
+    "repo": "https://github.com/weetime/prometheus-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

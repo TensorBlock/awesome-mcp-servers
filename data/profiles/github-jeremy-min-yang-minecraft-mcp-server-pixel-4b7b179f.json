@@ -1,0 +1,24 @@
+{
+  "id": "github-jeremy-min-yang-minecraft-mcp-server-pixel-4b7b179f",
+  "name": "Jeremy-Min-Yang/minecraft-mcp-server-pixel",
+  "description": "Enables AI-driven control of a Minecraft bot using the Mineflayer API for automated building and exploration.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-jeremy-min-yang-minecraft-mcp-server-pixel-4b7b179f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jeremy-min-yang-minecraft-mcp-server-pixel-4b7b179f)",
+  "links": {
+    "primary": "https://github.com/Jeremy-Min-Yang/minecraft-mcp-server-pixel",
+    "repo": "https://github.com/Jeremy-Min-Yang/minecraft-mcp-server-pixel",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

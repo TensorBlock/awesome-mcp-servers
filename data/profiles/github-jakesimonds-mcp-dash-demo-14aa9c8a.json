@@ -1,0 +1,24 @@
+{
+  "id": "github-jakesimonds-mcp-dash-demo-14aa9c8a",
+  "name": "jakesimonds/MCP-Dash-Demo",
+  "description": "FastMCP provides a streamlined, Pythonic interface for building and managing MCP servers, enabling developers to create tools, expose resources, and define prompts with minimal boilerplate.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-jakesimonds-mcp-dash-demo-14aa9c8a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jakesimonds-mcp-dash-demo-14aa9c8a)",
+  "links": {
+    "primary": "https://github.com/jakesimonds/MCP-Dash-Demo",
+    "repo": "https://github.com/jakesimonds/MCP-Dash-Demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
