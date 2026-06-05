@@ -6,12 +6,16 @@
     "packages/*"
   ],
   "scripts": {
+    "build": "tsc -p tsconfig.base.json",
     "test": "vitest run --passWithNoTests",
     "typecheck": "tsc -p tsconfig.base.json --noEmit",
     "catalog:build": "tsx packages/catalog-builder/src/cli.ts",
     "profiles:build": "tsx packages/profile-renderer/src/cli.ts",
     "config:generate": "tsx packages/config-generator/src/cli.ts",
-    "registry:mcp": "tsx packages/registry-mcp/src/server.ts"
+    "registry:mcp": "tsx packages/registry-mcp/src/server.ts",
+    "registry:api": "node dist-ts/packages/registry-api/src/server.js",
+    "registry:api:dev": "tsx packages/registry-api/src/server.ts",
+    "start": "npm run registry:api"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
