@@ -1,0 +1,24 @@
+{
+  "id": "github-jktfe-servemyapi-053f9322",
+  "name": "Jktfe/serveMyAPI",
+  "description": "ServeMyAPI securely manages API keys using the macOS Keychain, providing a consistent MCP interface for cross-project access and LLM integration.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-jktfe-servemyapi-053f9322",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jktfe-servemyapi-053f9322)",
+  "links": {
+    "primary": "https://github.com/Jktfe/serveMyAPI",
+    "repo": "https://github.com/Jktfe/serveMyAPI",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

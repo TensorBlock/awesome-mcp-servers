@@ -1,0 +1,24 @@
+{
+  "id": "github-66julienmartin-mcp-server-qwen-max-b2204382",
+  "name": "66julienmartin/MCP-server-Qwen_Max",
+  "description": "Facilitates text generation and integration with Claude Desktop using the Qwen Max language model.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-66julienmartin-mcp-server-qwen-max-b2204382",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-66julienmartin-mcp-server-qwen-max-b2204382)",
+  "links": {
+    "primary": "https://github.com/66julienmartin/MCP-server-Qwen_Max",
+    "repo": "https://github.com/66julienmartin/MCP-server-Qwen_Max",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

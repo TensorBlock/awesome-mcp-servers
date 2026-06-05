@@ -1,0 +1,24 @@
+{
+  "id": "github-prezan20pec-mcpserver-snowflake-cf33f800",
+  "name": "prezan20pec/mcpserver-snowflake",
+  "description": "A custom AI agent that integrates with an MCP server to execute SQL queries on Snowflake databases using SQLAlchemy.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-prezan20pec-mcpserver-snowflake-cf33f800",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-prezan20pec-mcpserver-snowflake-cf33f800)",
+  "links": {
+    "primary": "https://github.com/prezan20pec/mcpserver-snowflake",
+    "repo": "https://github.com/prezan20pec/mcpserver-snowflake",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

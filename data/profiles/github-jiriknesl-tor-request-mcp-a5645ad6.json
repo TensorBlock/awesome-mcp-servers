@@ -1,0 +1,24 @@
+{
+  "id": "github-jiriknesl-tor-request-mcp-a5645ad6",
+  "name": "jiriknesl/tor-request-mcp",
+  "description": "Facilitates GET and POST requests through Tor hidden services, enhancing privacy and anonymity for internet interactions.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-jiriknesl-tor-request-mcp-a5645ad6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jiriknesl-tor-request-mcp-a5645ad6)",
+  "links": {
+    "primary": "https://github.com/jiriknesl/tor-request-mcp",
+    "repo": "https://github.com/jiriknesl/tor-request-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

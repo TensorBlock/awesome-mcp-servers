@@ -1,0 +1,24 @@
+{
+  "id": "github-kwenhwang-hrfco-service-1f7bc12d",
+  "name": "kwenhwang/hrfco-service",
+  "description": "Provides real-time hydrological information retrieval, including water levels and dam discharge rates, through an MCP server.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-kwenhwang-hrfco-service-1f7bc12d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kwenhwang-hrfco-service-1f7bc12d)",
+  "links": {
+    "primary": "https://github.com/kwenhwang/hrfco-service",
+    "repo": "https://github.com/kwenhwang/hrfco-service",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

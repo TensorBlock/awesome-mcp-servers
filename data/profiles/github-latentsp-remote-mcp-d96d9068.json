@@ -1,0 +1,24 @@
+{
+  "id": "github-latentsp-remote-mcp-d96d9068",
+  "name": "latentsp/remote-mcp",
+  "description": "A command-line client for interacting with remote MCP servers using Server-Sent Events for persistent connections.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-latentsp-remote-mcp-d96d9068",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-latentsp-remote-mcp-d96d9068)",
+  "links": {
+    "primary": "https://github.com/latentsp/remote-mcp",
+    "repo": "https://github.com/latentsp/remote-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-andyrewlee-dad-mcp-6eb9ce61",
+  "name": "andyrewlee/dad-mcp",
+  "description": "Enhance home education with a remote MCP server that integrates AI for creative learning experiences.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-andyrewlee-dad-mcp-6eb9ce61",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-andyrewlee-dad-mcp-6eb9ce61)",
+  "links": {
+    "primary": "https://github.com/andyrewlee/dad-mcp",
+    "repo": "https://github.com/andyrewlee/dad-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

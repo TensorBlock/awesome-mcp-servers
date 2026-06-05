@@ -1,0 +1,24 @@
+{
+  "id": "github-mariyafilippova-mcp-strava-fc7939ac",
+  "name": "MariyaFilippova/mcp-strava",
+  "description": "Facilitates seamless integration between Strava APIs and Claude for Desktop, enabling efficient interaction with Strava activity data.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-mariyafilippova-mcp-strava-fc7939ac",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mariyafilippova-mcp-strava-fc7939ac)",
+  "links": {
+    "primary": "https://github.com/MariyaFilippova/mcp-strava",
+    "repo": "https://github.com/MariyaFilippova/mcp-strava",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

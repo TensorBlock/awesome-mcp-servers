@@ -1,0 +1,24 @@
+{
+  "id": "github-everimbaq-mcp-nftgo-api-6e70ee5c",
+  "name": "everimbaq/mcp-nftgo-api",
+  "description": "Facilitates HTTP requests to the NFTGo Developer API using the Model Context Protocol.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-everimbaq-mcp-nftgo-api-6e70ee5c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-everimbaq-mcp-nftgo-api-6e70ee5c)",
+  "links": {
+    "primary": "https://github.com/everimbaq/mcp-nftgo-api",
+    "repo": "https://github.com/everimbaq/mcp-nftgo-api",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

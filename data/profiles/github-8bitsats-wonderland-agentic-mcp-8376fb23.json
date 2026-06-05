@@ -1,0 +1,24 @@
+{
+  "id": "github-8bitsats-wonderland-agentic-mcp-8376fb23",
+  "name": "8bitsats/Wonderland-Agentic-MCP",
+  "description": "Leverage Anthropic's MCP to build an AI agent for trading tokens on the Solana blockchain, integrating real-time market data and risk assessments.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-8bitsats-wonderland-agentic-mcp-8376fb23",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-8bitsats-wonderland-agentic-mcp-8376fb23)",
+  "links": {
+    "primary": "https://github.com/8bitsats/Wonderland-Agentic-MCP",
+    "repo": "https://github.com/8bitsats/Wonderland-Agentic-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

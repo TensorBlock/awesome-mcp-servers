@@ -1,0 +1,24 @@
+{
+  "id": "github-privsim-mcp-test-runner-53d8390d",
+  "name": "privsim/mcp-test-runner",
+  "description": "Facilitates unified test execution and result parsing across multiple frameworks, including Bats, Pytest, Flutter, Jest, Go, and Rust.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-privsim-mcp-test-runner-53d8390d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-privsim-mcp-test-runner-53d8390d)",
+  "links": {
+    "primary": "https://github.com/privsim/mcp-test-runner",
+    "repo": "https://github.com/privsim/mcp-test-runner",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

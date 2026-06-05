@@ -1,0 +1,24 @@
+{
+  "id": "github-mmruesch12-azdo-mcp-d0ad3b4c",
+  "name": "mmruesch12/azdo-mcp",
+  "description": "Facilitates AI-driven interactions with Azure DevOps work items, pull requests, and wikis.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-mmruesch12-azdo-mcp-d0ad3b4c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mmruesch12-azdo-mcp-d0ad3b4c)",
+  "links": {
+    "primary": "https://github.com/mmruesch12/azdo-mcp",
+    "repo": "https://github.com/mmruesch12/azdo-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

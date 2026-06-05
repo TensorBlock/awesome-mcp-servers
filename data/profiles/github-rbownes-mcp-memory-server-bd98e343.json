@@ -1,0 +1,24 @@
+{
+  "id": "github-rbownes-mcp-memory-server-bd98e343",
+  "name": "rbownes/mcp-memory-server",
+  "description": "A Rust-based MCP server offering memory storage and retrieval with support for multiple storage backends and embedding models.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-rbownes-mcp-memory-server-bd98e343",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rbownes-mcp-memory-server-bd98e343)",
+  "links": {
+    "primary": "https://github.com/rbownes/mcp-memory-server",
+    "repo": "https://github.com/rbownes/mcp-memory-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

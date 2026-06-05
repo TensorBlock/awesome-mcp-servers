@@ -1,0 +1,24 @@
+{
+  "id": "github-synohara-supercollider-mcp-65e9844d",
+  "name": "Synohara/supercollider-mcp",
+  "description": "Facilitates the execution of SuperCollider synths using supercolliderjs through an MCP server.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-synohara-supercollider-mcp-65e9844d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-synohara-supercollider-mcp-65e9844d)",
+  "links": {
+    "primary": "https://github.com/Synohara/supercollider-mcp",
+    "repo": "https://github.com/Synohara/supercollider-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

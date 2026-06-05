@@ -1,0 +1,24 @@
+{
+  "id": "github-crewaakash-mcp-server-for-copilot-a5f61a2e",
+  "name": "CrewAakash/mcp-server-for-copilot",
+  "description": "Facilitates seamless integration of Microsoft Copilot Studio agents with MCP-compatible clients, maintaining conversation context and supporting stateful interactions.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-crewaakash-mcp-server-for-copilot-a5f61a2e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-crewaakash-mcp-server-for-copilot-a5f61a2e)",
+  "links": {
+    "primary": "https://github.com/CrewAakash/mcp-server-for-copilot",
+    "repo": "https://github.com/CrewAakash/mcp-server-for-copilot",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

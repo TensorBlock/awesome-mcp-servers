@@ -1,0 +1,24 @@
+{
+  "id": "github-zuojianghua-qyweixin-bot-mcp-server-110e5254",
+  "name": "zuojianghua/qyweixin_bot_mcp_server",
+  "description": "Facilitates automated notifications to enterprise WeChat groups via an MCP server.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-zuojianghua-qyweixin-bot-mcp-server-110e5254",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zuojianghua-qyweixin-bot-mcp-server-110e5254)",
+  "links": {
+    "primary": "https://github.com/zuojianghua/qyweixin_bot_mcp_server",
+    "repo": "https://github.com/zuojianghua/qyweixin_bot_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

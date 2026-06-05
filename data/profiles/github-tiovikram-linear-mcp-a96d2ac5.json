@@ -1,0 +1,24 @@
+{
+  "id": "github-tiovikram-linear-mcp-a96d2ac5",
+  "name": "tiovikram/linear-mcp",
+  "description": "Facilitates AI-driven management of issues, projects, and teams on the Linear platform through a Model Context Protocol server.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-tiovikram-linear-mcp-a96d2ac5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tiovikram-linear-mcp-a96d2ac5)",
+  "links": {
+    "primary": "https://github.com/tiovikram/linear-mcp",
+    "repo": "https://github.com/tiovikram/linear-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

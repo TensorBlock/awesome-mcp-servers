@@ -1,0 +1,24 @@
+{
+  "id": "github-jon-vii-canvas-student-mcp-9c7e570e",
+  "name": "Jon-Vii/canvas-student-mcp",
+  "description": "Facilitates interaction between Canvas LMS and LLM clients using the MCP standard, enabling course content retrieval and assignment management.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-jon-vii-canvas-student-mcp-9c7e570e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jon-vii-canvas-student-mcp-9c7e570e)",
+  "links": {
+    "primary": "https://github.com/Jon-Vii/canvas-student-mcp",
+    "repo": "https://github.com/Jon-Vii/canvas-student-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

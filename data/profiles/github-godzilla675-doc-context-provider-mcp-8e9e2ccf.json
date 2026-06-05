@@ -1,0 +1,24 @@
+{
+  "id": "github-godzilla675-doc-context-provider-mcp-8e9e2ccf",
+  "name": "Godzilla675/doc-context-provider-mcp",
+  "description": "Crawls and summarizes online documentation using the Gemini API, providing context for MCP clients.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-godzilla675-doc-context-provider-mcp-8e9e2ccf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-godzilla675-doc-context-provider-mcp-8e9e2ccf)",
+  "links": {
+    "primary": "https://github.com/Godzilla675/doc-context-provider-mcp",
+    "repo": "https://github.com/Godzilla675/doc-context-provider-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-your-mcp-repo-mcp-ai-9763c416",
+  "name": "your-mcp-repo/MCP.Ai",
+  "description": "Facilitates secure interaction between AI models and the NEAR blockchain, enabling account management and smart contract execution.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-your-mcp-repo-mcp-ai-9763c416",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-your-mcp-repo-mcp-ai-9763c416)",
+  "links": {
+    "primary": "https://github.com/your-mcp-repo/MCP.Ai",
+    "repo": "https://github.com/your-mcp-repo/MCP.Ai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

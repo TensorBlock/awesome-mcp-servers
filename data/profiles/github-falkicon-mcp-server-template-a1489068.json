@@ -1,0 +1,25 @@
+{
+  "id": "github-falkicon-mcp-server-template-a1489068",
+  "name": "Falkicon/mcp-server-template",
+  "description": "A TypeScript boilerplate for building MCP servers with stdio/http support, logging, Docker, and testing capabilities.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-falkicon-mcp-server-template-a1489068",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-falkicon-mcp-server-template-a1489068)",
+  "links": {
+    "primary": "https://github.com/Falkicon/mcp-server-template",
+    "repo": "https://github.com/Falkicon/mcp-server-template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

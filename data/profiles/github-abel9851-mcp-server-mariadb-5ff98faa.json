@@ -1,0 +1,24 @@
+{
+  "id": "github-abel9851-mcp-server-mariadb-5ff98faa",
+  "name": "abel9851/mcp-server-mariadb",
+  "description": "Facilitates read-only data retrieval from MariaDB using an MCP server interface.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-abel9851-mcp-server-mariadb-5ff98faa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abel9851-mcp-server-mariadb-5ff98faa)",
+  "links": {
+    "primary": "https://github.com/abel9851/mcp-server-mariadb",
+    "repo": "https://github.com/abel9851/mcp-server-mariadb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

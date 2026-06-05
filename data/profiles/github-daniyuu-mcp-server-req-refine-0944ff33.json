@@ -1,0 +1,24 @@
+{
+  "id": "github-daniyuu-mcp-server-req-refine-0944ff33",
+  "name": "daniyuu/mcp-server-req-refine",
+  "description": "ReqRefine enhances requirement gathering through strategic questioning, transforming dialogues into structured specifications.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-daniyuu-mcp-server-req-refine-0944ff33",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-daniyuu-mcp-server-req-refine-0944ff33)",
+  "links": {
+    "primary": "https://github.com/daniyuu/mcp-server-req-refine",
+    "repo": "https://github.com/daniyuu/mcp-server-req-refine",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

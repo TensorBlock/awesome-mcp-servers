@@ -1,0 +1,24 @@
+{
+  "id": "github-hualuai-cad-mcp-c3d27381",
+  "name": "HuaLuAI/CAD-MCP",
+  "description": "CAD-MCP enables natural language-driven CAD operations across multiple software platforms, streamlining drawing tasks through intuitive text commands.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-hualuai-cad-mcp-c3d27381",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hualuai-cad-mcp-c3d27381)",
+  "links": {
+    "primary": "https://github.com/HuaLuAI/CAD-MCP",
+    "repo": "https://github.com/HuaLuAI/CAD-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

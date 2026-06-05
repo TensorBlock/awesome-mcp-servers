@@ -1,0 +1,24 @@
+{
+  "id": "github-alexei-led-k8s-mcp-server-ee1ce693",
+  "name": "alexei-led/k8s-mcp-server",
+  "description": "Facilitates secure execution of Kubernetes commands by AI assistants, bridging language models with Kubernetes CLI tools for efficient cluster management.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-alexei-led-k8s-mcp-server-ee1ce693",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexei-led-k8s-mcp-server-ee1ce693)",
+  "links": {
+    "primary": "https://github.com/alexei-led/k8s-mcp-server",
+    "repo": "https://github.com/alexei-led/k8s-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

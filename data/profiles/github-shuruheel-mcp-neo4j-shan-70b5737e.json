@@ -1,0 +1,24 @@
+{
+  "id": "github-shuruheel-mcp-neo4j-shan-70b5737e",
+  "name": "shuruheel/mcp-neo4j-shan",
+  "description": "A sophisticated knowledge graph memory system leveraging Neo4j to store and explore interconnected information with rich semantic structures.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-shuruheel-mcp-neo4j-shan-70b5737e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shuruheel-mcp-neo4j-shan-70b5737e)",
+  "links": {
+    "primary": "https://github.com/shuruheel/mcp-neo4j-shan",
+    "repo": "https://github.com/shuruheel/mcp-neo4j-shan",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-necto-pro-jira-mcp-server-83a83105",
+  "name": "necto-pro/jira-mcp-server",
+  "description": "A TypeScript-based MCP server implementing a notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-necto-pro-jira-mcp-server-83a83105",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-necto-pro-jira-mcp-server-83a83105)",
+  "links": {
+    "primary": "https://github.com/necto-pro/jira-mcp-server",
+    "repo": "https://github.com/necto-pro/jira-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

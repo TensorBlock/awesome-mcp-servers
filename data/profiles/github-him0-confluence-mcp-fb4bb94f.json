@@ -1,0 +1,24 @@
+{
+  "id": "github-him0-confluence-mcp-fb4bb94f",
+  "name": "him0/confluence-mcp",
+  "description": "Facilitates searching, fetching, and managing Confluence articles through an MCP server interface.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-him0-confluence-mcp-fb4bb94f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-him0-confluence-mcp-fb4bb94f)",
+  "links": {
+    "primary": "https://github.com/him0/confluence-mcp",
+    "repo": "https://github.com/him0/confluence-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
