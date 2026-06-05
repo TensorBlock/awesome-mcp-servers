@@ -26,32 +26,49 @@ This repo currently indexes **7,493 unique MCP server links** from the category 
 
 ## TensorBlock MCP Index
 
-This list is becoming an agent-ready MCP Index: a structured catalog that agents can search, compare, and use to generate install configs.
+This repo is both a community directory and an agent-ready index. Humans add MCP servers in markdown category pages; the indexer turns those entries into structured data that agents can search, inspect, and use to draft install configs.
 
-The alpha indexer now produces:
+How it works:
 
-- `data/catalog.json` - normalized MCP server metadata from the markdown list.
-- `data/profiles/*.json` - stable server profile artifacts with badge links.
-- Client install configs for Claude Desktop, Cursor, Codex, and VS Code.
-- A local MCP registry server with `search_servers`, `get_server_profile`, and `get_install_config` tools.
+1. The source of truth is the category markdown under `docs/*.md`.
+2. Each server entry is parsed from a markdown bullet with a link and description.
+3. `npm run catalog:build` generates `data/catalog.json` with normalized server metadata.
+4. `npm run profiles:build` generates `data/profiles/*.json` for stable per-server profiles.
+5. `npm run registry:mcp` starts a local registry MCP server with `search_servers`, `get_server_profile`, and `get_install_config` tools.
 
-If you submit a server, include install command, transport, auth, supported clients, tool count, license, docs URL, and remote MCP endpoint when possible. Better metadata makes your server easier for agents and users to discover. See [MCP Index Metadata Contribution Guide](docs/index-alpha/contribution-guide.md).
+That means contributors still submit a normal awesome-list entry, but better metadata makes the entry more useful to agents. When possible, include install command, transport, auth type, supported clients, tool count, license, docs URL, and public remote endpoint. See the [MCP Index Metadata Contribution Guide](docs/index-alpha/contribution-guide.md) for examples.
 
 ## Contributing
 
-We welcome submissions! To add your MCP server:
+We welcome MCP server submissions. To add your server:
 
-1. Fork this repository
-2. Add your server to the relevant category page under `docs/`, following the existing format:
+1. Pick the best category from [Browse by Category](#browse-by-category).
+2. Open that category page under `docs/`.
+3. Add one markdown bullet using this format:
    ```
-   - [Server Name](https://github.com/owner/repo) - Brief one-sentence description.
+   - [Server Name](https://github.com/owner/repo): Brief description of what the MCP server lets an agent do. Install: `npx your-package`.
    ```
-3. Open a pull request — we review regularly
+4. Search the repo for your URL or project name to avoid duplicates.
+5. Open a pull request.
 
-**Guidelines:**
-- Server must be publicly accessible (open source or a hosted service with a public endpoint)
-- Search the list before submitting to avoid duplicates
-- Place entries in the most relevant category
+Good entries answer these questions in one or two sentences:
+
+- What can an agent do with this server?
+- How does a user install or connect to it?
+- Does it use `stdio`, `sse`, or `streamable-http`?
+- Does it require an API key, OAuth, or no auth?
+- Which MCP clients does it support?
+
+Generated files such as `data/catalog.json` and `data/profiles/*.json` are maintained by the indexer. If you only add a server entry, editing the relevant `docs/*.md` category page is enough for the PR.
+
+For maintainers validating a metadata/indexer change:
+
+```
+npm run catalog:build
+npm run profiles:build
+npm test
+npm run typecheck
+```
 
 ## Browse by Category
 
