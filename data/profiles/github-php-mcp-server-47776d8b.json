@@ -1,0 +1,24 @@
+{
+  "id": "github-php-mcp-server-47776d8b",
+  "name": "php-mcp/server",
+  "description": "A PHP library facilitating the creation of MCP-compliant servers, enabling seamless integration of PHP applications with AI tools and external systems.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-php-mcp-server-47776d8b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-php-mcp-server-47776d8b)",
+  "links": {
+    "primary": "https://github.com/php-mcp/server",
+    "repo": "https://github.com/php-mcp/server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

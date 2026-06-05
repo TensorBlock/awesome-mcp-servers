@@ -1,0 +1,24 @@
+{
+  "id": "github-debargho99-mcp-agentic-rag-dadcc880",
+  "name": "Debargho99/MCP-Agentic-RAG",
+  "description": "Enhances coding environments with a Retrieval-Augmented Generation pipeline using intelligent agents and Model Context Protocols for enriched development workflows.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-debargho99-mcp-agentic-rag-dadcc880",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-debargho99-mcp-agentic-rag-dadcc880)",
+  "links": {
+    "primary": "https://github.com/Debargho99/MCP-Agentic-RAG",
+    "repo": "https://github.com/Debargho99/MCP-Agentic-RAG",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

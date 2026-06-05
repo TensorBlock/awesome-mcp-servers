@@ -1,0 +1,24 @@
+{
+  "id": "github-cdugo-package-documentation-mcp-fcd41282",
+  "name": "cdugo/package-documentation-mcp",
+  "description": "Fetches package documentation from various language ecosystems for LLMs like Claude, without needing API keys.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-cdugo-package-documentation-mcp-fcd41282",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cdugo-package-documentation-mcp-fcd41282)",
+  "links": {
+    "primary": "https://github.com/cdugo/package-documentation-mcp",
+    "repo": "https://github.com/cdugo/package-documentation-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-hotovo-aider-desk-2d1fc86c",
+  "name": "hotovo/aider-desk",
+  "description": "AiderDesk is a desktop application that enhances AI coding workflows with a modern GUI, project management, IDE integration, and MCP server support for seamless AI capabilities.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-hotovo-aider-desk-2d1fc86c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hotovo-aider-desk-2d1fc86c)",
+  "links": {
+    "primary": "https://github.com/hotovo/aider-desk",
+    "repo": "https://github.com/hotovo/aider-desk",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

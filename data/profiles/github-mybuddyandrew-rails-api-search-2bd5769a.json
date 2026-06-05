@@ -1,0 +1,24 @@
+{
+  "id": "github-mybuddyandrew-rails-api-search-2bd5769a",
+  "name": "mybuddyandrew/rails_api_search",
+  "description": "Facilitates efficient search across Rails API documentation with comprehensive support for all major framework components.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-mybuddyandrew-rails-api-search-2bd5769a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mybuddyandrew-rails-api-search-2bd5769a)",
+  "links": {
+    "primary": "https://github.com/mybuddyandrew/rails_api_search",
+    "repo": "https://github.com/mybuddyandrew/rails_api_search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

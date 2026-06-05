@@ -1,0 +1,24 @@
+{
+  "id": "github-dappros-ethora-mcp-server-ce7ca0df",
+  "name": "dappros/ethora-mcp-server",
+  "description": "MCP server for the open-source Ethora chat & messaging platform — manage apps and chat rooms, broadcast messages, and deploy AI agents / chatbots with RAG sources, across user-auth and B2B/app-token flows. Install with `npx -y @ethora/mcp-server`.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-dappros-ethora-mcp-server-ce7ca0df",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dappros-ethora-mcp-server-ce7ca0df)",
+  "links": {
+    "primary": "https://github.com/dappros/ethora-mcp-server",
+    "repo": "https://github.com/dappros/ethora-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

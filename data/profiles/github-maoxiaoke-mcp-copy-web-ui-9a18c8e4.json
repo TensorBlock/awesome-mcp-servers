@@ -1,0 +1,24 @@
+{
+  "id": "github-maoxiaoke-mcp-copy-web-ui-9a18c8e4",
+  "name": "maoxiaoke/mcp-copy-web-ui",
+  "description": "Facilitates the download and analysis of complete website content for UI/UX inspiration, making it accessible for AI analysis.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-maoxiaoke-mcp-copy-web-ui-9a18c8e4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maoxiaoke-mcp-copy-web-ui-9a18c8e4)",
+  "links": {
+    "primary": "https://github.com/maoxiaoke/mcp-copy-web-ui",
+    "repo": "https://github.com/maoxiaoke/mcp-copy-web-ui",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-paliago-allabolag-mcp-301cab89",
+  "name": "Paliago/allabolag-mcp",
+  "description": "A JavaScript-based MCP server setup using Bun for local and global configurations.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-paliago-allabolag-mcp-301cab89",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-paliago-allabolag-mcp-301cab89)",
+  "links": {
+    "primary": "https://github.com/Paliago/allabolag-mcp",
+    "repo": "https://github.com/Paliago/allabolag-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

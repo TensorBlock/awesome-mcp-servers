@@ -1,0 +1,24 @@
+{
+  "id": "github-huangdijia-hyperf-mcp-demo-c684a95d",
+  "name": "huangdijia/hyperf-mcp-demo",
+  "description": "Demonstrates building and managing microservices using the Hyperf framework's MCP components with annotation-based tool exposure.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-huangdijia-hyperf-mcp-demo-c684a95d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-huangdijia-hyperf-mcp-demo-c684a95d)",
+  "links": {
+    "primary": "https://github.com/huangdijia/hyperf-mcp-demo",
+    "repo": "https://github.com/huangdijia/hyperf-mcp-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-thadius83-mcp-server-openai-3807689c",
+  "name": "thadius83/mcp-server-openai",
+  "description": "Facilitates direct querying of OpenAI models using the MCP protocol, with support for o3-mini and gpt-4o-mini models.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-thadius83-mcp-server-openai-3807689c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thadius83-mcp-server-openai-3807689c)",
+  "links": {
+    "primary": "https://github.com/thadius83/mcp-server-openai",
+    "repo": "https://github.com/thadius83/mcp-server-openai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

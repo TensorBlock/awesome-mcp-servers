@@ -1,0 +1,24 @@
+{
+  "id": "github-wesnermichel-nexus-mcp-claude-desktop-server-c573a702",
+  "name": "wesnermichel/nexus-mcp-claude-desktop-server",
+  "description": "A lightweight VSCode extension enabling seamless integration between Claude Desktop and your workspace through MCP, with efficient memory usage and customizable security controls.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-wesnermichel-nexus-mcp-claude-desktop-server-c573a702",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wesnermichel-nexus-mcp-claude-desktop-server-c573a702)",
+  "links": {
+    "primary": "https://github.com/wesnermichel/nexus-mcp-claude-desktop-server",
+    "repo": "https://github.com/wesnermichel/nexus-mcp-claude-desktop-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

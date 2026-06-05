@@ -1,0 +1,24 @@
+{
+  "id": "github-hlpun-train-in-silence-141c685b",
+  "name": "hlpun/Train-in-Silence",
+  "description": "Task-aware MCP server for LLM fine-tuning providing VRAM/runtime/cost estimation and live multi-cloud GPU sniping.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-hlpun-train-in-silence-141c685b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hlpun-train-in-silence-141c685b)",
+  "links": {
+    "primary": "https://github.com/hlpun/Train-in-Silence",
+    "repo": "https://github.com/hlpun/Train-in-Silence",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

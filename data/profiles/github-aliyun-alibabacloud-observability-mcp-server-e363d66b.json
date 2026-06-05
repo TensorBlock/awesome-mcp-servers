@@ -1,0 +1,24 @@
+{
+  "id": "github-aliyun-alibabacloud-observability-mcp-server-e363d66b",
+  "name": "aliyun/alibabacloud-observability-mcp-server",
+  "description": "Facilitates seamless integration with Alibaba Cloud's observability products, offering tools for efficient log and application monitoring.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-aliyun-alibabacloud-observability-mcp-server-e363d66b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aliyun-alibabacloud-observability-mcp-server-e363d66b)",
+  "links": {
+    "primary": "https://github.com/aliyun/alibabacloud-observability-mcp-server",
+    "repo": "https://github.com/aliyun/alibabacloud-observability-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

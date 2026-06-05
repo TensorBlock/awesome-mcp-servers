@@ -1,0 +1,24 @@
+{
+  "id": "github-lieee1995-mcp-jenkins-server-ee3a0208",
+  "name": "lieee1995/mcp-jenkins-server",
+  "description": "Integrates Jenkins with MCP to manage jobs, builds, and views through a Python-based server.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-lieee1995-mcp-jenkins-server-ee3a0208",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lieee1995-mcp-jenkins-server-ee3a0208)",
+  "links": {
+    "primary": "https://github.com/lieee1995/mcp-jenkins-server",
+    "repo": "https://github.com/lieee1995/mcp-jenkins-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

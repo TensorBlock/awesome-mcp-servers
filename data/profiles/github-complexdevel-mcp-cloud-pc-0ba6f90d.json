@@ -1,0 +1,24 @@
+{
+  "id": "github-complexdevel-mcp-cloud-pc-0ba6f90d",
+  "name": "complexdevel/mcp-cloud-pc",
+  "description": "Manage Azure Cloud PCs via Microsoft Graph API with tools for listing, rebooting, and renaming PCs.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-complexdevel-mcp-cloud-pc-0ba6f90d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-complexdevel-mcp-cloud-pc-0ba6f90d)",
+  "links": {
+    "primary": "https://github.com/complexdevel/mcp-cloud-pc",
+    "repo": "https://github.com/complexdevel/mcp-cloud-pc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

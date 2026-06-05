@@ -1,0 +1,24 @@
+{
+  "id": "github-jatidevelopments-mcp-puppeteer-advanced-cursor-c66741ba",
+  "name": "jatidevelopments/MCP-Puppeteer-Advanced-Cursor-...-",
+  "description": "Facilitates advanced browser automation using Puppeteer, enabling LLMs to interact with web pages for tasks like navigation, screenshot capture, and JavaScript execution.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-jatidevelopments-mcp-puppeteer-advanced-cursor-c66741ba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jatidevelopments-mcp-puppeteer-advanced-cursor-c66741ba)",
+  "links": {
+    "primary": "https://github.com/jatidevelopments/MCP-Puppeteer-Advanced-Cursor-...-",
+    "repo": "https://github.com/jatidevelopments/MCP-Puppeteer-Advanced-Cursor-...-",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

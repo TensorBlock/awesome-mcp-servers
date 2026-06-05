@@ -1,0 +1,24 @@
+{
+  "id": "github-twolven-mcp-stockscreen-e66d6482",
+  "name": "twolven/mcp-stockscreen",
+  "description": "Empowers LLMs to perform comprehensive stock screening using Yahoo Finance data, supporting technical, fundamental, and options criteria with watchlist management.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-twolven-mcp-stockscreen-e66d6482",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-twolven-mcp-stockscreen-e66d6482)",
+  "links": {
+    "primary": "https://github.com/twolven/mcp-stockscreen",
+    "repo": "https://github.com/twolven/mcp-stockscreen",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

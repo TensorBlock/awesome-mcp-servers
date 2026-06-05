@@ -1,0 +1,24 @@
+{
+  "id": "github-bereketdeneke-remote-mcp-server-0c4ad597",
+  "name": "bereketDeneke/remote-mcp-server",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like MCP Inspector and Claude Desktop.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-bereketdeneke-remote-mcp-server-0c4ad597",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bereketdeneke-remote-mcp-server-0c4ad597)",
+  "links": {
+    "primary": "https://github.com/bereketDeneke/remote-mcp-server",
+    "repo": "https://github.com/bereketDeneke/remote-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

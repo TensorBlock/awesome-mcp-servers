@@ -1,0 +1,24 @@
+{
+  "id": "github-shensiqi0701-mysql-mcp-server-modification-0c11485e",
+  "name": "shensiqi0701/mysql-mcp-server-modification",
+  "description": "Provides read-only access to MySQL databases, allowing users to list databases, tables, and execute queries through an MCP server.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-shensiqi0701-mysql-mcp-server-modification-0c11485e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shensiqi0701-mysql-mcp-server-modification-0c11485e)",
+  "links": {
+    "primary": "https://github.com/shensiqi0701/mysql-mcp-server-modification",
+    "repo": "https://github.com/shensiqi0701/mysql-mcp-server-modification",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

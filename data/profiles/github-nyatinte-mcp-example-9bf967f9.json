@@ -1,0 +1,24 @@
+{
+  "id": "github-nyatinte-mcp-example-9bf967f9",
+  "name": "nyatinte/mcp-example",
+  "description": "A playful MCP server example with build instructions and configuration settings for cline vscode.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-nyatinte-mcp-example-9bf967f9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nyatinte-mcp-example-9bf967f9)",
+  "links": {
+    "primary": "https://github.com/nyatinte/mcp-example",
+    "repo": "https://github.com/nyatinte/mcp-example",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

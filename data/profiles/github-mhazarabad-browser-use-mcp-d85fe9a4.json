@@ -1,0 +1,24 @@
+{
+  "id": "github-mhazarabad-browser-use-mcp-d85fe9a4",
+  "name": "mhazarabad/browser-use-mcp",
+  "description": "Automates browser tasks using the Browser Use API, offering task management and monitoring capabilities.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-mhazarabad-browser-use-mcp-d85fe9a4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mhazarabad-browser-use-mcp-d85fe9a4)",
+  "links": {
+    "primary": "https://github.com/mhazarabad/browser-use-mcp",
+    "repo": "https://github.com/mhazarabad/browser-use-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

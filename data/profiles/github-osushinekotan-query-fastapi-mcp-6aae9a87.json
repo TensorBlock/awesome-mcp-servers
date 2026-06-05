@@ -1,0 +1,24 @@
+{
+  "id": "github-osushinekotan-query-fastapi-mcp-6aae9a87",
+  "name": "osushinekotan/query-fastapi-mcp",
+  "description": "Facilitates secure querying of Google BigQuery datasets and Tavily web search through a FastAPI MCP server.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-osushinekotan-query-fastapi-mcp-6aae9a87",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-osushinekotan-query-fastapi-mcp-6aae9a87)",
+  "links": {
+    "primary": "https://github.com/osushinekotan/query-fastapi-mcp",
+    "repo": "https://github.com/osushinekotan/query-fastapi-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

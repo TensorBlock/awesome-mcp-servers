@@ -1,0 +1,24 @@
+{
+  "id": "github-dguhr-spicedb-mcp-c8515671",
+  "name": "DGuhr/spicedb-mcp",
+  "description": "Facilitates LLMs in querying SpiceDB for access and audit-related questions, leveraging MCP and C# SDKs.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-dguhr-spicedb-mcp-c8515671",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dguhr-spicedb-mcp-c8515671)",
+  "links": {
+    "primary": "https://github.com/DGuhr/spicedb-mcp",
+    "repo": "https://github.com/DGuhr/spicedb-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

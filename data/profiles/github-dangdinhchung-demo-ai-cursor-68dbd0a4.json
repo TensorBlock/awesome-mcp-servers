@@ -1,0 +1,24 @@
+{
+  "id": "github-dangdinhchung-demo-ai-cursor-68dbd0a4",
+  "name": "dangdinhchung/demo-ai-cursor",
+  "description": "An advanced e-learning platform integrating MCP servers for seamless online course management and intelligent learning support.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-dangdinhchung-demo-ai-cursor-68dbd0a4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dangdinhchung-demo-ai-cursor-68dbd0a4)",
+  "links": {
+    "primary": "https://github.com/dangdinhchung/demo-ai-cursor",
+    "repo": "https://github.com/dangdinhchung/demo-ai-cursor",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

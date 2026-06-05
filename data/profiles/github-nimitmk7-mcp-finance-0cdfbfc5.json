@@ -1,0 +1,24 @@
+{
+  "id": "github-nimitmk7-mcp-finance-0cdfbfc5",
+  "name": "nimitmk7/mcp-finance",
+  "description": "Facilitates LLM access to financial data, including stock prices and company information, using yfinance and MarketAux API.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-nimitmk7-mcp-finance-0cdfbfc5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nimitmk7-mcp-finance-0cdfbfc5)",
+  "links": {
+    "primary": "https://github.com/nimitmk7/mcp-finance",
+    "repo": "https://github.com/nimitmk7/mcp-finance",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

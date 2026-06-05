@@ -1,0 +1,24 @@
+{
+  "id": "github-anarcher-raindrop-io-mcp-server-18b71396",
+  "name": "anarcher/raindrop-io-mcp-server",
+  "description": "Facilitates interaction between LLMs and Raindrop.io bookmarks using MCP, implemented in Go.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-anarcher-raindrop-io-mcp-server-18b71396",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anarcher-raindrop-io-mcp-server-18b71396)",
+  "links": {
+    "primary": "https://github.com/anarcher/raindrop-io-mcp-server",
+    "repo": "https://github.com/anarcher/raindrop-io-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
