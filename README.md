@@ -8,17 +8,17 @@
 
 <div style="text-align: left; margin: 20px 0;">
     <a href="https://discord.com/invite/Ej5NmeHFf2" style="display: inline-block; padding: 10px 20px; background-color: #5865F2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
-        Join our Discord to learn more about what we're building ↗
+        Join the TensorBlock Discord
     </a>
 </div>
 <div style="text-align: left; margin: 20px 0;">
     <a href="https://github.com/TensorBlock/forge" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
-         ✨✨✨ Learn more about Forge - an open-source middleware service that simplifies AI model provider management. ✨✨✨
+        Explore Forge, our open-source middleware for AI model provider management
     </a>
 </div>
-A comprehensive, community-curated collection of [Model Context Protocol (MCP)](https://modelcontextprotocol.io) servers — covering AI assistants, browser automation, databases, cloud platforms, developer tools, and much more.
+A community-curated directory of [Model Context Protocol (MCP)](https://modelcontextprotocol.io) servers. The catalog covers AI assistants, browser automation, databases, cloud platforms, developer tools, and more, and powers the TensorBlock MCP Index for structured search and install metadata.
 
-> **What is MCP?** The Model Context Protocol is an open standard that lets AI models securely connect to external tools, APIs, databases, and filesystems. Think of it as a USB-C port for AI — a universal interface that any model can use to interact with the world.
+> **What is MCP?** MCP is an open standard for connecting AI applications to external tools and data sources, including APIs, databases, filesystems, browsers, and cloud services.
 
 ## Coverage
 
