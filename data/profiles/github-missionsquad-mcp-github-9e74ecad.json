@@ -1,0 +1,24 @@
+{
+  "id": "github-missionsquad-mcp-github-9e74ecad",
+  "name": "MissionSquad/mcp-github",
+  "description": "Facilitates GitHub API interactions with dynamic personal access token management, supporting file operations, repository management, and advanced search capabilities.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-missionsquad-mcp-github-9e74ecad",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-missionsquad-mcp-github-9e74ecad)",
+  "links": {
+    "primary": "https://github.com/MissionSquad/mcp-github",
+    "repo": "https://github.com/MissionSquad/mcp-github",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

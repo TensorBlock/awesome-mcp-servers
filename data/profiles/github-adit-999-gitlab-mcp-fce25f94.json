@@ -1,0 +1,24 @@
+{
+  "id": "github-adit-999-gitlab-mcp-fce25f94",
+  "name": "Adit-999/gitlab-mcp",
+  "description": "Facilitates AI-driven interactions with GitLab, enabling operations on repositories, issues, and merge requests with both synchronous and asynchronous execution.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-adit-999-gitlab-mcp-fce25f94",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adit-999-gitlab-mcp-fce25f94)",
+  "links": {
+    "primary": "https://github.com/Adit-999/gitlab-mcp",
+    "repo": "https://github.com/Adit-999/gitlab-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

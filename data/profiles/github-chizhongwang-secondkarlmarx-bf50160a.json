@@ -1,0 +1,24 @@
+{
+  "id": "github-chizhongwang-secondkarlmarx-bf50160a",
+  "name": "ChizhongWang/secondKarlMarx",
+  "description": "A distributed training project for fine-tuning large language models on Marxist theory, featuring remote access via MCP.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-chizhongwang-secondkarlmarx-bf50160a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chizhongwang-secondkarlmarx-bf50160a)",
+  "links": {
+    "primary": "https://github.com/ChizhongWang/secondKarlMarx",
+    "repo": "https://github.com/ChizhongWang/secondKarlMarx",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

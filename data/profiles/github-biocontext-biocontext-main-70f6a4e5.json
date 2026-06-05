@@ -1,0 +1,24 @@
+{
+  "id": "github-biocontext-biocontext-main-70f6a4e5",
+  "name": "BioContext/BioContext-main",
+  "description": "BioContext provides seamless integration with major biological databases through a collection of MCP servers, facilitating AI-driven data access and analysis.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-biocontext-biocontext-main-70f6a4e5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-biocontext-biocontext-main-70f6a4e5)",
+  "links": {
+    "primary": "https://github.com/BioContext/BioContext-main",
+    "repo": "https://github.com/BioContext/BioContext-main",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

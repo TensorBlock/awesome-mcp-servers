@@ -1,0 +1,24 @@
+{
+  "id": "github-tjun-terraform-doc-mcp-ad6baf3f",
+  "name": "tjun/terraform-doc-mcp",
+  "description": "Facilitates access to Terraform provider and resource documentation for integration with LLMs like Claude Desktop.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-tjun-terraform-doc-mcp-ad6baf3f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tjun-terraform-doc-mcp-ad6baf3f)",
+  "links": {
+    "primary": "https://github.com/tjun/terraform-doc-mcp",
+    "repo": "https://github.com/tjun/terraform-doc-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

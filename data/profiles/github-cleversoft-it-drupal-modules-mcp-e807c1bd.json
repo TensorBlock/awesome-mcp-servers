@@ -1,0 +1,24 @@
+{
+  "id": "github-cleversoft-it-drupal-modules-mcp-e807c1bd",
+  "name": "Cleversoft-IT/drupal-modules-mcp",
+  "description": "A TypeScript-based server for retrieving detailed Drupal module information from drupal.org, enhancing AI and tool integration with accurate module data.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-cleversoft-it-drupal-modules-mcp-e807c1bd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cleversoft-it-drupal-modules-mcp-e807c1bd)",
+  "links": {
+    "primary": "https://github.com/Cleversoft-IT/drupal-modules-mcp",
+    "repo": "https://github.com/Cleversoft-IT/drupal-modules-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

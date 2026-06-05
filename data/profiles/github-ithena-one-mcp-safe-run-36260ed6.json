@@ -1,0 +1,24 @@
+{
+  "id": "github-ithena-one-mcp-safe-run-36260ed6",
+  "name": "ithena-one/mcp-safe-run",
+  "description": "Launches MCP servers for AI-powered IDEs with secure, zero-leak secret management using OS keychain or hidden files.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ithena-one-mcp-safe-run-36260ed6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ithena-one-mcp-safe-run-36260ed6)",
+  "links": {
+    "primary": "https://github.com/ithena-one/mcp-safe-run",
+    "repo": "https://github.com/ithena-one/mcp-safe-run",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

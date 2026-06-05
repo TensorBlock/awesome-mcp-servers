@@ -1,0 +1,24 @@
+{
+  "id": "github-ivlad003-jira-mcp-py-4652fb85",
+  "name": "Ivlad003/jira_mcp_py",
+  "description": "Integrates Jira with LLMs like Claude, enabling JQL queries and detailed ticket retrieval.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-ivlad003-jira-mcp-py-4652fb85",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ivlad003-jira-mcp-py-4652fb85)",
+  "links": {
+    "primary": "https://github.com/Ivlad003/jira_mcp_py",
+    "repo": "https://github.com/Ivlad003/jira_mcp_py",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

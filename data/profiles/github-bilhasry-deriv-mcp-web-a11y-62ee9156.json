@@ -1,0 +1,24 @@
+{
+  "id": "github-bilhasry-deriv-mcp-web-a11y-62ee9156",
+  "name": "bilhasry-deriv/mcp-web-a11y",
+  "description": "Provides web accessibility analysis using axe-core and Puppeteer, with features like color blindness simulation and detailed violation reporting.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-bilhasry-deriv-mcp-web-a11y-62ee9156",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bilhasry-deriv-mcp-web-a11y-62ee9156)",
+  "links": {
+    "primary": "https://github.com/bilhasry-deriv/mcp-web-a11y",
+    "repo": "https://github.com/bilhasry-deriv/mcp-web-a11y",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

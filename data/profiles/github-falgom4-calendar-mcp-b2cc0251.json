@@ -1,0 +1,24 @@
+{
+  "id": "github-falgom4-calendar-mcp-b2cc0251",
+  "name": "falgom4/calendar-mcp",
+  "description": "Facilitates AI-driven management of Google Calendar with seamless authentication and natural language processing.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-falgom4-calendar-mcp-b2cc0251",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-falgom4-calendar-mcp-b2cc0251)",
+  "links": {
+    "primary": "https://github.com/falgom4/calendar-mcp",
+    "repo": "https://github.com/falgom4/calendar-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-sawa-zen-vrchat-mcp-1371dd4a",
+  "name": "sawa-zen/vrchat-mcp",
+  "description": "Facilitates structured interaction with the VRChat API, enabling user authentication, data retrieval, and more through a standardized protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-sawa-zen-vrchat-mcp-1371dd4a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sawa-zen-vrchat-mcp-1371dd4a)",
+  "links": {
+    "primary": "https://github.com/sawa-zen/vrchat-mcp",
+    "repo": "https://github.com/sawa-zen/vrchat-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

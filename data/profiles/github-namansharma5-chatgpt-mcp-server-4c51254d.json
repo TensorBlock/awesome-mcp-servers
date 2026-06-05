@@ -1,0 +1,24 @@
+{
+  "id": "github-namansharma5-chatgpt-mcp-server-4c51254d",
+  "name": "NamanSharma5/chatgpt_mcp_server",
+  "description": "Facilitates shared memory for models using ChatGPT's memory capabilities, enabling integration with applications like Claude Desktop App.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-namansharma5-chatgpt-mcp-server-4c51254d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-namansharma5-chatgpt-mcp-server-4c51254d)",
+  "links": {
+    "primary": "https://github.com/NamanSharma5/chatgpt_mcp_server",
+    "repo": "https://github.com/NamanSharma5/chatgpt_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

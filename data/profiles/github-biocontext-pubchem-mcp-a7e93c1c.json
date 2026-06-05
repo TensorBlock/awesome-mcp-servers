@@ -1,0 +1,24 @@
+{
+  "id": "github-biocontext-pubchem-mcp-a7e93c1c",
+  "name": "BioContext/PubChem-MCP",
+  "description": "Access PubChem data for compounds, substances, and bioassays through a Model Context Protocol server.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-biocontext-pubchem-mcp-a7e93c1c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-biocontext-pubchem-mcp-a7e93c1c)",
+  "links": {
+    "primary": "https://github.com/BioContext/PubChem-MCP",
+    "repo": "https://github.com/BioContext/PubChem-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

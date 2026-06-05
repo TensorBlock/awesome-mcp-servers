@@ -1,0 +1,24 @@
+{
+  "id": "github-abhiz123-todoist-mcp-server-7be17ed9",
+  "name": "abhiz123/todoist-mcp-server",
+  "description": "Integrates Claude with Todoist for seamless natural language task management.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-abhiz123-todoist-mcp-server-7be17ed9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abhiz123-todoist-mcp-server-7be17ed9)",
+  "links": {
+    "primary": "https://github.com/abhiz123/todoist-mcp-server",
+    "repo": "https://github.com/abhiz123/todoist-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

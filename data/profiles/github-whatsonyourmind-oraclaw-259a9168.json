@@ -1,0 +1,24 @@
+{
+  "id": "github-whatsonyourmind-oraclaw-259a9168",
+  "name": "Whatsonyourmind/oraclaw",
+  "description": "Decision intelligence for AI agents — 19 algorithms (bandits, constraint solvers, Monte Carlo simulation, forecasting, anomaly detection, risk analysis), 12 MCP tools, sub-25ms, zero LLM cost. Install: `npx @oraclaw/mcp-server`.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-whatsonyourmind-oraclaw-259a9168",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-whatsonyourmind-oraclaw-259a9168)",
+  "links": {
+    "primary": "https://github.com/Whatsonyourmind/oraclaw",
+    "repo": "https://github.com/Whatsonyourmind/oraclaw",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": 12
+  }
+}

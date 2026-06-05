@@ -1,0 +1,24 @@
+{
+  "id": "github-smithery-ai-drink-the-koolaid-2e2f4222",
+  "name": "smithery-ai/dRiNk-ThE-kOoLaId",
+  "description": "Deepseek R1 offers untamed browser automation with real-time AI-driven computer vision, transforming the digital landscape.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-smithery-ai-drink-the-koolaid-2e2f4222",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-smithery-ai-drink-the-koolaid-2e2f4222)",
+  "links": {
+    "primary": "https://github.com/smithery-ai/dRiNk-ThE-kOoLaId",
+    "repo": "https://github.com/smithery-ai/dRiNk-ThE-kOoLaId",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

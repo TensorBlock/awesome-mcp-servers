@@ -1,0 +1,24 @@
+{
+  "id": "github-prereason-mcp-db65d77a",
+  "name": "PreReason/mcp",
+  "description": "Pre-analyzed financial market briefings for AI agents. Returns trend signals, regime classification, and confidence scores instead of raw price feeds. 17 briefings covering BTC, macro, and cross-asset data. Markdown-first output, also available via REST API and x402 pay-per-call.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-prereason-mcp-db65d77a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-prereason-mcp-db65d77a)",
+  "links": {
+    "primary": "https://github.com/PreReason/mcp",
+    "repo": "https://github.com/PreReason/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

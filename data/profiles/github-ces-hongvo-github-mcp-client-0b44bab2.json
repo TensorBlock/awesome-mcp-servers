@@ -1,0 +1,24 @@
+{
+  "id": "github-ces-hongvo-github-mcp-client-0b44bab2",
+  "name": "ces-hongvo/github-mcp-client",
+  "description": "Demonstrates integration of Spring AI with MCP servers for tool execution and chat capabilities in a Spring Boot application.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-ces-hongvo-github-mcp-client-0b44bab2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ces-hongvo-github-mcp-client-0b44bab2)",
+  "links": {
+    "primary": "https://github.com/ces-hongvo/github-mcp-client",
+    "repo": "https://github.com/ces-hongvo/github-mcp-client",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

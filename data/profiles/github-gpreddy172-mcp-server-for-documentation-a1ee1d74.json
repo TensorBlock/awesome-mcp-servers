@@ -1,0 +1,24 @@
+{
+  "id": "github-gpreddy172-mcp-server-for-documentation-a1ee1d74",
+  "name": "gpreddy172/MCP-Server-for-Documentation",
+  "description": "Facilitates searching for the latest documentation across various libraries using a standardized protocol.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-gpreddy172-mcp-server-for-documentation-a1ee1d74",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gpreddy172-mcp-server-for-documentation-a1ee1d74)",
+  "links": {
+    "primary": "https://github.com/gpreddy172/MCP-Server-for-Documentation",
+    "repo": "https://github.com/gpreddy172/MCP-Server-for-Documentation",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

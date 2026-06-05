@@ -1,0 +1,24 @@
+{
+  "id": "github-sanweiw-xuemcp-20b84ea6",
+  "name": "sanweiw/XueMCP",
+  "description": "A TypeScript-based MCP server for recording and summarizing notes in Feishu, featuring note creation and summarization tools.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-sanweiw-xuemcp-20b84ea6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sanweiw-xuemcp-20b84ea6)",
+  "links": {
+    "primary": "https://github.com/sanweiw/XueMCP",
+    "repo": "https://github.com/sanweiw/XueMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

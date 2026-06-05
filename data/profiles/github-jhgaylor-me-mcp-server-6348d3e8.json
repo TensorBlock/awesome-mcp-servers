@@ -1,0 +1,24 @@
+{
+  "id": "github-jhgaylor-me-mcp-server-6348d3e8",
+  "name": "jhgaylor/me_mcp_server",
+  "description": "Facilitates personalized job search and profile management through a Model Context Protocol server.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-jhgaylor-me-mcp-server-6348d3e8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jhgaylor-me-mcp-server-6348d3e8)",
+  "links": {
+    "primary": "https://github.com/jhgaylor/me_mcp_server",
+    "repo": "https://github.com/jhgaylor/me_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

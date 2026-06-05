@@ -1,0 +1,24 @@
+{
+  "id": "github-codergamester-mcp-unity-3e7f0193",
+  "name": "CoderGamester/mcp-unity",
+  "description": "Integrates Unity Editor with AI model clients, enabling seamless interaction and execution of operations within Unity projects.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-codergamester-mcp-unity-3e7f0193",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-codergamester-mcp-unity-3e7f0193)",
+  "links": {
+    "primary": "https://github.com/CoderGamester/mcp-unity",
+    "repo": "https://github.com/CoderGamester/mcp-unity",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

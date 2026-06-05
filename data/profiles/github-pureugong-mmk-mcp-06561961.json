@@ -1,0 +1,24 @@
+{
+  "id": "github-pureugong-mmk-mcp-06561961",
+  "name": "pureugong/mmk-mcp",
+  "description": "Facilitates AI assistants in retrieving Magic Meal Kits server version information through a secure MCP server interface.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-pureugong-mmk-mcp-06561961",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pureugong-mmk-mcp-06561961)",
+  "links": {
+    "primary": "https://github.com/pureugong/mmk-mcp",
+    "repo": "https://github.com/pureugong/mmk-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

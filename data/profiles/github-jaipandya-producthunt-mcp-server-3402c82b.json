@@ -1,0 +1,24 @@
+{
+  "id": "github-jaipandya-producthunt-mcp-server-3402c82b",
+  "name": "jaipandya/producthunt-mcp-server",
+  "description": "Connects Product Hunt's API to any LLM or agent using the Model Context Protocol for seamless data integration and automation.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-jaipandya-producthunt-mcp-server-3402c82b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jaipandya-producthunt-mcp-server-3402c82b)",
+  "links": {
+    "primary": "https://github.com/jaipandya/producthunt-mcp-server",
+    "repo": "https://github.com/jaipandya/producthunt-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

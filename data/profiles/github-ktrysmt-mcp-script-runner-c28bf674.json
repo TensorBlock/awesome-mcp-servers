@@ -1,0 +1,24 @@
+{
+  "id": "github-ktrysmt-mcp-script-runner-c28bf674",
+  "name": "ktrysmt/mcp-script-runner",
+  "description": "Facilitates the execution of shell scripts as tools within a designated directory using MCP server capabilities.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-ktrysmt-mcp-script-runner-c28bf674",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ktrysmt-mcp-script-runner-c28bf674)",
+  "links": {
+    "primary": "https://github.com/ktrysmt/mcp-script-runner",
+    "repo": "https://github.com/ktrysmt/mcp-script-runner",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

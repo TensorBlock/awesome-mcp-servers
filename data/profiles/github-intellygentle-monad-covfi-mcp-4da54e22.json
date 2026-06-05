@@ -1,0 +1,24 @@
+{
+  "id": "github-intellygentle-monad-covfi-mcp-4da54e22",
+  "name": "intellygentle/monad-covFi-mcp",
+  "description": "Monad-covFi-mcp facilitates the setup and execution of MCP servers using Node.js, with integration capabilities for Claude and environment configuration.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-intellygentle-monad-covfi-mcp-4da54e22",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-intellygentle-monad-covfi-mcp-4da54e22)",
+  "links": {
+    "primary": "https://github.com/intellygentle/monad-covFi-mcp",
+    "repo": "https://github.com/intellygentle/monad-covFi-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

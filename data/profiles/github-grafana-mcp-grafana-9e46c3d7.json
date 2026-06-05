@@ -1,0 +1,24 @@
+{
+  "id": "github-grafana-mcp-grafana-9e46c3d7",
+  "name": "grafana/mcp-grafana",
+  "description": "Facilitates interaction with Grafana's ecosystem, enabling dashboard searches, datasource queries, and incident management through MCP.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-grafana-mcp-grafana-9e46c3d7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-grafana-mcp-grafana-9e46c3d7)",
+  "links": {
+    "primary": "https://github.com/grafana/mcp-grafana",
+    "repo": "https://github.com/grafana/mcp-grafana",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
