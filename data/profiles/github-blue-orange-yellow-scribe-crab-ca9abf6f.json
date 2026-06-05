@@ -1,0 +1,24 @@
+{
+  "id": "github-blue-orange-yellow-scribe-crab-ca9abf6f",
+  "name": "blue-orange-yellow/scribe-crab",
+  "description": "Generates customizable documentation comments for Rust functions, enhancing code documentation workflows.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-blue-orange-yellow-scribe-crab-ca9abf6f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-blue-orange-yellow-scribe-crab-ca9abf6f)",
+  "links": {
+    "primary": "https://github.com/blue-orange-yellow/scribe-crab",
+    "repo": "https://github.com/blue-orange-yellow/scribe-crab",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

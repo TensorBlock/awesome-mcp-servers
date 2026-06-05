@@ -1,0 +1,24 @@
+{
+  "id": "github-cloudsyncer303-inside-a44b5109",
+  "name": "cloudsyncer303/inside",
+  "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-cloudsyncer303-inside-a44b5109",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cloudsyncer303-inside-a44b5109)",
+  "links": {
+    "primary": "https://github.com/cloudsyncer303/inside",
+    "repo": "https://github.com/cloudsyncer303/inside",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

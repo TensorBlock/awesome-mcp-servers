@@ -1,0 +1,24 @@
+{
+  "id": "github-fugle-dev-fugle-marketdata-mcp-server-12b9f264",
+  "name": "fugle-dev/fugle-marketdata-mcp-server",
+  "description": "Facilitates interaction with the Fugle trading system for real-time and historical stock market data queries.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-fugle-dev-fugle-marketdata-mcp-server-12b9f264",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fugle-dev-fugle-marketdata-mcp-server-12b9f264)",
+  "links": {
+    "primary": "https://github.com/fugle-dev/fugle-marketdata-mcp-server",
+    "repo": "https://github.com/fugle-dev/fugle-marketdata-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

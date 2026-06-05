@@ -1,0 +1,24 @@
+{
+  "id": "github-tedostrem-home-assistant-mcp-color-e7d3c523",
+  "name": "tedostrem/home-assistant-mcp-color",
+  "description": "Facilitates AI-driven control of Home Assistant devices using natural language commands via MCP integration.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-tedostrem-home-assistant-mcp-color-e7d3c523",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tedostrem-home-assistant-mcp-color-e7d3c523)",
+  "links": {
+    "primary": "https://github.com/tedostrem/home-assistant-mcp-color",
+    "repo": "https://github.com/tedostrem/home-assistant-mcp-color",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

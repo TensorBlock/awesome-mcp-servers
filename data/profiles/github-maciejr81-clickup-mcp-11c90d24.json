@@ -1,0 +1,24 @@
+{
+  "id": "github-maciejr81-clickup-mcp-11c90d24",
+  "name": "maciejr81/clickup-mcp",
+  "description": "Facilitates seamless integration between LLMs and ClickUp through a robust MCP server, leveraging ClickUp API endpoints for enhanced task and project management.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-maciejr81-clickup-mcp-11c90d24",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maciejr81-clickup-mcp-11c90d24)",
+  "links": {
+    "primary": "https://github.com/maciejr81/clickup-mcp",
+    "repo": "https://github.com/maciejr81/clickup-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

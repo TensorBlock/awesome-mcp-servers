@@ -1,0 +1,24 @@
+{
+  "id": "github-loglmhq-mcp-server-github-repo-a57bbfc0",
+  "name": "loglmhq/mcp-server-github-repo",
+  "description": "Facilitates AI assistants in browsing and reading files from GitHub repositories through an MCP server interface.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-loglmhq-mcp-server-github-repo-a57bbfc0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-loglmhq-mcp-server-github-repo-a57bbfc0)",
+  "links": {
+    "primary": "https://github.com/loglmhq/mcp-server-github-repo",
+    "repo": "https://github.com/loglmhq/mcp-server-github-repo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

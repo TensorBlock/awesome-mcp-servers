@@ -1,0 +1,24 @@
+{
+  "id": "github-yorkchanpru-mcp-ssh-94c0fa8a",
+  "name": "yorkchanpru/mcp-ssh",
+  "description": "Facilitates secure SSH access and command execution on remote virtual machines with comprehensive session management and error handling.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-yorkchanpru-mcp-ssh-94c0fa8a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yorkchanpru-mcp-ssh-94c0fa8a)",
+  "links": {
+    "primary": "https://github.com/yorkchanpru/mcp-ssh",
+    "repo": "https://github.com/yorkchanpru/mcp-ssh",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

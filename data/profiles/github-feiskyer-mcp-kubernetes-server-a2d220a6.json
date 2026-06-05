@@ -1,0 +1,24 @@
+{
+  "id": "github-feiskyer-mcp-kubernetes-server-a2d220a6",
+  "name": "feiskyer/mcp-kubernetes-server",
+  "description": "Facilitates Kubernetes cluster management through MCP server integration with kubectl.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-feiskyer-mcp-kubernetes-server-a2d220a6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-feiskyer-mcp-kubernetes-server-a2d220a6)",
+  "links": {
+    "primary": "https://github.com/feiskyer/mcp-kubernetes-server",
+    "repo": "https://github.com/feiskyer/mcp-kubernetes-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

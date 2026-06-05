@@ -1,0 +1,24 @@
+{
+  "id": "github-jamesfeng2009-mcp-server-flomo-e228536b",
+  "name": "jamesfeng2009/mcp-server-flomo",
+  "description": "A TypeScript-based server for recording and managing notes in Flomo, featuring note creation and summarization tools.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-jamesfeng2009-mcp-server-flomo-e228536b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jamesfeng2009-mcp-server-flomo-e228536b)",
+  "links": {
+    "primary": "https://github.com/jamesfeng2009/mcp-server-flomo",
+    "repo": "https://github.com/jamesfeng2009/mcp-server-flomo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

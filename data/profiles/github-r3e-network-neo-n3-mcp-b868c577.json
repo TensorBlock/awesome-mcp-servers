@@ -1,0 +1,24 @@
+{
+  "id": "github-r3e-network-neo-n3-mcp-b868c577",
+  "name": "r3e-network/neo-n3-mcp",
+  "description": "Facilitates seamless interaction with the Neo N3 blockchain, enabling operations like wallet management, asset transfers, and smart contract invocation.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-r3e-network-neo-n3-mcp-b868c577",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-r3e-network-neo-n3-mcp-b868c577)",
+  "links": {
+    "primary": "https://github.com/r3e-network/neo-n3-mcp",
+    "repo": "https://github.com/r3e-network/neo-n3-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

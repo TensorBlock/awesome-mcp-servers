@@ -1,0 +1,24 @@
+{
+  "id": "github-sammcj-mcp-aws-kb-4b8ec93c",
+  "name": "sammcj/mcp-aws-kb",
+  "description": "Facilitates retrieval of information from AWS Knowledge Base using Bedrock Agent Runtime with support for RAG and multiple result retrieval.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-sammcj-mcp-aws-kb-4b8ec93c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sammcj-mcp-aws-kb-4b8ec93c)",
+  "links": {
+    "primary": "https://github.com/sammcj/mcp-aws-kb",
+    "repo": "https://github.com/sammcj/mcp-aws-kb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

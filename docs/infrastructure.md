@@ -2,6 +2,7 @@
 
 Servers or systems that deliver core runtime functionalities for MCP, such as proxying, aggregation, orchestration, hosting, routing, or acting as gateways.
 
+- [us-all/unifi-mcp-server](https://github.com/us-all/unifi-mcp-server) - UniFi semantic-analysis MCP server with 54 tools on top of Site Manager API and Cloud Connector. 8 workflow Prompts (4 fleet-ops + 4 MSP). Anomaly detection, fleet health, cross-site analytics. Read-only.
 - [adw0rd/awesome-mcp-tools-mcp](https://github.com/adw0rd/awesome-mcp-tools-mcp): Hosted MCP server exposing the [awesome-mcp.tools](https://awesome-mcp.tools) catalog of 2,000+ MCP servers as searchable tools — search, compare, top, trending, hot. Refreshed every 6h. Includes a CLI (`npx awesome-mcp search postgres`) and a stdio↔HTTP bridge (`npx -y -p awesome-mcp awesome-mcp-bridge`) for clients without remote-URL support. Endpoint: `https://awesome-mcp.tools/mcp` (Streamable HTTP, no auth).
 - [lijian-ui/vcenter-mcp-server](https://github.com/lijian-ui/vcenter-mcp-server): Facilitates seamless integration with vCenter Server for efficient virtual machine management, including migration and information retrieval.
 - [chris-sun-star/mcp-server-k8s](https://github.com/chris-sun-star/mcp-server-k8s): Facilitates Kubernetes integration with Claude Desktop through a simple MCP server setup.
@@ -154,4 +155,11 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes): Facilitates Kubernetes cluster management through a robust MCP server, enabling seamless interaction with Kubernetes resources and Helm charts.
 - [netcaster1/e2b-mcp](https://github.com/netcaster1/e2b-mcp): A secure sandbox environment for executing code using the Model Context Protocol, tailored for integration with Claude Desktop.
 - [kswap/consul-mcp](https://github.com/kswap/consul-mcp): Facilitates Consul service discovery and mesh integration through an MCP server interface.
+- [daedalus/mcp-mdns](https://github.com/daedalus/mcp-mdns) - MCP server for mDNS (Multicast DNS) service discovery.
+- [daedalus/mcp-ntp-server](https://github.com/daedalus/mcp-ntp-server) - MCP server providing NTP time synchronization tools for AI agents.
+- [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go): Local-first MCP proxy/gateway with BM25 tool discovery (~99% token savings), security quarantine (tool-poisoning protection), sensitive-data scanning, Docker isolation, OAuth 2.1, and a web UI.
 
+
+- [agiletec-inc/airis-mcp-gateway](https://github.com/agiletec-inc/airis-mcp-gateway): Docker-based MCP multiplexer that aggregates 60+ tools behind 7 meta-tools for 97% token reduction, with lazy server loading, idle-kill, circuit breaker, and API key auth.
+- [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle): Self-hosted MCP Registry and Gateway for AI Agents
+- [stucchi/mcp-advisor](https://github.com/stucchi/mcp-advisor): Browse, search, and discover 7,000+ MCP servers from the official registry. Search by name, tag, or transport, get install instructions for any client, and view trending servers.

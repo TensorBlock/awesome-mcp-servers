@@ -1,0 +1,24 @@
+{
+  "id": "github-severity1-terraform-cloud-mcp-023b4d34",
+  "name": "severity1/terraform-cloud-mcp",
+  "description": "Integrates AI assistants with Terraform Cloud API for infrastructure management through natural conversation.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-severity1-terraform-cloud-mcp-023b4d34",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-severity1-terraform-cloud-mcp-023b4d34)",
+  "links": {
+    "primary": "https://github.com/severity1/terraform-cloud-mcp",
+    "repo": "https://github.com/severity1/terraform-cloud-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

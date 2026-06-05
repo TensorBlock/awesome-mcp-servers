@@ -1,0 +1,24 @@
+{
+  "id": "github-rayato159-your-money-left-the-chat-b410694a",
+  "name": "Rayato159/your-money-left-the-chat",
+  "description": "A Rust-native financial tracker that uses MCP to log and analyze spending habits through natural language conversations, all stored locally with SQLite.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-rayato159-your-money-left-the-chat-b410694a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rayato159-your-money-left-the-chat-b410694a)",
+  "links": {
+    "primary": "https://github.com/Rayato159/your-money-left-the-chat",
+    "repo": "https://github.com/Rayato159/your-money-left-the-chat",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

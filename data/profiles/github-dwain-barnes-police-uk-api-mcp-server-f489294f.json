@@ -1,0 +1,24 @@
+{
+  "id": "github-dwain-barnes-police-uk-api-mcp-server-f489294f",
+  "name": "dwain-barnes/police-uk-api-mcp-server",
+  "description": "Access and interact with the police.uk API using a Python-based MCP server, offering comprehensive tools for crime data retrieval and analysis.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-dwain-barnes-police-uk-api-mcp-server-f489294f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dwain-barnes-police-uk-api-mcp-server-f489294f)",
+  "links": {
+    "primary": "https://github.com/dwain-barnes/police-uk-api-mcp-server",
+    "repo": "https://github.com/dwain-barnes/police-uk-api-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-raohai-a11y-mcp-a10a551d",
+  "name": "RaoHai/a11y-mcp",
+  "description": "Enhances accessibility testing and improvements for Claude Desktop and other MCP-supported code agents, ensuring compliance with accessibility standards.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-raohai-a11y-mcp-a10a551d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-raohai-a11y-mcp-a10a551d)",
+  "links": {
+    "primary": "https://github.com/RaoHai/a11y-mcp",
+    "repo": "https://github.com/RaoHai/a11y-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

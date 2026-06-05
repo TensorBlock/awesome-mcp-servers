@@ -1,0 +1,24 @@
+{
+  "id": "github-adarshem-mcp-server-learn-bda09d32",
+  "name": "adarshem/mcp-server-learn",
+  "description": "A Node.js-based MCP server offering weather alerts and forecasts using the US National Weather Service API.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-adarshem-mcp-server-learn-bda09d32",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adarshem-mcp-server-learn-bda09d32)",
+  "links": {
+    "primary": "https://github.com/adarshem/mcp-server-learn",
+    "repo": "https://github.com/adarshem/mcp-server-learn",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

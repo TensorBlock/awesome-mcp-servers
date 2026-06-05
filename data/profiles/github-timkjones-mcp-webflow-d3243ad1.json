@@ -1,0 +1,24 @@
+{
+  "id": "github-timkjones-mcp-webflow-d3243ad1",
+  "name": "TimKJones/mcp-webflow",
+  "description": "Facilitates interaction between Claude and Webflow APIs, enabling site and collection management through a dedicated MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-timkjones-mcp-webflow-d3243ad1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-timkjones-mcp-webflow-d3243ad1)",
+  "links": {
+    "primary": "https://github.com/TimKJones/mcp-webflow",
+    "repo": "https://github.com/TimKJones/mcp-webflow",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

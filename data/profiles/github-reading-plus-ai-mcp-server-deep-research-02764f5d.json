@@ -1,0 +1,24 @@
+{
+  "id": "github-reading-plus-ai-mcp-server-deep-research-02764f5d",
+  "name": "reading-plus-ai/mcp-server-deep-research",
+  "description": "Facilitates in-depth research by transforming questions into structured, well-cited reports using an MCP server.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-reading-plus-ai-mcp-server-deep-research-02764f5d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-reading-plus-ai-mcp-server-deep-research-02764f5d)",
+  "links": {
+    "primary": "https://github.com/reading-plus-ai/mcp-server-deep-research",
+    "repo": "https://github.com/reading-plus-ai/mcp-server-deep-research",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

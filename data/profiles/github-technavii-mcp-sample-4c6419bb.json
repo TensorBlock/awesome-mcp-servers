@@ -1,0 +1,24 @@
+{
+  "id": "github-technavii-mcp-sample-4c6419bb",
+  "name": "TechNavii/mcp_sample",
+  "description": "A Claude MCP server enabling text saving to local files with robust security and error handling features.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-technavii-mcp-sample-4c6419bb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-technavii-mcp-sample-4c6419bb)",
+  "links": {
+    "primary": "https://github.com/TechNavii/mcp_sample",
+    "repo": "https://github.com/TechNavii/mcp_sample",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

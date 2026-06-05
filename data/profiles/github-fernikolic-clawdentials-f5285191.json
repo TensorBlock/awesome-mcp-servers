@@ -1,0 +1,24 @@
+{
+  "id": "github-fernikolic-clawdentials-f5285191",
+  "name": "fernikolic/clawdentials",
+  "description": "Trust layer for agent commerce with escrow, reputation, and payments. Enables AI agents to accept paid tasks with guaranteed payment, build verifiable reputation, and earn money in USDC, USDT, or BTC.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-fernikolic-clawdentials-f5285191",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fernikolic-clawdentials-f5285191)",
+  "links": {
+    "primary": "https://github.com/fernikolic/clawdentials",
+    "repo": "https://github.com/fernikolic/clawdentials",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

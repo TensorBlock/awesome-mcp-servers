@@ -1,0 +1,24 @@
+{
+  "id": "github-mgomes-kagimcp-go-8f905845",
+  "name": "mgomes/kagimcp-go",
+  "description": "A Go-based server enabling LLMs to leverage Kagi's search and summarization APIs for web exploration and content summarization.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-mgomes-kagimcp-go-8f905845",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mgomes-kagimcp-go-8f905845)",
+  "links": {
+    "primary": "https://github.com/mgomes/kagimcp-go",
+    "repo": "https://github.com/mgomes/kagimcp-go",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

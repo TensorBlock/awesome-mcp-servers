@@ -1,0 +1,24 @@
+{
+  "id": "github-apridachin-kagi-search-mcp-9f2be5d1",
+  "name": "apridachin/kagi-search-mcp",
+  "description": "Facilitates web searches using the Kagi API to enhance model context with web and news content.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-apridachin-kagi-search-mcp-9f2be5d1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-apridachin-kagi-search-mcp-9f2be5d1)",
+  "links": {
+    "primary": "https://github.com/apridachin/kagi-search-mcp",
+    "repo": "https://github.com/apridachin/kagi-search-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

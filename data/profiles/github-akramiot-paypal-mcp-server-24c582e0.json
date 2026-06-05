@@ -1,0 +1,24 @@
+{
+  "id": "github-akramiot-paypal-mcp-server-24c582e0",
+  "name": "akramIOT/paypal_mcp_server",
+  "description": "Facilitates seamless interaction between LLMs and PayPal APIs through a Python-based MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-akramiot-paypal-mcp-server-24c582e0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-akramiot-paypal-mcp-server-24c582e0)",
+  "links": {
+    "primary": "https://github.com/akramIOT/paypal_mcp_server",
+    "repo": "https://github.com/akramIOT/paypal_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-ptna-mcp-ptna-news-026ff7d9",
+  "name": "PTNA/mcp-ptna-news",
+  "description": "Facilitates access to the latest news from the All Japan Piano Teachers Association with category filtering capabilities.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-ptna-mcp-ptna-news-026ff7d9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ptna-mcp-ptna-news-026ff7d9)",
+  "links": {
+    "primary": "https://github.com/PTNA/mcp-ptna-news",
+    "repo": "https://github.com/PTNA/mcp-ptna-news",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

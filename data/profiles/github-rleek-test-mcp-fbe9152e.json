@@ -1,0 +1,24 @@
+{
+  "id": "github-rleek-test-mcp-fbe9152e",
+  "name": "RLeek/test-mcp",
+  "description": "Facilitates GitHub API interactions with advanced file operations, repository management, and search capabilities.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-rleek-test-mcp-fbe9152e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rleek-test-mcp-fbe9152e)",
+  "links": {
+    "primary": "https://github.com/RLeek/test-mcp",
+    "repo": "https://github.com/RLeek/test-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

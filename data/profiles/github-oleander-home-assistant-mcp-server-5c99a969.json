@@ -1,0 +1,24 @@
+{
+  "id": "github-oleander-home-assistant-mcp-server-5c99a969",
+  "name": "oleander/home-assistant-mcp-server",
+  "description": "Integrates Home Assistant with LLMs for smart home control and querying via natural language.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-oleander-home-assistant-mcp-server-5c99a969",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-oleander-home-assistant-mcp-server-5c99a969)",
+  "links": {
+    "primary": "https://github.com/oleander/home-assistant-mcp-server",
+    "repo": "https://github.com/oleander/home-assistant-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

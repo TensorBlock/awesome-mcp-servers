@@ -1,0 +1,24 @@
+{
+  "id": "github-revit-mcp-revit-mcp-896086ab",
+  "name": "revit-mcp/revit-mcp",
+  "description": "Facilitates AI-driven interactions with Revit for creating, modifying, and managing architectural elements via the MCP protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-revit-mcp-revit-mcp-896086ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-revit-mcp-revit-mcp-896086ab)",
+  "links": {
+    "primary": "https://github.com/revit-mcp/revit-mcp",
+    "repo": "https://github.com/revit-mcp/revit-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
