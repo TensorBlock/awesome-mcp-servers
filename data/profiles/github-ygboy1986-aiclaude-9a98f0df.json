@@ -1,0 +1,24 @@
+{
+  "id": "github-ygboy1986-aiclaude-9a98f0df",
+  "name": "ygboy1986/AIClaude",
+  "description": "Integrates DeepSeek R1's advanced reasoning engine with Claude to enhance complex reasoning tasks.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ygboy1986-aiclaude-9a98f0df",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ygboy1986-aiclaude-9a98f0df)",
+  "links": {
+    "primary": "https://github.com/ygboy1986/AIClaude",
+    "repo": "https://github.com/ygboy1986/AIClaude",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

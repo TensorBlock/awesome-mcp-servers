@@ -1,0 +1,24 @@
+{
+  "id": "github-karoterra-aviutl-mcp-f1267859",
+  "name": "karoterra/aviutl-mcp",
+  "description": "Facilitates the control of AviUtl through MCP, enabling seamless integration with various MCP hosts like Claude Desktop.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-karoterra-aviutl-mcp-f1267859",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-karoterra-aviutl-mcp-f1267859)",
+  "links": {
+    "primary": "https://github.com/karoterra/aviutl-mcp",
+    "repo": "https://github.com/karoterra/aviutl-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

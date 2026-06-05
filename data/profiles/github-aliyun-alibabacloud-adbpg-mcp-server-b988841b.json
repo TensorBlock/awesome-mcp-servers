@@ -1,0 +1,24 @@
+{
+  "id": "github-aliyun-alibabacloud-adbpg-mcp-server-b988841b",
+  "name": "aliyun/alibabacloud-adbpg-mcp-server",
+  "description": "Facilitates seamless interaction between AI Agents and AnalyticDB PostgreSQL databases for executing SQL operations and retrieving metadata.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-aliyun-alibabacloud-adbpg-mcp-server-b988841b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aliyun-alibabacloud-adbpg-mcp-server-b988841b)",
+  "links": {
+    "primary": "https://github.com/aliyun/alibabacloud-adbpg-mcp-server",
+    "repo": "https://github.com/aliyun/alibabacloud-adbpg-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

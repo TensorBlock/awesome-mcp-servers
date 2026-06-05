@@ -1,0 +1,24 @@
+{
+  "id": "github-ymello-mcp-google-calendar-server-beba0bad",
+  "name": "ymello/mcp-google-calendar-server",
+  "description": "Facilitates interaction with Google Calendar events via CLI or SSE, enabling seamless calendar management.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-ymello-mcp-google-calendar-server-beba0bad",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ymello-mcp-google-calendar-server-beba0bad)",
+  "links": {
+    "primary": "https://github.com/ymello/mcp-google-calendar-server",
+    "repo": "https://github.com/ymello/mcp-google-calendar-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

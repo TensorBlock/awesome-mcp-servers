@@ -1,0 +1,24 @@
+{
+  "id": "github-grentank-mcp-server-gigachat-image-generation-256110cf",
+  "name": "grentank/mcp-server-gigachat-image-generation",
+  "description": "Facilitates image generation through a Dockerized MCP server with Gigachat integration.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-grentank-mcp-server-gigachat-image-generation-256110cf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-grentank-mcp-server-gigachat-image-generation-256110cf)",
+  "links": {
+    "primary": "https://github.com/grentank/mcp-server-gigachat-image-generation",
+    "repo": "https://github.com/grentank/mcp-server-gigachat-image-generation",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

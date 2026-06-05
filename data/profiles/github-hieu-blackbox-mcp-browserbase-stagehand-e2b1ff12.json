@@ -1,0 +1,24 @@
+{
+  "id": "github-hieu-blackbox-mcp-browserbase-stagehand-e2b1ff12",
+  "name": "hieu-blackbox/mcp-browserbase-stagehand",
+  "description": "Empowers LLMs with AI-driven web automation through Stagehand, enabling interaction, data extraction, and action observation in a real browser environment.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-hieu-blackbox-mcp-browserbase-stagehand-e2b1ff12",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hieu-blackbox-mcp-browserbase-stagehand-e2b1ff12)",
+  "links": {
+    "primary": "https://github.com/hieu-blackbox/mcp-browserbase-stagehand",
+    "repo": "https://github.com/hieu-blackbox/mcp-browserbase-stagehand",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

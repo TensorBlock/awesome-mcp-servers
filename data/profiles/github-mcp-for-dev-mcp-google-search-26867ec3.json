@@ -1,0 +1,24 @@
+{
+  "id": "github-mcp-for-dev-mcp-google-search-26867ec3",
+  "name": "mcp-for-dev/mcp-google-search",
+  "description": "Facilitates web search and content extraction using Google Custom Search API, providing structured results for enhanced data retrieval.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-mcp-for-dev-mcp-google-search-26867ec3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mcp-for-dev-mcp-google-search-26867ec3)",
+  "links": {
+    "primary": "https://github.com/mcp-for-dev/mcp-google-search",
+    "repo": "https://github.com/mcp-for-dev/mcp-google-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-944750720-chemican-mcp-38e044d1",
+  "name": "944750720/chemican-mcp",
+  "description": "Facilitates seamless integration with the Notion API, enabling automated content management and interaction through MCP protocol.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-944750720-chemican-mcp-38e044d1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-944750720-chemican-mcp-38e044d1)",
+  "links": {
+    "primary": "https://github.com/944750720/chemican-mcp",
+    "repo": "https://github.com/944750720/chemican-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

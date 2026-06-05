@@ -1,0 +1,24 @@
+{
+  "id": "github-lacri1-mcp-7bcf7384",
+  "name": "Lacri1/MCP",
+  "description": "Access real-time company information and stock prices through a configurable MCP server using Claude.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-lacri1-mcp-7bcf7384",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lacri1-mcp-7bcf7384)",
+  "links": {
+    "primary": "https://github.com/Lacri1/MCP",
+    "repo": "https://github.com/Lacri1/MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

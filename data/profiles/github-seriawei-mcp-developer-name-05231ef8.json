@@ -1,0 +1,24 @@
+{
+  "id": "github-seriawei-mcp-developer-name-05231ef8",
+  "name": "SeriaWei/MCP-Developer-Name",
+  "description": "Facilitates AI interactions by providing developer identity details through an MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-seriawei-mcp-developer-name-05231ef8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-seriawei-mcp-developer-name-05231ef8)",
+  "links": {
+    "primary": "https://github.com/SeriaWei/MCP-Developer-Name",
+    "repo": "https://github.com/SeriaWei/MCP-Developer-Name",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

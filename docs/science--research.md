@@ -108,4 +108,13 @@ Servers accessing scientific databases, research platforms, or providing tools f
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed): Facilitates access to PubMed articles via the Entrez API, enabling keyword searches and retrieval of abstracts and full texts for open access articles.
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv): Facilitates LLMs to search and access scientific papers on arXiv, providing metadata and abstracts through an MCP server.
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server): Facilitates AI-driven search and analysis of arXiv papers via a streamlined MCP interface.
+- [daedalus/mcp-gmpy2](https://github.com/daedalus/mcp-gmpy2) - MCP server exposing gmpy2 arbitrary precision arithmetic functions.
+- [daedalus/mcp-manimgl](https://github.com/daedalus/mcp-manimgl) - MCP server exposing manimgl mathematical animation functionality.
+- [daedalus/mcp-number-theory](https://github.com/daedalus/mcp-number-theory) - MCP server exposing number theory functions and factorization algorithms from RsaCtfTool.
+- [daedalus/mcp-numpy](https://github.com/daedalus/mcp-numpy) - An MCP server that exposes NumPy functionality.
+- [daedalus/mcp-oeis](https://github.com/daedalus/mcp-oeis) - MCP server for the OEIS (Online Encyclopedia of Integer Sequences) API.
+- [daedalus/mcp-parigp](https://github.com/daedalus/mcp-parigp) - MCP server exposing cypari2 (PARI/GP) number theory library.
+- [daedalus/mcp-qiskit](https://github.com/daedalus/mcp-qiskit) - MCP server exposing Qiskit quantum computing functionality.
+- [daedalus/mcp-sympy](https://github.com/daedalus/mcp-sympy) - MCP server that exposes SymPy's symbolic mathematics functionality.
+- [daedalus/mcp-z3-prover](https://github.com/daedalus/mcp-z3-prover) - MCP server exposing Z3 solver API.
 

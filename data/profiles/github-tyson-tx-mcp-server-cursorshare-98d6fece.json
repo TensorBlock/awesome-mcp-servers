@@ -1,0 +1,24 @@
+{
+  "id": "github-tyson-tx-mcp-server-cursorshare-98d6fece",
+  "name": "tyson-tx/mcp-server-cursorshare",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-tyson-tx-mcp-server-cursorshare-98d6fece",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tyson-tx-mcp-server-cursorshare-98d6fece)",
+  "links": {
+    "primary": "https://github.com/tyson-tx/mcp-server-cursorshare",
+    "repo": "https://github.com/tyson-tx/mcp-server-cursorshare",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

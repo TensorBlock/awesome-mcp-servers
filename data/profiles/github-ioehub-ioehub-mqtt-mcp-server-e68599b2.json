@@ -1,0 +1,24 @@
+{
+  "id": "github-ioehub-ioehub-mqtt-mcp-server-e68599b2",
+  "name": "ioehub/ioehub-mqtt-mcp-server",
+  "description": "Facilitates IoT device communication via MQTT for temperature sensing and LED control using FastMCP framework.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-ioehub-ioehub-mqtt-mcp-server-e68599b2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ioehub-ioehub-mqtt-mcp-server-e68599b2)",
+  "links": {
+    "primary": "https://github.com/ioehub/ioehub-mqtt-mcp-server",
+    "repo": "https://github.com/ioehub/ioehub-mqtt-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

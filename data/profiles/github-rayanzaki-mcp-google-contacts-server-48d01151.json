@@ -1,0 +1,24 @@
+{
+  "id": "github-rayanzaki-mcp-google-contacts-server-48d01151",
+  "name": "RayanZaki/mcp-google-contacts-server",
+  "description": "Facilitates AI-driven management and interaction with Google Contacts and Workspace directories through MCP.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-rayanzaki-mcp-google-contacts-server-48d01151",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rayanzaki-mcp-google-contacts-server-48d01151)",
+  "links": {
+    "primary": "https://github.com/RayanZaki/mcp-google-contacts-server",
+    "repo": "https://github.com/RayanZaki/mcp-google-contacts-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

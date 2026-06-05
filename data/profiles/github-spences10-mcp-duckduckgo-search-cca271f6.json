@@ -1,0 +1,24 @@
+{
+  "id": "github-spences10-mcp-duckduckgo-search-cca271f6",
+  "name": "spences10/mcp-duckduckgo-search",
+  "description": "Integrates DuckDuckGo search capabilities with LLMs, offering comprehensive web search functionality with various result types and filtering options.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-spences10-mcp-duckduckgo-search-cca271f6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-spences10-mcp-duckduckgo-search-cca271f6)",
+  "links": {
+    "primary": "https://github.com/spences10/mcp-duckduckgo-search",
+    "repo": "https://github.com/spences10/mcp-duckduckgo-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

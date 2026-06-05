@@ -1,0 +1,24 @@
+{
+  "id": "github-adilfayyaz-slack-search-d0a61f65",
+  "name": "AdilFayyaz/Slack-Search",
+  "description": "A local MCP server that enhances Slack search capabilities by integrating with Claude Desktop for intelligent, private querying of Slack export logs.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-adilfayyaz-slack-search-d0a61f65",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adilfayyaz-slack-search-d0a61f65)",
+  "links": {
+    "primary": "https://github.com/AdilFayyaz/Slack-Search",
+    "repo": "https://github.com/AdilFayyaz/Slack-Search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

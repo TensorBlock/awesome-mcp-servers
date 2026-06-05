@@ -1,0 +1,24 @@
+{
+  "id": "github-miura55-fastapi-mcp-workshop-94b710c7",
+  "name": "Miura55/fastapi-mcp-workshop",
+  "description": "A workshop sample code for implementing MCP using FastAPI, facilitating integration with mcp-proxy.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-miura55-fastapi-mcp-workshop-94b710c7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-miura55-fastapi-mcp-workshop-94b710c7)",
+  "links": {
+    "primary": "https://github.com/Miura55/fastapi-mcp-workshop",
+    "repo": "https://github.com/Miura55/fastapi-mcp-workshop",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

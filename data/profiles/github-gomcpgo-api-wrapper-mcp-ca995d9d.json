@@ -1,0 +1,24 @@
+{
+  "id": "github-gomcpgo-api-wrapper-mcp-ca995d9d",
+  "name": "gomcpgo/api-wrapper-mcp",
+  "description": "A versatile API wrapper server that transforms REST APIs into accessible MCP tools for seamless integration with Claude and other MCP clients.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-gomcpgo-api-wrapper-mcp-ca995d9d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gomcpgo-api-wrapper-mcp-ca995d9d)",
+  "links": {
+    "primary": "https://github.com/gomcpgo/api-wrapper-mcp",
+    "repo": "https://github.com/gomcpgo/api-wrapper-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

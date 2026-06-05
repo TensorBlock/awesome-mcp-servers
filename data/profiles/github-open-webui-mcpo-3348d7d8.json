@@ -1,0 +1,24 @@
+{
+  "id": "github-open-webui-mcpo-3348d7d8",
+  "name": "open-webui/mcpo",
+  "description": "mcpo transforms MCP server commands into OpenAPI-compatible HTTP endpoints, enhancing security and interoperability with AI tools.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-open-webui-mcpo-3348d7d8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-open-webui-mcpo-3348d7d8)",
+  "links": {
+    "primary": "https://github.com/open-webui/mcpo",
+    "repo": "https://github.com/open-webui/mcpo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

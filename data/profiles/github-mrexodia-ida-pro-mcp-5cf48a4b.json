@@ -1,0 +1,24 @@
+{
+  "id": "github-mrexodia-ida-pro-mcp-5cf48a4b",
+  "name": "mrexodia/ida-pro-mcp",
+  "description": "Facilitates reverse engineering in IDA Pro by providing a suite of tools for function analysis, metadata retrieval, and code manipulation.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-mrexodia-ida-pro-mcp-5cf48a4b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mrexodia-ida-pro-mcp-5cf48a4b)",
+  "links": {
+    "primary": "https://github.com/mrexodia/ida-pro-mcp",
+    "repo": "https://github.com/mrexodia/ida-pro-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

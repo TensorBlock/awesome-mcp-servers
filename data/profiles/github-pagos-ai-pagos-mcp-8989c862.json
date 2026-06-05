@@ -1,0 +1,24 @@
+{
+  "id": "github-pagos-ai-pagos-mcp-8989c862",
+  "name": "pagos-ai/pagos-mcp",
+  "description": "Facilitates retrieval of BIN data using Pagos API integration.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-pagos-ai-pagos-mcp-8989c862",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pagos-ai-pagos-mcp-8989c862)",
+  "links": {
+    "primary": "https://github.com/pagos-ai/pagos-mcp",
+    "repo": "https://github.com/pagos-ai/pagos-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
