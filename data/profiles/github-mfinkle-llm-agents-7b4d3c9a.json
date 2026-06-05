@@ -1,0 +1,24 @@
+{
+  "id": "github-mfinkle-llm-agents-7b4d3c9a",
+  "name": "mfinkle/llm-agents",
+  "description": "Explore the use of LLMs to build tool-using agents with a minimalist approach, featuring an MCP server for tool discovery and invocation.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-mfinkle-llm-agents-7b4d3c9a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mfinkle-llm-agents-7b4d3c9a)",
+  "links": {
+    "primary": "https://github.com/mfinkle/llm-agents",
+    "repo": "https://github.com/mfinkle/llm-agents",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

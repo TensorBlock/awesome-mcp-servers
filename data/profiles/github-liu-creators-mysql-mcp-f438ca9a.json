@@ -1,0 +1,24 @@
+{
+  "id": "github-liu-creators-mysql-mcp-f438ca9a",
+  "name": "Liu-creators/mysql-mcp",
+  "description": "A MySQL database tool leveraging the MCP framework to provide APIs for executing SQL queries and managing database structures.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-liu-creators-mysql-mcp-f438ca9a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-liu-creators-mysql-mcp-f438ca9a)",
+  "links": {
+    "primary": "https://github.com/Liu-creators/mysql-mcp",
+    "repo": "https://github.com/Liu-creators/mysql-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

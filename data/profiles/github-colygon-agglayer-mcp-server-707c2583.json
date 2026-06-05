@@ -1,0 +1,24 @@
+{
+  "id": "github-colygon-agglayer-mcp-server-707c2583",
+  "name": "colygon/agglayer-mcp-server",
+  "description": "Facilitates cross-chain interactions and liquidity management using the Agglayer settlement layer.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-colygon-agglayer-mcp-server-707c2583",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-colygon-agglayer-mcp-server-707c2583)",
+  "links": {
+    "primary": "https://github.com/colygon/agglayer-mcp-server",
+    "repo": "https://github.com/colygon/agglayer-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-adiletd-feature-request-collection-mcp-bdee68ab",
+  "name": "adiletD/feature-request-collection-mcp",
+  "description": "Facilitates querying the feature_suggestions table in Supabase through an MCP server, enabling integration with AI tools like Cursor and Claude Desktop.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-adiletd-feature-request-collection-mcp-bdee68ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adiletd-feature-request-collection-mcp-bdee68ab)",
+  "links": {
+    "primary": "https://github.com/adiletD/feature-request-collection-mcp",
+    "repo": "https://github.com/adiletD/feature-request-collection-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-justasmonkev-mcp-accessibility-scanner-ccd0c7f4",
+  "name": "JustasMonkev/mcp-accessibility-scanner",
+  "description": "Automates web accessibility scans using Playwright and Axe-core, providing WCAG compliance checks and detailed reports.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-justasmonkev-mcp-accessibility-scanner-ccd0c7f4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-justasmonkev-mcp-accessibility-scanner-ccd0c7f4)",
+  "links": {
+    "primary": "https://github.com/JustasMonkev/mcp-accessibility-scanner",
+    "repo": "https://github.com/JustasMonkev/mcp-accessibility-scanner",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

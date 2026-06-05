@@ -1,0 +1,24 @@
+{
+  "id": "github-smithery-ai-netskope-mcp-06b8b175",
+  "name": "smithery-ai/netskope-mcp",
+  "description": "Facilitates secure management of Netskope Network Private Access infrastructure using LLMs, enhancing Zero Trust Network Access capabilities.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-smithery-ai-netskope-mcp-06b8b175",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-smithery-ai-netskope-mcp-06b8b175)",
+  "links": {
+    "primary": "https://github.com/smithery-ai/netskope-mcp",
+    "repo": "https://github.com/smithery-ai/netskope-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

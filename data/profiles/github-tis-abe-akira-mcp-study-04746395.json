@@ -1,0 +1,24 @@
+{
+  "id": "github-tis-abe-akira-mcp-study-04746395",
+  "name": "tis-abe-akira/mcp-study",
+  "description": "A TypeScript-based MCP server offering a whimsical cowsay interface with random responses and multiple character modes.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-tis-abe-akira-mcp-study-04746395",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tis-abe-akira-mcp-study-04746395)",
+  "links": {
+    "primary": "https://github.com/tis-abe-akira/mcp-study",
+    "repo": "https://github.com/tis-abe-akira/mcp-study",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-purodelphi-mcpfirebird-4a70f326",
+  "name": "PuroDelphi/mcpFirebird",
+  "description": "Facilitates secure and efficient interaction between Large Language Models and Firebird databases, enabling data analysis and manipulation.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-purodelphi-mcpfirebird-4a70f326",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-purodelphi-mcpfirebird-4a70f326)",
+  "links": {
+    "primary": "https://github.com/PuroDelphi/mcpFirebird",
+    "repo": "https://github.com/PuroDelphi/mcpFirebird",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

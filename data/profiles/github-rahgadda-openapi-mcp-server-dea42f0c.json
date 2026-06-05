@@ -1,0 +1,24 @@
+{
+  "id": "github-rahgadda-openapi-mcp-server-dea42f0c",
+  "name": "rahgadda/openapi_mcp_server",
+  "description": "Facilitates LLM interactions with REST APIs through a configurable MCP server supporting OpenAPI specifications.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-rahgadda-openapi-mcp-server-dea42f0c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rahgadda-openapi-mcp-server-dea42f0c)",
+  "links": {
+    "primary": "https://github.com/rahgadda/openapi_mcp_server",
+    "repo": "https://github.com/rahgadda/openapi_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

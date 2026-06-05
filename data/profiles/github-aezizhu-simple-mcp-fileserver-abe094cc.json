@@ -1,0 +1,24 @@
+{
+  "id": "github-aezizhu-simple-mcp-fileserver-abe094cc",
+  "name": "aezizhu/simple-mcp-fileserver",
+  "description": "Facilitates AI agents' interaction with local file systems via JSON-RPC for autonomous coding and code repair.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-aezizhu-simple-mcp-fileserver-abe094cc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aezizhu-simple-mcp-fileserver-abe094cc)",
+  "links": {
+    "primary": "https://github.com/aezizhu/simple-mcp-fileserver",
+    "repo": "https://github.com/aezizhu/simple-mcp-fileserver",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

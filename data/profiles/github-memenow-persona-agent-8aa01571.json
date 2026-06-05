@@ -1,0 +1,24 @@
+{
+  "id": "github-memenow-persona-agent-8aa01571",
+  "name": "memenow/persona-agent",
+  "description": "A robust API server for creating AI persona agents with enhanced capabilities through Model Context Protocol integration.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-memenow-persona-agent-8aa01571",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-memenow-persona-agent-8aa01571)",
+  "links": {
+    "primary": "https://github.com/memenow/persona-agent",
+    "repo": "https://github.com/memenow/persona-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

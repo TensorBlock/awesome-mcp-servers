@@ -1,0 +1,24 @@
+{
+  "id": "github-pcholakov-restate-mcp-server-5dcacc23",
+  "name": "pcholakov/restate-mcp-server",
+  "description": "Facilitates management and deployment of Restate services through an MCP server interface.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-pcholakov-restate-mcp-server-5dcacc23",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pcholakov-restate-mcp-server-5dcacc23)",
+  "links": {
+    "primary": "https://github.com/pcholakov/restate-mcp-server",
+    "repo": "https://github.com/pcholakov/restate-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

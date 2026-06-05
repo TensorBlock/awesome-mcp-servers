@@ -1,0 +1,24 @@
+{
+  "id": "github-uratmangun-agent-stdio-b8901ab7",
+  "name": "uratmangun/agent-stdio",
+  "description": "Facilitates standardized protocol operations on the Solana blockchain using the Model Context Protocol.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-uratmangun-agent-stdio-b8901ab7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-uratmangun-agent-stdio-b8901ab7)",
+  "links": {
+    "primary": "https://github.com/uratmangun/agent-stdio",
+    "repo": "https://github.com/uratmangun/agent-stdio",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

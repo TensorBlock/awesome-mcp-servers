@@ -1,0 +1,24 @@
+{
+  "id": "github-getalby-lightning-tools-mcp-server-d8babe72",
+  "name": "getAlby/lightning-tools-mcp-server",
+  "description": "Facilitates interaction with lightning addresses and tools for LLMs using the official MCP TypeScript SDK.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-getalby-lightning-tools-mcp-server-d8babe72",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-getalby-lightning-tools-mcp-server-d8babe72)",
+  "links": {
+    "primary": "https://github.com/getAlby/lightning-tools-mcp-server",
+    "repo": "https://github.com/getAlby/lightning-tools-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

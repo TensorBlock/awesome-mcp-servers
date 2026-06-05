@@ -1,0 +1,24 @@
+{
+  "id": "github-hannesj-mcp-antd-components-a66fbee0",
+  "name": "hannesj/mcp-antd-components",
+  "description": "Facilitates LLMs in exploring Ant Design components through specialized tools, offering pre-extracted documentation for efficient access and integration.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-hannesj-mcp-antd-components-a66fbee0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hannesj-mcp-antd-components-a66fbee0)",
+  "links": {
+    "primary": "https://github.com/hannesj/mcp-antd-components",
+    "repo": "https://github.com/hannesj/mcp-antd-components",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

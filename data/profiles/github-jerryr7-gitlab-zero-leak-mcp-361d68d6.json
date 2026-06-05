@@ -1,0 +1,24 @@
+{
+  "id": "github-jerryr7-gitlab-zero-leak-mcp-361d68d6",
+  "name": "JerryR7/gitlab-zero-leak-mcp",
+  "description": "A security-focused GitLab API MCP Server designed to prevent source code leakage while maintaining full functionality for LLM-based agents.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-jerryr7-gitlab-zero-leak-mcp-361d68d6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jerryr7-gitlab-zero-leak-mcp-361d68d6)",
+  "links": {
+    "primary": "https://github.com/JerryR7/gitlab-zero-leak-mcp",
+    "repo": "https://github.com/JerryR7/gitlab-zero-leak-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

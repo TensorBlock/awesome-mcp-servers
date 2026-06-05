@@ -1,0 +1,24 @@
+{
+  "id": "github-thirdlf03-my-mcp-e6e6619e",
+  "name": "thirdlf03/my-mcp",
+  "description": "A remote MCP server with integrated GitHub OAuth, deployable on Cloudflare, enabling secure tool access for authenticated users.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-thirdlf03-my-mcp-e6e6619e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thirdlf03-my-mcp-e6e6619e)",
+  "links": {
+    "primary": "https://github.com/thirdlf03/my-mcp",
+    "repo": "https://github.com/thirdlf03/my-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

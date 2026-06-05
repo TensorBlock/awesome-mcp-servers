@@ -1,0 +1,24 @@
+{
+  "id": "github-huanongfish-simple-pubmed-92260ae8",
+  "name": "huanongfish/simple-pubmed",
+  "description": "Access PubMed articles via the Entrez API, offering keyword search, abstracts, and full text for open access articles.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-huanongfish-simple-pubmed-92260ae8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-huanongfish-simple-pubmed-92260ae8)",
+  "links": {
+    "primary": "https://github.com/huanongfish/simple-pubmed",
+    "repo": "https://github.com/huanongfish/simple-pubmed",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

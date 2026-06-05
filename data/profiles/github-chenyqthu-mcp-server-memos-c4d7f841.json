@@ -1,0 +1,24 @@
+{
+  "id": "github-chenyqthu-mcp-server-memos-c4d7f841",
+  "name": "ChenyqThu/mcp-server-memos",
+  "description": "Facilitates natural language interaction with Memos note service via MCP protocol, supporting note creation, search, and updates with secure token authentication.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-chenyqthu-mcp-server-memos-c4d7f841",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chenyqthu-mcp-server-memos-c4d7f841)",
+  "links": {
+    "primary": "https://github.com/ChenyqThu/mcp-server-memos",
+    "repo": "https://github.com/ChenyqThu/mcp-server-memos",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

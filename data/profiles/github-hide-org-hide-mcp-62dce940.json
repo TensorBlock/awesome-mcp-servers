@@ -1,0 +1,24 @@
+{
+  "id": "github-hide-org-hide-mcp-62dce940",
+  "name": "hide-org/hide-mcp",
+  "description": "A headless IDE MCP server featuring a text editor and persistent bash shell for file management and command execution.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-hide-org-hide-mcp-62dce940",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hide-org-hide-mcp-62dce940)",
+  "links": {
+    "primary": "https://github.com/hide-org/hide-mcp",
+    "repo": "https://github.com/hide-org/hide-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

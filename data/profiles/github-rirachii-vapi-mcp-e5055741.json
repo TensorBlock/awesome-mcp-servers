@@ -1,0 +1,24 @@
+{
+  "id": "github-rirachii-vapi-mcp-e5055741",
+  "name": "rirachii/vapi-mcp",
+  "description": "Facilitates interaction between Claude and the VAPI API for managing calls and assistants.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-rirachii-vapi-mcp-e5055741",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rirachii-vapi-mcp-e5055741)",
+  "links": {
+    "primary": "https://github.com/rirachii/vapi-mcp",
+    "repo": "https://github.com/rirachii/vapi-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

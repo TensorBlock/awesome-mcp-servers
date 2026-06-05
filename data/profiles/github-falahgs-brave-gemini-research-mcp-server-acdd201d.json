@@ -1,0 +1,24 @@
+{
+  "id": "github-falahgs-brave-gemini-research-mcp-server-acdd201d",
+  "name": "falahgs/Brave-Gemini-Research-MCP-Server",
+  "description": "Empowers AI assistants with web search and research paper analysis using Brave Search API and Google's Gemini model.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-falahgs-brave-gemini-research-mcp-server-acdd201d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-falahgs-brave-gemini-research-mcp-server-acdd201d)",
+  "links": {
+    "primary": "https://github.com/falahgs/Brave-Gemini-Research-MCP-Server",
+    "repo": "https://github.com/falahgs/Brave-Gemini-Research-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-yuniko-software-minecraft-mcp-server-d5666d26",
+  "name": "yuniko-software/minecraft-mcp-server",
+  "description": "A Minecraft bot leveraging the Mineflayer API and MCP to enable AI-driven real-time control of a Minecraft character for building, exploring, and interacting with the game environment.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-yuniko-software-minecraft-mcp-server-d5666d26",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yuniko-software-minecraft-mcp-server-d5666d26)",
+  "links": {
+    "primary": "https://github.com/yuniko-software/minecraft-mcp-server",
+    "repo": "https://github.com/yuniko-software/minecraft-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
