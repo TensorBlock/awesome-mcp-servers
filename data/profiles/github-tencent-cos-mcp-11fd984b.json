@@ -1,0 +1,24 @@
+{
+  "id": "github-tencent-cos-mcp-11fd984b",
+  "name": "Tencent/cos-mcp",
+  "description": "Facilitates seamless integration of large models with Tencent Cloud Storage (COS) and Data Processing (CI) capabilities without coding.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-tencent-cos-mcp-11fd984b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tencent-cos-mcp-11fd984b)",
+  "links": {
+    "primary": "https://github.com/Tencent/cos-mcp",
+    "repo": "https://github.com/Tencent/cos-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

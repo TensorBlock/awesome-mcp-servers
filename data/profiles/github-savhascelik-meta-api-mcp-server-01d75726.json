@@ -1,0 +1,24 @@
+{
+  "id": "github-savhascelik-meta-api-mcp-server-01d75726",
+  "name": "savhascelik/meta-api-mcp-server",
+  "description": "A meta API Gateway server enabling seamless integration of multiple APIs with LLMs through MCP, facilitating direct interaction with real-world data sources.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-savhascelik-meta-api-mcp-server-01d75726",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-savhascelik-meta-api-mcp-server-01d75726)",
+  "links": {
+    "primary": "https://github.com/savhascelik/meta-api-mcp-server",
+    "repo": "https://github.com/savhascelik/meta-api-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-xue20010808-threatnews-8121075a",
+  "name": "xue20010808/ThreatNews",
+  "description": "Facilitates the collection of cyber threat information through an MCP server, with integration options for Neo4j knowledge graphs.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-xue20010808-threatnews-8121075a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xue20010808-threatnews-8121075a)",
+  "links": {
+    "primary": "https://github.com/xue20010808/ThreatNews",
+    "repo": "https://github.com/xue20010808/ThreatNews",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

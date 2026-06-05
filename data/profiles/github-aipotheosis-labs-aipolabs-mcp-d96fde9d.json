@@ -1,0 +1,24 @@
+{
+  "id": "github-aipotheosis-labs-aipolabs-mcp-d96fde9d",
+  "name": "aipotheosis-labs/aipolabs-mcp",
+  "description": "Provides two MCP servers for accessing ACI.dev managed functions, offering both app-specific and unified function discovery and execution capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-aipotheosis-labs-aipolabs-mcp-d96fde9d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aipotheosis-labs-aipolabs-mcp-d96fde9d)",
+  "links": {
+    "primary": "https://github.com/aipotheosis-labs/aipolabs-mcp",
+    "repo": "https://github.com/aipotheosis-labs/aipolabs-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

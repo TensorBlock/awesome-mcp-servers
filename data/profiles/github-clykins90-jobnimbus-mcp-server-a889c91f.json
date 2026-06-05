@@ -1,0 +1,24 @@
+{
+  "id": "github-clykins90-jobnimbus-mcp-server-a889c91f",
+  "name": "clykins90/jobnimbus-mcp-server",
+  "description": "Facilitates AI-driven interactions with JobNimbus data via a Model Context Protocol server, enabling secure access and manipulation of contacts, jobs, tasks, products, workflows, and invoices.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-clykins90-jobnimbus-mcp-server-a889c91f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-clykins90-jobnimbus-mcp-server-a889c91f)",
+  "links": {
+    "primary": "https://github.com/clykins90/jobnimbus-mcp-server",
+    "repo": "https://github.com/clykins90/jobnimbus-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

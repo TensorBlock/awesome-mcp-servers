@@ -1,0 +1,24 @@
+{
+  "id": "github-pwh-pwh-coin-mcp-server-2a62e22f",
+  "name": "pwh-pwh/coin-mcp-server",
+  "description": "Fetches real-time cryptocurrency prices and detailed token information using Bitget's API, powered by FastMCP.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-pwh-pwh-coin-mcp-server-2a62e22f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pwh-pwh-coin-mcp-server-2a62e22f)",
+  "links": {
+    "primary": "https://github.com/pwh-pwh/coin-mcp-server",
+    "repo": "https://github.com/pwh-pwh/coin-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

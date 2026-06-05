@@ -1,0 +1,24 @@
+{
+  "id": "github-zoeminghong-yapi-mcp-server-4809676f",
+  "name": "zoeminghong/yapi-mcp-server",
+  "description": "A TypeScript-based server implementing a notes system with resources, tools, and prompts for managing and summarizing text notes.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-zoeminghong-yapi-mcp-server-4809676f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zoeminghong-yapi-mcp-server-4809676f)",
+  "links": {
+    "primary": "https://github.com/zoeminghong/yapi-mcp-server",
+    "repo": "https://github.com/zoeminghong/yapi-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

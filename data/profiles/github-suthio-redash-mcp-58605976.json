@@ -1,0 +1,24 @@
+{
+  "id": "github-suthio-redash-mcp-58605976",
+  "name": "suthio/redash-mcp",
+  "description": "Facilitates integration of Redash with AI assistants by managing and executing queries and dashboards via the Redash API.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-suthio-redash-mcp-58605976",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-suthio-redash-mcp-58605976)",
+  "links": {
+    "primary": "https://github.com/suthio/redash-mcp",
+    "repo": "https://github.com/suthio/redash-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

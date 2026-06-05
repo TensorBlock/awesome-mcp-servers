@@ -1,0 +1,24 @@
+{
+  "id": "github-captain-blue210-anki-mcp-server-55f5e6d3",
+  "name": "captain-blue210/anki-mcp-server",
+  "description": "Facilitates integration between Claude Desktop and Anki by retrieving and tagging leech cards via AnkiConnect.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-captain-blue210-anki-mcp-server-55f5e6d3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-captain-blue210-anki-mcp-server-55f5e6d3)",
+  "links": {
+    "primary": "https://github.com/captain-blue210/anki-mcp-server",
+    "repo": "https://github.com/captain-blue210/anki-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

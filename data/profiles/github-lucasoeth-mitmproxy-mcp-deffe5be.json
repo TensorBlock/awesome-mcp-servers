@@ -1,0 +1,24 @@
+{
+  "id": "github-lucasoeth-mitmproxy-mcp-deffe5be",
+  "name": "lucasoeth/mitmproxy-mcp",
+  "description": "Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-lucasoeth-mitmproxy-mcp-deffe5be",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lucasoeth-mitmproxy-mcp-deffe5be)",
+  "links": {
+    "primary": "https://github.com/lucasoeth/mitmproxy-mcp",
+    "repo": "https://github.com/lucasoeth/mitmproxy-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

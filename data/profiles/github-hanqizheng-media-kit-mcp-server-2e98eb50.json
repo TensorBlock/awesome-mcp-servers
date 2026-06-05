@@ -1,0 +1,24 @@
+{
+  "id": "github-hanqizheng-media-kit-mcp-server-2e98eb50",
+  "name": "hanqizheng/media_kit_mcp_server",
+  "description": "Facilitates the parsing of Media Kit PDF files for key content extraction in the advertising and marketing sector.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-hanqizheng-media-kit-mcp-server-2e98eb50",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hanqizheng-media-kit-mcp-server-2e98eb50)",
+  "links": {
+    "primary": "https://github.com/hanqizheng/media_kit_mcp_server",
+    "repo": "https://github.com/hanqizheng/media_kit_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

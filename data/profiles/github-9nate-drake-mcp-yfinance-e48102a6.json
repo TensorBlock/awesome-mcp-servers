@@ -1,0 +1,24 @@
+{
+  "id": "github-9nate-drake-mcp-yfinance-e48102a6",
+  "name": "9nate-drake/mcp-yfinance",
+  "description": "Provides financial data to Claude Desktop using yfinance for seamless stock analysis and insights.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-9nate-drake-mcp-yfinance-e48102a6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-9nate-drake-mcp-yfinance-e48102a6)",
+  "links": {
+    "primary": "https://github.com/9nate-drake/mcp-yfinance",
+    "repo": "https://github.com/9nate-drake/mcp-yfinance",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

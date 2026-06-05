@@ -1,0 +1,24 @@
+{
+  "id": "github-laplaceman-web3-assistant-mcp-7aa638f2",
+  "name": "LaplaceMan/web3-assistant-mcp",
+  "description": "Facilitates secure interaction with blockchain smart contracts across multiple chains, offering features like ABI analysis and contract method invocation.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-laplaceman-web3-assistant-mcp-7aa638f2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-laplaceman-web3-assistant-mcp-7aa638f2)",
+  "links": {
+    "primary": "https://github.com/LaplaceMan/web3-assistant-mcp",
+    "repo": "https://github.com/LaplaceMan/web3-assistant-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

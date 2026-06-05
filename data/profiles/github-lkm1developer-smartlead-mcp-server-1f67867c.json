@@ -1,0 +1,24 @@
+{
+  "id": "github-lkm1developer-smartlead-mcp-server-1f67867c",
+  "name": "lkm1developer/smartlead-mcp-server",
+  "description": "Facilitates Smartlead campaign management by providing tools for creating, updating, and managing campaign sequences.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-lkm1developer-smartlead-mcp-server-1f67867c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lkm1developer-smartlead-mcp-server-1f67867c)",
+  "links": {
+    "primary": "https://github.com/lkm1developer/smartlead-mcp-server",
+    "repo": "https://github.com/lkm1developer/smartlead-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

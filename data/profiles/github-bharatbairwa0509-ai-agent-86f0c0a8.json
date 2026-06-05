@@ -1,0 +1,24 @@
+{
+  "id": "github-bharatbairwa0509-ai-agent-86f0c0a8",
+  "name": "bharatbairwa0509/ai-agent",
+  "description": "An AI assistant leveraging MCP for executing natural language commands with extensible tool integration.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-bharatbairwa0509-ai-agent-86f0c0a8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bharatbairwa0509-ai-agent-86f0c0a8)",
+  "links": {
+    "primary": "https://github.com/bharatbairwa0509/ai-agent",
+    "repo": "https://github.com/bharatbairwa0509/ai-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

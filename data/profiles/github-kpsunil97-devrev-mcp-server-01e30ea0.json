@@ -1,0 +1,24 @@
+{
+  "id": "github-kpsunil97-devrev-mcp-server-01e30ea0",
+  "name": "kpsunil97/devrev-mcp-server",
+  "description": "Facilitates information retrieval and search operations using DevRev APIs through a Model Context Protocol server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-kpsunil97-devrev-mcp-server-01e30ea0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kpsunil97-devrev-mcp-server-01e30ea0)",
+  "links": {
+    "primary": "https://github.com/kpsunil97/devrev-mcp-server",
+    "repo": "https://github.com/kpsunil97/devrev-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

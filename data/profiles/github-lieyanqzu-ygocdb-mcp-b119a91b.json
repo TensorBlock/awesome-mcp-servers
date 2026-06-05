@@ -1,0 +1,24 @@
+{
+  "id": "github-lieyanqzu-ygocdb-mcp-b119a91b",
+  "name": "lieyanqzu/ygocdb-mcp",
+  "description": "Facilitates interaction with the YGO Chinese card database API, offering tools for card information retrieval and image access.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-lieyanqzu-ygocdb-mcp-b119a91b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lieyanqzu-ygocdb-mcp-b119a91b)",
+  "links": {
+    "primary": "https://github.com/lieyanqzu/ygocdb-mcp",
+    "repo": "https://github.com/lieyanqzu/ygocdb-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

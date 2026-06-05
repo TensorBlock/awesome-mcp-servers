@@ -1,0 +1,24 @@
+{
+  "id": "github-angelogiacco-elevenlabs-mcp-ba0ad71c",
+  "name": "AngeloGiacco/elevenlabs-mcp",
+  "description": "Exposes OpenAPI-defined ElevenLabs endpoints as MCP resources for seamless integration with Claude Desktop.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-angelogiacco-elevenlabs-mcp-ba0ad71c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-angelogiacco-elevenlabs-mcp-ba0ad71c)",
+  "links": {
+    "primary": "https://github.com/AngeloGiacco/elevenlabs-mcp",
+    "repo": "https://github.com/AngeloGiacco/elevenlabs-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

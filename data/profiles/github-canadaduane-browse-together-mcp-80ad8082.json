@@ -1,0 +1,24 @@
+{
+  "id": "github-canadaduane-browse-together-mcp-80ad8082",
+  "name": "canadaduane/browse-together-mcp",
+  "description": "Facilitates co-browsing with AI by integrating a Playwright-controlled browser and MCP server for seamless browser automation and interaction.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-canadaduane-browse-together-mcp-80ad8082",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-canadaduane-browse-together-mcp-80ad8082)",
+  "links": {
+    "primary": "https://github.com/canadaduane/browse-together-mcp",
+    "repo": "https://github.com/canadaduane/browse-together-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

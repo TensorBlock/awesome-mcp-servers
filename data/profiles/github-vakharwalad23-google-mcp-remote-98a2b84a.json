@@ -1,0 +1,24 @@
+{
+  "id": "github-vakharwalad23-google-mcp-remote-98a2b84a",
+  "name": "vakharwalad23/google-mcp-remote",
+  "description": "Facilitates seamless integration of Google services with AI clients through a Cloudflare Workers-based MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-vakharwalad23-google-mcp-remote-98a2b84a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vakharwalad23-google-mcp-remote-98a2b84a)",
+  "links": {
+    "primary": "https://github.com/vakharwalad23/google-mcp-remote",
+    "repo": "https://github.com/vakharwalad23/google-mcp-remote",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

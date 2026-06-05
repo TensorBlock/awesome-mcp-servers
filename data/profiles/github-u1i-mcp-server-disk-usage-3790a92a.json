@@ -1,0 +1,24 @@
+{
+  "id": "github-u1i-mcp-server-disk-usage-3790a92a",
+  "name": "u1i/mcp-server-disk-usage",
+  "description": "Enables real-time disk usage monitoring on macOS through Claude integration, providing detailed storage statistics.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-u1i-mcp-server-disk-usage-3790a92a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-u1i-mcp-server-disk-usage-3790a92a)",
+  "links": {
+    "primary": "https://github.com/u1i/mcp-server-disk-usage",
+    "repo": "https://github.com/u1i/mcp-server-disk-usage",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

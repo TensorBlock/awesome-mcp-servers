@@ -1,0 +1,24 @@
+{
+  "id": "github-shieldspprt-solhunt-recovery-a9d60c79",
+  "name": "shieldspprt/solhunt-recovery",
+  "description": "Solana wallet health analysis and SOL recovery. Check wallet efficiency, find recoverable SOL from zero-balance token accounts, and build trustless recovery transactions.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-shieldspprt-solhunt-recovery-a9d60c79",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shieldspprt-solhunt-recovery-a9d60c79)",
+  "links": {
+    "primary": "https://github.com/shieldspprt/solhunt-recovery",
+    "repo": "https://github.com/shieldspprt/solhunt-recovery",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

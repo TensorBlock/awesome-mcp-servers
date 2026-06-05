@@ -1,0 +1,24 @@
+{
+  "id": "github-hurukawa2121-docker-mcp-server-template-fccb6062",
+  "name": "Hurukawa2121/docker-mcp-server-template",
+  "description": "A Docker template for deploying MCP servers with customizable configurations.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-hurukawa2121-docker-mcp-server-template-fccb6062",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hurukawa2121-docker-mcp-server-template-fccb6062)",
+  "links": {
+    "primary": "https://github.com/Hurukawa2121/docker-mcp-server-template",
+    "repo": "https://github.com/Hurukawa2121/docker-mcp-server-template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

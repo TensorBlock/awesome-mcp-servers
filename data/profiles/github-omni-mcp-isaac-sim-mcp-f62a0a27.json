@@ -1,0 +1,24 @@
+{
+  "id": "github-omni-mcp-isaac-sim-mcp-f62a0a27",
+  "name": "omni-mcp/isaac-sim-mcp",
+  "description": "Enables natural language control of NVIDIA Isaac Sim for dynamic robot simulations and scene manipulation.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-omni-mcp-isaac-sim-mcp-f62a0a27",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-omni-mcp-isaac-sim-mcp-f62a0a27)",
+  "links": {
+    "primary": "https://github.com/omni-mcp/isaac-sim-mcp",
+    "repo": "https://github.com/omni-mcp/isaac-sim-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-gaocan702-mcp-gererate-image-75b68a4e",
+  "name": "GaoCan702/mcp-gererate-image",
+  "description": "Facilitates AI-driven image generation requests from Cursor using Cloudflare's Flux AI model, with local or temporary storage options.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-gaocan702-mcp-gererate-image-75b68a4e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gaocan702-mcp-gererate-image-75b68a4e)",
+  "links": {
+    "primary": "https://github.com/GaoCan702/mcp-gererate-image",
+    "repo": "https://github.com/GaoCan702/mcp-gererate-image",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

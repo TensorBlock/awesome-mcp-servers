@@ -1,0 +1,24 @@
+{
+  "id": "github-zyy07-xiyan-table-mcp-server-91b03449",
+  "name": "zyy07/xiyan_table_mcp_server",
+  "description": "Facilitates natural language querying and analysis of table data from CSV files using LLMs.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-zyy07-xiyan-table-mcp-server-91b03449",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zyy07-xiyan-table-mcp-server-91b03449)",
+  "links": {
+    "primary": "https://github.com/zyy07/xiyan_table_mcp_server",
+    "repo": "https://github.com/zyy07/xiyan_table_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

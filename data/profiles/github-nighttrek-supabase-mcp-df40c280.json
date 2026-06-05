@@ -1,0 +1,24 @@
+{
+  "id": "github-nighttrek-supabase-mcp-df40c280",
+  "name": "NightTrek/Supabase-MCP",
+  "description": "Facilitates database queries and TypeScript type generation for Supabase through a Model Context Protocol interface.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-nighttrek-supabase-mcp-df40c280",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nighttrek-supabase-mcp-df40c280)",
+  "links": {
+    "primary": "https://github.com/NightTrek/Supabase-MCP",
+    "repo": "https://github.com/NightTrek/Supabase-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

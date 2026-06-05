@@ -1,0 +1,24 @@
+{
+  "id": "github-ihatesea69-aws-mcp-bdaeb410",
+  "name": "ihatesea69/AWS-MCP",
+  "description": "AWS MCP enables AI assistants like Claude to interact with AWS environments using natural language, simplifying resource management without traditional AWS interfaces.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-ihatesea69-aws-mcp-bdaeb410",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ihatesea69-aws-mcp-bdaeb410)",
+  "links": {
+    "primary": "https://github.com/ihatesea69/AWS-MCP",
+    "repo": "https://github.com/ihatesea69/AWS-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

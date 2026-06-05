@@ -1,0 +1,24 @@
+{
+  "id": "github-irvinebroque-repro-root-mcp-issue-c4fbe4ff",
+  "name": "irvinebroque/repro-root-mcp-issue",
+  "description": "Deploy and manage a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-irvinebroque-repro-root-mcp-issue-c4fbe4ff",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-irvinebroque-repro-root-mcp-issue-c4fbe4ff)",
+  "links": {
+    "primary": "https://github.com/irvinebroque/repro-root-mcp-issue",
+    "repo": "https://github.com/irvinebroque/repro-root-mcp-issue",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

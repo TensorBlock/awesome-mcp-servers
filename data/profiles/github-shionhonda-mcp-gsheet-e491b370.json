@@ -1,0 +1,24 @@
+{
+  "id": "github-shionhonda-mcp-gsheet-e491b370",
+  "name": "shionhonda/mcp-gsheet",
+  "description": "Facilitates interaction with Google Sheets by listing, reading, and writing data through an MCP server.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-shionhonda-mcp-gsheet-e491b370",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shionhonda-mcp-gsheet-e491b370)",
+  "links": {
+    "primary": "https://github.com/shionhonda/mcp-gsheet",
+    "repo": "https://github.com/shionhonda/mcp-gsheet",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
