@@ -1,0 +1,24 @@
+{
+  "id": "github-bitteprotocol-mcp-bec66864",
+  "name": "BitteProtocol/mcp",
+  "description": "Facilitates AI integrations through MCP servers, leveraging a monorepo structure for efficient service management.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-bitteprotocol-mcp-bec66864",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bitteprotocol-mcp-bec66864)",
+  "links": {
+    "primary": "https://github.com/BitteProtocol/mcp",
+    "repo": "https://github.com/BitteProtocol/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-hendryavila-hoofy-e99de56f",
+  "name": "HendryAvila/Hoofy",
+  "description": "Persistent memory across AI sessions with SQLite + FTS5 full-text search + knowledge graph with typed relations. Features session management, timeline browsing, graph traversal, and 17 memory tools.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-hendryavila-hoofy-e99de56f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hendryavila-hoofy-e99de56f)",
+  "links": {
+    "primary": "https://github.com/HendryAvila/Hoofy",
+    "repo": "https://github.com/HendryAvila/Hoofy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

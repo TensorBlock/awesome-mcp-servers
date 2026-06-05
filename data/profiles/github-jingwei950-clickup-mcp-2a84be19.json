@@ -1,0 +1,24 @@
+{
+  "id": "github-jingwei950-clickup-mcp-2a84be19",
+  "name": "jingwei950/clickup-mcp",
+  "description": "Facilitates AI-driven interactions with ClickUp's organizational structures, enabling seamless task and document management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-jingwei950-clickup-mcp-2a84be19",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jingwei950-clickup-mcp-2a84be19)",
+  "links": {
+    "primary": "https://github.com/jingwei950/clickup-mcp",
+    "repo": "https://github.com/jingwei950/clickup-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

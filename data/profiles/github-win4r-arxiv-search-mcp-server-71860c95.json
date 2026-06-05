@@ -1,0 +1,24 @@
+{
+  "id": "github-win4r-arxiv-search-mcp-server-71860c95",
+  "name": "win4r/arxiv-search-MCP-Server",
+  "description": "Facilitates academic paper searches on arXiv with customizable parameters and structured data access.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-win4r-arxiv-search-mcp-server-71860c95",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-win4r-arxiv-search-mcp-server-71860c95)",
+  "links": {
+    "primary": "https://github.com/win4r/arxiv-search-MCP-Server",
+    "repo": "https://github.com/win4r/arxiv-search-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

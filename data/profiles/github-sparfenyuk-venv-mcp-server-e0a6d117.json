@@ -1,0 +1,24 @@
+{
+  "id": "github-sparfenyuk-venv-mcp-server-e0a6d117",
+  "name": "sparfenyuk/venv-mcp-server",
+  "description": "Facilitates reliable virtual environment management for LLMs by resolving dependencies and updating environments seamlessly.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-sparfenyuk-venv-mcp-server-e0a6d117",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sparfenyuk-venv-mcp-server-e0a6d117)",
+  "links": {
+    "primary": "https://github.com/sparfenyuk/venv-mcp-server",
+    "repo": "https://github.com/sparfenyuk/venv-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

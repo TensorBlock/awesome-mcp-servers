@@ -1,0 +1,24 @@
+{
+  "id": "github-arrismo-kaggle-mcp-d2ddfb39",
+  "name": "arrismo/kaggle-mcp",
+  "description": "Facilitates interaction with Kaggle by providing tools for dataset search, download, and EDA notebook generation via the Model Context Protocol.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-arrismo-kaggle-mcp-d2ddfb39",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arrismo-kaggle-mcp-d2ddfb39)",
+  "links": {
+    "primary": "https://github.com/arrismo/kaggle-mcp",
+    "repo": "https://github.com/arrismo/kaggle-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

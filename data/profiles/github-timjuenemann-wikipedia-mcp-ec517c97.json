@@ -1,0 +1,24 @@
+{
+  "id": "github-timjuenemann-wikipedia-mcp-ec517c97",
+  "name": "timjuenemann/wikipedia-mcp",
+  "description": "Facilitates AI-driven searches and retrieval of Wikipedia articles using the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-timjuenemann-wikipedia-mcp-ec517c97",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-timjuenemann-wikipedia-mcp-ec517c97)",
+  "links": {
+    "primary": "https://github.com/timjuenemann/wikipedia-mcp",
+    "repo": "https://github.com/timjuenemann/wikipedia-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

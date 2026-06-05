@@ -1,0 +1,24 @@
+{
+  "id": "github-qpd-v-mcp-deepwebresearch-f5a85dda",
+  "name": "qpd-v/mcp-DEEPwebresearch",
+  "description": "An advanced MCP server designed for deep web research, featuring intelligent search queuing, enhanced content extraction, and real-time integration with Claude.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-qpd-v-mcp-deepwebresearch-f5a85dda",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qpd-v-mcp-deepwebresearch-f5a85dda)",
+  "links": {
+    "primary": "https://github.com/qpd-v/mcp-DEEPwebresearch",
+    "repo": "https://github.com/qpd-v/mcp-DEEPwebresearch",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

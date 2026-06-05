@@ -1,0 +1,24 @@
+{
+  "id": "github-ludok-4-ghidra-28649335",
+  "name": "Ludok-4/Ghidra",
+  "description": "ghidraMCP enables LLMs to autonomously reverse engineer applications by integrating Ghidra's decompilation and analysis tools with MCP clients.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-ludok-4-ghidra-28649335",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ludok-4-ghidra-28649335)",
+  "links": {
+    "primary": "https://github.com/Ludok-4/Ghidra",
+    "repo": "https://github.com/Ludok-4/Ghidra",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

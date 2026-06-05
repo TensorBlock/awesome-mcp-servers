@@ -1,0 +1,24 @@
+{
+  "id": "github-danielscholl-just-prompt-mcp-0ac82041",
+  "name": "danielscholl/just-prompt-mcp",
+  "description": "A lightweight server offering unified access to leading LLM providers like OpenAI and Anthropic.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-danielscholl-just-prompt-mcp-0ac82041",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-danielscholl-just-prompt-mcp-0ac82041)",
+  "links": {
+    "primary": "https://github.com/danielscholl/just-prompt-mcp",
+    "repo": "https://github.com/danielscholl/just-prompt-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

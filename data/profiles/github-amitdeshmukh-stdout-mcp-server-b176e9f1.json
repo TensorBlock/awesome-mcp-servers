@@ -1,0 +1,24 @@
+{
+  "id": "github-amitdeshmukh-stdout-mcp-server-b176e9f1",
+  "name": "amitdeshmukh/stdout-mcp-server",
+  "description": "Facilitates real-time log capture and analysis from multiple processes via a named pipe system, enhancing debugging and monitoring capabilities.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-amitdeshmukh-stdout-mcp-server-b176e9f1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amitdeshmukh-stdout-mcp-server-b176e9f1)",
+  "links": {
+    "primary": "https://github.com/amitdeshmukh/stdout-mcp-server",
+    "repo": "https://github.com/amitdeshmukh/stdout-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

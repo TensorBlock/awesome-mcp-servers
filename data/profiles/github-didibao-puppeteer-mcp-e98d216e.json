@@ -1,0 +1,24 @@
+{
+  "id": "github-didibao-puppeteer-mcp-e98d216e",
+  "name": "didibao/puppeteer-mcp",
+  "description": "Enables LLMs to automate browser tasks using Puppeteer, including navigation, interaction, and JavaScript execution.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-didibao-puppeteer-mcp-e98d216e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-didibao-puppeteer-mcp-e98d216e)",
+  "links": {
+    "primary": "https://github.com/didibao/puppeteer-mcp",
+    "repo": "https://github.com/didibao/puppeteer-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

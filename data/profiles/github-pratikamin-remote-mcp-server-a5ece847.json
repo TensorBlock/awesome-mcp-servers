@@ -1,0 +1,24 @@
+{
+  "id": "github-pratikamin-remote-mcp-server-a5ece847",
+  "name": "pratikamin/remote-mcp-server",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-pratikamin-remote-mcp-server-a5ece847",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pratikamin-remote-mcp-server-a5ece847)",
+  "links": {
+    "primary": "https://github.com/pratikamin/remote-mcp-server",
+    "repo": "https://github.com/pratikamin/remote-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

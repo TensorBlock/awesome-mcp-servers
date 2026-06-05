@@ -1,0 +1,24 @@
+{
+  "id": "github-snahmod-mcp-server-redshift-ce9793e1",
+  "name": "snahmod/mcp-server-redshift",
+  "description": "Facilitates AI model interactions with PostgreSQL databases via a standardized interface, supporting secure and efficient database operations.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-snahmod-mcp-server-redshift-ce9793e1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-snahmod-mcp-server-redshift-ce9793e1)",
+  "links": {
+    "primary": "https://github.com/snahmod/mcp-server-redshift",
+    "repo": "https://github.com/snahmod/mcp-server-redshift",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

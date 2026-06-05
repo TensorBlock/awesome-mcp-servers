@@ -1,0 +1,24 @@
+{
+  "id": "github-eiz-fooddb-e0706204",
+  "name": "eiz/fooddb",
+  "description": "Query USDA Food Data Central with smart keyword and semantic vector search capabilities.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-eiz-fooddb-e0706204",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-eiz-fooddb-e0706204)",
+  "links": {
+    "primary": "https://github.com/eiz/fooddb",
+    "repo": "https://github.com/eiz/fooddb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

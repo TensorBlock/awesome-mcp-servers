@@ -1,0 +1,24 @@
+{
+  "id": "github-logic1124-mcpemailhelper-317e8e5e",
+  "name": "Logic1124/MCPEmailHelper",
+  "description": "Facilitates email management through a Node.js-based personal assistant service with MCP server integration.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-logic1124-mcpemailhelper-317e8e5e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-logic1124-mcpemailhelper-317e8e5e)",
+  "links": {
+    "primary": "https://github.com/Logic1124/MCPEmailHelper",
+    "repo": "https://github.com/Logic1124/MCPEmailHelper",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

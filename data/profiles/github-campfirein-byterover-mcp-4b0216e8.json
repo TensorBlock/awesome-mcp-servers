@@ -1,0 +1,24 @@
+{
+  "id": "github-campfirein-byterover-mcp-4b0216e8",
+  "name": "campfirein/byterover-mcp",
+  "description": "Facilitates collaborative coding with AI agents by providing shared long-term memory through the Model Context Protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-campfirein-byterover-mcp-4b0216e8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-campfirein-byterover-mcp-4b0216e8)",
+  "links": {
+    "primary": "https://github.com/campfirein/byterover-mcp",
+    "repo": "https://github.com/campfirein/byterover-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

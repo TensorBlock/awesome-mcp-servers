@@ -1,0 +1,24 @@
+{
+  "id": "github-kazz187-mcp-google-spreadsheet-c4cc27de",
+  "name": "kazz187/mcp-google-spreadsheet",
+  "description": "Facilitates AI-driven manipulation of Google Spreadsheet and Drive files through a Model Context Protocol server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-kazz187-mcp-google-spreadsheet-c4cc27de",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kazz187-mcp-google-spreadsheet-c4cc27de)",
+  "links": {
+    "primary": "https://github.com/kazz187/mcp-google-spreadsheet",
+    "repo": "https://github.com/kazz187/mcp-google-spreadsheet",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

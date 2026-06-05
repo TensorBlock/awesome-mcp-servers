@@ -1,0 +1,24 @@
+{
+  "id": "github-marcushellberg-vaadin-documentation-services-02843b5a",
+  "name": "marcushellberg/vaadin-documentation-services",
+  "description": "Facilitates semantic search and AI-generated answers for Vaadin documentation through a REST and MCP server integration.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-marcushellberg-vaadin-documentation-services-02843b5a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-marcushellberg-vaadin-documentation-services-02843b5a)",
+  "links": {
+    "primary": "https://github.com/marcushellberg/vaadin-documentation-services",
+    "repo": "https://github.com/marcushellberg/vaadin-documentation-services",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

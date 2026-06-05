@@ -1,0 +1,24 @@
+{
+  "id": "github-voltagr-smooth-a089c741",
+  "name": "voltagr/smooth",
+  "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-voltagr-smooth-a089c741",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-voltagr-smooth-a089c741)",
+  "links": {
+    "primary": "https://github.com/voltagr/smooth",
+    "repo": "https://github.com/voltagr/smooth",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

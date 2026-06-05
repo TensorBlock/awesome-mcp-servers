@@ -1,0 +1,24 @@
+{
+  "id": "github-misanthropic-ai-ddg-mcp-048d2785",
+  "name": "misanthropic-ai/ddg-mcp",
+  "description": "Provides DuckDuckGo search capabilities through the Model Context Protocol, enabling text, image, news, and video searches, along with AI chat functionalities.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-misanthropic-ai-ddg-mcp-048d2785",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-misanthropic-ai-ddg-mcp-048d2785)",
+  "links": {
+    "primary": "https://github.com/misanthropic-ai/ddg-mcp",
+    "repo": "https://github.com/misanthropic-ai/ddg-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
