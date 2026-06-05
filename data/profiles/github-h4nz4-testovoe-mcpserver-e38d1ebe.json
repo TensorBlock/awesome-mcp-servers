@@ -1,0 +1,24 @@
+{
+  "id": "github-h4nz4-testovoe-mcpserver-e38d1ebe",
+  "name": "h4nz4/testovoe-mcpserver",
+  "description": "A Node.js and TypeScript-based MCP server designed for integration with Claude Desktop, featuring tools for weather, currency exchange rates, and news feeds.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-h4nz4-testovoe-mcpserver-e38d1ebe",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-h4nz4-testovoe-mcpserver-e38d1ebe)",
+  "links": {
+    "primary": "https://github.com/h4nz4/testovoe-mcpserver",
+    "repo": "https://github.com/h4nz4/testovoe-mcpserver",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

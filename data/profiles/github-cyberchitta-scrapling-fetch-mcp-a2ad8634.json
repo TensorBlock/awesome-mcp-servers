@@ -1,0 +1,24 @@
+{
+  "id": "github-cyberchitta-scrapling-fetch-mcp-a2ad8634",
+  "name": "cyberchitta/scrapling-fetch-mcp",
+  "description": "Enables AI assistants to access text content from bot-protected websites using Scrapling, optimized for low-volume retrieval of documentation and reference materials.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-cyberchitta-scrapling-fetch-mcp-a2ad8634",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cyberchitta-scrapling-fetch-mcp-a2ad8634)",
+  "links": {
+    "primary": "https://github.com/cyberchitta/scrapling-fetch-mcp",
+    "repo": "https://github.com/cyberchitta/scrapling-fetch-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

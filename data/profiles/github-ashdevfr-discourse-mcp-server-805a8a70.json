@@ -1,0 +1,24 @@
+{
+  "id": "github-ashdevfr-discourse-mcp-server-805a8a70",
+  "name": "AshDevFr/discourse-mcp-server",
+  "description": "Facilitates Discourse forum post searches using the Model Context Protocol.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-ashdevfr-discourse-mcp-server-805a8a70",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ashdevfr-discourse-mcp-server-805a8a70)",
+  "links": {
+    "primary": "https://github.com/AshDevFr/discourse-mcp-server",
+    "repo": "https://github.com/AshDevFr/discourse-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

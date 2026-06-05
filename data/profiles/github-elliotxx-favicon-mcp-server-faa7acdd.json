@@ -1,0 +1,24 @@
+{
+  "id": "github-elliotxx-favicon-mcp-server-faa7acdd",
+  "name": "elliotxx/favicon-mcp-server",
+  "description": "Transforms SVG images into ICO and PNG favicon formats for web applications, supporting seamless integration with LLM-powered tools.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-elliotxx-favicon-mcp-server-faa7acdd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elliotxx-favicon-mcp-server-faa7acdd)",
+  "links": {
+    "primary": "https://github.com/elliotxx/favicon-mcp-server",
+    "repo": "https://github.com/elliotxx/favicon-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-connor-roberts-tsmcp-a6eda315",
+  "name": "connor-roberts/tsmcp",
+  "description": "A TypeScript-based MCP server that sends greeting messages to httpbin.org and integrates seamlessly with Claude for Desktop.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-connor-roberts-tsmcp-a6eda315",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-connor-roberts-tsmcp-a6eda315)",
+  "links": {
+    "primary": "https://github.com/connor-roberts/tsmcp",
+    "repo": "https://github.com/connor-roberts/tsmcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

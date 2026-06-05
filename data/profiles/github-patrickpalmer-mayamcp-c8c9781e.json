@@ -1,0 +1,24 @@
+{
+  "id": "github-patrickpalmer-mayamcp-c8c9781e",
+  "name": "PatrickPalmer/MayaMCP",
+  "description": "Facilitates AI-driven control of Autodesk Maya through natural language commands using the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-patrickpalmer-mayamcp-c8c9781e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-patrickpalmer-mayamcp-c8c9781e)",
+  "links": {
+    "primary": "https://github.com/PatrickPalmer/MayaMCP",
+    "repo": "https://github.com/PatrickPalmer/MayaMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

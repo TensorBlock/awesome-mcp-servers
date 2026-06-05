@@ -1,0 +1,24 @@
+{
+  "id": "github-kiranraathod-taskflow-memory-server-44ba7c5c",
+  "name": "kiranraathod/taskflow-memory-server",
+  "description": "A task management server with persistent memory architecture, integrating Claude AI for intelligent planning and task execution using the Model Context Protocol.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-kiranraathod-taskflow-memory-server-44ba7c5c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kiranraathod-taskflow-memory-server-44ba7c5c)",
+  "links": {
+    "primary": "https://github.com/kiranraathod/taskflow-memory-server",
+    "repo": "https://github.com/kiranraathod/taskflow-memory-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

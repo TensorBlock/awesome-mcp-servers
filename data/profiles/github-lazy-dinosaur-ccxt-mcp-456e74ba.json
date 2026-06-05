@@ -1,0 +1,24 @@
+{
+  "id": "github-lazy-dinosaur-ccxt-mcp-456e74ba",
+  "name": "lazy-dinosaur/ccxt-mcp",
+  "description": "CCXT MCP Server enables AI models to seamlessly interact with cryptocurrency exchanges, facilitating automated trading strategies across over 100 platforms.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-lazy-dinosaur-ccxt-mcp-456e74ba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lazy-dinosaur-ccxt-mcp-456e74ba)",
+  "links": {
+    "primary": "https://github.com/lazy-dinosaur/ccxt-mcp",
+    "repo": "https://github.com/lazy-dinosaur/ccxt-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

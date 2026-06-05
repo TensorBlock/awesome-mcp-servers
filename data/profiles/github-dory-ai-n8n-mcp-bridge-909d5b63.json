@@ -1,0 +1,24 @@
+{
+  "id": "github-dory-ai-n8n-mcp-bridge-909d5b63",
+  "name": "dory-ai/n8n-mcp-bridge",
+  "description": "Facilitates seamless integration of n8n workflows with MCP servers, enabling AI agents to utilize specialized tools without self-hosting.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-dory-ai-n8n-mcp-bridge-909d5b63",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dory-ai-n8n-mcp-bridge-909d5b63)",
+  "links": {
+    "primary": "https://github.com/dory-ai/n8n-mcp-bridge",
+    "repo": "https://github.com/dory-ai/n8n-mcp-bridge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-tiroshanm-facebook-mcp-server-57c7166f",
+  "name": "tiroshanm/facebook-mcp-server",
+  "description": "Facilitates automated Facebook Page management, including posting, comment moderation, and content retrieval.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-tiroshanm-facebook-mcp-server-57c7166f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tiroshanm-facebook-mcp-server-57c7166f)",
+  "links": {
+    "primary": "https://github.com/tiroshanm/facebook-mcp-server",
+    "repo": "https://github.com/tiroshanm/facebook-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

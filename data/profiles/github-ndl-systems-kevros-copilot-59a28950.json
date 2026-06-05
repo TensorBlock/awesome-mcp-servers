@@ -1,0 +1,24 @@
+{
+  "id": "github-ndl-systems-kevros-copilot-59a28950",
+  "name": "ndl-systems/kevros-copilot",
+  "description": "Precision decisioning for autonomous agents — cryptographic ALLOW/CLAMP/DENY authorization with HMAC-signed release tokens and hash-chained provenance. Free tier: 100 calls/month. [Live gateway](https://governance.taskhawktech.com)",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-ndl-systems-kevros-copilot-59a28950",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ndl-systems-kevros-copilot-59a28950)",
+  "links": {
+    "primary": "https://github.com/ndl-systems/kevros-copilot",
+    "repo": "https://github.com/ndl-systems/kevros-copilot",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-husqvaluna-spike-symbol-mcp-server-158e1392",
+  "name": "husqvaluna/spike-symbol-mcp-server",
+  "description": "A Symbol MCP server facilitating integration with Symbol's open API for streamlined communication and data handling.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-husqvaluna-spike-symbol-mcp-server-158e1392",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-husqvaluna-spike-symbol-mcp-server-158e1392)",
+  "links": {
+    "primary": "https://github.com/husqvaluna/spike-symbol-mcp-server",
+    "repo": "https://github.com/husqvaluna/spike-symbol-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

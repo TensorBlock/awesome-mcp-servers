@@ -1,0 +1,24 @@
+{
+  "id": "github-hualuai-mssql-mcp-c5001c60",
+  "name": "HuaLuAI/mssql-mcp",
+  "description": "Facilitates SQL query execution and business intelligence insights on MSSQL databases.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-hualuai-mssql-mcp-c5001c60",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hualuai-mssql-mcp-c5001c60)",
+  "links": {
+    "primary": "https://github.com/HuaLuAI/mssql-mcp",
+    "repo": "https://github.com/HuaLuAI/mssql-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

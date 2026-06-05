@@ -1,0 +1,24 @@
+{
+  "id": "github-doofie15-supabase-11c8b06a",
+  "name": "Doofie15/Supabase-",
+  "description": "Empower your IDE to safely execute SQL, manage schema changes, and interact with Supabase APIs using natural language.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-doofie15-supabase-11c8b06a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-doofie15-supabase-11c8b06a)",
+  "links": {
+    "primary": "https://github.com/Doofie15/Supabase-",
+    "repo": "https://github.com/Doofie15/Supabase-",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

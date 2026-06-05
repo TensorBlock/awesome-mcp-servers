@@ -1,0 +1,24 @@
+{
+  "id": "github-doggybee-mcp-server-ccxt-6c39b10b",
+  "name": "doggybee/mcp-server-ccxt",
+  "description": "Facilitates seamless integration of language models with cryptocurrency exchanges using the Model Context Protocol and CCXT.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-doggybee-mcp-server-ccxt-6c39b10b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-doggybee-mcp-server-ccxt-6c39b10b)",
+  "links": {
+    "primary": "https://github.com/doggybee/mcp-server-ccxt",
+    "repo": "https://github.com/doggybee/mcp-server-ccxt",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

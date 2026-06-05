@@ -58,3 +58,5 @@ Servers focused on interacting with local or remote file systems for reading, wr
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server): A Go server enabling filesystem operations through the Model Context Protocol, offering functionalities like file manipulation and directory management.
 - [philgei/mcp_server_filesystem](https://github.com/philgei/mcp_server_filesystem): An unofficial port of Claude's filesystem MCP server implementation for educational purposes, allowing directory access through Claude Desktop.
 
+
+- [fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp): Advanced filesystem operations with large file handling capabilities and Claude-optimized features. Provides fast file reading/writing, sequential reading for large files, directory operations, file search, and streaming writes with backup & recovery.

@@ -1,0 +1,24 @@
+{
+  "id": "github-francisoliverlee-rocketmq-mcp-718ff95e",
+  "name": "francisoliverlee/rocketmq-mcp",
+  "description": "Facilitates message queuing and streaming with RocketMQ through a robust MCP server interface.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-francisoliverlee-rocketmq-mcp-718ff95e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-francisoliverlee-rocketmq-mcp-718ff95e)",
+  "links": {
+    "primary": "https://github.com/francisoliverlee/rocketmq-mcp",
+    "repo": "https://github.com/francisoliverlee/rocketmq-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

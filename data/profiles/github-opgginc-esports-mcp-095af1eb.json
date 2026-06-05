@@ -1,0 +1,24 @@
+{
+  "id": "github-opgginc-esports-mcp-095af1eb",
+  "name": "opgginc/esports-mcp",
+  "description": "Connects OP.GG Esports data with AI agents for retrieving League of Legends match schedules.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-opgginc-esports-mcp-095af1eb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-opgginc-esports-mcp-095af1eb)",
+  "links": {
+    "primary": "https://github.com/opgginc/esports-mcp",
+    "repo": "https://github.com/opgginc/esports-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

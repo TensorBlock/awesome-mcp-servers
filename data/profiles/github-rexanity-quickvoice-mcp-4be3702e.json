@@ -1,0 +1,24 @@
+{
+  "id": "github-rexanity-quickvoice-mcp-4be3702e",
+  "name": "rexanity/quickvoice_mcp",
+  "description": "Facilitates communication with QuickVoice AI Voice agents for initiating and managing voice calls.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-rexanity-quickvoice-mcp-4be3702e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rexanity-quickvoice-mcp-4be3702e)",
+  "links": {
+    "primary": "https://github.com/rexanity/quickvoice_mcp",
+    "repo": "https://github.com/rexanity/quickvoice_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

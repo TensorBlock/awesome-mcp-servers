@@ -1,0 +1,24 @@
+{
+  "id": "github-aditya002p-mcp-server-176ed195",
+  "name": "aditya002p/mcp-server",
+  "description": "Empowers AI assistants to perform real-time web searches using Exa's API, providing structured results and caching capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-aditya002p-mcp-server-176ed195",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aditya002p-mcp-server-176ed195)",
+  "links": {
+    "primary": "https://github.com/aditya002p/mcp-server",
+    "repo": "https://github.com/aditya002p/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

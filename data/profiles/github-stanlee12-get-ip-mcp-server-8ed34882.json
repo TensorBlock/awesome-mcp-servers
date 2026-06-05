@@ -1,0 +1,24 @@
+{
+  "id": "github-stanlee12-get-ip-mcp-server-8ed34882",
+  "name": "StanLee12/get-ip-mcp-server",
+  "description": "Provides IP information retrieval capabilities using the MCP framework.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-stanlee12-get-ip-mcp-server-8ed34882",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stanlee12-get-ip-mcp-server-8ed34882)",
+  "links": {
+    "primary": "https://github.com/StanLee12/get-ip-mcp-server",
+    "repo": "https://github.com/StanLee12/get-ip-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
