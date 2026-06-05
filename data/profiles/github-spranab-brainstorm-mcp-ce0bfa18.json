@@ -1,0 +1,24 @@
+{
+  "id": "github-spranab-brainstorm-mcp-ce0bfa18",
+  "name": "spranab/brainstorm-mcp",
+  "description": "Multi-round AI brainstorming debates between multiple models (GPT, DeepSeek, Groq, Ollama, etc.). Pit different LLMs against each other to explore ideas from diverse perspectives.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-spranab-brainstorm-mcp-ce0bfa18",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-spranab-brainstorm-mcp-ce0bfa18)",
+  "links": {
+    "primary": "https://github.com/spranab/brainstorm-mcp",
+    "repo": "https://github.com/spranab/brainstorm-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

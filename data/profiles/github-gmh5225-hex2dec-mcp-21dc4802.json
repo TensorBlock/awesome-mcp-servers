@@ -1,0 +1,24 @@
+{
+  "id": "github-gmh5225-hex2dec-mcp-21dc4802",
+  "name": "gmh5225/hex2dec-mcp",
+  "description": "Facilitates hexadecimal to decimal conversions to address LLM hallucinations.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-gmh5225-hex2dec-mcp-21dc4802",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gmh5225-hex2dec-mcp-21dc4802)",
+  "links": {
+    "primary": "https://github.com/gmh5225/hex2dec-mcp",
+    "repo": "https://github.com/gmh5225/hex2dec-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

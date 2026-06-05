@@ -1,0 +1,24 @@
+{
+  "id": "github-entanglr-laravel-artisan-mcp-4cb9a31d",
+  "name": "entanglr/laravel-artisan-mcp",
+  "description": "Facilitates secure execution of Laravel Artisan commands via AI assistants like Claude, bridging natural language interactions with Laravel projects.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-entanglr-laravel-artisan-mcp-4cb9a31d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-entanglr-laravel-artisan-mcp-4cb9a31d)",
+  "links": {
+    "primary": "https://github.com/entanglr/laravel-artisan-mcp",
+    "repo": "https://github.com/entanglr/laravel-artisan-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

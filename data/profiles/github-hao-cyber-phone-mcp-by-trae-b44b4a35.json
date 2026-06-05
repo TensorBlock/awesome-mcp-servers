@@ -1,0 +1,24 @@
+{
+  "id": "github-hao-cyber-phone-mcp-by-trae-b44b4a35",
+  "name": "hao-cyber/phone-mcp-by-trae",
+  "description": "Control Android phones via ADB commands using a Trae-based MCP plugin.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-hao-cyber-phone-mcp-by-trae-b44b4a35",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hao-cyber-phone-mcp-by-trae-b44b4a35)",
+  "links": {
+    "primary": "https://github.com/hao-cyber/phone-mcp-by-trae",
+    "repo": "https://github.com/hao-cyber/phone-mcp-by-trae",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

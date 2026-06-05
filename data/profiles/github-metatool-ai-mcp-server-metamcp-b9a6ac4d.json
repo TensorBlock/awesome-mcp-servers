@@ -1,0 +1,24 @@
+{
+  "id": "github-metatool-ai-mcp-server-metamcp-b9a6ac4d",
+  "name": "metatool-ai/mcp-server-metamcp",
+  "description": "MetaMCP MCP Server acts as a proxy server, integrating multiple MCP servers into a unified system for streamlined tool and resource management.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-metatool-ai-mcp-server-metamcp-b9a6ac4d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-metatool-ai-mcp-server-metamcp-b9a6ac4d)",
+  "links": {
+    "primary": "https://github.com/metatool-ai/mcp-server-metamcp",
+    "repo": "https://github.com/metatool-ai/mcp-server-metamcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

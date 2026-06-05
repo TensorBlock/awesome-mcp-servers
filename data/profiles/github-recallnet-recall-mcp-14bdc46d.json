@@ -1,0 +1,24 @@
+{
+  "id": "github-recallnet-recall-mcp-14bdc46d",
+  "name": "recallnet/recall-mcp",
+  "description": "Facilitates blockchain storage operations with Recall services, offering account, bucket, and object management through a secure MCP server.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-recallnet-recall-mcp-14bdc46d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-recallnet-recall-mcp-14bdc46d)",
+  "links": {
+    "primary": "https://github.com/recallnet/recall-mcp",
+    "repo": "https://github.com/recallnet/recall-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

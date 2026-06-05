@@ -1,0 +1,24 @@
+{
+  "id": "github-abdallah-abdelsabour-mcp-odoo-3d2ab3ab",
+  "name": "abdallah-abdelsabour/mcp_odoo",
+  "description": "Integrates Odoo ORM methods with Claude Desktop using an MCP server for prompt processing.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-abdallah-abdelsabour-mcp-odoo-3d2ab3ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abdallah-abdelsabour-mcp-odoo-3d2ab3ab)",
+  "links": {
+    "primary": "https://github.com/abdallah-abdelsabour/mcp_odoo",
+    "repo": "https://github.com/abdallah-abdelsabour/mcp_odoo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

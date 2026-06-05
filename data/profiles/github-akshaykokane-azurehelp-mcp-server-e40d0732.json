@@ -1,0 +1,24 @@
+{
+  "id": "github-akshaykokane-azurehelp-mcp-server-e40d0732",
+  "name": "akshaykokane/azurehelp-mcp-server",
+  "description": "Facilitates AI-driven troubleshooting of Azure resources by integrating with Azure's Guided Troubleshooter API.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-akshaykokane-azurehelp-mcp-server-e40d0732",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-akshaykokane-azurehelp-mcp-server-e40d0732)",
+  "links": {
+    "primary": "https://github.com/akshaykokane/azurehelp-mcp-server",
+    "repo": "https://github.com/akshaykokane/azurehelp-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

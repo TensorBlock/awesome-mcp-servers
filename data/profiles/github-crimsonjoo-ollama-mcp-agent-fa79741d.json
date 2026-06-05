@@ -1,0 +1,24 @@
+{
+  "id": "github-crimsonjoo-ollama-mcp-agent-fa79741d",
+  "name": "crimsonjoo/ollama-mcp-agent",
+  "description": "Leverage local LLM models with enhanced capabilities through Ollama MCP Agent, enabling tool call monitoring and streaming responses.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-crimsonjoo-ollama-mcp-agent-fa79741d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-crimsonjoo-ollama-mcp-agent-fa79741d)",
+  "links": {
+    "primary": "https://github.com/crimsonjoo/ollama-mcp-agent",
+    "repo": "https://github.com/crimsonjoo/ollama-mcp-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

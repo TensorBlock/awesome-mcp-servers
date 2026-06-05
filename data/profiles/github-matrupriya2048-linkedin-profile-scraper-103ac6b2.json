@@ -1,0 +1,24 @@
+{
+  "id": "github-matrupriya2048-linkedin-profile-scraper-103ac6b2",
+  "name": "matrupriya2048/linkedin-profile-scraper",
+  "description": "Fetch LinkedIn profile data asynchronously using the Fresh LinkedIn Profile Data API, with environment-based configuration and MCP framework integration.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-matrupriya2048-linkedin-profile-scraper-103ac6b2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-matrupriya2048-linkedin-profile-scraper-103ac6b2)",
+  "links": {
+    "primary": "https://github.com/matrupriya2048/linkedin-profile-scraper",
+    "repo": "https://github.com/matrupriya2048/linkedin-profile-scraper",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-blck-snwmn-repodocs-ff13bb18",
+  "name": "blck-snwmn/repodocs",
+  "description": "Facilitates document management and access within repositories using a simple MCP server setup.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-blck-snwmn-repodocs-ff13bb18",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-blck-snwmn-repodocs-ff13bb18)",
+  "links": {
+    "primary": "https://github.com/blck-snwmn/repodocs",
+    "repo": "https://github.com/blck-snwmn/repodocs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

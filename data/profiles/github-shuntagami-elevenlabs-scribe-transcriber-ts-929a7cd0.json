@@ -1,0 +1,24 @@
+{
+  "id": "github-shuntagami-elevenlabs-scribe-transcriber-ts-929a7cd0",
+  "name": "shuntagami/elevenlabs-scribe-transcriber-ts",
+  "description": "A TypeScript tool for transcribing audio and video files using the ElevenLabs Scribe model, with MCP server capabilities for integration with clients like Claude Desktop.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-shuntagami-elevenlabs-scribe-transcriber-ts-929a7cd0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shuntagami-elevenlabs-scribe-transcriber-ts-929a7cd0)",
+  "links": {
+    "primary": "https://github.com/shuntagami/elevenlabs-scribe-transcriber-ts",
+    "repo": "https://github.com/shuntagami/elevenlabs-scribe-transcriber-ts",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

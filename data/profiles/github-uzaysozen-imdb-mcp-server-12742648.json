@@ -1,0 +1,24 @@
+{
+  "id": "github-uzaysozen-imdb-mcp-server-12742648",
+  "name": "uzaysozen/imdb-mcp-server",
+  "description": "Access IMDb movie and TV show data through a Python MCP server using the IMDb API.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-uzaysozen-imdb-mcp-server-12742648",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-uzaysozen-imdb-mcp-server-12742648)",
+  "links": {
+    "primary": "https://github.com/uzaysozen/imdb-mcp-server",
+    "repo": "https://github.com/uzaysozen/imdb-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

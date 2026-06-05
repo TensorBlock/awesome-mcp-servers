@@ -1,0 +1,24 @@
+{
+  "id": "github-podaac-cmr-mcp-521952e2",
+  "name": "podaac/cmr-mcp",
+  "description": "Integrates AI retrievals with NASA's Earthdata Catalog using the Model Context Protocol.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-podaac-cmr-mcp-521952e2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-podaac-cmr-mcp-521952e2)",
+  "links": {
+    "primary": "https://github.com/podaac/cmr-mcp",
+    "repo": "https://github.com/podaac/cmr-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-bloomingg-simple-mcp-server-6a7c405e",
+  "name": "Bloomingg/simple-mcp-server",
+  "description": "A TypeScript-based MCP server featuring a simple echo tool for message repetition, designed for integration with MCP clients like Claude Desktop.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-bloomingg-simple-mcp-server-6a7c405e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bloomingg-simple-mcp-server-6a7c405e)",
+  "links": {
+    "primary": "https://github.com/Bloomingg/simple-mcp-server",
+    "repo": "https://github.com/Bloomingg/simple-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

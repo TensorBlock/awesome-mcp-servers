@@ -2,6 +2,7 @@
 
 Servers interacting with game engines, game platforms/APIs, or providing game-related tools.
 
+- [BASIC-BIT/vrchat-mcp](https://github.com/BASIC-BIT/vrchat-mcp): Access VRChat friends, worlds, groups, events, notifications, status, avatars, and VRCX history from MCP clients.
 - [Signal-Loop/UnityCodeMCPServer](https://github.com/Signal-Loop/UnityCodeMCPServer): Performs any task in Unity Editor by executing C# scripts. Full access to UnityEngine, UnityEditor APIs, and reflection. Use for manipulating GameObjects, scenes, components, or automating Unity Editor tasks.
 - [sedyh/ebitengine-mcp](https://github.com/sedyh/ebitengine-mcp): Facilitates the integration of Ebitengine games with MCP servers for enhanced game control and management.
 - [ecovacs-ai/ecovacs-mcp](https://github.com/ecovacs-ai/ecovacs-mcp): Ecovacs MCP Server enables seamless integration of cleaning robot services into large models, facilitating device management and control operations like cleaning and recharging.
@@ -18,6 +19,8 @@ Servers interacting with game engines, game platforms/APIs, or providing game-re
 - [Jeremy-Min-Yang/minecraft-mcp-server-pixel](https://github.com/Jeremy-Min-Yang/minecraft-mcp-server-pixel): Enables AI-driven control of a Minecraft bot using the Mineflayer API for automated building and exploration.
 - [v9rt3x/cs2-rcon-mcp](https://github.com/v9rt3x/cs2-rcon-mcp): Facilitates remote management and monitoring of Counter-Strike 2 servers using RCON commands through a Model Context Protocol interface.
 - [passontw/slotdemo](https://github.com/passontw/slotdemo): A modern slot machine game built with native JavaScript, CSS animations, and Tailwind CSS, offering a smooth and interactive gaming experience.
+- [jimbo530/baselings-mcp](https://github.com/jimbo530/baselings-mcp): 43 MCP tools for AI agents to play Baselings, a yield-generating pet game on Base chain with guardrailed DeFi swaps, token launches, reactor burns, and carbon retirement. No API key required. Install: `npx baselings-mcp`.
+$UNIFIED
 - [henryco23/NBA](https://github.com/henryco23/NBA): A Python server utilizing MCP to provide comprehensive access to NBA statistics and live game data through the NBA API.
 - [yeonupark/mcp-soccer-data](https://github.com/yeonupark/mcp-soccer-data): Delivers real-time football match data through natural language interactions using the SoccerDataAPI.
 - [andrzejsliwa/6510emu_in_c](https://github.com/andrzejsliwa/6510emu_in_c): A modern C implementation of a 6510/6502 CPU emulator with disassembly support, used in the Commodore 64.
@@ -108,3 +111,4 @@ Servers interacting with game engines, game platforms/APIs, or providing game-re
 - [yamaton/mcp-dice](https://github.com/yamaton/mcp-dice): Enables LLMs to roll dice using standard dice notation, providing both individual rolls and their sum.
 - [maxsloef/loom-mcp](https://github.com/maxsloef/loom-mcp): A TypeScript-based MCP server that implements a simple loom interface for Claude, enabling parallel generation and selection of model completions.
 
+- [loomle/loomle](https://github.com/loomle/loomle): Unreal Engine MCP server for Claude Code, Codex, and AI agents to inspect and edit live UE projects through Blueprint, Material, PCG, UMG, asset, context, and diagnostics tools.

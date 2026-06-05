@@ -1,0 +1,24 @@
+{
+  "id": "github-laksh-star-mcp-server-tmdb-74917842",
+  "name": "Laksh-star/mcp-server-tmdb",
+  "description": "Integrates with TMDB API to provide movie information, search capabilities, and recommendations.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-laksh-star-mcp-server-tmdb-74917842",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-laksh-star-mcp-server-tmdb-74917842)",
+  "links": {
+    "primary": "https://github.com/Laksh-star/mcp-server-tmdb",
+    "repo": "https://github.com/Laksh-star/mcp-server-tmdb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

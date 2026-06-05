@@ -1,0 +1,24 @@
+{
+  "id": "github-garasegae-aiskillstore-492a9375",
+  "name": "garasegae/aiskillstore",
+  "description": "Agent-first AI skill marketplace with open USK standard. Search, install, and share reusable skills across 7 platforms (Claude Code, Cursor, Codex CLI, Windsurf, Cline, Roo Code) via MCP. Features skill vetting, agent-autonomous upload, and cross-platform discovery.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-garasegae-aiskillstore-492a9375",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-garasegae-aiskillstore-492a9375)",
+  "links": {
+    "primary": "https://github.com/garasegae/aiskillstore",
+    "repo": "https://github.com/garasegae/aiskillstore",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

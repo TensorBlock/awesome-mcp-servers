@@ -1,0 +1,24 @@
+{
+  "id": "github-anuragrai017-database-updater-mcp-server-46fe0a0f",
+  "name": "AnuragRai017/database-updater-MCP-Server",
+  "description": "Facilitates seamless database updates from CSV and Excel files across various database systems.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-anuragrai017-database-updater-mcp-server-46fe0a0f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anuragrai017-database-updater-mcp-server-46fe0a0f)",
+  "links": {
+    "primary": "https://github.com/AnuragRai017/database-updater-MCP-Server",
+    "repo": "https://github.com/AnuragRai017/database-updater-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

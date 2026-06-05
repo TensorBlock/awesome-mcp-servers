@@ -1,0 +1,24 @@
+{
+  "id": "github-liuchongchong1995-nodejs-46d4d42f",
+  "name": "liuchongchong1995/nodejs",
+  "description": "Facilitates runtime debugging of Node.js applications using Cursor or Claude Code.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-liuchongchong1995-nodejs-46d4d42f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-liuchongchong1995-nodejs-46d4d42f)",
+  "links": {
+    "primary": "https://github.com/liuchongchong1995/nodejs",
+    "repo": "https://github.com/liuchongchong1995/nodejs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

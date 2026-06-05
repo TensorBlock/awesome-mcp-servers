@@ -1,0 +1,24 @@
+{
+  "id": "github-mvkvc-kagi-mcp-local-521f84f5",
+  "name": "mvkvc/kagi_mcp_local",
+  "description": "Facilitates Kagi Search through a local browser interface, enhancing personal search efficiency.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-mvkvc-kagi-mcp-local-521f84f5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mvkvc-kagi-mcp-local-521f84f5)",
+  "links": {
+    "primary": "https://github.com/mvkvc/kagi_mcp_local",
+    "repo": "https://github.com/mvkvc/kagi_mcp_local",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

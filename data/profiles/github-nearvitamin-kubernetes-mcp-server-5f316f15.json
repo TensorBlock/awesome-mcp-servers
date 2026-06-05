@@ -1,0 +1,24 @@
+{
+  "id": "github-nearvitamin-kubernetes-mcp-server-5f316f15",
+  "name": "nearvitamin/kubernetes-mcp-server",
+  "description": "Facilitates Kubernetes and OpenShift container management through a Model Context Protocol server, enabling dynamic configuration and resource operations.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-nearvitamin-kubernetes-mcp-server-5f316f15",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nearvitamin-kubernetes-mcp-server-5f316f15)",
+  "links": {
+    "primary": "https://github.com/nearvitamin/kubernetes-mcp-server",
+    "repo": "https://github.com/nearvitamin/kubernetes-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

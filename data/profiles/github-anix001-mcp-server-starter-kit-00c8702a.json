@@ -1,0 +1,24 @@
+{
+  "id": "github-anix001-mcp-server-starter-kit-00c8702a",
+  "name": "anix001/mcp-server-starter-kit",
+  "description": "A TypeScript SDK for building MCP servers and clients, facilitating seamless context provision for LLMs.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-anix001-mcp-server-starter-kit-00c8702a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anix001-mcp-server-starter-kit-00c8702a)",
+  "links": {
+    "primary": "https://github.com/anix001/mcp-server-starter-kit",
+    "repo": "https://github.com/anix001/mcp-server-starter-kit",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

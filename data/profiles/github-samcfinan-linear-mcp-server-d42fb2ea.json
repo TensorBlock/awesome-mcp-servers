@@ -1,0 +1,24 @@
+{
+  "id": "github-samcfinan-linear-mcp-server-d42fb2ea",
+  "name": "samcfinan/linear-mcp-server",
+  "description": "Enhances project management capabilities for Linear API users through a comprehensive MCP server, facilitating initiatives, projects, and issue management with advanced relationship handling.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-samcfinan-linear-mcp-server-d42fb2ea",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-samcfinan-linear-mcp-server-d42fb2ea)",
+  "links": {
+    "primary": "https://github.com/samcfinan/linear-mcp-server",
+    "repo": "https://github.com/samcfinan/linear-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
