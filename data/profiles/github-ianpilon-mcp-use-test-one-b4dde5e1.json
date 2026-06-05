@@ -1,0 +1,24 @@
+{
+  "id": "github-ianpilon-mcp-use-test-one-b4dde5e1",
+  "name": "ianpilon/MCP-Use-test-one",
+  "description": "MCP-Use is an open-source library enabling seamless integration of LLMs with MCP servers for building custom agents with tool access.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-ianpilon-mcp-use-test-one-b4dde5e1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ianpilon-mcp-use-test-one-b4dde5e1)",
+  "links": {
+    "primary": "https://github.com/ianpilon/MCP-Use-test-one",
+    "repo": "https://github.com/ianpilon/MCP-Use-test-one",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

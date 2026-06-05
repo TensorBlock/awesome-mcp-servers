@@ -1,0 +1,24 @@
+{
+  "id": "github-llcdj-figma-context-mcp-main-0ec861ce",
+  "name": "llcdj/Figma-Context-MCP-main",
+  "description": "Enable AI-powered coding tools to access and utilize Figma design data efficiently for accurate one-shot design implementations.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-llcdj-figma-context-mcp-main-0ec861ce",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-llcdj-figma-context-mcp-main-0ec861ce)",
+  "links": {
+    "primary": "https://github.com/llcdj/Figma-Context-MCP-main",
+    "repo": "https://github.com/llcdj/Figma-Context-MCP-main",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

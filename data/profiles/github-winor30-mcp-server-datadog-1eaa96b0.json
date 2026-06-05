@@ -1,0 +1,24 @@
+{
+  "id": "github-winor30-mcp-server-datadog-1eaa96b0",
+  "name": "winor30/mcp-server-datadog",
+  "description": "Facilitates seamless integration with Datadog's monitoring features through an MCP server, enabling efficient incident management and observability.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-winor30-mcp-server-datadog-1eaa96b0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-winor30-mcp-server-datadog-1eaa96b0)",
+  "links": {
+    "primary": "https://github.com/winor30/mcp-server-datadog",
+    "repo": "https://github.com/winor30/mcp-server-datadog",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

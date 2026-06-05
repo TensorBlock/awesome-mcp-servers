@@ -1,0 +1,24 @@
+{
+  "id": "github-bjpadhy-clickhouse-mcp-server-7886fbb9",
+  "name": "bjpadhy/clickhouse-mcp-server",
+  "description": "Facilitates natural language data exploration and analysis on ClickHouse databases using LLMs like Claude.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-bjpadhy-clickhouse-mcp-server-7886fbb9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bjpadhy-clickhouse-mcp-server-7886fbb9)",
+  "links": {
+    "primary": "https://github.com/bjpadhy/clickhouse-mcp-server",
+    "repo": "https://github.com/bjpadhy/clickhouse-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-michael7736-weather-mcp-server-616c7e42",
+  "name": "michael7736/weather-mcp-server",
+  "description": "Provides real-time USA weather information via the National Weather Service API for MCP-compatible AI assistants.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-michael7736-weather-mcp-server-616c7e42",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-michael7736-weather-mcp-server-616c7e42)",
+  "links": {
+    "primary": "https://github.com/michael7736/weather-mcp-server",
+    "repo": "https://github.com/michael7736/weather-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

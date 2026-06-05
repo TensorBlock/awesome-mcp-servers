@@ -1,0 +1,24 @@
+{
+  "id": "github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19",
+  "name": "Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+  "description": "AI-first stock analysis for Indian markets — 34 tools to search, screen & analyze all 8,200+ NSE and BSE stocks: live quotes, financials, technicals, a 326-ratio screener, FII/DII institutional flows, IPOs & portfolio tracking. Hosted MCP, works with Claude, ChatGPT, Cursor & any MCP client. Install: `npx tapetide-mcp`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19)",
+  "links": {
+    "primary": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+    "repo": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": 34
+  }
+}

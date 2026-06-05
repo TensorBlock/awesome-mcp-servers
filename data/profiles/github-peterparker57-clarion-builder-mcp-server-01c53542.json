@@ -1,0 +1,24 @@
+{
+  "id": "github-peterparker57-clarion-builder-mcp-server-01c53542",
+  "name": "peterparker57/clarion-builder-mcp-server",
+  "description": "Facilitates automated Clarion IDE operations and build management through ClarionCL and MSBuild integration.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-peterparker57-clarion-builder-mcp-server-01c53542",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-peterparker57-clarion-builder-mcp-server-01c53542)",
+  "links": {
+    "primary": "https://github.com/peterparker57/clarion-builder-mcp-server",
+    "repo": "https://github.com/peterparker57/clarion-builder-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

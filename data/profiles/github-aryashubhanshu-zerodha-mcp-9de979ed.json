@@ -1,0 +1,24 @@
+{
+  "id": "github-aryashubhanshu-zerodha-mcp-9de979ed",
+  "name": "aryashubhanshu/zerodha-mcp",
+  "description": "Facilitates interaction with the Zerodha exchange through a Model Context Protocol server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-aryashubhanshu-zerodha-mcp-9de979ed",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aryashubhanshu-zerodha-mcp-9de979ed)",
+  "links": {
+    "primary": "https://github.com/aryashubhanshu/zerodha-mcp",
+    "repo": "https://github.com/aryashubhanshu/zerodha-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

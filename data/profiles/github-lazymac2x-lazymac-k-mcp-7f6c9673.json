@@ -1,0 +1,24 @@
+{
+  "id": "github-lazymac2x-lazymac-k-mcp-7f6c9673",
+  "name": "lazymac2x/lazymac-k-mcp",
+  "description": "Korean wedge MCP — PIPA compliance, KRW + BOK rates, 사업자등록번호 lookup, address geocoding, NLP. `npx -y @lazymac/k-mcp`",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-lazymac2x-lazymac-k-mcp-7f6c9673",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lazymac2x-lazymac-k-mcp-7f6c9673)",
+  "links": {
+    "primary": "https://github.com/lazymac2x/lazymac-k-mcp",
+    "repo": "https://github.com/lazymac2x/lazymac-k-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

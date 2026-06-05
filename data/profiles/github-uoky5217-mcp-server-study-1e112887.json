@@ -1,0 +1,25 @@
+{
+  "id": "github-uoky5217-mcp-server-study-1e112887",
+  "name": "uoky5217/Mcp-Server-Study",
+  "description": "A learning project implementing an MCP server with stdio and SSE transport methods for basic arithmetic operations.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-uoky5217-mcp-server-study-1e112887",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-uoky5217-mcp-server-study-1e112887)",
+  "links": {
+    "primary": "https://github.com/uoky5217/Mcp-Server-Study",
+    "repo": "https://github.com/uoky5217/Mcp-Server-Study",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

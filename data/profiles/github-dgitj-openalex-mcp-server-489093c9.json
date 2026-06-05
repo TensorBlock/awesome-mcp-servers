@@ -1,0 +1,24 @@
+{
+  "id": "github-dgitj-openalex-mcp-server-489093c9",
+  "name": "dgitj/openalex-mcp-server",
+  "description": "Facilitates academic paper searches through the OpenAlex API, offering detailed insights into papers, authors, and citations.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-dgitj-openalex-mcp-server-489093c9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dgitj-openalex-mcp-server-489093c9)",
+  "links": {
+    "primary": "https://github.com/dgitj/openalex-mcp-server",
+    "repo": "https://github.com/dgitj/openalex-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

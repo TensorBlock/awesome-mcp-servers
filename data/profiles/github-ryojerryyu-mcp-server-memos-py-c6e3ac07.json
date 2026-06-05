@@ -1,0 +1,24 @@
+{
+  "id": "github-ryojerryyu-mcp-server-memos-py-c6e3ac07",
+  "name": "RyoJerryYu/mcp-server-memos-py",
+  "description": "Enables LLM models to interact with the Memos server for memo management via the MCP interface.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-ryojerryyu-mcp-server-memos-py-c6e3ac07",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ryojerryyu-mcp-server-memos-py-c6e3ac07)",
+  "links": {
+    "primary": "https://github.com/RyoJerryYu/mcp-server-memos-py",
+    "repo": "https://github.com/RyoJerryYu/mcp-server-memos-py",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

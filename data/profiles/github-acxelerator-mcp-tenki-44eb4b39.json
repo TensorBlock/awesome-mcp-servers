@@ -1,0 +1,24 @@
+{
+  "id": "github-acxelerator-mcp-tenki-44eb4b39",
+  "name": "acxelerator/mcp-tenki",
+  "description": "Provides real-time weather updates for Japan through an MCP server interface.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-acxelerator-mcp-tenki-44eb4b39",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-acxelerator-mcp-tenki-44eb4b39)",
+  "links": {
+    "primary": "https://github.com/acxelerator/mcp-tenki",
+    "repo": "https://github.com/acxelerator/mcp-tenki",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

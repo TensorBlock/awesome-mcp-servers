@@ -1,0 +1,24 @@
+{
+  "id": "github-dennj-mcp-calculator-2b4ce15e",
+  "name": "dennj/mcp-calculator",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-dennj-mcp-calculator-2b4ce15e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dennj-mcp-calculator-2b4ce15e)",
+  "links": {
+    "primary": "https://github.com/dennj/mcp-calculator",
+    "repo": "https://github.com/dennj/mcp-calculator",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

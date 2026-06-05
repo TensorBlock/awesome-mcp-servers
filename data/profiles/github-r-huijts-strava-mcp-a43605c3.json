@@ -1,0 +1,24 @@
+{
+  "id": "github-r-huijts-strava-mcp-a43605c3",
+  "name": "r-huijts/strava-mcp",
+  "description": "Connects to Strava API, enabling LLMs to access and manage Strava data and activities.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-r-huijts-strava-mcp-a43605c3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-r-huijts-strava-mcp-a43605c3)",
+  "links": {
+    "primary": "https://github.com/r-huijts/strava-mcp",
+    "repo": "https://github.com/r-huijts/strava-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

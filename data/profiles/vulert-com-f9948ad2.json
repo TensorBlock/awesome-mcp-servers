@@ -1,0 +1,24 @@
+{
+  "id": "vulert-com-f9948ad2",
+  "name": "Vulert",
+  "description": "Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/vulert-com-f9948ad2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/vulert-com-f9948ad2)",
+  "links": {
+    "primary": "https://www.vulert.com",
+    "repo": null,
+    "homepage": "https://www.vulert.com",
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

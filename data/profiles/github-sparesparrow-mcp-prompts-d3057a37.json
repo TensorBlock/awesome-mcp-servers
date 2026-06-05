@@ -1,0 +1,24 @@
+{
+  "id": "github-sparesparrow-mcp-prompts-d3057a37",
+  "name": "sparesparrow/mcp-prompts",
+  "description": "Facilitates prompt management and template orchestration for AI applications, enhancing consistency in LLM interactions.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-sparesparrow-mcp-prompts-d3057a37",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sparesparrow-mcp-prompts-d3057a37)",
+  "links": {
+    "primary": "https://github.com/sparesparrow/mcp-prompts",
+    "repo": "https://github.com/sparesparrow/mcp-prompts",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

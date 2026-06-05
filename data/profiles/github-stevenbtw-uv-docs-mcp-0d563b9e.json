@@ -1,0 +1,24 @@
+{
+  "id": "github-stevenbtw-uv-docs-mcp-0d563b9e",
+  "name": "StevenBtw/uv-docs-mcp",
+  "description": "Provides programmatic access to UV package manager's documentation through a structured API, enabling efficient documentation queries and updates.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-stevenbtw-uv-docs-mcp-0d563b9e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stevenbtw-uv-docs-mcp-0d563b9e)",
+  "links": {
+    "primary": "https://github.com/StevenBtw/uv-docs-mcp",
+    "repo": "https://github.com/StevenBtw/uv-docs-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

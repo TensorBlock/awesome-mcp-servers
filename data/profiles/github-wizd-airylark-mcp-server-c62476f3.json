@@ -1,0 +1,24 @@
+{
+  "id": "github-wizd-airylark-mcp-server-c62476f3",
+  "name": "wizd/airylark-mcp-server",
+  "description": "AiryLark MCP server offers high-precision translation services with seamless integration for AI assistants, supporting multi-language translation and comprehensive quality assessment.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-wizd-airylark-mcp-server-c62476f3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wizd-airylark-mcp-server-c62476f3)",
+  "links": {
+    "primary": "https://github.com/wizd/airylark-mcp-server",
+    "repo": "https://github.com/wizd/airylark-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

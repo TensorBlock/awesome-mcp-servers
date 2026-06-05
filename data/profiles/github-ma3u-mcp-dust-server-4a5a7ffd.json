@@ -1,0 +1,24 @@
+{
+  "id": "github-ma3u-mcp-dust-server-4a5a7ffd",
+  "name": "ma3u/mcp-dust-server",
+  "description": "A bridge server facilitating seamless interaction between Dust AI agents and clients through the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ma3u-mcp-dust-server-4a5a7ffd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ma3u-mcp-dust-server-4a5a7ffd)",
+  "links": {
+    "primary": "https://github.com/ma3u/mcp-dust-server",
+    "repo": "https://github.com/ma3u/mcp-dust-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

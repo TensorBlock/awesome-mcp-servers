@@ -1,0 +1,24 @@
+{
+  "id": "github-goatwang-yttransciptermultilingualmcp-7a9f4f08",
+  "name": "GoatWang/YTTranscipterMultilingualMCP",
+  "description": "Transcribe YouTube videos into multiple languages using a multilingual MCP server.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-goatwang-yttransciptermultilingualmcp-7a9f4f08",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-goatwang-yttransciptermultilingualmcp-7a9f4f08)",
+  "links": {
+    "primary": "https://github.com/GoatWang/YTTranscipterMultilingualMCP",
+    "repo": "https://github.com/GoatWang/YTTranscipterMultilingualMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

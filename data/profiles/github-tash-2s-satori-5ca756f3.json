@@ -1,0 +1,24 @@
+{
+  "id": "github-tash-2s-satori-5ca756f3",
+  "name": "tash-2s/satori",
+  "description": "Satori is an MCP server designed for seamless integration with Slack, facilitating efficient command execution and interaction.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tash-2s-satori-5ca756f3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tash-2s-satori-5ca756f3)",
+  "links": {
+    "primary": "https://github.com/tash-2s/satori",
+    "repo": "https://github.com/tash-2s/satori",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

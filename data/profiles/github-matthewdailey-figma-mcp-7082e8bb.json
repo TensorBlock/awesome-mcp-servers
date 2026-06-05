@@ -1,0 +1,24 @@
+{
+  "id": "github-matthewdailey-figma-mcp-7082e8bb",
+  "name": "MatthewDailey/figma-mcp",
+  "description": "Facilitates AI-driven interactions with Figma designs, enabling viewing, commenting, and analysis through ModelContextProtocol.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-matthewdailey-figma-mcp-7082e8bb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-matthewdailey-figma-mcp-7082e8bb)",
+  "links": {
+    "primary": "https://github.com/MatthewDailey/figma-mcp",
+    "repo": "https://github.com/MatthewDailey/figma-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

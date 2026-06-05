@@ -1,0 +1,24 @@
+{
+  "id": "github-everforth-github-cli-mcp-server-633f0ab2",
+  "name": "Everforth/github-cli-mcp-server",
+  "description": "Facilitates secure GraphQL access to GitHub using a customizable Docker-based MCP server.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-everforth-github-cli-mcp-server-633f0ab2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-everforth-github-cli-mcp-server-633f0ab2)",
+  "links": {
+    "primary": "https://github.com/Everforth/github-cli-mcp-server",
+    "repo": "https://github.com/Everforth/github-cli-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

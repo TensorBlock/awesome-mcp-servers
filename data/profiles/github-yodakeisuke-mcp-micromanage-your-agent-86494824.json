@@ -1,0 +1,24 @@
+{
+  "id": "github-yodakeisuke-mcp-micromanage-your-agent-86494824",
+  "name": "yodakeisuke/mcp-micromanage-your-agent",
+  "description": "Facilitates detailed task management for coding agents with commit-level tracking and interactive visualization.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-yodakeisuke-mcp-micromanage-your-agent-86494824",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yodakeisuke-mcp-micromanage-your-agent-86494824)",
+  "links": {
+    "primary": "https://github.com/yodakeisuke/mcp-micromanage-your-agent",
+    "repo": "https://github.com/yodakeisuke/mcp-micromanage-your-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

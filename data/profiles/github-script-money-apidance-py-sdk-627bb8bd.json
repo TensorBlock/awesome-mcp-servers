@@ -1,0 +1,24 @@
+{
+  "id": "github-script-money-apidance-py-sdk-627bb8bd",
+  "name": "script-money/apidance-py-sdk",
+  "description": "A Python SDK for interacting with the Apidance API, featuring Twitter integration and MCP server hosting capabilities.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-script-money-apidance-py-sdk-627bb8bd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-script-money-apidance-py-sdk-627bb8bd)",
+  "links": {
+    "primary": "https://github.com/script-money/apidance-py-sdk",
+    "repo": "https://github.com/script-money/apidance-py-sdk",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

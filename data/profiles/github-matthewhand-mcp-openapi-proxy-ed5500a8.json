@@ -1,0 +1,24 @@
+{
+  "id": "github-matthewhand-mcp-openapi-proxy-ed5500a8",
+  "name": "matthewhand/mcp-openapi-proxy",
+  "description": "Facilitates seamless integration of OpenAPI-described APIs into MCP-based workflows by dynamically exposing REST APIs as MCP tools.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-matthewhand-mcp-openapi-proxy-ed5500a8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-matthewhand-mcp-openapi-proxy-ed5500a8)",
+  "links": {
+    "primary": "https://github.com/matthewhand/mcp-openapi-proxy",
+    "repo": "https://github.com/matthewhand/mcp-openapi-proxy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

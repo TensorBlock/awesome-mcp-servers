@@ -1,0 +1,24 @@
+{
+  "id": "github-arlandmv-custommcpai-modelcontextprotocol-githubapi-ts-ed7c3895",
+  "name": "ArlandMv/CustomMcpAI-ModelContextProtocol-GithubApi-TS",
+  "description": "Connects AI with GitHub's API using MCP to standardize repository data access for language models.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-arlandmv-custommcpai-modelcontextprotocol-githubapi-ts-ed7c3895",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arlandmv-custommcpai-modelcontextprotocol-githubapi-ts-ed7c3895)",
+  "links": {
+    "primary": "https://github.com/ArlandMv/CustomMcpAI-ModelContextProtocol-GithubApi-TS",
+    "repo": "https://github.com/ArlandMv/CustomMcpAI-ModelContextProtocol-GithubApi-TS",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

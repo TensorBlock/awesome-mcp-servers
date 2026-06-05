@@ -1,0 +1,24 @@
+{
+  "id": "github-jeroensmink98-telegram-mcp-14cc7acb",
+  "name": "jeroensmink98/telegram-mcp",
+  "description": "Facilitates AI-driven Telegram messaging through a Model Context Protocol server.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-jeroensmink98-telegram-mcp-14cc7acb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jeroensmink98-telegram-mcp-14cc7acb)",
+  "links": {
+    "primary": "https://github.com/jeroensmink98/telegram-mcp",
+    "repo": "https://github.com/jeroensmink98/telegram-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

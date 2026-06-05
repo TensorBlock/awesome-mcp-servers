@@ -1,0 +1,24 @@
+{
+  "id": "github-lasso-security-mcp-gateway-d1d78eab",
+  "name": "lasso-security/mcp-gateway",
+  "description": "MCP Gateway centralizes and enhances AI infrastructure by orchestrating multiple MCP servers, providing a unified interface, and ensuring secure data handling with advanced guardrails.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-lasso-security-mcp-gateway-d1d78eab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lasso-security-mcp-gateway-d1d78eab)",
+  "links": {
+    "primary": "https://github.com/lasso-security/mcp-gateway",
+    "repo": "https://github.com/lasso-security/mcp-gateway",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

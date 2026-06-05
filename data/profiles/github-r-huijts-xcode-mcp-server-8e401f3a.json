@@ -1,0 +1,24 @@
+{
+  "id": "github-r-huijts-xcode-mcp-server-8e401f3a",
+  "name": "r-huijts/xcode-mcp-server",
+  "description": "Enhances Xcode projects with AI-driven code assistance and project management through a secure MCP server integration.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-r-huijts-xcode-mcp-server-8e401f3a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-r-huijts-xcode-mcp-server-8e401f3a)",
+  "links": {
+    "primary": "https://github.com/r-huijts/xcode-mcp-server",
+    "repo": "https://github.com/r-huijts/xcode-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
