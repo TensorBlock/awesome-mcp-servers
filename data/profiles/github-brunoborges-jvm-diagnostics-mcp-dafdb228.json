@@ -1,0 +1,24 @@
+{
+  "id": "github-brunoborges-jvm-diagnostics-mcp-dafdb228",
+  "name": "brunoborges/jvm-diagnostics-mcp",
+  "description": "Enhances JVM diagnostic tools with a user-friendly prompt and exposes them via an MCP server for local use.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-brunoborges-jvm-diagnostics-mcp-dafdb228",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-brunoborges-jvm-diagnostics-mcp-dafdb228)",
+  "links": {
+    "primary": "https://github.com/brunoborges/jvm-diagnostics-mcp",
+    "repo": "https://github.com/brunoborges/jvm-diagnostics-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

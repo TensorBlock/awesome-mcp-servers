@@ -1,0 +1,24 @@
+{
+  "id": "github-kmathur-mcp-server-kubernetes-800292cc",
+  "name": "kmathur/mcp-server-kubernetes",
+  "description": "Facilitates Kubernetes cluster management through a Model Context Protocol server, enabling operations like pod management, namespace creation, and Helm chart installations.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-kmathur-mcp-server-kubernetes-800292cc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kmathur-mcp-server-kubernetes-800292cc)",
+  "links": {
+    "primary": "https://github.com/kmathur/mcp-server-kubernetes",
+    "repo": "https://github.com/kmathur/mcp-server-kubernetes",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

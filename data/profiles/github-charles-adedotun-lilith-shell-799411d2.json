@@ -1,0 +1,24 @@
+{
+  "id": "github-charles-adedotun-lilith-shell-799411d2",
+  "name": "charles-adedotun/Lilith-Shell",
+  "description": "Lilith Shell empowers AI assistants to securely execute terminal commands with enhanced security controls and testing.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-charles-adedotun-lilith-shell-799411d2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-charles-adedotun-lilith-shell-799411d2)",
+  "links": {
+    "primary": "https://github.com/charles-adedotun/Lilith-Shell",
+    "repo": "https://github.com/charles-adedotun/Lilith-Shell",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-yoshida24-preset-mcpserver-python-d2bc83ad",
+  "name": "Yoshida24/preset-mcpserver-python",
+  "description": "A Python-based template for developing MCP servers using fastmcp, designed to streamline dependency management with uv.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-yoshida24-preset-mcpserver-python-d2bc83ad",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yoshida24-preset-mcpserver-python-d2bc83ad)",
+  "links": {
+    "primary": "https://github.com/Yoshida24/preset-mcpserver-python",
+    "repo": "https://github.com/Yoshida24/preset-mcpserver-python",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-taskmaster-ai-insta-mcp-29fe5a33",
+  "name": "taskmaster-ai/insta-mcp",
+  "description": "Facilitates AI-driven Instagram direct messaging through a robust MCP server built with fastmcp and instagrapi.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-taskmaster-ai-insta-mcp-29fe5a33",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-taskmaster-ai-insta-mcp-29fe5a33)",
+  "links": {
+    "primary": "https://github.com/taskmaster-ai/insta-mcp",
+    "repo": "https://github.com/taskmaster-ai/insta-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

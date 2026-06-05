@@ -1,0 +1,24 @@
+{
+  "id": "github-huang-sh-scanpy-mcp-a1124d86",
+  "name": "huang-sh/scanpy-mcp",
+  "description": "Facilitates natural language-driven scRNA-Seq analysis using Scanpy, enabling seamless integration with AI clients and agent frameworks.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-huang-sh-scanpy-mcp-a1124d86",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-huang-sh-scanpy-mcp-a1124d86)",
+  "links": {
+    "primary": "https://github.com/huang-sh/scanpy-mcp",
+    "repo": "https://github.com/huang-sh/scanpy-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

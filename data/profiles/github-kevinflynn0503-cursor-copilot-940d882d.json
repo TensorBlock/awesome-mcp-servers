@@ -1,0 +1,24 @@
+{
+  "id": "github-kevinflynn0503-cursor-copilot-940d882d",
+  "name": "kevinflynn0503/cursor-copilot",
+  "description": "Enhance your VSCode experience with AI-driven document and prompt generation services, streamlining development workflows.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-kevinflynn0503-cursor-copilot-940d882d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kevinflynn0503-cursor-copilot-940d882d)",
+  "links": {
+    "primary": "https://github.com/kevinflynn0503/cursor-copilot",
+    "repo": "https://github.com/kevinflynn0503/cursor-copilot",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

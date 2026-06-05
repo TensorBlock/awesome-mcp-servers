@@ -354,3 +354,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [hide-org/hide-mcp](https://github.com/hide-org/hide-mcp): A headless IDE MCP server featuring a text editor and persistent bash shell for file management and command execution.
 - [KGT24k/mcp-tool-search](https://github.com/KGT24k/mcp-tool-search): MCP proxy that reduces context token usage by 85-96% via lazy tool loading, replacing 50-200+ tool schemas with 4 lightweight proxy tools. Compatible with Claude Code, Claude Desktop, Cursor, and Windsurf.
 
+
+- [FlatFilers/mcp-server-flatfile](https://github.com/FlatFilers/mcp-server-flatfile): Facilitates interaction with the Flatfile API through a customizable MCP server, enabling streamlined data management and integration.
+- [IteraTools](https://api.iteratools.com): Cloud-hosted multi-tool MCP API providing 34+ capabilities through a single endpoint: image generation (Flux), web scraping, TTS, OCR, browser automation, sandboxed code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and more. Pay-per-use with x402 micropayment protocol.

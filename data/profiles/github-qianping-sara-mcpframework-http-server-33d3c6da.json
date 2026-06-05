@@ -1,0 +1,24 @@
+{
+  "id": "github-qianping-sara-mcpframework-http-server-33d3c6da",
+  "name": "qianping-sara/mcpframework-http-server",
+  "description": "A robust MCP server built with mcp-framework, designed for seamless integration and tool development.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-qianping-sara-mcpframework-http-server-33d3c6da",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qianping-sara-mcpframework-http-server-33d3c6da)",
+  "links": {
+    "primary": "https://github.com/qianping-sara/mcpframework-http-server",
+    "repo": "https://github.com/qianping-sara/mcpframework-http-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

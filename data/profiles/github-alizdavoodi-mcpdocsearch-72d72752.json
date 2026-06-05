@@ -1,0 +1,24 @@
+{
+  "id": "github-alizdavoodi-mcpdocsearch-72d72752",
+  "name": "alizdavoodi/MCPDocSearch",
+  "description": "A toolset for crawling websites and generating searchable Markdown documentation via an MCP server, optimized for integration with tools like Cursor.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-alizdavoodi-mcpdocsearch-72d72752",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alizdavoodi-mcpdocsearch-72d72752)",
+  "links": {
+    "primary": "https://github.com/alizdavoodi/MCPDocSearch",
+    "repo": "https://github.com/alizdavoodi/MCPDocSearch",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

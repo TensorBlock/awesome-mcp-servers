@@ -1,0 +1,24 @@
+{
+  "id": "github-wllcnm-mcp-reddit-9b8fb165",
+  "name": "wllcnm/mcp-reddit",
+  "description": "Facilitates interaction with Reddit content through Claude and other large language models using the MCP protocol.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-wllcnm-mcp-reddit-9b8fb165",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wllcnm-mcp-reddit-9b8fb165)",
+  "links": {
+    "primary": "https://github.com/wllcnm/mcp-reddit",
+    "repo": "https://github.com/wllcnm/mcp-reddit",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

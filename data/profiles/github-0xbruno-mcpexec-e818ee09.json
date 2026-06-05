@@ -1,0 +1,24 @@
+{
+  "id": "github-0xbruno-mcpexec-e818ee09",
+  "name": "0xBruno/MCPExec",
+  "description": "Facilitates the execution of local CLI commands through an MCP server setup.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-0xbruno-mcpexec-e818ee09",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-0xbruno-mcpexec-e818ee09)",
+  "links": {
+    "primary": "https://github.com/0xBruno/MCPExec",
+    "repo": "https://github.com/0xBruno/MCPExec",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-davidorex-git-file-forensics-c1515ac3",
+  "name": "davidorex/git-file-forensics",
+  "description": "Provides detailed insights into git file histories and changes, focusing on individual file analysis using MCP tools.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-davidorex-git-file-forensics-c1515ac3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-davidorex-git-file-forensics-c1515ac3)",
+  "links": {
+    "primary": "https://github.com/davidorex/git-file-forensics",
+    "repo": "https://github.com/davidorex/git-file-forensics",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-al-codaio-test-591b41e9",
+  "name": "al-codaio/test",
+  "description": "Facilitates seamless integration with Google Calendar, enabling LLMs to manage calendar events through a standardized interface.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-al-codaio-test-591b41e9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-al-codaio-test-591b41e9)",
+  "links": {
+    "primary": "https://github.com/al-codaio/test",
+    "repo": "https://github.com/al-codaio/test",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

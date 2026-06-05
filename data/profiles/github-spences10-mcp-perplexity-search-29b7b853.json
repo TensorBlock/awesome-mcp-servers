@@ -1,0 +1,24 @@
+{
+  "id": "github-spences10-mcp-perplexity-search-29b7b853",
+  "name": "spences10/mcp-perplexity-search",
+  "description": "Integrates Perplexity's AI API with LLMs for advanced chat completion using specialized prompt templates.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-spences10-mcp-perplexity-search-29b7b853",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-spences10-mcp-perplexity-search-29b7b853)",
+  "links": {
+    "primary": "https://github.com/spences10/mcp-perplexity-search",
+    "repo": "https://github.com/spences10/mcp-perplexity-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-gkhays-mcp-sbom-server-dce5d5dd",
+  "name": "gkhays/mcp-sbom-server",
+  "description": "Generates a Software Bill of Materials (SBOM) using Trivy scans, outputting in CycloneDX format.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-gkhays-mcp-sbom-server-dce5d5dd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gkhays-mcp-sbom-server-dce5d5dd)",
+  "links": {
+    "primary": "https://github.com/gkhays/mcp-sbom-server",
+    "repo": "https://github.com/gkhays/mcp-sbom-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

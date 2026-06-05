@@ -1,0 +1,24 @@
+{
+  "id": "github-mabeldata-pocketbase-mcp-c1e88965",
+  "name": "mabeldata/pocketbase-mcp",
+  "description": "Facilitates interaction with PocketBase instances for managing records, files, and migrations.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-mabeldata-pocketbase-mcp-c1e88965",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mabeldata-pocketbase-mcp-c1e88965)",
+  "links": {
+    "primary": "https://github.com/mabeldata/pocketbase-mcp",
+    "repo": "https://github.com/mabeldata/pocketbase-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-siddheshdongare-git-pilot-1aae0dfc",
+  "name": "SiddheshDongare/GIT-Pilot",
+  "description": "GIT-Pilot streamlines GitHub management with a FastMCP-based server, offering secure and efficient automation for repository, pull request, and issue operations.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-siddheshdongare-git-pilot-1aae0dfc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-siddheshdongare-git-pilot-1aae0dfc)",
+  "links": {
+    "primary": "https://github.com/SiddheshDongare/GIT-Pilot",
+    "repo": "https://github.com/SiddheshDongare/GIT-Pilot",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

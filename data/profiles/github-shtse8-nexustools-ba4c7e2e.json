@@ -1,0 +1,24 @@
+{
+  "id": "github-shtse8-nexustools-ba4c7e2e",
+  "name": "shtse8/NexusTools",
+  "description": "NexusTools provides a secure and efficient toolkit for AI agents to perform essential filesystem operations within a defined project root using the Model Context Protocol.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-shtse8-nexustools-ba4c7e2e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shtse8-nexustools-ba4c7e2e)",
+  "links": {
+    "primary": "https://github.com/shtse8/NexusTools",
+    "repo": "https://github.com/shtse8/NexusTools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

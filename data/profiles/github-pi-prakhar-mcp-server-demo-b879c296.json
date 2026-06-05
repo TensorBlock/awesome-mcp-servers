@@ -1,0 +1,24 @@
+{
+  "id": "github-pi-prakhar-mcp-server-demo-b879c296",
+  "name": "pi-prakhar/mcp-server-demo",
+  "description": "Facilitates AI-assisted note-taking with features to add, read, and summarize notes using the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-pi-prakhar-mcp-server-demo-b879c296",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pi-prakhar-mcp-server-demo-b879c296)",
+  "links": {
+    "primary": "https://github.com/pi-prakhar/mcp-server-demo",
+    "repo": "https://github.com/pi-prakhar/mcp-server-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

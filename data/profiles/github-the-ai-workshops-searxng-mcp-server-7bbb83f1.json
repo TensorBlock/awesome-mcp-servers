@@ -1,0 +1,24 @@
+{
+  "id": "github-the-ai-workshops-searxng-mcp-server-7bbb83f1",
+  "name": "The-AI-Workshops/searxng-mcp-server",
+  "description": "Integrates SearXNG with MCP to provide AI agents with privacy-focused search capabilities.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-the-ai-workshops-searxng-mcp-server-7bbb83f1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-the-ai-workshops-searxng-mcp-server-7bbb83f1)",
+  "links": {
+    "primary": "https://github.com/The-AI-Workshops/searxng-mcp-server",
+    "repo": "https://github.com/The-AI-Workshops/searxng-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

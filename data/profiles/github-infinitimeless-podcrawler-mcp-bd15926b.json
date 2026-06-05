@@ -1,0 +1,24 @@
+{
+  "id": "github-infinitimeless-podcrawler-mcp-bd15926b",
+  "name": "infinitimeless/podcrawler-mcp",
+  "description": "PodCrawlerMCP facilitates podcast discovery by crawling the web for RSS feeds and integrating seamlessly with AI assistants.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-infinitimeless-podcrawler-mcp-bd15926b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-infinitimeless-podcrawler-mcp-bd15926b)",
+  "links": {
+    "primary": "https://github.com/infinitimeless/podcrawler-mcp",
+    "repo": "https://github.com/infinitimeless/podcrawler-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

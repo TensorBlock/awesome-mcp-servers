@@ -1,0 +1,24 @@
+{
+  "id": "github-gomcpgo-mcp-c40def12",
+  "name": "gomcpgo/mcp",
+  "description": "A Go framework enabling secure tool and data access for LLMs through MCP servers.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-gomcpgo-mcp-c40def12",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gomcpgo-mcp-c40def12)",
+  "links": {
+    "primary": "https://github.com/gomcpgo/mcp",
+    "repo": "https://github.com/gomcpgo/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

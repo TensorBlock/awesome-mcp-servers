@@ -1,0 +1,24 @@
+{
+  "id": "github-orcus2021-code-review-mcp-server-205a78ab",
+  "name": "Orcus2021/code-review-mcp-server",
+  "description": "A Cursor plugin leveraging MCP to automate git diffs and code reviews with Notion integration for guideline retrieval.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-orcus2021-code-review-mcp-server-205a78ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-orcus2021-code-review-mcp-server-205a78ab)",
+  "links": {
+    "primary": "https://github.com/Orcus2021/code-review-mcp-server",
+    "repo": "https://github.com/Orcus2021/code-review-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

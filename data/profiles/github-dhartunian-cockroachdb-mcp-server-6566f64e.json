@@ -1,0 +1,24 @@
+{
+  "id": "github-dhartunian-cockroachdb-mcp-server-6566f64e",
+  "name": "dhartunian/cockroachdb-mcp-server",
+  "description": "Connects to CockroachDB, exposing schemas and executing SQL queries with analysis prompts.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-dhartunian-cockroachdb-mcp-server-6566f64e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dhartunian-cockroachdb-mcp-server-6566f64e)",
+  "links": {
+    "primary": "https://github.com/dhartunian/cockroachdb-mcp-server",
+    "repo": "https://github.com/dhartunian/cockroachdb-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

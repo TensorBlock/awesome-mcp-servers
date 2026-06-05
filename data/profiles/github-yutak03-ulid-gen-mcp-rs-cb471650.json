@@ -1,0 +1,24 @@
+{
+  "id": "github-yutak03-ulid-gen-mcp-rs-cb471650",
+  "name": "yutak03/ulid-gen-mcp-rs",
+  "description": "Generates ULIDs using the Model Context Protocol with a Rust-based server.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-yutak03-ulid-gen-mcp-rs-cb471650",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yutak03-ulid-gen-mcp-rs-cb471650)",
+  "links": {
+    "primary": "https://github.com/yutak03/ulid-gen-mcp-rs",
+    "repo": "https://github.com/yutak03/ulid-gen-mcp-rs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

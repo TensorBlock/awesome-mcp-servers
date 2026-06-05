@@ -1,0 +1,24 @@
+{
+  "id": "github-wrale-mcp-server-make-587e9ffa",
+  "name": "wrale/mcp-server-make",
+  "description": "Empowers LLMs to execute make targets from any Makefile, enhancing development workflows with automated assistance and project management capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-wrale-mcp-server-make-587e9ffa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wrale-mcp-server-make-587e9ffa)",
+  "links": {
+    "primary": "https://github.com/wrale/mcp-server-make",
+    "repo": "https://github.com/wrale/mcp-server-make",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

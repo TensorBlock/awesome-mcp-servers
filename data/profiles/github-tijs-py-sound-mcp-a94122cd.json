@@ -1,0 +1,24 @@
+{
+  "id": "github-tijs-py-sound-mcp-a94122cd",
+  "name": "tijs/py-sound-mcp",
+  "description": "Enhances coding environments with audio feedback for events using the Model Context Protocol, compatible with Cursor and other IDEs.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-tijs-py-sound-mcp-a94122cd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tijs-py-sound-mcp-a94122cd)",
+  "links": {
+    "primary": "https://github.com/tijs/py-sound-mcp",
+    "repo": "https://github.com/tijs/py-sound-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-acebaggins-taskwarrior-mcp-2484f270",
+  "name": "acebaggins/taskwarrior-mcp",
+  "description": "Enhance task management with real-time updates and smart prompts using Taskwarrior MCP.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-acebaggins-taskwarrior-mcp-2484f270",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-acebaggins-taskwarrior-mcp-2484f270)",
+  "links": {
+    "primary": "https://github.com/acebaggins/taskwarrior-mcp",
+    "repo": "https://github.com/acebaggins/taskwarrior-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

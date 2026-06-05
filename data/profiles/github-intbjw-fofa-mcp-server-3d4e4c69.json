@@ -1,0 +1,24 @@
+{
+  "id": "github-intbjw-fofa-mcp-server-3d4e4c69",
+  "name": "intbjw/fofa-mcp-server",
+  "description": "A high-performance server for querying FOFA data using the MCP protocol, offering seamless integration with other systems.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-intbjw-fofa-mcp-server-3d4e4c69",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-intbjw-fofa-mcp-server-3d4e4c69)",
+  "links": {
+    "primary": "https://github.com/intbjw/fofa-mcp-server",
+    "repo": "https://github.com/intbjw/fofa-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

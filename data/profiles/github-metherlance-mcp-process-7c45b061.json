@@ -1,0 +1,24 @@
+{
+  "id": "github-metherlance-mcp-process-7c45b061",
+  "name": "Metherlance/mcp-process",
+  "description": "Enables Claude to execute shell commands and interact with the file system via command line, with a focus on WSL integration.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-metherlance-mcp-process-7c45b061",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-metherlance-mcp-process-7c45b061)",
+  "links": {
+    "primary": "https://github.com/Metherlance/mcp-process",
+    "repo": "https://github.com/Metherlance/mcp-process",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

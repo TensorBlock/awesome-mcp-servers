@@ -1,0 +1,24 @@
+{
+  "id": "github-cotrane-mcp-edgar-sec-55771cc4",
+  "name": "cotrane/mcp-edgar-sec",
+  "description": "Facilitates AI-driven interactions with SEC EDGAR data through a structured MCP server interface.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-cotrane-mcp-edgar-sec-55771cc4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cotrane-mcp-edgar-sec-55771cc4)",
+  "links": {
+    "primary": "https://github.com/cotrane/mcp-edgar-sec",
+    "repo": "https://github.com/cotrane/mcp-edgar-sec",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

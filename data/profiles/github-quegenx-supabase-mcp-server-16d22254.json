@@ -1,0 +1,24 @@
+{
+  "id": "github-quegenx-supabase-mcp-server-16d22254",
+  "name": "Quegenx/supabase-mcp-server",
+  "description": "Empower your Supabase PostgreSQL database management with natural language commands via Cursor's Composer and Codeium's Cascade.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-quegenx-supabase-mcp-server-16d22254",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-quegenx-supabase-mcp-server-16d22254)",
+  "links": {
+    "primary": "https://github.com/Quegenx/supabase-mcp-server",
+    "repo": "https://github.com/Quegenx/supabase-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

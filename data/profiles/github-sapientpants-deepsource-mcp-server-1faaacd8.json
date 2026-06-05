@@ -1,0 +1,24 @@
+{
+  "id": "github-sapientpants-deepsource-mcp-server-1faaacd8",
+  "name": "sapientpants/deepsource-mcp-server",
+  "description": "Integrates DeepSource's code quality analysis with AI assistants via the Model Context Protocol, enabling retrieval of metrics, issues, and project quality insights.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-sapientpants-deepsource-mcp-server-1faaacd8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sapientpants-deepsource-mcp-server-1faaacd8)",
+  "links": {
+    "primary": "https://github.com/sapientpants/deepsource-mcp-server",
+    "repo": "https://github.com/sapientpants/deepsource-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

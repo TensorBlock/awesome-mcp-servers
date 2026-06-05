@@ -1,0 +1,24 @@
+{
+  "id": "github-tsdata-mcp-rag-starter-8e2562da",
+  "name": "tsdata/mcp-rag-starter",
+  "description": "A starter kit for implementing a RAG server using MCP for document search and processing with multilingual support.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tsdata-mcp-rag-starter-8e2562da",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tsdata-mcp-rag-starter-8e2562da)",
+  "links": {
+    "primary": "https://github.com/tsdata/mcp-rag-starter",
+    "repo": "https://github.com/tsdata/mcp-rag-starter",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
