@@ -1,0 +1,24 @@
+{
+  "id": "github-zym9863-spoonacular-server-f9ec1b0b",
+  "name": "zym9863/spoonacular-server",
+  "description": "A TypeScript-based server offering access to Spoonacular's recipe API through MCP, enabling keyword searches and detailed recipe retrieval.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-zym9863-spoonacular-server-f9ec1b0b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zym9863-spoonacular-server-f9ec1b0b)",
+  "links": {
+    "primary": "https://github.com/zym9863/spoonacular-server",
+    "repo": "https://github.com/zym9863/spoonacular-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

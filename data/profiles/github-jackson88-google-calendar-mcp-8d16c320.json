@@ -1,0 +1,24 @@
+{
+  "id": "github-jackson88-google-calendar-mcp-8d16c320",
+  "name": "Jackson88/google-calendar-mcp",
+  "description": "Facilitates seamless integration between Claude Desktop and Google Calendar, enabling event management and synchronization through secure OAuth2 authentication.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-jackson88-google-calendar-mcp-8d16c320",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jackson88-google-calendar-mcp-8d16c320)",
+  "links": {
+    "primary": "https://github.com/Jackson88/google-calendar-mcp",
+    "repo": "https://github.com/Jackson88/google-calendar-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

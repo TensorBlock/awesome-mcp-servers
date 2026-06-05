@@ -1,0 +1,24 @@
+{
+  "id": "github-cyreslab-ai-hibp-mcp-server-06a3fc54",
+  "name": "Cyreslab-AI/hibp-mcp-server",
+  "description": "Integrates with the Have I Been Pwned API to check for compromised accounts and passwords in data breaches.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-cyreslab-ai-hibp-mcp-server-06a3fc54",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cyreslab-ai-hibp-mcp-server-06a3fc54)",
+  "links": {
+    "primary": "https://github.com/Cyreslab-AI/hibp-mcp-server",
+    "repo": "https://github.com/Cyreslab-AI/hibp-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

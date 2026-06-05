@@ -1,0 +1,24 @@
+{
+  "id": "github-clsung-mcp-imdb-b73eb34b",
+  "name": "clsung/mcp-imdb",
+  "description": "Facilitates access to IMDB data through a Model Context Protocol server, featuring note storage and summarization capabilities.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-clsung-mcp-imdb-b73eb34b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-clsung-mcp-imdb-b73eb34b)",
+  "links": {
+    "primary": "https://github.com/clsung/mcp-imdb",
+    "repo": "https://github.com/clsung/mcp-imdb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-dlwjdtn535-mcp-bybit-server-68b1b63c",
+  "name": "dlwjdtn535/mcp-bybit-server",
+  "description": "Facilitates seamless interaction with the Bybit API for market data retrieval, account management, and order execution using MCP tools.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-dlwjdtn535-mcp-bybit-server-68b1b63c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dlwjdtn535-mcp-bybit-server-68b1b63c)",
+  "links": {
+    "primary": "https://github.com/dlwjdtn535/mcp-bybit-server",
+    "repo": "https://github.com/dlwjdtn535/mcp-bybit-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

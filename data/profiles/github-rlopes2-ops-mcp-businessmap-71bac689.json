@@ -1,0 +1,24 @@
+{
+  "id": "github-rlopes2-ops-mcp-businessmap-71bac689",
+  "name": "rlopes2-ops/-MCP-Businessmap",
+  "description": "Facilitates card management and search on Businessmap (Kanbanize) with full API integration and structured JSON data return.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-rlopes2-ops-mcp-businessmap-71bac689",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rlopes2-ops-mcp-businessmap-71bac689)",
+  "links": {
+    "primary": "https://github.com/rlopes2-ops/-MCP-Businessmap",
+    "repo": "https://github.com/rlopes2-ops/-MCP-Businessmap",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

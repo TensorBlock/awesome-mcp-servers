@@ -1,0 +1,24 @@
+{
+  "id": "github-kevinwatt-shell-mcp-8863673e",
+  "name": "kevinwatt/shell-mcp",
+  "description": "Provides secure shell command execution for LLMs with resource and timeout controls.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-kevinwatt-shell-mcp-8863673e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kevinwatt-shell-mcp-8863673e)",
+  "links": {
+    "primary": "https://github.com/kevinwatt/shell-mcp",
+    "repo": "https://github.com/kevinwatt/shell-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

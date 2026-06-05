@@ -1,0 +1,24 @@
+{
+  "id": "github-kswap-consul-mcp-c51edf13",
+  "name": "kswap/consul-mcp",
+  "description": "Facilitates Consul service discovery and mesh integration through an MCP server interface.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-kswap-consul-mcp-c51edf13",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kswap-consul-mcp-c51edf13)",
+  "links": {
+    "primary": "https://github.com/kswap/consul-mcp",
+    "repo": "https://github.com/kswap/consul-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-beyond-network-ai-beyond-mcp-server-db3aeab5",
+  "name": "Beyond-Network-AI/beyond-mcp-server",
+  "description": "An extensible MCP server offering standardized access to social and onchain data, with current support for Farcaster and planned integration for other platforms.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-beyond-network-ai-beyond-mcp-server-db3aeab5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-beyond-network-ai-beyond-mcp-server-db3aeab5)",
+  "links": {
+    "primary": "https://github.com/Beyond-Network-AI/beyond-mcp-server",
+    "repo": "https://github.com/Beyond-Network-AI/beyond-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

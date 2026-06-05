@@ -6,6 +6,7 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 - [vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp): Instant website audits MCP with 11 tools — full SEO (20+ checks), security headers + SSL, Lighthouse performance via Google PageSpeed, multi-site competitive comparison, broken link crawler, WCAG accessibility audit, Schema.org structured data validation, competitor gap analysis, robots.txt parser. No API keys. FastMCP 3.2, MIT.
 - [aliyun/alibabacloud-observability-mcp-server](https://github.com/aliyun/alibabacloud-observability-mcp-server): Facilitates seamless integration with Alibaba Cloud's observability products, offering tools for efficient log and application monitoring.
 - [shibley/apistatuscheck](https://github.com/shibley/apistatuscheck): Monitors real-time API status across 250+ popular services, providing outage detection, historical uptime data, and status page aggregation through the Model Context Protocol.
+- [devhelmhq/mcp-server](https://github.com/devhelmhq/mcp-server): Provides AI agents with tools to monitor uptime, manage incidents, configure alerting, and query third-party dependency status. Supports HTTP, DNS, TCP, ICMP, and heartbeat monitors.
 - [enomoto11/aws-cost-notifier-mcp-server](https://github.com/enomoto11/aws-cost-notifier-mcp-server): Monitors daily AWS costs and generates GitHub Issue reports for cost analysis and comparison.
 - [binalyze/air-mcp](https://github.com/binalyze/air-mcp): Facilitates natural language interaction with Binalyze AIR's digital forensics and incident response capabilities through a Node.js MCP server.
 - [hiyorineko/mcp-rollbar-server](https://github.com/hiyorineko/mcp-rollbar-server): Facilitates LLM interaction with Rollbar's error tracking data, offering comprehensive access to error details, deployments, and user information.
@@ -81,4 +82,9 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 - [chatmcp/mcp-server-collector](https://github.com/chatmcp/mcp-server-collector): Facilitates the discovery and submission of MCP servers by extracting them from URLs and content, and submitting them to directories.
 - [loglmhq/mcp-server-prometheus](https://github.com/loglmhq/mcp-server-prometheus): Facilitates interaction with Prometheus metrics and data through a TypeScript-based MCP server, bridging Claude and Prometheus via the Model Context Protocol.
 - [sqr/datadog-mcp](https://github.com/sqr/datadog-mcp): Facilitates log retrieval from Datadog for analysis by Claude within a Kubernetes environment.
+- [daedalus/mcp-zabbix](https://github.com/daedalus/mcp-zabbix) - MCP server for Zabbix API.
+- [vdineshk/dominion-observatory](https://github.com/vdineshk/dominion-observatory): Behavioral trust scoring for MCP servers. Continuously probes 22,500+ servers for uptime, latency, and success rate; provides trust_score (0-100) and behavioral drift detection via a free REST API.
 
+
+- [unitedideas/resolve-mcp](https://github.com/unitedideas/resolve-mcp): Structured error recovery for AI agents. Returns resolution playbooks with backoff schedules, retry strategies, and recovery steps for 20+ services including OpenAI, Anthropic, Stripe, AWS, and Postgres.
+- [smigolsmigol/llmkit](https://github.com/smigolsmigol/llmkit): AI cost tracking and budget enforcement MCP server with 11 tools for monitoring spend, session costs, and token usage across Claude Code, Cursor, and Cline.

@@ -1,0 +1,24 @@
+{
+  "id": "github-padev1-nina-advanced-api-mcp-f9c17533",
+  "name": "PaDev1/Nina_advanced_api_mcp",
+  "description": "Facilitates AI-driven control of astrophotography equipment via the N.I.N.A. Advanced API, enabling seamless integration with AI agents.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-padev1-nina-advanced-api-mcp-f9c17533",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-padev1-nina-advanced-api-mcp-f9c17533)",
+  "links": {
+    "primary": "https://github.com/PaDev1/Nina_advanced_api_mcp",
+    "repo": "https://github.com/PaDev1/Nina_advanced_api_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

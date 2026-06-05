@@ -1,0 +1,24 @@
+{
+  "id": "github-jigarbhoye04-matlabmcp-0064a945",
+  "name": "jigarbhoye04/MatlabMCP",
+  "description": "Facilitates the execution of MATLAB code from Python using the MATLAB Engine API, enabling seamless integration with LLMs.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-jigarbhoye04-matlabmcp-0064a945",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jigarbhoye04-matlabmcp-0064a945)",
+  "links": {
+    "primary": "https://github.com/jigarbhoye04/MatlabMCP",
+    "repo": "https://github.com/jigarbhoye04/MatlabMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-easymcp-easymcp-e1884a78",
+  "name": "easymcp/easymcp",
+  "description": "EasyMCP seamlessly connects Claude Desktop and Cursor to external tools and services via MCP servers, offering secure, configurable, and expandable integrations.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-easymcp-easymcp-e1884a78",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-easymcp-easymcp-e1884a78)",
+  "links": {
+    "primary": "https://github.com/easymcp/easymcp",
+    "repo": "https://github.com/easymcp/easymcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

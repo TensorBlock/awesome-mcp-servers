@@ -1,0 +1,25 @@
+{
+  "id": "github-bossdong955-weibo-mcp-server-4476040b",
+  "name": "bossdong955/weibo-mcp-server",
+  "description": "Facilitates retrieval of the top N trending topics on Weibo with support for stdio and SSE modes.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-bossdong955-weibo-mcp-server-4476040b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bossdong955-weibo-mcp-server-4476040b)",
+  "links": {
+    "primary": "https://github.com/bossdong955/weibo-mcp-server",
+    "repo": "https://github.com/bossdong955/weibo-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

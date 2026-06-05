@@ -1,0 +1,24 @@
+{
+  "id": "github-funwarioisii-perplexity-mcp-rb-c75d382c",
+  "name": "funwarioisii/perplexity-mcp-rb",
+  "description": "Facilitates web search operations through a Perplexity-based MCP server.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-funwarioisii-perplexity-mcp-rb-c75d382c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-funwarioisii-perplexity-mcp-rb-c75d382c)",
+  "links": {
+    "primary": "https://github.com/funwarioisii/perplexity-mcp-rb",
+    "repo": "https://github.com/funwarioisii/perplexity-mcp-rb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

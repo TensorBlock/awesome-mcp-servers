@@ -1,0 +1,24 @@
+{
+  "id": "github-flexpa-mcp-fhir-c4dcab2b",
+  "name": "flexpa/mcp-fhir",
+  "description": "A TypeScript-based server enabling interaction with FHIR resources through the Model Context Protocol, offering search and access functionalities.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-flexpa-mcp-fhir-c4dcab2b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-flexpa-mcp-fhir-c4dcab2b)",
+  "links": {
+    "primary": "https://github.com/flexpa/mcp-fhir",
+    "repo": "https://github.com/flexpa/mcp-fhir",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

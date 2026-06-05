@@ -1,0 +1,24 @@
+{
+  "id": "github-leee62-pickapicon-mcp-20bc9693",
+  "name": "Leee62/pickapicon-mcp",
+  "description": "Facilitates quick retrieval of SVG icons using Iconify API through LLMs, streamlining the design workflow.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-leee62-pickapicon-mcp-20bc9693",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-leee62-pickapicon-mcp-20bc9693)",
+  "links": {
+    "primary": "https://github.com/Leee62/pickapicon-mcp",
+    "repo": "https://github.com/Leee62/pickapicon-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

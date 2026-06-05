@@ -1,0 +1,24 @@
+{
+  "id": "mcp-feriadosapi-com-cddf6783",
+  "name": "feriadosapi/mcp-server",
+  "description": "Brazilian holidays MCP server covering 5,570+ municipalities, 27 states, and national holidays. Returns holiday data by date, state, or city (IBGE code).",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/mcp-feriadosapi-com-cddf6783",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/mcp-feriadosapi-com-cddf6783)",
+  "links": {
+    "primary": "https://mcp.feriadosapi.com",
+    "repo": null,
+    "homepage": "https://mcp.feriadosapi.com",
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

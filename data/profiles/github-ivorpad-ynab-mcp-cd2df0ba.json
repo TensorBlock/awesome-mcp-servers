@@ -1,0 +1,24 @@
+{
+  "id": "github-ivorpad-ynab-mcp-cd2df0ba",
+  "name": "ivorpad/ynab_mcp",
+  "description": "A versatile MCP server built with mcp-framework, enabling the creation and integration of custom tools for enhanced functionality.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-ivorpad-ynab-mcp-cd2df0ba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ivorpad-ynab-mcp-cd2df0ba)",
+  "links": {
+    "primary": "https://github.com/ivorpad/ynab_mcp",
+    "repo": "https://github.com/ivorpad/ynab_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

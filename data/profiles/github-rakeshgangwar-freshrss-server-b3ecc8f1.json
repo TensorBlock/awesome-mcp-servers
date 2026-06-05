@@ -1,0 +1,24 @@
+{
+  "id": "github-rakeshgangwar-freshrss-server-b3ecc8f1",
+  "name": "rakeshgangwar/freshrss-server",
+  "description": "Facilitates AI interaction with FreshRSS feeds via the Fever API, enabling feed management and item retrieval.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-rakeshgangwar-freshrss-server-b3ecc8f1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rakeshgangwar-freshrss-server-b3ecc8f1)",
+  "links": {
+    "primary": "https://github.com/rakeshgangwar/freshrss-server",
+    "repo": "https://github.com/rakeshgangwar/freshrss-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

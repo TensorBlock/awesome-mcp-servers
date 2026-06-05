@@ -1,0 +1,24 @@
+{
+  "id": "github-jasondsmith72-cwm-api-gateway-mcp-879474bf",
+  "name": "jasondsmith72/CWM-API-Gateway-MCP",
+  "description": "Facilitates seamless interaction with the ConnectWise Manage API, enhancing API discovery, execution, and management for developers and AI assistants.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-jasondsmith72-cwm-api-gateway-mcp-879474bf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jasondsmith72-cwm-api-gateway-mcp-879474bf)",
+  "links": {
+    "primary": "https://github.com/jasondsmith72/CWM-API-Gateway-MCP",
+    "repo": "https://github.com/jasondsmith72/CWM-API-Gateway-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

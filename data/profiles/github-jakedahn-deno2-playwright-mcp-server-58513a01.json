@@ -1,0 +1,24 @@
+{
+  "id": "github-jakedahn-deno2-playwright-mcp-server-58513a01",
+  "name": "jakedahn/deno2-playwright-mcp-server",
+  "description": "Facilitates browser automation through Playwright and Deno 2, enabling LLMs to interact with web pages in a real browser environment.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-jakedahn-deno2-playwright-mcp-server-58513a01",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jakedahn-deno2-playwright-mcp-server-58513a01)",
+  "links": {
+    "primary": "https://github.com/jakedahn/deno2-playwright-mcp-server",
+    "repo": "https://github.com/jakedahn/deno2-playwright-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

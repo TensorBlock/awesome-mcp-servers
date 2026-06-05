@@ -1,0 +1,24 @@
+{
+  "id": "github-koduki-example-mcp-c58f82cd",
+  "name": "koduki/example-mcp",
+  "description": "Demonstrates building an MCP server in TypeScript with tools, resources, and prompt templates.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-koduki-example-mcp-c58f82cd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-koduki-example-mcp-c58f82cd)",
+  "links": {
+    "primary": "https://github.com/koduki/example-mcp",
+    "repo": "https://github.com/koduki/example-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

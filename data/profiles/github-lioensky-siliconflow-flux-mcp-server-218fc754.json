@@ -1,0 +1,24 @@
+{
+  "id": "github-lioensky-siliconflow-flux-mcp-server-218fc754",
+  "name": "lioensky/siliconflow-flux-mcp-server",
+  "description": "Facilitates AI-driven image generation using SiliconFlow's Flux model via the MCP protocol, supporting customizable parameters and multiple resolutions.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-lioensky-siliconflow-flux-mcp-server-218fc754",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lioensky-siliconflow-flux-mcp-server-218fc754)",
+  "links": {
+    "primary": "https://github.com/lioensky/siliconflow-flux-mcp-server",
+    "repo": "https://github.com/lioensky/siliconflow-flux-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
