@@ -1,0 +1,24 @@
+{
+  "id": "github-asirulnik-mcp-server-filesystem-01-d53cf227",
+  "name": "asirulnik/mcp_server_filesystem_01",
+  "description": "Facilitates AI-driven file system operations within a project directory, enabling seamless code interaction and management.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-asirulnik-mcp-server-filesystem-01-d53cf227",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-asirulnik-mcp-server-filesystem-01-d53cf227)",
+  "links": {
+    "primary": "https://github.com/asirulnik/mcp_server_filesystem_01",
+    "repo": "https://github.com/asirulnik/mcp_server_filesystem_01",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

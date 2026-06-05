@@ -1,0 +1,24 @@
+{
+  "id": "github-mpizza-mcp-mlb-statsapi-ba418ea6",
+  "name": "mpizza/mcp_mlb_statsapi",
+  "description": "Efficiently access and process MLB data using a Multi-Channel Pipeline server integrated with the MLB Stats API.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-mpizza-mcp-mlb-statsapi-ba418ea6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mpizza-mcp-mlb-statsapi-ba418ea6)",
+  "links": {
+    "primary": "https://github.com/mpizza/mcp_mlb_statsapi",
+    "repo": "https://github.com/mpizza/mcp_mlb_statsapi",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

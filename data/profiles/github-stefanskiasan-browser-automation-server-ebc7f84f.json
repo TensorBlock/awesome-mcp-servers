@@ -1,0 +1,24 @@
+{
+  "id": "github-stefanskiasan-browser-automation-server-ebc7f84f",
+  "name": "stefanskiasan/browser-automation-server",
+  "description": "A TypeScript-based MCP server implementing a notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-stefanskiasan-browser-automation-server-ebc7f84f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stefanskiasan-browser-automation-server-ebc7f84f)",
+  "links": {
+    "primary": "https://github.com/stefanskiasan/browser-automation-server",
+    "repo": "https://github.com/stefanskiasan/browser-automation-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

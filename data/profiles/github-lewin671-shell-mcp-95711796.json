@@ -1,0 +1,24 @@
+{
+  "id": "github-lewin671-shell-mcp-95711796",
+  "name": "Lewin671/shell-mcp",
+  "description": "Enables LLMs to securely execute and manage shell commands through a structured MCP interface.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-lewin671-shell-mcp-95711796",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lewin671-shell-mcp-95711796)",
+  "links": {
+    "primary": "https://github.com/Lewin671/shell-mcp",
+    "repo": "https://github.com/Lewin671/shell-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

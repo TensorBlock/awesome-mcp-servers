@@ -1,0 +1,24 @@
+{
+  "id": "github-zjf2671-hh-mcp-comfyui-0b1ebd9a",
+  "name": "zjf2671/hh-mcp-comfyui",
+  "description": "Facilitates image generation through natural language commands by interfacing with a local ComfyUI instance via the MCP protocol.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-zjf2671-hh-mcp-comfyui-0b1ebd9a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zjf2671-hh-mcp-comfyui-0b1ebd9a)",
+  "links": {
+    "primary": "https://github.com/zjf2671/hh-mcp-comfyui",
+    "repo": "https://github.com/zjf2671/hh-mcp-comfyui",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

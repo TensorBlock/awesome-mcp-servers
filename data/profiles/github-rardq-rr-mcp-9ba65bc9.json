@@ -1,0 +1,24 @@
+{
+  "id": "github-rardq-rr-mcp-9ba65bc9",
+  "name": "RaRdq/RR.MCP",
+  "description": "Facilitates AI-driven .NET project analysis by extracting interfaces, models, and data structures using PowerShell scripts.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-rardq-rr-mcp-9ba65bc9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rardq-rr-mcp-9ba65bc9)",
+  "links": {
+    "primary": "https://github.com/RaRdq/RR.MCP",
+    "repo": "https://github.com/RaRdq/RR.MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-dhiman-halder-weather-server-1dc01097",
+  "name": "dhiman-halder/weather-server",
+  "description": "A TypeScript-based MCP server providing weather forecasts, designed for integration with Claude Desktop.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-dhiman-halder-weather-server-1dc01097",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dhiman-halder-weather-server-1dc01097)",
+  "links": {
+    "primary": "https://github.com/dhiman-halder/weather-server",
+    "repo": "https://github.com/dhiman-halder/weather-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

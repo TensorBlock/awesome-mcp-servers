@@ -1,0 +1,24 @@
+{
+  "id": "github-akash-network-mcp-920dd252",
+  "name": "akash-network/mcp",
+  "description": "Facilitates AI-driven interactions with the Akash Network, enabling application deployment and management through a TypeScript-based MCP server.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-akash-network-mcp-920dd252",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-akash-network-mcp-920dd252)",
+  "links": {
+    "primary": "https://github.com/akash-network/mcp",
+    "repo": "https://github.com/akash-network/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

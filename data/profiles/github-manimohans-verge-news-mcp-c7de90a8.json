@@ -1,0 +1,24 @@
+{
+  "id": "github-manimohans-verge-news-mcp-c7de90a8",
+  "name": "manimohans/verge-news-mcp",
+  "description": "Fetch and search The Verge news articles via an MCP server, integrating seamlessly with tools like Claude and Smithery.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-manimohans-verge-news-mcp-c7de90a8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-manimohans-verge-news-mcp-c7de90a8)",
+  "links": {
+    "primary": "https://github.com/manimohans/verge-news-mcp",
+    "repo": "https://github.com/manimohans/verge-news-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

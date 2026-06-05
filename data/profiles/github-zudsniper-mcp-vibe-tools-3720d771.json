@@ -1,0 +1,24 @@
+{
+  "id": "github-zudsniper-mcp-vibe-tools-3720d771",
+  "name": "zudsniper/mcp-vibe-tools",
+  "description": "Facilitates AI agents' interaction with `cursor-tools` commands via HTTP, enabling dynamic project management and command execution.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-zudsniper-mcp-vibe-tools-3720d771",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zudsniper-mcp-vibe-tools-3720d771)",
+  "links": {
+    "primary": "https://github.com/zudsniper/mcp-vibe-tools",
+    "repo": "https://github.com/zudsniper/mcp-vibe-tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

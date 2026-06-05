@@ -1,0 +1,24 @@
+{
+  "id": "github-mcprotein-mcp-practice-06a8b43d",
+  "name": "MCprotein/mcp-practice",
+  "description": "A MongoDB MCP server built with mcp-framework, designed for efficient data handling and integration with Claude Desktop.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-mcprotein-mcp-practice-06a8b43d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mcprotein-mcp-practice-06a8b43d)",
+  "links": {
+    "primary": "https://github.com/MCprotein/mcp-practice",
+    "repo": "https://github.com/MCprotein/mcp-practice",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

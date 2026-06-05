@@ -1,0 +1,24 @@
+{
+  "id": "github-swayingleaves-cockroachdb-mcp-server-11a6775e",
+  "name": "Swayingleaves/cockroachdb-mcp-server",
+  "description": "Facilitates direct interaction with CockroachDB databases using the Model Context Protocol, offering features like SQL execution, table management, and connection stability mechanisms.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-swayingleaves-cockroachdb-mcp-server-11a6775e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-swayingleaves-cockroachdb-mcp-server-11a6775e)",
+  "links": {
+    "primary": "https://github.com/Swayingleaves/cockroachdb-mcp-server",
+    "repo": "https://github.com/Swayingleaves/cockroachdb-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

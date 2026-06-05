@@ -1,0 +1,24 @@
+{
+  "id": "github-affanrasheed-universal-mcp-15daa16f",
+  "name": "affanrasheed/universal-mcp",
+  "description": "A versatile MCP server and client supporting dynamic model switching between OpenAI and Anthropic, with integrated tools for weather, cryptocurrency, news, and more.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-affanrasheed-universal-mcp-15daa16f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-affanrasheed-universal-mcp-15daa16f)",
+  "links": {
+    "primary": "https://github.com/affanrasheed/universal-mcp",
+    "repo": "https://github.com/affanrasheed/universal-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

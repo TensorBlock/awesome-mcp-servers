@@ -1,0 +1,24 @@
+{
+  "id": "github-diivi-aseprite-mcp-15fa5f83",
+  "name": "diivi/aseprite-mcp",
+  "description": "Facilitates interaction with the Aseprite API through an MCP server, enabling automated graphic manipulations.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-diivi-aseprite-mcp-15fa5f83",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-diivi-aseprite-mcp-15fa5f83)",
+  "links": {
+    "primary": "https://github.com/diivi/aseprite-mcp",
+    "repo": "https://github.com/diivi/aseprite-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-fdmocho-mcp-server-nasa-4f831cfd",
+  "name": "fdmocho/mcp_server_nasa",
+  "description": "Facilitates integration with NASA's Near Earth Object API, enabling date-specific data retrieval through an MCP server setup.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-fdmocho-mcp-server-nasa-4f831cfd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fdmocho-mcp-server-nasa-4f831cfd)",
+  "links": {
+    "primary": "https://github.com/fdmocho/mcp_server_nasa",
+    "repo": "https://github.com/fdmocho/mcp_server_nasa",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-akki91-ankr-mcp-5da283d9",
+  "name": "akki91/ankr-mcp",
+  "description": "Facilitates blockchain data retrieval via Ankr API for LLMs using the Model Context Protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-akki91-ankr-mcp-5da283d9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-akki91-ankr-mcp-5da283d9)",
+  "links": {
+    "primary": "https://github.com/akki91/ankr-mcp",
+    "repo": "https://github.com/akki91/ankr-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

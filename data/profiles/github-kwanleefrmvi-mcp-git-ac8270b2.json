@@ -1,0 +1,24 @@
+{
+  "id": "github-kwanleefrmvi-mcp-git-ac8270b2",
+  "name": "kwanLeeFrmVi/mcp-git",
+  "description": "Facilitates Git repository interaction and automation through a Model Context Protocol server, enabling operations like reading, searching, and manipulating repositories via Large Language Models.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-kwanleefrmvi-mcp-git-ac8270b2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kwanleefrmvi-mcp-git-ac8270b2)",
+  "links": {
+    "primary": "https://github.com/kwanLeeFrmVi/mcp-git",
+    "repo": "https://github.com/kwanLeeFrmVi/mcp-git",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-sencloud-futures-mcp-f4f4fcf9",
+  "name": "sencloud/futures_mcp",
+  "description": "A platform for futures trading strategy analysis, integrating real-time market data, technical analysis, news insights, and AI-driven analysis.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-sencloud-futures-mcp-f4f4fcf9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sencloud-futures-mcp-f4f4fcf9)",
+  "links": {
+    "primary": "https://github.com/sencloud/futures_mcp",
+    "repo": "https://github.com/sencloud/futures_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

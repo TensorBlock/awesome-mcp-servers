@@ -1,0 +1,24 @@
+{
+  "id": "github-web-agent-master-google-search-a791b6a0",
+  "name": "web-agent-master/google-search",
+  "description": "A Playwright-based tool that enables real-time Google search capabilities for AI assistants by bypassing anti-scraping mechanisms and integrating with MCP servers.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-web-agent-master-google-search-a791b6a0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-web-agent-master-google-search-a791b6a0)",
+  "links": {
+    "primary": "https://github.com/web-agent-master/google-search",
+    "repo": "https://github.com/web-agent-master/google-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

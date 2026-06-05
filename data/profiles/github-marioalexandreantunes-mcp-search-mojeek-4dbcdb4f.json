@@ -1,0 +1,24 @@
+{
+  "id": "github-marioalexandreantunes-mcp-search-mojeek-4dbcdb4f",
+  "name": "marioalexandreantunes/mcp-search-mojeek",
+  "description": "Integrates the Mojeek search engine into an MCP server for privacy-focused and unbiased search results.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-marioalexandreantunes-mcp-search-mojeek-4dbcdb4f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-marioalexandreantunes-mcp-search-mojeek-4dbcdb4f)",
+  "links": {
+    "primary": "https://github.com/marioalexandreantunes/mcp-search-mojeek",
+    "repo": "https://github.com/marioalexandreantunes/mcp-search-mojeek",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

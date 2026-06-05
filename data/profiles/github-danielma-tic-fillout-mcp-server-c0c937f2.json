@@ -1,0 +1,24 @@
+{
+  "id": "github-danielma-tic-fillout-mcp-server-c0c937f2",
+  "name": "danielma-tic/fillout-mcp-server",
+  "description": "Facilitates form management, response handling, and analytics through the Fillout.io API.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-danielma-tic-fillout-mcp-server-c0c937f2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-danielma-tic-fillout-mcp-server-c0c937f2)",
+  "links": {
+    "primary": "https://github.com/danielma-tic/fillout-mcp-server",
+    "repo": "https://github.com/danielma-tic/fillout-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-tobiassteidle-spring-boot-sample-mcp-server-6b84da0e",
+  "name": "tobiassteidle/Spring-Boot-Sample-MCP-Server",
+  "description": "A Spring Boot-based server that facilitates AI model interactions through the Model Context Protocol, offering seamless integration and enhanced capabilities for AI assistants like Claude.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-tobiassteidle-spring-boot-sample-mcp-server-6b84da0e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tobiassteidle-spring-boot-sample-mcp-server-6b84da0e)",
+  "links": {
+    "primary": "https://github.com/tobiassteidle/Spring-Boot-Sample-MCP-Server",
+    "repo": "https://github.com/tobiassteidle/Spring-Boot-Sample-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

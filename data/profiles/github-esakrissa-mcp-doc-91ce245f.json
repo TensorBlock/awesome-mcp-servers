@@ -1,0 +1,24 @@
+{
+  "id": "github-esakrissa-mcp-doc-91ce245f",
+  "name": "esakrissa/mcp-doc",
+  "description": "Facilitates integration between LLM applications and documentation sources via the Model Context Protocol, providing access to LangGraph and MCP documentation.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-esakrissa-mcp-doc-91ce245f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-esakrissa-mcp-doc-91ce245f)",
+  "links": {
+    "primary": "https://github.com/esakrissa/mcp-doc",
+    "repo": "https://github.com/esakrissa/mcp-doc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
