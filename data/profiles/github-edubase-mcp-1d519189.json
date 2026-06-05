@@ -1,0 +1,24 @@
+{
+  "id": "github-edubase-mcp-1d519189",
+  "name": "EduBase/MCP",
+  "description": "Facilitates seamless interaction between EduBase's e-learning platform and LLMs like Claude through the Model Context Protocol.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-edubase-mcp-1d519189",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-edubase-mcp-1d519189)",
+  "links": {
+    "primary": "https://github.com/EduBase/MCP",
+    "repo": "https://github.com/EduBase/MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

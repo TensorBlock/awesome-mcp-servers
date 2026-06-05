@@ -1,0 +1,24 @@
+{
+  "id": "github-husqvaluna-symbol-mcp-server-71b6b7d2",
+  "name": "husqvaluna/symbol-mcp-server",
+  "description": "Facilitates interaction with the Symbol blockchain through REST API tools using the Model Context Protocol.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-husqvaluna-symbol-mcp-server-71b6b7d2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-husqvaluna-symbol-mcp-server-71b6b7d2)",
+  "links": {
+    "primary": "https://github.com/husqvaluna/symbol-mcp-server",
+    "repo": "https://github.com/husqvaluna/symbol-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

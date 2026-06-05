@@ -1,0 +1,24 @@
+{
+  "id": "github-misanthropic-ai-playwrite-mcp-61340eb0",
+  "name": "misanthropic-ai/playwrite-mcp",
+  "description": "Enables LLM-powered clients to automate browser tasks using Playwright.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-misanthropic-ai-playwrite-mcp-61340eb0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-misanthropic-ai-playwrite-mcp-61340eb0)",
+  "links": {
+    "primary": "https://github.com/misanthropic-ai/playwrite-mcp",
+    "repo": "https://github.com/misanthropic-ai/playwrite-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

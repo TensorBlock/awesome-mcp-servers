@@ -1,0 +1,24 @@
+{
+  "id": "github-dhravya-apple-mcp-9c138947",
+  "name": "Dhravya/apple-mcp",
+  "description": "A suite of Apple-native tools for managing messages, notes, contacts, emails, reminders, calendar events, web searches, and maps via the MCP protocol.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-dhravya-apple-mcp-9c138947",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dhravya-apple-mcp-9c138947)",
+  "links": {
+    "primary": "https://github.com/Dhravya/apple-mcp",
+    "repo": "https://github.com/Dhravya/apple-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

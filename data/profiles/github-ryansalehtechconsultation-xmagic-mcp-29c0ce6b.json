@@ -1,0 +1,24 @@
+{
+  "id": "github-ryansalehtechconsultation-xmagic-mcp-29c0ce6b",
+  "name": "RyanSalehTechConsultation/xmagic-mcp",
+  "description": "Magic Component Platform (MCP) leverages AI to generate modern UI components from natural language descriptions, integrating seamlessly with popular IDEs for an enhanced development workflow.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ryansalehtechconsultation-xmagic-mcp-29c0ce6b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ryansalehtechconsultation-xmagic-mcp-29c0ce6b)",
+  "links": {
+    "primary": "https://github.com/RyanSalehTechConsultation/xmagic-mcp",
+    "repo": "https://github.com/RyanSalehTechConsultation/xmagic-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

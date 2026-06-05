@@ -1,0 +1,24 @@
+{
+  "id": "github-minji1104-minsu-son-mcp-0f23ddb2",
+  "name": "minji1104/MINSU-SON-MCP",
+  "description": "A service that analyzes and mirrors the language style of specific individuals using the MCP protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-minji1104-minsu-son-mcp-0f23ddb2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-minji1104-minsu-son-mcp-0f23ddb2)",
+  "links": {
+    "primary": "https://github.com/minji1104/MINSU-SON-MCP",
+    "repo": "https://github.com/minji1104/MINSU-SON-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

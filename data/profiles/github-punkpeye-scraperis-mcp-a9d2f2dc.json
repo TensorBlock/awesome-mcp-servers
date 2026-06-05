@@ -1,0 +1,24 @@
+{
+  "id": "github-punkpeye-scraperis-mcp-a9d2f2dc",
+  "name": "punkpeye/scraperis-mcp",
+  "description": "Efficiently scrape websites using natural language prompts with the Scraper.is MCP server, designed for seamless integration with Claude Desktop.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-punkpeye-scraperis-mcp-a9d2f2dc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-punkpeye-scraperis-mcp-a9d2f2dc)",
+  "links": {
+    "primary": "https://github.com/punkpeye/scraperis-mcp",
+    "repo": "https://github.com/punkpeye/scraperis-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

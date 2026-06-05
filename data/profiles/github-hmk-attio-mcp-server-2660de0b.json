@@ -1,0 +1,24 @@
+{
+  "id": "github-hmk-attio-mcp-server-2660de0b",
+  "name": "hmk/attio-mcp-server",
+  "description": "Facilitates seamless integration between MCP clients and the Attio API for managing CRM data.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-hmk-attio-mcp-server-2660de0b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hmk-attio-mcp-server-2660de0b)",
+  "links": {
+    "primary": "https://github.com/hmk/attio-mcp-server",
+    "repo": "https://github.com/hmk/attio-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

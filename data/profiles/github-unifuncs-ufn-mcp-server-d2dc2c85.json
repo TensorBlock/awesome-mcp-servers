@@ -1,0 +1,24 @@
+{
+  "id": "github-unifuncs-ufn-mcp-server-d2dc2c85",
+  "name": "UniFuncs/ufn-mcp-server",
+  "description": "Facilitates seamless integration with the UniFuncs API through a dedicated MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-unifuncs-ufn-mcp-server-d2dc2c85",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-unifuncs-ufn-mcp-server-d2dc2c85)",
+  "links": {
+    "primary": "https://github.com/UniFuncs/ufn-mcp-server",
+    "repo": "https://github.com/UniFuncs/ufn-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

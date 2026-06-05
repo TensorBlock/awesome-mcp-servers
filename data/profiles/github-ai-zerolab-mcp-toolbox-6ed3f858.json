@@ -1,0 +1,24 @@
+{
+  "id": "github-ai-zerolab-mcp-toolbox-6ed3f858",
+  "name": "ai-zerolab/mcp-toolbox",
+  "description": "A versatile toolkit enabling LLMs to interact with external services and APIs via the Model Context Protocol, enhancing their capabilities beyond text generation.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ai-zerolab-mcp-toolbox-6ed3f858",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ai-zerolab-mcp-toolbox-6ed3f858)",
+  "links": {
+    "primary": "https://github.com/ai-zerolab/mcp-toolbox",
+    "repo": "https://github.com/ai-zerolab/mcp-toolbox",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

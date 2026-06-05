@@ -244,4 +244,7 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 - [ivo-toby/mcp-openapi-server](https://github.com/ivo-toby/mcp-openapi-server): Transforms OpenAPI specifications into MCP resources, enabling seamless interaction with REST APIs via the MCP protocol.
 - [masacento/mcp-go-example](https://github.com/masacento/mcp-go-example): A Go-based example server for the Model Context Protocol, designed for educational purposes with no security or multiuser support.
 - [Resources-cskwork/model-context-protocol-demo](https://github.com/Resources-cskwork/model-context-protocol-demo): Demonstrates the integration of Model Context Protocol with SQLite for database management in Claude Desktop.
+- [saml7n/parbaked](https://github.com/saml7n/parbaked) - Agent-native FastAPI scaffold for invite-only Python apps. 15 MCP tools to scaffold a project, add routes + SQLModel tables, run dev, manage users (approve/reject/reset), check email/deploy status, and ship to fly.io. Install: `uv tool install parbaked && parbaked mcp`.
 
+
+- [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp): An AI Agents framework providing 64+ built-in MCP tools for search, memory management, workflow orchestration, code execution, and file operations. Install via uvx praisonai-mcp.

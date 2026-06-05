@@ -1,0 +1,24 @@
+{
+  "id": "github-harjjotsinghh-mcp-server-postgres-multi-schema-6b6cf33e",
+  "name": "HarjjotSinghh/mcp-server-postgres-multi-schema",
+  "description": "Provides read-only access to PostgreSQL databases with enhanced multi-schema support, enabling LLMs to inspect and query across multiple namespaces while maintaining schema isolation.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-harjjotsinghh-mcp-server-postgres-multi-schema-6b6cf33e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-harjjotsinghh-mcp-server-postgres-multi-schema-6b6cf33e)",
+  "links": {
+    "primary": "https://github.com/HarjjotSinghh/mcp-server-postgres-multi-schema",
+    "repo": "https://github.com/HarjjotSinghh/mcp-server-postgres-multi-schema",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

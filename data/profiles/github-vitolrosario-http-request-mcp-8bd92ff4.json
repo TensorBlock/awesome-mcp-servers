@@ -1,0 +1,24 @@
+{
+  "id": "github-vitolrosario-http-request-mcp-8bd92ff4",
+  "name": "vitolrosario/http-request-mcp",
+  "description": "Facilitates HTTP requests using the MCP server, supporting various HTTP methods for streamlined web interactions.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-vitolrosario-http-request-mcp-8bd92ff4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vitolrosario-http-request-mcp-8bd92ff4)",
+  "links": {
+    "primary": "https://github.com/vitolrosario/http-request-mcp",
+    "repo": "https://github.com/vitolrosario/http-request-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

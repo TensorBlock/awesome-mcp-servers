@@ -1,0 +1,24 @@
+{
+  "id": "github-saunved-mcp-server-clash-of-clans-d87cc6ba",
+  "name": "Saunved/mcp-server-clash-of-clans",
+  "description": "Enhance your Clash of Clans gameplay with advanced analytics and insights through this MCP server.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-saunved-mcp-server-clash-of-clans-d87cc6ba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-saunved-mcp-server-clash-of-clans-d87cc6ba)",
+  "links": {
+    "primary": "https://github.com/Saunved/mcp-server-clash-of-clans",
+    "repo": "https://github.com/Saunved/mcp-server-clash-of-clans",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

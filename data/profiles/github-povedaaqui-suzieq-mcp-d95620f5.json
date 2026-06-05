@@ -1,0 +1,24 @@
+{
+  "id": "github-povedaaqui-suzieq-mcp-d95620f5",
+  "name": "PovedaAqui/suzieq-mcp",
+  "description": "Facilitates interaction with SuzieQ network observability via MCP tools for querying and summarizing network state data.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-povedaaqui-suzieq-mcp-d95620f5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-povedaaqui-suzieq-mcp-d95620f5)",
+  "links": {
+    "primary": "https://github.com/PovedaAqui/suzieq-mcp",
+    "repo": "https://github.com/PovedaAqui/suzieq-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

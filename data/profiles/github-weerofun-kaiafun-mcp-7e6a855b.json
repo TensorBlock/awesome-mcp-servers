@@ -1,0 +1,24 @@
+{
+  "id": "github-weerofun-kaiafun-mcp-7e6a855b",
+  "name": "weerofun/kaiafun-mcp",
+  "description": "Facilitates token listing, trading, and blockchain interaction on KaiaFun using the MCP protocol.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-weerofun-kaiafun-mcp-7e6a855b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-weerofun-kaiafun-mcp-7e6a855b)",
+  "links": {
+    "primary": "https://github.com/weerofun/kaiafun-mcp",
+    "repo": "https://github.com/weerofun/kaiafun-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

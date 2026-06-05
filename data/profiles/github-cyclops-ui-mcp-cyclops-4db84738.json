@@ -1,0 +1,24 @@
+{
+  "id": "github-cyclops-ui-mcp-cyclops-4db84738",
+  "name": "cyclops-ui/mcp-cyclops",
+  "description": "Cyclops MCP empowers AI agents to efficiently manage Kubernetes applications by abstracting complexity and ensuring production-ready configurations.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-cyclops-ui-mcp-cyclops-4db84738",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cyclops-ui-mcp-cyclops-4db84738)",
+  "links": {
+    "primary": "https://github.com/cyclops-ui/mcp-cyclops",
+    "repo": "https://github.com/cyclops-ui/mcp-cyclops",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

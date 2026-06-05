@@ -1,0 +1,24 @@
+{
+  "id": "github-explorium-ai-mcp-explorium-31f1f032",
+  "name": "explorium-ai/mcp-explorium",
+  "description": "Facilitates interaction with the Explorium API through an MCP server setup.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-explorium-ai-mcp-explorium-31f1f032",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-explorium-ai-mcp-explorium-31f1f032)",
+  "links": {
+    "primary": "https://github.com/explorium-ai/mcp-explorium",
+    "repo": "https://github.com/explorium-ai/mcp-explorium",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

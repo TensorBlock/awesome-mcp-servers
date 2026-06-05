@@ -1,0 +1,24 @@
+{
+  "id": "github-jean-technologies-mcp-writer-substack-8b228401",
+  "name": "jean-technologies/mcp-writer-substack",
+  "description": "Connects Claude to Substack and Medium writings, enabling semantic search and personalized assistance.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-jean-technologies-mcp-writer-substack-8b228401",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jean-technologies-mcp-writer-substack-8b228401)",
+  "links": {
+    "primary": "https://github.com/jean-technologies/mcp-writer-substack",
+    "repo": "https://github.com/jean-technologies/mcp-writer-substack",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
