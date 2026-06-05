@@ -1,0 +1,24 @@
+{
+  "id": "github-allenbijo-mcp-sysinfo-fac77700",
+  "name": "allenbijo/mcp-sysinfo",
+  "description": "Provides real-time system information for monitoring and diagnostics.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-allenbijo-mcp-sysinfo-fac77700",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-allenbijo-mcp-sysinfo-fac77700)",
+  "links": {
+    "primary": "https://github.com/allenbijo/mcp-sysinfo",
+    "repo": "https://github.com/allenbijo/mcp-sysinfo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

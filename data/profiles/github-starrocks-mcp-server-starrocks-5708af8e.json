@@ -1,0 +1,24 @@
+{
+  "id": "github-starrocks-mcp-server-starrocks-5708af8e",
+  "name": "StarRocks/mcp-server-starrocks",
+  "description": "Facilitates seamless SQL execution and database exploration for AI assistants with StarRocks databases.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-starrocks-mcp-server-starrocks-5708af8e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-starrocks-mcp-server-starrocks-5708af8e)",
+  "links": {
+    "primary": "https://github.com/StarRocks/mcp-server-starrocks",
+    "repo": "https://github.com/StarRocks/mcp-server-starrocks",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

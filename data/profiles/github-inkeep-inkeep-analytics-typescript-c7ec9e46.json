@@ -1,0 +1,24 @@
+{
+  "id": "github-inkeep-inkeep-analytics-typescript-c7ec9e46",
+  "name": "inkeep/inkeep-analytics-typescript",
+  "description": "A developer-friendly TypeScript SDK that provides an MCP server for leveraging Inkeep Analytics API, enabling AI applications to manage conversations, feedback, events, and queries.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-inkeep-inkeep-analytics-typescript-c7ec9e46",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-inkeep-inkeep-analytics-typescript-c7ec9e46)",
+  "links": {
+    "primary": "https://github.com/inkeep/inkeep-analytics-typescript",
+    "repo": "https://github.com/inkeep/inkeep-analytics-typescript",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

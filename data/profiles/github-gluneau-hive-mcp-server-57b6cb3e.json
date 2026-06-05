@@ -1,0 +1,24 @@
+{
+  "id": "github-gluneau-hive-mcp-server-57b6cb3e",
+  "name": "gluneau/hive-mcp-server",
+  "description": "Facilitates AI assistants' interactions with the Hive blockchain, enabling operations like fetching account data, creating posts, and sending tokens.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-gluneau-hive-mcp-server-57b6cb3e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gluneau-hive-mcp-server-57b6cb3e)",
+  "links": {
+    "primary": "https://github.com/gluneau/hive-mcp-server",
+    "repo": "https://github.com/gluneau/hive-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

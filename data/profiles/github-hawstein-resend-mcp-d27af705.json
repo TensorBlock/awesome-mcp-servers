@@ -1,0 +1,24 @@
+{
+  "id": "github-hawstein-resend-mcp-d27af705",
+  "name": "Hawstein/resend-mcp",
+  "description": "Facilitates LLMs in composing and sending emails via the Resend API.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-hawstein-resend-mcp-d27af705",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hawstein-resend-mcp-d27af705)",
+  "links": {
+    "primary": "https://github.com/Hawstein/resend-mcp",
+    "repo": "https://github.com/Hawstein/resend-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

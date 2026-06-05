@@ -1,0 +1,24 @@
+{
+  "id": "github-octomind-dev-octomind-mcp-f81d36d2",
+  "name": "OctoMind-dev/octomind-mcp",
+  "description": "Facilitates the creation, execution, and management of end-to-end tests using Octomind tools and resources.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-octomind-dev-octomind-mcp-f81d36d2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-octomind-dev-octomind-mcp-f81d36d2)",
+  "links": {
+    "primary": "https://github.com/OctoMind-dev/octomind-mcp",
+    "repo": "https://github.com/OctoMind-dev/octomind-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-funmula-corp-biggo-mcp-server-cd0b9010",
+  "name": "Funmula-Corp/BigGo-MCP-Server",
+  "description": "Leverage BigGo's APIs for comprehensive product discovery and price history tracking across multiple e-commerce platforms.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-funmula-corp-biggo-mcp-server-cd0b9010",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-funmula-corp-biggo-mcp-server-cd0b9010)",
+  "links": {
+    "primary": "https://github.com/Funmula-Corp/BigGo-MCP-Server",
+    "repo": "https://github.com/Funmula-Corp/BigGo-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

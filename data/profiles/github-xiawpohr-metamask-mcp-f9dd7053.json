@@ -1,0 +1,24 @@
+{
+  "id": "github-xiawpohr-metamask-mcp-f9dd7053",
+  "name": "Xiawpohr/metamask-mcp",
+  "description": "Facilitates blockchain interactions through MetaMask while ensuring private key security during LLM operations.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-xiawpohr-metamask-mcp-f9dd7053",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xiawpohr-metamask-mcp-f9dd7053)",
+  "links": {
+    "primary": "https://github.com/Xiawpohr/metamask-mcp",
+    "repo": "https://github.com/Xiawpohr/metamask-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

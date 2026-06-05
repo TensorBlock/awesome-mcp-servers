@@ -1,0 +1,25 @@
+{
+  "id": "github-go-tapd-mcp-8ca8e08d",
+  "name": "go-tapd/mcp",
+  "description": "A versatile MCP server for managing Tapd workspaces with STDIO and SSE support.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-go-tapd-mcp-8ca8e08d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-go-tapd-mcp-8ca8e08d)",
+  "links": {
+    "primary": "https://github.com/go-tapd/mcp",
+    "repo": "https://github.com/go-tapd/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

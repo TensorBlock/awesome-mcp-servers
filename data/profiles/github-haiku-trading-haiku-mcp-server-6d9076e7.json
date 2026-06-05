@@ -1,0 +1,24 @@
+{
+  "id": "github-haiku-trading-haiku-mcp-server-6d9076e7",
+  "name": "Haiku MCP Server",
+  "description": "Execute DeFi transactions across 22 blockchain networks. Swaps, lending, vaults, LP, cross-chain bridges.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-haiku-trading-haiku-mcp-server-6d9076e7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-haiku-trading-haiku-mcp-server-6d9076e7)",
+  "links": {
+    "primary": "https://github.com/Haiku-Trading/haiku-mcp-server",
+    "repo": "https://github.com/Haiku-Trading/haiku-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

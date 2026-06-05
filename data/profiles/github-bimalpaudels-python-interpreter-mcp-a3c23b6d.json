@@ -1,0 +1,24 @@
+{
+  "id": "github-bimalpaudels-python-interpreter-mcp-a3c23b6d",
+  "name": "bimalpaudels/python-interpreter-mcp",
+  "description": "Facilitates the execution of Python scripts in a controlled environment using LLMs.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-bimalpaudels-python-interpreter-mcp-a3c23b6d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bimalpaudels-python-interpreter-mcp-a3c23b6d)",
+  "links": {
+    "primary": "https://github.com/bimalpaudels/python-interpreter-mcp",
+    "repo": "https://github.com/bimalpaudels/python-interpreter-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

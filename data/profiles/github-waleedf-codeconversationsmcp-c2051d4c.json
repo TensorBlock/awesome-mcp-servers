@@ -1,0 +1,24 @@
+{
+  "id": "github-waleedf-codeconversationsmcp-c2051d4c",
+  "name": "waleedf/CodeConversationsMCP",
+  "description": "Facilitates Claude's interaction with external AI models for coding assistance via OpenRouter.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-waleedf-codeconversationsmcp-c2051d4c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-waleedf-codeconversationsmcp-c2051d4c)",
+  "links": {
+    "primary": "https://github.com/waleedf/CodeConversationsMCP",
+    "repo": "https://github.com/waleedf/CodeConversationsMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

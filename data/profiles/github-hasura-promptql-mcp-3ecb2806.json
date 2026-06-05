@@ -1,0 +1,24 @@
+{
+  "id": "github-hasura-promptql-mcp-3ecb2806",
+  "name": "hasura/promptql-mcp",
+  "description": "Facilitates natural language data queries and analysis by bridging Hasura's PromptQL with AI assistants via the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-hasura-promptql-mcp-3ecb2806",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hasura-promptql-mcp-3ecb2806)",
+  "links": {
+    "primary": "https://github.com/hasura/promptql-mcp",
+    "repo": "https://github.com/hasura/promptql-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

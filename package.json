@@ -1,0 +1,28 @@
+{
+  "name": "awesome-mcp-servers",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "vitest run --passWithNoTests",
+    "typecheck": "tsc -p tsconfig.base.json --noEmit",
+    "catalog:build": "tsx packages/catalog-builder/src/cli.ts",
+    "profiles:build": "tsx packages/profile-renderer/src/cli.ts",
+    "config:generate": "tsx packages/config-generator/src/cli.ts",
+    "registry:mcp": "tsx packages/registry-mcp/src/server.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "ajv": "^8.0.0",
+    "ajv-formats": "^3.0.1",
+    "zod": "^3.0.0"
+  }
+}

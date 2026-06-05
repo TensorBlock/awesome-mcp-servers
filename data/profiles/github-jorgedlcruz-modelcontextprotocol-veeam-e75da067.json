@@ -1,0 +1,24 @@
+{
+  "id": "github-jorgedlcruz-modelcontextprotocol-veeam-e75da067",
+  "name": "jorgedlcruz/modelcontextprotocol_veeam",
+  "description": "Empower AI assistants to seamlessly interact with Veeam's data protection ecosystem through a collection of MCP servers, enabling advanced data management and automation capabilities.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-jorgedlcruz-modelcontextprotocol-veeam-e75da067",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jorgedlcruz-modelcontextprotocol-veeam-e75da067)",
+  "links": {
+    "primary": "https://github.com/jorgedlcruz/modelcontextprotocol_veeam",
+    "repo": "https://github.com/jorgedlcruz/modelcontextprotocol_veeam",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

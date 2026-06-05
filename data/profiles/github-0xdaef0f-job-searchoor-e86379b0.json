@@ -1,0 +1,24 @@
+{
+  "id": "github-0xdaef0f-job-searchoor-e86379b0",
+  "name": "0xDAEF0F/job-searchoor",
+  "description": "Facilitates job search with filtering options for remote work and keyword inclusion/exclusion.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-0xdaef0f-job-searchoor-e86379b0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-0xdaef0f-job-searchoor-e86379b0)",
+  "links": {
+    "primary": "https://github.com/0xDAEF0F/job-searchoor",
+    "repo": "https://github.com/0xDAEF0F/job-searchoor",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

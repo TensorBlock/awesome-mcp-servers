@@ -1,0 +1,24 @@
+{
+  "id": "github-nighttrek-serper-search-mcp-e03307ea",
+  "name": "NightTrek/Serper-search-mcp",
+  "description": "Provides Google search capabilities and AI-powered deep research tools for MCP-enabled applications using the Serper API.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-nighttrek-serper-search-mcp-e03307ea",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nighttrek-serper-search-mcp-e03307ea)",
+  "links": {
+    "primary": "https://github.com/NightTrek/Serper-search-mcp",
+    "repo": "https://github.com/NightTrek/Serper-search-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

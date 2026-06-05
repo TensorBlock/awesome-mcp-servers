@@ -1,0 +1,24 @@
+{
+  "id": "github-amgadabdelhafez-dbx-mcp-server-a85e9280",
+  "name": "amgadabdelhafez/dbx-mcp-server",
+  "description": "Facilitates seamless interaction with Dropbox through MCP-compatible clients, offering robust file and account management tools.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-amgadabdelhafez-dbx-mcp-server-a85e9280",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amgadabdelhafez-dbx-mcp-server-a85e9280)",
+  "links": {
+    "primary": "https://github.com/amgadabdelhafez/dbx-mcp-server",
+    "repo": "https://github.com/amgadabdelhafez/dbx-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

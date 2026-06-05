@@ -1,0 +1,24 @@
+{
+  "id": "github-axlwolf-brave-mcp-a78e7b9d",
+  "name": "axlwolf/brave-mcp",
+  "description": "Integrates the Brave Search API to provide comprehensive web and local search capabilities with smart fallbacks and flexible filtering.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-axlwolf-brave-mcp-a78e7b9d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-axlwolf-brave-mcp-a78e7b9d)",
+  "links": {
+    "primary": "https://github.com/axlwolf/brave-mcp",
+    "repo": "https://github.com/axlwolf/brave-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-kbehouse-cryo-sql-mcp-c1a28369",
+  "name": "kbehouse/cryo-sql-mcp",
+  "description": "Cryo-SQL-MCP facilitates SQL-based data retrieval and manipulation for blockchain data, integrating seamlessly with AI agents for automated data processing.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-kbehouse-cryo-sql-mcp-c1a28369",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kbehouse-cryo-sql-mcp-c1a28369)",
+  "links": {
+    "primary": "https://github.com/kbehouse/cryo-sql-mcp",
+    "repo": "https://github.com/kbehouse/cryo-sql-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-okooo5km-unsplash-mcp-server-swift-237f3721",
+  "name": "okooo5km/unsplash-mcp-server-swift",
+  "description": "Swift-based server enabling LLMs to search and retrieve photos from Unsplash with advanced filtering options.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-okooo5km-unsplash-mcp-server-swift-237f3721",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-okooo5km-unsplash-mcp-server-swift-237f3721)",
+  "links": {
+    "primary": "https://github.com/okooo5km/unsplash-mcp-server-swift",
+    "repo": "https://github.com/okooo5km/unsplash-mcp-server-swift",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

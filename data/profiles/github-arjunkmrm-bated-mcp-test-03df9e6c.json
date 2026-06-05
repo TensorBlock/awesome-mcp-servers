@@ -1,0 +1,24 @@
+{
+  "id": "github-arjunkmrm-bated-mcp-test-03df9e6c",
+  "name": "arjunkmrm/bated_mcp_test",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-arjunkmrm-bated-mcp-test-03df9e6c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arjunkmrm-bated-mcp-test-03df9e6c)",
+  "links": {
+    "primary": "https://github.com/arjunkmrm/bated_mcp_test",
+    "repo": "https://github.com/arjunkmrm/bated_mcp_test",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

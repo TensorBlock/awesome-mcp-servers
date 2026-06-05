@@ -1,0 +1,24 @@
+{
+  "id": "github-soub4i-kdebug-mcp-a5e8a63b",
+  "name": "soub4i/kdebug-mcp",
+  "description": "KDebug leverages MCP to enable AI-driven interaction with Kubernetes clusters, allowing users to execute commands and monitor resources through conversational AI.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-soub4i-kdebug-mcp-a5e8a63b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-soub4i-kdebug-mcp-a5e8a63b)",
+  "links": {
+    "primary": "https://github.com/soub4i/kdebug-mcp",
+    "repo": "https://github.com/soub4i/kdebug-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

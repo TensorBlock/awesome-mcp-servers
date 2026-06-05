@@ -1,0 +1,24 @@
+{
+  "id": "github-writbase-writbase-a834eb6e",
+  "name": "Writbase/writbase",
+  "description": "MCP-native task management for AI agent fleets with multi-agent permissions, full provenance, inter-agent delegation, and A2A protocol alignment.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-writbase-writbase-a834eb6e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-writbase-writbase-a834eb6e)",
+  "links": {
+    "primary": "https://github.com/Writbase/writbase",
+    "repo": "https://github.com/Writbase/writbase",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

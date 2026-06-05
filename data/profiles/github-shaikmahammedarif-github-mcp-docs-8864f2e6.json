@@ -1,0 +1,24 @@
+{
+  "id": "github-shaikmahammedarif-github-mcp-docs-8864f2e6",
+  "name": "shaikMahammedarif/GitHub-MCP-Docs",
+  "description": "Facilitates GitHub API interactions for file operations, repository management, and advanced search capabilities.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-shaikmahammedarif-github-mcp-docs-8864f2e6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shaikmahammedarif-github-mcp-docs-8864f2e6)",
+  "links": {
+    "primary": "https://github.com/shaikMahammedarif/GitHub-MCP-Docs",
+    "repo": "https://github.com/shaikMahammedarif/GitHub-MCP-Docs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

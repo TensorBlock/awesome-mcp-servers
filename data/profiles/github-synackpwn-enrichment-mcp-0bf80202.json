@@ -1,0 +1,24 @@
+{
+  "id": "github-synackpwn-enrichment-mcp-0bf80202",
+  "name": "synackpwn/enrichment-mcp",
+  "description": "Enhances security data by enriching observables like IP addresses and domain names using third-party services.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-synackpwn-enrichment-mcp-0bf80202",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-synackpwn-enrichment-mcp-0bf80202)",
+  "links": {
+    "primary": "https://github.com/synackpwn/enrichment-mcp",
+    "repo": "https://github.com/synackpwn/enrichment-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

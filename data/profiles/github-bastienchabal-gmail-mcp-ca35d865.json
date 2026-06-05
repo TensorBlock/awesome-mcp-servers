@@ -1,0 +1,24 @@
+{
+  "id": "github-bastienchabal-gmail-mcp-ca35d865",
+  "name": "bastienchabal/gmail-mcp",
+  "description": "Facilitates intelligent, context-aware interactions with Gmail and Google Calendar through Claude Desktop.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-bastienchabal-gmail-mcp-ca35d865",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bastienchabal-gmail-mcp-ca35d865)",
+  "links": {
+    "primary": "https://github.com/bastienchabal/gmail-mcp",
+    "repo": "https://github.com/bastienchabal/gmail-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

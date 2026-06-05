@@ -1,0 +1,24 @@
+{
+  "id": "github-eadm-grain-mcp-server-2b3ea222",
+  "name": "eadm/grain-mcp-server",
+  "description": "Facilitates integration with Grain for meeting recording and transcription through browser automation, bypassing enterprise API restrictions.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-eadm-grain-mcp-server-2b3ea222",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-eadm-grain-mcp-server-2b3ea222)",
+  "links": {
+    "primary": "https://github.com/eadm/grain-mcp-server",
+    "repo": "https://github.com/eadm/grain-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

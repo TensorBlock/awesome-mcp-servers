@@ -1,0 +1,24 @@
+{
+  "id": "github-ruanodendaal-bear-mcp-server-497f0ed4",
+  "name": "ruanodendaal/bear-mcp-server",
+  "description": "Enhance your Bear Notes with AI-driven semantic search and retrieval-augmented generation, all processed locally for privacy.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-ruanodendaal-bear-mcp-server-497f0ed4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ruanodendaal-bear-mcp-server-497f0ed4)",
+  "links": {
+    "primary": "https://github.com/ruanodendaal/bear-mcp-server",
+    "repo": "https://github.com/ruanodendaal/bear-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

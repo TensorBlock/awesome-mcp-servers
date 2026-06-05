@@ -1,0 +1,24 @@
+{
+  "id": "github-tomoya10-folder-access-server-8a2983a8",
+  "name": "tomoya10/folder-access-server",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-tomoya10-folder-access-server-8a2983a8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tomoya10-folder-access-server-8a2983a8)",
+  "links": {
+    "primary": "https://github.com/tomoya10/folder-access-server",
+    "repo": "https://github.com/tomoya10/folder-access-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

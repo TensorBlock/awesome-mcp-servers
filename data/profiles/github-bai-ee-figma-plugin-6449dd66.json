@@ -1,0 +1,24 @@
+{
+  "id": "github-bai-ee-figma-plugin-6449dd66",
+  "name": "Bai-ee/Figma_Plugin",
+  "description": "Facilitates seamless communication between Cursor AI and Figma for programmatic design modifications.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-bai-ee-figma-plugin-6449dd66",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bai-ee-figma-plugin-6449dd66)",
+  "links": {
+    "primary": "https://github.com/Bai-ee/Figma_Plugin",
+    "repo": "https://github.com/Bai-ee/Figma_Plugin",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

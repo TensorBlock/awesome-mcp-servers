@@ -1,0 +1,25 @@
+{
+  "id": "github-hive-intel-hive-sdk-01611aed",
+  "name": "hive-intel/hive-sdk",
+  "description": "Managed crypto intelligence MCP for AI agents with hosted HTTP, local stdio through the `hive-intelligence` npm package, a TypeScript SDK, and skills across market data, DeFi, wallets, token risk, DEX flows, NFTs, Solana, infrastructure, and prediction markets.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-hive-intel-hive-sdk-01611aed",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hive-intel-hive-sdk-01611aed)",
+  "links": {
+    "primary": "https://github.com/hive-intel/hive-sdk",
+    "repo": "https://github.com/hive-intel/hive-sdk",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

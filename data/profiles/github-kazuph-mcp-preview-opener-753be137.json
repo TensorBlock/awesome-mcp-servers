@@ -1,0 +1,24 @@
+{
+  "id": "github-kazuph-mcp-preview-opener-753be137",
+  "name": "kazuph/mcp-preview-opener",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note creation and summarization.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-kazuph-mcp-preview-opener-753be137",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kazuph-mcp-preview-opener-753be137)",
+  "links": {
+    "primary": "https://github.com/kazuph/mcp-preview-opener",
+    "repo": "https://github.com/kazuph/mcp-preview-opener",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

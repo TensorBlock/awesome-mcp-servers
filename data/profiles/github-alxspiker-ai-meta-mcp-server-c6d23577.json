@@ -1,0 +1,24 @@
+{
+  "id": "github-alxspiker-ai-meta-mcp-server-c6d23577",
+  "name": "alxspiker/ai-meta-mcp-server",
+  "description": "A dynamic server enabling AI to create and execute custom tools through a meta-function architecture, supporting multiple runtime environments with sandboxed security.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-alxspiker-ai-meta-mcp-server-c6d23577",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alxspiker-ai-meta-mcp-server-c6d23577)",
+  "links": {
+    "primary": "https://github.com/alxspiker/ai-meta-mcp-server",
+    "repo": "https://github.com/alxspiker/ai-meta-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

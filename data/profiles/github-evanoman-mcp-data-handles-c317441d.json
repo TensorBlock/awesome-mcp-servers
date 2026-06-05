@@ -1,0 +1,24 @@
+{
+  "id": "github-evanoman-mcp-data-handles-c317441d",
+  "name": "EvanOman/mcp-data-handles",
+  "description": "Demonstrates managing pandas DataFrames through handles in MCP servers, offering both simplified and generic operations for data manipulation.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-evanoman-mcp-data-handles-c317441d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-evanoman-mcp-data-handles-c317441d)",
+  "links": {
+    "primary": "https://github.com/EvanOman/mcp-data-handles",
+    "repo": "https://github.com/EvanOman/mcp-data-handles",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
