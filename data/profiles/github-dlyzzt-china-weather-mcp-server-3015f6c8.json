@@ -1,0 +1,24 @@
+{
+  "id": "github-dlyzzt-china-weather-mcp-server-3015f6c8",
+  "name": "DLYZZT/china-weather-mcp-server",
+  "description": "Provides real-time weather data for Chinese cities via the AMap Weather API, enabling AI assistants to access current weather conditions.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-dlyzzt-china-weather-mcp-server-3015f6c8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dlyzzt-china-weather-mcp-server-3015f6c8)",
+  "links": {
+    "primary": "https://github.com/DLYZZT/china-weather-mcp-server",
+    "repo": "https://github.com/DLYZZT/china-weather-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

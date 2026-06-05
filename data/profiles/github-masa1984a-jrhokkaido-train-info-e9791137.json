@@ -1,0 +1,24 @@
+{
+  "id": "github-masa1984a-jrhokkaido-train-info-e9791137",
+  "name": "Masa1984a/jrhokkaido_train_info",
+  "description": "Provides real-time train operation information for JR Hokkaido, including delays and cancellations, across various regions.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-masa1984a-jrhokkaido-train-info-e9791137",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-masa1984a-jrhokkaido-train-info-e9791137)",
+  "links": {
+    "primary": "https://github.com/Masa1984a/jrhokkaido_train_info",
+    "repo": "https://github.com/Masa1984a/jrhokkaido_train_info",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

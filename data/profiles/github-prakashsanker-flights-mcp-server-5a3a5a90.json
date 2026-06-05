@@ -1,0 +1,24 @@
+{
+  "id": "github-prakashsanker-flights-mcp-server-5a3a5a90",
+  "name": "prakashsanker/flights-mcp-server",
+  "description": "Facilitates complex travel planning by integrating flight, hotel, and future car rental and taxi services using Booking.com and Google Maps APIs.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-prakashsanker-flights-mcp-server-5a3a5a90",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-prakashsanker-flights-mcp-server-5a3a5a90)",
+  "links": {
+    "primary": "https://github.com/prakashsanker/flights-mcp-server",
+    "repo": "https://github.com/prakashsanker/flights-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

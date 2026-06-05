@@ -1,0 +1,24 @@
+{
+  "id": "github-ordiscan-ordiscan-mcp-8baae978",
+  "name": "ordiscan/ordiscan-mcp",
+  "description": "Facilitates access to Ordinals and Runes data on Bitcoin through a model context protocol server.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-ordiscan-ordiscan-mcp-8baae978",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ordiscan-ordiscan-mcp-8baae978)",
+  "links": {
+    "primary": "https://github.com/ordiscan/ordiscan-mcp",
+    "repo": "https://github.com/ordiscan/ordiscan-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

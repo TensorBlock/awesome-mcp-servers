@@ -1,0 +1,24 @@
+{
+  "id": "github-bamimore-tomi-ghidra-mcp-2d604559",
+  "name": "Bamimore-Tomi/ghidra_mcp",
+  "description": "Transforms Ghidra into a reverse-engineering backend by extracting decompiled binary data and exposing it to LLMs via MCP.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-bamimore-tomi-ghidra-mcp-2d604559",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bamimore-tomi-ghidra-mcp-2d604559)",
+  "links": {
+    "primary": "https://github.com/Bamimore-Tomi/ghidra_mcp",
+    "repo": "https://github.com/Bamimore-Tomi/ghidra_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

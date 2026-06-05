@@ -1,0 +1,24 @@
+{
+  "id": "github-arsolutioner-secure-annex-mcp-5b615fa1",
+  "name": "arsolutioner/secure-annex-mcp",
+  "description": "A specialized server for evaluating and enhancing the security of browser extensions through comprehensive analysis and vulnerability detection.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-arsolutioner-secure-annex-mcp-5b615fa1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arsolutioner-secure-annex-mcp-5b615fa1)",
+  "links": {
+    "primary": "https://github.com/arsolutioner/secure-annex-mcp",
+    "repo": "https://github.com/arsolutioner/secure-annex-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

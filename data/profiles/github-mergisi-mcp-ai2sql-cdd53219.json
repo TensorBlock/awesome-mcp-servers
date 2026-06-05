@@ -1,0 +1,24 @@
+{
+  "id": "github-mergisi-mcp-ai2sql-cdd53219",
+  "name": "mergisi/mcp-ai2sql",
+  "description": "Facilitates natural language to SQL query generation through a FastMCP server interface, integrating seamlessly with Cursor IDE and Claude AI.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-mergisi-mcp-ai2sql-cdd53219",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mergisi-mcp-ai2sql-cdd53219)",
+  "links": {
+    "primary": "https://github.com/mergisi/mcp-ai2sql",
+    "repo": "https://github.com/mergisi/mcp-ai2sql",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

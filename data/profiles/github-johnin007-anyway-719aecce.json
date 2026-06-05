@@ -1,0 +1,24 @@
+{
+  "id": "github-johnin007-anyway-719aecce",
+  "name": "johnin007/anyway",
+  "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-johnin007-anyway-719aecce",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-johnin007-anyway-719aecce)",
+  "links": {
+    "primary": "https://github.com/johnin007/anyway",
+    "repo": "https://github.com/johnin007/anyway",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

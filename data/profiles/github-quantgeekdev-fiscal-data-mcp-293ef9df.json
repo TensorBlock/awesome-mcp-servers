@@ -1,0 +1,24 @@
+{
+  "id": "github-quantgeekdev-fiscal-data-mcp-293ef9df",
+  "name": "QuantGeekDev/fiscal-data-mcp",
+  "description": "Connects to the US Treasury's Fiscal Data API for fetching and reporting treasury statements.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-quantgeekdev-fiscal-data-mcp-293ef9df",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-quantgeekdev-fiscal-data-mcp-293ef9df)",
+  "links": {
+    "primary": "https://github.com/QuantGeekDev/fiscal-data-mcp",
+    "repo": "https://github.com/QuantGeekDev/fiscal-data-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

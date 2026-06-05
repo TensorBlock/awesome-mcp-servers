@@ -1,0 +1,24 @@
+{
+  "id": "github-lroolle-openai-agents-mcp-server-b88bee74",
+  "name": "lroolle/openai-agents-mcp-server",
+  "description": "A server that integrates OpenAI agents with the MCP protocol, enabling seamless orchestration and execution of specialized tasks.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-lroolle-openai-agents-mcp-server-b88bee74",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lroolle-openai-agents-mcp-server-b88bee74)",
+  "links": {
+    "primary": "https://github.com/lroolle/openai-agents-mcp-server",
+    "repo": "https://github.com/lroolle/openai-agents-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

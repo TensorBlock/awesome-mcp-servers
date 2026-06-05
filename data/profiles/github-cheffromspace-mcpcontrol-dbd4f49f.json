@@ -1,0 +1,24 @@
+{
+  "id": "github-cheffromspace-mcpcontrol-dbd4f49f",
+  "name": "Cheffromspace/MCPControl",
+  "description": "Facilitates programmatic control over Windows OS operations, including mouse, keyboard, and window management, through the Model Context Protocol.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-cheffromspace-mcpcontrol-dbd4f49f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cheffromspace-mcpcontrol-dbd4f49f)",
+  "links": {
+    "primary": "https://github.com/Cheffromspace/MCPControl",
+    "repo": "https://github.com/Cheffromspace/MCPControl",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

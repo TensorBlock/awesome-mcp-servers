@@ -1,0 +1,24 @@
+{
+  "id": "github-siamhas-mcp-to-pc-entities-77737761",
+  "name": "SiamHas/MCP_TO_PC_ENTITIES",
+  "description": "Facilitates querying DNO APIs for catalog entities and pricing rules via Claude integration.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-siamhas-mcp-to-pc-entities-77737761",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-siamhas-mcp-to-pc-entities-77737761)",
+  "links": {
+    "primary": "https://github.com/SiamHas/MCP_TO_PC_ENTITIES",
+    "repo": "https://github.com/SiamHas/MCP_TO_PC_ENTITIES",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

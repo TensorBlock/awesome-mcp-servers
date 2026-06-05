@@ -1,0 +1,24 @@
+{
+  "id": "github-socamalo-ppt-mcp-server-d7001aed",
+  "name": "socamalo/PPT_MCP_Server",
+  "description": "Facilitates PowerPoint automation through Claude Desktop, enabling seamless interaction with presentations via MCP.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-socamalo-ppt-mcp-server-d7001aed",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-socamalo-ppt-mcp-server-d7001aed)",
+  "links": {
+    "primary": "https://github.com/socamalo/PPT_MCP_Server",
+    "repo": "https://github.com/socamalo/PPT_MCP_Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

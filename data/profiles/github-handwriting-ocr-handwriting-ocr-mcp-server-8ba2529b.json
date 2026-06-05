@@ -1,0 +1,24 @@
+{
+  "id": "github-handwriting-ocr-handwriting-ocr-mcp-server-8ba2529b",
+  "name": "Handwriting-OCR/handwriting-ocr-mcp-server",
+  "description": "Facilitates integration between MCP clients and the Handwriting OCR service for document transcription and retrieval.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-handwriting-ocr-handwriting-ocr-mcp-server-8ba2529b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-handwriting-ocr-handwriting-ocr-mcp-server-8ba2529b)",
+  "links": {
+    "primary": "https://github.com/Handwriting-OCR/handwriting-ocr-mcp-server",
+    "repo": "https://github.com/Handwriting-OCR/handwriting-ocr-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

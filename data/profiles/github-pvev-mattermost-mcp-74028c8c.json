@@ -1,0 +1,24 @@
+{
+  "id": "github-pvev-mattermost-mcp-74028c8c",
+  "name": "pvev/mattermost-mcp",
+  "description": "Facilitates interaction between Claude and Mattermost workspaces through a comprehensive set of tools for monitoring, messaging, and user management.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-pvev-mattermost-mcp-74028c8c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pvev-mattermost-mcp-74028c8c)",
+  "links": {
+    "primary": "https://github.com/pvev/mattermost-mcp",
+    "repo": "https://github.com/pvev/mattermost-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

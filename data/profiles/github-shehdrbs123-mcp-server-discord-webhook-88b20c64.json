@@ -1,0 +1,24 @@
+{
+  "id": "github-shehdrbs123-mcp-server-discord-webhook-88b20c64",
+  "name": "shehdrbs123/mcp-server-discord-webhook",
+  "description": "Facilitates real-time notifications to Discord channels using MCP server integration with customizable event messages.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-shehdrbs123-mcp-server-discord-webhook-88b20c64",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shehdrbs123-mcp-server-discord-webhook-88b20c64)",
+  "links": {
+    "primary": "https://github.com/shehdrbs123/mcp-server-discord-webhook",
+    "repo": "https://github.com/shehdrbs123/mcp-server-discord-webhook",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
