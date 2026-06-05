@@ -1,0 +1,24 @@
+{
+  "id": "github-github-github-mcp-server-faa31886",
+  "name": "github/github-mcp-server",
+  "description": "GitHub's MCP Server facilitates advanced automation and interaction with GitHub APIs, enhancing developer workflows and tool integrations.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-github-github-mcp-server-faa31886",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-github-github-mcp-server-faa31886)",
+  "links": {
+    "primary": "https://github.com/github/github-mcp-server",
+    "repo": "https://github.com/github/github-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

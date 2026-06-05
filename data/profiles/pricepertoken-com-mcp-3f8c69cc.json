@@ -1,0 +1,24 @@
+{
+  "id": "pricepertoken-com-mcp-3f8c69cc",
+  "name": "pricepertoken/mcp-server",
+  "description": "Provides real-time LLM API pricing comparison and benchmark rankings across 100+ models from 30+ providers including OpenAI, Anthropic, Google, and Meta. No API key required.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/pricepertoken-com-mcp-3f8c69cc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/pricepertoken-com-mcp-3f8c69cc)",
+  "links": {
+    "primary": "https://pricepertoken.com/mcp",
+    "repo": null,
+    "homepage": "https://pricepertoken.com/mcp",
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

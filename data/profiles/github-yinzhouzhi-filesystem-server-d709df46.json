@@ -1,0 +1,24 @@
+{
+  "id": "github-yinzhouzhi-filesystem-server-d709df46",
+  "name": "yinzhouzhi/filesystem-server",
+  "description": "Facilitates local filesystem access and operations through a Model Context Protocol-based server.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-yinzhouzhi-filesystem-server-d709df46",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yinzhouzhi-filesystem-server-d709df46)",
+  "links": {
+    "primary": "https://github.com/yinzhouzhi/filesystem-server",
+    "repo": "https://github.com/yinzhouzhi/filesystem-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

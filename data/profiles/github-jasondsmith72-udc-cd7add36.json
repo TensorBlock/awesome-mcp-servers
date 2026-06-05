@@ -1,0 +1,24 @@
+{
+  "id": "github-jasondsmith72-udc-cd7add36",
+  "name": "jasondsmith72/UDC",
+  "description": "Ultimate Desktop Commander provides unrestricted filesystem access and terminal command execution for Claude Desktop, leveraging MCP for comprehensive system management.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-jasondsmith72-udc-cd7add36",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jasondsmith72-udc-cd7add36)",
+  "links": {
+    "primary": "https://github.com/jasondsmith72/UDC",
+    "repo": "https://github.com/jasondsmith72/UDC",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

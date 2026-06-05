@@ -1,0 +1,24 @@
+{
+  "id": "github-mingolladaniele-taskmaster-todoist-mcp-7830eafb",
+  "name": "mingolladaniele/taskMaster-todoist-mcp",
+  "description": "Facilitates natural language interaction with Todoist tasks directly from your IDE, enhancing productivity through seamless integration with Cursor AI.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-mingolladaniele-taskmaster-todoist-mcp-7830eafb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mingolladaniele-taskmaster-todoist-mcp-7830eafb)",
+  "links": {
+    "primary": "https://github.com/mingolladaniele/taskMaster-todoist-mcp",
+    "repo": "https://github.com/mingolladaniele/taskMaster-todoist-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

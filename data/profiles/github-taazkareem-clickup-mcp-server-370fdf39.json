@@ -1,0 +1,24 @@
+{
+  "id": "github-taazkareem-clickup-mcp-server-370fdf39",
+  "name": "taazkareem/clickup-mcp-server",
+  "description": "Facilitates AI-driven task management by enabling seamless interaction between AI applications and ClickUp through a standardized protocol.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-taazkareem-clickup-mcp-server-370fdf39",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-taazkareem-clickup-mcp-server-370fdf39)",
+  "links": {
+    "primary": "https://github.com/taazkareem/clickup-mcp-server",
+    "repo": "https://github.com/taazkareem/clickup-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

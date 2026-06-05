@@ -1,0 +1,24 @@
+{
+  "id": "github-avioflagos-mcp-coding-assistant-25a48ba4",
+  "name": "AviOfLagos/MCP-coding-assistant",
+  "description": "Enhances Cline coding agent capabilities by providing intelligent code suggestions, reducing hallucinations, and integrating project documentation.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-avioflagos-mcp-coding-assistant-25a48ba4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-avioflagos-mcp-coding-assistant-25a48ba4)",
+  "links": {
+    "primary": "https://github.com/AviOfLagos/MCP-coding-assistant",
+    "repo": "https://github.com/AviOfLagos/MCP-coding-assistant",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

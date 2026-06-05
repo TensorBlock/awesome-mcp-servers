@@ -1,0 +1,24 @@
+{
+  "id": "github-tiaz0128-hello-mcp-5debac58",
+  "name": "tiaz0128/hello-mcp",
+  "description": "Facilitates seminar management through an MCP server with Docker integration for seamless deployment.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tiaz0128-hello-mcp-5debac58",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tiaz0128-hello-mcp-5debac58)",
+  "links": {
+    "primary": "https://github.com/tiaz0128/hello-mcp",
+    "repo": "https://github.com/tiaz0128/hello-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

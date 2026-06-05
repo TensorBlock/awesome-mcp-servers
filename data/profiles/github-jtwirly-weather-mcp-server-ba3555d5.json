@@ -1,0 +1,24 @@
+{
+  "id": "github-jtwirly-weather-mcp-server-ba3555d5",
+  "name": "jtwirly/weather-mcp-server",
+  "description": "Provides weather forecasts and alerts for US locations by integrating with the National Weather Service API.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-jtwirly-weather-mcp-server-ba3555d5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jtwirly-weather-mcp-server-ba3555d5)",
+  "links": {
+    "primary": "https://github.com/jtwirly/weather-mcp-server",
+    "repo": "https://github.com/jtwirly/weather-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

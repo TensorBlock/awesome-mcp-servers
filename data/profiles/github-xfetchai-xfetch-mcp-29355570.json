@@ -1,0 +1,24 @@
+{
+  "id": "github-xfetchai-xfetch-mcp-29355570",
+  "name": "xfetchai/xfetch-mcp",
+  "description": "XFetch MCP Server enhances web content fetching by bypassing protection systems and rendering JavaScript for dynamic websites, enabling LLMs to retrieve and process content efficiently.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-xfetchai-xfetch-mcp-29355570",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xfetchai-xfetch-mcp-29355570)",
+  "links": {
+    "primary": "https://github.com/xfetchai/xfetch-mcp",
+    "repo": "https://github.com/xfetchai/xfetch-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

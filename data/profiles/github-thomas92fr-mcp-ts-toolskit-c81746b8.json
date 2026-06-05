@@ -1,0 +1,24 @@
+{
+  "id": "github-thomas92fr-mcp-ts-toolskit-c81746b8",
+  "name": "thomas92fr/mcp-ts-toolskit",
+  "description": "A secure and configurable MCP server toolkit for file system manipulation, web search, document conversion, and project management across npm and .NET environments.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-thomas92fr-mcp-ts-toolskit-c81746b8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thomas92fr-mcp-ts-toolskit-c81746b8)",
+  "links": {
+    "primary": "https://github.com/thomas92fr/mcp-ts-toolskit",
+    "repo": "https://github.com/thomas92fr/mcp-ts-toolskit",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

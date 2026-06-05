@@ -1,0 +1,24 @@
+{
+  "id": "github-larryhudson-mcp-server-template-f696f602",
+  "name": "larryhudson/mcp-server-template",
+  "description": "A TypeScript template for creating MCP servers, facilitating integration with AI assistants and external tools.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-larryhudson-mcp-server-template-f696f602",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-larryhudson-mcp-server-template-f696f602)",
+  "links": {
+    "primary": "https://github.com/larryhudson/mcp-server-template",
+    "repo": "https://github.com/larryhudson/mcp-server-template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

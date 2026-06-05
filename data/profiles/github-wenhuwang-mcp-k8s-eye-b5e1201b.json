@@ -1,0 +1,24 @@
+{
+  "id": "github-wenhuwang-mcp-k8s-eye-b5e1201b",
+  "name": "wenhuwang/mcp-k8s-eye",
+  "description": "Facilitates Kubernetes cluster management and workload analysis through MCP server capabilities.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-wenhuwang-mcp-k8s-eye-b5e1201b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wenhuwang-mcp-k8s-eye-b5e1201b)",
+  "links": {
+    "primary": "https://github.com/wenhuwang/mcp-k8s-eye",
+    "repo": "https://github.com/wenhuwang/mcp-k8s-eye",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

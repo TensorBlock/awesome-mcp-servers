@@ -1,0 +1,24 @@
+{
+  "id": "github-sunnja69-akephalos-6f6331f2",
+  "name": "sunnja69/akephalos",
+  "description": "Local-first, markdown-first `.akephalos` passport for portable preferences, tool notes, rules, project context, and durable memories across Codex, Claude Code, Cursor, Hermes, OpenClaw, MCP clients, and machines via plain files/Git. Exposes a local MCP stdio server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-sunnja69-akephalos-6f6331f2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sunnja69-akephalos-6f6331f2)",
+  "links": {
+    "primary": "https://github.com/sunnja69/akephalos",
+    "repo": "https://github.com/sunnja69/akephalos",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

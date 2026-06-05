@@ -1,0 +1,24 @@
+{
+  "id": "github-jamie7893-statsource-mcp-100818e4",
+  "name": "jamie7893/statsource-mcp",
+  "description": "Empower LLMs with statistical analysis and ML prediction capabilities using diverse data sources.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-jamie7893-statsource-mcp-100818e4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jamie7893-statsource-mcp-100818e4)",
+  "links": {
+    "primary": "https://github.com/jamie7893/statsource-mcp",
+    "repo": "https://github.com/jamie7893/statsource-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-panth1823-formula1-mcp-42e4b756",
+  "name": "Panth1823/formula1-mcp",
+  "description": "Experience the excitement of Formula 1 with real-time and historical racing data through a TypeScript-based MCP server.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-panth1823-formula1-mcp-42e4b756",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-panth1823-formula1-mcp-42e4b756)",
+  "links": {
+    "primary": "https://github.com/Panth1823/formula1-mcp",
+    "repo": "https://github.com/Panth1823/formula1-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

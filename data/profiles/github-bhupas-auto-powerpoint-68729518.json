@@ -1,0 +1,24 @@
+{
+  "id": "github-bhupas-auto-powerpoint-68729518",
+  "name": "bhupas/auto-powerpoint",
+  "description": "Facilitates seamless interaction with Microsoft PowerPoint through Claude Desktop, enabling tasks like creating presentations and managing slides.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-bhupas-auto-powerpoint-68729518",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bhupas-auto-powerpoint-68729518)",
+  "links": {
+    "primary": "https://github.com/bhupas/auto-powerpoint",
+    "repo": "https://github.com/bhupas/auto-powerpoint",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-ertugrul59-tradingview-chart-mcp-a5c65733",
+  "name": "ertugrul59/tradingview-chart-mcp",
+  "description": "Fetches TradingView chart images using ticker and interval inputs for seamless integration with MCP clients.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-ertugrul59-tradingview-chart-mcp-a5c65733",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ertugrul59-tradingview-chart-mcp-a5c65733)",
+  "links": {
+    "primary": "https://github.com/ertugrul59/tradingview-chart-mcp",
+    "repo": "https://github.com/ertugrul59/tradingview-chart-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

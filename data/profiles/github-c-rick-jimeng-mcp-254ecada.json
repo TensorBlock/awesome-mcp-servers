@@ -1,0 +1,24 @@
+{
+  "id": "github-c-rick-jimeng-mcp-254ecada",
+  "name": "c-rick/jimeng-mcp",
+  "description": "A TypeScript-based MCP server integrating Volcengine's AI image generation service, offering tools for creating images with customizable parameters and direct URL returns.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-c-rick-jimeng-mcp-254ecada",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-c-rick-jimeng-mcp-254ecada)",
+  "links": {
+    "primary": "https://github.com/c-rick/jimeng-mcp",
+    "repo": "https://github.com/c-rick/jimeng-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

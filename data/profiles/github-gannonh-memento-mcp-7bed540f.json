@@ -1,0 +1,24 @@
+{
+  "id": "github-gannonh-memento-mcp-7bed540f",
+  "name": "gannonh/memento-mcp",
+  "description": "Memento MCP offers a scalable knowledge graph memory system with semantic retrieval and temporal awareness for LLMs, leveraging Neo4j for storage and vector search.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-gannonh-memento-mcp-7bed540f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gannonh-memento-mcp-7bed540f)",
+  "links": {
+    "primary": "https://github.com/gannonh/memento-mcp",
+    "repo": "https://github.com/gannonh/memento-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-icyhd-mcp-on-edge-1c975414",
+  "name": "icyhd/mcp-on-edge",
+  "description": "A comprehensive MCP client and server implementation utilizing EdgeOne Pages Functions for intelligent chat applications with robust context management and request routing.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-icyhd-mcp-on-edge-1c975414",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-icyhd-mcp-on-edge-1c975414)",
+  "links": {
+    "primary": "https://github.com/icyhd/mcp-on-edge",
+    "repo": "https://github.com/icyhd/mcp-on-edge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

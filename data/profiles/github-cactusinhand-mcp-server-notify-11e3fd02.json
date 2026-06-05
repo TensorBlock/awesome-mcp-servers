@@ -1,0 +1,24 @@
+{
+  "id": "github-cactusinhand-mcp-server-notify-11e3fd02",
+  "name": "Cactusinhand/mcp_server_notify",
+  "description": "Facilitates cross-platform desktop notifications with sound alerts upon agent task completion, leveraging the MCP protocol for seamless LLM client integration.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-cactusinhand-mcp-server-notify-11e3fd02",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cactusinhand-mcp-server-notify-11e3fd02)",
+  "links": {
+    "primary": "https://github.com/Cactusinhand/mcp_server_notify",
+    "repo": "https://github.com/Cactusinhand/mcp_server_notify",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

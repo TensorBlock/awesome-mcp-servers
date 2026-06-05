@@ -1,0 +1,24 @@
+{
+  "id": "github-bortlesboat-bitcoin-mcp-5d47285a",
+  "name": "Bortlesboat/bitcoin-mcp",
+  "description": "Bitcoin fee intelligence, mempool, block, transaction, mining, and price tools for MCP clients, with a zero-config hosted fallback through Satoshi API and optional self-hosted Bitcoin Core.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-bortlesboat-bitcoin-mcp-5d47285a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bortlesboat-bitcoin-mcp-5d47285a)",
+  "links": {
+    "primary": "https://github.com/Bortlesboat/bitcoin-mcp",
+    "repo": "https://github.com/Bortlesboat/bitcoin-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
