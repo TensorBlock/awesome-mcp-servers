@@ -1,0 +1,24 @@
+{
+  "id": "github-sho0318-ndl-mcp-99a10a82",
+  "name": "sho0318/ndl-mcp",
+  "description": "Facilitates AI-driven book searches and data retrieval using the Next Generation Digital Library API.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-sho0318-ndl-mcp-99a10a82",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sho0318-ndl-mcp-99a10a82)",
+  "links": {
+    "primary": "https://github.com/sho0318/ndl-mcp",
+    "repo": "https://github.com/sho0318/ndl-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

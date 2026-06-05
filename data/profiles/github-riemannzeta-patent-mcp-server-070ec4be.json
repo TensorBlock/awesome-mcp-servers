@@ -1,0 +1,24 @@
+{
+  "id": "github-riemannzeta-patent-mcp-server-070ec4be",
+  "name": "riemannzeta/patent_mcp_server",
+  "description": "Facilitates access to USPTO patent data through APIs, enabling integration with Claude Desktop for efficient patent search and retrieval.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-riemannzeta-patent-mcp-server-070ec4be",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-riemannzeta-patent-mcp-server-070ec4be)",
+  "links": {
+    "primary": "https://github.com/riemannzeta/patent_mcp_server",
+    "repo": "https://github.com/riemannzeta/patent_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

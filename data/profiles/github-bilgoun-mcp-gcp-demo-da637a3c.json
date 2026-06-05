@@ -1,0 +1,25 @@
+{
+  "id": "github-bilgoun-mcp-gcp-demo-da637a3c",
+  "name": "bilgoun/mcp-gcp-demo",
+  "description": "Facilitates browser automation through AI agents with dual transport support for SSE and stdio protocols.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-bilgoun-mcp-gcp-demo-da637a3c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bilgoun-mcp-gcp-demo-da637a3c)",
+  "links": {
+    "primary": "https://github.com/bilgoun/mcp-gcp-demo",
+    "repo": "https://github.com/bilgoun/mcp-gcp-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

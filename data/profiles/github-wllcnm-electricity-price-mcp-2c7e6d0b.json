@@ -1,0 +1,24 @@
+{
+  "id": "github-wllcnm-electricity-price-mcp-2c7e6d0b",
+  "name": "wllcnm/electricity-price-mcp",
+  "description": "Facilitates electricity price queries across regions and timeframes using MCP protocol.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-wllcnm-electricity-price-mcp-2c7e6d0b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wllcnm-electricity-price-mcp-2c7e6d0b)",
+  "links": {
+    "primary": "https://github.com/wllcnm/electricity-price-mcp",
+    "repo": "https://github.com/wllcnm/electricity-price-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

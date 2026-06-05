@@ -1,0 +1,24 @@
+{
+  "id": "github-blazickjp-shell-mcp-server-5982d069",
+  "name": "blazickjp/shell-mcp-server",
+  "description": "Facilitates secure shell command execution for AI applications, ensuring controlled access within specified directories.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-blazickjp-shell-mcp-server-5982d069",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-blazickjp-shell-mcp-server-5982d069)",
+  "links": {
+    "primary": "https://github.com/blazickjp/shell-mcp-server",
+    "repo": "https://github.com/blazickjp/shell-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

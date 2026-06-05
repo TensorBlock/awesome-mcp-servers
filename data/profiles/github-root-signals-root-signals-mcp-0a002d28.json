@@ -1,0 +1,24 @@
+{
+  "id": "github-root-signals-root-signals-mcp-0a002d28",
+  "name": "root-signals/root-signals-mcp",
+  "description": "Facilitates AI assistants in evaluating responses using Root Signals evaluators through an MCP server interface.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-root-signals-root-signals-mcp-0a002d28",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-root-signals-root-signals-mcp-0a002d28)",
+  "links": {
+    "primary": "https://github.com/root-signals/root-signals-mcp",
+    "repo": "https://github.com/root-signals/root-signals-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

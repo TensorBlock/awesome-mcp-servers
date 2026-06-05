@@ -1,0 +1,24 @@
+{
+  "id": "github-t-suganuma-ssh-connect-mcp-server-7db15f8c",
+  "name": "t-suganuma/ssh-connect-mcp-server",
+  "description": "Facilitates SSH connections and file operations through a robust MCP server interface.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-t-suganuma-ssh-connect-mcp-server-7db15f8c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-t-suganuma-ssh-connect-mcp-server-7db15f8c)",
+  "links": {
+    "primary": "https://github.com/t-suganuma/ssh-connect-mcp-server",
+    "repo": "https://github.com/t-suganuma/ssh-connect-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

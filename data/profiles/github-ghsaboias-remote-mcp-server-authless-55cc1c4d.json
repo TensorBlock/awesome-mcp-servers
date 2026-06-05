@@ -1,0 +1,24 @@
+{
+  "id": "github-ghsaboias-remote-mcp-server-authless-55cc1c4d",
+  "name": "ghsaboias/remote-mcp-server-authless",
+  "description": "Deploy a remote MCP server on Cloudflare Workers without authentication, enabling seamless integration with Cloudflare AI Playground and local MCP clients.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ghsaboias-remote-mcp-server-authless-55cc1c4d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ghsaboias-remote-mcp-server-authless-55cc1c4d)",
+  "links": {
+    "primary": "https://github.com/ghsaboias/remote-mcp-server-authless",
+    "repo": "https://github.com/ghsaboias/remote-mcp-server-authless",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

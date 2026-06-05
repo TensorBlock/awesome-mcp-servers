@@ -1,0 +1,24 @@
+{
+  "id": "github-elvis720-mcp-agent-33d6d38c",
+  "name": "Elvis720/mcp-agent",
+  "description": "Facilitates browser automation for LLMs using Playwright's accessibility tree, enabling structured web interactions without visual models.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-elvis720-mcp-agent-33d6d38c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elvis720-mcp-agent-33d6d38c)",
+  "links": {
+    "primary": "https://github.com/Elvis720/mcp-agent",
+    "repo": "https://github.com/Elvis720/mcp-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

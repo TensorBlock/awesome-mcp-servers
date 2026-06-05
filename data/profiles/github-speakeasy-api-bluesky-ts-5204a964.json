@@ -1,0 +1,24 @@
+{
+  "id": "github-speakeasy-api-bluesky-ts-5204a964",
+  "name": "speakeasy-api/bluesky-ts",
+  "description": "A TypeScript SDK for Bluesky API, offering a developer-friendly, type-safe interface with MCP server capabilities for AI applications.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-speakeasy-api-bluesky-ts-5204a964",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-speakeasy-api-bluesky-ts-5204a964)",
+  "links": {
+    "primary": "https://github.com/speakeasy-api/bluesky-ts",
+    "repo": "https://github.com/speakeasy-api/bluesky-ts",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

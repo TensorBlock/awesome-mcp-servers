@@ -1,0 +1,24 @@
+{
+  "id": "github-theodx2-legifrancemcp-654ae7a4",
+  "name": "theodx2/legifrancemcp",
+  "description": "Facilitates interaction with the Légifrance API for legal content retrieval.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-theodx2-legifrancemcp-654ae7a4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-theodx2-legifrancemcp-654ae7a4)",
+  "links": {
+    "primary": "https://github.com/theodx2/legifrancemcp",
+    "repo": "https://github.com/theodx2/legifrancemcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

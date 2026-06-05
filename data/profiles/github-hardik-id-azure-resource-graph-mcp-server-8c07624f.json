@@ -1,0 +1,24 @@
+{
+  "id": "github-hardik-id-azure-resource-graph-mcp-server-8c07624f",
+  "name": "hardik-id/azure-resource-graph-mcp-server",
+  "description": "Facilitates querying Azure resources using Resource Graph queries across subscriptions.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-hardik-id-azure-resource-graph-mcp-server-8c07624f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hardik-id-azure-resource-graph-mcp-server-8c07624f)",
+  "links": {
+    "primary": "https://github.com/hardik-id/azure-resource-graph-mcp-server",
+    "repo": "https://github.com/hardik-id/azure-resource-graph-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

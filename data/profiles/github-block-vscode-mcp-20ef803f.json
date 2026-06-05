@@ -1,0 +1,24 @@
+{
+  "id": "github-block-vscode-mcp-20ef803f",
+  "name": "block/vscode-mcp",
+  "description": "Facilitates AI-driven interactions with VSCode through a dedicated MCP server and extension.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-block-vscode-mcp-20ef803f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-block-vscode-mcp-20ef803f)",
+  "links": {
+    "primary": "https://github.com/block/vscode-mcp",
+    "repo": "https://github.com/block/vscode-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

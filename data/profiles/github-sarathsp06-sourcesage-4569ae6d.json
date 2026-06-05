@@ -1,0 +1,24 @@
+{
+  "id": "github-sarathsp06-sourcesage-4569ae6d",
+  "name": "sarathsp06/sourcesage",
+  "description": "SourceSage efficiently memorizes and retrieves codebase knowledge using a language-agnostic, token-efficient graph structure, leveraging LLM analysis.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-sarathsp06-sourcesage-4569ae6d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sarathsp06-sourcesage-4569ae6d)",
+  "links": {
+    "primary": "https://github.com/sarathsp06/sourcesage",
+    "repo": "https://github.com/sarathsp06/sourcesage",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

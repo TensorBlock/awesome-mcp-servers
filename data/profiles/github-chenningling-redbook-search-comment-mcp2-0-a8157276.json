@@ -1,0 +1,24 @@
+{
+  "id": "github-chenningling-redbook-search-comment-mcp2-0-a8157276",
+  "name": "chenningling/Redbook-Search-Comment-MCP2.0",
+  "description": "A Playwright-based tool for automating Xiaohongshu searches and AI-generated comments, seamlessly integrating with MCP Clients like Claude for Desktop.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-chenningling-redbook-search-comment-mcp2-0-a8157276",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chenningling-redbook-search-comment-mcp2-0-a8157276)",
+  "links": {
+    "primary": "https://github.com/chenningling/Redbook-Search-Comment-MCP2.0",
+    "repo": "https://github.com/chenningling/Redbook-Search-Comment-MCP2.0",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

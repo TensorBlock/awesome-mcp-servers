@@ -1,0 +1,24 @@
+{
+  "id": "github-leehanchung-bing-search-mcp-29a99a21",
+  "name": "leehanchung/bing-search-mcp",
+  "description": "Integrates Microsoft Bing Search API with AI assistants for web, news, and image searches.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-leehanchung-bing-search-mcp-29a99a21",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-leehanchung-bing-search-mcp-29a99a21)",
+  "links": {
+    "primary": "https://github.com/leehanchung/bing-search-mcp",
+    "repo": "https://github.com/leehanchung/bing-search-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

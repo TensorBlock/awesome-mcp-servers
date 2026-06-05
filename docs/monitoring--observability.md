@@ -84,3 +84,6 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 - [sqr/datadog-mcp](https://github.com/sqr/datadog-mcp): Facilitates log retrieval from Datadog for analysis by Claude within a Kubernetes environment.
 - [vdineshk/dominion-observatory](https://github.com/vdineshk/dominion-observatory): Behavioral trust scoring for MCP servers. Continuously probes 22,500+ servers for uptime, latency, and success rate; provides trust_score (0-100) and behavioral drift detection via a free REST API.
 
+
+- [unitedideas/resolve-mcp](https://github.com/unitedideas/resolve-mcp): Structured error recovery for AI agents. Returns resolution playbooks with backoff schedules, retry strategies, and recovery steps for 20+ services including OpenAI, Anthropic, Stripe, AWS, and Postgres.
+- [smigolsmigol/llmkit](https://github.com/smigolsmigol/llmkit): AI cost tracking and budget enforcement MCP server with 11 tools for monitoring spend, session costs, and token usage across Claude Code, Cursor, and Cline.

@@ -1,0 +1,24 @@
+{
+  "id": "github-kunwu-aliyun-manager-mcp-a326f856",
+  "name": "kunwu/aliyun-manager-mcp",
+  "description": "Manage and monitor Alibaba Cloud resources with tools for ECS instance tracking and billing analysis via the MCP interface.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-kunwu-aliyun-manager-mcp-a326f856",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kunwu-aliyun-manager-mcp-a326f856)",
+  "links": {
+    "primary": "https://github.com/kunwu/aliyun-manager-mcp",
+    "repo": "https://github.com/kunwu/aliyun-manager-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jin38324-oci-documentation-mcp-server-5cb43df1",
+  "name": "jin38324/oci-documentation-mcp-server",
+  "description": "Facilitates searching and converting OCI documentation into markdown format for streamlined access and integration.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-jin38324-oci-documentation-mcp-server-5cb43df1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jin38324-oci-documentation-mcp-server-5cb43df1)",
+  "links": {
+    "primary": "https://github.com/jin38324/oci-documentation-mcp-server",
+    "repo": "https://github.com/jin38324/oci-documentation-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

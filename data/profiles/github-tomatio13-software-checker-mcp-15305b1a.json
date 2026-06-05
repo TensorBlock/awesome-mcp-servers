@@ -1,0 +1,24 @@
+{
+  "id": "github-tomatio13-software-checker-mcp-15305b1a",
+  "name": "Tomatio13/software-checker-mcp",
+  "description": "Facilitates comprehensive quality checks and release note generation for Git repositories, while also providing security risk analysis.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-tomatio13-software-checker-mcp-15305b1a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tomatio13-software-checker-mcp-15305b1a)",
+  "links": {
+    "primary": "https://github.com/Tomatio13/software-checker-mcp",
+    "repo": "https://github.com/Tomatio13/software-checker-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

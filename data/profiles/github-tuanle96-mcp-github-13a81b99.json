@@ -1,0 +1,24 @@
+{
+  "id": "github-tuanle96-mcp-github-13a81b99",
+  "name": "tuanle96/mcp-github",
+  "description": "Facilitates comprehensive GitHub repository management and search operations through an MCP server interface.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-tuanle96-mcp-github-13a81b99",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tuanle96-mcp-github-13a81b99)",
+  "links": {
+    "primary": "https://github.com/tuanle96/mcp-github",
+    "repo": "https://github.com/tuanle96/mcp-github",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-rgbkids-fastmcp-example-5a4cab62",
+  "name": "rgbkids/fastmcp-example",
+  "description": "FastMCP enhances workflow efficiency by integrating with various tools like Claude Desktop and VSCode through customizable MCP server configurations.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-rgbkids-fastmcp-example-5a4cab62",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rgbkids-fastmcp-example-5a4cab62)",
+  "links": {
+    "primary": "https://github.com/rgbkids/fastmcp-example",
+    "repo": "https://github.com/rgbkids/fastmcp-example",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

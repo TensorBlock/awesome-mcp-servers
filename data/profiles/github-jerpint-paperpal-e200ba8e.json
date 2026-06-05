@@ -1,0 +1,24 @@
+{
+  "id": "github-jerpint-paperpal-e200ba8e",
+  "name": "jerpint/paperpal",
+  "description": "Facilitates literature reviews by integrating LLMs with arXiv and Hugging Face papers for seamless paper discussions and organization.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-jerpint-paperpal-e200ba8e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jerpint-paperpal-e200ba8e)",
+  "links": {
+    "primary": "https://github.com/jerpint/paperpal",
+    "repo": "https://github.com/jerpint/paperpal",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

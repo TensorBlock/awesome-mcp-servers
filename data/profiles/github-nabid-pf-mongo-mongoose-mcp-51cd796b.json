@@ -1,0 +1,24 @@
+{
+  "id": "github-nabid-pf-mongo-mongoose-mcp-51cd796b",
+  "name": "nabid-pf/mongo-mongoose-mcp",
+  "description": "Facilitates seamless interaction between Claude and MongoDB databases with optional Mongoose schema support for enhanced data management.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-nabid-pf-mongo-mongoose-mcp-51cd796b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nabid-pf-mongo-mongoose-mcp-51cd796b)",
+  "links": {
+    "primary": "https://github.com/nabid-pf/mongo-mongoose-mcp",
+    "repo": "https://github.com/nabid-pf/mongo-mongoose-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

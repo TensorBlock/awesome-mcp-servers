@@ -1,0 +1,24 @@
+{
+  "id": "github-baidu-shopping-mcp-3caa06c5",
+  "name": "baidu-shopping/mcp",
+  "description": "Baidu's e-commerce MCP server offers a suite of APIs for comprehensive product comparison, brand ranking, and order management, seamlessly integrating with platforms supporting the MCP protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-baidu-shopping-mcp-3caa06c5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-baidu-shopping-mcp-3caa06c5)",
+  "links": {
+    "primary": "https://github.com/baidu-shopping/mcp",
+    "repo": "https://github.com/baidu-shopping/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

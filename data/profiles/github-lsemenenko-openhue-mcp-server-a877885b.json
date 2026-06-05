@@ -1,0 +1,24 @@
+{
+  "id": "github-lsemenenko-openhue-mcp-server-a877885b",
+  "name": "lsemenenko/openhue-mcp-server",
+  "description": "Control Philips Hue lights using natural language commands through Claude and other LLM interfaces.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-lsemenenko-openhue-mcp-server-a877885b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lsemenenko-openhue-mcp-server-a877885b)",
+  "links": {
+    "primary": "https://github.com/lsemenenko/openhue-mcp-server",
+    "repo": "https://github.com/lsemenenko/openhue-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
