@@ -1,0 +1,24 @@
+{
+  "id": "github-limklister-mcp-google-custom-search-server-61d3490b",
+  "name": "limklister/mcp-google-custom-search-server",
+  "description": "Facilitates web searches via Google's Custom Search API for Language Learning Models using a standardized MCP interface.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-limklister-mcp-google-custom-search-server-61d3490b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-limklister-mcp-google-custom-search-server-61d3490b)",
+  "links": {
+    "primary": "https://github.com/limklister/mcp-google-custom-search-server",
+    "repo": "https://github.com/limklister/mcp-google-custom-search-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

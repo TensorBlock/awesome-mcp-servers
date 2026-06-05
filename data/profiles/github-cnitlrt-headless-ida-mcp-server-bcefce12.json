@@ -1,0 +1,24 @@
+{
+  "id": "github-cnitlrt-headless-ida-mcp-server-bcefce12",
+  "name": "cnitlrt/headless-ida-mcp-server",
+  "description": "Leverage IDA Pro's headless mode to analyze binaries and manage functions via an MCP server.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-cnitlrt-headless-ida-mcp-server-bcefce12",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cnitlrt-headless-ida-mcp-server-bcefce12)",
+  "links": {
+    "primary": "https://github.com/cnitlrt/headless-ida-mcp-server",
+    "repo": "https://github.com/cnitlrt/headless-ida-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

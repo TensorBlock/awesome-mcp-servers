@@ -1,0 +1,24 @@
+{
+  "id": "github-mettamatt-code-reasoning-74a4d077",
+  "name": "mettamatt/code-reasoning",
+  "description": "Enhances Claude's problem-solving capabilities by breaking down complex programming tasks into manageable steps using structured, sequential thinking.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-mettamatt-code-reasoning-74a4d077",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mettamatt-code-reasoning-74a4d077)",
+  "links": {
+    "primary": "https://github.com/mettamatt/code-reasoning",
+    "repo": "https://github.com/mettamatt/code-reasoning",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

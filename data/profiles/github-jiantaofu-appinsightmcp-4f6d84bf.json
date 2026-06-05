@@ -1,0 +1,24 @@
+{
+  "id": "github-jiantaofu-appinsightmcp-4f6d84bf",
+  "name": "JiantaoFu/AppInsightMCP",
+  "description": "Provides market intelligence by analyzing data from the Apple App Store and Google Play Store, offering insights on apps, trends, competitors, and user feedback.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-jiantaofu-appinsightmcp-4f6d84bf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jiantaofu-appinsightmcp-4f6d84bf)",
+  "links": {
+    "primary": "https://github.com/JiantaoFu/AppInsightMCP",
+    "repo": "https://github.com/JiantaoFu/AppInsightMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

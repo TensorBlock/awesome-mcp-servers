@@ -1,0 +1,24 @@
+{
+  "id": "github-dhkts1-sequentialstory-b9bfa924",
+  "name": "dhkts1/sequentialStory",
+  "description": "Leverage narrative and sequential thinking techniques to structure complex problems using a Model Context Protocol server.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-dhkts1-sequentialstory-b9bfa924",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dhkts1-sequentialstory-b9bfa924)",
+  "links": {
+    "primary": "https://github.com/dhkts1/sequentialStory",
+    "repo": "https://github.com/dhkts1/sequentialStory",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

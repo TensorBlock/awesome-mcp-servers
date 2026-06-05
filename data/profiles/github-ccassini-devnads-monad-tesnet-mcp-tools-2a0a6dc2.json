@@ -1,0 +1,24 @@
+{
+  "id": "github-ccassini-devnads-monad-tesnet-mcp-tools-2a0a6dc2",
+  "name": "ccassini/DEVNADS-Monad-TESNET-MCP-Tools",
+  "description": "Interact with the Monad blockchain testnet using a Model Context Protocol server for wallet management, network insights, and token operations.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-ccassini-devnads-monad-tesnet-mcp-tools-2a0a6dc2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ccassini-devnads-monad-tesnet-mcp-tools-2a0a6dc2)",
+  "links": {
+    "primary": "https://github.com/ccassini/DEVNADS-Monad-TESNET-MCP-Tools",
+    "repo": "https://github.com/ccassini/DEVNADS-Monad-TESNET-MCP-Tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -2,6 +2,12 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [bryanmichael-hue/yearbook-mcp-public](https://github.com/bryanmichael-hue/yearbook-mcp-public): e-yearbook.com archive search — over 300K U.S. yearbooks and over 100M person mentions (high school, college, military). Free preview returns coarsened state + decade; subscription unlocks school name, exact year, page numbers, and scan images. Streamable HTTP at `mcp.digitaldataonline.com/mcp`, bearer auth, paste-and-go token at /for-ai-agents/. Registry: `com.digitaldataonline.mcp/e-yearbook`.
+- [Archivarix-com/tube-search-mcp](https://github.com/Archivarix-com/tube-search-mcp): Search archived YouTube videos including deleted content via the Wayback Machine. 9 tools for channel discovery, full-text search, video metadata, transcripts, and AI-generated summaries. Install via `npx tube-search-mcp`. Free tier with API key.
+- [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/mcp): Remote MCP server for searching live agentic AI engineering jobs by framework (LangChain, LlamaIndex, CrewAI, etc.), seniority, location, and remote status. Query aggregate salary benchmarks. Zero-auth streamable HTTP endpoint.
+- [AgentGrade](https://agentgrade.com): Scan any website for AI agent readiness — scores 80+ checks across payments, MCP, OpenAPI, and discovery. Remote MCP server at agentgrade.com/mcp.
+- [unifapi-agent/unifapi-mcp-server](https://github.com/unifapi-agent/unifapi-mcp-server): Hosted remote MCP server for live public data across social, search, scraping, news, creator research, and KOL pricing workflows.
+- [kansei-link/kansei-mcp-server](https://github.com/kansei-link/kansei-mcp-server): Intelligence layer for AI agents to discover and evaluate 156+ SaaS/API services with trust scores, 120 workflow recipes, intent-based search, and Agent Voice feedback from real agent usage.
 - [kokilabo/pdf-researcher](https://github.com/kokilabo/pdf-researcher): A specialized MCP server designed for searching PDF documents using the Brave Search API.
 - [joaomj/deep-search-mcp](https://github.com/joaomj/deep-search-mcp): Facilitates deep web searches using the LinkUp API, offering structured results and customizable search parameters.
 - [jarondonp/portfolio-mcp-server](https://github.com/jarondonp/portfolio-mcp-server): Integrates the Brave Search API to offer web and local search capabilities with flexible filtering and smart fallbacks.
@@ -112,6 +118,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [NightTrek/Serper-search-mcp](https://github.com/NightTrek/Serper-search-mcp): Provides Google search capabilities and AI-powered deep research tools for MCP-enabled applications using the Serper API.
 - [kevinwatt/mcp-server-searxng](https://github.com/kevinwatt/mcp-server-searxng): Integrates with SearXNG to offer privacy-focused meta search capabilities across multiple engines.
 - [wysh3/perplexity-mcp-zerver](https://github.com/wysh3/perplexity-mcp-zerver): A TypeScript-based MCP server enabling AI-driven research through Perplexity's web interface without API keys, featuring browser automation and persistent chat capabilities.
+- [workopia/workopia-mcp](https://github.com/workopia/workopia-mcp): Hosted MCP server for job search (direct from employer career pages), PDF resume generation with 50+ templates and career advice. Free, no auth required. Endpoint: https://workopia.io/api/mcp-gpt
 - [fengin/search-server](https://github.com/fengin/search-server): A Python-based MCP server offering seamless integration with Cursor and Claude Desktop for multi-engine search capabilities, supporting Brave, Metaso, and Bocha search engines.
 - [afrise/academic-search-mcp-server](https://github.com/afrise/academic-search-mcp-server): Facilitates real-time academic paper searches and metadata retrieval from Semantic Scholar and Crossref for Claude Desktop integration.
 - [jaacob/perplexity-mcp](https://github.com/jaacob/perplexity-mcp): Enables Claude Desktop to perform web searches using Perplexity's API for enhanced information retrieval.
@@ -157,3 +164,14 @@ Servers providing web search capabilities or interfacing with specialized search
 
 - [pranciskus/newsmcp](https://github.com/pranciskus/newsmcp): Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack): Open-source supply chain for AI agents — search and discover 3,000+ indie creations across 25 categories. 15 MCP tools including find_tools, build_stack, scan_project, compare_tools, and analyze_dependencies. Install via `uvx --from indiestack indiestack-mcp`.
+- [daedalus/mcp-exa](https://github.com/daedalus/mcp-exa) - MCP server exposing Exa websearch API.
+- [AutomateLab-tech/citation-intelligence](https://github.com/AutomateLab-tech/citation-intelligence): Query which URLs Perplexity, Claude, ChatGPT, Gemini, Bing, and Google AI Overviews cite for any query. Self-hosted, BYO API key. Install: `npx @automatelab/citation-intelligence`.
+
+- [wd041216-bit/cross-validated-search](https://github.com/wd041216-bit/cross-validated-search): Evidence-aware search, page reading, and claim verification for AI agents with CLI, MCP, and skill surfaces for Gemini, Claude Code, Manus, and OpenClaw.
+- [supertrained/rhumb](https://github.com/supertrained/rhumb): Discover, evaluate, and execute 695+ external APIs for AI agents with AN Score trust ratings across 86 categories. Zero-signup discovery, three credential modes, and 16 MCP tools for finding and comparing services.
+- [uju777/coupang-mcp](https://github.com/uju777/coupang-mcp): MCP server for Coupang (Korea's largest e-commerce) product search with Rocket Delivery filtering and affiliate link generation.
+- [uju777/mcp-server-naver-search](https://github.com/uju777/mcp-server-naver-search): MCP server for Naver Search (Shopping, Cafe, News). Essential for Korean users.
+- [entire-vc/evc-spark-mcp](https://github.com/entire-vc/evc-spark-mcp): MCP server for discovering, searching, and installing curated AI agent workflows from the Spark catalog - search 200+ tools, get install configs, browse curated bundles.
+- [Nadeus/toolradar-mcp](https://github.com/Nadeus/toolradar-mcp): Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, and real alternatives.
+- [Not Human Search](https://nothumansearch.ai): MCP server to search and discover AI-native tools. 8,600+ indexed sites with agentic capability scores.
+- [nothumansearch](https://nothumansearch.ai/mcp): Search engine and discovery index for 8,600+ agent-native services. Query MCP servers, OpenAPI providers, and llms.txt publishers by keyword, category, or minimum agentic readiness score (0-100). 6 tools: search_agents, get_site_details, get_stats, submit_site, register_monitor, verify_mcp.

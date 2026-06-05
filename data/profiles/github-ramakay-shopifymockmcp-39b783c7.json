@@ -1,0 +1,24 @@
+{
+  "id": "github-ramakay-shopifymockmcp-39b783c7",
+  "name": "ramakay/ShopifyMockMCP",
+  "description": "A secure and transparent MCP server for Shopify development, enabling safe interactions with the Storefront API via mock.shop.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-ramakay-shopifymockmcp-39b783c7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ramakay-shopifymockmcp-39b783c7)",
+  "links": {
+    "primary": "https://github.com/ramakay/ShopifyMockMCP",
+    "repo": "https://github.com/ramakay/ShopifyMockMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

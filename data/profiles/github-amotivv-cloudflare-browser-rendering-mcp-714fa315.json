@@ -1,0 +1,24 @@
+{
+  "id": "github-amotivv-cloudflare-browser-rendering-mcp-714fa315",
+  "name": "amotivv/cloudflare-browser-rendering-mcp",
+  "description": "Facilitates web content fetching and processing using Cloudflare Browser Rendering for integration with LLMs in Claude and Cline environments.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-amotivv-cloudflare-browser-rendering-mcp-714fa315",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amotivv-cloudflare-browser-rendering-mcp-714fa315)",
+  "links": {
+    "primary": "https://github.com/amotivv/cloudflare-browser-rendering-mcp",
+    "repo": "https://github.com/amotivv/cloudflare-browser-rendering-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-angxuejian-langgraph-start-deb6eb95",
+  "name": "angxuejian/langgraph-start",
+  "description": "LangGraph Start offers a simple MCP server setup for AI applications, featuring chatbot, function calling, and RAG capabilities.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-angxuejian-langgraph-start-deb6eb95",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-angxuejian-langgraph-start-deb6eb95)",
+  "links": {
+    "primary": "https://github.com/angxuejian/langgraph-start",
+    "repo": "https://github.com/angxuejian/langgraph-start",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

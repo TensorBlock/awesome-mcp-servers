@@ -1,0 +1,24 @@
+{
+  "id": "github-kolipakakondal-remote-mcp-server-5d7bf894",
+  "name": "kolipakakondal/remote-mcp-server",
+  "description": "A remote MCP server deployed on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-kolipakakondal-remote-mcp-server-5d7bf894",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kolipakakondal-remote-mcp-server-5d7bf894)",
+  "links": {
+    "primary": "https://github.com/kolipakakondal/remote-mcp-server",
+    "repo": "https://github.com/kolipakakondal/remote-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

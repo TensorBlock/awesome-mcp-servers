@@ -1,0 +1,24 @@
+{
+  "id": "github-yk097-weather-mcp-f6e26caa",
+  "name": "yk097/weather-mcp",
+  "description": "Enhances MCP clients by integrating contextual weather information.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-yk097-weather-mcp-f6e26caa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yk097-weather-mcp-f6e26caa)",
+  "links": {
+    "primary": "https://github.com/yk097/weather-mcp",
+    "repo": "https://github.com/yk097/weather-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

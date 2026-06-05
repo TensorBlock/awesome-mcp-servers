@@ -1,0 +1,24 @@
+{
+  "id": "github-terciodejesus-products-info-mcp-server-e3639cd3",
+  "name": "terciodejesus/products-info-mcp-server",
+  "description": "Provides detailed product information from Caffeine Army's Shopify store, focusing on SuperCoffee, via an MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-terciodejesus-products-info-mcp-server-e3639cd3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-terciodejesus-products-info-mcp-server-e3639cd3)",
+  "links": {
+    "primary": "https://github.com/terciodejesus/products-info-mcp-server",
+    "repo": "https://github.com/terciodejesus/products-info-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

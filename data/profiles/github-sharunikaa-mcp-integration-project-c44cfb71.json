@@ -1,0 +1,24 @@
+{
+  "id": "github-sharunikaa-mcp-integration-project-c44cfb71",
+  "name": "Sharunikaa/mcp-integration-project",
+  "description": "A project showcasing MCP integration with GitHub, Slack, file systems, and browser automation for enhanced note management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-sharunikaa-mcp-integration-project-c44cfb71",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sharunikaa-mcp-integration-project-c44cfb71)",
+  "links": {
+    "primary": "https://github.com/Sharunikaa/mcp-integration-project",
+    "repo": "https://github.com/Sharunikaa/mcp-integration-project",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

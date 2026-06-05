@@ -1,0 +1,26 @@
+{
+  "id": "github-tidewave-ai-mcp-proxy-elixir-3f181d13",
+  "name": "tidewave-ai/mcp_proxy_elixir",
+  "description": "Facilitates the connection of STDIO-based MCP clients to HTTP (SSE) based MCP servers using a proxy escript.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-tidewave-ai-mcp-proxy-elixir-3f181d13",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tidewave-ai-mcp-proxy-elixir-3f181d13)",
+  "links": {
+    "primary": "https://github.com/tidewave-ai/mcp_proxy_elixir",
+    "repo": "https://github.com/tidewave-ai/mcp_proxy_elixir",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

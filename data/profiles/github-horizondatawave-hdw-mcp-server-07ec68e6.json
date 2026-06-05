@@ -1,0 +1,24 @@
+{
+  "id": "github-horizondatawave-hdw-mcp-server-07ec68e6",
+  "name": "horizondatawave/hdw-mcp-server",
+  "description": "Facilitates comprehensive LinkedIn data access and user account management through the HorizonDataWave API.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-horizondatawave-hdw-mcp-server-07ec68e6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-horizondatawave-hdw-mcp-server-07ec68e6)",
+  "links": {
+    "primary": "https://github.com/horizondatawave/hdw-mcp-server",
+    "repo": "https://github.com/horizondatawave/hdw-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

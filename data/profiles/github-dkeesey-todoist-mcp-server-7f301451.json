@@ -1,0 +1,24 @@
+{
+  "id": "github-dkeesey-todoist-mcp-server-7f301451",
+  "name": "dkeesey/todoist-mcp-server",
+  "description": "Facilitates seamless task management and integration with Todoist through Claude, leveraging Python Astral UV.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-dkeesey-todoist-mcp-server-7f301451",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dkeesey-todoist-mcp-server-7f301451)",
+  "links": {
+    "primary": "https://github.com/dkeesey/todoist-mcp-server",
+    "repo": "https://github.com/dkeesey/todoist-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

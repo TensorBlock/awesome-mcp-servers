@@ -1,0 +1,24 @@
+{
+  "id": "github-gootec-ncbi-mcp-87cadd1d",
+  "name": "GooTec/NCBI-MCP",
+  "description": "Facilitates access to NCBI Datasets through a modular MCP server with OpenAPI-driven endpoints for genome, gene, and taxonomy data.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-gootec-ncbi-mcp-87cadd1d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gootec-ncbi-mcp-87cadd1d)",
+  "links": {
+    "primary": "https://github.com/GooTec/NCBI-MCP",
+    "repo": "https://github.com/GooTec/NCBI-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-ko1ynnky-github-actions-mcp-server-17425e42",
+  "name": "ko1ynnky/github-actions-mcp-server",
+  "description": "Facilitates AI-driven management of GitHub Actions workflows with comprehensive error handling and security features.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-ko1ynnky-github-actions-mcp-server-17425e42",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ko1ynnky-github-actions-mcp-server-17425e42)",
+  "links": {
+    "primary": "https://github.com/ko1ynnky/github-actions-mcp-server",
+    "repo": "https://github.com/ko1ynnky/github-actions-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

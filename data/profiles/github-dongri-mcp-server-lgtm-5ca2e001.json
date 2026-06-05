@@ -1,0 +1,24 @@
+{
+  "id": "github-dongri-mcp-server-lgtm-5ca2e001",
+  "name": "dongri/mcp-server-lgtm",
+  "description": "A TypeScript-based server that fetches random LGTM images for use in code reviews and developer communications.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-dongri-mcp-server-lgtm-5ca2e001",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dongri-mcp-server-lgtm-5ca2e001)",
+  "links": {
+    "primary": "https://github.com/dongri/mcp-server-lgtm",
+    "repo": "https://github.com/dongri/mcp-server-lgtm",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

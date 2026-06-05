@@ -1,0 +1,24 @@
+{
+  "id": "github-sofias-ai-mcp-business-central-server-289ba3f7",
+  "name": "Sofias-ai/mcp-business-central-server",
+  "description": "Facilitates seamless integration with Microsoft Dynamics 365 Business Central, allowing MCP clients to interact with various entities through a lightweight server.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-sofias-ai-mcp-business-central-server-289ba3f7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sofias-ai-mcp-business-central-server-289ba3f7)",
+  "links": {
+    "primary": "https://github.com/Sofias-ai/mcp-business-central-server",
+    "repo": "https://github.com/Sofias-ai/mcp-business-central-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

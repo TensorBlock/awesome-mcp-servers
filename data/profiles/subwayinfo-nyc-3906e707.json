@@ -1,0 +1,24 @@
+{
+  "id": "subwayinfo-nyc-3906e707",
+  "name": "ckorhonen/mta-mcp",
+  "description": "Provides real-time NYC subway arrivals, service status, alerts, station search, and trip planning capabilities.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/subwayinfo-nyc-3906e707",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/subwayinfo-nyc-3906e707)",
+  "links": {
+    "primary": "https://subwayinfo.nyc",
+    "repo": null,
+    "homepage": "https://subwayinfo.nyc",
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

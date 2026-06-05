@@ -1,0 +1,24 @@
+{
+  "id": "github-tumf-web3-mcp-7758cb54",
+  "name": "tumf/web3-mcp",
+  "description": "Facilitates blockchain data interaction across multiple chains using Ankr's Advanced API.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-tumf-web3-mcp-7758cb54",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tumf-web3-mcp-7758cb54)",
+  "links": {
+    "primary": "https://github.com/tumf/web3-mcp",
+    "repo": "https://github.com/tumf/web3-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-gamelifezhao-mcp-figma-100eaba9",
+  "name": "gamelifezhao/mcp-figma",
+  "description": "Facilitates AI-driven interactions with Figma by leveraging the Model Context Protocol to access user data, files, components, annotations, styles, and version history.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-gamelifezhao-mcp-figma-100eaba9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gamelifezhao-mcp-figma-100eaba9)",
+  "links": {
+    "primary": "https://github.com/gamelifezhao/mcp-figma",
+    "repo": "https://github.com/gamelifezhao/mcp-figma",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
