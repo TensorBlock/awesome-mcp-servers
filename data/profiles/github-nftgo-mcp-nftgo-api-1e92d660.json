@@ -1,0 +1,24 @@
+{
+  "id": "github-nftgo-mcp-nftgo-api-1e92d660",
+  "name": "NFTGo/mcp-nftgo-api",
+  "description": "Facilitates seamless interaction with the NFTGo Developer API, offering comprehensive NFT data and analytics for Ethereum-based assets.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-nftgo-mcp-nftgo-api-1e92d660",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nftgo-mcp-nftgo-api-1e92d660)",
+  "links": {
+    "primary": "https://github.com/NFTGo/mcp-nftgo-api",
+    "repo": "https://github.com/NFTGo/mcp-nftgo-api",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

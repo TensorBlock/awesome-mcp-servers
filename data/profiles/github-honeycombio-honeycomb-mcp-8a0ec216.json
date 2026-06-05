@@ -1,0 +1,24 @@
+{
+  "id": "github-honeycombio-honeycomb-mcp-8a0ec216",
+  "name": "honeycombio/honeycomb-mcp",
+  "description": "Facilitates AI-driven analysis and querying of Honeycomb observability data for enterprise users, with support for multiple environments and optimized performance through caching.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-honeycombio-honeycomb-mcp-8a0ec216",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-honeycombio-honeycomb-mcp-8a0ec216)",
+  "links": {
+    "primary": "https://github.com/honeycombio/honeycomb-mcp",
+    "repo": "https://github.com/honeycombio/honeycomb-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

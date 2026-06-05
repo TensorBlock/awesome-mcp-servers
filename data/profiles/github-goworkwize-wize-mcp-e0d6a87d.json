@@ -1,0 +1,24 @@
+{
+  "id": "github-goworkwize-wize-mcp-e0d6a87d",
+  "name": "goworkwize/wize-mcp",
+  "description": "Facilitates secure access to the Workwize Public API via MCP tools, with easy extensibility for new functionalities.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-goworkwize-wize-mcp-e0d6a87d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-goworkwize-wize-mcp-e0d6a87d)",
+  "links": {
+    "primary": "https://github.com/goworkwize/wize-mcp",
+    "repo": "https://github.com/goworkwize/wize-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

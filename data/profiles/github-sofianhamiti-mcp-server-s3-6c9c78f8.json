@@ -1,0 +1,24 @@
+{
+  "id": "github-sofianhamiti-mcp-server-s3-6c9c78f8",
+  "name": "sofianhamiti/mcp-server-s3",
+  "description": "Facilitates direct interaction with AWS S3 buckets using the Model Context Protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-sofianhamiti-mcp-server-s3-6c9c78f8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sofianhamiti-mcp-server-s3-6c9c78f8)",
+  "links": {
+    "primary": "https://github.com/sofianhamiti/mcp-server-s3",
+    "repo": "https://github.com/sofianhamiti/mcp-server-s3",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

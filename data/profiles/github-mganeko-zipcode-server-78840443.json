@@ -1,0 +1,24 @@
+{
+  "id": "github-mganeko-zipcode-server-78840443",
+  "name": "mganeko/zipcode-server",
+  "description": "A TypeScript-based MCP server for querying addresses from zip codes, featuring a simple notes system with tools for note creation and summarization.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-mganeko-zipcode-server-78840443",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mganeko-zipcode-server-78840443)",
+  "links": {
+    "primary": "https://github.com/mganeko/zipcode-server",
+    "repo": "https://github.com/mganeko/zipcode-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

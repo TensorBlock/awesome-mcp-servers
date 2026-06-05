@@ -1,0 +1,24 @@
+{
+  "id": "github-confluentinc-mcp-confluent-c53823a1",
+  "name": "confluentinc/mcp-confluent",
+  "description": "Facilitates seamless interaction with Confluent Kafka and Confluent Cloud REST APIs through an MCP server.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-confluentinc-mcp-confluent-c53823a1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-confluentinc-mcp-confluent-c53823a1)",
+  "links": {
+    "primary": "https://github.com/confluentinc/mcp-confluent",
+    "repo": "https://github.com/confluentinc/mcp-confluent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

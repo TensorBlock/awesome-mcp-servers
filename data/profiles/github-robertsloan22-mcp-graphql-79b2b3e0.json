@@ -1,0 +1,24 @@
+{
+  "id": "github-robertsloan22-mcp-graphql-79b2b3e0",
+  "name": "RobertSloan22/mcp-graphql",
+  "description": "Facilitates GraphQL queries for Claude Desktop by enabling dynamic endpoint configuration and query execution.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-robertsloan22-mcp-graphql-79b2b3e0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-robertsloan22-mcp-graphql-79b2b3e0)",
+  "links": {
+    "primary": "https://github.com/RobertSloan22/mcp-graphql",
+    "repo": "https://github.com/RobertSloan22/mcp-graphql",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-pekotidev-mcp-server-a7db5f82",
+  "name": "pekotidev/mcp_server",
+  "description": "Facilitates AI-enhanced document and web search through Azure services, seamlessly integrating with Claude Desktop.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-pekotidev-mcp-server-a7db5f82",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pekotidev-mcp-server-a7db5f82)",
+  "links": {
+    "primary": "https://github.com/pekotidev/mcp_server",
+    "repo": "https://github.com/pekotidev/mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

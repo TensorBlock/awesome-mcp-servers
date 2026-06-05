@@ -1,0 +1,24 @@
+{
+  "id": "github-traylinx-traylinx-search-engine-mcp-server-348592f4",
+  "name": "traylinx/traylinx-search-engine-mcp-server",
+  "description": "Facilitates intelligent search capabilities for MCP clients by bridging with the Agentic Search API, offering rich content types and time-filtered results.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-traylinx-traylinx-search-engine-mcp-server-348592f4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-traylinx-traylinx-search-engine-mcp-server-348592f4)",
+  "links": {
+    "primary": "https://github.com/traylinx/traylinx-search-engine-mcp-server",
+    "repo": "https://github.com/traylinx/traylinx-search-engine-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

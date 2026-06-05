@@ -1,0 +1,24 @@
+{
+  "id": "github-imsharad-gmail-mcp-server-13c13aec",
+  "name": "Imsharad/gmail-mcp-server",
+  "description": "Facilitates seamless interaction with Gmail through AI assistants using the Model Context Protocol.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-imsharad-gmail-mcp-server-13c13aec",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-imsharad-gmail-mcp-server-13c13aec)",
+  "links": {
+    "primary": "https://github.com/Imsharad/gmail-mcp-server",
+    "repo": "https://github.com/Imsharad/gmail-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

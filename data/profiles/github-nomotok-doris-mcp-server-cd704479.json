@@ -1,0 +1,24 @@
+{
+  "id": "github-nomotok-doris-mcp-server-cd704479",
+  "name": "NomotoK/doris-mcp-server",
+  "description": "Facilitates secure, read-only SQL queries and schema exploration on Apache Doris databases for LLM applications.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-nomotok-doris-mcp-server-cd704479",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nomotok-doris-mcp-server-cd704479)",
+  "links": {
+    "primary": "https://github.com/NomotoK/doris-mcp-server",
+    "repo": "https://github.com/NomotoK/doris-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

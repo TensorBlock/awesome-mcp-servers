@@ -1,0 +1,24 @@
+{
+  "id": "github-lamaalrajih-kicad-mcp-c6fe20c8",
+  "name": "lamaalrajih/kicad-mcp",
+  "description": "Facilitates seamless integration of KiCad projects with MCP-compliant clients for enhanced project management and PCB design analysis.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-lamaalrajih-kicad-mcp-c6fe20c8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lamaalrajih-kicad-mcp-c6fe20c8)",
+  "links": {
+    "primary": "https://github.com/lamaalrajih/kicad-mcp",
+    "repo": "https://github.com/lamaalrajih/kicad-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

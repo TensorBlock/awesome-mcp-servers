@@ -1,0 +1,24 @@
+{
+  "id": "github-kabir-ti-youtube-summarizer-mcp-b95db8c9",
+  "name": "kabir-ti/youtube-summarizer-mcp",
+  "description": "Facilitates AI applications to integrate with YouTube-Summarizer APIs via MCP protocol for local connections.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-kabir-ti-youtube-summarizer-mcp-b95db8c9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kabir-ti-youtube-summarizer-mcp-b95db8c9)",
+  "links": {
+    "primary": "https://github.com/kabir-ti/youtube-summarizer-mcp",
+    "repo": "https://github.com/kabir-ti/youtube-summarizer-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

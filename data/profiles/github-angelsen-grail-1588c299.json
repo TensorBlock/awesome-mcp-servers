@@ -1,0 +1,24 @@
+{
+  "id": "github-angelsen-grail-1588c299",
+  "name": "angelsen/grail",
+  "description": "Grail is an AI-powered pattern management system for Claude Code, enabling efficient organization, discovery, and application of code patterns through semantic search and MCP server integration.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-angelsen-grail-1588c299",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-angelsen-grail-1588c299)",
+  "links": {
+    "primary": "https://github.com/angelsen/grail",
+    "repo": "https://github.com/angelsen/grail",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

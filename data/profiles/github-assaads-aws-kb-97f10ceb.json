@@ -1,0 +1,24 @@
+{
+  "id": "github-assaads-aws-kb-97f10ceb",
+  "name": "assaads/aws-kb",
+  "description": "Facilitates AI assistants in querying AWS Bedrock Knowledge Bases through a standardized interface.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-assaads-aws-kb-97f10ceb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-assaads-aws-kb-97f10ceb)",
+  "links": {
+    "primary": "https://github.com/assaads/aws-kb",
+    "repo": "https://github.com/assaads/aws-kb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

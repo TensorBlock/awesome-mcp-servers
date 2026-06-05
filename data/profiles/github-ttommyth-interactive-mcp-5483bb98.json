@@ -1,0 +1,24 @@
+{
+  "id": "github-ttommyth-interactive-mcp-5483bb98",
+  "name": "ttommyth/interactive-mcp",
+  "description": "Facilitates interactive communication between LLMs and users through local prompts, chat, and notifications.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ttommyth-interactive-mcp-5483bb98",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ttommyth-interactive-mcp-5483bb98)",
+  "links": {
+    "primary": "https://github.com/ttommyth/interactive-mcp",
+    "repo": "https://github.com/ttommyth/interactive-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

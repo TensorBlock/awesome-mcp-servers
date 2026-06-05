@@ -1,0 +1,24 @@
+{
+  "id": "github-chrishayuk-mcp-code-sandbox-31185c8d",
+  "name": "chrishayuk/mcp-code-sandbox",
+  "description": "An extensible MCP server offering secure code execution in isolated sandboxes, compatible with Claude for Desktop.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-chrishayuk-mcp-code-sandbox-31185c8d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chrishayuk-mcp-code-sandbox-31185c8d)",
+  "links": {
+    "primary": "https://github.com/chrishayuk/mcp-code-sandbox",
+    "repo": "https://github.com/chrishayuk/mcp-code-sandbox",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

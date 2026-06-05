@@ -1,0 +1,24 @@
+{
+  "id": "github-simon-k-knowledge-mcp-02de2918",
+  "name": "simon-k/knowledge-mcp",
+  "description": "Facilitates knowledge retrieval from a Neo4J database through an MCP server interface.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-simon-k-knowledge-mcp-02de2918",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-simon-k-knowledge-mcp-02de2918)",
+  "links": {
+    "primary": "https://github.com/simon-k/knowledge-mcp",
+    "repo": "https://github.com/simon-k/knowledge-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

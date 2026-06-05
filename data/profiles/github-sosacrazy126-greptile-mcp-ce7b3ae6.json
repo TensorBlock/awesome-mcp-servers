@@ -1,0 +1,24 @@
+{
+  "id": "github-sosacrazy126-greptile-mcp-ce7b3ae6",
+  "name": "sosacrazy126/greptile-mcp",
+  "description": "Integrates with the Greptile API to enable AI agents to perform natural language code search and querying across repositories.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-sosacrazy126-greptile-mcp-ce7b3ae6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sosacrazy126-greptile-mcp-ce7b3ae6)",
+  "links": {
+    "primary": "https://github.com/sosacrazy126/greptile-mcp",
+    "repo": "https://github.com/sosacrazy126/greptile-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-m6saw0-mcp-client-typescript-91c2a9cd",
+  "name": "M6saw0/mcp-client-typescript",
+  "description": "A TypeScript client sample for utilizing multiple MCPs, allowing configuration of server names via JSON.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-m6saw0-mcp-client-typescript-91c2a9cd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-m6saw0-mcp-client-typescript-91c2a9cd)",
+  "links": {
+    "primary": "https://github.com/M6saw0/mcp-client-typescript",
+    "repo": "https://github.com/M6saw0/mcp-client-typescript",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

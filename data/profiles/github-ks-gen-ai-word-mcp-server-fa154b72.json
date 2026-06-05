@@ -1,0 +1,24 @@
+{
+  "id": "github-ks-gen-ai-word-mcp-server-fa154b72",
+  "name": "KS-GEN-AI/word-mcp-server",
+  "description": "Facilitates seamless interaction with Microsoft Word files, offering precise conversion to PDF while maintaining formatting integrity.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-ks-gen-ai-word-mcp-server-fa154b72",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ks-gen-ai-word-mcp-server-fa154b72)",
+  "links": {
+    "primary": "https://github.com/KS-GEN-AI/word-mcp-server",
+    "repo": "https://github.com/KS-GEN-AI/word-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

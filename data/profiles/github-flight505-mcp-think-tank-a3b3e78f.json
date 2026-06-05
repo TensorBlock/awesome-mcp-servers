@@ -1,0 +1,24 @@
+{
+  "id": "github-flight505-mcp-think-tank-a3b3e78f",
+  "name": "flight505/mcp-think-tank",
+  "description": "MCP Think Tank enhances Claude's reasoning and memory capabilities through structured thinking and a persistent knowledge graph.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-flight505-mcp-think-tank-a3b3e78f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-flight505-mcp-think-tank-a3b3e78f)",
+  "links": {
+    "primary": "https://github.com/flight505/mcp-think-tank",
+    "repo": "https://github.com/flight505/mcp-think-tank",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

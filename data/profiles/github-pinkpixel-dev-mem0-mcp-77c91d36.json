@@ -1,0 +1,24 @@
+{
+  "id": "github-pinkpixel-dev-mem0-mcp-77c91d36",
+  "name": "pinkpixel-dev/mem0-mcp",
+  "description": "Mem0 MCP Server provides AI applications with persistent memory capabilities, supporting flexible provider integration and enabling long-term memory for AI agents.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-pinkpixel-dev-mem0-mcp-77c91d36",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pinkpixel-dev-mem0-mcp-77c91d36)",
+  "links": {
+    "primary": "https://github.com/pinkpixel-dev/mem0-mcp",
+    "repo": "https://github.com/pinkpixel-dev/mem0-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-burakdirin-mysqldb-mcp-server-d71e8a0a",
+  "name": "burakdirin/mysqldb-mcp-server",
+  "description": "Facilitates Claude AI's interaction with MySQL databases through a dedicated MCP server.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-burakdirin-mysqldb-mcp-server-d71e8a0a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-burakdirin-mysqldb-mcp-server-d71e8a0a)",
+  "links": {
+    "primary": "https://github.com/burakdirin/mysqldb-mcp-server",
+    "repo": "https://github.com/burakdirin/mysqldb-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

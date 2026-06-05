@@ -1,0 +1,24 @@
+{
+  "id": "github-wazionapps-nexo-08bda674",
+  "name": "wazionapps/nexo",
+  "description": "Cognitive memory architecture for Claude Code. Implements Atkinson-Shiffrin memory model, Ebbinghaus forgetting curves, semantic RAG with knowledge graph, trust scoring, and metacognitive error prevention. 100+ MCP tools. Install via `npx nexo-brain init`.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-wazionapps-nexo-08bda674",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wazionapps-nexo-08bda674)",
+  "links": {
+    "primary": "https://github.com/wazionapps/nexo",
+    "repo": "https://github.com/wazionapps/nexo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

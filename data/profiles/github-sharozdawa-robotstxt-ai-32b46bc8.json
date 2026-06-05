@@ -1,0 +1,24 @@
+{
+  "id": "github-sharozdawa-robotstxt-ai-32b46bc8",
+  "name": "sharozdawa/robotstxt-ai",
+  "description": "Visual robots.txt manager for AI crawlers with toggle controls for 20+ bots including GPTBot, ClaudeBot, and PerplexityBot.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-sharozdawa-robotstxt-ai-32b46bc8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sharozdawa-robotstxt-ai-32b46bc8)",
+  "links": {
+    "primary": "https://github.com/sharozdawa/robotstxt-ai",
+    "repo": "https://github.com/sharozdawa/robotstxt-ai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-ningyv179-mcp-feishu-bac2fbca",
+  "name": "NINGyv179/mcp-feishu",
+  "description": "MCP-FEISHU facilitates seamless API integration and management within Windsurf IDE by connecting to Feishu OpenAPI and exposing API information as MCP resources.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-ningyv179-mcp-feishu-bac2fbca",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ningyv179-mcp-feishu-bac2fbca)",
+  "links": {
+    "primary": "https://github.com/NINGyv179/mcp-feishu",
+    "repo": "https://github.com/NINGyv179/mcp-feishu",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

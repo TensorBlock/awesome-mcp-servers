@@ -1,0 +1,24 @@
+{
+  "id": "github-xpadyal-mcpsclient-37bac9fe",
+  "name": "xpadyal/MCPsclient",
+  "description": "A modular chatbot interface utilizing Claude 3.7 Sonnet via the Anthropic API, capable of executing external tools through the MCP standard.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-xpadyal-mcpsclient-37bac9fe",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xpadyal-mcpsclient-37bac9fe)",
+  "links": {
+    "primary": "https://github.com/xpadyal/MCPsclient",
+    "repo": "https://github.com/xpadyal/MCPsclient",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-enzovezzaro-mcp-dominican-layer-24fb9848",
+  "name": "EnzoVezzaro/mcp-dominican-layer",
+  "description": "Access detailed information about the Dominican Congress, including legislative agendas and new bills, through a dedicated MCP server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-enzovezzaro-mcp-dominican-layer-24fb9848",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-enzovezzaro-mcp-dominican-layer-24fb9848)",
+  "links": {
+    "primary": "https://github.com/EnzoVezzaro/mcp-dominican-layer",
+    "repo": "https://github.com/EnzoVezzaro/mcp-dominican-layer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

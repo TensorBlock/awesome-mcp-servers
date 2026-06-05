@@ -1,0 +1,24 @@
+{
+  "id": "github-nazruden-mcp-openvision-ea0f2007",
+  "name": "Nazruden/mcp-openvision",
+  "description": "Leverage OpenRouter vision models to enable AI-driven image analysis within the MCP ecosystem.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-nazruden-mcp-openvision-ea0f2007",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nazruden-mcp-openvision-ea0f2007)",
+  "links": {
+    "primary": "https://github.com/Nazruden/mcp-openvision",
+    "repo": "https://github.com/Nazruden/mcp-openvision",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

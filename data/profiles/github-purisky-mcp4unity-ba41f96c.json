@@ -1,0 +1,24 @@
+{
+  "id": "github-purisky-mcp4unity-ba41f96c",
+  "name": "Purisky/MCP4Unity",
+  "description": "MCP4Unity is a Unity editor extension enabling remote invocation of Unity methods via HTTP requests, facilitating dynamic tool management and execution.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-purisky-mcp4unity-ba41f96c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-purisky-mcp4unity-ba41f96c)",
+  "links": {
+    "primary": "https://github.com/Purisky/MCP4Unity",
+    "repo": "https://github.com/Purisky/MCP4Unity",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-yoshino-yukitaro-imagemagick-mcp-server-de58f1ee",
+  "name": "Yoshino-Yukitaro/imagemagick_mcp_server",
+  "description": "Facilitates image processing tasks using ImageMagick through an MCP server setup.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-yoshino-yukitaro-imagemagick-mcp-server-de58f1ee",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yoshino-yukitaro-imagemagick-mcp-server-de58f1ee)",
+  "links": {
+    "primary": "https://github.com/Yoshino-Yukitaro/imagemagick_mcp_server",
+    "repo": "https://github.com/Yoshino-Yukitaro/imagemagick_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
