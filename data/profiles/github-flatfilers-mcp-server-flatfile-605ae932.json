@@ -1,0 +1,24 @@
+{
+  "id": "github-flatfilers-mcp-server-flatfile-605ae932",
+  "name": "FlatFilers/mcp-server-flatfile",
+  "description": "Facilitates interaction with the Flatfile API through a customizable MCP server, enabling streamlined data management and integration.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-flatfilers-mcp-server-flatfile-605ae932",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-flatfilers-mcp-server-flatfile-605ae932)",
+  "links": {
+    "primary": "https://github.com/FlatFilers/mcp-server-flatfile",
+    "repo": "https://github.com/FlatFilers/mcp-server-flatfile",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

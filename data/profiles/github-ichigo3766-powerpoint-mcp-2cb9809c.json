@@ -1,0 +1,24 @@
+{
+  "id": "github-ichigo3766-powerpoint-mcp-2cb9809c",
+  "name": "Ichigo3766/powerpoint-mcp",
+  "description": "Facilitates the creation and editing of PowerPoint presentations with automated slide generation and image integration using Stable Diffusion.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-ichigo3766-powerpoint-mcp-2cb9809c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ichigo3766-powerpoint-mcp-2cb9809c)",
+  "links": {
+    "primary": "https://github.com/Ichigo3766/powerpoint-mcp",
+    "repo": "https://github.com/Ichigo3766/powerpoint-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

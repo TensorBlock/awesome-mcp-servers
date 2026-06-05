@@ -1,0 +1,24 @@
+{
+  "id": "github-hongster-bnm-mcp-23d485ab",
+  "name": "hongster/bnm-mcp",
+  "description": "Provides a Model Context Provider server for accessing a subset of the Bank Negara Malaysia OpenAPI, including financial consumer alerts and exchange rates.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-hongster-bnm-mcp-23d485ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hongster-bnm-mcp-23d485ab)",
+  "links": {
+    "primary": "https://github.com/hongster/bnm-mcp",
+    "repo": "https://github.com/hongster/bnm-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

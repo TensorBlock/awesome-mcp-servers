@@ -1,0 +1,24 @@
+{
+  "id": "github-koido-extreme-p-mcp-fab3204e",
+  "name": "koido/extreme-p-mcp",
+  "description": "Facilitates extreme p-value calculations through an API interface using R scripts, integrated with Python via FastMCP.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-koido-extreme-p-mcp-fab3204e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-koido-extreme-p-mcp-fab3204e)",
+  "links": {
+    "primary": "https://github.com/koido/extreme-p-mcp",
+    "repo": "https://github.com/koido/extreme-p-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

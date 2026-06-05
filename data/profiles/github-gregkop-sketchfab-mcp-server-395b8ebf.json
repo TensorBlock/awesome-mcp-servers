@@ -1,0 +1,24 @@
+{
+  "id": "github-gregkop-sketchfab-mcp-server-395b8ebf",
+  "name": "gregkop/sketchfab-mcp-server",
+  "description": "Facilitates seamless interaction with Sketchfab's 3D model platform, enabling search, detailed viewing, and downloading of models.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-gregkop-sketchfab-mcp-server-395b8ebf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gregkop-sketchfab-mcp-server-395b8ebf)",
+  "links": {
+    "primary": "https://github.com/gregkop/sketchfab-mcp-server",
+    "repo": "https://github.com/gregkop/sketchfab-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

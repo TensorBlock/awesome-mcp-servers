@@ -1,0 +1,24 @@
+{
+  "id": "github-nacos-group-nacos-mcp-server-bffc3b41",
+  "name": "nacos-group/nacos-mcp-server",
+  "description": "Facilitates interaction and automation with Nacos clusters, enabling search and retrieval of namespace, service, and configuration data using Large Language Models.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-nacos-group-nacos-mcp-server-bffc3b41",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nacos-group-nacos-mcp-server-bffc3b41)",
+  "links": {
+    "primary": "https://github.com/nacos-group/nacos-mcp-server",
+    "repo": "https://github.com/nacos-group/nacos-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

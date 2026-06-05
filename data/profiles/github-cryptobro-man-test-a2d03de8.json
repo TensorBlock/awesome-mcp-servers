@@ -1,0 +1,24 @@
+{
+  "id": "github-cryptobro-man-test-a2d03de8",
+  "name": "cryptobro-man/test",
+  "description": "Showcases versatile MCP server implementations for secure LLM access to tools and data sources using TypeScript and Python SDKs.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-cryptobro-man-test-a2d03de8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cryptobro-man-test-a2d03de8)",
+  "links": {
+    "primary": "https://github.com/cryptobro-man/test",
+    "repo": "https://github.com/cryptobro-man/test",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-xabierjj-anki-mcp-27e31ca6",
+  "name": "xabierjj/anki-mcp",
+  "description": "Facilitates AI-driven flashcard creation in Anki through seamless integration with AnkiConnect.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-xabierjj-anki-mcp-27e31ca6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xabierjj-anki-mcp-27e31ca6)",
+  "links": {
+    "primary": "https://github.com/xabierjj/anki-mcp",
+    "repo": "https://github.com/xabierjj/anki-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

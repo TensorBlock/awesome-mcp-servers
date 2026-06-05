@@ -1,0 +1,24 @@
+{
+  "id": "github-cuongpham2107-word-mcp-server-805b8d25",
+  "name": "cuongpham2107/word-mcp-server",
+  "description": "Facilitates the creation and editing of Microsoft Word documents via API, leveraging FastMCP for seamless LLM integration.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-cuongpham2107-word-mcp-server-805b8d25",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cuongpham2107-word-mcp-server-805b8d25)",
+  "links": {
+    "primary": "https://github.com/cuongpham2107/word-mcp-server",
+    "repo": "https://github.com/cuongpham2107/word-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

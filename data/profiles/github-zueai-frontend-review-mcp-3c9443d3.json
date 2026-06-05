@@ -1,0 +1,24 @@
+{
+  "id": "github-zueai-frontend-review-mcp-3c9443d3",
+  "name": "zueai/frontend-review-mcp",
+  "description": "Facilitates visual reviews of UI edits by comparing screenshots before and after changes, ensuring design requests are met.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-zueai-frontend-review-mcp-3c9443d3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zueai-frontend-review-mcp-3c9443d3)",
+  "links": {
+    "primary": "https://github.com/zueai/frontend-review-mcp",
+    "repo": "https://github.com/zueai/frontend-review-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

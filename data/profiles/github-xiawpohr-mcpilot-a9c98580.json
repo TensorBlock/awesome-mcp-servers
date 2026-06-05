@@ -1,0 +1,24 @@
+{
+  "id": "github-xiawpohr-mcpilot-a9c98580",
+  "name": "Xiawpohr/mcpilot",
+  "description": "MCPilot empowers LLMs to securely interact with blockchains via MetaMask, ensuring private keys remain protected while enabling seamless Web3 experiences through natural language commands.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-xiawpohr-mcpilot-a9c98580",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xiawpohr-mcpilot-a9c98580)",
+  "links": {
+    "primary": "https://github.com/Xiawpohr/mcpilot",
+    "repo": "https://github.com/Xiawpohr/mcpilot",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

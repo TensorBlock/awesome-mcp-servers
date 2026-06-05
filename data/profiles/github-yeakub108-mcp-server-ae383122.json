@@ -1,0 +1,24 @@
+{
+  "id": "github-yeakub108-mcp-server-ae383122",
+  "name": "yeakub108/mcp-server",
+  "description": "An AI-powered MCP server for Windsurf that offers intelligent coding assistance through advanced reasoning LLMs and custom AI tools.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-yeakub108-mcp-server-ae383122",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yeakub108-mcp-server-ae383122)",
+  "links": {
+    "primary": "https://github.com/yeakub108/mcp-server",
+    "repo": "https://github.com/yeakub108/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

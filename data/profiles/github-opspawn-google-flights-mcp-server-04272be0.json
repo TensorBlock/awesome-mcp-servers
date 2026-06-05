@@ -1,0 +1,24 @@
+{
+  "id": "github-opspawn-google-flights-mcp-server-04272be0",
+  "name": "opspawn/Google-Flights-MCP-Server",
+  "description": "Interact with Google Flights data using the fast_flights library to fetch and analyze flight information.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-opspawn-google-flights-mcp-server-04272be0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-opspawn-google-flights-mcp-server-04272be0)",
+  "links": {
+    "primary": "https://github.com/opspawn/Google-Flights-MCP-Server",
+    "repo": "https://github.com/opspawn/Google-Flights-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

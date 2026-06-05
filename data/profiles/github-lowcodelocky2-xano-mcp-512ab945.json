@@ -1,0 +1,24 @@
+{
+  "id": "github-lowcodelocky2-xano-mcp-512ab945",
+  "name": "lowcodelocky2/xano-mcp",
+  "description": "Facilitates comprehensive management of Xano workspaces through MCP, enabling AI assistants to interact with database and API structures programmatically.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-lowcodelocky2-xano-mcp-512ab945",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lowcodelocky2-xano-mcp-512ab945)",
+  "links": {
+    "primary": "https://github.com/lowcodelocky2/xano-mcp",
+    "repo": "https://github.com/lowcodelocky2/xano-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

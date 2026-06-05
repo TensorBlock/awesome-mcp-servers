@@ -1,0 +1,24 @@
+{
+  "id": "github-diegosanzmartin-mcp-gcp-asset-inventory-091e9106",
+  "name": "diegosanzmartin/mcp-gcp-asset-inventory",
+  "description": "Facilitates AI-driven exploration and management of Google Cloud resources by bridging natural language queries with GCP's Asset Inventory via the gcloud CLI.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-diegosanzmartin-mcp-gcp-asset-inventory-091e9106",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-diegosanzmartin-mcp-gcp-asset-inventory-091e9106)",
+  "links": {
+    "primary": "https://github.com/diegosanzmartin/mcp-gcp-asset-inventory",
+    "repo": "https://github.com/diegosanzmartin/mcp-gcp-asset-inventory",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

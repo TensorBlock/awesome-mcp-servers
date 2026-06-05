@@ -1,0 +1,24 @@
+{
+  "id": "github-bugstan-mcpxhub-69b9980d",
+  "name": "bugstan/MCPxHub",
+  "description": "Middleware that seamlessly forwards MCP requests from clients to local IDE extensions, supporting automatic IDE endpoint discovery and tool call forwarding.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-bugstan-mcpxhub-69b9980d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bugstan-mcpxhub-69b9980d)",
+  "links": {
+    "primary": "https://github.com/bugstan/MCPxHub",
+    "repo": "https://github.com/bugstan/MCPxHub",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

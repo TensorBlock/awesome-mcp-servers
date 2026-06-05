@@ -1,0 +1,24 @@
+{
+  "id": "github-sjotie-notionmcp-0252558c",
+  "name": "Sjotie/notionMCP",
+  "description": "Connects AI assistants like Claude to Notion workspaces, enabling interaction with databases, pages, and content blocks.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-sjotie-notionmcp-0252558c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sjotie-notionmcp-0252558c)",
+  "links": {
+    "primary": "https://github.com/Sjotie/notionMCP",
+    "repo": "https://github.com/Sjotie/notionMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

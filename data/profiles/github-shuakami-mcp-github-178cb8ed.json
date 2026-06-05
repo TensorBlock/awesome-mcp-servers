@@ -1,0 +1,24 @@
+{
+  "id": "github-shuakami-mcp-github-178cb8ed",
+  "name": "shuakami/mcp-github",
+  "description": "Empower AI models to perform GitHub operations seamlessly through a standardized MCP interface, enhancing automation capabilities for the Cursor Editor.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-shuakami-mcp-github-178cb8ed",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shuakami-mcp-github-178cb8ed)",
+  "links": {
+    "primary": "https://github.com/shuakami/mcp-github",
+    "repo": "https://github.com/shuakami/mcp-github",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

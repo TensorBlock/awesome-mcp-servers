@@ -1,0 +1,24 @@
+{
+  "id": "github-jasonsteving99-notes-db-ee18a2f8",
+  "name": "JasonSteving99/notes-db",
+  "description": "A vector-based note-taking system with semantic search capabilities, integrated with Claude Desktop for seamless note management and search.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-jasonsteving99-notes-db-ee18a2f8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jasonsteving99-notes-db-ee18a2f8)",
+  "links": {
+    "primary": "https://github.com/JasonSteving99/notes-db",
+    "repo": "https://github.com/JasonSteving99/notes-db",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-2geonhyup-dart-mcp-b6131a29",
+  "name": "2geonhyup/dart-mcp",
+  "description": "Facilitates financial analysis and visualization of listed companies using DART API and Claude.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-2geonhyup-dart-mcp-b6131a29",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-2geonhyup-dart-mcp-b6131a29)",
+  "links": {
+    "primary": "https://github.com/2geonhyup/dart-mcp",
+    "repo": "https://github.com/2geonhyup/dart-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

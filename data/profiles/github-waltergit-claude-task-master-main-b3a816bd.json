@@ -1,0 +1,24 @@
+{
+  "id": "github-waltergit-claude-task-master-main-b3a816bd",
+  "name": "WalterGit/claude-task-master-main",
+  "description": "A task management system for AI-driven development with Claude, seamlessly integrating with Cursor AI through MCP.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-waltergit-claude-task-master-main-b3a816bd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-waltergit-claude-task-master-main-b3a816bd)",
+  "links": {
+    "primary": "https://github.com/WalterGit/claude-task-master-main",
+    "repo": "https://github.com/WalterGit/claude-task-master-main",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-maxweeden-mcp-dnsdumpster-b7e33b48",
+  "name": "MaxWeeden/mcp-dnsdumpster",
+  "description": "Facilitates AI-driven DNS reconnaissance by interfacing with the DNSDumpster API through natural language requests.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-maxweeden-mcp-dnsdumpster-b7e33b48",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maxweeden-mcp-dnsdumpster-b7e33b48)",
+  "links": {
+    "primary": "https://github.com/MaxWeeden/mcp-dnsdumpster",
+    "repo": "https://github.com/MaxWeeden/mcp-dnsdumpster",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

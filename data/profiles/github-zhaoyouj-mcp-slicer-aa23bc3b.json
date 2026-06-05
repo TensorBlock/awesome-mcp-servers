@@ -1,0 +1,24 @@
+{
+  "id": "github-zhaoyouj-mcp-slicer-aa23bc3b",
+  "name": "zhaoyouj/mcp-slicer",
+  "description": "Facilitates seamless interaction between 3D Slicer and model clients for medical image processing and scene manipulation using natural language.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-zhaoyouj-mcp-slicer-aa23bc3b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zhaoyouj-mcp-slicer-aa23bc3b)",
+  "links": {
+    "primary": "https://github.com/zhaoyouj/mcp-slicer",
+    "repo": "https://github.com/zhaoyouj/mcp-slicer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

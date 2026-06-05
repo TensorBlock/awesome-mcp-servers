@@ -1,0 +1,24 @@
+{
+  "id": "github-biguncle-fast-whisper-mcp-server-c529c71d",
+  "name": "BigUncle/Fast-Whisper-MCP-Server",
+  "description": "High-performance speech recognition server leveraging Faster Whisper for efficient audio transcription.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-biguncle-fast-whisper-mcp-server-c529c71d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-biguncle-fast-whisper-mcp-server-c529c71d)",
+  "links": {
+    "primary": "https://github.com/BigUncle/Fast-Whisper-MCP-Server",
+    "repo": "https://github.com/BigUncle/Fast-Whisper-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
