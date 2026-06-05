@@ -1,0 +1,24 @@
+{
+  "id": "github-kukapay-whoami-mcp-d38a2e49",
+  "name": "kukapay/whoami-mcp",
+  "description": "A lightweight server that identifies the system username for local LLM integration.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-whoami-mcp-d38a2e49",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-whoami-mcp-d38a2e49)",
+  "links": {
+    "primary": "https://github.com/kukapay/whoami-mcp",
+    "repo": "https://github.com/kukapay/whoami-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

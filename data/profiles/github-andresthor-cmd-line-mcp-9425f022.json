@@ -1,0 +1,24 @@
+{
+  "id": "github-andresthor-cmd-line-mcp-9425f022",
+  "name": "andresthor/cmd-line-mcp",
+  "description": "A secure MCP server enabling AI assistants to execute Unix/macOS terminal commands with interactive permission management and command chaining support.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-andresthor-cmd-line-mcp-9425f022",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-andresthor-cmd-line-mcp-9425f022)",
+  "links": {
+    "primary": "https://github.com/andresthor/cmd-line-mcp",
+    "repo": "https://github.com/andresthor/cmd-line-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

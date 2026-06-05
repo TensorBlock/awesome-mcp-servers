@@ -1,0 +1,24 @@
+{
+  "id": "github-edrigu1989-slack-mcp-server-a65b288c",
+  "name": "edrigu1989/slack-mcp-server",
+  "description": "Facilitates interaction with Slack workspaces through Claude by leveraging the Slack API for channel management, messaging, and user profile access.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-edrigu1989-slack-mcp-server-a65b288c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-edrigu1989-slack-mcp-server-a65b288c)",
+  "links": {
+    "primary": "https://github.com/edrigu1989/slack-mcp-server",
+    "repo": "https://github.com/edrigu1989/slack-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

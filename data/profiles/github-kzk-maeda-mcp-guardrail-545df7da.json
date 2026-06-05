@@ -1,0 +1,24 @@
+{
+  "id": "github-kzk-maeda-mcp-guardrail-545df7da",
+  "name": "kzk-maeda/mcp-guardrail",
+  "description": "A secure MCP server that executes only pre-authorized commands, ideal for high-security environments.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-kzk-maeda-mcp-guardrail-545df7da",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kzk-maeda-mcp-guardrail-545df7da)",
+  "links": {
+    "primary": "https://github.com/kzk-maeda/mcp-guardrail",
+    "repo": "https://github.com/kzk-maeda/mcp-guardrail",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

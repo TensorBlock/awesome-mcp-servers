@@ -1,0 +1,24 @@
+{
+  "id": "github-pavanmadiraju-leanix-leanix-mcp-integration-407f6c78",
+  "name": "pavanmadiraju-leanix/leanix-mcp-integration",
+  "description": "Connects LeanIX's enterprise architecture platform with AI assistants, enabling natural language queries and management of fact sheets via GraphQL.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-pavanmadiraju-leanix-leanix-mcp-integration-407f6c78",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pavanmadiraju-leanix-leanix-mcp-integration-407f6c78)",
+  "links": {
+    "primary": "https://github.com/pavanmadiraju-leanix/leanix-mcp-integration",
+    "repo": "https://github.com/pavanmadiraju-leanix/leanix-mcp-integration",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-tooljet-tooljet-mcp-23fad464",
+  "name": "ToolJet/tooljet-mcp",
+  "description": "Facilitates seamless interaction between AI assistants and the ToolJet platform, enabling management of users, workspaces, and applications through the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tooljet-tooljet-mcp-23fad464",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tooljet-tooljet-mcp-23fad464)",
+  "links": {
+    "primary": "https://github.com/ToolJet/tooljet-mcp",
+    "repo": "https://github.com/ToolJet/tooljet-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

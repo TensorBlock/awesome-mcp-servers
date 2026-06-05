@@ -1,0 +1,24 @@
+{
+  "id": "github-eniayomi-gcp-mcp-9f373dac",
+  "name": "eniayomi/gcp-mcp",
+  "description": "Facilitates natural language interaction with Google Cloud Platform resources through AI assistants like Claude.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-eniayomi-gcp-mcp-9f373dac",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-eniayomi-gcp-mcp-9f373dac)",
+  "links": {
+    "primary": "https://github.com/eniayomi/gcp-mcp",
+    "repo": "https://github.com/eniayomi/gcp-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

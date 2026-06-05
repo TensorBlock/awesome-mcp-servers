@@ -1,0 +1,24 @@
+{
+  "id": "github-pandeussilvae-mcp-odoo-panda-221790e6",
+  "name": "pandeussilvae/mcp-odoo-panda",
+  "description": "Facilitates seamless integration with Odoo ERP instances through a standardized interface, supporting multiple protocols and asynchronous connection pooling.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-pandeussilvae-mcp-odoo-panda-221790e6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pandeussilvae-mcp-odoo-panda-221790e6)",
+  "links": {
+    "primary": "https://github.com/pandeussilvae/mcp-odoo-panda",
+    "repo": "https://github.com/pandeussilvae/mcp-odoo-panda",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

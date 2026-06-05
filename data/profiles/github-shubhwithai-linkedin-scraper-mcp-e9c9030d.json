@@ -1,0 +1,24 @@
+{
+  "id": "github-shubhwithai-linkedin-scraper-mcp-e9c9030d",
+  "name": "Shubhwithai/linkedin-scraper-mcp",
+  "description": "Efficiently extract LinkedIn profile data using an MCP server with asynchronous operations and streamlined JSON output.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-shubhwithai-linkedin-scraper-mcp-e9c9030d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shubhwithai-linkedin-scraper-mcp-e9c9030d)",
+  "links": {
+    "primary": "https://github.com/Shubhwithai/linkedin-scraper-mcp",
+    "repo": "https://github.com/Shubhwithai/linkedin-scraper-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

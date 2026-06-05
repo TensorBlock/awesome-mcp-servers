@@ -1,0 +1,24 @@
+{
+  "id": "github-azure-blue-bridge-af26a90d",
+  "name": "Azure/blue-bridge",
+  "description": "Facilitates querying and managing Azure resources using MCP server with zero-secret authentication, supporting Azure Managed Grafana, Azure Data Explorer, and more.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-azure-blue-bridge-af26a90d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-azure-blue-bridge-af26a90d)",
+  "links": {
+    "primary": "https://github.com/Azure/blue-bridge",
+    "repo": "https://github.com/Azure/blue-bridge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

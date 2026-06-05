@@ -1,0 +1,24 @@
+{
+  "id": "github-1yhy-oss-mcp-4c429f45",
+  "name": "1yhy/oss-mcp",
+  "description": "Facilitates seamless file uploads to Alibaba Cloud OSS, integrating with various MCP tools for enhanced workflow automation.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-1yhy-oss-mcp-4c429f45",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-1yhy-oss-mcp-4c429f45)",
+  "links": {
+    "primary": "https://github.com/1yhy/oss-mcp",
+    "repo": "https://github.com/1yhy/oss-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

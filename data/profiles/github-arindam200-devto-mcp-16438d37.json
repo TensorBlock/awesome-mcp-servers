@@ -1,0 +1,24 @@
+{
+  "id": "github-arindam200-devto-mcp-16438d37",
+  "name": "Arindam200/devto-mcp",
+  "description": "Enables AI assistants to interact with Dev.to content, offering features like fetching, searching, and managing articles.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-arindam200-devto-mcp-16438d37",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arindam200-devto-mcp-16438d37)",
+  "links": {
+    "primary": "https://github.com/Arindam200/devto-mcp",
+    "repo": "https://github.com/Arindam200/devto-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

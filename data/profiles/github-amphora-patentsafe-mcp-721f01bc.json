@@ -1,0 +1,24 @@
+{
+  "id": "github-amphora-patentsafe-mcp-721f01bc",
+  "name": "amphora/patentsafe-mcp",
+  "description": "Connects to PatentSafe to retrieve documents using raw Lucene queries.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-amphora-patentsafe-mcp-721f01bc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amphora-patentsafe-mcp-721f01bc)",
+  "links": {
+    "primary": "https://github.com/amphora/patentsafe-mcp",
+    "repo": "https://github.com/amphora/patentsafe-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

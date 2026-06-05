@@ -1,0 +1,24 @@
+{
+  "id": "github-kukapay-nearby-search-mcp-835744de",
+  "name": "kukapay/nearby-search-mcp",
+  "description": "Facilitates nearby place searches using IP-based location detection and Google Places API integration.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-nearby-search-mcp-835744de",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-nearby-search-mcp-835744de)",
+  "links": {
+    "primary": "https://github.com/kukapay/nearby-search-mcp",
+    "repo": "https://github.com/kukapay/nearby-search-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

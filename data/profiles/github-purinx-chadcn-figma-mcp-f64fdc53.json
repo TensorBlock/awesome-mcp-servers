@@ -1,0 +1,24 @@
+{
+  "id": "github-purinx-chadcn-figma-mcp-f64fdc53",
+  "name": "purinx/chadcn-figma-mcp",
+  "description": "Integrates Figma designs with shadcn/ui components using MCP to bridge AI agents and the Figma API for accurate design implementation.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-purinx-chadcn-figma-mcp-f64fdc53",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-purinx-chadcn-figma-mcp-f64fdc53)",
+  "links": {
+    "primary": "https://github.com/purinx/chadcn-figma-mcp",
+    "repo": "https://github.com/purinx/chadcn-figma-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

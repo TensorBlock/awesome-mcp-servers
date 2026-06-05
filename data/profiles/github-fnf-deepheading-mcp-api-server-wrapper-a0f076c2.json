@@ -1,0 +1,24 @@
+{
+  "id": "github-fnf-deepheading-mcp-api-server-wrapper-a0f076c2",
+  "name": "fnf-deepHeading/mcp-api-server-wrapper",
+  "description": "A template for wrapping external APIs into MCP servers using AI, featuring automatic API integration and Docker support.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-fnf-deepheading-mcp-api-server-wrapper-a0f076c2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fnf-deepheading-mcp-api-server-wrapper-a0f076c2)",
+  "links": {
+    "primary": "https://github.com/fnf-deepHeading/mcp-api-server-wrapper",
+    "repo": "https://github.com/fnf-deepHeading/mcp-api-server-wrapper",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

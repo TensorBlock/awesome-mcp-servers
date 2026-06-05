@@ -1,0 +1,24 @@
+{
+  "id": "github-ophydami-mcp-google-doc-6a5286e1",
+  "name": "ophydami/MCP-Google-Doc",
+  "description": "Facilitates seamless interaction with Google Docs through Claude, enabling document management and search capabilities.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-ophydami-mcp-google-doc-6a5286e1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ophydami-mcp-google-doc-6a5286e1)",
+  "links": {
+    "primary": "https://github.com/ophydami/MCP-Google-Doc",
+    "repo": "https://github.com/ophydami/MCP-Google-Doc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

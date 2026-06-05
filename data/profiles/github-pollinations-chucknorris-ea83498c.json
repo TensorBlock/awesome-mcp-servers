@@ -1,0 +1,24 @@
+{
+  "id": "github-pollinations-chucknorris-ea83498c",
+  "name": "pollinations/chucknorris",
+  "description": "Enhances LLMs with specialized prompts inspired by L1B3RT4S, pushing the boundaries of model capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-pollinations-chucknorris-ea83498c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pollinations-chucknorris-ea83498c)",
+  "links": {
+    "primary": "https://github.com/pollinations/chucknorris",
+    "repo": "https://github.com/pollinations/chucknorris",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

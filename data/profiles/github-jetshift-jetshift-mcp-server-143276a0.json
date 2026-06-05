@@ -1,0 +1,24 @@
+{
+  "id": "github-jetshift-jetshift-mcp-server-143276a0",
+  "name": "jetshift/jetshift-mcp-server",
+  "description": "Facilitates comprehensive management and communication with JetShift through MCP server capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-jetshift-jetshift-mcp-server-143276a0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jetshift-jetshift-mcp-server-143276a0)",
+  "links": {
+    "primary": "https://github.com/jetshift/jetshift-mcp-server",
+    "repo": "https://github.com/jetshift/jetshift-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

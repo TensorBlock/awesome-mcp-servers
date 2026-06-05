@@ -1,0 +1,24 @@
+{
+  "id": "github-singlestore-labs-mcp-server-singlestore-3aeb15af",
+  "name": "singlestore-labs/mcp-server-singlestore",
+  "description": "Facilitates seamless interaction with SingleStore's Management API using natural language through MCP protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-singlestore-labs-mcp-server-singlestore-3aeb15af",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-singlestore-labs-mcp-server-singlestore-3aeb15af)",
+  "links": {
+    "primary": "https://github.com/singlestore-labs/mcp-server-singlestore",
+    "repo": "https://github.com/singlestore-labs/mcp-server-singlestore",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

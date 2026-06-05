@@ -1,0 +1,24 @@
+{
+  "id": "github-pnizer-wweb-mcp-fd9fc962",
+  "name": "pnizer/wweb-mcp",
+  "description": "Connects WhatsApp Web with AI models via MCP for automated messaging and contact management.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-pnizer-wweb-mcp-fd9fc962",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pnizer-wweb-mcp-fd9fc962)",
+  "links": {
+    "primary": "https://github.com/pnizer/wweb-mcp",
+    "repo": "https://github.com/pnizer/wweb-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

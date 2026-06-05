@@ -1,0 +1,24 @@
+{
+  "id": "github-yupengfei1209-coding-devops-mcp-server-554e8ed6",
+  "name": "yupengfei1209/coding_devops_mcp_server",
+  "description": "Facilitates interaction with the CODING DevOps platform through standardized interfaces for project and work item management.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-yupengfei1209-coding-devops-mcp-server-554e8ed6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yupengfei1209-coding-devops-mcp-server-554e8ed6)",
+  "links": {
+    "primary": "https://github.com/yupengfei1209/coding_devops_mcp_server",
+    "repo": "https://github.com/yupengfei1209/coding_devops_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
