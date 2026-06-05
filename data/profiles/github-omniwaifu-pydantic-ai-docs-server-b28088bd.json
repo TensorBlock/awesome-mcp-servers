@@ -1,0 +1,24 @@
+{
+  "id": "github-omniwaifu-pydantic-ai-docs-server-b28088bd",
+  "name": "omniwaifu/pydantic-ai-docs-server",
+  "description": "Facilitates direct access to pydantic-ai documentation within IDEs via an MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-omniwaifu-pydantic-ai-docs-server-b28088bd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-omniwaifu-pydantic-ai-docs-server-b28088bd)",
+  "links": {
+    "primary": "https://github.com/omniwaifu/pydantic-ai-docs-server",
+    "repo": "https://github.com/omniwaifu/pydantic-ai-docs-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

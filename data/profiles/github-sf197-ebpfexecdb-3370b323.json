@@ -1,0 +1,24 @@
+{
+  "id": "github-sf197-ebpfexecdb-3370b323",
+  "name": "sf197/ebpfExecDB",
+  "description": "Facilitates command execution retrieval and analysis via ebpf and MongoDB, enabling LLMs to assess system operations.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-sf197-ebpfexecdb-3370b323",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sf197-ebpfexecdb-3370b323)",
+  "links": {
+    "primary": "https://github.com/sf197/ebpfExecDB",
+    "repo": "https://github.com/sf197/ebpfExecDB",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

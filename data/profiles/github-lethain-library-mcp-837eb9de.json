@@ -1,0 +1,24 @@
+{
+  "id": "github-lethain-library-mcp-837eb9de",
+  "name": "lethain/library-mcp",
+  "description": "Facilitates interaction with Markdown knowledge bases by retrieving and managing content through tags, text, slugs, URLs, and date ranges.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-lethain-library-mcp-837eb9de",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lethain-library-mcp-837eb9de)",
+  "links": {
+    "primary": "https://github.com/lethain/library-mcp",
+    "repo": "https://github.com/lethain/library-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

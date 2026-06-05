@@ -1,0 +1,24 @@
+{
+  "id": "github-pfldy2850-mcp-openmetadata-ba1afe8c",
+  "name": "pfldy2850/mcp-openmetadata",
+  "description": "Facilitates seamless integration of OpenMetadata APIs with FastMCP for efficient metadata management.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-pfldy2850-mcp-openmetadata-ba1afe8c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pfldy2850-mcp-openmetadata-ba1afe8c)",
+  "links": {
+    "primary": "https://github.com/pfldy2850/mcp-openmetadata",
+    "repo": "https://github.com/pfldy2850/mcp-openmetadata",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

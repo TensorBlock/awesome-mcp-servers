@@ -1,0 +1,24 @@
+{
+  "id": "github-huahuayu-1scan-29816bf3",
+  "name": "huahuayu/1scan",
+  "description": "A unified API gateway that integrates multiple blockchain explorer APIs, enabling AI assistants to query blockchain data via MCP.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-huahuayu-1scan-29816bf3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-huahuayu-1scan-29816bf3)",
+  "links": {
+    "primary": "https://github.com/huahuayu/1scan",
+    "repo": "https://github.com/huahuayu/1scan",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

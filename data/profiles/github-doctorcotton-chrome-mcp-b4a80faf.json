@@ -1,0 +1,24 @@
+{
+  "id": "github-doctorcotton-chrome-mcp-b4a80faf",
+  "name": "doctorcotton/Chrome_MCP",
+  "description": "Facilitates interaction with the Chrome browser console and execution of JavaScript via Claude using MCP.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-doctorcotton-chrome-mcp-b4a80faf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-doctorcotton-chrome-mcp-b4a80faf)",
+  "links": {
+    "primary": "https://github.com/doctorcotton/Chrome_MCP",
+    "repo": "https://github.com/doctorcotton/Chrome_MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

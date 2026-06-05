@@ -1,0 +1,24 @@
+{
+  "id": "github-kenjihikmatullah-productboard-mcp-05d78705",
+  "name": "kenjihikmatullah/productboard-mcp",
+  "description": "Facilitates integration of Productboard API into agentic workflows using MCP.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-kenjihikmatullah-productboard-mcp-05d78705",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kenjihikmatullah-productboard-mcp-05d78705)",
+  "links": {
+    "primary": "https://github.com/kenjihikmatullah/productboard-mcp",
+    "repo": "https://github.com/kenjihikmatullah/productboard-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

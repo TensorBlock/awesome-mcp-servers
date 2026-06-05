@@ -1,0 +1,24 @@
+{
+  "id": "github-lbcheng888-mcp-nim-64c255e1",
+  "name": "lbcheng888/mcp-nim",
+  "description": "A Nim SDK for building AI agent capabilities using the Model Context Protocol.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-lbcheng888-mcp-nim-64c255e1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lbcheng888-mcp-nim-64c255e1)",
+  "links": {
+    "primary": "https://github.com/lbcheng888/mcp-nim",
+    "repo": "https://github.com/lbcheng888/mcp-nim",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-cargoffer-transcend-mcp-server-019c7a60",
+  "name": "cargoffer/transcend-mcp-server",
+  "description": "AI-powered route optimization MCP server for heavy vehicles. Calculate truck routes, predict traffic with LSTM neural networks, compute tolls, fuel costs and CO2 emissions. Find truck stops and check weather along European routes.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-cargoffer-transcend-mcp-server-019c7a60",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cargoffer-transcend-mcp-server-019c7a60)",
+  "links": {
+    "primary": "https://github.com/cargoffer/transcend-mcp-server",
+    "repo": "https://github.com/cargoffer/transcend-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

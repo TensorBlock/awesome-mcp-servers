@@ -1,0 +1,24 @@
+{
+  "id": "github-belljustin-spotify-mcp-aeb7b215",
+  "name": "belljustin/spotify-mcp",
+  "description": "Facilitates playlist creation on Spotify through a Model Context Protocol server, integrating seamlessly with Cursor for enhanced user interaction.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-belljustin-spotify-mcp-aeb7b215",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-belljustin-spotify-mcp-aeb7b215)",
+  "links": {
+    "primary": "https://github.com/belljustin/spotify-mcp",
+    "repo": "https://github.com/belljustin/spotify-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

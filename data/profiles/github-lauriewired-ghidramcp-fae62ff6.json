@@ -1,0 +1,24 @@
+{
+  "id": "github-lauriewired-ghidramcp-fae62ff6",
+  "name": "LaurieWired/GhidraMCP",
+  "description": "Facilitates autonomous reverse engineering of applications by LLMs using Ghidra's core functionalities.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-lauriewired-ghidramcp-fae62ff6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lauriewired-ghidramcp-fae62ff6)",
+  "links": {
+    "primary": "https://github.com/LaurieWired/GhidraMCP",
+    "repo": "https://github.com/LaurieWired/GhidraMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

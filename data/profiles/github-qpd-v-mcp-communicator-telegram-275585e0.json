@@ -1,0 +1,24 @@
+{
+  "id": "github-qpd-v-mcp-communicator-telegram-275585e0",
+  "name": "qpd-v/mcp-communicator-telegram",
+  "description": "Facilitates user interaction through Telegram by enabling question-asking, notifications, and file sharing via a bot.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-qpd-v-mcp-communicator-telegram-275585e0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qpd-v-mcp-communicator-telegram-275585e0)",
+  "links": {
+    "primary": "https://github.com/qpd-v/mcp-communicator-telegram",
+    "repo": "https://github.com/qpd-v/mcp-communicator-telegram",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

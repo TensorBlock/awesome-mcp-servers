@@ -1,0 +1,24 @@
+{
+  "id": "github-4workspace-cursor-mcp-test-fd070073",
+  "name": "4workspace/Cursor-MCP-test",
+  "description": "Facilitates GitHub integration within Cursor IDE using the Model Control Protocol for streamlined repository management.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-4workspace-cursor-mcp-test-fd070073",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-4workspace-cursor-mcp-test-fd070073)",
+  "links": {
+    "primary": "https://github.com/4workspace/Cursor-MCP-test",
+    "repo": "https://github.com/4workspace/Cursor-MCP-test",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-trendsmcp-trends-mcp-94d1f628",
+  "name": "trendsmcp/trends-mcp",
+  "description": "Real-time trend data from Google Trends (Search, Images, News, Shopping), YouTube, TikTok, Reddit, Amazon, Wikipedia, npm, Steam, Spotify, X (Twitter), App Store, Google Play, web traffic, and news sentiment via one MCP connection. Works with Claude, Cursor, VS Code, Windsurf, ChatGPT, and any MCP-compatible AI. Free API key, 20 requests/day.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-trendsmcp-trends-mcp-94d1f628",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-trendsmcp-trends-mcp-94d1f628)",
+  "links": {
+    "primary": "https://github.com/trendsmcp/trends-mcp",
+    "repo": "https://github.com/trendsmcp/trends-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

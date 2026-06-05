@@ -1,0 +1,24 @@
+{
+  "id": "github-cdgaete-pypsa-mcp-de060437",
+  "name": "cdgaete/pypsa-mcp",
+  "description": "Facilitates natural language-driven energy system modeling and optimization using PyPSA and LLMs.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-cdgaete-pypsa-mcp-de060437",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cdgaete-pypsa-mcp-de060437)",
+  "links": {
+    "primary": "https://github.com/cdgaete/pypsa-mcp",
+    "repo": "https://github.com/cdgaete/pypsa-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

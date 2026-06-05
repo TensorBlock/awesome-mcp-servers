@@ -1,0 +1,24 @@
+{
+  "id": "github-shinzo-labs-coinmarketcap-mcp-226eb63f",
+  "name": "shinzo-labs/coinmarketcap-mcp",
+  "description": "Provides a standardized interface for accessing comprehensive cryptocurrency market data and blockchain metrics via the CoinMarketCap API.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-shinzo-labs-coinmarketcap-mcp-226eb63f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shinzo-labs-coinmarketcap-mcp-226eb63f)",
+  "links": {
+    "primary": "https://github.com/shinzo-labs/coinmarketcap-mcp",
+    "repo": "https://github.com/shinzo-labs/coinmarketcap-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-algonacci-mcp-wikipedia-a637b363",
+  "name": "algonacci/mcp-wikipedia",
+  "description": "Facilitates client access to Wikipedia pages through an MCP server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-algonacci-mcp-wikipedia-a637b363",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-algonacci-mcp-wikipedia-a637b363)",
+  "links": {
+    "primary": "https://github.com/algonacci/mcp-wikipedia",
+    "repo": "https://github.com/algonacci/mcp-wikipedia",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

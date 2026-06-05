@@ -1,0 +1,24 @@
+{
+  "id": "github-john-zhang-dev-xero-mcp-fafbcd8a",
+  "name": "john-zhang-dev/xero-mcp",
+  "description": "Facilitates seamless interaction with Xero Accounting Software through a Model Context Protocol server.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-john-zhang-dev-xero-mcp-fafbcd8a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-john-zhang-dev-xero-mcp-fafbcd8a)",
+  "links": {
+    "primary": "https://github.com/john-zhang-dev/xero-mcp",
+    "repo": "https://github.com/john-zhang-dev/xero-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

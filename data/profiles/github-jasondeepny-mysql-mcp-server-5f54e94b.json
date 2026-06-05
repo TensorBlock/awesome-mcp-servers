@@ -1,0 +1,24 @@
+{
+  "id": "github-jasondeepny-mysql-mcp-server-5f54e94b",
+  "name": "Jasondeepny/mysql-mcp-server",
+  "description": "A Java-based MCP server supporting multiple data sources with a Spring Boot starter for seamless integration.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-jasondeepny-mysql-mcp-server-5f54e94b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jasondeepny-mysql-mcp-server-5f54e94b)",
+  "links": {
+    "primary": "https://github.com/Jasondeepny/mysql-mcp-server",
+    "repo": "https://github.com/Jasondeepny/mysql-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

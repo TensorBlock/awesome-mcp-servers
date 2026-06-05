@@ -1,0 +1,24 @@
+{
+  "id": "github-ghrud92-simple-loki-mcp-f2eb0486",
+  "name": "ghrud92/simple-loki-mcp",
+  "description": "Facilitates AI-driven log analysis by interfacing with Grafana Loki logs via the Model Context Protocol.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-ghrud92-simple-loki-mcp-f2eb0486",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ghrud92-simple-loki-mcp-f2eb0486)",
+  "links": {
+    "primary": "https://github.com/ghrud92/simple-loki-mcp",
+    "repo": "https://github.com/ghrud92/simple-loki-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-shkna1368-mcp-cline-37fdcf67",
+  "name": "shkna1368/mcp-cline",
+  "description": "Facilitates the setup and configuration of an MCP server using SQLite for database management and integration with Visual Studio Code.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-shkna1368-mcp-cline-37fdcf67",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shkna1368-mcp-cline-37fdcf67)",
+  "links": {
+    "primary": "https://github.com/shkna1368/mcp-cline",
+    "repo": "https://github.com/shkna1368/mcp-cline",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

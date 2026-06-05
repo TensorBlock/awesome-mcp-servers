@@ -1,0 +1,24 @@
+{
+  "id": "github-masa1023-google-calendar-mcp-server-6988616f",
+  "name": "masa1023/google-calendar-mcp-server",
+  "description": "Facilitates seamless access to Google Calendar data, enabling users to list calendars, find available time slots, and retrieve upcoming events.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-masa1023-google-calendar-mcp-server-6988616f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-masa1023-google-calendar-mcp-server-6988616f)",
+  "links": {
+    "primary": "https://github.com/masa1023/google-calendar-mcp-server",
+    "repo": "https://github.com/masa1023/google-calendar-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

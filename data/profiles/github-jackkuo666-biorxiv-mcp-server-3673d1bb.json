@@ -1,0 +1,24 @@
+{
+  "id": "github-jackkuo666-biorxiv-mcp-server-3673d1bb",
+  "name": "JackKuo666/bioRxiv-MCP-Server",
+  "description": "Facilitates AI-driven searches and metadata retrieval of bioRxiv preprints through a streamlined MCP interface.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-jackkuo666-biorxiv-mcp-server-3673d1bb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jackkuo666-biorxiv-mcp-server-3673d1bb)",
+  "links": {
+    "primary": "https://github.com/JackKuo666/bioRxiv-MCP-Server",
+    "repo": "https://github.com/JackKuo666/bioRxiv-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

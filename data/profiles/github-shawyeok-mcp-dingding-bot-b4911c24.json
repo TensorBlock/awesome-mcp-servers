@@ -1,0 +1,24 @@
+{
+  "id": "github-shawyeok-mcp-dingding-bot-b4911c24",
+  "name": "Shawyeok/mcp-dingding-bot",
+  "description": "Facilitates sending text and markdown messages to DingDing groups via a custom bot API.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-shawyeok-mcp-dingding-bot-b4911c24",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shawyeok-mcp-dingding-bot-b4911c24)",
+  "links": {
+    "primary": "https://github.com/Shawyeok/mcp-dingding-bot",
+    "repo": "https://github.com/Shawyeok/mcp-dingding-bot",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

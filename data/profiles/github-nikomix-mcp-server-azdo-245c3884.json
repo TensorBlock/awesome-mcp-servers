@@ -1,0 +1,24 @@
+{
+  "id": "github-nikomix-mcp-server-azdo-245c3884",
+  "name": "NikoMix/mcp-server-azdo",
+  "description": "Facilitates seamless integration with Azure DevOps Services API for efficient file operations, repository management, and advanced search capabilities.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-nikomix-mcp-server-azdo-245c3884",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nikomix-mcp-server-azdo-245c3884)",
+  "links": {
+    "primary": "https://github.com/NikoMix/mcp-server-azdo",
+    "repo": "https://github.com/NikoMix/mcp-server-azdo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

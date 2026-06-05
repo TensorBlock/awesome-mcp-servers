@@ -1,0 +1,24 @@
+{
+  "id": "github-punkpeye-investor-mcp-dd4c7710",
+  "name": "punkpeye/investor-mcp",
+  "description": "Simulates AI-powered investor personas using Octagon Private Markets data via the MCP protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-punkpeye-investor-mcp-dd4c7710",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-punkpeye-investor-mcp-dd4c7710)",
+  "links": {
+    "primary": "https://github.com/punkpeye/investor-mcp",
+    "repo": "https://github.com/punkpeye/investor-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

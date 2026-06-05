@@ -1,0 +1,24 @@
+{
+  "id": "github-squirrelogic-mcp-feature-discussion-171996d0",
+  "name": "squirrelogic/mcp-feature-discussion",
+  "description": "A TypeScript-based server that facilitates intelligent feature discussions between developers and AI, acting as an AI lead developer to guide feature implementation and architectural decisions.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-squirrelogic-mcp-feature-discussion-171996d0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-squirrelogic-mcp-feature-discussion-171996d0)",
+  "links": {
+    "primary": "https://github.com/squirrelogic/mcp-feature-discussion",
+    "repo": "https://github.com/squirrelogic/mcp-feature-discussion",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

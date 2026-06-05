@@ -1,0 +1,24 @@
+{
+  "id": "github-tahooki-unreal-blender-mcp-58fcc7c2",
+  "name": "tahooki/unreal-blender-mcp",
+  "description": "Facilitates AI-driven control of Blender and Unreal Engine through a unified MCP server, enabling seamless integration and interaction with AI agents like Claude and ChatGPT.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-tahooki-unreal-blender-mcp-58fcc7c2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tahooki-unreal-blender-mcp-58fcc7c2)",
+  "links": {
+    "primary": "https://github.com/tahooki/unreal-blender-mcp",
+    "repo": "https://github.com/tahooki/unreal-blender-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
