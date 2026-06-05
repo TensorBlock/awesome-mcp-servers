@@ -1,0 +1,24 @@
+{
+  "id": "github-ofwind-graph-memory-mcp-d94e83ab",
+  "name": "OfWind/graph-memory-mcp",
+  "description": "A persistent memory server utilizing a local knowledge graph to enable Claude to retain user information across interactions.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-ofwind-graph-memory-mcp-d94e83ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ofwind-graph-memory-mcp-d94e83ab)",
+  "links": {
+    "primary": "https://github.com/OfWind/graph-memory-mcp",
+    "repo": "https://github.com/OfWind/graph-memory-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

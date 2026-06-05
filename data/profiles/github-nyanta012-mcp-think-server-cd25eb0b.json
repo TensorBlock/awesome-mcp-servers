@@ -1,0 +1,24 @@
+{
+  "id": "github-nyanta012-mcp-think-server-cd25eb0b",
+  "name": "nyanta012/mcp-think-server",
+  "description": "A customizable MCP server setup for integration with Claude Desktop, facilitating seamless server execution via JSON configuration.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-nyanta012-mcp-think-server-cd25eb0b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nyanta012-mcp-think-server-cd25eb0b)",
+  "links": {
+    "primary": "https://github.com/nyanta012/mcp-think-server",
+    "repo": "https://github.com/nyanta012/mcp-think-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

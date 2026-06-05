@@ -1,0 +1,24 @@
+{
+  "id": "github-querypie-querypie-mcp-server-464ff435",
+  "name": "querypie/querypie-mcp-server",
+  "description": "QueryPie MCP server empowers administrators with real-time data visualization, resource monitoring, and security auditing capabilities.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-querypie-querypie-mcp-server-464ff435",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-querypie-querypie-mcp-server-464ff435)",
+  "links": {
+    "primary": "https://github.com/querypie/querypie-mcp-server",
+    "repo": "https://github.com/querypie/querypie-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

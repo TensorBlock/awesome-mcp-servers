@@ -1,0 +1,24 @@
+{
+  "id": "github-talhaorak-pytaiga-mcp-d3bff1f6",
+  "name": "talhaorak/pytaiga-mcp",
+  "description": "Facilitates seamless AI-driven project management by bridging Taiga with MCP for comprehensive task and resource management.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-talhaorak-pytaiga-mcp-d3bff1f6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-talhaorak-pytaiga-mcp-d3bff1f6)",
+  "links": {
+    "primary": "https://github.com/talhaorak/pytaiga-mcp",
+    "repo": "https://github.com/talhaorak/pytaiga-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

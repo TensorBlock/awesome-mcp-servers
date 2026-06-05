@@ -1,0 +1,24 @@
+{
+  "id": "github-phialsbasement-mcp-puppeteer-linux-05fb0ac6",
+  "name": "PhialsBasement/MCP-Puppeteer-Linux",
+  "description": "A Model Context Protocol server enabling browser automation on Linux using Puppeteer, with support for X11 and Wayland display servers.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-phialsbasement-mcp-puppeteer-linux-05fb0ac6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-phialsbasement-mcp-puppeteer-linux-05fb0ac6)",
+  "links": {
+    "primary": "https://github.com/PhialsBasement/MCP-Puppeteer-Linux",
+    "repo": "https://github.com/PhialsBasement/MCP-Puppeteer-Linux",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-brysontang-deltatask-1a9d5795",
+  "name": "brysontang/DeltaTask",
+  "description": "DeltaTask offers advanced task management with Obsidian integration, leveraging a Model Context Protocol server for seamless task synchronization and prioritization.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-brysontang-deltatask-1a9d5795",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-brysontang-deltatask-1a9d5795)",
+  "links": {
+    "primary": "https://github.com/brysontang/DeltaTask",
+    "repo": "https://github.com/brysontang/DeltaTask",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

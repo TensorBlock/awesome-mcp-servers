@@ -1,0 +1,24 @@
+{
+  "id": "github-mugoosse-sitemap-mcp-server-e5a4115f",
+  "name": "mugoosse/sitemap-mcp-server",
+  "description": "Fetch, parse, and visualize website sitemaps to uncover hidden pages and analyze site structures efficiently.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-mugoosse-sitemap-mcp-server-e5a4115f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mugoosse-sitemap-mcp-server-e5a4115f)",
+  "links": {
+    "primary": "https://github.com/mugoosse/sitemap-mcp-server",
+    "repo": "https://github.com/mugoosse/sitemap-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

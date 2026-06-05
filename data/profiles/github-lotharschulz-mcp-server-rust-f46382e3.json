@@ -1,0 +1,24 @@
+{
+  "id": "github-lotharschulz-mcp-server-rust-f46382e3",
+  "name": "lotharschulz/mcp-server-rust",
+  "description": "A Rust-based MCP server integrated with a client for local execution and configuration with Claude Desktop.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-lotharschulz-mcp-server-rust-f46382e3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lotharschulz-mcp-server-rust-f46382e3)",
+  "links": {
+    "primary": "https://github.com/lotharschulz/mcp-server-rust",
+    "repo": "https://github.com/lotharschulz/mcp-server-rust",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

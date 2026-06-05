@@ -1,0 +1,24 @@
+{
+  "id": "github-riothegreat-ai-agentfund-mcp-559562b5",
+  "name": "RioTheGreat-ai/agentfund-mcp",
+  "description": "Crowdfunding for AI agents with milestone-based escrow on Base chain. Create funding proposals, track projects, receive payments.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-riothegreat-ai-agentfund-mcp-559562b5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-riothegreat-ai-agentfund-mcp-559562b5)",
+  "links": {
+    "primary": "https://github.com/RioTheGreat-ai/agentfund-mcp",
+    "repo": "https://github.com/RioTheGreat-ai/agentfund-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

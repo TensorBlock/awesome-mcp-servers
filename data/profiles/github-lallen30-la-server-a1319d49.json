@@ -1,0 +1,24 @@
+{
+  "id": "github-lallen30-la-server-a1319d49",
+  "name": "lallen30/La-server",
+  "description": "Provides a tool for generating customizable HTML and CSS files for simple websites.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-lallen30-la-server-a1319d49",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lallen30-la-server-a1319d49)",
+  "links": {
+    "primary": "https://github.com/lallen30/La-server",
+    "repo": "https://github.com/lallen30/La-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

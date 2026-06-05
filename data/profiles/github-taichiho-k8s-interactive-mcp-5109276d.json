@@ -1,0 +1,24 @@
+{
+  "id": "github-taichiho-k8s-interactive-mcp-5109276d",
+  "name": "TaichiHo/k8s-interactive-mcp",
+  "description": "Facilitates Kubernetes command execution and interpretation via MCP tools, enhancing command line flexibility and error handling.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-taichiho-k8s-interactive-mcp-5109276d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-taichiho-k8s-interactive-mcp-5109276d)",
+  "links": {
+    "primary": "https://github.com/TaichiHo/k8s-interactive-mcp",
+    "repo": "https://github.com/TaichiHo/k8s-interactive-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

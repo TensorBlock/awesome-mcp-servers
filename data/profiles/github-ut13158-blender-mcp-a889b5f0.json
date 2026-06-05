@@ -1,0 +1,24 @@
+{
+  "id": "github-ut13158-blender-mcp-a889b5f0",
+  "name": "Ut13158/blender-mcp",
+  "description": "BlenderMCP enables seamless interaction between Blender and Claude AI for enhanced 3D modeling and scene manipulation through the Model Context Protocol.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-ut13158-blender-mcp-a889b5f0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ut13158-blender-mcp-a889b5f0)",
+  "links": {
+    "primary": "https://github.com/Ut13158/blender-mcp",
+    "repo": "https://github.com/Ut13158/blender-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

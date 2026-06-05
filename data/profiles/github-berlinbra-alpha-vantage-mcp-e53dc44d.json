@@ -1,0 +1,24 @@
+{
+  "id": "github-berlinbra-alpha-vantage-mcp-e53dc44d",
+  "name": "berlinbra/alpha-vantage-mcp",
+  "description": "Provides real-time financial market data access via Alpha Vantage API, offering tools for stock quotes, company info, and cryptocurrency rates.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-berlinbra-alpha-vantage-mcp-e53dc44d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-berlinbra-alpha-vantage-mcp-e53dc44d)",
+  "links": {
+    "primary": "https://github.com/berlinbra/alpha-vantage-mcp",
+    "repo": "https://github.com/berlinbra/alpha-vantage-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

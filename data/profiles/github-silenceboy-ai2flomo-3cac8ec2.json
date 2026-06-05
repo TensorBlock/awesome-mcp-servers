@@ -1,0 +1,24 @@
+{
+  "id": "github-silenceboy-ai2flomo-3cac8ec2",
+  "name": "SilenceBoy/ai2flomo",
+  "description": "Facilitates seamless note-taking and management between AI assistants and Flomo, leveraging FastMCP for efficient synchronization and historical record retrieval.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-silenceboy-ai2flomo-3cac8ec2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-silenceboy-ai2flomo-3cac8ec2)",
+  "links": {
+    "primary": "https://github.com/SilenceBoy/ai2flomo",
+    "repo": "https://github.com/SilenceBoy/ai2flomo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

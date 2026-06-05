@@ -1,0 +1,24 @@
+{
+  "id": "github-ooo0ooo-lean-lsp-mcp-9c47af14",
+  "name": "oOo0oOo/lean-lsp-mcp",
+  "description": "Facilitates agentic interaction with the Lean theorem prover using the Language Server Protocol.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-ooo0ooo-lean-lsp-mcp-9c47af14",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ooo0ooo-lean-lsp-mcp-9c47af14)",
+  "links": {
+    "primary": "https://github.com/oOo0oOo/lean-lsp-mcp",
+    "repo": "https://github.com/oOo0oOo/lean-lsp-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

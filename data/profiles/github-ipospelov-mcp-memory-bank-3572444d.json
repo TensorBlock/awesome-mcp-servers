@@ -1,0 +1,24 @@
+{
+  "id": "github-ipospelov-mcp-memory-bank-3572444d",
+  "name": "ipospelov/mcp-memory-bank",
+  "description": "Facilitates structured documentation for context preservation in AI environments through a Memory Bank system.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-ipospelov-mcp-memory-bank-3572444d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ipospelov-mcp-memory-bank-3572444d)",
+  "links": {
+    "primary": "https://github.com/ipospelov/mcp-memory-bank",
+    "repo": "https://github.com/ipospelov/mcp-memory-bank",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

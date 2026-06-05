@@ -1,0 +1,24 @@
+{
+  "id": "github-arisataki-mcp-study-046f7a33",
+  "name": "ArisaTaki/MCP-study",
+  "description": "A TypeScript-based MCP server offering basic arithmetic operations and dynamic resource management.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-arisataki-mcp-study-046f7a33",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arisataki-mcp-study-046f7a33)",
+  "links": {
+    "primary": "https://github.com/ArisaTaki/MCP-study",
+    "repo": "https://github.com/ArisaTaki/MCP-study",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

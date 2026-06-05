@@ -1,0 +1,24 @@
+{
+  "id": "github-santos-404-mcp-server-sqlite-14fe7fe6",
+  "name": "santos-404/mcp-server.sqlite",
+  "description": "Facilitates AI-driven SQL query execution and database management through a TypeScript-based MCP server for SQLite.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-santos-404-mcp-server-sqlite-14fe7fe6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-santos-404-mcp-server-sqlite-14fe7fe6)",
+  "links": {
+    "primary": "https://github.com/santos-404/mcp-server.sqlite",
+    "repo": "https://github.com/santos-404/mcp-server.sqlite",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

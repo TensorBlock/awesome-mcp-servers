@@ -1,0 +1,24 @@
+{
+  "id": "github-iuill-mcp-sse-sample-7b55d7e8",
+  "name": "iuill/mcp_sse_sample",
+  "description": "A sample implementation of an MCP server using Server-Sent Events (SSE) to demonstrate various tools and logging capabilities.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-iuill-mcp-sse-sample-7b55d7e8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iuill-mcp-sse-sample-7b55d7e8)",
+  "links": {
+    "primary": "https://github.com/iuill/mcp_sse_sample",
+    "repo": "https://github.com/iuill/mcp_sse_sample",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

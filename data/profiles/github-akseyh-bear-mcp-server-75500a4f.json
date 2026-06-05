@@ -1,0 +1,24 @@
+{
+  "id": "github-akseyh-bear-mcp-server-75500a4f",
+  "name": "akseyh/bear-mcp-server",
+  "description": "Facilitates access to Bear Notes through SQL commands, enabling note retrieval, text search, and tag listing.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-akseyh-bear-mcp-server-75500a4f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-akseyh-bear-mcp-server-75500a4f)",
+  "links": {
+    "primary": "https://github.com/akseyh/bear-mcp-server",
+    "repo": "https://github.com/akseyh/bear-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

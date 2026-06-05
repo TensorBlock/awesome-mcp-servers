@@ -1,0 +1,24 @@
+{
+  "id": "github-jalateras-weather-d3d9cf90",
+  "name": "jalateras/weather",
+  "description": "Provides weather information services using the National Weather Service API, accessible via MCP clients like Claude.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-jalateras-weather-d3d9cf90",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jalateras-weather-d3d9cf90)",
+  "links": {
+    "primary": "https://github.com/jalateras/weather",
+    "repo": "https://github.com/jalateras/weather",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-ethankang1-ynab-mcp-16035626",
+  "name": "EthanKang1/ynab-mcp",
+  "description": "Facilitates interaction with YNAB budget data through MCP-enabled clients, offering tools for budget management and data retrieval.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-ethankang1-ynab-mcp-16035626",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ethankang1-ynab-mcp-16035626)",
+  "links": {
+    "primary": "https://github.com/EthanKang1/ynab-mcp",
+    "repo": "https://github.com/EthanKang1/ynab-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

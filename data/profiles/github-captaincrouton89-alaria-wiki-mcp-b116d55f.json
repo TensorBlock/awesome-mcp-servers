@@ -1,0 +1,24 @@
+{
+  "id": "github-captaincrouton89-alaria-wiki-mcp-b116d55f",
+  "name": "CaptainCrouton89/alaria-wiki-mcp",
+  "description": "A boilerplate for creating an MCP server that stores and retrieves information using vector embeddings, enabling semantic search and integration with AI assistants like Claude.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-captaincrouton89-alaria-wiki-mcp-b116d55f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-captaincrouton89-alaria-wiki-mcp-b116d55f)",
+  "links": {
+    "primary": "https://github.com/CaptainCrouton89/alaria-wiki-mcp",
+    "repo": "https://github.com/CaptainCrouton89/alaria-wiki-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

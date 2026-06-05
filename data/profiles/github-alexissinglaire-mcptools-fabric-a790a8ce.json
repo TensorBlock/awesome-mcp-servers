@@ -1,0 +1,24 @@
+{
+  "id": "github-alexissinglaire-mcptools-fabric-a790a8ce",
+  "name": "alexissinglaire/mcptools-fabric",
+  "description": "Node.js server facilitating AI Prompt operations through the Model Context Protocol.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-alexissinglaire-mcptools-fabric-a790a8ce",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexissinglaire-mcptools-fabric-a790a8ce)",
+  "links": {
+    "primary": "https://github.com/alexissinglaire/mcptools-fabric",
+    "repo": "https://github.com/alexissinglaire/mcptools-fabric",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

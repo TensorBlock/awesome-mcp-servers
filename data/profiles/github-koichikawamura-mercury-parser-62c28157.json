@@ -1,0 +1,24 @@
+{
+  "id": "github-koichikawamura-mercury-parser-62c28157",
+  "name": "koichikawamura/mercury-parser",
+  "description": "A wrapper for the Mercury Parser, enabling seamless integration with MCP for content parsing tasks.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-koichikawamura-mercury-parser-62c28157",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-koichikawamura-mercury-parser-62c28157)",
+  "links": {
+    "primary": "https://github.com/koichikawamura/mercury-parser",
+    "repo": "https://github.com/koichikawamura/mercury-parser",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

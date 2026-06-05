@@ -1,0 +1,24 @@
+{
+  "id": "github-joaomj-code-reviewer-mcp-6fec416b",
+  "name": "joaomj/code-reviewer-mcp",
+  "description": "Automated GitHub pull request code reviews using AI models via MCP integration.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-joaomj-code-reviewer-mcp-6fec416b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-joaomj-code-reviewer-mcp-6fec416b)",
+  "links": {
+    "primary": "https://github.com/joaomj/code-reviewer-mcp",
+    "repo": "https://github.com/joaomj/code-reviewer-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

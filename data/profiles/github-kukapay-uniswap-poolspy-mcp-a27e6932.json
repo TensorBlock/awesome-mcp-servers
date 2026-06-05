@@ -1,0 +1,24 @@
+{
+  "id": "github-kukapay-uniswap-poolspy-mcp-a27e6932",
+  "name": "kukapay/uniswap-poolspy-mcp",
+  "description": "Tracks newly created liquidity pools on Uniswap across multiple blockchain networks, providing real-time data for DeFi analysts and traders.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-uniswap-poolspy-mcp-a27e6932",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-uniswap-poolspy-mcp-a27e6932)",
+  "links": {
+    "primary": "https://github.com/kukapay/uniswap-poolspy-mcp",
+    "repo": "https://github.com/kukapay/uniswap-poolspy-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

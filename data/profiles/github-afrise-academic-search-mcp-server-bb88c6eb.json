@@ -1,0 +1,24 @@
+{
+  "id": "github-afrise-academic-search-mcp-server-bb88c6eb",
+  "name": "afrise/academic-search-mcp-server",
+  "description": "Facilitates real-time academic paper searches and metadata retrieval from Semantic Scholar and Crossref for Claude Desktop integration.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-afrise-academic-search-mcp-server-bb88c6eb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-afrise-academic-search-mcp-server-bb88c6eb)",
+  "links": {
+    "primary": "https://github.com/afrise/academic-search-mcp-server",
+    "repo": "https://github.com/afrise/academic-search-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

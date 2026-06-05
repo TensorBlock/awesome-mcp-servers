@@ -1,0 +1,24 @@
+{
+  "id": "github-xxanth0s-mcp-arango-typescript-1c9a6697",
+  "name": "xXanth0s/mcp_arango_typescript",
+  "description": "A Model Context Protocol server for ArangoDB, offering a standardized interface for database interaction with LLM-based query validation.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-xxanth0s-mcp-arango-typescript-1c9a6697",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xxanth0s-mcp-arango-typescript-1c9a6697)",
+  "links": {
+    "primary": "https://github.com/xXanth0s/mcp_arango_typescript",
+    "repo": "https://github.com/xXanth0s/mcp_arango_typescript",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

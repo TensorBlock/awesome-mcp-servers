@@ -1,0 +1,24 @@
+{
+  "id": "github-datalayer-jupyter-earth-mcp-server-643a54a5",
+  "name": "datalayer/jupyter-earth-mcp-server",
+  "description": "Facilitates geospatial analysis in Jupyter notebooks by integrating NASA Earthdata with Model Context Protocol.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-datalayer-jupyter-earth-mcp-server-643a54a5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-datalayer-jupyter-earth-mcp-server-643a54a5)",
+  "links": {
+    "primary": "https://github.com/datalayer/jupyter-earth-mcp-server",
+    "repo": "https://github.com/datalayer/jupyter-earth-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

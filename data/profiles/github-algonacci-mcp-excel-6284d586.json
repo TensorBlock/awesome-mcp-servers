@@ -1,0 +1,24 @@
+{
+  "id": "github-algonacci-mcp-excel-6284d586",
+  "name": "algonacci/mcp-excel",
+  "description": "Facilitates reading Excel files through a client-server architecture.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-algonacci-mcp-excel-6284d586",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-algonacci-mcp-excel-6284d586)",
+  "links": {
+    "primary": "https://github.com/algonacci/mcp-excel",
+    "repo": "https://github.com/algonacci/mcp-excel",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
