@@ -1,0 +1,24 @@
+{
+  "id": "github-jespino-developers-conferences-agenda-mcp-840d03ac",
+  "name": "jespino/developers-conferences-agenda-mcp",
+  "description": "Facilitates access to developer conferences and events data, allowing users to search, filter, and retrieve information through MCP-compatible clients.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-jespino-developers-conferences-agenda-mcp-840d03ac",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jespino-developers-conferences-agenda-mcp-840d03ac)",
+  "links": {
+    "primary": "https://github.com/jespino/developers-conferences-agenda-mcp",
+    "repo": "https://github.com/jespino/developers-conferences-agenda-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

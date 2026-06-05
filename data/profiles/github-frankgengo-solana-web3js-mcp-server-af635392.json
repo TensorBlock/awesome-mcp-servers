@@ -1,0 +1,24 @@
+{
+  "id": "github-frankgengo-solana-web3js-mcp-server-af635392",
+  "name": "FrankGenGo/solana-web3js-mcp-server",
+  "description": "Facilitates AI-driven Solana smart contract development and deployment through a standardized MCP interface.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-frankgengo-solana-web3js-mcp-server-af635392",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-frankgengo-solana-web3js-mcp-server-af635392)",
+  "links": {
+    "primary": "https://github.com/FrankGenGo/solana-web3js-mcp-server",
+    "repo": "https://github.com/FrankGenGo/solana-web3js-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

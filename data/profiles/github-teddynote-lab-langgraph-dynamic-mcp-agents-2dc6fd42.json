@@ -1,0 +1,24 @@
+{
+  "id": "github-teddynote-lab-langgraph-dynamic-mcp-agents-2dc6fd42",
+  "name": "teddynote-lab/langgraph-dynamic-mcp-agents",
+  "description": "LangGraph ReAct Agents leverage MCP tools for dynamic integration with external data sources and tools, offering real-time configuration and management capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-teddynote-lab-langgraph-dynamic-mcp-agents-2dc6fd42",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-teddynote-lab-langgraph-dynamic-mcp-agents-2dc6fd42)",
+  "links": {
+    "primary": "https://github.com/teddynote-lab/langgraph-dynamic-mcp-agents",
+    "repo": "https://github.com/teddynote-lab/langgraph-dynamic-mcp-agents",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

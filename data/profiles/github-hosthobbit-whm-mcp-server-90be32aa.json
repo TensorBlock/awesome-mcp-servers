@@ -1,0 +1,24 @@
+{
+  "id": "github-hosthobbit-whm-mcp-server-90be32aa",
+  "name": "hosthobbit/whm-mcp-server",
+  "description": "A Node.js server application enabling AI assistants to manage WHM/cPanel servers through the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-hosthobbit-whm-mcp-server-90be32aa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hosthobbit-whm-mcp-server-90be32aa)",
+  "links": {
+    "primary": "https://github.com/hosthobbit/whm-mcp-server",
+    "repo": "https://github.com/hosthobbit/whm-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

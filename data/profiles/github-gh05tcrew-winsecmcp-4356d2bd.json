@@ -1,0 +1,24 @@
+{
+  "id": "github-gh05tcrew-winsecmcp-4356d2bd",
+  "name": "GH05TCREW/winsecMCP",
+  "description": "Automates Windows security configuration by managing firewall, RDP, UAC, and account policies.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-gh05tcrew-winsecmcp-4356d2bd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gh05tcrew-winsecmcp-4356d2bd)",
+  "links": {
+    "primary": "https://github.com/GH05TCREW/winsecMCP",
+    "repo": "https://github.com/GH05TCREW/winsecMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

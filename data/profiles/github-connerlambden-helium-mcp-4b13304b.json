@@ -1,0 +1,24 @@
+{
+  "id": "github-connerlambden-helium-mcp-4b13304b",
+  "name": "Helium MCP",
+  "description": "Remote MCP server for real-time news intelligence with bias scoring (3.2M+ articles, 5000+ sources, 15+ dimensions), financial market data (stocks, ETFs, crypto, AI bull/bear cases), ML options pricing (probability ITM, Greeks, fair value), balanced news synthesis, trending topics, and meme search. [Documentation](https://heliumtrades.com/mcp-page/)",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-connerlambden-helium-mcp-4b13304b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-connerlambden-helium-mcp-4b13304b)",
+  "links": {
+    "primary": "https://github.com/connerlambden/helium-mcp",
+    "repo": "https://github.com/connerlambden/helium-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

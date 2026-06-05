@@ -1,0 +1,24 @@
+{
+  "id": "github-richardschrammcom-mcp-geocoder-rosetta-d73a9baf",
+  "name": "richardschrammcom/mcp-geocoder-rosetta",
+  "description": "Showcases geocoding tool implementations using Google Maps API in Python and TypeScript, serving as a guide for developers to create MCP tools.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-richardschrammcom-mcp-geocoder-rosetta-d73a9baf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-richardschrammcom-mcp-geocoder-rosetta-d73a9baf)",
+  "links": {
+    "primary": "https://github.com/richardschrammcom/mcp-geocoder-rosetta",
+    "repo": "https://github.com/richardschrammcom/mcp-geocoder-rosetta",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

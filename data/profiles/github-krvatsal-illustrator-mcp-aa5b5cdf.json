@@ -1,0 +1,24 @@
+{
+  "id": "github-krvatsal-illustrator-mcp-aa5b5cdf",
+  "name": "krVatsal/illustrator-mcp",
+  "description": "Facilitates the creation of vector graphics in Adobe Illustrator using natural language prompts via a local MCP server.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-krvatsal-illustrator-mcp-aa5b5cdf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-krvatsal-illustrator-mcp-aa5b5cdf)",
+  "links": {
+    "primary": "https://github.com/krVatsal/illustrator-mcp",
+    "repo": "https://github.com/krVatsal/illustrator-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

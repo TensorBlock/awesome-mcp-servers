@@ -1,0 +1,24 @@
+{
+  "id": "github-huyouare-manus-mcp-06aec726",
+  "name": "huyouare/manus-mcp",
+  "description": "Manus MCP offers web browsing, search, and code execution capabilities with seamless integration into desktop environments.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-huyouare-manus-mcp-06aec726",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-huyouare-manus-mcp-06aec726)",
+  "links": {
+    "primary": "https://github.com/huyouare/manus-mcp",
+    "repo": "https://github.com/huyouare/manus-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

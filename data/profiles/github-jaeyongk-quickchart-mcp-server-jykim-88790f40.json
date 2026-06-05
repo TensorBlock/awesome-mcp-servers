@@ -1,0 +1,24 @@
+{
+  "id": "github-jaeyongk-quickchart-mcp-server-jykim-88790f40",
+  "name": "jaeyongk/quickchart-mcp-server-jykim",
+  "description": "A TypeScript-based server for generating various chart types using QuickChart.io, supporting URL creation and image downloads.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-jaeyongk-quickchart-mcp-server-jykim-88790f40",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jaeyongk-quickchart-mcp-server-jykim-88790f40)",
+  "links": {
+    "primary": "https://github.com/jaeyongk/quickchart-mcp-server-jykim",
+    "repo": "https://github.com/jaeyongk/quickchart-mcp-server-jykim",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

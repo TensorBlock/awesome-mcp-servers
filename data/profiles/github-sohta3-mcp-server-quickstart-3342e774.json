@@ -1,0 +1,24 @@
+{
+  "id": "github-sohta3-mcp-server-quickstart-3342e774",
+  "name": "sohta3/mcp-server-quickstart",
+  "description": "Provides weather forecasts for U.S. regions using the National Weather Service API.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-sohta3-mcp-server-quickstart-3342e774",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sohta3-mcp-server-quickstart-3342e774)",
+  "links": {
+    "primary": "https://github.com/sohta3/mcp-server-quickstart",
+    "repo": "https://github.com/sohta3/mcp-server-quickstart",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-kjozsa-jenkins-mcp-bb20cc64",
+  "name": "kjozsa/jenkins-mcp",
+  "description": "Facilitates Jenkins operations management through an MCP server, enabling job listing, build triggering, and status checking.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-kjozsa-jenkins-mcp-bb20cc64",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kjozsa-jenkins-mcp-bb20cc64)",
+  "links": {
+    "primary": "https://github.com/kjozsa/jenkins-mcp",
+    "repo": "https://github.com/kjozsa/jenkins-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-rynnkitty-mcp-studio-6c1a2027",
+  "name": "rynnkitty/mcp-studio",
+  "description": "The repository provides a C# client for interacting with various MCP servers, including those for image reading and filesystem operations.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-rynnkitty-mcp-studio-6c1a2027",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rynnkitty-mcp-studio-6c1a2027)",
+  "links": {
+    "primary": "https://github.com/rynnkitty/mcp-studio",
+    "repo": "https://github.com/rynnkitty/mcp-studio",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

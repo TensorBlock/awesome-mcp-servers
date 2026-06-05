@@ -1,0 +1,24 @@
+{
+  "id": "github-hdresearch-mcp-python-669e5663",
+  "name": "hdresearch/mcp-python",
+  "description": "Facilitates Python code execution with persistent sessions via MCP protocol, offering tools for code execution, variable management, and package installation.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-hdresearch-mcp-python-669e5663",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hdresearch-mcp-python-669e5663)",
+  "links": {
+    "primary": "https://github.com/hdresearch/mcp-python",
+    "repo": "https://github.com/hdresearch/mcp-python",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

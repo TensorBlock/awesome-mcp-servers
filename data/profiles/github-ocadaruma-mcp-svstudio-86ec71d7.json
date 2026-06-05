@@ -1,0 +1,24 @@
+{
+  "id": "github-ocadaruma-mcp-svstudio-86ec71d7",
+  "name": "ocadaruma/mcp-svstudio",
+  "description": "Facilitates AI-driven vocal track creation and editing in Synthesizer V Studio through MCP server integration.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-ocadaruma-mcp-svstudio-86ec71d7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ocadaruma-mcp-svstudio-86ec71d7)",
+  "links": {
+    "primary": "https://github.com/ocadaruma/mcp-svstudio",
+    "repo": "https://github.com/ocadaruma/mcp-svstudio",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
