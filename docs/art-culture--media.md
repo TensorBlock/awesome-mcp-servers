@@ -81,3 +81,4 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 - [angheljf/nyt](https://github.com/angheljf/nyt): A TypeScript-based server enabling keyword-based searches for New York Times articles from the past 30 days.
 - [carllapierre/spotify-mcp](https://github.com/carllapierre/spotify-mcp): A TypeScript-based server enabling Spotify playlist creation and song search via the Model Context Protocol.
 
+- [The-Doxa-Way/doxa-mcp-schema](https://github.com/The-Doxa-Way/doxa-mcp-schema): Christian Bible MCP for Scripture lookup (Berean Standard Bible, public domain), Christian encouragement in the Doxa voice, and the Doxa Way journey map. Three tools: doxa_encourage, doxa_scripture, doxa_way_movement. Hosted at `https://doxa.app/mcp/v1`, free per-individual quota, BYOL via X-Anthropic-Key for unlimited. Listed on the official MCP Registry as `io.github.TheDoxaWay/doxa-mcp`.
