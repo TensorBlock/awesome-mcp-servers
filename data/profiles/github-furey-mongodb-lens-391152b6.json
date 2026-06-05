@@ -1,0 +1,24 @@
+{
+  "id": "github-furey-mongodb-lens-391152b6",
+  "name": "furey/mongodb-lens",
+  "description": "MongoDB Lens enables natural language interaction with MongoDB databases, facilitating queries, aggregations, and performance optimizations via LLMs.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-furey-mongodb-lens-391152b6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-furey-mongodb-lens-391152b6)",
+  "links": {
+    "primary": "https://github.com/furey/mongodb-lens",
+    "repo": "https://github.com/furey/mongodb-lens",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

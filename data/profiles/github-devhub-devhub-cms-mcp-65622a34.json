@@ -1,0 +1,24 @@
+{
+  "id": "github-devhub-devhub-cms-mcp-65622a34",
+  "name": "devhub/devhub-cms-mcp",
+  "description": "Facilitates content management in DevHub CMS through seamless integration with Large Language Models using the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-devhub-devhub-cms-mcp-65622a34",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-devhub-devhub-cms-mcp-65622a34)",
+  "links": {
+    "primary": "https://github.com/devhub/devhub-cms-mcp",
+    "repo": "https://github.com/devhub/devhub-cms-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jamesg31-mcp-server-postgres-06ea76ea",
+  "name": "jamesg31/mcp-server-postgres",
+  "description": "Facilitates read-only access to PostgreSQL databases, allowing LLMs to inspect schemas and execute queries.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-jamesg31-mcp-server-postgres-06ea76ea",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jamesg31-mcp-server-postgres-06ea76ea)",
+  "links": {
+    "primary": "https://github.com/jamesg31/mcp-server-postgres",
+    "repo": "https://github.com/jamesg31/mcp-server-postgres",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

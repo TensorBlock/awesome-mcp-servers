@@ -1,0 +1,24 @@
+{
+  "id": "github-loloabe-weather-083ad898",
+  "name": "LoloaBe/weather",
+  "description": "Facilitates note storage and summarization with customizable prompts and tools for managing note resources.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-loloabe-weather-083ad898",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-loloabe-weather-083ad898)",
+  "links": {
+    "primary": "https://github.com/LoloaBe/weather",
+    "repo": "https://github.com/LoloaBe/weather",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

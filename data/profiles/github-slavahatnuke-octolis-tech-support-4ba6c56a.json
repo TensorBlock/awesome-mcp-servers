@@ -1,0 +1,24 @@
+{
+  "id": "github-slavahatnuke-octolis-tech-support-4ba6c56a",
+  "name": "slavahatnuke/octolis-tech-support",
+  "description": "Facilitates technical support operations through MCP server configurations.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-slavahatnuke-octolis-tech-support-4ba6c56a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-slavahatnuke-octolis-tech-support-4ba6c56a)",
+  "links": {
+    "primary": "https://github.com/slavahatnuke/octolis-tech-support",
+    "repo": "https://github.com/slavahatnuke/octolis-tech-support",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

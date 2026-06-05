@@ -1,0 +1,24 @@
+{
+  "id": "github-qoli-firefox-headless-server-cd4c9f64",
+  "name": "qoli/firefox-headless-server",
+  "description": "A TypeScript-based server for managing headless Firefox browser sessions via MCP, offering tools for navigation, page retrieval, and markdown conversion.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-qoli-firefox-headless-server-cd4c9f64",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qoli-firefox-headless-server-cd4c9f64)",
+  "links": {
+    "primary": "https://github.com/qoli/firefox-headless-server",
+    "repo": "https://github.com/qoli/firefox-headless-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

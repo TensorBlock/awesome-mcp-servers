@@ -1,0 +1,24 @@
+{
+  "id": "github-lumix-labs-swift-a619e15c",
+  "name": "lumix-labs/swift",
+  "description": "Swift by Lumix Labs accelerates legacy code deployment and modernization with a Docker-based MCP server, reducing technical debt and incidents.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-lumix-labs-swift-a619e15c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lumix-labs-swift-a619e15c)",
+  "links": {
+    "primary": "https://github.com/lumix-labs/swift",
+    "repo": "https://github.com/lumix-labs/swift",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

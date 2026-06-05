@@ -1,0 +1,24 @@
+{
+  "id": "github-rux-one-hello-mcp-bfed41b6",
+  "name": "rux-one/hello-mcp",
+  "description": "Demonstrates MCP tool poisoning with a local server setup for testing purposes.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-rux-one-hello-mcp-bfed41b6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rux-one-hello-mcp-bfed41b6)",
+  "links": {
+    "primary": "https://github.com/rux-one/hello-mcp",
+    "repo": "https://github.com/rux-one/hello-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

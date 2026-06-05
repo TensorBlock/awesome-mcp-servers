@@ -1,0 +1,24 @@
+{
+  "id": "github-worldnine-url-opener-0ced6696",
+  "name": "worldnine/url-opener",
+  "description": "Facilitates opening URLs in the default browser, designed for integration with Claude Desktop.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-worldnine-url-opener-0ced6696",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-worldnine-url-opener-0ced6696)",
+  "links": {
+    "primary": "https://github.com/worldnine/url-opener",
+    "repo": "https://github.com/worldnine/url-opener",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

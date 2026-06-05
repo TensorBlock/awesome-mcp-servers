@@ -1,0 +1,24 @@
+{
+  "id": "github-mkusaka-linear-mcp-a4bd9d97",
+  "name": "mkusaka/linear-mcp",
+  "description": "Facilitates seamless management of Linear issues, projects, and teams through Cline integration.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-mkusaka-linear-mcp-a4bd9d97",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mkusaka-linear-mcp-a4bd9d97)",
+  "links": {
+    "primary": "https://github.com/mkusaka/linear-mcp",
+    "repo": "https://github.com/mkusaka/linear-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

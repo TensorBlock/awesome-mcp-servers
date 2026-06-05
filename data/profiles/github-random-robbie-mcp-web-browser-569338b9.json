@@ -1,0 +1,24 @@
+{
+  "id": "github-random-robbie-mcp-web-browser-569338b9",
+  "name": "random-robbie/mcp-web-browser",
+  "description": "Facilitates secure, headless web browsing and interaction through a flexible API using Playwright.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-random-robbie-mcp-web-browser-569338b9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-random-robbie-mcp-web-browser-569338b9)",
+  "links": {
+    "primary": "https://github.com/random-robbie/mcp-web-browser",
+    "repo": "https://github.com/random-robbie/mcp-web-browser",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-archivarix-com-tube-search-mcp-641fa2ca",
+  "name": "Archivarix-com/tube-search-mcp",
+  "description": "Search archived YouTube videos including deleted content via the Wayback Machine. 9 tools for channel discovery, full-text search, video metadata, transcripts, and AI-generated summaries. Install via `npx tube-search-mcp`. Free tier with API key.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-archivarix-com-tube-search-mcp-641fa2ca",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-archivarix-com-tube-search-mcp-641fa2ca)",
+  "links": {
+    "primary": "https://github.com/Archivarix-com/tube-search-mcp",
+    "repo": "https://github.com/Archivarix-com/tube-search-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": 9
+  }
+}

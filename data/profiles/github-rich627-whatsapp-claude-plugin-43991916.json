@@ -1,0 +1,24 @@
+{
+  "id": "github-rich627-whatsapp-claude-plugin-43991916",
+  "name": "Rich627/whatsapp-claude-plugin",
+  "description": "WhatsApp channel plugin for Claude Code. Connect WhatsApp as a native channel to your Claude Code session — send/receive messages, voice transcription, access control, and remote tool approval. Uses Baileys (no API keys needed).",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-rich627-whatsapp-claude-plugin-43991916",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rich627-whatsapp-claude-plugin-43991916)",
+  "links": {
+    "primary": "https://github.com/Rich627/whatsapp-claude-plugin",
+    "repo": "https://github.com/Rich627/whatsapp-claude-plugin",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

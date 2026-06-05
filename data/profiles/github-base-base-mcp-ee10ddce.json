@@ -1,0 +1,24 @@
+{
+  "id": "github-base-base-mcp-ee10ddce",
+  "name": "base/base-mcp",
+  "description": "Facilitates AI applications' interaction with the Base Network and Coinbase API for onchain operations, including wallet management, smart contract deployment, and NFT transactions.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-base-base-mcp-ee10ddce",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-base-base-mcp-ee10ddce)",
+  "links": {
+    "primary": "https://github.com/base/base-mcp",
+    "repo": "https://github.com/base/base-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-skeet-build-redis-64e5ec58",
+  "name": "skeet-build/redis",
+  "description": "Facilitates read-only access to Redis databases, enabling LLMs to inspect and execute Redis commands.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-skeet-build-redis-64e5ec58",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-skeet-build-redis-64e5ec58)",
+  "links": {
+    "primary": "https://github.com/skeet-build/redis",
+    "repo": "https://github.com/skeet-build/redis",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-clicksend-clicksend-mcp-server-c4c697f7",
+  "name": "ClickSend/clicksend-mcp-server",
+  "description": "Facilitates SMS and MMS messaging through ClickSend for AI assistants like Claude.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-clicksend-clicksend-mcp-server-c4c697f7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-clicksend-clicksend-mcp-server-c4c697f7)",
+  "links": {
+    "primary": "https://github.com/ClickSend/clicksend-mcp-server",
+    "repo": "https://github.com/ClickSend/clicksend-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

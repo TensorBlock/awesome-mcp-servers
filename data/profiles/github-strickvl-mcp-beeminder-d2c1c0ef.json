@@ -1,0 +1,24 @@
+{
+  "id": "github-strickvl-mcp-beeminder-d2c1c0ef",
+  "name": "strickvl/mcp-beeminder",
+  "description": "Facilitates AI-driven management of Beeminder goals through MCP-compatible server access to the Beeminder API.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-strickvl-mcp-beeminder-d2c1c0ef",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-strickvl-mcp-beeminder-d2c1c0ef)",
+  "links": {
+    "primary": "https://github.com/strickvl/mcp-beeminder",
+    "repo": "https://github.com/strickvl/mcp-beeminder",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

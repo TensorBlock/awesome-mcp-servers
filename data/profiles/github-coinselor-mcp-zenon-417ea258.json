@@ -1,0 +1,24 @@
+{
+  "id": "github-coinselor-mcp-zenon-417ea258",
+  "name": "coinselor/mcp-zenon",
+  "description": "A TypeScript starter template for building production-ready MCP servers with tools for fast development and automated version management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-coinselor-mcp-zenon-417ea258",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-coinselor-mcp-zenon-417ea258)",
+  "links": {
+    "primary": "https://github.com/coinselor/mcp-zenon",
+    "repo": "https://github.com/coinselor/mcp-zenon",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

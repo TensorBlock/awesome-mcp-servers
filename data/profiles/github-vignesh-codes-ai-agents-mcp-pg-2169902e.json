@@ -1,0 +1,24 @@
+{
+  "id": "github-vignesh-codes-ai-agents-mcp-pg-2169902e",
+  "name": "vignesh-codes/ai-agents-mcp-pg",
+  "description": "Enables LLMs to perform CRUD operations on PostgreSQL databases, facilitating seamless database interactions.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-vignesh-codes-ai-agents-mcp-pg-2169902e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vignesh-codes-ai-agents-mcp-pg-2169902e)",
+  "links": {
+    "primary": "https://github.com/vignesh-codes/ai-agents-mcp-pg",
+    "repo": "https://github.com/vignesh-codes/ai-agents-mcp-pg",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

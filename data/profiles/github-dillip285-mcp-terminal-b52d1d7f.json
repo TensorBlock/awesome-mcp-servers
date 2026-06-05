@@ -1,0 +1,24 @@
+{
+  "id": "github-dillip285-mcp-terminal-b52d1d7f",
+  "name": "dillip285/mcp-terminal",
+  "description": "A secure command-line interface server enabling AI models to interact with terminals while maintaining security and control.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-dillip285-mcp-terminal-b52d1d7f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dillip285-mcp-terminal-b52d1d7f)",
+  "links": {
+    "primary": "https://github.com/dillip285/mcp-terminal",
+    "repo": "https://github.com/dillip285/mcp-terminal",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

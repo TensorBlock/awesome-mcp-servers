@@ -1,0 +1,24 @@
+{
+  "id": "github-terrytaylorbonn-348-mcp-github-980b241a",
+  "name": "terrytaylorbonn/348_mcp_github",
+  "description": "A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for LLMs.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-terrytaylorbonn-348-mcp-github-980b241a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-terrytaylorbonn-348-mcp-github-980b241a)",
+  "links": {
+    "primary": "https://github.com/terrytaylorbonn/348_mcp_github",
+    "repo": "https://github.com/terrytaylorbonn/348_mcp_github",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

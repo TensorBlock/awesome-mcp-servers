@@ -1,0 +1,24 @@
+{
+  "id": "github-beihaili-get-started-with-web3-585e147d",
+  "name": "beihaili/Get-Started-with-Web3",
+  "description": "Read-only MCP server exposing a bilingual Web3 curriculum with 58 lessons, glossary search, learning paths, llms.txt, and citation-ready context packs for AI tutors and coding agents.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-beihaili-get-started-with-web3-585e147d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-beihaili-get-started-with-web3-585e147d)",
+  "links": {
+    "primary": "https://github.com/beihaili/Get-Started-with-Web3",
+    "repo": "https://github.com/beihaili/Get-Started-with-Web3",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-asirulnik-mcp-law-office-db-beb7c839",
+  "name": "asirulnik/mcp-law-office-db",
+  "description": "Facilitates efficient management of law office databases, focusing on client records, case filing, time tracking, and invoice management.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-asirulnik-mcp-law-office-db-beb7c839",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-asirulnik-mcp-law-office-db-beb7c839)",
+  "links": {
+    "primary": "https://github.com/asirulnik/mcp-law-office-db",
+    "repo": "https://github.com/asirulnik/mcp-law-office-db",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

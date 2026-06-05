@@ -1,0 +1,24 @@
+{
+  "id": "github-apimatic-apimatic-validator-mcp-7c98b5b8",
+  "name": "apimatic/apimatic-validator-mcp",
+  "description": "Facilitates the validation of OpenAPI specifications using APIMatic's API through an MCP server.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-apimatic-apimatic-validator-mcp-7c98b5b8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-apimatic-apimatic-validator-mcp-7c98b5b8)",
+  "links": {
+    "primary": "https://github.com/apimatic/apimatic-validator-mcp",
+    "repo": "https://github.com/apimatic/apimatic-validator-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

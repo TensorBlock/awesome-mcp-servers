@@ -1,0 +1,24 @@
+{
+  "id": "github-jindalsaj-product-description-mcp-bff7e528",
+  "name": "jindalsaj/product-description-mcp",
+  "description": "Transforms spreadsheets by analyzing product images to generate detailed descriptions using vision AI.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-jindalsaj-product-description-mcp-bff7e528",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jindalsaj-product-description-mcp-bff7e528)",
+  "links": {
+    "primary": "https://github.com/jindalsaj/product-description-mcp",
+    "repo": "https://github.com/jindalsaj/product-description-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

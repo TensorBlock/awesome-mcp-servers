@@ -1,0 +1,24 @@
+{
+  "id": "github-objones25-remote-cloudflare-youtube-transcript-mcp-server-7223455f",
+  "name": "objones25/remote-cloudflare-youtube-transcript-mcp-server",
+  "description": "A serverless MCP server deployed on Cloudflare Workers for extracting YouTube video transcripts with support for multiple languages and ultra-fast response times.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-objones25-remote-cloudflare-youtube-transcript-mcp-server-7223455f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-objones25-remote-cloudflare-youtube-transcript-mcp-server-7223455f)",
+  "links": {
+    "primary": "https://github.com/objones25/remote-cloudflare-youtube-transcript-mcp-server",
+    "repo": "https://github.com/objones25/remote-cloudflare-youtube-transcript-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

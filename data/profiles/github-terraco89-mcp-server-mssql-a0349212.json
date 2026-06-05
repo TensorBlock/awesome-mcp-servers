@@ -1,0 +1,24 @@
+{
+  "id": "github-terraco89-mcp-server-mssql-a0349212",
+  "name": "TerraCo89/mcp-server-mssql",
+  "description": "Facilitates secure interaction with MS SQL Server databases using AI assistants via the Model Context Protocol.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-terraco89-mcp-server-mssql-a0349212",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-terraco89-mcp-server-mssql-a0349212)",
+  "links": {
+    "primary": "https://github.com/TerraCo89/mcp-server-mssql",
+    "repo": "https://github.com/TerraCo89/mcp-server-mssql",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
