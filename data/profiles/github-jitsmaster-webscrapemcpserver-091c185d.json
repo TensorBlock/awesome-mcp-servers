@@ -1,0 +1,24 @@
+{
+  "id": "github-jitsmaster-webscrapemcpserver-091c185d",
+  "name": "jitsmaster/WebScrapeMCPServer",
+  "description": "Facilitates web crawling tasks with customizable depth and concurrency settings, accessible via MCP.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-jitsmaster-webscrapemcpserver-091c185d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jitsmaster-webscrapemcpserver-091c185d)",
+  "links": {
+    "primary": "https://github.com/jitsmaster/WebScrapeMCPServer",
+    "repo": "https://github.com/jitsmaster/WebScrapeMCPServer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

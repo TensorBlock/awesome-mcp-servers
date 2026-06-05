@@ -1,0 +1,24 @@
+{
+  "id": "github-sseaan-mcp-server-inbox-cdfefdcd",
+  "name": "sseaan/mcp-server-inbox",
+  "description": "Facilitates the sending of notes to the Inbox API using the Model Context Protocol.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-sseaan-mcp-server-inbox-cdfefdcd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sseaan-mcp-server-inbox-cdfefdcd)",
+  "links": {
+    "primary": "https://github.com/sseaan/mcp-server-inbox",
+    "repo": "https://github.com/sseaan/mcp-server-inbox",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

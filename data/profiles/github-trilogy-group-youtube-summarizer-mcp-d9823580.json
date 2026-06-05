@@ -1,0 +1,24 @@
+{
+  "id": "github-trilogy-group-youtube-summarizer-mcp-d9823580",
+  "name": "trilogy-group/youtube-summarizer-mcp",
+  "description": "Facilitates AI integration with YouTube summarization tools via the MCP protocol, supporting local connections for enhanced media content processing.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-trilogy-group-youtube-summarizer-mcp-d9823580",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-trilogy-group-youtube-summarizer-mcp-d9823580)",
+  "links": {
+    "primary": "https://github.com/trilogy-group/youtube-summarizer-mcp",
+    "repo": "https://github.com/trilogy-group/youtube-summarizer-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

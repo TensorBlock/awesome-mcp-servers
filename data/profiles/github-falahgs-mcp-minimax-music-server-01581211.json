@@ -1,0 +1,24 @@
+{
+  "id": "github-falahgs-mcp-minimax-music-server-01581211",
+  "name": "falahgs/mcp-minimax-music-server",
+  "description": "Facilitates AI-driven music and audio content creation through the MiniMax Music API, seamlessly integrating with Claude Desktop.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-falahgs-mcp-minimax-music-server-01581211",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-falahgs-mcp-minimax-music-server-01581211)",
+  "links": {
+    "primary": "https://github.com/falahgs/mcp-minimax-music-server",
+    "repo": "https://github.com/falahgs/mcp-minimax-music-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

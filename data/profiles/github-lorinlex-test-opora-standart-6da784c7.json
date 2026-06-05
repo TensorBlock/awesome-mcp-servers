@@ -1,0 +1,24 @@
+{
+  "id": "github-lorinlex-test-opora-standart-6da784c7",
+  "name": "LorinLex/test-opora-standart",
+  "description": "Facilitates file searching by path fragment using a customizable MCP server setup.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-lorinlex-test-opora-standart-6da784c7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lorinlex-test-opora-standart-6da784c7)",
+  "links": {
+    "primary": "https://github.com/LorinLex/test-opora-standart",
+    "repo": "https://github.com/LorinLex/test-opora-standart",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

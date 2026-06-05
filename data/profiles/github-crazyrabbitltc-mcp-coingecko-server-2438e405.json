@@ -1,0 +1,24 @@
+{
+  "id": "github-crazyrabbitltc-mcp-coingecko-server-2438e405",
+  "name": "crazyrabbitLTC/mcp-coingecko-server",
+  "description": "Facilitates seamless interaction with the CoinGecko Pro API, offering cryptocurrency data retrieval and integration with OpenAI function calling.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-crazyrabbitltc-mcp-coingecko-server-2438e405",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-crazyrabbitltc-mcp-coingecko-server-2438e405)",
+  "links": {
+    "primary": "https://github.com/crazyrabbitLTC/mcp-coingecko-server",
+    "repo": "https://github.com/crazyrabbitLTC/mcp-coingecko-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

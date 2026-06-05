@@ -1,0 +1,24 @@
+{
+  "id": "github-iaalm-rongda-mcp-server-4cf0d8b4",
+  "name": "iaalm/rongda-mcp-server",
+  "description": "Facilitates the setup and execution of the Rongda MCP server with customizable environment variables.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-iaalm-rongda-mcp-server-4cf0d8b4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iaalm-rongda-mcp-server-4cf0d8b4)",
+  "links": {
+    "primary": "https://github.com/iaalm/rongda-mcp-server",
+    "repo": "https://github.com/iaalm/rongda-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

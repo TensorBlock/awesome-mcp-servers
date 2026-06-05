@@ -1,0 +1,24 @@
+{
+  "id": "github-ctvidic-whoop-mcp-server-edcd2d0d",
+  "name": "ctvidic/whoop-mcp-server",
+  "description": "Access Whoop API data for cycles, recovery, strain, and workouts via a Python-based MCP server.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-ctvidic-whoop-mcp-server-edcd2d0d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ctvidic-whoop-mcp-server-edcd2d0d)",
+  "links": {
+    "primary": "https://github.com/ctvidic/whoop-mcp-server",
+    "repo": "https://github.com/ctvidic/whoop-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

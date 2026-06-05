@@ -1,0 +1,24 @@
+{
+  "id": "github-0xsl1m-cerebrus-pulse-mcp-0e96ee19",
+  "name": "0xsl1m/cerebrus-pulse-mcp",
+  "description": "Real-time crypto intelligence for Hyperliquid perpetuals — RSI, EMAs, Bollinger Bands, funding rates, and sentiment for 30+ assets. Pay-per-call via x402 micropayments (USDC on Base).",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-0xsl1m-cerebrus-pulse-mcp-0e96ee19",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-0xsl1m-cerebrus-pulse-mcp-0e96ee19)",
+  "links": {
+    "primary": "https://github.com/0xsl1m/cerebrus-pulse-mcp",
+    "repo": "https://github.com/0xsl1m/cerebrus-pulse-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-wrale-mcp-server-tree-sitter-ff5150ff",
+  "name": "wrale/mcp-server-tree-sitter",
+  "description": "Enhances code analysis with tree-sitter, offering language-agnostic, structure-aware insights for intelligent codebase exploration.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-wrale-mcp-server-tree-sitter-ff5150ff",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wrale-mcp-server-tree-sitter-ff5150ff)",
+  "links": {
+    "primary": "https://github.com/wrale/mcp-server-tree-sitter",
+    "repo": "https://github.com/wrale/mcp-server-tree-sitter",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

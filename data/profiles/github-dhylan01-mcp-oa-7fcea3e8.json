@@ -1,0 +1,24 @@
+{
+  "id": "github-dhylan01-mcp-oa-7fcea3e8",
+  "name": "dhylan01/MCP_OA",
+  "description": "Facilitates AI assistants in analyzing code by identifying function usage within Python and TypeScript/TSX files.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-dhylan01-mcp-oa-7fcea3e8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dhylan01-mcp-oa-7fcea3e8)",
+  "links": {
+    "primary": "https://github.com/dhylan01/MCP_OA",
+    "repo": "https://github.com/dhylan01/MCP_OA",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

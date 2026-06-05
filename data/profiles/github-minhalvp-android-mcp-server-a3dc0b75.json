@@ -1,0 +1,24 @@
+{
+  "id": "github-minhalvp-android-mcp-server-a3dc0b75",
+  "name": "minhalvp/android-mcp-server",
+  "description": "Facilitates programmatic control over Android devices using ADB, enabling device management through MCP clients.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-minhalvp-android-mcp-server-a3dc0b75",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-minhalvp-android-mcp-server-a3dc0b75)",
+  "links": {
+    "primary": "https://github.com/minhalvp/android-mcp-server",
+    "repo": "https://github.com/minhalvp/android-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

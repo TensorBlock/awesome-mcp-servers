@@ -1,0 +1,24 @@
+{
+  "id": "github-cafferychen777-chatspatial-7f04a639",
+  "name": "cafferychen777/ChatSpatial",
+  "description": "Enables spatial transcriptomics analysis through natural language, integrating 60+ methods for spatial domains, deconvolution, cell communication, and trajectory analysis across Visium, Xenium, MERFISH and more.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-cafferychen777-chatspatial-7f04a639",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cafferychen777-chatspatial-7f04a639)",
+  "links": {
+    "primary": "https://github.com/cafferychen777/ChatSpatial",
+    "repo": "https://github.com/cafferychen777/ChatSpatial",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

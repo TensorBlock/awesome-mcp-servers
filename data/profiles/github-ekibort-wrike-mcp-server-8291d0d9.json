@@ -1,0 +1,24 @@
+{
+  "id": "github-ekibort-wrike-mcp-server-8291d0d9",
+  "name": "EKibort/wrike-mcp-server",
+  "description": "Facilitates integration between Wrike's project management platform and Language Learning Models through a lightweight MCP server.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-ekibort-wrike-mcp-server-8291d0d9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ekibort-wrike-mcp-server-8291d0d9)",
+  "links": {
+    "primary": "https://github.com/EKibort/wrike-mcp-server",
+    "repo": "https://github.com/EKibort/wrike-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

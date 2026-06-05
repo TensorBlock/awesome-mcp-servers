@@ -1,0 +1,24 @@
+{
+  "id": "github-blackfrogai-crypto-mcp-7a730768",
+  "name": "blackfrogai/crypto-mcp",
+  "description": "Facilitates secure and controlled interactions between LLMs and blockchain technologies, enabling applications like DeFi analysis and NFT management.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-blackfrogai-crypto-mcp-7a730768",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-blackfrogai-crypto-mcp-7a730768)",
+  "links": {
+    "primary": "https://github.com/blackfrogai/crypto-mcp",
+    "repo": "https://github.com/blackfrogai/crypto-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-oopsyz-mcp-f2391c05",
+  "name": "oopsyz/mcp",
+  "description": "Facilitates AI agents' interaction with TMF620 Product Catalog Management API, enabling catalog and product management operations.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-oopsyz-mcp-f2391c05",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-oopsyz-mcp-f2391c05)",
+  "links": {
+    "primary": "https://github.com/oopsyz/mcp",
+    "repo": "https://github.com/oopsyz/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

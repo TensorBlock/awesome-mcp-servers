@@ -1,0 +1,24 @@
+{
+  "id": "github-brandon-butterwick-mrp-calculation-56663acd",
+  "name": "brandon-butterwick/MRP_Calculation",
+  "description": "Facilitates Material Requirements Planning calculations by determining order needs and delivery schedules using the Model Context Protocol.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-brandon-butterwick-mrp-calculation-56663acd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-brandon-butterwick-mrp-calculation-56663acd)",
+  "links": {
+    "primary": "https://github.com/brandon-butterwick/MRP_Calculation",
+    "repo": "https://github.com/brandon-butterwick/MRP_Calculation",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

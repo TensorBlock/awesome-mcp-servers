@@ -1,0 +1,24 @@
+{
+  "id": "github-bhagyaamarasinghe-mcp-kubernetes-04c0cf65",
+  "name": "BhagyaAmarasinghe/mcp-kubernetes",
+  "description": "Facilitates the execution of Kubernetes commands via Claude Desktop or any MCP-compatible client.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-bhagyaamarasinghe-mcp-kubernetes-04c0cf65",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bhagyaamarasinghe-mcp-kubernetes-04c0cf65)",
+  "links": {
+    "primary": "https://github.com/BhagyaAmarasinghe/mcp-kubernetes",
+    "repo": "https://github.com/BhagyaAmarasinghe/mcp-kubernetes",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

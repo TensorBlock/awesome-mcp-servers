@@ -1,0 +1,24 @@
+{
+  "id": "github-stuartphilp-incident-io-mcp-server-2c2c36c2",
+  "name": "stuartphilp/incident-io-mcp-server",
+  "description": "Facilitates integration with Incident.io by providing a Model Context Protocol server for managing incidents and severities.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-stuartphilp-incident-io-mcp-server-2c2c36c2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stuartphilp-incident-io-mcp-server-2c2c36c2)",
+  "links": {
+    "primary": "https://github.com/stuartphilp/incident-io-mcp-server",
+    "repo": "https://github.com/stuartphilp/incident-io-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

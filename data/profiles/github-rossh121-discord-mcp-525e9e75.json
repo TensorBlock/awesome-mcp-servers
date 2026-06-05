@@ -1,0 +1,24 @@
+{
+  "id": "github-rossh121-discord-mcp-525e9e75",
+  "name": "RossH121/discord-mcp",
+  "description": "Integrates Claude with Discord, enabling message management and server resource handling via MCP.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-rossh121-discord-mcp-525e9e75",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rossh121-discord-mcp-525e9e75)",
+  "links": {
+    "primary": "https://github.com/RossH121/discord-mcp",
+    "repo": "https://github.com/RossH121/discord-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

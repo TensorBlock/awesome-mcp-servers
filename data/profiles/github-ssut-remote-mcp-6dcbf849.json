@@ -1,0 +1,24 @@
+{
+  "id": "github-ssut-remote-mcp-6dcbf849",
+  "name": "ssut/Remote-MCP",
+  "description": "Facilitates type-safe remote communication for centralized management of model contexts.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-ssut-remote-mcp-6dcbf849",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ssut-remote-mcp-6dcbf849)",
+  "links": {
+    "primary": "https://github.com/ssut/Remote-MCP",
+    "repo": "https://github.com/ssut/Remote-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

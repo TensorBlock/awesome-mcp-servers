@@ -1,0 +1,24 @@
+{
+  "id": "github-ue-sho-mcp-obsidian-kotlin-c23ee231",
+  "name": "ue-sho/mcp-obsidian-kotlin",
+  "description": "Facilitates AI-driven interactions with Obsidian notes through a Kotlin-based MCP server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-ue-sho-mcp-obsidian-kotlin-c23ee231",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ue-sho-mcp-obsidian-kotlin-c23ee231)",
+  "links": {
+    "primary": "https://github.com/ue-sho/mcp-obsidian-kotlin",
+    "repo": "https://github.com/ue-sho/mcp-obsidian-kotlin",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

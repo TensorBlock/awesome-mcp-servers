@@ -1,0 +1,24 @@
+{
+  "id": "github-kukapay-pancakeswap-poolspy-mcp-06d50f73",
+  "name": "kukapay/pancakeswap-poolspy-mcp",
+  "description": "Tracks newly created liquidity pools on Pancake Swap, offering real-time data for DeFi analysts, traders, and developers.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-pancakeswap-poolspy-mcp-06d50f73",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-pancakeswap-poolspy-mcp-06d50f73)",
+  "links": {
+    "primary": "https://github.com/kukapay/pancakeswap-poolspy-mcp",
+    "repo": "https://github.com/kukapay/pancakeswap-poolspy-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

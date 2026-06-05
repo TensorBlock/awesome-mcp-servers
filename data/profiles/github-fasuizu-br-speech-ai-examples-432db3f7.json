@@ -1,0 +1,24 @@
+{
+  "id": "github-fasuizu-br-speech-ai-examples-432db3f7",
+  "name": "fasuizu-br/speech-ai-examples",
+  "description": "Speech AI MCP server with pronunciation assessment (phoneme-level scoring, 17MB model, <300ms), text-to-speech, and speech-to-text. 8 tools for AI agents building language learning, accessibility, and voice applications.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-fasuizu-br-speech-ai-examples-432db3f7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fasuizu-br-speech-ai-examples-432db3f7)",
+  "links": {
+    "primary": "https://github.com/fasuizu-br/speech-ai-examples",
+    "repo": "https://github.com/fasuizu-br/speech-ai-examples",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 8
+  }
+}
