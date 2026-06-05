@@ -1,0 +1,24 @@
+{
+  "id": "github-xpn-mythic-mcp-5c8d5493",
+  "name": "xpn/mythic_mcp",
+  "description": "A proof-of-concept MCP server that integrates Mythic for automated pentesting using LLMs.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-xpn-mythic-mcp-5c8d5493",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xpn-mythic-mcp-5c8d5493)",
+  "links": {
+    "primary": "https://github.com/xpn/mythic_mcp",
+    "repo": "https://github.com/xpn/mythic_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

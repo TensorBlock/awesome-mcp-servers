@@ -1,0 +1,24 @@
+{
+  "id": "github-halllo-mcpexperiments-7af8e641",
+  "name": "halllo/McpExperiments",
+  "description": "A dotnet MCP server and client setup for local LLM integration, featuring time retrieval and OAuth server middleware experiments.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-halllo-mcpexperiments-7af8e641",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-halllo-mcpexperiments-7af8e641)",
+  "links": {
+    "primary": "https://github.com/halllo/McpExperiments",
+    "repo": "https://github.com/halllo/McpExperiments",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-okto-hq-okto-mcp-server-631afe62",
+  "name": "okto-hq/okto-mcp-server",
+  "description": "Facilitates AI-driven management of Web3 transactions and portfolios with seamless authentication and multi-chain support.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-okto-hq-okto-mcp-server-631afe62",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-okto-hq-okto-mcp-server-631afe62)",
+  "links": {
+    "primary": "https://github.com/okto-hq/okto-mcp-server",
+    "repo": "https://github.com/okto-hq/okto-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

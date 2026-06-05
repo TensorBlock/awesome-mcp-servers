@@ -1,0 +1,25 @@
+{
+  "id": "github-adisuryanathan-supercorp-ai-supergateway-0484cb1e",
+  "name": "adisuryanathan/supercorp-ai_supergateway",
+  "description": "Supergateway facilitates running MCP stdio-based servers over SSE or WebSockets, enabling seamless remote access and integration with web-based clients.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-adisuryanathan-supercorp-ai-supergateway-0484cb1e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adisuryanathan-supercorp-ai-supergateway-0484cb1e)",
+  "links": {
+    "primary": "https://github.com/adisuryanathan/supercorp-ai_supergateway",
+    "repo": "https://github.com/adisuryanathan/supercorp-ai_supergateway",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

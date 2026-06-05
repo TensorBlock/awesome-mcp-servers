@@ -1,0 +1,24 @@
+{
+  "id": "github-snjyor-binance-mcp-92feaa42",
+  "name": "snjyor/binance-mcp",
+  "description": "Facilitates AI agents in accessing real-time Binance cryptocurrency market data through MCP service.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-snjyor-binance-mcp-92feaa42",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-snjyor-binance-mcp-92feaa42)",
+  "links": {
+    "primary": "https://github.com/snjyor/binance-mcp",
+    "repo": "https://github.com/snjyor/binance-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

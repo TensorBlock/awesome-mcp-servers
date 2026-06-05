@@ -1,0 +1,24 @@
+{
+  "id": "github-freespirits-social-auto-engine-b02554bb",
+  "name": "Freespirits/social-auto-engine",
+  "description": "Open-source multi-platform social media manager. Publish to Facebook, Instagram, Threads, WhatsApp, and LinkedIn from one dashboard or via MCP; TikTok and YouTube adapters await platform review. FastAPI/HTMX approval queue (no silent automation), 17 AI content skills (voice training, post writing, carousels). MIT, self-hosted.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-freespirits-social-auto-engine-b02554bb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-freespirits-social-auto-engine-b02554bb)",
+  "links": {
+    "primary": "https://github.com/Freespirits/social-auto-engine",
+    "repo": "https://github.com/Freespirits/social-auto-engine",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-wjessup-github-mcp-server-review-tools-3a2d82fe",
+  "name": "wjessup/github-mcp-server-review-tools",
+  "description": "Enhance GitHub pull request review processes with extended MCP server tools for managing comments and threads.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-wjessup-github-mcp-server-review-tools-3a2d82fe",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wjessup-github-mcp-server-review-tools-3a2d82fe)",
+  "links": {
+    "primary": "https://github.com/wjessup/github-mcp-server-review-tools",
+    "repo": "https://github.com/wjessup/github-mcp-server-review-tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

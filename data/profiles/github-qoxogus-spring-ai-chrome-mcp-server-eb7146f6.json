@@ -1,0 +1,24 @@
+{
+  "id": "github-qoxogus-spring-ai-chrome-mcp-server-eb7146f6",
+  "name": "qoxogus/spring-ai-chrome-mcp-server",
+  "description": "Facilitates interaction with Chrome browser through a Spring-based MCP server, enabling automated tasks like searching, navigating, and summarizing content.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-qoxogus-spring-ai-chrome-mcp-server-eb7146f6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qoxogus-spring-ai-chrome-mcp-server-eb7146f6)",
+  "links": {
+    "primary": "https://github.com/qoxogus/spring-ai-chrome-mcp-server",
+    "repo": "https://github.com/qoxogus/spring-ai-chrome-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

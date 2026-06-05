@@ -1,0 +1,24 @@
+{
+  "id": "github-giannisalinetti-python-mcp-server-40bb54a4",
+  "name": "giannisalinetti/python-mcp-server",
+  "description": "Facilitates Python code execution for web scraping tasks using an LLM, leveraging Podman for container management.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-giannisalinetti-python-mcp-server-40bb54a4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-giannisalinetti-python-mcp-server-40bb54a4)",
+  "links": {
+    "primary": "https://github.com/giannisalinetti/python-mcp-server",
+    "repo": "https://github.com/giannisalinetti/python-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

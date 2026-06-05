@@ -1,0 +1,24 @@
+{
+  "id": "github-opentraa-traa-mcp-77739eb0",
+  "name": "opentraa/traa-mcp",
+  "description": "TRAA MCP Server facilitates screen capture and enumeration of system screens and windows, utilizing the Model Context Protocol for communication.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-opentraa-traa-mcp-77739eb0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-opentraa-traa-mcp-77739eb0)",
+  "links": {
+    "primary": "https://github.com/opentraa/traa-mcp",
+    "repo": "https://github.com/opentraa/traa-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

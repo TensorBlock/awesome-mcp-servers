@@ -1,0 +1,24 @@
+{
+  "id": "github-flyer103-notion-mcp-ccc0203c",
+  "name": "flyer103/notion-mcp",
+  "description": "Facilitates AI model interactions with Notion documents and data through a Model Context Protocol server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-flyer103-notion-mcp-ccc0203c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-flyer103-notion-mcp-ccc0203c)",
+  "links": {
+    "primary": "https://github.com/flyer103/notion-mcp",
+    "repo": "https://github.com/flyer103/notion-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

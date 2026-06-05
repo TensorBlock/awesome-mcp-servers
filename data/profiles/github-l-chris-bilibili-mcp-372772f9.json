@@ -1,0 +1,24 @@
+{
+  "id": "github-l-chris-bilibili-mcp-372772f9",
+  "name": "L-Chris/bilibili-mcp",
+  "description": "Facilitates interaction with Bilibili content, offering search, subtitle retrieval, and video information services.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-l-chris-bilibili-mcp-372772f9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-l-chris-bilibili-mcp-372772f9)",
+  "links": {
+    "primary": "https://github.com/L-Chris/bilibili-mcp",
+    "repo": "https://github.com/L-Chris/bilibili-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

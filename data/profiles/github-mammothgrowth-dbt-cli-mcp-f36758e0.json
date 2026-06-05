@@ -1,0 +1,24 @@
+{
+  "id": "github-mammothgrowth-dbt-cli-mcp-f36758e0",
+  "name": "MammothGrowth/dbt-cli-mcp",
+  "description": "Facilitates AI-driven interactions with dbt projects via a command-line interface, supporting major dbt operations through MCP tools.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-mammothgrowth-dbt-cli-mcp-f36758e0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mammothgrowth-dbt-cli-mcp-f36758e0)",
+  "links": {
+    "primary": "https://github.com/MammothGrowth/dbt-cli-mcp",
+    "repo": "https://github.com/MammothGrowth/dbt-cli-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

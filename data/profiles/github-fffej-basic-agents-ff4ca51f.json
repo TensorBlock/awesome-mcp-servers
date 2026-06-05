@@ -1,0 +1,24 @@
+{
+  "id": "github-fffej-basic-agents-ff4ca51f",
+  "name": "fffej/basic-agents",
+  "description": "A versatile MCP server facilitating command execution and directory management on WSL and Linux systems.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-fffej-basic-agents-ff4ca51f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fffej-basic-agents-ff4ca51f)",
+  "links": {
+    "primary": "https://github.com/fffej/basic-agents",
+    "repo": "https://github.com/fffej/basic-agents",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

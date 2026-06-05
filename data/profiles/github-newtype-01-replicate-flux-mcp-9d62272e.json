@@ -1,0 +1,24 @@
+{
+  "id": "github-newtype-01-replicate-flux-mcp-9d62272e",
+  "name": "newtype-01/replicate-flux-mcp",
+  "description": "Facilitates image generation using the Flux AI model on Replicate with customizable parameters and seamless integration with MCP-compatible applications.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-newtype-01-replicate-flux-mcp-9d62272e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-newtype-01-replicate-flux-mcp-9d62272e)",
+  "links": {
+    "primary": "https://github.com/newtype-01/replicate-flux-mcp",
+    "repo": "https://github.com/newtype-01/replicate-flux-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
