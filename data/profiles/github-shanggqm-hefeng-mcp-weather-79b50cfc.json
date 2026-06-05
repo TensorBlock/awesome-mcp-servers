@@ -1,0 +1,24 @@
+{
+  "id": "github-shanggqm-hefeng-mcp-weather-79b50cfc",
+  "name": "shanggqm/hefeng-mcp-weather",
+  "description": "Provides weather forecast data for locations in China via the HeFeng Weather API.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-shanggqm-hefeng-mcp-weather-79b50cfc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shanggqm-hefeng-mcp-weather-79b50cfc)",
+  "links": {
+    "primary": "https://github.com/shanggqm/hefeng-mcp-weather",
+    "repo": "https://github.com/shanggqm/hefeng-mcp-weather",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-shariqriazz-mcp-ragdocs-5296cbd0",
+  "name": "shariqriazz/mcp-ragdocs",
+  "description": "Facilitates AI assistants in augmenting responses with relevant documentation context through vector search, supporting multiple embedding providers and using Qdrant as the vector database.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-shariqriazz-mcp-ragdocs-5296cbd0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shariqriazz-mcp-ragdocs-5296cbd0)",
+  "links": {
+    "primary": "https://github.com/shariqriazz/mcp-ragdocs",
+    "repo": "https://github.com/shariqriazz/mcp-ragdocs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

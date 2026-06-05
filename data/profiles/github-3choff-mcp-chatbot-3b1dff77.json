@@ -1,0 +1,24 @@
+{
+  "id": "github-3choff-mcp-chatbot-3b1dff77",
+  "name": "3choff/mcp-chatbot",
+  "description": "A CLI chatbot showcasing the integration of multiple MCP servers for dynamic tool support with any LLM provider following OpenAI API standards.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-3choff-mcp-chatbot-3b1dff77",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-3choff-mcp-chatbot-3b1dff77)",
+  "links": {
+    "primary": "https://github.com/3choff/mcp-chatbot",
+    "repo": "https://github.com/3choff/mcp-chatbot",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

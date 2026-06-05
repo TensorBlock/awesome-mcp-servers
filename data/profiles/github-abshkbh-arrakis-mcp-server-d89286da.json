@@ -1,0 +1,24 @@
+{
+  "id": "github-abshkbh-arrakis-mcp-server-d89286da",
+  "name": "abshkbh/arrakis-mcp-server",
+  "description": "Facilitates LLM interaction with Arrakis VM sandboxes through a Model Context Protocol server.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-abshkbh-arrakis-mcp-server-d89286da",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abshkbh-arrakis-mcp-server-d89286da)",
+  "links": {
+    "primary": "https://github.com/abshkbh/arrakis-mcp-server",
+    "repo": "https://github.com/abshkbh/arrakis-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

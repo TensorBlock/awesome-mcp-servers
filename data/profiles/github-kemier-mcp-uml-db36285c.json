@@ -1,0 +1,24 @@
+{
+  "id": "github-kemier-mcp-uml-db36285c",
+  "name": "kemier/mcp-uml",
+  "description": "UML-MCP facilitates seamless UML diagram generation through an MCP interface, supporting various diagram types and output formats.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-kemier-mcp-uml-db36285c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kemier-mcp-uml-db36285c)",
+  "links": {
+    "primary": "https://github.com/kemier/mcp-uml",
+    "repo": "https://github.com/kemier/mcp-uml",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

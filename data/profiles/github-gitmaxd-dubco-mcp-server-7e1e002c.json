@@ -1,0 +1,24 @@
+{
+  "id": "github-gitmaxd-dubco-mcp-server-7e1e002c",
+  "name": "Gitmaxd/dubco-mcp-server",
+  "description": "Facilitates AI-driven management of short links via Dub.co's API.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-gitmaxd-dubco-mcp-server-7e1e002c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gitmaxd-dubco-mcp-server-7e1e002c)",
+  "links": {
+    "primary": "https://github.com/Gitmaxd/dubco-mcp-server",
+    "repo": "https://github.com/Gitmaxd/dubco-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-vurtnec-mcp-lancedb-node-8cac0f00",
+  "name": "vurtnec/mcp-LanceDB-node",
+  "description": "Node.js server for vector search using LanceDB and Ollama's embedding model, integrated as an MCP service.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-vurtnec-mcp-lancedb-node-8cac0f00",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vurtnec-mcp-lancedb-node-8cac0f00)",
+  "links": {
+    "primary": "https://github.com/vurtnec/mcp-LanceDB-node",
+    "repo": "https://github.com/vurtnec/mcp-LanceDB-node",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

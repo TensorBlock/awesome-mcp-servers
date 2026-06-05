@@ -1,0 +1,24 @@
+{
+  "id": "github-leciami-youtube-mcp-help-ed87c576",
+  "name": "leciami/YouTube-MCP-help",
+  "description": "A request for assistance in integrating YouTube API functionality into an existing MCP server configuration.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-leciami-youtube-mcp-help-ed87c576",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-leciami-youtube-mcp-help-ed87c576)",
+  "links": {
+    "primary": "https://github.com/leciami/YouTube-MCP-help",
+    "repo": "https://github.com/leciami/YouTube-MCP-help",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

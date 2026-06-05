@@ -1,0 +1,24 @@
+{
+  "id": "github-skeet-build-opensearch-8523e2d5",
+  "name": "skeet-build/opensearch",
+  "description": "Facilitates read-only access to OpenSearch clusters, allowing LLMs to inspect indices and execute queries.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-skeet-build-opensearch-8523e2d5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-skeet-build-opensearch-8523e2d5)",
+  "links": {
+    "primary": "https://github.com/skeet-build/opensearch",
+    "repo": "https://github.com/skeet-build/opensearch",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

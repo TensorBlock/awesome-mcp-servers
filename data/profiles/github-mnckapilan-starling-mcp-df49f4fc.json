@@ -1,0 +1,24 @@
+{
+  "id": "github-mnckapilan-starling-mcp-df49f4fc",
+  "name": "mnckapilan/starling_mcp",
+  "description": "Facilitates AI model interactions with Starling Bank API endpoints for account management, transactions, and more.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-mnckapilan-starling-mcp-df49f4fc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mnckapilan-starling-mcp-df49f4fc)",
+  "links": {
+    "primary": "https://github.com/mnckapilan/starling_mcp",
+    "repo": "https://github.com/mnckapilan/starling_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

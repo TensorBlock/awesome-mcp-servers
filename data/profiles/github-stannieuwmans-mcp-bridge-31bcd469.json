@@ -1,0 +1,25 @@
+{
+  "id": "github-stannieuwmans-mcp-bridge-31bcd469",
+  "name": "StanNieuwmans/mcp-bridge",
+  "description": "Facilitates communication between Claude Desktop and MCP-compatible backends by bridging STDIO and SSE protocols.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-stannieuwmans-mcp-bridge-31bcd469",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stannieuwmans-mcp-bridge-31bcd469)",
+  "links": {
+    "primary": "https://github.com/StanNieuwmans/mcp-bridge",
+    "repo": "https://github.com/StanNieuwmans/mcp-bridge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

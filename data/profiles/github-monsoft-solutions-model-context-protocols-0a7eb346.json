@@ -1,0 +1,24 @@
+{
+  "id": "github-monsoft-solutions-model-context-protocols-0a7eb346",
+  "name": "Monsoft-Solutions/model-context-protocols",
+  "description": "Enhance AI assistant capabilities with Monsoft's Model Context Protocols, enabling additional functions and external resource access.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-monsoft-solutions-model-context-protocols-0a7eb346",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-monsoft-solutions-model-context-protocols-0a7eb346)",
+  "links": {
+    "primary": "https://github.com/Monsoft-Solutions/model-context-protocols",
+    "repo": "https://github.com/Monsoft-Solutions/model-context-protocols",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

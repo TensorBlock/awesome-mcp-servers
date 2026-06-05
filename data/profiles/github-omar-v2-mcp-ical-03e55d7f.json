@@ -1,0 +1,24 @@
+{
+  "id": "github-omar-v2-mcp-ical-03e55d7f",
+  "name": "Omar-V2/mcp-ical",
+  "description": "Interact with your macOS Calendar using natural language through a Model Context Protocol server.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-omar-v2-mcp-ical-03e55d7f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-omar-v2-mcp-ical-03e55d7f)",
+  "links": {
+    "primary": "https://github.com/Omar-V2/mcp-ical",
+    "repo": "https://github.com/Omar-V2/mcp-ical",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

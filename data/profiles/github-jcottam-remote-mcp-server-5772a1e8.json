@@ -1,0 +1,24 @@
+{
+  "id": "github-jcottam-remote-mcp-server-5772a1e8",
+  "name": "jcottam/remote-mcp-server",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-jcottam-remote-mcp-server-5772a1e8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jcottam-remote-mcp-server-5772a1e8)",
+  "links": {
+    "primary": "https://github.com/jcottam/remote-mcp-server",
+    "repo": "https://github.com/jcottam/remote-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-adairrr-cosmwasm-mcp-a1be44ce",
+  "name": "adairrr/cosmwasm-mcp",
+  "description": "Facilitates AI-driven management and interaction with CosmWasm smart contracts using a Rust-based MCP server.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-adairrr-cosmwasm-mcp-a1be44ce",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adairrr-cosmwasm-mcp-a1be44ce)",
+  "links": {
+    "primary": "https://github.com/adairrr/cosmwasm-mcp",
+    "repo": "https://github.com/adairrr/cosmwasm-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

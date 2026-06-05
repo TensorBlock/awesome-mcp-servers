@@ -1,0 +1,24 @@
+{
+  "id": "github-axlwolf-filesystem-mcp-09234a59",
+  "name": "axlwolf/filesystem-mcp",
+  "description": "Node.js server for performing filesystem operations using the Model Context Protocol, enabling file manipulation, directory management, and metadata retrieval.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-axlwolf-filesystem-mcp-09234a59",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-axlwolf-filesystem-mcp-09234a59)",
+  "links": {
+    "primary": "https://github.com/axlwolf/filesystem-mcp",
+    "repo": "https://github.com/axlwolf/filesystem-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

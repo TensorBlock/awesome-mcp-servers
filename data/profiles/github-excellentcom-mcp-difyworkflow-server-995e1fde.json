@@ -1,0 +1,24 @@
+{
+  "id": "github-excellentcom-mcp-difyworkflow-server-995e1fde",
+  "name": "excellentcom/mcp-difyworkflow-server",
+  "description": "Facilitates the query and invocation of custom Dify workflows, enabling on-demand operations through an MCP server.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-excellentcom-mcp-difyworkflow-server-995e1fde",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-excellentcom-mcp-difyworkflow-server-995e1fde)",
+  "links": {
+    "primary": "https://github.com/excellentcom/mcp-difyworkflow-server",
+    "repo": "https://github.com/excellentcom/mcp-difyworkflow-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

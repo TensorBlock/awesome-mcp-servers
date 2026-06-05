@@ -1,0 +1,24 @@
+{
+  "id": "github-serkanyasr-mcp-agent-tool-adapter-3f81a65a",
+  "name": "serkanyasr/mcp-agent-tool-adapter",
+  "description": "Transforms MCP tools into collaborative agents using Google ADK or LangGraph for dynamic reasoning and tool planning.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-serkanyasr-mcp-agent-tool-adapter-3f81a65a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-serkanyasr-mcp-agent-tool-adapter-3f81a65a)",
+  "links": {
+    "primary": "https://github.com/serkanyasr/mcp-agent-tool-adapter",
+    "repo": "https://github.com/serkanyasr/mcp-agent-tool-adapter",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

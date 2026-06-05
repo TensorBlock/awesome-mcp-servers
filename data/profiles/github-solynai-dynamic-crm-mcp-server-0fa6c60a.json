@@ -1,0 +1,24 @@
+{
+  "id": "github-solynai-dynamic-crm-mcp-server-0fa6c60a",
+  "name": "SolynAI/Dynamic_CRM_MCP_Server",
+  "description": "Facilitates interaction with Microsoft Dynamics 365 through a Model Context Protocol server, enabling operations like user information retrieval and account management.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-solynai-dynamic-crm-mcp-server-0fa6c60a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-solynai-dynamic-crm-mcp-server-0fa6c60a)",
+  "links": {
+    "primary": "https://github.com/SolynAI/Dynamic_CRM_MCP_Server",
+    "repo": "https://github.com/SolynAI/Dynamic_CRM_MCP_Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

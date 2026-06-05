@@ -1,0 +1,24 @@
+{
+  "id": "github-apappascs-tavily-search-mcp-server-7c9eb515",
+  "name": "apappascs/tavily-search-mcp-server",
+  "description": "Integrates the Tavily Search API to enhance search capabilities for LLMs with domain filtering and content extraction.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-apappascs-tavily-search-mcp-server-7c9eb515",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-apappascs-tavily-search-mcp-server-7c9eb515)",
+  "links": {
+    "primary": "https://github.com/apappascs/tavily-search-mcp-server",
+    "repo": "https://github.com/apappascs/tavily-search-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

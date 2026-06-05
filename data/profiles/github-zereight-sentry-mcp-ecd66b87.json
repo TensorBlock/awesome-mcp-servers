@@ -1,0 +1,24 @@
+{
+  "id": "github-zereight-sentry-mcp-ecd66b87",
+  "name": "zereight/sentry-mcp",
+  "description": "Facilitates interaction with the Sentry API to retrieve issue and event details using the Model Context Protocol.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-zereight-sentry-mcp-ecd66b87",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zereight-sentry-mcp-ecd66b87)",
+  "links": {
+    "primary": "https://github.com/zereight/sentry-mcp",
+    "repo": "https://github.com/zereight/sentry-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
