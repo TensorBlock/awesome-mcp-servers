@@ -1,0 +1,24 @@
+{
+  "id": "github-melihteke-subnet-calculator-mcp-server-81a7803f",
+  "name": "melihteke/Subnet-Calculator-MCP-Server",
+  "description": "Facilitates subnet calculations using CIDR notation through an MCP server with SSE transport.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-melihteke-subnet-calculator-mcp-server-81a7803f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-melihteke-subnet-calculator-mcp-server-81a7803f)",
+  "links": {
+    "primary": "https://github.com/melihteke/Subnet-Calculator-MCP-Server",
+    "repo": "https://github.com/melihteke/Subnet-Calculator-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

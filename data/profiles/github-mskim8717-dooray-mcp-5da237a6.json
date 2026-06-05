@@ -1,0 +1,24 @@
+{
+  "id": "github-mskim8717-dooray-mcp-5da237a6",
+  "name": "mskim8717/dooray-mcp",
+  "description": "Facilitates schedule management through Dooray API integration, enabling automatic time settings and location support.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-mskim8717-dooray-mcp-5da237a6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mskim8717-dooray-mcp-5da237a6)",
+  "links": {
+    "primary": "https://github.com/mskim8717/dooray-mcp",
+    "repo": "https://github.com/mskim8717/dooray-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

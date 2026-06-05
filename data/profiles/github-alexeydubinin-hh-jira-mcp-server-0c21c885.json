@@ -1,0 +1,24 @@
+{
+  "id": "github-alexeydubinin-hh-jira-mcp-server-0c21c885",
+  "name": "alexeydubinin/hh-jira-mcp-server",
+  "description": "Facilitates integration with Jira by providing an MCP server for managing and querying project statuses.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-alexeydubinin-hh-jira-mcp-server-0c21c885",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexeydubinin-hh-jira-mcp-server-0c21c885)",
+  "links": {
+    "primary": "https://github.com/alexeydubinin/hh-jira-mcp-server",
+    "repo": "https://github.com/alexeydubinin/hh-jira-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

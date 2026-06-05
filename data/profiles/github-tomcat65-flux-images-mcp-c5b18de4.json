@@ -1,0 +1,24 @@
+{
+  "id": "github-tomcat65-flux-images-mcp-c5b18de4",
+  "name": "tomcat65/flux-images-mcp",
+  "description": "A server for generating, modifying, and inpainting images using Replicate's Flux models, with features for obtaining image URLs and browsing stored images.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-tomcat65-flux-images-mcp-c5b18de4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tomcat65-flux-images-mcp-c5b18de4)",
+  "links": {
+    "primary": "https://github.com/tomcat65/flux-images-mcp",
+    "repo": "https://github.com/tomcat65/flux-images-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

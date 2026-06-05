@@ -1,0 +1,24 @@
+{
+  "id": "github-julientrnt-mcp-selenium-1cc49d4f",
+  "name": "julientrnt/mcp-selenium",
+  "description": "Enables browser automation through Selenium WebDriver using standardized MCP clients, supporting various browser interactions and headless mode.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-julientrnt-mcp-selenium-1cc49d4f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-julientrnt-mcp-selenium-1cc49d4f)",
+  "links": {
+    "primary": "https://github.com/julientrnt/mcp-selenium",
+    "repo": "https://github.com/julientrnt/mcp-selenium",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

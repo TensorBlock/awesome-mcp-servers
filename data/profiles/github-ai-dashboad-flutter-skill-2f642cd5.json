@@ -1,0 +1,24 @@
+{
+  "id": "github-ai-dashboad-flutter-skill-2f642cd5",
+  "name": "ai-dashboad/flutter-skill",
+  "description": "AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-ai-dashboad-flutter-skill-2f642cd5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ai-dashboad-flutter-skill-2f642cd5)",
+  "links": {
+    "primary": "https://github.com/ai-dashboad/flutter-skill",
+    "repo": "https://github.com/ai-dashboad/flutter-skill",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-remodlai-remote-mcp-server2-0ee81c40",
+  "name": "remodlai/remote-mcp-server2",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-remodlai-remote-mcp-server2-0ee81c40",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-remodlai-remote-mcp-server2-0ee81c40)",
+  "links": {
+    "primary": "https://github.com/remodlai/remote-mcp-server2",
+    "repo": "https://github.com/remodlai/remote-mcp-server2",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-precariat365-mcp-client-demo-482fdc7a",
+  "name": "precariat365/MCP-Client-Demo",
+  "description": "A demo client showcasing interaction with multiple MCP services using LangChain for intelligent dialogue and tool invocation.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-precariat365-mcp-client-demo-482fdc7a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-precariat365-mcp-client-demo-482fdc7a)",
+  "links": {
+    "primary": "https://github.com/precariat365/MCP-Client-Demo",
+    "repo": "https://github.com/precariat365/MCP-Client-Demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

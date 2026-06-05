@@ -1,0 +1,24 @@
+{
+  "id": "github-gongrzhe-langflow-doc-qa-server-6d58333b",
+  "name": "GongRzhe/Langflow-DOC-QA-SERVER",
+  "description": "A TypeScript-based server enabling document Q&A through a Langflow backend, showcasing core MCP concepts.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-gongrzhe-langflow-doc-qa-server-6d58333b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gongrzhe-langflow-doc-qa-server-6d58333b)",
+  "links": {
+    "primary": "https://github.com/GongRzhe/Langflow-DOC-QA-SERVER",
+    "repo": "https://github.com/GongRzhe/Langflow-DOC-QA-SERVER",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

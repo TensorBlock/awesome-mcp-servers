@@ -1,0 +1,24 @@
+{
+  "id": "github-zeparhyfar-mcp-datetime-a0cd7ad1",
+  "name": "ZeparHyfar/mcp-datetime",
+  "description": "Provides datetime formatting and filename generation services for the Claude Desktop Application.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-zeparhyfar-mcp-datetime-a0cd7ad1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zeparhyfar-mcp-datetime-a0cd7ad1)",
+  "links": {
+    "primary": "https://github.com/ZeparHyfar/mcp-datetime",
+    "repo": "https://github.com/ZeparHyfar/mcp-datetime",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

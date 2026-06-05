@@ -1,0 +1,24 @@
+{
+  "id": "github-angheljf-nyt-92ea2015",
+  "name": "angheljf/nyt",
+  "description": "A TypeScript-based server enabling keyword-based searches for New York Times articles from the past 30 days.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-angheljf-nyt-92ea2015",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-angheljf-nyt-92ea2015)",
+  "links": {
+    "primary": "https://github.com/angheljf/nyt",
+    "repo": "https://github.com/angheljf/nyt",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

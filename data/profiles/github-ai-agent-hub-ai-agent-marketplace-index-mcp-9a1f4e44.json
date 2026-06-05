@@ -1,0 +1,24 @@
+{
+  "id": "github-ai-agent-hub-ai-agent-marketplace-index-mcp-9a1f4e44",
+  "name": "AI-Agent-Hub/ai-agent-marketplace-index-mcp",
+  "description": "Facilitates AI assistants in searching and indexing AI agents by keywords or categories within the AI Agent Marketplace.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ai-agent-hub-ai-agent-marketplace-index-mcp-9a1f4e44",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ai-agent-hub-ai-agent-marketplace-index-mcp-9a1f4e44)",
+  "links": {
+    "primary": "https://github.com/AI-Agent-Hub/ai-agent-marketplace-index-mcp",
+    "repo": "https://github.com/AI-Agent-Hub/ai-agent-marketplace-index-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

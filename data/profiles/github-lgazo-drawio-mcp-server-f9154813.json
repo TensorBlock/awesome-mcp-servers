@@ -1,0 +1,24 @@
+{
+  "id": "github-lgazo-drawio-mcp-server-f9154813",
+  "name": "lgazo/drawio-mcp-server",
+  "description": "Facilitates AI-driven diagram creation and management by integrating Draw.io's capabilities with MCP-compliant systems.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-lgazo-drawio-mcp-server-f9154813",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lgazo-drawio-mcp-server-f9154813)",
+  "links": {
+    "primary": "https://github.com/lgazo/drawio-mcp-server",
+    "repo": "https://github.com/lgazo/drawio-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

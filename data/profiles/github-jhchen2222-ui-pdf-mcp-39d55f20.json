@@ -1,0 +1,24 @@
+{
+  "id": "github-jhchen2222-ui-pdf-mcp-39d55f20",
+  "name": "jhchen2222-ui/pdf-mcp",
+  "description": "Facilitates PDF processing through a dedicated MCP server with Python integration.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-jhchen2222-ui-pdf-mcp-39d55f20",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jhchen2222-ui-pdf-mcp-39d55f20)",
+  "links": {
+    "primary": "https://github.com/jhchen2222-ui/pdf-mcp",
+    "repo": "https://github.com/jhchen2222-ui/pdf-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

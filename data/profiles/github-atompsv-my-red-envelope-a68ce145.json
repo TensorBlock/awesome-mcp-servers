@@ -1,0 +1,24 @@
+{
+  "id": "github-atompsv-my-red-envelope-a68ce145",
+  "name": "atompsv/my-red-envelope",
+  "description": "Facilitates querying MON token balances on the Monad testnet via an MCP server.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-atompsv-my-red-envelope-a68ce145",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-atompsv-my-red-envelope-a68ce145)",
+  "links": {
+    "primary": "https://github.com/atompsv/my-red-envelope",
+    "repo": "https://github.com/atompsv/my-red-envelope",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

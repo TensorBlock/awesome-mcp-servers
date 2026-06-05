@@ -1,0 +1,24 @@
+{
+  "id": "github-privetin-chroma-73ccf651",
+  "name": "privetin/chroma",
+  "description": "Chroma MCP Server offers vector database capabilities for semantic document search and management with persistent storage.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-privetin-chroma-73ccf651",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-privetin-chroma-73ccf651)",
+  "links": {
+    "primary": "https://github.com/privetin/chroma",
+    "repo": "https://github.com/privetin/chroma",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

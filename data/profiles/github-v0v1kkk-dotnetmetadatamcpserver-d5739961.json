@@ -1,0 +1,24 @@
+{
+  "id": "github-v0v1kkk-dotnetmetadatamcpserver-d5739961",
+  "name": "V0v1kkk/DotNetMetadataMcpServer",
+  "description": "Facilitates AI coding agents in exploring .NET codebases by providing detailed type information through reflection.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-v0v1kkk-dotnetmetadatamcpserver-d5739961",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-v0v1kkk-dotnetmetadatamcpserver-d5739961)",
+  "links": {
+    "primary": "https://github.com/V0v1kkk/DotNetMetadataMcpServer",
+    "repo": "https://github.com/V0v1kkk/DotNetMetadataMcpServer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

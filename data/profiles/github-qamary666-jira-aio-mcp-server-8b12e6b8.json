@@ -1,0 +1,24 @@
+{
+  "id": "github-qamary666-jira-aio-mcp-server-8b12e6b8",
+  "name": "qamary666/jira-aio-mcp-server",
+  "description": "Facilitates interaction with AIO Test Management for Jira through MCP protocol, enabling efficient test case management.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-qamary666-jira-aio-mcp-server-8b12e6b8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qamary666-jira-aio-mcp-server-8b12e6b8)",
+  "links": {
+    "primary": "https://github.com/qamary666/jira-aio-mcp-server",
+    "repo": "https://github.com/qamary666/jira-aio-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
