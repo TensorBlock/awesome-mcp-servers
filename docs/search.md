@@ -173,3 +173,4 @@ Servers providing web search capabilities or interfacing with specialized search
 - [uju777/mcp-server-naver-search](https://github.com/uju777/mcp-server-naver-search): MCP server for Naver Search (Shopping, Cafe, News). Essential for Korean users.
 - [entire-vc/evc-spark-mcp](https://github.com/entire-vc/evc-spark-mcp): MCP server for discovering, searching, and installing curated AI agent workflows from the Spark catalog - search 200+ tools, get install configs, browse curated bundles.
 - [Nadeus/toolradar-mcp](https://github.com/Nadeus/toolradar-mcp): Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, and real alternatives.
+- [Not Human Search](https://nothumansearch.ai): MCP server to search and discover AI-native tools. 8,600+ indexed sites with agentic capability scores.
