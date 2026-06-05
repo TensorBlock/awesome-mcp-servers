@@ -1,7 +1,7 @@
 {
   "id": "toolrouter-com-340ac431",
   "name": "ToolRouter",
-  "description": "Give your AI agent superpowers with access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`",
+  "description": "Give your AI agent access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`",
   "category": "AI & LLM Integration",
   "profileUrl": "https://tensorblock.co/mcp/toolrouter-com-340ac431",
   "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/toolrouter-com-340ac431)",
