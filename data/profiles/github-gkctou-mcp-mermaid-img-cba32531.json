@@ -1,0 +1,24 @@
+{
+  "id": "github-gkctou-mcp-mermaid-img-cba32531",
+  "name": "gkctou/mcp-mermaid-img",
+  "description": "Convert Mermaid diagram code into high-quality images with customizable formats and themes for seamless integration into presentations and AI conversations.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-gkctou-mcp-mermaid-img-cba32531",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gkctou-mcp-mermaid-img-cba32531)",
+  "links": {
+    "primary": "https://github.com/gkctou/mcp-mermaid-img",
+    "repo": "https://github.com/gkctou/mcp-mermaid-img",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

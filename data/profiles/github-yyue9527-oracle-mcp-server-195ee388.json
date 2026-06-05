@@ -1,0 +1,24 @@
+{
+  "id": "github-yyue9527-oracle-mcp-server-195ee388",
+  "name": "yyue9527/oracle-mcp-server",
+  "description": "Facilitates Oracle database operations with real-time communication using Server-Sent Events.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-yyue9527-oracle-mcp-server-195ee388",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yyue9527-oracle-mcp-server-195ee388)",
+  "links": {
+    "primary": "https://github.com/yyue9527/oracle-mcp-server",
+    "repo": "https://github.com/yyue9527/oracle-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

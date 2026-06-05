@@ -1,0 +1,24 @@
+{
+  "id": "github-conacademy-buttplug-mcp-7d945c80",
+  "name": "ConAcademy/buttplug-mcp",
+  "description": "Facilitates interaction with Buttplug.io devices using the Model Context Protocol, enabling LLMs to query and control connected devices.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-conacademy-buttplug-mcp-7d945c80",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-conacademy-buttplug-mcp-7d945c80)",
+  "links": {
+    "primary": "https://github.com/ConAcademy/buttplug-mcp",
+    "repo": "https://github.com/ConAcademy/buttplug-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

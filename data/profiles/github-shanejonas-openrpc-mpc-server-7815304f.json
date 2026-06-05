@@ -1,0 +1,24 @@
+{
+  "id": "github-shanejonas-openrpc-mpc-server-7815304f",
+  "name": "shanejonas/openrpc-mpc-server",
+  "description": "Facilitates JSON-RPC communication using OpenRPC for enhanced protocol interactions.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-shanejonas-openrpc-mpc-server-7815304f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shanejonas-openrpc-mpc-server-7815304f)",
+  "links": {
+    "primary": "https://github.com/shanejonas/openrpc-mpc-server",
+    "repo": "https://github.com/shanejonas/openrpc-mpc-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

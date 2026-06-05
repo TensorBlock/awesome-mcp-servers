@@ -1,0 +1,24 @@
+{
+  "id": "github-unifai-network-unifai-sdk-py-7a342b09",
+  "name": "unifai-network/unifai-sdk-py",
+  "description": "Facilitates agent-to-agent communication and dynamic tool usage on the Unifai platform through an MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-unifai-network-unifai-sdk-py-7a342b09",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-unifai-network-unifai-sdk-py-7a342b09)",
+  "links": {
+    "primary": "https://github.com/unifai-network/unifai-sdk-py",
+    "repo": "https://github.com/unifai-network/unifai-sdk-py",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

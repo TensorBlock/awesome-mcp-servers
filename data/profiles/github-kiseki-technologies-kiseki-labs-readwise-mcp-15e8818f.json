@@ -1,0 +1,24 @@
+{
+  "id": "github-kiseki-technologies-kiseki-labs-readwise-mcp-15e8818f",
+  "name": "kiseki-technologies/kiseki-labs-readwise-mcp",
+  "description": "Facilitates programmatic access and manipulation of Readwise documents and highlights via the Readwise API.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-kiseki-technologies-kiseki-labs-readwise-mcp-15e8818f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kiseki-technologies-kiseki-labs-readwise-mcp-15e8818f)",
+  "links": {
+    "primary": "https://github.com/kiseki-technologies/kiseki-labs-readwise-mcp",
+    "repo": "https://github.com/kiseki-technologies/kiseki-labs-readwise-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-gxjansen-transistor-mcp-4e7a4548",
+  "name": "gxjansen/Transistor-MCP",
+  "description": "Facilitates podcast management and analytics through Transistor.fm API integration.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-gxjansen-transistor-mcp-4e7a4548",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gxjansen-transistor-mcp-4e7a4548)",
+  "links": {
+    "primary": "https://github.com/gxjansen/Transistor-MCP",
+    "repo": "https://github.com/gxjansen/Transistor-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

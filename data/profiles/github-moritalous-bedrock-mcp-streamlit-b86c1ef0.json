@@ -1,0 +1,24 @@
+{
+  "id": "github-moritalous-bedrock-mcp-streamlit-b86c1ef0",
+  "name": "moritalous/bedrock-mcp-streamlit",
+  "description": "A Streamlit-based chat application leveraging Langchain and Bedrock, integrated with MCP tools for dynamic LLM model configuration and chat history management.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-moritalous-bedrock-mcp-streamlit-b86c1ef0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-moritalous-bedrock-mcp-streamlit-b86c1ef0)",
+  "links": {
+    "primary": "https://github.com/moritalous/bedrock-mcp-streamlit",
+    "repo": "https://github.com/moritalous/bedrock-mcp-streamlit",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

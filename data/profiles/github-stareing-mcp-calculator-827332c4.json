@@ -1,0 +1,24 @@
+{
+  "id": "github-stareing-mcp-calculator-827332c4",
+  "name": "stareing/MCP_Calculator",
+  "description": "A versatile MCP server offering a calculator module with extensive decorator support for tool, prompt, and resource registration.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-stareing-mcp-calculator-827332c4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stareing-mcp-calculator-827332c4)",
+  "links": {
+    "primary": "https://github.com/stareing/MCP_Calculator",
+    "repo": "https://github.com/stareing/MCP_Calculator",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-fewsats-fewsats-mcp-8170b63c",
+  "name": "Fewsats/fewsats-mcp",
+  "description": "Facilitates secure AI-driven purchases through Fewsats integration, offering tools for balance checks, payment methods, and transaction processing.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-fewsats-fewsats-mcp-8170b63c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fewsats-fewsats-mcp-8170b63c)",
+  "links": {
+    "primary": "https://github.com/Fewsats/fewsats-mcp",
+    "repo": "https://github.com/Fewsats/fewsats-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

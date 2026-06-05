@@ -1,0 +1,24 @@
+{
+  "id": "github-0xkohe-mcp-gen-uuid-c483f3eb",
+  "name": "0xkohe/mcp-gen-uuid",
+  "description": "A Deno-based server that generates Version 4 UUIDs using the Model Context Protocol.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-0xkohe-mcp-gen-uuid-c483f3eb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-0xkohe-mcp-gen-uuid-c483f3eb)",
+  "links": {
+    "primary": "https://github.com/0xkohe/mcp-gen-uuid",
+    "repo": "https://github.com/0xkohe/mcp-gen-uuid",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

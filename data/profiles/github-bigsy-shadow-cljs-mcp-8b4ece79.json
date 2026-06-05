@@ -1,0 +1,24 @@
+{
+  "id": "github-bigsy-shadow-cljs-mcp-8b4ece79",
+  "name": "Bigsy/shadow-cljs-mcp",
+  "description": "Monitors shadow-cljs builds, providing real-time status updates and integration with LLMs for verifying build success after ClojureScript file edits.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-bigsy-shadow-cljs-mcp-8b4ece79",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bigsy-shadow-cljs-mcp-8b4ece79)",
+  "links": {
+    "primary": "https://github.com/Bigsy/shadow-cljs-mcp",
+    "repo": "https://github.com/Bigsy/shadow-cljs-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

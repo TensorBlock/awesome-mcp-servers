@@ -1,0 +1,24 @@
+{
+  "id": "github-l3wi-mcp-lighthouse-c4afe840",
+  "name": "l3wi/mcp-lighthouse",
+  "description": "Enables Claude to interact with and analyze your Lighthouse crypto portfolio data through secure authentication and natural language queries.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-l3wi-mcp-lighthouse-c4afe840",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-l3wi-mcp-lighthouse-c4afe840)",
+  "links": {
+    "primary": "https://github.com/l3wi/mcp-lighthouse",
+    "repo": "https://github.com/l3wi/mcp-lighthouse",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

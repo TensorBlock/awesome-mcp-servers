@@ -1,0 +1,24 @@
+{
+  "id": "github-nakamurau1-weather-mcp-3fc40b7c",
+  "name": "nakamurau1/weather-mcp",
+  "description": "Provides real-time weather forecasts and alerts via the National Weather Service API for integration with MCP-compatible clients.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-nakamurau1-weather-mcp-3fc40b7c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nakamurau1-weather-mcp-3fc40b7c)",
+  "links": {
+    "primary": "https://github.com/nakamurau1/weather-mcp",
+    "repo": "https://github.com/nakamurau1/weather-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

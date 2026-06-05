@@ -1,0 +1,24 @@
+{
+  "id": "github-aidc-ai-pixelle-mcp-21e59251",
+  "name": "AIDC-AI/Pixelle-MCP",
+  "description": "An omnimodal AIGC framework that seamlessly converts ComfyUI workflows into MCP tools with zero code, enabling full-modal support for Text, Image, Sound, and Video generation with Chainlit-based web interface.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-aidc-ai-pixelle-mcp-21e59251",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aidc-ai-pixelle-mcp-21e59251)",
+  "links": {
+    "primary": "https://github.com/AIDC-AI/Pixelle-MCP",
+    "repo": "https://github.com/AIDC-AI/Pixelle-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-nguyenvanduocit-script-mcp-fa8eb33a",
+  "name": "nguyenvanduocit/script-mcp",
+  "description": "Facilitates the execution of command line scripts across multiple platforms with safety and error handling features.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-nguyenvanduocit-script-mcp-fa8eb33a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nguyenvanduocit-script-mcp-fa8eb33a)",
+  "links": {
+    "primary": "https://github.com/nguyenvanduocit/script-mcp",
+    "repo": "https://github.com/nguyenvanduocit/script-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-qiyuor2-anitabi-mcp-server-40c7fc65",
+  "name": "QiYuOr2/anitabi-mcp-server",
+  "description": "Facilitates the integration of pilgrimage maps with the MCP server for seamless geographic data access.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-qiyuor2-anitabi-mcp-server-40c7fc65",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qiyuor2-anitabi-mcp-server-40c7fc65)",
+  "links": {
+    "primary": "https://github.com/QiYuOr2/anitabi-mcp-server",
+    "repo": "https://github.com/QiYuOr2/anitabi-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

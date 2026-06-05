@@ -1,0 +1,24 @@
+{
+  "id": "github-stagsz-unconventional-thinking-578b0da1",
+  "name": "stagsz/Unconventional-thinking",
+  "description": "Facilitates unconventional problem-solving through a TypeScript-based MCP server that generates and organizes boundary-breaking thoughts.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-stagsz-unconventional-thinking-578b0da1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stagsz-unconventional-thinking-578b0da1)",
+  "links": {
+    "primary": "https://github.com/stagsz/Unconventional-thinking",
+    "repo": "https://github.com/stagsz/Unconventional-thinking",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

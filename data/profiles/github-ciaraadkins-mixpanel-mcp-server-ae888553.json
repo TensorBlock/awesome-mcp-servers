@@ -1,0 +1,24 @@
+{
+  "id": "github-ciaraadkins-mixpanel-mcp-server-ae888553",
+  "name": "ciaraadkins/mixpanel-mcp-server",
+  "description": "Integrates Mixpanel analytics with Claude and other MCP clients, enabling event tracking and user profile updates.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-ciaraadkins-mixpanel-mcp-server-ae888553",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ciaraadkins-mixpanel-mcp-server-ae888553)",
+  "links": {
+    "primary": "https://github.com/ciaraadkins/mixpanel-mcp-server",
+    "repo": "https://github.com/ciaraadkins/mixpanel-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

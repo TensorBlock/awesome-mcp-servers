@@ -1,0 +1,25 @@
+{
+  "id": "github-wazionapps-mcp-server-3cdc1bed",
+  "name": "wazionapps/mcp-server",
+  "description": "WAzion - WhatsApp Business platform with 244 MCP tools for messaging, CRM, campaigns, workflows, and AI automation. Supports Streamable HTTP and stdio transports.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-wazionapps-mcp-server-3cdc1bed",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wazionapps-mcp-server-3cdc1bed)",
+  "links": {
+    "primary": "https://github.com/wazionapps/mcp-server",
+    "repo": "https://github.com/wazionapps/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 244
+  }
+}

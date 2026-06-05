@@ -1,0 +1,24 @@
+{
+  "id": "github-sunwood-ai-labs-source-sage-mcp-server-d3d344d0",
+  "name": "Sunwood-ai-labs/source-sage-mcp-server",
+  "description": "SourceSage MCP visualizes project directory structures in markdown format with customizable exclusion patterns and automatic file documentation.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-sunwood-ai-labs-source-sage-mcp-server-d3d344d0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sunwood-ai-labs-source-sage-mcp-server-d3d344d0)",
+  "links": {
+    "primary": "https://github.com/Sunwood-ai-labs/source-sage-mcp-server",
+    "repo": "https://github.com/Sunwood-ai-labs/source-sage-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
