@@ -1,0 +1,24 @@
+{
+  "id": "github-albeorla-mcp-00a60982",
+  "name": "albeorla/mcp",
+  "description": "Aerith Admin MCP server facilitates RBAC dashboard application development with browser automation, integrating seamlessly with Cursor IDE.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-albeorla-mcp-00a60982",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-albeorla-mcp-00a60982)",
+  "links": {
+    "primary": "https://github.com/albeorla/mcp",
+    "repo": "https://github.com/albeorla/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

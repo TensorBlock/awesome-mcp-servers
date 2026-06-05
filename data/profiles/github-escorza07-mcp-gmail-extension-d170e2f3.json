@@ -1,0 +1,24 @@
+{
+  "id": "github-escorza07-mcp-gmail-extension-d170e2f3",
+  "name": "Escorza07/mcp-gmail-extension",
+  "description": "Facilitates seamless Gmail management through natural language interactions with automatic authentication support.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-escorza07-mcp-gmail-extension-d170e2f3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-escorza07-mcp-gmail-extension-d170e2f3)",
+  "links": {
+    "primary": "https://github.com/Escorza07/mcp-gmail-extension",
+    "repo": "https://github.com/Escorza07/mcp-gmail-extension",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

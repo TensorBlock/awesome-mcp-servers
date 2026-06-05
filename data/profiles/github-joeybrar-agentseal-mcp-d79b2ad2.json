@@ -1,0 +1,24 @@
+{
+  "id": "github-joeybrar-agentseal-mcp-d79b2ad2",
+  "name": "AgentSeal",
+  "description": "Action logs for AI agents. Records every action in a SHA-256 hash chain for verifiable audit trails. Install via `npx agentseal-mcp`.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-joeybrar-agentseal-mcp-d79b2ad2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-joeybrar-agentseal-mcp-d79b2ad2)",
+  "links": {
+    "primary": "https://github.com/JoeyBrar/agentseal-mcp",
+    "repo": "https://github.com/JoeyBrar/agentseal-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

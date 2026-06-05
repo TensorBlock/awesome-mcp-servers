@@ -1,0 +1,24 @@
+{
+  "id": "github-uju777-mcp-server-naver-search-64602c02",
+  "name": "uju777/mcp-server-naver-search",
+  "description": "MCP server for Naver Search (Shopping, Cafe, News). Essential for Korean users.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-uju777-mcp-server-naver-search-64602c02",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-uju777-mcp-server-naver-search-64602c02)",
+  "links": {
+    "primary": "https://github.com/uju777/mcp-server-naver-search",
+    "repo": "https://github.com/uju777/mcp-server-naver-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

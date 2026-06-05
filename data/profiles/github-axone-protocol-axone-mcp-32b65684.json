@@ -1,0 +1,24 @@
+{
+  "id": "github-axone-protocol-axone-mcp-32b65684",
+  "name": "axone-protocol/axone-mcp",
+  "description": "Axone's MCP server facilitates AI-powered tools' access to decentralized resources through a standardized protocol with built-in governance compliance.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-axone-protocol-axone-mcp-32b65684",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-axone-protocol-axone-mcp-32b65684)",
+  "links": {
+    "primary": "https://github.com/axone-protocol/axone-mcp",
+    "repo": "https://github.com/axone-protocol/axone-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

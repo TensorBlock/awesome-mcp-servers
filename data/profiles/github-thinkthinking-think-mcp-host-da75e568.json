@@ -1,0 +1,24 @@
+{
+  "id": "github-thinkthinking-think-mcp-host-da75e568",
+  "name": "thinkthinking/think-mcp-host",
+  "description": "Think MCP Host seamlessly integrates MCP resources, tools, and prompts into conversations, leveraging various LLMs, VLMs, and reasoning models for enhanced interaction.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-thinkthinking-think-mcp-host-da75e568",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thinkthinking-think-mcp-host-da75e568)",
+  "links": {
+    "primary": "https://github.com/thinkthinking/think-mcp-host",
+    "repo": "https://github.com/thinkthinking/think-mcp-host",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-sidhyaashu-ollama-mcp-integration-5f764f7d",
+  "name": "sidhyaashu/ollama-mcp-integration",
+  "description": "Integrate advanced MCP server capabilities with uv, llama-index, and Ollama for seamless AI agent orchestration and local LLM management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-sidhyaashu-ollama-mcp-integration-5f764f7d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sidhyaashu-ollama-mcp-integration-5f764f7d)",
+  "links": {
+    "primary": "https://github.com/sidhyaashu/ollama-mcp-integration",
+    "repo": "https://github.com/sidhyaashu/ollama-mcp-integration",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

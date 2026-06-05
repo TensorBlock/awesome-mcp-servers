@@ -1,0 +1,24 @@
+{
+  "id": "github-domdomegg-computer-use-mcp-04eb6fed",
+  "name": "domdomegg/computer-use-mcp",
+  "description": "A local MCP server enabling Claude to control computer functions with enhanced keyboard navigation via the Rango browser extension.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-domdomegg-computer-use-mcp-04eb6fed",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-domdomegg-computer-use-mcp-04eb6fed)",
+  "links": {
+    "primary": "https://github.com/domdomegg/computer-use-mcp",
+    "repo": "https://github.com/domdomegg/computer-use-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

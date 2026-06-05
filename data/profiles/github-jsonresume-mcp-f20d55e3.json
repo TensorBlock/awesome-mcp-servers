@@ -1,0 +1,24 @@
+{
+  "id": "github-jsonresume-mcp-f20d55e3",
+  "name": "jsonresume/mcp",
+  "description": "Enhance your JSON Resume with AI by analyzing your coding projects and updating your resume automatically.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-jsonresume-mcp-f20d55e3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jsonresume-mcp-f20d55e3)",
+  "links": {
+    "primary": "https://github.com/jsonresume/mcp",
+    "repo": "https://github.com/jsonresume/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-siri1410-mcp-template-baeb6932",
+  "name": "siri1410/mcp-template",
+  "description": "Integrates AI code editors and agents with browsers for monitoring, debugging, and auditing web applications.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-siri1410-mcp-template-baeb6932",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-siri1410-mcp-template-baeb6932)",
+  "links": {
+    "primary": "https://github.com/siri1410/mcp-template",
+    "repo": "https://github.com/siri1410/mcp-template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

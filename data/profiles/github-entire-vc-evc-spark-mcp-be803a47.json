@@ -1,0 +1,24 @@
+{
+  "id": "github-entire-vc-evc-spark-mcp-be803a47",
+  "name": "entire-vc/evc-spark-mcp",
+  "description": "MCP server for discovering, searching, and installing curated AI agent workflows from the Spark catalog - search 200+ tools, get install configs, browse curated bundles.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-entire-vc-evc-spark-mcp-be803a47",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-entire-vc-evc-spark-mcp-be803a47)",
+  "links": {
+    "primary": "https://github.com/entire-vc/evc-spark-mcp",
+    "repo": "https://github.com/entire-vc/evc-spark-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

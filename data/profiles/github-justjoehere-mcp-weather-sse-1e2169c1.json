@@ -1,0 +1,24 @@
+{
+  "id": "github-justjoehere-mcp-weather-sse-1e2169c1",
+  "name": "justjoehere/mcp-weather-sse",
+  "description": "Provides real-time weather data through a Server-Sent Events MCP server, facilitating seamless integration with AI agents.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-justjoehere-mcp-weather-sse-1e2169c1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-justjoehere-mcp-weather-sse-1e2169c1)",
+  "links": {
+    "primary": "https://github.com/justjoehere/mcp-weather-sse",
+    "repo": "https://github.com/justjoehere/mcp-weather-sse",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

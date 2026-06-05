@@ -1,0 +1,24 @@
+{
+  "id": "github-sheffler-mcp-server-lims-c1bb176b",
+  "name": "sheffler/mcp-server-lims",
+  "description": "Facilitates AI-driven management of laboratory workflows by simulating instrument data processing and integrating with MCP tools.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-sheffler-mcp-server-lims-c1bb176b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sheffler-mcp-server-lims-c1bb176b)",
+  "links": {
+    "primary": "https://github.com/sheffler/mcp-server-lims",
+    "repo": "https://github.com/sheffler/mcp-server-lims",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

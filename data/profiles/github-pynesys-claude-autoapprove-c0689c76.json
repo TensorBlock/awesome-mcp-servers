@@ -1,0 +1,24 @@
+{
+  "id": "github-pynesys-claude-autoapprove-c0689c76",
+  "name": "PyneSys/claude_autoapprove",
+  "description": "A CLI tool for automatically approving tool requests in the Claude Desktop App using remote debugging.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-pynesys-claude-autoapprove-c0689c76",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pynesys-claude-autoapprove-c0689c76)",
+  "links": {
+    "primary": "https://github.com/PyneSys/claude_autoapprove",
+    "repo": "https://github.com/PyneSys/claude_autoapprove",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

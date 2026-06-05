@@ -1,0 +1,24 @@
+{
+  "id": "github-kutsushitaneko-mcp-server-for-oracle-database-058dfdb4",
+  "name": "kutsushitaneko/mcp-server-for-oracle-database",
+  "description": "Facilitates AI applications to execute SQL queries on Oracle Database, ensuring seamless integration with MCP clients like Cursor and Claude Desktop.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-kutsushitaneko-mcp-server-for-oracle-database-058dfdb4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kutsushitaneko-mcp-server-for-oracle-database-058dfdb4)",
+  "links": {
+    "primary": "https://github.com/kutsushitaneko/mcp-server-for-oracle-database",
+    "repo": "https://github.com/kutsushitaneko/mcp-server-for-oracle-database",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

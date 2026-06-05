@@ -1,0 +1,24 @@
+{
+  "id": "github-mindsightsai-aya-tabular-research-4fc9df86",
+  "name": "MindsightsAI/aya-tabular-research",
+  "description": "AYA Tabular Research orchestrates AI-driven research processes using the Model Context Protocol to deliver structured insights from tabular data.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-mindsightsai-aya-tabular-research-4fc9df86",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mindsightsai-aya-tabular-research-4fc9df86)",
+  "links": {
+    "primary": "https://github.com/MindsightsAI/aya-tabular-research",
+    "repo": "https://github.com/MindsightsAI/aya-tabular-research",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

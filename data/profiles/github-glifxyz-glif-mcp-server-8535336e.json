@@ -1,0 +1,24 @@
+{
+  "id": "github-glifxyz-glif-mcp-server-8535336e",
+  "name": "glifxyz/glif-mcp-server",
+  "description": "Facilitates AI workflows by managing glifs and bots, offering customizable tools and metadata access through MCP.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-glifxyz-glif-mcp-server-8535336e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-glifxyz-glif-mcp-server-8535336e)",
+  "links": {
+    "primary": "https://github.com/glifxyz/glif-mcp-server",
+    "repo": "https://github.com/glifxyz/glif-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

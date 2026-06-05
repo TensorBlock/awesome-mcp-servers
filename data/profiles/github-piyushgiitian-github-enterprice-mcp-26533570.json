@@ -1,0 +1,24 @@
+{
+  "id": "github-piyushgiitian-github-enterprice-mcp-26533570",
+  "name": "piyushgIITian/github-enterprice-mcp",
+  "description": "Facilitates seamless integration with GitHub Enterprise APIs for efficient file operations, repository management, and advanced search capabilities.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-piyushgiitian-github-enterprice-mcp-26533570",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-piyushgiitian-github-enterprice-mcp-26533570)",
+  "links": {
+    "primary": "https://github.com/piyushgIITian/github-enterprice-mcp",
+    "repo": "https://github.com/piyushgIITian/github-enterprice-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-skeet-build-mysql-baa0db34",
+  "name": "skeet-build/mysql",
+  "description": "Facilitates read-only access to MySQL databases, allowing LLMs to inspect schemas and execute queries seamlessly.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-skeet-build-mysql-baa0db34",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-skeet-build-mysql-baa0db34)",
+  "links": {
+    "primary": "https://github.com/skeet-build/mysql",
+    "repo": "https://github.com/skeet-build/mysql",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

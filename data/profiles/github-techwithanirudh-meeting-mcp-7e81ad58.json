@@ -1,0 +1,24 @@
+{
+  "id": "github-techwithanirudh-meeting-mcp-7e81ad58",
+  "name": "techwithanirudh/meeting-mcp",
+  "description": "Facilitates AI-driven management of meeting data, offering tools for recording, transcribing, and searching meeting content, alongside calendar integration.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-techwithanirudh-meeting-mcp-7e81ad58",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-techwithanirudh-meeting-mcp-7e81ad58)",
+  "links": {
+    "primary": "https://github.com/techwithanirudh/meeting-mcp",
+    "repo": "https://github.com/techwithanirudh/meeting-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

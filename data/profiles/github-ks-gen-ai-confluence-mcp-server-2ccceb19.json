@@ -1,0 +1,24 @@
+{
+  "id": "github-ks-gen-ai-confluence-mcp-server-2ccceb19",
+  "name": "KS-GEN-AI/confluence-mcp-server",
+  "description": "A TypeScript-based server enabling interaction with Confluence through CQL queries and page content retrieval.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-ks-gen-ai-confluence-mcp-server-2ccceb19",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ks-gen-ai-confluence-mcp-server-2ccceb19)",
+  "links": {
+    "primary": "https://github.com/KS-GEN-AI/confluence-mcp-server",
+    "repo": "https://github.com/KS-GEN-AI/confluence-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

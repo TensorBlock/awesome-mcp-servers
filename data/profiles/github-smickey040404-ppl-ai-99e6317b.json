@@ -1,0 +1,24 @@
+{
+  "id": "github-smickey040404-ppl-ai-99e6317b",
+  "name": "smickey040404/ppl-ai",
+  "description": "Integrates the Sonar API to enable Claude with real-time, web-wide research capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-smickey040404-ppl-ai-99e6317b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-smickey040404-ppl-ai-99e6317b)",
+  "links": {
+    "primary": "https://github.com/smickey040404/ppl-ai",
+    "repo": "https://github.com/smickey040404/ppl-ai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
