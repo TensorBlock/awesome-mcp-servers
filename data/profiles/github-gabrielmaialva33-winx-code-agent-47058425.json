@@ -1,0 +1,24 @@
+{
+  "id": "github-gabrielmaialva33-winx-code-agent-47058425",
+  "name": "gabrielmaialva33/winx-code-agent",
+  "description": "Winx is a high-performance Rust-based code agent that integrates with LLMs via the MCP protocol, offering advanced file operations and command execution capabilities.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-gabrielmaialva33-winx-code-agent-47058425",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gabrielmaialva33-winx-code-agent-47058425)",
+  "links": {
+    "primary": "https://github.com/gabrielmaialva33/winx-code-agent",
+    "repo": "https://github.com/gabrielmaialva33/winx-code-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

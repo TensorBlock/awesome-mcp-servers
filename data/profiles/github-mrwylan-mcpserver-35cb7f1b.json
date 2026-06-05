@@ -1,0 +1,24 @@
+{
+  "id": "github-mrwylan-mcpserver-35cb7f1b",
+  "name": "mrwylan/mcpserver",
+  "description": "A simple MCP server that provides an interactive list of color names and their hex values, built using Spring Boot.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-mrwylan-mcpserver-35cb7f1b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mrwylan-mcpserver-35cb7f1b)",
+  "links": {
+    "primary": "https://github.com/mrwylan/mcpserver",
+    "repo": "https://github.com/mrwylan/mcpserver",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

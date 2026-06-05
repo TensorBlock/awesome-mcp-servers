@@ -1,0 +1,24 @@
+{
+  "id": "github-phelanshao-dpdispatcher-mcp-server-d6a5aec1",
+  "name": "PhelanShao/dpdispatcher-mcp-server",
+  "description": "Facilitates the submission and management of computational jobs on local or HPC clusters using the dpdispatcher library.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-phelanshao-dpdispatcher-mcp-server-d6a5aec1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-phelanshao-dpdispatcher-mcp-server-d6a5aec1)",
+  "links": {
+    "primary": "https://github.com/PhelanShao/dpdispatcher-mcp-server",
+    "repo": "https://github.com/PhelanShao/dpdispatcher-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

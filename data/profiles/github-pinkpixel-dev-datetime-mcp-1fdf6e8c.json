@@ -1,0 +1,24 @@
+{
+  "id": "github-pinkpixel-dev-datetime-mcp-1fdf6e8c",
+  "name": "pinkpixel-dev/datetime-mcp",
+  "description": "Provides LLMs with real-time date and time context using a TypeScript-based MCP server.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-pinkpixel-dev-datetime-mcp-1fdf6e8c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pinkpixel-dev-datetime-mcp-1fdf6e8c)",
+  "links": {
+    "primary": "https://github.com/pinkpixel-dev/datetime-mcp",
+    "repo": "https://github.com/pinkpixel-dev/datetime-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

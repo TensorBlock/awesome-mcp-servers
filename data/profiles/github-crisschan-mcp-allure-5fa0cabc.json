@@ -1,0 +1,24 @@
+{
+  "id": "github-crisschan-mcp-allure-5fa0cabc",
+  "name": "crisschan/mcp-allure",
+  "description": "Transforms Allure test reports into formats optimized for AI and LLM analysis, enhancing test result insights and debugging efficiency.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-crisschan-mcp-allure-5fa0cabc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-crisschan-mcp-allure-5fa0cabc)",
+  "links": {
+    "primary": "https://github.com/crisschan/mcp-allure",
+    "repo": "https://github.com/crisschan/mcp-allure",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

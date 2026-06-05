@@ -1,0 +1,24 @@
+{
+  "id": "github-donghyun-chae-mcp-amadeus-2f0955f5",
+  "name": "donghyun-chae/mcp-amadeus",
+  "description": "Integrates with the Amadeus Flight Offers Search API to enable natural language flight searches through MCP-compatible clients.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-donghyun-chae-mcp-amadeus-2f0955f5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-donghyun-chae-mcp-amadeus-2f0955f5)",
+  "links": {
+    "primary": "https://github.com/donghyun-chae/mcp-amadeus",
+    "repo": "https://github.com/donghyun-chae/mcp-amadeus",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

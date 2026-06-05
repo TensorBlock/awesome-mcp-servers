@@ -1,0 +1,24 @@
+{
+  "id": "github-cherrylover-remote-mcp-server-demo-6c74d243",
+  "name": "CherryLover/remote-mcp-server-demo",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and integrate it with Claude Desktop for seamless tool invocation.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-cherrylover-remote-mcp-server-demo-6c74d243",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cherrylover-remote-mcp-server-demo-6c74d243)",
+  "links": {
+    "primary": "https://github.com/CherryLover/remote-mcp-server-demo",
+    "repo": "https://github.com/CherryLover/remote-mcp-server-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

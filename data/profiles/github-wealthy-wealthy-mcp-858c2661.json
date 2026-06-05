@@ -1,0 +1,24 @@
+{
+  "id": "github-wealthy-wealthy-mcp-858c2661",
+  "name": "wealthy/wealthy-mcp",
+  "description": "Facilitates smart trading on the Wealthy platform through a Golang-based MCP server, enabling seamless integration with trading tools and platforms like Claude and Cursor.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-wealthy-wealthy-mcp-858c2661",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wealthy-wealthy-mcp-858c2661)",
+  "links": {
+    "primary": "https://github.com/wealthy/wealthy-mcp",
+    "repo": "https://github.com/wealthy/wealthy-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

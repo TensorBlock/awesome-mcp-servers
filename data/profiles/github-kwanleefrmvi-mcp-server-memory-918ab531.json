@@ -1,0 +1,24 @@
+{
+  "id": "github-kwanleefrmvi-mcp-server-memory-918ab531",
+  "name": "kwanLeeFrmVi/mcp-server-memory",
+  "description": "Facilitates AI models' persistent memory through a knowledge graph, enabling information retention and recall across interactions.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-kwanleefrmvi-mcp-server-memory-918ab531",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kwanleefrmvi-mcp-server-memory-918ab531)",
+  "links": {
+    "primary": "https://github.com/kwanLeeFrmVi/mcp-server-memory",
+    "repo": "https://github.com/kwanLeeFrmVi/mcp-server-memory",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

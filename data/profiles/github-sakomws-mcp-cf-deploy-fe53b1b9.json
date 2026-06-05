@@ -1,0 +1,24 @@
+{
+  "id": "github-sakomws-mcp-cf-deploy-fe53b1b9",
+  "name": "sakomws/mcp-cf-deploy",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-sakomws-mcp-cf-deploy-fe53b1b9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sakomws-mcp-cf-deploy-fe53b1b9)",
+  "links": {
+    "primary": "https://github.com/sakomws/mcp-cf-deploy",
+    "repo": "https://github.com/sakomws/mcp-cf-deploy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

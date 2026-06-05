@@ -1,0 +1,24 @@
+{
+  "id": "github-gucci-slides-fractal-thinking-6520988c",
+  "name": "Gucci-Slides/fractal-thinking",
+  "description": "Facilitates fractal thinking analysis by providing tools for recursive problem-solving and pattern recognition.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-gucci-slides-fractal-thinking-6520988c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gucci-slides-fractal-thinking-6520988c)",
+  "links": {
+    "primary": "https://github.com/Gucci-Slides/fractal-thinking",
+    "repo": "https://github.com/Gucci-Slides/fractal-thinking",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

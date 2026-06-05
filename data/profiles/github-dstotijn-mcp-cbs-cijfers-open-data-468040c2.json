@@ -1,0 +1,24 @@
+{
+  "id": "github-dstotijn-mcp-cbs-cijfers-open-data-468040c2",
+  "name": "dstotijn/mcp-cbs-cijfers-open-data",
+  "description": "Facilitates AI interaction with CBS Open Data through a Model Context Protocol server, enabling advanced querying and data retrieval.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-dstotijn-mcp-cbs-cijfers-open-data-468040c2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dstotijn-mcp-cbs-cijfers-open-data-468040c2)",
+  "links": {
+    "primary": "https://github.com/dstotijn/mcp-cbs-cijfers-open-data",
+    "repo": "https://github.com/dstotijn/mcp-cbs-cijfers-open-data",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-andylee20014-mcp-replicate-flux-712a6cb2",
+  "name": "andylee20014/mcp-replicate-flux",
+  "description": "Generates images using Replicate's FLUX model and stores them in Cloudflare R2, providing accessible URLs for the generated content.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-andylee20014-mcp-replicate-flux-712a6cb2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-andylee20014-mcp-replicate-flux-712a6cb2)",
+  "links": {
+    "primary": "https://github.com/andylee20014/mcp-replicate-flux",
+    "repo": "https://github.com/andylee20014/mcp-replicate-flux",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

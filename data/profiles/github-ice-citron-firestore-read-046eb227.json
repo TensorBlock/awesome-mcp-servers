@@ -1,0 +1,24 @@
+{
+  "id": "github-ice-citron-firestore-read-046eb227",
+  "name": "Ice-Citron/firestore-read",
+  "description": "A Claude MCP server that facilitates direct interaction with Firestore collections, enhancing workflow efficiency for developers using Claude-Sonnet-3.5.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-ice-citron-firestore-read-046eb227",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ice-citron-firestore-read-046eb227)",
+  "links": {
+    "primary": "https://github.com/Ice-Citron/firestore-read",
+    "repo": "https://github.com/Ice-Citron/firestore-read",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

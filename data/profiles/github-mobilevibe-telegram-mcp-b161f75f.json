@@ -1,0 +1,24 @@
+{
+  "id": "github-mobilevibe-telegram-mcp-b161f75f",
+  "name": "MobileVibe/telegram-mcp",
+  "description": "Facilitates LLMs in sending and receiving notifications through Telegram with customizable urgency levels.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-mobilevibe-telegram-mcp-b161f75f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mobilevibe-telegram-mcp-b161f75f)",
+  "links": {
+    "primary": "https://github.com/MobileVibe/telegram-mcp",
+    "repo": "https://github.com/MobileVibe/telegram-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

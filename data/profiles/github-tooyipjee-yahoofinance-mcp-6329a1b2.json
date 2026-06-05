@@ -1,0 +1,24 @@
+{
+  "id": "github-tooyipjee-yahoofinance-mcp-6329a1b2",
+  "name": "tooyipjee/yahoofinance-mcp",
+  "description": "Provides real-time and historical financial market data from Yahoo Finance for integration with MCP-compatible assistants like Claude.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-tooyipjee-yahoofinance-mcp-6329a1b2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tooyipjee-yahoofinance-mcp-6329a1b2)",
+  "links": {
+    "primary": "https://github.com/tooyipjee/yahoofinance-mcp",
+    "repo": "https://github.com/tooyipjee/yahoofinance-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

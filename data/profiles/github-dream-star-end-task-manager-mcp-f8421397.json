@@ -1,0 +1,24 @@
+{
+  "id": "github-dream-star-end-task-manager-mcp-f8421397",
+  "name": "dream-star-end/task-manager-mcp",
+  "description": "A task management system leveraging MCP for intelligent task parsing, dependency management, and LLM-driven subtask expansion.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-dream-star-end-task-manager-mcp-f8421397",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dream-star-end-task-manager-mcp-f8421397)",
+  "links": {
+    "primary": "https://github.com/dream-star-end/task-manager-mcp",
+    "repo": "https://github.com/dream-star-end/task-manager-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-mjunkwon-langgraph-react-mcp-chat-ed3736b8",
+  "name": "MJunKWON/langgraph-react-mcp-chat",
+  "description": "LangGraph ReAct MCP Chat enables seamless integration with external tools and data sources using Model Context Protocol, offering real-time streaming responses and tool management.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-mjunkwon-langgraph-react-mcp-chat-ed3736b8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mjunkwon-langgraph-react-mcp-chat-ed3736b8)",
+  "links": {
+    "primary": "https://github.com/MJunKWON/langgraph-react-mcp-chat",
+    "repo": "https://github.com/MJunKWON/langgraph-react-mcp-chat",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

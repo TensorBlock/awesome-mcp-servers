@@ -1,0 +1,24 @@
+{
+  "id": "github-imprvhub-mcp-status-observer-23a1ace7",
+  "name": "imprvhub/mcp-status-observer",
+  "description": "Facilitates real-time monitoring and querying of operational statuses for major digital platforms within Claude Desktop.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-imprvhub-mcp-status-observer-23a1ace7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-imprvhub-mcp-status-observer-23a1ace7)",
+  "links": {
+    "primary": "https://github.com/imprvhub/mcp-status-observer",
+    "repo": "https://github.com/imprvhub/mcp-status-observer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

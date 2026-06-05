@@ -1,0 +1,24 @@
+{
+  "id": "github-digitalcube-advanced-backlog-mcp-server-71460a1e",
+  "name": "digitalcube/advanced-backlog-mcp-server",
+  "description": "Facilitates interaction with Backlog for project management through a Model Context Protocol server, enabling efficient querying and management of projects, issues, wikis, and user activities.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-digitalcube-advanced-backlog-mcp-server-71460a1e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-digitalcube-advanced-backlog-mcp-server-71460a1e)",
+  "links": {
+    "primary": "https://github.com/digitalcube/advanced-backlog-mcp-server",
+    "repo": "https://github.com/digitalcube/advanced-backlog-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

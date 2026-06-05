@@ -1,0 +1,24 @@
+{
+  "id": "github-bondzhan-mcp-client-demo1-2dfad1d6",
+  "name": "bondzhan/mcp-client-demo1",
+  "description": "A Node.js client implementation for connecting applications to various MCP servers, enabling interaction through large language models.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-bondzhan-mcp-client-demo1-2dfad1d6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bondzhan-mcp-client-demo1-2dfad1d6)",
+  "links": {
+    "primary": "https://github.com/bondzhan/mcp-client-demo1",
+    "repo": "https://github.com/bondzhan/mcp-client-demo1",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "github-devopsnextgenx-ai-psat-generator-4ef29359",
+  "name": "devopsnextgenx/ai-psat-generator",
+  "description": "Facilitates the testing and deployment of MCP servers using SSE and stdio transports.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-devopsnextgenx-ai-psat-generator-4ef29359",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-devopsnextgenx-ai-psat-generator-4ef29359)",
+  "links": {
+    "primary": "https://github.com/devopsnextgenx/ai-psat-generator",
+    "repo": "https://github.com/devopsnextgenx/ai-psat-generator",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

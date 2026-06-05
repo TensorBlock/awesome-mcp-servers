@@ -1,0 +1,24 @@
+{
+  "id": "github-jlwaugh-agency-625cdc4c",
+  "name": "jlwaugh/agency",
+  "description": "Facilitates integration with Claude Desktop by configuring and launching MCP servers with debugging support.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-jlwaugh-agency-625cdc4c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jlwaugh-agency-625cdc4c)",
+  "links": {
+    "primary": "https://github.com/jlwaugh/agency",
+    "repo": "https://github.com/jlwaugh/agency",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

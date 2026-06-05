@@ -1,0 +1,24 @@
+{
+  "id": "github-cybersecurityup-offensive-mcp-ai-5b9f8d16",
+  "name": "CyberSecurityUP/Offensive-MCP-AI",
+  "description": "A cybersecurity-focused MCP server that integrates AI for autonomous red teaming, threat hunting, and incident response automation.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-cybersecurityup-offensive-mcp-ai-5b9f8d16",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cybersecurityup-offensive-mcp-ai-5b9f8d16)",
+  "links": {
+    "primary": "https://github.com/CyberSecurityUP/Offensive-MCP-AI",
+    "repo": "https://github.com/CyberSecurityUP/Offensive-MCP-AI",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

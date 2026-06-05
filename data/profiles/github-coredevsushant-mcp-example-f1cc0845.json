@@ -1,0 +1,24 @@
+{
+  "id": "github-coredevsushant-mcp-example-f1cc0845",
+  "name": "coredevsushant/mcp.example",
+  "description": "Connects Claude AI with a .NET Web API for real-time data exchange using Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-coredevsushant-mcp-example-f1cc0845",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-coredevsushant-mcp-example-f1cc0845)",
+  "links": {
+    "primary": "https://github.com/coredevsushant/mcp.example",
+    "repo": "https://github.com/coredevsushant/mcp.example",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
