@@ -1,0 +1,24 @@
+{
+  "id": "github-alirezawmoradi-github-follower-manager-mcp-15d0d7fb",
+  "name": "Alirezawmoradi/github-follower-manager-mcp",
+  "description": "Manage and analyze your GitHub follow relationships using the Model Context Protocol for seamless automation and natural language control.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-alirezawmoradi-github-follower-manager-mcp-15d0d7fb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alirezawmoradi-github-follower-manager-mcp-15d0d7fb)",
+  "links": {
+    "primary": "https://github.com/Alirezawmoradi/github-follower-manager-mcp",
+    "repo": "https://github.com/Alirezawmoradi/github-follower-manager-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

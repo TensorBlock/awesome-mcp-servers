@@ -1,0 +1,24 @@
+{
+  "id": "github-hungthai1401-bruno-mcp-d8856f85",
+  "name": "hungthai1401/bruno-mcp",
+  "description": "Facilitates API testing by running Bruno collections and delivering detailed results through a standardized interface.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-hungthai1401-bruno-mcp-d8856f85",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hungthai1401-bruno-mcp-d8856f85)",
+  "links": {
+    "primary": "https://github.com/hungthai1401/bruno-mcp",
+    "repo": "https://github.com/hungthai1401/bruno-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

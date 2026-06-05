@@ -1,0 +1,24 @@
+{
+  "id": "github-epaproditus-google-workspace-mcp-server-6d15e079",
+  "name": "epaproditus/google-workspace-mcp-server",
+  "description": "Facilitates seamless interaction with Gmail and Calendar APIs through a Model Context Protocol server for efficient email and calendar management.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-epaproditus-google-workspace-mcp-server-6d15e079",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-epaproditus-google-workspace-mcp-server-6d15e079)",
+  "links": {
+    "primary": "https://github.com/epaproditus/google-workspace-mcp-server",
+    "repo": "https://github.com/epaproditus/google-workspace-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

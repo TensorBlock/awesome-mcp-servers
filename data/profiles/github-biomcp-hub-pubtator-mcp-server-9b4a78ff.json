@@ -1,0 +1,24 @@
+{
+  "id": "github-biomcp-hub-pubtator-mcp-server-9b4a78ff",
+  "name": "BioMCP-Hub/PubTator-MCP-Server",
+  "description": "Facilitates AI-driven biomedical literature annotation and relationship mining via the PubTator3 system using the MCP interface.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-biomcp-hub-pubtator-mcp-server-9b4a78ff",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-biomcp-hub-pubtator-mcp-server-9b4a78ff)",
+  "links": {
+    "primary": "https://github.com/BioMCP-Hub/PubTator-MCP-Server",
+    "repo": "https://github.com/BioMCP-Hub/PubTator-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

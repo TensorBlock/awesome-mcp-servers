@@ -1,0 +1,24 @@
+{
+  "id": "github-riktesh89-mcp-client-21c3b823",
+  "name": "RIKTESH89/mcp_client",
+  "description": "A TypeScript bridge connecting local LLMs to MCP servers, enabling open-source models to utilize advanced tools for tasks like filesystem operations, web search, and email management.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-riktesh89-mcp-client-21c3b823",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-riktesh89-mcp-client-21c3b823)",
+  "links": {
+    "primary": "https://github.com/RIKTESH89/mcp_client",
+    "repo": "https://github.com/RIKTESH89/mcp_client",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

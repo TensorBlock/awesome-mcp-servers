@@ -1,0 +1,24 @@
+{
+  "id": "github-peakflames-polarionmcpservers-7c027925",
+  "name": "peakflames/PolarionMcpServers",
+  "description": "Facilitates integration with Polarion ALM through Model Context Protocol servers, supporting both server-based and local workstation installations.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-peakflames-polarionmcpservers-7c027925",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-peakflames-polarionmcpservers-7c027925)",
+  "links": {
+    "primary": "https://github.com/peakflames/PolarionMcpServers",
+    "repo": "https://github.com/peakflames/PolarionMcpServers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

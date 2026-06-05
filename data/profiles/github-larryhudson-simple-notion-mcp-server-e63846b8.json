@@ -1,0 +1,24 @@
+{
+  "id": "github-larryhudson-simple-notion-mcp-server-e63846b8",
+  "name": "larryhudson/simple-notion-mcp-server",
+  "description": "Facilitates AI assistant interactions with Notion by converting pages to Markdown for enhanced LLM processing.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-larryhudson-simple-notion-mcp-server-e63846b8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-larryhudson-simple-notion-mcp-server-e63846b8)",
+  "links": {
+    "primary": "https://github.com/larryhudson/simple-notion-mcp-server",
+    "repo": "https://github.com/larryhudson/simple-notion-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

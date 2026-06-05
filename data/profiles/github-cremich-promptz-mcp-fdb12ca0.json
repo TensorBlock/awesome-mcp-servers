@@ -1,0 +1,24 @@
+{
+  "id": "github-cremich-promptz-mcp-fdb12ca0",
+  "name": "cremich/promptz-mcp",
+  "description": "Facilitates seamless access to promptz.dev prompts for AI assistants, minimizing context switching and enhancing workflow efficiency.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-cremich-promptz-mcp-fdb12ca0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cremich-promptz-mcp-fdb12ca0)",
+  "links": {
+    "primary": "https://github.com/cremich/promptz-mcp",
+    "repo": "https://github.com/cremich/promptz-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

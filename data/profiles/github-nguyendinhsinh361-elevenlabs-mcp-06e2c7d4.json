@@ -1,0 +1,24 @@
+{
+  "id": "github-nguyendinhsinh361-elevenlabs-mcp-06e2c7d4",
+  "name": "nguyendinhsinh361/elevenlabs-mcp",
+  "description": "Facilitates interaction with ElevenLabs' Text to Speech and audio processing APIs, enabling MCP clients to generate speech, clone voices, and transcribe audio.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-nguyendinhsinh361-elevenlabs-mcp-06e2c7d4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nguyendinhsinh361-elevenlabs-mcp-06e2c7d4)",
+  "links": {
+    "primary": "https://github.com/nguyendinhsinh361/elevenlabs-mcp",
+    "repo": "https://github.com/nguyendinhsinh361/elevenlabs-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-asingh228-abletonmcp-cursor-29bfd84c",
+  "name": "asingh228/AbletonMCP-Cursor",
+  "description": "Facilitates natural language-driven music composition in Ableton Live through a socket-based API, leveraging MCP-compatible Python commands generated from user prompts.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-asingh228-abletonmcp-cursor-29bfd84c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-asingh228-abletonmcp-cursor-29bfd84c)",
+  "links": {
+    "primary": "https://github.com/asingh228/AbletonMCP-Cursor",
+    "repo": "https://github.com/asingh228/AbletonMCP-Cursor",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

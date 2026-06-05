@@ -1,0 +1,24 @@
+{
+  "id": "github-fradser-mcp-server-apple-reminders-de3a076b",
+  "name": "FradSer/mcp-server-apple-reminders",
+  "description": "Facilitates seamless interaction with Apple Reminders on macOS through a standardized MCP interface.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-fradser-mcp-server-apple-reminders-de3a076b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fradser-mcp-server-apple-reminders-de3a076b)",
+  "links": {
+    "primary": "https://github.com/FradSer/mcp-server-apple-reminders",
+    "repo": "https://github.com/FradSer/mcp-server-apple-reminders",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

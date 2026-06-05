@@ -1,0 +1,24 @@
+{
+  "id": "github-punkpeye-iac-memory-mcp-server-532e0e97",
+  "name": "punkpeye/iac-memory-mcp-server",
+  "description": "Facilitates Infrastructure-as-Code resource management and analysis with custom URI schemes and CRUD operations.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-punkpeye-iac-memory-mcp-server-532e0e97",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-punkpeye-iac-memory-mcp-server-532e0e97)",
+  "links": {
+    "primary": "https://github.com/punkpeye/iac-memory-mcp-server",
+    "repo": "https://github.com/punkpeye/iac-memory-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

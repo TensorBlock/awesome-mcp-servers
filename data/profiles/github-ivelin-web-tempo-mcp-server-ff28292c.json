@@ -1,0 +1,24 @@
+{
+  "id": "github-ivelin-web-tempo-mcp-server-ff28292c",
+  "name": "ivelin-web/tempo-mcp-server",
+  "description": "Facilitates time tracking and worklog management in Jira using Tempo's API, accessible through MCP-compatible clients.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-ivelin-web-tempo-mcp-server-ff28292c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ivelin-web-tempo-mcp-server-ff28292c)",
+  "links": {
+    "primary": "https://github.com/ivelin-web/tempo-mcp-server",
+    "repo": "https://github.com/ivelin-web/tempo-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

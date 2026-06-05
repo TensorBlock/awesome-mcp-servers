@@ -1,0 +1,24 @@
+{
+  "id": "github-yordyi-mcp-notes-000c09a1",
+  "name": "yordyi/mcp-notes",
+  "description": "A sophisticated note management server leveraging MCP for advanced note operations, search, and organization.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-yordyi-mcp-notes-000c09a1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yordyi-mcp-notes-000c09a1)",
+  "links": {
+    "primary": "https://github.com/yordyi/mcp-notes",
+    "repo": "https://github.com/yordyi/mcp-notes",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

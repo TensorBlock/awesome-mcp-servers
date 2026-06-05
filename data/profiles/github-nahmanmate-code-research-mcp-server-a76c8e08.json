@@ -1,0 +1,24 @@
+{
+  "id": "github-nahmanmate-code-research-mcp-server-a76c8e08",
+  "name": "nahmanmate/code-research-mcp-server",
+  "description": "A Model Context Protocol server that facilitates the search and retrieval of programming resources from multiple developer platforms, enhancing LLM capabilities.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-nahmanmate-code-research-mcp-server-a76c8e08",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nahmanmate-code-research-mcp-server-a76c8e08)",
+  "links": {
+    "primary": "https://github.com/nahmanmate/code-research-mcp-server",
+    "repo": "https://github.com/nahmanmate/code-research-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

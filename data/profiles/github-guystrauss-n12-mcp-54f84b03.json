@@ -1,0 +1,24 @@
+{
+  "id": "github-guystrauss-n12-mcp-54f84b03",
+  "name": "guyStrauss/n12-mcp",
+  "description": "Demonstrates a proof of concept for exposing N12 news content via a lightweight Python service using the Model Context Protocol, enabling integration with LLM frontends.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-guystrauss-n12-mcp-54f84b03",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-guystrauss-n12-mcp-54f84b03)",
+  "links": {
+    "primary": "https://github.com/guyStrauss/n12-mcp",
+    "repo": "https://github.com/guyStrauss/n12-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

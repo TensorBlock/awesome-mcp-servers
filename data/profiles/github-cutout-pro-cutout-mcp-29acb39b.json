@@ -1,0 +1,24 @@
+{
+  "id": "github-cutout-pro-cutout-mcp-29acb39b",
+  "name": "cutout-pro/cutout-mcp",
+  "description": "Facilitates seamless integration with cutout.pro API using MCP stdio server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-cutout-pro-cutout-mcp-29acb39b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cutout-pro-cutout-mcp-29acb39b)",
+  "links": {
+    "primary": "https://github.com/cutout-pro/cutout-mcp",
+    "repo": "https://github.com/cutout-pro/cutout-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

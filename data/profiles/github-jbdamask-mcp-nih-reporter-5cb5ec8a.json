@@ -1,0 +1,24 @@
+{
+  "id": "github-jbdamask-mcp-nih-reporter-5cb5ec8a",
+  "name": "jbdamask/mcp-nih-reporter",
+  "description": "Facilitates conversational searches of NIH-funded research projects and publications via the NIH RePORTER API.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-jbdamask-mcp-nih-reporter-5cb5ec8a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jbdamask-mcp-nih-reporter-5cb5ec8a)",
+  "links": {
+    "primary": "https://github.com/jbdamask/mcp-nih-reporter",
+    "repo": "https://github.com/jbdamask/mcp-nih-reporter",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-ohhan777-korea-weather-7c06825d",
+  "name": "ohhan777/korea_weather",
+  "description": "Provides weather data from the Korea Weather Service via MCP protocol for integration with clients like Claude and Cursor.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-ohhan777-korea-weather-7c06825d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ohhan777-korea-weather-7c06825d)",
+  "links": {
+    "primary": "https://github.com/ohhan777/korea_weather",
+    "repo": "https://github.com/ohhan777/korea_weather",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

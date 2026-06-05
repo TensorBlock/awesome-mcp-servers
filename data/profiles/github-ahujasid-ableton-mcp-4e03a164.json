@@ -1,0 +1,24 @@
+{
+  "id": "github-ahujasid-ableton-mcp-4e03a164",
+  "name": "ahujasid/ableton-mcp",
+  "description": "Connects Ableton Live to Claude AI for interactive music production and session control via the Model Context Protocol.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-ahujasid-ableton-mcp-4e03a164",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ahujasid-ableton-mcp-4e03a164)",
+  "links": {
+    "primary": "https://github.com/ahujasid/ableton-mcp",
+    "repo": "https://github.com/ahujasid/ableton-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
