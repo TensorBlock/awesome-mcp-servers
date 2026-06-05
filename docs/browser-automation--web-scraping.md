@@ -278,3 +278,4 @@ Servers using tools for browser control, automation, and extracting content from
 - [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp): Native Safari browser automation for AI agents via AppleScript — 80 tools, zero overhead, keeps logins, runs silently in background. macOS only.
 - [yifanyifan897645/webcheck-mcp](https://github.com/yifanyifan897645/webcheck-mcp): Website health checker MCP server: SEO audit, accessibility scan, broken link detection, and performance analysis.
 - [yifanyifan897645/deadlink-checker-mcp](https://github.com/yifanyifan897645/deadlink-checker-mcp): Dead link checker MCP server for websites: detects broken links, redirects, and timeouts with detailed reporting.
+- [searchapi/searchapi-mcp](https://github.com/searchapi/searchapi-mcp) - Real-time SERP and web data for AI assistants: 100+ tools across Google, Bing, Amazon, YouTube, Maps, travel, and social from one remote MCP server.
