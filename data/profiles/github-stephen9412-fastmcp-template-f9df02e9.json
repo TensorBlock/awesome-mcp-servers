@@ -1,0 +1,24 @@
+{
+  "id": "github-stephen9412-fastmcp-template-f9df02e9",
+  "name": "stephen9412/fastmcp-template",
+  "description": "A lightweight template for developing and publishing FastMCP servers with TypeScript support and stateless design for npx compatibility.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-stephen9412-fastmcp-template-f9df02e9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stephen9412-fastmcp-template-f9df02e9)",
+  "links": {
+    "primary": "https://github.com/stephen9412/fastmcp-template",
+    "repo": "https://github.com/stephen9412/fastmcp-template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

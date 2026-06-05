@@ -1,0 +1,24 @@
+{
+  "id": "github-petrsovadina-mcp-atlassian-6a8452ab",
+  "name": "petrsovadina/mcp-atlassian",
+  "description": "Facilitates seamless integration of Atlassian's Confluence and Jira with Model Context Protocol for efficient content and issue management.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-petrsovadina-mcp-atlassian-6a8452ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-petrsovadina-mcp-atlassian-6a8452ab)",
+  "links": {
+    "primary": "https://github.com/petrsovadina/mcp-atlassian",
+    "repo": "https://github.com/petrsovadina/mcp-atlassian",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

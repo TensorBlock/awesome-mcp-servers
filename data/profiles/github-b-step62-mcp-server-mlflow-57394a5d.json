@@ -1,0 +1,24 @@
+{
+  "id": "github-b-step62-mcp-server-mlflow-57394a5d",
+  "name": "B-Step62/mcp-server-mlflow",
+  "description": "Facilitates access to MLflow Prompt Registry for managing and utilizing prompt templates in Claude Desktop.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-b-step62-mcp-server-mlflow-57394a5d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-b-step62-mcp-server-mlflow-57394a5d)",
+  "links": {
+    "primary": "https://github.com/B-Step62/mcp-server-mlflow",
+    "repo": "https://github.com/B-Step62/mcp-server-mlflow",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

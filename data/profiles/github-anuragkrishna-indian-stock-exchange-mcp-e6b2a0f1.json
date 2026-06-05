@@ -1,0 +1,24 @@
+{
+  "id": "github-anuragkrishna-indian-stock-exchange-mcp-e6b2a0f1",
+  "name": "anuragkrishna/Indian-Stock-Exchange-MCP",
+  "description": "Provides comprehensive financial data and insights for companies listed on the Bombay and National Stock Exchanges.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-anuragkrishna-indian-stock-exchange-mcp-e6b2a0f1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anuragkrishna-indian-stock-exchange-mcp-e6b2a0f1)",
+  "links": {
+    "primary": "https://github.com/anuragkrishna/Indian-Stock-Exchange-MCP",
+    "repo": "https://github.com/anuragkrishna/Indian-Stock-Exchange-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-johnhenry-memories-lane-469eaf4e",
+  "name": "johnhenry/memories-lane",
+  "description": "Facilitates seamless sharing of conversation context across interactions with LLMs, supporting structured content and customizable prompts.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-johnhenry-memories-lane-469eaf4e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-johnhenry-memories-lane-469eaf4e)",
+  "links": {
+    "primary": "https://github.com/johnhenry/memories-lane",
+    "repo": "https://github.com/johnhenry/memories-lane",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

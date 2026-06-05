@@ -1,0 +1,24 @@
+{
+  "id": "github-alexissinglaire-filesystemcustom-final-3e5f25bd",
+  "name": "alexissinglaire/filesystemcustom_final",
+  "description": "Node.js server for executing filesystem operations via Model Context Protocol, enabling file manipulation and directory management within specified boundaries.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-alexissinglaire-filesystemcustom-final-3e5f25bd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexissinglaire-filesystemcustom-final-3e5f25bd)",
+  "links": {
+    "primary": "https://github.com/alexissinglaire/filesystemcustom_final",
+    "repo": "https://github.com/alexissinglaire/filesystemcustom_final",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-janwilmake-curlmcp-750309c2",
+  "name": "janwilmake/curlmcp",
+  "description": "A versatile MCP server offering REST API and browser integration for seamless HTTP requests, with OAuth support and markdown transformation for popular sites.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-janwilmake-curlmcp-750309c2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-janwilmake-curlmcp-750309c2)",
+  "links": {
+    "primary": "https://github.com/janwilmake/curlmcp",
+    "repo": "https://github.com/janwilmake/curlmcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

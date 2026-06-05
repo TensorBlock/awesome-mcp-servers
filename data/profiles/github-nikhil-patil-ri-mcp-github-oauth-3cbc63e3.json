@@ -1,0 +1,24 @@
+{
+  "id": "github-nikhil-patil-ri-mcp-github-oauth-3cbc63e3",
+  "name": "Nikhil-Patil-RI/MCP-Github-Oauth",
+  "description": "Facilitates GitHub OAuth integration through an MCP server setup, enabling streamlined authentication processes.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-nikhil-patil-ri-mcp-github-oauth-3cbc63e3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nikhil-patil-ri-mcp-github-oauth-3cbc63e3)",
+  "links": {
+    "primary": "https://github.com/Nikhil-Patil-RI/MCP-Github-Oauth",
+    "repo": "https://github.com/Nikhil-Patil-RI/MCP-Github-Oauth",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

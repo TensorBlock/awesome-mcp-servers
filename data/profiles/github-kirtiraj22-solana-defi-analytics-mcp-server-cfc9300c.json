@@ -1,0 +1,24 @@
+{
+  "id": "github-kirtiraj22-solana-defi-analytics-mcp-server-cfc9300c",
+  "name": "kirtiraj22/Solana-DeFi-Analytics-MCP-Server",
+  "description": "Provides comprehensive analytics and insights for Solana wallets and their DeFi activities, including transaction analysis, risk profiling, and strategy recommendations.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-kirtiraj22-solana-defi-analytics-mcp-server-cfc9300c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kirtiraj22-solana-defi-analytics-mcp-server-cfc9300c)",
+  "links": {
+    "primary": "https://github.com/kirtiraj22/Solana-DeFi-Analytics-MCP-Server",
+    "repo": "https://github.com/kirtiraj22/Solana-DeFi-Analytics-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

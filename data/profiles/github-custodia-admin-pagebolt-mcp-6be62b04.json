@@ -1,0 +1,24 @@
+{
+  "id": "github-custodia-admin-pagebolt-mcp-6be62b04",
+  "name": "Custodia-Admin/pagebolt-mcp",
+  "description": "Provides hosted web capture and browser automation via REST API and MCP. Supports screenshot, PDF, OG image, multi-step sequences, AI-narrated video recording, and page inspection (CSS selectors + element maps for AI agents). Works natively in Claude Desktop, Cursor, and Windsurf.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-custodia-admin-pagebolt-mcp-6be62b04",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-custodia-admin-pagebolt-mcp-6be62b04)",
+  "links": {
+    "primary": "https://github.com/Custodia-Admin/pagebolt-mcp",
+    "repo": "https://github.com/Custodia-Admin/pagebolt-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

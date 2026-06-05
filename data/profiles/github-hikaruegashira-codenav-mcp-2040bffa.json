@@ -1,0 +1,24 @@
+{
+  "id": "github-hikaruegashira-codenav-mcp-2040bffa",
+  "name": "HikaruEgashira/codenav-mcp",
+  "description": "Enhance code navigation with Tree-Sitter Stack Graphs using the CodeNav MCP server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-hikaruegashira-codenav-mcp-2040bffa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hikaruegashira-codenav-mcp-2040bffa)",
+  "links": {
+    "primary": "https://github.com/HikaruEgashira/codenav-mcp",
+    "repo": "https://github.com/HikaruEgashira/codenav-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

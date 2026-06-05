@@ -1,0 +1,24 @@
+{
+  "id": "github-caretdev-mcp-server-iris-01739dc7",
+  "name": "caretdev/mcp-server-iris",
+  "description": "Facilitates seamless interaction and automation with InterSystems IRIS databases using the Model Context Protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-caretdev-mcp-server-iris-01739dc7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-caretdev-mcp-server-iris-01739dc7)",
+  "links": {
+    "primary": "https://github.com/caretdev/mcp-server-iris",
+    "repo": "https://github.com/caretdev/mcp-server-iris",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

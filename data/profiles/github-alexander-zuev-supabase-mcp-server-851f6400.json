@@ -1,0 +1,24 @@
+{
+  "id": "github-alexander-zuev-supabase-mcp-server-851f6400",
+  "name": "alexander-zuev/supabase-mcp-server",
+  "description": "Facilitates seamless management of Supabase projects through a chat interface, enabling SQL query execution, schema management, and API interactions with robust safety controls.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-alexander-zuev-supabase-mcp-server-851f6400",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexander-zuev-supabase-mcp-server-851f6400)",
+  "links": {
+    "primary": "https://github.com/alexander-zuev/supabase-mcp-server",
+    "repo": "https://github.com/alexander-zuev/supabase-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

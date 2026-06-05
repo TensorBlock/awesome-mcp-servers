@@ -1,0 +1,24 @@
+{
+  "id": "github-jpheimonen-code-oracle-963478e5",
+  "name": "jpheimonen/code-oracle",
+  "description": "Code Oracle leverages AI to efficiently locate code within large codebases using Gemini 2.5 Flash, integrating seamlessly as an MCP server in Cursor.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-jpheimonen-code-oracle-963478e5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jpheimonen-code-oracle-963478e5)",
+  "links": {
+    "primary": "https://github.com/jpheimonen/code-oracle",
+    "repo": "https://github.com/jpheimonen/code-oracle",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-strongmonkey-mcp-poc-bca7fc8d",
+  "name": "StrongMonkey/mcp-poc",
+  "description": "A Go service that interfaces with MCP servers, providing their tools through a RESTful API and OpenAPI documentation.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-strongmonkey-mcp-poc-bca7fc8d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-strongmonkey-mcp-poc-bca7fc8d)",
+  "links": {
+    "primary": "https://github.com/StrongMonkey/mcp-poc",
+    "repo": "https://github.com/StrongMonkey/mcp-poc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

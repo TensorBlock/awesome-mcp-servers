@@ -1,0 +1,24 @@
+{
+  "id": "github-rlagudals95-mcp-figma-cd30d5f6",
+  "name": "rlagudals95/mcp_figma",
+  "description": "Facilitates AI-powered coding tools to access and utilize Figma design data for enhanced design implementation.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-rlagudals95-mcp-figma-cd30d5f6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rlagudals95-mcp-figma-cd30d5f6)",
+  "links": {
+    "primary": "https://github.com/rlagudals95/mcp_figma",
+    "repo": "https://github.com/rlagudals95/mcp_figma",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

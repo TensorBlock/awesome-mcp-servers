@@ -1,0 +1,24 @@
+{
+  "id": "github-avinashbole-quip-mcp-server-2a18c02b",
+  "name": "AvinashBole/quip-mcp-server",
+  "description": "Facilitates seamless interaction with Quip documents through AI assistants by leveraging the Model Context Protocol.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-avinashbole-quip-mcp-server-2a18c02b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-avinashbole-quip-mcp-server-2a18c02b)",
+  "links": {
+    "primary": "https://github.com/AvinashBole/quip-mcp-server",
+    "repo": "https://github.com/AvinashBole/quip-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

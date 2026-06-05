@@ -1,0 +1,24 @@
+{
+  "id": "github-skydeckai-mcp-rememberizer-vectordb-c8f35354",
+  "name": "skydeckai/mcp-rememberizer-vectordb",
+  "description": "Facilitates LLM interactions with Rememberizer Vector Store for semantic document search and management.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-skydeckai-mcp-rememberizer-vectordb-c8f35354",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-skydeckai-mcp-rememberizer-vectordb-c8f35354)",
+  "links": {
+    "primary": "https://github.com/skydeckai/mcp-rememberizer-vectordb",
+    "repo": "https://github.com/skydeckai/mcp-rememberizer-vectordb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

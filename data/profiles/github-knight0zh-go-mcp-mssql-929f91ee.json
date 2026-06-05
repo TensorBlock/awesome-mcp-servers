@@ -1,0 +1,24 @@
+{
+  "id": "github-knight0zh-go-mcp-mssql-929f91ee",
+  "name": "knight0zh/go-mcp-mssql",
+  "description": "A Go-based MCP service for managing and operating MSSQL databases, offering a suite of tools for AI integration.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-knight0zh-go-mcp-mssql-929f91ee",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-knight0zh-go-mcp-mssql-929f91ee)",
+  "links": {
+    "primary": "https://github.com/knight0zh/go-mcp-mssql",
+    "repo": "https://github.com/knight0zh/go-mcp-mssql",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-yerdna1-mcp-figma-ebce050b",
+  "name": "Yerdna1/MCP_figma",
+  "description": "Facilitates AI coding agents in accessing Figma files and prototypes through a Python-based MCP server.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-yerdna1-mcp-figma-ebce050b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yerdna1-mcp-figma-ebce050b)",
+  "links": {
+    "primary": "https://github.com/Yerdna1/MCP_figma",
+    "repo": "https://github.com/Yerdna1/MCP_figma",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

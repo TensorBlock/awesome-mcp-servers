@@ -1,0 +1,24 @@
+{
+  "id": "github-fkdevsoft-mssql-mcp-server-copy-1d348244",
+  "name": "fkdevsoft/mssql-mcp-server-copy",
+  "description": "Facilitates SQL query execution and database management for Microsoft SQL Server through MCP integration.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-fkdevsoft-mssql-mcp-server-copy-1d348244",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fkdevsoft-mssql-mcp-server-copy-1d348244)",
+  "links": {
+    "primary": "https://github.com/fkdevsoft/mssql-mcp-server-copy",
+    "repo": "https://github.com/fkdevsoft/mssql-mcp-server-copy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

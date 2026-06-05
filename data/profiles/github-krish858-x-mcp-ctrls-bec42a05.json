@@ -1,0 +1,24 @@
+{
+  "id": "github-krish858-x-mcp-ctrls-bec42a05",
+  "name": "krish858/x-mcp-ctrls",
+  "description": "Facilitates control of X accounts via LLM agents like Claude-desktop and Cursor.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-krish858-x-mcp-ctrls-bec42a05",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-krish858-x-mcp-ctrls-bec42a05)",
+  "links": {
+    "primary": "https://github.com/krish858/x-mcp-ctrls",
+    "repo": "https://github.com/krish858/x-mcp-ctrls",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

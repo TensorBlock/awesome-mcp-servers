@@ -1,0 +1,24 @@
+{
+  "id": "github-synaptic-labs-ai-claudesidian-9692e2df",
+  "name": "Synaptic-Labs-AI/claudesidian",
+  "description": "Facilitates seamless interaction with Obsidian vaults through a robust server setup, offering tools for note creation, editing, and web content scraping.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-synaptic-labs-ai-claudesidian-9692e2df",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-synaptic-labs-ai-claudesidian-9692e2df)",
+  "links": {
+    "primary": "https://github.com/Synaptic-Labs-AI/claudesidian",
+    "repo": "https://github.com/Synaptic-Labs-AI/claudesidian",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-chinlung-weather-api-project-cff78c65",
+  "name": "chinlung/weather-api-project",
+  "description": "A dedicated MCP server for Claude AI, providing real-time weather forecasts, alerts, and rainfall data from Taiwan's Central Weather Bureau.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-chinlung-weather-api-project-cff78c65",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chinlung-weather-api-project-cff78c65)",
+  "links": {
+    "primary": "https://github.com/chinlung/weather-api-project",
+    "repo": "https://github.com/chinlung/weather-api-project",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-billster45-mcp-chatgpt-responses-baa57a81",
+  "name": "billster45/mcp-chatgpt-responses",
+  "description": "Facilitates seamless interaction with OpenAI's ChatGPT API for dynamic conversation management and web-enabled responses.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-billster45-mcp-chatgpt-responses-baa57a81",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-billster45-mcp-chatgpt-responses-baa57a81)",
+  "links": {
+    "primary": "https://github.com/billster45/mcp-chatgpt-responses",
+    "repo": "https://github.com/billster45/mcp-chatgpt-responses",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-tradesdontlie-task-manager-mcp-d6984e16",
+  "name": "tradesdontlie/task-manager-mcp",
+  "description": "Facilitates comprehensive task and project management with AI-driven task breakdown and tracking capabilities.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-tradesdontlie-task-manager-mcp-d6984e16",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tradesdontlie-task-manager-mcp-d6984e16)",
+  "links": {
+    "primary": "https://github.com/tradesdontlie/task-manager-mcp",
+    "repo": "https://github.com/tradesdontlie/task-manager-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
