@@ -1,0 +1,24 @@
+{
+  "id": "github-ritza-co-racing-lap-counter-typescript-84677eb5",
+  "name": "ritza-co/racing-lap-counter-typescript",
+  "description": "A TypeScript SDK that provides a developer-friendly interface for managing racing drivers and their lap times, with MCP server capabilities for AI tool integration.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-ritza-co-racing-lap-counter-typescript-84677eb5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ritza-co-racing-lap-counter-typescript-84677eb5)",
+  "links": {
+    "primary": "https://github.com/ritza-co/racing-lap-counter-typescript",
+    "repo": "https://github.com/ritza-co/racing-lap-counter-typescript",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

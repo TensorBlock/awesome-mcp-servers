@@ -1,0 +1,24 @@
+{
+  "id": "github-zahidgalea-windtools-mcp-c4284d35",
+  "name": "ZahidGalea/windtools-mcp",
+  "description": "Facilitates semantic code search and repository indexing using ChromaDB and sentence transformers.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-zahidgalea-windtools-mcp-c4284d35",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zahidgalea-windtools-mcp-c4284d35)",
+  "links": {
+    "primary": "https://github.com/ZahidGalea/windtools-mcp",
+    "repo": "https://github.com/ZahidGalea/windtools-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

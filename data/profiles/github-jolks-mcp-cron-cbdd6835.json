@@ -1,0 +1,24 @@
+{
+  "id": "github-jolks-mcp-cron-cbdd6835",
+  "name": "jolks/mcp-cron",
+  "description": "Efficiently schedule and manage tasks using cron expressions with seamless integration via the MCP protocol.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-jolks-mcp-cron-cbdd6835",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jolks-mcp-cron-cbdd6835)",
+  "links": {
+    "primary": "https://github.com/jolks/mcp-cron",
+    "repo": "https://github.com/jolks/mcp-cron",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

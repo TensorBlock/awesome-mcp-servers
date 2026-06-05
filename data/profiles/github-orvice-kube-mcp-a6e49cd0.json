@@ -1,0 +1,24 @@
+{
+  "id": "github-orvice-kube-mcp-a6e49cd0",
+  "name": "orvice/kube-mcp",
+  "description": "Kube-mcp offers a suite of tools for seamless management and interaction with Kubernetes clusters.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-orvice-kube-mcp-a6e49cd0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-orvice-kube-mcp-a6e49cd0)",
+  "links": {
+    "primary": "https://github.com/orvice/kube-mcp",
+    "repo": "https://github.com/orvice/kube-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

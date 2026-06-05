@@ -1,0 +1,24 @@
+{
+  "id": "github-tenacl-naver-shopping-insight-mcp-55f09a83",
+  "name": "tenacl/naver-shopping-insight-mcp",
+  "description": "Provides shopping trend data from Naver Shopping Insight in MCP format, enabling trend analysis by category, device, gender, age, and keyword.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-tenacl-naver-shopping-insight-mcp-55f09a83",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tenacl-naver-shopping-insight-mcp-55f09a83)",
+  "links": {
+    "primary": "https://github.com/tenacl/naver-shopping-insight-mcp",
+    "repo": "https://github.com/tenacl/naver-shopping-insight-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

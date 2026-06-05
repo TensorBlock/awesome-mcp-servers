@@ -1,0 +1,24 @@
+{
+  "id": "github-github-hewei-mcp-android-adb-server-256416d4",
+  "name": "github-hewei/mcp-android-adb-server",
+  "description": "Facilitates Android device management through ADB commands, enhanced with visual model integration for screen content description.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-github-hewei-mcp-android-adb-server-256416d4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-github-hewei-mcp-android-adb-server-256416d4)",
+  "links": {
+    "primary": "https://github.com/github-hewei/mcp-android-adb-server",
+    "repo": "https://github.com/github-hewei/mcp-android-adb-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

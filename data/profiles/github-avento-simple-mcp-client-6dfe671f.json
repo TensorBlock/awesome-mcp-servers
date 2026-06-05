@@ -1,0 +1,24 @@
+{
+  "id": "github-avento-simple-mcp-client-6dfe671f",
+  "name": "Avento/Simple_MCP_Client",
+  "description": "A simple chatbot implementation using the Model Context Protocol (MCP) to interact with various tools and LLM providers.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-avento-simple-mcp-client-6dfe671f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-avento-simple-mcp-client-6dfe671f)",
+  "links": {
+    "primary": "https://github.com/Avento/Simple_MCP_Client",
+    "repo": "https://github.com/Avento/Simple_MCP_Client",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

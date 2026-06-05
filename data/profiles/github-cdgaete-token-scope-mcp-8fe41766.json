@@ -1,0 +1,24 @@
+{
+  "id": "github-cdgaete-token-scope-mcp-8fe41766",
+  "name": "cdgaete/token-scope-mcp",
+  "description": "TokenScope offers token-aware directory exploration and analysis for LLMs, enhancing codebase understanding through intelligent summaries and comprehensive reporting.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-cdgaete-token-scope-mcp-8fe41766",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cdgaete-token-scope-mcp-8fe41766)",
+  "links": {
+    "primary": "https://github.com/cdgaete/token-scope-mcp",
+    "repo": "https://github.com/cdgaete/token-scope-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-nccasia-mezon-mcp-345c17d6",
+  "name": "nccasia/mezon-mcp",
+  "description": "Enables LLMs to interact with Mezon channels for sending and reading messages through Mezon's API.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-nccasia-mezon-mcp-345c17d6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nccasia-mezon-mcp-345c17d6)",
+  "links": {
+    "primary": "https://github.com/nccasia/mezon-mcp",
+    "repo": "https://github.com/nccasia/mezon-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

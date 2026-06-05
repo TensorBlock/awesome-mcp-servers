@@ -1,0 +1,24 @@
+{
+  "id": "github-pbohannon-notion-api-mcp-be6d4365",
+  "name": "pbohannon/notion-api-mcp",
+  "description": "Enhances AI model interactions with Notion through advanced task management and real-time database operations.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-pbohannon-notion-api-mcp-be6d4365",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pbohannon-notion-api-mcp-be6d4365)",
+  "links": {
+    "primary": "https://github.com/pbohannon/notion-api-mcp",
+    "repo": "https://github.com/pbohannon/notion-api-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

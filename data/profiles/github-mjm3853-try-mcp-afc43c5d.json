@@ -1,0 +1,24 @@
+{
+  "id": "github-mjm3853-try-mcp-afc43c5d",
+  "name": "mjm3853/try-mcp",
+  "description": "A demonstration server showcasing the integration and management of machine learning models using the Model Context Protocol (MCP) with the Python SDK.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-mjm3853-try-mcp-afc43c5d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mjm3853-try-mcp-afc43c5d)",
+  "links": {
+    "primary": "https://github.com/mjm3853/try-mcp",
+    "repo": "https://github.com/mjm3853/try-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

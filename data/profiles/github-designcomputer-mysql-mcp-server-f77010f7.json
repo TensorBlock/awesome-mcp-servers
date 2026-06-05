@@ -1,0 +1,24 @@
+{
+  "id": "github-designcomputer-mysql-mcp-server-f77010f7",
+  "name": "designcomputer/mysql_mcp_server",
+  "description": "Facilitates secure interaction between AI applications and MySQL databases through a structured MCP interface.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-designcomputer-mysql-mcp-server-f77010f7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-designcomputer-mysql-mcp-server-f77010f7)",
+  "links": {
+    "primary": "https://github.com/designcomputer/mysql_mcp_server",
+    "repo": "https://github.com/designcomputer/mysql_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

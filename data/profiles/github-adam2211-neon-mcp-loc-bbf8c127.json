@@ -1,0 +1,24 @@
+{
+  "id": "github-adam2211-neon-mcp-loc-bbf8c127",
+  "name": "adam2211/neon-mcp-loc",
+  "description": "Facilitates natural language interaction with Neon Postgres databases, enabling seamless database management and migrations through intuitive commands.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-adam2211-neon-mcp-loc-bbf8c127",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adam2211-neon-mcp-loc-bbf8c127)",
+  "links": {
+    "primary": "https://github.com/adam2211/neon-mcp-loc",
+    "repo": "https://github.com/adam2211/neon-mcp-loc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

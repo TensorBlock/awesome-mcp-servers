@@ -1,0 +1,24 @@
+{
+  "id": "github-nan-qin-mcp-mongodb-9858bb78",
+  "name": "nan-qin/mcp-mongodb",
+  "description": "Facilitates MongoDB operations through an MCP server with capabilities for resource reading and multi-collection queries.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-nan-qin-mcp-mongodb-9858bb78",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nan-qin-mcp-mongodb-9858bb78)",
+  "links": {
+    "primary": "https://github.com/nan-qin/mcp-mongodb",
+    "repo": "https://github.com/nan-qin/mcp-mongodb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

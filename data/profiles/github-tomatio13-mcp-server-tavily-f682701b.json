@@ -1,0 +1,24 @@
+{
+  "id": "github-tomatio13-mcp-server-tavily-f682701b",
+  "name": "Tomatio13/mcp-server-tavily",
+  "description": "Facilitates detailed web searches using the Tavily API, returning AI-enhanced results with URIs and titles.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-tomatio13-mcp-server-tavily-f682701b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tomatio13-mcp-server-tavily-f682701b)",
+  "links": {
+    "primary": "https://github.com/Tomatio13/mcp-server-tavily",
+    "repo": "https://github.com/Tomatio13/mcp-server-tavily",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

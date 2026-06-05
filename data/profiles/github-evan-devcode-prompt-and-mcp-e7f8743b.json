@@ -1,0 +1,24 @@
+{
+  "id": "github-evan-devcode-prompt-and-mcp-e7f8743b",
+  "name": "Evan-Devcode/prompt-and-MCP",
+  "description": "A comprehensive resource hub for developers to explore and integrate various MCP servers, including automation, memory management, and version control capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-evan-devcode-prompt-and-mcp-e7f8743b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-evan-devcode-prompt-and-mcp-e7f8743b)",
+  "links": {
+    "primary": "https://github.com/Evan-Devcode/prompt-and-MCP",
+    "repo": "https://github.com/Evan-Devcode/prompt-and-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

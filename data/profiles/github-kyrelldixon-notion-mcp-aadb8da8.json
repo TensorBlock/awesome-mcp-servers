@@ -1,0 +1,24 @@
+{
+  "id": "github-kyrelldixon-notion-mcp-aadb8da8",
+  "name": "kyrelldixon/notion-mcp",
+  "description": "Facilitates AI assistants' interaction with Notion workspaces by providing a standardized interface for accessing and manipulating Notion content.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-kyrelldixon-notion-mcp-aadb8da8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kyrelldixon-notion-mcp-aadb8da8)",
+  "links": {
+    "primary": "https://github.com/kyrelldixon/notion-mcp",
+    "repo": "https://github.com/kyrelldixon/notion-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

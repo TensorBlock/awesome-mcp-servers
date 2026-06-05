@@ -1,0 +1,24 @@
+{
+  "id": "github-jkawamoto-mcp-bear-5eecfc39",
+  "name": "jkawamoto/mcp-bear",
+  "description": "Facilitates interaction with Bear note-taking software through a Model Context Protocol server, enabling actions like opening notes, managing tags, and searching.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-jkawamoto-mcp-bear-5eecfc39",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jkawamoto-mcp-bear-5eecfc39)",
+  "links": {
+    "primary": "https://github.com/jkawamoto/mcp-bear",
+    "repo": "https://github.com/jkawamoto/mcp-bear",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

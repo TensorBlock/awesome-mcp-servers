@@ -1,0 +1,24 @@
+{
+  "id": "github-rmarescu-gumroad-mcp-06c90f9d",
+  "name": "rmarescu/gumroad-mcp",
+  "description": "Facilitates AI-driven interactions with Gumroad's API for managing products, sales, and offer codes.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-rmarescu-gumroad-mcp-06c90f9d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rmarescu-gumroad-mcp-06c90f9d)",
+  "links": {
+    "primary": "https://github.com/rmarescu/gumroad-mcp",
+    "repo": "https://github.com/rmarescu/gumroad-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-iamwavecut-mcp-think-4521d6a6",
+  "name": "iamwavecut/MCP-Think",
+  "description": "MCP-Think enables LLMs to document and access their reasoning processes using a Model Context Protocol server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-iamwavecut-mcp-think-4521d6a6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iamwavecut-mcp-think-4521d6a6)",
+  "links": {
+    "primary": "https://github.com/iamwavecut/MCP-Think",
+    "repo": "https://github.com/iamwavecut/MCP-Think",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

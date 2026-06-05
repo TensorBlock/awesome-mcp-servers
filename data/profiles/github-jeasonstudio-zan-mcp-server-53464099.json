@@ -1,0 +1,24 @@
+{
+  "id": "github-jeasonstudio-zan-mcp-server-53464099",
+  "name": "jeasonstudio/zan-mcp-server",
+  "description": "Facilitates seamless blockchain interaction for AI assistants by providing a Model Context Protocol server tailored for ZAN.top node services.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-jeasonstudio-zan-mcp-server-53464099",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jeasonstudio-zan-mcp-server-53464099)",
+  "links": {
+    "primary": "https://github.com/jeasonstudio/zan-mcp-server",
+    "repo": "https://github.com/jeasonstudio/zan-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

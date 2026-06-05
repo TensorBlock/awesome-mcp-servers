@@ -1,0 +1,24 @@
+{
+  "id": "goldrush-dev-docs-goldrush-mcp-server-7e1fac02",
+  "name": "covalenthq/goldrush-mcp-server",
+  "description": "Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/goldrush-dev-docs-goldrush-mcp-server-7e1fac02",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/goldrush-dev-docs-goldrush-mcp-server-7e1fac02)",
+  "links": {
+    "primary": "https://goldrush.dev/docs/goldrush-mcp-server",
+    "repo": null,
+    "homepage": "https://goldrush.dev/docs/goldrush-mcp-server",
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
