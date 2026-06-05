@@ -112,3 +112,5 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 
 - [Vulert](https://www.vulert.com): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
 - [autonomous-testing/wopee-mcp](https://github.com/autonomous-testing/wopee-mcp): AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
+- [Aboudjem/sniff](https://github.com/Aboudjem/sniff): Autonomous QA and accessibility scanner that walks real user flows in a headless browser, reporting broken pages, dead links, console errors, and WCAG issues. Install with `npx -y sniff-qa --mcp`.
+- [Aboudjem/ui-ux-suite](https://github.com/Aboudjem/ui-ux-suite): UI/UX design-audit server that scores a project across 12 dimensions including color contrast, typography, accessibility, layout, and spacing against WCAG 2.2 and APCA. Install with `npx -y ui-ux-suite`.
