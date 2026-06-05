@@ -1,0 +1,24 @@
+{
+  "id": "github-anshuopinion-react-icons-mcp-3c703afa",
+  "name": "anshuopinion/react-icons-mcp",
+  "description": "Facilitates AI coding tools in accessing and understanding the React Icons library for enhanced coding assistance.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-anshuopinion-react-icons-mcp-3c703afa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anshuopinion-react-icons-mcp-3c703afa)",
+  "links": {
+    "primary": "https://github.com/anshuopinion/react-icons-mcp",
+    "repo": "https://github.com/anshuopinion/react-icons-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

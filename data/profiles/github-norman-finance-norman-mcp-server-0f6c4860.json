@@ -1,0 +1,24 @@
+{
+  "id": "github-norman-finance-norman-mcp-server-0f6c4860",
+  "name": "norman-finance/norman-mcp-server",
+  "description": "Facilitates interaction between LLMs and the Norman Finance API for managing accounting, invoices, and client data.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-norman-finance-norman-mcp-server-0f6c4860",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-norman-finance-norman-mcp-server-0f6c4860)",
+  "links": {
+    "primary": "https://github.com/norman-finance/norman-mcp-server",
+    "repo": "https://github.com/norman-finance/norman-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-uai-solana-useful-ai-mcp-bf49f1f1",
+  "name": "uAI-solana/useful-ai-mcp",
+  "description": "Fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data. Dispatch tasks in plain English, get structured output. No auth required. `https://api.usefulai.fun/mcp`",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-uai-solana-useful-ai-mcp-bf49f1f1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-uai-solana-useful-ai-mcp-bf49f1f1)",
+  "links": {
+    "primary": "https://github.com/uAI-solana/useful-ai-mcp",
+    "repo": "https://github.com/uAI-solana/useful-ai-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://api.usefulai.fun/mcp"
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

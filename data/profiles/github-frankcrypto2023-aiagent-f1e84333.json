@@ -1,0 +1,24 @@
+{
+  "id": "github-frankcrypto2023-aiagent-f1e84333",
+  "name": "frankcrypto2023/aiagent",
+  "description": "AI Agent integrates with external tools using MCP to enhance backend service capabilities for intelligent data retrieval and processing.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-frankcrypto2023-aiagent-f1e84333",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-frankcrypto2023-aiagent-f1e84333)",
+  "links": {
+    "primary": "https://github.com/frankcrypto2023/aiagent",
+    "repo": "https://github.com/frankcrypto2023/aiagent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

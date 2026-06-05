@@ -1,0 +1,24 @@
+{
+  "id": "github-seanlf-weather-mcp-b25101d1",
+  "name": "SeanLF/weather-mcp",
+  "description": "Provides weather forecast data from the Government of Canada Weather API, integrating seamlessly with Claude Desktop and other MCP-compatible clients.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-seanlf-weather-mcp-b25101d1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-seanlf-weather-mcp-b25101d1)",
+  "links": {
+    "primary": "https://github.com/SeanLF/weather-mcp",
+    "repo": "https://github.com/SeanLF/weather-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

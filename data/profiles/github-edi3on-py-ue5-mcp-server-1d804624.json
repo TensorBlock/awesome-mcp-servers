@@ -1,0 +1,24 @@
+{
+  "id": "github-edi3on-py-ue5-mcp-server-1d804624",
+  "name": "edi3on/py-ue5-mcp-server",
+  "description": "Facilitates natural language interaction with Unreal Engine 5, enabling users to create and manipulate 3D objects and Blueprint actors through conversational commands with Claude.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-edi3on-py-ue5-mcp-server-1d804624",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-edi3on-py-ue5-mcp-server-1d804624)",
+  "links": {
+    "primary": "https://github.com/edi3on/py-ue5-mcp-server",
+    "repo": "https://github.com/edi3on/py-ue5-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

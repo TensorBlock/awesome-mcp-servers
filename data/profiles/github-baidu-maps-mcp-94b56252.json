@@ -1,0 +1,24 @@
+{
+  "id": "github-baidu-maps-mcp-94b56252",
+  "name": "baidu-maps/mcp",
+  "description": "Baidu Maps MCP Server offers comprehensive mapping services with 10 MCP-compliant APIs, including geocoding, route planning, and real-time traffic updates.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-baidu-maps-mcp-94b56252",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-baidu-maps-mcp-94b56252)",
+  "links": {
+    "primary": "https://github.com/baidu-maps/mcp",
+    "repo": "https://github.com/baidu-maps/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

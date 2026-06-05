@@ -1,0 +1,24 @@
+{
+  "id": "github-ayushratan1-onfinance-mcp-polymarket-168b5668",
+  "name": "AyushRatan1/Onfinance-MCP-Polymarket",
+  "description": "Facilitates real-time interaction with prediction markets using Claude Desktop and custom data analysis tools.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-ayushratan1-onfinance-mcp-polymarket-168b5668",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ayushratan1-onfinance-mcp-polymarket-168b5668)",
+  "links": {
+    "primary": "https://github.com/AyushRatan1/Onfinance-MCP-Polymarket",
+    "repo": "https://github.com/AyushRatan1/Onfinance-MCP-Polymarket",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

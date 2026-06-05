@@ -1,0 +1,24 @@
+{
+  "id": "github-crisschan-mcp-jacoco-reporter-c60449ee",
+  "name": "crisschan/mcp-jacoco-reporter",
+  "description": "Transforms JaCoCo code coverage reports into AI-friendly formats for enhanced analysis and insights.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-crisschan-mcp-jacoco-reporter-c60449ee",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-crisschan-mcp-jacoco-reporter-c60449ee)",
+  "links": {
+    "primary": "https://github.com/crisschan/mcp-jacoco-reporter",
+    "repo": "https://github.com/crisschan/mcp-jacoco-reporter",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

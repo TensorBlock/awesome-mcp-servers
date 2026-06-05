@@ -1,0 +1,24 @@
+{
+  "id": "github-199-bio-better-thinking-mcp-f97ad938",
+  "name": "199-bio/better-thinking-mcp",
+  "description": "Facilitates structured, multi-step reasoning inspired by LLM computational mechanisms, enhancing transparency and robustness in decision-making processes.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-199-bio-better-thinking-mcp-f97ad938",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-199-bio-better-thinking-mcp-f97ad938)",
+  "links": {
+    "primary": "https://github.com/199-bio/better-thinking-mcp",
+    "repo": "https://github.com/199-bio/better-thinking-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

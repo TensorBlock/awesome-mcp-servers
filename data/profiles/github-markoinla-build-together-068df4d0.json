@@ -1,0 +1,24 @@
+{
+  "id": "github-markoinla-build-together-068df4d0",
+  "name": "markoinla/build-together",
+  "description": "A lightweight, self-hosted project management tool with native MCP and API functionality for seamless AI assistant integration.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-markoinla-build-together-068df4d0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-markoinla-build-together-068df4d0)",
+  "links": {
+    "primary": "https://github.com/markoinla/build-together",
+    "repo": "https://github.com/markoinla/build-together",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

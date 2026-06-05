@@ -1,0 +1,24 @@
+{
+  "id": "github-yifanyifan897645-webcheck-mcp-2327c55a",
+  "name": "yifanyifan897645/webcheck-mcp",
+  "description": "Website health checker MCP server: SEO audit, accessibility scan, broken link detection, and performance analysis.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-yifanyifan897645-webcheck-mcp-2327c55a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yifanyifan897645-webcheck-mcp-2327c55a)",
+  "links": {
+    "primary": "https://github.com/yifanyifan897645/webcheck-mcp",
+    "repo": "https://github.com/yifanyifan897645/webcheck-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

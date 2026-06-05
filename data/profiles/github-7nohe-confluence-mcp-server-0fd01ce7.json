@@ -1,0 +1,24 @@
+{
+  "id": "github-7nohe-confluence-mcp-server-0fd01ce7",
+  "name": "7nohe/confluence-mcp-server",
+  "description": "Facilitates interaction with Confluence pages through a Model Context Protocol server using the Confluence API.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-7nohe-confluence-mcp-server-0fd01ce7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-7nohe-confluence-mcp-server-0fd01ce7)",
+  "links": {
+    "primary": "https://github.com/7nohe/confluence-mcp-server",
+    "repo": "https://github.com/7nohe/confluence-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

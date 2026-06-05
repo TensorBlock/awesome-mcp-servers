@@ -1,0 +1,24 @@
+{
+  "id": "github-pab1it0-tripadvisor-mcp-2630ff34",
+  "name": "pab1it0/tripadvisor-mcp",
+  "description": "Facilitates AI-driven exploration of Tripadvisor's location data, reviews, and photos via standardized MCP interfaces.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-pab1it0-tripadvisor-mcp-2630ff34",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pab1it0-tripadvisor-mcp-2630ff34)",
+  "links": {
+    "primary": "https://github.com/pab1it0/tripadvisor-mcp",
+    "repo": "https://github.com/pab1it0/tripadvisor-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

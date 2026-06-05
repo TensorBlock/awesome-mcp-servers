@@ -1,0 +1,24 @@
+{
+  "id": "github-yazington-docs-crawler-mcp-968055f8",
+  "name": "Yazington/docs-crawler-mcp",
+  "description": "Crawls documentation websites, converts them to Markdown, and stores embeddings in Qdrant for intelligent search.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-yazington-docs-crawler-mcp-968055f8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yazington-docs-crawler-mcp-968055f8)",
+  "links": {
+    "primary": "https://github.com/Yazington/docs-crawler-mcp",
+    "repo": "https://github.com/Yazington/docs-crawler-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jordyzomer-codeql-mcp-b7e26a5f",
+  "name": "JordyZomer/codeql-mcp",
+  "description": "Facilitates interaction with CodeQL through structured commands, enabling AI agents and tools like Cursor to perform queries and decode results.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-jordyzomer-codeql-mcp-b7e26a5f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jordyzomer-codeql-mcp-b7e26a5f)",
+  "links": {
+    "primary": "https://github.com/JordyZomer/codeql-mcp",
+    "repo": "https://github.com/JordyZomer/codeql-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

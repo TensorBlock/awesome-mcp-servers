@@ -1,0 +1,24 @@
+{
+  "id": "github-hexbee-mcp-chat-df1aba42",
+  "name": "hexbee/mcp-chat",
+  "description": "MCP-Chat is a modern AI chat application built with Next.js, offering dynamic MCP server configuration and integration for enhanced functionalities like file management and web search.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-hexbee-mcp-chat-df1aba42",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hexbee-mcp-chat-df1aba42)",
+  "links": {
+    "primary": "https://github.com/hexbee/mcp-chat",
+    "repo": "https://github.com/hexbee/mcp-chat",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

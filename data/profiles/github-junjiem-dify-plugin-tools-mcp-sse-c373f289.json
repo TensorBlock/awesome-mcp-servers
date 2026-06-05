@@ -1,0 +1,25 @@
+{
+  "id": "github-junjiem-dify-plugin-tools-mcp-sse-c373f289",
+  "name": "junjiem/dify-plugin-tools-mcp_sse",
+  "description": "Facilitates tool discovery and invocation via MCP protocol using HTTP with SSE transport.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-junjiem-dify-plugin-tools-mcp-sse-c373f289",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-junjiem-dify-plugin-tools-mcp-sse-c373f289)",
+  "links": {
+    "primary": "https://github.com/junjiem/dify-plugin-tools-mcp_sse",
+    "repo": "https://github.com/junjiem/dify-plugin-tools-mcp_sse",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

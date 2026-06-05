@@ -1,0 +1,24 @@
+{
+  "id": "github-elienaibh-mcp-clone-c-76e0a389",
+  "name": "elienaibh/mcp-clone-c",
+  "description": "A proxy MCP server facilitating integration between Claude and JetBrains IDEs, enabling seamless client request redirection.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-elienaibh-mcp-clone-c-76e0a389",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elienaibh-mcp-clone-c-76e0a389)",
+  "links": {
+    "primary": "https://github.com/elienaibh/mcp-clone-c",
+    "repo": "https://github.com/elienaibh/mcp-clone-c",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

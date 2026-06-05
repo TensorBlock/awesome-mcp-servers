@@ -1,0 +1,24 @@
+{
+  "id": "github-smhnkmr-realtime-crypto-mcp-server-fbf5130d",
+  "name": "smhnkmr/realtime-crypto-mcp-server",
+  "description": "Provides real-time cryptocurrency data integration for MCP servers using the CoinCap API.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-smhnkmr-realtime-crypto-mcp-server-fbf5130d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-smhnkmr-realtime-crypto-mcp-server-fbf5130d)",
+  "links": {
+    "primary": "https://github.com/smhnkmr/realtime-crypto-mcp-server",
+    "repo": "https://github.com/smhnkmr/realtime-crypto-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

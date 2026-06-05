@@ -1,0 +1,24 @@
+{
+  "id": "github-puchunjie-doc-tools-mcp-eb12c296",
+  "name": "puchunjie/doc-tools-mcp",
+  "description": "Empower AI applications to seamlessly create, edit, and manage Word documents through natural language interactions using this comprehensive MCP server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-puchunjie-doc-tools-mcp-eb12c296",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-puchunjie-doc-tools-mcp-eb12c296)",
+  "links": {
+    "primary": "https://github.com/puchunjie/doc-tools-mcp",
+    "repo": "https://github.com/puchunjie/doc-tools-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

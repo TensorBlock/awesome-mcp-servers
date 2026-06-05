@@ -1,0 +1,24 @@
+{
+  "id": "github-hundunonline-mcp-dingdingbot-server-b6a594f1",
+  "name": "HundunOnline/mcp-dingdingbot-server",
+  "description": "Facilitates sending diverse message types to DingDing group robots, enhancing communication with text, markdown, image, news, and template card support.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-hundunonline-mcp-dingdingbot-server-b6a594f1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hundunonline-mcp-dingdingbot-server-b6a594f1)",
+  "links": {
+    "primary": "https://github.com/HundunOnline/mcp-dingdingbot-server",
+    "repo": "https://github.com/HundunOnline/mcp-dingdingbot-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

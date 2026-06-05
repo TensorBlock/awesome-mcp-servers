@@ -1,0 +1,24 @@
+{
+  "id": "github-deepsuthar496-father-mcp-82291294",
+  "name": "deepsuthar496/father-mcp",
+  "description": "Facilitates AI models in creating and understanding MCP implementations with comprehensive tools and documentation.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-deepsuthar496-father-mcp-82291294",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-deepsuthar496-father-mcp-82291294)",
+  "links": {
+    "primary": "https://github.com/deepsuthar496/father-mcp",
+    "repo": "https://github.com/deepsuthar496/father-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
