@@ -1,0 +1,24 @@
+{
+  "id": "github-tgrall-mcp-github-actions-versions-29ed46f5",
+  "name": "tgrall/mcp-github-actions-versions",
+  "description": "Facilitates seamless updates to GitHub Actions workflows by providing the latest versions through a lightweight MCP server.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-tgrall-mcp-github-actions-versions-29ed46f5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tgrall-mcp-github-actions-versions-29ed46f5)",
+  "links": {
+    "primary": "https://github.com/tgrall/mcp-github-actions-versions",
+    "repo": "https://github.com/tgrall/mcp-github-actions-versions",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

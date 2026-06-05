@@ -1,0 +1,24 @@
+{
+  "id": "github-mcerqua-netlify-mcp-8034e659",
+  "name": "MCERQUA/netlify-mcp",
+  "description": "Manage and deploy Netlify sites directly from an MCP-enabled environment with seamless API integration.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-mcerqua-netlify-mcp-8034e659",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mcerqua-netlify-mcp-8034e659)",
+  "links": {
+    "primary": "https://github.com/MCERQUA/netlify-mcp",
+    "repo": "https://github.com/MCERQUA/netlify-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

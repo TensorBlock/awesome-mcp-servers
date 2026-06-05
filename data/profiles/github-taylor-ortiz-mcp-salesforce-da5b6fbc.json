@@ -1,0 +1,24 @@
+{
+  "id": "github-taylor-ortiz-mcp-salesforce-da5b6fbc",
+  "name": "taylor-ortiz/mcp-salesforce",
+  "description": "Facilitates natural language-driven SOQL query generation and execution on Salesforce using Fast MCP and LLM integration.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-taylor-ortiz-mcp-salesforce-da5b6fbc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-taylor-ortiz-mcp-salesforce-da5b6fbc)",
+  "links": {
+    "primary": "https://github.com/taylor-ortiz/mcp-salesforce",
+    "repo": "https://github.com/taylor-ortiz/mcp-salesforce",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

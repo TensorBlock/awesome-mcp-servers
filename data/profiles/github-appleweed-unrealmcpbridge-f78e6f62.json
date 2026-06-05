@@ -1,0 +1,24 @@
+{
+  "id": "github-appleweed-unrealmcpbridge-f78e6f62",
+  "name": "appleweed/UnrealMCPBridge",
+  "description": "Facilitates access to the Unreal Engine Python API for MCP clients, enabling dynamic tool development and automation within the UE environment.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-appleweed-unrealmcpbridge-f78e6f62",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-appleweed-unrealmcpbridge-f78e6f62)",
+  "links": {
+    "primary": "https://github.com/appleweed/UnrealMCPBridge",
+    "repo": "https://github.com/appleweed/UnrealMCPBridge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-deepmihir-mcp-server-tutorial-f94e425d",
+  "name": "deepmihir/MCP-Server-Tutorial",
+  "description": "Facilitates documentation search for Python libraries using Claude and integrates with Google Search API for enhanced web scraping capabilities.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-deepmihir-mcp-server-tutorial-f94e425d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-deepmihir-mcp-server-tutorial-f94e425d)",
+  "links": {
+    "primary": "https://github.com/deepmihir/MCP-Server-Tutorial",
+    "repo": "https://github.com/deepmihir/MCP-Server-Tutorial",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

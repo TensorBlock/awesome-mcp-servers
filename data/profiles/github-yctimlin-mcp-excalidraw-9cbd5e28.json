@@ -1,0 +1,24 @@
+{
+  "id": "github-yctimlin-mcp-excalidraw-9cbd5e28",
+  "name": "yctimlin/mcp_excalidraw",
+  "description": "Facilitates LLMs to interact with Excalidraw diagrams through a robust API for creating, modifying, and managing drawing elements.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-yctimlin-mcp-excalidraw-9cbd5e28",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yctimlin-mcp-excalidraw-9cbd5e28)",
+  "links": {
+    "primary": "https://github.com/yctimlin/mcp_excalidraw",
+    "repo": "https://github.com/yctimlin/mcp_excalidraw",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

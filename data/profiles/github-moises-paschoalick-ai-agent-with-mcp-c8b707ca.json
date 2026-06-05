@@ -1,0 +1,24 @@
+{
+  "id": "github-moises-paschoalick-ai-agent-with-mcp-c8b707ca",
+  "name": "moises-paschoalick/ai-agent-with-mcp",
+  "description": "An AI agent leveraging the Model Context Protocol to interact with external resources, providing user and messaging functionalities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-moises-paschoalick-ai-agent-with-mcp-c8b707ca",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-moises-paschoalick-ai-agent-with-mcp-c8b707ca)",
+  "links": {
+    "primary": "https://github.com/moises-paschoalick/ai-agent-with-mcp",
+    "repo": "https://github.com/moises-paschoalick/ai-agent-with-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

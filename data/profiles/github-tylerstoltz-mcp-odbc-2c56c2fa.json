@@ -1,0 +1,24 @@
+{
+  "id": "github-tylerstoltz-mcp-odbc-2c56c2fa",
+  "name": "tylerstoltz/mcp-odbc",
+  "description": "Facilitates secure and read-only database queries via ODBC connections for LLM tools like Claude Desktop.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-tylerstoltz-mcp-odbc-2c56c2fa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tylerstoltz-mcp-odbc-2c56c2fa)",
+  "links": {
+    "primary": "https://github.com/tylerstoltz/mcp-odbc",
+    "repo": "https://github.com/tylerstoltz/mcp-odbc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

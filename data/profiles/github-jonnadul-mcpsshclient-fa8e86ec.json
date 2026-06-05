@@ -1,0 +1,24 @@
+{
+  "id": "github-jonnadul-mcpsshclient-fa8e86ec",
+  "name": "jonnadul/mcpsshclient",
+  "description": "An MCP server SSHClient with an agentic security feature to detect and prevent unsafe SSH commands.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-jonnadul-mcpsshclient-fa8e86ec",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jonnadul-mcpsshclient-fa8e86ec)",
+  "links": {
+    "primary": "https://github.com/jonnadul/mcpsshclient",
+    "repo": "https://github.com/jonnadul/mcpsshclient",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

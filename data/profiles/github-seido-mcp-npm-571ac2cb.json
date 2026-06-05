@@ -1,0 +1,24 @@
+{
+  "id": "github-seido-mcp-npm-571ac2cb",
+  "name": "seido/mcp_npm",
+  "description": "Facilitates npm and npx command execution through an MCP server using TypeScript.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-seido-mcp-npm-571ac2cb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-seido-mcp-npm-571ac2cb)",
+  "links": {
+    "primary": "https://github.com/seido/mcp_npm",
+    "repo": "https://github.com/seido/mcp_npm",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

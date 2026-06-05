@@ -1,0 +1,24 @@
+{
+  "id": "github-ashlynnlu-search-linkedin-mcp-88607a79",
+  "name": "AshlynnLu/search-linkedin-mcp",
+  "description": "Facilitates LinkedIn company profile verification through search, web crawling, and content validation using MCP.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-ashlynnlu-search-linkedin-mcp-88607a79",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ashlynnlu-search-linkedin-mcp-88607a79)",
+  "links": {
+    "primary": "https://github.com/AshlynnLu/search-linkedin-mcp",
+    "repo": "https://github.com/AshlynnLu/search-linkedin-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

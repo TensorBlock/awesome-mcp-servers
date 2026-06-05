@@ -1,0 +1,24 @@
+{
+  "id": "github-alexgoller-illumio-mcp-server-84a35e45",
+  "name": "alexgoller/illumio-mcp-server",
+  "description": "Enables programmatic interaction with Illumio PCE for workload management, label operations, and traffic flow analysis.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-alexgoller-illumio-mcp-server-84a35e45",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexgoller-illumio-mcp-server-84a35e45)",
+  "links": {
+    "primary": "https://github.com/alexgoller/illumio-mcp-server",
+    "repo": "https://github.com/alexgoller/illumio-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

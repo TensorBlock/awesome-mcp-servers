@@ -1,0 +1,24 @@
+{
+  "id": "github-darko893-mcp-server-64f62812",
+  "name": "Darko893/mcp-server",
+  "description": "AI-powered web scraping MCP server with Cloudflare bypass, JavaScript rendering, and structured data extraction via the Haunt API. Pay-per-use with generous free tier.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-darko893-mcp-server-64f62812",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-darko893-mcp-server-64f62812)",
+  "links": {
+    "primary": "https://github.com/Darko893/mcp-server",
+    "repo": "https://github.com/Darko893/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

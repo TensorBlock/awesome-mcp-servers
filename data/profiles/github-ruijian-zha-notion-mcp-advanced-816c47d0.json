@@ -1,0 +1,24 @@
+{
+  "id": "github-ruijian-zha-notion-mcp-advanced-816c47d0",
+  "name": "Ruijian-Zha/Notion_MCP_advanced",
+  "description": "Seamlessly integrates with Notion's API to manage a minimalist personal to-do list through Claude.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-ruijian-zha-notion-mcp-advanced-816c47d0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ruijian-zha-notion-mcp-advanced-816c47d0)",
+  "links": {
+    "primary": "https://github.com/Ruijian-Zha/Notion_MCP_advanced",
+    "repo": "https://github.com/Ruijian-Zha/Notion_MCP_advanced",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

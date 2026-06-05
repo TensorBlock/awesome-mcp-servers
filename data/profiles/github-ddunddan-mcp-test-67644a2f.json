@@ -1,0 +1,24 @@
+{
+  "id": "github-ddunddan-mcp-test-67644a2f",
+  "name": "ddunddan/mcp-test",
+  "description": "A repository for testing the interaction capabilities of the Model Code Protocol (MCP) between AI models and code.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ddunddan-mcp-test-67644a2f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ddunddan-mcp-test-67644a2f)",
+  "links": {
+    "primary": "https://github.com/ddunddan/mcp-test",
+    "repo": "https://github.com/ddunddan/mcp-test",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-zizzfizzix-mcp-server-bwt-f996c973",
+  "name": "zizzfizzix/mcp-server-bwt",
+  "description": "Facilitates interaction between AI assistants and Bing Webmaster Tools API, enabling site management, URL submission, traffic analysis, and more.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-zizzfizzix-mcp-server-bwt-f996c973",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zizzfizzix-mcp-server-bwt-f996c973)",
+  "links": {
+    "primary": "https://github.com/zizzfizzix/mcp-server-bwt",
+    "repo": "https://github.com/zizzfizzix/mcp-server-bwt",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

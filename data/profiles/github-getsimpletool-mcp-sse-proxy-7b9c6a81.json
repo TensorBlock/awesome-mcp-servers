@@ -1,0 +1,25 @@
+{
+  "id": "github-getsimpletool-mcp-sse-proxy-7b9c6a81",
+  "name": "getsimpletool/mcp-sse-proxy",
+  "description": "Facilitates real-time data streaming by converting MCP STDIO communication to SSE protocol for seamless web connections.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-getsimpletool-mcp-sse-proxy-7b9c6a81",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-getsimpletool-mcp-sse-proxy-7b9c6a81)",
+  "links": {
+    "primary": "https://github.com/getsimpletool/mcp-sse-proxy",
+    "repo": "https://github.com/getsimpletool/mcp-sse-proxy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

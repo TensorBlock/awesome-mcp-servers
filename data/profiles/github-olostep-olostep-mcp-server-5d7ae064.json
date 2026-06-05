@@ -1,0 +1,24 @@
+{
+  "id": "github-olostep-olostep-mcp-server-5d7ae064",
+  "name": "olostep/olostep-mcp-server",
+  "description": "Olostep MCP Server offers web scraping, content extraction, and search capabilities with geo-targeted request routing and comprehensive error handling.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-olostep-olostep-mcp-server-5d7ae064",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-olostep-olostep-mcp-server-5d7ae064)",
+  "links": {
+    "primary": "https://github.com/olostep/olostep-mcp-server",
+    "repo": "https://github.com/olostep/olostep-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

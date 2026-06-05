@@ -1,0 +1,24 @@
+{
+  "id": "github-dynamicendpoints-social-media-automation-mcp-fb01e7e7",
+  "name": "DynamicEndpoints/social-media-automation-mcp",
+  "description": "A TypeScript-based server that automates social media note management by creating, accessing, and summarizing text notes using MCP protocols.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-dynamicendpoints-social-media-automation-mcp-fb01e7e7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dynamicendpoints-social-media-automation-mcp-fb01e7e7)",
+  "links": {
+    "primary": "https://github.com/DynamicEndpoints/social-media-automation-mcp",
+    "repo": "https://github.com/DynamicEndpoints/social-media-automation-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

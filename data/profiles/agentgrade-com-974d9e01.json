@@ -1,0 +1,24 @@
+{
+  "id": "agentgrade-com-974d9e01",
+  "name": "AgentGrade",
+  "description": "Scan any website for AI agent readiness — scores 80+ checks across payments, MCP, OpenAPI, and discovery. Remote MCP server at agentgrade.com/mcp.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/agentgrade-com-974d9e01",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/agentgrade-com-974d9e01)",
+  "links": {
+    "primary": "https://agentgrade.com",
+    "repo": null,
+    "homepage": "https://agentgrade.com",
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

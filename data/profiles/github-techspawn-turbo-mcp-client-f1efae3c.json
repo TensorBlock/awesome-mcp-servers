@@ -1,0 +1,24 @@
+{
+  "id": "github-techspawn-turbo-mcp-client-f1efae3c",
+  "name": "techspawn/Turbo-MCP-Client",
+  "description": "Turbo MCP Client offers a FastAPI-based web interface for seamless interaction with multiple MCP servers, leveraging OpenAI's API for message processing.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-techspawn-turbo-mcp-client-f1efae3c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-techspawn-turbo-mcp-client-f1efae3c)",
+  "links": {
+    "primary": "https://github.com/techspawn/Turbo-MCP-Client",
+    "repo": "https://github.com/techspawn/Turbo-MCP-Client",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-cline-linear-mcp-786dcdfb",
+  "name": "cline/linear-mcp",
+  "description": "Facilitates seamless interaction with Linear's API for managing issues, projects, and teams through Cline.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-cline-linear-mcp-786dcdfb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cline-linear-mcp-786dcdfb)",
+  "links": {
+    "primary": "https://github.com/cline/linear-mcp",
+    "repo": "https://github.com/cline/linear-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

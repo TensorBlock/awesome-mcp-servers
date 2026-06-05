@@ -1,0 +1,24 @@
+{
+  "id": "github-mitchybawesome-sar-mcp-b3c2b578",
+  "name": "MitchyBAwesome/sar-mcp",
+  "description": "Facilitates interaction with AWS Programmatic Service Reference by listing services, API actions, condition keys, and resource types.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-mitchybawesome-sar-mcp-b3c2b578",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mitchybawesome-sar-mcp-b3c2b578)",
+  "links": {
+    "primary": "https://github.com/MitchyBAwesome/sar-mcp",
+    "repo": "https://github.com/MitchyBAwesome/sar-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

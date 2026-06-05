@@ -1,0 +1,24 @@
+{
+  "id": "github-thuhoai27-mcp-simple-calculator-be85a92a",
+  "name": "thuhoai27/mcp-simple-calculator",
+  "description": "Enables AI assistants to perform accurate arithmetic operations without relying on their own mathematical capabilities.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-thuhoai27-mcp-simple-calculator-be85a92a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thuhoai27-mcp-simple-calculator-be85a92a)",
+  "links": {
+    "primary": "https://github.com/thuhoai27/mcp-simple-calculator",
+    "repo": "https://github.com/thuhoai27/mcp-simple-calculator",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

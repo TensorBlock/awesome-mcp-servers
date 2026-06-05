@@ -1,0 +1,24 @@
+{
+  "id": "github-d-zero-dev-mcp-server-df0cb8dc",
+  "name": "d-zero-dev/mcp-server",
+  "description": "Facilitates frontend development by integrating Figma data retrieval and coding guidelines with AI assistant support.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-d-zero-dev-mcp-server-df0cb8dc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-d-zero-dev-mcp-server-df0cb8dc)",
+  "links": {
+    "primary": "https://github.com/d-zero-dev/mcp-server",
+    "repo": "https://github.com/d-zero-dev/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

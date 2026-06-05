@@ -1,0 +1,24 @@
+{
+  "id": "github-tejpalvirk-contextmanager-a662e3d1",
+  "name": "tejpalvirk/contextmanager",
+  "description": "Enhances AI models with persistent context across work sessions using domain-specific knowledge graphs managed by a central Context Manager.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-tejpalvirk-contextmanager-a662e3d1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tejpalvirk-contextmanager-a662e3d1)",
+  "links": {
+    "primary": "https://github.com/tejpalvirk/contextmanager",
+    "repo": "https://github.com/tejpalvirk/contextmanager",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
