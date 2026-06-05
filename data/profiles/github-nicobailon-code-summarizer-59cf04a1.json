@@ -1,0 +1,24 @@
+{
+  "id": "github-nicobailon-code-summarizer-59cf04a1",
+  "name": "nicobailon/code-summarizer",
+  "description": "A command-line tool and MCP server that summarizes code files using Gemini Flash 2.0, with integration support for LLM tools like Claude Desktop and Cursor AI.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-nicobailon-code-summarizer-59cf04a1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nicobailon-code-summarizer-59cf04a1)",
+  "links": {
+    "primary": "https://github.com/nicobailon/code-summarizer",
+    "repo": "https://github.com/nicobailon/code-summarizer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

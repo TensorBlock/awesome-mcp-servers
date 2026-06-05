@@ -1,0 +1,24 @@
+{
+  "id": "github-pab1it0-prometheus-mcp-server-d4fe0afc",
+  "name": "pab1it0/prometheus-mcp-server",
+  "description": "Enables AI assistants to query and analyze Prometheus metrics using standardized interfaces.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-pab1it0-prometheus-mcp-server-d4fe0afc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pab1it0-prometheus-mcp-server-d4fe0afc)",
+  "links": {
+    "primary": "https://github.com/pab1it0/prometheus-mcp-server",
+    "repo": "https://github.com/pab1it0/prometheus-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

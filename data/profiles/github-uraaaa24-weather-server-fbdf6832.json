@@ -1,0 +1,24 @@
+{
+  "id": "github-uraaaa24-weather-server-fbdf6832",
+  "name": "uraaaa24/weather-server",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-uraaaa24-weather-server-fbdf6832",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-uraaaa24-weather-server-fbdf6832)",
+  "links": {
+    "primary": "https://github.com/uraaaa24/weather-server",
+    "repo": "https://github.com/uraaaa24/weather-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

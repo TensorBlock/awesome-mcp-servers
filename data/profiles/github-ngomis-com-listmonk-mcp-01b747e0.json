@@ -1,0 +1,24 @@
+{
+  "id": "github-ngomis-com-listmonk-mcp-01b747e0",
+  "name": "ngomis-com/listmonk-mcp",
+  "description": "Facilitates seamless integration and management of Listmonk resources through MCP, enabling automated email marketing tasks.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-ngomis-com-listmonk-mcp-01b747e0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ngomis-com-listmonk-mcp-01b747e0)",
+  "links": {
+    "primary": "https://github.com/ngomis-com/listmonk-mcp",
+    "repo": "https://github.com/ngomis-com/listmonk-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

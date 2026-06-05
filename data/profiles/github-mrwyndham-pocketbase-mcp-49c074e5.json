@@ -1,0 +1,24 @@
+{
+  "id": "github-mrwyndham-pocketbase-mcp-49c074e5",
+  "name": "mrwyndham/pocketbase-mcp",
+  "description": "Facilitates rapid development of PocketBase applications with advanced database operations and schema management.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-mrwyndham-pocketbase-mcp-49c074e5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mrwyndham-pocketbase-mcp-49c074e5)",
+  "links": {
+    "primary": "https://github.com/mrwyndham/pocketbase-mcp",
+    "repo": "https://github.com/mrwyndham/pocketbase-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

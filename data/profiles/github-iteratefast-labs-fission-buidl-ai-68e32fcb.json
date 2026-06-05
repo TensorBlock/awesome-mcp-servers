@@ -1,0 +1,24 @@
+{
+  "id": "github-iteratefast-labs-fission-buidl-ai-68e32fcb",
+  "name": "IterateFast-Labs/fission-buidl-ai",
+  "description": "Fission is an AI-driven governance framework that enhances decentralized decision-making through autonomous AI agents, transparent benchmarking, and on-chain execution.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-iteratefast-labs-fission-buidl-ai-68e32fcb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iteratefast-labs-fission-buidl-ai-68e32fcb)",
+  "links": {
+    "primary": "https://github.com/IterateFast-Labs/fission-buidl-ai",
+    "repo": "https://github.com/IterateFast-Labs/fission-buidl-ai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

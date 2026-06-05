@@ -1,0 +1,24 @@
+{
+  "id": "github-yaojiafeng-qdxs-add-mcp-server-6e15468f",
+  "name": "yaojiafeng/qdxs-add-mcp-server",
+  "description": "A Model Context Protocol server utilizing the mcp-framework, designed for easy tool integration and deployment.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-yaojiafeng-qdxs-add-mcp-server-6e15468f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yaojiafeng-qdxs-add-mcp-server-6e15468f)",
+  "links": {
+    "primary": "https://github.com/yaojiafeng/qdxs-add-mcp-server",
+    "repo": "https://github.com/yaojiafeng/qdxs-add-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jango-blockchained-personal-mcp-server-ea6d1d3c",
+  "name": "jango-blockchained/personal-mcp-server",
+  "description": "A TypeScript-based MCP server offering tools and resources for AI applications, with CLI support for IP address lookup and automated release management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-jango-blockchained-personal-mcp-server-ea6d1d3c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jango-blockchained-personal-mcp-server-ea6d1d3c)",
+  "links": {
+    "primary": "https://github.com/jango-blockchained/personal-mcp-server",
+    "repo": "https://github.com/jango-blockchained/personal-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

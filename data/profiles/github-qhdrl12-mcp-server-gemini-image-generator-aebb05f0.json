@@ -1,0 +1,24 @@
+{
+  "id": "github-qhdrl12-mcp-server-gemini-image-generator-aebb05f0",
+  "name": "qhdrl12/mcp-server-gemini-image-generator",
+  "description": "Facilitates AI-driven image creation and transformation using Google's Gemini models, with features like intelligent filename generation and strict text exclusion.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-qhdrl12-mcp-server-gemini-image-generator-aebb05f0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qhdrl12-mcp-server-gemini-image-generator-aebb05f0)",
+  "links": {
+    "primary": "https://github.com/qhdrl12/mcp-server-gemini-image-generator",
+    "repo": "https://github.com/qhdrl12/mcp-server-gemini-image-generator",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

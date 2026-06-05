@@ -1,0 +1,24 @@
+{
+  "id": "github-luisoala-croissant-mcp-poc-9dc0de5b",
+  "name": "luisoala/croissant-mcp-poc",
+  "description": "A proof-of-concept MCP server for indexing and accessing Croissant datasets with real-time updates via SSE.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-luisoala-croissant-mcp-poc-9dc0de5b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-luisoala-croissant-mcp-poc-9dc0de5b)",
+  "links": {
+    "primary": "https://github.com/luisoala/croissant-mcp-poc",
+    "repo": "https://github.com/luisoala/croissant-mcp-poc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

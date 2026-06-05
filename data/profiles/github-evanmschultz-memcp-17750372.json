@@ -1,0 +1,24 @@
+{
+  "id": "github-evanmschultz-memcp-17750372",
+  "name": "evanmschultz/memcp",
+  "description": "MemCP empowers AI coding agents with a dynamic memory server to build and query temporal knowledge graphs, enhancing IDE context support.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-evanmschultz-memcp-17750372",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-evanmschultz-memcp-17750372)",
+  "links": {
+    "primary": "https://github.com/evanmschultz/memcp",
+    "repo": "https://github.com/evanmschultz/memcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

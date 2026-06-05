@@ -1,0 +1,24 @@
+{
+  "id": "github-whu-myth-lab-humanus-cpp-f9b6d246",
+  "name": "WHU-MYTH-Lab/humanus.cpp",
+  "description": "A lightweight C++ framework for building local LLM agents with integrated MCP protocol support, optimized for speed and modularity.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-whu-myth-lab-humanus-cpp-f9b6d246",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-whu-myth-lab-humanus-cpp-f9b6d246)",
+  "links": {
+    "primary": "https://github.com/WHU-MYTH-Lab/humanus.cpp",
+    "repo": "https://github.com/WHU-MYTH-Lab/humanus.cpp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

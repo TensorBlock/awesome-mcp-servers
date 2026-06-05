@@ -1,0 +1,24 @@
+{
+  "id": "github-w-jeon-mcp-servers-0d966550",
+  "name": "w-jeon/mcp-servers",
+  "description": "A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for LLMs.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-w-jeon-mcp-servers-0d966550",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-w-jeon-mcp-servers-0d966550)",
+  "links": {
+    "primary": "https://github.com/w-jeon/mcp-servers",
+    "repo": "https://github.com/w-jeon/mcp-servers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

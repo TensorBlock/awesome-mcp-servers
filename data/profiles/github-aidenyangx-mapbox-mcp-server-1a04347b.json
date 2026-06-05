@@ -1,0 +1,24 @@
+{
+  "id": "github-aidenyangx-mapbox-mcp-server-1a04347b",
+  "name": "AidenYangX/mapbox-mcp-server",
+  "description": "Facilitates seamless integration with the Mapbox API for navigation and geocoding services.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-aidenyangx-mapbox-mcp-server-1a04347b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aidenyangx-mapbox-mcp-server-1a04347b)",
+  "links": {
+    "primary": "https://github.com/AidenYangX/mapbox-mcp-server",
+    "repo": "https://github.com/AidenYangX/mapbox-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

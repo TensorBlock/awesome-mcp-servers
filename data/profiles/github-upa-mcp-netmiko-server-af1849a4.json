@@ -1,0 +1,24 @@
+{
+  "id": "github-upa-mcp-netmiko-server-af1849a4",
+  "name": "upa/mcp-netmiko-server",
+  "description": "Facilitates LLMs in managing network devices through SSH using netmiko.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-upa-mcp-netmiko-server-af1849a4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-upa-mcp-netmiko-server-af1849a4)",
+  "links": {
+    "primary": "https://github.com/upa/mcp-netmiko-server",
+    "repo": "https://github.com/upa/mcp-netmiko-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jwaldor-mcp-scrape-copilot-bc352bac",
+  "name": "jwaldor/mcp-scrape-copilot",
+  "description": "Enables LLMs to automate browser tasks using Puppeteer for web interaction and JavaScript execution.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-jwaldor-mcp-scrape-copilot-bc352bac",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jwaldor-mcp-scrape-copilot-bc352bac)",
+  "links": {
+    "primary": "https://github.com/jwaldor/mcp-scrape-copilot",
+    "repo": "https://github.com/jwaldor/mcp-scrape-copilot",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-enzoemir1-leadpipe-mcp-429359b5",
+  "name": "enzoemir1/leadpipe-mcp",
+  "description": "AI-powered CRM and lead pipeline management with lead ingestion, AI enrichment, scoring (0-100), batch import, search, and export to HubSpot/Pipedrive/Sheets. 8 tools, 3 resources.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-enzoemir1-leadpipe-mcp-429359b5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-enzoemir1-leadpipe-mcp-429359b5)",
+  "links": {
+    "primary": "https://github.com/enzoemir1/leadpipe-mcp",
+    "repo": "https://github.com/enzoemir1/leadpipe-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 8
+  }
+}

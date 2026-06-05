@@ -1,0 +1,24 @@
+{
+  "id": "github-meacheal-ai-mrc-data-f397f73d",
+  "name": "meacheal-ai/mrc-data",
+  "description": "Chinese apparel supply chain data for AI agents. Covers 3,000+ verified manufacturers, 350+ lab-tested fabrics, and 170+ industrial clusters with AATCC/ISO/GB lab test reports.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-meacheal-ai-mrc-data-f397f73d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-meacheal-ai-mrc-data-f397f73d)",
+  "links": {
+    "primary": "https://github.com/meacheal-ai/mrc-data",
+    "repo": "https://github.com/meacheal-ai/mrc-data",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

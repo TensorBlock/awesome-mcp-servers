@@ -1,0 +1,24 @@
+{
+  "id": "github-jfim-obsidian-tasks-mcp-d1078c4f",
+  "name": "jfim/obsidian-tasks-mcp",
+  "description": "Facilitates AI-assisted task management by extracting and querying tasks from Obsidian markdown files using the MCP protocol.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-jfim-obsidian-tasks-mcp-d1078c4f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jfim-obsidian-tasks-mcp-d1078c4f)",
+  "links": {
+    "primary": "https://github.com/jfim/obsidian-tasks-mcp",
+    "repo": "https://github.com/jfim/obsidian-tasks-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

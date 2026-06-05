@@ -1,0 +1,24 @@
+{
+  "id": "github-hpohlmann-home-assistant-mcp-cc9d76cf",
+  "name": "hpohlmann/home-assistant-mcp",
+  "description": "Enables AI assistants to control Home Assistant devices via natural language commands, enhancing smart home automation.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-hpohlmann-home-assistant-mcp-cc9d76cf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hpohlmann-home-assistant-mcp-cc9d76cf)",
+  "links": {
+    "primary": "https://github.com/hpohlmann/home-assistant-mcp",
+    "repo": "https://github.com/hpohlmann/home-assistant-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
