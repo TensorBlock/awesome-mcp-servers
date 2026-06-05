@@ -1,0 +1,24 @@
+{
+  "id": "github-rggh-python360-2522e907",
+  "name": "RGGH/python360",
+  "description": "A Python-based MCP server offering a note storage system with summarization and note management capabilities.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-rggh-python360-2522e907",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rggh-python360-2522e907)",
+  "links": {
+    "primary": "https://github.com/RGGH/python360",
+    "repo": "https://github.com/RGGH/python360",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

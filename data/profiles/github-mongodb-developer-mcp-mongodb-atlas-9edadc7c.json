@@ -1,0 +1,24 @@
+{
+  "id": "github-mongodb-developer-mcp-mongodb-atlas-9edadc7c",
+  "name": "mongodb-developer/mcp-mongodb-atlas",
+  "description": "Manage MongoDB Atlas projects, clusters, and users through an MCP interface.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-mongodb-developer-mcp-mongodb-atlas-9edadc7c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mongodb-developer-mcp-mongodb-atlas-9edadc7c)",
+  "links": {
+    "primary": "https://github.com/mongodb-developer/mcp-mongodb-atlas",
+    "repo": "https://github.com/mongodb-developer/mcp-mongodb-atlas",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

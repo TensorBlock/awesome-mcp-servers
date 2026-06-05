@@ -1,0 +1,24 @@
+{
+  "id": "github-yy1588133-code-merge-mcp-53b6a1a8",
+  "name": "yy1588133/code-merge-mcp",
+  "description": "Facilitates code file extraction, merging, and analysis for large language models using the Model Context Protocol.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-yy1588133-code-merge-mcp-53b6a1a8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yy1588133-code-merge-mcp-53b6a1a8)",
+  "links": {
+    "primary": "https://github.com/yy1588133/code-merge-mcp",
+    "repo": "https://github.com/yy1588133/code-merge-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

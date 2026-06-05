@@ -1,0 +1,24 @@
+{
+  "id": "github-terminallylazy-mcp-on-fhir-29cf76a0",
+  "name": "TerminallyLazy/MCP-on-FHIR",
+  "description": "An interactive FHIR application leveraging MCP Knowledge Graph capabilities for healthcare data visualization and interaction.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-terminallylazy-mcp-on-fhir-29cf76a0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-terminallylazy-mcp-on-fhir-29cf76a0)",
+  "links": {
+    "primary": "https://github.com/TerminallyLazy/MCP-on-FHIR",
+    "repo": "https://github.com/TerminallyLazy/MCP-on-FHIR",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

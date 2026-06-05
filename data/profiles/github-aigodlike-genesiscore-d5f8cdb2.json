@@ -1,0 +1,24 @@
+{
+  "id": "github-aigodlike-genesiscore-d5f8cdb2",
+  "name": "AIGODLIKE/GenesisCore",
+  "description": "GenesisCore seamlessly integrates multiple LLM providers into Blender, offering a modular automation addon with built-in MCP client capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-aigodlike-genesiscore-d5f8cdb2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aigodlike-genesiscore-d5f8cdb2)",
+  "links": {
+    "primary": "https://github.com/AIGODLIKE/GenesisCore",
+    "repo": "https://github.com/AIGODLIKE/GenesisCore",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

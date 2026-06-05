@@ -374,3 +374,4 @@ Servers integrating with major cloud providers or specific cloud services.
 - [EyevinnOSC/mcp-server](https://github.com/EyevinnOSC/mcp-server): Facilitates the creation of open web services using Eyevinn Open Source Cloud API, offering database, storage, and VOD pipeline setups.
 - [vercel/sdk](https://github.com/vercel/sdk): A type-safe TypeScript SDK for accessing the Vercel REST API, also deployable as an MCP server for AI applications.
 
+- [MarsHeer/agentdomain-mcp](https://github.com/MarsHeer/agentdomain-mcp): Register, manage, and renew domain names directly from AI agents via MCP. Supports domain search, purchase, DNS management, and wallet operations. Install: `uvx agentdomain-mcp` or connect via HTTP endpoint at `https://api.agentdomain.cloud/mcp`.

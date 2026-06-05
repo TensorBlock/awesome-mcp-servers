@@ -1,0 +1,24 @@
+{
+  "id": "github-kitakou0313-grafana-tempo-mcp-55dfa130",
+  "name": "kitakou0313/grafana-tempo-mcp",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with tools for note creation and summarization.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-kitakou0313-grafana-tempo-mcp-55dfa130",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kitakou0313-grafana-tempo-mcp-55dfa130)",
+  "links": {
+    "primary": "https://github.com/kitakou0313/grafana-tempo-mcp",
+    "repo": "https://github.com/kitakou0313/grafana-tempo-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

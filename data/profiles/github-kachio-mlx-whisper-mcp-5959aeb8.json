@@ -1,0 +1,24 @@
+{
+  "id": "github-kachio-mlx-whisper-mcp-5959aeb8",
+  "name": "kachiO/mlx-whisper-mcp",
+  "description": "Facilitates audio transcription and YouTube video transcription using MLX Whisper on Apple Silicon Macs.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-kachio-mlx-whisper-mcp-5959aeb8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kachio-mlx-whisper-mcp-5959aeb8)",
+  "links": {
+    "primary": "https://github.com/kachiO/mlx-whisper-mcp",
+    "repo": "https://github.com/kachiO/mlx-whisper-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jasondsmith72-tpc-mcpv2-ec6d549f",
+  "name": "jasondsmith72/tpc-mcpv2",
+  "description": "Empower your desktop automation with precise control over screen, mouse, and keyboard operations using nut.js.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-jasondsmith72-tpc-mcpv2-ec6d549f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jasondsmith72-tpc-mcpv2-ec6d549f)",
+  "links": {
+    "primary": "https://github.com/jasondsmith72/tpc-mcpv2",
+    "repo": "https://github.com/jasondsmith72/tpc-mcpv2",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

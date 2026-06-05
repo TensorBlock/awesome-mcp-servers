@@ -1,0 +1,24 @@
+{
+  "id": "github-walkojas-boop-jsonshelf-0f36ca89",
+  "name": "walkojas-boop/jsonshelf",
+  "description": "Deterministic JSON repair, validation, example-generation, and schema-coercion API for AI agents. Zero LLM calls, sub-10ms, $0.0005 per call. Live at https://jsonshelf.vercel.app/.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-walkojas-boop-jsonshelf-0f36ca89",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-walkojas-boop-jsonshelf-0f36ca89)",
+  "links": {
+    "primary": "https://github.com/walkojas-boop/jsonshelf",
+    "repo": "https://github.com/walkojas-boop/jsonshelf",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

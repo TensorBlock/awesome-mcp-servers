@@ -1,0 +1,24 @@
+{
+  "id": "github-moosin76-mcp-server-mariadb-reader-8e6a472b",
+  "name": "moosin76/mcp_server_mariadb_reader",
+  "description": "Facilitates AI assistants in querying and interacting with MariaDB databases through a Model Context Protocol server.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-moosin76-mcp-server-mariadb-reader-8e6a472b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-moosin76-mcp-server-mariadb-reader-8e6a472b)",
+  "links": {
+    "primary": "https://github.com/moosin76/mcp_server_mariadb_reader",
+    "repo": "https://github.com/moosin76/mcp_server_mariadb_reader",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

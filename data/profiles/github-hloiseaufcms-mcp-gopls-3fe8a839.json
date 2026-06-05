@@ -1,0 +1,24 @@
+{
+  "id": "github-hloiseaufcms-mcp-gopls-3fe8a839",
+  "name": "hloiseaufcms/mcp-gopls",
+  "description": "Facilitates AI assistants' interaction with Go's Language Server Protocol for enhanced code analysis and navigation.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-hloiseaufcms-mcp-gopls-3fe8a839",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hloiseaufcms-mcp-gopls-3fe8a839)",
+  "links": {
+    "primary": "https://github.com/hloiseaufcms/mcp-gopls",
+    "repo": "https://github.com/hloiseaufcms/mcp-gopls",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

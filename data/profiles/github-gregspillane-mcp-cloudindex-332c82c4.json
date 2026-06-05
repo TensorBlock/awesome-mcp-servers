@@ -1,0 +1,24 @@
+{
+  "id": "github-gregspillane-mcp-cloudindex-332c82c4",
+  "name": "Gregspillane/mcp-cloudindex",
+  "description": "A platform offering semantic search capabilities via the CloudIndex API, integrated with Claude Desktop for enhanced document retrieval.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-gregspillane-mcp-cloudindex-332c82c4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gregspillane-mcp-cloudindex-332c82c4)",
+  "links": {
+    "primary": "https://github.com/Gregspillane/mcp-cloudindex",
+    "repo": "https://github.com/Gregspillane/mcp-cloudindex",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

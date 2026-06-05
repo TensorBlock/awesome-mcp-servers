@@ -1,0 +1,24 @@
+{
+  "id": "github-anewprofile-gbif-bigquery-mcp-b0eb6482",
+  "name": "ANewProfile/gbif-bigquery-mcp",
+  "description": "Facilitates natural language interaction with BigQuery data through Claude Desktop, leveraging MCP for seamless AI-database communication.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-anewprofile-gbif-bigquery-mcp-b0eb6482",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anewprofile-gbif-bigquery-mcp-b0eb6482)",
+  "links": {
+    "primary": "https://github.com/ANewProfile/gbif-bigquery-mcp",
+    "repo": "https://github.com/ANewProfile/gbif-bigquery-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

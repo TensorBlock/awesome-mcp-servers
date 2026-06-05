@@ -1,0 +1,24 @@
+{
+  "id": "github-iannuttall-flux-ui-mcp-5e77c019",
+  "name": "iannuttall/flux-ui-mcp",
+  "description": "A TypeScript-based server offering AI assistants access to Flux UI component documentation and examples through the Model Context Protocol.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-iannuttall-flux-ui-mcp-5e77c019",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iannuttall-flux-ui-mcp-5e77c019)",
+  "links": {
+    "primary": "https://github.com/iannuttall/flux-ui-mcp",
+    "repo": "https://github.com/iannuttall/flux-ui-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

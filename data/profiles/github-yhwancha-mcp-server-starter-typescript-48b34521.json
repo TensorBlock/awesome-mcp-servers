@@ -1,0 +1,24 @@
+{
+  "id": "github-yhwancha-mcp-server-starter-typescript-48b34521",
+  "name": "yhwancha/mcp_server_starter_typescript",
+  "description": "A TypeScript starter template for building customizable Model Context Protocol servers with sample tool implementations.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-yhwancha-mcp-server-starter-typescript-48b34521",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yhwancha-mcp-server-starter-typescript-48b34521)",
+  "links": {
+    "primary": "https://github.com/yhwancha/mcp_server_starter_typescript",
+    "repo": "https://github.com/yhwancha/mcp_server_starter_typescript",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

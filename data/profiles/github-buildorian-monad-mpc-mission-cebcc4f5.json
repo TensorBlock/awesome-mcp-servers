@@ -1,0 +1,24 @@
+{
+  "id": "github-buildorian-monad-mpc-mission-cebcc4f5",
+  "name": "buildorian/monad-mpc-mission",
+  "description": "Facilitates querying MON token balances on the Monad testnet via an MCP server integrated with Claude Desktop.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-buildorian-monad-mpc-mission-cebcc4f5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-buildorian-monad-mpc-mission-cebcc4f5)",
+  "links": {
+    "primary": "https://github.com/buildorian/monad-mpc-mission",
+    "repo": "https://github.com/buildorian/monad-mpc-mission",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

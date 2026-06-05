@@ -1,0 +1,24 @@
+{
+  "id": "github-nareneran-mcp-47788c13",
+  "name": "nareneran/mcp",
+  "description": "Facilitates GitHub integration with AI tools through MCP, enabling seamless interaction with repositories for tasks like viewing commits and managing issues.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-nareneran-mcp-47788c13",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nareneran-mcp-47788c13)",
+  "links": {
+    "primary": "https://github.com/nareneran/mcp",
+    "repo": "https://github.com/nareneran/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-sanchitmonga22-flutter-tools-mcp-cc1d4f38",
+  "name": "sanchitmonga22/flutter-tools-mcp",
+  "description": "A toolset for integrating AI assistants with Flutter applications, enabling programmatic interaction, debugging, and optimization through a Model Context Protocol server.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-sanchitmonga22-flutter-tools-mcp-cc1d4f38",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sanchitmonga22-flutter-tools-mcp-cc1d4f38)",
+  "links": {
+    "primary": "https://github.com/sanchitmonga22/flutter-tools-mcp",
+    "repo": "https://github.com/sanchitmonga22/flutter-tools-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
