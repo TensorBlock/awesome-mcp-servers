@@ -1,0 +1,24 @@
+{
+  "id": "github-co0ontty-chaitin-ip-intelligence-search-tool-ce181990",
+  "name": "co0ontty/chaitin-ip-intelligence-search-tool",
+  "description": "Provides IP profiling and threat alerts using Chaitin's global honeypot network for Mobile Content Providers.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-co0ontty-chaitin-ip-intelligence-search-tool-ce181990",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-co0ontty-chaitin-ip-intelligence-search-tool-ce181990)",
+  "links": {
+    "primary": "https://github.com/co0ontty/chaitin-ip-intelligence-search-tool",
+    "repo": "https://github.com/co0ontty/chaitin-ip-intelligence-search-tool",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

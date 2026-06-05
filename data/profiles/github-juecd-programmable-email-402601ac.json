@@ -1,0 +1,24 @@
+{
+  "id": "github-juecd-programmable-email-402601ac",
+  "name": "juecd/programmable-email",
+  "description": "Connects Claude with Gmail for email retrieval and management using MCP server integration.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-juecd-programmable-email-402601ac",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-juecd-programmable-email-402601ac)",
+  "links": {
+    "primary": "https://github.com/juecd/programmable-email",
+    "repo": "https://github.com/juecd/programmable-email",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

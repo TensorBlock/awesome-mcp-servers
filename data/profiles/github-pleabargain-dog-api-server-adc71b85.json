@@ -1,0 +1,24 @@
+{
+  "id": "github-pleabargain-dog-api-server-adc71b85",
+  "name": "pleabargain/dog-api-server",
+  "description": "Provides seamless AI integration for retrieving random dog facts using the Dog API.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-pleabargain-dog-api-server-adc71b85",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pleabargain-dog-api-server-adc71b85)",
+  "links": {
+    "primary": "https://github.com/pleabargain/dog-api-server",
+    "repo": "https://github.com/pleabargain/dog-api-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

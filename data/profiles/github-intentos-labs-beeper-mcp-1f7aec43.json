@@ -1,0 +1,24 @@
+{
+  "id": "github-intentos-labs-beeper-mcp-1f7aec43",
+  "name": "intentos-labs/beeper-mcp",
+  "description": "Facilitates beeper transactions on Binance Smart Chain, offering tools for balance management, token transfers, swaps, and reward claims.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-intentos-labs-beeper-mcp-1f7aec43",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-intentos-labs-beeper-mcp-1f7aec43)",
+  "links": {
+    "primary": "https://github.com/intentos-labs/beeper-mcp",
+    "repo": "https://github.com/intentos-labs/beeper-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

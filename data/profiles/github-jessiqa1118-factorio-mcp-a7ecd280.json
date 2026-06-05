@@ -1,0 +1,24 @@
+{
+  "id": "github-jessiqa1118-factorio-mcp-a7ecd280",
+  "name": "jessiqa1118/factorio-mcp",
+  "description": "Facilitates querying the state of a Factorio game server using the Model Context Protocol, enabling retrieval of server status, player lists, and in-game time.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-jessiqa1118-factorio-mcp-a7ecd280",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jessiqa1118-factorio-mcp-a7ecd280)",
+  "links": {
+    "primary": "https://github.com/jessiqa1118/factorio-mcp",
+    "repo": "https://github.com/jessiqa1118/factorio-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

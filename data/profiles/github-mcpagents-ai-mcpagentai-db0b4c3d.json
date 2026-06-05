@@ -1,0 +1,24 @@
+{
+  "id": "github-mcpagents-ai-mcpagentai-db0b4c3d",
+  "name": "mcpagents-ai/mcpagentai",
+  "description": "MCPAgentAI is a Python SDK that streamlines the integration and management of diverse tools using the MCP protocol, offering pre-built solutions for tasks like Twitter management, cryptocurrency tracking, and more.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-mcpagents-ai-mcpagentai-db0b4c3d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mcpagents-ai-mcpagentai-db0b4c3d)",
+  "links": {
+    "primary": "https://github.com/mcpagents-ai/mcpagentai",
+    "repo": "https://github.com/mcpagents-ai/mcpagentai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

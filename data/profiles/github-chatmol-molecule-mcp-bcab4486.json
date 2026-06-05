@@ -1,0 +1,24 @@
+{
+  "id": "github-chatmol-molecule-mcp-bcab4486",
+  "name": "ChatMol/molecule-mcp",
+  "description": "Facilitates molecule modeling by integrating molecule science tools with Claude AI through the Model Context Protocol.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-chatmol-molecule-mcp-bcab4486",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chatmol-molecule-mcp-bcab4486)",
+  "links": {
+    "primary": "https://github.com/ChatMol/molecule-mcp",
+    "repo": "https://github.com/ChatMol/molecule-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

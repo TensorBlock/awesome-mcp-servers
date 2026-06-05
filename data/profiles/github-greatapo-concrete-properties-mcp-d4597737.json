@@ -1,0 +1,24 @@
+{
+  "id": "github-greatapo-concrete-properties-mcp-d4597737",
+  "name": "GreatApo/concrete-properties-mcp",
+  "description": "Facilitates AI-driven analysis of reinforced concrete sections by providing a unified API interface for calculating geometric and material properties.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-greatapo-concrete-properties-mcp-d4597737",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-greatapo-concrete-properties-mcp-d4597737)",
+  "links": {
+    "primary": "https://github.com/GreatApo/concrete-properties-mcp",
+    "repo": "https://github.com/GreatApo/concrete-properties-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

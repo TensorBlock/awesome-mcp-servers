@@ -1,0 +1,24 @@
+{
+  "id": "github-rerofumi-fm-mcp-comfyui-bridge-25a0f989",
+  "name": "rerofumi/fm-mcp-comfyui-bridge",
+  "description": "Facilitates image generation through ComfyUI integration, offering caption and tag analysis capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-rerofumi-fm-mcp-comfyui-bridge-25a0f989",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rerofumi-fm-mcp-comfyui-bridge-25a0f989)",
+  "links": {
+    "primary": "https://github.com/rerofumi/fm-mcp-comfyui-bridge",
+    "repo": "https://github.com/rerofumi/fm-mcp-comfyui-bridge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

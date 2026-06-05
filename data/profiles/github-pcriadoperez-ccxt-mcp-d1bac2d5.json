@@ -1,0 +1,24 @@
+{
+  "id": "github-pcriadoperez-ccxt-mcp-d1bac2d5",
+  "name": "pcriadoperez/ccxt-mcp",
+  "description": "Facilitates cryptocurrency trading across multiple exchanges using the CCXT library.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-pcriadoperez-ccxt-mcp-d1bac2d5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pcriadoperez-ccxt-mcp-d1bac2d5)",
+  "links": {
+    "primary": "https://github.com/pcriadoperez/ccxt-mcp",
+    "repo": "https://github.com/pcriadoperez/ccxt-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

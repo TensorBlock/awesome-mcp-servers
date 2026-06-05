@@ -1,0 +1,24 @@
+{
+  "id": "github-jwalsh-mcp-server-qrcode-e787f344",
+  "name": "jwalsh/mcp-server-qrcode",
+  "description": "Connects large language models to QR code generation capabilities, supporting multiple content types and output formats.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-jwalsh-mcp-server-qrcode-e787f344",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jwalsh-mcp-server-qrcode-e787f344)",
+  "links": {
+    "primary": "https://github.com/jwalsh/mcp-server-qrcode",
+    "repo": "https://github.com/jwalsh/mcp-server-qrcode",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

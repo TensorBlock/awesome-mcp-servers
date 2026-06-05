@@ -1,0 +1,24 @@
+{
+  "id": "github-tiberriver256-mcp-server-azure-devops-b11388d7",
+  "name": "Tiberriver256/mcp-server-azure-devops",
+  "description": "Facilitates AI-driven interactions with Azure DevOps through a standardized protocol, enabling seamless management of projects, repositories, and workflows.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-tiberriver256-mcp-server-azure-devops-b11388d7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tiberriver256-mcp-server-azure-devops-b11388d7)",
+  "links": {
+    "primary": "https://github.com/Tiberriver256/mcp-server-azure-devops",
+    "repo": "https://github.com/Tiberriver256/mcp-server-azure-devops",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

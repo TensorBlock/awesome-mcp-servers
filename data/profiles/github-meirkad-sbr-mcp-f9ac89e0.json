@@ -1,0 +1,24 @@
+{
+  "id": "github-meirkad-sbr-mcp-f9ac89e0",
+  "name": "MeirKaD/SBR-MCP",
+  "description": "Facilitates browser automation tasks such as navigation, form filling, and data retrieval through an MCP server integration with Claude Desktop.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-meirkad-sbr-mcp-f9ac89e0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-meirkad-sbr-mcp-f9ac89e0)",
+  "links": {
+    "primary": "https://github.com/MeirKaD/SBR-MCP",
+    "repo": "https://github.com/MeirKaD/SBR-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

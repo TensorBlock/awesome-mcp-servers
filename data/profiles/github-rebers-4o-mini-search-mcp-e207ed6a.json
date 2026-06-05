@@ -1,0 +1,24 @@
+{
+  "id": "github-rebers-4o-mini-search-mcp-e207ed6a",
+  "name": "rebers/4o-mini-search-mcp",
+  "description": "Enhance your AI's web search capabilities with a cost-effective MCP server using OpenAI's 4o-mini Search model.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-rebers-4o-mini-search-mcp-e207ed6a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rebers-4o-mini-search-mcp-e207ed6a)",
+  "links": {
+    "primary": "https://github.com/rebers/4o-mini-search-mcp",
+    "repo": "https://github.com/rebers/4o-mini-search-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

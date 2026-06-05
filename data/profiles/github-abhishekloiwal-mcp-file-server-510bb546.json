@@ -1,0 +1,24 @@
+{
+  "id": "github-abhishekloiwal-mcp-file-server-510bb546",
+  "name": "abhishekloiwal/mcp-file-server",
+  "description": "Facilitates local file system operations for AI assistants via an MCP server, enabling file reading, writing, and management.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-abhishekloiwal-mcp-file-server-510bb546",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abhishekloiwal-mcp-file-server-510bb546)",
+  "links": {
+    "primary": "https://github.com/abhishekloiwal/mcp-file-server",
+    "repo": "https://github.com/abhishekloiwal/mcp-file-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

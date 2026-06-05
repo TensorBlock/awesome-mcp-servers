@@ -1,0 +1,24 @@
+{
+  "id": "github-bart6114-my-bear-mcp-server-fdc5b6ed",
+  "name": "bart6114/my-bear-mcp-server",
+  "description": "Facilitates AI assistants in accessing and reading notes from the Bear app through a read-only MCP server connection.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-bart6114-my-bear-mcp-server-fdc5b6ed",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bart6114-my-bear-mcp-server-fdc5b6ed)",
+  "links": {
+    "primary": "https://github.com/bart6114/my-bear-mcp-server",
+    "repo": "https://github.com/bart6114/my-bear-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

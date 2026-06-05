@@ -1,0 +1,24 @@
+{
+  "id": "github-eaddingtonwhite-momento-mcp-309b0884",
+  "name": "eaddingtonwhite/momento-mcp",
+  "description": "Facilitates interaction with Momento services through a Model Context Protocol server, supporting key-value operations with optional TTL.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-eaddingtonwhite-momento-mcp-309b0884",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-eaddingtonwhite-momento-mcp-309b0884)",
+  "links": {
+    "primary": "https://github.com/eaddingtonwhite/momento-mcp",
+    "repo": "https://github.com/eaddingtonwhite/momento-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

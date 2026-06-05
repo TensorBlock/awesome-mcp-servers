@@ -1,0 +1,24 @@
+{
+  "id": "github-scottcjn-rustchain-mcp-b9e0e219",
+  "name": "Scottcjn/rustchain-mcp",
+  "description": "MCP server for the RustChain blockchain and BoTTube video platform. 15 tools for AI agents — mining attestation, wallet management, bounty hunting, video publishing. Proof-of-Antiquity consensus rewards vintage hardware (PowerPC, retro x86). Install: `pip install rustchain-mcp`",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-scottcjn-rustchain-mcp-b9e0e219",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-scottcjn-rustchain-mcp-b9e0e219)",
+  "links": {
+    "primary": "https://github.com/Scottcjn/rustchain-mcp",
+    "repo": "https://github.com/Scottcjn/rustchain-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": 15
+  }
+}

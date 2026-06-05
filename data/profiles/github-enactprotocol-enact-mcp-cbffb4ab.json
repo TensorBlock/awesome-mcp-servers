@@ -1,0 +1,24 @@
+{
+  "id": "github-enactprotocol-enact-mcp-cbffb4ab",
+  "name": "EnactProtocol/enact-mcp",
+  "description": "Facilitates the creation and execution of capabilities across applications using the Enact Protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-enactprotocol-enact-mcp-cbffb4ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-enactprotocol-enact-mcp-cbffb4ab)",
+  "links": {
+    "primary": "https://github.com/EnactProtocol/enact-mcp",
+    "repo": "https://github.com/EnactProtocol/enact-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

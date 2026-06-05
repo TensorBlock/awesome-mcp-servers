@@ -1,0 +1,24 @@
+{
+  "id": "github-huhu415-macpilotcli-a240afef",
+  "name": "huhu415/macPilotCli",
+  "description": "MacPilot CLI empowers LLMs to control macOS systems via MCP, offering tools for system operations like cursor movement, app launching, and screen capturing.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-huhu415-macpilotcli-a240afef",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-huhu415-macpilotcli-a240afef)",
+  "links": {
+    "primary": "https://github.com/huhu415/macPilotCli",
+    "repo": "https://github.com/huhu415/macPilotCli",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-cheqd-mcp-toolkit-226f345b",
+  "name": "cheqd/mcp-toolkit",
+  "description": "A modular framework for AI-driven identity systems, enabling secure management of decentralized identities and verifiable credentials.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-cheqd-mcp-toolkit-226f345b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cheqd-mcp-toolkit-226f345b)",
+  "links": {
+    "primary": "https://github.com/cheqd/mcp-toolkit",
+    "repo": "https://github.com/cheqd/mcp-toolkit",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

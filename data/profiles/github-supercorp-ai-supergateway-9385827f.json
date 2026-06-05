@@ -1,0 +1,25 @@
+{
+  "id": "github-supercorp-ai-supergateway-9385827f",
+  "name": "supercorp-ai/supergateway",
+  "description": "Supergateway facilitates the conversion of MCP stdio servers into SSE or WebSocket services, enabling seamless integration and remote access.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-supercorp-ai-supergateway-9385827f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-supercorp-ai-supergateway-9385827f)",
+  "links": {
+    "primary": "https://github.com/supercorp-ai/supergateway",
+    "repo": "https://github.com/supercorp-ai/supergateway",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

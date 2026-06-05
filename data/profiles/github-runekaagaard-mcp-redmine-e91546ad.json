@@ -1,0 +1,24 @@
+{
+  "id": "github-runekaagaard-mcp-redmine-e91546ad",
+  "name": "runekaagaard/mcp-redmine",
+  "description": "Facilitates seamless integration between Claude Desktop and Redmine, enabling comprehensive project management through API interactions.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-runekaagaard-mcp-redmine-e91546ad",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-runekaagaard-mcp-redmine-e91546ad)",
+  "links": {
+    "primary": "https://github.com/runekaagaard/mcp-redmine",
+    "repo": "https://github.com/runekaagaard/mcp-redmine",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

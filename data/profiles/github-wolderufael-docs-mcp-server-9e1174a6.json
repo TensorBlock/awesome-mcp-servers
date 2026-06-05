@@ -1,0 +1,24 @@
+{
+  "id": "github-wolderufael-docs-mcp-server-9e1174a6",
+  "name": "wolderufael/docs-MCP-server",
+  "description": "A Model Context Protocol server implementation for integrating with various LLM clients, offering flexibility and secure data handling.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-wolderufael-docs-mcp-server-9e1174a6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wolderufael-docs-mcp-server-9e1174a6)",
+  "links": {
+    "primary": "https://github.com/wolderufael/docs-MCP-server",
+    "repo": "https://github.com/wolderufael/docs-MCP-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
