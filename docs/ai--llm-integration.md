@@ -1628,3 +1628,4 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 
 - [ToolRouter](https://toolrouter.com): Give your AI agent superpowers with access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`
 - [Tuning Engines](https://github.com/cerebrixos-org/tuning-engines-cli) - Govern model, agent, skill, and MCP workflows with RBAC, traffic policies, approvals, traces, and usage analytics. Install the MCP server with `npx -y --package tuningengines-cli@latest te mcp serve`.
+- [bosslesss/inference-labs-mcp](https://github.com/bosslesss/inference-labs-mcp) - MCP server for vendor-neutral LLM routing and model comparison across OpenAI/Azure, Anthropic, Google, and AWS Bedrock. Includes auth-free `get_pricing` and `recommend_model`, plus authenticated `route_request` and `compare_models` tools.
