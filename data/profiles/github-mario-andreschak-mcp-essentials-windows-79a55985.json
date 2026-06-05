@@ -1,0 +1,24 @@
+{
+  "id": "github-mario-andreschak-mcp-essentials-windows-79a55985",
+  "name": "mario-andreschak/mcp-essentials-windows",
+  "description": "A robust MCP server for Windows enabling AI assistants to perform file operations, command execution, and web tasks.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-mario-andreschak-mcp-essentials-windows-79a55985",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mario-andreschak-mcp-essentials-windows-79a55985)",
+  "links": {
+    "primary": "https://github.com/mario-andreschak/mcp-essentials-windows",
+    "repo": "https://github.com/mario-andreschak/mcp-essentials-windows",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

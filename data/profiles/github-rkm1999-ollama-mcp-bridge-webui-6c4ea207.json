@@ -1,0 +1,24 @@
+{
+  "id": "github-rkm1999-ollama-mcp-bridge-webui-6c4ea207",
+  "name": "Rkm1999/Ollama-MCP-Bridge-WebUI",
+  "description": "A web interface that connects local Ollama LLMs to MCP servers, enabling open-source models to perform file operations, web searches, and reasoning tasks on personal hardware.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-rkm1999-ollama-mcp-bridge-webui-6c4ea207",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rkm1999-ollama-mcp-bridge-webui-6c4ea207)",
+  "links": {
+    "primary": "https://github.com/Rkm1999/Ollama-MCP-Bridge-WebUI",
+    "repo": "https://github.com/Rkm1999/Ollama-MCP-Bridge-WebUI",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

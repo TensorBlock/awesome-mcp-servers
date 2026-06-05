@@ -1,0 +1,24 @@
+{
+  "id": "github-shreeraghavm-executeautomation1-4fc53991",
+  "name": "ShreeraghavM/executeautomation1",
+  "description": "Enables LLMs to perform browser automation tasks using Playwright, including web scraping and JavaScript execution.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-shreeraghavm-executeautomation1-4fc53991",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shreeraghavm-executeautomation1-4fc53991)",
+  "links": {
+    "primary": "https://github.com/ShreeraghavM/executeautomation1",
+    "repo": "https://github.com/ShreeraghavM/executeautomation1",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-nexusx-mcp-integrate-mcp-server-66d63bb0",
+  "name": "NexusX-MCP/integrate-mcp-server",
+  "description": "An extensible server providing standardized access to social and onchain data, supporting platforms like Farcaster with plans for Twitter integration.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-nexusx-mcp-integrate-mcp-server-66d63bb0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nexusx-mcp-integrate-mcp-server-66d63bb0)",
+  "links": {
+    "primary": "https://github.com/NexusX-MCP/integrate-mcp-server",
+    "repo": "https://github.com/NexusX-MCP/integrate-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-d-lyw-ckb-docs-mcp-bded0691",
+  "name": "D-lyw/ckb-docs-mcp",
+  "description": "Facilitates semantic search of CKB ecosystem documents and code using the NervePuppy API and vector database integration.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-d-lyw-ckb-docs-mcp-bded0691",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-d-lyw-ckb-docs-mcp-bded0691)",
+  "links": {
+    "primary": "https://github.com/D-lyw/ckb-docs-mcp",
+    "repo": "https://github.com/D-lyw/ckb-docs-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

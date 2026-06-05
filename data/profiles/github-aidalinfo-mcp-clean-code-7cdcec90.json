@@ -1,0 +1,24 @@
+{
+  "id": "github-aidalinfo-mcp-clean-code-7cdcec90",
+  "name": "aidalinfo/mcp-clean-code",
+  "description": "Facilitates the planning and creation of clean, well-structured code with comprehensive English comments, focusing on readability and maintainability.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-aidalinfo-mcp-clean-code-7cdcec90",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aidalinfo-mcp-clean-code-7cdcec90)",
+  "links": {
+    "primary": "https://github.com/aidalinfo/mcp-clean-code",
+    "repo": "https://github.com/aidalinfo/mcp-clean-code",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

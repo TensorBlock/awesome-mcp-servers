@@ -1,0 +1,24 @@
+{
+  "id": "github-richardadonnell-monarchmoney-mcp-1bf4e208",
+  "name": "richardadonnell/monarchmoney-mcp",
+  "description": "Facilitates interaction with Monarch Money accounts through a FastMCP server, offering tools for account management, transaction tracking, and financial insights.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-richardadonnell-monarchmoney-mcp-1bf4e208",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-richardadonnell-monarchmoney-mcp-1bf4e208)",
+  "links": {
+    "primary": "https://github.com/richardadonnell/monarchmoney-mcp",
+    "repo": "https://github.com/richardadonnell/monarchmoney-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

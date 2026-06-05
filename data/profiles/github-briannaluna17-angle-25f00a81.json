@@ -1,0 +1,24 @@
+{
+  "id": "github-briannaluna17-angle-25f00a81",
+  "name": "briannaluna17/angle",
+  "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-briannaluna17-angle-25f00a81",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-briannaluna17-angle-25f00a81)",
+  "links": {
+    "primary": "https://github.com/briannaluna17/angle",
+    "repo": "https://github.com/briannaluna17/angle",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

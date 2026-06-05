@@ -1,0 +1,24 @@
+{
+  "id": "github-wavelovey-pubmed-search-0f0069f8",
+  "name": "wavelovey/pubmed_search",
+  "description": "Facilitates PubMed searches and note management through an MCP server with customizable summarization prompts.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-wavelovey-pubmed-search-0f0069f8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wavelovey-pubmed-search-0f0069f8)",
+  "links": {
+    "primary": "https://github.com/wavelovey/pubmed_search",
+    "repo": "https://github.com/wavelovey/pubmed_search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

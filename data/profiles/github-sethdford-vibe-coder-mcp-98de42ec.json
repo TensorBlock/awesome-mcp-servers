@@ -1,0 +1,24 @@
+{
+  "id": "github-sethdford-vibe-coder-mcp-98de42ec",
+  "name": "sethdford/vibe-coder-mcp",
+  "description": "Vibe-Coder-MCP enhances AI assistants with advanced software development tools, facilitating research, planning, and project initiation.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-sethdford-vibe-coder-mcp-98de42ec",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sethdford-vibe-coder-mcp-98de42ec)",
+  "links": {
+    "primary": "https://github.com/sethdford/vibe-coder-mcp",
+    "repo": "https://github.com/sethdford/vibe-coder-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-juicetea-mcp-cursor-project-d9c32040",
+  "name": "juicetea/mcp-cursor-project",
+  "description": "Integrates Model Context Protocol with Cursor IDE, featuring GitHub MCP server integration and custom commands.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-juicetea-mcp-cursor-project-d9c32040",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-juicetea-mcp-cursor-project-d9c32040)",
+  "links": {
+    "primary": "https://github.com/juicetea/mcp-cursor-project",
+    "repo": "https://github.com/juicetea/mcp-cursor-project",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

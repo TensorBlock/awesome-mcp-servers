@@ -1,0 +1,24 @@
+{
+  "id": "github-magicuidesign-mcp-ac95d4fc",
+  "name": "magicuidesign/mcp",
+  "description": "Magic UI's official MCP server offers a suite of tools for UI component management and animation effects.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-magicuidesign-mcp-ac95d4fc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-magicuidesign-mcp-ac95d4fc)",
+  "links": {
+    "primary": "https://github.com/magicuidesign/mcp",
+    "repo": "https://github.com/magicuidesign/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

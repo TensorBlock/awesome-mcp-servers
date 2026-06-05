@@ -1,0 +1,24 @@
+{
+  "id": "github-kiwamizamurai-mcp-kibela-server-307007fb",
+  "name": "kiwamizamurai/mcp-kibela-server",
+  "description": "Facilitates interaction between LLMs and Kibela content through API integration.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-kiwamizamurai-mcp-kibela-server-307007fb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kiwamizamurai-mcp-kibela-server-307007fb)",
+  "links": {
+    "primary": "https://github.com/kiwamizamurai/mcp-kibela-server",
+    "repo": "https://github.com/kiwamizamurai/mcp-kibela-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

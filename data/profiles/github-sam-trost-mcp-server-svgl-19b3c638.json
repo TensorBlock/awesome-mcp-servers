@@ -1,0 +1,24 @@
+{
+  "id": "github-sam-trost-mcp-server-svgl-19b3c638",
+  "name": "sam-trost/mcp-server-svgl",
+  "description": "Processes and validates SVG content using SVGL, offering repository access and detailed error reporting.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-sam-trost-mcp-server-svgl-19b3c638",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sam-trost-mcp-server-svgl-19b3c638)",
+  "links": {
+    "primary": "https://github.com/sam-trost/mcp-server-svgl",
+    "repo": "https://github.com/sam-trost/mcp-server-svgl",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

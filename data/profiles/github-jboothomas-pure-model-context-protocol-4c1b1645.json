@@ -1,0 +1,24 @@
+{
+  "id": "github-jboothomas-pure-model-context-protocol-4c1b1645",
+  "name": "jboothomas/pure-model-context-protocol",
+  "description": "Facilitates real-time interaction with Pure Storage FlashBlade arrays, providing modular tools for retrieving array information.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-jboothomas-pure-model-context-protocol-4c1b1645",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jboothomas-pure-model-context-protocol-4c1b1645)",
+  "links": {
+    "primary": "https://github.com/jboothomas/pure-model-context-protocol",
+    "repo": "https://github.com/jboothomas/pure-model-context-protocol",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

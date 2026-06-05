@@ -1,0 +1,24 @@
+{
+  "id": "github-vxasi-blender-mcp-vxai-70aad875",
+  "name": "VxASI/blender-mcp-vxai",
+  "description": "Blender MCP VXAI enables seamless natural language control over Blender for creating and manipulating 3D models and animations, integrating AI-driven automation for enhanced creative workflows.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-vxasi-blender-mcp-vxai-70aad875",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vxasi-blender-mcp-vxai-70aad875)",
+  "links": {
+    "primary": "https://github.com/VxASI/blender-mcp-vxai",
+    "repo": "https://github.com/VxASI/blender-mcp-vxai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

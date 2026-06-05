@@ -1,0 +1,24 @@
+{
+  "id": "github-codealchemyx647-general-ff0cb874",
+  "name": "CodeAlchemyX647/general",
+  "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-codealchemyx647-general-ff0cb874",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-codealchemyx647-general-ff0cb874)",
+  "links": {
+    "primary": "https://github.com/CodeAlchemyX647/general",
+    "repo": "https://github.com/CodeAlchemyX647/general",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

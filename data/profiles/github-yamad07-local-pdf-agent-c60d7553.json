@@ -1,0 +1,24 @@
+{
+  "id": "github-yamad07-local-pdf-agent-c60d7553",
+  "name": "yamad07/local-pdf-agent",
+  "description": "Facilitates question-answering about PDF files with citations using Claude AI.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-yamad07-local-pdf-agent-c60d7553",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yamad07-local-pdf-agent-c60d7553)",
+  "links": {
+    "primary": "https://github.com/yamad07/local-pdf-agent",
+    "repo": "https://github.com/yamad07/local-pdf-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

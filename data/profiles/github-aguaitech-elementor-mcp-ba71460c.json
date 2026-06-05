@@ -1,0 +1,24 @@
+{
+  "id": "github-aguaitech-elementor-mcp-ba71460c",
+  "name": "aguaitech/Elementor-MCP",
+  "description": "Facilitates CRUD operations on Elementor data within WordPress using a simple MCP server.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-aguaitech-elementor-mcp-ba71460c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aguaitech-elementor-mcp-ba71460c)",
+  "links": {
+    "primary": "https://github.com/aguaitech/Elementor-MCP",
+    "repo": "https://github.com/aguaitech/Elementor-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

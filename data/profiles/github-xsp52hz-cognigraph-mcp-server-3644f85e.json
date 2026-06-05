@@ -1,0 +1,24 @@
+{
+  "id": "github-xsp52hz-cognigraph-mcp-server-3644f85e",
+  "name": "xsp52Hz/cognigraph-mcp-server",
+  "description": "CogniGraph MCP Server generates mind maps, relationship graphs, and knowledge graphs using CLI tools and AI analysis, compatible with various local MCP clients.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-xsp52hz-cognigraph-mcp-server-3644f85e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xsp52hz-cognigraph-mcp-server-3644f85e)",
+  "links": {
+    "primary": "https://github.com/xsp52Hz/cognigraph-mcp-server",
+    "repo": "https://github.com/xsp52Hz/cognigraph-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-sourcekim-postmcp-a2e6062e",
+  "name": "SourceKim/PostMCP",
+  "description": "A TypeScript-based MCP server for API interaction, supporting dynamic parameter configuration, environment variable management, and custom pre/post request scripts.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-sourcekim-postmcp-a2e6062e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sourcekim-postmcp-a2e6062e)",
+  "links": {
+    "primary": "https://github.com/SourceKim/PostMCP",
+    "repo": "https://github.com/SourceKim/PostMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

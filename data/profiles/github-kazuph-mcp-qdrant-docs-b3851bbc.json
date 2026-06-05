@@ -1,0 +1,24 @@
+{
+  "id": "github-kazuph-mcp-qdrant-docs-b3851bbc",
+  "name": "kazuph/mcp-qdrant-docs",
+  "description": "Scrapes website content, indexes it into Qdrant, and enables natural language queries about the indexed content.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-kazuph-mcp-qdrant-docs-b3851bbc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kazuph-mcp-qdrant-docs-b3851bbc)",
+  "links": {
+    "primary": "https://github.com/kazuph/mcp-qdrant-docs",
+    "repo": "https://github.com/kazuph/mcp-qdrant-docs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

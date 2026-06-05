@@ -1,0 +1,24 @@
+{
+  "id": "github-magnetai-mcp-free-usdc-transfer-ab3a3327",
+  "name": "magnetai/mcp-free-usdc-transfer",
+  "description": "Facilitates free USDC transfers on the Base chain using Coinbase CDP MPC Wallet integration.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-magnetai-mcp-free-usdc-transfer-ab3a3327",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-magnetai-mcp-free-usdc-transfer-ab3a3327)",
+  "links": {
+    "primary": "https://github.com/magnetai/mcp-free-usdc-transfer",
+    "repo": "https://github.com/magnetai/mcp-free-usdc-transfer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

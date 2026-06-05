@@ -1,0 +1,24 @@
+{
+  "id": "github-gergelyszerovay-mcp-server-qdrant-retrieve-40c17a9c",
+  "name": "gergelyszerovay/mcp-server-qdrant-retrieve",
+  "description": "Facilitates semantic search using Qdrant vector database for retrieving similar documents across multiple collections.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-gergelyszerovay-mcp-server-qdrant-retrieve-40c17a9c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gergelyszerovay-mcp-server-qdrant-retrieve-40c17a9c)",
+  "links": {
+    "primary": "https://github.com/gergelyszerovay/mcp-server-qdrant-retrieve",
+    "repo": "https://github.com/gergelyszerovay/mcp-server-qdrant-retrieve",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

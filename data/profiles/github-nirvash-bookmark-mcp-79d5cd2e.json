@@ -1,0 +1,24 @@
+{
+  "id": "github-nirvash-bookmark-mcp-79d5cd2e",
+  "name": "nirvash/bookmark-mcp",
+  "description": "Facilitates Chrome bookmark management through LLM commands using a Machine Control Protocol server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-nirvash-bookmark-mcp-79d5cd2e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nirvash-bookmark-mcp-79d5cd2e)",
+  "links": {
+    "primary": "https://github.com/nirvash/bookmark-mcp",
+    "repo": "https://github.com/nirvash/bookmark-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

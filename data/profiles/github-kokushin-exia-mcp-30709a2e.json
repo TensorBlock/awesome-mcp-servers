@@ -1,0 +1,24 @@
+{
+  "id": "github-kokushin-exia-mcp-30709a2e",
+  "name": "kokushin/exia-mcp",
+  "description": "Generates and displays scenario files for the exia visual novel engine in the Kotoha Sisters explanation format.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-kokushin-exia-mcp-30709a2e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kokushin-exia-mcp-30709a2e)",
+  "links": {
+    "primary": "https://github.com/kokushin/exia-mcp",
+    "repo": "https://github.com/kokushin/exia-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

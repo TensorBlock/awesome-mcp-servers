@@ -1,0 +1,24 @@
+{
+  "id": "github-ziux-playwright-plus-python-mcp-ef8d1ef7",
+  "name": "ziux/playwright-plus-python-mcp",
+  "description": "Enhances browser automation capabilities using Playwright with a focus on note management and advanced page interactions.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-ziux-playwright-plus-python-mcp-ef8d1ef7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ziux-playwright-plus-python-mcp-ef8d1ef7)",
+  "links": {
+    "primary": "https://github.com/ziux/playwright-plus-python-mcp",
+    "repo": "https://github.com/ziux/playwright-plus-python-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

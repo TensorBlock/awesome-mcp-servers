@@ -1,0 +1,24 @@
+{
+  "id": "github-b3nguang-server-inspection-mcp-b1d40bf6",
+  "name": "b3nguang/Server-Inspection-MCP",
+  "description": "Facilitates server inspection through an MCP program running on a PC, interfacing with server agents.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-b3nguang-server-inspection-mcp-b1d40bf6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-b3nguang-server-inspection-mcp-b1d40bf6)",
+  "links": {
+    "primary": "https://github.com/b3nguang/Server-Inspection-MCP",
+    "repo": "https://github.com/b3nguang/Server-Inspection-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

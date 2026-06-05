@@ -1,0 +1,24 @@
+{
+  "id": "github-jacksun911-megalaunch-mcp-d57c3997",
+  "name": "jacksun911/megalaunch-mcp",
+  "description": "AI-powered meme token launch on Solana/pump.fun via MCP. 6 tools: create orders, check status, get pricing. One-command install: `npx megalaunch-mcp`. Glama A/A/A rated.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-jacksun911-megalaunch-mcp-d57c3997",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jacksun911-megalaunch-mcp-d57c3997)",
+  "links": {
+    "primary": "https://github.com/jacksun911/megalaunch-mcp",
+    "repo": "https://github.com/jacksun911/megalaunch-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": 6
+  }
+}

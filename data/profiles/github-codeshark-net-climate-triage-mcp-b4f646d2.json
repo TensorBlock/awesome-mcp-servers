@@ -1,0 +1,24 @@
+{
+  "id": "github-codeshark-net-climate-triage-mcp-b4f646d2",
+  "name": "Codeshark-NET/climate-triage-mcp",
+  "description": "Integrates with the ClimateTriage API to facilitate searching for open source issues related to climate change and sustainability.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-codeshark-net-climate-triage-mcp-b4f646d2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-codeshark-net-climate-triage-mcp-b4f646d2)",
+  "links": {
+    "primary": "https://github.com/Codeshark-NET/climate-triage-mcp",
+    "repo": "https://github.com/Codeshark-NET/climate-triage-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-hexitex-mcp-backup-server-c214e7aa",
+  "name": "hexitex/MCP-Backup-Server",
+  "description": "Facilitates quick and context-aware file backups and restorations for AI agents and code editors, enhancing safety during critical changes.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-hexitex-mcp-backup-server-c214e7aa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hexitex-mcp-backup-server-c214e7aa)",
+  "links": {
+    "primary": "https://github.com/hexitex/MCP-Backup-Server",
+    "repo": "https://github.com/hexitex/MCP-Backup-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
