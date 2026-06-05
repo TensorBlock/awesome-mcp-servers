@@ -119,3 +119,4 @@ Servers accessing scientific databases, research platforms, or providing tools f
 - [daedalus/mcp-z3-prover](https://github.com/daedalus/mcp-z3-prover) - MCP server exposing Z3 solver API.
 
 - [cajusticewatch/mcp-server](https://github.com/cajusticewatch/mcp-server): California criminal-justice accountability databases as MCP tools — 58 District Attorneys, 196 defenders, 1,620 currently sitting judges, 1,500 officer misconduct records, Commission on Judicial Performance discipline (247 records + semantic full-text search over 250 decision PDFs), 671 POST decertifications. 15 tools, public read-only, no auth, remote at `https://cajusticewatch.com/api/mcp`. Sources: cjp.ca.gov, post.ca.gov, official court rosters, named press coverage.
+- [federicodeponte/openpaper-mcp](https://github.com/federicodeponte/openpaper-mcp): Generate full academic papers with verified citations via OpenPaper.dev using 18 specialized AI agents.
