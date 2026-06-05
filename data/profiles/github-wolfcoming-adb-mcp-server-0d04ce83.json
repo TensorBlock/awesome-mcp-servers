@@ -1,0 +1,24 @@
+{
+  "id": "github-wolfcoming-adb-mcp-server-0d04ce83",
+  "name": "wolfcoming/adb_mcp_server",
+  "description": "Facilitates remote control of Android devices via ADB using the MCP protocol, enabling device management, screen operations, input actions, app management, and more.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/github-wolfcoming-adb-mcp-server-0d04ce83",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wolfcoming-adb-mcp-server-0d04ce83)",
+  "links": {
+    "primary": "https://github.com/wolfcoming/adb_mcp_server",
+    "repo": "https://github.com/wolfcoming/adb_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

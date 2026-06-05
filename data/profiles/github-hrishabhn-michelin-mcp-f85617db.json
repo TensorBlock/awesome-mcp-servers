@@ -1,0 +1,24 @@
+{
+  "id": "github-hrishabhn-michelin-mcp-f85617db",
+  "name": "hrishabhn/michelin-mcp",
+  "description": "Facilitates interaction with the Michelin dataset through structured API calls using the Model Context Protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-hrishabhn-michelin-mcp-f85617db",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hrishabhn-michelin-mcp-f85617db)",
+  "links": {
+    "primary": "https://github.com/hrishabhn/michelin-mcp",
+    "repo": "https://github.com/hrishabhn/michelin-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

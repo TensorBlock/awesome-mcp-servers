@@ -1,0 +1,24 @@
+{
+  "id": "github-joseroberts87-spidy-a34d822b",
+  "name": "JoseRoberts87/spidy",
+  "description": "A web crawler MCP server for Claude that stores notes and generates summaries, featuring a web-crawling tool to fetch and save website content.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-joseroberts87-spidy-a34d822b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-joseroberts87-spidy-a34d822b)",
+  "links": {
+    "primary": "https://github.com/JoseRoberts87/spidy",
+    "repo": "https://github.com/JoseRoberts87/spidy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

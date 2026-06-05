@@ -1,0 +1,24 @@
+{
+  "id": "github-securityfortech-secops-mcp-2cbf95ea",
+  "name": "securityfortech/secops-mcp",
+  "description": "A comprehensive security testing toolbox integrating popular open source tools via a unified MCP interface for tasks like pentesting and threat hunting.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-securityfortech-secops-mcp-2cbf95ea",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-securityfortech-secops-mcp-2cbf95ea)",
+  "links": {
+    "primary": "https://github.com/securityfortech/secops-mcp",
+    "repo": "https://github.com/securityfortech/secops-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

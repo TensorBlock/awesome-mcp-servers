@@ -1,0 +1,24 @@
+{
+  "id": "github-limadelic-mcvibes-91b12610",
+  "name": "limadelic/mcvibes",
+  "description": "Node.js server for filesystem operations using Model Context Protocol, enabling advanced file management and directory manipulation.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-limadelic-mcvibes-91b12610",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-limadelic-mcvibes-91b12610)",
+  "links": {
+    "primary": "https://github.com/limadelic/mcvibes",
+    "repo": "https://github.com/limadelic/mcvibes",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

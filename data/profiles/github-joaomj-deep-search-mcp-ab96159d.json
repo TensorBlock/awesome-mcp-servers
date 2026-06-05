@@ -1,0 +1,24 @@
+{
+  "id": "github-joaomj-deep-search-mcp-ab96159d",
+  "name": "joaomj/deep-search-mcp",
+  "description": "Facilitates deep web searches using the LinkUp API, offering structured results and customizable search parameters.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-joaomj-deep-search-mcp-ab96159d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-joaomj-deep-search-mcp-ab96159d)",
+  "links": {
+    "primary": "https://github.com/joaomj/deep-search-mcp",
+    "repo": "https://github.com/joaomj/deep-search-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

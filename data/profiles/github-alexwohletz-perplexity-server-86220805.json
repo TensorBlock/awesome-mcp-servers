@@ -1,0 +1,24 @@
+{
+  "id": "github-alexwohletz-perplexity-server-86220805",
+  "name": "alexwohletz/perplexity-server",
+  "description": "Facilitates AI-powered searches with web citations using Perplexity AI's API.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-alexwohletz-perplexity-server-86220805",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexwohletz-perplexity-server-86220805)",
+  "links": {
+    "primary": "https://github.com/alexwohletz/perplexity-server",
+    "repo": "https://github.com/alexwohletz/perplexity-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

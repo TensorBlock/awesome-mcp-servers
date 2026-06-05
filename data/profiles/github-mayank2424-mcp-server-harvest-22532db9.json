@@ -1,0 +1,24 @@
+{
+  "id": "github-mayank2424-mcp-server-harvest-22532db9",
+  "name": "mayank2424/mcp-server-harvest",
+  "description": "Facilitates interaction with Harvest time tracking through a TypeScript-based MCP server, enabling seamless integration with LLM clients.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-mayank2424-mcp-server-harvest-22532db9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mayank2424-mcp-server-harvest-22532db9)",
+  "links": {
+    "primary": "https://github.com/mayank2424/mcp-server-harvest",
+    "repo": "https://github.com/mayank2424/mcp-server-harvest",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

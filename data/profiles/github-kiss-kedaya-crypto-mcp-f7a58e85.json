@@ -1,0 +1,24 @@
+{
+  "id": "github-kiss-kedaya-crypto-mcp-f7a58e85",
+  "name": "kiss-kedaya/crypto_mcp",
+  "description": "A cryptocurrency price query server leveraging MCP to provide real-time market data and trends.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-kiss-kedaya-crypto-mcp-f7a58e85",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kiss-kedaya-crypto-mcp-f7a58e85)",
+  "links": {
+    "primary": "https://github.com/kiss-kedaya/crypto_mcp",
+    "repo": "https://github.com/kiss-kedaya/crypto_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

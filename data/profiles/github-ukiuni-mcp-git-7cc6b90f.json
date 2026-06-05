@@ -1,0 +1,24 @@
+{
+  "id": "github-ukiuni-mcp-git-7cc6b90f",
+  "name": "ukiuni/mcp-git",
+  "description": "Facilitates the execution of Git commands via an MCP server, enabling seamless integration with various MCP clients.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-ukiuni-mcp-git-7cc6b90f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ukiuni-mcp-git-7cc6b90f)",
+  "links": {
+    "primary": "https://github.com/ukiuni/mcp-git",
+    "repo": "https://github.com/ukiuni/mcp-git",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

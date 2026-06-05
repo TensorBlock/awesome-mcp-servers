@@ -1,0 +1,24 @@
+{
+  "id": "github-l33tdawg-strapi-mcp-23c39bb9",
+  "name": "l33tdawg/strapi-mcp",
+  "description": "Facilitates seamless interaction with Strapi CMS by providing CRUD operations and media management through the MCP protocol.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-l33tdawg-strapi-mcp-23c39bb9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-l33tdawg-strapi-mcp-23c39bb9)",
+  "links": {
+    "primary": "https://github.com/l33tdawg/strapi-mcp",
+    "repo": "https://github.com/l33tdawg/strapi-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

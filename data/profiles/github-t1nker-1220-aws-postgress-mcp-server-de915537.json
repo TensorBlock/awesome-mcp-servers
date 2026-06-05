@@ -1,0 +1,24 @@
+{
+  "id": "github-t1nker-1220-aws-postgress-mcp-server-de915537",
+  "name": "T1nker-1220/aws-postgress-mcp-server",
+  "description": "Facilitates read-only SQL query access to AWS PostgreSQL databases using the Model Context Protocol.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-t1nker-1220-aws-postgress-mcp-server-de915537",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-t1nker-1220-aws-postgress-mcp-server-de915537)",
+  "links": {
+    "primary": "https://github.com/T1nker-1220/aws-postgress-mcp-server",
+    "repo": "https://github.com/T1nker-1220/aws-postgress-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

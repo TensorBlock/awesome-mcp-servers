@@ -1,0 +1,24 @@
+{
+  "id": "github-randomm-files-db-mcp-7e5ff79c",
+  "name": "randomm/files-db-mcp",
+  "description": "A local vector database system enabling fast and efficient semantic search for software projects through the Message Control Protocol.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-randomm-files-db-mcp-7e5ff79c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-randomm-files-db-mcp-7e5ff79c)",
+  "links": {
+    "primary": "https://github.com/randomm/files-db-mcp",
+    "repo": "https://github.com/randomm/files-db-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

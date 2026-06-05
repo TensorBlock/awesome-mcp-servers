@@ -1,0 +1,24 @@
+{
+  "id": "github-dreamfactorysoftware-df-mcp-c2952cd8",
+  "name": "dreamfactorysoftware/df-mcp",
+  "description": "DreamFactory MCP Server facilitates AI assistants like Claude to access databases via DreamFactory's REST APIs.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-dreamfactorysoftware-df-mcp-c2952cd8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dreamfactorysoftware-df-mcp-c2952cd8)",
+  "links": {
+    "primary": "https://github.com/dreamfactorysoftware/df-mcp",
+    "repo": "https://github.com/dreamfactorysoftware/df-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

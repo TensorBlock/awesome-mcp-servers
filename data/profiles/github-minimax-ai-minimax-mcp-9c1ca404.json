@@ -1,0 +1,24 @@
+{
+  "id": "github-minimax-ai-minimax-mcp-9c1ca404",
+  "name": "MiniMax-AI/MiniMax-MCP",
+  "description": "Facilitates seamless interaction with advanced Text to Speech and multimedia generation APIs, enabling voice cloning, video, and image creation.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-minimax-ai-minimax-mcp-9c1ca404",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-minimax-ai-minimax-mcp-9c1ca404)",
+  "links": {
+    "primary": "https://github.com/MiniMax-AI/MiniMax-MCP",
+    "repo": "https://github.com/MiniMax-AI/MiniMax-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

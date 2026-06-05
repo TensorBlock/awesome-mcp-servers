@@ -1,0 +1,24 @@
+{
+  "id": "github-shoofio-brave-search-mcp-sse-f934467e",
+  "name": "Shoofio/brave-search-mcp-sse",
+  "description": "Facilitates real-time streaming of Brave Search results to AI models via a centralized MCP/SSE interface, deployable with Docker or Helm.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-shoofio-brave-search-mcp-sse-f934467e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shoofio-brave-search-mcp-sse-f934467e)",
+  "links": {
+    "primary": "https://github.com/Shoofio/brave-search-mcp-sse",
+    "repo": "https://github.com/Shoofio/brave-search-mcp-sse",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-kybvwhxw-causal-reasoning-llm-6faaf8aa",
+  "name": "KYBvWHxW/causal-reasoning-llm",
+  "description": "Facilitates testing of causal reasoning in large language models across economics, meteorology, and sociology domains.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-kybvwhxw-causal-reasoning-llm-6faaf8aa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kybvwhxw-causal-reasoning-llm-6faaf8aa)",
+  "links": {
+    "primary": "https://github.com/KYBvWHxW/causal-reasoning-llm",
+    "repo": "https://github.com/KYBvWHxW/causal-reasoning-llm",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

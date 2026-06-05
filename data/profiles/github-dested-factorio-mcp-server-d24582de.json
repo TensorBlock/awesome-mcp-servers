@@ -1,0 +1,24 @@
+{
+  "id": "github-dested-factorio-mcp-server-d24582de",
+  "name": "dested/factorio-mcp-server",
+  "description": "A minimal MCP server template for building AI assistant tools with TypeScript and esbuild, featuring a simple 'hello world' tool example.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-dested-factorio-mcp-server-d24582de",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dested-factorio-mcp-server-d24582de)",
+  "links": {
+    "primary": "https://github.com/dested/factorio-mcp-server",
+    "repo": "https://github.com/dested/factorio-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-cheerlights-cheerlights-mcp-5a644b96",
+  "name": "cheerlights/cheerlights-mcp",
+  "description": "Facilitates AI interaction with the CheerLights API for real-time color synchronization across global IoT-connected lights.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-cheerlights-cheerlights-mcp-5a644b96",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cheerlights-cheerlights-mcp-5a644b96)",
+  "links": {
+    "primary": "https://github.com/cheerlights/cheerlights-mcp",
+    "repo": "https://github.com/cheerlights/cheerlights-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

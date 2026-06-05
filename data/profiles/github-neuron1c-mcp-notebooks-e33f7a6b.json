@@ -1,0 +1,24 @@
+{
+  "id": "github-neuron1c-mcp-notebooks-e33f7a6b",
+  "name": "Neuron1c/mcp-notebooks",
+  "description": "Facilitates progressive code execution in notebooks, allowing LLMs to retain variables and react to errors swiftly.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-neuron1c-mcp-notebooks-e33f7a6b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-neuron1c-mcp-notebooks-e33f7a6b)",
+  "links": {
+    "primary": "https://github.com/Neuron1c/mcp-notebooks",
+    "repo": "https://github.com/Neuron1c/mcp-notebooks",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

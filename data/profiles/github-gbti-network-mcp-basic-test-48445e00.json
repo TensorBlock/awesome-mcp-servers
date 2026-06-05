@@ -1,0 +1,24 @@
+{
+  "id": "github-gbti-network-mcp-basic-test-48445e00",
+  "name": "gbti-network/mcp-basic-test",
+  "description": "A Node.js MCP server that generates random US State and signature soup combinations, compliant with JSON-RPC 2.0 and featuring a custom logging system.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-gbti-network-mcp-basic-test-48445e00",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gbti-network-mcp-basic-test-48445e00)",
+  "links": {
+    "primary": "https://github.com/gbti-network/mcp-basic-test",
+    "repo": "https://github.com/gbti-network/mcp-basic-test",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

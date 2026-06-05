@@ -1,0 +1,24 @@
+{
+  "id": "github-druid0523-task-manager-mcp-a61605c7",
+  "name": "druid0523/task-manager-mcp",
+  "description": "Task Manager MCP orchestrates complex task lifecycles with hierarchical modeling and Gantt chart visualization.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-druid0523-task-manager-mcp-a61605c7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-druid0523-task-manager-mcp-a61605c7)",
+  "links": {
+    "primary": "https://github.com/druid0523/task-manager-mcp",
+    "repo": "https://github.com/druid0523/task-manager-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

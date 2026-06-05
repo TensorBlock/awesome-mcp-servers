@@ -1,0 +1,24 @@
+{
+  "id": "github-succil3-clanki-60945d7b",
+  "name": "succil3/clanki",
+  "description": "Facilitates AI assistants' interaction with Anki flashcard decks through MCP, supporting deck management and card creation.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-succil3-clanki-60945d7b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-succil3-clanki-60945d7b)",
+  "links": {
+    "primary": "https://github.com/succil3/clanki",
+    "repo": "https://github.com/succil3/clanki",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

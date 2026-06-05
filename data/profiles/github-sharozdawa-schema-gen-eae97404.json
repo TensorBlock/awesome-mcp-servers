@@ -1,0 +1,24 @@
+{
+  "id": "github-sharozdawa-schema-gen-eae97404",
+  "name": "sharozdawa/schema-gen",
+  "description": "Schema.org JSON-LD markup generator with 12 types (Person, Product, FAQ, Article, Organization, HowTo, etc.) and live preview.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-sharozdawa-schema-gen-eae97404",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sharozdawa-schema-gen-eae97404)",
+  "links": {
+    "primary": "https://github.com/sharozdawa/schema-gen",
+    "repo": "https://github.com/sharozdawa/schema-gen",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
