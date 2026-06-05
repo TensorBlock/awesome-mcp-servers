@@ -1,0 +1,24 @@
+{
+  "id": "github-bharathvaj-ganesan-whois-mcp-555e001f",
+  "name": "bharathvaj-ganesan/whois-mcp",
+  "description": "Facilitates WHOIS lookups for AI agents, enabling them to retrieve domain registration details seamlessly.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-bharathvaj-ganesan-whois-mcp-555e001f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bharathvaj-ganesan-whois-mcp-555e001f)",
+  "links": {
+    "primary": "https://github.com/bharathvaj-ganesan/whois-mcp",
+    "repo": "https://github.com/bharathvaj-ganesan/whois-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

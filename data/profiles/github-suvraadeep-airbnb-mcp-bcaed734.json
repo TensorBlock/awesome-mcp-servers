@@ -1,0 +1,24 @@
+{
+  "id": "github-suvraadeep-airbnb-mcp-bcaed734",
+  "name": "suvraadeep/Airbnb-mcp",
+  "description": "Integrates Airbnb MCP servers with LangChain and Groq through a browser interface for seamless interaction.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-suvraadeep-airbnb-mcp-bcaed734",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-suvraadeep-airbnb-mcp-bcaed734)",
+  "links": {
+    "primary": "https://github.com/suvraadeep/Airbnb-mcp",
+    "repo": "https://github.com/suvraadeep/Airbnb-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

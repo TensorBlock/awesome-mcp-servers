@@ -1,0 +1,24 @@
+{
+  "id": "github-bmorphism-nats-mcp-server-805645f9",
+  "name": "bmorphism/nats-mcp-server",
+  "description": "Facilitates AI agent interaction with the NATS messaging system via the NATS CLI, supporting advanced message publishing and subscription features.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-bmorphism-nats-mcp-server-805645f9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bmorphism-nats-mcp-server-805645f9)",
+  "links": {
+    "primary": "https://github.com/bmorphism/nats-mcp-server",
+    "repo": "https://github.com/bmorphism/nats-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

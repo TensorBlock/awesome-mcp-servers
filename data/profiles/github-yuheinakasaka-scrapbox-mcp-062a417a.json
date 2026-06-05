@@ -1,0 +1,24 @@
+{
+  "id": "github-yuheinakasaka-scrapbox-mcp-062a417a",
+  "name": "YuheiNakasaka/scrapbox-mcp",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-yuheinakasaka-scrapbox-mcp-062a417a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yuheinakasaka-scrapbox-mcp-062a417a)",
+  "links": {
+    "primary": "https://github.com/YuheiNakasaka/scrapbox-mcp",
+    "repo": "https://github.com/YuheiNakasaka/scrapbox-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

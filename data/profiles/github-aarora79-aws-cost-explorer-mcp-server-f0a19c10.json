@@ -1,0 +1,24 @@
+{
+  "id": "github-aarora79-aws-cost-explorer-mcp-server-f0a19c10",
+  "name": "aarora79/aws-cost-explorer-mcp-server",
+  "description": "Facilitates AWS spend analysis through an interactive interface using Anthropic's Claude model, leveraging AWS Cost Explorer and Amazon Bedrock data.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-aarora79-aws-cost-explorer-mcp-server-f0a19c10",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aarora79-aws-cost-explorer-mcp-server-f0a19c10)",
+  "links": {
+    "primary": "https://github.com/aarora79/aws-cost-explorer-mcp-server",
+    "repo": "https://github.com/aarora79/aws-cost-explorer-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

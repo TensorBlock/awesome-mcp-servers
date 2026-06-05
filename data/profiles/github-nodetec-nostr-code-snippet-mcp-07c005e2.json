@@ -1,0 +1,24 @@
+{
+  "id": "github-nodetec-nostr-code-snippet-mcp-07c005e2",
+  "name": "nodetec/nostr-code-snippet-mcp",
+  "description": "Facilitates the execution of code snippets via a node-based MCP server.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-nodetec-nostr-code-snippet-mcp-07c005e2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nodetec-nostr-code-snippet-mcp-07c005e2)",
+  "links": {
+    "primary": "https://github.com/nodetec/nostr-code-snippet-mcp",
+    "repo": "https://github.com/nodetec/nostr-code-snippet-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

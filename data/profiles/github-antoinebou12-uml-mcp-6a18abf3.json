@@ -1,0 +1,24 @@
+{
+  "id": "github-antoinebou12-uml-mcp-6a18abf3",
+  "name": "antoinebou12/uml-mcp",
+  "description": "UML-MCP Server enables seamless generation of diverse UML diagrams through natural language or code, leveraging the Model Context Protocol for integration with AI assistants.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-antoinebou12-uml-mcp-6a18abf3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-antoinebou12-uml-mcp-6a18abf3)",
+  "links": {
+    "primary": "https://github.com/antoinebou12/uml-mcp",
+    "repo": "https://github.com/antoinebou12/uml-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

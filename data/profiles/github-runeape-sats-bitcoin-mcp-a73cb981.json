@@ -1,0 +1,24 @@
+{
+  "id": "github-runeape-sats-bitcoin-mcp-a73cb981",
+  "name": "runeape-sats/bitcoin-mcp",
+  "description": "Access local Bitcoin full node data with real-time blockchain information and 3D visualization capabilities.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-runeape-sats-bitcoin-mcp-a73cb981",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-runeape-sats-bitcoin-mcp-a73cb981)",
+  "links": {
+    "primary": "https://github.com/runeape-sats/bitcoin-mcp",
+    "repo": "https://github.com/runeape-sats/bitcoin-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-souravkumarbarman-twitter-mcp-server-5ad57085",
+  "name": "SouravKumarBarman/twitter-mcp-server",
+  "description": "Facilitates seamless interaction between Claude Desktop and Twitter, enabling tweet management and content analysis via the Twitter API.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-souravkumarbarman-twitter-mcp-server-5ad57085",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-souravkumarbarman-twitter-mcp-server-5ad57085)",
+  "links": {
+    "primary": "https://github.com/SouravKumarBarman/twitter-mcp-server",
+    "repo": "https://github.com/SouravKumarBarman/twitter-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

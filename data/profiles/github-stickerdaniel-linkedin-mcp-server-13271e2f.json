@@ -1,0 +1,24 @@
+{
+  "id": "github-stickerdaniel-linkedin-mcp-server-13271e2f",
+  "name": "stickerdaniel/linkedin-mcp-server",
+  "description": "Facilitates LinkedIn data scraping and job searches through AI assistants like Claude.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-stickerdaniel-linkedin-mcp-server-13271e2f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stickerdaniel-linkedin-mcp-server-13271e2f)",
+  "links": {
+    "primary": "https://github.com/stickerdaniel/linkedin-mcp-server",
+    "repo": "https://github.com/stickerdaniel/linkedin-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

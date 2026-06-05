@@ -1,0 +1,24 @@
+{
+  "id": "github-buffettcode-buffett-code-mcp-server-a23af5c4",
+  "name": "BuffettCode/buffett-code-mcp-server",
+  "description": "Access Buffett Code API for comprehensive company and stock data retrieval via MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-buffettcode-buffett-code-mcp-server-a23af5c4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-buffettcode-buffett-code-mcp-server-a23af5c4)",
+  "links": {
+    "primary": "https://github.com/BuffettCode/buffett-code-mcp-server",
+    "repo": "https://github.com/BuffettCode/buffett-code-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

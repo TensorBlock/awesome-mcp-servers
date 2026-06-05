@@ -1,0 +1,24 @@
+{
+  "id": "github-shelwyn-mcp-with-python-c9b50507",
+  "name": "shelwyn/MCP_with_python",
+  "description": "A FastAPI-based MCP server that integrates with Gemini-2.0-Flash and Claude Desktop to generate random user profiles and facilitate AI-driven interactions.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-shelwyn-mcp-with-python-c9b50507",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shelwyn-mcp-with-python-c9b50507)",
+  "links": {
+    "primary": "https://github.com/shelwyn/MCP_with_python",
+    "repo": "https://github.com/shelwyn/MCP_with_python",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

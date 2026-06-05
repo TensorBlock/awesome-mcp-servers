@@ -2,6 +2,7 @@
 
 Servers integrating with other AI models, AI platforms, RAG tools, prompt management, or agent frameworks.
 
+- [SignalSpore MCP](https://github.com/yeahdog/signalspore-mcp) - Model-aware preflight MCP server for AI agents; gates risky tasks, returns trap-aware execution briefs, and records safe post-task deltas. `npx -y github:yeahdog/signalspore-mcp`
 - [ejentum/ejentum-mcp](https://github.com/ejentum/ejentum-mcp) - MCP server with reasoning, code, anti-deception, and memory tools for AI agents (stdio via npm, or hosted HTTPS at api.ejentum.com/mcp).
 - [us-all/mlflow-mcp-server](https://github.com/us-all/mlflow-mcp-server) - MLflow MCP server with 82 tools across experiments, runs, registered models, model versions, traces, and assessments. MLflow 3 GenAI traces support and 5 workflow Prompts.
 - [OpenAgent](https://github.com/the-open-agent/openagent) - Open-source personal AI assistant platform powered by LLM, RAG and agent loops. Supports browser-use, shell execution, web search, office automation, and connects any MCP-compatible server over SSE, Stdio, or StreamableHTTP. Features visual workflow builder, multi-tenant support, and 30+ model providers. Apache-2.0.
@@ -1621,3 +1622,8 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [tolegm/astranl-mcp](https://github.com/tolegm/astranl-mcp) - AI inference dispatch aggregator routing tasks to Anthropic, OpenAI, Gemini, and xAI Grok. Flat per-task pricing (€0.005-€0.05). 9 MCP tools.
 - [daedalus/mcp-llm-gateway](https://github.com/daedalus/mcp-llm-gateway) - MCP-compatible LLM gateway that proxies completion requests to downstream OpenAI-compatible providers.
 - [daedalus/mcp-smart-proxy](https://github.com/daedalus/mcp-smart-proxy) - Token-efficient MCP server gateway with semantic tool search.
+- [New1Direction/webmcp-anything](https://github.com/New1Direction/webmcp-anything): Turn any URL into agent-callable MCP tools. 5-tier adapter chain (Shopify ~4M storefronts / generic JSON-LD / OpenAPI compiler / known providers like Stripe/Slack/Notion/GitHub / Claude 3.5 Haiku fallback). Hosted at [wmcp.sh](https://wmcp.sh) — free public API, paid tier with custom adapters + verified directory listings.
+- [runapi-ai/mcp](https://github.com/runapi-ai/mcp): 130+ AI models for image, video, music, audio, and LLM generation from 18 providers; free catalog tools for model discovery and pricing, authenticated tools for media generation. `npx @runapi.ai/mcp`
+- [0xzr/freellmpool](https://github.com/0xzr/freellmpool) - MCP server exposing pooled free LLM tiers from 16 providers (Groq, Cerebras, Gemini, OpenRouter, …) as ask/models/quota tools, with automatic failover; keyless to start (`pip install freellmpool`).
+
+- [ToolRouter](https://toolrouter.com): Give your AI agent superpowers with access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`

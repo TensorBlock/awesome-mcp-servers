@@ -19,6 +19,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [atorber/wechaty-mcp-sse](https://github.com/atorber/wechaty-mcp-sse): Facilitates seamless integration between Wechaty and large language models like Claude, enabling message sending and contact querying via a TypeScript-based MCP server.
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp): Facilitates AI agents in securely accessing 2FA codes and passwords for automated login processes via the Authenticator App.
 - [imprvhub/mcp-status-observer](https://github.com/imprvhub/mcp-status-observer): Facilitates real-time monitoring and querying of operational statuses for major digital platforms within Claude Desktop.
+- [serhiizghama/viber-mcp](https://github.com/serhiizghama/viber-mcp): MCP server for the Viber Bot REST API. Send text/picture/video/file/location/contact messages, broadcast to up to 300 recipients, manage webhooks, and read account/user state — 13 tools, TypeScript, published to npm as `@serhii.zghama/viber-mcp`.
 - [Escorza07/whatsapp-mcp](https://github.com/Escorza07/whatsapp-mcp): Facilitates seamless interaction with WhatsApp through Claude by leveraging a Go bridge and Python MCP server for message management and contact search.
 - [karateboss/mcp_email_reader](https://github.com/karateboss/mcp_email_reader): Connects to an email server to read emails and manage attachments using MCP tools.
 - [tituslhy/sturdy-octo-fortnight](https://github.com/tituslhy/sturdy-octo-fortnight): Facilitates seamless integration with Atlassian's Confluence and Jira through a robust MCP server, enabling efficient content management and issue tracking.
@@ -328,4 +329,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [daedalus/mcp-telegram-bot](https://github.com/daedalus/mcp-telegram-bot) - MCP server that exposes a Telegram bot.
 - [daedalus/mcp-whatsapp](https://github.com/daedalus/mcp-whatsapp) - MCP server exposing WhatsApp bot functionality.
 - [daedalus/mcp-zmq](https://github.com/daedalus/mcp-zmq) - MCP server for ZMQ messaging.
+- [mailbox.bot](https://mailbox.bot/mcp-install): Remote MCP server with 29 tools for AI agents to retrieve inbound document context and send physical postal mail, certified mail, postcards, and batch mailings with cost previews, approval controls, tracking, webhooks, and proof workflows.
+- [dappros/ethora-mcp-server](https://github.com/dappros/ethora-mcp-server): MCP server for the open-source Ethora chat & messaging platform — manage apps and chat rooms, broadcast messages, and deploy AI agents / chatbots with RAG sources, across user-auth and B2B/app-token flows. Install with `npx -y @ethora/mcp-server`.
 
+- [commune-sh/commune-mcp](https://github.com/commune-sh/commune-mcp): Provides email infrastructure for AI agents, enabling programmatic inbox creation, send/receive email, thread management across concurrent conversations, custom domains, structured extraction on inbound mail, and SMS.

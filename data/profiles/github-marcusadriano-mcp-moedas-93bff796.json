@@ -1,0 +1,24 @@
+{
+  "id": "github-marcusadriano-mcp-moedas-93bff796",
+  "name": "MarcusAdriano/mcp-moedas",
+  "description": "Facilitates currency exchange rate retrieval using the Banco Central do Brasil API through an MCP server.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-marcusadriano-mcp-moedas-93bff796",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-marcusadriano-mcp-moedas-93bff796)",
+  "links": {
+    "primary": "https://github.com/MarcusAdriano/mcp-moedas",
+    "repo": "https://github.com/MarcusAdriano/mcp-moedas",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-angrysky56-neocoder-neo4j-ai-workflow-2a5cdbab",
+  "name": "angrysky56/NeoCoder-neo4j-ai-workflow",
+  "description": "Enables AI assistants to utilize a Neo4j knowledge graph for dynamic coding workflows and project memory management.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-angrysky56-neocoder-neo4j-ai-workflow-2a5cdbab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-angrysky56-neocoder-neo4j-ai-workflow-2a5cdbab)",
+  "links": {
+    "primary": "https://github.com/angrysky56/NeoCoder-neo4j-ai-workflow",
+    "repo": "https://github.com/angrysky56/NeoCoder-neo4j-ai-workflow",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-koladev32-mcp-discord-chat-0bd8b7ef",
+  "name": "koladev32/mcp-discord-chat",
+  "description": "Facilitates note storage and summarization through a custom URI scheme and prompt-based interactions.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-koladev32-mcp-discord-chat-0bd8b7ef",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-koladev32-mcp-discord-chat-0bd8b7ef)",
+  "links": {
+    "primary": "https://github.com/koladev32/mcp-discord-chat",
+    "repo": "https://github.com/koladev32/mcp-discord-chat",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

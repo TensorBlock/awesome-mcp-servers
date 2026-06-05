@@ -1,0 +1,24 @@
+{
+  "id": "github-macrat-mcp-server-kintone-c36e312c",
+  "name": "macrat/mcp-server-kintone",
+  "description": "Facilitates AI-driven exploration and manipulation of kintone data through MCP integration.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-macrat-mcp-server-kintone-c36e312c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-macrat-mcp-server-kintone-c36e312c)",
+  "links": {
+    "primary": "https://github.com/macrat/mcp-server-kintone",
+    "repo": "https://github.com/macrat/mcp-server-kintone",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

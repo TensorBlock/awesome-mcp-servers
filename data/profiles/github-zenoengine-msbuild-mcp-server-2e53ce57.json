@@ -1,0 +1,24 @@
+{
+  "id": "github-zenoengine-msbuild-mcp-server-2e53ce57",
+  "name": "zenoengine/msbuild-mcp-server",
+  "description": "Automates MSBuild project builds with dynamic discovery and customizable configurations, integrating seamlessly with various MCP clients.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-zenoengine-msbuild-mcp-server-2e53ce57",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zenoengine-msbuild-mcp-server-2e53ce57)",
+  "links": {
+    "primary": "https://github.com/zenoengine/msbuild-mcp-server",
+    "repo": "https://github.com/zenoengine/msbuild-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-yumia-pretty-cursor-mcp-installer-bb97e45e",
+  "name": "yumia-pretty/cursor-mcp-installer",
+  "description": "A meta-server designed for Cursor users to effortlessly install and configure other MCP servers, enhancing AI capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-yumia-pretty-cursor-mcp-installer-bb97e45e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yumia-pretty-cursor-mcp-installer-bb97e45e)",
+  "links": {
+    "primary": "https://github.com/yumia-pretty/cursor-mcp-installer",
+    "repo": "https://github.com/yumia-pretty/cursor-mcp-installer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

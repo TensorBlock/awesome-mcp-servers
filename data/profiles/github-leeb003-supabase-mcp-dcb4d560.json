@@ -1,0 +1,24 @@
+{
+  "id": "github-leeb003-supabase-mcp-dcb4d560",
+  "name": "leeb003/supabase-mcp",
+  "description": "Facilitates CRUD operations on Supabase databases through a FastAPI-based MCP server, ensuring seamless integration with Cursor.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-leeb003-supabase-mcp-dcb4d560",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-leeb003-supabase-mcp-dcb4d560)",
+  "links": {
+    "primary": "https://github.com/leeb003/supabase-mcp",
+    "repo": "https://github.com/leeb003/supabase-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

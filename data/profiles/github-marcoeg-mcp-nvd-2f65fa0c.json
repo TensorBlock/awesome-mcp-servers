@@ -1,0 +1,24 @@
+{
+  "id": "github-marcoeg-mcp-nvd-2f65fa0c",
+  "name": "marcoeg/mcp-nvd",
+  "description": "Facilitates querying the NIST National Vulnerability Database using the Model Context Protocol for real-time vulnerability data retrieval.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-marcoeg-mcp-nvd-2f65fa0c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-marcoeg-mcp-nvd-2f65fa0c)",
+  "links": {
+    "primary": "https://github.com/marcoeg/mcp-nvd",
+    "repo": "https://github.com/marcoeg/mcp-nvd",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

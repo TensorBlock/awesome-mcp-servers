@@ -1,0 +1,24 @@
+{
+  "id": "github-casheiro-synapstor-12fbf532",
+  "name": "casheiro/synapstor",
+  "description": "Synapstor offers a comprehensive solution for semantic storage and retrieval of information using vector embeddings and integrates seamlessly with LLMs through the MCP protocol.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-casheiro-synapstor-12fbf532",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-casheiro-synapstor-12fbf532)",
+  "links": {
+    "primary": "https://github.com/casheiro/synapstor",
+    "repo": "https://github.com/casheiro/synapstor",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

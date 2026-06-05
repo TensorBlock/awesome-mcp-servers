@@ -1,0 +1,24 @@
+{
+  "id": "github-rawatadit-remote-mcp-server-cf-11359fee",
+  "name": "rawatadit/remote-mcp-server-cf",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-rawatadit-remote-mcp-server-cf-11359fee",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rawatadit-remote-mcp-server-cf-11359fee)",
+  "links": {
+    "primary": "https://github.com/rawatadit/remote-mcp-server-cf",
+    "repo": "https://github.com/rawatadit/remote-mcp-server-cf",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

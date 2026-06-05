@@ -1,0 +1,24 @@
+{
+  "id": "github-scrapybara-scrapybara-mcp-535e060b",
+  "name": "Scrapybara/scrapybara-mcp",
+  "description": "Facilitates interaction with virtual Ubuntu desktops for web browsing and code execution via MCP clients.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-scrapybara-scrapybara-mcp-535e060b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-scrapybara-scrapybara-mcp-535e060b)",
+  "links": {
+    "primary": "https://github.com/Scrapybara/scrapybara-mcp",
+    "repo": "https://github.com/Scrapybara/scrapybara-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

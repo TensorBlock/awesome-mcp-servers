@@ -1,0 +1,24 @@
+{
+  "id": "github-mzxrai-mcp-webresearch-6b0d6844",
+  "name": "mzxrai/mcp-webresearch",
+  "description": "Facilitates real-time web research for Claude by integrating Google search and webpage content extraction.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-mzxrai-mcp-webresearch-6b0d6844",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mzxrai-mcp-webresearch-6b0d6844)",
+  "links": {
+    "primary": "https://github.com/mzxrai/mcp-webresearch",
+    "repo": "https://github.com/mzxrai/mcp-webresearch",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-hxie-pallas-gdrive-mcp-server-221bcebc",
+  "name": "hxie-pallas/gdrive-mcp-server",
+  "description": "Facilitates interaction with Google Drive through an MCP interface, supporting file search, content retrieval, and metadata access with OAuth authentication.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-hxie-pallas-gdrive-mcp-server-221bcebc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hxie-pallas-gdrive-mcp-server-221bcebc)",
+  "links": {
+    "primary": "https://github.com/hxie-pallas/gdrive-mcp-server",
+    "repo": "https://github.com/hxie-pallas/gdrive-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

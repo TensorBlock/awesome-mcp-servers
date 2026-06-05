@@ -1,0 +1,25 @@
+{
+  "id": "github-headcrab-clickhouse-mcp-d93daaf7",
+  "name": "Headcrab/clickhouse-mcp",
+  "description": "Facilitates interaction with ClickHouse databases through an MCP-compatible server, supporting SQL queries and schema retrieval via stdio and SSE transports.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-headcrab-clickhouse-mcp-d93daaf7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-headcrab-clickhouse-mcp-d93daaf7)",
+  "links": {
+    "primary": "https://github.com/Headcrab/clickhouse-mcp",
+    "repo": "https://github.com/Headcrab/clickhouse-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

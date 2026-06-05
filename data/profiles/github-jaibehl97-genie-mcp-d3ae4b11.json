@@ -1,0 +1,24 @@
+{
+  "id": "github-jaibehl97-genie-mcp-d3ae4b11",
+  "name": "jaibehl97/genie_mcp",
+  "description": "Integrate Databricks' AI/BI assistant features with other applications through a standardized interface for natural language querying of Databricks data.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-jaibehl97-genie-mcp-d3ae4b11",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jaibehl97-genie-mcp-d3ae4b11)",
+  "links": {
+    "primary": "https://github.com/jaibehl97/genie_mcp",
+    "repo": "https://github.com/jaibehl97/genie_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

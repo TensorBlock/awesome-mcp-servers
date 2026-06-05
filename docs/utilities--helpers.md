@@ -356,3 +356,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [daedalus/mcp-epochs](https://github.com/daedalus/mcp-epochs) - MCP tool that provides current Unix timestamp.
 - [daedalus/mcp-rpn](https://github.com/daedalus/mcp-rpn) - MCP server that exposes an RPN calculator.
 
+
+- [FlatFilers/mcp-server-flatfile](https://github.com/FlatFilers/mcp-server-flatfile): Facilitates interaction with the Flatfile API through a customizable MCP server, enabling streamlined data management and integration.
+- [IteraTools](https://api.iteratools.com): Cloud-hosted multi-tool MCP API providing 34+ capabilities through a single endpoint: image generation (Flux), web scraping, TTS, OCR, browser automation, sandboxed code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and more. Pay-per-use with x402 micropayment protocol.

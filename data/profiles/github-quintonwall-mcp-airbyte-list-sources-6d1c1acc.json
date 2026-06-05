@@ -1,0 +1,24 @@
+{
+  "id": "github-quintonwall-mcp-airbyte-list-sources-6d1c1acc",
+  "name": "quintonwall/mcp-airbyte-list-sources",
+  "description": "Facilitates monitoring of Airbyte connections through an MCP server integrated with Claude Desktop.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-quintonwall-mcp-airbyte-list-sources-6d1c1acc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-quintonwall-mcp-airbyte-list-sources-6d1c1acc)",
+  "links": {
+    "primary": "https://github.com/quintonwall/mcp-airbyte-list-sources",
+    "repo": "https://github.com/quintonwall/mcp-airbyte-list-sources",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

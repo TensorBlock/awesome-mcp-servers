@@ -1,0 +1,24 @@
+{
+  "id": "github-vectoryq-filesystem-a8364c37",
+  "name": "VectorYQ/filesystem",
+  "description": "Securely manage file operations with configurable access controls, enhancing LLM tool and data source interactions.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-vectoryq-filesystem-a8364c37",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vectoryq-filesystem-a8364c37)",
+  "links": {
+    "primary": "https://github.com/VectorYQ/filesystem",
+    "repo": "https://github.com/VectorYQ/filesystem",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-tavily-ai-tavily-mcp-81fe5304",
+  "name": "tavily-ai/tavily-mcp",
+  "description": "Tavily MCP server enables seamless integration with AI clients like Claude, offering real-time web search and intelligent data extraction capabilities.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-tavily-ai-tavily-mcp-81fe5304",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tavily-ai-tavily-mcp-81fe5304)",
+  "links": {
+    "primary": "https://github.com/tavily-ai/tavily-mcp",
+    "repo": "https://github.com/tavily-ai/tavily-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
