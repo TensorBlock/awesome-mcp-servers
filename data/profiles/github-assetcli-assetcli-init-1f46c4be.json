@@ -1,0 +1,24 @@
+{
+  "id": "github-assetcli-assetcli-init-1f46c4be",
+  "name": "assetCLI/assetCLI-init",
+  "description": "A comprehensive CLI tool for managing DAOs and multisig operations on Solana, enhanced with natural language interaction through MCP.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-assetcli-assetcli-init-1f46c4be",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-assetcli-assetcli-init-1f46c4be)",
+  "links": {
+    "primary": "https://github.com/assetCLI/assetCLI-init",
+    "repo": "https://github.com/assetCLI/assetCLI-init",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

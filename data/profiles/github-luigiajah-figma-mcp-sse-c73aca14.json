@@ -1,0 +1,24 @@
+{
+  "id": "github-luigiajah-figma-mcp-sse-c73aca14",
+  "name": "luigiajah/figma-mcp-sse",
+  "description": "Facilitates AI-powered coding tools to access and utilize Figma design data for enhanced design implementation accuracy.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-luigiajah-figma-mcp-sse-c73aca14",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-luigiajah-figma-mcp-sse-c73aca14)",
+  "links": {
+    "primary": "https://github.com/luigiajah/figma-mcp-sse",
+    "repo": "https://github.com/luigiajah/figma-mcp-sse",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

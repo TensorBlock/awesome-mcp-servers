@@ -1,0 +1,24 @@
+{
+  "id": "github-6laercio-mcp-claude-demo-bb4ee090",
+  "name": "6laercio/mcp-claude-demo",
+  "description": "Connects Claude Desktop with MCP servers using TypeScript for seamless integration.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-6laercio-mcp-claude-demo-bb4ee090",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-6laercio-mcp-claude-demo-bb4ee090)",
+  "links": {
+    "primary": "https://github.com/6laercio/mcp-claude-demo",
+    "repo": "https://github.com/6laercio/mcp-claude-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

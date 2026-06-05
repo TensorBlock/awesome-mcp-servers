@@ -1,0 +1,24 @@
+{
+  "id": "github-undertaker86001-mcp-process-pdf-09152a5c",
+  "name": "undertaker86001/mcp-process-pdf",
+  "description": "A robust MCP server for processing PDF documents with features like text extraction, image optimization, and intelligent classification using deep learning.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-undertaker86001-mcp-process-pdf-09152a5c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-undertaker86001-mcp-process-pdf-09152a5c)",
+  "links": {
+    "primary": "https://github.com/undertaker86001/mcp-process-pdf",
+    "repo": "https://github.com/undertaker86001/mcp-process-pdf",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

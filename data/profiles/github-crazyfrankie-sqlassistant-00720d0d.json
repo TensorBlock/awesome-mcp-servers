@@ -1,0 +1,24 @@
+{
+  "id": "github-crazyfrankie-sqlassistant-00720d0d",
+  "name": "crazyfrankie/sqlassistant",
+  "description": "Automates SQL problem-solving for students by exposing methods to AI, streamlining task completion.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-crazyfrankie-sqlassistant-00720d0d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-crazyfrankie-sqlassistant-00720d0d)",
+  "links": {
+    "primary": "https://github.com/crazyfrankie/sqlassistant",
+    "repo": "https://github.com/crazyfrankie/sqlassistant",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

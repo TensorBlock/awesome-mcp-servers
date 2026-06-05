@@ -1,0 +1,24 @@
+{
+  "id": "github-garblesnarff-gemini-mcp-server-e2626806",
+  "name": "Garblesnarff/gemini-mcp-server",
+  "description": "Facilitates image generation on Claude Desktop using Google's Gemini AI models.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-garblesnarff-gemini-mcp-server-e2626806",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-garblesnarff-gemini-mcp-server-e2626806)",
+  "links": {
+    "primary": "https://github.com/Garblesnarff/gemini-mcp-server",
+    "repo": "https://github.com/Garblesnarff/gemini-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-millerrain-weather-server-472d3ecf",
+  "name": "MiLLeRRain/weather-server",
+  "description": "A TypeScript-based MCP server that enhances LLM interactions by providing structured weather data and a simple notes system.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-millerrain-weather-server-472d3ecf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-millerrain-weather-server-472d3ecf)",
+  "links": {
+    "primary": "https://github.com/MiLLeRRain/weather-server",
+    "repo": "https://github.com/MiLLeRRain/weather-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-mathfrenchtoast-mcp-draw-48af9f81",
+  "name": "MathFrenchToast/mcp-draw",
+  "description": "Facilitates interaction between a drawing application and an MCP server using a REST interface for canvas operations.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-mathfrenchtoast-mcp-draw-48af9f81",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mathfrenchtoast-mcp-draw-48af9f81)",
+  "links": {
+    "primary": "https://github.com/MathFrenchToast/mcp-draw",
+    "repo": "https://github.com/MathFrenchToast/mcp-draw",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

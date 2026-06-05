@@ -1,0 +1,24 @@
+{
+  "id": "github-13rac1-videocapture-mcp-72a94aa9",
+  "name": "13rac1/videocapture-mcp",
+  "description": "Enables AI assistants to control webcams and capture images using OpenCV.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-13rac1-videocapture-mcp-72a94aa9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-13rac1-videocapture-mcp-72a94aa9)",
+  "links": {
+    "primary": "https://github.com/13rac1/videocapture-mcp",
+    "repo": "https://github.com/13rac1/videocapture-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

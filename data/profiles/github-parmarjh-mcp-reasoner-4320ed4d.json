@@ -1,0 +1,24 @@
+{
+  "id": "github-parmarjh-mcp-reasoner-4320ed4d",
+  "name": "parmarjh/mcp-reasoner",
+  "description": "A systematic reasoning server for Claude Desktop, featuring Beam Search and Monte Carlo Tree Search for complex decision-making.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-parmarjh-mcp-reasoner-4320ed4d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-parmarjh-mcp-reasoner-4320ed4d)",
+  "links": {
+    "primary": "https://github.com/parmarjh/mcp-reasoner",
+    "repo": "https://github.com/parmarjh/mcp-reasoner",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

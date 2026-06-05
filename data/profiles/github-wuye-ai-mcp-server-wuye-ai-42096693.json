@@ -1,0 +1,24 @@
+{
+  "id": "github-wuye-ai-mcp-server-wuye-ai-42096693",
+  "name": "wuye-ai/mcp-server-wuye-ai",
+  "description": "CRIC物业AI MCP Server offers intelligent AI assistance for the property industry, integrating multimodal models and RAG technology to provide industry research, legal insights, community governance, project management, and content creation capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-wuye-ai-mcp-server-wuye-ai-42096693",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wuye-ai-mcp-server-wuye-ai-42096693)",
+  "links": {
+    "primary": "https://github.com/wuye-ai/mcp-server-wuye-ai",
+    "repo": "https://github.com/wuye-ai/mcp-server-wuye-ai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

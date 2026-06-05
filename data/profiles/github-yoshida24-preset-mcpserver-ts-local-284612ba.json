@@ -1,0 +1,24 @@
+{
+  "id": "github-yoshida24-preset-mcpserver-ts-local-284612ba",
+  "name": "Yoshida24/preset-mcpserver-ts-local",
+  "description": "A TypeScript-based template for developing MCP servers locally using fastmcp and Deno.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-yoshida24-preset-mcpserver-ts-local-284612ba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yoshida24-preset-mcpserver-ts-local-284612ba)",
+  "links": {
+    "primary": "https://github.com/Yoshida24/preset-mcpserver-ts-local",
+    "repo": "https://github.com/Yoshida24/preset-mcpserver-ts-local",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

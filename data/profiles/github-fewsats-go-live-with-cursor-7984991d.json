@@ -1,0 +1,24 @@
+{
+  "id": "github-fewsats-go-live-with-cursor-7984991d",
+  "name": "Fewsats/go-live-with-cursor",
+  "description": "Facilitates domain purchase and website deployment using AI assistance and MCP integration with GitHub Pages.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-fewsats-go-live-with-cursor-7984991d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fewsats-go-live-with-cursor-7984991d)",
+  "links": {
+    "primary": "https://github.com/Fewsats/go-live-with-cursor",
+    "repo": "https://github.com/Fewsats/go-live-with-cursor",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

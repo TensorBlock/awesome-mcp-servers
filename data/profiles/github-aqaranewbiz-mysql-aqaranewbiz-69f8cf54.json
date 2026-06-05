@@ -1,0 +1,24 @@
+{
+  "id": "github-aqaranewbiz-mysql-aqaranewbiz-69f8cf54",
+  "name": "aqaranewbiz/mysql-aqaranewbiz",
+  "description": "Facilitates interaction with MySQL databases using the Model Context Protocol (MCP) for standardized API access.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-aqaranewbiz-mysql-aqaranewbiz-69f8cf54",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aqaranewbiz-mysql-aqaranewbiz-69f8cf54)",
+  "links": {
+    "primary": "https://github.com/aqaranewbiz/mysql-aqaranewbiz",
+    "repo": "https://github.com/aqaranewbiz/mysql-aqaranewbiz",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

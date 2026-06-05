@@ -1,0 +1,24 @@
+{
+  "id": "github-keurcien-choose-mcp-server-e6c20fa6",
+  "name": "keurcien/choose-mcp-server",
+  "description": "Facilitates the setup of an MCP server for seamless integration with Claude Desktop and Google Cloud services.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-keurcien-choose-mcp-server-e6c20fa6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-keurcien-choose-mcp-server-e6c20fa6)",
+  "links": {
+    "primary": "https://github.com/keurcien/choose-mcp-server",
+    "repo": "https://github.com/keurcien/choose-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

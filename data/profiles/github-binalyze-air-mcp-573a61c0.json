@@ -1,0 +1,24 @@
+{
+  "id": "github-binalyze-air-mcp-573a61c0",
+  "name": "binalyze/air-mcp",
+  "description": "Facilitates natural language interaction with Binalyze AIR's digital forensics and incident response capabilities through a Node.js MCP server.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-binalyze-air-mcp-573a61c0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-binalyze-air-mcp-573a61c0)",
+  "links": {
+    "primary": "https://github.com/binalyze/air-mcp",
+    "repo": "https://github.com/binalyze/air-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

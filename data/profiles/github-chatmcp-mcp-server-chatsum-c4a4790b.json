@@ -1,0 +1,24 @@
+{
+  "id": "github-chatmcp-mcp-server-chatsum-c4a4790b",
+  "name": "chatmcp/mcp-server-chatsum",
+  "description": "Facilitates querying and summarizing chat messages through an MCP server interface.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-chatmcp-mcp-server-chatsum-c4a4790b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chatmcp-mcp-server-chatsum-c4a4790b)",
+  "links": {
+    "primary": "https://github.com/chatmcp/mcp-server-chatsum",
+    "repo": "https://github.com/chatmcp/mcp-server-chatsum",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

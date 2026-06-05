@@ -1,0 +1,24 @@
+{
+  "id": "github-yajieqi123-mcp-server-monday-qi-ad6f6ff9",
+  "name": "YajieQi123/mcp-server-monday-qi",
+  "description": "Facilitates interaction with Monday.com boards, items, updates, and documents through an MCP server.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-yajieqi123-mcp-server-monday-qi-ad6f6ff9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yajieqi123-mcp-server-monday-qi-ad6f6ff9)",
+  "links": {
+    "primary": "https://github.com/YajieQi123/mcp-server-monday-qi",
+    "repo": "https://github.com/YajieQi123/mcp-server-monday-qi",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

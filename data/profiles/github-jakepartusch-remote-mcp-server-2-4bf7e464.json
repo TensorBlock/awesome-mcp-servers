@@ -1,0 +1,24 @@
+{
+  "id": "github-jakepartusch-remote-mcp-server-2-4bf7e464",
+  "name": "JakePartusch/remote-mcp-server-2",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-jakepartusch-remote-mcp-server-2-4bf7e464",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jakepartusch-remote-mcp-server-2-4bf7e464)",
+  "links": {
+    "primary": "https://github.com/JakePartusch/remote-mcp-server-2",
+    "repo": "https://github.com/JakePartusch/remote-mcp-server-2",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
