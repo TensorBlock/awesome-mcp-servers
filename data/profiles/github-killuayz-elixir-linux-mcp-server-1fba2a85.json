@@ -1,0 +1,24 @@
+{
+  "id": "github-killuayz-elixir-linux-mcp-server-1fba2a85",
+  "name": "KilluaYZ/elixir_linux_mcp_server",
+  "description": "Facilitates precise Linux source code queries using Elixir for LLMs.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-killuayz-elixir-linux-mcp-server-1fba2a85",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-killuayz-elixir-linux-mcp-server-1fba2a85)",
+  "links": {
+    "primary": "https://github.com/KilluaYZ/elixir_linux_mcp_server",
+    "repo": "https://github.com/KilluaYZ/elixir_linux_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-opensupplyhub-os-hub-mcp-84f1e92b",
+  "name": "opensupplyhub/os-hub-mcp",
+  "description": "Facilitates interaction with Claude and OS Hub API through note management and summarization capabilities.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-opensupplyhub-os-hub-mcp-84f1e92b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-opensupplyhub-os-hub-mcp-84f1e92b)",
+  "links": {
+    "primary": "https://github.com/opensupplyhub/os-hub-mcp",
+    "repo": "https://github.com/opensupplyhub/os-hub-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

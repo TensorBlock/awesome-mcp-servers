@@ -1,0 +1,24 @@
+{
+  "id": "github-nandishnagaraj-zephyr-mcp-server-173d6417",
+  "name": "nandishnagaraj/zephyr-mcp-server",
+  "description": "Integrates with Zephyr Scale to fetch and filter test cases using the Model Context Protocol.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-nandishnagaraj-zephyr-mcp-server-173d6417",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nandishnagaraj-zephyr-mcp-server-173d6417)",
+  "links": {
+    "primary": "https://github.com/nandishnagaraj/zephyr-mcp-server",
+    "repo": "https://github.com/nandishnagaraj/zephyr-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

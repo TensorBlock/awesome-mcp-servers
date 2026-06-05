@@ -1,0 +1,24 @@
+{
+  "id": "github-sheshiyer-git-mcp-v2-ed69dc3f",
+  "name": "Sheshiyer/git-mcp-v2",
+  "description": "Enhances Git operations with a standardized interface for AI assistants, integrating seamlessly with the MCP ecosystem.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-sheshiyer-git-mcp-v2-ed69dc3f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sheshiyer-git-mcp-v2-ed69dc3f)",
+  "links": {
+    "primary": "https://github.com/Sheshiyer/git-mcp-v2",
+    "repo": "https://github.com/Sheshiyer/git-mcp-v2",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

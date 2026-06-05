@@ -1,0 +1,25 @@
+{
+  "id": "github-adw0rd-awesome-mcp-tools-mcp-5ba5cb49",
+  "name": "adw0rd/awesome-mcp-tools-mcp",
+  "description": "Hosted MCP server exposing the [awesome-mcp.tools](https://awesome-mcp.tools) catalog of 2,000+ MCP servers as searchable tools — search, compare, top, trending, hot. Refreshed every 6h. Includes a CLI (`npx awesome-mcp search postgres`) and a stdio↔HTTP bridge (`npx -y -p awesome-mcp awesome-mcp-bridge`) for clients without remote-URL support. Endpoint: `https://awesome-mcp.tools/mcp` (Streamable HTTP, no auth).",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-adw0rd-awesome-mcp-tools-mcp-5ba5cb49",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adw0rd-awesome-mcp-tools-mcp-5ba5cb49)",
+  "links": {
+    "primary": "https://github.com/adw0rd/awesome-mcp-tools-mcp",
+    "repo": "https://github.com/adw0rd/awesome-mcp-tools-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://awesome-mcp.tools/mcp"
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

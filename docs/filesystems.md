@@ -2,6 +2,7 @@
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
 
+- [us-all/google-drive-mcp-server](https://github.com/us-all/google-drive-mcp-server) - Google Drive + Workspace MCP server with 98 tools across Docs, Sheets, Slides, Shared Drives, Labels, and Approvals. OAuth2 / Service Account + Domain-Wide Delegation auth.
 - [raullenchai/vnsh-mcp](https://github.com/raullenchai/vnsh/tree/main/mcp): Ephemeral encrypted file sharing for AI workflows. Client-side AES-256 encryption with 24h auto-vaporization. Read vnsh URLs and share large outputs securely.
 - [MVA-MCP-servers/filesystem](https://github.com/MVA-MCP-servers/filesystem): Node.js server for advanced filesystem operations using Model Context Protocol, featuring smart file management and directory navigation.
 - [yinzhouzhi/filesystem-server](https://github.com/yinzhouzhi/filesystem-server): Facilitates local filesystem access and operations through a Model Context Protocol-based server.
@@ -57,3 +58,5 @@ Servers focused on interacting with local or remote file systems for reading, wr
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server): A Go server enabling filesystem operations through the Model Context Protocol, offering functionalities like file manipulation and directory management.
 - [philgei/mcp_server_filesystem](https://github.com/philgei/mcp_server_filesystem): An unofficial port of Claude's filesystem MCP server implementation for educational purposes, allowing directory access through Claude Desktop.
 
+
+- [fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp): Advanced filesystem operations with large file handling capabilities and Claude-optimized features. Provides fast file reading/writing, sequential reading for large files, directory operations, file search, and streaming writes with backup & recovery.

@@ -1,0 +1,24 @@
+{
+  "id": "github-phkus-tinderbox-mcp-e31d6f8b",
+  "name": "phkus/tinderbox-mcp",
+  "description": "Facilitates AI-driven interactions with Tinderbox, enabling natural language control and integration with other services through AppleScript.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-phkus-tinderbox-mcp-e31d6f8b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-phkus-tinderbox-mcp-e31d6f8b)",
+  "links": {
+    "primary": "https://github.com/phkus/tinderbox-mcp",
+    "repo": "https://github.com/phkus/tinderbox-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

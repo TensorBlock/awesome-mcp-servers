@@ -1,0 +1,24 @@
+{
+  "id": "github-lieyanqzu-sbwsz-mcp-048fa0b2",
+  "name": "lieyanqzu/sbwsz-mcp",
+  "description": "Facilitates interaction with the sbwsz.com API to query Chinese Magic: The Gathering card information using MCP.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-lieyanqzu-sbwsz-mcp-048fa0b2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lieyanqzu-sbwsz-mcp-048fa0b2)",
+  "links": {
+    "primary": "https://github.com/lieyanqzu/sbwsz-mcp",
+    "repo": "https://github.com/lieyanqzu/sbwsz-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

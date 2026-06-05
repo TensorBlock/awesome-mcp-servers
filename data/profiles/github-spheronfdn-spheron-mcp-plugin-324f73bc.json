@@ -1,0 +1,24 @@
+{
+  "id": "github-spheronfdn-spheron-mcp-plugin-324f73bc",
+  "name": "spheronFdn/spheron-mcp-plugin",
+  "description": "Integrates with the Spheron SDK to enable compute deployment and management through Claude.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-spheronfdn-spheron-mcp-plugin-324f73bc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-spheronfdn-spheron-mcp-plugin-324f73bc)",
+  "links": {
+    "primary": "https://github.com/spheronFdn/spheron-mcp-plugin",
+    "repo": "https://github.com/spheronFdn/spheron-mcp-plugin",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-briannaluna17-grew-bf2ce7a6",
+  "name": "briannaluna17/grew",
+  "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-briannaluna17-grew-bf2ce7a6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-briannaluna17-grew-bf2ce7a6)",
+  "links": {
+    "primary": "https://github.com/briannaluna17/grew",
+    "repo": "https://github.com/briannaluna17/grew",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-waii-ai-waii-mcp-server-e27575a1",
+  "name": "waii-ai/waii-mcp-server",
+  "description": "Facilitates natural language interaction with databases, enabling Language Models to execute queries and process data through WAII.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-waii-ai-waii-mcp-server-e27575a1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-waii-ai-waii-mcp-server-e27575a1)",
+  "links": {
+    "primary": "https://github.com/waii-ai/waii-mcp-server",
+    "repo": "https://github.com/waii-ai/waii-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

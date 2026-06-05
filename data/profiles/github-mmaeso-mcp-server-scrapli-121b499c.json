@@ -1,0 +1,24 @@
+{
+  "id": "github-mmaeso-mcp-server-scrapli-121b499c",
+  "name": "mmaeso/mcp-server-scrapli",
+  "description": "Facilitates SSH interactions with network devices using Scrapli through an MCP server.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-mmaeso-mcp-server-scrapli-121b499c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mmaeso-mcp-server-scrapli-121b499c)",
+  "links": {
+    "primary": "https://github.com/mmaeso/mcp-server-scrapli",
+    "repo": "https://github.com/mmaeso/mcp-server-scrapli",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

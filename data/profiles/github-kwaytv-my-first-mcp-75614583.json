@@ -1,0 +1,24 @@
+{
+  "id": "github-kwaytv-my-first-mcp-75614583",
+  "name": "kWAYTV/my-first-mcp",
+  "description": "Provides weather information for any city using the Model Context Protocol.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-kwaytv-my-first-mcp-75614583",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kwaytv-my-first-mcp-75614583)",
+  "links": {
+    "primary": "https://github.com/kWAYTV/my-first-mcp",
+    "repo": "https://github.com/kWAYTV/my-first-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

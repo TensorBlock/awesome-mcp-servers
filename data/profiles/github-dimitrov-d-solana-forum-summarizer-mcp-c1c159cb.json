@@ -1,0 +1,24 @@
+{
+  "id": "github-dimitrov-d-solana-forum-summarizer-mcp-c1c159cb",
+  "name": "dimitrov-d/solana-forum-summarizer-mcp",
+  "description": "Enhances AI capabilities for scraping and summarizing Solana Forum posts using the Model Context Protocol.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-dimitrov-d-solana-forum-summarizer-mcp-c1c159cb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dimitrov-d-solana-forum-summarizer-mcp-c1c159cb)",
+  "links": {
+    "primary": "https://github.com/dimitrov-d/solana-forum-summarizer-mcp",
+    "repo": "https://github.com/dimitrov-d/solana-forum-summarizer-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

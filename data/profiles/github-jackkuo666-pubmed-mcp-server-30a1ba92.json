@@ -1,0 +1,24 @@
+{
+  "id": "github-jackkuo666-pubmed-mcp-server-30a1ba92",
+  "name": "JackKuo666/PubMed-MCP-Server",
+  "description": "Facilitates AI-driven search and analysis of PubMed articles through a streamlined MCP interface.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-jackkuo666-pubmed-mcp-server-30a1ba92",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jackkuo666-pubmed-mcp-server-30a1ba92)",
+  "links": {
+    "primary": "https://github.com/JackKuo666/PubMed-MCP-Server",
+    "repo": "https://github.com/JackKuo666/PubMed-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-skrapeai-skrape-mcp-ab5c01c2",
+  "name": "skrapeai/skrape-mcp",
+  "description": "Transforms any webpage into clean, LLM-ready Markdown using skrape.ai, ideal for seamless integration with LLMs like Claude and GPT.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-skrapeai-skrape-mcp-ab5c01c2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-skrapeai-skrape-mcp-ab5c01c2)",
+  "links": {
+    "primary": "https://github.com/skrapeai/skrape-mcp",
+    "repo": "https://github.com/skrapeai/skrape-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

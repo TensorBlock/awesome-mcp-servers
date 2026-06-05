@@ -1,0 +1,24 @@
+{
+  "id": "github-jt-atan-acess-mdb-mpc-d5b56bd4",
+  "name": "jt-atan/Acess-mdb-MPC",
+  "description": "Facilitates seamless interaction with 32-bit Microsoft Access databases through a Model Context Protocol interface, offering enhanced querying and schema management capabilities.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-jt-atan-acess-mdb-mpc-d5b56bd4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jt-atan-acess-mdb-mpc-d5b56bd4)",
+  "links": {
+    "primary": "https://github.com/jt-atan/Acess-mdb-MPC",
+    "repo": "https://github.com/jt-atan/Acess-mdb-MPC",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

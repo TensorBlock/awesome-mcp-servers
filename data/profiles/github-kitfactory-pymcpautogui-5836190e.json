@@ -1,0 +1,24 @@
+{
+  "id": "github-kitfactory-pymcpautogui-5836190e",
+  "name": "kitfactory/PyMCPAutoGUI",
+  "description": "PyMCPAutoGUI enables AI agents to automate GUI tasks by interacting with desktop applications through MCP, enhancing productivity and testing capabilities.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-kitfactory-pymcpautogui-5836190e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kitfactory-pymcpautogui-5836190e)",
+  "links": {
+    "primary": "https://github.com/kitfactory/PyMCPAutoGUI",
+    "repo": "https://github.com/kitfactory/PyMCPAutoGUI",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

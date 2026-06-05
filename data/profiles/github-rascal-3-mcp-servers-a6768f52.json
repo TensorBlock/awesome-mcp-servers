@@ -1,0 +1,24 @@
+{
+  "id": "github-rascal-3-mcp-servers-a6768f52",
+  "name": "rascal-3/MCP-servers",
+  "description": "Integrates the Sonar API to enable Claude with real-time, web-wide research capabilities.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-rascal-3-mcp-servers-a6768f52",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rascal-3-mcp-servers-a6768f52)",
+  "links": {
+    "primary": "https://github.com/rascal-3/MCP-servers",
+    "repo": "https://github.com/rascal-3/MCP-servers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-nkapila6-mcp-local-rag-335ac572",
+  "name": "nkapila6/mcp-local-rag",
+  "description": "A local MCP server enabling RAG-like web search model context without relying on external APIs.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-nkapila6-mcp-local-rag-335ac572",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nkapila6-mcp-local-rag-335ac572)",
+  "links": {
+    "primary": "https://github.com/nkapila6/mcp-local-rag",
+    "repo": "https://github.com/nkapila6/mcp-local-rag",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-yamaton-mcp-dice-ee0bae97",
+  "name": "yamaton/mcp-dice",
+  "description": "Enables LLMs to roll dice using standard dice notation, providing both individual rolls and their sum.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-yamaton-mcp-dice-ee0bae97",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yamaton-mcp-dice-ee0bae97)",
+  "links": {
+    "primary": "https://github.com/yamaton/mcp-dice",
+    "repo": "https://github.com/yamaton/mcp-dice",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
