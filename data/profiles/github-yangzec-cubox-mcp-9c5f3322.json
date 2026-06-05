@@ -1,0 +1,24 @@
+{
+  "id": "github-yangzec-cubox-mcp-9c5f3322",
+  "name": "yangzec/cubox-mcp",
+  "description": "A TypeScript-based server implementing a notes system with tools for note creation and summarization.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-yangzec-cubox-mcp-9c5f3322",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yangzec-cubox-mcp-9c5f3322)",
+  "links": {
+    "primary": "https://github.com/yangzec/cubox-mcp",
+    "repo": "https://github.com/yangzec/cubox-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

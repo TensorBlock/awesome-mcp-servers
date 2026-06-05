@@ -1,0 +1,24 @@
+{
+  "id": "github-automators-com-datamaker-mcp-eec77487",
+  "name": "automators-com/datamaker-mcp",
+  "description": "Facilitates seamless integration between DataMaker and MCP for synthetic data generation and management.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-automators-com-datamaker-mcp-eec77487",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-automators-com-datamaker-mcp-eec77487)",
+  "links": {
+    "primary": "https://github.com/automators-com/datamaker-mcp",
+    "repo": "https://github.com/automators-com/datamaker-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

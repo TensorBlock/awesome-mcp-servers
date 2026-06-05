@@ -1,0 +1,24 @@
+{
+  "id": "github-moe03-mcp-hello-world-c42493f3",
+  "name": "Moe03/mcp-hello-world",
+  "description": "Facilitates interaction with Google Maps API for geocoding, reverse geocoding, place searches, and more.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-moe03-mcp-hello-world-c42493f3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-moe03-mcp-hello-world-c42493f3)",
+  "links": {
+    "primary": "https://github.com/Moe03/mcp-hello-world",
+    "repo": "https://github.com/Moe03/mcp-hello-world",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

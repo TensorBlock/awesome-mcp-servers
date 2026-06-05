@@ -1,0 +1,24 @@
+{
+  "id": "github-alexcc4-mcp-mysql-server-66c92991",
+  "name": "alexcc4/mcp-mysql-server",
+  "description": "Facilitates secure AI-driven interactions with MySQL databases, enabling table listing, schema retrieval, and read-only SQL execution.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-alexcc4-mcp-mysql-server-66c92991",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexcc4-mcp-mysql-server-66c92991)",
+  "links": {
+    "primary": "https://github.com/alexcc4/mcp-mysql-server",
+    "repo": "https://github.com/alexcc4/mcp-mysql-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-cyreslab-ai-marinetraffic-mcp-server-a4c0e3d8",
+  "name": "Cyreslab-AI/marinetraffic-mcp-server",
+  "description": "Provides real-time vessel tracking and detailed information access through MarineTraffic data.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-cyreslab-ai-marinetraffic-mcp-server-a4c0e3d8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cyreslab-ai-marinetraffic-mcp-server-a4c0e3d8)",
+  "links": {
+    "primary": "https://github.com/Cyreslab-AI/marinetraffic-mcp-server",
+    "repo": "https://github.com/Cyreslab-AI/marinetraffic-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

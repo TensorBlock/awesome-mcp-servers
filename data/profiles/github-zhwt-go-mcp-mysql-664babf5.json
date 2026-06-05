@@ -1,0 +1,24 @@
+{
+  "id": "github-zhwt-go-mcp-mysql-664babf5",
+  "name": "Zhwt/go-mcp-mysql",
+  "description": "Effortlessly manage MySQL databases with a Go-based MCP server, offering CRUD operations and query plan checks without the need for Node.js or Python.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-zhwt-go-mcp-mysql-664babf5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zhwt-go-mcp-mysql-664babf5)",
+  "links": {
+    "primary": "https://github.com/Zhwt/go-mcp-mysql",
+    "repo": "https://github.com/Zhwt/go-mcp-mysql",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

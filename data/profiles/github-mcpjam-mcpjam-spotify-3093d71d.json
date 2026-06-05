@@ -1,0 +1,24 @@
+{
+  "id": "github-mcpjam-mcpjam-spotify-3093d71d",
+  "name": "MCPJam/mcpjam-spotify",
+  "description": "Facilitates seamless integration with Spotify through an MCP server developed by the MCPJam team.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-mcpjam-mcpjam-spotify-3093d71d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mcpjam-mcpjam-spotify-3093d71d)",
+  "links": {
+    "primary": "https://github.com/MCPJam/mcpjam-spotify",
+    "repo": "https://github.com/MCPJam/mcpjam-spotify",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

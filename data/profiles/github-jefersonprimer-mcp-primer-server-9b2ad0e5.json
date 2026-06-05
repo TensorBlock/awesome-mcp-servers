@@ -1,0 +1,24 @@
+{
+  "id": "github-jefersonprimer-mcp-primer-server-9b2ad0e5",
+  "name": "jefersonprimer/mcp-primer-server",
+  "description": "A TypeScript-based server project designed for seamless integration with Cursor IDE, facilitating MCP server operations.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-jefersonprimer-mcp-primer-server-9b2ad0e5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jefersonprimer-mcp-primer-server-9b2ad0e5)",
+  "links": {
+    "primary": "https://github.com/jefersonprimer/mcp-primer-server",
+    "repo": "https://github.com/jefersonprimer/mcp-primer-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

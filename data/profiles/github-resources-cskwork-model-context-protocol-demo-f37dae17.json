@@ -1,0 +1,24 @@
+{
+  "id": "github-resources-cskwork-model-context-protocol-demo-f37dae17",
+  "name": "Resources-cskwork/model-context-protocol-demo",
+  "description": "Demonstrates the integration of Model Context Protocol with SQLite for database management in Claude Desktop.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-resources-cskwork-model-context-protocol-demo-f37dae17",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-resources-cskwork-model-context-protocol-demo-f37dae17)",
+  "links": {
+    "primary": "https://github.com/Resources-cskwork/model-context-protocol-demo",
+    "repo": "https://github.com/Resources-cskwork/model-context-protocol-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

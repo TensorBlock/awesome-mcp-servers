@@ -1,0 +1,24 @@
+{
+  "id": "github-shubham0704-personal-mcp-agents-3a01feb9",
+  "name": "shubham0704/personal_mcp_agents",
+  "description": "Integrates perplexity search capabilities with Claude using custom MCP agents.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-shubham0704-personal-mcp-agents-3a01feb9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shubham0704-personal-mcp-agents-3a01feb9)",
+  "links": {
+    "primary": "https://github.com/shubham0704/personal_mcp_agents",
+    "repo": "https://github.com/shubham0704/personal_mcp_agents",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

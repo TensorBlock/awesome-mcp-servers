@@ -1,0 +1,24 @@
+{
+  "id": "github-dkruyt-mcp-nettools-e540a215",
+  "name": "dkruyt/mcp-nettools",
+  "description": "Provides network diagnostics and scanning tools, including DNS queries, SSL analysis, and IP geolocation.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-dkruyt-mcp-nettools-e540a215",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dkruyt-mcp-nettools-e540a215)",
+  "links": {
+    "primary": "https://github.com/dkruyt/mcp-nettools",
+    "repo": "https://github.com/dkruyt/mcp-nettools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-wuhuangjia-azure-devops-mcp-server-4e3548d5",
+  "name": "wuhuangjia/azure-devops-mcp-server",
+  "description": "Facilitates natural language interaction with Azure DevOps Work Items using a TypeScript-based MCP server.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-wuhuangjia-azure-devops-mcp-server-4e3548d5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wuhuangjia-azure-devops-mcp-server-4e3548d5)",
+  "links": {
+    "primary": "https://github.com/wuhuangjia/azure-devops-mcp-server",
+    "repo": "https://github.com/wuhuangjia/azure-devops-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-thomasgazzoni-vsc-mcp-b542c04a",
+  "name": "thomasgazzoni/vsc-mcp",
+  "description": "Facilitates AI-driven code analysis and editing for TypeScript/JavaScript using LSP and MCP tools.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-thomasgazzoni-vsc-mcp-b542c04a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thomasgazzoni-vsc-mcp-b542c04a)",
+  "links": {
+    "primary": "https://github.com/thomasgazzoni/vsc-mcp",
+    "repo": "https://github.com/thomasgazzoni/vsc-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

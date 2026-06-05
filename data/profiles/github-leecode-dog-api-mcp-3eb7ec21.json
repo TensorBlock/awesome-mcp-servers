@@ -1,0 +1,24 @@
+{
+  "id": "github-leecode-dog-api-mcp-3eb7ec21",
+  "name": "leecode/dog-api-mcp",
+  "description": "Provides random dog images using the Dog CEO API without requiring an API key.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-leecode-dog-api-mcp-3eb7ec21",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-leecode-dog-api-mcp-3eb7ec21)",
+  "links": {
+    "primary": "https://github.com/leecode/dog-api-mcp",
+    "repo": "https://github.com/leecode/dog-api-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

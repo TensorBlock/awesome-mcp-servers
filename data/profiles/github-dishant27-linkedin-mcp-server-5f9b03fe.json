@@ -1,0 +1,24 @@
+{
+  "id": "github-dishant27-linkedin-mcp-server-5f9b03fe",
+  "name": "Dishant27/linkedin-mcp-server",
+  "description": "Facilitates advanced LinkedIn API interactions through a Model Context Protocol server, enabling intelligent data retrieval and integration for business applications.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-dishant27-linkedin-mcp-server-5f9b03fe",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dishant27-linkedin-mcp-server-5f9b03fe)",
+  "links": {
+    "primary": "https://github.com/Dishant27/linkedin-mcp-server",
+    "repo": "https://github.com/Dishant27/linkedin-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

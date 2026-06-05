@@ -1,0 +1,24 @@
+{
+  "id": "github-jaokuohsuan-draw-things-mcp-cursor-bac1f782",
+  "name": "jaokuohsuan/draw-things-mcp-cursor",
+  "description": "Integrates Draw Things API with Cursor for image generation using Model Context Protocol.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-jaokuohsuan-draw-things-mcp-cursor-bac1f782",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jaokuohsuan-draw-things-mcp-cursor-bac1f782)",
+  "links": {
+    "primary": "https://github.com/jaokuohsuan/draw-things-mcp-cursor",
+    "repo": "https://github.com/jaokuohsuan/draw-things-mcp-cursor",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

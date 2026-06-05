@@ -1,0 +1,24 @@
+{
+  "id": "github-arodoid-fastlymcp-6226411c",
+  "name": "Arodoid/FastlyMCP",
+  "description": "Fastly MCP integrates Fastly's API with AI assistants, enabling seamless management of CDN services, caching, security, and performance monitoring through the Model Context Protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-arodoid-fastlymcp-6226411c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arodoid-fastlymcp-6226411c)",
+  "links": {
+    "primary": "https://github.com/Arodoid/FastlyMCP",
+    "repo": "https://github.com/Arodoid/FastlyMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

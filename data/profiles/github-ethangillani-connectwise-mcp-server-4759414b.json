@@ -1,0 +1,24 @@
+{
+  "id": "github-ethangillani-connectwise-mcp-server-4759414b",
+  "name": "ethangillani/connectwise-mcp-server",
+  "description": "Facilitates integration with ConnectWise Manage API for Claude Desktop, enabling operations like ticket and company management.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-ethangillani-connectwise-mcp-server-4759414b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ethangillani-connectwise-mcp-server-4759414b)",
+  "links": {
+    "primary": "https://github.com/ethangillani/connectwise-mcp-server",
+    "repo": "https://github.com/ethangillani/connectwise-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

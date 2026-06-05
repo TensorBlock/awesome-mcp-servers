@@ -1,0 +1,24 @@
+{
+  "id": "github-zhixiaoqiang-antd-components-mcp-bebfa5c7",
+  "name": "zhixiaoqiang/antd-components-mcp",
+  "description": "Facilitates LLMs in querying and understanding Ant Design components through a dedicated MCP server.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-zhixiaoqiang-antd-components-mcp-bebfa5c7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zhixiaoqiang-antd-components-mcp-bebfa5c7)",
+  "links": {
+    "primary": "https://github.com/zhixiaoqiang/antd-components-mcp",
+    "repo": "https://github.com/zhixiaoqiang/antd-components-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

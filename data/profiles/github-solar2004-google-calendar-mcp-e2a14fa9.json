@@ -1,0 +1,24 @@
+{
+  "id": "github-solar2004-google-calendar-mcp-e2a14fa9",
+  "name": "Solar2004/google-calendar-mcp",
+  "description": "Integrate Google Calendar with LLMs to manage events seamlessly through a standardized interface.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-solar2004-google-calendar-mcp-e2a14fa9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-solar2004-google-calendar-mcp-e2a14fa9)",
+  "links": {
+    "primary": "https://github.com/Solar2004/google-calendar-mcp",
+    "repo": "https://github.com/Solar2004/google-calendar-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

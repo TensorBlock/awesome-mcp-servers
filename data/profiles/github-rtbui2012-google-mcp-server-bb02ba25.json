@@ -1,0 +1,24 @@
+{
+  "id": "github-rtbui2012-google-mcp-server-bb02ba25",
+  "name": "rtbui2012/google-mcp-server",
+  "description": "Facilitates AI assistant integration with Google APIs through a Model Context Protocol server, enabling web and image searches via Google Custom Search.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-rtbui2012-google-mcp-server-bb02ba25",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rtbui2012-google-mcp-server-bb02ba25)",
+  "links": {
+    "primary": "https://github.com/rtbui2012/google-mcp-server",
+    "repo": "https://github.com/rtbui2012/google-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

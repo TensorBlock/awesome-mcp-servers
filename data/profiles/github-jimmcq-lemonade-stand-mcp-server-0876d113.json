@@ -1,0 +1,24 @@
+{
+  "id": "github-jimmcq-lemonade-stand-mcp-server-0876d113",
+  "name": "jimmcq/Lemonade-Stand-MCP-Server",
+  "description": "Engage with the classic Lemonade Stand game through Claude Desktop using a Model Context Protocol server that simulates business dynamics and strategic decision-making.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-jimmcq-lemonade-stand-mcp-server-0876d113",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jimmcq-lemonade-stand-mcp-server-0876d113)",
+  "links": {
+    "primary": "https://github.com/jimmcq/Lemonade-Stand-MCP-Server",
+    "repo": "https://github.com/jimmcq/Lemonade-Stand-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

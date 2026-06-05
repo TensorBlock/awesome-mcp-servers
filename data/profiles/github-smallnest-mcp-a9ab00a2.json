@@ -1,0 +1,24 @@
+{
+  "id": "github-smallnest-mcp-a9ab00a2",
+  "name": "smallnest/mcp",
+  "description": "A comprehensive collection of reference implementations for the Model Context Protocol, showcasing the versatility and extensibility of MCP servers for secure LLM tool and data access.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-smallnest-mcp-a9ab00a2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-smallnest-mcp-a9ab00a2)",
+  "links": {
+    "primary": "https://github.com/smallnest/mcp",
+    "repo": "https://github.com/smallnest/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

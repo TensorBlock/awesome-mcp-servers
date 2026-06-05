@@ -1,0 +1,24 @@
+{
+  "id": "github-tiovikram-gumloop-mcp-e8933871",
+  "name": "tiovikram/gumloop-mcp",
+  "description": "Facilitates AI-driven automation management via Gumloop's API, offering flow management, workspace discovery, and file operations.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tiovikram-gumloop-mcp-e8933871",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tiovikram-gumloop-mcp-e8933871)",
+  "links": {
+    "primary": "https://github.com/tiovikram/gumloop-mcp",
+    "repo": "https://github.com/tiovikram/gumloop-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-laughall-miyake-udemy-instructor-mcp-7933e1da",
+  "name": "laughall-miyake/udemy-instructor-mcp",
+  "description": "Node.js server for accessing Udemy Instructor API, enabling retrieval of courses, questions, and reviews.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-laughall-miyake-udemy-instructor-mcp-7933e1da",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-laughall-miyake-udemy-instructor-mcp-7933e1da)",
+  "links": {
+    "primary": "https://github.com/laughall-miyake/udemy-instructor-mcp",
+    "repo": "https://github.com/laughall-miyake/udemy-instructor-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

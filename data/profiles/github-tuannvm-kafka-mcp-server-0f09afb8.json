@@ -1,0 +1,24 @@
+{
+  "id": "github-tuannvm-kafka-mcp-server-0f09afb8",
+  "name": "tuannvm/kafka-mcp-server",
+  "description": "Enables LLM models to interact with Apache Kafka through a standardized interface, supporting message production, consumption, and cluster management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tuannvm-kafka-mcp-server-0f09afb8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tuannvm-kafka-mcp-server-0f09afb8)",
+  "links": {
+    "primary": "https://github.com/tuannvm/kafka-mcp-server",
+    "repo": "https://github.com/tuannvm/kafka-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-willvelida-mcp-afl-server-5d9b65e4",
+  "name": "willvelida/mcp-afl-server",
+  "description": "Provides AFL data from the Squiggle API, enabling retrieval of game results, standings, and team information.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-willvelida-mcp-afl-server-5d9b65e4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-willvelida-mcp-afl-server-5d9b65e4)",
+  "links": {
+    "primary": "https://github.com/willvelida/mcp-afl-server",
+    "repo": "https://github.com/willvelida/mcp-afl-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
