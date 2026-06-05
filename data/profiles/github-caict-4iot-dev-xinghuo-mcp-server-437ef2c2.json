@@ -1,0 +1,24 @@
+{
+  "id": "github-caict-4iot-dev-xinghuo-mcp-server-437ef2c2",
+  "name": "caict-4iot-dev/xinghuo-mcp-server",
+  "description": "Facilitates interaction with the Xinghuo BIF Blockchain Test Network through a TypeScript-based MCP server, offering tools for blockchain data retrieval and a notes system for efficient data management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-caict-4iot-dev-xinghuo-mcp-server-437ef2c2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-caict-4iot-dev-xinghuo-mcp-server-437ef2c2)",
+  "links": {
+    "primary": "https://github.com/caict-4iot-dev/xinghuo-mcp-server",
+    "repo": "https://github.com/caict-4iot-dev/xinghuo-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-softeria-ms-365-mcp-server-822bc318",
+  "name": "Softeria/ms-365-mcp-server",
+  "description": "Facilitates seamless interaction with Microsoft 365 services via the Graph API, offering robust tools for authentication, file management, Excel operations, calendar scheduling, and email handling.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-softeria-ms-365-mcp-server-822bc318",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-softeria-ms-365-mcp-server-822bc318)",
+  "links": {
+    "primary": "https://github.com/Softeria/ms-365-mcp-server",
+    "repo": "https://github.com/Softeria/ms-365-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

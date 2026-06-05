@@ -1,0 +1,24 @@
+{
+  "id": "github-shuntaka9576-my-mcp-example-6647b4c9",
+  "name": "shuntaka9576/my-mcp-example",
+  "description": "A Node.js-based MCP server leveraging experimental transform types for enhanced functionality.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-shuntaka9576-my-mcp-example-6647b4c9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shuntaka9576-my-mcp-example-6647b4c9)",
+  "links": {
+    "primary": "https://github.com/shuntaka9576/my-mcp-example",
+    "repo": "https://github.com/shuntaka9576/my-mcp-example",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

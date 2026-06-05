@@ -1,0 +1,24 @@
+{
+  "id": "github-lyizri-demcp-browser-use-40e9b324",
+  "name": "LyiZri/demcp_browser_use",
+  "description": "Empowers AI agents to automate web browser tasks using the browser-use library.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-lyizri-demcp-browser-use-40e9b324",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lyizri-demcp-browser-use-40e9b324)",
+  "links": {
+    "primary": "https://github.com/LyiZri/demcp_browser_use",
+    "repo": "https://github.com/LyiZri/demcp_browser_use",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

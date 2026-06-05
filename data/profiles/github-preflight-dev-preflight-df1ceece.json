@@ -1,0 +1,24 @@
+{
+  "id": "github-preflight-dev-preflight-df1ceece",
+  "name": "preflight-dev/preflight",
+  "description": "A 24-tool MCP server for Claude Code that scores prompts across 12 categories before execution, catches ambiguity and missing context, tracks correction patterns, and provides semantic search over session history with LanceDB vectors.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-preflight-dev-preflight-df1ceece",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-preflight-dev-preflight-df1ceece)",
+  "links": {
+    "primary": "https://github.com/preflight-dev/preflight",
+    "repo": "https://github.com/preflight-dev/preflight",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

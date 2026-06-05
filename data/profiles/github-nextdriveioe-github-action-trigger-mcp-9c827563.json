@@ -1,0 +1,24 @@
+{
+  "id": "github-nextdriveioe-github-action-trigger-mcp-9c827563",
+  "name": "nextDriveIoE/github-action-trigger-mcp",
+  "description": "Facilitates seamless integration with GitHub Actions by providing tools to fetch, trigger, and manage workflows and releases.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-nextdriveioe-github-action-trigger-mcp-9c827563",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nextdriveioe-github-action-trigger-mcp-9c827563)",
+  "links": {
+    "primary": "https://github.com/nextDriveIoE/github-action-trigger-mcp",
+    "repo": "https://github.com/nextDriveIoE/github-action-trigger-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

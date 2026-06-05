@@ -1,0 +1,24 @@
+{
+  "id": "github-dovstern-google-slides-llm-tools-014bdca3",
+  "name": "dovstern/google-slides-llm-tools",
+  "description": "Facilitates LLM interaction with Google Slides through an MCP server, offering seamless integration with LangChain tools and a Node.js CLI for easy server management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-dovstern-google-slides-llm-tools-014bdca3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dovstern-google-slides-llm-tools-014bdca3)",
+  "links": {
+    "primary": "https://github.com/dovstern/google-slides-llm-tools",
+    "repo": "https://github.com/dovstern/google-slides-llm-tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

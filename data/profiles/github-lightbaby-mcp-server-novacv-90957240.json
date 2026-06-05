@@ -1,0 +1,24 @@
+{
+  "id": "github-lightbaby-mcp-server-novacv-90957240",
+  "name": "Lightbaby/mcp-server-novacv",
+  "description": "Facilitates seamless integration with NovaCV's resume services, offering PDF generation, template retrieval, and resume text analysis.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-lightbaby-mcp-server-novacv-90957240",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lightbaby-mcp-server-novacv-90957240)",
+  "links": {
+    "primary": "https://github.com/Lightbaby/mcp-server-novacv",
+    "repo": "https://github.com/Lightbaby/mcp-server-novacv",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-niyonabil-blogger-mcp-server-04b039e6",
+  "name": "niyonabil/blogger-mcp-server",
+  "description": "Facilitates AI models like Claude to interact with Google's Blogger API for managing blogs and posts.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-niyonabil-blogger-mcp-server-04b039e6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-niyonabil-blogger-mcp-server-04b039e6)",
+  "links": {
+    "primary": "https://github.com/niyonabil/blogger-mcp-server",
+    "repo": "https://github.com/niyonabil/blogger-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

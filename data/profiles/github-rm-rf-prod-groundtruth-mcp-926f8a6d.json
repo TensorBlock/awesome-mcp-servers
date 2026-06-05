@@ -1,0 +1,24 @@
+{
+  "id": "github-rm-rf-prod-groundtruth-mcp-926f8a6d",
+  "name": "rm-rf-prod/GroundTruth-MCP",
+  "description": "Self-hosted MCP server for live documentation, code audits, and best practices. 363+ curated libraries with npm/PyPI/crates.io/Go fallback, 100+ audit patterns across 18 categories with file:line locations and live fixes. No rate limits.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-rm-rf-prod-groundtruth-mcp-926f8a6d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rm-rf-prod-groundtruth-mcp-926f8a6d)",
+  "links": {
+    "primary": "https://github.com/rm-rf-prod/GroundTruth-MCP",
+    "repo": "https://github.com/rm-rf-prod/GroundTruth-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

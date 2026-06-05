@@ -1,0 +1,24 @@
+{
+  "id": "github-affannahmed-mcp-server-with-claude-ai-3baef216",
+  "name": "affannahmed/MCP-Server-with-Claude-Ai",
+  "description": "Facilitates secure interaction between AI applications and MySQL databases through a controlled MCP interface.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-affannahmed-mcp-server-with-claude-ai-3baef216",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-affannahmed-mcp-server-with-claude-ai-3baef216)",
+  "links": {
+    "primary": "https://github.com/affannahmed/MCP-Server-with-Claude-Ai",
+    "repo": "https://github.com/affannahmed/MCP-Server-with-Claude-Ai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

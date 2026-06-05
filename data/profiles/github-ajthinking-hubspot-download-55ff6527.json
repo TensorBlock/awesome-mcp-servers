@@ -1,0 +1,24 @@
+{
+  "id": "github-ajthinking-hubspot-download-55ff6527",
+  "name": "ajthinking/hubspot-download",
+  "description": "Facilitates the download of HubSpot CRM objects into JSON files using the Model Context Protocol.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-ajthinking-hubspot-download-55ff6527",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ajthinking-hubspot-download-55ff6527)",
+  "links": {
+    "primary": "https://github.com/ajthinking/hubspot-download",
+    "repo": "https://github.com/ajthinking/hubspot-download",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

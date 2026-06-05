@@ -1,0 +1,24 @@
+{
+  "id": "github-badger3000-okx-mcp-server-12be070f",
+  "name": "badger3000/okx-mcp-server",
+  "description": "Fetches real-time cryptocurrency data from OKX, providing AI assistants with live price updates and historical data visualization.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-badger3000-okx-mcp-server-12be070f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-badger3000-okx-mcp-server-12be070f)",
+  "links": {
+    "primary": "https://github.com/badger3000/okx-mcp-server",
+    "repo": "https://github.com/badger3000/okx-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-bdx0-mcp-ddg-server-296bb57c",
+  "name": "bdx0/mcp-ddg-server",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-bdx0-mcp-ddg-server-296bb57c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bdx0-mcp-ddg-server-296bb57c)",
+  "links": {
+    "primary": "https://github.com/bdx0/mcp-ddg-server",
+    "repo": "https://github.com/bdx0/mcp-ddg-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

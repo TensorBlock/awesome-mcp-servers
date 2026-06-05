@@ -1,0 +1,24 @@
+{
+  "id": "github-aleksanstark-mcp-ipfs-server-b326985a",
+  "name": "AleksanStark/mcp-ipfs-server",
+  "description": "A server leveraging IPFS for decentralized data storage and retrieval, integrated with Claude AI for enhanced MCP interactions.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-aleksanstark-mcp-ipfs-server-b326985a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aleksanstark-mcp-ipfs-server-b326985a)",
+  "links": {
+    "primary": "https://github.com/AleksanStark/mcp-ipfs-server",
+    "repo": "https://github.com/AleksanStark/mcp-ipfs-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

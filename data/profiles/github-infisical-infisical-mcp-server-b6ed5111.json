@@ -1,0 +1,24 @@
+{
+  "id": "github-infisical-infisical-mcp-server-b6ed5111",
+  "name": "Infisical/infisical-mcp-server",
+  "description": "Integrate with Infisical APIs using the Model Context Protocol for managing secrets and projects.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-infisical-infisical-mcp-server-b6ed5111",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-infisical-infisical-mcp-server-b6ed5111)",
+  "links": {
+    "primary": "https://github.com/Infisical/infisical-mcp-server",
+    "repo": "https://github.com/Infisical/infisical-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

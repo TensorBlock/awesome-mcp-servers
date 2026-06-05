@@ -1,0 +1,24 @@
+{
+  "id": "github-kentaro84207-mcp-sitefetch-6de5aa2c",
+  "name": "kentaro84207/mcp-sitefetch",
+  "description": "Fetches entire websites and integrates their content into LLM contexts for enhanced analysis and interaction.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-kentaro84207-mcp-sitefetch-6de5aa2c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kentaro84207-mcp-sitefetch-6de5aa2c)",
+  "links": {
+    "primary": "https://github.com/kentaro84207/mcp-sitefetch",
+    "repo": "https://github.com/kentaro84207/mcp-sitefetch",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

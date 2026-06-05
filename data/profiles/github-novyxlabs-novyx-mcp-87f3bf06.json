@@ -1,0 +1,24 @@
+{
+  "id": "github-novyxlabs-novyx-mcp-87f3bf06",
+  "name": "novyxlabs/novyx-mcp",
+  "description": "Persistent memory for AI agents with 107 tools: remember, recall, rollback, audit, knowledge graph, governed actions, eval, cortex, and Runtime v2 agent orchestration. Local SQLite (zero-config) or Novyx Cloud. Install via `uvx novyx-mcp`. MIT licensed.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-novyxlabs-novyx-mcp-87f3bf06",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-novyxlabs-novyx-mcp-87f3bf06)",
+  "links": {
+    "primary": "https://github.com/novyxlabs/novyx-mcp",
+    "repo": "https://github.com/novyxlabs/novyx-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": 107
+  }
+}

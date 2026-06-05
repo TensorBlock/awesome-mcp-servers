@@ -1,0 +1,24 @@
+{
+  "id": "github-iota31-browsertoolsmcp-0ba8fead",
+  "name": "iota31/BrowserToolsMCP",
+  "description": "Facilitates browser interactions for debugging and testing web applications through Claude, supporting multiple browsers and offering tools like navigation, screenshots, and performance tests.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-iota31-browsertoolsmcp-0ba8fead",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iota31-browsertoolsmcp-0ba8fead)",
+  "links": {
+    "primary": "https://github.com/iota31/BrowserToolsMCP",
+    "repo": "https://github.com/iota31/BrowserToolsMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

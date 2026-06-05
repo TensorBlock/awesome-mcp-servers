@@ -1,0 +1,24 @@
+{
+  "id": "github-thenhatat-article-analyzer-9300d215",
+  "name": "TheNhatAT/article-analyzer",
+  "description": "Fetches and parses article content from URLs to provide context for LLM models via Cline.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-thenhatat-article-analyzer-9300d215",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thenhatat-article-analyzer-9300d215)",
+  "links": {
+    "primary": "https://github.com/TheNhatAT/article-analyzer",
+    "repo": "https://github.com/TheNhatAT/article-analyzer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

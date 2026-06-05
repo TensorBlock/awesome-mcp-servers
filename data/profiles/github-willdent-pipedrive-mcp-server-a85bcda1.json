@@ -1,0 +1,24 @@
+{
+  "id": "github-willdent-pipedrive-mcp-server-a85bcda1",
+  "name": "WillDent/pipedrive-mcp-server",
+  "description": "Connects to the Pipedrive API to expose data and functionality for LLM applications like Claude.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-willdent-pipedrive-mcp-server-a85bcda1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-willdent-pipedrive-mcp-server-a85bcda1)",
+  "links": {
+    "primary": "https://github.com/WillDent/pipedrive-mcp-server",
+    "repo": "https://github.com/WillDent/pipedrive-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

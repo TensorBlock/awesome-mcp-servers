@@ -1,0 +1,24 @@
+{
+  "id": "github-lpenguin-openai-mcp-9f85488d",
+  "name": "lpenguin/openai-mcp",
+  "description": "A TypeScript-based server for generating images using OpenAI's DALL-E 3 model via the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-lpenguin-openai-mcp-9f85488d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lpenguin-openai-mcp-9f85488d)",
+  "links": {
+    "primary": "https://github.com/lpenguin/openai-mcp",
+    "repo": "https://github.com/lpenguin/openai-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

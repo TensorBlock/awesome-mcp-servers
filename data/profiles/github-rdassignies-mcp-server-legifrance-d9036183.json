@@ -1,0 +1,24 @@
+{
+  "id": "github-rdassignies-mcp-server-legifrance-d9036183",
+  "name": "rdassignies/mcp-server-legifrance",
+  "description": "Facilitates legal research by enabling LLMs to access French legal resources via the Legifrance API.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-rdassignies-mcp-server-legifrance-d9036183",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rdassignies-mcp-server-legifrance-d9036183)",
+  "links": {
+    "primary": "https://github.com/rdassignies/mcp-server-legifrance",
+    "repo": "https://github.com/rdassignies/mcp-server-legifrance",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

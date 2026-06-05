@@ -1,0 +1,24 @@
+{
+  "id": "github-philidor-labs-philidor-mcp-d879dc92",
+  "name": "Philidor-Labs/philidor-mcp",
+  "description": "Search 700+ DeFi vaults, compare risk scores, analyze protocol security. Multi-vector risk framework covering Morpho, Aave, Spark, Yearn, Beefy, Compound, Uniswap. Remote server — no API key needed. [mcp.philidor.io](https://mcp.philidor.io)",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-philidor-labs-philidor-mcp-d879dc92",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-philidor-labs-philidor-mcp-d879dc92)",
+  "links": {
+    "primary": "https://github.com/Philidor-Labs/philidor-mcp",
+    "repo": "https://github.com/Philidor-Labs/philidor-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.philidor.io"
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

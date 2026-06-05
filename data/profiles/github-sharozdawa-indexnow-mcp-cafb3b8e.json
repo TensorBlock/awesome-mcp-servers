@@ -1,0 +1,24 @@
+{
+  "id": "github-sharozdawa-indexnow-mcp-cafb3b8e",
+  "name": "sharozdawa/indexnow-mcp",
+  "description": "Instant URL indexing via IndexNow (Bing, Yandex, Naver, Seznam) and Google Indexing API with sitemap parsing and key generation.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-sharozdawa-indexnow-mcp-cafb3b8e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sharozdawa-indexnow-mcp-cafb3b8e)",
+  "links": {
+    "primary": "https://github.com/sharozdawa/indexnow-mcp",
+    "repo": "https://github.com/sharozdawa/indexnow-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
