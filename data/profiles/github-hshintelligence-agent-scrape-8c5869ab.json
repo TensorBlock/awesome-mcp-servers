@@ -1,0 +1,24 @@
+{
+  "id": "github-hshintelligence-agent-scrape-8c5869ab",
+  "name": "hshintelligence/agent-scrape",
+  "description": "Pay-per-call web scraping for AI agents via the x402 protocol on Base USDC. Six tools (scrape, extract via Groq+Llama 4, screenshot, metadata, session, workflow). No signup, no API keys. Remote MCP at `https://agent-scrape.healingsunhaven.workers.dev/mcp`. MIT licensed.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-hshintelligence-agent-scrape-8c5869ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hshintelligence-agent-scrape-8c5869ab)",
+  "links": {
+    "primary": "https://github.com/hshintelligence/agent-scrape",
+    "repo": "https://github.com/hshintelligence/agent-scrape",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://agent-scrape.healingsunhaven.workers.dev/mcp"
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

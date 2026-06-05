@@ -1,0 +1,24 @@
+{
+  "id": "github-don-alberto-oboard-mcp-27e91bcf",
+  "name": "don-alberto/oboard_mcp",
+  "description": "Facilitates seamless integration of CMBlu's OKR data with LLMs by connecting to the Oboard API and providing context-aware responses.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-don-alberto-oboard-mcp-27e91bcf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-don-alberto-oboard-mcp-27e91bcf)",
+  "links": {
+    "primary": "https://github.com/don-alberto/oboard_mcp",
+    "repo": "https://github.com/don-alberto/oboard_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

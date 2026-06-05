@@ -1,0 +1,24 @@
+{
+  "id": "github-tex76-mcp-websearch-4cabfcfd",
+  "name": "Tex76/mcp-websearch",
+  "description": "Enables LLMs to perform web searches and extract dynamic content using Google and Puppeteer.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-tex76-mcp-websearch-4cabfcfd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tex76-mcp-websearch-4cabfcfd)",
+  "links": {
+    "primary": "https://github.com/Tex76/mcp-websearch",
+    "repo": "https://github.com/Tex76/mcp-websearch",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

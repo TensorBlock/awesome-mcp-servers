@@ -1,0 +1,24 @@
+{
+  "id": "github-kybvwhxw-advanced-nlp-entity-extraction-648e125a",
+  "name": "KYBvWHxW/advanced-nlp-entity-extraction",
+  "description": "This repository implements the ReAct framework to enhance language models with reasoning and acting capabilities, integrating external knowledge sources like Wikipedia for tasks such as question answering and fact verification.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-kybvwhxw-advanced-nlp-entity-extraction-648e125a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kybvwhxw-advanced-nlp-entity-extraction-648e125a)",
+  "links": {
+    "primary": "https://github.com/KYBvWHxW/advanced-nlp-entity-extraction",
+    "repo": "https://github.com/KYBvWHxW/advanced-nlp-entity-extraction",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

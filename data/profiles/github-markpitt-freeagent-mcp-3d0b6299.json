@@ -1,0 +1,24 @@
+{
+  "id": "github-markpitt-freeagent-mcp-3d0b6299",
+  "name": "markpitt/freeagent-mcp",
+  "description": "Facilitates time tracking and management of FreeAgent timeslips and timers through Claude integration.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-markpitt-freeagent-mcp-3d0b6299",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-markpitt-freeagent-mcp-3d0b6299)",
+  "links": {
+    "primary": "https://github.com/markpitt/freeagent-mcp",
+    "repo": "https://github.com/markpitt/freeagent-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

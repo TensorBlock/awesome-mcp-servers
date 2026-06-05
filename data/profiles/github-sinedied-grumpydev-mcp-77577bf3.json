@@ -1,0 +1,24 @@
+{
+  "id": "github-sinedied-grumpydev-mcp-77577bf3",
+  "name": "sinedied/grumpydev-mcp",
+  "description": "A sarcastic code review tool that mimics a grumpy senior developer's perspective, providing humorous yet insightful feedback on code quality.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-sinedied-grumpydev-mcp-77577bf3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sinedied-grumpydev-mcp-77577bf3)",
+  "links": {
+    "primary": "https://github.com/sinedied/grumpydev-mcp",
+    "repo": "https://github.com/sinedied/grumpydev-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

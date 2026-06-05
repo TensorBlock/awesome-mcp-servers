@@ -1,0 +1,24 @@
+{
+  "id": "github-fdmocho-mcp-quick-resources-b921c0b7",
+  "name": "fdmocho/MCP_Quick_Resources",
+  "description": "A repository offering quickstart resources for building MCP servers and clients, including a weather server and LLM-powered chatbot client.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-fdmocho-mcp-quick-resources-b921c0b7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fdmocho-mcp-quick-resources-b921c0b7)",
+  "links": {
+    "primary": "https://github.com/fdmocho/MCP_Quick_Resources",
+    "repo": "https://github.com/fdmocho/MCP_Quick_Resources",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

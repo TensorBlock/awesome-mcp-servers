@@ -1,0 +1,24 @@
+{
+  "id": "github-kiliczsh-mcp-banka-4ac80c4b",
+  "name": "kiliczsh/mcp-banka",
+  "description": "Access Turkish currency and exchange rate data from the Central Bank of Turkey using MCP-Banka.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-kiliczsh-mcp-banka-4ac80c4b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kiliczsh-mcp-banka-4ac80c4b)",
+  "links": {
+    "primary": "https://github.com/kiliczsh/mcp-banka",
+    "repo": "https://github.com/kiliczsh/mcp-banka",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

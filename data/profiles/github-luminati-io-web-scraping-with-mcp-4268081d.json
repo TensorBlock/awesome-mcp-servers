@@ -1,0 +1,24 @@
+{
+  "id": "github-luminati-io-web-scraping-with-mcp-4268081d",
+  "name": "luminati-io/web-scraping-with-mcp",
+  "description": "Connects Anthropic LLMs to external web scraping tools using Bright Data integration for real-world data extraction.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-luminati-io-web-scraping-with-mcp-4268081d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-luminati-io-web-scraping-with-mcp-4268081d)",
+  "links": {
+    "primary": "https://github.com/luminati-io/web-scraping-with-mcp",
+    "repo": "https://github.com/luminati-io/web-scraping-with-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

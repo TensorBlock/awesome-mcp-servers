@@ -1,0 +1,24 @@
+{
+  "id": "github-takeshi1998-noschool-member-9a76cd60",
+  "name": "Takeshi1998/noschool-member",
+  "description": "Facilitates employee data retrieval from NoSchool's website via MCP with web scraping capabilities.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-takeshi1998-noschool-member-9a76cd60",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-takeshi1998-noschool-member-9a76cd60)",
+  "links": {
+    "primary": "https://github.com/Takeshi1998/noschool-member",
+    "repo": "https://github.com/Takeshi1998/noschool-member",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

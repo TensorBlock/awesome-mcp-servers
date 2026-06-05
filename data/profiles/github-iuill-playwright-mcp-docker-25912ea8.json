@@ -1,0 +1,24 @@
+{
+  "id": "github-iuill-playwright-mcp-docker-25912ea8",
+  "name": "iuill/playwright-mcp-docker",
+  "description": "Facilitates the deployment of a Playwright MCP server using Docker Compose for seamless client integration.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-iuill-playwright-mcp-docker-25912ea8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iuill-playwright-mcp-docker-25912ea8)",
+  "links": {
+    "primary": "https://github.com/iuill/playwright-mcp-docker",
+    "repo": "https://github.com/iuill/playwright-mcp-docker",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

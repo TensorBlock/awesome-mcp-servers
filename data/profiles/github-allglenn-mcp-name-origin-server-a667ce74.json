@@ -1,0 +1,24 @@
+{
+  "id": "github-allglenn-mcp-name-origin-server-a667ce74",
+  "name": "allglenn/mcp-name-origin-server",
+  "description": "A Python-based server leveraging the MCP protocol to predict name origins using the Nationalize.io API.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-allglenn-mcp-name-origin-server-a667ce74",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-allglenn-mcp-name-origin-server-a667ce74)",
+  "links": {
+    "primary": "https://github.com/allglenn/mcp-name-origin-server",
+    "repo": "https://github.com/allglenn/mcp-name-origin-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

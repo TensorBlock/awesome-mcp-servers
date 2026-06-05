@@ -1,0 +1,24 @@
+{
+  "id": "github-a6b8-soltracker-mcp-3829321c",
+  "name": "a6b8/solTracker-mcp",
+  "description": "SolTracker MCP Server offers seamless access to Solana's token, wallet, and trading data, integrating effortlessly with LLM agents.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-a6b8-soltracker-mcp-3829321c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-a6b8-soltracker-mcp-3829321c)",
+  "links": {
+    "primary": "https://github.com/a6b8/solTracker-mcp",
+    "repo": "https://github.com/a6b8/solTracker-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

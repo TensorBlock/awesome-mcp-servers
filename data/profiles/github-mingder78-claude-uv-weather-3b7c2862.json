@@ -1,0 +1,24 @@
+{
+  "id": "github-mingder78-claude-uv-weather-3b7c2862",
+  "name": "mingder78/claude-uv-weather",
+  "description": "Facilitates weather and time data retrieval through MCP server commands, with Puppeteer integration for enhanced automation.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-mingder78-claude-uv-weather-3b7c2862",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mingder78-claude-uv-weather-3b7c2862)",
+  "links": {
+    "primary": "https://github.com/mingder78/claude-uv-weather",
+    "repo": "https://github.com/mingder78/claude-uv-weather",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

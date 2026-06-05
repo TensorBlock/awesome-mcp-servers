@@ -1,0 +1,24 @@
+{
+  "id": "github-piddlingtuna-tfnsw-realtime-alerts-mcp-server-c0a56e89",
+  "name": "piddlingtuna/tfnsw-realtime-alerts-mcp-server",
+  "description": "Facilitates AI-driven access to real-time transport alerts from Transport for NSW, enhancing LLM capabilities with up-to-date disruption information.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-piddlingtuna-tfnsw-realtime-alerts-mcp-server-c0a56e89",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-piddlingtuna-tfnsw-realtime-alerts-mcp-server-c0a56e89)",
+  "links": {
+    "primary": "https://github.com/piddlingtuna/tfnsw-realtime-alerts-mcp-server",
+    "repo": "https://github.com/piddlingtuna/tfnsw-realtime-alerts-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-rhombussystems-rhombus-node-mcp-a2fa9cd3",
+  "name": "RhombusSystems/rhombus-node-mcp",
+  "description": "Integrates the Rhombus API to provide Chatbot tools via an MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-rhombussystems-rhombus-node-mcp-a2fa9cd3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rhombussystems-rhombus-node-mcp-a2fa9cd3)",
+  "links": {
+    "primary": "https://github.com/RhombusSystems/rhombus-node-mcp",
+    "repo": "https://github.com/RhombusSystems/rhombus-node-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

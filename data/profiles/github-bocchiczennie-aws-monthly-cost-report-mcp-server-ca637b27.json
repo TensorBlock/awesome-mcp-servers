@@ -1,0 +1,24 @@
+{
+  "id": "github-bocchiczennie-aws-monthly-cost-report-mcp-server-ca637b27",
+  "name": "bocchiczennie/aws-monthly-cost-report-mcp-server",
+  "description": "Facilitates the generation of monthly AWS cost reports through an MCP server, integrating seamlessly with Claude Desktop.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-bocchiczennie-aws-monthly-cost-report-mcp-server-ca637b27",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bocchiczennie-aws-monthly-cost-report-mcp-server-ca637b27)",
+  "links": {
+    "primary": "https://github.com/bocchiczennie/aws-monthly-cost-report-mcp-server",
+    "repo": "https://github.com/bocchiczennie/aws-monthly-cost-report-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

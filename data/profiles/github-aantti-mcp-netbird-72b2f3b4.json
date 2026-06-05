@@ -1,0 +1,24 @@
+{
+  "id": "github-aantti-mcp-netbird-72b2f3b4",
+  "name": "aantti/mcp-netbird",
+  "description": "Facilitates secure and detailed management of Netbird network peers, groups, and policies through a Model Context Protocol server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-aantti-mcp-netbird-72b2f3b4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aantti-mcp-netbird-72b2f3b4)",
+  "links": {
+    "primary": "https://github.com/aantti/mcp-netbird",
+    "repo": "https://github.com/aantti/mcp-netbird",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

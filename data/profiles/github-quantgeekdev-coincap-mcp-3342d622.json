@@ -1,0 +1,24 @@
+{
+  "id": "github-quantgeekdev-coincap-mcp-3342d622",
+  "name": "QuantGeekDev/coincap-mcp",
+  "description": "Access real-time cryptocurrency data from Coincap's API without needing API keys or registration.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-quantgeekdev-coincap-mcp-3342d622",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-quantgeekdev-coincap-mcp-3342d622)",
+  "links": {
+    "primary": "https://github.com/QuantGeekDev/coincap-mcp",
+    "repo": "https://github.com/QuantGeekDev/coincap-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

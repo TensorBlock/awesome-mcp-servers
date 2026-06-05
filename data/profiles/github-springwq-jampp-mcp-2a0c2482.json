@@ -1,0 +1,24 @@
+{
+  "id": "github-springwq-jampp-mcp-2a0c2482",
+  "name": "springwq/jampp-mcp",
+  "description": "Connects LLMs to Jampp's advertising platform for querying and analyzing ad data via natural language.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-springwq-jampp-mcp-2a0c2482",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-springwq-jampp-mcp-2a0c2482)",
+  "links": {
+    "primary": "https://github.com/springwq/jampp-mcp",
+    "repo": "https://github.com/springwq/jampp-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

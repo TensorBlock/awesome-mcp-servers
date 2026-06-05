@@ -1,0 +1,24 @@
+{
+  "id": "github-zinja-coder-jadx-ai-mcp-f28a8df6",
+  "name": "zinja-coder/jadx-ai-mcp",
+  "description": "Enhance JADX decompiler with real-time AI-driven code analysis and reverse engineering capabilities through MCP integration.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-zinja-coder-jadx-ai-mcp-f28a8df6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zinja-coder-jadx-ai-mcp-f28a8df6)",
+  "links": {
+    "primary": "https://github.com/zinja-coder/jadx-ai-mcp",
+    "repo": "https://github.com/zinja-coder/jadx-ai-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

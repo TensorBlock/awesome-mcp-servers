@@ -1,0 +1,24 @@
+{
+  "id": "github-2132660698-blender-mcp-new-b2d2354c",
+  "name": "2132660698/blender_mcp_new",
+  "description": "Integrates Model Context Protocol with Blender, enabling AI models to directly perform 3D modeling and rendering tasks.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-2132660698-blender-mcp-new-b2d2354c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-2132660698-blender-mcp-new-b2d2354c)",
+  "links": {
+    "primary": "https://github.com/2132660698/blender_mcp_new",
+    "repo": "https://github.com/2132660698/blender_mcp_new",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

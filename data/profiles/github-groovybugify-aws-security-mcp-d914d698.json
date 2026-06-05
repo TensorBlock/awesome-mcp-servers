@@ -1,0 +1,24 @@
+{
+  "id": "github-groovybugify-aws-security-mcp-d914d698",
+  "name": "groovyBugify/aws-security-mcp",
+  "description": "Connects AI assistants to AWS security services for autonomous security analysis and threat modeling.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-groovybugify-aws-security-mcp-d914d698",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-groovybugify-aws-security-mcp-d914d698)",
+  "links": {
+    "primary": "https://github.com/groovyBugify/aws-security-mcp",
+    "repo": "https://github.com/groovyBugify/aws-security-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

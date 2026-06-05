@@ -107,3 +107,6 @@ Servers providing access to the host operating system's command line/shell, exec
 - [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli): A command-line interface for executing LLM prompts and interacting with MCP-compatible servers.
 - [mlaugharn/cli-mcp](https://github.com/mlaugharn/cli-mcp): Facilitates interaction with command-line interfaces through a model context protocol, enabling command execution and resource management.
 
+
+- [aybelatchane/mcp-server-terminal](https://github.com/aybelatchane/mcp-server-terminal): MCP server enabling AI agents to interact with terminal applications (TUI/CLI) through structured Terminal State Tree representation. Think Playwright for terminals.
+- [mnardit/clipboard-mcp](https://github.com/mnardit/clipboard-mcp): Cross-platform system clipboard access (read, write, watch for changes) for AI assistants. Single Rust binary, zero runtime deps. Supports Windows, macOS, Linux (X11 + Wayland).
