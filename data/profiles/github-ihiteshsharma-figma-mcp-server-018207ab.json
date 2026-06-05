@@ -1,0 +1,24 @@
+{
+  "id": "github-ihiteshsharma-figma-mcp-server-018207ab",
+  "name": "ihiteshsharma/figma-mcp-server",
+  "description": "Facilitates design creation and editing in Figma through Claude integration, enabling seamless UI/UX development.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-ihiteshsharma-figma-mcp-server-018207ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ihiteshsharma-figma-mcp-server-018207ab)",
+  "links": {
+    "primary": "https://github.com/ihiteshsharma/figma-mcp-server",
+    "repo": "https://github.com/ihiteshsharma/figma-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

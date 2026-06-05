@@ -1,0 +1,24 @@
+{
+  "id": "github-bsmnyk-mkslides-mcp-2fa0f3c0",
+  "name": "bsmnyk/mkslides-mcp",
+  "description": "Facilitates the creation of HTML slides from Markdown using the mkslides library, integrated via the Model Context Protocol.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-bsmnyk-mkslides-mcp-2fa0f3c0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bsmnyk-mkslides-mcp-2fa0f3c0)",
+  "links": {
+    "primary": "https://github.com/bsmnyk/mkslides-mcp",
+    "repo": "https://github.com/bsmnyk/mkslides-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

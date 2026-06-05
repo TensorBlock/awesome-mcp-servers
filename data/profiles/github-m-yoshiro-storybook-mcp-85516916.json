@@ -1,0 +1,24 @@
+{
+  "id": "github-m-yoshiro-storybook-mcp-85516916",
+  "name": "m-yoshiro/storybook-mcp",
+  "description": "Facilitates AI-driven UI component suggestions and collaboration between designers and developers by integrating Storybook with Figma designs.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-m-yoshiro-storybook-mcp-85516916",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-m-yoshiro-storybook-mcp-85516916)",
+  "links": {
+    "primary": "https://github.com/m-yoshiro/storybook-mcp",
+    "repo": "https://github.com/m-yoshiro/storybook-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

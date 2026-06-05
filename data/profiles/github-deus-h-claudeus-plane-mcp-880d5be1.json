@@ -1,0 +1,24 @@
+{
+  "id": "github-deus-h-claudeus-plane-mcp-880d5be1",
+  "name": "deus-h/claudeus-plane-mcp",
+  "description": "Claudeus Plane MCP seamlessly integrates AI capabilities with Plane's project management platform, enhancing team collaboration and automating workflows.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-deus-h-claudeus-plane-mcp-880d5be1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-deus-h-claudeus-plane-mcp-880d5be1)",
+  "links": {
+    "primary": "https://github.com/deus-h/claudeus-plane-mcp",
+    "repo": "https://github.com/deus-h/claudeus-plane-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

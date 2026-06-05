@@ -1,0 +1,24 @@
+{
+  "id": "github-jeffail-ash-83e47bcb",
+  "name": "Jeffail/ash",
+  "description": "ASH is an AI bot leveraging an MCP server for executing tasks and managing observability tools, with integration options for Claude and Ollama.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-jeffail-ash-83e47bcb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jeffail-ash-83e47bcb)",
+  "links": {
+    "primary": "https://github.com/Jeffail/ash",
+    "repo": "https://github.com/Jeffail/ash",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

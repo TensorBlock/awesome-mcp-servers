@@ -1,0 +1,24 @@
+{
+  "id": "github-l1806858547-tidb-server-1fcaf5fb",
+  "name": "l1806858547/tidb-server",
+  "description": "Facilitates executing SELECT queries on TiDB using MCP tools with secure and lightweight operations.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-l1806858547-tidb-server-1fcaf5fb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-l1806858547-tidb-server-1fcaf5fb)",
+  "links": {
+    "primary": "https://github.com/l1806858547/tidb-server",
+    "repo": "https://github.com/l1806858547/tidb-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

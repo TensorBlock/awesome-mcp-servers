@@ -1,0 +1,24 @@
+{
+  "id": "github-jikime-mcp-weather-93e6ce7d",
+  "name": "jikime/mcp-weather",
+  "description": "Provides real-time weather information for Korea, including detailed forecasts and conditions, through an MCP server.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-jikime-mcp-weather-93e6ce7d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jikime-mcp-weather-93e6ce7d)",
+  "links": {
+    "primary": "https://github.com/jikime/mcp-weather",
+    "repo": "https://github.com/jikime/mcp-weather",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-adexltd-mcp-google-suite-23a9ee0b",
+  "name": "adexltd/mcp-google-suite",
+  "description": "Facilitates AI-driven interactions with Google Workspace services through a Model Context Protocol server.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-adexltd-mcp-google-suite-23a9ee0b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adexltd-mcp-google-suite-23a9ee0b)",
+  "links": {
+    "primary": "https://github.com/adexltd/mcp-google-suite",
+    "repo": "https://github.com/adexltd/mcp-google-suite",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

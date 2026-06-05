@@ -1,0 +1,24 @@
+{
+  "id": "github-hakxel-mantine-ui-server-85534fc1",
+  "name": "hakxel/mantine-ui-server",
+  "description": "Facilitates interaction with Mantine UI components through documentation, generation, and theme utilities.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-hakxel-mantine-ui-server-85534fc1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hakxel-mantine-ui-server-85534fc1)",
+  "links": {
+    "primary": "https://github.com/hakxel/mantine-ui-server",
+    "repo": "https://github.com/hakxel/mantine-ui-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

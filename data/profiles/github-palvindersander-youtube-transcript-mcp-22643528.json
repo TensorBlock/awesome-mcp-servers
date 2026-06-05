@@ -1,0 +1,24 @@
+{
+  "id": "github-palvindersander-youtube-transcript-mcp-22643528",
+  "name": "palvindersander/youtube-transcript-mcp",
+  "description": "Fetches YouTube video transcripts and metadata for seamless integration with Claude, including fact-checking capabilities.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-palvindersander-youtube-transcript-mcp-22643528",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-palvindersander-youtube-transcript-mcp-22643528)",
+  "links": {
+    "primary": "https://github.com/palvindersander/youtube-transcript-mcp",
+    "repo": "https://github.com/palvindersander/youtube-transcript-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

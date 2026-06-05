@@ -1,0 +1,24 @@
+{
+  "id": "github-panxingfeng-mcp-server-wechat-7df7febf",
+  "name": "panxingfeng/mcp_server_wechat",
+  "description": "Facilitates automated WeChat message sending and chat history retrieval using MCP technology.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-panxingfeng-mcp-server-wechat-7df7febf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-panxingfeng-mcp-server-wechat-7df7febf)",
+  "links": {
+    "primary": "https://github.com/panxingfeng/mcp_server_wechat",
+    "repo": "https://github.com/panxingfeng/mcp_server_wechat",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

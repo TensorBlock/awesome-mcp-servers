@@ -1,0 +1,24 @@
+{
+  "id": "github-tsainte-wordpress-automation-mcp-7ec699e9",
+  "name": "tsainte/wordpress-automation-mcp",
+  "description": "Automate WordPress post management with a Python-based MCP server, offering CRUD operations and post status handling.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-tsainte-wordpress-automation-mcp-7ec699e9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tsainte-wordpress-automation-mcp-7ec699e9)",
+  "links": {
+    "primary": "https://github.com/tsainte/wordpress-automation-mcp",
+    "repo": "https://github.com/tsainte/wordpress-automation-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

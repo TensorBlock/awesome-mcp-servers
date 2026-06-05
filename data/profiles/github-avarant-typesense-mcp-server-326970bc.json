@@ -1,0 +1,24 @@
+{
+  "id": "github-avarant-typesense-mcp-server-326970bc",
+  "name": "avarant/typesense-mcp-server",
+  "description": "Facilitates seamless integration with Typesense by managing collections, documents, and search operations through MCP.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-avarant-typesense-mcp-server-326970bc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-avarant-typesense-mcp-server-326970bc)",
+  "links": {
+    "primary": "https://github.com/avarant/typesense-mcp-server",
+    "repo": "https://github.com/avarant/typesense-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

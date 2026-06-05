@@ -1,0 +1,24 @@
+{
+  "id": "github-pab1it0-chess-mcp-0a09959c",
+  "name": "pab1it0/chess-mcp",
+  "description": "Facilitates AI-driven analysis of Chess.com data through standardized MCP interfaces, enabling seamless access to player profiles, game records, and club information.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-pab1it0-chess-mcp-0a09959c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pab1it0-chess-mcp-0a09959c)",
+  "links": {
+    "primary": "https://github.com/pab1it0/chess-mcp",
+    "repo": "https://github.com/pab1it0/chess-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

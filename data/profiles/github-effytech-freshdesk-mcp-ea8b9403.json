@@ -1,0 +1,24 @@
+{
+  "id": "github-effytech-freshdesk-mcp-ea8b9403",
+  "name": "effytech/freshdesk_mcp",
+  "description": "Integrates AI models with Freshdesk for automated support operations, including ticket management and API interactions.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-effytech-freshdesk-mcp-ea8b9403",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-effytech-freshdesk-mcp-ea8b9403)",
+  "links": {
+    "primary": "https://github.com/effytech/freshdesk_mcp",
+    "repo": "https://github.com/effytech/freshdesk_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

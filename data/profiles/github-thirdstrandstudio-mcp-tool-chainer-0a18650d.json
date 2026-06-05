@@ -1,0 +1,24 @@
+{
+  "id": "github-thirdstrandstudio-mcp-tool-chainer-0a18650d",
+  "name": "thirdstrandstudio/mcp-tool-chainer",
+  "description": "Facilitates efficient tool chaining and data processing by connecting multiple MCP tools in sequence, minimizing token usage and enhancing workflow performance.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-thirdstrandstudio-mcp-tool-chainer-0a18650d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thirdstrandstudio-mcp-tool-chainer-0a18650d)",
+  "links": {
+    "primary": "https://github.com/thirdstrandstudio/mcp-tool-chainer",
+    "repo": "https://github.com/thirdstrandstudio/mcp-tool-chainer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-fern-api-2025-04-02-mcp-server-8cd9de54",
+  "name": "fern-api/2025-04-02-mcp-server",
+  "description": "A MongoDB MCP server utilizing the Fern API for seamless integration and deployment.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-fern-api-2025-04-02-mcp-server-8cd9de54",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fern-api-2025-04-02-mcp-server-8cd9de54)",
+  "links": {
+    "primary": "https://github.com/fern-api/2025-04-02-mcp-server",
+    "repo": "https://github.com/fern-api/2025-04-02-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

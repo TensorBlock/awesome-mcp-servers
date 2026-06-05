@@ -1,0 +1,24 @@
+{
+  "id": "github-taimo3810-fal-api-mcp-server-50f294af",
+  "name": "taimo3810/fal_api_mcp_server",
+  "description": "Facilitates image generation using fal.ai's FLUX.1 Pro model through text prompts.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-taimo3810-fal-api-mcp-server-50f294af",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-taimo3810-fal-api-mcp-server-50f294af)",
+  "links": {
+    "primary": "https://github.com/taimo3810/fal_api_mcp_server",
+    "repo": "https://github.com/taimo3810/fal_api_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

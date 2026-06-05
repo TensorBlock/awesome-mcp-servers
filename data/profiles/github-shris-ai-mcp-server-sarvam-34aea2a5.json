@@ -1,0 +1,24 @@
+{
+  "id": "github-shris-ai-mcp-server-sarvam-34aea2a5",
+  "name": "shris-ai/mcp-server-sarvam",
+  "description": "Facilitates language processing tasks like translation, language identification, and transliteration between English and Indic languages.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-shris-ai-mcp-server-sarvam-34aea2a5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shris-ai-mcp-server-sarvam-34aea2a5)",
+  "links": {
+    "primary": "https://github.com/shris-ai/mcp-server-sarvam",
+    "repo": "https://github.com/shris-ai/mcp-server-sarvam",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

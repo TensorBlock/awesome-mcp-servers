@@ -1,0 +1,24 @@
+{
+  "id": "github-zilongxue-claude-post-ad39c527",
+  "name": "ZilongXue/claude-post",
+  "description": "Facilitates natural language-driven email management with Claude, enabling secure email search, reading, and sending.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-zilongxue-claude-post-ad39c527",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zilongxue-claude-post-ad39c527)",
+  "links": {
+    "primary": "https://github.com/ZilongXue/claude-post",
+    "repo": "https://github.com/ZilongXue/claude-post",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

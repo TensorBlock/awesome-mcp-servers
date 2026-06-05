@@ -1,0 +1,24 @@
+{
+  "id": "github-warjiang-karmada-mcp-server-c95dbdba",
+  "name": "warjiang/karmada-mcp-server",
+  "description": "Facilitates multi-cluster management by integrating with Karmada.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-warjiang-karmada-mcp-server-c95dbdba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-warjiang-karmada-mcp-server-c95dbdba)",
+  "links": {
+    "primary": "https://github.com/warjiang/karmada-mcp-server",
+    "repo": "https://github.com/warjiang/karmada-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

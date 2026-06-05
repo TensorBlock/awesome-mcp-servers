@@ -1,0 +1,24 @@
+{
+  "id": "github-cdatasoftware-cdata-jdbc-mcp-server-74a52a29",
+  "name": "CDataSoftware/cdata-jdbc-mcp-server",
+  "description": "Facilitates querying live data from over 300 sources via CData JDBC Drivers using natural language through a read-only MCP interface.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-cdatasoftware-cdata-jdbc-mcp-server-74a52a29",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cdatasoftware-cdata-jdbc-mcp-server-74a52a29)",
+  "links": {
+    "primary": "https://github.com/CDataSoftware/cdata-jdbc-mcp-server",
+    "repo": "https://github.com/CDataSoftware/cdata-jdbc-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

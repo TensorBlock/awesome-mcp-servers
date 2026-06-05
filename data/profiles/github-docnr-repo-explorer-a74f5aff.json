@@ -1,0 +1,24 @@
+{
+  "id": "github-docnr-repo-explorer-a74f5aff",
+  "name": "DocNR/repo-explorer",
+  "description": "Efficiently explore and analyze Git repositories with advanced caching and cross-repository code pattern search, integrating seamlessly with Claude AI.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-docnr-repo-explorer-a74f5aff",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-docnr-repo-explorer-a74f5aff)",
+  "links": {
+    "primary": "https://github.com/DocNR/repo-explorer",
+    "repo": "https://github.com/DocNR/repo-explorer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
