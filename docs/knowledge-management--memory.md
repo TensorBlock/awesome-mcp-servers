@@ -2,6 +2,7 @@
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+* [GetZikra/zikra](https://github.com/GetZikra/zikra) : Shared persistent memory for Claude Code, Gemini & Codex. One PostgreSQL-backed pool stores decisions, prompts, requirements, and session logs across sessions, tools, and machines. Hybrid vector + keyword search, auto-save via Stop/PreCompact hooks, half-life confidence decay, role-based access (owner/R&Der/viewer), MIT licensed, self-hosted. ([zikra.dev](https://zikra.dev))
 - [sunnja69/akephalos](https://github.com/sunnja69/akephalos): Local-first, markdown-first `.akephalos` passport for portable preferences, tool notes, rules, project context, and durable memories across Codex, Claude Code, Cursor, Hermes, OpenClaw, MCP clients, and machines via plain files/Git. Exposes a local MCP stdio server.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe): 24/7 local screen + microphone recording with OCR, audio transcription, and semantic search. MCP server exposes 6 tools (search-content, export-video, list-meetings, activity-summary, search-elements, frame-context) so Claude can search everything you've seen, said, or heard. 100% local SQLite. MIT licensed, 18k+ stars.
 - [a2cr/a2cr](https://github.com/a2cr/a2cr): MCP server for AI-agent handoffs. Saves client-encrypted WorkBaton checkpoints and WorkStash notes so Codex, Claude Code, Roo Code, and other MCP clients can resume work without passing full chat history.
