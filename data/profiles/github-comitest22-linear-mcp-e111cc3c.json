@@ -1,0 +1,24 @@
+{
+  "id": "github-comitest22-linear-mcp-e111cc3c",
+  "name": "comitest22/linear-mcp",
+  "description": "Facilitates interaction with the Linear API through a Model Context Protocol server, offering tools for ticket management and prioritization.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-comitest22-linear-mcp-e111cc3c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-comitest22-linear-mcp-e111cc3c)",
+  "links": {
+    "primary": "https://github.com/comitest22/linear-mcp",
+    "repo": "https://github.com/comitest22/linear-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

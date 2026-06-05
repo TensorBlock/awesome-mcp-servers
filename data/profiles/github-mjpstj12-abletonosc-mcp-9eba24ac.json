@@ -1,0 +1,24 @@
+{
+  "id": "github-mjpstj12-abletonosc-mcp-9eba24ac",
+  "name": "mjpstj12/abletonOsc_mcp",
+  "description": "Facilitates communication between LLMs and Ableton Live using OSC for music production and session manipulation.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-mjpstj12-abletonosc-mcp-9eba24ac",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mjpstj12-abletonosc-mcp-9eba24ac)",
+  "links": {
+    "primary": "https://github.com/mjpstj12/abletonOsc_mcp",
+    "repo": "https://github.com/mjpstj12/abletonOsc_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

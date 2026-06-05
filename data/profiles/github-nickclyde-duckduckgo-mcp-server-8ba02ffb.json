@@ -1,0 +1,24 @@
+{
+  "id": "github-nickclyde-duckduckgo-mcp-server-8ba02ffb",
+  "name": "nickclyde/duckduckgo-mcp-server",
+  "description": "Enhance your web search capabilities with this MCP server, offering DuckDuckGo integration, intelligent content parsing, and LLM-friendly output.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-nickclyde-duckduckgo-mcp-server-8ba02ffb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nickclyde-duckduckgo-mcp-server-8ba02ffb)",
+  "links": {
+    "primary": "https://github.com/nickclyde/duckduckgo-mcp-server",
+    "repo": "https://github.com/nickclyde/duckduckgo-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

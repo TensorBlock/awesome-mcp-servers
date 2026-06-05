@@ -1,0 +1,24 @@
+{
+  "id": "github-rusianhu-githubdailytrendingfetcher-mcp-91fcbeec",
+  "name": "RusianHu/GitHubDailyTrendingFetcher-mcp",
+  "description": "Fetches detailed information on GitHub's daily trending repositories using the FastMCP framework, allowing for efficient content summarization and token savings.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-rusianhu-githubdailytrendingfetcher-mcp-91fcbeec",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rusianhu-githubdailytrendingfetcher-mcp-91fcbeec)",
+  "links": {
+    "primary": "https://github.com/RusianHu/GitHubDailyTrendingFetcher-mcp",
+    "repo": "https://github.com/RusianHu/GitHubDailyTrendingFetcher-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

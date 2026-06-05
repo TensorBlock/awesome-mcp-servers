@@ -1,0 +1,24 @@
+{
+  "id": "github-auth0-auth0-mcp-server-ed7ea273",
+  "name": "auth0/auth0-mcp-server",
+  "description": "Facilitates natural language-driven management of Auth0 operations through integration with LLMs and AI agents.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-auth0-auth0-mcp-server-ed7ea273",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-auth0-auth0-mcp-server-ed7ea273)",
+  "links": {
+    "primary": "https://github.com/auth0/auth0-mcp-server",
+    "repo": "https://github.com/auth0/auth0-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

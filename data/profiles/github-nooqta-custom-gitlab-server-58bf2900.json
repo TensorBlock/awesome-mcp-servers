@@ -1,0 +1,24 @@
+{
+  "id": "github-nooqta-custom-gitlab-server-58bf2900",
+  "name": "nooqta/custom-gitlab-server",
+  "description": "Facilitates AI-driven interactions with GitLab through natural language commands, enabling repository management, issue tracking, and user searches.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-nooqta-custom-gitlab-server-58bf2900",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nooqta-custom-gitlab-server-58bf2900)",
+  "links": {
+    "primary": "https://github.com/nooqta/custom-gitlab-server",
+    "repo": "https://github.com/nooqta/custom-gitlab-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

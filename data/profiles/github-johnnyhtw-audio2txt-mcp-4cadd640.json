@@ -1,0 +1,24 @@
+{
+  "id": "github-johnnyhtw-audio2txt-mcp-4cadd640",
+  "name": "Johnnyhtw/audio2txt_mcp",
+  "description": "Transforms meeting audio recordings into text using Whisper, integrating with CLINE for AI-generated summaries.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-johnnyhtw-audio2txt-mcp-4cadd640",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-johnnyhtw-audio2txt-mcp-4cadd640)",
+  "links": {
+    "primary": "https://github.com/Johnnyhtw/audio2txt_mcp",
+    "repo": "https://github.com/Johnnyhtw/audio2txt_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

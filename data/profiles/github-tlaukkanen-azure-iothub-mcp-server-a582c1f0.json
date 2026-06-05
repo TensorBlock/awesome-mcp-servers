@@ -1,0 +1,24 @@
+{
+  "id": "github-tlaukkanen-azure-iothub-mcp-server-a582c1f0",
+  "name": "tlaukkanen/azure-iothub-mcp-server",
+  "description": "Facilitates read-only monitoring of Azure IoT Hub using Azure CLI for authentication and device detail retrieval.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-tlaukkanen-azure-iothub-mcp-server-a582c1f0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tlaukkanen-azure-iothub-mcp-server-a582c1f0)",
+  "links": {
+    "primary": "https://github.com/tlaukkanen/azure-iothub-mcp-server",
+    "repo": "https://github.com/tlaukkanen/azure-iothub-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

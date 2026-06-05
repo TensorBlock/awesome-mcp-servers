@@ -1,0 +1,24 @@
+{
+  "id": "github-agnuxo1-enigmagent-mcp-456eca7f",
+  "name": "Agnuxo1/enigmagent-mcp",
+  "description": "Encrypted local vault MCP server (AES-256-GCM + Argon2id) that resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in LLM prompts, logs, or context. Local-only, MIT, zero telemetry. `npx enigmagent-mcp`.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-agnuxo1-enigmagent-mcp-456eca7f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-agnuxo1-enigmagent-mcp-456eca7f)",
+  "links": {
+    "primary": "https://github.com/Agnuxo1/enigmagent-mcp",
+    "repo": "https://github.com/Agnuxo1/enigmagent-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

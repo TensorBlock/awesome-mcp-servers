@@ -1,0 +1,24 @@
+{
+  "id": "github-wheattoast11-mcp-video-gen-15f5e7a5",
+  "name": "wheattoast11/mcp-video-gen",
+  "description": "Facilitates video and image generation using RunwayML and Luma AI APIs, with capabilities to enhance prompts via OpenRouter LLMs.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-wheattoast11-mcp-video-gen-15f5e7a5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wheattoast11-mcp-video-gen-15f5e7a5)",
+  "links": {
+    "primary": "https://github.com/wheattoast11/mcp-video-gen",
+    "repo": "https://github.com/wheattoast11/mcp-video-gen",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

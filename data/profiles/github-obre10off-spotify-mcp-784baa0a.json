@@ -1,0 +1,24 @@
+{
+  "id": "github-obre10off-spotify-mcp-784baa0a",
+  "name": "obre10off/spotify-mcp",
+  "description": "Control Spotify playback using natural language commands through an MCP client.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-obre10off-spotify-mcp-784baa0a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-obre10off-spotify-mcp-784baa0a)",
+  "links": {
+    "primary": "https://github.com/obre10off/spotify-mcp",
+    "repo": "https://github.com/obre10off/spotify-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

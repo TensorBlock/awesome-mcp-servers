@@ -1,0 +1,24 @@
+{
+  "id": "github-deadpixel-roundtable-dashboard-e1f97e20",
+  "name": "deadpixel/roundtable-dashboard",
+  "description": "Multi-model AI debate platform with remote MCP server. GPT-4o, Claude, Gemini and 200+ models discuss prompts in structured rounds and synthesize collective insight via Streamable HTTP at `https://mcp.roundtable.now/mcp`.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-deadpixel-roundtable-dashboard-e1f97e20",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-deadpixel-roundtable-dashboard-e1f97e20)",
+  "links": {
+    "primary": "https://github.com/deadpixel/roundtable-dashboard",
+    "repo": "https://github.com/deadpixel/roundtable-dashboard",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.roundtable.now/mcp"
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

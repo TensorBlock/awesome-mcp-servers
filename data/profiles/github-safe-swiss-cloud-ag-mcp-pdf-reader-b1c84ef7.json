@@ -1,0 +1,24 @@
+{
+  "id": "github-safe-swiss-cloud-ag-mcp-pdf-reader-b1c84ef7",
+  "name": "Safe-Swiss-Cloud-AG/mcp_pdf_reader",
+  "description": "Facilitates reading PDF documents through an MCP server, compatible with Claude Desktop and LibreChat.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-safe-swiss-cloud-ag-mcp-pdf-reader-b1c84ef7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-safe-swiss-cloud-ag-mcp-pdf-reader-b1c84ef7)",
+  "links": {
+    "primary": "https://github.com/Safe-Swiss-Cloud-AG/mcp_pdf_reader",
+    "repo": "https://github.com/Safe-Swiss-Cloud-AG/mcp_pdf_reader",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-bluewd111-e2e-by-mcp-5ebfe096",
+  "name": "bluewd111/e2e-by-mcp",
+  "description": "Generate end-to-end tests for web applications using Playwright MCP.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-bluewd111-e2e-by-mcp-5ebfe096",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bluewd111-e2e-by-mcp-5ebfe096)",
+  "links": {
+    "primary": "https://github.com/bluewd111/e2e-by-mcp",
+    "repo": "https://github.com/bluewd111/e2e-by-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-zerubroberts-safetyculture-mcp-server-e964aa04",
+  "name": "zerubroberts/safetyculture-mcp-server",
+  "description": "Facilitates natural language queries and analysis of SafetyCulture data through an MCP server interface.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-zerubroberts-safetyculture-mcp-server-e964aa04",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zerubroberts-safetyculture-mcp-server-e964aa04)",
+  "links": {
+    "primary": "https://github.com/zerubroberts/safetyculture-mcp-server",
+    "repo": "https://github.com/zerubroberts/safetyculture-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-anuragrai017-python-docs-server-mcp-server-b06c7bac",
+  "name": "AnuragRai017/python-docs-server-MCP-Server",
+  "description": "A TypeScript-based server that fetches Python documentation using the Brave Search API.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-anuragrai017-python-docs-server-mcp-server-b06c7bac",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anuragrai017-python-docs-server-mcp-server-b06c7bac)",
+  "links": {
+    "primary": "https://github.com/AnuragRai017/python-docs-server-MCP-Server",
+    "repo": "https://github.com/AnuragRai017/python-docs-server-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

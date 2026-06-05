@@ -1,0 +1,24 @@
+{
+  "id": "github-dhananjay-jsr-tailscale-mcp-4c1b172c",
+  "name": "Dhananjay-JSR/tailscale-mcp",
+  "description": "An experimental server leveraging Tailscale's capabilities through reverse engineering, exclusively supporting Windows platforms.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-dhananjay-jsr-tailscale-mcp-4c1b172c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dhananjay-jsr-tailscale-mcp-4c1b172c)",
+  "links": {
+    "primary": "https://github.com/Dhananjay-JSR/tailscale-mcp",
+    "repo": "https://github.com/Dhananjay-JSR/tailscale-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

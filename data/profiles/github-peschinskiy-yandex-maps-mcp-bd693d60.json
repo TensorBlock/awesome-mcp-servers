@@ -1,0 +1,24 @@
+{
+  "id": "github-peschinskiy-yandex-maps-mcp-bd693d60",
+  "name": "peschinskiy/yandex-maps-mcp",
+  "description": "Facilitates map rendering and geocoding via Yandex Maps APIs, enabling location-based queries and visualizations.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-peschinskiy-yandex-maps-mcp-bd693d60",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-peschinskiy-yandex-maps-mcp-bd693d60)",
+  "links": {
+    "primary": "https://github.com/peschinskiy/yandex-maps-mcp",
+    "repo": "https://github.com/peschinskiy/yandex-maps-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

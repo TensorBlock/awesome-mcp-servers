@@ -1,0 +1,24 @@
+{
+  "id": "github-birariro-agoda-review-mcp-4f22527a",
+  "name": "birariro/agoda-review-mcp",
+  "description": "Facilitates LLMs in retrieving and aggregating Agoda hotel reviews for enhanced decision-making.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-birariro-agoda-review-mcp-4f22527a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-birariro-agoda-review-mcp-4f22527a)",
+  "links": {
+    "primary": "https://github.com/birariro/agoda-review-mcp",
+    "repo": "https://github.com/birariro/agoda-review-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

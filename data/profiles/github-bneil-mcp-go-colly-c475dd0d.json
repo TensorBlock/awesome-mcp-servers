@@ -1,0 +1,24 @@
+{
+  "id": "github-bneil-mcp-go-colly-c475dd0d",
+  "name": "bneil/mcp-go-colly",
+  "description": "A sophisticated web crawling framework integrating MCP with Colly for flexible and extensible web content extraction in LLM applications.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-bneil-mcp-go-colly-c475dd0d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bneil-mcp-go-colly-c475dd0d)",
+  "links": {
+    "primary": "https://github.com/bneil/mcp-go-colly",
+    "repo": "https://github.com/bneil/mcp-go-colly",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

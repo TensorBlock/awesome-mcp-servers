@@ -1,0 +1,24 @@
+{
+  "id": "github-leighmcculloch-mcp-gemini-1dd69f02",
+  "name": "leighmcculloch/mcp-gemini",
+  "description": "Facilitates communication between Claude and Google's Gemini using the Claude Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-leighmcculloch-mcp-gemini-1dd69f02",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-leighmcculloch-mcp-gemini-1dd69f02)",
+  "links": {
+    "primary": "https://github.com/leighmcculloch/mcp-gemini",
+    "repo": "https://github.com/leighmcculloch/mcp-gemini",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

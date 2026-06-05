@@ -1,0 +1,24 @@
+{
+  "id": "github-greg-swiftomatic-substack-mcp-36277e3b",
+  "name": "Greg-Swiftomatic/substack-mcp",
+  "description": "Facilitates AI assistants' interaction with Substack content through a standardized protocol.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-greg-swiftomatic-substack-mcp-36277e3b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-greg-swiftomatic-substack-mcp-36277e3b)",
+  "links": {
+    "primary": "https://github.com/Greg-Swiftomatic/substack-mcp",
+    "repo": "https://github.com/Greg-Swiftomatic/substack-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

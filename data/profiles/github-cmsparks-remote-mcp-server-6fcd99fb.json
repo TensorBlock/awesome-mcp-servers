@@ -1,0 +1,24 @@
+{
+  "id": "github-cmsparks-remote-mcp-server-6fcd99fb",
+  "name": "cmsparks/remote-mcp-server",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-cmsparks-remote-mcp-server-6fcd99fb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cmsparks-remote-mcp-server-6fcd99fb)",
+  "links": {
+    "primary": "https://github.com/cmsparks/remote-mcp-server",
+    "repo": "https://github.com/cmsparks/remote-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

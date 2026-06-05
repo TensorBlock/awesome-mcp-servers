@@ -1,0 +1,24 @@
+{
+  "id": "github-bsmith925-mcp-examples-1b72da66",
+  "name": "bsmith925/mcp-examples",
+  "description": "Explore deployment configurations and custom implementations for team-wide MCP servers, focusing on Git repository management and Kubernetes deployment.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-bsmith925-mcp-examples-1b72da66",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bsmith925-mcp-examples-1b72da66)",
+  "links": {
+    "primary": "https://github.com/bsmith925/mcp-examples",
+    "repo": "https://github.com/bsmith925/mcp-examples",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

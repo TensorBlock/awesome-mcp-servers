@@ -1,0 +1,24 @@
+{
+  "id": "github-arturborycki-mcp-teradata-aa0c8bf8",
+  "name": "arturborycki/mcp-teradata",
+  "description": "Facilitates database interaction and business intelligence through Teradata with tools for executing SQL queries and analyzing data.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-arturborycki-mcp-teradata-aa0c8bf8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arturborycki-mcp-teradata-aa0c8bf8)",
+  "links": {
+    "primary": "https://github.com/arturborycki/mcp-teradata",
+    "repo": "https://github.com/arturborycki/mcp-teradata",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
