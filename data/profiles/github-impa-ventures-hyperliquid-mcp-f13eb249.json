@@ -1,0 +1,24 @@
+{
+  "id": "github-impa-ventures-hyperliquid-mcp-f13eb249",
+  "name": "Impa-Ventures/hyperliquid-mcp",
+  "description": "Facilitates AI applications' interaction with Hyperliquid by providing onchain tools through a Model Context Protocol server.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-impa-ventures-hyperliquid-mcp-f13eb249",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-impa-ventures-hyperliquid-mcp-f13eb249)",
+  "links": {
+    "primary": "https://github.com/Impa-Ventures/hyperliquid-mcp",
+    "repo": "https://github.com/Impa-Ventures/hyperliquid-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

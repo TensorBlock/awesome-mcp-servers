@@ -1,0 +1,24 @@
+{
+  "id": "github-elitau-mcp-server-make-dot-com-a96763ce",
+  "name": "elitau/mcp-server-make-dot-com",
+  "description": "Integrates Make.com API to provide access to scenario blueprints and other resources via an MCP server.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-elitau-mcp-server-make-dot-com-a96763ce",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elitau-mcp-server-make-dot-com-a96763ce)",
+  "links": {
+    "primary": "https://github.com/elitau/mcp-server-make-dot-com",
+    "repo": "https://github.com/elitau/mcp-server-make-dot-com",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

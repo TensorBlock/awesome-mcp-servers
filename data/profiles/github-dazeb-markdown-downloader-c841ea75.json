@@ -1,0 +1,24 @@
+{
+  "id": "github-dazeb-markdown-downloader-c841ea75",
+  "name": "dazeb/markdown-downloader",
+  "description": "Instantly convert any webpage into markdown format for seamless integration into your IDE, powered by Jina.ai.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-dazeb-markdown-downloader-c841ea75",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dazeb-markdown-downloader-c841ea75)",
+  "links": {
+    "primary": "https://github.com/dazeb/markdown-downloader",
+    "repo": "https://github.com/dazeb/markdown-downloader",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-meerkats-ai-google-docs-mcp-server-97956ff1",
+  "name": "Meerkats-Ai/google-docs-mcp-server",
+  "description": "Facilitates seamless integration with Google Docs API, enabling AI assistants to manage documents through creation, retrieval, updating, and sharing functionalities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-meerkats-ai-google-docs-mcp-server-97956ff1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-meerkats-ai-google-docs-mcp-server-97956ff1)",
+  "links": {
+    "primary": "https://github.com/Meerkats-Ai/google-docs-mcp-server",
+    "repo": "https://github.com/Meerkats-Ai/google-docs-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

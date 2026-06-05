@@ -1,0 +1,24 @@
+{
+  "id": "github-nic01asfr-mcp-server-grist-e2af3bf2",
+  "name": "nic01asFr/mcp-server-grist",
+  "description": "Facilitates seamless interaction between Grist spreadsheets and language models through a robust API integration.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-nic01asfr-mcp-server-grist-e2af3bf2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nic01asfr-mcp-server-grist-e2af3bf2)",
+  "links": {
+    "primary": "https://github.com/nic01asFr/mcp-server-grist",
+    "repo": "https://github.com/nic01asFr/mcp-server-grist",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

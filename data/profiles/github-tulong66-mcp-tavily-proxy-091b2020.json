@@ -1,0 +1,24 @@
+{
+  "id": "github-tulong66-mcp-tavily-proxy-091b2020",
+  "name": "tulong66/mcp-tavily-proxy",
+  "description": "Enhances Tavily's MCP server with AI-powered web search capabilities and HTTP/HTTPS proxy support for sophisticated LLM-driven queries.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tulong66-mcp-tavily-proxy-091b2020",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tulong66-mcp-tavily-proxy-091b2020)",
+  "links": {
+    "primary": "https://github.com/tulong66/mcp-tavily-proxy",
+    "repo": "https://github.com/tulong66/mcp-tavily-proxy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-wheelhousedev-github-mcp-1aef7e2c",
+  "name": "wheelhousedev/github-mcp",
+  "description": "A TypeScript-based server for managing GitHub organizations, repositories, and collaborators via the GitHub API.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-wheelhousedev-github-mcp-1aef7e2c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wheelhousedev-github-mcp-1aef7e2c)",
+  "links": {
+    "primary": "https://github.com/wheelhousedev/github-mcp",
+    "repo": "https://github.com/wheelhousedev/github-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

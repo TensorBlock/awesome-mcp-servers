@@ -1,0 +1,24 @@
+{
+  "id": "github-champierre-image-mcp-server-4e0ead47",
+  "name": "champierre/image-mcp-server",
+  "description": "Analyzes image content from URLs or local paths using the GPT-4o-mini model, providing high-precision recognition and description.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-champierre-image-mcp-server-4e0ead47",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-champierre-image-mcp-server-4e0ead47)",
+  "links": {
+    "primary": "https://github.com/champierre/image-mcp-server",
+    "repo": "https://github.com/champierre/image-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-thuhoai27-text-memory-548e203b",
+  "name": "thuhoai27/text-memory",
+  "description": "TextMemory facilitates AI assistants in maintaining conversational context by storing and retrieving text data.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-thuhoai27-text-memory-548e203b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thuhoai27-text-memory-548e203b)",
+  "links": {
+    "primary": "https://github.com/thuhoai27/text-memory",
+    "repo": "https://github.com/thuhoai27/text-memory",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-harish876-resilient-mcp-4acb458e",
+  "name": "harish876/Resilient-MCP",
+  "description": "Facilitates interaction between Large Language Models and ResilientDB, a high-performance blockchain platform, using the Model Context Protocol.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-harish876-resilient-mcp-4acb458e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-harish876-resilient-mcp-4acb458e)",
+  "links": {
+    "primary": "https://github.com/harish876/Resilient-MCP",
+    "repo": "https://github.com/harish876/Resilient-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-reapi-com-mcp-openapi-d7c95042",
+  "name": "ReAPI-com/mcp-openapi",
+  "description": "Facilitates LLM-powered IDE integrations by serving multiple OpenAPI specifications through the MCP protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-reapi-com-mcp-openapi-d7c95042",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-reapi-com-mcp-openapi-d7c95042)",
+  "links": {
+    "primary": "https://github.com/ReAPI-com/mcp-openapi",
+    "repo": "https://github.com/ReAPI-com/mcp-openapi",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

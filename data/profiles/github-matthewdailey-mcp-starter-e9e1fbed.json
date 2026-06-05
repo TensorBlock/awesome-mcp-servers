@@ -1,0 +1,24 @@
+{
+  "id": "github-matthewdailey-mcp-starter-e9e1fbed",
+  "name": "MatthewDailey/mcp-starter",
+  "description": "A TypeScript template for building AI assistant tools using the ModelContextProtocol, designed for integration with Claude.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-matthewdailey-mcp-starter-e9e1fbed",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-matthewdailey-mcp-starter-e9e1fbed)",
+  "links": {
+    "primary": "https://github.com/MatthewDailey/mcp-starter",
+    "repo": "https://github.com/MatthewDailey/mcp-starter",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -2,6 +2,7 @@
 
 Servers integrating with healthcare standards, medical literature databases, bioinformatics resources, or specific healthcare platforms.
 
+- [Legal Fournier Spain Legal](https://legalfournier.com/en/mcp/spain-legal/): Read-only Streamable HTTP MCP server for Spain legal route screening, including visas, Beckham Law eligibility, NIE/TIE, residency, nationality, EU family routes, and handoff preparation.
 - [fastomop/omcp_a2a](https://github.com/fastomop/omcp_a2a): Facilitates LLM-driven analysis of healthcare data in OMOP format through modular MCP servers and A2A protocol integration.
 - [deak-ai/openehr-mcp-server](https://github.com/deak-ai/openehr-mcp-server): Facilitates seamless integration with openEHR REST APIs, enabling the creation and management of electronic health records and compositions.
 - [shinichi-takayanagi/myweight-mcp-server](https://github.com/shinichi-takayanagi/myweight-mcp-server): Connects to the Health Planet API to securely retrieve and analyze weight data using any MCP-compatible client.
@@ -59,3 +60,4 @@ Servers integrating with healthcare standards, medical literature databases, bio
 - [navisbio/ctgov_MCP](https://github.com/navisbio/ctgov_MCP): Facilitates analysis of clinical trial data from the AACT database, offering insights into therapeutic landscapes.
 - [LoggerApp/Nutrient_db_MCP](https://github.com/LoggerApp/Nutrient_db_MCP): Access USDA nutritional data with advanced search and nutrient analysis capabilities through a high-performance MCP server.
 
+- [EmperorMew/WWF](https://github.com/EmperorMew/WWF): 43 tools for U.S. veteran benefits, crisis routing, and service-locator queries — Veterans Crisis Line (988), VA disability rating calculations, PACT Act presumptive condition matching, VA form lookup, accredited representative search, county/CVSO finder, and HSDS-formatted resource search across 100,437 veteran service records. Built on open data: VA disability rates, ACS demographics, CDC PLACES, housing burden. Streamable HTTP at `https://warriors-fund-api.emperormew.workers.dev/mcp`.

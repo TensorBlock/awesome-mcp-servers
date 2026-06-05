@@ -1,0 +1,24 @@
+{
+  "id": "github-saiprashanths-code-analysis-mcp-c76f22d8",
+  "name": "saiprashanths/code-analysis-mcp",
+  "description": "Facilitates natural language-driven codebase analysis, enabling AI models to explore and understand code structures and data flows.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-saiprashanths-code-analysis-mcp-c76f22d8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-saiprashanths-code-analysis-mcp-c76f22d8)",
+  "links": {
+    "primary": "https://github.com/saiprashanths/code-analysis-mcp",
+    "repo": "https://github.com/saiprashanths/code-analysis-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

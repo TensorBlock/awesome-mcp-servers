@@ -1,0 +1,24 @@
+{
+  "id": "github-nguyendinhsinh361-fastapi-mcp-db1674e4",
+  "name": "nguyendinhsinh361/fastapi-mcp",
+  "description": "Effortlessly convert FastAPI endpoints into MCP tools with zero configuration, enabling seamless integration and deployment.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-nguyendinhsinh361-fastapi-mcp-db1674e4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nguyendinhsinh361-fastapi-mcp-db1674e4)",
+  "links": {
+    "primary": "https://github.com/nguyendinhsinh361/fastapi-mcp",
+    "repo": "https://github.com/nguyendinhsinh361/fastapi-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

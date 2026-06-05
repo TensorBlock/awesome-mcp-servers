@@ -1,0 +1,24 @@
+{
+  "id": "github-abdulboriyx-llm-and-telegram-22034eba",
+  "name": "abdulboriyx/LLM-and-Telegram",
+  "description": "Facilitates seamless interaction with WhatsApp through Claude by bridging personal WhatsApp accounts with an MCP server for message management and AI-enhanced communication.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-abdulboriyx-llm-and-telegram-22034eba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abdulboriyx-llm-and-telegram-22034eba)",
+  "links": {
+    "primary": "https://github.com/abdulboriyx/LLM-and-Telegram",
+    "repo": "https://github.com/abdulboriyx/LLM-and-Telegram",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

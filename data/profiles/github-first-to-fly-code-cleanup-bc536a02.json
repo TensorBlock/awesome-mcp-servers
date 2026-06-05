@@ -1,0 +1,24 @@
+{
+  "id": "github-first-to-fly-code-cleanup-bc536a02",
+  "name": "first-to-fly/code-cleanup",
+  "description": "A Bun TypeScript project offering a Model Context Protocol server for code cleanup using Google's Generative AI, with features like backup, custom prompts, and professional formatting.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-first-to-fly-code-cleanup-bc536a02",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-first-to-fly-code-cleanup-bc536a02)",
+  "links": {
+    "primary": "https://github.com/first-to-fly/code-cleanup",
+    "repo": "https://github.com/first-to-fly/code-cleanup",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

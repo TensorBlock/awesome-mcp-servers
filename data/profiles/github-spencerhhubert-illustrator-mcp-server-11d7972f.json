@@ -1,0 +1,24 @@
+{
+  "id": "github-spencerhhubert-illustrator-mcp-server-11d7972f",
+  "name": "spencerhhubert/illustrator-mcp-server",
+  "description": "Facilitates script execution on Adobe Illustrator via an MCP server, leveraging JavaScript and AppleScript for MacOS compatibility.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-spencerhhubert-illustrator-mcp-server-11d7972f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-spencerhhubert-illustrator-mcp-server-11d7972f)",
+  "links": {
+    "primary": "https://github.com/spencerhhubert/illustrator-mcp-server",
+    "repo": "https://github.com/spencerhhubert/illustrator-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

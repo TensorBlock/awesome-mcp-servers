@@ -1,0 +1,24 @@
+{
+  "id": "github-tusharshahi-mcp-jira-dbb7ab35",
+  "name": "TusharShahi/mcp-jira",
+  "description": "Facilitates seamless integration with Jira for creating tickets and fetching project information through an MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tusharshahi-mcp-jira-dbb7ab35",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tusharshahi-mcp-jira-dbb7ab35)",
+  "links": {
+    "primary": "https://github.com/TusharShahi/mcp-jira",
+    "repo": "https://github.com/TusharShahi/mcp-jira",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

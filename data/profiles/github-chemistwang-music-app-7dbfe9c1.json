@@ -1,0 +1,24 @@
+{
+  "id": "github-chemistwang-music-app-7dbfe9c1",
+  "name": "chemistwang/music-app",
+  "description": "Integrates Figma and GitHub MCP servers to streamline front-end development workflows with React and styled-components.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-chemistwang-music-app-7dbfe9c1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chemistwang-music-app-7dbfe9c1)",
+  "links": {
+    "primary": "https://github.com/chemistwang/music-app",
+    "repo": "https://github.com/chemistwang/music-app",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

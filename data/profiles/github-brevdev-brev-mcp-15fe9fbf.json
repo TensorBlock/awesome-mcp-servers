@@ -1,0 +1,24 @@
+{
+  "id": "github-brevdev-brev-mcp-15fe9fbf",
+  "name": "brevdev/brev-mcp",
+  "description": "A Brev-specific MCP server implementation utilizing the Brev CLI for API access and organization management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-brevdev-brev-mcp-15fe9fbf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-brevdev-brev-mcp-15fe9fbf)",
+  "links": {
+    "primary": "https://github.com/brevdev/brev-mcp",
+    "repo": "https://github.com/brevdev/brev-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

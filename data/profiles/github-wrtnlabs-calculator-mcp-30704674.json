@@ -1,0 +1,24 @@
+{
+  "id": "github-wrtnlabs-calculator-mcp-30704674",
+  "name": "wrtnlabs/calculator-mcp",
+  "description": "Facilitates LLM interactions with a calculator through browser automation capabilities.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-wrtnlabs-calculator-mcp-30704674",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wrtnlabs-calculator-mcp-30704674)",
+  "links": {
+    "primary": "https://github.com/wrtnlabs/calculator-mcp",
+    "repo": "https://github.com/wrtnlabs/calculator-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

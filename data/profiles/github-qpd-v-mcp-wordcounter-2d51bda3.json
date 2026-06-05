@@ -1,0 +1,24 @@
+{
+  "id": "github-qpd-v-mcp-wordcounter-2d51bda3",
+  "name": "qpd-v/mcp-wordcounter",
+  "description": "Facilitates text document analysis by providing word and character counting tools for LLMs.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-qpd-v-mcp-wordcounter-2d51bda3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qpd-v-mcp-wordcounter-2d51bda3)",
+  "links": {
+    "primary": "https://github.com/qpd-v/mcp-wordcounter",
+    "repo": "https://github.com/qpd-v/mcp-wordcounter",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

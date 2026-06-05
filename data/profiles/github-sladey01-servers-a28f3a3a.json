@@ -1,0 +1,24 @@
+{
+  "id": "github-sladey01-servers-a28f3a3a",
+  "name": "Sladey01/servers",
+  "description": "A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for Large Language Models.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-sladey01-servers-a28f3a3a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sladey01-servers-a28f3a3a)",
+  "links": {
+    "primary": "https://github.com/Sladey01/servers",
+    "repo": "https://github.com/Sladey01/servers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
