@@ -1,0 +1,24 @@
+{
+  "id": "github-h4ck4life-mcp-collections-4d6b3f09",
+  "name": "h4ck4life/mcp-collections",
+  "description": "A versatile MCP server offering integrations with YouTube, Reddit, and headless browser operations for fetching web content.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-h4ck4life-mcp-collections-4d6b3f09",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-h4ck4life-mcp-collections-4d6b3f09)",
+  "links": {
+    "primary": "https://github.com/h4ck4life/mcp-collections",
+    "repo": "https://github.com/h4ck4life/mcp-collections",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-uupt-mcp-uupt-mcp-server-1cf03e83",
+  "name": "uupt-mcp/uupt-mcp-server",
+  "description": "Facilitates order creation on the uupt.com platform using the MCP protocol, enhancing integration with delivery services.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-uupt-mcp-uupt-mcp-server-1cf03e83",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-uupt-mcp-uupt-mcp-server-1cf03e83)",
+  "links": {
+    "primary": "https://github.com/uupt-mcp/uupt-mcp-server",
+    "repo": "https://github.com/uupt-mcp/uupt-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

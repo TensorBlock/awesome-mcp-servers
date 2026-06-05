@@ -1,0 +1,24 @@
+{
+  "id": "github-yworks-mcp-typescribe-ffd7121b",
+  "name": "yWorks/mcp-typescribe",
+  "description": "Facilitates LLMs in dynamically accessing and understanding new TypeScript APIs through real-time contextual information.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-yworks-mcp-typescribe-ffd7121b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yworks-mcp-typescribe-ffd7121b)",
+  "links": {
+    "primary": "https://github.com/yWorks/mcp-typescribe",
+    "repo": "https://github.com/yWorks/mcp-typescribe",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

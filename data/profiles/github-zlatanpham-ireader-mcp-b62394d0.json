@@ -1,0 +1,24 @@
+{
+  "id": "github-zlatanpham-ireader-mcp-b62394d0",
+  "name": "zlatanpham/ireader-mcp",
+  "description": "Facilitates content extraction from web pages, YouTube videos, tweets, and PDFs through a Model Context Protocol server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-zlatanpham-ireader-mcp-b62394d0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zlatanpham-ireader-mcp-b62394d0)",
+  "links": {
+    "primary": "https://github.com/zlatanpham/ireader-mcp",
+    "repo": "https://github.com/zlatanpham/ireader-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-kousunh-alertmcp-6f58e5a8",
+  "name": "kousunh/alertmcp",
+  "description": "Facilitates desktop notifications from AI client tools with scheduling capabilities.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-kousunh-alertmcp-6f58e5a8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kousunh-alertmcp-6f58e5a8)",
+  "links": {
+    "primary": "https://github.com/kousunh/alertmcp",
+    "repo": "https://github.com/kousunh/alertmcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

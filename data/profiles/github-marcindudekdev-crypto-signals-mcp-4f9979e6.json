@@ -1,0 +1,24 @@
+{
+  "id": "github-marcindudekdev-crypto-signals-mcp-4f9979e6",
+  "name": "MarcinDudekDev/crypto-signals-mcp",
+  "description": "Real-time crypto volume anomaly detection across 50+ tokens. Detects unusual trading activity, whale movements, and pump signals via live API.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-marcindudekdev-crypto-signals-mcp-4f9979e6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-marcindudekdev-crypto-signals-mcp-4f9979e6)",
+  "links": {
+    "primary": "https://github.com/MarcinDudekDev/crypto-signals-mcp",
+    "repo": "https://github.com/MarcinDudekDev/crypto-signals-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

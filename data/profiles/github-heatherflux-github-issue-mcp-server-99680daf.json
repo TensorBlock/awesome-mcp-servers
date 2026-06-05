@@ -1,0 +1,24 @@
+{
+  "id": "github-heatherflux-github-issue-mcp-server-99680daf",
+  "name": "HeatherFlux/github-issue-mcp-server",
+  "description": "A TypeScript-based MCP server implementing a notes system with tools for note creation and summarization prompts.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-heatherflux-github-issue-mcp-server-99680daf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-heatherflux-github-issue-mcp-server-99680daf)",
+  "links": {
+    "primary": "https://github.com/HeatherFlux/github-issue-mcp-server",
+    "repo": "https://github.com/HeatherFlux/github-issue-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

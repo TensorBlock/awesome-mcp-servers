@@ -1,0 +1,24 @@
+{
+  "id": "github-arabold-docs-mcp-server-fc17bb58",
+  "name": "arabold/docs-mcp-server",
+  "description": "Facilitates efficient scraping, indexing, and searching of third-party library documentation using semantic splitting and vector embeddings.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-arabold-docs-mcp-server-fc17bb58",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arabold-docs-mcp-server-fc17bb58)",
+  "links": {
+    "primary": "https://github.com/arabold/docs-mcp-server",
+    "repo": "https://github.com/arabold/docs-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

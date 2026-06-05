@@ -1,0 +1,24 @@
+{
+  "id": "github-bradrisse-kanban-mcp-b80eccbf",
+  "name": "bradrisse/kanban-mcp",
+  "description": "Facilitates AI-driven management of Planka kanban boards through a specialized middleware for seamless LLM interaction.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-bradrisse-kanban-mcp-b80eccbf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bradrisse-kanban-mcp-b80eccbf)",
+  "links": {
+    "primary": "https://github.com/bradrisse/kanban-mcp",
+    "repo": "https://github.com/bradrisse/kanban-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

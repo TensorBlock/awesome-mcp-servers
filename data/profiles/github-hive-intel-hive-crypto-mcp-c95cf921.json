@@ -1,0 +1,24 @@
+{
+  "id": "github-hive-intel-hive-crypto-mcp-c95cf921",
+  "name": "hive-intel/hive-crypto-mcp",
+  "description": "Institutional-grade crypto market infrastructure for AI — live prices, DeFi, wallets, and token risk through a managed MCP, REST API, or CLI. See [install guide](https://hiveintelligence.xyz/install) or [remote server setup](https://hiveintelligence.xyz/crypto-mcp).",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-hive-intel-hive-crypto-mcp-c95cf921",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hive-intel-hive-crypto-mcp-c95cf921)",
+  "links": {
+    "primary": "https://github.com/hive-intel/hive-crypto-mcp",
+    "repo": "https://github.com/hive-intel/hive-crypto-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

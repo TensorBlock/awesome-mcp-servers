@@ -1,0 +1,24 @@
+{
+  "id": "github-superfaceai-mcp-297f6473",
+  "name": "superfaceai/mcp",
+  "description": "Leverage Superface tools through a Model Context Protocol server for seamless integration and configuration.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-superfaceai-mcp-297f6473",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-superfaceai-mcp-297f6473)",
+  "links": {
+    "primary": "https://github.com/superfaceai/mcp",
+    "repo": "https://github.com/superfaceai/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jongkwang-allthatnode-mcp-cb759f59",
+  "name": "jongkwang/allthatnode-mcp",
+  "description": "Facilitates AI assistants' interaction with blockchain networks via AllThatNode's RPC services.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-jongkwang-allthatnode-mcp-cb759f59",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jongkwang-allthatnode-mcp-cb759f59)",
+  "links": {
+    "primary": "https://github.com/jongkwang/allthatnode-mcp",
+    "repo": "https://github.com/jongkwang/allthatnode-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

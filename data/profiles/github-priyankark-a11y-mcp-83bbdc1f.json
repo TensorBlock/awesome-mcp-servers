@@ -1,0 +1,24 @@
+{
+  "id": "github-priyankark-a11y-mcp-83bbdc1f",
+  "name": "priyankark/a11y-mcp",
+  "description": "Conducts comprehensive accessibility audits on webpages using axe-core, integrating seamlessly with AI assistants to address a11y issues.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-priyankark-a11y-mcp-83bbdc1f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-priyankark-a11y-mcp-83bbdc1f)",
+  "links": {
+    "primary": "https://github.com/priyankark/a11y-mcp",
+    "repo": "https://github.com/priyankark/a11y-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

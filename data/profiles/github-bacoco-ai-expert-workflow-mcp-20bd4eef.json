@@ -1,0 +1,24 @@
+{
+  "id": "github-bacoco-ai-expert-workflow-mcp-20bd4eef",
+  "name": "bacoco/ai-expert-workflow-mcp",
+  "description": "Facilitates AI-driven project planning and task management by integrating with Task Master and leveraging OpenRouter API for diverse AI model support.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-bacoco-ai-expert-workflow-mcp-20bd4eef",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bacoco-ai-expert-workflow-mcp-20bd4eef)",
+  "links": {
+    "primary": "https://github.com/bacoco/ai-expert-workflow-mcp",
+    "repo": "https://github.com/bacoco/ai-expert-workflow-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

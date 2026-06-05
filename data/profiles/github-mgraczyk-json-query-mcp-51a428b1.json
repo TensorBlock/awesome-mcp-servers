@@ -1,0 +1,24 @@
+{
+  "id": "github-mgraczyk-json-query-mcp-51a428b1",
+  "name": "mgraczyk/json-query-mcp",
+  "description": "Empower AI agents to efficiently query and extract data from large JSON files using JSONPath expressions.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-mgraczyk-json-query-mcp-51a428b1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mgraczyk-json-query-mcp-51a428b1)",
+  "links": {
+    "primary": "https://github.com/mgraczyk/json-query-mcp",
+    "repo": "https://github.com/mgraczyk/json-query-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

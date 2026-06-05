@@ -1,0 +1,24 @@
+{
+  "id": "github-alexarevalo9-ticktick-mcp-server-81df29c3",
+  "name": "alexarevalo9/ticktick-mcp-server",
+  "description": "Facilitates task and project management through the TickTick API with comprehensive OAuth authentication and error handling.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-alexarevalo9-ticktick-mcp-server-81df29c3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexarevalo9-ticktick-mcp-server-81df29c3)",
+  "links": {
+    "primary": "https://github.com/alexarevalo9/ticktick-mcp-server",
+    "repo": "https://github.com/alexarevalo9/ticktick-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

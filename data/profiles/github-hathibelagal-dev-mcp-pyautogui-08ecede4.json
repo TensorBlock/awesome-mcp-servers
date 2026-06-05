@@ -1,0 +1,24 @@
+{
+  "id": "github-hathibelagal-dev-mcp-pyautogui-08ecede4",
+  "name": "hathibelagal-dev/mcp-pyautogui",
+  "description": "Facilitates desktop automation by enabling AI systems to control mouse, keyboard, and screen interactions using PyAutoGUI.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-hathibelagal-dev-mcp-pyautogui-08ecede4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hathibelagal-dev-mcp-pyautogui-08ecede4)",
+  "links": {
+    "primary": "https://github.com/hathibelagal-dev/mcp-pyautogui",
+    "repo": "https://github.com/hathibelagal-dev/mcp-pyautogui",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-viewyonder-claudemcp-b0d2f5ad",
+  "name": "viewyonder/claudemcp",
+  "description": "Explore and learn Claude MCP through Python code and documentation, focusing on building a CLI host app with conversational interfaces.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-viewyonder-claudemcp-b0d2f5ad",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-viewyonder-claudemcp-b0d2f5ad)",
+  "links": {
+    "primary": "https://github.com/viewyonder/claudemcp",
+    "repo": "https://github.com/viewyonder/claudemcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

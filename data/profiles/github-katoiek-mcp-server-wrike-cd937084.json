@@ -1,0 +1,24 @@
+{
+  "id": "github-katoiek-mcp-server-wrike-cd937084",
+  "name": "katoiek/mcp-server-wrike",
+  "description": "Facilitates interaction with the Wrike API through MCP clients, enabling seamless task and project management.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-katoiek-mcp-server-wrike-cd937084",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-katoiek-mcp-server-wrike-cd937084)",
+  "links": {
+    "primary": "https://github.com/katoiek/mcp-server-wrike",
+    "repo": "https://github.com/katoiek/mcp-server-wrike",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

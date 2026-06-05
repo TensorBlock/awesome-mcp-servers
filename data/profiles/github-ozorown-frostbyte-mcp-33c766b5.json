@@ -1,0 +1,24 @@
+{
+  "id": "github-ozorown-frostbyte-mcp-33c766b5",
+  "name": "OzorOwn/frostbyte-mcp",
+  "description": "Developer API toolkit with 13 tools — IP geolocation, crypto prices, DNS/WHOIS lookup, website screenshots, web scraping, code execution (20+ languages), web search, URL shortener, PDF generation, pastebin, data conversion, and domain availability. One API key for 40+ services.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-ozorown-frostbyte-mcp-33c766b5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ozorown-frostbyte-mcp-33c766b5)",
+  "links": {
+    "primary": "https://github.com/OzorOwn/frostbyte-mcp",
+    "repo": "https://github.com/OzorOwn/frostbyte-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 13
+  }
+}

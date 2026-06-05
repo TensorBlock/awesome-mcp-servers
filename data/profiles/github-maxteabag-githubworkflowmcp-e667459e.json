@@ -1,0 +1,24 @@
+{
+  "id": "github-maxteabag-githubworkflowmcp-e667459e",
+  "name": "Maxteabag/GithubWorkflowMCP",
+  "description": "A utility for diagnosing and fixing GitHub Actions workflow failures using the GitHub API, integrated with AI assistants via MCP.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-maxteabag-githubworkflowmcp-e667459e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maxteabag-githubworkflowmcp-e667459e)",
+  "links": {
+    "primary": "https://github.com/Maxteabag/GithubWorkflowMCP",
+    "repo": "https://github.com/Maxteabag/GithubWorkflowMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

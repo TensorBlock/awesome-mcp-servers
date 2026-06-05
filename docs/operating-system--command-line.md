@@ -2,6 +2,7 @@
 
 Servers providing access to the host operating system's command line/shell, executing OS commands, or managing system information.
 
+- [us-all/android-mcp-server](https://github.com/us-all/android-mcp-server) - Android MCP server with 76 ADB-based tools across device management, apps, UI automation, logcat, emulator, files, system, and debug. 7 workflow Prompts (crash investigation, ANR, battery drain).
 - [anurag-dhamala/os-info-mcp-server](https://github.com/anurag-dhamala/os-info-mcp-server): Provides real-time operating system information through an MCP server interface.
 - [magicuidesign/cli](https://github.com/magicuidesign/cli): Facilitates the installation and configuration of Magic UI components through a command-line interface.
 - [classfang/ssh-mcp-server](https://github.com/classfang/ssh-mcp-server): Facilitates secure remote SSH command execution via the MCP protocol, enabling AI assistants to interact with servers without exposing SSH credentials.
@@ -106,3 +107,6 @@ Servers providing access to the host operating system's command line/shell, exec
 - [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli): A command-line interface for executing LLM prompts and interacting with MCP-compatible servers.
 - [mlaugharn/cli-mcp](https://github.com/mlaugharn/cli-mcp): Facilitates interaction with command-line interfaces through a model context protocol, enabling command execution and resource management.
 
+
+- [aybelatchane/mcp-server-terminal](https://github.com/aybelatchane/mcp-server-terminal): MCP server enabling AI agents to interact with terminal applications (TUI/CLI) through structured Terminal State Tree representation. Think Playwright for terminals.
+- [mnardit/clipboard-mcp](https://github.com/mnardit/clipboard-mcp): Cross-platform system clipboard access (read, write, watch for changes) for AI assistants. Single Rust binary, zero runtime deps. Supports Windows, macOS, Linux (X11 + Wayland).

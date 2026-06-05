@@ -1,0 +1,24 @@
+{
+  "id": "github-dschau-coingecko-mcp-demo-e623022f",
+  "name": "DSchau/coingecko-mcp-demo",
+  "description": "A Postman Agent Generator-based MCP server that automates API tool exposure for MCP-compatible clients, with Docker support for production deployment.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-dschau-coingecko-mcp-demo-e623022f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dschau-coingecko-mcp-demo-e623022f)",
+  "links": {
+    "primary": "https://github.com/DSchau/coingecko-mcp-demo",
+    "repo": "https://github.com/DSchau/coingecko-mcp-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

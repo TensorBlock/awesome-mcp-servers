@@ -1,0 +1,24 @@
+{
+  "id": "github-amasetti-mcp-sse-custom-server-7fcaa9d7",
+  "name": "AMasetti/MCP-SSE-Custom-Server",
+  "description": "A custom MCP server utilizing FastAPI and Server-Sent Events for real-time communication, alongside a standalone stdin/stdout implementation for integration with applications like Claude Desktop.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-amasetti-mcp-sse-custom-server-7fcaa9d7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amasetti-mcp-sse-custom-server-7fcaa9d7)",
+  "links": {
+    "primary": "https://github.com/AMasetti/MCP-SSE-Custom-Server",
+    "repo": "https://github.com/AMasetti/MCP-SSE-Custom-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

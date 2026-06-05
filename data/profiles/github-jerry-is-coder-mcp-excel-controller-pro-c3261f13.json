@@ -1,0 +1,24 @@
+{
+  "id": "github-jerry-is-coder-mcp-excel-controller-pro-c3261f13",
+  "name": "Jerry-is-coder/mcp-excel-controller-pro",
+  "description": "Facilitates advanced Excel file manipulation, including reading, writing, and sheet management, within a Node.js environment.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-jerry-is-coder-mcp-excel-controller-pro-c3261f13",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jerry-is-coder-mcp-excel-controller-pro-c3261f13)",
+  "links": {
+    "primary": "https://github.com/Jerry-is-coder/mcp-excel-controller-pro",
+    "repo": "https://github.com/Jerry-is-coder/mcp-excel-controller-pro",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

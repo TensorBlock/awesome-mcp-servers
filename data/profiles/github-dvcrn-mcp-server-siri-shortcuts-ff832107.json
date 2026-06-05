@@ -1,0 +1,24 @@
+{
+  "id": "github-dvcrn-mcp-server-siri-shortcuts-ff832107",
+  "name": "dvcrn/mcp-server-siri-shortcuts",
+  "description": "Facilitates seamless interaction with Siri Shortcuts via MCP, enabling LLMs to list, open, and execute shortcuts on macOS.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-dvcrn-mcp-server-siri-shortcuts-ff832107",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dvcrn-mcp-server-siri-shortcuts-ff832107)",
+  "links": {
+    "primary": "https://github.com/dvcrn/mcp-server-siri-shortcuts",
+    "repo": "https://github.com/dvcrn/mcp-server-siri-shortcuts",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
