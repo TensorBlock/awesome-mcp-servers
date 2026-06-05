@@ -1,0 +1,24 @@
+{
+  "id": "github-mgds01-docusign-test-js-sdk-public-f887f2be",
+  "name": "MGDS01/docusign-test-js-sdk-public",
+  "description": "A TypeScript SDK that serves as an installable MCP server, exposing Docusign API methods for AI applications.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-mgds01-docusign-test-js-sdk-public-f887f2be",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mgds01-docusign-test-js-sdk-public-f887f2be)",
+  "links": {
+    "primary": "https://github.com/MGDS01/docusign-test-js-sdk-public",
+    "repo": "https://github.com/MGDS01/docusign-test-js-sdk-public",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

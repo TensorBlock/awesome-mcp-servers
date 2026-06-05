@@ -1,0 +1,24 @@
+{
+  "id": "github-huangzelincute-github-mcp-server-98577ec2",
+  "name": "HuangZeLinCute/github-mcp-server",
+  "description": "Facilitates GitHub search operations through an MCP server interface.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-huangzelincute-github-mcp-server-98577ec2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-huangzelincute-github-mcp-server-98577ec2)",
+  "links": {
+    "primary": "https://github.com/HuangZeLinCute/github-mcp-server",
+    "repo": "https://github.com/HuangZeLinCute/github-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-kazuph-mcp-devin-5822c0e4",
+  "name": "kazuph/mcp-devin",
+  "description": "A TypeScript-based MCP server that integrates Devin AI with Slack, enabling seamless task management and communication between Devin sessions and Slack threads.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-kazuph-mcp-devin-5822c0e4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kazuph-mcp-devin-5822c0e4)",
+  "links": {
+    "primary": "https://github.com/kazuph/mcp-devin",
+    "repo": "https://github.com/kazuph/mcp-devin",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-ergut-mcp-bigquery-server-1d30c64a",
+  "name": "ergut/mcp-bigquery-server",
+  "description": "Facilitates secure, read-only interactions between Large Language Models and BigQuery datasets, enabling natural language queries and data analysis.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-ergut-mcp-bigquery-server-1d30c64a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ergut-mcp-bigquery-server-1d30c64a)",
+  "links": {
+    "primary": "https://github.com/ergut/mcp-bigquery-server",
+    "repo": "https://github.com/ergut/mcp-bigquery-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

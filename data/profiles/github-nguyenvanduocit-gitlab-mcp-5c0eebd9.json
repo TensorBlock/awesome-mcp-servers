@@ -1,0 +1,24 @@
+{
+  "id": "github-nguyenvanduocit-gitlab-mcp-5c0eebd9",
+  "name": "nguyenvanduocit/gitlab-mcp",
+  "description": "Facilitates interaction with GitLab API for project management and analysis through MCP.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-nguyenvanduocit-gitlab-mcp-5c0eebd9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nguyenvanduocit-gitlab-mcp-5c0eebd9)",
+  "links": {
+    "primary": "https://github.com/nguyenvanduocit/gitlab-mcp",
+    "repo": "https://github.com/nguyenvanduocit/gitlab-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-kukapay-crypto-sentiment-mcp-bf6ccf10",
+  "name": "kukapay/crypto-sentiment-mcp",
+  "description": "Delivers real-time cryptocurrency sentiment analysis to AI agents using social media and news data.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-crypto-sentiment-mcp-bf6ccf10",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-crypto-sentiment-mcp-bf6ccf10)",
+  "links": {
+    "primary": "https://github.com/kukapay/crypto-sentiment-mcp",
+    "repo": "https://github.com/kukapay/crypto-sentiment-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

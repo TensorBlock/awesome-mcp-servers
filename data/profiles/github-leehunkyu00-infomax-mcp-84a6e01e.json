@@ -1,0 +1,24 @@
+{
+  "id": "github-leehunkyu00-infomax-mcp-84a6e01e",
+  "name": "leehunkyu00/infomax-mcp",
+  "description": "Infomax API MCP facilitates seamless integration with the Infomax API using a Node.js server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-leehunkyu00-infomax-mcp-84a6e01e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-leehunkyu00-infomax-mcp-84a6e01e)",
+  "links": {
+    "primary": "https://github.com/leehunkyu00/infomax-mcp",
+    "repo": "https://github.com/leehunkyu00/infomax-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

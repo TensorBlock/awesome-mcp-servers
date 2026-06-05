@@ -1,0 +1,24 @@
+{
+  "id": "github-spences10-mcp-sse-9ce950f6",
+  "name": "spences10/mcp-sse",
+  "description": "Facilitates real-time communication for MCP tools using Server-Sent Events, enhancing tool deployment and integration with Coolify.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-spences10-mcp-sse-9ce950f6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-spences10-mcp-sse-9ce950f6)",
+  "links": {
+    "primary": "https://github.com/spences10/mcp-sse",
+    "repo": "https://github.com/spences10/mcp-sse",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

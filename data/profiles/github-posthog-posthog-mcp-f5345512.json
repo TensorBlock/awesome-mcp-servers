@@ -1,0 +1,24 @@
+{
+  "id": "github-posthog-posthog-mcp-f5345512",
+  "name": "PostHog/posthog-mcp",
+  "description": "Facilitates interaction with PostHog by enabling project management and annotation creation through Claude Desktop.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-posthog-posthog-mcp-f5345512",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-posthog-posthog-mcp-f5345512)",
+  "links": {
+    "primary": "https://github.com/PostHog/posthog-mcp",
+    "repo": "https://github.com/PostHog/posthog-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

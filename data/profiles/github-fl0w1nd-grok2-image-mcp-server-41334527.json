@@ -1,0 +1,24 @@
+{
+  "id": "github-fl0w1nd-grok2-image-mcp-server-41334527",
+  "name": "fl0w1nd/grok2-image-mcp-server",
+  "description": "Facilitates image generation using the Grok-2 model via the MCP protocol for chat assistants.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-fl0w1nd-grok2-image-mcp-server-41334527",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fl0w1nd-grok2-image-mcp-server-41334527)",
+  "links": {
+    "primary": "https://github.com/fl0w1nd/grok2-image-mcp-server",
+    "repo": "https://github.com/fl0w1nd/grok2-image-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

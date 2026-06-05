@@ -1,0 +1,24 @@
+{
+  "id": "github-fatwang2-search1api-mcp-2b90a6b3",
+  "name": "fatwang2/search1api-mcp",
+  "description": "Facilitates search and crawl operations using Search1API, offering seamless integration with various MCP clients.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-fatwang2-search1api-mcp-2b90a6b3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fatwang2-search1api-mcp-2b90a6b3)",
+  "links": {
+    "primary": "https://github.com/fatwang2/search1api-mcp",
+    "repo": "https://github.com/fatwang2/search1api-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

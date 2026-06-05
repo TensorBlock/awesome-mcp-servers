@@ -1,0 +1,24 @@
+{
+  "id": "github-s2005-mcp-github-server-677860a2",
+  "name": "s2005/mcp-github-server",
+  "description": "Facilitates GitHub API interactions with advanced repository management, search, and file operations.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-s2005-mcp-github-server-677860a2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-s2005-mcp-github-server-677860a2)",
+  "links": {
+    "primary": "https://github.com/s2005/mcp-github-server",
+    "repo": "https://github.com/s2005/mcp-github-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

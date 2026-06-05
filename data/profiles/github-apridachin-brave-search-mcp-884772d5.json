@@ -1,0 +1,24 @@
+{
+  "id": "github-apridachin-brave-search-mcp-884772d5",
+  "name": "apridachin/brave-search-mcp",
+  "description": "Facilitates web searches using the Brave Search API through an MCP server.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-apridachin-brave-search-mcp-884772d5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-apridachin-brave-search-mcp-884772d5)",
+  "links": {
+    "primary": "https://github.com/apridachin/brave-search-mcp",
+    "repo": "https://github.com/apridachin/brave-search-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

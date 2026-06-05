@@ -1,0 +1,24 @@
+{
+  "id": "github-nearai-near-mcp-231151cc",
+  "name": "nearai/near-mcp",
+  "description": "Facilitates secure interaction with NEAR blockchain accounts and functionalities for AI models using the Model Context Protocol.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-nearai-near-mcp-231151cc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nearai-near-mcp-231151cc)",
+  "links": {
+    "primary": "https://github.com/nearai/near-mcp",
+    "repo": "https://github.com/nearai/near-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

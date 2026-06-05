@@ -1,0 +1,24 @@
+{
+  "id": "github-gnuhpc-rtc-mcp-server-bea6d8e5",
+  "name": "gnuhpc/rtc-mcp-server",
+  "description": "Facilitates the management of Alibaba Cloud Realtime Compute for Apache Flink resources through a standardized interface.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-gnuhpc-rtc-mcp-server-bea6d8e5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gnuhpc-rtc-mcp-server-bea6d8e5)",
+  "links": {
+    "primary": "https://github.com/gnuhpc/rtc-mcp-server",
+    "repo": "https://github.com/gnuhpc/rtc-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

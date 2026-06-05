@@ -1,0 +1,24 @@
+{
+  "id": "github-firstorderai-authenticator-mcp-2b6f6f0b",
+  "name": "firstorderai/authenticator_mcp",
+  "description": "Facilitates AI agents in securely accessing 2FA codes and passwords for automated login processes via the Authenticator App.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-firstorderai-authenticator-mcp-2b6f6f0b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-firstorderai-authenticator-mcp-2b6f6f0b)",
+  "links": {
+    "primary": "https://github.com/firstorderai/authenticator_mcp",
+    "repo": "https://github.com/firstorderai/authenticator_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

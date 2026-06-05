@@ -1,0 +1,24 @@
+{
+  "id": "github-dkpoulsen-flutter-tools-a5aeb83e",
+  "name": "dkpoulsen/flutter-tools",
+  "description": "Facilitates interaction with the Flutter SDK by providing tools for diagnostics and automated fixes of Dart/Flutter files.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-dkpoulsen-flutter-tools-a5aeb83e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dkpoulsen-flutter-tools-a5aeb83e)",
+  "links": {
+    "primary": "https://github.com/dkpoulsen/flutter-tools",
+    "repo": "https://github.com/dkpoulsen/flutter-tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

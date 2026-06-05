@@ -1,0 +1,24 @@
+{
+  "id": "github-ccq1-awsome-kali-mcpservers-f240412d",
+  "name": "ccq1/awsome_kali_MCPServers",
+  "description": "Empowers AI agents in Kali Linux environments with advanced reverse engineering and security testing capabilities through a suite of MCP servers.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-ccq1-awsome-kali-mcpservers-f240412d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ccq1-awsome-kali-mcpservers-f240412d)",
+  "links": {
+    "primary": "https://github.com/ccq1/awsome_kali_MCPServers",
+    "repo": "https://github.com/ccq1/awsome_kali_MCPServers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-blackpilledsoftware-prog-migas-mcp-cc999957",
+  "name": "blackpilledsoftware-prog/migas-mcp",
+  "description": "Query local meeting transcripts from Migas, a macOS meeting copilot with on-device transcription and realtime speaker labels. Search across meetings, get full transcripts, and find what anyone said. Read-only, local SQLite.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-blackpilledsoftware-prog-migas-mcp-cc999957",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-blackpilledsoftware-prog-migas-mcp-cc999957)",
+  "links": {
+    "primary": "https://github.com/blackpilledsoftware-prog/migas-mcp",
+    "repo": "https://github.com/blackpilledsoftware-prog/migas-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

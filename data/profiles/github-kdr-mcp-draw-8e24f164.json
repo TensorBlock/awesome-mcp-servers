@@ -1,0 +1,24 @@
+{
+  "id": "github-kdr-mcp-draw-8e24f164",
+  "name": "kdr/mcp-draw",
+  "description": "Facilitates AI-driven image generation from text prompts via a standardized interface.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-kdr-mcp-draw-8e24f164",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kdr-mcp-draw-8e24f164)",
+  "links": {
+    "primary": "https://github.com/kdr/mcp-draw",
+    "repo": "https://github.com/kdr/mcp-draw",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

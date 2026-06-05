@@ -1,0 +1,24 @@
+{
+  "id": "github-bochaai-bocha-search-mcp-e8df43a3",
+  "name": "BochaAI/bocha-search-mcp",
+  "description": "Bocha Search MCP Server empowers AI applications with high-quality knowledge from billions of web pages and diverse content sources, enhancing search capabilities across multiple domains.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-bochaai-bocha-search-mcp-e8df43a3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bochaai-bocha-search-mcp-e8df43a3)",
+  "links": {
+    "primary": "https://github.com/BochaAI/bocha-search-mcp",
+    "repo": "https://github.com/BochaAI/bocha-search-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

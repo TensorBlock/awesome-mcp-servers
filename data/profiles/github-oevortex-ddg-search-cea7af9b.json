@@ -1,0 +1,24 @@
+{
+  "id": "github-oevortex-ddg-search-cea7af9b",
+  "name": "OEvortex/ddg_search",
+  "description": "A privacy-focused MCP server that leverages DuckDuckGo for efficient web search and URL content extraction.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-oevortex-ddg-search-cea7af9b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-oevortex-ddg-search-cea7af9b)",
+  "links": {
+    "primary": "https://github.com/OEvortex/ddg_search",
+    "repo": "https://github.com/OEvortex/ddg_search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

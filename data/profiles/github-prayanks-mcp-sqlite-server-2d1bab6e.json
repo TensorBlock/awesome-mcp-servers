@@ -1,0 +1,24 @@
+{
+  "id": "github-prayanks-mcp-sqlite-server-2d1bab6e",
+  "name": "prayanks/mcp-sqlite-server",
+  "description": "Facilitates access to SQLite databases through MCP clients, enabling read-only SQL queries and data analysis with language models.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-prayanks-mcp-sqlite-server-2d1bab6e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-prayanks-mcp-sqlite-server-2d1bab6e)",
+  "links": {
+    "primary": "https://github.com/prayanks/mcp-sqlite-server",
+    "repo": "https://github.com/prayanks/mcp-sqlite-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-wadewegner-mcp-servers-f6a56961",
+  "name": "wadewegner/mcp-servers",
+  "description": "A versatile collection of MCP servers for accessing weather data and managing DigitalOcean deployments, complete with templates for creating new servers.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-wadewegner-mcp-servers-f6a56961",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wadewegner-mcp-servers-f6a56961)",
+  "links": {
+    "primary": "https://github.com/wadewegner/mcp-servers",
+    "repo": "https://github.com/wadewegner/mcp-servers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

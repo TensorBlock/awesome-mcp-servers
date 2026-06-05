@@ -1,0 +1,24 @@
+{
+  "id": "github-agenttorch-mcp-server-e1bbd4dd",
+  "name": "AgentTorch/mcp-server",
+  "description": "AgentTorch MCP server facilitates local and Claude Desktop integration for running simulations via Docker.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-agenttorch-mcp-server-e1bbd4dd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-agenttorch-mcp-server-e1bbd4dd)",
+  "links": {
+    "primary": "https://github.com/AgentTorch/mcp-server",
+    "repo": "https://github.com/AgentTorch/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

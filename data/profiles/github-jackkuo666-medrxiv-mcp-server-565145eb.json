@@ -1,0 +1,24 @@
+{
+  "id": "github-jackkuo666-medrxiv-mcp-server-565145eb",
+  "name": "JackKuo666/medRxiv-MCP-Server",
+  "description": "Facilitates AI-driven searches and access to medRxiv preprints, enhancing research capabilities in health sciences.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-jackkuo666-medrxiv-mcp-server-565145eb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jackkuo666-medrxiv-mcp-server-565145eb)",
+  "links": {
+    "primary": "https://github.com/JackKuo666/medRxiv-MCP-Server",
+    "repo": "https://github.com/JackKuo666/medRxiv-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
