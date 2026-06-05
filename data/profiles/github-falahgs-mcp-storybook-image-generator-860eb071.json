@@ -1,0 +1,24 @@
+{
+  "id": "github-falahgs-mcp-storybook-image-generator-860eb071",
+  "name": "falahgs/MCP-Storybook-Image-Generator",
+  "description": "Generates storybook images and matching children's stories using Google's Gemini AI, offering multiple art styles and instant previews.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-falahgs-mcp-storybook-image-generator-860eb071",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-falahgs-mcp-storybook-image-generator-860eb071)",
+  "links": {
+    "primary": "https://github.com/falahgs/MCP-Storybook-Image-Generator",
+    "repo": "https://github.com/falahgs/MCP-Storybook-Image-Generator",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

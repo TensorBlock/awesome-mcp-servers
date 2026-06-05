@@ -1,0 +1,24 @@
+{
+  "id": "github-ssaitho-design-system-mcp-sandbox-858b6ac7",
+  "name": "ssaitho/design-system-mcp-sandbox",
+  "description": "Facilitates retrieval of component information from a design system in a sandbox environment.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-ssaitho-design-system-mcp-sandbox-858b6ac7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ssaitho-design-system-mcp-sandbox-858b6ac7)",
+  "links": {
+    "primary": "https://github.com/ssaitho/design-system-mcp-sandbox",
+    "repo": "https://github.com/ssaitho/design-system-mcp-sandbox",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

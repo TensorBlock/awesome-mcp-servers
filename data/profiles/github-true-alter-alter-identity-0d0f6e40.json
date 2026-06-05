@@ -1,0 +1,24 @@
+{
+  "id": "github-true-alter-alter-identity-0d0f6e40",
+  "name": "true-alter/alter-identity",
+  "description": "Identity infrastructure for the AI economy — 33-trait psychometric engine delivering verified human identity via MCP. Tools for trait vectors, belonging probability, attunement depth, and privacy-gated inference. Streamable-HTTP remote server at `https://mcp.truealter.com/api/v1/mcp`. Free tier: 16 tools, 10 req/min.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-true-alter-alter-identity-0d0f6e40",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-true-alter-alter-identity-0d0f6e40)",
+  "links": {
+    "primary": "https://github.com/true-alter/alter-identity",
+    "repo": "https://github.com/true-alter/alter-identity",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.truealter.com/api/v1/mcp"
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 16
+  }
+}

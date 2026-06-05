@@ -1,0 +1,24 @@
+{
+  "id": "github-flowuenne-mcp-nf-core-ac946b9c",
+  "name": "FloWuenne/mcp-nf-core",
+  "description": "Facilitates the use of nf-core tools for pipeline and module management through MCP server implementations in CLI and Python.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-flowuenne-mcp-nf-core-ac946b9c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-flowuenne-mcp-nf-core-ac946b9c)",
+  "links": {
+    "primary": "https://github.com/FloWuenne/mcp-nf-core",
+    "repo": "https://github.com/FloWuenne/mcp-nf-core",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-distantorigin-mcp-telnet-971c7c85",
+  "name": "distantorigin/mcp-telnet",
+  "description": "Facilitates interaction between LLMs and telnet-based services, enabling seamless communication with legacy systems and text-based interfaces.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-distantorigin-mcp-telnet-971c7c85",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-distantorigin-mcp-telnet-971c7c85)",
+  "links": {
+    "primary": "https://github.com/distantorigin/mcp-telnet",
+    "repo": "https://github.com/distantorigin/mcp-telnet",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

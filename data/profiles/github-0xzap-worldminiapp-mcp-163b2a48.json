@@ -1,0 +1,24 @@
+{
+  "id": "github-0xzap-worldminiapp-mcp-163b2a48",
+  "name": "0xZap/WorldMiniApp_MCP",
+  "description": "Facilitates querying World Mini Apps documentation and coding assistance via integration with Cursor.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-0xzap-worldminiapp-mcp-163b2a48",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-0xzap-worldminiapp-mcp-163b2a48)",
+  "links": {
+    "primary": "https://github.com/0xZap/WorldMiniApp_MCP",
+    "repo": "https://github.com/0xZap/WorldMiniApp_MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

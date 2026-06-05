@@ -1,0 +1,24 @@
+{
+  "id": "github-fahad-rashid1100-discord-mcp-mod-2173592b",
+  "name": "Fahad-Rashid1100/Discord-MCP-Mod",
+  "description": "Facilitates LLM interactions with Discord channels, enabling message sending and reading through Discord's API.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-fahad-rashid1100-discord-mcp-mod-2173592b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fahad-rashid1100-discord-mcp-mod-2173592b)",
+  "links": {
+    "primary": "https://github.com/Fahad-Rashid1100/Discord-MCP-Mod",
+    "repo": "https://github.com/Fahad-Rashid1100/Discord-MCP-Mod",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

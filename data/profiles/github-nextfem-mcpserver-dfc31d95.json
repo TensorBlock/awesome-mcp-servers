@@ -1,0 +1,24 @@
+{
+  "id": "github-nextfem-mcpserver-dfc31d95",
+  "name": "NextFEM/MCPserver",
+  "description": "Facilitates AI chat integration by connecting NextFEM Designer with Claude AI through a local MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-nextfem-mcpserver-dfc31d95",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nextfem-mcpserver-dfc31d95)",
+  "links": {
+    "primary": "https://github.com/NextFEM/MCPserver",
+    "repo": "https://github.com/NextFEM/MCPserver",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

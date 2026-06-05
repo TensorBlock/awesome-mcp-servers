@@ -1,0 +1,24 @@
+{
+  "id": "github-bit-pal-mpc-server-0867542a",
+  "name": "bit-pal/MPC-server",
+  "description": "Facilitates file searching through an MCP server integrated with VSCode, utilizing Python for command execution.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-bit-pal-mpc-server-0867542a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bit-pal-mpc-server-0867542a)",
+  "links": {
+    "primary": "https://github.com/bit-pal/MPC-server",
+    "repo": "https://github.com/bit-pal/MPC-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

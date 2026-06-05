@@ -1,0 +1,24 @@
+{
+  "id": "github-mjwegenka-gitlab-snippet-mcp-8de54047",
+  "name": "mjwegenka/gitlab-snippet-mcp",
+  "description": "Facilitates interaction with GitLab Snippets through MCP, supporting both personal and project snippets with comprehensive operations.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-mjwegenka-gitlab-snippet-mcp-8de54047",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mjwegenka-gitlab-snippet-mcp-8de54047)",
+  "links": {
+    "primary": "https://github.com/mjwegenka/gitlab-snippet-mcp",
+    "repo": "https://github.com/mjwegenka/gitlab-snippet-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

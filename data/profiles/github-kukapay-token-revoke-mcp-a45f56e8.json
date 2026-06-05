@@ -1,0 +1,24 @@
+{
+  "id": "github-kukapay-token-revoke-mcp-a45f56e8",
+  "name": "kukapay/token-revoke-mcp",
+  "description": "Enhances security by managing and revoking ERC-20 token allowances across multiple blockchains.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-token-revoke-mcp-a45f56e8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-token-revoke-mcp-a45f56e8)",
+  "links": {
+    "primary": "https://github.com/kukapay/token-revoke-mcp",
+    "repo": "https://github.com/kukapay/token-revoke-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

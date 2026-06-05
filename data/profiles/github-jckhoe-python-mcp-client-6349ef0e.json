@@ -1,0 +1,24 @@
+{
+  "id": "github-jckhoe-python-mcp-client-6349ef0e",
+  "name": "JckHoe/python-mcp-client",
+  "description": "A command-line interface tool for interacting with various AI models through MCP servers.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-jckhoe-python-mcp-client-6349ef0e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jckhoe-python-mcp-client-6349ef0e)",
+  "links": {
+    "primary": "https://github.com/JckHoe/python-mcp-client",
+    "repo": "https://github.com/JckHoe/python-mcp-client",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

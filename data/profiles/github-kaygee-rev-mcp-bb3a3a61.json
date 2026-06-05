@@ -1,0 +1,24 @@
+{
+  "id": "github-kaygee-rev-mcp-bb3a3a61",
+  "name": "kaygee/rev-mcp",
+  "description": "Fetches transcripts from Rev.com using their API, integrating seamlessly with MCP clients like Claude for Desktop.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-kaygee-rev-mcp-bb3a3a61",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kaygee-rev-mcp-bb3a3a61)",
+  "links": {
+    "primary": "https://github.com/kaygee/rev-mcp",
+    "repo": "https://github.com/kaygee/rev-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

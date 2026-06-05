@@ -1,0 +1,24 @@
+{
+  "id": "github-geun-oh-s3-mcp-server-f39f6b8b",
+  "name": "Geun-Oh/s3-mcp-server",
+  "description": "Facilitates seamless integration with Amazon S3 for efficient large file handling through MCP.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-geun-oh-s3-mcp-server-f39f6b8b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-geun-oh-s3-mcp-server-f39f6b8b)",
+  "links": {
+    "primary": "https://github.com/Geun-Oh/s3-mcp-server",
+    "repo": "https://github.com/Geun-Oh/s3-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-skyworkai-mureka-mcp-998ec2a7",
+  "name": "SkyworkAI/Mureka-mcp",
+  "description": "Facilitates the creation of lyrics, songs, and background music through an MCP server, enabling seamless integration with platforms like Claude Desktop and OpenAI Agents.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-skyworkai-mureka-mcp-998ec2a7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-skyworkai-mureka-mcp-998ec2a7)",
+  "links": {
+    "primary": "https://github.com/SkyworkAI/Mureka-mcp",
+    "repo": "https://github.com/SkyworkAI/Mureka-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

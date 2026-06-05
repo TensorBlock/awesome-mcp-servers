@@ -1,0 +1,24 @@
+{
+  "id": "github-render-oss-render-mcp-server-ab13299e",
+  "name": "render-oss/render-mcp-server",
+  "description": "Official Render MCP server for managing web services, static sites, cron jobs, Postgres databases, and Key Value stores, with deployment tracking, log querying, and performance metrics. Hosted at `https://mcp.render.com/mcp`.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-render-oss-render-mcp-server-ab13299e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-render-oss-render-mcp-server-ab13299e)",
+  "links": {
+    "primary": "https://github.com/render-oss/render-mcp-server",
+    "repo": "https://github.com/render-oss/render-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.render.com/mcp"
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

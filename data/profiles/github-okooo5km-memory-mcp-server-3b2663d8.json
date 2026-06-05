@@ -1,0 +1,24 @@
+{
+  "id": "github-okooo5km-memory-mcp-server-3b2663d8",
+  "name": "okooo5km/memory-mcp-server",
+  "description": "A Swift-based server that enables LLMs to manage and persist knowledge graphs, facilitating memory retention across conversations.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-okooo5km-memory-mcp-server-3b2663d8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-okooo5km-memory-mcp-server-3b2663d8)",
+  "links": {
+    "primary": "https://github.com/okooo5km/memory-mcp-server",
+    "repo": "https://github.com/okooo5km/memory-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

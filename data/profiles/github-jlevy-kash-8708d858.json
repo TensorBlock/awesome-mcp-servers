@@ -1,0 +1,24 @@
+{
+  "id": "github-jlevy-kash-8708d858",
+  "name": "jlevy/kash",
+  "description": "Kash is an AI-native command-line shell that transforms Python functions into MCP tools, enabling seamless integration with other platforms like Anthropic Desktop and Cursor.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-jlevy-kash-8708d858",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jlevy-kash-8708d858)",
+  "links": {
+    "primary": "https://github.com/jlevy/kash",
+    "repo": "https://github.com/jlevy/kash",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

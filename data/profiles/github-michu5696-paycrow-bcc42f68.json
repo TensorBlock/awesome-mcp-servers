@@ -1,0 +1,24 @@
+{
+  "id": "github-michu5696-paycrow-bcc42f68",
+  "name": "michu5696/paycrow",
+  "description": "Smart escrow with dispute resolution for AI agent payments on Base. 9 MCP tools — trust-informed escrow (create/release/dispute/status), composite trust scoring from 4 on-chain sources, x402-protected API calls. Only escrow on Base with real dispute resolution. USDC via x402. Install: `npx paycrow`",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-michu5696-paycrow-bcc42f68",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-michu5696-paycrow-bcc42f68)",
+  "links": {
+    "primary": "https://github.com/michu5696/paycrow",
+    "repo": "https://github.com/michu5696/paycrow",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": 9
+  }
+}
