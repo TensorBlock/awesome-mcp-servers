@@ -1,0 +1,24 @@
+{
+  "id": "github-nicolassaint-mathsia-api-412dd890",
+  "name": "Nicolassaint/mathsIA_API",
+  "description": "MathsIA API integrates FastAPI-MCP to enable AI models to manage a flashcard system for math learning, offering features for user management and progress tracking.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-nicolassaint-mathsia-api-412dd890",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nicolassaint-mathsia-api-412dd890)",
+  "links": {
+    "primary": "https://github.com/Nicolassaint/mathsIA_API",
+    "repo": "https://github.com/Nicolassaint/mathsIA_API",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

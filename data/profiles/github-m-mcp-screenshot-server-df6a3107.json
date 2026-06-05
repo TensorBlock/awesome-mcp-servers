@@ -1,0 +1,24 @@
+{
+  "id": "github-m-mcp-screenshot-server-df6a3107",
+  "name": "m-mcp/screenshot-server",
+  "description": "A Python-based MCP server offering screenshot capture and image processing capabilities via the MCP protocol.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-m-mcp-screenshot-server-df6a3107",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-m-mcp-screenshot-server-df6a3107)",
+  "links": {
+    "primary": "https://github.com/m-mcp/screenshot-server",
+    "repo": "https://github.com/m-mcp/screenshot-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

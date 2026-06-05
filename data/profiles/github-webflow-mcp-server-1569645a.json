@@ -1,0 +1,24 @@
+{
+  "id": "github-webflow-mcp-server-1569645a",
+  "name": "webflow/mcp-server",
+  "description": "Facilitates AI client interactions with Webflow APIs using the Model Context Protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-webflow-mcp-server-1569645a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-webflow-mcp-server-1569645a)",
+  "links": {
+    "primary": "https://github.com/webflow/mcp-server",
+    "repo": "https://github.com/webflow/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

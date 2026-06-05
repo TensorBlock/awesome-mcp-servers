@@ -1,0 +1,24 @@
+{
+  "id": "github-a2xdeveloper-tagesschau-mcp-server-d392aa21",
+  "name": "a2xdeveloper/tagesschau-mcp-server",
+  "description": "Access the latest news articles and details from tagesschau.de through this MCP server.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-a2xdeveloper-tagesschau-mcp-server-d392aa21",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-a2xdeveloper-tagesschau-mcp-server-d392aa21)",
+  "links": {
+    "primary": "https://github.com/a2xdeveloper/tagesschau-mcp-server",
+    "repo": "https://github.com/a2xdeveloper/tagesschau-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

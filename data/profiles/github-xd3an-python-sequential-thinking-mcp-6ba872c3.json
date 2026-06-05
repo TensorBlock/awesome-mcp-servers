@@ -1,0 +1,24 @@
+{
+  "id": "github-xd3an-python-sequential-thinking-mcp-6ba872c3",
+  "name": "XD3an/python-sequential-thinking-mcp",
+  "description": "Facilitates a detailed, step-by-step thinking process for problem-solving and analysis using the official MCP Python SDK.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-xd3an-python-sequential-thinking-mcp-6ba872c3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xd3an-python-sequential-thinking-mcp-6ba872c3)",
+  "links": {
+    "primary": "https://github.com/XD3an/python-sequential-thinking-mcp",
+    "repo": "https://github.com/XD3an/python-sequential-thinking-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

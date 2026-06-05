@@ -1,0 +1,24 @@
+{
+  "id": "github-jj3ny-reclaim-mcp-server-deaa8429",
+  "name": "jj3ny/reclaim-mcp-server",
+  "description": "A TypeScript-based MCP server enabling seamless interaction with Reclaim.ai's API for task management and scheduling.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-jj3ny-reclaim-mcp-server-deaa8429",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jj3ny-reclaim-mcp-server-deaa8429)",
+  "links": {
+    "primary": "https://github.com/jj3ny/reclaim-mcp-server",
+    "repo": "https://github.com/jj3ny/reclaim-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

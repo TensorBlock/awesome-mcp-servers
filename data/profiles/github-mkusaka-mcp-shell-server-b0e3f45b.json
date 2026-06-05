@@ -1,0 +1,24 @@
+{
+  "id": "github-mkusaka-mcp-shell-server-b0e3f45b",
+  "name": "mkusaka/mcp-shell-server",
+  "description": "Facilitates AI agents in executing shell commands across various environments with robust error handling and logging.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-mkusaka-mcp-shell-server-b0e3f45b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mkusaka-mcp-shell-server-b0e3f45b)",
+  "links": {
+    "primary": "https://github.com/mkusaka/mcp-shell-server",
+    "repo": "https://github.com/mkusaka/mcp-shell-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

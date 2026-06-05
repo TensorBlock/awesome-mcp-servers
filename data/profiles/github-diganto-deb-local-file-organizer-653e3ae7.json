@@ -1,0 +1,24 @@
+{
+  "id": "github-diganto-deb-local-file-organizer-653e3ae7",
+  "name": "diganto-deb/local_file_organizer",
+  "description": "A Python-based system that organizes and manages files across directories using the Model Context Protocol framework.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-diganto-deb-local-file-organizer-653e3ae7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-diganto-deb-local-file-organizer-653e3ae7)",
+  "links": {
+    "primary": "https://github.com/diganto-deb/local_file_organizer",
+    "repo": "https://github.com/diganto-deb/local_file_organizer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

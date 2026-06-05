@@ -1,0 +1,24 @@
+{
+  "id": "github-yuna0x0-anilist-mcp-729013dd",
+  "name": "yuna0x0/anilist-mcp",
+  "description": "Interface with the AniList API to access and interact with anime, manga, and user data through a Model Context Protocol server.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-yuna0x0-anilist-mcp-729013dd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yuna0x0-anilist-mcp-729013dd)",
+  "links": {
+    "primary": "https://github.com/yuna0x0/anilist-mcp",
+    "repo": "https://github.com/yuna0x0/anilist-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

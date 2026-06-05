@@ -1,0 +1,24 @@
+{
+  "id": "github-geropl-git-mcp-go-9f3fb116",
+  "name": "geropl/git-mcp-go",
+  "description": "Facilitates Git repository interaction and automation through a Model Context Protocol server, leveraging Go for efficient operations.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-geropl-git-mcp-go-9f3fb116",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-geropl-git-mcp-go-9f3fb116)",
+  "links": {
+    "primary": "https://github.com/geropl/git-mcp-go",
+    "repo": "https://github.com/geropl/git-mcp-go",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

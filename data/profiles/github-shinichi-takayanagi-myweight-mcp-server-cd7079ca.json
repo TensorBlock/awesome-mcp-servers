@@ -1,0 +1,24 @@
+{
+  "id": "github-shinichi-takayanagi-myweight-mcp-server-cd7079ca",
+  "name": "shinichi-takayanagi/myweight-mcp-server",
+  "description": "Connects to the Health Planet API to securely retrieve and analyze weight data using any MCP-compatible client.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-shinichi-takayanagi-myweight-mcp-server-cd7079ca",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shinichi-takayanagi-myweight-mcp-server-cd7079ca)",
+  "links": {
+    "primary": "https://github.com/shinichi-takayanagi/myweight-mcp-server",
+    "repo": "https://github.com/shinichi-takayanagi/myweight-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

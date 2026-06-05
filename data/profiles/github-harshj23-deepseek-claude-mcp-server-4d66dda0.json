@@ -1,0 +1,24 @@
+{
+  "id": "github-harshj23-deepseek-claude-mcp-server-4d66dda0",
+  "name": "HarshJ23/deepseek-claude-MCP-server",
+  "description": "Integrates DeepSeek R1's reasoning engine with Claude for enhanced multi-step reasoning tasks.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-harshj23-deepseek-claude-mcp-server-4d66dda0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-harshj23-deepseek-claude-mcp-server-4d66dda0)",
+  "links": {
+    "primary": "https://github.com/HarshJ23/deepseek-claude-MCP-server",
+    "repo": "https://github.com/HarshJ23/deepseek-claude-MCP-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

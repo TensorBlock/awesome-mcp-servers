@@ -1,0 +1,24 @@
+{
+  "id": "github-askme765cs-open-docs-mcp-7a51935b",
+  "name": "askme765cs/open-docs-mcp",
+  "description": "An open-source MCP server for managing and searching documentation with full-text search and document indexing capabilities.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-askme765cs-open-docs-mcp-7a51935b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-askme765cs-open-docs-mcp-7a51935b)",
+  "links": {
+    "primary": "https://github.com/askme765cs/open-docs-mcp",
+    "repo": "https://github.com/askme765cs/open-docs-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-kinshukk-book-fetch-mcp-0d6eb139",
+  "name": "kinshukk/book-fetch-mcp",
+  "description": "Access and interact with any published book using MCP, featuring caching, pagination, and integration with Claude for enhanced querying.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-kinshukk-book-fetch-mcp-0d6eb139",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kinshukk-book-fetch-mcp-0d6eb139)",
+  "links": {
+    "primary": "https://github.com/kinshukk/book-fetch-mcp",
+    "repo": "https://github.com/kinshukk/book-fetch-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

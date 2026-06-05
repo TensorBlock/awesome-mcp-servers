@@ -1,0 +1,24 @@
+{
+  "id": "github-amornpan-py-mcp-gcalendar-ab784361",
+  "name": "amornpan/py-mcp-gcalendar",
+  "description": "Facilitates seamless integration with Google Calendar API through asynchronous operations and a standardized interface.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-amornpan-py-mcp-gcalendar-ab784361",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amornpan-py-mcp-gcalendar-ab784361)",
+  "links": {
+    "primary": "https://github.com/amornpan/py-mcp-gcalendar",
+    "repo": "https://github.com/amornpan/py-mcp-gcalendar",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

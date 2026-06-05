@@ -1,0 +1,24 @@
+{
+  "id": "github-vistaarjuneja-harness-mcp-f763100a",
+  "name": "vistaarjuneja/harness-mcp",
+  "description": "Facilitates the management of connectors within the Harness platform using a Model Context Protocol server.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-vistaarjuneja-harness-mcp-f763100a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vistaarjuneja-harness-mcp-f763100a)",
+  "links": {
+    "primary": "https://github.com/vistaarjuneja/harness-mcp",
+    "repo": "https://github.com/vistaarjuneja/harness-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

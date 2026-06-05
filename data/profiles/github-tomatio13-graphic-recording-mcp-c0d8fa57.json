@@ -1,0 +1,24 @@
+{
+  "id": "github-tomatio13-graphic-recording-mcp-c0d8fa57",
+  "name": "Tomatio13/graphic-recording-mcp",
+  "description": "Transforms Markdown text into graphic recording-style HTML using a specialized prompt.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-tomatio13-graphic-recording-mcp-c0d8fa57",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tomatio13-graphic-recording-mcp-c0d8fa57)",
+  "links": {
+    "primary": "https://github.com/Tomatio13/graphic-recording-mcp",
+    "repo": "https://github.com/Tomatio13/graphic-recording-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
