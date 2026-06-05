@@ -1,0 +1,24 @@
+{
+  "id": "github-walkojas-boop-linkpulse-4c17d6d0",
+  "name": "walkojas-boop/linkpulse",
+  "description": "URL reality check for AI agents. Returns status, SHA-256 content hash, classification, readability score, title, and wayback-machine fallback when dead. Cached 10 min, $0.001 per call. Live at https://linkpulse-neon.vercel.app/.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-walkojas-boop-linkpulse-4c17d6d0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-walkojas-boop-linkpulse-4c17d6d0)",
+  "links": {
+    "primary": "https://github.com/walkojas-boop/linkpulse",
+    "repo": "https://github.com/walkojas-boop/linkpulse",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

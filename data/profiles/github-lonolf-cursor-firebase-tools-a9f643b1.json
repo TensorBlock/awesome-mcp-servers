@@ -1,0 +1,24 @@
+{
+  "id": "github-lonolf-cursor-firebase-tools-a9f643b1",
+  "name": "Lonolf/cursor-firebase-tools",
+  "description": "Facilitates direct interaction with Firebase through Cursor, enabling document management and user creation via MCP commands.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-lonolf-cursor-firebase-tools-a9f643b1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lonolf-cursor-firebase-tools-a9f643b1)",
+  "links": {
+    "primary": "https://github.com/Lonolf/cursor-firebase-tools",
+    "repo": "https://github.com/Lonolf/cursor-firebase-tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

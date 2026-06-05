@@ -1,0 +1,24 @@
+{
+  "id": "github-abhijeetka-mcp-k8s-server-ab1427f2",
+  "name": "abhijeetka/mcp-k8s-server",
+  "description": "Facilitates Kubernetes cluster management through natural language interactions with LLMs, leveraging the Model Context Protocol for seamless integration.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-abhijeetka-mcp-k8s-server-ab1427f2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abhijeetka-mcp-k8s-server-ab1427f2)",
+  "links": {
+    "primary": "https://github.com/abhijeetka/mcp-k8s-server",
+    "repo": "https://github.com/abhijeetka/mcp-k8s-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

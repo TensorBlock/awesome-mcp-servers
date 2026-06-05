@@ -1,0 +1,24 @@
+{
+  "id": "github-sososha-yaml4task-mcp-a6241621",
+  "name": "sososha/yaml4task_mcp",
+  "description": "Facilitates task management using YAML and MCP protocol, enabling AI-driven task proposals, status updates, and Gantt chart generation.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-sososha-yaml4task-mcp-a6241621",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sososha-yaml4task-mcp-a6241621)",
+  "links": {
+    "primary": "https://github.com/sososha/yaml4task_mcp",
+    "repo": "https://github.com/sososha/yaml4task_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

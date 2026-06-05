@@ -1,0 +1,24 @@
+{
+  "id": "github-sneharao-wheather-mcp-server-b8c740ef",
+  "name": "sneharao/wheather-mcp-server",
+  "description": "Connects with Claude Desktop to provide weather alerts and information using the MCP protocol.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-sneharao-wheather-mcp-server-b8c740ef",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sneharao-wheather-mcp-server-b8c740ef)",
+  "links": {
+    "primary": "https://github.com/sneharao/wheather-mcp-server",
+    "repo": "https://github.com/sneharao/wheather-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

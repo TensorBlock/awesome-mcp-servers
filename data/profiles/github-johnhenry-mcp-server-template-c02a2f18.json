@@ -1,0 +1,24 @@
+{
+  "id": "github-johnhenry-mcp-server-template-c02a2f18",
+  "name": "johnhenry/mcp-server-template",
+  "description": "A template for creating new MCP servers with sandboxed JavaScript execution and debugging capabilities.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-johnhenry-mcp-server-template-c02a2f18",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-johnhenry-mcp-server-template-c02a2f18)",
+  "links": {
+    "primary": "https://github.com/johnhenry/mcp-server-template",
+    "repo": "https://github.com/johnhenry/mcp-server-template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

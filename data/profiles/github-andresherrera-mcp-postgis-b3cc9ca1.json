@@ -1,0 +1,24 @@
+{
+  "id": "github-andresherrera-mcp-postgis-b3cc9ca1",
+  "name": "AndresHerrera/mcp_postgis",
+  "description": "Facilitates SQL queries on a PostgreSQL database with PostGIS, leveraging geographic data from Univalle for spatial analysis.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-andresherrera-mcp-postgis-b3cc9ca1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-andresherrera-mcp-postgis-b3cc9ca1)",
+  "links": {
+    "primary": "https://github.com/AndresHerrera/mcp_postgis",
+    "repo": "https://github.com/AndresHerrera/mcp_postgis",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

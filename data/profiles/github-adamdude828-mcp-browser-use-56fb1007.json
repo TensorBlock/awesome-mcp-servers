@@ -1,0 +1,24 @@
+{
+  "id": "github-adamdude828-mcp-browser-use-56fb1007",
+  "name": "adamdude828/mcp-browser-use",
+  "description": "Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-adamdude828-mcp-browser-use-56fb1007",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adamdude828-mcp-browser-use-56fb1007)",
+  "links": {
+    "primary": "https://github.com/adamdude828/mcp-browser-use",
+    "repo": "https://github.com/adamdude828/mcp-browser-use",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

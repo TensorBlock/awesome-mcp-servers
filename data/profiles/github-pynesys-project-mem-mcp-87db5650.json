@@ -1,0 +1,24 @@
+{
+  "id": "github-pynesys-project-mem-mcp-87db5650",
+  "name": "PyneSys/project-mem-mcp",
+  "description": "Facilitates AI agents in maintaining persistent project memory through a memory file system, enabling seamless information retrieval and updates during interactions.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-pynesys-project-mem-mcp-87db5650",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pynesys-project-mem-mcp-87db5650)",
+  "links": {
+    "primary": "https://github.com/PyneSys/project-mem-mcp",
+    "repo": "https://github.com/PyneSys/project-mem-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

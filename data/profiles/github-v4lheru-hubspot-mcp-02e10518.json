@@ -1,0 +1,24 @@
+{
+  "id": "github-v4lheru-hubspot-mcp-02e10518",
+  "name": "v4lheru/hubspot-mcp",
+  "description": "Facilitates AI model interactions with Hubspot CRM for managing contacts, companies, deals, and engagements.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-v4lheru-hubspot-mcp-02e10518",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-v4lheru-hubspot-mcp-02e10518)",
+  "links": {
+    "primary": "https://github.com/v4lheru/hubspot-mcp",
+    "repo": "https://github.com/v4lheru/hubspot-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

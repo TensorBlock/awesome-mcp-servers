@@ -1,0 +1,24 @@
+{
+  "id": "github-timandes-mcp-gateway-76a42cc9",
+  "name": "Timandes/mcp-gateway",
+  "description": "Facilitates the translation of MCP tool calls into HTTP requests, enabling seamless integration with existing APIs.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-timandes-mcp-gateway-76a42cc9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-timandes-mcp-gateway-76a42cc9)",
+  "links": {
+    "primary": "https://github.com/Timandes/mcp-gateway",
+    "repo": "https://github.com/Timandes/mcp-gateway",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

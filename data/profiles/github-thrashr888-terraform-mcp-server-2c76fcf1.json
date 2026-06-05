@@ -1,0 +1,24 @@
+{
+  "id": "github-thrashr888-terraform-mcp-server-2c76fcf1",
+  "name": "thrashr888/terraform-mcp-server",
+  "description": "Facilitates AI-driven interactions with the Terraform Registry API, enabling detailed queries on providers, resources, and modules.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-thrashr888-terraform-mcp-server-2c76fcf1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thrashr888-terraform-mcp-server-2c76fcf1)",
+  "links": {
+    "primary": "https://github.com/thrashr888/terraform-mcp-server",
+    "repo": "https://github.com/thrashr888/terraform-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

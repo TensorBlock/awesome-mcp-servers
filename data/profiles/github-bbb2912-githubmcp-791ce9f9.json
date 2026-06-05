@@ -1,0 +1,24 @@
+{
+  "id": "github-bbb2912-githubmcp-791ce9f9",
+  "name": "BBB2912/GithubMCP",
+  "description": "Facilitates seamless integration of GitHub data with AI models using the Model Context Protocol.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-bbb2912-githubmcp-791ce9f9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bbb2912-githubmcp-791ce9f9)",
+  "links": {
+    "primary": "https://github.com/BBB2912/GithubMCP",
+    "repo": "https://github.com/BBB2912/GithubMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

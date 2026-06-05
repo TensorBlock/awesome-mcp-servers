@@ -1,0 +1,24 @@
+{
+  "id": "github-sergiolm17-genius-mcp-server-371f26fa",
+  "name": "Sergiolm17/genius-mcp-server",
+  "description": "Facilitates interaction with the Genius API for searching lyrics, artists, and song details via MCP client applications.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-sergiolm17-genius-mcp-server-371f26fa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sergiolm17-genius-mcp-server-371f26fa)",
+  "links": {
+    "primary": "https://github.com/Sergiolm17/genius-mcp-server",
+    "repo": "https://github.com/Sergiolm17/genius-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

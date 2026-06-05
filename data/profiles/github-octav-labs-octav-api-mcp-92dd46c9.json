@@ -1,0 +1,24 @@
+{
+  "id": "github-octav-labs-octav-api-mcp-92dd46c9",
+  "name": "Octav-Labs/octav-api-mcp",
+  "description": "MCP server for cryptocurrency portfolio tracking, transaction history, and DeFi analytics across 20+ blockchains.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-octav-labs-octav-api-mcp-92dd46c9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-octav-labs-octav-api-mcp-92dd46c9)",
+  "links": {
+    "primary": "https://github.com/Octav-Labs/octav-api-mcp",
+    "repo": "https://github.com/Octav-Labs/octav-api-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

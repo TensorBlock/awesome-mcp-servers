@@ -1,0 +1,24 @@
+{
+  "id": "github-aryan1718-mcp-sever-google-sheets-96635035",
+  "name": "Aryan1718/mcp-sever-google-sheets",
+  "description": "Facilitates seamless interaction with Google Sheets for data manipulation through an MCP server.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-aryan1718-mcp-sever-google-sheets-96635035",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aryan1718-mcp-sever-google-sheets-96635035)",
+  "links": {
+    "primary": "https://github.com/Aryan1718/mcp-sever-google-sheets",
+    "repo": "https://github.com/Aryan1718/mcp-sever-google-sheets",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
