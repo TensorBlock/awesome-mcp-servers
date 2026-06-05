@@ -1,0 +1,24 @@
+{
+  "id": "github-cartographai-mcp-server-codegraph-0943142a",
+  "name": "CartographAI/mcp-server-codegraph",
+  "description": "Facilitates the generation and querying of graph representations in codebases, supporting multiple programming languages.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-cartographai-mcp-server-codegraph-0943142a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cartographai-mcp-server-codegraph-0943142a)",
+  "links": {
+    "primary": "https://github.com/CartographAI/mcp-server-codegraph",
+    "repo": "https://github.com/CartographAI/mcp-server-codegraph",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

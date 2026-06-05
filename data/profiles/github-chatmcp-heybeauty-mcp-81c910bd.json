@@ -1,0 +1,24 @@
+{
+  "id": "github-chatmcp-heybeauty-mcp-81c910bd",
+  "name": "chatmcp/heybeauty-mcp",
+  "description": "Facilitates virtual try-on experiences by leveraging HeyBeauty API to manage and execute try-on tasks with clothing resources.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-chatmcp-heybeauty-mcp-81c910bd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chatmcp-heybeauty-mcp-81c910bd)",
+  "links": {
+    "primary": "https://github.com/chatmcp/heybeauty-mcp",
+    "repo": "https://github.com/chatmcp/heybeauty-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

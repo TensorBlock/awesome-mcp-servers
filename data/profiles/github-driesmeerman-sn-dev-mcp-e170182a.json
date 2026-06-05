@@ -1,0 +1,24 @@
+{
+  "id": "github-driesmeerman-sn-dev-mcp-e170182a",
+  "name": "DriesMeerman/sn-dev-mcp",
+  "description": "Facilitates interaction between MCP-enabled development tools and ServiceNow instances by querying the ServiceNow REST API for environment details.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-driesmeerman-sn-dev-mcp-e170182a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-driesmeerman-sn-dev-mcp-e170182a)",
+  "links": {
+    "primary": "https://github.com/DriesMeerman/sn-dev-mcp",
+    "repo": "https://github.com/DriesMeerman/sn-dev-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

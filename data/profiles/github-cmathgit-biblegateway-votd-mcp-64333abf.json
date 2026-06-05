@@ -1,0 +1,24 @@
+{
+  "id": "github-cmathgit-biblegateway-votd-mcp-64333abf",
+  "name": "cmathgit/biblegateway-votd-mcp",
+  "description": "Access the BibleGateway Verse of the Day in multiple languages and versions without requiring an API key.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-cmathgit-biblegateway-votd-mcp-64333abf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cmathgit-biblegateway-votd-mcp-64333abf)",
+  "links": {
+    "primary": "https://github.com/cmathgit/biblegateway-votd-mcp",
+    "repo": "https://github.com/cmathgit/biblegateway-votd-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

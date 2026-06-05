@@ -1,0 +1,24 @@
+{
+  "id": "github-leoncuhk-mcp-yahoo-finance-13c51b97",
+  "name": "leoncuhk/mcp-yahoo-finance",
+  "description": "Facilitates interaction with Yahoo Finance for retrieving financial data and generating visual analytics.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-leoncuhk-mcp-yahoo-finance-13c51b97",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-leoncuhk-mcp-yahoo-finance-13c51b97)",
+  "links": {
+    "primary": "https://github.com/leoncuhk/mcp-yahoo-finance",
+    "repo": "https://github.com/leoncuhk/mcp-yahoo-finance",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

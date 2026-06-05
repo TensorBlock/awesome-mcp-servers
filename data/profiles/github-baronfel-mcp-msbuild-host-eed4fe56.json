@@ -1,0 +1,24 @@
+{
+  "id": "github-baronfel-mcp-msbuild-host-eed4fe56",
+  "name": "baronfel/mcp-msbuild-host",
+  "description": "Facilitates the analysis of MSBuild projects by integrating with any MCP server.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-baronfel-mcp-msbuild-host-eed4fe56",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-baronfel-mcp-msbuild-host-eed4fe56)",
+  "links": {
+    "primary": "https://github.com/baronfel/mcp-msbuild-host",
+    "repo": "https://github.com/baronfel/mcp-msbuild-host",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

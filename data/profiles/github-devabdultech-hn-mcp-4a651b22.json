@@ -1,0 +1,24 @@
+{
+  "id": "github-devabdultech-hn-mcp-4a651b22",
+  "name": "devabdultech/hn-mcp",
+  "description": "Enhance your LLM clients with real-time access to Hacker News stories, comments, and user profiles through this powerful MCP server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-devabdultech-hn-mcp-4a651b22",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-devabdultech-hn-mcp-4a651b22)",
+  "links": {
+    "primary": "https://github.com/devabdultech/hn-mcp",
+    "repo": "https://github.com/devabdultech/hn-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

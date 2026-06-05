@@ -1,0 +1,24 @@
+{
+  "id": "github-tsgcfo-wcgw-windows-7949e84a",
+  "name": "TSGCFO/wcgw-windows",
+  "description": "A cross-platform MCP server enabling autonomous shell and coding agents for Claude and ChatGPT, facilitating local code execution and project management.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-tsgcfo-wcgw-windows-7949e84a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tsgcfo-wcgw-windows-7949e84a)",
+  "links": {
+    "primary": "https://github.com/TSGCFO/wcgw-windows",
+    "repo": "https://github.com/TSGCFO/wcgw-windows",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

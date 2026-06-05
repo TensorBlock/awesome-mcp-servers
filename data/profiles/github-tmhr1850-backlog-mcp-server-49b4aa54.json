@@ -1,0 +1,24 @@
+{
+  "id": "github-tmhr1850-backlog-mcp-server-49b4aa54",
+  "name": "tmhr1850/backlog-mcp-server",
+  "description": "Facilitates seamless interaction with the Backlog API for project management, issue tracking, and file operations.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-tmhr1850-backlog-mcp-server-49b4aa54",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tmhr1850-backlog-mcp-server-49b4aa54)",
+  "links": {
+    "primary": "https://github.com/tmhr1850/backlog-mcp-server",
+    "repo": "https://github.com/tmhr1850/backlog-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

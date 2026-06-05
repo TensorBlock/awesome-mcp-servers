@@ -1,0 +1,24 @@
+{
+  "id": "github-nathan-l256-nodit-mcp-server-poc-b2a92b32",
+  "name": "Nathan-L256/nodit-mcp-server-poc",
+  "description": "A proof-of-concept MCP server utilizing the Nodit API for seamless integration and testing.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-nathan-l256-nodit-mcp-server-poc-b2a92b32",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nathan-l256-nodit-mcp-server-poc-b2a92b32)",
+  "links": {
+    "primary": "https://github.com/Nathan-L256/nodit-mcp-server-poc",
+    "repo": "https://github.com/Nathan-L256/nodit-mcp-server-poc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-wewei-skill-set-cb3eacf7",
+  "name": "wewei/skill-set",
+  "description": "A Model Context Protocol server built with mcp-framework, enabling the creation and integration of custom tools for enhanced functionality.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-wewei-skill-set-cb3eacf7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wewei-skill-set-cb3eacf7)",
+  "links": {
+    "primary": "https://github.com/wewei/skill-set",
+    "repo": "https://github.com/wewei/skill-set",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

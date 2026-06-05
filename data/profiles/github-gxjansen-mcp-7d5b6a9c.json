@@ -1,0 +1,24 @@
+{
+  "id": "github-gxjansen-mcp-7d5b6a9c",
+  "name": "gxjansen/MCP",
+  "description": "Enhance Cline's functionality with specialized MCP servers for Astro documentation access and file comparison.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-gxjansen-mcp-7d5b6a9c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gxjansen-mcp-7d5b6a9c)",
+  "links": {
+    "primary": "https://github.com/gxjansen/MCP",
+    "repo": "https://github.com/gxjansen/MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-othentic-labs-avs-mcp-example-f12f4716",
+  "name": "Othentic-Labs/avs-mcp-example",
+  "description": "Facilitates AI-driven task execution and verification on the AVS network with real-time blockchain data access.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-othentic-labs-avs-mcp-example-f12f4716",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-othentic-labs-avs-mcp-example-f12f4716)",
+  "links": {
+    "primary": "https://github.com/Othentic-Labs/avs-mcp-example",
+    "repo": "https://github.com/Othentic-Labs/avs-mcp-example",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

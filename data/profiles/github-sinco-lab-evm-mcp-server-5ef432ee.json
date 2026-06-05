@@ -1,0 +1,24 @@
+{
+  "id": "github-sinco-lab-evm-mcp-server-5ef432ee",
+  "name": "sinco-lab/evm-mcp-server",
+  "description": "Facilitates secure interactions between AI agents and EVM-compatible blockchains using the Model Context Protocol.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-sinco-lab-evm-mcp-server-5ef432ee",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sinco-lab-evm-mcp-server-5ef432ee)",
+  "links": {
+    "primary": "https://github.com/sinco-lab/evm-mcp-server",
+    "repo": "https://github.com/sinco-lab/evm-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

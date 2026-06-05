@@ -1,0 +1,24 @@
+{
+  "id": "github-dannyatvodooth-ai-browse-dfff122a",
+  "name": "DannyAtVodooTH/ai_browse",
+  "description": "Empower Claude Desktop with web browsing and interaction capabilities through a lightweight MCP server.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-dannyatvodooth-ai-browse-dfff122a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dannyatvodooth-ai-browse-dfff122a)",
+  "links": {
+    "primary": "https://github.com/DannyAtVodooTH/ai_browse",
+    "repo": "https://github.com/DannyAtVodooTH/ai_browse",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

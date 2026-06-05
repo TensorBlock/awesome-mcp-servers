@@ -1,0 +1,24 @@
+{
+  "id": "github-jetbrains-mcp-jetbrains-c4af57e0",
+  "name": "JetBrains/mcp-jetbrains",
+  "description": "Facilitates communication between JetBrains IDEs and external clients through a proxy server.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-jetbrains-mcp-jetbrains-c4af57e0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jetbrains-mcp-jetbrains-c4af57e0)",
+  "links": {
+    "primary": "https://github.com/JetBrains/mcp-jetbrains",
+    "repo": "https://github.com/JetBrains/mcp-jetbrains",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

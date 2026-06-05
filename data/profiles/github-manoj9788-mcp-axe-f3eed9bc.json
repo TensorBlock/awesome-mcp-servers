@@ -1,0 +1,24 @@
+{
+  "id": "github-manoj9788-mcp-axe-f3eed9bc",
+  "name": "manoj9788/mcp-axe",
+  "description": "Automated accessibility scanning plugin using axe-core, compatible with MCP, supporting Selenium and Playwright engines.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-manoj9788-mcp-axe-f3eed9bc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-manoj9788-mcp-axe-f3eed9bc)",
+  "links": {
+    "primary": "https://github.com/manoj9788/mcp-axe",
+    "repo": "https://github.com/manoj9788/mcp-axe",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

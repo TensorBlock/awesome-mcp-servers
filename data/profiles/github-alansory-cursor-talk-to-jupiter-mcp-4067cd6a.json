@@ -1,0 +1,24 @@
+{
+  "id": "github-alansory-cursor-talk-to-jupiter-mcp-4067cd6a",
+  "name": "alansory/cursor-talk-to-jupiter-mcp",
+  "description": "Facilitates DeFi operations on Solana by integrating Jupiter Exchange with Cursor IDE for seamless token swaps, price quotes, and profit/loss calculations.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-alansory-cursor-talk-to-jupiter-mcp-4067cd6a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alansory-cursor-talk-to-jupiter-mcp-4067cd6a)",
+  "links": {
+    "primary": "https://github.com/alansory/cursor-talk-to-jupiter-mcp",
+    "repo": "https://github.com/alansory/cursor-talk-to-jupiter-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

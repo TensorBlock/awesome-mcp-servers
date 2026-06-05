@@ -1,0 +1,24 @@
+{
+  "id": "github-sdairs-claudekeep-dc683070",
+  "name": "sdairs/claudekeep",
+  "description": "ClaudeKeep enables saving and sharing AI conversations from Claude Desktop using an MCP server.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-sdairs-claudekeep-dc683070",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sdairs-claudekeep-dc683070)",
+  "links": {
+    "primary": "https://github.com/sdairs/claudekeep",
+    "repo": "https://github.com/sdairs/claudekeep",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

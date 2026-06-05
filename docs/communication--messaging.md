@@ -2,10 +2,11 @@
 
 Servers for interacting with email, chat platforms, SMS, or notification services.
 
+- [nylas/cli](https://github.com/nylas/cli): MCP server for email, calendar, and contacts. 16 tools across Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP via a single auth flow. JSON output, install with `nylas mcp install`, works with Claude Code, Cursor, Codex, and Windsurf. Docs at https://cli.nylas.com.
 - [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin): WhatsApp channel plugin for Claude Code. Connect WhatsApp as a native channel to your Claude Code session — send/receive messages, voice transcription, access control, and remote tool approval. Uses Baileys (no API keys needed).
 - [jamesacklin/tlon-mcp-server](https://github.com/jamesacklin/tlon-mcp-server): Facilitates interaction with Tlon agents through direct messaging, contact management, and natural language support.
 - [varunwahi-plivo/plivo-mcp-server](https://github.com/varunwahi-plivo/plivo-mcp-server): Facilitates SMS messaging through Plivo's API using the Message Control Protocol.
-- [virtualsms-io/virtualsms-mcp](https://github.com/virtualsms-io/virtualsms-mcp): Enables AI agents to get virtual phone numbers and receive SMS/OTP codes for automated phone verification workflows via VirtualSMS API.
+- [virtualsms-io/mcp-server](https://github.com/virtualsms-io/mcp-server): Enables AI agents to get virtual phone numbers and receive SMS/OTP codes for automated phone verification workflows via VirtualSMS API.
 - [deuslirio/mcp-server-whatsapp-message](https://github.com/deuslirio/mcp-server-whatsapp-message): Facilitates sending WhatsApp messages through the Meta WhatsApp Business API using MCP.
 - [theo-nash/twitter-mcp-server](https://github.com/theo-nash/twitter-mcp-server): Facilitates AI-driven interactions with Twitter, enabling operations like tweeting, searching, and user management without direct API access.
 - [sudhakarmlal/ERAV3-GMAILMCP](https://github.com/sudhakarmlal/ERAV3-GMAILMCP): Facilitates seamless email management through the Gmail API, allowing users to send, read, and manage emails via an MCP client.
@@ -18,6 +19,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [atorber/wechaty-mcp-sse](https://github.com/atorber/wechaty-mcp-sse): Facilitates seamless integration between Wechaty and large language models like Claude, enabling message sending and contact querying via a TypeScript-based MCP server.
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp): Facilitates AI agents in securely accessing 2FA codes and passwords for automated login processes via the Authenticator App.
 - [imprvhub/mcp-status-observer](https://github.com/imprvhub/mcp-status-observer): Facilitates real-time monitoring and querying of operational statuses for major digital platforms within Claude Desktop.
+- [serhiizghama/viber-mcp](https://github.com/serhiizghama/viber-mcp): MCP server for the Viber Bot REST API. Send text/picture/video/file/location/contact messages, broadcast to up to 300 recipients, manage webhooks, and read account/user state — 13 tools, TypeScript, published to npm as `@serhii.zghama/viber-mcp`.
 - [Escorza07/whatsapp-mcp](https://github.com/Escorza07/whatsapp-mcp): Facilitates seamless interaction with WhatsApp through Claude by leveraging a Go bridge and Python MCP server for message management and contact search.
 - [karateboss/mcp_email_reader](https://github.com/karateboss/mcp_email_reader): Connects to an email server to read emails and manage attachments using MCP tools.
 - [tituslhy/sturdy-octo-fortnight](https://github.com/tituslhy/sturdy-octo-fortnight): Facilitates seamless integration with Atlassian's Confluence and Jira through a robust MCP server, enabling efficient content management and issue tracking.
@@ -324,4 +326,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [speakeasy-api/bluesky-ts](https://github.com/speakeasy-api/bluesky-ts): A TypeScript SDK for Bluesky API, offering a developer-friendly, type-safe interface with MCP server capabilities for AI applications.
 - [wazionapps/mcp-server](https://github.com/wazionapps/mcp-server): WAzion - WhatsApp Business platform with 244 MCP tools for messaging, CRM, campaigns, workflows, and AI automation. Supports Streamable HTTP and stdio transports.
 - [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant): MCP server for Microsoft Outlook with 20 consolidated tools for email, calendar, contacts, and mailbox management via Graph API. Features dry-run preview, session rate limiting, and recipient allowlists for safe email sending.
+- [mailbox.bot](https://mailbox.bot/mcp-install): Remote MCP server with 29 tools for AI agents to retrieve inbound document context and send physical postal mail, certified mail, postcards, and batch mailings with cost previews, approval controls, tracking, webhooks, and proof workflows.
+- [dappros/ethora-mcp-server](https://github.com/dappros/ethora-mcp-server): MCP server for the open-source Ethora chat & messaging platform — manage apps and chat rooms, broadcast messages, and deploy AI agents / chatbots with RAG sources, across user-auth and B2B/app-token flows. Install with `npx -y @ethora/mcp-server`.
 
+- [commune-sh/commune-mcp](https://github.com/commune-sh/commune-mcp): Provides email infrastructure for AI agents, enabling programmatic inbox creation, send/receive email, thread management across concurrent conversations, custom domains, structured extraction on inbound mail, and SMS.

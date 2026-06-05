@@ -1,0 +1,24 @@
+{
+  "id": "github-teamsincetoday-recipe-commerce-mcp-4124d9ba",
+  "name": "teamsincetoday/recipe-commerce-mcp",
+  "description": "Extracts affiliate-ready product recommendations from recipe content using AI-powered ingredient and kitchen tool analysis. Remote Streamable HTTP endpoint on Cloudflare Workers.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-teamsincetoday-recipe-commerce-mcp-4124d9ba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-teamsincetoday-recipe-commerce-mcp-4124d9ba)",
+  "links": {
+    "primary": "https://github.com/teamsincetoday/recipe-commerce-mcp",
+    "repo": "https://github.com/teamsincetoday/recipe-commerce-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

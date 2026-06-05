@@ -1,0 +1,24 @@
+{
+  "id": "github-johanli233-mcp-sandbox-336dcbab",
+  "name": "JohanLi233/mcp-sandbox",
+  "description": "Python MCP Sandbox enables secure and isolated Python code execution and package management within Docker containers, facilitating safe interactions for LLMs.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-johanli233-mcp-sandbox-336dcbab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-johanli233-mcp-sandbox-336dcbab)",
+  "links": {
+    "primary": "https://github.com/JohanLi233/mcp-sandbox",
+    "repo": "https://github.com/JohanLi233/mcp-sandbox",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

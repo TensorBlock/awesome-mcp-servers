@@ -1,0 +1,24 @@
+{
+  "id": "github-hungry557-fastmcp-demo-108f3d88",
+  "name": "hungry557/fastmcp-demo",
+  "description": "Showcases the creation of a basic MCP server using the FastMCP framework with TypeScript, featuring tools for arithmetic operations and weather queries.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-hungry557-fastmcp-demo-108f3d88",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hungry557-fastmcp-demo-108f3d88)",
+  "links": {
+    "primary": "https://github.com/hungry557/fastmcp-demo",
+    "repo": "https://github.com/hungry557/fastmcp-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

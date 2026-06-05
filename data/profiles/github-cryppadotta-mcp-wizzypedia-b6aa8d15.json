@@ -1,0 +1,24 @@
+{
+  "id": "github-cryppadotta-mcp-wizzypedia-b6aa8d15",
+  "name": "cryppadotta/mcp-wizzypedia",
+  "description": "Facilitates interaction with Wizzypedia APIs for querying and editing wiki pages via MCP-enabled editors.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-cryppadotta-mcp-wizzypedia-b6aa8d15",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cryppadotta-mcp-wizzypedia-b6aa8d15)",
+  "links": {
+    "primary": "https://github.com/cryppadotta/mcp-wizzypedia",
+    "repo": "https://github.com/cryppadotta/mcp-wizzypedia",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-signal-slot-mcp-gdb-ce4d5093",
+  "name": "signal-slot/mcp-gdb",
+  "description": "Facilitates GDB debugging sessions through MCP for seamless integration with AI assistants like Claude.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-signal-slot-mcp-gdb-ce4d5093",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-signal-slot-mcp-gdb-ce4d5093)",
+  "links": {
+    "primary": "https://github.com/signal-slot/mcp-gdb",
+    "repo": "https://github.com/signal-slot/mcp-gdb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

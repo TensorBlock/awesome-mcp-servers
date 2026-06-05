@@ -1,0 +1,24 @@
+{
+  "id": "github-jerhadf-linear-mcp-server-ce9421b4",
+  "name": "jerhadf/linear-mcp-server",
+  "description": "Integrates Linear's project management system with MCP to enable LLMs to manage and interact with Linear issues.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-jerhadf-linear-mcp-server-ce9421b4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jerhadf-linear-mcp-server-ce9421b4)",
+  "links": {
+    "primary": "https://github.com/jerhadf/linear-mcp-server",
+    "repo": "https://github.com/jerhadf/linear-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

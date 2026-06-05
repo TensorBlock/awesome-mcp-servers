@@ -1,0 +1,24 @@
+{
+  "id": "github-albiemark-dbx-mcp-server-a99454b5",
+  "name": "Albiemark/dbx-mcp-server",
+  "description": "Integrates Dropbox with MCP-compatible clients for seamless file operations and account management.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-albiemark-dbx-mcp-server-a99454b5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-albiemark-dbx-mcp-server-a99454b5)",
+  "links": {
+    "primary": "https://github.com/Albiemark/dbx-mcp-server",
+    "repo": "https://github.com/Albiemark/dbx-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
