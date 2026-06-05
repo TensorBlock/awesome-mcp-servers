@@ -1,0 +1,24 @@
+{
+  "id": "github-pydantic-logfire-mcp-ec2a1cff",
+  "name": "pydantic/logfire-mcp",
+  "description": "Logfire MCP Server enables LLMs to access and analyze OpenTelemetry traces and metrics using Logfire APIs, facilitating detailed telemetry data retrieval and SQL query execution.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-pydantic-logfire-mcp-ec2a1cff",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pydantic-logfire-mcp-ec2a1cff)",
+  "links": {
+    "primary": "https://github.com/pydantic/logfire-mcp",
+    "repo": "https://github.com/pydantic/logfire-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

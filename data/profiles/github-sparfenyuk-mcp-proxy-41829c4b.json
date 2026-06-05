@@ -1,0 +1,25 @@
+{
+  "id": "github-sparfenyuk-mcp-proxy-41829c4b",
+  "name": "sparfenyuk/mcp-proxy",
+  "description": "Facilitates seamless communication between stdio and SSE transports, enabling remote connections to MCP servers.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-sparfenyuk-mcp-proxy-41829c4b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sparfenyuk-mcp-proxy-41829c4b)",
+  "links": {
+    "primary": "https://github.com/sparfenyuk/mcp-proxy",
+    "repo": "https://github.com/sparfenyuk/mcp-proxy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

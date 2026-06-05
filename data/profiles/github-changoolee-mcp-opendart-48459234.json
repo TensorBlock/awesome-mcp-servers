@@ -1,0 +1,24 @@
+{
+  "id": "github-changoolee-mcp-opendart-48459234",
+  "name": "ChangooLee/mcp-opendart",
+  "description": "Facilitates secure and contextual AI interactions with OpenDART for financial data retrieval and analysis.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-changoolee-mcp-opendart-48459234",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-changoolee-mcp-opendart-48459234)",
+  "links": {
+    "primary": "https://github.com/ChangooLee/mcp-opendart",
+    "repo": "https://github.com/ChangooLee/mcp-opendart",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-abhijithk1-omni-server-97b4a00a",
+  "name": "abhijithk1/omni-server",
+  "description": "Omni Server is a Python-based MCP server designed to help developers understand and implement MCP-based applications, with seamless integration into Claude Desktop.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-abhijithk1-omni-server-97b4a00a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abhijithk1-omni-server-97b4a00a)",
+  "links": {
+    "primary": "https://github.com/abhijithk1/omni-server",
+    "repo": "https://github.com/abhijithk1/omni-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

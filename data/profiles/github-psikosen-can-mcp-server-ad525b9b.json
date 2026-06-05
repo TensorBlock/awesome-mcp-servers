@@ -1,0 +1,24 @@
+{
+  "id": "github-psikosen-can-mcp-server-ad525b9b",
+  "name": "psikosen/can-mcp-server",
+  "description": "Implements a parallel, associative thinking approach using interconnected concepts for emergent pattern recognition.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-psikosen-can-mcp-server-ad525b9b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-psikosen-can-mcp-server-ad525b9b)",
+  "links": {
+    "primary": "https://github.com/psikosen/can-mcp-server",
+    "repo": "https://github.com/psikosen/can-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

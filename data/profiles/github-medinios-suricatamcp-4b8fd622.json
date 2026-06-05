@@ -1,0 +1,24 @@
+{
+  "id": "github-medinios-suricatamcp-4b8fd622",
+  "name": "Medinios/SuricataMCP",
+  "description": "SuricataMCP enables autonomous network traffic analysis using Suricata through a Model Context Protocol server, facilitating seamless integration with AI coding tools.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-medinios-suricatamcp-4b8fd622",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-medinios-suricatamcp-4b8fd622)",
+  "links": {
+    "primary": "https://github.com/Medinios/SuricataMCP",
+    "repo": "https://github.com/Medinios/SuricataMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

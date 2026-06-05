@@ -1,0 +1,24 @@
+{
+  "id": "github-abekdwight-mermaid-mcp-server-d10f4a30",
+  "name": "abekdwight/mermaid-mcp-server",
+  "description": "Facilitates AI interaction with Mermaid diagrams by validating syntax, rendering to SVG, and providing documentation links.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-abekdwight-mermaid-mcp-server-d10f4a30",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abekdwight-mermaid-mcp-server-d10f4a30)",
+  "links": {
+    "primary": "https://github.com/abekdwight/mermaid-mcp-server",
+    "repo": "https://github.com/abekdwight/mermaid-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

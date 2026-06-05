@@ -1,0 +1,24 @@
+{
+  "id": "github-trymeuj-gmail-mcp-server-2-a6e61b59",
+  "name": "trymeuj/gmail-mcp-server-2",
+  "description": "Provides a standardized interface for managing Gmail through the MCP protocol, covering comprehensive email operations and settings management.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-trymeuj-gmail-mcp-server-2-a6e61b59",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-trymeuj-gmail-mcp-server-2-a6e61b59)",
+  "links": {
+    "primary": "https://github.com/trymeuj/gmail-mcp-server-2",
+    "repo": "https://github.com/trymeuj/gmail-mcp-server-2",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-suthio-brave-deep-research-mcp-7a93889f",
+  "name": "suthio/brave-deep-research-mcp",
+  "description": "Enhances Brave Search with Puppeteer-powered content extraction for comprehensive web research, allowing AI assistants to access detailed information beyond standard search results.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-suthio-brave-deep-research-mcp-7a93889f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-suthio-brave-deep-research-mcp-7a93889f)",
+  "links": {
+    "primary": "https://github.com/suthio/brave-deep-research-mcp",
+    "repo": "https://github.com/suthio/brave-deep-research-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

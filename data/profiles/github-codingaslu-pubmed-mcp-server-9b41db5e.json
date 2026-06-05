@@ -1,0 +1,24 @@
+{
+  "id": "github-codingaslu-pubmed-mcp-server-9b41db5e",
+  "name": "codingaslu/PubMed-MCP-Server",
+  "description": "Leverages the FastMCP framework to asynchronously search PubMed for article abstracts using BioPython's Entrez module.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-codingaslu-pubmed-mcp-server-9b41db5e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-codingaslu-pubmed-mcp-server-9b41db5e)",
+  "links": {
+    "primary": "https://github.com/codingaslu/PubMed-MCP-Server",
+    "repo": "https://github.com/codingaslu/PubMed-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

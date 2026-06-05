@@ -1,0 +1,24 @@
+{
+  "id": "github-longmans-coin-api-mcp-3746065c",
+  "name": "longmans/coin_api_mcp",
+  "description": "Access CoinMarketCap's cryptocurrency data for AI applications with this MCP server, offering tools to retrieve listings, quotes, and detailed coin information.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-longmans-coin-api-mcp-3746065c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-longmans-coin-api-mcp-3746065c)",
+  "links": {
+    "primary": "https://github.com/longmans/coin_api_mcp",
+    "repo": "https://github.com/longmans/coin_api_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-dazeb-mcp-github-mapper-b612443d",
+  "name": "dazeb/MCP-Github-Mapper",
+  "description": "Facilitates mapping and analysis of GitHub repositories, providing detailed structural insights and summary statistics.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-dazeb-mcp-github-mapper-b612443d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dazeb-mcp-github-mapper-b612443d)",
+  "links": {
+    "primary": "https://github.com/dazeb/MCP-Github-Mapper",
+    "repo": "https://github.com/dazeb/MCP-Github-Mapper",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

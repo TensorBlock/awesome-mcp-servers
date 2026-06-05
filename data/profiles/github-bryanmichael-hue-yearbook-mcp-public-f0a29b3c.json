@@ -1,0 +1,24 @@
+{
+  "id": "github-bryanmichael-hue-yearbook-mcp-public-f0a29b3c",
+  "name": "bryanmichael-hue/yearbook-mcp-public",
+  "description": "e-yearbook.com archive search — over 300K U.S. yearbooks and over 100M person mentions (high school, college, military). Free preview returns coarsened state + decade; subscription unlocks school name, exact year, page numbers, and scan images. Streamable HTTP at `mcp.digitaldataonline.com/mcp`, bearer auth, paste-and-go token at /for-ai-agents/. Registry: `com.digitaldataonline.mcp/e-yearbook`.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-bryanmichael-hue-yearbook-mcp-public-f0a29b3c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bryanmichael-hue-yearbook-mcp-public-f0a29b3c)",
+  "links": {
+    "primary": "https://github.com/bryanmichael-hue/yearbook-mcp-public",
+    "repo": "https://github.com/bryanmichael-hue/yearbook-mcp-public",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "bearer",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

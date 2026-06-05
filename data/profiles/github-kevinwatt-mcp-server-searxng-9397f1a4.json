@@ -1,0 +1,24 @@
+{
+  "id": "github-kevinwatt-mcp-server-searxng-9397f1a4",
+  "name": "kevinwatt/mcp-server-searxng",
+  "description": "Integrates with SearXNG to offer privacy-focused meta search capabilities across multiple engines.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-kevinwatt-mcp-server-searxng-9397f1a4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kevinwatt-mcp-server-searxng-9397f1a4)",
+  "links": {
+    "primary": "https://github.com/kevinwatt/mcp-server-searxng",
+    "repo": "https://github.com/kevinwatt/mcp-server-searxng",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

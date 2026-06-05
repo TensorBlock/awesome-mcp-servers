@@ -1,0 +1,24 @@
+{
+  "id": "github-jenstangen1-pptx-xlsx-mcp-af96d003",
+  "name": "jenstangen1/pptx-xlsx-mcp",
+  "description": "Facilitates AI-driven interactions with PowerPoint and Excel through MCP servers, enabling advanced presentation and spreadsheet management.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-jenstangen1-pptx-xlsx-mcp-af96d003",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jenstangen1-pptx-xlsx-mcp-af96d003)",
+  "links": {
+    "primary": "https://github.com/jenstangen1/pptx-xlsx-mcp",
+    "repo": "https://github.com/jenstangen1/pptx-xlsx-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

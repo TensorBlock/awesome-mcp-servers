@@ -1,0 +1,24 @@
+{
+  "id": "github-shinzo-labs-gmail-mcp-f53ad285",
+  "name": "shinzo-labs/gmail-mcp",
+  "description": "Facilitates comprehensive email management and automation through a standardized interface for Gmail services.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-shinzo-labs-gmail-mcp-f53ad285",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shinzo-labs-gmail-mcp-f53ad285)",
+  "links": {
+    "primary": "https://github.com/shinzo-labs/gmail-mcp",
+    "repo": "https://github.com/shinzo-labs/gmail-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-atla-ai-atla-mcp-server-d84a85a4",
+  "name": "atla-ai/atla-mcp-server",
+  "description": "Facilitates seamless interaction between LLMs and the Atla API for advanced evaluation tasks.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-atla-ai-atla-mcp-server-d84a85a4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-atla-ai-atla-mcp-server-d84a85a4)",
+  "links": {
+    "primary": "https://github.com/atla-ai/atla-mcp-server",
+    "repo": "https://github.com/atla-ai/atla-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

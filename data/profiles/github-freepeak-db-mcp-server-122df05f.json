@@ -1,0 +1,24 @@
+{
+  "id": "github-freepeak-db-mcp-server-122df05f",
+  "name": "FreePeak/db-mcp-server",
+  "description": "Facilitates AI assistants in executing SQL queries and managing transactions across multiple databases through a unified interface.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-freepeak-db-mcp-server-122df05f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-freepeak-db-mcp-server-122df05f)",
+  "links": {
+    "primary": "https://github.com/FreePeak/db-mcp-server",
+    "repo": "https://github.com/FreePeak/db-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

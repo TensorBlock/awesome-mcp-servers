@@ -1,0 +1,24 @@
+{
+  "id": "github-kukapay-crypto-feargreed-mcp-2e1ddee1",
+  "name": "kukapay/crypto-feargreed-mcp",
+  "description": "Provides real-time and historical Crypto Fear & Greed Index data for seamless integration with MCP-compatible clients.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-crypto-feargreed-mcp-2e1ddee1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-crypto-feargreed-mcp-2e1ddee1)",
+  "links": {
+    "primary": "https://github.com/kukapay/crypto-feargreed-mcp",
+    "repo": "https://github.com/kukapay/crypto-feargreed-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

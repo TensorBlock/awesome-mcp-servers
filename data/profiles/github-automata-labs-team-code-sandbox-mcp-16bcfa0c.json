@@ -1,0 +1,24 @@
+{
+  "id": "github-automata-labs-team-code-sandbox-mcp-16bcfa0c",
+  "name": "Automata-Labs-team/code-sandbox-mcp",
+  "description": "Provides AI applications with a secure and isolated Docker-based environment for executing code.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-automata-labs-team-code-sandbox-mcp-16bcfa0c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-automata-labs-team-code-sandbox-mcp-16bcfa0c)",
+  "links": {
+    "primary": "https://github.com/Automata-Labs-team/code-sandbox-mcp",
+    "repo": "https://github.com/Automata-Labs-team/code-sandbox-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

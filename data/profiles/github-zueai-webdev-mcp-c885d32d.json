@@ -1,0 +1,24 @@
+{
+  "id": "github-zueai-webdev-mcp-c885d32d",
+  "name": "zueai/webdev-mcp",
+  "description": "Provides web development tools for taking and listing screenshots via an MCP server.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-zueai-webdev-mcp-c885d32d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zueai-webdev-mcp-c885d32d)",
+  "links": {
+    "primary": "https://github.com/zueai/webdev-mcp",
+    "repo": "https://github.com/zueai/webdev-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

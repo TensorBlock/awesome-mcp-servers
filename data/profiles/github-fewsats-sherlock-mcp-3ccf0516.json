@@ -1,0 +1,24 @@
+{
+  "id": "github-fewsats-sherlock-mcp-3ccf0516",
+  "name": "Fewsats/sherlock-mcp",
+  "description": "Sherlock Domains MCP server facilitates domain purchasing and management with note storage and summarization capabilities.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-fewsats-sherlock-mcp-3ccf0516",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fewsats-sherlock-mcp-3ccf0516)",
+  "links": {
+    "primary": "https://github.com/Fewsats/sherlock-mcp",
+    "repo": "https://github.com/Fewsats/sherlock-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

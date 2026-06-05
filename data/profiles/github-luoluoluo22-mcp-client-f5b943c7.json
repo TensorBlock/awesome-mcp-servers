@@ -1,0 +1,24 @@
+{
+  "id": "github-luoluoluo22-mcp-client-f5b943c7",
+  "name": "luoluoluo22/mcp_client",
+  "description": "Integrates MCP tools into an HTTP API service for seamless interaction with large models, supporting both simplified and OpenAI-compatible API formats.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-luoluoluo22-mcp-client-f5b943c7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-luoluoluo22-mcp-client-f5b943c7)",
+  "links": {
+    "primary": "https://github.com/luoluoluo22/mcp_client",
+    "repo": "https://github.com/luoluoluo22/mcp_client",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-nevikashah-remote-mcp-server-51e039a4",
+  "name": "nevikashah/remote-mcp-server",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool invocation.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-nevikashah-remote-mcp-server-51e039a4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nevikashah-remote-mcp-server-51e039a4)",
+  "links": {
+    "primary": "https://github.com/nevikashah/remote-mcp-server",
+    "repo": "https://github.com/nevikashah/remote-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

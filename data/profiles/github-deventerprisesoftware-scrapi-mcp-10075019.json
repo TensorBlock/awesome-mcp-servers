@@ -1,0 +1,24 @@
+{
+  "id": "github-deventerprisesoftware-scrapi-mcp-10075019",
+  "name": "DevEnterpriseSoftware/scrapi-mcp",
+  "description": "Leverage ScrAPI for seamless web scraping with advanced bot detection and geolocation bypass capabilities.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-deventerprisesoftware-scrapi-mcp-10075019",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-deventerprisesoftware-scrapi-mcp-10075019)",
+  "links": {
+    "primary": "https://github.com/DevEnterpriseSoftware/scrapi-mcp",
+    "repo": "https://github.com/DevEnterpriseSoftware/scrapi-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
