@@ -111,3 +111,4 @@ $UNIFIED
 - [yamaton/mcp-dice](https://github.com/yamaton/mcp-dice): Enables LLMs to roll dice using standard dice notation, providing both individual rolls and their sum.
 - [maxsloef/loom-mcp](https://github.com/maxsloef/loom-mcp): A TypeScript-based MCP server that implements a simple loom interface for Claude, enabling parallel generation and selection of model completions.
 
+- [loomle/loomle](https://github.com/loomle/loomle): Unreal Engine MCP server for Claude Code, Codex, and AI agents to inspect and edit live UE projects through Blueprint, Material, PCG, UMG, asset, context, and diagnostics tools.
