@@ -1,0 +1,24 @@
+{
+  "id": "github-nokamoto-mcp-server-k8s-go-55496011",
+  "name": "nokamoto/mcp-server-k8s-go",
+  "description": "A Go-based MCP server designed for Kubernetes environments, facilitating deployment and interaction through stdio transport.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-nokamoto-mcp-server-k8s-go-55496011",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nokamoto-mcp-server-k8s-go-55496011)",
+  "links": {
+    "primary": "https://github.com/nokamoto/mcp-server-k8s-go",
+    "repo": "https://github.com/nokamoto/mcp-server-k8s-go",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

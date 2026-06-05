@@ -1,0 +1,24 @@
+{
+  "id": "github-cameroncooke-xcodebuildmcp-17a00f41",
+  "name": "cameroncooke/XcodeBuildMCP",
+  "description": "Facilitates AI-driven development workflows by enabling programmatic interaction with Xcode projects through a standardized MCP interface.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-cameroncooke-xcodebuildmcp-17a00f41",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cameroncooke-xcodebuildmcp-17a00f41)",
+  "links": {
+    "primary": "https://github.com/cameroncooke/XcodeBuildMCP",
+    "repo": "https://github.com/cameroncooke/XcodeBuildMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

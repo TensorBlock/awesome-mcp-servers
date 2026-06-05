@@ -1,0 +1,24 @@
+{
+  "id": "github-qainsights-locust-mcp-server-509cc79b",
+  "name": "QAInsights/locust-mcp-server",
+  "description": "Facilitates seamless integration of Locust load testing with AI-powered environments through a Model Context Protocol server.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-qainsights-locust-mcp-server-509cc79b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qainsights-locust-mcp-server-509cc79b)",
+  "links": {
+    "primary": "https://github.com/QAInsights/locust-mcp-server",
+    "repo": "https://github.com/QAInsights/locust-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

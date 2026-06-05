@@ -1,0 +1,24 @@
+{
+  "id": "github-agentience-ts-pkg-distro-bd592436",
+  "name": "agentience/ts-pkg-distro",
+  "description": "Facilitates TypeScript package distribution to npm with step-by-step guidance and integration with Roo Code's Boomerang Mode.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-agentience-ts-pkg-distro-bd592436",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-agentience-ts-pkg-distro-bd592436)",
+  "links": {
+    "primary": "https://github.com/agentience/ts-pkg-distro",
+    "repo": "https://github.com/agentience/ts-pkg-distro",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

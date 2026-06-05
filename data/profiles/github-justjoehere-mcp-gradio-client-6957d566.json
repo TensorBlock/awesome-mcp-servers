@@ -1,0 +1,25 @@
+{
+  "id": "github-justjoehere-mcp-gradio-client-6957d566",
+  "name": "justjoehere/mcp_gradio_client",
+  "description": "This repository demonstrates a Gradio UI implementation for interacting with MCP servers using STDIO and SSE communication methods.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-justjoehere-mcp-gradio-client-6957d566",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-justjoehere-mcp-gradio-client-6957d566)",
+  "links": {
+    "primary": "https://github.com/justjoehere/mcp_gradio_client",
+    "repo": "https://github.com/justjoehere/mcp_gradio_client",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

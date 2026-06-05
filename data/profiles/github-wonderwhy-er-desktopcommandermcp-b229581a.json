@@ -1,0 +1,24 @@
+{
+  "id": "github-wonderwhy-er-desktopcommandermcp-b229581a",
+  "name": "wonderwhy-er/DesktopCommanderMCP",
+  "description": "Empower Claude with terminal control and file system management for seamless code editing and process handling.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-wonderwhy-er-desktopcommandermcp-b229581a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wonderwhy-er-desktopcommandermcp-b229581a)",
+  "links": {
+    "primary": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "repo": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-happymanokajima-apm-mcp-server-67bf235d",
+  "name": "HappymanOkajima/apm-mcp-server",
+  "description": "Facilitates interaction with the Agile Practice Map knowledge base through a large language model.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-happymanokajima-apm-mcp-server-67bf235d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-happymanokajima-apm-mcp-server-67bf235d)",
+  "links": {
+    "primary": "https://github.com/HappymanOkajima/apm-mcp-server",
+    "repo": "https://github.com/HappymanOkajima/apm-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

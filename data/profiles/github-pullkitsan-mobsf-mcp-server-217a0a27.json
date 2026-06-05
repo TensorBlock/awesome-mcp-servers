@@ -1,0 +1,24 @@
+{
+  "id": "github-pullkitsan-mobsf-mcp-server-217a0a27",
+  "name": "pullkitsan/mobsf-mcp-server",
+  "description": "Utilizes MobSF's API to scan and analyze APK and IPA files through an MCP-compatible interface.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-pullkitsan-mobsf-mcp-server-217a0a27",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pullkitsan-mobsf-mcp-server-217a0a27)",
+  "links": {
+    "primary": "https://github.com/pullkitsan/mobsf-mcp-server",
+    "repo": "https://github.com/pullkitsan/mobsf-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

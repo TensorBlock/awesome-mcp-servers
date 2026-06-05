@@ -1,0 +1,24 @@
+{
+  "id": "github-mashiike-estellm-ac29bb05",
+  "name": "mashiike/estellm",
+  "description": "Estellm is a Go-based framework for orchestrating agentic workflows, supporting LLM integration and execution as an MCP server.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-mashiike-estellm-ac29bb05",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mashiike-estellm-ac29bb05)",
+  "links": {
+    "primary": "https://github.com/mashiike/estellm",
+    "repo": "https://github.com/mashiike/estellm",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

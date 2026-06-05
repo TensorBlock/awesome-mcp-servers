@@ -1,0 +1,24 @@
+{
+  "id": "github-tkc-notion-mcp-c3b90588",
+  "name": "tkc/notion-mcp",
+  "description": "A filesystem MCP server for Claude Desktop enabling file manipulation with security features.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tkc-notion-mcp-c3b90588",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tkc-notion-mcp-c3b90588)",
+  "links": {
+    "primary": "https://github.com/tkc/notion-mcp",
+    "repo": "https://github.com/tkc/notion-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-goldenhomeshare-my-full-stack-app-6828bc59",
+  "name": "goldenhomeshare/my-full-stack-app",
+  "description": "A production-ready Next.js template with integrated authentication, Stripe payments, and Supabase, featuring AI-powered development capabilities through MCP.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-goldenhomeshare-my-full-stack-app-6828bc59",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-goldenhomeshare-my-full-stack-app-6828bc59)",
+  "links": {
+    "primary": "https://github.com/goldenhomeshare/my-full-stack-app",
+    "repo": "https://github.com/goldenhomeshare/my-full-stack-app",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

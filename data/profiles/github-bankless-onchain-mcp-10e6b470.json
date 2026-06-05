@@ -1,0 +1,24 @@
+{
+  "id": "github-bankless-onchain-mcp-10e6b470",
+  "name": "Bankless/onchain-mcp",
+  "description": "Facilitates blockchain data interaction through the Bankless API, enabling AI models to access on-chain data using the Model Context Protocol.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-bankless-onchain-mcp-10e6b470",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bankless-onchain-mcp-10e6b470)",
+  "links": {
+    "primary": "https://github.com/Bankless/onchain-mcp",
+    "repo": "https://github.com/Bankless/onchain-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

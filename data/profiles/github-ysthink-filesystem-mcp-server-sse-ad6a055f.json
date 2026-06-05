@@ -1,0 +1,24 @@
+{
+  "id": "github-ysthink-filesystem-mcp-server-sse-ad6a055f",
+  "name": "ysthink/Filesystem-MCP-Server-SSE",
+  "description": "Facilitates filesystem operations through a Node.js server using SSE for efficient file management and directory handling.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-ysthink-filesystem-mcp-server-sse-ad6a055f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ysthink-filesystem-mcp-server-sse-ad6a055f)",
+  "links": {
+    "primary": "https://github.com/ysthink/Filesystem-MCP-Server-SSE",
+    "repo": "https://github.com/ysthink/Filesystem-MCP-Server-SSE",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

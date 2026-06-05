@@ -1,0 +1,24 @@
+{
+  "id": "github-r3versein-hackermcp-bf69b632",
+  "name": "R3verseIN/HackerMCP",
+  "description": "HackerMCP empowers AI assistants to utilize penetration testing and security tools like Nmap and Metasploit through a streamlined interface.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-r3versein-hackermcp-bf69b632",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-r3versein-hackermcp-bf69b632)",
+  "links": {
+    "primary": "https://github.com/R3verseIN/HackerMCP",
+    "repo": "https://github.com/R3verseIN/HackerMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

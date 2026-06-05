@@ -1,0 +1,24 @@
+{
+  "id": "github-bobtista-solscan-mcp-server-29d9ffd6",
+  "name": "bobtista/solscan_mcp_server",
+  "description": "Facilitates interaction with the Solscan Pro API to query token and transaction data on the Solana blockchain via LLMs.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-bobtista-solscan-mcp-server-29d9ffd6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bobtista-solscan-mcp-server-29d9ffd6)",
+  "links": {
+    "primary": "https://github.com/bobtista/solscan_mcp_server",
+    "repo": "https://github.com/bobtista/solscan_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

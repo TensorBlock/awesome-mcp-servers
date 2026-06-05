@@ -1,0 +1,24 @@
+{
+  "id": "github-dave-london-pare-9778d412",
+  "name": "Dave-London/Pare",
+  "description": "Suite of 16 MCP servers wrapping 240+ CLI developer tools (git, npm, Docker, test runners, build tools, linters, Python, Cargo, Go, GitHub, K8s) with structured JSON output via `outputSchema` + `structuredContent`. Up to 92% fewer tokens vs raw CLI output. MIT licensed, 1,850+ tests.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-dave-london-pare-9778d412",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dave-london-pare-9778d412)",
+  "links": {
+    "primary": "https://github.com/Dave-London/Pare",
+    "repo": "https://github.com/Dave-London/Pare",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

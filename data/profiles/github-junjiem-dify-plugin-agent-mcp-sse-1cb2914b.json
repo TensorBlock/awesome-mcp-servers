@@ -1,0 +1,24 @@
+{
+  "id": "github-junjiem-dify-plugin-agent-mcp-sse-1cb2914b",
+  "name": "junjiem/dify-plugin-agent-mcp_sse",
+  "description": "Facilitates the integration of MCP SSE tools with agent strategies, supporting multiple managed MCP services for seamless deployment.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-junjiem-dify-plugin-agent-mcp-sse-1cb2914b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-junjiem-dify-plugin-agent-mcp-sse-1cb2914b)",
+  "links": {
+    "primary": "https://github.com/junjiem/dify-plugin-agent-mcp_sse",
+    "repo": "https://github.com/junjiem/dify-plugin-agent-mcp_sse",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-samanhappy-mcphub-8f09665c",
+  "name": "samanhappy/mcphub",
+  "description": "MCPHub consolidates multiple MCP servers into a single SSE endpoint, offering centralized management and real-time monitoring through an intuitive dashboard.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-samanhappy-mcphub-8f09665c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-samanhappy-mcphub-8f09665c)",
+  "links": {
+    "primary": "https://github.com/samanhappy/mcphub",
+    "repo": "https://github.com/samanhappy/mcphub",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
