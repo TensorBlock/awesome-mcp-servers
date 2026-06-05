@@ -1,0 +1,24 @@
+{
+  "id": "github-vinayak-mehta-mcp-sonic-pi-0a4ba47d",
+  "name": "vinayak-mehta/mcp-sonic-pi",
+  "description": "Connects MCP clients with Sonic Pi to create music using English commands.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-vinayak-mehta-mcp-sonic-pi-0a4ba47d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vinayak-mehta-mcp-sonic-pi-0a4ba47d)",
+  "links": {
+    "primary": "https://github.com/vinayak-mehta/mcp-sonic-pi",
+    "repo": "https://github.com/vinayak-mehta/mcp-sonic-pi",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

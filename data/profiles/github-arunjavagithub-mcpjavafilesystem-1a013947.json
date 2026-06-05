@@ -1,0 +1,24 @@
+{
+  "id": "github-arunjavagithub-mcpjavafilesystem-1a013947",
+  "name": "arunjavagithub/MCPJavaFileSystem",
+  "description": "A Java-based MCP server enabling LLM agents to perform filesystem operations and web content retrieval.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-arunjavagithub-mcpjavafilesystem-1a013947",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arunjavagithub-mcpjavafilesystem-1a013947)",
+  "links": {
+    "primary": "https://github.com/arunjavagithub/MCPJavaFileSystem",
+    "repo": "https://github.com/arunjavagithub/MCPJavaFileSystem",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

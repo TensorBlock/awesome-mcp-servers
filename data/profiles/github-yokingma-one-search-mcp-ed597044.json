@@ -1,0 +1,24 @@
+{
+  "id": "github-yokingma-one-search-mcp-ed597044",
+  "name": "yokingma/one-search-mcp",
+  "description": "OneSearch MCP Server integrates multiple search engines and web scrapers for comprehensive web search, scraping, and extraction capabilities.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-yokingma-one-search-mcp-ed597044",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yokingma-one-search-mcp-ed597044)",
+  "links": {
+    "primary": "https://github.com/yokingma/one-search-mcp",
+    "repo": "https://github.com/yokingma/one-search-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-ganesh-karthick-mcpserver-24e3ba66",
+  "name": "ganesh-karthick/MCPServer",
+  "description": "Facilitates agentic workflows with a simple MCP server setup, integrating seamlessly with Claude Desktop.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-ganesh-karthick-mcpserver-24e3ba66",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ganesh-karthick-mcpserver-24e3ba66)",
+  "links": {
+    "primary": "https://github.com/ganesh-karthick/MCPServer",
+    "repo": "https://github.com/ganesh-karthick/MCPServer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

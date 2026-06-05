@@ -1,0 +1,24 @@
+{
+  "id": "github-nazar256-combine-mcp-8a2b91e1",
+  "name": "nazar256/combine-mcp",
+  "description": "An MCP aggregator that integrates multiple MCP servers into a unified interface, overcoming limitations of client-side server connections.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-nazar256-combine-mcp-8a2b91e1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nazar256-combine-mcp-8a2b91e1)",
+  "links": {
+    "primary": "https://github.com/nazar256/combine-mcp",
+    "repo": "https://github.com/nazar256/combine-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

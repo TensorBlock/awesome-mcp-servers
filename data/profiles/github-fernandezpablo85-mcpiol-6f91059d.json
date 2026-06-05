@@ -1,0 +1,24 @@
+{
+  "id": "github-fernandezpablo85-mcpiol-6f91059d",
+  "name": "fernandezpablo85/mcpiol",
+  "description": "Facilitates interaction with the Invertir Online API via Claude Desktop using the Model Context Protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-fernandezpablo85-mcpiol-6f91059d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fernandezpablo85-mcpiol-6f91059d)",
+  "links": {
+    "primary": "https://github.com/fernandezpablo85/mcpiol",
+    "repo": "https://github.com/fernandezpablo85/mcpiol",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

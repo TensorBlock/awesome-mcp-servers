@@ -1,0 +1,24 @@
+{
+  "id": "github-blackpr-mcp-tutorial-932ff465",
+  "name": "blackpr/mcp-tutorial",
+  "description": "A comprehensive suite of MCP servers demonstrating tasks like process control, task scheduling, and resource monitoring.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-blackpr-mcp-tutorial-932ff465",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-blackpr-mcp-tutorial-932ff465)",
+  "links": {
+    "primary": "https://github.com/blackpr/mcp-tutorial",
+    "repo": "https://github.com/blackpr/mcp-tutorial",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

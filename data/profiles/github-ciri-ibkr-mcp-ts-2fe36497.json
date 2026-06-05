@@ -1,0 +1,24 @@
+{
+  "id": "github-ciri-ibkr-mcp-ts-2fe36497",
+  "name": "ciri/ibkr-mcp-ts",
+  "description": "An MCP server that retrieves account positions from IBKR using TypeScript.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-ciri-ibkr-mcp-ts-2fe36497",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ciri-ibkr-mcp-ts-2fe36497)",
+  "links": {
+    "primary": "https://github.com/ciri/ibkr-mcp-ts",
+    "repo": "https://github.com/ciri/ibkr-mcp-ts",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

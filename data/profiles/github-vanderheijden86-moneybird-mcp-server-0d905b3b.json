@@ -1,0 +1,24 @@
+{
+  "id": "github-vanderheijden86-moneybird-mcp-server-0d905b3b",
+  "name": "vanderheijden86/moneybird-mcp-server",
+  "description": "Facilitates AI-driven bookkeeping by connecting AI assistants to Moneybird accounting software via API.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-vanderheijden86-moneybird-mcp-server-0d905b3b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vanderheijden86-moneybird-mcp-server-0d905b3b)",
+  "links": {
+    "primary": "https://github.com/vanderheijden86/moneybird-mcp-server",
+    "repo": "https://github.com/vanderheijden86/moneybird-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

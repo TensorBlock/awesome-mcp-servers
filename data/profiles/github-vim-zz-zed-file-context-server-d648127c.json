@@ -1,0 +1,24 @@
+{
+  "id": "github-vim-zz-zed-file-context-server-d648127c",
+  "name": "vim-zz/zed-file-context-server",
+  "description": "A command-line tool enabling AI assistants to edit and analyze files through the Model Context Protocol, ensuring secure interaction with local filesystems.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-vim-zz-zed-file-context-server-d648127c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vim-zz-zed-file-context-server-d648127c)",
+  "links": {
+    "primary": "https://github.com/vim-zz/zed-file-context-server",
+    "repo": "https://github.com/vim-zz/zed-file-context-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

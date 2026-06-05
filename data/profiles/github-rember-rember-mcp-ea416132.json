@@ -1,0 +1,24 @@
+{
+  "id": "github-rember-rember-mcp-ea416132",
+  "name": "rember/rember-mcp",
+  "description": "Facilitates the creation of flashcards using Claude and the Rember API, enhancing study and memory retention through spaced repetition.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-rember-rember-mcp-ea416132",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rember-rember-mcp-ea416132)",
+  "links": {
+    "primary": "https://github.com/rember/rember-mcp",
+    "repo": "https://github.com/rember/rember-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

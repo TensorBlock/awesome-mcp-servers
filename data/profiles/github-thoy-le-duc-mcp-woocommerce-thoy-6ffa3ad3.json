@@ -1,0 +1,24 @@
+{
+  "id": "github-thoy-le-duc-mcp-woocommerce-thoy-6ffa3ad3",
+  "name": "thoy-le-duc/mcp-woocommerce-thoy",
+  "description": "Facilitates seamless WooCommerce store management via JSON-RPC 2.0, integrating with WordPress REST API across multiple platforms.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-thoy-le-duc-mcp-woocommerce-thoy-6ffa3ad3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thoy-le-duc-mcp-woocommerce-thoy-6ffa3ad3)",
+  "links": {
+    "primary": "https://github.com/thoy-le-duc/mcp-woocommerce-thoy",
+    "repo": "https://github.com/thoy-le-duc/mcp-woocommerce-thoy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

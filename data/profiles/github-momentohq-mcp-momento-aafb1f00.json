@@ -1,0 +1,24 @@
+{
+  "id": "github-momentohq-mcp-momento-aafb1f00",
+  "name": "momentohq/mcp-momento",
+  "description": "Facilitates caching operations with Momento through a Model Context Protocol server.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-momentohq-mcp-momento-aafb1f00",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-momentohq-mcp-momento-aafb1f00)",
+  "links": {
+    "primary": "https://github.com/momentohq/mcp-momento",
+    "repo": "https://github.com/momentohq/mcp-momento",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

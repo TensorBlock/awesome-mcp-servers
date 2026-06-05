@@ -1,0 +1,24 @@
+{
+  "id": "github-ormacc-claude-mcp-mongodb-integration-296ccd92",
+  "name": "OrMacc/claude-mcp-mongodb-integration",
+  "description": "Integrates MongoDB with Claude using MCP, enabling natural language database queries.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-ormacc-claude-mcp-mongodb-integration-296ccd92",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ormacc-claude-mcp-mongodb-integration-296ccd92)",
+  "links": {
+    "primary": "https://github.com/OrMacc/claude-mcp-mongodb-integration",
+    "repo": "https://github.com/OrMacc/claude-mcp-mongodb-integration",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

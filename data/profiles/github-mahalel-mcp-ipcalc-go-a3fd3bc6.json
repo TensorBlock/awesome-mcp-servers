@@ -1,0 +1,24 @@
+{
+  "id": "github-mahalel-mcp-ipcalc-go-a3fd3bc6",
+  "name": "mahalel/mcp-ipcalc-go",
+  "description": "A Go-based MCP server offering IP address calculation and subnet information akin to the `ipcalc` tool.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-mahalel-mcp-ipcalc-go-a3fd3bc6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mahalel-mcp-ipcalc-go-a3fd3bc6)",
+  "links": {
+    "primary": "https://github.com/mahalel/mcp-ipcalc-go",
+    "repo": "https://github.com/mahalel/mcp-ipcalc-go",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

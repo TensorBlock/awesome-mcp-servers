@@ -1,0 +1,24 @@
+{
+  "id": "github-valyu-network-valyu-mcp-js-dc67a472",
+  "name": "valyu-network/valyu-mcp-js",
+  "description": "Facilitates LLMs in accessing Valyu's APIs for knowledge retrieval and feedback submission, integrating proprietary and web data sources.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-valyu-network-valyu-mcp-js-dc67a472",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-valyu-network-valyu-mcp-js-dc67a472)",
+  "links": {
+    "primary": "https://github.com/valyu-network/valyu-mcp-js",
+    "repo": "https://github.com/valyu-network/valyu-mcp-js",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

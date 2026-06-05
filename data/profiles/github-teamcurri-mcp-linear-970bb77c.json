@@ -1,0 +1,24 @@
+{
+  "id": "github-teamcurri-mcp-linear-970bb77c",
+  "name": "teamcurri/mcp-linear",
+  "description": "Facilitates interaction with Curri's API through a TypeScript-based MCP server, offering note management and summarization tools.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-teamcurri-mcp-linear-970bb77c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-teamcurri-mcp-linear-970bb77c)",
+  "links": {
+    "primary": "https://github.com/teamcurri/mcp-linear",
+    "repo": "https://github.com/teamcurri/mcp-linear",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

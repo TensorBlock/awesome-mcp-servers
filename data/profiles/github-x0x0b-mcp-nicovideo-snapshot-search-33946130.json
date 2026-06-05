@@ -1,0 +1,24 @@
+{
+  "id": "github-x0x0b-mcp-nicovideo-snapshot-search-33946130",
+  "name": "x0x0b/mcp-nicovideo-snapshot-search",
+  "description": "Facilitates video searches on Nicovideo using the Snapshot Search API.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-x0x0b-mcp-nicovideo-snapshot-search-33946130",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-x0x0b-mcp-nicovideo-snapshot-search-33946130)",
+  "links": {
+    "primary": "https://github.com/x0x0b/mcp-nicovideo-snapshot-search",
+    "repo": "https://github.com/x0x0b/mcp-nicovideo-snapshot-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-shane-kercheval-mcp-client-agent-dd3f847a",
+  "name": "shane-kercheval/mcp-client-agent",
+  "description": "A CLI tool leveraging DSPy to autonomously interact with MCP servers using defined toolsets for task execution.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-shane-kercheval-mcp-client-agent-dd3f847a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shane-kercheval-mcp-client-agent-dd3f847a)",
+  "links": {
+    "primary": "https://github.com/shane-kercheval/mcp-client-agent",
+    "repo": "https://github.com/shane-kercheval/mcp-client-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

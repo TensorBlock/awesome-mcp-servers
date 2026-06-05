@@ -1,0 +1,24 @@
+{
+  "id": "github-ldybyz-remote-mcp-server-5d78c0a8",
+  "name": "ldybyz/remote-mcp-server",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ldybyz-remote-mcp-server-5d78c0a8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ldybyz-remote-mcp-server-5d78c0a8)",
+  "links": {
+    "primary": "https://github.com/ldybyz/remote-mcp-server",
+    "repo": "https://github.com/ldybyz/remote-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

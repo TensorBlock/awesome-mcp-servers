@@ -1,0 +1,24 @@
+{
+  "id": "github-monad-developers-monad-mcp-0e008444",
+  "name": "monad-developers/monad-mcp",
+  "description": "A Model Context Protocol server offering tools to interact with the Monad testnet, including balance and transaction queries.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-monad-developers-monad-mcp-0e008444",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-monad-developers-monad-mcp-0e008444)",
+  "links": {
+    "primary": "https://github.com/monad-developers/monad-mcp",
+    "repo": "https://github.com/monad-developers/monad-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
