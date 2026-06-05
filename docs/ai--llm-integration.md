@@ -1622,4 +1622,4 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [tolegm/astranl-mcp](https://github.com/tolegm/astranl-mcp) - AI inference dispatch aggregator routing tasks to Anthropic, OpenAI, Gemini, and xAI Grok. Flat per-task pricing (€0.005-€0.05). 9 MCP tools.
 - [New1Direction/webmcp-anything](https://github.com/New1Direction/webmcp-anything): Turn any URL into agent-callable MCP tools. 5-tier adapter chain (Shopify ~4M storefronts / generic JSON-LD / OpenAPI compiler / known providers like Stripe/Slack/Notion/GitHub / Claude 3.5 Haiku fallback). Hosted at [wmcp.sh](https://wmcp.sh) — free public API, paid tier with custom adapters + verified directory listings.
 
-- [ToolRouter](https://toolrouter.com): Give your AI agent access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`
+- [ToolRouter](https://toolrouter.com): Give your AI agent superpowers with access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`
