@@ -1,0 +1,24 @@
+{
+  "id": "github-do-boo-mcp-synolink-66d26b01",
+  "name": "Do-Boo/MCP-SynoLink",
+  "description": "Facilitates file operations on Synology NAS devices through AI assistants using Node.js.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-do-boo-mcp-synolink-66d26b01",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-do-boo-mcp-synolink-66d26b01)",
+  "links": {
+    "primary": "https://github.com/Do-Boo/MCP-SynoLink",
+    "repo": "https://github.com/Do-Boo/MCP-SynoLink",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

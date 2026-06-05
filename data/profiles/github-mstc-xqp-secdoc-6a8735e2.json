@@ -1,0 +1,24 @@
+{
+  "id": "github-mstc-xqp-secdoc-6a8735e2",
+  "name": "mstc-xqp/secdoc",
+  "description": "Access SEC EDGAR database filings via a simple API, enabling searches by CIK and retrieval of filing documents with optional filters.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-mstc-xqp-secdoc-6a8735e2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mstc-xqp-secdoc-6a8735e2)",
+  "links": {
+    "primary": "https://github.com/mstc-xqp/secdoc",
+    "repo": "https://github.com/mstc-xqp/secdoc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

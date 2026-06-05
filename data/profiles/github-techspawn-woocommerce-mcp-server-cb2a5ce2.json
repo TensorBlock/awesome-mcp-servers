@@ -1,0 +1,24 @@
+{
+  "id": "github-techspawn-woocommerce-mcp-server-cb2a5ce2",
+  "name": "techspawn/woocommerce-mcp-server",
+  "description": "Facilitates seamless WooCommerce store management through JSON-RPC 2.0 protocol, integrating with WordPress REST API for comprehensive product, order, and customer operations.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-techspawn-woocommerce-mcp-server-cb2a5ce2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-techspawn-woocommerce-mcp-server-cb2a5ce2)",
+  "links": {
+    "primary": "https://github.com/techspawn/woocommerce-mcp-server",
+    "repo": "https://github.com/techspawn/woocommerce-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

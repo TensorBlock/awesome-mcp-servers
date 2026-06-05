@@ -1,0 +1,24 @@
+{
+  "id": "github-hosakakeigo-spreadsheet-mcp-server-c94b19b9",
+  "name": "HosakaKeigo/spreadsheet-mcp-server",
+  "description": "Facilitates direct access to Google Spreadsheet data for LLMs through a Model Context Protocol server.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-hosakakeigo-spreadsheet-mcp-server-c94b19b9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hosakakeigo-spreadsheet-mcp-server-c94b19b9)",
+  "links": {
+    "primary": "https://github.com/HosakaKeigo/spreadsheet-mcp-server",
+    "repo": "https://github.com/HosakaKeigo/spreadsheet-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

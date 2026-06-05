@@ -1,0 +1,24 @@
+{
+  "id": "github-tenntenn-deepgo-601b4037",
+  "name": "tenntenn/deepgo",
+  "description": "Facilitates deeper exploration of the Go ecosystem by providing tools to retrieve Go proposal meeting minutes, release notes, and the latest Go version.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-tenntenn-deepgo-601b4037",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tenntenn-deepgo-601b4037)",
+  "links": {
+    "primary": "https://github.com/tenntenn/deepgo",
+    "repo": "https://github.com/tenntenn/deepgo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

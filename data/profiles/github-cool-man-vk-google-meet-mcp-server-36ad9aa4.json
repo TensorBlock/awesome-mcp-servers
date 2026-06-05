@@ -1,0 +1,24 @@
+{
+  "id": "github-cool-man-vk-google-meet-mcp-server-36ad9aa4",
+  "name": "cool-man-vk/google-meet-mcp-server",
+  "description": "Facilitates AI-driven management of Google Meet meetings via the Google Calendar API.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-cool-man-vk-google-meet-mcp-server-36ad9aa4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cool-man-vk-google-meet-mcp-server-36ad9aa4)",
+  "links": {
+    "primary": "https://github.com/cool-man-vk/google-meet-mcp-server",
+    "repo": "https://github.com/cool-man-vk/google-meet-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

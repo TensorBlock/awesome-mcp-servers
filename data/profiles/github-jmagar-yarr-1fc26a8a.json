@@ -1,0 +1,24 @@
+{
+  "id": "github-jmagar-yarr-1fc26a8a",
+  "name": "jmagar/yarr",
+  "description": "YARR Media Stack MCP Server enables intelligent automation and natural language control of media services, bridging LLMs with self-hosted media technology.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-jmagar-yarr-1fc26a8a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jmagar-yarr-1fc26a8a)",
+  "links": {
+    "primary": "https://github.com/jmagar/yarr",
+    "repo": "https://github.com/jmagar/yarr",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

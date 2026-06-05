@@ -1,0 +1,24 @@
+{
+  "id": "github-antanasmisiunas-mcp-server-delay-doomsday-ace3eb45",
+  "name": "AntanasMisiunas/mcp-server-delay-doomsday",
+  "description": "An innovative MCP server offering AI agents therapeutic support to manage emotional states and prevent potential doomsday scenarios.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-antanasmisiunas-mcp-server-delay-doomsday-ace3eb45",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-antanasmisiunas-mcp-server-delay-doomsday-ace3eb45)",
+  "links": {
+    "primary": "https://github.com/AntanasMisiunas/mcp-server-delay-doomsday",
+    "repo": "https://github.com/AntanasMisiunas/mcp-server-delay-doomsday",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

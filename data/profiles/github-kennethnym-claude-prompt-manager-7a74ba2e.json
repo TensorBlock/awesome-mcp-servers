@@ -1,0 +1,24 @@
+{
+  "id": "github-kennethnym-claude-prompt-manager-7a74ba2e",
+  "name": "kennethnym/claude-prompt-manager",
+  "description": "A TypeScript-based CLI prompt manager for Claude utilizing the MCP protocol, enabling prompt creation and management from the command line.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-kennethnym-claude-prompt-manager-7a74ba2e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kennethnym-claude-prompt-manager-7a74ba2e)",
+  "links": {
+    "primary": "https://github.com/kennethnym/claude-prompt-manager",
+    "repo": "https://github.com/kennethnym/claude-prompt-manager",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

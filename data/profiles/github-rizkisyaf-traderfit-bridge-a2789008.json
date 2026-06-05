@@ -1,0 +1,24 @@
+{
+  "id": "github-rizkisyaf-traderfit-bridge-a2789008",
+  "name": "rizkisyaf/traderfit-bridge",
+  "description": "Connects MCP clients to TraderFitAI's backend API using a stdio bridge for dynamic tool execution and authentication.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-rizkisyaf-traderfit-bridge-a2789008",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rizkisyaf-traderfit-bridge-a2789008)",
+  "links": {
+    "primary": "https://github.com/rizkisyaf/traderfit-bridge",
+    "repo": "https://github.com/rizkisyaf/traderfit-bridge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-bartwisch-mcprules-8942435b",
+  "name": "bartwisch/MCPRules",
+  "description": "Manages and serves programming guidelines and rules, integrating with development tools to ensure consistent coding standards.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-bartwisch-mcprules-8942435b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bartwisch-mcprules-8942435b)",
+  "links": {
+    "primary": "https://github.com/bartwisch/MCPRules",
+    "repo": "https://github.com/bartwisch/MCPRules",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

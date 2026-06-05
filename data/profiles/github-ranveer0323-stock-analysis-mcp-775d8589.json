@@ -1,0 +1,24 @@
+{
+  "id": "github-ranveer0323-stock-analysis-mcp-775d8589",
+  "name": "ranveer0323/stock-analysis-mcp",
+  "description": "Provides real-time and historical stock market data from Alpha Vantage API for MCP clients.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-ranveer0323-stock-analysis-mcp-775d8589",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ranveer0323-stock-analysis-mcp-775d8589)",
+  "links": {
+    "primary": "https://github.com/ranveer0323/stock-analysis-mcp",
+    "repo": "https://github.com/ranveer0323/stock-analysis-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

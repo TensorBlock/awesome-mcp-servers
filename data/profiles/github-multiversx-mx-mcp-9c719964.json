@@ -1,0 +1,24 @@
+{
+  "id": "github-multiversx-mx-mcp-9c719964",
+  "name": "multiversx/mx-mcp",
+  "description": "Facilitates blockchain interactions on MultiversX by managing wallets and transactions.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-multiversx-mx-mcp-9c719964",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-multiversx-mx-mcp-9c719964)",
+  "links": {
+    "primary": "https://github.com/multiversx/mx-mcp",
+    "repo": "https://github.com/multiversx/mx-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

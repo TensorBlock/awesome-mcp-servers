@@ -1,0 +1,24 @@
+{
+  "id": "github-baoxingzhang-mcp-server-notion-prompt-a81ac72b",
+  "name": "BaoxingZhang/mcp-server-notion-prompt",
+  "description": "Access and manage prompts stored in Notion databases using the Model Context Protocol (MCP) standard.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-baoxingzhang-mcp-server-notion-prompt-a81ac72b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-baoxingzhang-mcp-server-notion-prompt-a81ac72b)",
+  "links": {
+    "primary": "https://github.com/BaoxingZhang/mcp-server-notion-prompt",
+    "repo": "https://github.com/BaoxingZhang/mcp-server-notion-prompt",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

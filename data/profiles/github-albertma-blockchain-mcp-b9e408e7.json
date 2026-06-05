@@ -1,0 +1,24 @@
+{
+  "id": "github-albertma-blockchain-mcp-b9e408e7",
+  "name": "albertma/blockchain-mcp",
+  "description": "Facilitates blockchain interactions by providing balance and transaction details for Ethereum and VeChain through an MCP server.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-albertma-blockchain-mcp-b9e408e7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-albertma-blockchain-mcp-b9e408e7)",
+  "links": {
+    "primary": "https://github.com/albertma/blockchain-mcp",
+    "repo": "https://github.com/albertma/blockchain-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

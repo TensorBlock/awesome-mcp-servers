@@ -1,0 +1,24 @@
+{
+  "id": "github-qiuyurs-excel-tools-mcp-7d17d39f",
+  "name": "qiuyurs/excel-tools-mcp",
+  "description": "Facilitates seamless integration with large models for reading, creating, and updating Excel files using the MCP protocol.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-qiuyurs-excel-tools-mcp-7d17d39f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qiuyurs-excel-tools-mcp-7d17d39f)",
+  "links": {
+    "primary": "https://github.com/qiuyurs/excel-tools-mcp",
+    "repo": "https://github.com/qiuyurs/excel-tools-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

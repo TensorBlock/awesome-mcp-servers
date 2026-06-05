@@ -1,0 +1,24 @@
+{
+  "id": "github-ckz-flux-schnell-mcp-62abf594",
+  "name": "ckz/flux-schnell-mcp",
+  "description": "Generates images using the Flux Schnell model via Replicate API with customizable prompts.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-ckz-flux-schnell-mcp-62abf594",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ckz-flux-schnell-mcp-62abf594)",
+  "links": {
+    "primary": "https://github.com/ckz/flux-schnell-mcp",
+    "repo": "https://github.com/ckz/flux-schnell-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

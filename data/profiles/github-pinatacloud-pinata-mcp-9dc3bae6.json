@@ -1,0 +1,24 @@
+{
+  "id": "github-pinatacloud-pinata-mcp-9dc3bae6",
+  "name": "PinataCloud/pinata-mcp",
+  "description": "Facilitates Claude's interaction with Pinata for managing files and groups on IPFS through a Model Context Protocol server.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-pinatacloud-pinata-mcp-9dc3bae6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pinatacloud-pinata-mcp-9dc3bae6)",
+  "links": {
+    "primary": "https://github.com/PinataCloud/pinata-mcp",
+    "repo": "https://github.com/PinataCloud/pinata-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

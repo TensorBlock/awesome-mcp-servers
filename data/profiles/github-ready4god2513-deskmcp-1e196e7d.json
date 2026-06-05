@@ -1,0 +1,24 @@
+{
+  "id": "github-ready4god2513-deskmcp-1e196e7d",
+  "name": "ready4god2513/deskmcp",
+  "description": "Facilitates AI-driven interactions with Teamwork Desk through a standardized protocol, enabling seamless management of support tickets and customer data.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ready4god2513-deskmcp-1e196e7d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ready4god2513-deskmcp-1e196e7d)",
+  "links": {
+    "primary": "https://github.com/ready4god2513/deskmcp",
+    "repo": "https://github.com/ready4god2513/deskmcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

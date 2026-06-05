@@ -1,0 +1,24 @@
+{
+  "id": "github-abdulazeem-tk4vr-shardeum-mcp-server-75e45957",
+  "name": "abdulazeem-tk4vr/shardeum-mcp-server",
+  "description": "Facilitates seamless interaction with the Shardeum blockchain using standardized RPC methods, enhancing AI and application integration.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-abdulazeem-tk4vr-shardeum-mcp-server-75e45957",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abdulazeem-tk4vr-shardeum-mcp-server-75e45957)",
+  "links": {
+    "primary": "https://github.com/abdulazeem-tk4vr/shardeum-mcp-server",
+    "repo": "https://github.com/abdulazeem-tk4vr/shardeum-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

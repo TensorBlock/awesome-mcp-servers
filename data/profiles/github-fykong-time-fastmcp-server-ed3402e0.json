@@ -1,0 +1,24 @@
+{
+  "id": "github-fykong-time-fastmcp-server-ed3402e0",
+  "name": "fykong/time_fastmcp_server",
+  "description": "Facilitates time and timezone conversions for LLMs using IANA timezone names with automatic system timezone detection.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-fykong-time-fastmcp-server-ed3402e0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fykong-time-fastmcp-server-ed3402e0)",
+  "links": {
+    "primary": "https://github.com/fykong/time_fastmcp_server",
+    "repo": "https://github.com/fykong/time_fastmcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-miyamo2-hotpepper-gourmet-mcp-server-7ab4d3f3",
+  "name": "miyamo2/hotpepper-gourmet-mcp-server",
+  "description": "Facilitates gourmet search and area-based queries using the Hot Pepper Gourmet API.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-miyamo2-hotpepper-gourmet-mcp-server-7ab4d3f3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-miyamo2-hotpepper-gourmet-mcp-server-7ab4d3f3)",
+  "links": {
+    "primary": "https://github.com/miyamo2/hotpepper-gourmet-mcp-server",
+    "repo": "https://github.com/miyamo2/hotpepper-gourmet-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

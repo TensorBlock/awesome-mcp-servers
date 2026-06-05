@@ -1,0 +1,24 @@
+{
+  "id": "github-baysed-buidlai-story-mcp-hub-de69cdff",
+  "name": "baYsed-BuidlAI/story-mcp-hub",
+  "description": "Central hub for managing MCP servers that facilitate AI agent interactions with Story Protocol's blockchain and SDK services.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-baysed-buidlai-story-mcp-hub-de69cdff",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-baysed-buidlai-story-mcp-hub-de69cdff)",
+  "links": {
+    "primary": "https://github.com/baYsed-BuidlAI/story-mcp-hub",
+    "repo": "https://github.com/baYsed-BuidlAI/story-mcp-hub",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
