@@ -155,6 +155,8 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes): Facilitates Kubernetes cluster management through a robust MCP server, enabling seamless interaction with Kubernetes resources and Helm charts.
 - [netcaster1/e2b-mcp](https://github.com/netcaster1/e2b-mcp): A secure sandbox environment for executing code using the Model Context Protocol, tailored for integration with Claude Desktop.
 - [kswap/consul-mcp](https://github.com/kswap/consul-mcp): Facilitates Consul service discovery and mesh integration through an MCP server interface.
+- [daedalus/mcp-mdns](https://github.com/daedalus/mcp-mdns) - MCP server for mDNS (Multicast DNS) service discovery.
+- [daedalus/mcp-ntp-server](https://github.com/daedalus/mcp-ntp-server) - MCP server providing NTP time synchronization tools for AI agents.
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go): Local-first MCP proxy/gateway with BM25 tool discovery (~99% token savings), security quarantine (tool-poisoning protection), sensitive-data scanning, Docker isolation, OAuth 2.1, and a web UI.
 
 

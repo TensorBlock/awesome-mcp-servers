@@ -105,6 +105,9 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [y86/ex-mcp-test](https://github.com/y86/ex-mcp-test): An Elixir-based MCP server for testing and experimenting with the Model Context Protocol, featuring JSON-RPC 2.0 compliance and schema-driven validation.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code): A super light-weight embedded MCP server for coding agents that uses tree-sitter for code search and indexing, saving 70% tokens and improving speed with Apache-2.0 license.
 - [kuberstar/qartez-mcp](https://github.com/kuberstar/qartez-mcp): Semantic code intelligence MCP server with 27 tools for project maps, symbol search, impact analysis, call hierarchies, architecture boundaries, and safe refactoring. Built in Rust.
+- [daedalus/mcp-capstone](https://github.com/daedalus/mcp-capstone) - MCP server exposing Capstone 5.0.7 disassembly framework.
+- [daedalus/mcp-pyright](https://github.com/daedalus/mcp-pyright) - MCP server that exposes Pyright language server functionality.
+- [daedalus/mcp-gdbserver](https://github.com/daedalus/mcp-gdbserver) - MCP server for remote debugging with gdbserver.
 - [Laith0003/ux-skill](https://github.com/Laith0003/ux-skill): Deterministic design-intelligence MCP server with 18 tools that lints AI-generated UI against 152 anti-slop rules, drawing on 160 brand specs and a 7-axis synthesizer. Runs fully offline and never calls an LLM.
 
 - [Vulert](https://www.vulert.com): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.

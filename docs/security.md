@@ -114,6 +114,17 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [fr0gger/MCP_Security](https://github.com/fr0gger/MCP_Security): A Model Context Protocol server for querying the ORKL API, providing tools for threat intelligence analysis and integration with MCP-compatible applications.
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit): Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
 - [true-alter/alter-identity](https://github.com/true-alter/alter-identity): Identity infrastructure for the AI economy — 33-trait psychometric engine delivering verified human identity via MCP. Tools for trait vectors, belonging probability, attunement depth, and privacy-gated inference. Streamable-HTTP remote server at `https://mcp.truealter.com/api/v1/mcp`. Free tier: 16 tools, 10 req/min.
+- [daedalus/mcp-cryptography](https://github.com/daedalus/mcp-cryptography) - MCP server exposing cryptography library functionality.
+- [daedalus/mcp-ecdsa](https://github.com/daedalus/mcp-ecdsa) - MCP server for ECDSA cryptography.
+- [daedalus/mcp-hashlib](https://github.com/daedalus/mcp-hashlib) - An MCP server that exposes hashlib functionality.
+- [daedalus/mcp-pcapy-ng](https://github.com/daedalus/mcp-pcapy-ng) - MCP server exposing pcapy-ng packet capture functionality.
+- [daedalus/mcp-pymetasploit3](https://github.com/daedalus/mcp-pymetasploit3) - MCP server for Metasploit Framework via pymetasploit3.
+- [daedalus/mcp-pwntools](https://github.com/daedalus/mcp-pwntools) - MCP server exposing pwntools functionality for binary exploitation.
+- [daedalus/mcp-recon-ng](https://github.com/daedalus/mcp-recon-ng) - MCP server exposing full recon-ng OSINT framework functionality.
+- [daedalus/mcp-reverse-engineering](https://github.com/daedalus/mcp-reverse-engineering) - Sandboxed MCP tool for reverse engineering with security restrictions.
+- [daedalus/mcp-server-nmap](https://github.com/daedalus/mcp-server-nmap) - MCP server that exposes the python-nmap API for network scanning.
+- [daedalus/mcp-shodan](https://github.com/daedalus/mcp-shodan) - MCP server exposing all Shodan API functionality.
+- [daedalus/mcp-smbmap](https://github.com/daedalus/mcp-smbmap) - MCP server exposing smbmap SMB enumeration functionality.
 - [infai-tech/vulnfeed-mcp](https://github.com/infai-tech/vulnfeed-mcp): Dependency vulnerability scanner with EPSS exploit probability scoring. Scans lockfiles (npm, pip, Go, Cargo, Ruby, Composer, Gradle, NuGet, Mix), prioritizes by real-world exploit likelihood, recommends fix versions. 9 MCP tools for scanning, monitoring, and alerting. Free tier + x402 micropayments. `pip install vulnfeed-mcp`.
 
 
