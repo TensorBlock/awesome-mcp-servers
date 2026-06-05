@@ -1,0 +1,24 @@
+{
+  "id": "github-royshil-obs-mcp-fa51af66",
+  "name": "royshil/obs-mcp",
+  "description": "Control OBS Studio through an MCP server using the OBS WebSocket protocol for scene management, source control, and streaming operations.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-royshil-obs-mcp-fa51af66",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-royshil-obs-mcp-fa51af66)",
+  "links": {
+    "primary": "https://github.com/royshil/obs-mcp",
+    "repo": "https://github.com/royshil/obs-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

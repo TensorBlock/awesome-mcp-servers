@@ -1,0 +1,24 @@
+{
+  "id": "github-s-h-gamelinks-esa-mcp-server-03b762bf",
+  "name": "S-H-GAMELINKS/esa-mcp-server",
+  "description": "Facilitates interaction with the esa API for managing team and article data through a structured MCP server interface.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-s-h-gamelinks-esa-mcp-server-03b762bf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-s-h-gamelinks-esa-mcp-server-03b762bf)",
+  "links": {
+    "primary": "https://github.com/S-H-GAMELINKS/esa-mcp-server",
+    "repo": "https://github.com/S-H-GAMELINKS/esa-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

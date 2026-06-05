@@ -1,0 +1,24 @@
+{
+  "id": "github-kunjanshah0811-mcp-terminal-server-20a944dc",
+  "name": "kunjanshah0811/MCP-Terminal-Server",
+  "description": "Facilitates shell command execution within a defined workspace using an MCP-compatible terminal server for seamless integration with Claude-AI.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-kunjanshah0811-mcp-terminal-server-20a944dc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kunjanshah0811-mcp-terminal-server-20a944dc)",
+  "links": {
+    "primary": "https://github.com/kunjanshah0811/MCP-Terminal-Server",
+    "repo": "https://github.com/kunjanshah0811/MCP-Terminal-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-mamisoa-mcp-alchemy-75a9e416",
+  "name": "mamisoa/mcp-alchemy",
+  "description": "MCP Alchemy seamlessly integrates Claude Desktop with various databases, enabling advanced SQL query assistance and data analysis.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-mamisoa-mcp-alchemy-75a9e416",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mamisoa-mcp-alchemy-75a9e416)",
+  "links": {
+    "primary": "https://github.com/mamisoa/mcp-alchemy",
+    "repo": "https://github.com/mamisoa/mcp-alchemy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

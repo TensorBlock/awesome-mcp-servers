@@ -1,0 +1,24 @@
+{
+  "id": "github-ee0pdt-godot-mcp-aa6b3a0b",
+  "name": "ee0pdt/Godot-MCP",
+  "description": "Integrate AI assistants with Godot Engine to enhance game development through code assistance, scene manipulation, and project management.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-ee0pdt-godot-mcp-aa6b3a0b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ee0pdt-godot-mcp-aa6b3a0b)",
+  "links": {
+    "primary": "https://github.com/ee0pdt/Godot-MCP",
+    "repo": "https://github.com/ee0pdt/Godot-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-pin-ai-modelcontextprotocol-hackathon-42d9010b",
+  "name": "PIN-AI/modelcontextprotocol-hackathon",
+  "description": "Integrates multiple cryptocurrency and web search APIs to enhance Claude's crypto research and web search capabilities.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-pin-ai-modelcontextprotocol-hackathon-42d9010b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pin-ai-modelcontextprotocol-hackathon-42d9010b)",
+  "links": {
+    "primary": "https://github.com/PIN-AI/modelcontextprotocol-hackathon",
+    "repo": "https://github.com/PIN-AI/modelcontextprotocol-hackathon",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

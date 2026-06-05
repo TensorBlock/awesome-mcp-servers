@@ -1,0 +1,24 @@
+{
+  "id": "github-servicestack-servicestack-mcp-ac9d5096",
+  "name": "ServiceStack/servicestack-mcp",
+  "description": "A TypeScript-based MCP server for exploring and invoking ServiceStack APIs with a simple notes system.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-servicestack-servicestack-mcp-ac9d5096",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-servicestack-servicestack-mcp-ac9d5096)",
+  "links": {
+    "primary": "https://github.com/ServiceStack/servicestack-mcp",
+    "repo": "https://github.com/ServiceStack/servicestack-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

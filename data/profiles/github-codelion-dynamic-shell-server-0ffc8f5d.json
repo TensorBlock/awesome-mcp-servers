@@ -1,0 +1,24 @@
+{
+  "id": "github-codelion-dynamic-shell-server-0ffc8f5d",
+  "name": "codelion/dynamic-shell-server",
+  "description": "Facilitates secure shell command execution with dynamic user approval and audit logging.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-codelion-dynamic-shell-server-0ffc8f5d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-codelion-dynamic-shell-server-0ffc8f5d)",
+  "links": {
+    "primary": "https://github.com/codelion/dynamic-shell-server",
+    "repo": "https://github.com/codelion/dynamic-shell-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

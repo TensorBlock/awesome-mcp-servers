@@ -1,0 +1,24 @@
+{
+  "id": "github-pinkpixel-dev-blabber-mcp-cab2667a",
+  "name": "pinkpixel-dev/blabber-mcp",
+  "description": "Blabber-MCP enables LLMs to produce high-quality spoken audio using OpenAI's Text-to-Speech API, with customizable voice and format options.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-pinkpixel-dev-blabber-mcp-cab2667a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pinkpixel-dev-blabber-mcp-cab2667a)",
+  "links": {
+    "primary": "https://github.com/pinkpixel-dev/blabber-mcp",
+    "repo": "https://github.com/pinkpixel-dev/blabber-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

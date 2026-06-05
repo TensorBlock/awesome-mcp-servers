@@ -1,0 +1,24 @@
+{
+  "id": "github-alaturqua-mcp-trino-python-2c6d43e3",
+  "name": "alaturqua/mcp-trino-python",
+  "description": "Facilitates advanced data exploration and management in Trino and Iceberg through a standardized interface.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-alaturqua-mcp-trino-python-2c6d43e3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alaturqua-mcp-trino-python-2c6d43e3)",
+  "links": {
+    "primary": "https://github.com/alaturqua/mcp-trino-python",
+    "repo": "https://github.com/alaturqua/mcp-trino-python",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

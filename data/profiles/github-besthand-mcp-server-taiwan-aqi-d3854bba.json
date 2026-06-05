@@ -1,0 +1,24 @@
+{
+  "id": "github-besthand-mcp-server-taiwan-aqi-d3854bba",
+  "name": "besthand/mcp-server-taiwan-aqi--",
+  "description": "Access real-time and historical air quality data from Taiwan's monitoring stations via an MCP server.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-besthand-mcp-server-taiwan-aqi-d3854bba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-besthand-mcp-server-taiwan-aqi-d3854bba)",
+  "links": {
+    "primary": "https://github.com/besthand/mcp-server-taiwan-aqi--",
+    "repo": "https://github.com/besthand/mcp-server-taiwan-aqi--",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

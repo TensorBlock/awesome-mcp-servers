@@ -1,0 +1,24 @@
+{
+  "id": "github-lazymac2x-lazymac-mcp-05066433",
+  "name": "lazymac2x/lazymac-mcp",
+  "description": "Unified MCP server exposing 42+ developer tools (qr, ip-geo, ai-cost, llm-router, k-privacy, korean-nlp) backed by Cloudflare Workers. `npx -y @lazymac/mcp`",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-lazymac2x-lazymac-mcp-05066433",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lazymac2x-lazymac-mcp-05066433)",
+  "links": {
+    "primary": "https://github.com/lazymac2x/lazymac-mcp",
+    "repo": "https://github.com/lazymac2x/lazymac-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

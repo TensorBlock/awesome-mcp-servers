@@ -1,0 +1,24 @@
+{
+  "id": "github-zerubeus-moog-sub37-mcp-088a5d49",
+  "name": "zerubeus/moog-sub37-mcp",
+  "description": "Facilitates AI-assisted sound design and parameter control of the Moog Sub37/Subsequent37 synthesizer via MIDI.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-zerubeus-moog-sub37-mcp-088a5d49",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zerubeus-moog-sub37-mcp-088a5d49)",
+  "links": {
+    "primary": "https://github.com/zerubeus/moog-sub37-mcp",
+    "repo": "https://github.com/zerubeus/moog-sub37-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

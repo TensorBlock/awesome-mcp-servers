@@ -1,0 +1,24 @@
+{
+  "id": "github-jithukrishnanv-mcp-cyberagent-05443010",
+  "name": "JithukrishnanV/MCP-CyberAgent",
+  "description": "MCP-CyberAgent connects Claude Desktop with cybersecurity tools like VirusTotal, Nmap, and Shodan for AI-driven threat detection and network analysis.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-jithukrishnanv-mcp-cyberagent-05443010",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jithukrishnanv-mcp-cyberagent-05443010)",
+  "links": {
+    "primary": "https://github.com/JithukrishnanV/MCP-CyberAgent",
+    "repo": "https://github.com/JithukrishnanV/MCP-CyberAgent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

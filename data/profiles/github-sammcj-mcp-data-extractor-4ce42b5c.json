@@ -1,0 +1,24 @@
+{
+  "id": "github-sammcj-mcp-data-extractor-4ce42b5c",
+  "name": "sammcj/mcp-data-extractor",
+  "description": "Facilitates the migration of embedded data and SVG components from TypeScript/JavaScript code into structured JSON and SVG files, preserving key structures and attributes.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-sammcj-mcp-data-extractor-4ce42b5c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sammcj-mcp-data-extractor-4ce42b5c)",
+  "links": {
+    "primary": "https://github.com/sammcj/mcp-data-extractor",
+    "repo": "https://github.com/sammcj/mcp-data-extractor",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
