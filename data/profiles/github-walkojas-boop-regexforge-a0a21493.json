@@ -1,0 +1,24 @@
+{
+  "id": "github-walkojas-boop-regexforge-a0a21493",
+  "name": "walkojas-boop/regexforge",
+  "description": "Deterministic regex synthesis. Send labeled examples, get a battle-tested regex + test matrix + backtracking-risk analysis. Zero LLM at serve time. $0.002/call. Live at https://regexforge.jason-12c.workers.dev/.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-walkojas-boop-regexforge-a0a21493",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-walkojas-boop-regexforge-a0a21493)",
+  "links": {
+    "primary": "https://github.com/walkojas-boop/regexforge",
+    "repo": "https://github.com/walkojas-boop/regexforge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

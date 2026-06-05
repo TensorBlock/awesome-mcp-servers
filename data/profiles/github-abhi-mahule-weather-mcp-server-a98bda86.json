@@ -1,0 +1,24 @@
+{
+  "id": "github-abhi-mahule-weather-mcp-server-a98bda86",
+  "name": "abhi-mahule/weather_mcp_server",
+  "description": "Provides real-time weather information and alerts via the National Weather Service API.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-abhi-mahule-weather-mcp-server-a98bda86",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abhi-mahule-weather-mcp-server-a98bda86)",
+  "links": {
+    "primary": "https://github.com/abhi-mahule/weather_mcp_server",
+    "repo": "https://github.com/abhi-mahule/weather_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

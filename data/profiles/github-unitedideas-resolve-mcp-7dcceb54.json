@@ -1,0 +1,24 @@
+{
+  "id": "github-unitedideas-resolve-mcp-7dcceb54",
+  "name": "unitedideas/resolve-mcp",
+  "description": "Structured error recovery for AI agents. Returns resolution playbooks with backoff schedules, retry strategies, and recovery steps for 20+ services including OpenAI, Anthropic, Stripe, AWS, and Postgres.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-unitedideas-resolve-mcp-7dcceb54",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-unitedideas-resolve-mcp-7dcceb54)",
+  "links": {
+    "primary": "https://github.com/unitedideas/resolve-mcp",
+    "repo": "https://github.com/unitedideas/resolve-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

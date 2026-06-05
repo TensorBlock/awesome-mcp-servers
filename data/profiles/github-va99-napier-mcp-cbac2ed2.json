@@ -1,0 +1,24 @@
+{
+  "id": "github-va99-napier-mcp-cbac2ed2",
+  "name": "va99/Napier-mcp",
+  "description": "Facilitates AI-driven interactions with WhatsApp by bridging local environments to the WhatsApp web API, enabling message retrieval and media handling through a Python MCP server.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-va99-napier-mcp-cbac2ed2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-va99-napier-mcp-cbac2ed2)",
+  "links": {
+    "primary": "https://github.com/va99/Napier-mcp",
+    "repo": "https://github.com/va99/Napier-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

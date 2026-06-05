@@ -1,0 +1,24 @@
+{
+  "id": "github-appricos-pushinator-mcp-da92ae1f",
+  "name": "appricos/pushinator-mcp",
+  "description": "Pushinator MCP server facilitates seamless integration with the Pushinator API for efficient message delivery.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-appricos-pushinator-mcp-da92ae1f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-appricos-pushinator-mcp-da92ae1f)",
+  "links": {
+    "primary": "https://github.com/appricos/pushinator-mcp",
+    "repo": "https://github.com/appricos/pushinator-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

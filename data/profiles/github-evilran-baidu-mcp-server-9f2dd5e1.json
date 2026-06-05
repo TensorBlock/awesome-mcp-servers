@@ -1,0 +1,24 @@
+{
+  "id": "github-evilran-baidu-mcp-server-9f2dd5e1",
+  "name": "Evilran/baidu-mcp-server",
+  "description": "Provides web search capabilities through Baidu with advanced content fetching and parsing, optimized for large language models.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-evilran-baidu-mcp-server-9f2dd5e1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-evilran-baidu-mcp-server-9f2dd5e1)",
+  "links": {
+    "primary": "https://github.com/Evilran/baidu-mcp-server",
+    "repo": "https://github.com/Evilran/baidu-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

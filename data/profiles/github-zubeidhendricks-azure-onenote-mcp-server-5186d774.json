@@ -1,0 +1,24 @@
+{
+  "id": "github-zubeidhendricks-azure-onenote-mcp-server-5186d774",
+  "name": "ZubeidHendricks/azure-onenote-mcp-server",
+  "description": "Facilitates AI language models' interaction with Microsoft OneNote through a standardized MCP interface, supporting comprehensive notebook, section, and page management.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-zubeidhendricks-azure-onenote-mcp-server-5186d774",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zubeidhendricks-azure-onenote-mcp-server-5186d774)",
+  "links": {
+    "primary": "https://github.com/ZubeidHendricks/azure-onenote-mcp-server",
+    "repo": "https://github.com/ZubeidHendricks/azure-onenote-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-jgarciaga-overseerr-mcp-8ff286d3",
+  "name": "jgarciaga/overseerr-mcp",
+  "description": "Facilitates interaction with the Overseerr API for managing movie and TV show requests.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-jgarciaga-overseerr-mcp-8ff286d3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jgarciaga-overseerr-mcp-8ff286d3)",
+  "links": {
+    "primary": "https://github.com/jgarciaga/overseerr-mcp",
+    "repo": "https://github.com/jgarciaga/overseerr-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

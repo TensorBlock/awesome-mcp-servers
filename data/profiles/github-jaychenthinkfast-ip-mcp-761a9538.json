@@ -1,0 +1,24 @@
+{
+  "id": "github-jaychenthinkfast-ip-mcp-761a9538",
+  "name": "jaychenthinkfast/ip-mcp",
+  "description": "Facilitates IP address geolocation queries using the MCP protocol, integrating seamlessly with other MCP-compatible systems.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-jaychenthinkfast-ip-mcp-761a9538",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jaychenthinkfast-ip-mcp-761a9538)",
+  "links": {
+    "primary": "https://github.com/jaychenthinkfast/ip-mcp",
+    "repo": "https://github.com/jaychenthinkfast/ip-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

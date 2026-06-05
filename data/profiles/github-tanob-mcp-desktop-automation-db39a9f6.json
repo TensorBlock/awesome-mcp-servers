@@ -1,0 +1,24 @@
+{
+  "id": "github-tanob-mcp-desktop-automation-db39a9f6",
+  "name": "tanob/mcp-desktop-automation",
+  "description": "Empower LLMs with desktop automation through mouse and keyboard control, and screenshot capabilities using RobotJS.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-tanob-mcp-desktop-automation-db39a9f6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tanob-mcp-desktop-automation-db39a9f6)",
+  "links": {
+    "primary": "https://github.com/tanob/mcp-desktop-automation",
+    "repo": "https://github.com/tanob/mcp-desktop-automation",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-rmasters-mcp-openapi-3532caeb",
+  "name": "rmasters/mcp-openapi",
+  "description": "Facilitates HTTP method exposure from OpenAPI specs as tools via a Model Context Protocol server.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-rmasters-mcp-openapi-3532caeb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rmasters-mcp-openapi-3532caeb)",
+  "links": {
+    "primary": "https://github.com/rmasters/mcp-openapi",
+    "repo": "https://github.com/rmasters/mcp-openapi",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

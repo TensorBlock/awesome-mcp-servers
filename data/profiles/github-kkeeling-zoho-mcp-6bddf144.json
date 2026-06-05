@@ -1,0 +1,24 @@
+{
+  "id": "github-kkeeling-zoho-mcp-6bddf144",
+  "name": "kkeeling/zoho-mcp",
+  "description": "Facilitates AI-driven interactions with Zoho Books through a versatile MCP server supporting multiple transport modes.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-kkeeling-zoho-mcp-6bddf144",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kkeeling-zoho-mcp-6bddf144)",
+  "links": {
+    "primary": "https://github.com/kkeeling/zoho-mcp",
+    "repo": "https://github.com/kkeeling/zoho-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

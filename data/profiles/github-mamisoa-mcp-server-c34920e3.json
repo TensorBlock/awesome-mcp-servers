@@ -1,0 +1,24 @@
+{
+  "id": "github-mamisoa-mcp-server-c34920e3",
+  "name": "mamisoa/mcp-server",
+  "description": "Provides datetime functionality for Cursor IDE, enabling precise timestamp generation and datetime operations for changelogs and documentation.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-mamisoa-mcp-server-c34920e3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mamisoa-mcp-server-c34920e3)",
+  "links": {
+    "primary": "https://github.com/mamisoa/mcp-server",
+    "repo": "https://github.com/mamisoa/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

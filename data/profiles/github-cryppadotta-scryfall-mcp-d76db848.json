@@ -1,0 +1,24 @@
+{
+  "id": "github-cryppadotta-scryfall-mcp-d76db848",
+  "name": "cryppadotta/scryfall-mcp",
+  "description": "Facilitates interaction with the Scryfall API for Magic: The Gathering card details, rulings, and pricing through MCP server capabilities.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-cryppadotta-scryfall-mcp-d76db848",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cryppadotta-scryfall-mcp-d76db848)",
+  "links": {
+    "primary": "https://github.com/cryppadotta/scryfall-mcp",
+    "repo": "https://github.com/cryppadotta/scryfall-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

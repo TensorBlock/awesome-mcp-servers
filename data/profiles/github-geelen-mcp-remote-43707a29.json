@@ -1,0 +1,24 @@
+{
+  "id": "github-geelen-mcp-remote-43707a29",
+  "name": "geelen/mcp-remote",
+  "description": "Facilitates the connection of local MCP clients to remote MCP servers with authentication support, bridging the gap for clients that only support stdio servers.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-geelen-mcp-remote-43707a29",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-geelen-mcp-remote-43707a29)",
+  "links": {
+    "primary": "https://github.com/geelen/mcp-remote",
+    "repo": "https://github.com/geelen/mcp-remote",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

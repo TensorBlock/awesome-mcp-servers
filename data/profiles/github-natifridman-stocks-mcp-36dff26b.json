@@ -1,0 +1,24 @@
+{
+  "id": "github-natifridman-stocks-mcp-36dff26b",
+  "name": "natifridman/stocks-mcp",
+  "description": "Fetches real-time stock information from Google Finance using a Pythonic MCP server framework.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-natifridman-stocks-mcp-36dff26b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-natifridman-stocks-mcp-36dff26b)",
+  "links": {
+    "primary": "https://github.com/natifridman/stocks-mcp",
+    "repo": "https://github.com/natifridman/stocks-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

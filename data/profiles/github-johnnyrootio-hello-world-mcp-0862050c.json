@@ -1,0 +1,24 @@
+{
+  "id": "github-johnnyrootio-hello-world-mcp-0862050c",
+  "name": "johnnyrootio/hello-world-mcp",
+  "description": "A minimal FastMCP-based server demonstrating core MCP concepts with tools, resources, and prompts, integrated with Uvicorn for production readiness.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-johnnyrootio-hello-world-mcp-0862050c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-johnnyrootio-hello-world-mcp-0862050c)",
+  "links": {
+    "primary": "https://github.com/johnnyrootio/hello-world-mcp",
+    "repo": "https://github.com/johnnyrootio/hello-world-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

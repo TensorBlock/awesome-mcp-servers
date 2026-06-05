@@ -1,0 +1,24 @@
+{
+  "id": "github-ai-agents-of-profits-market-mcp-2feedc73",
+  "name": "Ai-Agents-of-Profits/Market-MCP",
+  "description": "Provides real-time and historical cryptocurrency market data through integration with major exchanges, enabling LLMs to fetch current prices and analyze market trends.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-ai-agents-of-profits-market-mcp-2feedc73",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ai-agents-of-profits-market-mcp-2feedc73)",
+  "links": {
+    "primary": "https://github.com/Ai-Agents-of-Profits/Market-MCP",
+    "repo": "https://github.com/Ai-Agents-of-Profits/Market-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

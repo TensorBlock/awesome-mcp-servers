@@ -1,0 +1,24 @@
+{
+  "id": "github-kenny-kerson-mcp-transfer-account-1f0dc551",
+  "name": "kenny-kerson/mcp-transfer-account",
+  "description": "Facilitates account transfers through an MCP server integrated with AI agents and a Spring Boot API.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-kenny-kerson-mcp-transfer-account-1f0dc551",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kenny-kerson-mcp-transfer-account-1f0dc551)",
+  "links": {
+    "primary": "https://github.com/kenny-kerson/mcp-transfer-account",
+    "repo": "https://github.com/kenny-kerson/mcp-transfer-account",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

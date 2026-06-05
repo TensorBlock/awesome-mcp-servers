@@ -1,0 +1,24 @@
+{
+  "id": "github-dragonjump-mcp-arcknowledge-4bf978e6",
+  "name": "dragonjump/mcp-ARCknowledge",
+  "description": "Bridge all your custom webhook endpoints into a unified configuration for efficient knowledge base management and querying.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-dragonjump-mcp-arcknowledge-4bf978e6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dragonjump-mcp-arcknowledge-4bf978e6)",
+  "links": {
+    "primary": "https://github.com/dragonjump/mcp-ARCknowledge",
+    "repo": "https://github.com/dragonjump/mcp-ARCknowledge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

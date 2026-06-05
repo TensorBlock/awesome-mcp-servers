@@ -1,0 +1,24 @@
+{
+  "id": "github-aaronccasanova-mcp-template-7bf2e8f9",
+  "name": "aaronccasanova/mcp-template",
+  "description": "A minimal template for quickly setting up an MCP Server with various configuration options for different environments.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-aaronccasanova-mcp-template-7bf2e8f9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aaronccasanova-mcp-template-7bf2e8f9)",
+  "links": {
+    "primary": "https://github.com/aaronccasanova/mcp-template",
+    "repo": "https://github.com/aaronccasanova/mcp-template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

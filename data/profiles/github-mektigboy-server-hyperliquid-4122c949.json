@@ -1,0 +1,24 @@
+{
+  "id": "github-mektigboy-server-hyperliquid-4122c949",
+  "name": "mektigboy/server-hyperliquid",
+  "description": "Integrates the Hyperliquid SDK to provide real-time and historical cryptocurrency data via an MCP server.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-mektigboy-server-hyperliquid-4122c949",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mektigboy-server-hyperliquid-4122c949)",
+  "links": {
+    "primary": "https://github.com/mektigboy/server-hyperliquid",
+    "repo": "https://github.com/mektigboy/server-hyperliquid",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

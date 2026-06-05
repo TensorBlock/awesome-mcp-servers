@@ -1,0 +1,24 @@
+{
+  "id": "github-kevinkelin-mcp-gaodeweather-server-3d48f499",
+  "name": "kevinkelin/mcp-gaodeweather-server",
+  "description": "Provides real-time weather updates using Gaode Map's API for integration with Claude Desktop.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-kevinkelin-mcp-gaodeweather-server-3d48f499",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kevinkelin-mcp-gaodeweather-server-3d48f499)",
+  "links": {
+    "primary": "https://github.com/kevinkelin/mcp-gaodeweather-server",
+    "repo": "https://github.com/kevinkelin/mcp-gaodeweather-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

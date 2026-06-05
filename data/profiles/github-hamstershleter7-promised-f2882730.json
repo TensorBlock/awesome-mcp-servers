@@ -1,0 +1,24 @@
+{
+  "id": "github-hamstershleter7-promised-f2882730",
+  "name": "hamstershleter7/promised",
+  "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-hamstershleter7-promised-f2882730",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hamstershleter7-promised-f2882730)",
+  "links": {
+    "primary": "https://github.com/hamstershleter7/promised",
+    "repo": "https://github.com/hamstershleter7/promised",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

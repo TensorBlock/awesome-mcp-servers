@@ -1,0 +1,24 @@
+{
+  "id": "github-samefarrar-mcp-pdb-ac264352",
+  "name": "samefarrar/mcp-pdb",
+  "description": "MCP-PDB integrates Python's debugger with Claude and other LLMs, enabling enhanced debugging capabilities through the Model Context Protocol.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-samefarrar-mcp-pdb-ac264352",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-samefarrar-mcp-pdb-ac264352)",
+  "links": {
+    "primary": "https://github.com/samefarrar/mcp-pdb",
+    "repo": "https://github.com/samefarrar/mcp-pdb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

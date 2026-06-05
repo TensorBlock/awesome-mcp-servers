@@ -1,0 +1,24 @@
+{
+  "id": "github-bigtian99-mcp-zentao-c654f452",
+  "name": "bigtian99/mcp-zentao",
+  "description": "A comprehensive API integration package for Zentao project management system, tailored for Cursor IDE, offering task management and bug tracking capabilities.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-bigtian99-mcp-zentao-c654f452",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bigtian99-mcp-zentao-c654f452)",
+  "links": {
+    "primary": "https://github.com/bigtian99/mcp-zentao",
+    "repo": "https://github.com/bigtian99/mcp-zentao",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

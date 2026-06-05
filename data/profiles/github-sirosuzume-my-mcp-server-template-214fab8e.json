@@ -1,0 +1,24 @@
+{
+  "id": "github-sirosuzume-my-mcp-server-template-214fab8e",
+  "name": "SiroSuzume/my-mcp-server-template",
+  "description": "A template for setting up and configuring MCP servers using Node.js.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-sirosuzume-my-mcp-server-template-214fab8e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sirosuzume-my-mcp-server-template-214fab8e)",
+  "links": {
+    "primary": "https://github.com/SiroSuzume/my-mcp-server-template",
+    "repo": "https://github.com/SiroSuzume/my-mcp-server-template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-pritampatil2603-test-upstage-pypi-2363c07c",
+  "name": "PritamPatil2603/test_upstage_pypi",
+  "description": "Facilitates AI-driven document digitization and information extraction using Upstage AI's APIs.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-pritampatil2603-test-upstage-pypi-2363c07c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pritampatil2603-test-upstage-pypi-2363c07c)",
+  "links": {
+    "primary": "https://github.com/PritamPatil2603/test_upstage_pypi",
+    "repo": "https://github.com/PritamPatil2603/test_upstage_pypi",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

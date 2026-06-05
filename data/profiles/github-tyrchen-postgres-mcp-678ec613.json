@@ -1,0 +1,24 @@
+{
+  "id": "github-tyrchen-postgres-mcp-678ec613",
+  "name": "tyrchen/postgres-mcp",
+  "description": "Facilitates AI-driven interactions with PostgreSQL databases through a standardized MCP interface.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-tyrchen-postgres-mcp-678ec613",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tyrchen-postgres-mcp-678ec613)",
+  "links": {
+    "primary": "https://github.com/tyrchen/postgres-mcp",
+    "repo": "https://github.com/tyrchen/postgres-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
