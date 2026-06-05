@@ -1,0 +1,24 @@
+{
+  "id": "github-ricardolx-airgen-mcp-4f1b1a23",
+  "name": "ricardolx/airgen-mcp",
+  "description": "A TypeScript-based server for generating assets, icons, and SVGs using MCP concepts.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ricardolx-airgen-mcp-4f1b1a23",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ricardolx-airgen-mcp-4f1b1a23)",
+  "links": {
+    "primary": "https://github.com/ricardolx/airgen-mcp",
+    "repo": "https://github.com/ricardolx/airgen-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-hieu-blackbox-mcp-brave-search-faa1e2a2",
+  "name": "hieu-blackbox/mcp-brave-search",
+  "description": "Integrates the Brave Search API to provide comprehensive web and local search capabilities with smart fallbacks and flexible filtering.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-hieu-blackbox-mcp-brave-search-faa1e2a2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hieu-blackbox-mcp-brave-search-faa1e2a2)",
+  "links": {
+    "primary": "https://github.com/hieu-blackbox/mcp-brave-search",
+    "repo": "https://github.com/hieu-blackbox/mcp-brave-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-edgee-cloud-mcp-server-edgee-33a23d82",
+  "name": "edgee-cloud/mcp-server-edgee",
+  "description": "Facilitates organization, project, component, and user management through the Edgee API using the Model Context Protocol.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-edgee-cloud-mcp-server-edgee-33a23d82",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-edgee-cloud-mcp-server-edgee-33a23d82)",
+  "links": {
+    "primary": "https://github.com/edgee-cloud/mcp-server-edgee",
+    "repo": "https://github.com/edgee-cloud/mcp-server-edgee",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-ggerve-coding-standards-mcp-88440e6f",
+  "name": "ggerve/coding-standards-mcp",
+  "description": "Facilitates access to standardized coding guidelines and best practices for Java, Python, and React through an MCP server.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-ggerve-coding-standards-mcp-88440e6f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ggerve-coding-standards-mcp-88440e6f)",
+  "links": {
+    "primary": "https://github.com/ggerve/coding-standards-mcp",
+    "repo": "https://github.com/ggerve/coding-standards-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

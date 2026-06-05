@@ -1,0 +1,24 @@
+{
+  "id": "github-nathannj-mcp-notes-cd64e17d",
+  "name": "nathannj/mcp-notes",
+  "description": "Facilitates the management of markdown notes with capabilities to create, read, update, and list notes using the stdio transport.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-nathannj-mcp-notes-cd64e17d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nathannj-mcp-notes-cd64e17d)",
+  "links": {
+    "primary": "https://github.com/nathannj/mcp-notes",
+    "repo": "https://github.com/nathannj/mcp-notes",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

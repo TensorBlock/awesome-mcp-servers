@@ -1,0 +1,24 @@
+{
+  "id": "github-wesleydean-claude-figma-mcp-66a4c24b",
+  "name": "wesleydean/claude-figma-mcp",
+  "description": "Facilitates design creation and manipulation in Figma through Claude using both plugin and API approaches.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-wesleydean-claude-figma-mcp-66a4c24b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wesleydean-claude-figma-mcp-66a4c24b)",
+  "links": {
+    "primary": "https://github.com/wesleydean/claude-figma-mcp",
+    "repo": "https://github.com/wesleydean/claude-figma-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

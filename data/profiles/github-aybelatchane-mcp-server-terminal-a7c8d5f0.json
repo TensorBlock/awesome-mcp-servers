@@ -1,0 +1,24 @@
+{
+  "id": "github-aybelatchane-mcp-server-terminal-a7c8d5f0",
+  "name": "aybelatchane/mcp-server-terminal",
+  "description": "MCP server enabling AI agents to interact with terminal applications (TUI/CLI) through structured Terminal State Tree representation. Think Playwright for terminals.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-aybelatchane-mcp-server-terminal-a7c8d5f0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aybelatchane-mcp-server-terminal-a7c8d5f0)",
+  "links": {
+    "primary": "https://github.com/aybelatchane/mcp-server-terminal",
+    "repo": "https://github.com/aybelatchane/mcp-server-terminal",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

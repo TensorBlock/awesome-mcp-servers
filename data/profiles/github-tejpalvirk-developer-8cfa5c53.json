@@ -1,0 +1,24 @@
+{
+  "id": "github-tejpalvirk-developer-8cfa5c53",
+  "name": "tejpalvirk/developer",
+  "description": "Facilitates seamless project context management for developers, ensuring continuity across coding sessions with comprehensive dependency tracking and decision history.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-tejpalvirk-developer-8cfa5c53",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tejpalvirk-developer-8cfa5c53)",
+  "links": {
+    "primary": "https://github.com/tejpalvirk/developer",
+    "repo": "https://github.com/tejpalvirk/developer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

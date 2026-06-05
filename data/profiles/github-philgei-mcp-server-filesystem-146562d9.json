@@ -1,0 +1,24 @@
+{
+  "id": "github-philgei-mcp-server-filesystem-146562d9",
+  "name": "philgei/mcp_server_filesystem",
+  "description": "An unofficial port of Claude's filesystem MCP server implementation for educational purposes, allowing directory access through Claude Desktop.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-philgei-mcp-server-filesystem-146562d9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-philgei-mcp-server-filesystem-146562d9)",
+  "links": {
+    "primary": "https://github.com/philgei/mcp_server_filesystem",
+    "repo": "https://github.com/philgei/mcp_server_filesystem",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

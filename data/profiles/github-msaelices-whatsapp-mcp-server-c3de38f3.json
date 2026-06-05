@@ -1,0 +1,24 @@
+{
+  "id": "github-msaelices-whatsapp-mcp-server-c3de38f3",
+  "name": "msaelices/whatsapp-mcp-server",
+  "description": "Facilitates interaction with WhatsApp Business API through a Model Context Protocol interface, leveraging FastMCP for enhanced performance and developer experience.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-msaelices-whatsapp-mcp-server-c3de38f3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-msaelices-whatsapp-mcp-server-c3de38f3)",
+  "links": {
+    "primary": "https://github.com/msaelices/whatsapp-mcp-server",
+    "repo": "https://github.com/msaelices/whatsapp-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

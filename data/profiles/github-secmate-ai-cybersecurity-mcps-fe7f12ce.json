@@ -1,0 +1,24 @@
+{
+  "id": "github-secmate-ai-cybersecurity-mcps-fe7f12ce",
+  "name": "secmate-ai/CyberSecurity-MCPs",
+  "description": "A collection of MCP servers focused on cybersecurity, featuring implementations like SQL injection testing and network space search engines.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-secmate-ai-cybersecurity-mcps-fe7f12ce",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-secmate-ai-cybersecurity-mcps-fe7f12ce)",
+  "links": {
+    "primary": "https://github.com/secmate-ai/CyberSecurity-MCPs",
+    "repo": "https://github.com/secmate-ai/CyberSecurity-MCPs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

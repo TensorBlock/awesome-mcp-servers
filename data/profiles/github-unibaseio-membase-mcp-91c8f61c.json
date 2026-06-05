@@ -1,0 +1,24 @@
+{
+  "id": "github-unibaseio-membase-mcp-91c8f61c",
+  "name": "unibaseio/membase-mcp",
+  "description": "Facilitates secure interaction with Membase for decentralized memory storage and retrieval in AI agents.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-unibaseio-membase-mcp-91c8f61c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-unibaseio-membase-mcp-91c8f61c)",
+  "links": {
+    "primary": "https://github.com/unibaseio/membase-mcp",
+    "repo": "https://github.com/unibaseio/membase-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

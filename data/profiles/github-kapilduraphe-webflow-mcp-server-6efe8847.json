@@ -1,0 +1,24 @@
+{
+  "id": "github-kapilduraphe-webflow-mcp-server-6efe8847",
+  "name": "kapilduraphe/webflow-mcp-server",
+  "description": "Facilitates interaction between Claude and Webflow's APIs, enabling site management and data retrieval.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-kapilduraphe-webflow-mcp-server-6efe8847",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kapilduraphe-webflow-mcp-server-6efe8847)",
+  "links": {
+    "primary": "https://github.com/kapilduraphe/webflow-mcp-server",
+    "repo": "https://github.com/kapilduraphe/webflow-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

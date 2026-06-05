@@ -1,0 +1,24 @@
+{
+  "id": "github-rohitkrish46-docs-mcp-server-b1d54eaf",
+  "name": "RohitKrish46/docs-mcp-server",
+  "description": "Empowers LLMs to dynamically search and retrieve up-to-date documentation from popular AI libraries using a lightweight MCP server.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-rohitkrish46-docs-mcp-server-b1d54eaf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rohitkrish46-docs-mcp-server-b1d54eaf)",
+  "links": {
+    "primary": "https://github.com/RohitKrish46/docs-mcp-server",
+    "repo": "https://github.com/RohitKrish46/docs-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

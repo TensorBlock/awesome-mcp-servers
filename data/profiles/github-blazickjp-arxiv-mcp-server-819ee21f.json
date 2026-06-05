@@ -1,0 +1,24 @@
+{
+  "id": "github-blazickjp-arxiv-mcp-server-819ee21f",
+  "name": "blazickjp/arxiv-mcp-server",
+  "description": "Facilitates AI-driven search and analysis of arXiv papers via a streamlined MCP interface.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-blazickjp-arxiv-mcp-server-819ee21f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-blazickjp-arxiv-mcp-server-819ee21f)",
+  "links": {
+    "primary": "https://github.com/blazickjp/arxiv-mcp-server",
+    "repo": "https://github.com/blazickjp/arxiv-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

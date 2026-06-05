@@ -1,0 +1,24 @@
+{
+  "id": "github-mgomez-01-mcpoke-server-5208a79b",
+  "name": "Mgomez-01/mcpoke-server",
+  "description": "Connects to the Pokémon API to provide comprehensive Pokémon information for AI assistants like Claude.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-mgomez-01-mcpoke-server-5208a79b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mgomez-01-mcpoke-server-5208a79b)",
+  "links": {
+    "primary": "https://github.com/Mgomez-01/mcpoke-server",
+    "repo": "https://github.com/Mgomez-01/mcpoke-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

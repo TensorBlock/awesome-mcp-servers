@@ -1,0 +1,24 @@
+{
+  "id": "github-peterableda-iceberg-mcp-server-9b7eb2ab",
+  "name": "peterableda/iceberg-mcp-server",
+  "description": "Facilitates read-only access to Iceberg tables via Apache Impala, enabling LLMs to inspect database schemas and execute queries.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-peterableda-iceberg-mcp-server-9b7eb2ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-peterableda-iceberg-mcp-server-9b7eb2ab)",
+  "links": {
+    "primary": "https://github.com/peterableda/iceberg-mcp-server",
+    "repo": "https://github.com/peterableda/iceberg-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

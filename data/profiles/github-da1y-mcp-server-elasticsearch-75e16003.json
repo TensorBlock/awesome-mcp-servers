@@ -1,0 +1,24 @@
+{
+  "id": "github-da1y-mcp-server-elasticsearch-75e16003",
+  "name": "da1y/mcp-server-elasticsearch",
+  "description": "Facilitates LLM-driven management and querying of Elasticsearch clusters through a Model Context Protocol server.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-da1y-mcp-server-elasticsearch-75e16003",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-da1y-mcp-server-elasticsearch-75e16003)",
+  "links": {
+    "primary": "https://github.com/da1y/mcp-server-elasticsearch",
+    "repo": "https://github.com/da1y/mcp-server-elasticsearch",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
