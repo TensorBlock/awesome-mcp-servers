@@ -1,0 +1,24 @@
+{
+  "id": "github-rileylemm-graphrag-mcp-29278a69",
+  "name": "rileylemm/graphrag_mcp",
+  "description": "Facilitates seamless integration between large language models and a hybrid graph-vector database system for advanced semantic and graph-based document retrieval.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-rileylemm-graphrag-mcp-29278a69",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rileylemm-graphrag-mcp-29278a69)",
+  "links": {
+    "primary": "https://github.com/rileylemm/graphrag_mcp",
+    "repo": "https://github.com/rileylemm/graphrag_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-takumiy235-uniprot-mcp-server-205e1606",
+  "name": "TakumiY235/uniprot-mcp-server",
+  "description": "Facilitates AI-driven access to UniProt protein data, enabling retrieval of protein functions and sequences.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-takumiy235-uniprot-mcp-server-205e1606",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-takumiy235-uniprot-mcp-server-205e1606)",
+  "links": {
+    "primary": "https://github.com/TakumiY235/uniprot-mcp-server",
+    "repo": "https://github.com/TakumiY235/uniprot-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

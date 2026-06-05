@@ -1,0 +1,24 @@
+{
+  "id": "github-honeygrid-honeygrid-mcp-demo-d4285edf",
+  "name": "honeygrid/honeygrid-mcp-demo",
+  "description": "A remote MCP server implementation on Cloudflare Workers with OAuth login, enabling seamless integration with Claude Desktop and MCP Inspector.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-honeygrid-honeygrid-mcp-demo-d4285edf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-honeygrid-honeygrid-mcp-demo-d4285edf)",
+  "links": {
+    "primary": "https://github.com/honeygrid/honeygrid-mcp-demo",
+    "repo": "https://github.com/honeygrid/honeygrid-mcp-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

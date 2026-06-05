@@ -1,0 +1,24 @@
+{
+  "id": "github-marlonluo2018-outlook-mcp-server-main-210b56be",
+  "name": "marlonluo2018/outlook-mcp-server-main",
+  "description": "Facilitates seamless interaction with Microsoft Outlook email functionalities through a standardized MCP interface, enabling LLMs to manage emails efficiently.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-marlonluo2018-outlook-mcp-server-main-210b56be",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-marlonluo2018-outlook-mcp-server-main-210b56be)",
+  "links": {
+    "primary": "https://github.com/marlonluo2018/outlook-mcp-server-main",
+    "repo": "https://github.com/marlonluo2018/outlook-mcp-server-main",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

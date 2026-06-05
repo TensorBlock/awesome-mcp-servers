@@ -1,0 +1,24 @@
+{
+  "id": "github-snehsuresh-crawl-in-chat-3f5f0b1c",
+  "name": "snehsuresh/Crawl-In-Chat",
+  "description": "A modular system for web crawling and AI-powered chat interfaces, integrating XML sitemap ingestion, vector embeddings, and multiple frontend options including MCP.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-snehsuresh-crawl-in-chat-3f5f0b1c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-snehsuresh-crawl-in-chat-3f5f0b1c)",
+  "links": {
+    "primary": "https://github.com/snehsuresh/Crawl-In-Chat",
+    "repo": "https://github.com/snehsuresh/Crawl-In-Chat",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

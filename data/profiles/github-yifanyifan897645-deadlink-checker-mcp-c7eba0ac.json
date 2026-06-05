@@ -1,0 +1,24 @@
+{
+  "id": "github-yifanyifan897645-deadlink-checker-mcp-c7eba0ac",
+  "name": "yifanyifan897645/deadlink-checker-mcp",
+  "description": "Dead link checker MCP server for websites: detects broken links, redirects, and timeouts with detailed reporting.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-yifanyifan897645-deadlink-checker-mcp-c7eba0ac",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yifanyifan897645-deadlink-checker-mcp-c7eba0ac)",
+  "links": {
+    "primary": "https://github.com/yifanyifan897645/deadlink-checker-mcp",
+    "repo": "https://github.com/yifanyifan897645/deadlink-checker-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

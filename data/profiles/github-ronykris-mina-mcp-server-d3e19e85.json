@@ -1,0 +1,24 @@
+{
+  "id": "github-ronykris-mina-mcp-server-d3e19e85",
+  "name": "ronykris/mina-mcp-server",
+  "description": "Facilitates AI models in accessing zkApp transaction data from the Mina blockchain using the Blockberry API.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ronykris-mina-mcp-server-d3e19e85",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ronykris-mina-mcp-server-d3e19e85)",
+  "links": {
+    "primary": "https://github.com/ronykris/mina-mcp-server",
+    "repo": "https://github.com/ronykris/mina-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

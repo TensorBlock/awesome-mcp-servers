@@ -1,0 +1,24 @@
+{
+  "id": "github-cam10001110101-mcp-server-private-user-context-ba167427",
+  "name": "Cam10001110101/mcp-server-private-user-context",
+  "description": "A secure MCP server designed for managing and encrypting personal information and context.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-cam10001110101-mcp-server-private-user-context-ba167427",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cam10001110101-mcp-server-private-user-context-ba167427)",
+  "links": {
+    "primary": "https://github.com/Cam10001110101/mcp-server-private-user-context",
+    "repo": "https://github.com/Cam10001110101/mcp-server-private-user-context",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-puryadianati-convert-figma-code-cursor-bef7bbbf",
+  "name": "puryadianati/convert-figma-code-cursor",
+  "description": "Facilitates seamless communication between Cursor AI and Figma for programmatic design modifications via MCP integration.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-puryadianati-convert-figma-code-cursor-bef7bbbf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-puryadianati-convert-figma-code-cursor-bef7bbbf)",
+  "links": {
+    "primary": "https://github.com/puryadianati/convert-figma-code-cursor",
+    "repo": "https://github.com/puryadianati/convert-figma-code-cursor",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-mokso-enreachvoice-mcp-1c1e4397",
+  "name": "mokso/enreachvoice_mcp",
+  "description": "Connects EnreachVoice API to AI using MCP protocol for seamless integration.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-mokso-enreachvoice-mcp-1c1e4397",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mokso-enreachvoice-mcp-1c1e4397)",
+  "links": {
+    "primary": "https://github.com/mokso/enreachvoice_mcp",
+    "repo": "https://github.com/mokso/enreachvoice_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

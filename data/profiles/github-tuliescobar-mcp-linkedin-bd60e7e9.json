@@ -1,0 +1,24 @@
+{
+  "id": "github-tuliescobar-mcp-linkedin-bd60e7e9",
+  "name": "TuliEscobar/mcp-linkedin",
+  "description": "Facilitates interaction with LinkedIn's Feeds and Job API using unofficial LinkedIn API access.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-tuliescobar-mcp-linkedin-bd60e7e9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tuliescobar-mcp-linkedin-bd60e7e9)",
+  "links": {
+    "primary": "https://github.com/TuliEscobar/mcp-linkedin",
+    "repo": "https://github.com/TuliEscobar/mcp-linkedin",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

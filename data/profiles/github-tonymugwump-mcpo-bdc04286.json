@@ -1,0 +1,24 @@
+{
+  "id": "github-tonymugwump-mcpo-bdc04286",
+  "name": "TonyMugwump/mcpo",
+  "description": "mcpo transforms MCP server commands into OpenAPI-compatible HTTP servers, enhancing security and interoperability with AI tools.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-tonymugwump-mcpo-bdc04286",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tonymugwump-mcpo-bdc04286)",
+  "links": {
+    "primary": "https://github.com/TonyMugwump/mcpo",
+    "repo": "https://github.com/TonyMugwump/mcpo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

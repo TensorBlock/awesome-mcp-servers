@@ -1,0 +1,24 @@
+{
+  "id": "github-briankscheong-k8s-mcp-server-0f3565e9",
+  "name": "briankscheong/k8s-mcp-server",
+  "description": "Seamlessly integrates with Kubernetes APIs to enable advanced automation and interaction capabilities for developers, operators, and AI tools.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-briankscheong-k8s-mcp-server-0f3565e9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-briankscheong-k8s-mcp-server-0f3565e9)",
+  "links": {
+    "primary": "https://github.com/briankscheong/k8s-mcp-server",
+    "repo": "https://github.com/briankscheong/k8s-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

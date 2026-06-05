@@ -1,0 +1,24 @@
+{
+  "id": "github-kishimoto-banana-shopify-py-mcp-ff712deb",
+  "name": "kishimoto-banana/shopify-py-mcp",
+  "description": "Facilitates seamless interaction with Shopify's API for product management through Claude Desktop.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-kishimoto-banana-shopify-py-mcp-ff712deb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kishimoto-banana-shopify-py-mcp-ff712deb)",
+  "links": {
+    "primary": "https://github.com/kishimoto-banana/shopify-py-mcp",
+    "repo": "https://github.com/kishimoto-banana/shopify-py-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

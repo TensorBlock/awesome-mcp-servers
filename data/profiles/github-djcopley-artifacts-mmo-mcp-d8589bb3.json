@@ -1,0 +1,24 @@
+{
+  "id": "github-djcopley-artifacts-mmo-mcp-d8589bb3",
+  "name": "djcopley/artifacts-mmo-mcp",
+  "description": "Facilitates the management and execution of Artifacts MMO through a dedicated MCP server.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-djcopley-artifacts-mmo-mcp-d8589bb3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-djcopley-artifacts-mmo-mcp-d8589bb3)",
+  "links": {
+    "primary": "https://github.com/djcopley/artifacts-mmo-mcp",
+    "repo": "https://github.com/djcopley/artifacts-mmo-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

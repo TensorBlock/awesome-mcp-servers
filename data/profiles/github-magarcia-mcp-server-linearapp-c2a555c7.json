@@ -1,0 +1,24 @@
+{
+  "id": "github-magarcia-mcp-server-linearapp-c2a555c7",
+  "name": "magarcia/mcp-server-linearapp",
+  "description": "Facilitates seamless interaction with Linear's issue tracking system through MCP, enabling LLMs to manage and track issues efficiently.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-magarcia-mcp-server-linearapp-c2a555c7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-magarcia-mcp-server-linearapp-c2a555c7)",
+  "links": {
+    "primary": "https://github.com/magarcia/mcp-server-linearapp",
+    "repo": "https://github.com/magarcia/mcp-server-linearapp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

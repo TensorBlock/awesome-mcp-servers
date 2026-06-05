@@ -1,0 +1,24 @@
+{
+  "id": "github-heurist-network-heurist-mesh-mcp-server-a2b266ba",
+  "name": "heurist-network/heurist-mesh-mcp-server",
+  "description": "Connects to Heurist Mesh APIs, enabling Claude to access blockchain and web3 tools for cryptocurrency data and smart contract security.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-heurist-network-heurist-mesh-mcp-server-a2b266ba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-heurist-network-heurist-mesh-mcp-server-a2b266ba)",
+  "links": {
+    "primary": "https://github.com/heurist-network/heurist-mesh-mcp-server",
+    "repo": "https://github.com/heurist-network/heurist-mesh-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

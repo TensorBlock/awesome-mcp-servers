@@ -1,0 +1,24 @@
+{
+  "id": "github-kouui-web-search-duckduckgo-613256b0",
+  "name": "kouui/web-search-duckduckgo",
+  "description": "Enables web search and content fetching using DuckDuckGo and Jina API without requiring an API key.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-kouui-web-search-duckduckgo-613256b0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kouui-web-search-duckduckgo-613256b0)",
+  "links": {
+    "primary": "https://github.com/kouui/web-search-duckduckgo",
+    "repo": "https://github.com/kouui/web-search-duckduckgo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

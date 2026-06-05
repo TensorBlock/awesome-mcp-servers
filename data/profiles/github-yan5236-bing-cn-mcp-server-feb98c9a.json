@@ -1,0 +1,24 @@
+{
+  "id": "github-yan5236-bing-cn-mcp-server-feb98c9a",
+  "name": "yan5236/bing-cn-mcp-server",
+  "description": "A Chinese Bing search tool leveraging MCP for seamless integration with AI tools like Claude, enabling direct Bing searches and webpage content retrieval without an API key.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-yan5236-bing-cn-mcp-server-feb98c9a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yan5236-bing-cn-mcp-server-feb98c9a)",
+  "links": {
+    "primary": "https://github.com/yan5236/bing-cn-mcp-server",
+    "repo": "https://github.com/yan5236/bing-cn-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

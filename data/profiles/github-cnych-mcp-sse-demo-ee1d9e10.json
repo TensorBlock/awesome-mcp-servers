@@ -1,0 +1,24 @@
+{
+  "id": "github-cnych-mcp-sse-demo-ee1d9e10",
+  "name": "cnych/mcp-sse-demo",
+  "description": "A smart shopping assistant leveraging SSE-based MCP services for real-time product information and inventory management.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-cnych-mcp-sse-demo-ee1d9e10",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cnych-mcp-sse-demo-ee1d9e10)",
+  "links": {
+    "primary": "https://github.com/cnych/mcp-sse-demo",
+    "repo": "https://github.com/cnych/mcp-sse-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

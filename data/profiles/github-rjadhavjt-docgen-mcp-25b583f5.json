@@ -1,0 +1,24 @@
+{
+  "id": "github-rjadhavjt-docgen-mcp-25b583f5",
+  "name": "rjadhavJT/docgen-mcp",
+  "description": "Automates documentation creation from source files with template-based generation and integration with Google Drive, GitHub, and Perplexity.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-rjadhavjt-docgen-mcp-25b583f5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rjadhavjt-docgen-mcp-25b583f5)",
+  "links": {
+    "primary": "https://github.com/rjadhavJT/docgen-mcp",
+    "repo": "https://github.com/rjadhavJT/docgen-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

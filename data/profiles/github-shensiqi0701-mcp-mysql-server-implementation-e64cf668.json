@@ -1,0 +1,24 @@
+{
+  "id": "github-shensiqi0701-mcp-mysql-server-implementation-e64cf668",
+  "name": "shensiqi0701/MCP-MySQL-server-implementation",
+  "description": "Facilitates LLMs in accessing and executing SQL queries on MySQL databases, with robust security and performance features.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-shensiqi0701-mcp-mysql-server-implementation-e64cf668",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shensiqi0701-mcp-mysql-server-implementation-e64cf668)",
+  "links": {
+    "primary": "https://github.com/shensiqi0701/MCP-MySQL-server-implementation",
+    "repo": "https://github.com/shensiqi0701/MCP-MySQL-server-implementation",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

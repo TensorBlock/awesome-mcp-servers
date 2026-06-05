@@ -1,0 +1,24 @@
+{
+  "id": "github-szowesgad-mcp-server-semgrep-da169a7f",
+  "name": "Szowesgad/mcp-server-semgrep",
+  "description": "Integrates Semgrep with AI assistants for advanced code analysis and security vulnerability detection through a conversational interface.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-szowesgad-mcp-server-semgrep-da169a7f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-szowesgad-mcp-server-semgrep-da169a7f)",
+  "links": {
+    "primary": "https://github.com/Szowesgad/mcp-server-semgrep",
+    "repo": "https://github.com/Szowesgad/mcp-server-semgrep",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
