@@ -1,0 +1,24 @@
+{
+  "id": "github-ztein-rb-api-mcp-cdfd2425",
+  "name": "Ztein/rb-api-mcp",
+  "description": "Facilitates seamless integration between LLMs and Kolada, enabling data-driven analysis of Swedish municipal statistics.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ztein-rb-api-mcp-cdfd2425",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ztein-rb-api-mcp-cdfd2425)",
+  "links": {
+    "primary": "https://github.com/Ztein/rb-api-mcp",
+    "repo": "https://github.com/Ztein/rb-api-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

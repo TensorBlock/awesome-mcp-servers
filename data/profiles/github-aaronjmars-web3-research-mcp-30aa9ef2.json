@@ -1,0 +1,24 @@
+{
+  "id": "github-aaronjmars-web3-research-mcp-30aa9ef2",
+  "name": "aaronjmars/web3-research-mcp",
+  "description": "Conducts in-depth cryptocurrency research by aggregating data from multiple sources and generating structured reports.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-aaronjmars-web3-research-mcp-30aa9ef2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aaronjmars-web3-research-mcp-30aa9ef2)",
+  "links": {
+    "primary": "https://github.com/aaronjmars/web3-research-mcp",
+    "repo": "https://github.com/aaronjmars/web3-research-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

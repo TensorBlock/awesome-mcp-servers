@@ -1,0 +1,24 @@
+{
+  "id": "github-brs98-linear-mcp-7e2bd7e4",
+  "name": "brs98/linear-mcp",
+  "description": "Integrates AI models with Linear's API for seamless project and issue management through standardized MCP tools.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-brs98-linear-mcp-7e2bd7e4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-brs98-linear-mcp-7e2bd7e4)",
+  "links": {
+    "primary": "https://github.com/brs98/linear-mcp",
+    "repo": "https://github.com/brs98/linear-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

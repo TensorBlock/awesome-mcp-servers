@@ -1,0 +1,24 @@
+{
+  "id": "github-xgenerationlab-xiyan-mcp-server-c5d76cc2",
+  "name": "XGenerationLab/xiyan_mcp_server",
+  "description": "XiYan MCP Server facilitates natural language queries to databases using state-of-the-art text-to-SQL models.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-xgenerationlab-xiyan-mcp-server-c5d76cc2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xgenerationlab-xiyan-mcp-server-c5d76cc2)",
+  "links": {
+    "primary": "https://github.com/XGenerationLab/xiyan_mcp_server",
+    "repo": "https://github.com/XGenerationLab/xiyan_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-barryyip0625-mcp-discord-3590de76",
+  "name": "barryyip0625/mcp-discord",
+  "description": "Facilitates AI assistant interactions with Discord through comprehensive server and channel management capabilities.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-barryyip0625-mcp-discord-3590de76",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-barryyip0625-mcp-discord-3590de76)",
+  "links": {
+    "primary": "https://github.com/barryyip0625/mcp-discord",
+    "repo": "https://github.com/barryyip0625/mcp-discord",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

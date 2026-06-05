@@ -1,0 +1,24 @@
+{
+  "id": "github-vetlefo-sequential-thinking-4f3636e4",
+  "name": "vetlefo/sequential-thinking",
+  "description": "Enhances the official MCP sequential thinking server with graph-based thought management and advanced metadata tracking for complex thought processes.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-vetlefo-sequential-thinking-4f3636e4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vetlefo-sequential-thinking-4f3636e4)",
+  "links": {
+    "primary": "https://github.com/vetlefo/sequential-thinking",
+    "repo": "https://github.com/vetlefo/sequential-thinking",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

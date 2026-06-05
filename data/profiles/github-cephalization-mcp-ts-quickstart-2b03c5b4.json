@@ -1,0 +1,24 @@
+{
+  "id": "github-cephalization-mcp-ts-quickstart-2b03c5b4",
+  "name": "cephalization/mcp-ts-quickstart",
+  "description": "A build-less TypeScript MCP server that fetches top stories from Hacker News using stdio transport.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-cephalization-mcp-ts-quickstart-2b03c5b4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cephalization-mcp-ts-quickstart-2b03c5b4)",
+  "links": {
+    "primary": "https://github.com/cephalization/mcp-ts-quickstart",
+    "repo": "https://github.com/cephalization/mcp-ts-quickstart",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

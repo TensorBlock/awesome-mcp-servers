@@ -1,0 +1,24 @@
+{
+  "id": "github-mario-andreschak-mcp-gameboy-6d5b1adb",
+  "name": "mario-andreschak/mcp-gameboy",
+  "description": "Facilitates LLM interaction with a GameBoy emulator, enabling ROM loading and control via a web interface or MCP client.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-mario-andreschak-mcp-gameboy-6d5b1adb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mario-andreschak-mcp-gameboy-6d5b1adb)",
+  "links": {
+    "primary": "https://github.com/mario-andreschak/mcp-gameboy",
+    "repo": "https://github.com/mario-andreschak/mcp-gameboy",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

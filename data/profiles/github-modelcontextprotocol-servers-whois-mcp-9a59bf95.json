@@ -1,0 +1,24 @@
+{
+  "id": "github-modelcontextprotocol-servers-whois-mcp-9a59bf95",
+  "name": "modelcontextprotocol-servers/whois-mcp",
+  "description": "Facilitates WHOIS lookups for AI agents to retrieve domain registration details without browser intervention.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-modelcontextprotocol-servers-whois-mcp-9a59bf95",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-modelcontextprotocol-servers-whois-mcp-9a59bf95)",
+  "links": {
+    "primary": "https://github.com/modelcontextprotocol-servers/whois-mcp",
+    "repo": "https://github.com/modelcontextprotocol-servers/whois-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

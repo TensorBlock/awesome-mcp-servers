@@ -1,0 +1,24 @@
+{
+  "id": "github-hottechstack-polars-docs-mcp-513bec20",
+  "name": "HotTechStack/polars-docs-mcp",
+  "description": "Facilitates real-time Polars API documentation retrieval with seamless LLM integration, eliminating the need for web scraping.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-hottechstack-polars-docs-mcp-513bec20",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hottechstack-polars-docs-mcp-513bec20)",
+  "links": {
+    "primary": "https://github.com/HotTechStack/polars-docs-mcp",
+    "repo": "https://github.com/HotTechStack/polars-docs-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-resend-mcp-send-email-7d63cac8",
+  "name": "resend/mcp-send-email",
+  "description": "Facilitates seamless email dispatch directly from Cursor using Resend's API, enhancing productivity with scheduled and customizable email options.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-resend-mcp-send-email-7d63cac8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-resend-mcp-send-email-7d63cac8)",
+  "links": {
+    "primary": "https://github.com/resend/mcp-send-email",
+    "repo": "https://github.com/resend/mcp-send-email",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

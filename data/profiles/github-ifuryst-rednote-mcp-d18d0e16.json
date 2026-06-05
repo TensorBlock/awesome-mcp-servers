@@ -1,0 +1,24 @@
+{
+  "id": "github-ifuryst-rednote-mcp-d18d0e16",
+  "name": "iFurySt/RedNote-MCP",
+  "description": "Facilitates access to XiaoHongShu content with authentication management and keyword search capabilities.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-ifuryst-rednote-mcp-d18d0e16",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ifuryst-rednote-mcp-d18d0e16)",
+  "links": {
+    "primary": "https://github.com/iFurySt/RedNote-MCP",
+    "repo": "https://github.com/iFurySt/RedNote-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

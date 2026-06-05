@@ -1,0 +1,24 @@
+{
+  "id": "github-stucchi-db-mcp-server-d978f968",
+  "name": "stucchi/db-mcp-server",
+  "description": "Database MCP server for MySQL, PostgreSQL, and MongoDB with SSH tunneling support. Run queries, explore schemas, and manage data across multiple database types.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-stucchi-db-mcp-server-d978f968",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stucchi-db-mcp-server-d978f968)",
+  "links": {
+    "primary": "https://github.com/stucchi/db-mcp-server",
+    "repo": "https://github.com/stucchi/db-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

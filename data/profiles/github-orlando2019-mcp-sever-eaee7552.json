@@ -1,0 +1,24 @@
+{
+  "id": "github-orlando2019-mcp-sever-eaee7552",
+  "name": "orlando2019/MCP-SEVER",
+  "description": "A comprehensive full-stack MCP server implementation for file management and client request handling, supporting integration with n8n, AppSheet, and npm using TypeScript and Python.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-orlando2019-mcp-sever-eaee7552",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-orlando2019-mcp-sever-eaee7552)",
+  "links": {
+    "primary": "https://github.com/orlando2019/MCP-SEVER",
+    "repo": "https://github.com/orlando2019/MCP-SEVER",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-open-strategy-partners-osp-marketing-tools-9a24a273",
+  "name": "open-strategy-partners/osp_marketing_tools",
+  "description": "Empowers LLMs with Open Strategy Partners' core writing and product marketing techniques for technical content creation and optimization.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-open-strategy-partners-osp-marketing-tools-9a24a273",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-open-strategy-partners-osp-marketing-tools-9a24a273)",
+  "links": {
+    "primary": "https://github.com/open-strategy-partners/osp_marketing_tools",
+    "repo": "https://github.com/open-strategy-partners/osp_marketing_tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

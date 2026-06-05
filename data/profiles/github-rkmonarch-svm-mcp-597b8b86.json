@@ -1,0 +1,24 @@
+{
+  "id": "github-rkmonarch-svm-mcp-597b8b86",
+  "name": "rkmonarch/svm-mcp",
+  "description": "Integrates Claude AI with SOON and SVM-based blockchains to manage balances, transactions, and token holdings.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-rkmonarch-svm-mcp-597b8b86",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rkmonarch-svm-mcp-597b8b86)",
+  "links": {
+    "primary": "https://github.com/rkmonarch/svm-mcp",
+    "repo": "https://github.com/rkmonarch/svm-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

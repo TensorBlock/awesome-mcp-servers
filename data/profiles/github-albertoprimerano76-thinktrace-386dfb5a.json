@@ -1,0 +1,24 @@
+{
+  "id": "github-albertoprimerano76-thinktrace-386dfb5a",
+  "name": "AlbertoPrimerano76/thinktrace",
+  "description": "ThinkTrace is a modular framework that integrates AI tools into LLM agents via the MCP protocol, enabling tool-aware reasoning with structured decision trees and explainable outputs.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-albertoprimerano76-thinktrace-386dfb5a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-albertoprimerano76-thinktrace-386dfb5a)",
+  "links": {
+    "primary": "https://github.com/AlbertoPrimerano76/thinktrace",
+    "repo": "https://github.com/AlbertoPrimerano76/thinktrace",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

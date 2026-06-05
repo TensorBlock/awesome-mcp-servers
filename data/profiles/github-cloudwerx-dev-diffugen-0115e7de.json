@@ -1,0 +1,24 @@
+{
+  "id": "github-cloudwerx-dev-diffugen-0115e7de",
+  "name": "CLOUDWERX-DEV/DiffuGen",
+  "description": "DiffuGen offers a seamless interface for generating images using Stable Diffusion models, integrating directly with IDEs via MCP for efficient development workflows.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-cloudwerx-dev-diffugen-0115e7de",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cloudwerx-dev-diffugen-0115e7de)",
+  "links": {
+    "primary": "https://github.com/CLOUDWERX-DEV/DiffuGen",
+    "repo": "https://github.com/CLOUDWERX-DEV/DiffuGen",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

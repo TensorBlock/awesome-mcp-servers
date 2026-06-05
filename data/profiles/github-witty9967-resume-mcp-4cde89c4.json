@@ -1,0 +1,24 @@
+{
+  "id": "github-witty9967-resume-mcp-4cde89c4",
+  "name": "Witty9967/resume-mcp",
+  "description": "Enhances AI assistants to automatically update JSON Resumes by analyzing coding projects and integrating with GitHub and OpenAI.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-witty9967-resume-mcp-4cde89c4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-witty9967-resume-mcp-4cde89c4)",
+  "links": {
+    "primary": "https://github.com/Witty9967/resume-mcp",
+    "repo": "https://github.com/Witty9967/resume-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

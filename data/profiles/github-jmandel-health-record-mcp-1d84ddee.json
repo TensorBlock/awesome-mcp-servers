@@ -1,0 +1,24 @@
+{
+  "id": "github-jmandel-health-record-mcp-1d84ddee",
+  "name": "jmandel/health-record-mcp",
+  "description": "Facilitates secure AI access to Electronic Health Records using SMART on FHIR, enabling comprehensive data retrieval and analysis through MCP tools.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/github-jmandel-health-record-mcp-1d84ddee",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jmandel-health-record-mcp-1d84ddee)",
+  "links": {
+    "primary": "https://github.com/jmandel/health-record-mcp",
+    "repo": "https://github.com/jmandel/health-record-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

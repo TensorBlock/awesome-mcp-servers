@@ -1,0 +1,24 @@
+{
+  "id": "github-avimbu-uptime-agent-mcp-bb80b40f",
+  "name": "AVIMBU/uptime_agent_mcp",
+  "description": "Facilitates seamless integration of Uptime Agent monitoring with AI assistants for real-time system status checks and incident management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-avimbu-uptime-agent-mcp-bb80b40f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-avimbu-uptime-agent-mcp-bb80b40f)",
+  "links": {
+    "primary": "https://github.com/AVIMBU/uptime_agent_mcp",
+    "repo": "https://github.com/AVIMBU/uptime_agent_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

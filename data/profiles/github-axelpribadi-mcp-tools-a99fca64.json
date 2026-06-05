@@ -1,0 +1,24 @@
+{
+  "id": "github-axelpribadi-mcp-tools-a99fca64",
+  "name": "AxelPribadi/MCP-Tools",
+  "description": "MCP-Tools offers a modular suite of servers to enhance service interactions, with each module providing unique functionalities.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-axelpribadi-mcp-tools-a99fca64",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-axelpribadi-mcp-tools-a99fca64)",
+  "links": {
+    "primary": "https://github.com/AxelPribadi/MCP-Tools",
+    "repo": "https://github.com/AxelPribadi/MCP-Tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

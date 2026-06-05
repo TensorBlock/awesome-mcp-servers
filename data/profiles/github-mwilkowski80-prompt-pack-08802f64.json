@@ -1,0 +1,24 @@
+{
+  "id": "github-mwilkowski80-prompt-pack-08802f64",
+  "name": "mwilkowski80/prompt-pack",
+  "description": "Prompt-Pack streamlines code sharing with ChatGPT by automating file selection and formatting, and can be configured as an MCP server for direct integration with AI clients.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-mwilkowski80-prompt-pack-08802f64",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mwilkowski80-prompt-pack-08802f64)",
+  "links": {
+    "primary": "https://github.com/mwilkowski80/prompt-pack",
+    "repo": "https://github.com/mwilkowski80/prompt-pack",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
