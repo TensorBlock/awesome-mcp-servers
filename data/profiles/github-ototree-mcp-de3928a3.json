@@ -1,0 +1,24 @@
+{
+  "id": "github-ototree-mcp-de3928a3",
+  "name": "otoTree/MCP",
+  "description": "Facilitates interaction between local MCP servers and platforms like Coze, Dify, and FastGPT through a Flask-based interface.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ototree-mcp-de3928a3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ototree-mcp-de3928a3)",
+  "links": {
+    "primary": "https://github.com/otoTree/MCP",
+    "repo": "https://github.com/otoTree/MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

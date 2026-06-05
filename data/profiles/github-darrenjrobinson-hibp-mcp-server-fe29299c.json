@@ -1,0 +1,24 @@
+{
+  "id": "github-darrenjrobinson-hibp-mcp-server-fe29299c",
+  "name": "darrenjrobinson/HIBP-MCP-Server",
+  "description": "Enables natural language queries to the Have I Been Pwned API for checking email breaches, specific breach details, password exposures, and pastes.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-darrenjrobinson-hibp-mcp-server-fe29299c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-darrenjrobinson-hibp-mcp-server-fe29299c)",
+  "links": {
+    "primary": "https://github.com/darrenjrobinson/HIBP-MCP-Server",
+    "repo": "https://github.com/darrenjrobinson/HIBP-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

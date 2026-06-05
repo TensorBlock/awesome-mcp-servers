@@ -1,0 +1,24 @@
+{
+  "id": "github-classfang-ssh-mcp-server-550f8cc4",
+  "name": "classfang/ssh-mcp-server",
+  "description": "Facilitates secure remote SSH command execution via the MCP protocol, enabling AI assistants to interact with servers without exposing SSH credentials.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-classfang-ssh-mcp-server-550f8cc4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-classfang-ssh-mcp-server-550f8cc4)",
+  "links": {
+    "primary": "https://github.com/classfang/ssh-mcp-server",
+    "repo": "https://github.com/classfang/ssh-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

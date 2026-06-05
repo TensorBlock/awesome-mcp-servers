@@ -1,0 +1,24 @@
+{
+  "id": "github-sdaaron-coze-workflow-mcp-75fadecb",
+  "name": "sdaaron/coze-workflow-mcp",
+  "description": "Facilitates the integration of the Coze workflow into Claude and Cursor environments through a customizable MCP server setup.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-sdaaron-coze-workflow-mcp-75fadecb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sdaaron-coze-workflow-mcp-75fadecb)",
+  "links": {
+    "primary": "https://github.com/sdaaron/coze-workflow-mcp",
+    "repo": "https://github.com/sdaaron/coze-workflow-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-djalal-quran-mcp-server-860fb9a9",
+  "name": "djalal/quran-mcp-server",
+  "description": "Facilitates interaction with the Quran.com API for verse search, translation, and tafsir through an MCP server.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-djalal-quran-mcp-server-860fb9a9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-djalal-quran-mcp-server-860fb9a9)",
+  "links": {
+    "primary": "https://github.com/djalal/quran-mcp-server",
+    "repo": "https://github.com/djalal/quran-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-gelembjuk-cleverchatty-53919dcc",
+  "name": "Gelembjuk/cleverchatty",
+  "description": "CleverChatty is a Go package that integrates MCP server support for AI chat systems, enabling seamless interaction with large language models across various platforms.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-gelembjuk-cleverchatty-53919dcc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gelembjuk-cleverchatty-53919dcc)",
+  "links": {
+    "primary": "https://github.com/Gelembjuk/cleverchatty",
+    "repo": "https://github.com/Gelembjuk/cleverchatty",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

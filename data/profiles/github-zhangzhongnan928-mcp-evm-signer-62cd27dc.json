@@ -1,0 +1,24 @@
+{
+  "id": "github-zhangzhongnan928-mcp-evm-signer-62cd27dc",
+  "name": "zhangzhongnan928/mcp-evm-signer",
+  "description": "Facilitates secure management of Ethereum keys and smart contract deployment via Infura for EVM-compatible blockchains.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-zhangzhongnan928-mcp-evm-signer-62cd27dc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zhangzhongnan928-mcp-evm-signer-62cd27dc)",
+  "links": {
+    "primary": "https://github.com/zhangzhongnan928/mcp-evm-signer",
+    "repo": "https://github.com/zhangzhongnan928/mcp-evm-signer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

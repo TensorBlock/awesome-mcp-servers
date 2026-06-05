@@ -1,0 +1,24 @@
+{
+  "id": "github-aenterhy-clickhouse-1861a60b",
+  "name": "Aenterhy/clickhouse",
+  "description": "Facilitates SQL query execution and database management on ClickHouse clusters through an MCP server interface.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-aenterhy-clickhouse-1861a60b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aenterhy-clickhouse-1861a60b)",
+  "links": {
+    "primary": "https://github.com/Aenterhy/clickhouse",
+    "repo": "https://github.com/Aenterhy/clickhouse",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

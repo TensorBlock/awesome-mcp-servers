@@ -1,0 +1,24 @@
+{
+  "id": "github-gabrielmaialva33-mcp-filesystem-544ec9f3",
+  "name": "gabrielmaialva33/mcp-filesystem",
+  "description": "Provides secure filesystem access for AI models with strict path validation and predefined directory constraints.",
+  "category": "Filesystems",
+  "profileUrl": "https://tensorblock.co/mcp/github-gabrielmaialva33-mcp-filesystem-544ec9f3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gabrielmaialva33-mcp-filesystem-544ec9f3)",
+  "links": {
+    "primary": "https://github.com/gabrielmaialva33/mcp-filesystem",
+    "repo": "https://github.com/gabrielmaialva33/mcp-filesystem",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

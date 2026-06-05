@@ -1,0 +1,24 @@
+{
+  "id": "github-aminforou-mcp-gsc-e5fae2ff",
+  "name": "AminForou/mcp-gsc",
+  "description": "Integrates Google Search Console with Claude AI for SEO data analysis through natural language interactions.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-aminforou-mcp-gsc-e5fae2ff",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aminforou-mcp-gsc-e5fae2ff)",
+  "links": {
+    "primary": "https://github.com/AminForou/mcp-gsc",
+    "repo": "https://github.com/AminForou/mcp-gsc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

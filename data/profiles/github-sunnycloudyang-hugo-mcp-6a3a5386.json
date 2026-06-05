@@ -1,0 +1,24 @@
+{
+  "id": "github-sunnycloudyang-hugo-mcp-6a3a5386",
+  "name": "SunnyCloudYang/hugo-mcp",
+  "description": "Manage and deploy Hugo static sites with a comprehensive suite of tools for environment setup, site management, and theme customization.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-sunnycloudyang-hugo-mcp-6a3a5386",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sunnycloudyang-hugo-mcp-6a3a5386)",
+  "links": {
+    "primary": "https://github.com/SunnyCloudYang/hugo-mcp",
+    "repo": "https://github.com/SunnyCloudYang/hugo-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

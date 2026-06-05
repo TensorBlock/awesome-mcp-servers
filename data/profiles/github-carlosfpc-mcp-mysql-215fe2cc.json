@@ -1,0 +1,24 @@
+{
+  "id": "github-carlosfpc-mcp-mysql-215fe2cc",
+  "name": "Carlosfpc/mcp-mysql",
+  "description": "Facilitates secure MySQL connections via SSH tunneling, enabling controlled database operations through an MCP server.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-carlosfpc-mcp-mysql-215fe2cc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-carlosfpc-mcp-mysql-215fe2cc)",
+  "links": {
+    "primary": "https://github.com/Carlosfpc/mcp-mysql",
+    "repo": "https://github.com/Carlosfpc/mcp-mysql",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

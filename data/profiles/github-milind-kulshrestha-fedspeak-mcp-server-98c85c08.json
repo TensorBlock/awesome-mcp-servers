@@ -1,0 +1,24 @@
+{
+  "id": "github-milind-kulshrestha-fedspeak-mcp-server-98c85c08",
+  "name": "milind-kulshrestha/fedspeak_mcp_server",
+  "description": "Facilitates semantic search and trend analysis of Federal Reserve statements through a Model Context Protocol interface.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-milind-kulshrestha-fedspeak-mcp-server-98c85c08",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-milind-kulshrestha-fedspeak-mcp-server-98c85c08)",
+  "links": {
+    "primary": "https://github.com/milind-kulshrestha/fedspeak_mcp_server",
+    "repo": "https://github.com/milind-kulshrestha/fedspeak_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

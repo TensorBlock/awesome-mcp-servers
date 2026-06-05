@@ -1,0 +1,24 @@
+{
+  "id": "github-qpd-v-mcp-image-downloader-919c0720",
+  "name": "qpd-v/mcp-image-downloader",
+  "description": "Facilitates AI-driven image downloading and optimization through MCP server capabilities.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-qpd-v-mcp-image-downloader-919c0720",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qpd-v-mcp-image-downloader-919c0720)",
+  "links": {
+    "primary": "https://github.com/qpd-v/mcp-image-downloader",
+    "repo": "https://github.com/qpd-v/mcp-image-downloader",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-aashari-mcp-server-aws-sso-5da7e16c",
+  "name": "aashari/mcp-server-aws-sso",
+  "description": "Node.js/TypeScript server enabling AI systems to securely interact with AWS resources via Single Sign-On authentication.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-aashari-mcp-server-aws-sso-5da7e16c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aashari-mcp-server-aws-sso-5da7e16c)",
+  "links": {
+    "primary": "https://github.com/aashari/mcp-server-aws-sso",
+    "repo": "https://github.com/aashari/mcp-server-aws-sso",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

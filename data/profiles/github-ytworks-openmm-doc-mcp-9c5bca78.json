@@ -1,0 +1,24 @@
+{
+  "id": "github-ytworks-openmm-doc-mcp-9c5bca78",
+  "name": "ytworks/openMM-Doc-MCP",
+  "description": "Facilitates semantic search through OpenMM molecular dynamics documentation using vector embeddings and FAISS for efficient retrieval, optimized for LLM integration.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-ytworks-openmm-doc-mcp-9c5bca78",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ytworks-openmm-doc-mcp-9c5bca78)",
+  "links": {
+    "primary": "https://github.com/ytworks/openMM-Doc-MCP",
+    "repo": "https://github.com/ytworks/openMM-Doc-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

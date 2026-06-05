@@ -1,0 +1,24 @@
+{
+  "id": "github-niallroche-accord-project-mcp-e1cc664c",
+  "name": "niallroche/accord-project-mcp",
+  "description": "Facilitates interaction with the Accord Project Agreement Protocol for managing templates and agreements through an MCP server.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-niallroche-accord-project-mcp-e1cc664c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-niallroche-accord-project-mcp-e1cc664c)",
+  "links": {
+    "primary": "https://github.com/niallroche/accord-project-mcp",
+    "repo": "https://github.com/niallroche/accord-project-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

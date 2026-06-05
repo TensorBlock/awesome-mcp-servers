@@ -1,0 +1,24 @@
+{
+  "id": "github-hemangjoshi37a-mcphub-a39a54db",
+  "name": "hemangjoshi37a/mcphub",
+  "description": "MCPHub is a cross-platform GUI application designed to discover, install, and manage Model Context Protocol (MCP) servers, offering a modern web interface and secure local system integration.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-hemangjoshi37a-mcphub-a39a54db",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hemangjoshi37a-mcphub-a39a54db)",
+  "links": {
+    "primary": "https://github.com/hemangjoshi37a/mcphub",
+    "repo": "https://github.com/hemangjoshi37a/mcphub",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

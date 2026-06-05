@@ -1,0 +1,24 @@
+{
+  "id": "github-cline-cline-community-e5b3e969",
+  "name": "cline/cline-community",
+  "description": "Facilitates seamless issue reporting from Cline to GitHub by automating metadata extraction and providing a preview feature.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-cline-cline-community-e5b3e969",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cline-cline-community-e5b3e969)",
+  "links": {
+    "primary": "https://github.com/cline/cline-community",
+    "repo": "https://github.com/cline/cline-community",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-andredezzy-deep-directory-tree-mcp-c13d3323",
+  "name": "andredezzy/deep-directory-tree-mcp",
+  "description": "Visualizes and analyzes directory structures with real-time updates and smart exclusions for efficient project navigation.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-andredezzy-deep-directory-tree-mcp-c13d3323",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-andredezzy-deep-directory-tree-mcp-c13d3323)",
+  "links": {
+    "primary": "https://github.com/andredezzy/deep-directory-tree-mcp",
+    "repo": "https://github.com/andredezzy/deep-directory-tree-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

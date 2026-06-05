@@ -1,0 +1,24 @@
+{
+  "id": "github-jantoniucci-mcp-tiggerbeetle-d59de174",
+  "name": "jantoniucci/mcp-tiggerbeetle",
+  "description": "Facilitates TigerBeetle account management through a Model Context Protocol server with JSON-based responses and Claude desktop integration.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-jantoniucci-mcp-tiggerbeetle-d59de174",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jantoniucci-mcp-tiggerbeetle-d59de174)",
+  "links": {
+    "primary": "https://github.com/jantoniucci/mcp-tiggerbeetle",
+    "repo": "https://github.com/jantoniucci/mcp-tiggerbeetle",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

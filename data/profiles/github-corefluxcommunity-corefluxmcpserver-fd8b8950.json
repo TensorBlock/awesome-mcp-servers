@@ -1,0 +1,24 @@
+{
+  "id": "github-corefluxcommunity-corefluxmcpserver-fd8b8950",
+  "name": "CorefluxCommunity/CorefluxMCPServer",
+  "description": "Facilitates Coreflux MQTT broker integration with Claude and other MCP-compatible AI assistants, offering comprehensive command tools and LOT language resources.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-corefluxcommunity-corefluxmcpserver-fd8b8950",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-corefluxcommunity-corefluxmcpserver-fd8b8950)",
+  "links": {
+    "primary": "https://github.com/CorefluxCommunity/CorefluxMCPServer",
+    "repo": "https://github.com/CorefluxCommunity/CorefluxMCPServer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
