@@ -22,7 +22,7 @@ A comprehensive, community-curated collection of [Model Context Protocol (MCP)](
 
 ## Coverage
 
-This repo currently indexes **7,490 unique MCP server links** from the category docs. The README stays lightweight while the full directory lives in `docs/*.md`, `data/catalog.json`, and the registry MCP server.
+This repo currently indexes **7,493 unique MCP server links** from the category docs. The README stays lightweight while the full directory lives in `docs/*.md`, `data/catalog.json`, and the registry MCP server.
 
 ## TensorBlock MCP Index
 
@@ -66,13 +66,13 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Cloud Platforms & Services | 371 | [Browse](docs/cloud-platforms--services.md) |
 | Code Analysis & Quality | 105 | [Browse](docs/code-analysis--quality.md) |
 | Code Execution | 165 | [Browse](docs/code-execution.md) |
-| Communication & Messaging | 326 | [Browse](docs/communication--messaging.md) |
+| Communication & Messaging | 327 | [Browse](docs/communication--messaging.md) |
 | Content Management Systems | 59 | [Browse](docs/content-management-systems-cms.md) |
 | Data Analysis & Business Intelligence | 238 | [Browse](docs/data-analysis--business-intelligence.md) |
 | Databases | 290 | [Browse](docs/databases.md) |
-| Developer Productivity & Utilities | 389 | [Browse](docs/developer-productivity--utilities.md) |
+| Developer Productivity & Utilities | 393 | [Browse](docs/developer-productivity--utilities.md) |
 | Filesystems | 56 | [Browse](docs/filesystems.md) |
-| Finance & Crypto | 404 | [Browse](docs/finance--crypto.md) |
+| Finance & Crypto | 408 | [Browse](docs/finance--crypto.md) |
 | Frameworks | 244 | [Browse](docs/frameworks.md) |
 | Gaming | 106 | [Browse](docs/gaming.md) |
 | Hardware & IoT | 59 | [Browse](docs/hardware--iot.md) |
