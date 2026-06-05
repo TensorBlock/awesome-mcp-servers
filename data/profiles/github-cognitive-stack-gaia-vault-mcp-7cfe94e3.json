@@ -1,0 +1,24 @@
+{
+  "id": "github-cognitive-stack-gaia-vault-mcp-7cfe94e3",
+  "name": "Cognitive-Stack/gaia-vault-mcp",
+  "description": "Gaia Vault MCP facilitates secure and type-safe interactions with Azure Blob Storage, enabling seamless file management through the Model Context Protocol.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-cognitive-stack-gaia-vault-mcp-7cfe94e3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cognitive-stack-gaia-vault-mcp-7cfe94e3)",
+  "links": {
+    "primary": "https://github.com/Cognitive-Stack/gaia-vault-mcp",
+    "repo": "https://github.com/Cognitive-Stack/gaia-vault-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

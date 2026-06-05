@@ -1,0 +1,24 @@
+{
+  "id": "github-anton-107-server-run-commands-53aacbb8",
+  "name": "anton-107/server-run-commands",
+  "description": "Facilitates command execution on the local OS via MCP, returning process results to the LLM.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-anton-107-server-run-commands-53aacbb8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anton-107-server-run-commands-53aacbb8)",
+  "links": {
+    "primary": "https://github.com/anton-107/server-run-commands",
+    "repo": "https://github.com/anton-107/server-run-commands",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-fnf-deepheading-mcp-snowflake-reader-09d43334",
+  "name": "fnf-deepHeading/mcp-snowflake-reader",
+  "description": "Provides secure, read-only access to Snowflake databases for querying and schema description via the MCP protocol.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-fnf-deepheading-mcp-snowflake-reader-09d43334",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fnf-deepheading-mcp-snowflake-reader-09d43334)",
+  "links": {
+    "primary": "https://github.com/fnf-deepHeading/mcp-snowflake-reader",
+    "repo": "https://github.com/fnf-deepHeading/mcp-snowflake-reader",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

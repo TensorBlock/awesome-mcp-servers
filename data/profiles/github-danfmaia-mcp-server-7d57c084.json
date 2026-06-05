@@ -1,0 +1,24 @@
+{
+  "id": "github-danfmaia-mcp-server-7d57c084",
+  "name": "danfmaia/mcp-server",
+  "description": "A general MCP server offering tools for AI agents to check HTTP/HTTPS links in Markdown files via stdin/stdout communication.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-danfmaia-mcp-server-7d57c084",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-danfmaia-mcp-server-7d57c084)",
+  "links": {
+    "primary": "https://github.com/danfmaia/mcp-server",
+    "repo": "https://github.com/danfmaia/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

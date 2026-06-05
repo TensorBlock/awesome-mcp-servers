@@ -1,0 +1,24 @@
+{
+  "id": "github-basic-bit-vrchat-mcp-c0f0ab50",
+  "name": "BASIC-BIT/vrchat-mcp",
+  "description": "Access VRChat friends, worlds, groups, events, notifications, status, avatars, and VRCX history from MCP clients.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-basic-bit-vrchat-mcp-c0f0ab50",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-basic-bit-vrchat-mcp-c0f0ab50)",
+  "links": {
+    "primary": "https://github.com/BASIC-BIT/vrchat-mcp",
+    "repo": "https://github.com/BASIC-BIT/vrchat-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

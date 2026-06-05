@@ -1,0 +1,24 @@
+{
+  "id": "github-s2005-mcp-everything-b2bb7e24",
+  "name": "s2005/mcp-everything",
+  "description": "A comprehensive MCP server showcasing the full spectrum of MCP protocol features for client testing and development.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-s2005-mcp-everything-b2bb7e24",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-s2005-mcp-everything-b2bb7e24)",
+  "links": {
+    "primary": "https://github.com/s2005/mcp-everything",
+    "repo": "https://github.com/s2005/mcp-everything",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

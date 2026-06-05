@@ -1,0 +1,24 @@
+{
+  "id": "github-khigashi1987-biopaper-mcp-search-8380c274",
+  "name": "khigashi1987/biopaper-mcp-search",
+  "description": "Facilitates advanced search and analysis of biology papers using Europe PMC API, integrated with Claude Desktop for a comprehensive research assistant experience.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-khigashi1987-biopaper-mcp-search-8380c274",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-khigashi1987-biopaper-mcp-search-8380c274)",
+  "links": {
+    "primary": "https://github.com/khigashi1987/biopaper-mcp-search",
+    "repo": "https://github.com/khigashi1987/biopaper-mcp-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

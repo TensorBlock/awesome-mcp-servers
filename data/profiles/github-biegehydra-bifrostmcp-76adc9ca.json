@@ -1,0 +1,24 @@
+{
+  "id": "github-biegehydra-bifrostmcp-76adc9ca",
+  "name": "biegehydra/BifrostMCP",
+  "description": "Bifrost is a VSCode extension that integrates an MCP server to provide advanced code navigation and analysis tools for AI coding assistants.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-biegehydra-bifrostmcp-76adc9ca",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-biegehydra-bifrostmcp-76adc9ca)",
+  "links": {
+    "primary": "https://github.com/biegehydra/BifrostMCP",
+    "repo": "https://github.com/biegehydra/BifrostMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

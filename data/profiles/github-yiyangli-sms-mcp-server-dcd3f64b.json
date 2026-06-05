@@ -1,0 +1,24 @@
+{
+  "id": "github-yiyangli-sms-mcp-server-dcd3f64b",
+  "name": "YiyangLi/sms-mcp-server",
+  "description": "Facilitates SMS and MMS messaging for AI assistants using Twilio.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-yiyangli-sms-mcp-server-dcd3f64b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yiyangli-sms-mcp-server-dcd3f64b)",
+  "links": {
+    "primary": "https://github.com/YiyangLi/sms-mcp-server",
+    "repo": "https://github.com/YiyangLi/sms-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

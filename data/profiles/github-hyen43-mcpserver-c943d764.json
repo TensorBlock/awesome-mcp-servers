@@ -1,0 +1,24 @@
+{
+  "id": "github-hyen43-mcpserver-c943d764",
+  "name": "hyen43/mcpServer",
+  "description": "A Model Context Protocol server built with mcp-framework, featuring customizable tool development and integration with Claude Desktop.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-hyen43-mcpserver-c943d764",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hyen43-mcpserver-c943d764)",
+  "links": {
+    "primary": "https://github.com/hyen43/mcpServer",
+    "repo": "https://github.com/hyen43/mcpServer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-bewt85-mcp-deno-sandbox-f520401e",
+  "name": "bewt85/mcp-deno-sandbox",
+  "description": "Securely execute TypeScript and JavaScript code on your local machine using the Deno® sandbox with granular permission controls.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-bewt85-mcp-deno-sandbox-f520401e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bewt85-mcp-deno-sandbox-f520401e)",
+  "links": {
+    "primary": "https://github.com/bewt85/mcp-deno-sandbox",
+    "repo": "https://github.com/bewt85/mcp-deno-sandbox",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

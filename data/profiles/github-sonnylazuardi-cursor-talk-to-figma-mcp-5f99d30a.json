@@ -1,0 +1,24 @@
+{
+  "id": "github-sonnylazuardi-cursor-talk-to-figma-mcp-5f99d30a",
+  "name": "sonnylazuardi/cursor-talk-to-figma-mcp",
+  "description": "Facilitates seamless communication between Cursor AI and Figma for automated design modifications and interactions.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-sonnylazuardi-cursor-talk-to-figma-mcp-5f99d30a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sonnylazuardi-cursor-talk-to-figma-mcp-5f99d30a)",
+  "links": {
+    "primary": "https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp",
+    "repo": "https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

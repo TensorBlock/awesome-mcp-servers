@@ -1,0 +1,24 @@
+{
+  "id": "github-innoge-laravel-mcp-b19e8120",
+  "name": "InnoGE/laravel-mcp",
+  "description": "A Laravel package facilitating the development of MCP servers, enabling seamless communication between Laravel applications and AI assistants through a standardized API.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-innoge-laravel-mcp-b19e8120",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-innoge-laravel-mcp-b19e8120)",
+  "links": {
+    "primary": "https://github.com/InnoGE/laravel-mcp",
+    "repo": "https://github.com/InnoGE/laravel-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

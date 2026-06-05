@@ -1,0 +1,24 @@
+{
+  "id": "github-1firecracker-mcp-client-53289ea0",
+  "name": "1firecracker/MCP_Client",
+  "description": "An interactive application leveraging LLMs and MCP architecture to provide real-time weather, time, and academic paper information through natural language queries.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-1firecracker-mcp-client-53289ea0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-1firecracker-mcp-client-53289ea0)",
+  "links": {
+    "primary": "https://github.com/1firecracker/MCP_Client",
+    "repo": "https://github.com/1firecracker/MCP_Client",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

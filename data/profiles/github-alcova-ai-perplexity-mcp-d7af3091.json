@@ -1,0 +1,24 @@
+{
+  "id": "github-alcova-ai-perplexity-mcp-d7af3091",
+  "name": "Alcova-AI/perplexity-mcp",
+  "description": "Facilitates seamless integration of Perplexity's search and reasoning capabilities with AI assistants like Claude, enhancing real-time information retrieval and complex problem-solving.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-alcova-ai-perplexity-mcp-d7af3091",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alcova-ai-perplexity-mcp-d7af3091)",
+  "links": {
+    "primary": "https://github.com/Alcova-AI/perplexity-mcp",
+    "repo": "https://github.com/Alcova-AI/perplexity-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-abiorh001-mcp-omni-connect-833ee093",
+  "name": "Abiorh001/mcp_omni_connect",
+  "description": "MCPOmni Connect is a versatile CLI client that facilitates seamless integration and management of multiple MCP servers and AI models, offering advanced tool orchestration and secure communication.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-abiorh001-mcp-omni-connect-833ee093",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abiorh001-mcp-omni-connect-833ee093)",
+  "links": {
+    "primary": "https://github.com/Abiorh001/mcp_omni_connect",
+    "repo": "https://github.com/Abiorh001/mcp_omni_connect",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

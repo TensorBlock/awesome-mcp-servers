@@ -1,0 +1,24 @@
+{
+  "id": "github-jriescoldev-mcp-file-url-analyzer-eba487a0",
+  "name": "jriescoldev/mcp_file_url_analyzer",
+  "description": "Facilitates the analysis of local files and URLs, offering detailed insights into text and binary content.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-jriescoldev-mcp-file-url-analyzer-eba487a0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jriescoldev-mcp-file-url-analyzer-eba487a0)",
+  "links": {
+    "primary": "https://github.com/jriescoldev/mcp_file_url_analyzer",
+    "repo": "https://github.com/jriescoldev/mcp_file_url_analyzer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
