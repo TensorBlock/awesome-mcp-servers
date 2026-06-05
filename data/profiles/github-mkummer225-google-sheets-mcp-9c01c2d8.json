@@ -1,0 +1,24 @@
+{
+  "id": "github-mkummer225-google-sheets-mcp-9c01c2d8",
+  "name": "mkummer225/google-sheets-mcp",
+  "description": "Facilitates AI-driven interactions with Google Sheets through a Model Context Protocol connector.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-mkummer225-google-sheets-mcp-9c01c2d8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mkummer225-google-sheets-mcp-9c01c2d8)",
+  "links": {
+    "primary": "https://github.com/mkummer225/google-sheets-mcp",
+    "repo": "https://github.com/mkummer225/google-sheets-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

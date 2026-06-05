@@ -1,0 +1,24 @@
+{
+  "id": "github-dumpling-ai-mcp-server-dumplingai-7070305e",
+  "name": "Dumpling-AI/mcp-server-dumplingai",
+  "description": "Integrates Dumpling AI with comprehensive data scraping, content processing, and AI capabilities, including secure code execution.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-dumpling-ai-mcp-server-dumplingai-7070305e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dumpling-ai-mcp-server-dumplingai-7070305e)",
+  "links": {
+    "primary": "https://github.com/Dumpling-AI/mcp-server-dumplingai",
+    "repo": "https://github.com/Dumpling-AI/mcp-server-dumplingai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

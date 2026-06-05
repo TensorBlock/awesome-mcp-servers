@@ -1,0 +1,24 @@
+{
+  "id": "github-greek-zzf-github-mcp-demo-7b661b79",
+  "name": "greek-zzf/github-mcp-demo",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-greek-zzf-github-mcp-demo-7b661b79",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-greek-zzf-github-mcp-demo-7b661b79)",
+  "links": {
+    "primary": "https://github.com/greek-zzf/github-mcp-demo",
+    "repo": "https://github.com/greek-zzf/github-mcp-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

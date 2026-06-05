@@ -1,0 +1,24 @@
+{
+  "id": "github-rishabh17081-paypal-au-subscription-connector-d43d3010",
+  "name": "rishabh17081/paypal-au-subscription-connector",
+  "description": "Integrates PayPal's Account Updater service with e-commerce systems to maintain updated payment card information via MCP.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-rishabh17081-paypal-au-subscription-connector-d43d3010",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rishabh17081-paypal-au-subscription-connector-d43d3010)",
+  "links": {
+    "primary": "https://github.com/rishabh17081/paypal-au-subscription-connector",
+    "repo": "https://github.com/rishabh17081/paypal-au-subscription-connector",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

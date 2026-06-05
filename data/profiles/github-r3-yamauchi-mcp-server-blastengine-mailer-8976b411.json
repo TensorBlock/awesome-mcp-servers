@@ -1,0 +1,24 @@
+{
+  "id": "github-r3-yamauchi-mcp-server-blastengine-mailer-8976b411",
+  "name": "r3-yamauchi/mcp-server-blastengine-mailer",
+  "description": "A TypeScript-based server for sending emails using the Model Context Protocol.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-r3-yamauchi-mcp-server-blastengine-mailer-8976b411",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-r3-yamauchi-mcp-server-blastengine-mailer-8976b411)",
+  "links": {
+    "primary": "https://github.com/r3-yamauchi/mcp-server-blastengine-mailer",
+    "repo": "https://github.com/r3-yamauchi/mcp-server-blastengine-mailer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

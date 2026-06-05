@@ -1,0 +1,24 @@
+{
+  "id": "github-jerrelgordon-file-master-mcp-878c4a12",
+  "name": "jerrelgordon/file-master-mcp",
+  "description": "A secure server providing LLMs with controlled access to files and directories through a standardized interface.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-jerrelgordon-file-master-mcp-878c4a12",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jerrelgordon-file-master-mcp-878c4a12)",
+  "links": {
+    "primary": "https://github.com/jerrelgordon/file-master-mcp",
+    "repo": "https://github.com/jerrelgordon/file-master-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

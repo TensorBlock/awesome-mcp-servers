@@ -1,0 +1,24 @@
+{
+  "id": "github-kirandawadi-volatility3-mcp-63491304",
+  "name": "Kirandawadi/volatility3-mcp",
+  "description": "Volatility3 MCP Server enables seamless memory forensics through natural language interfaces, allowing LLMs to analyze memory dumps and detect malware efficiently.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-kirandawadi-volatility3-mcp-63491304",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kirandawadi-volatility3-mcp-63491304)",
+  "links": {
+    "primary": "https://github.com/Kirandawadi/volatility3-mcp",
+    "repo": "https://github.com/Kirandawadi/volatility3-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

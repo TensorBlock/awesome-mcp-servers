@@ -1,0 +1,24 @@
+{
+  "id": "github-thomasdavis-zxzxasdaksdoerasdalskdjqweqkfa-79f24e28",
+  "name": "thomasdavis/zxzxasdaksdoerasdalskdjqweqkfa",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-thomasdavis-zxzxasdaksdoerasdalskdjqweqkfa-79f24e28",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thomasdavis-zxzxasdaksdoerasdalskdjqweqkfa-79f24e28)",
+  "links": {
+    "primary": "https://github.com/thomasdavis/zxzxasdaksdoerasdalskdjqweqkfa",
+    "repo": "https://github.com/thomasdavis/zxzxasdaksdoerasdalskdjqweqkfa",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

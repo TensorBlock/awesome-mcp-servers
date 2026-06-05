@@ -1,0 +1,24 @@
+{
+  "id": "github-blajanclaudiu-cotton-f70edece",
+  "name": "blajanclaudiu/cotton",
+  "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-blajanclaudiu-cotton-f70edece",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-blajanclaudiu-cotton-f70edece)",
+  "links": {
+    "primary": "https://github.com/blajanclaudiu/cotton",
+    "repo": "https://github.com/blajanclaudiu/cotton",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

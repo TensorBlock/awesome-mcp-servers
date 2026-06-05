@@ -1,0 +1,24 @@
+{
+  "id": "github-zlinzzzz-findata-mcp-server-9d6f43d2",
+  "name": "zlinzzzz/finData-mcp-server",
+  "description": "Provides professional-grade financial data access for AI applications through a Model Context Protocol server, supporting multiple data providers like Tushare and Wind.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-zlinzzzz-findata-mcp-server-9d6f43d2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zlinzzzz-findata-mcp-server-9d6f43d2)",
+  "links": {
+    "primary": "https://github.com/zlinzzzz/finData-mcp-server",
+    "repo": "https://github.com/zlinzzzz/finData-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

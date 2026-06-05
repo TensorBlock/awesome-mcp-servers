@@ -1,0 +1,24 @@
+{
+  "id": "github-jotaderodriguez-bonsai-mcp-38f92b74",
+  "name": "JotaDeRodriguez/Bonsai_mcp",
+  "description": "Bonsai-mcp enhances Blender's capabilities by integrating IFC model support through IfcOpenShell, enabling seamless execution of IFC-specific commands and Python code within Blender.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-jotaderodriguez-bonsai-mcp-38f92b74",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jotaderodriguez-bonsai-mcp-38f92b74)",
+  "links": {
+    "primary": "https://github.com/JotaDeRodriguez/Bonsai_mcp",
+    "repo": "https://github.com/JotaDeRodriguez/Bonsai_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

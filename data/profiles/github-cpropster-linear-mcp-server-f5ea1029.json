@@ -1,0 +1,24 @@
+{
+  "id": "github-cpropster-linear-mcp-server-f5ea1029",
+  "name": "cpropster/linear-mcp-server",
+  "description": "Facilitates seamless interaction with Linear's API for managing teams, issues, projects, and cycles through MCP server integration.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-cpropster-linear-mcp-server-f5ea1029",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cpropster-linear-mcp-server-f5ea1029)",
+  "links": {
+    "primary": "https://github.com/cpropster/linear-mcp-server",
+    "repo": "https://github.com/cpropster/linear-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

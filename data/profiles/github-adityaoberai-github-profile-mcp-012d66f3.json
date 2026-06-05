@@ -1,0 +1,24 @@
+{
+  "id": "github-adityaoberai-github-profile-mcp-012d66f3",
+  "name": "adityaoberai/github-profile-mcp",
+  "description": "Facilitates AI assistants in accessing and analyzing GitHub profile data and repositories through a simple API.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-adityaoberai-github-profile-mcp-012d66f3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adityaoberai-github-profile-mcp-012d66f3)",
+  "links": {
+    "primary": "https://github.com/adityaoberai/github-profile-mcp",
+    "repo": "https://github.com/adityaoberai/github-profile-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-hitesit-simple-mcp-prompt-engineer-e881ba76",
+  "name": "HiteSit/simple-mcp-prompt-engineer",
+  "description": "A server that systematically optimizes AI prompts through analysis, rule application, and iterative refinement using the Model Context Protocol.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-hitesit-simple-mcp-prompt-engineer-e881ba76",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hitesit-simple-mcp-prompt-engineer-e881ba76)",
+  "links": {
+    "primary": "https://github.com/HiteSit/simple-mcp-prompt-engineer",
+    "repo": "https://github.com/HiteSit/simple-mcp-prompt-engineer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

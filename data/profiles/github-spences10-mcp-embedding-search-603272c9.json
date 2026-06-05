@@ -1,0 +1,24 @@
+{
+  "id": "github-spences10-mcp-embedding-search-603272c9",
+  "name": "spences10/mcp-embedding-search",
+  "description": "Facilitates vector similarity search in transcript databases using a Turso backend, enabling users to find relevant segments by querying embeddings.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-spences10-mcp-embedding-search-603272c9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-spences10-mcp-embedding-search-603272c9)",
+  "links": {
+    "primary": "https://github.com/spences10/mcp-embedding-search",
+    "repo": "https://github.com/spences10/mcp-embedding-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

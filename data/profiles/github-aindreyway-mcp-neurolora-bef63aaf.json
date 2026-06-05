@@ -1,0 +1,24 @@
+{
+  "id": "github-aindreyway-mcp-neurolora-bef63aaf",
+  "name": "aindreyway/mcp-neurolora",
+  "description": "An intelligent server offering tools for code analysis, collection, and documentation generation using OpenAI API.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-aindreyway-mcp-neurolora-bef63aaf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aindreyway-mcp-neurolora-bef63aaf)",
+  "links": {
+    "primary": "https://github.com/aindreyway/mcp-neurolora",
+    "repo": "https://github.com/aindreyway/mcp-neurolora",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

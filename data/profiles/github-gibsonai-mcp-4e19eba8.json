@@ -1,0 +1,24 @@
+{
+  "id": "github-gibsonai-mcp-4e19eba8",
+  "name": "GibsonAI/mcp",
+  "description": "GibsonAI's MCP server enhances project management and code interaction within IDEs by integrating with tools like Cursor, Windsurf, and Claude Desktop.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-gibsonai-mcp-4e19eba8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gibsonai-mcp-4e19eba8)",
+  "links": {
+    "primary": "https://github.com/GibsonAI/mcp",
+    "repo": "https://github.com/GibsonAI/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

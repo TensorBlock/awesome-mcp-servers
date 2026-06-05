@@ -1,0 +1,24 @@
+{
+  "id": "github-arben-adm-mcp-sequential-thinking-7111e651",
+  "name": "arben-adm/mcp-sequential-thinking",
+  "description": "Facilitates structured, progressive thinking by breaking down complex problems into sequential thoughts and generating summaries.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-arben-adm-mcp-sequential-thinking-7111e651",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arben-adm-mcp-sequential-thinking-7111e651)",
+  "links": {
+    "primary": "https://github.com/arben-adm/mcp-sequential-thinking",
+    "repo": "https://github.com/arben-adm/mcp-sequential-thinking",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

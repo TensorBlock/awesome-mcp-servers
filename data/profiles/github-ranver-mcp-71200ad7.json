@@ -1,0 +1,24 @@
+{
+  "id": "github-ranver-mcp-71200ad7",
+  "name": "ranver/mcp",
+  "description": "Facilitates AI assistants' interaction with Canvas LMS for managing courses, announcements, and student data via the Canvas API.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-ranver-mcp-71200ad7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ranver-mcp-71200ad7)",
+  "links": {
+    "primary": "https://github.com/ranver/mcp",
+    "repo": "https://github.com/ranver/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-szeider-mcp-dblp-aeff5227",
+  "name": "szeider/mcp-dblp",
+  "description": "Facilitates seamless integration of DBLP's academic publication data with Large Language Models for advanced bibliographic processing and citation management.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-szeider-mcp-dblp-aeff5227",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-szeider-mcp-dblp-aeff5227)",
+  "links": {
+    "primary": "https://github.com/szeider/mcp-dblp",
+    "repo": "https://github.com/szeider/mcp-dblp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

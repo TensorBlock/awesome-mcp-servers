@@ -1,0 +1,24 @@
+{
+  "id": "github-emekaokoye-mcp-rdf-explorer-2570a6e7",
+  "name": "emekaokoye/mcp-rdf-explorer",
+  "description": "Facilitates conversational exploration and analysis of RDF-based knowledge graphs using SPARQL queries in local or endpoint modes.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-emekaokoye-mcp-rdf-explorer-2570a6e7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-emekaokoye-mcp-rdf-explorer-2570a6e7)",
+  "links": {
+    "primary": "https://github.com/emekaokoye/mcp-rdf-explorer",
+    "repo": "https://github.com/emekaokoye/mcp-rdf-explorer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

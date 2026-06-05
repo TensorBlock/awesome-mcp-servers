@@ -1,0 +1,24 @@
+{
+  "id": "github-zinja-coder-mcp-server-development-workshop-ec7aea50",
+  "name": "zinja-coder/MCP-Server-Development-Workshop",
+  "description": "A workshop guide for developing and configuring an MCP server using FastMCP and Claude Desktop Client.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-zinja-coder-mcp-server-development-workshop-ec7aea50",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zinja-coder-mcp-server-development-workshop-ec7aea50)",
+  "links": {
+    "primary": "https://github.com/zinja-coder/MCP-Server-Development-Workshop",
+    "repo": "https://github.com/zinja-coder/MCP-Server-Development-Workshop",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

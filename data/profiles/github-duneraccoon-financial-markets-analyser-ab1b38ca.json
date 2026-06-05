@@ -1,0 +1,24 @@
+{
+  "id": "github-duneraccoon-financial-markets-analyser-ab1b38ca",
+  "name": "DuneRaccoon/financial-markets-analyser",
+  "description": "FastMCP server providing financial data endpoints for stocks and cryptocurrencies with multi-source fallback for reliability.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-duneraccoon-financial-markets-analyser-ab1b38ca",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-duneraccoon-financial-markets-analyser-ab1b38ca)",
+  "links": {
+    "primary": "https://github.com/DuneRaccoon/financial-markets-analyser",
+    "repo": "https://github.com/DuneRaccoon/financial-markets-analyser",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

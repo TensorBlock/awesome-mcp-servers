@@ -1,0 +1,24 @@
+{
+  "id": "github-dandacompany-webhook-trigger-16cd7995",
+  "name": "dandacompany/webhook-trigger",
+  "description": "Facilitates dynamic webhook transmission using FastMCP framework with support for various HTTP methods and custom headers.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/github-dandacompany-webhook-trigger-16cd7995",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dandacompany-webhook-trigger-16cd7995)",
+  "links": {
+    "primary": "https://github.com/dandacompany/webhook-trigger",
+    "repo": "https://github.com/dandacompany/webhook-trigger",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

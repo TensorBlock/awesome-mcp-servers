@@ -1,0 +1,24 @@
+{
+  "id": "github-bijoysijo-uh-mcp-5a8daafc",
+  "name": "bijoysijo/uh-mcp",
+  "description": "Facilitates integration of custom tools with Claude Desktop through a Python-based MCP server setup.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-bijoysijo-uh-mcp-5a8daafc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bijoysijo-uh-mcp-5a8daafc)",
+  "links": {
+    "primary": "https://github.com/bijoysijo/uh-mcp",
+    "repo": "https://github.com/bijoysijo/uh-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
