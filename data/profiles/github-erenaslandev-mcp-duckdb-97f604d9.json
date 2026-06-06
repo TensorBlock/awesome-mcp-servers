@@ -1,0 +1,25 @@
+{
+  "id": "github-erenaslandev-mcp-duckdb-97f604d9",
+  "name": "erenaslandev/mcp-duckdb",
+  "description": "Facilitates SQL query execution and result retrieval on DuckDB databases with support for stdio and SSE transports.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-erenaslandev-mcp-duckdb-97f604d9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-erenaslandev-mcp-duckdb-97f604d9)",
+  "links": {
+    "primary": "https://github.com/erenaslandev/mcp-duckdb",
+    "repo": "https://github.com/erenaslandev/mcp-duckdb",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

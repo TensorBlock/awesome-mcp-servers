@@ -1,0 +1,24 @@
+{
+  "id": "github-ozorown-defi-mcp-e5818830",
+  "name": "OzorOwn/defi-mcp",
+  "description": "DeFi MCP server providing 12 tools: token prices (CoinGecko), multi-chain wallet balances across 6 EVM chains, gas prices, and DEX swap quotes via 1inch (EVM) + Jupiter (Solana). No API key required for basic usage. MIT license.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-ozorown-defi-mcp-e5818830",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ozorown-defi-mcp-e5818830)",
+  "links": {
+    "primary": "https://github.com/OzorOwn/defi-mcp",
+    "repo": "https://github.com/OzorOwn/defi-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 12
+  }
+}

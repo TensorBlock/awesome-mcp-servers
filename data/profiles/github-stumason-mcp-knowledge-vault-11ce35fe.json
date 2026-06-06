@@ -1,0 +1,24 @@
+{
+  "id": "github-stumason-mcp-knowledge-vault-11ce35fe",
+  "name": "StuMason/mcp-knowledge-vault",
+  "description": "A robust knowledge management system enabling AI models to efficiently store, retrieve, and manage structured information using the Model Context Protocol.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-stumason-mcp-knowledge-vault-11ce35fe",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stumason-mcp-knowledge-vault-11ce35fe)",
+  "links": {
+    "primary": "https://github.com/StuMason/mcp-knowledge-vault",
+    "repo": "https://github.com/StuMason/mcp-knowledge-vault",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-sainigurnoor511-model-context-protocol-4d473050",
+  "name": "Sainigurnoor511/model-context-protocol",
+  "description": "Provides real-time stock market data to LLMs using the Finnhub API, enabling access to stock quotes, company profiles, and symbol searches.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-sainigurnoor511-model-context-protocol-4d473050",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sainigurnoor511-model-context-protocol-4d473050)",
+  "links": {
+    "primary": "https://github.com/Sainigurnoor511/model-context-protocol",
+    "repo": "https://github.com/Sainigurnoor511/model-context-protocol",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

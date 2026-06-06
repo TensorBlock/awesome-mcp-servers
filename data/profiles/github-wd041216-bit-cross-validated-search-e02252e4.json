@@ -1,0 +1,24 @@
+{
+  "id": "github-wd041216-bit-cross-validated-search-e02252e4",
+  "name": "wd041216-bit/cross-validated-search",
+  "description": "Evidence-aware search, page reading, and claim verification for AI agents with CLI, MCP, and skill surfaces for Gemini, Claude Code, Manus, and OpenClaw.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-wd041216-bit-cross-validated-search-e02252e4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wd041216-bit-cross-validated-search-e02252e4)",
+  "links": {
+    "primary": "https://github.com/wd041216-bit/cross-validated-search",
+    "repo": "https://github.com/wd041216-bit/cross-validated-search",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

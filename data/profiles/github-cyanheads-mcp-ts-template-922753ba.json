@@ -1,0 +1,24 @@
+{
+  "id": "github-cyanheads-mcp-ts-template-922753ba",
+  "name": "cyanheads/mcp-ts-template",
+  "description": "A TypeScript template offering a comprehensive foundation for building MCP servers with production-ready utilities and examples.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-cyanheads-mcp-ts-template-922753ba",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cyanheads-mcp-ts-template-922753ba)",
+  "links": {
+    "primary": "https://github.com/cyanheads/mcp-ts-template",
+    "repo": "https://github.com/cyanheads/mcp-ts-template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

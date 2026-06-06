@@ -1,0 +1,24 @@
+{
+  "id": "github-jusfood-jusfood-mcp-b4eaef8c",
+  "name": "jusFood/jusfood-mcp",
+  "description": "A specialized MCP server for deploying and managing local applications with integration support for the Claude app.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-jusfood-jusfood-mcp-b4eaef8c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jusfood-jusfood-mcp-b4eaef8c)",
+  "links": {
+    "primary": "https://github.com/jusFood/jusfood-mcp",
+    "repo": "https://github.com/jusFood/jusfood-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -2,7 +2,7 @@
 
 Servers accessing scientific databases, research platforms, or providing tools for scientific computation/simulation.
 
-- [xmpuspus/ph-civic-data-mcp](https://github.com/xmpuspus/ph-civic-data-mcp): Philippine government data plus global Earth observation as MCP tools. Covers PHIVOLCS earthquakes and volcano alerts, PAGASA weather and typhoons, PhilGEPS procurement, PSA population and poverty, NASA POWER solar/climate, Open-Meteo air quality, NASA MODIS NDVI, USGS earthquakes, NOAA IBTrACS typhoon tracks, and World Bank indicators. 17 tools across 10 sources, zero required API keys, with a cross-source multi-hazard risk profiler. Install: `uvx ph-civic-data-mcp`.
+- [xmpuspus/ph-civic-data-mcp](https://github.com/xmpuspus/ph-civic-data-mcp): Philippine civic data plus global Earth observation as MCP tools. Covers PSGC location resolver, PHIVOLCS earthquakes and volcano alerts, PAGASA weather and typhoons, PhilGEPS procurement with infra-spending accountability flags, PSA population, poverty, and economy (inflation, labor, health), NASA POWER solar/climate, Open-Meteo air quality, NASA MODIS NDVI, USGS earthquakes, NOAA IBTrACS typhoon tracks, and World Bank macro indicators. 29 tools across 12 sources, zero required API keys, with cross-source multi-hazard risk profiler and a `get_area_profile` auto-stitch that composes demographics, economy, procurement, hazard, and weather in one call. Install: `uvx ph-civic-data-mcp`.
 - [connerlambden/bgpt-mcp](https://github.com/connerlambden/bgpt-mcp): Search scientific papers with structured experimental data extracted from full-text studies, returning 25+ fields per paper including methods, results, sample sizes, and quality scores.
 - [GreatApo/concrete-properties-mcp](https://github.com/GreatApo/concrete-properties-mcp): Facilitates AI-driven analysis of reinforced concrete sections by providing a unified API interface for calculating geometric and material properties.
 - [GooTec/NCBI-MCP](https://github.com/GooTec/NCBI-MCP): Facilitates access to NCBI Datasets through a modular MCP server with OpenAPI-driven endpoints for genome, gene, and taxonomy data.
@@ -108,4 +108,15 @@ Servers accessing scientific databases, research platforms, or providing tools f
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed): Facilitates access to PubMed articles via the Entrez API, enabling keyword searches and retrieval of abstracts and full texts for open access articles.
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv): Facilitates LLMs to search and access scientific papers on arXiv, providing metadata and abstracts through an MCP server.
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server): Facilitates AI-driven search and analysis of arXiv papers via a streamlined MCP interface.
+- [daedalus/mcp-gmpy2](https://github.com/daedalus/mcp-gmpy2) - MCP server exposing gmpy2 arbitrary precision arithmetic functions.
+- [daedalus/mcp-manimgl](https://github.com/daedalus/mcp-manimgl) - MCP server exposing manimgl mathematical animation functionality.
+- [daedalus/mcp-number-theory](https://github.com/daedalus/mcp-number-theory) - MCP server exposing number theory functions and factorization algorithms from RsaCtfTool.
+- [daedalus/mcp-numpy](https://github.com/daedalus/mcp-numpy) - An MCP server that exposes NumPy functionality.
+- [daedalus/mcp-oeis](https://github.com/daedalus/mcp-oeis) - MCP server for the OEIS (Online Encyclopedia of Integer Sequences) API.
+- [daedalus/mcp-parigp](https://github.com/daedalus/mcp-parigp) - MCP server exposing cypari2 (PARI/GP) number theory library.
+- [daedalus/mcp-qiskit](https://github.com/daedalus/mcp-qiskit) - MCP server exposing Qiskit quantum computing functionality.
+- [daedalus/mcp-sympy](https://github.com/daedalus/mcp-sympy) - MCP server that exposes SymPy's symbolic mathematics functionality.
+- [daedalus/mcp-z3-prover](https://github.com/daedalus/mcp-z3-prover) - MCP server exposing Z3 solver API.
 
+- [cajusticewatch/mcp-server](https://github.com/cajusticewatch/mcp-server): California criminal-justice accountability databases as MCP tools — 58 District Attorneys, 196 defenders, 1,620 currently sitting judges, 1,500 officer misconduct records, Commission on Judicial Performance discipline (247 records + semantic full-text search over 250 decision PDFs), 671 POST decertifications. 15 tools, public read-only, no auth, remote at `https://cajusticewatch.com/api/mcp`. Sources: cjp.ca.gov, post.ca.gov, official court rosters, named press coverage.
+- [federicodeponte/openpaper-mcp](https://github.com/federicodeponte/openpaper-mcp): Generate full academic papers with verified citations via OpenPaper.dev using 18 specialized AI agents.

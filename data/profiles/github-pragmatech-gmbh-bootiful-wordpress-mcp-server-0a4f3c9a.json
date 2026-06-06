@@ -1,0 +1,24 @@
+{
+  "id": "github-pragmatech-gmbh-bootiful-wordpress-mcp-server-0a4f3c9a",
+  "name": "PragmaTech-GmbH/bootiful-wordpress-mcp-server",
+  "description": "A Java and Spring Boot-based server facilitating WordPress integration through MCP.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/github-pragmatech-gmbh-bootiful-wordpress-mcp-server-0a4f3c9a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pragmatech-gmbh-bootiful-wordpress-mcp-server-0a4f3c9a)",
+  "links": {
+    "primary": "https://github.com/PragmaTech-GmbH/bootiful-wordpress-mcp-server",
+    "repo": "https://github.com/PragmaTech-GmbH/bootiful-wordpress-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "agentlair-dev-f92b1539",
+  "name": "AgentLair",
+  "description": "Secure identity infrastructure for AI agents — gives agents their own @agentlair.dev email address, encrypted credential vault, and cryptographically signed audit trail. Remote MCP server, no SMTP/DNS setup. npm: `@agentlair/mcp`.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/agentlair-dev-f92b1539",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/agentlair-dev-f92b1539)",
+  "links": {
+    "primary": "https://agentlair.dev",
+    "repo": null,
+    "homepage": "https://agentlair.dev",
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

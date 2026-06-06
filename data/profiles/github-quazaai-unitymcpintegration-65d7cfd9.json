@@ -1,0 +1,24 @@
+{
+  "id": "github-quazaai-unitymcpintegration-65d7cfd9",
+  "name": "quazaai/UnityMCPIntegration",
+  "description": "Integrates AI agents with Unity projects, enabling real-time interaction and control through the Unity Editor using the MCP protocol.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-quazaai-unitymcpintegration-65d7cfd9",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-quazaai-unitymcpintegration-65d7cfd9)",
+  "links": {
+    "primary": "https://github.com/quazaai/UnityMCPIntegration",
+    "repo": "https://github.com/quazaai/UnityMCPIntegration",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

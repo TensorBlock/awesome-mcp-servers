@@ -1,0 +1,24 @@
+{
+  "id": "github-jayy1809-cursor-github-mcp-integration-437778fa",
+  "name": "jayy1809/cursor-github-mcp-integration",
+  "description": "Facilitates GitHub repository management through Cursor using the GitHub MCP integration.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-jayy1809-cursor-github-mcp-integration-437778fa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jayy1809-cursor-github-mcp-integration-437778fa)",
+  "links": {
+    "primary": "https://github.com/jayy1809/cursor-github-mcp-integration",
+    "repo": "https://github.com/jayy1809/cursor-github-mcp-integration",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

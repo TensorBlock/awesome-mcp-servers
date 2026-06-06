@@ -1,0 +1,24 @@
+{
+  "id": "github-automatelab-tech-ai-seo-mcp-582c493d",
+  "name": "AutomateLab-tech/ai-seo-mcp",
+  "description": "AI-SEO / AEO / GEO audit MCP for any public URL. Scores schema.org coverage, robots.txt and llms.txt health, canonical and OpenGraph setup, and AI-citation likelihood; suggests rewrites tuned for Answer Engine and Generative Engine surfaces. No vendor keys. Install: `npx -y @automatelab/ai-seo-mcp`.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-automatelab-tech-ai-seo-mcp-582c493d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-automatelab-tech-ai-seo-mcp-582c493d)",
+  "links": {
+    "primary": "https://github.com/AutomateLab-tech/ai-seo-mcp",
+    "repo": "https://github.com/AutomateLab-tech/ai-seo-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

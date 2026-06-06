@@ -1,0 +1,24 @@
+{
+  "id": "github-johnkennedyoss-mcp-demo-0cda2fa5",
+  "name": "JohnKennedyOSS/mcp-demo",
+  "description": "Facilitates the deployment and management of MCP servers on Aiven using Docker, with tools for project and service management.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-johnkennedyoss-mcp-demo-0cda2fa5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-johnkennedyoss-mcp-demo-0cda2fa5)",
+  "links": {
+    "primary": "https://github.com/JohnKennedyOSS/mcp-demo",
+    "repo": "https://github.com/JohnKennedyOSS/mcp-demo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

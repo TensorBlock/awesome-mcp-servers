@@ -1,0 +1,24 @@
+{
+  "id": "github-h-yanagawa-research-mcp-server-433c711a",
+  "name": "h-yanagawa/research-mcp-server",
+  "description": "Facilitates survey data retrieval and page creation in Notion through an MCP server.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/github-h-yanagawa-research-mcp-server-433c711a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-h-yanagawa-research-mcp-server-433c711a)",
+  "links": {
+    "primary": "https://github.com/h-yanagawa/research-mcp-server",
+    "repo": "https://github.com/h-yanagawa/research-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

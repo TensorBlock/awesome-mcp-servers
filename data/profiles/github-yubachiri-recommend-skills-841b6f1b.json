@@ -1,0 +1,24 @@
+{
+  "id": "github-yubachiri-recommend-skills-841b6f1b",
+  "name": "yubachiri/recommend_skills",
+  "description": "Facilitates skill development and career growth through a CLI tool that offers skill recommendations and database management as an MCP server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-yubachiri-recommend-skills-841b6f1b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yubachiri-recommend-skills-841b6f1b)",
+  "links": {
+    "primary": "https://github.com/yubachiri/recommend_skills",
+    "repo": "https://github.com/yubachiri/recommend_skills",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

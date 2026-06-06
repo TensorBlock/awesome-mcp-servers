@@ -1,0 +1,24 @@
+{
+  "id": "github-openeuler-mirror-mcp-servers-5e6a178b",
+  "name": "openeuler-mirror/mcp-servers",
+  "description": "A repository for hosting various MCP Servers focused on enhancing the openEuler operating system's interaction capabilities.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-openeuler-mirror-mcp-servers-5e6a178b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-openeuler-mirror-mcp-servers-5e6a178b)",
+  "links": {
+    "primary": "https://github.com/openeuler-mirror/mcp-servers",
+    "repo": "https://github.com/openeuler-mirror/mcp-servers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

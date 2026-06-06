@@ -1,0 +1,24 @@
+{
+  "id": "github-agiletec-inc-airis-mcp-gateway-67a976c4",
+  "name": "agiletec-inc/airis-mcp-gateway",
+  "description": "Docker-based MCP multiplexer that aggregates 60+ tools behind 7 meta-tools for 97% token reduction, with lazy server loading, idle-kill, circuit breaker, and API key auth.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-agiletec-inc-airis-mcp-gateway-67a976c4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-agiletec-inc-airis-mcp-gateway-67a976c4)",
+  "links": {
+    "primary": "https://github.com/agiletec-inc/airis-mcp-gateway",
+    "repo": "https://github.com/agiletec-inc/airis-mcp-gateway",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-canvrno-proxmoxmcp-51d4a487",
+  "name": "canvrno/ProxmoxMCP",
+  "description": "A Python-based MCP server for seamless management of Proxmox hypervisors, offering tools for node, VM, and container administration with secure token-based authentication.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-canvrno-proxmoxmcp-51d4a487",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-canvrno-proxmoxmcp-51d4a487)",
+  "links": {
+    "primary": "https://github.com/canvrno/ProxmoxMCP",
+    "repo": "https://github.com/canvrno/ProxmoxMCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

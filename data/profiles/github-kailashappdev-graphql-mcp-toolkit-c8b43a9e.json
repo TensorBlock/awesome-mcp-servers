@@ -1,0 +1,24 @@
+{
+  "id": "github-kailashappdev-graphql-mcp-toolkit-c8b43a9e",
+  "name": "kailashAppDev/graphql-mcp-toolkit",
+  "description": "Facilitates dynamic interaction between LLMs and GraphQL APIs through schema introspection and query execution.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-kailashappdev-graphql-mcp-toolkit-c8b43a9e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kailashappdev-graphql-mcp-toolkit-c8b43a9e)",
+  "links": {
+    "primary": "https://github.com/kailashAppDev/graphql-mcp-toolkit",
+    "repo": "https://github.com/kailashAppDev/graphql-mcp-toolkit",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

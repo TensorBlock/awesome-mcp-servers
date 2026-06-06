@@ -1,0 +1,24 @@
+{
+  "id": "github-largeorbitalobject-mcss-mcp-server-3c009936",
+  "name": "largeorbitalobject/mcss-mcp-server",
+  "description": "Facilitates seamless control and management of Minecraft servers through the MCSS API, enabling server actions, backups, and task scheduling via MCP clients like Claude Desktop.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-largeorbitalobject-mcss-mcp-server-3c009936",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-largeorbitalobject-mcss-mcp-server-3c009936)",
+  "links": {
+    "primary": "https://github.com/largeorbitalobject/mcss-mcp-server",
+    "repo": "https://github.com/largeorbitalobject/mcss-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

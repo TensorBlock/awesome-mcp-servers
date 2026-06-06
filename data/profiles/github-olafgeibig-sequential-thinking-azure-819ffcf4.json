@@ -1,0 +1,24 @@
+{
+  "id": "github-olafgeibig-sequential-thinking-azure-819ffcf4",
+  "name": "olafgeibig/sequential-thinking-azure",
+  "description": "A modified Sequential Thinking MCP server tailored for Azure OpenAI, ensuring compatibility with API character limits through an innovative instructions-as-a-tool approach.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-olafgeibig-sequential-thinking-azure-819ffcf4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-olafgeibig-sequential-thinking-azure-819ffcf4)",
+  "links": {
+    "primary": "https://github.com/olafgeibig/sequential-thinking-azure",
+    "repo": "https://github.com/olafgeibig/sequential-thinking-azure",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

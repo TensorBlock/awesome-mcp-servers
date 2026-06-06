@@ -1,0 +1,24 @@
+{
+  "id": "github-cheffromspace-windows-implementation-df5c00b0",
+  "name": "Cheffromspace/windows-implementation",
+  "description": "Enables Claude to securely control Windows systems via a three-layer architecture, offering real-time desktop feedback and comprehensive system operations.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-cheffromspace-windows-implementation-df5c00b0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cheffromspace-windows-implementation-df5c00b0)",
+  "links": {
+    "primary": "https://github.com/Cheffromspace/windows-implementation",
+    "repo": "https://github.com/Cheffromspace/windows-implementation",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-patruff-ollama-mcp-bridge-f489d7b8",
+  "name": "patruff/ollama-mcp-bridge",
+  "description": "A TypeScript bridge connecting local LLMs with MCP servers, enabling open-source models to utilize advanced tools and capabilities locally.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-patruff-ollama-mcp-bridge-f489d7b8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-patruff-ollama-mcp-bridge-f489d7b8)",
+  "links": {
+    "primary": "https://github.com/patruff/ollama-mcp-bridge",
+    "repo": "https://github.com/patruff/ollama-mcp-bridge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
