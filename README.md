@@ -6,31 +6,46 @@
 [![🤗 Hugging Face](https://img.shields.io/badge/HuggingFace-TensorBlock-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/tensorblock)
 [![Telegram](https://img.shields.io/badge/Telegram-Group-blue?logo=telegram)](https://t.me/TensorBlock)
 
-<div style="text-align: left; margin: 20px 0;">
-    <a href="https://discord.com/invite/Ej5NmeHFf2" style="display: inline-block; padding: 10px 20px; background-color: #5865F2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
-        Join the TensorBlock Discord
-    </a>
-</div>
-<div style="text-align: left; margin: 20px 0;">
-    <a href="https://github.com/TensorBlock/forge" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
-        Explore Forge, our open-source middleware for AI model provider management
-    </a>
-</div>
-TensorBlock MCP Index turns this community-curated MCP server directory into a hosted, searchable registry for agents and applications. Contributors add servers in markdown; TensorBlock normalizes the entries, generates structured profiles and install-config previews, and serves the index through a free public API.
+A community-curated MCP server index powered by TensorBlock.
+
+TensorBlock turns MCP server submissions into a searchable public index with structured metadata, install-config previews, category browsing, and a hosted API that agents and applications can use directly.
 
 **Hosted API:** [https://mcp-index.tensorblock.co](https://mcp-index.tensorblock.co)
 
-## Coverage
+[Submit your MCP server](#add-your-mcp-server) · [Use the API](#hosted-mcp-index-api) · [Browse categories](#browse-by-category) · [Improve metadata](#help-improve-the-index)
 
-This repo currently indexes **7,493 unique MCP server links** from the category docs. The README stays lightweight while the full directory lives in `docs/*.md`, `data/catalog.json`, and the registry MCP server.
+## Join The Community
+
+Join the [TensorBlock Discord](https://discord.gg/yefvtqDd2w) if you want to help shape the index, request client support, share MCP servers, coordinate metadata cleanup, or join upcoming launch and digest workflows.
+
+## Why Add Your MCP Server?
+
+This repo is not just a list. When your MCP server is added, TensorBlock helps make it easier for users and agents to discover, understand, and install.
+
+We are building:
+
+- Searchable hosted API exposure.
+- Structured server profiles.
+- Install-config previews for popular MCP clients.
+- Metadata quality signals.
+- Client compatibility data.
+- Weekly MCP launches and community digests.
+- Badges for indexed and install-ready servers.
+- Community help for fixing missing metadata.
+
+Our goal is simple: if you build an MCP server, adding it here should give you more distribution than a markdown link.
 
 ## TensorBlock MCP Index
 
-This repo is both a community directory and an agent-ready index. Humans add MCP servers in markdown category pages; the indexer turns those entries into structured data that agents can search, inspect, and use to draft install configs.
+The TensorBlock MCP Index converts community submissions into agent-ready data.
 
-### Hosted MCP Index API
+Source entries live in `docs/*.md`. The indexer normalizes them into `data/catalog.json` and generated server profiles, then publishes the result through the hosted API.
 
-TensorBlock provides the MCP Index API as free community infrastructure. We contribute the compute, hosting, data normalization, and ongoing maintenance needed to make this directory usable by agents and applications without requiring every user to clone the repo or parse markdown.
+TensorBlock contributes the compute, hosting, data normalization, and ongoing maintenance for this public index. The service is free for the MCP community, and we plan to keep improving it with better metadata, install support, verification signals, and community workflows.
+
+## Hosted MCP Index API
+
+Open the hosted API root for current catalog size and endpoint discovery.
 
 Base URL:
 
@@ -38,26 +53,26 @@ Base URL:
 https://mcp-index.tensorblock.co
 ```
 
-Useful endpoints:
+Examples:
 
-- `GET /` - discover available endpoints and current catalog size.
-- `GET /v1/categories` - list categories with entry counts and source docs.
-- `GET /v1/servers?query=postgres&limit=5` - search servers by name, description, category, or URL.
-- `GET /v1/servers?category=Databases&transport=stdio` - filter by category, transport, auth type, and result limit.
-- `GET /v1/servers/{id}` - fetch the normalized profile for one MCP server.
-- `GET /v1/servers/{id}/install-config?client=claude-desktop` - generate an MCP client config for Claude Desktop, Cursor, Codex, or VS Code.
+```bash
+curl "https://mcp-index.tensorblock.co/"
+curl "https://mcp-index.tensorblock.co/v1/categories"
+curl "https://mcp-index.tensorblock.co/v1/servers?query=postgres&limit=5"
+curl "https://mcp-index.tensorblock.co/v1/servers/{id}"
+curl "https://mcp-index.tensorblock.co/v1/servers/{id}/install-config?client=claude-desktop"
+```
 
-What the API supports today:
+Supported install-config clients today:
 
-- Search MCP servers by keyword.
-- Filter by category, transport, auth type, and result limit.
-- Browse all categories with entry counts.
-- Fetch a normalized server profile by stable server id.
-- Generate install-config previews for Claude Desktop, Cursor, Codex, and VS Code.
+- Claude Desktop
+- Cursor
+- Codex
+- VS Code
 
-We want this registry to support more MCP clients and installation formats over time. If you want another client, package manager, transport, auth flow, or metadata field supported, please open an issue or PR with the expected config shape and examples.
+Want support for Cline, Windsurf, Roo Code, Claude Code, or another client? Open an issue with the expected config shape and examples.
 
-We plan to keep investing in this hosted registry: improving metadata quality, expanding install-config coverage, adding verification signals, and keeping the service available for the MCP community. Contributors are welcome to help build the registry by adding servers, improving metadata, reporting bad entries, and proposing better search or verification workflows. When changes land on `main`, the deploy workflow rebuilds the catalog and profiles before publishing, so newly merged server entries become searchable after the Railway deployment succeeds.
+See [TensorBlock MCP Index API](docs/index-api.md) for full endpoint documentation.
 
 How entries become index data:
 
@@ -67,23 +82,48 @@ How entries become index data:
 4. `npm run profiles:build` generates `data/profiles/*.json` for stable per-server profiles.
 5. The deploy workflow publishes the refreshed catalog to the hosted API after changes land on `main`.
 
-For local development:
+## For MCP Server Authors
 
-- `npm run registry:mcp` starts a local registry MCP server with `search_servers`, `get_server_profile`, and `get_install_config` tools.
-- `npm run registry:api:dev` starts a local HTTP API for search, category browsing, profiles, and install configs. See [TensorBlock MCP Index API](docs/index-api.md).
+To make your server more useful in the index, include as much of this metadata as possible:
 
-That means contributors still submit a normal awesome-list entry, but better metadata makes the entry more useful to agents. When possible, include install command, transport, auth type, supported clients, tool count, license, docs URL, and public remote endpoint. See the [MCP Index Metadata Contribution Guide](docs/index-alpha/contribution-guide.md) for examples.
+- Install command.
+- Transport: `stdio`, `sse`, or `streamable-http`.
+- Auth type: API key, OAuth, no auth, local-only, or another required flow.
+- Supported clients.
+- Public remote endpoint, if available.
+- Tool count.
+- License.
+- Docs URL.
+- Example config.
 
-## Contributing
+Good metadata means your server can appear in better search results, compatibility views, install-config previews, weekly digests, and future server profile pages.
 
-We welcome MCP server submissions. To add your server:
+See the [MCP Index Metadata Contribution Guide](docs/index-alpha/contribution-guide.md) for examples.
+
+## Community Roadmap
+
+We are building this index as a community growth layer for MCP servers.
+
+Coming next:
+
+- **MCP Launches**: newly added servers get launch-style visibility.
+- **Server Profiles**: every indexed server gets a shareable profile page.
+- **Badges**: server authors can show indexed and install-ready status in their README.
+- **Claim Profiles**: maintainers can improve and verify their own server metadata.
+- **Compatibility Matrix**: see which servers work with which MCP clients.
+- **Weekly Digest**: new servers, improved metadata, top categories, and contributor highlights.
+- **MCP Stacks**: community-curated bundles of servers for common workflows.
+
+## Add Your MCP Server
 
 1. Pick the best category from [Browse by Category](#browse-by-category).
 2. Open that category page under `docs/`.
-3. Add one markdown bullet using this format:
-   ```
+3. Add one markdown bullet:
+
+   ```md
    - [Server Name](https://github.com/owner/repo): Brief description of what the MCP server lets an agent do. Install: `npx your-package`.
    ```
+
 4. Search the repo for your URL or project name to avoid duplicates.
 5. Open a pull request.
 
@@ -95,11 +135,30 @@ Good entries answer these questions in one or two sentences:
 - Does it require an API key, OAuth, or no auth?
 - Which MCP clients does it support?
 
+## Help Improve The Index
+
+You do not need to own a server to contribute.
+
+Useful contributions include:
+
+- Add missing install commands.
+- Fix broken links.
+- Add transport/auth metadata.
+- Add supported client examples.
+- Improve category placement.
+- Report stale or duplicate entries.
+- Request support for more MCP clients.
+
 Generated files such as `data/catalog.json` and `data/profiles/*.json` are maintained by the indexer. If you only add a server entry, editing the relevant `docs/*.md` category page is enough for the PR.
+
+## Local Development
+
+- `npm run registry:mcp` starts a local registry MCP server with `search_servers`, `get_server_profile`, and `get_install_config` tools.
+- `npm run registry:api:dev` starts a local HTTP API for search, category browsing, profiles, and install configs.
 
 For maintainers validating a metadata/indexer change:
 
-```
+```bash
 npm run catalog:build
 npm run profiles:build
 npm test
@@ -109,7 +168,7 @@ npm run build
 
 ## Browse by Category
 
-The README is now a lightweight entry point. Browse the full directory in the category pages below, or use `data/catalog.json` and the registry MCP server for agent-native search.
+The README stays lightweight. Browse the full directory through the category pages below, or use the hosted API for structured search.
 
 | Category | Listed entries | Full list |
 | --- | ---: | --- |
