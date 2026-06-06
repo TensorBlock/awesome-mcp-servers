@@ -164,6 +164,7 @@ Servers providing web search capabilities or interfacing with specialized search
 
 - [pranciskus/newsmcp](https://github.com/pranciskus/newsmcp): Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack): Open-source supply chain for AI agents — search and discover 3,000+ indie creations across 25 categories. 15 MCP tools including find_tools, build_stack, scan_project, compare_tools, and analyze_dependencies. Install via `uvx --from indiestack indiestack-mcp`.
+- [daedalus/mcp-exa](https://github.com/daedalus/mcp-exa) - MCP server exposing Exa websearch API.
 - [AutomateLab-tech/citation-intelligence](https://github.com/AutomateLab-tech/citation-intelligence): Query which URLs Perplexity, Claude, ChatGPT, Gemini, Bing, and Google AI Overviews cite for any query. Self-hosted, BYO API key. Install: `npx @automatelab/citation-intelligence`.
 
 - [wd041216-bit/cross-validated-search](https://github.com/wd041216-bit/cross-validated-search): Evidence-aware search, page reading, and claim verification for AI agents with CLI, MCP, and skill surfaces for Gemini, Claude Code, Manus, and OpenClaw.
@@ -172,3 +173,5 @@ Servers providing web search capabilities or interfacing with specialized search
 - [uju777/mcp-server-naver-search](https://github.com/uju777/mcp-server-naver-search): MCP server for Naver Search (Shopping, Cafe, News). Essential for Korean users.
 - [entire-vc/evc-spark-mcp](https://github.com/entire-vc/evc-spark-mcp): MCP server for discovering, searching, and installing curated AI agent workflows from the Spark catalog - search 200+ tools, get install configs, browse curated bundles.
 - [Nadeus/toolradar-mcp](https://github.com/Nadeus/toolradar-mcp): Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, and real alternatives.
+- [Not Human Search](https://nothumansearch.ai): MCP server to search and discover AI-native tools. 8,600+ indexed sites with agentic capability scores.
+- [nothumansearch](https://nothumansearch.ai/mcp): Search engine and discovery index for 8,600+ agent-native services. Query MCP servers, OpenAPI providers, and llms.txt publishers by keyword, category, or minimum agentic readiness score (0-100). 6 tools: search_agents, get_site_details, get_stats, submit_site, register_monitor, verify_mcp.

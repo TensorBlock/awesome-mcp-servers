@@ -8,17 +8,17 @@
 
 <div style="text-align: left; margin: 20px 0;">
     <a href="https://discord.com/invite/Ej5NmeHFf2" style="display: inline-block; padding: 10px 20px; background-color: #5865F2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
-        Join our Discord to learn more about what we're building ↗
+        Join the TensorBlock Discord
     </a>
 </div>
 <div style="text-align: left; margin: 20px 0;">
     <a href="https://github.com/TensorBlock/forge" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
-         ✨✨✨ Learn more about Forge - an open-source middleware service that simplifies AI model provider management. ✨✨✨
+        Explore Forge, our open-source middleware for AI model provider management
     </a>
 </div>
-A comprehensive, community-curated collection of [Model Context Protocol (MCP)](https://modelcontextprotocol.io) servers — covering AI assistants, browser automation, databases, cloud platforms, developer tools, and much more.
+TensorBlock MCP Index turns this community-curated MCP server directory into a hosted, searchable registry for agents and applications. Contributors add servers in markdown; TensorBlock normalizes the entries, generates structured profiles and install-config previews, and serves the index through a free public API.
 
-> **What is MCP?** The Model Context Protocol is an open standard that lets AI models securely connect to external tools, APIs, databases, and filesystems. Think of it as a USB-C port for AI — a universal interface that any model can use to interact with the world.
+**Hosted API:** [https://mcp-index.tensorblock.co](https://mcp-index.tensorblock.co)
 
 ## Coverage
 
@@ -28,13 +28,49 @@ This repo currently indexes **7,493 unique MCP server links** from the category 
 
 This repo is both a community directory and an agent-ready index. Humans add MCP servers in markdown category pages; the indexer turns those entries into structured data that agents can search, inspect, and use to draft install configs.
 
-How it works:
+### Hosted MCP Index API
+
+TensorBlock provides the MCP Index API as free community infrastructure. We contribute the compute, hosting, data normalization, and ongoing maintenance needed to make this directory usable by agents and applications without requiring every user to clone the repo or parse markdown.
+
+Base URL:
+
+```text
+https://mcp-index.tensorblock.co
+```
+
+Useful endpoints:
+
+- `GET /` - discover available endpoints and current catalog size.
+- `GET /v1/categories` - list categories with entry counts and source docs.
+- `GET /v1/servers?query=postgres&limit=5` - search servers by name, description, category, or URL.
+- `GET /v1/servers?category=Databases&transport=stdio` - filter by category, transport, auth type, and result limit.
+- `GET /v1/servers/{id}` - fetch the normalized profile for one MCP server.
+- `GET /v1/servers/{id}/install-config?client=claude-desktop` - generate an MCP client config for Claude Desktop, Cursor, Codex, or VS Code.
+
+What the API supports today:
+
+- Search MCP servers by keyword.
+- Filter by category, transport, auth type, and result limit.
+- Browse all categories with entry counts.
+- Fetch a normalized server profile by stable server id.
+- Generate install-config previews for Claude Desktop, Cursor, Codex, and VS Code.
+
+We want this registry to support more MCP clients and installation formats over time. If you want another client, package manager, transport, auth flow, or metadata field supported, please open an issue or PR with the expected config shape and examples.
+
+We plan to keep investing in this hosted registry: improving metadata quality, expanding install-config coverage, adding verification signals, and keeping the service available for the MCP community. Contributors are welcome to help build the registry by adding servers, improving metadata, reporting bad entries, and proposing better search or verification workflows. When changes land on `main`, the deploy workflow rebuilds the catalog and profiles before publishing, so newly merged server entries become searchable after the Railway deployment succeeds.
+
+How entries become index data:
 
 1. The source of truth is the category markdown under `docs/*.md`.
 2. Each server entry is parsed from a markdown bullet with a link and description.
 3. `npm run catalog:build` generates `data/catalog.json` with normalized server metadata.
 4. `npm run profiles:build` generates `data/profiles/*.json` for stable per-server profiles.
-5. `npm run registry:mcp` starts a local registry MCP server with `search_servers`, `get_server_profile`, and `get_install_config` tools.
+5. The deploy workflow publishes the refreshed catalog to the hosted API after changes land on `main`.
+
+For local development:
+
+- `npm run registry:mcp` starts a local registry MCP server with `search_servers`, `get_server_profile`, and `get_install_config` tools.
+- `npm run registry:api:dev` starts a local HTTP API for search, category browsing, profiles, and install configs. See [TensorBlock MCP Index API](docs/index-api.md).
 
 That means contributors still submit a normal awesome-list entry, but better metadata makes the entry more useful to agents. When possible, include install command, transport, auth type, supported clients, tool count, license, docs URL, and public remote endpoint. See the [MCP Index Metadata Contribution Guide](docs/index-alpha/contribution-guide.md) for examples.
 
@@ -68,6 +104,7 @@ npm run catalog:build
 npm run profiles:build
 npm test
 npm run typecheck
+npm run build
 ```
 
 ## Browse by Category
