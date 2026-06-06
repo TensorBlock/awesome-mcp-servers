@@ -12,6 +12,7 @@ import {
   normalizeLimit,
   searchCatalog,
 } from "./search.js";
+import { renderServerProfilePage } from "./profilePage.js";
 
 const CLIENT_ALIASES: Record<string, ClientName> = {
   "claude": "claude",
@@ -76,6 +77,18 @@ const handleRequest = async (
       return;
     }
 
+    if (segments[0] === "servers" && segments.length === 2) {
+      const entry = findServer(state.catalog, segments[1]);
+
+      if (!entry) {
+        sendError(response, 404, `Server not found: ${segments[1]}`);
+        return;
+      }
+
+      sendHtml(response, 200, renderServerProfilePage(entry));
+      return;
+    }
+
     if (segments[0] !== "v1") {
       sendError(response, 404, "Not found");
       return;
@@ -129,6 +142,7 @@ const discoveryPayload = (state: RegistryApiState) => ({
     categories: "/v1/categories",
     searchServers: "/v1/servers?query=postgres&limit=5",
     getServer: "/v1/servers/{id}",
+    serverProfile: "/servers/{id}",
     getInstallConfig: "/v1/servers/{id}/install-config?client=claude-desktop",
   },
   docs: "https://github.com/TensorBlock/awesome-mcp-servers/blob/main/docs/index-api.md",
@@ -245,6 +259,18 @@ const sendError = (response: ServerResponse, statusCode: number, message: string
       statusCode,
     },
   });
+};
+
+const sendHtml = (response: ServerResponse, statusCode: number, value: string): void => {
+  response.writeHead(statusCode, {
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "GET, OPTIONS",
+    "Access-Control-Allow-Headers": "Content-Type",
+    "Cache-Control": statusCode === 200 ? "public, max-age=300" : "no-store",
+    "Content-Type": "text/html; charset=utf-8",
+  });
+
+  response.end(value);
 };
 
 export const main = (): void => {

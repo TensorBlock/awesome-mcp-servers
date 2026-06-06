@@ -18,6 +18,7 @@ export interface ServerSummary {
   installConfidence: CatalogEntry["install"]["confidence"];
   primaryUrl: string;
   profilePath: string;
+  webProfilePath: string;
 }
 
 export interface CategorySummary {
@@ -44,6 +45,7 @@ export const summarizeServer = (entry: CatalogEntry): ServerSummary => ({
   installConfidence: entry.install.confidence,
   primaryUrl: entry.links.primary,
   profilePath: `/v1/servers/${entry.id}`,
+  webProfilePath: `/servers/${entry.id}`,
 });
 
 export const listCategories = (catalog: CatalogEntry[]): CategorySummary[] => {
