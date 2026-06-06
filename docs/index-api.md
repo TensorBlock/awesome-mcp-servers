@@ -17,7 +17,6 @@ GET /v1
 GET /v1/categories
 GET /v1/servers?query=&category=&transport=&auth=&limit=
 GET /v1/servers/{id}
-GET /servers/{id}
 GET /v1/servers/{id}/install-config?client=claude-desktop|cursor|codex|vscode
 ```
 
@@ -47,11 +46,13 @@ Fetch a full server profile:
 curl "$MCP_INDEX_API_URL/v1/servers/postgres-mcp"
 ```
 
-Open a shareable server profile page:
+Open a shareable website profile page:
 
 ```text
-https://mcp-index.tensorblock.co/servers/postgres-mcp
+https://tensorblock.co/mcp/servers/postgres-mcp
 ```
+
+The API also keeps `GET /servers/{id}` as a lightweight HTML fallback, but the canonical community profile is hosted on the TensorBlock website.
 
 Generate an install config:
 

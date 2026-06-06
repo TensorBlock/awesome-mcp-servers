@@ -46,6 +46,7 @@ Useful endpoints:
 - `GET /v1/servers?category=Databases&transport=stdio` - filter by category, transport, auth type, and result limit.
 - `GET /v1/servers/{id}` - fetch the normalized profile for one MCP server.
 - `GET /v1/servers/{id}/install-config?client=claude-desktop` - generate an MCP client config for Claude Desktop, Cursor, Codex, or VS Code.
+- `https://tensorblock.co/mcp/servers/{id}` - share a public website profile for an indexed server.
 
 What the API supports today:
 

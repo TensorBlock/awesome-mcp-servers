@@ -140,7 +140,7 @@ describe("searchCatalog", () => {
 
     expect(results).toEqual([summarizeServer(catalog[0])]);
     expect(results[0].profilePath).toBe("/v1/servers/postgres-mcp");
-    expect(results[0].webProfilePath).toBe("/servers/postgres-mcp");
+    expect(results[0].webProfilePath).toBe("https://tensorblock.co/mcp/servers/postgres-mcp");
   });
 
   it("filters by category, transport, and auth", () => {

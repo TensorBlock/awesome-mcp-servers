@@ -87,7 +87,8 @@ describe("registry API server", () => {
     expect(body.name).toBe("TensorBlock MCP Index API");
     expect(body.catalogEntries).toBe(1);
     expect(body.endpoints.searchServers).toBe("/v1/servers?query=postgres&limit=5");
-    expect(body.endpoints.serverProfile).toBe("/servers/{id}");
+    expect(body.endpoints.serverProfile).toBe("https://tensorblock.co/mcp/servers/{id}");
+    expect(body.endpoints.apiHtmlProfile).toBe("/servers/{id}");
   });
 
   it("keeps the version discovery path available", async () => {
@@ -109,6 +110,7 @@ describe("registry API server", () => {
     expect(body).toContain("<h1>Postgres MCP</h1>");
     expect(body).toContain("Query PostgreSQL databases from agents.");
     expect(body).toContain("npx postgres-mcp");
+    expect(body).toContain("https://tensorblock.co/mcp/servers/postgres-mcp");
     expect(body).toContain("/v1/servers/postgres-mcp");
     expect(body).toContain("claude-desktop");
   });

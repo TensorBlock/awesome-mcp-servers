@@ -1,4 +1,5 @@
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
+import { webProfileUrl } from "./webProfile.js";
 
 const CLIENTS = ["claude-desktop", "cursor", "codex", "vscode"] as const;
 
@@ -195,6 +196,7 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
         ${optionalLink("Docs", entry.links.docs)}
         ${optionalLink("Homepage", entry.links.homepage)}
         ${optionalLink("Remote endpoint", entry.links.endpoint)}
+        <a class="button" href="${escapeAttribute(webProfileUrl(entry.id))}">Website profile</a>
         <a class="button" href="/v1/servers/${encodeURIComponent(entry.id)}">JSON profile</a>
       </div>
     </section>

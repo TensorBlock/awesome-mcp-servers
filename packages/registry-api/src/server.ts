@@ -13,6 +13,7 @@ import {
   searchCatalog,
 } from "./search.js";
 import { renderServerProfilePage } from "./profilePage.js";
+import { webProfileTemplate } from "./webProfile.js";
 
 const CLIENT_ALIASES: Record<string, ClientName> = {
   "claude": "claude",
@@ -142,7 +143,8 @@ const discoveryPayload = (state: RegistryApiState) => ({
     categories: "/v1/categories",
     searchServers: "/v1/servers?query=postgres&limit=5",
     getServer: "/v1/servers/{id}",
-    serverProfile: "/servers/{id}",
+    serverProfile: webProfileTemplate(),
+    apiHtmlProfile: "/servers/{id}",
     getInstallConfig: "/v1/servers/{id}/install-config?client=claude-desktop",
   },
   docs: "https://github.com/TensorBlock/awesome-mcp-servers/blob/main/docs/index-api.md",
