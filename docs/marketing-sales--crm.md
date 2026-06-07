@@ -2,6 +2,7 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [jabbawocky/proposalcraft](https://github.com/jabbawocky/proposalcraft): Draft client proposals in your voice, learned from your past winning proposals. Paste a client brief to get a ready-to-send proposal using your winning proposals as style examples. Includes analyze_brief, draft_proposal, and 12 bundled industry templates. Zero API key, fully local.
 - [Parsegl/parse-mcp](https://github.com/Parsegl/parse-mcp): Look up how any brand surfaces in ChatGPT and Google AI Overviews. Parse's public AI visibility index, queryable from any MCP-capable client. Search brands, prompts, sources, and niches; fetch brand briefs and prompt details; pull dataset stats. 577,000+ brands. No auth required.
 - [opusforge/gorilla-mcp](https://github.com/opusforge/gorilla-mcp): Lead discovery for solo SaaS founders. One run searches Reddit, X, YouTube, and TikTok in parallel and ranks each post by buying intent. Tools for end-to-end acquisition: `leads.find`, `idea.refine`, `outreach.draft`, and `outreach.plan` (Week-1 cadence).
 - [edupoli/zapdelivery](https://github.com/edupoli/zapdelivery): ZapDelivery API facilitates self-service delivery projects with an integrated MCP endpoint for seamless operations.
