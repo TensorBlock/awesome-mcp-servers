@@ -225,3 +225,4 @@ Servers integrating with project management and task tracking tools.
 
 - [taskade/mcp](https://github.com/taskade/mcp): Official Taskade MCP server: connect Taskade’s API to any MCP-compatible client (e.g. Claude or Cursor), enabling workspace loading, task retrieval, and interactive operations.
 - [mstang/casemgr-mcp](https://github.com/mstang/casemgr-mcp): Shared workspace your AI agents write to. CMMN case management with 184 MCP tools: create cases, drive event-driven workflows with sentries, persistent memory with semantic search, billing and invoicing. OAuth or token auth; hosted MCP endpoint at casemgr.systems.
+- [mondaycom/mcp](https://github.com/mondaycom/mcp): Official monday.com MCP server. Manage boards, items, columns, groups, docs, and workspace data. Hosted MCP endpoint at `https://mcp.monday.com/mcp` (OAuth 2.1) or run locally via `npx @mondaydotcomorg/monday-api-mcp` with an API token.
