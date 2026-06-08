@@ -1,0 +1,24 @@
+{
+  "id": "github-xue160709-yt-mcp-server-c1d0bd19",
+  "name": "xue160709/yt-mcp-server",
+  "description": "A Model Context Protocol server utilizing the mcp-framework for tool development and integration with Claude Desktop.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-xue160709-yt-mcp-server-c1d0bd19",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xue160709-yt-mcp-server-c1d0bd19)",
+  "links": {
+    "primary": "https://github.com/xue160709/yt-mcp-server",
+    "repo": "https://github.com/xue160709/yt-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

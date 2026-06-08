@@ -1,0 +1,24 @@
+{
+  "id": "github-leafeye-lunchmoney-mcp-server-831faf23",
+  "name": "leafeye/lunchmoney-mcp-server",
+  "description": "Facilitates interaction with Lunchmoney financial data through AI assistants like Claude, enabling users to query and analyze their transactions and budgets securely.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-leafeye-lunchmoney-mcp-server-831faf23",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-leafeye-lunchmoney-mcp-server-831faf23)",
+  "links": {
+    "primary": "https://github.com/leafeye/lunchmoney-mcp-server",
+    "repo": "https://github.com/leafeye/lunchmoney-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

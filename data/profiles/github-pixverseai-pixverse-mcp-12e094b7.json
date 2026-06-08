@@ -1,0 +1,24 @@
+{
+  "id": "github-pixverseai-pixverse-mcp-12e094b7",
+  "name": "PixVerseAI/PixVerse-MCP",
+  "description": "Enables seamless interaction with PixVerse's AI video generation models through applications supporting the Model Context Protocol.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-pixverseai-pixverse-mcp-12e094b7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pixverseai-pixverse-mcp-12e094b7)",
+  "links": {
+    "primary": "https://github.com/PixVerseAI/PixVerse-MCP",
+    "repo": "https://github.com/PixVerseAI/PixVerse-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

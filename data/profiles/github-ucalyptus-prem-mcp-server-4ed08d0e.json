@@ -1,0 +1,24 @@
+{
+  "id": "github-ucalyptus-prem-mcp-server-4ed08d0e",
+  "name": "ucalyptus/prem-mcp-server",
+  "description": "Facilitates seamless integration with Prem AI's features through the MCP interface, supporting chat completions, document management, and real-time streaming responses.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-ucalyptus-prem-mcp-server-4ed08d0e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ucalyptus-prem-mcp-server-4ed08d0e)",
+  "links": {
+    "primary": "https://github.com/ucalyptus/prem-mcp-server",
+    "repo": "https://github.com/ucalyptus/prem-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

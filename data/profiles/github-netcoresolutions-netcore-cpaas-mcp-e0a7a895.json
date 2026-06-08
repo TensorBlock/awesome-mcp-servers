@@ -1,0 +1,24 @@
+{
+  "id": "github-netcoresolutions-netcore-cpaas-mcp-e0a7a895",
+  "name": "NetcoreSolutions/netcore-cpaas-mcp",
+  "description": "Facilitates seamless interaction with NETCORE CPaaS services, focusing on WhatsApp messaging with future support for RCS, SMS, and Email channels.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-netcoresolutions-netcore-cpaas-mcp-e0a7a895",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-netcoresolutions-netcore-cpaas-mcp-e0a7a895)",
+  "links": {
+    "primary": "https://github.com/NetcoreSolutions/netcore-cpaas-mcp",
+    "repo": "https://github.com/NetcoreSolutions/netcore-cpaas-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-tanker327-md5-mcp-b1983559",
+  "name": "tanker327/md5-mcp",
+  "description": "MD5-MCP provides tools for calculating MD5 hashes from strings, JSON data, and base64-encoded binary data, with easy integration into MCP-compatible clients.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-tanker327-md5-mcp-b1983559",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tanker327-md5-mcp-b1983559)",
+  "links": {
+    "primary": "https://github.com/tanker327/md5-mcp",
+    "repo": "https://github.com/tanker327/md5-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

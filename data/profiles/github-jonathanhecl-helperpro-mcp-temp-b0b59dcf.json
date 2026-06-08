@@ -1,0 +1,24 @@
+{
+  "id": "github-jonathanhecl-helperpro-mcp-temp-b0b59dcf",
+  "name": "jonathanhecl/helperpro-mcp-temp",
+  "description": "A TypeScript-based MCP server offering code analysis capabilities across multiple programming languages, with endpoints to extract functions and classes while respecting project-specific exclusions.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-jonathanhecl-helperpro-mcp-temp-b0b59dcf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jonathanhecl-helperpro-mcp-temp-b0b59dcf)",
+  "links": {
+    "primary": "https://github.com/jonathanhecl/helperpro-mcp-temp",
+    "repo": "https://github.com/jonathanhecl/helperpro-mcp-temp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-tonykonst-mcp-brave-409bbbdd",
+  "name": "tonykonst/mcp-brave",
+  "description": "A comprehensive collection of reference implementations for the Model Context Protocol, showcasing its versatility in providing secure and controlled access to tools and data sources for LLMs.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-tonykonst-mcp-brave-409bbbdd",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tonykonst-mcp-brave-409bbbdd)",
+  "links": {
+    "primary": "https://github.com/tonykonst/mcp-brave",
+    "repo": "https://github.com/tonykonst/mcp-brave",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

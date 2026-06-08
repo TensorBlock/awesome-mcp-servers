@@ -1,0 +1,24 @@
+{
+  "id": "github-flyingcloud-code-mcp-6fa9ec24",
+  "name": "flyingcloud-code/mcp",
+  "description": "A simple demo showcasing an MCP server and client implementation using an openrouter model, featuring tools for date, weather, and web content retrieval.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-flyingcloud-code-mcp-6fa9ec24",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-flyingcloud-code-mcp-6fa9ec24)",
+  "links": {
+    "primary": "https://github.com/flyingcloud-code/mcp",
+    "repo": "https://github.com/flyingcloud-code/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

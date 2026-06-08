@@ -1,0 +1,24 @@
+{
+  "id": "github-proompteng-bilig-b7e98511",
+  "name": "Bilig WorkPaper",
+  "description": "Headless spreadsheet WorkPaper MCP server for formula readback, input edits, and JSON persistence in Node.js agent workflows.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-proompteng-bilig-b7e98511",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-proompteng-bilig-b7e98511)",
+  "links": {
+    "primary": "https://github.com/proompteng/bilig",
+    "repo": "https://github.com/proompteng/bilig",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-quant72ai-quant72-mcp-9bd857b4",
+  "name": "Quant72AI/quant72-mcp",
+  "description": "Facilitates standardized protocol operations on the Solana blockchain using the Model Context Protocol.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-quant72ai-quant72-mcp-9bd857b4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-quant72ai-quant72-mcp-9bd857b4)",
+  "links": {
+    "primary": "https://github.com/Quant72AI/quant72-mcp",
+    "repo": "https://github.com/Quant72AI/quant72-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

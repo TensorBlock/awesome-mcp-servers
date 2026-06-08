@@ -1,0 +1,24 @@
+{
+  "id": "github-yu7400ki-tauri-todo-mcp-89c33b8b",
+  "name": "yu7400ki/tauri-todo-mcp",
+  "description": "A Tauri-based application demonstrating MCP server integration for task management.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-yu7400ki-tauri-todo-mcp-89c33b8b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yu7400ki-tauri-todo-mcp-89c33b8b)",
+  "links": {
+    "primary": "https://github.com/yu7400ki/tauri-todo-mcp",
+    "repo": "https://github.com/yu7400ki/tauri-todo-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

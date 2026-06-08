@@ -1,0 +1,24 @@
+{
+  "id": "github-vincentsunx-mcp-opengauss-8633f3a0",
+  "name": "vincentsunx/mcp-openGauss",
+  "description": "Facilitates seamless interaction between LLMs and the openGauss database using the MCP protocol.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-vincentsunx-mcp-opengauss-8633f3a0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vincentsunx-mcp-opengauss-8633f3a0)",
+  "links": {
+    "primary": "https://github.com/vincentsunx/mcp-openGauss",
+    "repo": "https://github.com/vincentsunx/mcp-openGauss",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

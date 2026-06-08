@@ -1,0 +1,24 @@
+{
+  "id": "github-prathammanocha-wordpress-mcp-server-78d86f11",
+  "name": "prathammanocha/wordpress-mcp-server",
+  "description": "Facilitates AI-driven management of WordPress sites via REST API, enabling CRUD operations on posts, users, comments, and more.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-prathammanocha-wordpress-mcp-server-78d86f11",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-prathammanocha-wordpress-mcp-server-78d86f11)",
+  "links": {
+    "primary": "https://github.com/prathammanocha/wordpress-mcp-server",
+    "repo": "https://github.com/prathammanocha/wordpress-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

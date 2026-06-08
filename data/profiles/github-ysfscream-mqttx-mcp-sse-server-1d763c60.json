@@ -1,0 +1,24 @@
+{
+  "id": "github-ysfscream-mqttx-mcp-sse-server-1d763c60",
+  "name": "ysfscream/mqttx-mcp-sse-server",
+  "description": "Facilitates MQTT operations over SSE transport, enabling real-time message delivery and session management for multiple clients.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-ysfscream-mqttx-mcp-sse-server-1d763c60",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ysfscream-mqttx-mcp-sse-server-1d763c60)",
+  "links": {
+    "primary": "https://github.com/ysfscream/mqttx-mcp-sse-server",
+    "repo": "https://github.com/ysfscream/mqttx-mcp-sse-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

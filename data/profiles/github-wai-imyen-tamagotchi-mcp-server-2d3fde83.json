@@ -1,0 +1,24 @@
+{
+  "id": "github-wai-imyen-tamagotchi-mcp-server-2d3fde83",
+  "name": "wai-imyen/tamagotchi-mcp-server",
+  "description": "Simulates a Tamagotchi game using a simple MCP server implementation.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/github-wai-imyen-tamagotchi-mcp-server-2d3fde83",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wai-imyen-tamagotchi-mcp-server-2d3fde83)",
+  "links": {
+    "primary": "https://github.com/wai-imyen/tamagotchi-mcp-server",
+    "repo": "https://github.com/wai-imyen/tamagotchi-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

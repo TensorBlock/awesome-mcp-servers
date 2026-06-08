@@ -1,0 +1,24 @@
+{
+  "id": "github-revit-mcp-revit-mcp-python-c0d99554",
+  "name": "revit-mcp/revit-mcp-python",
+  "description": "Facilitates AI-driven interactions with Revit projects using the MCP protocol, enabling data retrieval and element manipulation.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-revit-mcp-revit-mcp-python-c0d99554",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-revit-mcp-revit-mcp-python-c0d99554)",
+  "links": {
+    "primary": "https://github.com/revit-mcp/revit-mcp-python",
+    "repo": "https://github.com/revit-mcp/revit-mcp-python",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

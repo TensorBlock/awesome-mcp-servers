@@ -1,0 +1,24 @@
+{
+  "id": "github-da-okazaki-mcp-neo4j-server-790cf66f",
+  "name": "da-okazaki/mcp-neo4j-server",
+  "description": "Facilitates natural language interactions with Neo4j graph databases through Claude Desktop, enabling seamless execution of Cypher queries and graph operations.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-da-okazaki-mcp-neo4j-server-790cf66f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-da-okazaki-mcp-neo4j-server-790cf66f)",
+  "links": {
+    "primary": "https://github.com/da-okazaki/mcp-neo4j-server",
+    "repo": "https://github.com/da-okazaki/mcp-neo4j-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

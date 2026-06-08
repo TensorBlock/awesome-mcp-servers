@@ -1,0 +1,25 @@
+{
+  "id": "github-nguyendinhsinh361-supergateway-sinhnd-7c1ab4d7",
+  "name": "nguyendinhsinh361/supergateway-sinhnd",
+  "description": "Supergateway facilitates running MCP stdio-based servers over SSE or WebSockets, enabling seamless remote access and integration with web-based clients.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-nguyendinhsinh361-supergateway-sinhnd-7c1ab4d7",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nguyendinhsinh361-supergateway-sinhnd-7c1ab4d7)",
+  "links": {
+    "primary": "https://github.com/nguyendinhsinh361/supergateway-sinhnd",
+    "repo": "https://github.com/nguyendinhsinh361/supergateway-sinhnd",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

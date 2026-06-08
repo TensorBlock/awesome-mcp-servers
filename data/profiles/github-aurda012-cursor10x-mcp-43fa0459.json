@@ -1,0 +1,24 @@
+{
+  "id": "github-aurda012-cursor10x-mcp-43fa0459",
+  "name": "aurda012/cursor10x-mcp",
+  "description": "A comprehensive memory system for Cursor using MCP, enabling AI assistants to retain and recall project context for enhanced development workflows.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-aurda012-cursor10x-mcp-43fa0459",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aurda012-cursor10x-mcp-43fa0459)",
+  "links": {
+    "primary": "https://github.com/aurda012/cursor10x-mcp",
+    "repo": "https://github.com/aurda012/cursor10x-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

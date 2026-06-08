@@ -1,0 +1,24 @@
+{
+  "id": "github-matthewdcage-cursor-mcp-installer-77b4e75c",
+  "name": "matthewdcage/cursor-mcp-installer",
+  "description": "Facilitates the installation and configuration of MCP servers within the Cursor IDE, streamlining server setup and management.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-matthewdcage-cursor-mcp-installer-77b4e75c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-matthewdcage-cursor-mcp-installer-77b4e75c)",
+  "links": {
+    "primary": "https://github.com/matthewdcage/cursor-mcp-installer",
+    "repo": "https://github.com/matthewdcage/cursor-mcp-installer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

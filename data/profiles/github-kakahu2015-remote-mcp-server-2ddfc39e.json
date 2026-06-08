@@ -1,0 +1,24 @@
+{
+  "id": "github-kakahu2015-remote-mcp-server-2ddfc39e",
+  "name": "kakahu2015/remote-mcp-server",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-kakahu2015-remote-mcp-server-2ddfc39e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kakahu2015-remote-mcp-server-2ddfc39e)",
+  "links": {
+    "primary": "https://github.com/kakahu2015/remote-mcp-server",
+    "repo": "https://github.com/kakahu2015/remote-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

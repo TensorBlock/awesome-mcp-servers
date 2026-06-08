@@ -1,0 +1,24 @@
+{
+  "id": "github-hetaobackend-mcp-github-trending-26e6627c",
+  "name": "hetaoBackend/mcp-github-trending",
+  "description": "Provides a simple API interface to access GitHub's trending repositories and developers data, with filtering options by language and time period.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-hetaobackend-mcp-github-trending-26e6627c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hetaobackend-mcp-github-trending-26e6627c)",
+  "links": {
+    "primary": "https://github.com/hetaoBackend/mcp-github-trending",
+    "repo": "https://github.com/hetaoBackend/mcp-github-trending",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

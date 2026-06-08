@@ -1,0 +1,24 @@
+{
+  "id": "github-sylweriusz-mcp-neo4j-memory-server-ae6f8426",
+  "name": "sylweriusz/mcp-neo4j-memory-server",
+  "description": "Utilizes Neo4j for storing and retrieving knowledge graphs, enhancing memory capabilities in AI interactions.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-sylweriusz-mcp-neo4j-memory-server-ae6f8426",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sylweriusz-mcp-neo4j-memory-server-ae6f8426)",
+  "links": {
+    "primary": "https://github.com/sylweriusz/mcp-neo4j-memory-server",
+    "repo": "https://github.com/sylweriusz/mcp-neo4j-memory-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

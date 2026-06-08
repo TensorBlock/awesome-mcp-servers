@@ -1,0 +1,24 @@
+{
+  "id": "github-zohar-knesset-mcp-b5fd086a",
+  "name": "zohar/knesset-mcp",
+  "description": "Facilitates AI applications in accessing and interacting with Israeli Knesset parliamentary data through a standardized interface.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-zohar-knesset-mcp-b5fd086a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zohar-knesset-mcp-b5fd086a)",
+  "links": {
+    "primary": "https://github.com/zohar/knesset-mcp",
+    "repo": "https://github.com/zohar/knesset-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

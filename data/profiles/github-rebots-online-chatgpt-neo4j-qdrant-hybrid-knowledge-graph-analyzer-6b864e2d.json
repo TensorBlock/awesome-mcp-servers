@@ -1,0 +1,24 @@
+{
+  "id": "github-rebots-online-chatgpt-neo4j-qdrant-hybrid-knowledge-graph-analyzer-6b864e2d",
+  "name": "rebots-online/ChatGPT-neo4j-qdrant-hybrid-knowledge-graph-analyzer",
+  "description": "A hybrid system leveraging vector embeddings and knowledge graphs for semantic search and relationship analysis of ChatGPT conversations.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-rebots-online-chatgpt-neo4j-qdrant-hybrid-knowledge-graph-analyzer-6b864e2d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rebots-online-chatgpt-neo4j-qdrant-hybrid-knowledge-graph-analyzer-6b864e2d)",
+  "links": {
+    "primary": "https://github.com/rebots-online/ChatGPT-neo4j-qdrant-hybrid-knowledge-graph-analyzer",
+    "repo": "https://github.com/rebots-online/ChatGPT-neo4j-qdrant-hybrid-knowledge-graph-analyzer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

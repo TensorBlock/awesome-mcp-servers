@@ -1,0 +1,24 @@
+{
+  "id": "github-nsxdavid-clickup-mcp-server-68556677",
+  "name": "nsxdavid/clickup-mcp-server",
+  "description": "Facilitates AI-driven interactions with ClickUp by providing a standardized MCP interface for managing tasks, workspaces, and other project elements.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-nsxdavid-clickup-mcp-server-68556677",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nsxdavid-clickup-mcp-server-68556677)",
+  "links": {
+    "primary": "https://github.com/nsxdavid/clickup-mcp-server",
+    "repo": "https://github.com/nsxdavid/clickup-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

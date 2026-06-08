@@ -1,0 +1,24 @@
+{
+  "id": "github-abhirockzz-mcp-kusto-55b6f259",
+  "name": "abhirockzz/mcp_kusto",
+  "description": "Facilitates data exploration and querying in Azure Data Explorer using an MCP server built with the Go SDK.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-abhirockzz-mcp-kusto-55b6f259",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abhirockzz-mcp-kusto-55b6f259)",
+  "links": {
+    "primary": "https://github.com/abhirockzz/mcp_kusto",
+    "repo": "https://github.com/abhirockzz/mcp_kusto",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

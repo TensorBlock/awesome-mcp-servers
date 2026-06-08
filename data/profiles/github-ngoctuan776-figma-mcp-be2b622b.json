@@ -1,0 +1,24 @@
+{
+  "id": "github-ngoctuan776-figma-mcp-be2b622b",
+  "name": "ngoctuan776/Figma-MCP",
+  "description": "Facilitates AI-powered coding tools to access and utilize Figma design data for enhanced design implementation accuracy.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/github-ngoctuan776-figma-mcp-be2b622b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ngoctuan776-figma-mcp-be2b622b)",
+  "links": {
+    "primary": "https://github.com/ngoctuan776/Figma-MCP",
+    "repo": "https://github.com/ngoctuan776/Figma-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

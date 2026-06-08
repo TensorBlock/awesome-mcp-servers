@@ -1,0 +1,24 @@
+{
+  "id": "github-deepsrt-deepsrt-mcp-f1154ae0",
+  "name": "DeepSRT/deepsrt-mcp",
+  "description": "Facilitates YouTube video summarization through DeepSRT API integration, offering narrative and bullet-point summaries with multi-language support.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-deepsrt-deepsrt-mcp-f1154ae0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-deepsrt-deepsrt-mcp-f1154ae0)",
+  "links": {
+    "primary": "https://github.com/DeepSRT/deepsrt-mcp",
+    "repo": "https://github.com/DeepSRT/deepsrt-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

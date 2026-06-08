@@ -1,0 +1,24 @@
+{
+  "id": "github-xuezhijian-mcp-weather-749d4efa",
+  "name": "xuezhijian/mcp_weather",
+  "description": "Facilitates weather forecasting and city information retrieval for LLMs using the Model Context Protocol.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-xuezhijian-mcp-weather-749d4efa",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xuezhijian-mcp-weather-749d4efa)",
+  "links": {
+    "primary": "https://github.com/xuezhijian/mcp_weather",
+    "repo": "https://github.com/xuezhijian/mcp_weather",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
