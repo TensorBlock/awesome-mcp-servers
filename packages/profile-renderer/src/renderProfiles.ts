@@ -1,6 +1,7 @@
 import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
+import { badgeMarkdown } from "../../registry-api/src/badge.js";
 
 export interface ServerProfile {
   id: string;
@@ -29,7 +30,7 @@ export const renderProfile = (entry: CatalogEntry, baseUrl: string): ServerProfi
     description: entry.description,
     category: entry.category,
     profileUrl,
-    badgeMarkdown: `[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](${profileUrl})`,
+    badgeMarkdown: badgeMarkdown(entry, profileUrl),
     links: entry.links,
     summary: {
       transport: entry.transport,
