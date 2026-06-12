@@ -46,6 +46,14 @@ Fetch a full server profile:
 curl "$MCP_INDEX_API_URL/v1/servers/postgres-mcp"
 ```
 
+Open a shareable website profile page:
+
+```text
+https://tensorblock.co/mcp/servers/postgres-mcp
+```
+
+The API also keeps `GET /servers/{id}` as a lightweight HTML fallback, but the canonical community profile is hosted on the TensorBlock website.
+
 Generate an install config:
 
 ```bash
