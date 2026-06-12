@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [Bitcompare MCP](https://bitcompare.net/mcp): Crypto yield intelligence API and MCP server for live and historical lending, staking, borrowing, and stablecoin yield data across 350+ assets and 60+ providers. Hosted Streamable HTTP endpoint: `https://api.bitcompare.net/mcp`; npm: `npx @bitcompare/mcp-server`; OpenAPI: `https://api.bitcompare.net/openapi.json`; tool catalog: `https://api.bitcompare.net/mcp/tools.json`. 18 read-only tools. Bearer/API-key auth from Bitcompare Pro.
 - [Sharpe MCP Server](https://www.sharpe.ai/docs/mcp-server): Crypto market intelligence for AI agents, covering derivatives, funding rates, arbitrage, narratives, news, stablecoins, and token-risk checks. Install with `uvx sharpe-mcp`.
 - [FluxA AI Wallet MCP](https://github.com/FluxA-Agent-Payment/FluxA-AI-Wallet-MCP) - MCP server for AI agent payments via x402 and AEP2 protocols, with AgentCards, co-wallets, and stablecoin (USDC) micropayments.
 - [YIELD INTELLIGENCE](https://github.com/thebrierfox/intuitek-ace) - Passive income opportunity analysis with live US Treasury rates, portfolio yield calculator, and AI-powered income optimization. Remote MCP endpoint: https://api.intuitek.ai/yield/mcp (open, no auth required).
