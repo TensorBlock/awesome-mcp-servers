@@ -80,7 +80,7 @@ body:
     attributes:
       label: Auth requirements
       options:
-        - none
+        - no auth
         - api-key
         - oauth
         - bearer
