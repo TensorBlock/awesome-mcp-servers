@@ -32,20 +32,20 @@ Choose the path that matches what you want to do.
 
 **If you maintain an MCP server:**
 
-- Add your server to the best category under [Browse by Category](#browse-by-category).
-- Improve your existing entry with install command, transport, auth requirements, supported clients, docs URL, license, endpoint, and tool details.
-- Claim your TensorBlock MCP profile by opening an issue with the server id or public profile URL.
+- Add your server to the best category under [Browse by Category](#browse-by-category), or use the [Add MCP server issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=add-mcp-server.yml).
+- Improve your existing entry with install command, transport, auth requirements, supported clients, docs URL, license, endpoint, and tool details. Use the [metadata issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) if you do not want to open a PR directly.
+- Claim your TensorBlock MCP profile with the [claim profile issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml).
 - Add the TensorBlock MCP Index badge to your project README so users can jump from your repo to the indexed profile.
 
 **If you build MCP clients, agents, or developer tools:**
 
 - Use the hosted API at [https://mcp-index.tensorblock.co](https://mcp-index.tensorblock.co) to search servers, fetch normalized profiles, list categories, or generate install-config previews.
-- Request another install target by opening an issue with the client name, expected config shape, example config, and official docs.
+- Request another install target with the [client config issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=request-client-config.yml). Include the client name, expected config shape, example config, and official docs.
 - Help improve the config generator for Claude Desktop, Cursor, Codex, VS Code, and future clients.
 
 **If you want to improve the index itself:**
 
-- Fix duplicate, stale, broken, or poorly categorized entries.
+- Fix duplicate, stale, broken, or poorly categorized entries. Use the [broken entry issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=report-broken-entry.yml) when you want maintainers to triage it.
 - Add missing metadata that makes search and install generation more accurate.
 - Propose verification signals, health checks, ranking improvements, or better category rules.
 - Join the [TensorBlock Discord](https://discord.com/invite/Ej5NmeHFf2) to discuss roadmap work before opening a larger PR.
@@ -125,6 +125,8 @@ To add a new MCP server:
    ```
 4. Search the repo for your URL or project name to avoid duplicates.
 5. Open a pull request.
+
+If you are not sure where the server belongs, use the [Add MCP server issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=add-mcp-server.yml) and we can help route it.
 
 To improve an existing server, edit the same markdown bullet where the server is listed. Add missing install, transport, auth, docs, license, client, tool, endpoint, or maintainer information in the description when possible.
 
