@@ -18,6 +18,8 @@
 </div>
 TensorBlock MCP Index turns this community-curated MCP server directory into a hosted, searchable registry for agents and applications. Contributors add servers in markdown; TensorBlock normalizes the entries, generates structured profiles and install-config previews, and serves the index through a free public API.
 
+**MCP Index website:** [https://www.tensorblock.co/mcp](https://www.tensorblock.co/mcp)
+
 **Hosted API:** [https://mcp-index.tensorblock.co](https://mcp-index.tensorblock.co)
 
 ## Coverage
@@ -32,6 +34,7 @@ Choose the path that matches what you want to do.
 
 **If you maintain an MCP server:**
 
+- Share your public MCP profile from [https://www.tensorblock.co/mcp](https://www.tensorblock.co/mcp) so users can inspect metadata, install configs, source links, and badges without reading the raw markdown.
 - Add your server to the best category under [Browse by Category](#browse-by-category), or use the [Add MCP server issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=add-mcp-server.yml).
 - Improve your existing entry with install command, transport, auth requirements, supported clients, docs URL, license, endpoint, and tool details. Use the [metadata issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) if you do not want to open a PR directly.
 - Claim your TensorBlock MCP profile with the [claim profile issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml).
@@ -49,6 +52,8 @@ Choose the path that matches what you want to do.
 - Add missing metadata that makes search and install generation more accurate.
 - Propose verification signals, health checks, ranking improvements, or better category rules.
 - Join the [TensorBlock Discord](https://discord.com/invite/Ej5NmeHFf2) to discuss roadmap work before opening a larger PR.
+
+Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving.
 
 New server entries can be simple, but high-quality metadata makes the profile much more useful. The best entries answer:
 
@@ -68,6 +73,12 @@ This repo is both a community directory and an agent-ready index. Humans add MCP
 ### Hosted MCP Index API
 
 TensorBlock provides the MCP Index API as free community infrastructure. We contribute the compute, hosting, data normalization, and ongoing maintenance needed to make this directory usable by agents and applications without requiring every user to clone the repo or parse markdown.
+
+Public website:
+
+```text
+https://www.tensorblock.co/mcp
+```
 
 Base URL:
 
