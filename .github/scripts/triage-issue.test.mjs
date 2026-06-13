@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { execFileSync } from "node:child_process";
 import test from "node:test";
 
 import {
@@ -78,3 +79,10 @@ test("builds a deduplicated route-specific comment", () => {
   assert.match(comment, /https:\/\/github.com\/owner\/example/);
 });
 
+test("issue forms avoid GitHub reserved dropdown options", () => {
+  assert.doesNotThrow(() => {
+    execFileSync("node", [".github/scripts/validate-issue-forms.mjs"], {
+      stdio: "pipe",
+    });
+  });
+});
