@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [Lu71](https://github.com/TusharPardhe/lu71) - Agentic dispute resolution. File chargebacks on Visa, Mastercard, Stripe, and Lithic when AI agent purchases go wrong. Verify crypto addresses against sanctions and scam databases before sending (10 chains). Record signed purchase intent as tamper proof evidence. Remote HTTP: `https://api.getlu71.com/mcp`. Install via `npx lu71-install --key=YOUR_KEY`.
 - [Sharpe MCP Server](https://www.sharpe.ai/docs/mcp-server): Crypto market intelligence for AI agents, covering derivatives, funding rates, arbitrage, narratives, news, stablecoins, and token-risk checks. Install with `uvx sharpe-mcp`.
 - [FluxA AI Wallet MCP](https://github.com/FluxA-Agent-Payment/FluxA-AI-Wallet-MCP) - MCP server for AI agent payments via x402 and AEP2 protocols, with AgentCards, co-wallets, and stablecoin (USDC) micropayments.
 - [YIELD INTELLIGENCE](https://github.com/thebrierfox/intuitek-ace) - Passive income opportunity analysis with live US Treasury rates, portfolio yield calculator, and AI-powered income optimization. Remote MCP endpoint: https://api.intuitek.ai/yield/mcp (open, no auth required).
