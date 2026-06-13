@@ -116,7 +116,7 @@ export function buildTriageComment(issue) {
       "",
       "What happens next:",
       "- We will check for duplicates and route it to the closest category page.",
-      "- If the metadata is complete enough, a maintainer or contributor can turn this into a docs entry PR.",
+      "- If the category and required fields are clear, automation will draft a docs entry PR for maintainer review.",
       "- Once merged, the Railway deploy rebuilds the catalog and the server becomes searchable through the hosted MCP Index API.",
       "",
       describeCapturedFields(body, [
@@ -365,4 +365,3 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
     process.exit(1);
   });
 }
-

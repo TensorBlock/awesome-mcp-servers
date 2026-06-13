@@ -53,7 +53,7 @@ Choose the path that matches what you want to do.
 - Propose verification signals, health checks, ranking improvements, or better category rules.
 - Join the [TensorBlock Discord](https://discord.com/invite/Ej5NmeHFf2) to discuss roadmap work before opening a larger PR.
 
-Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving.
+Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving. Server submissions with a clear category can also generate a draft docs PR automatically.
 
 New server entries can be simple, but high-quality metadata makes the profile much more useful. The best entries answer:
 
