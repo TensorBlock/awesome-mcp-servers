@@ -89,6 +89,7 @@ describe("registry API server", () => {
     expect(body.endpoints.searchServers).toBe("/v1/servers?query=postgres&limit=5");
     expect(body.endpoints.serverProfile).toBe("https://tensorblock.co/mcp/servers/{id}");
     expect(body.endpoints.apiHtmlProfile).toBe("/servers/{id}");
+    expect(body.endpoints.badge).toBe("/v1/servers/{id}/badge.svg");
   });
 
   it("keeps the version discovery path available", async () => {
@@ -113,6 +114,19 @@ describe("registry API server", () => {
     expect(body).toContain("https://tensorblock.co/mcp/servers/postgres-mcp");
     expect(body).toContain("/v1/servers/postgres-mcp");
     expect(body).toContain("claude-desktop");
+  });
+
+  it("serves a branded SVG badge for a server", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/servers/postgres-mcp/badge.svg`);
+    const body = await response.text();
+
+    expect(response.status).toBe(200);
+    expect(response.headers.get("content-type")).toContain("image/svg+xml");
+    expect(body).toContain("<svg");
+    expect(body).toContain("TensorBlock");
+    expect(body).toContain("MCP Indexed");
+    expect(body).toContain("Postgres MCP is indexed on TensorBlock MCP Index");
   });
 
   it("returns JSON errors for missing profile pages", async () => {

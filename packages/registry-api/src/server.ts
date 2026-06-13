@@ -14,6 +14,7 @@ import {
 } from "./search.js";
 import { renderServerProfilePage } from "./profilePage.js";
 import { webProfileTemplate } from "./webProfile.js";
+import { renderBadgeSvg } from "./badge.js";
 
 const CLIENT_ALIASES: Record<string, ClientName> = {
   "claude": "claude",
@@ -90,6 +91,18 @@ const handleRequest = async (
       return;
     }
 
+    if (segments[0] === "servers" && segments[2] === "badge.svg" && segments.length === 3) {
+      const entry = findServer(state.catalog, segments[1]);
+
+      if (!entry) {
+        sendError(response, 404, `Server not found: ${segments[1]}`);
+        return;
+      }
+
+      sendSvg(response, 200, renderBadgeSvg(entry));
+      return;
+    }
+
     if (segments[0] !== "v1") {
       sendError(response, 404, "Not found");
       return;
@@ -121,6 +134,11 @@ const handleRequest = async (
       return;
     }
 
+    if (segments[1] === "servers" && segments[3] === "badge.svg" && segments.length === 4) {
+      handleBadge(response, state.catalog, segments[2]);
+      return;
+    }
+
     if (segments[1] === "servers" && segments[3] === "install-config" && segments.length === 4) {
       handleInstallConfig(url, response, state.catalog, segments[2]);
       return;
@@ -145,6 +163,7 @@ const discoveryPayload = (state: RegistryApiState) => ({
     getServer: "/v1/servers/{id}",
     serverProfile: webProfileTemplate(),
     apiHtmlProfile: "/servers/{id}",
+    badge: "/v1/servers/{id}/badge.svg",
     getInstallConfig: "/v1/servers/{id}/install-config?client=claude-desktop",
   },
   docs: "https://github.com/TensorBlock/awesome-mcp-servers/blob/main/docs/index-api.md",
@@ -214,6 +233,21 @@ const handleInstallConfig = (
   sendJson(response, 200, generateClientConfig(entry, client));
 };
 
+const handleBadge = (
+  response: ServerResponse,
+  catalog: CatalogEntry[],
+  serverId: string
+): void => {
+  const entry = findServer(catalog, serverId);
+
+  if (!entry) {
+    sendError(response, 404, `Server not found: ${serverId}`);
+    return;
+  }
+
+  sendSvg(response, 200, renderBadgeSvg(entry));
+};
+
 const normalizeClientName = (client: string): ClientName | null =>
   CLIENT_ALIASES[client.toLowerCase()] ?? null;
 
@@ -270,6 +304,18 @@ const sendHtml = (response: ServerResponse, statusCode: number, value: string): 
     "Access-Control-Allow-Headers": "Content-Type",
     "Cache-Control": statusCode === 200 ? "public, max-age=300" : "no-store",
     "Content-Type": "text/html; charset=utf-8",
+  });
+
+  response.end(value);
+};
+
+const sendSvg = (response: ServerResponse, statusCode: number, value: string): void => {
+  response.writeHead(statusCode, {
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "GET, OPTIONS",
+    "Access-Control-Allow-Headers": "Content-Type",
+    "Cache-Control": statusCode === 200 ? "public, max-age=3600" : "no-store",
+    "Content-Type": "image/svg+xml; charset=utf-8",
   });
 
   response.end(value);
