@@ -187,5 +187,4 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [sortlist/signals-cli](https://github.com/sortlist/signals-cli): Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, and funding events. JSON output for agent pipelines. Install via `npm i -g signals-sortlist-cli`.
 - [teamsincetoday/video-commerce-mcp](https://github.com/teamsincetoday/video-commerce-mcp): Extracts commercial entities, scores monetization opportunities, and discovers market gaps from YouTube videos using AI-powered video commerce intelligence.
 - [sharozdawa/content-optimizer](https://github.com/sharozdawa/content-optimizer): Open source Surfer SEO alternative with SERP-based content scoring across 7 categories, entity analysis, heading optimization, and readability scoring.
-
 - [sailquery/niche-mcp](https://github.com/sailquery/niche-mcp): Editorial intelligence for creators and their agents — discover the stories worth writing about, rank the strongest angle, and draft platform-native posts grounded in real sources. Remote MCP (Streamable HTTP, OAuth 2.1 + PAT) at https://api.nicheangle.com/mcp.
