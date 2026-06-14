@@ -66,31 +66,8 @@ export function validateSubmission(submission) {
 }
 
 export function buildMarkdownEntry(submission) {
-  const segments = [sentence(compactText(submission.description, 420))];
-
-  const install = metadataSegment("Install", submission.install, 220);
-  if (install) {
-    segments.push(install);
-  }
-
-  if (submission.transport && submission.transport !== "unknown") {
-    segments.push(metadataSegment("Transport", submission.transport, 80));
-  }
-
-  if (submission.auth && submission.auth !== "unknown") {
-    segments.push(metadataSegment("Auth", submission.auth, 80));
-  }
-
-  const clients = metadataSegment("Clients", submission.clients, 160);
-  if (clients) {
-    segments.push(clients);
-  }
-
-  if (submission.license && submission.license !== "unknown") {
-    segments.push(metadataSegment("License", submission.license, 80));
-  }
-
-  return `- [${sanitizeLinkText(submission.serverName)}](${submission.projectUrl}): ${segments.filter(Boolean).join(" ")}`;
+  const description = sentence(compactText(submission.description, 360));
+  return `- [${sanitizeLinkText(submission.serverName)}](${submission.projectUrl}): ${description}`;
 }
 
 export function docPathForCategory(category) {
@@ -133,13 +110,17 @@ export function buildPrBody({ issue, submission, docPath, entry }) {
   return [
     "## Summary",
     `- add \`${submission.serverName}\` to \`${docPath}\` from community issue #${issue.number}`,
-    "- preserve submitted install, transport, auth, client, and license metadata when provided",
+    "- include submitted metadata below for maintainer verification",
     "",
     "## Generated entry",
     "",
     "```md",
     entry,
     "```",
+    "",
+    "## Submitted metadata",
+    "",
+    ...formatSubmittedMetadata(submission),
     "",
     "## Source issue",
     issue.html_url ?? `#${issue.number}`,
@@ -176,6 +157,22 @@ export function buildIssueComment({ issue, submission, pullRequest, duplicate, e
     ].join("\n");
   }
 
+  if (pullRequest?.blocked) {
+    return [
+      COMMENT_MARKER,
+      `I generated a docs branch for \`${submission.serverName}\`, but could not open the draft PR automatically.`,
+      "",
+      "GitHub Actions currently does not have permission to create pull requests for this repository or organization.",
+      "",
+      "Maintainer action:",
+      `- Open a draft PR from branch \`${pullRequest.branch}\`.`,
+      `- Compare link: ${pullRequest.compareUrl}`,
+      "- Or enable pull request creation for Actions and edit this issue to retry the automation.",
+      "",
+      `Source issue: #${issue.number}`,
+    ].join("\n");
+  }
+
   return [
     COMMENT_MARKER,
     `I created or updated a draft docs PR for \`${submission.serverName}\`: ${pullRequest.html_url}`,
@@ -202,10 +199,18 @@ function normalizeField(value) {
 }
 
 function compactText(value, maxLength = 240) {
-  return value
+  const compacted = value
     .replace(/\s+/g, " ")
-    .trim()
-    .slice(0, maxLength);
+    .trim();
+
+  if (compacted.length <= maxLength) {
+    return compacted;
+  }
+
+  const slice = compacted.slice(0, Math.max(0, maxLength - 3)).trimEnd();
+  const lastSpace = slice.lastIndexOf(" ");
+  const wordBoundary = lastSpace > maxLength * 0.6 ? slice.slice(0, lastSpace) : slice;
+  return `${wordBoundary.trimEnd()}...`;
 }
 
 function sentence(value) {
@@ -217,17 +222,26 @@ function sentence(value) {
   return /[.!?)]$/.test(compacted) ? compacted : `${compacted}.`;
 }
 
-function metadataSegment(label, value, maxLength) {
-  const compacted = compactText(value, maxLength);
-  if (!compacted) {
-    return "";
+function formatSubmittedMetadata(submission) {
+  const rows = [
+    ["Install", submission.install],
+    ["Transport", submission.transport],
+    ["Auth", submission.auth],
+    ["Clients", submission.clients],
+    ["License", submission.license],
+  ]
+    .map(([label, value]) => [label, formatMetadataValue(label, value)])
+    .filter(([, value]) => value && value !== "unknown");
+
+  if (!rows.length) {
+    return ["_No additional metadata submitted._"];
   }
 
-  if (new RegExp(`^${label}:`, "i").test(compacted)) {
-    return sentence(compacted);
-  }
+  return rows.map(([label, value]) => `- **${label}:** ${value}`);
+}
 
-  return `${label}: ${sentence(compacted)}`;
+function formatMetadataValue(label, value) {
+  return compactText(value, 500).replace(new RegExp(`^${label}:\\s*`, "i"), "");
 }
 
 function sanitizeLinkText(value) {
@@ -317,12 +331,37 @@ async function main() {
   run("git", ["commit", "-m", title]);
   run("git", ["push", "--force-with-lease", "origin", `HEAD:${branch}`]);
 
-  const pullRequest = await createOrUpdatePullRequest(request, {
-    owner,
-    branch,
-    title,
-    body,
-  });
+  let pullRequest;
+  try {
+    pullRequest = await createOrUpdatePullRequest(request, {
+      owner,
+      branch,
+      title,
+      body,
+    });
+  } catch (error) {
+    if (!isPullRequestCreationBlocked(error)) {
+      throw error;
+    }
+
+    const compareUrl = `https://github.com/${owner}/${repo}/compare/${DEFAULT_BASE_BRANCH}...${branch}?expand=1`;
+    await upsertIssueComment(
+      request,
+      issue.number,
+      buildIssueComment({
+        issue,
+        submission,
+        pullRequest: {
+          blocked: true,
+          branch,
+          compareUrl,
+        },
+      }),
+    );
+    console.log(`Generated branch ${branch} for issue #${issue.number}, but Actions cannot create pull requests.`);
+    console.log(formatGitHubError(error));
+    return;
+  }
 
   await upsertIssueComment(request, issue.number, buildIssueComment({ issue, submission, pullRequest }));
   console.log(`Created or updated draft PR ${pullRequest.html_url} for issue #${issue.number}.`);
@@ -396,6 +435,23 @@ async function createOrUpdatePullRequest(request, { owner, branch, title, body }
   });
 }
 
+function isPullRequestCreationBlocked(error) {
+  if (error?.status !== 403) {
+    return false;
+  }
+
+  const message = `${error.data?.message ?? ""} ${JSON.stringify(error.data?.errors ?? [])}`;
+  return /not permitted to create|Resource not accessible by integration|pull request/i.test(message);
+}
+
+function formatGitHubError(error) {
+  if (!error?.data) {
+    return error?.message ?? String(error);
+  }
+
+  return `${error.message}: ${JSON.stringify(error.data)}`;
+}
+
 async function upsertIssueComment(request, issueNumber, body) {
   const comments = await request(`/issues/${issueNumber}/comments?per_page=100`);
   const existing = comments.find((comment) => comment.body?.includes(COMMENT_MARKER));
@@ -420,4 +476,3 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
     process.exit(1);
   });
 }
-

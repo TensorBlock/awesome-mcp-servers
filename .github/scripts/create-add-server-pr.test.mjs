@@ -6,6 +6,7 @@ import test from "node:test";
 
 import {
   buildIssueComment,
+  buildPrBody,
   buildMarkdownEntry,
   docPathForCategory,
   findDuplicateByUrl,
@@ -74,8 +75,37 @@ test("builds catalog markdown entry", () => {
 
   assert.equal(
     entry,
-    "- [owner/example-mcp](https://github.com/owner/example-mcp): Lets agents inspect example database schemas. Install: npx -y example-mcp. Transport: stdio. Auth: no auth. Clients: Claude Desktop, Cursor. License: MIT.",
+    "- [owner/example-mcp](https://github.com/owner/example-mcp): Lets agents inspect example database schemas.",
   );
+});
+
+test("keeps install metadata in the draft PR body instead of the catalog entry", () => {
+  const submission = parseAddServerIssue(issueBody);
+  const entry = buildMarkdownEntry(submission);
+  const body = buildPrBody({
+    issue: {
+      number: 123,
+      html_url: "https://github.com/TensorBlock/awesome-mcp-servers/issues/123",
+    },
+    submission,
+    docPath: "docs/databases.md",
+    entry,
+  });
+
+  assert.match(body, /## Submitted metadata/);
+  assert.match(body, /\*\*Install:\*\* npx -y example-mcp/);
+  assert.match(body, /\*\*Transport:\*\* stdio/);
+  assert.match(body, /\*\*Clients:\*\* Claude Desktop, Cursor/);
+  assert.doesNotMatch(entry, /Install:/);
+
+  const bodyWithLabeledInstall = buildPrBody({
+    issue: { number: 123 },
+    submission: { ...submission, install: "Install: npx -y example-mcp" },
+    docPath: "docs/databases.md",
+    entry,
+  });
+  assert.match(bodyWithLabeledInstall, /\*\*Install:\*\* npx -y example-mcp/);
+  assert.doesNotMatch(bodyWithLabeledInstall, /\*\*Install:\*\* Install:/);
 });
 
 test("validates required fields and category", () => {
@@ -118,3 +148,18 @@ test("builds issue comment for generated PR", () => {
   assert.match(comment, /hosted API and public MCP Index website/);
 });
 
+test("builds issue comment when Actions cannot create a pull request", () => {
+  const comment = buildIssueComment({
+    issue: { number: 123 },
+    submission: parseAddServerIssue(issueBody),
+    pullRequest: {
+      blocked: true,
+      branch: "mcp/add-server-issue-123",
+      compareUrl: "https://github.com/TensorBlock/awesome-mcp-servers/compare/main...mcp/add-server-issue-123?expand=1",
+    },
+  });
+
+  assert.match(comment, /could not open the draft PR automatically/);
+  assert.match(comment, /mcp\/add-server-issue-123/);
+  assert.match(comment, /compare\/main\.\.\.mcp\/add-server-issue-123/);
+});
