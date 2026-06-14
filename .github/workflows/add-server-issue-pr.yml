@@ -27,6 +27,7 @@ jobs:
         with:
           fetch-depth: 0
           ref: main
+          token: ${{ secrets.MCP_AUTOMATION_TOKEN || github.token }}
 
       - name: Set up Node
         uses: actions/setup-node@v4
@@ -36,5 +37,4 @@ jobs:
       - name: Create or update draft PR
         run: node .github/scripts/create-add-server-pr.mjs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          GITHUB_TOKEN: ${{ secrets.MCP_AUTOMATION_TOKEN || github.token }}
