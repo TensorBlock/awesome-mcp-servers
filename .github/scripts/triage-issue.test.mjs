@@ -7,6 +7,7 @@ import {
   extractField,
   labelsForIssue,
   routeIssue,
+  serverIdFromProfileReference,
 } from "./triage-issue.mjs";
 
 const metadataIssue = {
@@ -21,6 +22,29 @@ const metadataIssue = {
     "### Project URL",
     "",
     "https://github.com/owner/example",
+  ].join("\n"),
+};
+
+const claimProfileIssue = {
+  number: 77,
+  title: "Claim MCP profile: github-owner-demo",
+  labels: [{ name: "claim-profile" }],
+  body: [
+    "### TensorBlock profile URL or server id",
+    "",
+    "https://www.tensorblock.co/mcp/servers/github-owner-demo-12345678?utm_source=readme",
+    "",
+    "### Project URL",
+    "",
+    "https://github.com/owner/demo",
+    "",
+    "### Maintainer handle",
+    "",
+    "@owner",
+    "",
+    "### Maintainer proof",
+    "",
+    "I am an owner of the GitHub repository.",
   ].join("\n"),
 };
 
@@ -71,12 +95,39 @@ test("extracts issue form fields", () => {
   );
 });
 
+test("normalizes server ids from supported profile references", () => {
+  assert.equal(serverIdFromProfileReference("github-owner-demo-12345678"), "github-owner-demo-12345678");
+  assert.equal(
+    serverIdFromProfileReference("https://www.tensorblock.co/mcp/servers/github-owner-demo-12345678?utm_source=readme"),
+    "github-owner-demo-12345678",
+  );
+  assert.equal(
+    serverIdFromProfileReference("https://mcp-index.tensorblock.co/v1/servers/github-owner-demo-12345678"),
+    "github-owner-demo-12345678",
+  );
+  assert.equal(
+    serverIdFromProfileReference("https://mcp-index.tensorblock.co/servers/github-owner-demo-12345678"),
+    "github-owner-demo-12345678",
+  );
+});
+
 test("builds a deduplicated route-specific comment", () => {
   const comment = buildTriageComment(metadataIssue);
 
   assert.match(comment, /tensorblock-mcp-issue-triage:v1:metadata/);
   assert.match(comment, /Thanks for improving MCP metadata/);
   assert.match(comment, /https:\/\/github.com\/owner\/example/);
+});
+
+test("builds claim profile comments with normalized profile links and verification steps", () => {
+  const comment = buildTriageComment(claimProfileIssue);
+
+  assert.match(comment, /tensorblock-mcp-issue-triage:v1:claim-profile/);
+  assert.match(comment, /https:\/\/tensorblock\.co\/mcp\/servers\/github-owner-demo-12345678/);
+  assert.match(comment, /https:\/\/mcp-index\.tensorblock\.co\/v1\/servers\/github-owner-demo-12345678/);
+  assert.match(comment, /badge\.svg/);
+  assert.match(comment, /Maintainer verification checklist:/);
+  assert.match(comment, /official project source/);
 });
 
 test("issue forms avoid GitHub reserved dropdown options", () => {
