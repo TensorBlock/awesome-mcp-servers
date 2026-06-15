@@ -16,7 +16,8 @@ export function extractAddedCatalogEntries(files) {
   const entriesById = new Map();
 
   for (const file of files) {
-    if (!file.path?.startsWith("docs/") || !file.path.endsWith(".md") || !file.patch) {
+    const sourcePath = file.filename ?? file.path;
+    if (!sourcePath?.startsWith("docs/") || !sourcePath.endsWith(".md") || !file.patch) {
       continue;
     }
 
@@ -28,7 +29,7 @@ export function extractAddedCatalogEntries(files) {
 
       entriesById.set(entry.id, {
         ...entry,
-        sourcePath: file.path,
+        sourcePath,
       });
     }
   }
