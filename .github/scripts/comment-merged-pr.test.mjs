@@ -11,7 +11,7 @@ import {
 test("extracts added docs catalog entries from pull request files", () => {
   const entries = extractAddedCatalogEntries([
     {
-      path: "docs/search.md",
+      filename: "docs/search.md",
       patch: [
         "@@ -1,2 +1,3 @@",
         " ## Search",
@@ -20,7 +20,7 @@ test("extracts added docs catalog entries from pull request files", () => {
       ].join("\n"),
     },
     {
-      path: "README.md",
+      filename: "README.md",
       patch: "+- [Ignored](https://github.com/example/ignored): README entries are ignored.",
     },
   ]);
@@ -29,6 +29,18 @@ test("extracts added docs catalog entries from pull request files", () => {
   assert.equal(entries[0].name, "Example Search");
   assert.equal(entries[0].url, "https://github.com/example/search-mcp");
   assert.equal(entries[0].sourcePath, "docs/search.md");
+});
+
+test("also supports gh JSON file path shape", () => {
+  const entries = extractAddedCatalogEntries([
+    {
+      path: "docs/databases.md",
+      patch: "+- [Database MCP](https://github.com/example/db-mcp): Database MCP server.",
+    },
+  ]);
+
+  assert.equal(entries.length, 1);
+  assert.equal(entries[0].sourcePath, "docs/databases.md");
 });
 
 test("parses markdown entries with colon or dash separators", () => {
