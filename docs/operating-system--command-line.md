@@ -110,3 +110,4 @@ Servers providing access to the host operating system's command line/shell, exec
 
 - [aybelatchane/mcp-server-terminal](https://github.com/aybelatchane/mcp-server-terminal): MCP server enabling AI agents to interact with terminal applications (TUI/CLI) through structured Terminal State Tree representation. Think Playwright for terminals.
 - [mnardit/clipboard-mcp](https://github.com/mnardit/clipboard-mcp): Cross-platform system clipboard access (read, write, watch for changes) for AI assistants. Single Rust binary, zero runtime deps. Supports Windows, macOS, Linux (X11 + Wayland).
+- [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP): Lets AI agents control and inspect Windows desktops through native UI automation, including app control, keyboard and mouse actions, window interaction, browser DOM mode, and desktop QA workflows.
