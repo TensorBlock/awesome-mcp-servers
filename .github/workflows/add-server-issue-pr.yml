@@ -27,7 +27,6 @@ jobs:
         with:
           fetch-depth: 0
           ref: main
-          token: ${{ secrets.MCP_AUTOMATION_TOKEN || github.token }}
 
       - name: Set up Node
         uses: actions/setup-node@v4
