@@ -4,6 +4,7 @@ import { describe, expect, it } from "vitest";
 import type { FormatsPlugin } from "ajv-formats";
 import { Ajv2020 as Ajv } from "ajv/dist/2020.js";
 import { buildCatalogFromMarkdown } from "../src/buildCatalog.js";
+import { slugFromUrl } from "../src/parseMarkdown.js";
 
 const require = createRequire(import.meta.url);
 const addFormats = require("ajv-formats") as FormatsPlugin;
@@ -215,6 +216,49 @@ describe("buildCatalogFromMarkdown", () => {
       names: [],
       source: "self_reported",
     });
+    expect(entry?.license).toBe("MIT");
+  });
+
+  it("applies sidecar metadata over markdown inference", () => {
+    const projectUrl = "https://github.com/owner/plain-mcp";
+    const id = slugFromUrl(projectUrl);
+    const readme = [
+      "## Experimental",
+      `- [Plain MCP](${projectUrl}): Plain server entry without install metadata.`,
+    ].join("\n");
+
+    const result = buildCatalogFromMarkdown(readme, new Map(), new Map([
+      [
+        id,
+        {
+          install: {
+            commands: ["npx -y plain-mcp"],
+            env: ["PLAIN_API_KEY"],
+            confidence: "medium",
+          },
+          transport: ["stdio"],
+          auth: {
+            type: "api-key",
+            notes: ["Submitted through the add-server issue form."],
+          },
+          clients: ["Claude Desktop", "Cursor"],
+          license: "MIT",
+        },
+      ],
+    ]));
+    const entry = result.entries[0];
+
+    expect(entry?.install).toEqual({
+      commands: ["npx -y plain-mcp"],
+      env: ["PLAIN_API_KEY"],
+      confidence: "medium",
+    });
+    expect(entry?.transport).toEqual(["stdio"]);
+    expect(entry?.auth).toEqual({
+      type: "api-key",
+      notes: ["Submitted through the add-server issue form."],
+    });
+    expect(entry?.clients).toEqual(["Claude Desktop", "Cursor"]);
     expect(entry?.license).toBe("MIT");
   });
 

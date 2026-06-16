@@ -11,6 +11,11 @@ export interface ServerProfile {
   profileUrl: string;
   badgeMarkdown: string;
   links: CatalogEntry["links"];
+  install: CatalogEntry["install"];
+  transport: CatalogEntry["transport"];
+  auth: CatalogEntry["auth"];
+  clients: CatalogEntry["clients"];
+  license: CatalogEntry["license"];
   summary: {
     transport: string[];
     auth: string;
@@ -32,6 +37,11 @@ export const renderProfile = (entry: CatalogEntry, baseUrl: string): ServerProfi
     profileUrl,
     badgeMarkdown: badgeMarkdown(entry, profileUrl),
     links: entry.links,
+    install: entry.install,
+    transport: entry.transport,
+    auth: entry.auth,
+    clients: entry.clients,
+    license: entry.license,
     summary: {
       transport: entry.transport,
       auth: entry.auth.type,
