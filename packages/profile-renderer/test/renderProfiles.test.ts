@@ -66,6 +66,18 @@ describe("renderProfile", () => {
     expect(profile.badgeMarkdown).toBe(
       "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-owner-demo/badge.svg)](https://tensorblock.co/mcp/servers/github-owner-demo)"
     );
+    expect(profile.install).toEqual({
+      commands: ["npx -y @owner/demo-mcp"],
+      env: ["DEMO_API_KEY"],
+      confidence: "medium",
+    });
+    expect(profile.transport).toEqual(["stdio"]);
+    expect(profile.auth).toEqual({
+      type: "api-key",
+      notes: ["Requires DEMO_API_KEY."],
+    });
+    expect(profile.clients).toEqual(["claude"]);
+    expect(profile.license).toBe("MIT");
     expect(profile.summary.installConfidence).toBe("medium");
   });
 

@@ -9,7 +9,7 @@ The indexer reads the markdown catalog and generates:
 - install config previews,
 - and a local MCP registry that agents can query directly.
 
-When adding a server, include as much of this metadata as possible in the PR body or entry description:
+When adding a server, include as much of this metadata as possible in the issue form, PR body, or entry description:
 
 - Install command: `npx`, `uvx`, `pip`, Docker, or remote endpoint.
 - Transport: `stdio`, `streamable-http`, or `sse`.
@@ -19,6 +19,8 @@ When adding a server, include as much of this metadata as possible in the PR bod
 - License.
 - Docs URL.
 - Remote MCP endpoint, if public.
+
+For short markdown entries, structured metadata can live in `data/server-metadata/{serverId}.json`. Server submissions created through the Add MCP server issue form can generate this sidecar automatically, so the category page stays readable while the profile/API still get install, transport, auth, client, and license fields.
 
 Complete metadata helps TensorBlock generate:
 

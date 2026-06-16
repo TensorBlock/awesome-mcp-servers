@@ -18,6 +18,8 @@
 </div>
 TensorBlock MCP Index turns this community-curated MCP server directory into a hosted, searchable registry for agents and applications. Contributors add servers in markdown; TensorBlock normalizes the entries, generates structured profiles and install-config previews, and serves the index through a free public API.
 
+**MCP Index website:** [https://www.tensorblock.co/mcp](https://www.tensorblock.co/mcp)
+
 **Hosted API:** [https://mcp-index.tensorblock.co](https://mcp-index.tensorblock.co)
 
 ## Coverage
@@ -32,23 +34,26 @@ Choose the path that matches what you want to do.
 
 **If you maintain an MCP server:**
 
-- Add your server to the best category under [Browse by Category](#browse-by-category).
-- Improve your existing entry with install command, transport, auth requirements, supported clients, docs URL, license, endpoint, and tool details.
-- Claim your TensorBlock MCP profile by opening an issue with the server id or public profile URL.
+- Share your public MCP profile from [https://www.tensorblock.co/mcp](https://www.tensorblock.co/mcp) so users can inspect metadata, install configs, source links, and badges without reading the raw markdown.
+- Add your server to the best category under [Browse by Category](#browse-by-category), or use the [Add MCP server issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=add-mcp-server.yml).
+- Improve your existing entry with install command, transport, auth requirements, supported clients, docs URL, license, endpoint, and tool details. Use the [metadata issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) if you do not want to open a PR directly.
+- Claim your TensorBlock MCP profile with the [claim profile issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml).
 - Add the TensorBlock MCP Index badge to your project README so users can jump from your repo to the indexed profile.
 
 **If you build MCP clients, agents, or developer tools:**
 
 - Use the hosted API at [https://mcp-index.tensorblock.co](https://mcp-index.tensorblock.co) to search servers, fetch normalized profiles, list categories, or generate install-config previews.
-- Request another install target by opening an issue with the client name, expected config shape, example config, and official docs.
+- Request another install target with the [client config issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=request-client-config.yml). Include the client name, expected config shape, example config, and official docs.
 - Help improve the config generator for Claude Desktop, Cursor, Codex, VS Code, and future clients.
 
 **If you want to improve the index itself:**
 
-- Fix duplicate, stale, broken, or poorly categorized entries.
+- Fix duplicate, stale, broken, or poorly categorized entries. Use the [broken entry issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=report-broken-entry.yml) when you want maintainers to triage it.
 - Add missing metadata that makes search and install generation more accurate.
 - Propose verification signals, health checks, ranking improvements, or better category rules.
 - Join the [TensorBlock Discord](https://discord.com/invite/Ej5NmeHFf2) to discuss roadmap work before opening a larger PR.
+
+Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving. Server submissions with a clear category can also generate a draft docs PR automatically.
 
 New server entries can be simple, but high-quality metadata makes the profile much more useful. The best entries answer:
 
@@ -68,6 +73,12 @@ This repo is both a community directory and an agent-ready index. Humans add MCP
 ### Hosted MCP Index API
 
 TensorBlock provides the MCP Index API as free community infrastructure. We contribute the compute, hosting, data normalization, and ongoing maintenance needed to make this directory usable by agents and applications without requiring every user to clone the repo or parse markdown.
+
+Public website:
+
+```text
+https://www.tensorblock.co/mcp
+```
 
 Base URL:
 
@@ -101,10 +112,11 @@ We plan to keep investing in this hosted registry: improving metadata quality, e
 How entries become index data:
 
 1. The source of truth is the category markdown under `docs/*.md`.
-2. Each server entry is parsed from a markdown bullet with a link and description.
-3. `npm run catalog:build` generates `data/catalog.json` with normalized server metadata.
-4. `npm run profiles:build` generates `data/profiles/*.json` for stable per-server profiles.
-5. The deploy workflow publishes the refreshed catalog to the hosted API after changes land on `main`.
+2. Optional `data/server-metadata/*.json` sidecars preserve structured install, transport, auth, client, and license metadata without making the markdown entry long.
+3. Each server entry is parsed from a markdown bullet with a link and description.
+4. `npm run catalog:build` merges markdown entries with sidecar metadata and generates `data/catalog.json`.
+5. `npm run profiles:build` generates `data/profiles/*.json` for stable per-server profiles.
+6. The deploy workflow publishes the refreshed catalog to the hosted API after changes land on `main`.
 
 For local development:
 
@@ -126,9 +138,11 @@ To add a new MCP server:
 4. Search the repo for your URL or project name to avoid duplicates.
 5. Open a pull request.
 
+If you are not sure where the server belongs, use the [Add MCP server issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=add-mcp-server.yml) and we can help route it. When the form has enough information, automation can draft a PR with both the markdown entry and a metadata sidecar.
+
 To improve an existing server, edit the same markdown bullet where the server is listed. Add missing install, transport, auth, docs, license, client, tool, endpoint, or maintainer information in the description when possible.
 
-Generated files such as `data/catalog.json` and `data/profiles/*.json` are maintained by the indexer. If you only add a server entry, editing the relevant `docs/*.md` category page is enough for the PR.
+`data/server-metadata/*.json` files are source metadata used by the indexer. Generated files such as `data/catalog.json` and `data/profiles/*.json` are maintained by the indexer. If you only add a simple server entry, editing the relevant `docs/*.md` category page is enough for the PR.
 
 For metadata and indexer examples, see the [MCP Index Metadata Contribution Guide](docs/index-alpha/contribution-guide.md).
 
