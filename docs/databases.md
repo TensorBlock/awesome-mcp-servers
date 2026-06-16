@@ -299,3 +299,4 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [daedalus/mcp-sqlite3](https://github.com/daedalus/mcp-sqlite3) - MCP server exposing sqlite3 library functionality.
 
 - [stucchi/db-mcp-server](https://github.com/stucchi/db-mcp-server): Database MCP server for MySQL, PostgreSQL, and MongoDB with SSH tunneling support. Run queries, explore schemas, and manage data across multiple database types.
+- [haymon-ai/dbmcp](https://github.com/haymon-ai/dbmcp): Connect AI assistants to MySQL, MariaDB, PostgreSQL, and SQLite databases through an MCP server with schema discovery, query execution, read-only mode, and optional PII redaction.
