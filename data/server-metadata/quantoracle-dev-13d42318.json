@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "quantoracle-dev-13d42318",
+  "source": {
+    "projectUrl": "https://quantoracle.dev"
+  },
+  "links": {
+    "endpoint": "https://mcp.quantoracle.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Free tier 1,000 calls/day; paid endpoints settle via x402 USDC on Base and Solana"
+    ]
+  }
+}
