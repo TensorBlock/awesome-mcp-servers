@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kaitoinfra-twitterapi-io-mcp-server-6e3365ac",
+  "source": {
+    "issue": 724,
+    "projectUrl": "https://github.com/kaitoInfra/twitterapi-io-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.twitterapi.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @kaitoinfra/twitterapi-io-mcp-server"
+    ],
+    "env": [
+      "YOUR_API_KEY",
+      "TWITTERAPI_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "API key (Bearer or env var)"
+    ]
+  },
+  "license": "MIT"
+}
