@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sapph1re-feedback-synthesis-mcp-023deebb",
+  "source": {
+    "issue": 720,
+    "projectUrl": "https://github.com/sapph1re/feedback-synthesis-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other"
+  ],
+  "license": "MIT"
+}
