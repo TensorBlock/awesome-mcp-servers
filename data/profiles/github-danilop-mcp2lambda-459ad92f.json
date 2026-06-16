@@ -1,0 +1,24 @@
+{
+  "id": "github-danilop-mcp2lambda-459ad92f",
+  "name": "danilop/MCP2Lambda",
+  "description": "MCP2Lambda enables seamless integration of AWS Lambda functions as tools for LLMs, allowing models to execute code and access private resources without code changes.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-danilop-mcp2lambda-459ad92f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-danilop-mcp2lambda-459ad92f)",
+  "links": {
+    "primary": "https://github.com/danilop/MCP2Lambda",
+    "repo": "https://github.com/danilop/MCP2Lambda",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

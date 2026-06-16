@@ -1,0 +1,24 @@
+{
+  "id": "github-jodobear-sparcaroo-eb9b4e3a",
+  "name": "jodobear/sparcaroo",
+  "description": "Enhance Roo-Code agents with domain-specific context using an MCP server for improved autonomous software development.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-jodobear-sparcaroo-eb9b4e3a",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jodobear-sparcaroo-eb9b4e3a)",
+  "links": {
+    "primary": "https://github.com/jodobear/sparcaroo",
+    "repo": "https://github.com/jodobear/sparcaroo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

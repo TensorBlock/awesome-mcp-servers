@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-getxapi-getxapi-mcp-d0b54b6c",
+  "source": {
+    "projectUrl": "https://github.com/getxapi/getxapi-mcp"
+  },
+  "links": {
+    "docs": "https://docs.getxapi.com"
+  },
+  "install": {
+    "commands": [
+      "npx -y @getxapi/mcp@latest"
+    ],
+    "env": [
+      "GETXAPI_KEY",
+      "X_AUTH_TOKEN",
+      "X_CT0",
+      "X_TWID",
+      "X_PROXY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "GETXAPI_KEY is required for read tools; optional X account auth enables write/private tools"
+    ]
+  },
+  "license": "MIT"
+}

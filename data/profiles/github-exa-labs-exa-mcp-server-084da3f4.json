@@ -1,0 +1,24 @@
+{
+  "id": "github-exa-labs-exa-mcp-server-084da3f4",
+  "name": "exa-labs/exa-mcp-server",
+  "description": "Empower AI assistants to perform real-time web searches using Exa's API, providing structured results and caching capabilities.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-exa-labs-exa-mcp-server-084da3f4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-exa-labs-exa-mcp-server-084da3f4)",
+  "links": {
+    "primary": "https://github.com/exa-labs/exa-mcp-server",
+    "repo": "https://github.com/exa-labs/exa-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

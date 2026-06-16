@@ -1,0 +1,24 @@
+{
+  "id": "github-kagisearch-kagimcp-a1e849d5",
+  "name": "kagisearch/kagimcp",
+  "description": "Facilitates Kagi search and summarization tasks through a Model Context Protocol server, integrating with tools like Claude Desktop.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-kagisearch-kagimcp-a1e849d5",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kagisearch-kagimcp-a1e849d5)",
+  "links": {
+    "primary": "https://github.com/kagisearch/kagimcp",
+    "repo": "https://github.com/kagisearch/kagimcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

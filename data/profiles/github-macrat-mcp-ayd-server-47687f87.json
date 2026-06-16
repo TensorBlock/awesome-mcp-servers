@@ -1,0 +1,24 @@
+{
+  "id": "github-macrat-mcp-ayd-server-47687f87",
+  "name": "macrat/mcp-ayd-server",
+  "description": "Facilitates status monitoring for Ayd through an MCP server interface.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/github-macrat-mcp-ayd-server-47687f87",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-macrat-mcp-ayd-server-47687f87)",
+  "links": {
+    "primary": "https://github.com/macrat/mcp-ayd-server",
+    "repo": "https://github.com/macrat/mcp-ayd-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

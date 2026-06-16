@@ -1,0 +1,24 @@
+{
+  "id": "github-nwtgck-one-mcp-60ff5426",
+  "name": "nwtgck/one-mcp",
+  "description": "Facilitates the creation of single-tool MCP servers for tasks like word counting and random string generation.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-nwtgck-one-mcp-60ff5426",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nwtgck-one-mcp-60ff5426)",
+  "links": {
+    "primary": "https://github.com/nwtgck/one-mcp",
+    "repo": "https://github.com/nwtgck/one-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

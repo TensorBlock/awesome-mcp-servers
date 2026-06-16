@@ -82,5 +82,10 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 - [chatmcp/mcp-server-collector](https://github.com/chatmcp/mcp-server-collector): Facilitates the discovery and submission of MCP servers by extracting them from URLs and content, and submitting them to directories.
 - [loglmhq/mcp-server-prometheus](https://github.com/loglmhq/mcp-server-prometheus): Facilitates interaction with Prometheus metrics and data through a TypeScript-based MCP server, bridging Claude and Prometheus via the Model Context Protocol.
 - [sqr/datadog-mcp](https://github.com/sqr/datadog-mcp): Facilitates log retrieval from Datadog for analysis by Claude within a Kubernetes environment.
+- [daedalus/mcp-zabbix](https://github.com/daedalus/mcp-zabbix) - MCP server for Zabbix API.
 - [vdineshk/dominion-observatory](https://github.com/vdineshk/dominion-observatory): Behavioral trust scoring for MCP servers. Continuously probes 22,500+ servers for uptime, latency, and success rate; provides trust_score (0-100) and behavioral drift detection via a free REST API.
 
+
+- [unitedideas/resolve-mcp](https://github.com/unitedideas/resolve-mcp): Structured error recovery for AI agents. Returns resolution playbooks with backoff schedules, retry strategies, and recovery steps for 20+ services including OpenAI, Anthropic, Stripe, AWS, and Postgres.
+- [smigolsmigol/llmkit](https://github.com/smigolsmigol/llmkit): AI cost tracking and budget enforcement MCP server with 11 tools for monitoring spend, session costs, and token usage across Claude Code, Cursor, and Cline.
+- [iPythoning/domain-monitor-mcp-server](https://github.com/iPythoning/domain-monitor-mcp-server) - Domain WHOIS and SSL certificate monitoring via RDAP and crt.sh — single or batch domain checks with severity classification. Zero API keys, stdio transport (Claude Code/Desktop, Cursor, Windsurf). Install: `npx domain-monitor-mcp-server`.

@@ -1,0 +1,24 @@
+{
+  "id": "github-martinpsdev-curl-mcp-aabdeb71",
+  "name": "MartinPSDev/curl-mcp",
+  "description": "Transforms natural language instructions into curl commands, supporting English and Spanish, for seamless HTTP requests.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-martinpsdev-curl-mcp-aabdeb71",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-martinpsdev-curl-mcp-aabdeb71)",
+  "links": {
+    "primary": "https://github.com/MartinPSDev/curl-mcp",
+    "repo": "https://github.com/MartinPSDev/curl-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

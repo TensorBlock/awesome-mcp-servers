@@ -1,0 +1,24 @@
+{
+  "id": "github-picahq-pica-mcp-f152a5bb",
+  "name": "picahq/pica-mcp",
+  "description": "Pica MCP Server enables seamless integration of Claude Desktop with over 70 third-party services, facilitating secure data access and workflow automation through natural language requests.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-picahq-pica-mcp-f152a5bb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-picahq-pica-mcp-f152a5bb)",
+  "links": {
+    "primary": "https://github.com/picahq/pica-mcp",
+    "repo": "https://github.com/picahq/pica-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-avimbu-plausible-mcp-server-b1d959b3",
+  "name": "AVIMBU/plausible-mcp-server",
+  "description": "Facilitates AI-driven queries to Plausible Analytics data through a Model Context Protocol server.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-avimbu-plausible-mcp-server-b1d959b3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-avimbu-plausible-mcp-server-b1d959b3)",
+  "links": {
+    "primary": "https://github.com/AVIMBU/plausible-mcp-server",
+    "repo": "https://github.com/AVIMBU/plausible-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

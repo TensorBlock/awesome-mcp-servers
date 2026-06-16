@@ -1,0 +1,39 @@
+name: MCP Add Server Draft PR
+
+on:
+  issues:
+    types:
+      - opened
+      - edited
+      - reopened
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: mcp-add-server-issue-pr-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  draft-pr:
+    name: Draft docs PR from server submission
+    if: contains(github.event.issue.labels.*.name, 'server-submission') || startsWith(github.event.issue.title, 'Add MCP server:')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Create or update draft PR
+        run: node .github/scripts/create-add-server-pr.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.MCP_AUTOMATION_TOKEN || github.token }}

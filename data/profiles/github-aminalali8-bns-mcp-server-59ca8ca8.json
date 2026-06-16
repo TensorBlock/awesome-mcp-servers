@@ -1,0 +1,24 @@
+{
+  "id": "github-aminalali8-bns-mcp-server-59ca8ca8",
+  "name": "aminalali8/bns-mcp-server",
+  "description": "Facilitates AI-driven management of Bunnyshell resources via natural language commands through the Bunnyshell CLI.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-aminalali8-bns-mcp-server-59ca8ca8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aminalali8-bns-mcp-server-59ca8ca8)",
+  "links": {
+    "primary": "https://github.com/aminalali8/bns-mcp-server",
+    "repo": "https://github.com/aminalali8/bns-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

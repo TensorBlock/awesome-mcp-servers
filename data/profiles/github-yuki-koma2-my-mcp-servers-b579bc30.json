@@ -1,0 +1,24 @@
+{
+  "id": "github-yuki-koma2-my-mcp-servers-b579bc30",
+  "name": "yuki-koma2/my-mcp-servers",
+  "description": "Dockerized MCP server for GitHub API integration, enabling repository management and search functionalities.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-yuki-koma2-my-mcp-servers-b579bc30",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yuki-koma2-my-mcp-servers-b579bc30)",
+  "links": {
+    "primary": "https://github.com/yuki-koma2/my-mcp-servers",
+    "repo": "https://github.com/yuki-koma2/my-mcp-servers",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

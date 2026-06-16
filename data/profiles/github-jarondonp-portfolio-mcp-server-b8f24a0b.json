@@ -1,0 +1,24 @@
+{
+  "id": "github-jarondonp-portfolio-mcp-server-b8f24a0b",
+  "name": "jarondonp/portfolio-mcp-server",
+  "description": "Integrates the Brave Search API to offer web and local search capabilities with flexible filtering and smart fallbacks.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/github-jarondonp-portfolio-mcp-server-b8f24a0b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jarondonp-portfolio-mcp-server-b8f24a0b)",
+  "links": {
+    "primary": "https://github.com/jarondonp/portfolio-mcp-server",
+    "repo": "https://github.com/jarondonp/portfolio-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-yash-kavaiya-mcp-server-templates-828a1470",
+  "name": "Yash-Kavaiya/mcp-server-templates",
+  "description": "Provides templates for building versatile MCP servers tailored for AI assistants like Claude, facilitating interaction with external tools and data sources.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-yash-kavaiya-mcp-server-templates-828a1470",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yash-kavaiya-mcp-server-templates-828a1470)",
+  "links": {
+    "primary": "https://github.com/Yash-Kavaiya/mcp-server-templates",
+    "repo": "https://github.com/Yash-Kavaiya/mcp-server-templates",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

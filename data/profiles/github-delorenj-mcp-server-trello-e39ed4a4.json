@@ -1,0 +1,24 @@
+{
+  "id": "github-delorenj-mcp-server-trello-e39ed4a4",
+  "name": "delorenj/mcp-server-trello",
+  "description": "Facilitates seamless interaction with Trello boards through a Model Context Protocol server, ensuring efficient API integration with built-in rate limiting and error handling.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-delorenj-mcp-server-trello-e39ed4a4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-delorenj-mcp-server-trello-e39ed4a4)",
+  "links": {
+    "primary": "https://github.com/delorenj/mcp-server-trello",
+    "repo": "https://github.com/delorenj/mcp-server-trello",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

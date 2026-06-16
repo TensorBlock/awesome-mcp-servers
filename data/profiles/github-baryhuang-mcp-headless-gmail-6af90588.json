@@ -1,0 +1,24 @@
+{
+  "id": "github-baryhuang-mcp-headless-gmail-6af90588",
+  "name": "baryhuang/mcp-headless-gmail",
+  "description": "Facilitates headless Gmail operations via MCP, enabling remote email management without local credential setup.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-baryhuang-mcp-headless-gmail-6af90588",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-baryhuang-mcp-headless-gmail-6af90588)",
+  "links": {
+    "primary": "https://github.com/baryhuang/mcp-headless-gmail",
+    "repo": "https://github.com/baryhuang/mcp-headless-gmail",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

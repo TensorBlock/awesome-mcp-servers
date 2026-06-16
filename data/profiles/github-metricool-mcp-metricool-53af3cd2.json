@@ -1,0 +1,24 @@
+{
+  "id": "github-metricool-mcp-metricool-53af3cd2",
+  "name": "metricool/mcp-metricool",
+  "description": "Facilitates AI-driven analysis and scheduling of social media metrics and campaigns via the Metricool API.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/github-metricool-mcp-metricool-53af3cd2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-metricool-mcp-metricool-53af3cd2)",
+  "links": {
+    "primary": "https://github.com/metricool/mcp-metricool",
+    "repo": "https://github.com/metricool/mcp-metricool",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

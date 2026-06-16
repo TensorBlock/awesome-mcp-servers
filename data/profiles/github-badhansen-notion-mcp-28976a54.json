@@ -1,0 +1,24 @@
+{
+  "id": "github-badhansen-notion-mcp-28976a54",
+  "name": "Badhansen/notion-mcp",
+  "description": "Integrates with Notion's API to manage personal todo lists using the Model Context Protocol.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-badhansen-notion-mcp-28976a54",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-badhansen-notion-mcp-28976a54)",
+  "links": {
+    "primary": "https://github.com/Badhansen/notion-mcp",
+    "repo": "https://github.com/Badhansen/notion-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

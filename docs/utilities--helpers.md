@@ -353,4 +353,12 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer): Facilitates the installation of MCP servers from npm or PyPi using Claude, streamlining server setup and deployment.
 - [hide-org/hide-mcp](https://github.com/hide-org/hide-mcp): A headless IDE MCP server featuring a text editor and persistent bash shell for file management and command execution.
 - [KGT24k/mcp-tool-search](https://github.com/KGT24k/mcp-tool-search): MCP proxy that reduces context token usage by 85-96% via lazy tool loading, replacing 50-200+ tool schemas with 4 lightweight proxy tools. Compatible with Claude Code, Claude Desktop, Cursor, and Windsurf.
+- [daedalus/mcp-epochs](https://github.com/daedalus/mcp-epochs) - MCP tool that provides current Unix timestamp.
+- [daedalus/mcp-rpn](https://github.com/daedalus/mcp-rpn) - MCP server that exposes an RPN calculator.
 
+
+- [FlatFilers/mcp-server-flatfile](https://github.com/FlatFilers/mcp-server-flatfile): Facilitates interaction with the Flatfile API through a customizable MCP server, enabling streamlined data management and integration.
+- [IteraTools](https://api.iteratools.com): Cloud-hosted multi-tool MCP API providing 34+ capabilities through a single endpoint: image generation (Flux), web scraping, TTS, OCR, browser automation, sandboxed code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and more. Pay-per-use with x402 micropayment protocol.
+- [demo112/cn-calendar-skill](https://github.com/demo112/cn-calendar-skill): Chinese calendar and holiday queries — public holidays, workday schedules (调休), traditional festivals, and 24 solar terms (二十四节气) via MCP tools.
+- [Instafill.ai](https://instafill.ai): AI-powered PDF form filler MCP server. Auto-completes any PDF form by extracting fields and filling them from saved profiles, uploaded files, or supplied data.
+- [jakobautomation/agentsvc-mcp](https://github.com/jakobautomation/agentsvc-mcp): Provides 20 pay-per-call utility tools for AI agents via x402 USDC micropayments on Base, including screenshots, OCR, PDF extraction, web scraping, weather forecasts, forex rates, crypto/stock prices, DNS/IP lookup, geocoding, translation, and news search. No API keys required.

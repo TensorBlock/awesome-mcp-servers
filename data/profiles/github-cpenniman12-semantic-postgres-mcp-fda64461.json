@@ -1,0 +1,24 @@
+{
+  "id": "github-cpenniman12-semantic-postgres-mcp-fda64461",
+  "name": "cpenniman12/semantic-postgres-mcp",
+  "description": "Enables AI assistants to perform semantic search on PostgreSQL databases using vector embeddings for natural language queries.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-cpenniman12-semantic-postgres-mcp-fda64461",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cpenniman12-semantic-postgres-mcp-fda64461)",
+  "links": {
+    "primary": "https://github.com/cpenniman12/semantic-postgres-mcp",
+    "repo": "https://github.com/cpenniman12/semantic-postgres-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

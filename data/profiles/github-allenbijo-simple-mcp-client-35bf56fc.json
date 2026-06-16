@@ -1,0 +1,24 @@
+{
+  "id": "github-allenbijo-simple-mcp-client-35bf56fc",
+  "name": "allenbijo/simple-mcp-client",
+  "description": "This repository provides a command-line MCP client for interacting with OpenAI's GPT and Anthropic's Claude models.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-allenbijo-simple-mcp-client-35bf56fc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-allenbijo-simple-mcp-client-35bf56fc)",
+  "links": {
+    "primary": "https://github.com/allenbijo/simple-mcp-client",
+    "repo": "https://github.com/allenbijo/simple-mcp-client",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

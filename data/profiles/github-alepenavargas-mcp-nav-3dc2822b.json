@@ -1,0 +1,24 @@
+{
+  "id": "github-alepenavargas-mcp-nav-3dc2822b",
+  "name": "alepenavargas/mcp-nav",
+  "description": "Facilitates navigation and content extraction from modelcontextprotocol.io using a configurable MCP server.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-alepenavargas-mcp-nav-3dc2822b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alepenavargas-mcp-nav-3dc2822b)",
+  "links": {
+    "primary": "https://github.com/alepenavargas/mcp-nav",
+    "repo": "https://github.com/alepenavargas/mcp-nav",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
