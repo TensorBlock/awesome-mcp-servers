@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
+import { slugFromUrl } from "./comment-merged-pr.mjs";
 import { extractField } from "./triage-issue.mjs";
 
 const API_BASE = "https://api.github.com";
@@ -106,10 +107,11 @@ export function findDuplicateByUrl(projectUrl, docsDir = "docs") {
   return null;
 }
 
-export function buildPrBody({ issue, submission, docPath, entry }) {
+export function buildPrBody({ issue, submission, docPath, entry, metadataSidecar }) {
   return [
     "## Summary",
     `- add \`${submission.serverName}\` to \`${docPath}\` from community issue #${issue.number}`,
+    ...(metadataSidecar ? [`- add structured metadata sidecar \`${metadataSidecar.path}\``] : []),
     "- include submitted metadata below for maintainer verification",
     "",
     "## Generated entry",
@@ -117,6 +119,18 @@ export function buildPrBody({ issue, submission, docPath, entry }) {
     "```md",
     entry,
     "```",
+    ...(metadataSidecar
+      ? [
+          "",
+          "## Generated metadata sidecar",
+          "",
+          `\`${metadataSidecar.path}\``,
+          "",
+          "```json",
+          metadataSidecar.content.trimEnd(),
+          "```",
+        ]
+      : []),
     "",
     "## Submitted metadata",
     "",
@@ -127,6 +141,31 @@ export function buildPrBody({ issue, submission, docPath, entry }) {
     "",
     "This is an automated draft PR. Maintainers should verify the project URL, category, metadata, and duplicate status before merging.",
   ].join("\n");
+}
+
+export function buildMetadataSidecar({ issue, submission }) {
+  const serverId = slugFromUrl(submission.projectUrl);
+  const metadata = {
+    "$schema": "../../schemas/server-metadata.schema.json",
+    id: serverId,
+    source: {
+      issue: issue.number,
+      projectUrl: submission.projectUrl,
+    },
+    ...definedObject({
+      install: buildInstallMetadata(submission.install),
+      transport: parseTransportMetadata(submission.transport),
+      auth: buildAuthMetadata(submission.auth),
+      clients: parseListMetadata(submission.clients),
+      license: normalizeMetadataScalar(submission.license),
+    }),
+  };
+
+  return {
+    serverId,
+    path: `data/server-metadata/${serverId}.json`,
+    content: `${JSON.stringify(metadata, null, 2)}\n`,
+  };
 }
 
 export function buildIssueComment({ issue, submission, pullRequest, duplicate, errors }) {
@@ -244,6 +283,110 @@ function formatMetadataValue(label, value) {
   return compactText(value, 500).replace(new RegExp(`^${label}:\\s*`, "i"), "");
 }
 
+function buildInstallMetadata(value) {
+  const commands = parseInstallCommands(value);
+  const env = extractEnvVars(value);
+
+  if (commands.length === 0 && env.length === 0) {
+    return null;
+  }
+
+  return {
+    commands,
+    env,
+    confidence: commands.length > 0 ? "medium" : "low",
+  };
+}
+
+function parseInstallCommands(value) {
+  const backtickCommands = Array.from(value.matchAll(/`([^`]+)`/g))
+    .map((match) => cleanMetadataLine(match[1]))
+    .filter(isLikelyLaunchCommand);
+
+  if (backtickCommands.length > 0) {
+    return unique(backtickCommands);
+  }
+
+  return unique(
+    value
+      .split(/\r?\n/)
+      .map(cleanMetadataLine)
+      .filter(isLikelyLaunchCommand),
+  );
+}
+
+function parseTransportMetadata(value) {
+  const lower = value.toLowerCase();
+  const transports = [];
+
+  if (/\bstdio\b/.test(lower)) transports.push("stdio");
+  if (/\bsse\b/.test(lower)) transports.push("sse");
+  if (/\bhttp\b/.test(lower) || lower.includes("streamable")) transports.push("streamable-http");
+
+  return transports.length > 0 ? unique(transports) : null;
+}
+
+function buildAuthMetadata(value) {
+  if (!value) {
+    return null;
+  }
+
+  const lower = value.toLowerCase();
+  let type = "unknown";
+
+  if (/\b(no auth|none|not required|no authentication)\b/.test(lower)) type = "none";
+  else if (lower.includes("oauth")) type = "oauth";
+  else if (lower.includes("bearer")) type = "bearer";
+  else if (lower.includes("api key") || lower.includes("api-key") || /\b[A-Z][A-Z0-9_]*API_KEY\b/.test(value)) {
+    type = "api-key";
+  }
+
+  return {
+    type,
+    notes: type === "none" ? [] : [compactText(value, 240)],
+  };
+}
+
+function parseListMetadata(value) {
+  const values = value
+    .split(/[,;\n]/)
+    .map(cleanMetadataLine)
+    .filter(Boolean);
+
+  return values.length > 0 ? unique(values) : null;
+}
+
+function normalizeMetadataScalar(value) {
+  const normalized = compactText(value, 120);
+  return normalized || null;
+}
+
+function extractEnvVars(value) {
+  const matches = value.match(/\b[A-Z][A-Z0-9_]{2,}\b/g) ?? [];
+  return unique(matches.filter((match) => /(KEY|TOKEN|SECRET|PASSWORD|ENDPOINT|URL)$/.test(match)));
+}
+
+function cleanMetadataLine(value) {
+  return value
+    .trim()
+    .replace(/^[-*]\s+/, "")
+    .replace(/^```[a-z]*|```$/gi, "")
+    .replace(/^`+|`+$/g, "")
+    .trim();
+}
+
+function isLikelyLaunchCommand(value) {
+  return /^(?:npx|uvx|npm|docker|node|python3?|[a-z0-9._-]*mcp)\b/i.test(value);
+}
+
+function definedObject(entries) {
+  return Object.fromEntries(Object.entries(entries).filter(([, value]) => value !== null && value !== ""));
+}
+
+function unique(values) {
+  return Array.from(new Set(values));
+}
+
 function sanitizeLinkText(value) {
   return compactText(value, 120).replace(/[[\]]/g, "");
 }
@@ -273,6 +416,11 @@ function canonicalizeUrl(value) {
   } catch {
     return value.trim();
   }
+}
+
+function writeMetadataSidecar(sidecar) {
+  fs.mkdirSync(path.dirname(sidecar.path), { recursive: true });
+  fs.writeFileSync(sidecar.path, sidecar.content);
 }
 
 async function main() {
@@ -311,9 +459,10 @@ async function main() {
 
   const docPath = docPathForCategory(submission.category);
   const entry = buildMarkdownEntry(submission);
+  const metadataSidecar = buildMetadataSidecar({ issue, submission });
   const branch = `mcp/add-server-issue-${issue.number}`;
   const title = `Add ${submission.serverName} MCP server`;
-  const body = buildPrBody({ issue, submission, docPath, entry });
+  const body = buildPrBody({ issue, submission, docPath, entry, metadataSidecar });
 
   run("git", ["config", "user.name", "github-actions[bot]"]);
   run("git", ["config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"]);
@@ -321,7 +470,8 @@ async function main() {
   run("git", ["checkout", "-B", branch, `origin/${DEFAULT_BASE_BRANCH}`]);
 
   appendEntryToDocs(docPath, entry);
-  run("git", ["add", docPath]);
+  writeMetadataSidecar(metadataSidecar);
+  run("git", ["add", docPath, metadataSidecar.path]);
 
   if (!hasStagedChanges()) {
     console.log(`No docs changes generated for issue #${issue.number}.`);

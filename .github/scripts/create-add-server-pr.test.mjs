@@ -7,6 +7,7 @@ import test from "node:test";
 import {
   buildIssueComment,
   buildPrBody,
+  buildMetadataSidecar,
   buildMarkdownEntry,
   docPathForCategory,
   findDuplicateByUrl,
@@ -106,6 +107,34 @@ test("keeps install metadata in the draft PR body instead of the catalog entry",
   });
   assert.match(bodyWithLabeledInstall, /\*\*Install:\*\* npx -y example-mcp/);
   assert.doesNotMatch(bodyWithLabeledInstall, /\*\*Install:\*\* Install:/);
+});
+
+test("builds a metadata sidecar for submitted install and compatibility fields", () => {
+  const submission = parseAddServerIssue(issueBody);
+  const sidecar = buildMetadataSidecar({
+    issue: { number: 123 },
+    submission,
+  });
+  const metadata = JSON.parse(sidecar.content);
+
+  assert.match(sidecar.path, /^data\/server-metadata\/github-owner-example-mcp-[a-f0-9]{8}\.json$/);
+  assert.equal(metadata.id, sidecar.serverId);
+  assert.deepEqual(metadata.source, {
+    issue: 123,
+    projectUrl: "https://github.com/owner/example-mcp",
+  });
+  assert.deepEqual(metadata.install, {
+    commands: ["npx -y example-mcp"],
+    env: [],
+    confidence: "medium",
+  });
+  assert.deepEqual(metadata.transport, ["stdio"]);
+  assert.deepEqual(metadata.auth, {
+    type: "none",
+    notes: [],
+  });
+  assert.deepEqual(metadata.clients, ["Claude Desktop", "Cursor"]);
+  assert.equal(metadata.license, "MIT");
 });
 
 test("validates required fields and category", () => {
