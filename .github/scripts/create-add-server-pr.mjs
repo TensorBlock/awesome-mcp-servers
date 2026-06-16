@@ -467,7 +467,7 @@ function isLikelyLaunchCommand(value) {
 }
 
 function stripUrlPunctuation(url) {
-  return url.replace(/[.;:!?]+$/, "");
+  return url.replace(/[.;:!?"']+$/, "");
 }
 
 function looksLikeMcpEndpoint(url) {
