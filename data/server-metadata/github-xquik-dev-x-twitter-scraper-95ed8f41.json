@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-xquik-dev-x-twitter-scraper-95ed8f41",
+  "source": {
+    "projectUrl": "https://github.com/Xquik-dev/x-twitter-scraper"
+  },
+  "links": {
+    "endpoint": "https://xquik.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "x-api-key auth"
+    ]
+  }
+}

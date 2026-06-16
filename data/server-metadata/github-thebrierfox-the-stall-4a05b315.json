@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-thebrierfox-the-stall-4a05b315",
+  "source": {
+    "projectUrl": "https://github.com/thebrierfox/the-stall"
+  },
+  "links": {
+    "endpoint": "https://the-stall.intuitek.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
