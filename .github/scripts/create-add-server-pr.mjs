@@ -13,30 +13,56 @@ const DEFAULT_BASE_BRANCH = "main";
 
 export const CATEGORY_TO_DOCS_PATH = {
   "AI & LLM Integration": "docs/ai--llm-integration.md",
+  "Art, Culture & Media": "docs/art-culture--media.md",
   "Browser Automation & Web Scraping": "docs/browser-automation--web-scraping.md",
+  "Build & Deployment Tools": "docs/build--deployment-tools.md",
   "Cloud Platforms & Services": "docs/cloud-platforms--services.md",
+  "Code Analysis & Quality": "docs/code-analysis--quality.md",
   "Code Execution": "docs/code-execution.md",
+  "Communication & Messaging": "docs/communication--messaging.md",
+  "Content Management Systems": "docs/content-management-systems-cms.md",
+  "Data Analysis & Business Intelligence": "docs/data-analysis--business-intelligence.md",
   Databases: "docs/databases.md",
   "Developer Productivity & Utilities": "docs/developer-productivity--utilities.md",
   Filesystems: "docs/filesystems.md",
+  "Finance & Crypto": "docs/finance--crypto.md",
+  Frameworks: "docs/frameworks.md",
+  Gaming: "docs/gaming.md",
+  "Hardware & IoT": "docs/hardware--iot.md",
+  "Healthcare & Life Sciences": "docs/healthcare--life-sciences.md",
+  Infrastructure: "docs/infrastructure.md",
   "Knowledge Management & Memory": "docs/knowledge-management--memory.md",
+  "Location & Maps": "docs/location--maps.md",
+  "Marketing, Sales & CRM": "docs/marketing-sales--crm.md",
   "Monitoring & Observability": "docs/monitoring--observability.md",
+  "Multimedia Processing": "docs/multimedia-processing.md",
   "Operating System & Command Line": "docs/operating-system--command-line.md",
+  "Project & Task Management": "docs/project--task-management.md",
+  "Science & Research": "docs/science--research.md",
   Search: "docs/search.md",
   Security: "docs/security.md",
+  "Social Media & Content Platforms": "docs/social-media--content-platforms.md",
+  Sports: "docs/sport.md",
+  "Travel & Transportation": "docs/travel--transportation.md",
+  "Utilities & Helpers": "docs/utilities--helpers.md",
+  "Version Control": "docs/version-control.md",
 };
+
+const DOCS_PATH_TO_CATEGORY = Object.fromEntries(
+  Object.entries(CATEGORY_TO_DOCS_PATH).map(([category, docsPath]) => [docsPath, category]),
+);
 
 export function parseAddServerIssue(body) {
   return {
-    serverName: normalizeField(extractField(body, "Server name")),
-    projectUrl: normalizeField(extractField(body, "Project URL")),
-    category: normalizeField(extractField(body, "Best category")),
-    description: normalizeField(extractField(body, "What can an agent do with this server?")),
-    install: normalizeField(extractField(body, "Install or connection instructions")),
-    transport: normalizeField(extractField(body, "Transport")),
-    auth: normalizeField(extractField(body, "Auth requirements")),
-    clients: normalizeField(extractField(body, "Known supported clients")),
-    license: normalizeField(extractField(body, "License")),
+    serverName: normalizeField(extractIssueField(body, "Server name")),
+    projectUrl: normalizeField(extractIssueField(body, "Project URL")),
+    category: normalizeCategory(normalizeField(extractIssueField(body, "Best category")), body),
+    description: normalizeField(extractIssueField(body, "What can an agent do with this server?")),
+    install: normalizeField(extractIssueField(body, "Install or connection instructions")),
+    transport: normalizeField(extractIssueField(body, "Transport")),
+    auth: normalizeField(extractIssueField(body, "Auth requirements", "Auth")),
+    clients: normalizeField(extractIssueField(body, "Known supported clients", "Clients")),
+    license: normalizeField(extractIssueField(body, "License")),
   };
 }
 
@@ -72,7 +98,7 @@ export function buildMarkdownEntry(submission) {
 }
 
 export function docPathForCategory(category) {
-  return CATEGORY_TO_DOCS_PATH[category] ?? null;
+  return CATEGORY_TO_DOCS_PATH[normalizeCategory(category)] ?? null;
 }
 
 export function appendEntryToDocs(docPath, entry) {
@@ -153,8 +179,9 @@ export function buildMetadataSidecar({ issue, submission }) {
       projectUrl: submission.projectUrl,
     },
     ...definedObject({
+      links: buildLinkMetadata(submission.install),
       install: buildInstallMetadata(submission.install),
-      transport: parseTransportMetadata(submission.transport),
+      transport: parseTransportMetadata(`${submission.transport}\n${submission.install}`),
       auth: buildAuthMetadata(submission.auth),
       clients: parseListMetadata(submission.clients),
       license: normalizeMetadataScalar(submission.license),
@@ -166,6 +193,56 @@ export function buildMetadataSidecar({ issue, submission }) {
     path: `data/server-metadata/${serverId}.json`,
     content: `${JSON.stringify(metadata, null, 2)}\n`,
   };
+}
+
+function extractIssueField(body, ...labels) {
+  for (const label of labels) {
+    const markdownField = extractField(body, label);
+    if (markdownField) {
+      return markdownField;
+    }
+
+    const boldField = extractBoldField(body, label);
+    if (boldField) {
+      return boldField;
+    }
+  }
+
+  return "";
+}
+
+function extractBoldField(body, label) {
+  const pattern = new RegExp(
+    `(?:^|\\n)\\s*\\*\\*${escapeRegex(label)}\\*\\*\\s*:?\\s*([^\\n]*)\\n?([\\s\\S]*?)(?=\\n\\s*(?:\\*\\*[^\\n*]+\\*\\*\\s*:?|###\\s+)|$)`,
+    "i",
+  );
+  const match = body.match(pattern);
+  if (!match) {
+    return "";
+  }
+
+  return [match[1], match[2]]
+    .map((value) => value.trim())
+    .filter(Boolean)
+    .join("\n")
+    .trim();
+}
+
+function normalizeCategory(value, context = "") {
+  const lookupText = [value, context].filter(Boolean).join("\n");
+  const docsPath = lookupText.match(/docs\/[a-z0-9-]+\.md/i)?.[0];
+  if (docsPath && DOCS_PATH_TO_CATEGORY[docsPath]) {
+    return DOCS_PATH_TO_CATEGORY[docsPath];
+  }
+
+  const normalizedValue = lookupText.toLowerCase();
+  for (const category of Object.keys(CATEGORY_TO_DOCS_PATH)) {
+    if (normalizedValue.includes(category.toLowerCase())) {
+      return category;
+    }
+  }
+
+  return value;
 }
 
 export function buildIssueComment({ issue, submission, pullRequest, duplicate, errors }) {
@@ -283,6 +360,11 @@ function formatMetadataValue(label, value) {
   return compactText(value, 500).replace(new RegExp(`^${label}:\\s*`, "i"), "");
 }
 
+function buildLinkMetadata(value) {
+  const endpoint = extractEndpoint(value);
+  return endpoint ? { endpoint } : null;
+}
+
 function buildInstallMetadata(value) {
   const commands = parseInstallCommands(value);
   const env = extractEnvVars(value);
@@ -336,10 +418,10 @@ function buildAuthMetadata(value) {
 
   if (/\b(no auth|none|not required|no authentication)\b/.test(lower)) type = "none";
   else if (lower.includes("oauth")) type = "oauth";
-  else if (lower.includes("bearer")) type = "bearer";
   else if (lower.includes("api key") || lower.includes("api-key") || /\b[A-Z][A-Z0-9_]*API_KEY\b/.test(value)) {
     type = "api-key";
   }
+  else if (lower.includes("bearer")) type = "bearer";
 
   return {
     type,
@@ -366,6 +448,11 @@ function extractEnvVars(value) {
   return unique(matches.filter((match) => /(KEY|TOKEN|SECRET|PASSWORD|ENDPOINT|URL)$/.test(match)));
 }
 
+function extractEndpoint(value) {
+  const urls = value.match(/https?:\/\/[^\s`,)\]]+/gi) ?? [];
+  return urls.map(stripUrlPunctuation).find(looksLikeMcpEndpoint) ?? null;
+}
+
 function cleanMetadataLine(value) {
   return value
     .trim()
@@ -377,6 +464,26 @@ function cleanMetadataLine(value) {
 
 function isLikelyLaunchCommand(value) {
   return /^(?:npx|uvx|npm|docker|node|python3?|[a-z0-9._-]*mcp)\b/i.test(value);
+}
+
+function stripUrlPunctuation(url) {
+  return url.replace(/[.;:!?]+$/, "");
+}
+
+function looksLikeMcpEndpoint(url) {
+  try {
+    const parsed = new URL(url);
+    const hostname = parsed.hostname.toLowerCase();
+    const pathname = parsed.pathname.toLowerCase().replace(/\/+$/, "");
+
+    return hostname.startsWith("mcp.") || pathname === "/mcp" || pathname.endsWith("/mcp");
+  } catch {
+    return false;
+  }
+}
+
+function escapeRegex(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 function definedObject(entries) {
