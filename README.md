@@ -112,10 +112,11 @@ We plan to keep investing in this hosted registry: improving metadata quality, e
 How entries become index data:
 
 1. The source of truth is the category markdown under `docs/*.md`.
-2. Each server entry is parsed from a markdown bullet with a link and description.
-3. `npm run catalog:build` generates `data/catalog.json` with normalized server metadata.
-4. `npm run profiles:build` generates `data/profiles/*.json` for stable per-server profiles.
-5. The deploy workflow publishes the refreshed catalog to the hosted API after changes land on `main`.
+2. Optional `data/server-metadata/*.json` sidecars preserve structured install, transport, auth, client, and license metadata without making the markdown entry long.
+3. Each server entry is parsed from a markdown bullet with a link and description.
+4. `npm run catalog:build` merges markdown entries with sidecar metadata and generates `data/catalog.json`.
+5. `npm run profiles:build` generates `data/profiles/*.json` for stable per-server profiles.
+6. The deploy workflow publishes the refreshed catalog to the hosted API after changes land on `main`.
 
 For local development:
 
@@ -137,11 +138,11 @@ To add a new MCP server:
 4. Search the repo for your URL or project name to avoid duplicates.
 5. Open a pull request.
 
-If you are not sure where the server belongs, use the [Add MCP server issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=add-mcp-server.yml) and we can help route it.
+If you are not sure where the server belongs, use the [Add MCP server issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=add-mcp-server.yml) and we can help route it. When the form has enough information, automation can draft a PR with both the markdown entry and a metadata sidecar.
 
 To improve an existing server, edit the same markdown bullet where the server is listed. Add missing install, transport, auth, docs, license, client, tool, endpoint, or maintainer information in the description when possible.
 
-Generated files such as `data/catalog.json` and `data/profiles/*.json` are maintained by the indexer. If you only add a server entry, editing the relevant `docs/*.md` category page is enough for the PR.
+`data/server-metadata/*.json` files are source metadata used by the indexer. Generated files such as `data/catalog.json` and `data/profiles/*.json` are maintained by the indexer. If you only add a simple server entry, editing the relevant `docs/*.md` category page is enough for the PR.
 
 For metadata and indexer examples, see the [MCP Index Metadata Contribution Guide](docs/index-alpha/contribution-guide.md).
 

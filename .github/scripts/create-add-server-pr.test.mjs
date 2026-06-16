@@ -7,6 +7,7 @@ import test from "node:test";
 import {
   buildIssueComment,
   buildPrBody,
+  buildMetadataSidecar,
   buildMarkdownEntry,
   docPathForCategory,
   findDuplicateByUrl,
@@ -52,6 +53,65 @@ const issueBody = [
   "MIT",
 ].join("\n");
 
+const boldIssueBody = [
+  "**Server name**: kaitoInfra/twitterapi-io-mcp-server",
+  "",
+  "**Project URL**: https://github.com/kaitoInfra/twitterapi-io-mcp-server",
+  "",
+  "**Best category**: Other / not sure — closest fit is `docs/social-media--content-platforms.md`.",
+  "",
+  "**What can an agent do with this server?**",
+  "",
+  "Official MCP server for twitterapi.io. 12 read-only tools let agents search tweets, fetch profiles, expand conversation threads, stream real-time tweets, get trends, and pull engagement metrics.",
+  "",
+  "**Install or connection instructions**",
+  "",
+  "Hosted endpoint: \"https://mcp.twitterapi.io/mcp\"",
+  "",
+  "```bash",
+  "npx -y @kaitoinfra/twitterapi-io-mcp-server",
+  "```",
+  "",
+  "Env: TWITTERAPI_API_KEY=...",
+  "",
+  "**Transport**: multiple (streamable-http for hosted, stdio for npm/local)",
+  "",
+  "**Auth**: API key (Bearer or env var)",
+  "",
+  "**License**: MIT",
+].join("\n");
+
+const suggestedCategoryIssueBody = [
+  "### Server name",
+  "",
+  "sapph1re/findata-mcp",
+  "",
+  "### Project URL",
+  "",
+  "https://github.com/sapph1re/findata-mcp",
+  "",
+  "### Best category",
+  "",
+  "Other / not sure",
+  "",
+  "### What can an agent do with this server?",
+  "",
+  "Get real-time financial data, SEC filings, and crypto prices. Suggested category: Finance & Crypto.",
+  "",
+  "### Install or connection instructions",
+  "",
+  "Install: `pip install findata-mcp`",
+  "Transport: streamable-http (remote hosted)",
+  "",
+  "### Transport",
+  "",
+  "streamable-http",
+  "",
+  "### Auth requirements",
+  "",
+  "no auth",
+].join("\n");
+
 test("parses add-server issue form fields", () => {
   assert.deepEqual(parseAddServerIssue(issueBody), {
     serverName: "owner/example-mcp",
@@ -66,8 +126,37 @@ test("parses add-server issue form fields", () => {
   });
 });
 
+test("parses bold add-server issue fields and category path hints", () => {
+  assert.deepEqual(parseAddServerIssue(boldIssueBody), {
+    serverName: "kaitoInfra/twitterapi-io-mcp-server",
+    projectUrl: "https://github.com/kaitoInfra/twitterapi-io-mcp-server",
+    category: "Social Media & Content Platforms",
+    description: "Official MCP server for twitterapi.io. 12 read-only tools let agents search tweets, fetch profiles, expand conversation threads, stream real-time tweets, get trends, and pull engagement metrics.",
+    install: [
+      "Hosted endpoint: \"https://mcp.twitterapi.io/mcp\"",
+      "```bash",
+      "npx -y @kaitoinfra/twitterapi-io-mcp-server",
+      "```",
+      "",
+      "Env: TWITTERAPI_API_KEY=...",
+    ].join("\n"),
+    transport: "multiple (streamable-http for hosted, stdio for npm/local)",
+    auth: "API key (Bearer or env var)",
+    clients: "",
+    license: "MIT",
+  });
+});
+
 test("maps category to docs path", () => {
   assert.equal(docPathForCategory("Databases"), "docs/databases.md");
+  assert.equal(docPathForCategory("Finance & Crypto"), "docs/finance--crypto.md");
+  assert.equal(docPathForCategory("Social Media & Content Platforms"), "docs/social-media--content-platforms.md");
+  assert.equal(docPathForCategory("Other / not sure — suggested category: Finance & Crypto"), "docs/finance--crypto.md");
+});
+
+test("uses suggested category from the issue description when category is unsure", () => {
+  assert.equal(parseAddServerIssue(suggestedCategoryIssueBody).category, "Finance & Crypto");
+  assert.deepEqual(validateSubmission(parseAddServerIssue(suggestedCategoryIssueBody)), []);
 });
 
 test("builds catalog markdown entry", () => {
@@ -108,14 +197,61 @@ test("keeps install metadata in the draft PR body instead of the catalog entry",
   assert.doesNotMatch(bodyWithLabeledInstall, /\*\*Install:\*\* Install:/);
 });
 
+test("builds a metadata sidecar for submitted install and compatibility fields", () => {
+  const submission = parseAddServerIssue(issueBody);
+  const sidecar = buildMetadataSidecar({
+    issue: { number: 123 },
+    submission,
+  });
+  const metadata = JSON.parse(sidecar.content);
+
+  assert.match(sidecar.path, /^data\/server-metadata\/github-owner-example-mcp-[a-f0-9]{8}\.json$/);
+  assert.equal(metadata.id, sidecar.serverId);
+  assert.deepEqual(metadata.source, {
+    issue: 123,
+    projectUrl: "https://github.com/owner/example-mcp",
+  });
+  assert.deepEqual(metadata.install, {
+    commands: ["npx -y example-mcp"],
+    env: [],
+    confidence: "medium",
+  });
+  assert.deepEqual(metadata.transport, ["stdio"]);
+  assert.deepEqual(metadata.auth, {
+    type: "none",
+    notes: [],
+  });
+  assert.deepEqual(metadata.clients, ["Claude Desktop", "Cursor"]);
+  assert.equal(metadata.license, "MIT");
+});
+
+test("builds sidecar endpoint, command, and transport from install text", () => {
+  const submission = parseAddServerIssue(boldIssueBody);
+  const metadata = JSON.parse(buildMetadataSidecar({
+    issue: { number: 724 },
+    submission,
+  }).content);
+
+  assert.deepEqual(metadata.links, {
+    endpoint: "https://mcp.twitterapi.io/mcp",
+  });
+  assert.deepEqual(metadata.install, {
+    commands: ["npx -y @kaitoinfra/twitterapi-io-mcp-server"],
+    env: ["TWITTERAPI_API_KEY"],
+    confidence: "medium",
+  });
+  assert.deepEqual(metadata.transport, ["stdio", "streamable-http"]);
+  assert.deepEqual(metadata.auth, {
+    type: "api-key",
+    notes: ["API key (Bearer or env var)"],
+  });
+});
+
 test("validates required fields and category", () => {
   const submission = parseAddServerIssue(issueBody);
   assert.deepEqual(validateSubmission(submission), []);
 
-  assert.deepEqual(
-    validateSubmission({ ...submission, category: "Other / not sure" }),
-    ['Category "Other / not sure" needs maintainer routing before a draft PR can be generated.'],
-  );
+  assert.deepEqual(validateSubmission(parseAddServerIssue(boldIssueBody)), []);
 });
 
 test("finds duplicate project URLs across docs", () => {

@@ -1,0 +1,30 @@
+name: MCP Merged PR Follow-up
+
+on:
+  pull_request:
+    types:
+      - closed
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: read
+
+jobs:
+  comment:
+    name: Comment with MCP Index links
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Comment on merged catalog PR
+        run: node .github/scripts/comment-merged-pr.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.MCP_AUTOMATION_TOKEN || github.token }}

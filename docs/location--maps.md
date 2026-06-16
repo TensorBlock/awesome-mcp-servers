@@ -74,6 +74,7 @@ Servers using mapping APIs, providing geolocation services, address lookups, or 
 - [chinlung/weather-api-project](https://github.com/chinlung/weather-api-project): A dedicated MCP server for Claude AI, providing real-time weather forecasts, alerts, and rainfall data from Taiwan's Central Weather Bureau.
 - [MiLLeRRain/weather-server](https://github.com/MiLLeRRain/weather-server): A TypeScript-based MCP server that enhances LLM interactions by providing structured weather data and a simple notes system.
 - [lework/mcp-server-ip](https://github.com/lework/mcp-server-ip): Provides IP address geolocation queries using the Model Context Protocol with HTTP SSE data transmission.
+- [LatLng](https://www.latlng.work/mcp): Official LatLng MCP server for geocoding, reverse geocoding, places search, nearby places, and place categories powered by OpenStreetMap data. Remote endpoint: `https://mcp.latlng.work/mcp`. Transport: streamable-http. Auth: LatLng Server Key. Install: `npx -y @latlng/mcp-server`.
 - [jagan-shanmugam/open-streetmap-mcp](https://github.com/jagan-shanmugam/open-streetmap-mcp): Enhances LLM capabilities with geospatial data and location-based services using OpenStreetMap.
 - [SeanLF/weather-mcp](https://github.com/SeanLF/weather-mcp): Provides weather forecast data from the Government of Canada Weather API, integrating seamlessly with Claude Desktop and other MCP-compatible clients.
 - [shanggqm/hefeng-mcp-weather](https://github.com/shanggqm/hefeng-mcp-weather): Provides weather forecast data for locations in China via the HeFeng Weather API.
