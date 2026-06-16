@@ -5,6 +5,8 @@ import { fileURLToPath } from "node:url";
 
 const API_BASE = "https://api.github.com";
 const COMMENT_MARKER_PREFIX = "<!-- tensorblock-mcp-issue-triage:v1";
+const INDEX_API_PROFILE_BASE_URL = "https://mcp-index.tensorblock.co/v1/servers";
+const WEB_PROFILE_BASE_URL = "https://tensorblock.co/mcp/servers";
 
 const LABEL_DEFINITIONS = {
   "community-intake": {
@@ -151,6 +153,7 @@ export function buildTriageComment(issue) {
         ["Project", "Project URL"],
         ["Maintainer", "Maintainer handle"],
       ]),
+      claimProfileGuidance(body),
     ],
     "client-config": [
       `Thanks for requesting client config support in ${issueNumber}.`,
@@ -179,6 +182,99 @@ export function buildTriageComment(issue) {
     ...templates[route.id].filter(Boolean),
     commonFooter(),
   ].join("\n");
+}
+
+function claimProfileGuidance(body) {
+  const serverId = serverIdFromProfileReference(extractField(body, "TensorBlock profile URL or server id"));
+  const links = serverId
+    ? [
+        "Profile links:",
+        `- Public profile: ${webProfileUrl(serverId)}`,
+        `- API profile: ${apiProfileUrl(serverId)}`,
+        "- README badge:",
+        "",
+        "```markdown",
+        badgeMarkdownFor(serverId),
+        "```",
+        "",
+      ]
+    : [
+        "Profile links:",
+        "- We could not normalize a server id from the submitted profile field yet. Paste the full TensorBlock profile URL or API profile URL if you have it.",
+        "",
+      ];
+
+  return [
+    ...links,
+    "Maintainer verification checklist:",
+    "- The submitted project URL matches the indexed profile source or official project docs.",
+    "- The maintainer handle is visible on the official project source, package, organization, or docs.",
+    "- The proof link is controlled by the project, not only a personal statement.",
+    "- After verification, profile metadata changes can go through the metadata issue form or a direct PR.",
+  ].join("\n");
+}
+
+export function serverIdFromProfileReference(value) {
+  const reference = firstProfileReference(value);
+  if (!reference) {
+    return "";
+  }
+
+  try {
+    const url = new URL(reference);
+    const segments = url.pathname.split("/").filter(Boolean);
+    const serverIndex = segments.findIndex((segment, index) => {
+      return segment === "servers" && (segments[index - 1] === "mcp" || segments[index - 1] === "v1");
+    });
+
+    if (serverIndex >= 0 && segments[serverIndex + 1]) {
+      return cleanServerId(segments[serverIndex + 1]);
+    }
+
+    if (url.hostname === "mcp-index.tensorblock.co" && segments[0] === "servers" && segments[1]) {
+      return cleanServerId(segments[1]);
+    }
+  } catch {
+    // Fall through to raw server id handling.
+  }
+
+  return cleanServerId(reference);
+}
+
+function firstProfileReference(value) {
+  const text = value
+    .trim()
+    .replace(/^`+|`+$/g, "")
+    .replace(/^<|>$/g, "");
+  if (!text) {
+    return "";
+  }
+
+  const urlMatch = text.match(/https?:\/\/\S+/i);
+  const reference = urlMatch?.[0] ?? text.split(/\s+/)[0] ?? "";
+  return reference.replace(/[),.;]+$/g, "");
+}
+
+function cleanServerId(value) {
+  const serverId = decodeURIComponent(value)
+    .trim()
+    .replace(/^`+|`+$/g, "")
+    .replace(/^<|>$/g, "")
+    .replace(/\/+$/g, "");
+
+  return /^[a-z0-9][a-z0-9._-]*$/i.test(serverId) ? serverId : "";
+}
+
+function webProfileUrl(serverId) {
+  return `${WEB_PROFILE_BASE_URL}/${encodeURIComponent(serverId)}`;
+}
+
+function apiProfileUrl(serverId) {
+  return `${INDEX_API_PROFILE_BASE_URL}/${encodeURIComponent(serverId)}`;
+}
+
+function badgeMarkdownFor(serverId) {
+  return `[![Indexed on TensorBlock MCP Index](${apiProfileUrl(serverId)}/badge.svg)](${webProfileUrl(serverId)})`;
 }
 
 export function extractField(body, label) {
