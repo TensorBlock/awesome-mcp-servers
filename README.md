@@ -24,7 +24,7 @@ TensorBlock MCP Index turns this community-curated MCP server directory into a h
 
 ## Coverage
 
-This repo currently indexes **7,493 unique MCP server links** from the category docs. The README stays lightweight while the full directory lives in `docs/*.md`, `data/catalog.json`, and the registry MCP server.
+This repo currently indexes **7,494 unique MCP server links** from the category docs. The README stays lightweight while the full directory lives in `docs/*.md`, `data/catalog.json`, and the registry MCP server.
 
 ## How to Participate
 
@@ -181,7 +181,7 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Healthcare & Life Sciences | 57 | [Browse](docs/healthcare--life-sciences.md) |
 | Infrastructure | 156 | [Browse](docs/infrastructure.md) |
 | Knowledge Management & Memory | 559 | [Browse](docs/knowledge-management--memory.md) |
-| Location & Maps | 89 | [Browse](docs/location--maps.md) |
+| Location & Maps | 90 | [Browse](docs/location--maps.md) |
 | Marketing, Sales & CRM | 167 | [Browse](docs/marketing-sales--crm.md) |
 | Monitoring & Observability | 83 | [Browse](docs/monitoring--observability.md) |
 | Multimedia Processing | 204 | [Browse](docs/multimedia-processing.md) |
