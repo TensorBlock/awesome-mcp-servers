@@ -2,6 +2,7 @@
 
 Servers connecting to data warehouses, data query engines, analytics platforms, or specific data APIs.
 
+- [ResultRail](https://github.com/LarryLemonBot/resultrail-mcp-server): Hosted remote MCP server for pay-per-success public-data result packs with source URLs, confidence, timestamps, and receipt hashes. Streamable HTTP endpoint at `https://x402-resource-scanner.vercel.app/resultrail/mcp`; public `initialize` and `tools/list`; protected paid execution may require product authorization or x402 payment flow.
 - [Alessandro114/scala-mcp-server](https://github.com/Alessandro114/scala-mcp-server): Search 250M+ companies across 40+ countries — revenue, employees, credit score (0-100), industry. 6 tools for company search, lookup, report generation, and database stats. Free tier: 50 lookups/month. Install: `npx scala-mcp-server`.
 - [us-all/openmetadata-mcp-server](https://github.com/us-all/openmetadata-mcp-server) - OpenMetadata MCP server with 170 tools across metadata, lineage, search, data quality, sample data, and OM 1.12+ Data Contracts. Includes `lineage-impact` and `quality-rollup` aggregations.
 - [us-all/dbt-mcp-server](https://github.com/us-all/dbt-mcp-server): dbt MCP server with 22 read-only tools across `manifest.json` / `run_results.json` / `sources.json` / `catalog.json` (model/test/source introspection, run-history analysis, slow models, per-column test coverage, lineage walks) plus 5 DQ result-table tools (BigQuery + Postgres lazy peer imports). 4 triage Prompts and 4 aggregations.

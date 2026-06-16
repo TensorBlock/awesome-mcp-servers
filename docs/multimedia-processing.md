@@ -2,6 +2,7 @@
 
 Servers focused on generating or manipulating images, processing video, audio transcription, text-to-speech, or document conversion.
 
+- [smartdatabrokers/slideforge-mcp](https://github.com/smartdatabrokers/slideforge-mcp): Hosted MCP server for consulting-quality PowerPoint generation from natural language or structured component specs. Generates editable `.pptx` decks with charts, diagrams, and signed download URLs. 8 tools. Streamable HTTP at `https://api.slideforge.dev/mcp/`; OAuth 2.1 for Claude Desktop and bearer/API-key auth for other clients. MIT.
 - [MohamedAbdallah-14/prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset): Generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing each request across 30+ image generation models to the best fit. Zero-key first run via free-tier providers (Pollinations, Stable Horde, HuggingFace). MIT licensed.
 - [AIDC-AI/Pixelle-MCP](https://github.com/AIDC-AI/Pixelle-MCP): An omnimodal AIGC framework that seamlessly converts ComfyUI workflows into MCP tools with zero code, enabling full-modal support for Text, Image, Sound, and Video generation with Chainlit-based web interface.
 - [aimino/imagemagic-mcp](https://github.com/aimino/imagemagic-mcp): Enhance images with binarization, color adjustment, and resizing using ImageMagick via the MCP protocol.

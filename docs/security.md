@@ -2,6 +2,8 @@
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [GateCheck](https://github.com/LarryLemonBot/gatecheck): Hosted remote MCP server for paid x402 and MCP seller-readiness checks. Verifies discovery surfaces, MCP inventory, payment terms, policy receipts, and claim boundaries before public submission or agent routing. Streamable HTTP endpoint at `https://x402-resource-scanner.vercel.app/gatecheck/mcp`; public `initialize` and `tools/list`; protected tool execution may require bearer auth.
+- [MEOK Governance Suite](https://github.com/CSOAI-ORG/meok-setup): Installer for 38 AI compliance MCPs across Claude Desktop, Cursor, VS Code, and Windsurf, covering EU AI Act, DORA, NIS2, GDPR, SOC2, ISO 42001, HIPAA, and governance workflows. Install with `npx meok-setup --pack governance` or `pip install meok_setup`. MIT.
 - [Agnuxo1/enigmagent-mcp](https://github.com/Agnuxo1/enigmagent-mcp): Encrypted local vault MCP server (AES-256-GCM + Argon2id) that resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in LLM prompts, logs, or context. Local-only, MIT, zero telemetry. `npx enigmagent-mcp`.
 - [rudi193-cmd/willow-1.7](https://github.com/rudi193-cmd/willow-1.7): Portless MCP server with PGP-signed SAFE manifest authorization. SQLite + Postgres knowledge graph, bubblewrap-sandboxed task queue, file intake pipeline, and local inference with free cloud fallback. Zero network attack surface — stdio only, no HTTP listeners.
 - [AgentSeal](https://github.com/JoeyBrar/agentseal-mcp) - Action logs for AI agents. Records every action in a SHA-256 hash chain for verifiable audit trails. Install via `npx agentseal-mcp`.

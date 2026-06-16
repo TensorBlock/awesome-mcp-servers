@@ -162,37 +162,38 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 
 | Category | Listed entries | Full list |
 | --- | ---: | --- |
-| AI & LLM Integration | 1,619 | [Browse](docs/ai--llm-integration.md) |
-| Art, Culture & Media | 78 | [Browse](docs/art-culture--media.md) |
-| Browser Automation & Web Scraping | 275 | [Browse](docs/browser-automation--web-scraping.md) |
+| AI & LLM Integration | 1,629 | [Browse](docs/ai--llm-integration.md) |
+| Art, Culture & Media | 82 | [Browse](docs/art-culture--media.md) |
+| Browser Automation & Web Scraping | 277 | [Browse](docs/browser-automation--web-scraping.md) |
 | Build & Deployment Tools | 88 | [Browse](docs/build--deployment-tools.md) |
-| Cloud Platforms & Services | 371 | [Browse](docs/cloud-platforms--services.md) |
-| Code Analysis & Quality | 105 | [Browse](docs/code-analysis--quality.md) |
-| Code Execution | 165 | [Browse](docs/code-execution.md) |
-| Communication & Messaging | 327 | [Browse](docs/communication--messaging.md) |
-| Content Management Systems | 59 | [Browse](docs/content-management-systems-cms.md) |
-| Data Analysis & Business Intelligence | 238 | [Browse](docs/data-analysis--business-intelligence.md) |
-| Databases | 290 | [Browse](docs/databases.md) |
-| Developer Productivity & Utilities | 393 | [Browse](docs/developer-productivity--utilities.md) |
+| Cloud Platforms & Services | 373 | [Browse](docs/cloud-platforms--services.md) |
+| Code Analysis & Quality | 116 | [Browse](docs/code-analysis--quality.md) |
+| Code Execution | 164 | [Browse](docs/code-execution.md) |
+| Communication & Messaging | 333 | [Browse](docs/communication--messaging.md) |
+| Content Management Systems | 60 | [Browse](docs/content-management-systems-cms.md) |
+| Data Analysis & Business Intelligence | 243 | [Browse](docs/data-analysis--business-intelligence.md) |
+| Databases | 297 | [Browse](docs/databases.md) |
+| Developer Productivity & Utilities | 407 | [Browse](docs/developer-productivity--utilities.md) |
 | Filesystems | 56 | [Browse](docs/filesystems.md) |
-| Finance & Crypto | 408 | [Browse](docs/finance--crypto.md) |
+| Finance & Crypto | 437 | [Browse](docs/finance--crypto.md) |
 | Frameworks | 244 | [Browse](docs/frameworks.md) |
-| Gaming | 106 | [Browse](docs/gaming.md) |
-| Hardware & IoT | 59 | [Browse](docs/hardware--iot.md) |
-| Healthcare & Life Sciences | 57 | [Browse](docs/healthcare--life-sciences.md) |
-| Infrastructure | 156 | [Browse](docs/infrastructure.md) |
-| Knowledge Management & Memory | 559 | [Browse](docs/knowledge-management--memory.md) |
-| Location & Maps | 89 | [Browse](docs/location--maps.md) |
-| Marketing, Sales & CRM | 167 | [Browse](docs/marketing-sales--crm.md) |
-| Monitoring & Observability | 83 | [Browse](docs/monitoring--observability.md) |
-| Multimedia Processing | 204 | [Browse](docs/multimedia-processing.md) |
-| Operating System & Command Line | 106 | [Browse](docs/operating-system--command-line.md) |
-| Project & Task Management | 219 | [Browse](docs/project--task-management.md) |
-| Science & Research | 106 | [Browse](docs/science--research.md) |
-| Search | 168 | [Browse](docs/search.md) |
-| Security | 121 | [Browse](docs/security.md) |
-| Social Media & Content Platforms | 107 | [Browse](docs/social-media--content-platforms.md) |
-| Sports | 6 | [Browse](docs/sport.md) |
-| Travel & Transportation | 45 | [Browse](docs/travel--transportation.md) |
-| Utilities & Helpers | 353 | [Browse](docs/utilities--helpers.md) |
+| Gaming | 108 | [Browse](docs/gaming.md) |
+| Hardware & IoT | 66 | [Browse](docs/hardware--iot.md) |
+| Healthcare & Life Sciences | 59 | [Browse](docs/healthcare--life-sciences.md) |
+| Infrastructure | 161 | [Browse](docs/infrastructure.md) |
+| Knowledge Management & Memory | 571 | [Browse](docs/knowledge-management--memory.md) |
+| Location & Maps | 92 | [Browse](docs/location--maps.md) |
+| Marketing, Sales & CRM | 186 | [Browse](docs/marketing-sales--crm.md) |
+| Monitoring & Observability | 85 | [Browse](docs/monitoring--observability.md) |
+| Multimedia Processing | 211 | [Browse](docs/multimedia-processing.md) |
+| Operating System & Command Line | 107 | [Browse](docs/operating-system--command-line.md) |
+| Project & Task Management | 222 | [Browse](docs/project--task-management.md) |
+| Real Estate & Home Services | 2 | [Browse](docs/real-estate--home-services.md) |
+| Science & Research | 118 | [Browse](docs/science--research.md) |
+| Search | 172 | [Browse](docs/search.md) |
+| Security | 140 | [Browse](docs/security.md) |
+| Social Media & Content Platforms | 112 | [Browse](docs/social-media--content-platforms.md) |
+| Sports | 3 | [Browse](docs/sport.md) |
+| Travel & Transportation | 50 | [Browse](docs/travel--transportation.md) |
+| Utilities & Helpers | 357 | [Browse](docs/utilities--helpers.md) |
 | Version Control | 76 | [Browse](docs/version-control.md) |
