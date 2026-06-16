@@ -88,3 +88,4 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 
 - [unitedideas/resolve-mcp](https://github.com/unitedideas/resolve-mcp): Structured error recovery for AI agents. Returns resolution playbooks with backoff schedules, retry strategies, and recovery steps for 20+ services including OpenAI, Anthropic, Stripe, AWS, and Postgres.
 - [smigolsmigol/llmkit](https://github.com/smigolsmigol/llmkit): AI cost tracking and budget enforcement MCP server with 11 tools for monitoring spend, session costs, and token usage across Claude Code, Cursor, and Cline.
+- [iPythoning/domain-monitor-mcp-server](https://github.com/iPythoning/domain-monitor-mcp-server) - Domain WHOIS and SSL certificate monitoring via RDAP and crt.sh — single or batch domain checks with severity classification. Zero API keys, stdio transport (Claude Code/Desktop, Cursor, Windsurf). Install: `npx domain-monitor-mcp-server`.
