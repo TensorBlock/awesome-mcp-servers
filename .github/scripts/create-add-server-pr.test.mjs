@@ -66,7 +66,7 @@ const boldIssueBody = [
   "",
   "**Install or connection instructions**",
   "",
-  "Hosted endpoint: https://mcp.twitterapi.io/mcp",
+  "Hosted endpoint: \"https://mcp.twitterapi.io/mcp\"",
   "",
   "```bash",
   "npx -y @kaitoinfra/twitterapi-io-mcp-server",
@@ -133,7 +133,7 @@ test("parses bold add-server issue fields and category path hints", () => {
     category: "Social Media & Content Platforms",
     description: "Official MCP server for twitterapi.io. 12 read-only tools let agents search tweets, fetch profiles, expand conversation threads, stream real-time tweets, get trends, and pull engagement metrics.",
     install: [
-      "Hosted endpoint: https://mcp.twitterapi.io/mcp",
+      "Hosted endpoint: \"https://mcp.twitterapi.io/mcp\"",
       "```bash",
       "npx -y @kaitoinfra/twitterapi-io-mcp-server",
       "```",
