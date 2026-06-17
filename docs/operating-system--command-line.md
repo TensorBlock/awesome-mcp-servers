@@ -110,3 +110,5 @@ Servers providing access to the host operating system's command line/shell, exec
 
 - [aybelatchane/mcp-server-terminal](https://github.com/aybelatchane/mcp-server-terminal): MCP server enabling AI agents to interact with terminal applications (TUI/CLI) through structured Terminal State Tree representation. Think Playwright for terminals.
 - [mnardit/clipboard-mcp](https://github.com/mnardit/clipboard-mcp): Cross-platform system clipboard access (read, write, watch for changes) for AI assistants. Single Rust binary, zero runtime deps. Supports Windows, macOS, Linux (X11 + Wayland).
+
+- [friendlygeorge/cron-scheduler-mcp-server](https://github.com/friendlygeorge/cron-scheduler-mcp-server): Cron job scheduling MCP server with SQLite persistence, retry logic, and systemd integration. MIT license (vs mcp-cron's AGPL). Install: `npx @supernova123/cron-scheduler-mcp-server`. No API keys required.
