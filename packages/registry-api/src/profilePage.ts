@@ -1,10 +1,15 @@
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
+import { badgeMarkdown } from "./badge.js";
 import { webProfileUrl } from "./webProfile.js";
 
 const CLIENTS = ["claude-desktop", "cursor", "codex", "vscode"] as const;
+const DISCORD_URL = "https://discord.com/invite/Ej5NmeHFf2";
+const ISSUE_FORM_BASE_URL = "https://github.com/TensorBlock/awesome-mcp-servers/issues/new";
 
 export const renderServerProfilePage = (entry: CatalogEntry): string => {
   const title = `${entry.name} - TensorBlock MCP Index`;
+  const profileUrl = webProfileUrl(entry.id);
+  const readmeBadge = badgeMarkdown(entry, profileUrl);
   const installCommands = entry.install.commands.length > 0
     ? entry.install.commands.map((command) => `<code>${escapeHtml(command)}</code>`).join("")
     : "<p>No install command has been indexed yet.</p>";
@@ -147,12 +152,46 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
     }
     .button {
       align-items: center;
+      background: var(--panel);
       border: 1px solid var(--line);
       border-radius: 7px;
+      color: var(--accent);
+      cursor: pointer;
       display: inline-flex;
+      font: inherit;
       font-weight: 650;
       min-height: 38px;
       padding: 7px 11px;
+    }
+    .button.primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #ffffff;
+    }
+    .helper {
+      color: var(--muted);
+      max-width: 760px;
+    }
+    h3 {
+      font-size: 15px;
+      margin: 18px 0 8px;
+      letter-spacing: 0;
+    }
+    pre {
+      background: #f3f5f8;
+      border: 1px solid #e1e6ee;
+      border-radius: 8px;
+      margin: 0;
+      overflow-x: auto;
+      padding: 12px;
+    }
+    pre code {
+      background: transparent;
+      border: 0;
+      display: block;
+      margin: 0;
+      padding: 0;
+      white-space: pre-wrap;
     }
     .footer {
       color: var(--muted);
@@ -196,8 +235,25 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
         ${optionalLink("Docs", entry.links.docs)}
         ${optionalLink("Homepage", entry.links.homepage)}
         ${optionalLink("Remote endpoint", entry.links.endpoint)}
-        <a class="button" href="${escapeAttribute(webProfileUrl(entry.id))}">Website profile</a>
+        <a class="button" href="${escapeAttribute(profileUrl)}">Website profile</a>
         <a class="button" href="/v1/servers/${encodeURIComponent(entry.id)}">JSON profile</a>
+      </div>
+    </section>
+
+    <section class="maintainer-actions">
+      <h2>For Maintainers</h2>
+      <p class="helper">Use this profile as the public install and metadata page for your MCP server. Claim the profile, add the badge to your README, and send metadata fixes when install or auth details change.</p>
+      <div class="links">
+        <a class="button primary" href="${escapeAttribute(issueFormUrl("claim-profile.yml", `Claim MCP profile: ${entry.name}`))}">Claim profile</a>
+        <a class="button" href="${escapeAttribute(issueFormUrl("improve-metadata.yml", `Improve metadata: ${entry.name}`))}">Improve metadata</a>
+        <a class="button" href="${escapeAttribute(issueFormUrl("report-broken-entry.yml", `Report broken MCP entry: ${entry.name}`))}">Report issue</a>
+        <a class="button" href="${escapeAttribute(issueFormUrl("request-client-config.yml", `Request client config support: ${entry.name}`))}">Request client config</a>
+        <a class="button" href="${escapeAttribute(DISCORD_URL)}">Join Discord</a>
+      </div>
+      <h3>README badge</h3>
+      <pre><code id="readme-badge">${escapeHtml(readmeBadge)}</code></pre>
+      <div class="links">
+        <button class="button" type="button" data-copy-target="readme-badge">Copy badge</button>
       </div>
     </section>
 
@@ -239,6 +295,27 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
 
     <p class="footer">This profile is generated from the community-maintained <a href="https://github.com/TensorBlock/awesome-mcp-servers">TensorBlock MCP Index</a>.</p>
   </main>
+  <script>
+    document.querySelectorAll("[data-copy-target]").forEach((button) => {
+      const originalText = button.textContent;
+
+      button.addEventListener("click", async () => {
+        const target = document.getElementById(button.getAttribute("data-copy-target"));
+        if (!target) return;
+
+        try {
+          await navigator.clipboard.writeText(target.textContent || "");
+          button.textContent = "Copied";
+        } catch {
+          button.textContent = "Copy failed";
+        }
+
+        window.setTimeout(() => {
+          button.textContent = originalText;
+        }, 1800);
+      });
+    });
+  </script>
 </body>
 </html>`;
 };
@@ -250,6 +327,15 @@ const optionalLink = (label: string, href: string | null | undefined): string =>
 
 const githubSourceUrl = (path: string): string =>
   `https://github.com/TensorBlock/awesome-mcp-servers/blob/main/${encodeURIComponent(path).replace(/%2F/g, "/")}`;
+
+const issueFormUrl = (template: string, title: string): string => {
+  const params = new URLSearchParams({
+    template,
+    title,
+  });
+
+  return `${ISSUE_FORM_BASE_URL}?${params.toString()}`;
+};
 
 const escapeAttribute = (value: string): string =>
   escapeHtml(value).replace(/"/g, "&quot;");

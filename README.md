@@ -22,9 +22,19 @@ TensorBlock MCP Index turns this community-curated MCP server directory into a h
 
 **Hosted API:** [https://mcp-index.tensorblock.co](https://mcp-index.tensorblock.co)
 
+## MCP Maintainer Quick Start
+
+If you maintain an MCP server, the index can give your project a public profile, install-config previews, API metadata, and a README badge.
+
+1. Add your server in the best `docs/*.md` category, or use the [Add MCP server issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=add-mcp-server.yml).
+2. Include install, transport, auth, supported clients, docs, license, endpoint, and tool details when you have them.
+3. After merge, the follow-up comment gives you the public profile URL, API profile URL, install-config links, and badge markdown.
+4. Add the TensorBlock MCP Index badge to your project README so users can jump back to the indexed profile.
+5. Claim your profile or send metadata fixes through the [claim profile](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml) and [metadata improvement](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) forms.
+
 ## Coverage
 
-This repo currently indexes **7,493 unique MCP server links** from the category docs. The README stays lightweight while the full directory lives in `docs/*.md`, `data/catalog.json`, and the registry MCP server.
+This repo currently indexes **7,746 unique MCP server links** from the category docs. The README stays lightweight while the full directory lives in `docs/*.md`, `data/catalog.json`, and the registry MCP server.
 
 ## How to Participate
 
@@ -162,38 +172,38 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 
 | Category | Listed entries | Full list |
 | --- | ---: | --- |
-| AI & LLM Integration | 1,629 | [Browse](docs/ai--llm-integration.md) |
+| AI & LLM Integration | 1,632 | [Browse](docs/ai--llm-integration.md) |
 | Art, Culture & Media | 82 | [Browse](docs/art-culture--media.md) |
-| Browser Automation & Web Scraping | 277 | [Browse](docs/browser-automation--web-scraping.md) |
+| Browser Automation & Web Scraping | 281 | [Browse](docs/browser-automation--web-scraping.md) |
 | Build & Deployment Tools | 88 | [Browse](docs/build--deployment-tools.md) |
 | Cloud Platforms & Services | 373 | [Browse](docs/cloud-platforms--services.md) |
-| Code Analysis & Quality | 116 | [Browse](docs/code-analysis--quality.md) |
+| Code Analysis & Quality | 118 | [Browse](docs/code-analysis--quality.md) |
 | Code Execution | 164 | [Browse](docs/code-execution.md) |
-| Communication & Messaging | 333 | [Browse](docs/communication--messaging.md) |
+| Communication & Messaging | 334 | [Browse](docs/communication--messaging.md) |
 | Content Management Systems | 60 | [Browse](docs/content-management-systems-cms.md) |
-| Data Analysis & Business Intelligence | 243 | [Browse](docs/data-analysis--business-intelligence.md) |
-| Databases | 297 | [Browse](docs/databases.md) |
-| Developer Productivity & Utilities | 407 | [Browse](docs/developer-productivity--utilities.md) |
+| Data Analysis & Business Intelligence | 244 | [Browse](docs/data-analysis--business-intelligence.md) |
+| Databases | 299 | [Browse](docs/databases.md) |
+| Developer Productivity & Utilities | 414 | [Browse](docs/developer-productivity--utilities.md) |
 | Filesystems | 56 | [Browse](docs/filesystems.md) |
-| Finance & Crypto | 437 | [Browse](docs/finance--crypto.md) |
-| Frameworks | 244 | [Browse](docs/frameworks.md) |
+| Finance & Crypto | 445 | [Browse](docs/finance--crypto.md) |
+| Frameworks | 245 | [Browse](docs/frameworks.md) |
 | Gaming | 108 | [Browse](docs/gaming.md) |
-| Hardware & IoT | 66 | [Browse](docs/hardware--iot.md) |
+| Hardware & IoT | 67 | [Browse](docs/hardware--iot.md) |
 | Healthcare & Life Sciences | 59 | [Browse](docs/healthcare--life-sciences.md) |
-| Infrastructure | 161 | [Browse](docs/infrastructure.md) |
-| Knowledge Management & Memory | 571 | [Browse](docs/knowledge-management--memory.md) |
+| Infrastructure | 162 | [Browse](docs/infrastructure.md) |
+| Knowledge Management & Memory | 572 | [Browse](docs/knowledge-management--memory.md) |
 | Location & Maps | 92 | [Browse](docs/location--maps.md) |
-| Marketing, Sales & CRM | 186 | [Browse](docs/marketing-sales--crm.md) |
-| Monitoring & Observability | 85 | [Browse](docs/monitoring--observability.md) |
-| Multimedia Processing | 211 | [Browse](docs/multimedia-processing.md) |
+| Marketing, Sales & CRM | 189 | [Browse](docs/marketing-sales--crm.md) |
+| Monitoring & Observability | 87 | [Browse](docs/monitoring--observability.md) |
+| Multimedia Processing | 212 | [Browse](docs/multimedia-processing.md) |
 | Operating System & Command Line | 107 | [Browse](docs/operating-system--command-line.md) |
 | Project & Task Management | 222 | [Browse](docs/project--task-management.md) |
-| Real Estate & Home Services | 2 | [Browse](docs/real-estate--home-services.md) |
+| Real Estate & Home Services | 3 | [Browse](docs/real-estate--home-services.md) |
 | Science & Research | 118 | [Browse](docs/science--research.md) |
 | Search | 172 | [Browse](docs/search.md) |
 | Security | 140 | [Browse](docs/security.md) |
 | Social Media & Content Platforms | 112 | [Browse](docs/social-media--content-platforms.md) |
 | Sports | 3 | [Browse](docs/sport.md) |
-| Travel & Transportation | 50 | [Browse](docs/travel--transportation.md) |
+| Travel & Transportation | 51 | [Browse](docs/travel--transportation.md) |
 | Utilities & Helpers | 357 | [Browse](docs/utilities--helpers.md) |
-| Version Control | 76 | [Browse](docs/version-control.md) |
+| Version Control | 78 | [Browse](docs/version-control.md) |

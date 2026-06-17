@@ -8,9 +8,10 @@ const API_BASE = "https://api.github.com";
 const API_PROFILE_BASE_URL = "https://mcp-index.tensorblock.co/v1/servers";
 const WEB_PROFILE_BASE_URL = "https://tensorblock.co/mcp/servers";
 const DISCORD_URL = "https://discord.com/invite/Ej5NmeHFf2";
-const CLAIM_PROFILE_URL = "https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml";
+const ISSUE_FORM_BASE_URL = "https://github.com/TensorBlock/awesome-mcp-servers/issues/new";
 const COMMENT_MARKER = "<!-- tensorblock-mcp-merge-follow-up:v1 -->";
 const MAX_ENTRIES_IN_COMMENT = 10;
+const CLIENTS = ["claude-desktop", "cursor", "codex", "vscode"];
 
 export function extractAddedCatalogEntries(files) {
   const entriesById = new Map();
@@ -72,14 +73,14 @@ export function buildMergedPrComment({ pullRequest, entries }) {
     COMMENT_MARKER,
     `Thanks for contributing to the TensorBlock MCP Index. PR #${pullRequest.number} has been merged into \`main\`.`,
     "",
-    "After the registry deploy finishes, the new server entry will be searchable through the public MCP Index website and API.",
+    "After the registry deploy finishes, the new server entry will be searchable through the public MCP Index website and API. Each indexed profile includes normalized metadata, generated install-config previews, and a README badge you can share from your project.",
     "",
     ...visibleEntries.flatMap(formatEntryFollowUp),
     ...(omittedCount > 0 ? [`_Omitted ${omittedCount} additional entries from this comment._`, ""] : []),
-    "Useful next steps:",
-    "- Add the TensorBlock MCP Index badge to your project README.",
-    `- Share the public profile link with users who want install/config metadata.`,
-    `- Claim or improve your profile metadata: ${CLAIM_PROFILE_URL}`,
+    "Maintainer next steps:",
+    "- Add the README badge to your project so users can jump back to the indexed profile.",
+    "- Share the public profile link with users who want install/config metadata.",
+    "- Claim the profile if you maintain the project, or submit metadata fixes when install, auth, docs, license, or tool details change.",
     `- Join the community: ${DISCORD_URL}`,
   ].join("\n");
 }
@@ -88,12 +89,16 @@ function formatEntryFollowUp(entry) {
   const profileUrl = webProfileUrl(entry.id);
   const apiProfileUrl = apiProfileUrlFor(entry.id);
   const badgeMarkdown = badgeMarkdownFor(entry);
+  const installConfigLinks = CLIENTS
+    .map((client) => `[${client}](${apiProfileUrl}/install-config?client=${client})`)
+    .join(" · ");
 
   return [
     `### ${entry.name}`,
     `- Profile: ${profileUrl}`,
     `- API profile: ${apiProfileUrl}`,
-    `- Install config preview: ${apiProfileUrl}/install-config?client=claude-desktop`,
+    `- Install config previews: ${installConfigLinks}`,
+    `- Maintainer actions: [claim profile](${issueFormUrl("claim-profile.yml", `Claim MCP profile: ${entry.name}`)}) · [improve metadata](${issueFormUrl("improve-metadata.yml", `Improve metadata: ${entry.name}`)}) · [report issue](${issueFormUrl("report-broken-entry.yml", `Report broken MCP entry: ${entry.name}`)})`,
     "",
     "README badge:",
     "",
@@ -166,6 +171,15 @@ function apiProfileUrlFor(serverId) {
 
 function badgeMarkdownFor(entry) {
   return `[![Indexed on TensorBlock MCP Index](${apiProfileUrlFor(entry.id)}/badge.svg)](${webProfileUrl(entry.id)})`;
+}
+
+function issueFormUrl(template, title) {
+  const params = new URLSearchParams({
+    template,
+    title,
+  });
+
+  return `${ISSUE_FORM_BASE_URL}?${params.toString()}`;
 }
 
 async function main() {
