@@ -8,6 +8,7 @@ const API_BASE = "https://api.github.com";
 const API_PROFILE_BASE_URL = "https://mcp-index.tensorblock.co/v1/servers";
 const WEB_PROFILE_BASE_URL = "https://tensorblock.co/mcp/servers";
 const DISCORD_URL = "https://discord.com/invite/Ej5NmeHFf2";
+const REPO_URL = "https://github.com/TensorBlock/awesome-mcp-servers";
 const ISSUE_FORM_BASE_URL = "https://github.com/TensorBlock/awesome-mcp-servers/issues/new";
 const COMMENT_MARKER = "<!-- tensorblock-mcp-merge-follow-up:v1 -->";
 const MAX_ENTRIES_IN_COMMENT = 10;
@@ -77,10 +78,9 @@ export function buildMergedPrComment({ pullRequest, entries }) {
     "",
     ...visibleEntries.flatMap(formatEntryFollowUp),
     ...(omittedCount > 0 ? [`_Omitted ${omittedCount} additional entries from this comment._`, ""] : []),
-    "Maintainer next steps:",
-    "- Add the README badge to your project so users can jump back to the indexed profile.",
-    "- Share the public profile link with users who want install/config metadata.",
-    "- Claim the profile if you maintain the project, or submit metadata fixes when install, auth, docs, license, or tool details change.",
+    "Help the MCP community find better servers:",
+    `- Star this repo if the TensorBlock MCP Index is useful: ${REPO_URL}`,
+    "- Share the indexed profile with users who need install/config metadata.",
     `- Join the community: ${DISCORD_URL}`,
   ].join("\n");
 }
@@ -95,10 +95,16 @@ function formatEntryFollowUp(entry) {
 
   return [
     `### ${entry.name}`,
+    "",
+    "MCP author onboarding:",
     `- Profile: ${profileUrl}`,
     `- API profile: ${apiProfileUrl}`,
     `- Install config previews: ${installConfigLinks}`,
-    `- Maintainer actions: [claim profile](${issueFormUrl("claim-profile.yml", `Claim MCP profile: ${entry.name}`)}) · [improve metadata](${issueFormUrl("improve-metadata.yml", `Improve metadata: ${entry.name}`)}) · [report issue](${issueFormUrl("report-broken-entry.yml", `Report broken MCP entry: ${entry.name}`)})`,
+    `- Share this profile with users: ${profileUrl}`,
+    `- Add the README badge below to your project so users can find the indexed profile.`,
+    `- Claim your profile: ${issueFormUrl("claim-profile.yml", `Claim MCP profile: ${entry.name}`)}`,
+    `- Missing install, transport, auth, docs, license, or tool metadata? ${issueFormUrl("improve-metadata.yml", `Improve metadata: ${entry.name}`)}`,
+    `- Report a duplicate, stale link, wrong category, or safety issue: ${issueFormUrl("report-broken-entry.yml", `Report broken MCP entry: ${entry.name}`)}`,
     "",
     "README badge:",
     "",
