@@ -163,6 +163,7 @@ export function buildTriageComment(issue) {
       "",
       "What happens next:",
       "- We will compare the requested config shape with the existing Claude Desktop, Cursor, Codex, and VS Code generators.",
+      "- If the client name and config shape are clear, automation will draft a client-config request spec PR for maintainer review.",
       "- Official docs and real examples are the fastest way to add reliable support for a new client or install target.",
       "- Once support lands, indexed profiles can expose generated install-config previews for that target.",
       "",

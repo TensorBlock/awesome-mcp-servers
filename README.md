@@ -53,7 +53,7 @@ Choose the path that matches what you want to do.
 **If you build MCP clients, agents, or developer tools:**
 
 - Use the hosted API at [https://mcp-index.tensorblock.co](https://mcp-index.tensorblock.co) to search servers, fetch normalized profiles, list categories, or generate install-config previews.
-- Request another install target with the [client config issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=request-client-config.yml). Include the client name, expected config shape, example config, and official docs.
+- Request another install target with the [client config issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=request-client-config.yml). Include the client name, expected config shape, example config, and official docs. Clear requests generate a draft client-config spec PR so maintainers can review the target before implementation.
 - Help improve the config generator for Claude Desktop, Cursor, Codex, VS Code, and future clients.
 
 **If you want to improve the index itself:**
@@ -63,7 +63,7 @@ Choose the path that matches what you want to do.
 - Propose verification signals, health checks, ranking improvements, or better category rules.
 - Join the [TensorBlock Discord](https://discord.com/invite/Ej5NmeHFf2) to discuss roadmap work before opening a larger PR.
 
-Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving. Server submissions with a clear category can generate draft docs PRs, and structured metadata updates or profile claims can generate draft metadata PRs.
+Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving. Server submissions with a clear category can generate draft docs PRs, structured metadata updates or profile claims can generate draft metadata PRs, and clear client-config requests can generate draft spec PRs.
 
 New server entries can be simple, but high-quality metadata makes the profile much more useful. The best entries answer:
 

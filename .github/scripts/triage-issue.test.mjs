@@ -48,6 +48,21 @@ const claimProfileIssue = {
   ].join("\n"),
 };
 
+const clientConfigIssue = {
+  number: 88,
+  title: "Request client config support: Windsurf",
+  labels: [{ name: "client-config" }],
+  body: [
+    "### Client or install target",
+    "",
+    "Windsurf",
+    "",
+    "### Expected config shape",
+    "",
+    "{\"mcpServers\":{\"example\":{\"command\":\"npx\",\"args\":[\"-y\",\"example-mcp\"]}}}",
+  ].join("\n"),
+};
+
 test("routes issues by issue-form label", () => {
   assert.equal(routeIssue(metadataIssue)?.id, "metadata");
 });
@@ -129,6 +144,14 @@ test("builds claim profile comments with normalized profile links and verificati
   assert.match(comment, /badge\.svg/);
   assert.match(comment, /Maintainer verification checklist:/);
   assert.match(comment, /official project source/);
+});
+
+test("builds client config comments that mention the generated request spec", () => {
+  const comment = buildTriageComment(clientConfigIssue);
+
+  assert.match(comment, /tensorblock-mcp-issue-triage:v1:client-config/);
+  assert.match(comment, /automation will draft a client-config request spec PR/);
+  assert.match(comment, /Windsurf/);
 });
 
 test("issue forms avoid GitHub reserved dropdown options", () => {

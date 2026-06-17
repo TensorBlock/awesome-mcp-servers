@@ -1,0 +1,39 @@
+name: MCP Client Config Request Draft PR
+
+on:
+  issues:
+    types:
+      - opened
+      - edited
+      - reopened
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: mcp-client-config-request-pr-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  draft-pr:
+    name: Draft client-config request PR
+    if: contains(github.event.issue.labels.*.name, 'client-config') || startsWith(github.event.issue.title, 'Request client config support:')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Create or update draft client-config request PR
+        run: node .github/scripts/create-client-config-request-pr.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.MCP_AUTOMATION_TOKEN || github.token }}
