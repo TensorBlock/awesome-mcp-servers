@@ -55,6 +55,22 @@ export interface CatalogEntry {
   };
 }
 
+export interface CatalogMetadataOverride {
+  id?: string;
+  source?: {
+    issue?: number;
+    projectUrl?: string;
+  };
+  links?: Partial<Pick<CatalogEntry["links"], "docs" | "endpoint">>;
+  install?: Partial<CatalogEntry["install"]>;
+  transport?: Transport[];
+  auth?: Partial<CatalogEntry["auth"]>;
+  clients?: string[];
+  license?: string;
+  verification?: Partial<CatalogEntry["verification"]>;
+  community?: Partial<CatalogEntry["community"]>;
+}
+
 export interface ParsedMarkdownEntry {
   category: string;
   name: string;

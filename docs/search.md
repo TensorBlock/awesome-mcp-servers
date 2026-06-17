@@ -166,6 +166,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack): Open-source supply chain for AI agents — search and discover 3,000+ indie creations across 25 categories. 15 MCP tools including find_tools, build_stack, scan_project, compare_tools, and analyze_dependencies. Install via `uvx --from indiestack indiestack-mcp`.
 - [daedalus/mcp-exa](https://github.com/daedalus/mcp-exa) - MCP server exposing Exa websearch API.
 - [AutomateLab-tech/citation-intelligence](https://github.com/AutomateLab-tech/citation-intelligence): Query which URLs Perplexity, Claude, ChatGPT, Gemini, Bing, and Google AI Overviews cite for any query. Self-hosted, BYO API key. Install: `npx @automatelab/citation-intelligence`.
+- [Superhighway](https://superhighway.walls.sh): Web search API for AI agents — search, news, images, scrape, and deep research. Agents pay per call in USDC via x402 (no signup needed) or use a free API key. Five tools.
 
 - [wd041216-bit/cross-validated-search](https://github.com/wd041216-bit/cross-validated-search): Evidence-aware search, page reading, and claim verification for AI agents with CLI, MCP, and skill surfaces for Gemini, Claude Code, Manus, and OpenClaw.
 - [supertrained/rhumb](https://github.com/supertrained/rhumb): Discover, evaluate, and execute 695+ external APIs for AI agents with AN Score trust ratings across 86 categories. Zero-signup discovery, three credential modes, and 16 MCP tools for finding and comparing services.

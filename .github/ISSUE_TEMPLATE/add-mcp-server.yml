@@ -1,0 +1,110 @@
+name: Add MCP server
+description: Submit a new MCP server for the community directory and index.
+title: "Add MCP server: "
+labels:
+  - server-submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the TensorBlock MCP Index. If you can edit the category markdown directly, a pull request is still the fastest path. Use this issue form when you want help choosing the category or shaping the entry.
+  - type: input
+    id: server-name
+    attributes:
+      label: Server name
+      description: The public project or package name.
+      placeholder: owner/project-name
+    validations:
+      required: true
+  - type: input
+    id: project-url
+    attributes:
+      label: Project URL
+      description: GitHub repo, package page, homepage, or docs URL.
+      placeholder: https://github.com/owner/project
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Best category
+      description: Pick the closest category. We can adjust it during triage.
+      options:
+        - AI & LLM Integration
+        - Browser Automation & Web Scraping
+        - Cloud Platforms & Services
+        - Code Execution
+        - Databases
+        - Developer Productivity & Utilities
+        - Filesystems
+        - Knowledge Management & Memory
+        - Monitoring & Observability
+        - Operating System & Command Line
+        - Search
+        - Security
+        - Other / not sure
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What can an agent do with this server?
+      description: Keep it short and specific. This text may become the indexed description.
+      placeholder: This MCP server lets agents...
+    validations:
+      required: true
+  - type: textarea
+    id: install
+    attributes:
+      label: Install or connection instructions
+      description: Include commands, package names, remote endpoint URLs, and required environment variables.
+      placeholder: |
+        Install: npx -y your-package
+        Env: API_KEY
+    validations:
+      required: false
+  - type: dropdown
+    id: transport
+    attributes:
+      label: Transport
+      options:
+        - stdio
+        - sse
+        - streamable-http
+        - multiple
+        - unknown
+    validations:
+      required: false
+  - type: dropdown
+    id: auth
+    attributes:
+      label: Auth requirements
+      options:
+        - no auth
+        - api-key
+        - oauth
+        - bearer
+        - unknown
+    validations:
+      required: false
+  - type: input
+    id: clients
+    attributes:
+      label: Known supported clients
+      placeholder: Claude Desktop, Cursor, Codex, VS Code, other
+    validations:
+      required: false
+  - type: input
+    id: license
+    attributes:
+      label: License
+      placeholder: MIT, Apache-2.0, unknown
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched the repo for this project URL or name to avoid duplicates.
+          required: true

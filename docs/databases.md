@@ -2,6 +2,8 @@
 
 Servers providing interfaces to various database types like SQL, NoSQL, Vector Databases, Graph Databases, Time-Series, etc.
 
+- [mcp-database-connector-lite](https://pypi.org/project/mcp-database-connector-lite/): Free SQLite MCP server for query execution, schema inspection, and data manipulation from AI assistants. Install: `pip install mcp-database-connector-lite`. MIT.
+- [rog0x/mcp-database-tools](https://github.com/rog0x/mcp-database-tools): Database MCP tools for SQL formatting, schema inspection, and migration workflows. Install from the `@rog0x` npm package family. MIT.
 - [tkz24589/mcp_mongodb](https://github.com/tkz24589/mcp_mongodb): Facilitates AI-driven interactions with MongoDB through natural language queries, supporting seamless data management and retrieval.
 - [cwilby/mcp-node-mssql](https://github.com/cwilby/mcp-node-mssql): Facilitates SQL Server interactions via MCP using node-mssql, enabling seamless database management.
 - [wangzhaobo168/dm-mcp-server](https://github.com/wangzhaobo168/dm-mcp-server): Facilitates interaction with Dameng databases by listing tables, executing read-only SQL queries, and displaying table structures.
@@ -41,6 +43,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [Azure-Samples/azure-postgresql-mcp](https://github.com/Azure-Samples/azure-postgresql-mcp): Connect AI applications to Azure Database for PostgreSQL using standardized MCP protocols for seamless data interaction.
 - [kutsushitaneko/mcp-server-for-oracle-database](https://github.com/kutsushitaneko/mcp-server-for-oracle-database): Facilitates AI applications to execute SQL queries on Oracle Database, ensuring seamless integration with MCP clients like Cursor and Claude Desktop.
 - [yuefeng-cn/mcp-postgres](https://github.com/yuefeng-cn/mcp-postgres): Facilitates the integration of PostgreSQL with AI agents through MCP server configurations.
+- [LVTD-LLC/pgsandbox-mcp](https://github.com/LVTD-LLC/pgsandbox-mcp): Local stdio MCP server for disposable PostgreSQL sandboxes, creating tracked database and role pairs with scoped credentials, TTL cleanup, bounded SQL execution, and schema inspection for coding agents.
 - [Doofie15/Supabase-](https://github.com/Doofie15/Supabase-): Empower your IDE to safely execute SQL, manage schema changes, and interact with Supabase APIs using natural language.
 - [morristai/iceberg-mcp](https://github.com/morristai/iceberg-mcp): Facilitates interaction with Apache Iceberg catalogs through an MCP server, supporting REST and AWS Glue integrations with asynchronous operations and logging.
 - [vitalyDV/mysql-mcp](https://github.com/vitalyDV/mysql-mcp): Facilitates interaction with MySQL databases through a Model Context Protocol server, enabling SQL query execution and schema retrieval.
@@ -298,3 +301,4 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [daedalus/mcp-sqlite3](https://github.com/daedalus/mcp-sqlite3) - MCP server exposing sqlite3 library functionality.
 
 - [stucchi/db-mcp-server](https://github.com/stucchi/db-mcp-server): Database MCP server for MySQL, PostgreSQL, and MongoDB with SSH tunneling support. Run queries, explore schemas, and manage data across multiple database types.
+- [haymon-ai/dbmcp](https://github.com/haymon-ai/dbmcp): Connect AI assistants to MySQL, MariaDB, PostgreSQL, and SQLite databases through an MCP server with schema discovery, query execution, read-only mode, and optional PII redaction.

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-larrylemonbot-gatecheck-db0899f5",
+  "source": {
+    "projectUrl": "https://github.com/LarryLemonBot/gatecheck"
+  },
+  "links": {
+    "endpoint": "https://x402-resource-scanner.vercel.app/gatecheck/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Public initialize and tools/list are available; protected production calls may require a bearer token"
+    ]
+  }
+}

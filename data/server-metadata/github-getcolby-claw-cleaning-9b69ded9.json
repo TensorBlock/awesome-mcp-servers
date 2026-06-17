@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-getcolby-claw-cleaning-9b69ded9",
+  "source": {
+    "projectUrl": "https://github.com/GetColby/claw-cleaning"
+  },
+  "links": {
+    "endpoint": "https://claw.cleaning/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude.ai",
+    "Cursor",
+    "Windsurf"
+  ],
+  "license": "MIT"
+}
