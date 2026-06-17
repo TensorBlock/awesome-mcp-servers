@@ -22,6 +22,13 @@ When adding a server, include as much of this metadata as possible in the issue 
 
 For short markdown entries, structured metadata can live in `data/server-metadata/{serverId}.json`. Server submissions created through the Add MCP server issue form can generate this sidecar automatically, so the category page stays readable while the profile/API still get install, transport, auth, client, and license fields.
 
+Server submission issues are automatically tagged with intake status labels:
+
+- `needs-metadata`: required fields, URL validation, or category routing still need attention.
+- `duplicate`: the submitted project URL already matches an existing catalog entry.
+- `ready-for-pr`: automation created or updated a draft docs PR for maintainer review.
+- `automation-blocked`: automation generated a branch, but GitHub permissions blocked PR creation.
+
 For existing indexed servers, use the metadata improvement issue form with the TensorBlock profile id and structured values such as:
 
 ```text
