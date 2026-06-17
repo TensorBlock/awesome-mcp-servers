@@ -84,5 +84,11 @@ test("builds a merged PR follow-up with profile, API, badge, and community links
   assert.match(comment, /https:\/\/mcp-index\.tensorblock\.co\/v1\/servers\/github-cursortouch-windows-mcp-83a6332f/);
   assert.match(comment, /badge\.svg/);
   assert.match(comment, /claim-profile\.yml/);
+  assert.match(comment, /improve-metadata\.yml/);
+  assert.match(comment, /report-broken-entry\.yml/);
+  assert.match(comment, /install-config\?client=claude-desktop/);
+  assert.match(comment, /install-config\?client=cursor/);
+  assert.match(comment, /install-config\?client=codex/);
+  assert.match(comment, /install-config\?client=vscode/);
   assert.match(comment, /discord\.com\/invite/);
 });

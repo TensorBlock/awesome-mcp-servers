@@ -120,6 +120,7 @@ export function buildTriageComment(issue) {
       "- We will check for duplicates and route it to the closest category page.",
       "- If the category and required fields are clear, automation will draft a docs entry PR for maintainer review.",
       "- Once merged, the Railway deploy rebuilds the catalog and the server becomes searchable through the hosted MCP Index API.",
+      "- The merged PR follow-up includes the public profile URL, API profile URL, install-config links, and README badge markdown.",
       "",
       describeCapturedFields(body, [
         ["Server", "Server name"],

@@ -59,8 +59,24 @@ describe("renderServerProfilePage", () => {
 
     expect(html).toContain("Unsafe &lt;Demo&gt;");
     expect(html).toContain("&quot;quoted&quot;");
-    expect(html).not.toContain("<script>");
+    expect(html).toContain("&lt;script&gt;alert(1)&lt;/script&gt;");
+    expect(html).not.toContain("<script>alert(1)</script>");
     expect(html).not.toContain("javascript:alert");
     expect(html).toContain('href="#"');
+  });
+
+  it("renders maintainer action links and README badge markdown", () => {
+    const html = renderServerProfilePage(entry);
+
+    expect(html).toContain("For Maintainers");
+    expect(html).toContain("template=claim-profile.yml");
+    expect(html).toContain("template=improve-metadata.yml");
+    expect(html).toContain("template=report-broken-entry.yml");
+    expect(html).toContain("template=request-client-config.yml");
+    expect(html).toContain("discord.com/invite/Ej5NmeHFf2");
+    expect(html).toContain("README badge");
+    expect(html).toContain("Copy badge");
+    expect(html).toContain("https://mcp-index.tensorblock.co/v1/servers/unsafe-demo/badge.svg");
+    expect(html).toContain("https://tensorblock.co/mcp/servers/unsafe-demo");
   });
 });
