@@ -1,5 +1,5 @@
 name: Request client config support
-description: Request install-config generation for another MCP client or format.
+description: Request install-config generation for another MCP client or format. Clear requests can generate a draft spec PR.
 title: "Request client config support: "
 labels:
   - client-config
