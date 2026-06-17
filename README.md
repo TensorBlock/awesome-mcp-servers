@@ -60,7 +60,7 @@ Choose the path that matches what you want to do.
 
 - Fix duplicate, stale, broken, or poorly categorized entries. Use the [broken entry issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=report-broken-entry.yml) when you want maintainers to triage it; clear reports generate a draft investigation PR so cleanup work can be reviewed and tracked.
 - Add missing metadata that makes search and install generation more accurate.
-- Propose verification signals, health checks, ranking improvements, or better category rules.
+- Propose verification signals, ranking improvements, or better category rules. The catalog health checker also runs on a schedule to flag duplicate primary links, missing GitHub repos, archived repos, and disabled repos as broken-entry reports.
 - Join the [TensorBlock Discord](https://discord.com/invite/Ej5NmeHFf2) to discuss roadmap work before opening a larger PR.
 
 Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving. Server submissions with a clear category can generate draft docs PRs, structured metadata updates or profile claims can generate draft metadata PRs, clear client-config requests can generate draft spec PRs, and clear broken-entry reports can generate draft investigation PRs.
@@ -75,6 +75,8 @@ New server entries can be simple, but high-quality metadata makes the profile mu
 - Where are the setup docs, source repo, license, and public endpoint?
 
 After a PR lands on `main`, the deploy workflow rebuilds the catalog and profiles. The hosted API and public profile pages refresh after the Railway deployment succeeds.
+
+The scheduled catalog health check uses the generated catalog to open `catalog-health` issues for duplicate links and stale or unreachable GitHub repositories. Those issues feed back into the same broken-entry report workflow, so cleanup work can become reviewable PRs instead of staying as loose maintainer notes.
 
 ## TensorBlock MCP Index
 
