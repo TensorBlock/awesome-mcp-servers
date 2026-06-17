@@ -133,7 +133,8 @@ export function buildTriageComment(issue) {
       "",
       "What happens next:",
       "- We will verify the corrected values against the source links or project docs.",
-      "- Small metadata fixes are good first contributions; a direct PR against the matching `docs/*.md` category page is welcome.",
+      "- If the profile id matches the index and the corrected values are structured, automation will draft a metadata sidecar PR for maintainer review.",
+      "- Direct PRs against `docs/*.md` category pages or `data/server-metadata/*.json` sidecars are also welcome.",
       "- Better install, transport, auth, docs, license, and tool metadata improves search and install-config generation.",
       "",
       describeCapturedFields(body, [

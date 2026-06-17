@@ -22,6 +22,20 @@ When adding a server, include as much of this metadata as possible in the issue 
 
 For short markdown entries, structured metadata can live in `data/server-metadata/{serverId}.json`. Server submissions created through the Add MCP server issue form can generate this sidecar automatically, so the category page stays readable while the profile/API still get install, transport, auth, client, and license fields.
 
+For existing indexed servers, use the metadata improvement issue form with the TensorBlock profile id and structured values such as:
+
+```text
+Install: npx -y example-mcp
+Transport: stdio
+Auth: api-key, requires EXAMPLE_API_KEY
+Docs URL: https://docs.example.com/mcp
+License: MIT
+Tools: search, fetch_profile
+Tool count: 2
+```
+
+When the profile id matches the index and the values are clear, automation drafts a metadata sidecar PR for maintainer review.
+
 Complete metadata helps TensorBlock generate:
 
 - server profiles,

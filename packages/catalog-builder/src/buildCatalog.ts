@@ -223,6 +223,8 @@ function applyMetadataOverride(
 
   return {
     ...entry,
+    description: nonEmptyString(metadata.description) ?? entry.description,
+    category: nonEmptyString(metadata.category) ?? entry.category,
     links: {
       ...entry.links,
       ...(metadata.links?.docs ? { docs: metadata.links.docs } : {}),
@@ -241,6 +243,13 @@ function applyMetadataOverride(
         }
       : entry.auth,
     clients: nonEmptyArray(metadata.clients) ?? entry.clients,
+    tools: metadata.tools
+      ? {
+          count: metadata.tools.count ?? entry.tools.count,
+          names: nonEmptyArray(metadata.tools.names) ?? entry.tools.names,
+          source: metadata.tools.source ?? entry.tools.source,
+        }
+      : entry.tools,
     license: nonEmptyString(metadata.license) ?? entry.license,
     verification: metadata.verification
       ? {

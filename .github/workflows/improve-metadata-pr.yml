@@ -1,0 +1,46 @@
+name: MCP Improve Metadata Draft PR
+
+on:
+  issues:
+    types:
+      - opened
+      - edited
+      - reopened
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: mcp-improve-metadata-pr-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  draft-pr:
+    name: Draft metadata PR from metadata issue
+    if: contains(github.event.issue.labels.*.name, 'metadata') || startsWith(github.event.issue.title, 'Improve metadata:')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate latest catalog
+        run: npm run catalog:build
+
+      - name: Create or update draft metadata PR
+        run: node .github/scripts/create-improve-metadata-pr.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.MCP_AUTOMATION_TOKEN || github.token }}

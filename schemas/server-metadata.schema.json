@@ -18,6 +18,8 @@
       },
       "additionalProperties": false
     },
+    "description": { "type": "string", "minLength": 1 },
+    "category": { "type": "string", "minLength": 1 },
     "links": {
       "type": "object",
       "properties": {
@@ -61,6 +63,18 @@
     "clients": {
       "type": "array",
       "items": { "type": "string", "minLength": 1 }
+    },
+    "tools": {
+      "type": "object",
+      "properties": {
+        "count": { "type": "integer", "minimum": 0 },
+        "names": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "source": { "enum": ["self_reported", "verified", "unknown"] }
+      },
+      "additionalProperties": false
     },
     "license": { "type": "string", "minLength": 1 },
     "verification": {
