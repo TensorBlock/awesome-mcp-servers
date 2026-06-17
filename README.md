@@ -30,11 +30,11 @@ If you maintain an MCP server, the index can give your project a public profile,
 2. Include install, transport, auth, supported clients, docs, license, endpoint, and tool details when you have them.
 3. After merge, the follow-up comment gives you the public profile URL, API profile URL, install-config links, and badge markdown.
 4. Add the TensorBlock MCP Index badge to your project README so users can jump back to the indexed profile.
-5. Claim your profile or send metadata fixes through the [claim profile](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml) and [metadata improvement](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) forms. Valid profile claims generate a metadata PR; once reviewed, merged, and deployed, the public profile shows the maintainer and verification status.
+5. Claim your profile or send metadata fixes through the [claim profile](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml) and [metadata improvement](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) forms. Valid profile claims and structured metadata updates generate draft metadata PRs; once reviewed, merged, and deployed, the public profile shows the maintainer, install, auth, docs, license, tool, and verification metadata.
 
 ## Coverage
 
-This repo currently indexes **7,746 unique MCP server links** from the category docs. The README stays lightweight while the full directory lives in `docs/*.md`, `data/catalog.json`, and the registry MCP server.
+This repo currently indexes **7,747 unique MCP server links** from the category docs. The README stays lightweight while the full directory lives in `docs/*.md`, `data/catalog.json`, and the registry MCP server.
 
 ## How to Participate
 
@@ -46,7 +46,7 @@ Choose the path that matches what you want to do.
 
 - Share your public MCP profile from [https://www.tensorblock.co/mcp](https://www.tensorblock.co/mcp) so users can inspect metadata, install configs, source links, and badges without reading the raw markdown.
 - Add your server to the best category under [Browse by Category](#browse-by-category), or use the [Add MCP server issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=add-mcp-server.yml).
-- Improve your existing entry with install command, transport, auth requirements, supported clients, docs URL, license, endpoint, and tool details. Use the [metadata issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) if you do not want to open a PR directly.
+- Improve your existing entry with install command, transport, auth requirements, supported clients, docs URL, license, endpoint, and tool details. Use the [metadata issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) if you do not want to open a PR directly; when the profile id and structured values are clear, automation drafts a metadata sidecar PR for maintainer review.
 - Claim your TensorBlock MCP profile with the [claim profile issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml).
 - Add the TensorBlock MCP Index badge to your project README so users can jump from your repo to the indexed profile.
 
@@ -63,7 +63,7 @@ Choose the path that matches what you want to do.
 - Propose verification signals, health checks, ranking improvements, or better category rules.
 - Join the [TensorBlock Discord](https://discord.com/invite/Ej5NmeHFf2) to discuss roadmap work before opening a larger PR.
 
-Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving. Server submissions with a clear category can also generate a draft docs PR automatically.
+Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving. Server submissions with a clear category can generate draft docs PRs, and structured metadata updates or profile claims can generate draft metadata PRs.
 
 New server entries can be simple, but high-quality metadata makes the profile much more useful. The best entries answer:
 
@@ -150,7 +150,7 @@ To add a new MCP server:
 
 If you are not sure where the server belongs, use the [Add MCP server issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=add-mcp-server.yml) and we can help route it. When the form has enough information, automation can draft a PR with both the markdown entry and a metadata sidecar.
 
-To improve an existing server, edit the same markdown bullet where the server is listed. Add missing install, transport, auth, docs, license, client, tool, endpoint, or maintainer information in the description when possible.
+To improve an existing server, edit the same markdown bullet where the server is listed, or use the [metadata issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) with the TensorBlock profile id and structured values such as `Install:`, `Transport:`, `Auth:`, `Docs URL:`, `License:`, and `Tools:`. Clear metadata issues can generate a draft sidecar PR automatically.
 
 `data/server-metadata/*.json` files are source metadata used by the indexer. Generated files such as `data/catalog.json` and `data/profiles/*.json` are maintained by the indexer. If you only add a simple server entry, editing the relevant `docs/*.md` category page is enough for the PR.
 
@@ -194,7 +194,7 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Knowledge Management & Memory | 572 | [Browse](docs/knowledge-management--memory.md) |
 | Location & Maps | 92 | [Browse](docs/location--maps.md) |
 | Marketing, Sales & CRM | 189 | [Browse](docs/marketing-sales--crm.md) |
-| Monitoring & Observability | 87 | [Browse](docs/monitoring--observability.md) |
+| Monitoring & Observability | 88 | [Browse](docs/monitoring--observability.md) |
 | Multimedia Processing | 212 | [Browse](docs/multimedia-processing.md) |
 | Operating System & Command Line | 107 | [Browse](docs/operating-system--command-line.md) |
 | Project & Task Management | 222 | [Browse](docs/project--task-management.md) |

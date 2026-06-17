@@ -116,6 +116,7 @@ test("builds a deduplicated route-specific comment", () => {
 
   assert.match(comment, /tensorblock-mcp-issue-triage:v1:metadata/);
   assert.match(comment, /Thanks for improving MCP metadata/);
+  assert.match(comment, /automation will draft a metadata sidecar PR/);
   assert.match(comment, /https:\/\/github.com\/owner\/example/);
 });
 

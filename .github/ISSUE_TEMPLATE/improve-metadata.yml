@@ -38,11 +38,16 @@ body:
     id: changes
     attributes:
       label: Correct metadata
-      description: Include the exact values we should index and links to source docs when possible.
+      description: Include exact values using labels like Install, Transport, Auth, Docs URL, License, Tools, Tool count, or Verification.
       placeholder: |
+        Description: Short profile description to show in search results.
         Transport: stdio
         Auth: api-key, requires EXAMPLE_API_KEY
-        Install: npx -y example-mcp
+        Install: `npx -y example-mcp`
+        Docs URL: https://docs.example.com/example-mcp
+        License: MIT
+        Tools: search, fetch_profile
+        Tool count: 2
     validations:
       required: true
   - type: textarea

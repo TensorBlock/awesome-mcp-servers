@@ -231,6 +231,11 @@ describe("buildCatalogFromMarkdown", () => {
       [
         id,
         {
+          description: "Structured sidecar description.",
+          category: "Monitoring & Observability",
+          links: {
+            docs: "https://docs.example.com/plain-mcp",
+          },
           install: {
             commands: ["npx -y plain-mcp"],
             env: ["PLAIN_API_KEY"],
@@ -242,6 +247,11 @@ describe("buildCatalogFromMarkdown", () => {
             notes: ["Submitted through the add-server issue form."],
           },
           clients: ["Claude Desktop", "Cursor"],
+          tools: {
+            count: 2,
+            names: ["inspect_project", "summarize_incidents"],
+            source: "self_reported",
+          },
           license: "MIT",
           verification: {
             status: "verified",
@@ -257,6 +267,9 @@ describe("buildCatalogFromMarkdown", () => {
     ]));
     const entry = result.entries[0];
 
+    expect(entry?.description).toBe("Structured sidecar description.");
+    expect(entry?.category).toBe("Monitoring & Observability");
+    expect(entry?.links.docs).toBe("https://docs.example.com/plain-mcp");
     expect(entry?.install).toEqual({
       commands: ["npx -y plain-mcp"],
       env: ["PLAIN_API_KEY"],
@@ -268,6 +281,11 @@ describe("buildCatalogFromMarkdown", () => {
       notes: ["Submitted through the add-server issue form."],
     });
     expect(entry?.clients).toEqual(["Claude Desktop", "Cursor"]);
+    expect(entry?.tools).toEqual({
+      count: 2,
+      names: ["inspect_project", "summarize_incidents"],
+      source: "self_reported",
+    });
     expect(entry?.license).toBe("MIT");
     expect(entry?.verification).toEqual({
       status: "verified",
