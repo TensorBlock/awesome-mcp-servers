@@ -11,6 +11,27 @@ const API_BASE = "https://api.github.com";
 const COMMENT_MARKER = "<!-- tensorblock-mcp-add-server-pr:v1 -->";
 const DEFAULT_BASE_BRANCH = "main";
 
+export const INTAKE_STATUS_LABELS = {
+  "needs-metadata": {
+    color: "F9D0C4",
+    description: "Server submission needs required fields or category routing.",
+  },
+  duplicate: {
+    color: "CFD3D7",
+    description: "Server submission appears to duplicate an existing catalog entry.",
+  },
+  "ready-for-pr": {
+    color: "0E8A16",
+    description: "Server submission has a generated PR ready for maintainer review.",
+  },
+  "automation-blocked": {
+    color: "D93F0B",
+    description: "Automation generated a branch but could not complete the next GitHub action.",
+  },
+};
+
+const INTAKE_STATUS_LABEL_NAMES = Object.keys(INTAKE_STATUS_LABELS);
+
 export const CATEGORY_TO_DOCS_PATH = {
   "AI & LLM Integration": "docs/ai--llm-integration.md",
   "Art, Culture & Media": "docs/art-culture--media.md",
@@ -90,6 +111,33 @@ export function validateSubmission(submission) {
   }
 
   return errors;
+}
+
+export function buildIntakeLabelPlan({ issue = {}, errors = [], duplicate = null, pullRequest = null } = {}) {
+  const existingLabels = new Set(labelNames(issue));
+  let targetLabel = null;
+
+  if (errors.length > 0) {
+    targetLabel = "needs-metadata";
+  } else if (duplicate) {
+    targetLabel = "duplicate";
+  } else if (pullRequest?.blocked) {
+    targetLabel = "automation-blocked";
+  } else if (pullRequest) {
+    targetLabel = "ready-for-pr";
+  }
+
+  if (!targetLabel) {
+    return {
+      add: [],
+      remove: [],
+    };
+  }
+
+  return {
+    add: existingLabels.has(targetLabel) ? [] : [targetLabel],
+    remove: INTAKE_STATUS_LABEL_NAMES.filter((label) => label !== targetLabel && existingLabels.has(label)).sort(),
+  };
 }
 
 export function buildMarkdownEntry(submission) {
@@ -552,6 +600,7 @@ async function main() {
   const errors = validateSubmission(submission);
 
   if (errors.length > 0) {
+    await applyIntakeLabelPlan(request, issue.number, buildIntakeLabelPlan({ issue, errors }));
     await upsertIssueComment(request, issue.number, buildIssueComment({ issue, submission, errors }));
     console.log(`Issue #${issue.number} cannot be converted to a draft PR: ${errors.join(" ")}`);
     return;
@@ -559,6 +608,7 @@ async function main() {
 
   const duplicate = findDuplicateByUrl(submission.projectUrl);
   if (duplicate) {
+    await applyIntakeLabelPlan(request, issue.number, buildIntakeLabelPlan({ issue, duplicate }));
     await upsertIssueComment(request, issue.number, buildIssueComment({ issue, submission, duplicate }));
     console.log(`Issue #${issue.number} matches an existing entry at ${duplicate.path}:${duplicate.line}.`);
     return;
@@ -602,17 +652,27 @@ async function main() {
     }
 
     const compareUrl = `https://github.com/${owner}/${repo}/compare/${DEFAULT_BASE_BRANCH}...${branch}?expand=1`;
+    const blockedPullRequest = {
+      blocked: true,
+      branch,
+      compareUrl,
+    };
+
+    await applyIntakeLabelPlan(
+      request,
+      issue.number,
+      buildIntakeLabelPlan({
+        issue,
+        pullRequest: blockedPullRequest,
+      }),
+    );
     await upsertIssueComment(
       request,
       issue.number,
       buildIssueComment({
         issue,
         submission,
-        pullRequest: {
-          blocked: true,
-          branch,
-          compareUrl,
-        },
+        pullRequest: blockedPullRequest,
       }),
     );
     console.log(`Generated branch ${branch} for issue #${issue.number}, but Actions cannot create pull requests.`);
@@ -620,6 +680,7 @@ async function main() {
     return;
   }
 
+  await applyIntakeLabelPlan(request, issue.number, buildIntakeLabelPlan({ issue, pullRequest }));
   await upsertIssueComment(request, issue.number, buildIssueComment({ issue, submission, pullRequest }));
   console.log(`Created or updated draft PR ${pullRequest.html_url} for issue #${issue.number}.`);
 }
@@ -690,6 +751,61 @@ async function createOrUpdatePullRequest(request, { owner, branch, title, body }
       maintainer_can_modify: true,
     },
   });
+}
+
+function labelNames(issue) {
+  return (issue.labels ?? []).map((label) => (typeof label === "string" ? label : label.name)).filter(Boolean);
+}
+
+async function applyIntakeLabelPlan(request, issueNumber, plan) {
+  await ensureIntakeLabels(request, plan.add);
+
+  for (const label of plan.remove) {
+    try {
+      await request(`/issues/${issueNumber}/labels/${encodeURIComponent(label)}`, {
+        method: "DELETE",
+      });
+    } catch (error) {
+      if (error.status !== 404) {
+        throw error;
+      }
+    }
+  }
+
+  if (plan.add.length > 0) {
+    await request(`/issues/${issueNumber}/labels`, {
+      method: "POST",
+      body: {
+        labels: plan.add,
+      },
+    });
+  }
+}
+
+async function ensureIntakeLabels(request, labels) {
+  for (const label of labels) {
+    const definition = INTAKE_STATUS_LABELS[label];
+    if (!definition) {
+      continue;
+    }
+
+    try {
+      await request(`/labels/${encodeURIComponent(label)}`);
+    } catch (error) {
+      if (error.status !== 404) {
+        throw error;
+      }
+
+      await request("/labels", {
+        method: "POST",
+        body: {
+          name: label,
+          color: definition.color,
+          description: definition.description,
+        },
+      });
+    }
+  }
 }
 
 function isPullRequestCreationBlocked(error) {

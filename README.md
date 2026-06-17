@@ -74,6 +74,13 @@ Choose the path that matches what you want to do.
 
 Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving. Server submissions with a clear category can generate draft docs PRs, structured metadata updates or profile claims can generate draft metadata PRs, clear client-config requests can generate draft spec PRs, and clear broken-entry reports can generate draft investigation PRs.
 
+New server submissions also get intake status labels so the queue is easier to review at scale:
+
+- `needs-metadata` means required fields, a valid project URL, or category routing still need contributor/maintainer input.
+- `duplicate` means the submitted project URL already appears in the catalog.
+- `ready-for-pr` means automation created or updated a draft docs PR for maintainer review.
+- `automation-blocked` means automation generated a branch but GitHub permissions blocked PR creation.
+
 New server entries can be simple, but high-quality metadata makes the profile much more useful. The best entries answer:
 
 - What can an agent do with this server?

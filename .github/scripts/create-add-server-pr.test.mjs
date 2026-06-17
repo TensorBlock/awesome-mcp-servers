@@ -6,11 +6,13 @@ import test from "node:test";
 
 import {
   buildIssueComment,
+  buildIntakeLabelPlan,
   buildPrBody,
   buildMetadataSidecar,
   buildMarkdownEntry,
   docPathForCategory,
   findDuplicateByUrl,
+  INTAKE_STATUS_LABELS,
   parseAddServerIssue,
   validateSubmission,
 } from "./create-add-server-pr.mjs";
@@ -355,4 +357,65 @@ test("builds issue comment when Actions cannot create a pull request", () => {
   assert.match(comment, /could not open the draft PR automatically/);
   assert.match(comment, /mcp\/add-server-issue-123/);
   assert.match(comment, /compare\/main\.\.\.mcp\/add-server-issue-123/);
+});
+
+test("plans needs-metadata label for incomplete server submissions", () => {
+  const plan = buildIntakeLabelPlan({
+    issue: {
+      labels: ["server-submission", "ready-for-pr", "duplicate"],
+    },
+    errors: ["Project URL is required."],
+  });
+
+  assert.equal(
+    INTAKE_STATUS_LABELS["needs-metadata"].description,
+    "Server submission needs required fields or category routing.",
+  );
+  assert.deepEqual(plan.add, ["needs-metadata"]);
+  assert.deepEqual(plan.remove, ["duplicate", "ready-for-pr"]);
+});
+
+test("plans duplicate label when the submitted project URL already exists", () => {
+  const plan = buildIntakeLabelPlan({
+    issue: {
+      labels: ["server-submission", "needs-metadata"],
+    },
+    duplicate: {
+      path: "docs/databases.md",
+      line: 42,
+      entry: "- [owner/example](https://github.com/owner/example): Existing.",
+    },
+  });
+
+  assert.deepEqual(plan.add, ["duplicate"]);
+  assert.deepEqual(plan.remove, ["needs-metadata"]);
+});
+
+test("plans automation-blocked label when a branch is generated but no PR can be opened", () => {
+  const plan = buildIntakeLabelPlan({
+    issue: {
+      labels: ["server-submission", "needs-metadata"],
+    },
+    pullRequest: {
+      blocked: true,
+      branch: "mcp/add-server-issue-123",
+    },
+  });
+
+  assert.deepEqual(plan.add, ["automation-blocked"]);
+  assert.deepEqual(plan.remove, ["needs-metadata"]);
+});
+
+test("plans ready-for-pr label when a draft PR is created", () => {
+  const plan = buildIntakeLabelPlan({
+    issue: {
+      labels: ["server-submission", "needs-metadata", "automation-blocked"],
+    },
+    pullRequest: {
+      html_url: "https://github.com/TensorBlock/awesome-mcp-servers/pull/999",
+    },
+  });
+
+  assert.deepEqual(plan.add, ["ready-for-pr"]);
+  assert.deepEqual(plan.remove, ["automation-blocked", "needs-metadata"]);
 });
