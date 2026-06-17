@@ -63,6 +63,25 @@ const clientConfigIssue = {
   ].join("\n"),
 };
 
+const brokenEntryIssue = {
+  number: 99,
+  title: "Report broken MCP entry: github-owner-demo-mcp",
+  labels: [{ name: "broken-entry" }],
+  body: [
+    "### TensorBlock profile URL, server id, or project URL",
+    "",
+    "github-owner-demo-mcp-12345678",
+    "",
+    "### What is wrong?",
+    "",
+    "- [x] Dead link",
+    "",
+    "### Details",
+    "",
+    "The project URL is now 404.",
+  ].join("\n"),
+};
+
 test("routes issues by issue-form label", () => {
   assert.equal(routeIssue(metadataIssue)?.id, "metadata");
 });
@@ -152,6 +171,14 @@ test("builds client config comments that mention the generated request spec", ()
   assert.match(comment, /tensorblock-mcp-issue-triage:v1:client-config/);
   assert.match(comment, /automation will draft a client-config request spec PR/);
   assert.match(comment, /Windsurf/);
+});
+
+test("builds broken-entry comments that mention the generated report spec", () => {
+  const comment = buildTriageComment(brokenEntryIssue);
+
+  assert.match(comment, /tensorblock-mcp-issue-triage:v1:broken-entry/);
+  assert.match(comment, /automation will draft a broken-entry report spec PR/);
+  assert.match(comment, /github-owner-demo-mcp-12345678/);
 });
 
 test("issue forms avoid GitHub reserved dropdown options", () => {
