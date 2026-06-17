@@ -81,6 +81,8 @@ New server submissions also get intake status labels so the queue is easier to r
 - `ready-for-pr` means automation created or updated a draft docs PR for maintainer review.
 - `automation-blocked` means automation generated a branch but GitHub permissions blocked PR creation.
 
+Maintainers can run **MCP Add Server Intake Refresh** from GitHub Actions to backfill or repair these labels across open server submissions. Run it with `dry_run=true` first to preview changes, then rerun with `dry_run=false` to apply them.
+
 New server entries can be simple, but high-quality metadata makes the profile much more useful. The best entries answer:
 
 - What can an agent do with this server?

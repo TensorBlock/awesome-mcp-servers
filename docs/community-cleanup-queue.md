@@ -37,6 +37,8 @@ For server submissions, use the intake labels to pick the next action:
 - `ready-for-pr`: review the generated draft PR instead of hand-editing the issue.
 - `automation-blocked`: open the PR from the generated branch or fix workflow permissions, then rerun by editing the issue.
 
+Maintainers can backfill these labels with the **MCP Add Server Intake Refresh** workflow. Use `dry_run=true` to inspect the planned changes across open `server-submission` issues, then rerun with `dry_run=false` to apply the labels. Set `issue_number` when you only want to refresh one issue.
+
 Comment on the issue before doing larger cleanup work so two contributors do not handle the same task.
 
 ## What To Change
