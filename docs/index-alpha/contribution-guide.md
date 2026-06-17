@@ -36,6 +36,8 @@ Tool count: 2
 
 When the profile id matches the index and the values are clear, automation drafts a metadata sidecar PR for maintainer review.
 
+For duplicate, stale, broken, unsafe, or poorly categorized entries, use the broken entry issue form with the TensorBlock profile URL, server id, or project URL. Clear reports can generate a draft investigation PR under `docs/broken-entry-reports/` so maintainers can verify the problem before editing catalog docs or metadata sidecars.
+
 Complete metadata helps TensorBlock generate:
 
 - server profiles,

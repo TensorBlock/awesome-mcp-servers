@@ -58,12 +58,12 @@ Choose the path that matches what you want to do.
 
 **If you want to improve the index itself:**
 
-- Fix duplicate, stale, broken, or poorly categorized entries. Use the [broken entry issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=report-broken-entry.yml) when you want maintainers to triage it.
+- Fix duplicate, stale, broken, or poorly categorized entries. Use the [broken entry issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=report-broken-entry.yml) when you want maintainers to triage it; clear reports generate a draft investigation PR so cleanup work can be reviewed and tracked.
 - Add missing metadata that makes search and install generation more accurate.
 - Propose verification signals, health checks, ranking improvements, or better category rules.
 - Join the [TensorBlock Discord](https://discord.com/invite/Ej5NmeHFf2) to discuss roadmap work before opening a larger PR.
 
-Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving. Server submissions with a clear category can generate draft docs PRs, structured metadata updates or profile claims can generate draft metadata PRs, and clear client-config requests can generate draft spec PRs.
+Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving. Server submissions with a clear category can generate draft docs PRs, structured metadata updates or profile claims can generate draft metadata PRs, clear client-config requests can generate draft spec PRs, and clear broken-entry reports can generate draft investigation PRs.
 
 New server entries can be simple, but high-quality metadata makes the profile much more useful. The best entries answer:
 

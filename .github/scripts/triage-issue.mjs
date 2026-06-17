@@ -174,6 +174,7 @@ export function buildTriageComment(issue) {
       "",
       "What happens next:",
       "- We will verify the duplicate, dead link, stale metadata, wrong category, or safety concern.",
+      "- If the entry reference, issue type, and details are clear, automation will draft a broken-entry report spec PR for maintainer review.",
       "- If there is a clear correction, a direct PR against the matching `docs/*.md` entry is welcome.",
       "- Safety or security reports are routed with higher priority.",
       "",
