@@ -146,7 +146,8 @@ export function buildTriageComment(issue) {
       "",
       "What happens next:",
       "- We will verify the maintainer relationship using the repo, package, organization, or docs proof you provided.",
-      "- After verification, the profile can show maintainer and claim metadata in the index.",
+      "- If the profile id and project URL match the index, automation will draft a metadata PR for maintainer review.",
+      "- After that PR is verified, merged, and deployed, the profile can show maintainer and claim metadata in the index.",
       "- If the profile also needs install/auth/docs updates, include them here or open a metadata PR.",
       "",
       describeCapturedFields(body, [

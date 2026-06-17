@@ -10,6 +10,10 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
   const title = `${entry.name} - TensorBlock MCP Index`;
   const profileUrl = webProfileUrl(entry.id);
   const readmeBadge = badgeMarkdown(entry, profileUrl);
+  const maintainerActions = renderMaintainerActions(entry);
+  const maintainerIntro = entry.community.claimed
+    ? "This profile has been claimed by a verified project maintainer. Keep metadata current when install, auth, docs, license, or tool details change."
+    : "Use this profile as the public install and metadata page for your MCP server. Claim the profile, add the badge to your README, and send metadata fixes when install or auth details change.";
   const installCommands = entry.install.commands.length > 0
     ? entry.install.commands.map((command) => `<code>${escapeHtml(command)}</code>`).join("")
     : "<p>No install command has been indexed yet.</p>";
@@ -103,6 +107,11 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
       font-weight: 650;
       padding: 5px 10px;
       white-space: nowrap;
+    }
+    .badge.claimed {
+      background: #eaf8ef;
+      border-color: #c9ecd4;
+      color: #17663a;
     }
     section {
       background: var(--panel);
@@ -224,6 +233,7 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
         <span class="badge">Install confidence: ${escapeHtml(entry.install.confidence)}</span>
         <span class="badge">Auth: ${escapeHtml(entry.auth.type)}</span>
         <span class="badge">Transport: ${escapeHtml(entry.transport.join(", "))}</span>
+        ${entry.community.claimed ? '<span class="badge claimed">Claimed profile</span>' : ""}
       </div>
     </header>
 
@@ -242,13 +252,9 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
 
     <section class="maintainer-actions">
       <h2>For Maintainers</h2>
-      <p class="helper">Use this profile as the public install and metadata page for your MCP server. Claim the profile, add the badge to your README, and send metadata fixes when install or auth details change.</p>
+      <p class="helper">${escapeHtml(maintainerIntro)}</p>
       <div class="links">
-        <a class="button primary" href="${escapeAttribute(issueFormUrl("claim-profile.yml", `Claim MCP profile: ${entry.name}`))}">Claim profile</a>
-        <a class="button" href="${escapeAttribute(issueFormUrl("improve-metadata.yml", `Improve metadata: ${entry.name}`))}">Improve metadata</a>
-        <a class="button" href="${escapeAttribute(issueFormUrl("report-broken-entry.yml", `Report broken MCP entry: ${entry.name}`))}">Report issue</a>
-        <a class="button" href="${escapeAttribute(issueFormUrl("request-client-config.yml", `Request client config support: ${entry.name}`))}">Request client config</a>
-        <a class="button" href="${escapeAttribute(DISCORD_URL)}">Join Discord</a>
+        ${maintainerActions}
       </div>
       <h3>README badge</h3>
       <pre><code id="readme-badge">${escapeHtml(readmeBadge)}</code></pre>
@@ -286,8 +292,14 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
         <dd>${escapeHtml(entry.license)}</dd>
         <dt>Verification</dt>
         <dd>${escapeHtml(entry.verification.status)}</dd>
+        <dt>Verification notes</dt>
+        <dd>${renderInlineValues(entry.verification.notes, "None indexed")}</dd>
         <dt>Claimed</dt>
         <dd>${entry.community.claimed ? "Yes" : "No"}</dd>
+        <dt>Maintainers</dt>
+        <dd>${renderInlineValues(entry.community.maintainedBy, "None indexed")}</dd>
+        <dt>Verified by</dt>
+        <dd>${renderInlineValues(entry.community.verifiedBy, "None indexed")}</dd>
         <dt>Source</dt>
         <dd>${sourceLink}</dd>
       </dl>
@@ -327,6 +339,26 @@ const optionalLink = (label: string, href: string | null | undefined): string =>
 
 const githubSourceUrl = (path: string): string =>
   `https://github.com/TensorBlock/awesome-mcp-servers/blob/main/${encodeURIComponent(path).replace(/%2F/g, "/")}`;
+
+const renderMaintainerActions = (entry: CatalogEntry): string => {
+  const claimButton = entry.community.claimed
+    ? ""
+    : `<a class="button primary" href="${escapeAttribute(issueFormUrl("claim-profile.yml", `Claim MCP profile: ${entry.name}`))}">Claim profile</a>`;
+  const improveClass = entry.community.claimed ? "button primary" : "button";
+
+  return [
+    claimButton,
+    `<a class="${improveClass}" href="${escapeAttribute(issueFormUrl("improve-metadata.yml", `Improve metadata: ${entry.name}`))}">Improve metadata</a>`,
+    `<a class="button" href="${escapeAttribute(issueFormUrl("report-broken-entry.yml", `Report broken MCP entry: ${entry.name}`))}">Report issue</a>`,
+    `<a class="button" href="${escapeAttribute(issueFormUrl("request-client-config.yml", `Request client config support: ${entry.name}`))}">Request client config</a>`,
+    `<a class="button" href="${escapeAttribute(DISCORD_URL)}">Join Discord</a>`,
+  ].filter(Boolean).join("\n        ");
+};
+
+const renderInlineValues = (values: string[], fallback: string): string =>
+  values.length > 0
+    ? values.map((value) => `<code>${escapeHtml(value)}</code>`).join("")
+    : `<span>${escapeHtml(fallback)}</span>`;
 
 const issueFormUrl = (template: string, title: string): string => {
   const params = new URLSearchParams({

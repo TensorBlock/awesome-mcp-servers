@@ -30,7 +30,7 @@ If you maintain an MCP server, the index can give your project a public profile,
 2. Include install, transport, auth, supported clients, docs, license, endpoint, and tool details when you have them.
 3. After merge, the follow-up comment gives you the public profile URL, API profile URL, install-config links, and badge markdown.
 4. Add the TensorBlock MCP Index badge to your project README so users can jump back to the indexed profile.
-5. Claim your profile or send metadata fixes through the [claim profile](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml) and [metadata improvement](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) forms.
+5. Claim your profile or send metadata fixes through the [claim profile](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml) and [metadata improvement](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) forms. Valid profile claims generate a metadata PR; once reviewed, merged, and deployed, the public profile shows the maintainer and verification status.
 
 ## Coverage
 

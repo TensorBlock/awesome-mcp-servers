@@ -242,6 +242,19 @@ function applyMetadataOverride(
       : entry.auth,
     clients: nonEmptyArray(metadata.clients) ?? entry.clients,
     license: nonEmptyString(metadata.license) ?? entry.license,
+    verification: metadata.verification
+      ? {
+          status: metadata.verification.status ?? entry.verification.status,
+          notes: nonEmptyArray(metadata.verification.notes) ?? entry.verification.notes,
+        }
+      : entry.verification,
+    community: metadata.community
+      ? {
+          maintainedBy: nonEmptyArray(metadata.community.maintainedBy) ?? entry.community.maintainedBy,
+          verifiedBy: nonEmptyArray(metadata.community.verifiedBy) ?? entry.community.verifiedBy,
+          claimed: metadata.community.claimed ?? entry.community.claimed,
+        }
+      : entry.community,
   };
 }
 

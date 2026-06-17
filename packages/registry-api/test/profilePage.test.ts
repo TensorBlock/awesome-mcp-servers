@@ -79,4 +79,29 @@ describe("renderServerProfilePage", () => {
     expect(html).toContain("https://mcp-index.tensorblock.co/v1/servers/unsafe-demo/badge.svg");
     expect(html).toContain("https://tensorblock.co/mcp/servers/unsafe-demo");
   });
+
+  it("renders claimed profile community metadata", () => {
+    const html = renderServerProfilePage({
+      ...entry,
+      verification: {
+        status: "verified",
+        notes: ["Maintainer relationship verified in #761."],
+      },
+      community: {
+        maintainedBy: ["@owner"],
+        verifiedBy: ["TensorBlock"],
+        claimed: true,
+      },
+    });
+
+    expect(html).toContain("Claimed profile");
+    expect(html).toContain("verified project maintainer");
+    expect(html).toContain("<dd>Yes</dd>");
+    expect(html).toContain("<code>@owner</code>");
+    expect(html).toContain("<code>TensorBlock</code>");
+    expect(html).toContain("<code>Maintainer relationship verified in #761.</code>");
+    expect(html).not.toContain(">Claim profile</a>");
+    expect(html).toContain("button primary");
+    expect(html).toContain(">Improve metadata</a>");
+  });
 });

@@ -4,6 +4,10 @@ title: "Claim MCP profile: "
 labels:
   - claim-profile
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form if you maintain an indexed MCP server and want the public profile to show maintainer and verification metadata. The Project URL should match the indexed profile source, repository, homepage, docs URL, or existing metadata sidecar project URL.
   - type: input
     id: profile-url
     attributes:
