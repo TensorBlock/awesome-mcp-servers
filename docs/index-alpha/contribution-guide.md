@@ -40,6 +40,8 @@ For duplicate, stale, broken, unsafe, or poorly categorized entries, use the bro
 
 TensorBlock also runs a scheduled catalog health check. It scans the generated catalog for duplicate primary links and rotates through indexed GitHub repositories to detect 404, archived, or disabled projects. New findings open `catalog-health` issues that feed into the same broken-entry report workflow.
 
+For scoped community work, start from the [MCP Index Community Cleanup Queue](../community-cleanup-queue.md). It links to live issue queues for good first metadata fixes, broken entries, catalog-health findings, server submissions, client config requests, and profile claims.
+
 Complete metadata helps TensorBlock generate:
 
 - server profiles,

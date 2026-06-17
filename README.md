@@ -22,6 +22,8 @@ TensorBlock MCP Index turns this community-curated MCP server directory into a h
 
 **Hosted API:** [https://mcp-index.tensorblock.co](https://mcp-index.tensorblock.co)
 
+**Community cleanup queue:** [Help verify and improve indexed MCP servers](docs/community-cleanup-queue.md)
+
 ## MCP Maintainer Quick Start
 
 If you maintain an MCP server, the index can give your project a public profile, install-config previews, API metadata, and a README badge.
@@ -35,6 +37,12 @@ If you maintain an MCP server, the index can give your project a public profile,
 ## Coverage
 
 This repo currently indexes **7,747 unique MCP server links** from the category docs. The README stays lightweight while the full directory lives in `docs/*.md`, `data/catalog.json`, and the registry MCP server.
+
+## Community Cleanup Queue
+
+Want to contribute without adding a new server? Start with the [MCP Index Community Cleanup Queue](docs/community-cleanup-queue.md). It links to live GitHub issue queues for good first metadata fixes, broken entries, catalog-health reports, new server submissions, client config requests, and profile claims.
+
+Cleanup work improves the value of the hosted index: fewer duplicates, fresher source links, better install metadata, clearer categories, and more trustworthy profiles.
 
 ## How to Participate
 
@@ -60,6 +68,7 @@ Choose the path that matches what you want to do.
 
 - Fix duplicate, stale, broken, or poorly categorized entries. Use the [broken entry issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=report-broken-entry.yml) when you want maintainers to triage it; clear reports generate a draft investigation PR so cleanup work can be reviewed and tracked.
 - Add missing metadata that makes search and install generation more accurate.
+- Pick a scoped cleanup task from the [community cleanup queue](docs/community-cleanup-queue.md).
 - Propose verification signals, ranking improvements, or better category rules. The catalog health checker also runs on a schedule to flag duplicate primary links, missing GitHub repos, archived repos, and disabled repos as broken-entry reports.
 - Join the [TensorBlock Discord](https://discord.com/invite/Ej5NmeHFf2) to discuss roadmap work before opening a larger PR.
 
