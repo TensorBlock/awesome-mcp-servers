@@ -29,6 +29,8 @@ Server submission issues are automatically tagged with intake status labels:
 - `ready-for-pr`: automation created or updated a draft docs PR for maintainer review.
 - `automation-blocked`: automation generated a branch, but GitHub permissions blocked PR creation.
 
+The manual **MCP Add Server Intake Refresh** workflow can backfill these labels for old open submissions. It defaults to dry-run mode so maintainers can inspect the planned label changes before applying them.
+
 For existing indexed servers, use the metadata improvement issue form with the TensorBlock profile id and structured values such as:
 
 ```text

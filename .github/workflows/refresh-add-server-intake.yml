@@ -1,0 +1,54 @@
+name: MCP Add Server Intake Refresh
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Preview label changes without mutating issues."
+        required: true
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+      issue_number:
+        description: "Optional single issue number to refresh."
+        required: false
+        type: string
+      limit:
+        description: "Maximum open server-submission issues to inspect."
+        required: true
+        default: "100"
+        type: string
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: read
+
+concurrency:
+  group: mcp-add-server-intake-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    name: Refresh add-server issue status labels
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Refresh intake labels
+        run: node .github/scripts/refresh-add-server-intake.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.MCP_AUTOMATION_TOKEN || github.token }}
+          INPUT_DRY_RUN: ${{ inputs.dry_run }}
+          INPUT_ISSUE_NUMBER: ${{ inputs.issue_number }}
+          INPUT_LIMIT: ${{ inputs.limit }}
