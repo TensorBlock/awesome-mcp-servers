@@ -10,6 +10,7 @@
     "test": "vitest run --passWithNoTests",
     "typecheck": "tsc -p tsconfig.base.json --noEmit",
     "catalog:build": "tsx packages/catalog-builder/src/cli.ts",
+    "catalog:health": "node .github/scripts/check-catalog-health.mjs",
     "profiles:build": "tsx packages/profile-renderer/src/cli.ts",
     "config:generate": "tsx packages/config-generator/src/cli.ts",
     "registry:mcp": "tsx packages/registry-mcp/src/server.ts",
