@@ -53,6 +53,38 @@ const issueBody = [
   "MIT",
 ].join("\n");
 
+const secondLevelHeadingIssueBody = [
+  "## Server name",
+  "",
+  "friendlygeorge/cron-scheduler-mcp-server",
+  "",
+  "## Project URL",
+  "",
+  "https://github.com/friendlygeorge/cron-scheduler-mcp-server",
+  "",
+  "## Best category",
+  "",
+  "Developer Productivity & Utilities",
+  "",
+  "## What can an agent do with this server?",
+  "",
+  "7 tools for AI agent cron job scheduling.",
+  "",
+  "## Install or connection instructions",
+  "",
+  "Install: npx @supernova123/cron-scheduler-mcp-server",
+  "Transport: stdio",
+  "Auth: none",
+  "",
+  "## Known supported clients",
+  "",
+  "Claude Desktop, Cursor, Codex, VS Code",
+  "",
+  "## License",
+  "",
+  "MIT",
+].join("\n");
+
 const boldIssueBody = [
   "**Server name**: kaitoInfra/twitterapi-io-mcp-server",
   "",
@@ -123,6 +155,31 @@ test("parses add-server issue form fields", () => {
     auth: "no auth",
     clients: "Claude Desktop, Cursor",
     license: "MIT",
+  });
+});
+
+test("parses issue form fields that use second-level markdown headings", () => {
+  const submission = parseAddServerIssue(secondLevelHeadingIssueBody);
+
+  assert.deepEqual(submission, {
+    serverName: "friendlygeorge/cron-scheduler-mcp-server",
+    projectUrl: "https://github.com/friendlygeorge/cron-scheduler-mcp-server",
+    category: "Developer Productivity & Utilities",
+    description: "7 tools for AI agent cron job scheduling.",
+    install: [
+      "Install: npx @supernova123/cron-scheduler-mcp-server",
+      "Transport: stdio",
+      "Auth: none",
+    ].join("\n"),
+    transport: "",
+    auth: "",
+    clients: "Claude Desktop, Cursor, Codex, VS Code",
+    license: "MIT",
+  });
+
+  assert.deepEqual(JSON.parse(buildMetadataSidecar({ issue: { number: 750 }, submission }).content).auth, {
+    type: "none",
+    notes: [],
   });
 });
 

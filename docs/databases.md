@@ -2,6 +2,8 @@
 
 Servers providing interfaces to various database types like SQL, NoSQL, Vector Databases, Graph Databases, Time-Series, etc.
 
+- [mcp-database-connector-lite](https://pypi.org/project/mcp-database-connector-lite/): Free SQLite MCP server for query execution, schema inspection, and data manipulation from AI assistants. Install: `pip install mcp-database-connector-lite`. MIT.
+- [rog0x/mcp-database-tools](https://github.com/rog0x/mcp-database-tools): Database MCP tools for SQL formatting, schema inspection, and migration workflows. Install from the `@rog0x` npm package family. MIT.
 - [tkz24589/mcp_mongodb](https://github.com/tkz24589/mcp_mongodb): Facilitates AI-driven interactions with MongoDB through natural language queries, supporting seamless data management and retrieval.
 - [cwilby/mcp-node-mssql](https://github.com/cwilby/mcp-node-mssql): Facilitates SQL Server interactions via MCP using node-mssql, enabling seamless database management.
 - [wangzhaobo168/dm-mcp-server](https://github.com/wangzhaobo168/dm-mcp-server): Facilitates interaction with Dameng databases by listing tables, executing read-only SQL queries, and displaying table structures.

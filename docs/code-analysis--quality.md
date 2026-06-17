@@ -2,6 +2,8 @@
 
 Servers focused on static analysis, linting, code metrics, security scanning, vulnerability checks, or code quality assessment.
 
+- [sgroy10/speclock](https://github.com/sgroy10/speclock): AI constraint engine for enforcing CLAUDE.md, .cursorrules, and AGENTS.md rules with semantic conflict detection and 51 MCP tools. Install: `npx speclock serve`. MIT.
+- [rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools): Testing MCP tools for test generation, mocks, and coverage workflows. Install from the `@rog0x` npm package family. MIT.
 - [KyaniteLabs/checkyourself](https://github.com/KyaniteLabs/checkyourself): Local-first production-readiness audit for AI-built apps — read-only checks, an evidence-based 0-100 score, and guided fixes before launch.
 - [preflight-dev/preflight](https://github.com/preflight-dev/preflight): A 24-tool MCP server for Claude Code that scores prompts across 12 categories before execution, catches ambiguity and missing context, tracks correction patterns, and provides semantic search over session history with LanceDB vectors.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp): Fastest code intelligence MCP server — indexes the Linux kernel (28M LOC) in 3 minutes, answers structural queries in <1ms. Builds a persistent knowledge graph with call chains, HTTP routes, and cross-service links across 66 languages. 120x fewer tokens. Single static binary, plug-and-play across 10 coding agents.

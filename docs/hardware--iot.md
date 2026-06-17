@@ -2,6 +2,7 @@
 
 Servers controlling hardware devices, interacting with embedded systems, serial communication, 3D printers, or smart home systems.
 
+- [veonua/smartthings-mcp](https://github.com/veonua/smartthings-mcp): Lightweight Samsung SmartThings MCP server for room mapping, device listing, status checks, and device command execution.
 - [kukapay/modbus-mcp](https://github.com/kukapay/modbus-mcp): Standardizes and contextualizes Modbus data for seamless AI agent integration with industrial IoT systems.
 - [zradlicz/particle-mcp-server](https://github.com/zradlicz/particle-mcp-server): Facilitates AI-driven management of Particle IoT devices through natural language commands.
 - [Volt23/mcp-arduino-server](https://github.com/Volt23/mcp-arduino-server): Facilitates Arduino development workflows by bridging MCP with Arduino CLI for sketch, board, library, and file management.
@@ -68,4 +69,3 @@ Servers controlling hardware devices, interacting with embedded systems, serial 
 - [daedalus/mcp-rs232](https://github.com/daedalus/mcp-rs232) - An MCP server that exposes RS232 serial port connectivity.
 - [daedalus/mcp-rs485](https://github.com/daedalus/mcp-rs485) - An MCP server that exposes RS485 bus connectivity.
 - [daedalus/mcp-snap7](https://github.com/daedalus/mcp-snap7) - MCP server for python-snap7, enabling MCP clients to interact with Siemens PLCs.
-

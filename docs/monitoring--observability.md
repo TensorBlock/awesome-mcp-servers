@@ -2,6 +2,8 @@
 
 Servers connecting to monitoring systems, logging platforms, or providing system/application performance metrics.
 
+- [Tethral-Inc/AgentRegistry](https://github.com/Tethral-Inc/AgentRegistry): Agent Composition Records MCP server for logging AI-agent interactions and querying behavioral profiles through friction, coverage, stable-corridor, failure-registry, and trend lenses. 21 tools. Install: `npx -y @tethral/acr-mcp`.
+- [kame6493-del/mcp-diagnostics](https://github.com/kame6493-del/mcp-diagnostics): Website diagnostics MCP server for DNS, SSL, HTTP headers, security audit grading, WHOIS, and technology-stack checks. Install: `npx mcp-diagnostics`. No API keys required.
 - [us-all/datadog-mcp-server](https://github.com/us-all/datadog-mcp-server) - Datadog observability MCP server with 165 tools across metrics, monitors, logs, APM, RUM, incidents, status pages, and fleet automation. 4 workflow Prompts and `incident-triage-snapshot` aggregation tool.
 - [vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp): Instant website audits MCP with 11 tools — full SEO (20+ checks), security headers + SSL, Lighthouse performance via Google PageSpeed, multi-site competitive comparison, broken link crawler, WCAG accessibility audit, Schema.org structured data validation, competitor gap analysis, robots.txt parser. No API keys. FastMCP 3.2, MIT.
 - [aliyun/alibabacloud-observability-mcp-server](https://github.com/aliyun/alibabacloud-observability-mcp-server): Facilitates seamless integration with Alibaba Cloud's observability products, offering tools for efficient log and application monitoring.

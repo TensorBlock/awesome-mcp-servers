@@ -1,6 +1,9 @@
 ## 🌐 Browser Automation & Web Scraping
 
 Servers using tools for browser control, automation, and extracting content from websites.
+- [Goldentrii/novada-mcp](https://github.com/Goldentrii/novada-mcp): Web data MCP server for search, extraction, crawling, and research using Novada proxy infrastructure. Tools include `novada_search`, `novada_extract`, `novada_crawl`, and `novada_research`. Install: `npx -y novada-mcp`. Env: NOVADA_API_KEY.
+- [rog0x/mcp-web-tools](https://github.com/rog0x/mcp-web-tools): Web MCP tools for scraping, search, and monitoring workflows. Install from the `@rog0x` npm package family. MIT.
+- [rog0x/mcp-seo-tools](https://github.com/rog0x/mcp-seo-tools): SEO MCP tools for metadata, keywords, page speed, and search visibility checks. Install from the `@rog0x` npm package family. MIT.
 - [Crawlio-app/crawlio-browser-agent](https://github.com/Crawlio-app/crawlio-browser-agent): AI-powered website crawling MCP server with 38 tools for crawl control, browser enrichment capture, export (WARC/ZIP/single-HTML), observation timeline, and evidence-backed findings. Install: `npx crawlio-mcp`.
 - [Crawlio-app/crawlio-browser-agent](https://github.com/Crawlio-app/crawlio-browser-agent): 100-tool browser automation MCP server for AI agents. Screenshots, DOM inspection, network capture, form filling, framework detection, session recording, and tab orchestration via Chrome extension. Install: `npx crawlio-browser`.
 - [Komos MCP](https://docs.komos.ai/mcp-server): Hosted MCP server for creating, running, and monitoring browser workflow automations with integrations, files, web search, and email tools.

@@ -278,7 +278,7 @@ function badgeMarkdownFor(serverId) {
 }
 
 export function extractField(body, label) {
-  const pattern = new RegExp(`###\\s+${escapeRegex(label)}\\s*\\n+([\\s\\S]*?)(?=\\n###\\s+|$)`, "i");
+  const pattern = new RegExp(`(?:^|\\n)#{2,3}\\s+${escapeRegex(label)}\\s*\\n+([\\s\\S]*?)(?=\\n#{2,3}\\s+|$)`, "i");
   const match = body.match(pattern);
   if (!match) {
     return "";

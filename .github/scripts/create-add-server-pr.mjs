@@ -182,7 +182,7 @@ export function buildMetadataSidecar({ issue, submission }) {
       links: buildLinkMetadata(submission.install),
       install: buildInstallMetadata(submission.install),
       transport: parseTransportMetadata(`${submission.transport}\n${submission.install}`),
-      auth: buildAuthMetadata(submission.auth),
+      auth: buildAuthMetadata(submission.auth || submission.install),
       clients: parseListMetadata(submission.clients),
       license: normalizeMetadataScalar(submission.license),
     }),

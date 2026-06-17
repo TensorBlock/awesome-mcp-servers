@@ -2,6 +2,7 @@
 
 Toolkits, SDKs, starter templates, or code frameworks designed to help developers easily build MCP-compliant servers or applications.
 
+- [actionhero/keryx](https://github.com/actionhero/keryx): Fullstack TypeScript framework for MCP and APIs on Bun. One Action can serve HTTP, WebSocket, CLI, background tasks, and MCP tools with OAuth 2.1 and streaming support. npm package: `keryx`. MIT.
 - [us-all/mcp-toolkit](https://github.com/us-all/mcp-toolkit) - Shared library for MCP server authors with token-efficient defaults: category toggles, extractFields response slimming, search-tools meta-tool, ToolRegistry, and runtime helper supporting stdio + Streamable HTTP transports.
 - [askbudi/roundtable](https://github.com/askbudi/roundtable): Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface, built on FastMCP framework.
 - [johnhenry/hackernews-mcp](https://github.com/johnhenry/hackernews-mcp): A template for creating new MCP servers with features like sandboxed JavaScript execution and debug logging.
