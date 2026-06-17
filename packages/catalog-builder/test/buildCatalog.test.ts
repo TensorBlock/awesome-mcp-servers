@@ -243,6 +243,15 @@ describe("buildCatalogFromMarkdown", () => {
           },
           clients: ["Claude Desktop", "Cursor"],
           license: "MIT",
+          verification: {
+            status: "verified",
+            notes: ["Maintainer relationship verified in #42."],
+          },
+          community: {
+            maintainedBy: ["@owner"],
+            verifiedBy: ["TensorBlock"],
+            claimed: true,
+          },
         },
       ],
     ]));
@@ -260,6 +269,15 @@ describe("buildCatalogFromMarkdown", () => {
     });
     expect(entry?.clients).toEqual(["Claude Desktop", "Cursor"]);
     expect(entry?.license).toBe("MIT");
+    expect(entry?.verification).toEqual({
+      status: "verified",
+      notes: ["Maintainer relationship verified in #42."],
+    });
+    expect(entry?.community).toEqual({
+      maintainedBy: ["@owner"],
+      verifiedBy: ["TensorBlock"],
+      claimed: true,
+    });
   });
 
   it("builds entries that validate against the catalog schema", () => {

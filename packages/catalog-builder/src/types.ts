@@ -67,6 +67,8 @@ export interface CatalogMetadataOverride {
   auth?: Partial<CatalogEntry["auth"]>;
   clients?: string[];
   license?: string;
+  verification?: Partial<CatalogEntry["verification"]>;
+  community?: Partial<CatalogEntry["community"]>;
 }
 
 export interface ParsedMarkdownEntry {

@@ -62,7 +62,33 @@
       "type": "array",
       "items": { "type": "string", "minLength": 1 }
     },
-    "license": { "type": "string", "minLength": 1 }
+    "license": { "type": "string", "minLength": 1 },
+    "verification": {
+      "type": "object",
+      "properties": {
+        "status": { "enum": ["unknown", "self_reported", "partial", "verified", "failing"] },
+        "notes": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        }
+      },
+      "additionalProperties": false
+    },
+    "community": {
+      "type": "object",
+      "properties": {
+        "maintainedBy": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "verifiedBy": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "claimed": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    }
   },
   "additionalProperties": false
 }
