@@ -20,6 +20,8 @@ export interface ServerSummary {
   primaryUrl: string;
   profilePath: string;
   webProfilePath: string;
+  sourcePullRequest: number | null;
+  lastUpdatedAt: string | null;
 }
 
 export interface CategorySummary {
@@ -47,6 +49,8 @@ export const summarizeServer = (entry: CatalogEntry): ServerSummary => ({
   primaryUrl: entry.links.primary,
   profilePath: `/v1/servers/${entry.id}`,
   webProfilePath: webProfileUrl(entry.id),
+  sourcePullRequest: entry.source.pullRequest ?? null,
+  lastUpdatedAt: entry.source.lastUpdatedAt ?? null,
 });
 
 export const listCategories = (catalog: CatalogEntry[]): CategorySummary[] => {
@@ -99,6 +103,22 @@ export const findServer = (
   catalog: CatalogEntry[],
   serverId: string
 ): CatalogEntry | null => catalog.find((entry) => entry.id === serverId) ?? null;
+
+export const listRecentServers = (
+  catalog: CatalogEntry[],
+  rawLimit: number | undefined
+): ServerSummary[] =>
+  sortWithOriginalOrder(catalog, sortByUpdatedAtThenPullRequest)
+    .slice(0, normalizeLimit(rawLimit))
+    .map(summarizeServer);
+
+export const listUpdatedServers = (
+  catalog: CatalogEntry[],
+  rawLimit: number | undefined
+): ServerSummary[] =>
+  sortWithOriginalOrder(catalog, sortByUpdatedAtThenPullRequest)
+    .slice(0, normalizeLimit(rawLimit))
+    .map(summarizeServer);
 
 export const normalizeLimit = (rawLimit: number | undefined): number => {
   if (!rawLimit || Number.isNaN(rawLimit) || rawLimit < 1) {
@@ -170,6 +190,44 @@ const sortScoredEntries = (left: ScoredEntry, right: ScoredEntry): number =>
 
 const sortEntries = (left: CatalogEntry, right: CatalogEntry): number =>
   left.category.localeCompare(right.category) || left.name.localeCompare(right.name);
+
+const sortWithOriginalOrder = (
+  catalog: CatalogEntry[],
+  compare: (left: CatalogEntry, right: CatalogEntry) => number
+): CatalogEntry[] =>
+  catalog
+    .map((entry, index) => ({ entry, index }))
+    .sort((left, right) => compare(left.entry, right.entry) || left.index - right.index)
+    .map(({ entry }) => entry);
+
+const sortByUpdatedAtThenPullRequest = (left: CatalogEntry, right: CatalogEntry): number =>
+  compareNullableNumberDesc(timestampRank(left.source.lastUpdatedAt), timestampRank(right.source.lastUpdatedAt))
+  || compareNullableNumberDesc(left.source.pullRequest ?? null, right.source.pullRequest ?? null);
+
+const compareNullableNumberDesc = (left: number | null, right: number | null): number => {
+  if (left === null && right === null) {
+    return 0;
+  }
+
+  if (left === null) {
+    return 1;
+  }
+
+  if (right === null) {
+    return -1;
+  }
+
+  return right - left;
+};
+
+const timestampRank = (value: string | null | undefined): number | null => {
+  if (!value) {
+    return null;
+  }
+
+  const timestamp = Date.parse(value);
+  return Number.isNaN(timestamp) ? null : timestamp;
+};
 
 const tokenize = (query: string): string[] =>
   normalizeText(query)

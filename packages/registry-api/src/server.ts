@@ -9,6 +9,8 @@ import {
 import {
   findServer,
   listCategories,
+  listRecentServers,
+  listUpdatedServers,
   normalizeLimit,
   searchCatalog,
 } from "./search.js";
@@ -122,6 +124,16 @@ const handleRequest = async (
       return;
     }
 
+    if (segments[1] === "servers" && segments[2] === "recent" && segments.length === 3) {
+      handleServerCollection(url, response, state.catalog, "recent");
+      return;
+    }
+
+    if (segments[1] === "servers" && segments[2] === "updated" && segments.length === 3) {
+      handleServerCollection(url, response, state.catalog, "updated");
+      return;
+    }
+
     if (segments[1] === "servers" && segments.length === 3) {
       const entry = findServer(state.catalog, segments[2]);
 
@@ -160,6 +172,8 @@ const discoveryPayload = (state: RegistryApiState) => ({
     health: "/health",
     categories: "/v1/categories",
     searchServers: "/v1/servers?query=postgres&limit=5",
+    recentServers: "/v1/servers/recent?limit=12",
+    updatedServers: "/v1/servers/updated?limit=12",
     getServer: "/v1/servers/{id}",
     serverProfile: webProfileTemplate(),
     apiHtmlProfile: "/servers/{id}",
@@ -168,6 +182,26 @@ const discoveryPayload = (state: RegistryApiState) => ({
   },
   docs: "https://github.com/TensorBlock/awesome-mcp-servers/blob/main/docs/index-api.md",
 });
+
+const handleServerCollection = (
+  url: URL,
+  response: ServerResponse,
+  catalog: CatalogEntry[],
+  collection: "recent" | "updated"
+): void => {
+  const rawLimit = url.searchParams.get("limit");
+  const limit = normalizeLimit(rawLimit ? Number(rawLimit) : undefined);
+  const servers = collection === "recent"
+    ? listRecentServers(catalog, limit)
+    : listUpdatedServers(catalog, limit);
+
+  sendJson(response, 200, {
+    collection,
+    count: servers.length,
+    limit,
+    servers,
+  });
+};
 
 const handleSearch = (
   url: URL,

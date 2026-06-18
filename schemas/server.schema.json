@@ -44,7 +44,13 @@
           ]
         },
         "featuredInReadme": { "type": "boolean" },
-        "pullRequest": { "type": ["integer", "null"], "minimum": 1 }
+        "pullRequest": { "type": ["integer", "null"], "minimum": 1 },
+        "lastUpdatedAt": {
+          "anyOf": [
+            { "type": "string", "format": "date-time", "minLength": 1 },
+            { "type": "null" }
+          ]
+        }
       },
       "additionalProperties": false
     },

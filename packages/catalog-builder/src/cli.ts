@@ -2,6 +2,7 @@ import { mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { buildCatalogFromMarkdown } from "./buildCatalog.js";
 import { readMetadataSidecars } from "./metadata.js";
+import { readGitLineMetadata } from "./sourceMetadata.js";
 
 const readme = readFileSync("README.md", "utf8");
 const docsByPath = new Map<string, string>();
@@ -13,7 +14,16 @@ for (const file of readdirSync("docs")) {
   }
 }
 
-const result = buildCatalogFromMarkdown(readme, docsByPath, readMetadataSidecars());
+const sourceMetadataByLocation = readGitLineMetadata([
+  "README.md",
+  ...Array.from(docsByPath.keys()),
+]);
+const result = buildCatalogFromMarkdown(
+  readme,
+  docsByPath,
+  readMetadataSidecars(),
+  sourceMetadataByLocation,
+);
 
 mkdirSync("data", { recursive: true });
 writeFileSync("data/catalog.json", `${JSON.stringify(result.entries, null, 2)}\n`);

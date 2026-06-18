@@ -1,4 +1,10 @@
-import type { CatalogBuildError, CatalogEntry, CatalogMetadataOverride, ParsedMarkdownEntry } from "./types.js";
+import type {
+  CatalogBuildError,
+  CatalogEntry,
+  CatalogMetadataOverride,
+  CatalogSourceMetadata,
+  ParsedMarkdownEntry,
+} from "./types.js";
 import { CATEGORY_TO_DOCS_PATH } from "./category-map.js";
 import { parseMarkdownEntries, slugFromUrl } from "./parseMarkdown.js";
 
@@ -22,6 +28,7 @@ export function buildCatalogFromMarkdown(
   readmeMarkdown: string,
   docsByPath: Map<string, string>,
   metadataById: Map<string, CatalogMetadataOverride> = new Map(),
+  sourceMetadataByLocation: Map<string, CatalogSourceMetadata> = new Map(),
 ): CatalogBuildResult {
   const readmeEntries = parseMarkdownEntries(readmeMarkdown, "README.md");
   const docsEntries = parseDocsEntries(docsByPath);
@@ -51,6 +58,7 @@ export function buildCatalogFromMarkdown(
       docsEntry.entry.sourcePath,
       readmeEntriesByUrl.has(docsEntry.normalizedUrl),
       metadataById.get(id),
+      sourceMetadataByLocation.get(locationKey(docsEntry.entry)),
     ));
   }
 
@@ -74,7 +82,14 @@ export function buildCatalogFromMarkdown(
 
     const normalizedEntry = { entry: readmeEntry, normalizedUrl };
     seenUrls.set(normalizedUrl, normalizedEntry);
-    entries.push(toCatalogEntry(readmeEntry, id, null, true, metadataById.get(id)));
+    entries.push(toCatalogEntry(
+      readmeEntry,
+      id,
+      null,
+      true,
+      metadataById.get(id),
+      sourceMetadataByLocation.get(locationKey(readmeEntry)),
+    ));
   }
 
   return { entries, errors };
@@ -157,6 +172,7 @@ function toCatalogEntry(
   docsPath: string | null,
   featuredInReadme: boolean,
   metadata: CatalogMetadataOverride | undefined,
+  sourceMetadata: CatalogSourceMetadata | undefined,
 ): CatalogEntry {
   const repo = isGithubUrl(entry.url) ? entry.url : null;
   const installCommands = extractInstallCommands(entry.description);
@@ -171,6 +187,8 @@ function toCatalogEntry(
       readmePath: featuredInReadme ? "README.md" : null,
       docsPath,
       featuredInReadme,
+      ...(sourceMetadata?.pullRequest ? { pullRequest: sourceMetadata.pullRequest } : {}),
+      ...(sourceMetadata?.lastUpdatedAt ? { lastUpdatedAt: sourceMetadata.lastUpdatedAt } : {}),
     },
     links: {
       primary: entry.url,
@@ -211,6 +229,10 @@ function toCatalogEntry(
   };
 
   return applyMetadataOverride(catalogEntry, metadata);
+}
+
+function locationKey(entry: ParsedMarkdownEntry): string {
+  return `${entry.sourcePath}:${entry.line}`;
 }
 
 function applyMetadataOverride(

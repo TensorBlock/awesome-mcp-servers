@@ -57,6 +57,24 @@ const catalog: CatalogEntry[] = [
   },
 ];
 
+type CatalogEntryOverrides = Partial<Omit<CatalogEntry, "source" | "links">> & {
+  source?: Partial<CatalogEntry["source"]>;
+  links?: Partial<CatalogEntry["links"]>;
+};
+
+const catalogEntry = (overrides: CatalogEntryOverrides): CatalogEntry => ({
+  ...catalog[0],
+  ...overrides,
+  source: {
+    ...catalog[0].source,
+    ...overrides.source,
+  },
+  links: {
+    ...catalog[0].links,
+    ...overrides.links,
+  },
+});
+
 const servers: Array<ReturnType<typeof createRegistryApiServer>> = [];
 
 afterEach(async () => {
@@ -87,6 +105,8 @@ describe("registry API server", () => {
     expect(body.name).toBe("TensorBlock MCP Index API");
     expect(body.catalogEntries).toBe(1);
     expect(body.endpoints.searchServers).toBe("/v1/servers?query=postgres&limit=5");
+    expect(body.endpoints.recentServers).toBe("/v1/servers/recent?limit=12");
+    expect(body.endpoints.updatedServers).toBe("/v1/servers/updated?limit=12");
     expect(body.endpoints.serverProfile).toBe("https://tensorblock.co/mcp/servers/{id}");
     expect(body.endpoints.apiHtmlProfile).toBe("/servers/{id}");
     expect(body.endpoints.badge).toBe("/v1/servers/{id}/badge.svg");
@@ -129,6 +149,84 @@ describe("registry API server", () => {
     expect(body).toContain("Postgres MCP is indexed on TensorBlock MCP Index");
   });
 
+  it("returns recently added server summaries", async () => {
+    const baseUrl = await startServer([
+      catalogEntry({
+        id: "older-pr",
+        name: "Older PR",
+        source: {
+          pullRequest: 10,
+          lastUpdatedAt: "2026-06-18T10:00:00.000Z",
+        },
+      }),
+      catalogEntry({
+        id: "newer-pr",
+        name: "Newer PR",
+        source: {
+          pullRequest: 42,
+          lastUpdatedAt: "2026-06-01T10:00:00.000Z",
+        },
+      }),
+      catalogEntry({
+        id: "timestamp-only",
+        name: "Timestamp Only",
+        source: {
+          lastUpdatedAt: "2026-06-20T10:00:00.000Z",
+        },
+      }),
+    ]);
+    const response = await fetch(`${baseUrl}/v1/servers/recent?limit=2`);
+    const body = await response.json() as {
+      count: number;
+      limit: number;
+      servers: Array<{ id: string; sourcePullRequest: number | null; lastUpdatedAt: string | null }>;
+    };
+
+    expect(response.status).toBe(200);
+    expect(body.count).toBe(2);
+    expect(body.limit).toBe(2);
+    expect(body.servers.map((server) => server.id)).toEqual(["timestamp-only", "older-pr"]);
+    expect(body.servers[0]).toMatchObject({
+      sourcePullRequest: null,
+      lastUpdatedAt: "2026-06-20T10:00:00.000Z",
+    });
+  });
+
+  it("returns recently updated server summaries", async () => {
+    const baseUrl = await startServer([
+      catalogEntry({
+        id: "older",
+        name: "Older",
+        source: {
+          lastUpdatedAt: "2026-06-01T10:00:00.000Z",
+        },
+      }),
+      catalogEntry({
+        id: "newer",
+        name: "Newer",
+        source: {
+          lastUpdatedAt: "2026-06-20T10:00:00.000Z",
+        },
+      }),
+    ]);
+    const response = await fetch(`${baseUrl}/v1/servers/updated?limit=1`);
+    const body = await response.json() as {
+      count: number;
+      limit: number;
+      servers: Array<{ id: string; lastUpdatedAt: string | null }>;
+    };
+
+    expect(response.status).toBe(200);
+    expect(body.count).toBe(1);
+    expect(body.limit).toBe(1);
+    expect(body.servers).toEqual([
+      expect.objectContaining({
+        id: "newer",
+        lastUpdatedAt: "2026-06-20T10:00:00.000Z",
+      }),
+    ]);
+  });
+
   it("returns JSON errors for missing profile pages", async () => {
     const baseUrl = await startServer();
     const response = await fetch(`${baseUrl}/servers/missing`);
@@ -140,9 +238,9 @@ describe("registry API server", () => {
   });
 });
 
-const startServer = async (): Promise<string> => {
+const startServer = async (entries = catalog): Promise<string> => {
   const server = createRegistryApiServer({
-    catalog,
+    catalog: entries,
     loadedAt: "2026-06-06T00:00:00.000Z",
   });
   servers.push(server);
