@@ -1,4 +1,4 @@
-import type { CatalogBuildError, CatalogEntry, ParsedMarkdownEntry } from "./types.js";
+import type { CatalogBuildError, CatalogEntry, CatalogMetadataOverride, ParsedMarkdownEntry } from "./types.js";
 import { CATEGORY_TO_DOCS_PATH } from "./category-map.js";
 import { parseMarkdownEntries, slugFromUrl } from "./parseMarkdown.js";
 
@@ -21,6 +21,7 @@ interface ParsedDocsEntries {
 export function buildCatalogFromMarkdown(
   readmeMarkdown: string,
   docsByPath: Map<string, string>,
+  metadataById: Map<string, CatalogMetadataOverride> = new Map(),
 ): CatalogBuildResult {
   const readmeEntries = parseMarkdownEntries(readmeMarkdown, "README.md");
   const docsEntries = parseDocsEntries(docsByPath);
@@ -48,7 +49,8 @@ export function buildCatalogFromMarkdown(
       docsEntry.entry,
       id,
       docsEntry.entry.sourcePath,
-      readmeEntriesByUrl.has(docsEntry.normalizedUrl)
+      readmeEntriesByUrl.has(docsEntry.normalizedUrl),
+      metadataById.get(id),
     ));
   }
 
@@ -72,7 +74,7 @@ export function buildCatalogFromMarkdown(
 
     const normalizedEntry = { entry: readmeEntry, normalizedUrl };
     seenUrls.set(normalizedUrl, normalizedEntry);
-    entries.push(toCatalogEntry(readmeEntry, id, null, true));
+    entries.push(toCatalogEntry(readmeEntry, id, null, true, metadataById.get(id)));
   }
 
   return { entries, errors };
@@ -154,12 +156,13 @@ function toCatalogEntry(
   id: string,
   docsPath: string | null,
   featuredInReadme: boolean,
+  metadata: CatalogMetadataOverride | undefined,
 ): CatalogEntry {
   const repo = isGithubUrl(entry.url) ? entry.url : null;
   const installCommands = extractInstallCommands(entry.description);
   const toolCount = extractToolCount(entry.description);
 
-  return {
+  const catalogEntry: CatalogEntry = {
     id,
     name: entry.name,
     description: entry.description,
@@ -206,6 +209,71 @@ function toCatalogEntry(
       claimed: false,
     },
   };
+
+  return applyMetadataOverride(catalogEntry, metadata);
+}
+
+function applyMetadataOverride(
+  entry: CatalogEntry,
+  metadata: CatalogMetadataOverride | undefined,
+): CatalogEntry {
+  if (!metadata) {
+    return entry;
+  }
+
+  return {
+    ...entry,
+    description: nonEmptyString(metadata.description) ?? entry.description,
+    category: nonEmptyString(metadata.category) ?? entry.category,
+    links: {
+      ...entry.links,
+      ...(metadata.links?.docs ? { docs: metadata.links.docs } : {}),
+      ...(metadata.links?.endpoint ? { endpoint: metadata.links.endpoint } : {}),
+    },
+    install: {
+      commands: nonEmptyArray(metadata.install?.commands) ?? entry.install.commands,
+      env: nonEmptyArray(metadata.install?.env) ?? entry.install.env,
+      confidence: metadata.install?.confidence ?? entry.install.confidence,
+    },
+    transport: nonEmptyArray(metadata.transport) ?? entry.transport,
+    auth: metadata.auth
+      ? {
+          type: metadata.auth.type ?? entry.auth.type,
+          notes: metadata.auth.notes ?? entry.auth.notes,
+        }
+      : entry.auth,
+    clients: nonEmptyArray(metadata.clients) ?? entry.clients,
+    tools: metadata.tools
+      ? {
+          count: metadata.tools.count ?? entry.tools.count,
+          names: nonEmptyArray(metadata.tools.names) ?? entry.tools.names,
+          source: metadata.tools.source ?? entry.tools.source,
+        }
+      : entry.tools,
+    license: nonEmptyString(metadata.license) ?? entry.license,
+    verification: metadata.verification
+      ? {
+          status: metadata.verification.status ?? entry.verification.status,
+          notes: nonEmptyArray(metadata.verification.notes) ?? entry.verification.notes,
+        }
+      : entry.verification,
+    community: metadata.community
+      ? {
+          maintainedBy: nonEmptyArray(metadata.community.maintainedBy) ?? entry.community.maintainedBy,
+          verifiedBy: nonEmptyArray(metadata.community.verifiedBy) ?? entry.community.verifiedBy,
+          claimed: metadata.community.claimed ?? entry.community.claimed,
+        }
+      : entry.community,
+  };
+}
+
+function nonEmptyArray<T extends string>(value: T[] | undefined): T[] | null {
+  return value && value.length > 0 ? Array.from(new Set(value)) : null;
+}
+
+function nonEmptyString(value: string | undefined): string | null {
+  const trimmed = value?.trim();
+  return trimmed ? trimmed : null;
 }
 
 function normalizeUrl(url: string): string {

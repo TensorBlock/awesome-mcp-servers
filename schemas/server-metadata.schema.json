@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "type": "object",
+  "required": ["id", "source"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "source": {
+      "type": "object",
+      "required": ["projectUrl"],
+      "properties": {
+        "issue": { "type": "integer", "minimum": 1 },
+        "projectUrl": { "type": "string", "format": "uri", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "description": { "type": "string", "minLength": 1 },
+    "category": { "type": "string", "minLength": 1 },
+    "links": {
+      "type": "object",
+      "properties": {
+        "docs": { "type": "string", "format": "uri", "minLength": 1 },
+        "endpoint": { "type": "string", "format": "uri", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "install": {
+      "type": "object",
+      "properties": {
+        "commands": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "env": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "confidence": { "enum": ["high", "medium", "low"] }
+      },
+      "additionalProperties": false
+    },
+    "transport": {
+      "type": "array",
+      "items": { "enum": ["stdio", "streamable-http", "sse", "unknown"] },
+      "minItems": 1
+    },
+    "auth": {
+      "type": "object",
+      "required": ["type", "notes"],
+      "properties": {
+        "type": { "enum": ["none", "api-key", "oauth", "bearer", "unknown"] },
+        "notes": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        }
+      },
+      "additionalProperties": false
+    },
+    "clients": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "tools": {
+      "type": "object",
+      "properties": {
+        "count": { "type": "integer", "minimum": 0 },
+        "names": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "source": { "enum": ["self_reported", "verified", "unknown"] }
+      },
+      "additionalProperties": false
+    },
+    "license": { "type": "string", "minLength": 1 },
+    "verification": {
+      "type": "object",
+      "properties": {
+        "status": { "enum": ["unknown", "self_reported", "partial", "verified", "failing"] },
+        "notes": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        }
+      },
+      "additionalProperties": false
+    },
+    "community": {
+      "type": "object",
+      "properties": {
+        "maintainedBy": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "verifiedBy": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "claimed": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

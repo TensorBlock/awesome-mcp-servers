@@ -1,0 +1,71 @@
+name: MCP Catalog Health Check
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+    inputs:
+      max_github_repos:
+        description: "Maximum unique GitHub repositories to probe in this run"
+        required: false
+        default: "250"
+      max_issues:
+        description: "Maximum new catalog-health issues to create"
+        required: false
+        default: "5"
+      offset:
+        description: "Optional GitHub repository scan offset"
+        required: false
+        default: ""
+      dry_run:
+        description: "Print findings without creating issues"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: mcp-catalog-health-check
+  cancel-in-progress: false
+
+jobs:
+  health-check:
+    name: Check catalog health
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.MCP_AUTOMATION_TOKEN }}
+      HEALTH_CHECK_MAX_GITHUB_REPOS: ${{ github.event.inputs.max_github_repos || '250' }}
+      HEALTH_CHECK_MAX_ISSUES: ${{ github.event.inputs.max_issues || '5' }}
+      HEALTH_CHECK_OFFSET: ${{ github.event.inputs.offset || '' }}
+      HEALTH_CHECK_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
+
+    steps:
+      - name: Check automation token
+        if: env.GITHUB_TOKEN == '' && env.HEALTH_CHECK_DRY_RUN != '1'
+        run: |
+          echo "MCP_AUTOMATION_TOKEN is required so generated issues can trigger downstream triage and report PR workflows."
+          exit 1
+
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate catalog
+        run: npm run catalog:build
+
+      - name: Run catalog health check
+        run: npm run catalog:health

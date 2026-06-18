@@ -1,0 +1,39 @@
+name: MCP Broken Entry Report Draft PR
+
+on:
+  issues:
+    types:
+      - opened
+      - edited
+      - reopened
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: mcp-broken-entry-report-pr-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  draft-pr:
+    name: Draft broken-entry report PR
+    if: contains(github.event.issue.labels.*.name, 'broken-entry') || startsWith(github.event.issue.title, 'Report broken MCP entry:')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Create or update draft broken-entry report PR
+        run: node .github/scripts/create-broken-entry-report-pr.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.MCP_AUTOMATION_TOKEN || github.token }}

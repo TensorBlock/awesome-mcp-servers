@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-csoai-org-meok-setup-364bfb72",
+  "source": {
+    "projectUrl": "https://github.com/CSOAI-ORG/meok-setup"
+  },
+  "install": {
+    "commands": [
+      "npx meok-setup --pack governance",
+      "pip install meok_setup"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Installer covers free and paid MEOK compliance packs"
+    ]
+  },
+  "license": "MIT"
+}

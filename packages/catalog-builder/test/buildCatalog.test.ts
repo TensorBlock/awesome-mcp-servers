@@ -4,6 +4,7 @@ import { describe, expect, it } from "vitest";
 import type { FormatsPlugin } from "ajv-formats";
 import { Ajv2020 as Ajv } from "ajv/dist/2020.js";
 import { buildCatalogFromMarkdown } from "../src/buildCatalog.js";
+import { slugFromUrl } from "../src/parseMarkdown.js";
 
 const require = createRequire(import.meta.url);
 const addFormats = require("ajv-formats") as FormatsPlugin;
@@ -216,6 +217,85 @@ describe("buildCatalogFromMarkdown", () => {
       source: "self_reported",
     });
     expect(entry?.license).toBe("MIT");
+  });
+
+  it("applies sidecar metadata over markdown inference", () => {
+    const projectUrl = "https://github.com/owner/plain-mcp";
+    const id = slugFromUrl(projectUrl);
+    const readme = [
+      "## Experimental",
+      `- [Plain MCP](${projectUrl}): Plain server entry without install metadata.`,
+    ].join("\n");
+
+    const result = buildCatalogFromMarkdown(readme, new Map(), new Map([
+      [
+        id,
+        {
+          description: "Structured sidecar description.",
+          category: "Monitoring & Observability",
+          links: {
+            docs: "https://docs.example.com/plain-mcp",
+          },
+          install: {
+            commands: ["npx -y plain-mcp"],
+            env: ["PLAIN_API_KEY"],
+            confidence: "medium",
+          },
+          transport: ["stdio"],
+          auth: {
+            type: "api-key",
+            notes: ["Submitted through the add-server issue form."],
+          },
+          clients: ["Claude Desktop", "Cursor"],
+          tools: {
+            count: 2,
+            names: ["inspect_project", "summarize_incidents"],
+            source: "self_reported",
+          },
+          license: "MIT",
+          verification: {
+            status: "verified",
+            notes: ["Maintainer relationship verified in #42."],
+          },
+          community: {
+            maintainedBy: ["@owner"],
+            verifiedBy: ["TensorBlock"],
+            claimed: true,
+          },
+        },
+      ],
+    ]));
+    const entry = result.entries[0];
+
+    expect(entry?.description).toBe("Structured sidecar description.");
+    expect(entry?.category).toBe("Monitoring & Observability");
+    expect(entry?.links.docs).toBe("https://docs.example.com/plain-mcp");
+    expect(entry?.install).toEqual({
+      commands: ["npx -y plain-mcp"],
+      env: ["PLAIN_API_KEY"],
+      confidence: "medium",
+    });
+    expect(entry?.transport).toEqual(["stdio"]);
+    expect(entry?.auth).toEqual({
+      type: "api-key",
+      notes: ["Submitted through the add-server issue form."],
+    });
+    expect(entry?.clients).toEqual(["Claude Desktop", "Cursor"]);
+    expect(entry?.tools).toEqual({
+      count: 2,
+      names: ["inspect_project", "summarize_incidents"],
+      source: "self_reported",
+    });
+    expect(entry?.license).toBe("MIT");
+    expect(entry?.verification).toEqual({
+      status: "verified",
+      notes: ["Maintainer relationship verified in #42."],
+    });
+    expect(entry?.community).toEqual({
+      maintainedBy: ["@owner"],
+      verifiedBy: ["TensorBlock"],
+      claimed: true,
+    });
   });
 
   it("builds entries that validate against the catalog schema", () => {

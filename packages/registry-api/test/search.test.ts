@@ -136,9 +136,11 @@ const catalog: CatalogEntry[] = [
 
 describe("searchCatalog", () => {
   it("ranks matching entries and returns summaries", () => {
-    expect(searchCatalog(catalog, { query: "postgres", limit: 10 })).toEqual([
-      summarizeServer(catalog[0]),
-    ]);
+    const results = searchCatalog(catalog, { query: "postgres", limit: 10 });
+
+    expect(results).toEqual([summarizeServer(catalog[0])]);
+    expect(results[0].profilePath).toBe("/v1/servers/postgres-mcp");
+    expect(results[0].webProfilePath).toBe("https://tensorblock.co/mcp/servers/postgres-mcp");
   });
 
   it("filters by category, transport, and auth", () => {

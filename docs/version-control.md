@@ -2,6 +2,8 @@
 
 Servers interacting with version control systems and platforms for repository management, issues, pull requests, etc.
 
+- [rog0x/mcp-git-tools](https://github.com/rog0x/mcp-git-tools): Git MCP tools for repository logs, diffs, blame, branch statistics, and local version-control workflows. Install from the `@rog0x` npm package family. MIT.
+- [rog0x/mcp-github-tools](https://github.com/rog0x/mcp-github-tools): GitHub MCP tools for repository analytics, pull requests, issues, and project activity workflows. Install from the `@rog0x` npm package family. MIT.
 - [alvnavraii/MCPGithub](https://github.com/alvnavraii/MCPGithub): Facilitates efficient and secure GitHub repository management through MCP integration, offering comprehensive tools for repository, branch, and pull request operations.
 - [SLineroDev/github-releases-mcp](https://github.com/SLineroDev/github-releases-mcp): Manage and analyze GitHub repository releases with detailed comparisons and rich formatting.
 - [Ryan0204/github-repo-mcp](https://github.com/Ryan0204/github-repo-mcp): Facilitates AI assistants in browsing, exploring, and viewing contents of GitHub repositories.
@@ -78,4 +80,3 @@ Servers interacting with version control systems and platforms for repository ma
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest): Facilitates the exploration and reading of GitHub repository structures and key files through a Model Context Protocol server.
 - [kazuph/mcp-github-pera1](https://github.com/kazuph/mcp-github-pera1): Connects GitHub code to Claude.ai using Pera1 for enhanced context extraction.
 - [loglmhq/mcp-server-github-repo](https://github.com/loglmhq/mcp-server-github-repo): Facilitates AI assistants in browsing and reading files from GitHub repositories through an MCP server interface.
-

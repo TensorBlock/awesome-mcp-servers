@@ -2,6 +2,8 @@
 
 Servers connecting to monitoring systems, logging platforms, or providing system/application performance metrics.
 
+- [Tethral-Inc/AgentRegistry](https://github.com/Tethral-Inc/AgentRegistry): Agent Composition Records MCP server for logging AI-agent interactions and querying behavioral profiles through friction, coverage, stable-corridor, failure-registry, and trend lenses. 21 tools. Install: `npx -y @tethral/acr-mcp`.
+- [kame6493-del/mcp-diagnostics](https://github.com/kame6493-del/mcp-diagnostics): Website diagnostics MCP server for DNS, SSL, HTTP headers, security audit grading, WHOIS, and technology-stack checks. Install: `npx mcp-diagnostics`. No API keys required.
 - [us-all/datadog-mcp-server](https://github.com/us-all/datadog-mcp-server) - Datadog observability MCP server with 165 tools across metrics, monitors, logs, APM, RUM, incidents, status pages, and fleet automation. 4 workflow Prompts and `incident-triage-snapshot` aggregation tool.
 - [vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp): Instant website audits MCP with 11 tools — full SEO (20+ checks), security headers + SSL, Lighthouse performance via Google PageSpeed, multi-site competitive comparison, broken link crawler, WCAG accessibility audit, Schema.org structured data validation, competitor gap analysis, robots.txt parser. No API keys. FastMCP 3.2, MIT.
 - [aliyun/alibabacloud-observability-mcp-server](https://github.com/aliyun/alibabacloud-observability-mcp-server): Facilitates seamless integration with Alibaba Cloud's observability products, offering tools for efficient log and application monitoring.
@@ -88,3 +90,5 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 
 - [unitedideas/resolve-mcp](https://github.com/unitedideas/resolve-mcp): Structured error recovery for AI agents. Returns resolution playbooks with backoff schedules, retry strategies, and recovery steps for 20+ services including OpenAI, Anthropic, Stripe, AWS, and Postgres.
 - [smigolsmigol/llmkit](https://github.com/smigolsmigol/llmkit): AI cost tracking and budget enforcement MCP server with 11 tools for monitoring spend, session costs, and token usage across Claude Code, Cursor, and Cline.
+- [friendlygeorge/system-monitoring-mcp-server](https://github.com/friendlygeorge/system-monitoring-mcp-server): Linux host monitoring MCP server with 19 tools for CPU, memory, disk, network, processes, systemd services, and system logs. Agent-native structured JSON from /proc, /sys, journald. Install: `npx @supernova123/system-monitoring-mcp-server`. MIT. No API keys required.
+- [iPythoning/domain-monitor-mcp-server](https://github.com/iPythoning/domain-monitor-mcp-server) - Domain WHOIS and SSL certificate monitoring via RDAP and crt.sh — single or batch domain checks with severity classification. Zero API keys, stdio transport (Claude Code/Desktop, Cursor, Windsurf). Install: `npx domain-monitor-mcp-server`.

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mukul-dutt-mentionsapi-mcp-4763ceff",
+  "source": {
+    "issue": 732,
+    "projectUrl": "https://github.com/mukul-dutt/mentionsapi-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.mentionsapi.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "MENTIONSAPI_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "ChatGPT"
+  ],
+  "license": "MIT"
+}

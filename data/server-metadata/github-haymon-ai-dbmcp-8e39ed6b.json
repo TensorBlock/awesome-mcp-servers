@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-haymon-ai-dbmcp-8e39ed6b",
+  "source": {
+    "issue": 707,
+    "projectUrl": "https://github.com/haymon-ai/dbmcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "DB_PASSWORD"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Claude Code",
+    "clients that support stdio or HTTP MCP servers"
+  ],
+  "license": "MIT"
+}

@@ -20,6 +20,7 @@ Servers providing data or services related to flights, trains, transportation AP
 - [donghyun-chae/mcp-amadeus](https://github.com/donghyun-chae/mcp-amadeus): Integrates with the Amadeus Flight Offers Search API to enable natural language flight searches through MCP-compatible clients.
 - [opspawn/Google-Flights-MCP-Server](https://github.com/opspawn/Google-Flights-MCP-Server): Interact with Google Flights data using the fast_flights library to fetch and analyze flight information.
 - [hrishabhn/flight-mcp](https://github.com/hrishabhn/flight-mcp): Facilitates flight queries and bookings using the RapidAPI Skyscanner API through the Model Context Protocol.
+- [Ignav Flights](https://ignav.com/mcp): Streamable HTTP transport, endpoint [https://ignav.com/mcp](https://ignav.com/mcp), docs [https://ignav.com/docs/mcp](https://ignav.com/docs/mcp), auth anonymous testing plus optional API key.
 - [birariro/agoda-review-mcp](https://github.com/birariro/agoda-review-mcp): Facilitates LLMs in retrieving and aggregating Agoda hotel reviews for enhanced decision-making.
 - [arjunkmrm/sg-lta-mcp](https://github.com/arjunkmrm/sg-lta-mcp): Access real-time transportation data from Singapore's Land Transport Authority via an MCP server.
 - [Cyreslab-AI/flightradar24-mcp-server](https://github.com/Cyreslab-AI/flightradar24-mcp-server): Provides real-time flight tracking data from Flightradar24 via a Model Context Protocol server.

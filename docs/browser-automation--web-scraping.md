@@ -1,6 +1,9 @@
 ## 🌐 Browser Automation & Web Scraping
 
 Servers using tools for browser control, automation, and extracting content from websites.
+- [Goldentrii/novada-mcp](https://github.com/Goldentrii/novada-mcp): Web data MCP server for search, extraction, crawling, and research using Novada proxy infrastructure. Tools include `novada_search`, `novada_extract`, `novada_crawl`, and `novada_research`. Install: `npx -y novada-mcp`. Env: NOVADA_API_KEY.
+- [rog0x/mcp-web-tools](https://github.com/rog0x/mcp-web-tools): Web MCP tools for scraping, search, and monitoring workflows. Install from the `@rog0x` npm package family. MIT.
+- [rog0x/mcp-seo-tools](https://github.com/rog0x/mcp-seo-tools): SEO MCP tools for metadata, keywords, page speed, and search visibility checks. Install from the `@rog0x` npm package family. MIT.
 - [Crawlio-app/crawlio-browser-agent](https://github.com/Crawlio-app/crawlio-browser-agent): AI-powered website crawling MCP server with 38 tools for crawl control, browser enrichment capture, export (WARC/ZIP/single-HTML), observation timeline, and evidence-backed findings. Install: `npx crawlio-mcp`.
 - [Crawlio-app/crawlio-browser-agent](https://github.com/Crawlio-app/crawlio-browser-agent): 100-tool browser automation MCP server for AI agents. Screenshots, DOM inspection, network capture, form filling, framework detection, session recording, and tab orchestration via Chrome extension. Install: `npx crawlio-browser`.
 - [Komos MCP](https://docs.komos.ai/mcp-server): Hosted MCP server for creating, running, and monitoring browser workflow automations with integrations, files, web search, and email tools.
@@ -47,6 +50,7 @@ Servers using tools for browser control, automation, and extracting content from
 - [crying-pizza/mcp-naver-tennis-reservation](https://github.com/crying-pizza/mcp-naver-tennis-reservation): Facilitates automated checking of available time slots at Yangjae Tennis Court via Naver Reservation using Claude integration.
 - [AppiumTestDistribution/mcp-webdriveragent](https://github.com/AppiumTestDistribution/mcp-webdriveragent): Facilitates the building and signing of WebDriverAgent for iOS, streamlining its preparation for Appium integration.
 - [hao-cyber/phone-mcp-by-trae](https://github.com/hao-cyber/phone-mcp-by-trae): Control Android phones via ADB commands using a Trae-based MCP plugin.
+- [hoainho/podium-mcp](https://github.com/hoainho/podium-mcp): Unified mobile E2E testing MCP server wrapping Maestro. Execute Maestro flows on iOS/Android simulators and devices, manage test suites, and integrate with CI/CD pipelines. [![hoainho/podium-mcp MCP server](https://glama.ai/mcp/servers/hoainho/podium-mcp/badges/score.svg)](https://glama.ai/mcp/servers/hoainho/podium-mcp)
 - [chenningling/Redbook-Search-Comment-MCP2.0](https://github.com/chenningling/Redbook-Search-Comment-MCP2.0): A Playwright-based tool for automating Xiaohongshu searches and AI-generated comments, seamlessly integrating with MCP Clients like Claude for Desktop.
 - [ratiofu/mcp-puppeteer](https://github.com/ratiofu/mcp-puppeteer): Facilitates Chrome control through Puppeteer using an MCP server setup.
 - [DannyAtVodooTH/ai_browse](https://github.com/DannyAtVodooTH/ai_browse): Empower Claude Desktop with web browsing and interaction capabilities through a lightweight MCP server.
@@ -281,3 +285,4 @@ Servers using tools for browser control, automation, and extracting content from
 - [searchapi/searchapi-mcp](https://github.com/searchapi/searchapi-mcp) - Real-time SERP and web data for AI assistants: 100+ tools across Google, Bing, Amazon, YouTube, Maps, travel, and social from one remote MCP server.
 - [skuzadev/wpfpilot-mcp](https://github.com/skuzadev/wpfpilot-mcp): Automates Windows WPF desktop apps for AI agents using semantic UI Automation selectors, query/act/wait/assert tools, screenshots, workflow recording, and xUnit + FlaUI test generation. Works with Codex, Claude, Cursor, VS Code, and other MCP clients via `npx -y @skuzadev/wpfpilot-mcp`.
 - [babelwrap/babelwrap-mcp](https://github.com/babelwrap/babelwrap-mcp): HTTP API and MCP server that lets AI agents interact with websites through natural language instead of CSS selectors. Navigate, click, fill forms, and extract data via plain English descriptions.
+- [massanaRoger/extracto-mcp](https://github.com/massanaRoger/extracto-mcp): Turns any URL plus a JSON schema into validated, typed JSON via the Extracto API. No CSS selectors; missing fields return null instead of guesses. Install: `npx -y extracto-mcp`.

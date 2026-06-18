@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sapph1re-mcp-billing-gateway-sdk-3ec0b667",
+  "source": {
+    "issue": 719,
+    "projectUrl": "https://github.com/sapph1re/mcp-billing-gateway-sdk"
+  },
+  "links": {
+    "endpoint": "https://mcp-billing-gateway-production.up.railway.app/mcp/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other"
+  ],
+  "license": "MIT"
+}

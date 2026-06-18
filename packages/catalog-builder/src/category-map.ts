@@ -25,6 +25,7 @@ export const CATEGORY_TO_DOCS_PATH: Record<string, string> = {
   "Multimedia Processing": "docs/multimedia-processing.md",
   "Operating System & Command Line": "docs/operating-system--command-line.md",
   "Project & Task Management": "docs/project--task-management.md",
+  "Real Estate & Home Services": "docs/real-estate--home-services.md",
   "Science & Research": "docs/science--research.md",
   Search: "docs/search.md",
   Security: "docs/security.md",
