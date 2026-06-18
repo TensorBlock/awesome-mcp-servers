@@ -2,6 +2,7 @@
 
 Servers connecting to monitoring systems, logging platforms, or providing system/application performance metrics.
 
+- [triadgit/humanhours-mcp](https://github.com/triadgit/humanhours-mcp): Track agent ROI and enrich companies via MCP: hours and money saved, ROI reports, and per-hour wage data. Remote `streamable-http` at `https://mcp.humanhours.dev/mcp`, OAuth 2.1, no install, no API keys. Registry id `dev.humanhours/humanhours`. Docs: https://humanhours.dev/docs/mcp.
 - [Tethral-Inc/AgentRegistry](https://github.com/Tethral-Inc/AgentRegistry): Agent Composition Records MCP server for logging AI-agent interactions and querying behavioral profiles through friction, coverage, stable-corridor, failure-registry, and trend lenses. 21 tools. Install: `npx -y @tethral/acr-mcp`.
 - [kame6493-del/mcp-diagnostics](https://github.com/kame6493-del/mcp-diagnostics): Website diagnostics MCP server for DNS, SSL, HTTP headers, security audit grading, WHOIS, and technology-stack checks. Install: `npx mcp-diagnostics`. No API keys required.
 - [us-all/datadog-mcp-server](https://github.com/us-all/datadog-mcp-server) - Datadog observability MCP server with 165 tools across metrics, monitors, logs, APM, RUM, incidents, status pages, and fleet automation. 4 workflow Prompts and `incident-triage-snapshot` aggregation tool.
