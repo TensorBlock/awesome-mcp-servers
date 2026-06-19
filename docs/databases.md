@@ -302,3 +302,4 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 
 - [stucchi/db-mcp-server](https://github.com/stucchi/db-mcp-server): Database MCP server for MySQL, PostgreSQL, and MongoDB with SSH tunneling support. Run queries, explore schemas, and manage data across multiple database types.
 - [haymon-ai/dbmcp](https://github.com/haymon-ai/dbmcp): Connect AI assistants to MySQL, MariaDB, PostgreSQL, and SQLite databases through an MCP server with schema discovery, query execution, read-only mode, and optional PII redaction.
+- [CorpusIQ](https://github.com/Ben-Home/cross-source-roas): This MCP server lets agents query unified business data across Shopify, marketing platforms, analytics, and ecommerce sources through a single MCP interface. 65+ tools for ROAS analysis, customer segmentation, campaign attribution, and cross-channel reporting.

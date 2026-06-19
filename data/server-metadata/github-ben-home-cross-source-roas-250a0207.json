@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ben-home-cross-source-roas-250a0207",
+  "source": {
+    "issue": 789,
+    "projectUrl": "https://github.com/Ben-Home/cross-source-roas"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "Goose",
+    "Cline"
+  ],
+  "license": "Proprietary (free tier available)"
+}
