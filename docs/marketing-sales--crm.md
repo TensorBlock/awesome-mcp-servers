@@ -2,6 +2,7 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [jabbawocky/proposalcraft](https://github.com/jabbawocky/proposalcraft): MCP server for freelancers and consultants that drafts client proposals in your voice from past winning work. Paste a client brief to get a ready-to-send proposal with brief analysis, scope of work, and follow-up questions. 8 tools, freemium (5 drafts/month free), MIT license, no API key required. Install: `npx -y github:jabbawocky/proposalcraft`.
 - [SyncGTM Enrichment MCP](https://syncgtm.com/product/enrichment-mcp): B2B data enrichment MCP server for organization enrichment, person enrichment, and buying-signal detection across 20+ data providers with 75+ enrichment actions. Docs: https://docs.syncgtm.com/mcp_server.
 - [onlineprfoundation/online-pr-mcp](https://github.com/onlineprfoundation/online-pr-mcp): PR workflow MCP server with 11 tools for agencies, publications, press release distribution, quote handling, and order workflows. Install: `npx online-pr-mcp`.
 - [Sequenzy/mcp](https://github.com/Sequenzy/mcp): Official Sequenzy MCP server for AI agents to manage email marketing automation: subscribers, lists, segments, templates, campaigns, sequences, transactional email, analytics, and AI-generated email content. Remote endpoint: `https://api.sequenzy.com/v1/mcp`; npm package: `@sequenzy/mcp`.
