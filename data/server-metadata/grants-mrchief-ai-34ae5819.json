@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "grants-mrchief-ai-34ae5819",
+  "source": {
+    "issue": 802,
+    "projectUrl": "https://grants.mrchief.ai"
+  },
+  "links": {
+    "endpoint": "https://grants.mrchief.ai/mcp/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "any MCP-compatible AI agent"
+  ],
+  "license": "unknown"
+}
