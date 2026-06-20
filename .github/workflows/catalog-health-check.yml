@@ -39,23 +39,30 @@ jobs:
     name: Check catalog health
     runs-on: ubuntu-latest
     env:
-      GITHUB_TOKEN: ${{ secrets.MCP_AUTOMATION_TOKEN }}
       HEALTH_CHECK_MAX_GITHUB_REPOS: ${{ github.event.inputs.max_github_repos || '250' }}
       HEALTH_CHECK_MAX_ISSUES: ${{ github.event.inputs.max_issues || '5' }}
       HEALTH_CHECK_OFFSET: ${{ github.event.inputs.offset || '' }}
       HEALTH_CHECK_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
 
     steps:
-      - name: Check automation token
-        if: env.GITHUB_TOKEN == '' && env.HEALTH_CHECK_DRY_RUN != '1'
-        run: |
-          echo "MCP_AUTOMATION_TOKEN is required so generated issues can trigger downstream triage and report PR workflows."
-          exit 1
-
       - name: Check out repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Resolve automation token
+        id: automation-token
+        uses: ./.github/actions/create-automation-token
+        with:
+          app-client-id: ${{ vars.MCP_AUTOMATION_APP_CLIENT_ID }}
+          app-private-key: ${{ secrets.MCP_AUTOMATION_APP_PRIVATE_KEY }}
+          fallback-token: ${{ secrets.MCP_AUTOMATION_TOKEN }}
+
+      - name: Check automation token
+        if: steps.automation-token.outputs.token == '' && env.HEALTH_CHECK_DRY_RUN != '1'
+        run: |
+          echo "Configure MCP_AUTOMATION_APP_CLIENT_ID and MCP_AUTOMATION_APP_PRIVATE_KEY, or keep MCP_AUTOMATION_TOKEN, so generated issues can trigger downstream triage and report PR workflows."
+          exit 1
 
       - name: Set up Node
         uses: actions/setup-node@v4
@@ -71,3 +78,5 @@ jobs:
 
       - name: Run catalog health check
         run: npm run catalog:health
+        env:
+          GITHUB_TOKEN: ${{ steps.automation-token.outputs.token }}
