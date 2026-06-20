@@ -2,6 +2,7 @@
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [Goldentrii/AgentRecall-MCP](https://github.com/Goldentrii/AgentRecall-MCP): Correction-first persistent memory for AI agents. Logs every correction as a `CorrectionRecord` with severity and precision KPI (`heeded / retrieved`), compounds across sessions via 5 memory layers (episodic, semantic, procedural, narrative, correction). FSRS-lite decay + Modern Hopfield retrieval + RRF fusion. Local markdown (`~/.agent-recall/`), no cloud, no API keys. MIT. Install: `npx agent-recall-mcp`.
 - [nicholasglazer/gnosis-mcp](https://github.com/nicholasglazer/gnosis-mcp): Zero-config MCP server that loads markdown docs into SQLite (FTS5 keyword search) or PostgreSQL (pgvector hybrid semantic+keyword search) and exposes 6 tools and 3 resources for AI agents to search, retrieve, and manage documentation.
 - [varun369/SuperLocalMemoryV2](https://github.com/varun369/SuperLocalMemoryV2): A local-first AI memory system providing persistent memory across 17+ AI tools via MCP, featuring knowledge graphs, hybrid search, and pattern learning with zero cloud dependency.
 - [omega-memory/core](https://github.com/omega-memory/core): Persistent memory for AI coding agents with semantic search, auto-capture, intelligent forgetting, and cross-session learning. #1 on LongMemEval benchmark (95.4%). 12 MCP tools. Local-first with zero cloud dependency.
