@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ipythoning-domain-monitor-mcp-server-48496711",
+  "source": {
+    "projectUrl": "https://github.com/iPythoning/domain-monitor-mcp-server"
+  },
+  "install": {
+    "commands": [
+      "npx domain-monitor-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}

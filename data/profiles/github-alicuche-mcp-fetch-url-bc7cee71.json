@@ -1,0 +1,24 @@
+{
+  "id": "github-alicuche-mcp-fetch-url-bc7cee71",
+  "name": "alicuche/mcp-fetch-url",
+  "description": "A Node.js server that fetches URLs as part of the Modular Command Platform system.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-alicuche-mcp-fetch-url-bc7cee71",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alicuche-mcp-fetch-url-bc7cee71)",
+  "links": {
+    "primary": "https://github.com/alicuche/mcp-fetch-url",
+    "repo": "https://github.com/alicuche/mcp-fetch-url",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

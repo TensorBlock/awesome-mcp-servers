@@ -1,0 +1,24 @@
+{
+  "id": "github-tapdata-mcp-tap-server-b72a7545",
+  "name": "tapdata/mcp-tap-server",
+  "description": "Facilitates LLMs in managing and querying TapData connections and schemas via a Model Context Protocol server.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-tapdata-mcp-tap-server-b72a7545",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tapdata-mcp-tap-server-b72a7545)",
+  "links": {
+    "primary": "https://github.com/tapdata/mcp-tap-server",
+    "repo": "https://github.com/tapdata/mcp-tap-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

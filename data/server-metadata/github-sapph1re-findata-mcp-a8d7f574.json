@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sapph1re-findata-mcp-a8d7f574",
+  "source": {
+    "issue": 718,
+    "projectUrl": "https://github.com/sapph1re/findata-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other"
+  ],
+  "license": "MIT"
+}

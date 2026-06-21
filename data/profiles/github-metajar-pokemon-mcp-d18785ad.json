@@ -1,0 +1,24 @@
+{
+  "id": "github-metajar-pokemon-mcp-d18785ad",
+  "name": "metajar/pokemon-mcp",
+  "description": "Integrates Pokemon API functionality with Claude using MCP, demonstrating seamless external API integration.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-metajar-pokemon-mcp-d18785ad",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-metajar-pokemon-mcp-d18785ad)",
+  "links": {
+    "primary": "https://github.com/metajar/pokemon-mcp",
+    "repo": "https://github.com/metajar/pokemon-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

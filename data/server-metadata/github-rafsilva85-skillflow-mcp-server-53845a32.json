@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rafsilva85-skillflow-mcp-server-53845a32",
+  "source": {
+    "projectUrl": "https://github.com/rafsilva85/skillflow-mcp-server"
+  },
+  "links": {
+    "docs": "https://skillflow.builders"
+  },
+  "install": {
+    "commands": [
+      "npx -y skillflow-mcp-server",
+      "skillflow-mcp-http"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "Copilot",
+    "Gemini CLI"
+  ],
+  "license": "MIT"
+}

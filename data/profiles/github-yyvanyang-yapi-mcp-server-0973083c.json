@@ -1,0 +1,24 @@
+{
+  "id": "github-yyvanyang-yapi-mcp-server-0973083c",
+  "name": "YYvanYang/yapi-mcp-server",
+  "description": "Facilitates LLMs in accessing and retrieving API documentation from YAPI projects.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-yyvanyang-yapi-mcp-server-0973083c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yyvanyang-yapi-mcp-server-0973083c)",
+  "links": {
+    "primary": "https://github.com/YYvanYang/yapi-mcp-server",
+    "repo": "https://github.com/YYvanYang/yapi-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

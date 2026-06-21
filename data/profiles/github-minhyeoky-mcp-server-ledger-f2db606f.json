@@ -1,0 +1,24 @@
+{
+  "id": "github-minhyeoky-mcp-server-ledger-f2db606f",
+  "name": "minhyeoky/mcp-server-ledger",
+  "description": "Facilitates AI-driven financial analysis and reporting by interfacing with Ledger CLI through a standardized protocol.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-minhyeoky-mcp-server-ledger-f2db606f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-minhyeoky-mcp-server-ledger-f2db606f)",
+  "links": {
+    "primary": "https://github.com/minhyeoky/mcp-server-ledger",
+    "repo": "https://github.com/minhyeoky/mcp-server-ledger",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

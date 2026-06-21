@@ -1,0 +1,78 @@
+name: Deploy Registry API
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/deploy-registry-api.yml"
+      - "README.md"
+      - "data/**"
+      - "docs/**"
+      - "package-lock.json"
+      - "package.json"
+      - "packages/**"
+      - "railway.json"
+      - "schemas/**"
+      - "tsconfig.base.json"
+      - "vitest.config.ts"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Build and deploy registry API
+    runs-on: ubuntu-latest
+    env:
+      RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+      RAILWAY_PROJECT_ID: d0179e2b-95d8-47cc-be7b-abc178a80948
+      RAILWAY_SERVICE_ID: ca56cfa7-79a4-4fd1-8ef2-6a918cba40bb
+      RAILWAY_ENVIRONMENT: production
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate catalog
+        run: npm run catalog:build
+
+      - name: Generate profiles
+        run: npm run profiles:build
+
+      - name: Test
+        run: npm test
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Build
+        run: npm run build
+
+      - name: Install Railway CLI
+        run: npm install -g @railway/cli
+
+      - name: Deploy to Railway
+        if: env.RAILWAY_TOKEN != ''
+        run: >
+          railway up
+          --project "$RAILWAY_PROJECT_ID"
+          --service "$RAILWAY_SERVICE_ID"
+          --environment "$RAILWAY_ENVIRONMENT"
+          --detach
+          --message "Deploy registry API from ${GITHUB_SHA}"
+
+      - name: Missing Railway token
+        if: env.RAILWAY_TOKEN == ''
+        run: |
+          echo "RAILWAY_TOKEN secret is required to deploy the registry API."
+          exit 1

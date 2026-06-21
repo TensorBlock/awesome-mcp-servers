@@ -1,0 +1,24 @@
+{
+  "id": "github-ark-forge-mcp-eu-ai-act-5773cecc",
+  "name": "ark-forge/mcp-eu-ai-act",
+  "description": "Scans codebases for AI framework usage (16 frameworks) and checks compliance against EU AI Act requirements. Features 4-tier risk categorization, GDPR compliance checking, report generation, and compliance document templates.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/github-ark-forge-mcp-eu-ai-act-5773cecc",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ark-forge-mcp-eu-ai-act-5773cecc)",
+  "links": {
+    "primary": "https://github.com/ark-forge/mcp-eu-ai-act",
+    "repo": "https://github.com/ark-forge/mcp-eu-ai-act",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

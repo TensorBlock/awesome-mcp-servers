@@ -1,0 +1,24 @@
+{
+  "id": "github-syahiidkamil-mcp-postgres-full-access-2919768b",
+  "name": "syahiidkamil/mcp-postgres-full-access",
+  "description": "Empower LLMs with full read-write access to PostgreSQL databases, ensuring robust transaction management and advanced safety controls.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-syahiidkamil-mcp-postgres-full-access-2919768b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-syahiidkamil-mcp-postgres-full-access-2919768b)",
+  "links": {
+    "primary": "https://github.com/syahiidkamil/mcp-postgres-full-access",
+    "repo": "https://github.com/syahiidkamil/mcp-postgres-full-access",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

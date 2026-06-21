@@ -1,0 +1,24 @@
+{
+  "id": "github-sakce-mcp-server-monday-4a52421c",
+  "name": "sakce/mcp-server-monday",
+  "description": "Facilitates seamless interaction with Monday.com boards, items, updates, and documents through MCP clients.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-sakce-mcp-server-monday-4a52421c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sakce-mcp-server-monday-4a52421c)",
+  "links": {
+    "primary": "https://github.com/sakce/mcp-server-monday",
+    "repo": "https://github.com/sakce/mcp-server-monday",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

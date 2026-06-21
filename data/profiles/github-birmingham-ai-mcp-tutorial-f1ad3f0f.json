@@ -1,0 +1,24 @@
+{
+  "id": "github-birmingham-ai-mcp-tutorial-f1ad3f0f",
+  "name": "Birmingham-AI/mcp-tutorial",
+  "description": "A comprehensive tutorial for setting up and experimenting with BrowserTools and MCP-LOGO-GEN servers, facilitating browser automation and image generation tasks.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-birmingham-ai-mcp-tutorial-f1ad3f0f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-birmingham-ai-mcp-tutorial-f1ad3f0f)",
+  "links": {
+    "primary": "https://github.com/Birmingham-AI/mcp-tutorial",
+    "repo": "https://github.com/Birmingham-AI/mcp-tutorial",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

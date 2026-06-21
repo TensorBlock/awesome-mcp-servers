@@ -1,0 +1,24 @@
+{
+  "id": "github-peterclemenko-mcp-nu-rs-template-4e31dd45",
+  "name": "peterclemenko/mcp-nu-rs-template",
+  "description": "A Rust-based CLI server template for implementing MCP, facilitating seamless integration between LLM applications and external data sources.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-peterclemenko-mcp-nu-rs-template-4e31dd45",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-peterclemenko-mcp-nu-rs-template-4e31dd45)",
+  "links": {
+    "primary": "https://github.com/peterclemenko/mcp-nu-rs-template",
+    "repo": "https://github.com/peterclemenko/mcp-nu-rs-template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

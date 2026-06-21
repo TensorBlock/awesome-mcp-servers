@@ -1,0 +1,24 @@
+{
+  "id": "github-darinkishore-inbox-mcp-aa3eb136",
+  "name": "darinkishore/Inbox-MCP",
+  "description": "Facilitates AI-driven email management and automation through natural language commands, leveraging Nylas for seamless integration with major email services.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-darinkishore-inbox-mcp-aa3eb136",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-darinkishore-inbox-mcp-aa3eb136)",
+  "links": {
+    "primary": "https://github.com/darinkishore/Inbox-MCP",
+    "repo": "https://github.com/darinkishore/Inbox-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

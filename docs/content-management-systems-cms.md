@@ -61,4 +61,5 @@ Servers specifically designed to interact with CMS platforms.
 - [Omedia/mcp-server-drupal](https://github.com/Omedia/mcp-server-drupal): A TypeScript-based MCP server designed to integrate with the Drupal MCP module using STDIO transport.
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp): Integrates with Contentful's API to manage content, spaces, and environments with full CRUD operations and bulk processing capabilities.
 - [jonradoff/lightcms](https://github.com/jonradoff/lightcms): AI-native CMS with 41 MCP tools for managing websites through natural language. Create pages, templates, assets, themes, collections, redirects, and more with full content versioning.
+- [dochost](https://dochost.io/mcp): Hosted remote MCP server that publishes Markdown or HTML to a clean, public, shareable link straight from your AI assistant (Claude, ChatGPT, Cursor), no copy-paste. 2 tools. Transport: streamable-http. Auth: OAuth sign-in, no API keys. Endpoint: `https://dochost.io/api/mcp`. Connect: `claude mcp add --transport http dochost https://dochost.io/api/mcp`.
 

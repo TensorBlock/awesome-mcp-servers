@@ -1,0 +1,24 @@
+{
+  "id": "github-obinopaul-nba-mcp-server-a4d78646",
+  "name": "obinopaul/nba-mcp-server",
+  "description": "A Python-based MCP server providing real-time and historical NBA statistics and game data through the NBA API.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-obinopaul-nba-mcp-server-a4d78646",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-obinopaul-nba-mcp-server-a4d78646)",
+  "links": {
+    "primary": "https://github.com/obinopaul/nba-mcp-server",
+    "repo": "https://github.com/obinopaul/nba-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

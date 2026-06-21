@@ -1,0 +1,24 @@
+{
+  "id": "github-malloryai-mallory-mcp-server-9331ddb1",
+  "name": "malloryai/mallory-mcp-server",
+  "description": "Facilitates cybersecurity intelligence operations using the MCP framework.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-malloryai-mallory-mcp-server-9331ddb1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-malloryai-mallory-mcp-server-9331ddb1)",
+  "links": {
+    "primary": "https://github.com/malloryai/mallory-mcp-server",
+    "repo": "https://github.com/malloryai/mallory-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

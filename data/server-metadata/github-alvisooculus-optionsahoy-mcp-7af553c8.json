@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-alvisooculus-optionsahoy-mcp-7af553c8",
+  "source": {
+    "projectUrl": "https://github.com/AlvisoOculus/optionsahoy-mcp"
+  },
+  "links": {
+    "endpoint": "https://optionsahoy.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}

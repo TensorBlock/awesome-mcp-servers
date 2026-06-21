@@ -1,0 +1,24 @@
+{
+  "id": "github-taskade-mcp-b7f322b1",
+  "name": "taskade/mcp",
+  "description": "Official Taskade MCP server: connect Taskade’s API to any MCP-compatible client (e.g. Claude or Cursor), enabling workspace loading, task retrieval, and interactive operations.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/github-taskade-mcp-b7f322b1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-taskade-mcp-b7f322b1)",
+  "links": {
+    "primary": "https://github.com/taskade/mcp",
+    "repo": "https://github.com/taskade/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

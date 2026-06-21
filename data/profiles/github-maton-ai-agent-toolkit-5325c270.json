@@ -1,0 +1,24 @@
+{
+  "id": "github-maton-ai-agent-toolkit-5325c270",
+  "name": "maton-ai/agent-toolkit",
+  "description": "Facilitates integration of agent frameworks with Maton APIs using Model Context Protocol for streamlined API interactions.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-maton-ai-agent-toolkit-5325c270",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maton-ai-agent-toolkit-5325c270)",
+  "links": {
+    "primary": "https://github.com/maton-ai/agent-toolkit",
+    "repo": "https://github.com/maton-ai/agent-toolkit",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

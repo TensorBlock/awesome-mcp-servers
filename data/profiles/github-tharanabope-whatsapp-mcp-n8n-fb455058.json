@@ -1,0 +1,24 @@
+{
+  "id": "github-tharanabope-whatsapp-mcp-n8n-fb455058",
+  "name": "TharanaBope/whatsapp-mcp-n8n",
+  "description": "Facilitates seamless interaction with WhatsApp through Claude by enabling message retrieval, contact searches, and media exchanges via the WhatsApp web multidevice API.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-tharanabope-whatsapp-mcp-n8n-fb455058",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tharanabope-whatsapp-mcp-n8n-fb455058)",
+  "links": {
+    "primary": "https://github.com/TharanaBope/whatsapp-mcp-n8n",
+    "repo": "https://github.com/TharanaBope/whatsapp-mcp-n8n",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

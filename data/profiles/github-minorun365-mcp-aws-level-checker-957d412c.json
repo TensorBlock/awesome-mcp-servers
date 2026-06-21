@@ -1,0 +1,24 @@
+{
+  "id": "github-minorun365-mcp-aws-level-checker-957d412c",
+  "name": "minorun365/mcp-aws-level-checker",
+  "description": "Analyzes AWS technical blog content to determine its level of complexity using a Model Context Protocol server.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-minorun365-mcp-aws-level-checker-957d412c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-minorun365-mcp-aws-level-checker-957d412c)",
+  "links": {
+    "primary": "https://github.com/minorun365/mcp-aws-level-checker",
+    "repo": "https://github.com/minorun365/mcp-aws-level-checker",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

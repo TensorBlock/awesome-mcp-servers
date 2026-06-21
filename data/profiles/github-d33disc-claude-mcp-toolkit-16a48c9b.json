@@ -1,0 +1,24 @@
+{
+  "id": "github-d33disc-claude-mcp-toolkit-16a48c9b",
+  "name": "d33disc/claude-mcp-toolkit",
+  "description": "Enhance AI-powered development with the Sequential Thinking MCP Server for Claude Desktop, integrating filesystem and desktop commands for dynamic problem-solving.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-d33disc-claude-mcp-toolkit-16a48c9b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-d33disc-claude-mcp-toolkit-16a48c9b)",
+  "links": {
+    "primary": "https://github.com/d33disc/claude-mcp-toolkit",
+    "repo": "https://github.com/d33disc/claude-mcp-toolkit",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

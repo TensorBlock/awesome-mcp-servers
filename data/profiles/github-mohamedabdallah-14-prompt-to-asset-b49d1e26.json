@@ -1,0 +1,24 @@
+{
+  "id": "github-mohamedabdallah-14-prompt-to-asset-b49d1e26",
+  "name": "MohamedAbdallah-14/prompt-to-asset",
+  "description": "Generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing each request across 30+ image generation models to the best fit. Zero-key first run via free-tier providers (Pollinations, Stable Horde, HuggingFace). MIT licensed.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-mohamedabdallah-14-prompt-to-asset-b49d1e26",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mohamedabdallah-14-prompt-to-asset-b49d1e26)",
+  "links": {
+    "primary": "https://github.com/MohamedAbdallah-14/prompt-to-asset",
+    "repo": "https://github.com/MohamedAbdallah-14/prompt-to-asset",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

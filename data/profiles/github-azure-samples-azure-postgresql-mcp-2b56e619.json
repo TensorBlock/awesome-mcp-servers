@@ -1,0 +1,24 @@
+{
+  "id": "github-azure-samples-azure-postgresql-mcp-2b56e619",
+  "name": "Azure-Samples/azure-postgresql-mcp",
+  "description": "Connect AI applications to Azure Database for PostgreSQL using standardized MCP protocols for seamless data interaction.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/github-azure-samples-azure-postgresql-mcp-2b56e619",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-azure-samples-azure-postgresql-mcp-2b56e619)",
+  "links": {
+    "primary": "https://github.com/Azure-Samples/azure-postgresql-mcp",
+    "repo": "https://github.com/Azure-Samples/azure-postgresql-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

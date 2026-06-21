@@ -1,0 +1,49 @@
+name: Claim MCP profile
+description: Let maintainers connect an indexed profile to their project.
+title: "Claim MCP profile: "
+labels:
+  - claim-profile
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form if you maintain an indexed MCP server and want the public profile to show maintainer and verification metadata. The Project URL should match the indexed profile source, repository, homepage, docs URL, or existing metadata sidecar project URL.
+  - type: input
+    id: profile-url
+    attributes:
+      label: TensorBlock profile URL or server id
+      placeholder: https://tensorblock.co/mcp/servers/... or server id
+    validations:
+      required: true
+  - type: input
+    id: project-url
+    attributes:
+      label: Project URL
+      placeholder: https://github.com/owner/project
+    validations:
+      required: true
+  - type: input
+    id: maintainer
+    attributes:
+      label: Maintainer handle
+      description: GitHub username, package owner, or organization handle.
+      placeholder: "@maintainer"
+    validations:
+      required: true
+  - type: textarea
+    id: proof
+    attributes:
+      label: Maintainer proof
+      description: Explain how we can verify your relationship to the project.
+      placeholder: |
+        I am an owner of the GitHub repo / npm package / organization.
+        Verification link:
+    validations:
+      required: true
+  - type: textarea
+    id: metadata
+    attributes:
+      label: Metadata you want displayed
+      description: Optional maintainer, verification, docs, or support details for the indexed profile.
+    validations:
+      required: false

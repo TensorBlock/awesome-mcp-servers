@@ -1,0 +1,24 @@
+{
+  "id": "github-evisdrenova-axon-server-542c1b72",
+  "name": "evisdrenova/axon-server",
+  "description": "A Go-based MCP server that registers Open API specs with Claude Desktop for seamless communication.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-evisdrenova-axon-server-542c1b72",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-evisdrenova-axon-server-542c1b72)",
+  "links": {
+    "primary": "https://github.com/evisdrenova/axon-server",
+    "repo": "https://github.com/evisdrenova/axon-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

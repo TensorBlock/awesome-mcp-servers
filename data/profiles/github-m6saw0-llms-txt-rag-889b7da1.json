@@ -1,0 +1,24 @@
+{
+  "id": "github-m6saw0-llms-txt-rag-889b7da1",
+  "name": "M6saw0/llms_txt_rag",
+  "description": "Facilitates retrieval of relevant information from GitHub repositories using llms.txt with an MCP server and client setup.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-m6saw0-llms-txt-rag-889b7da1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-m6saw0-llms-txt-rag-889b7da1)",
+  "links": {
+    "primary": "https://github.com/M6saw0/llms_txt_rag",
+    "repo": "https://github.com/M6saw0/llms_txt_rag",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

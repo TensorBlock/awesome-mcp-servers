@@ -1,0 +1,24 @@
+{
+  "id": "github-rethunk-tech-mcp-golang-cdea313c",
+  "name": "Rethunk-Tech/mcp-golang",
+  "description": "Provides Go language tools for LLMs to analyze, test, and format Go code.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/github-rethunk-tech-mcp-golang-cdea313c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rethunk-tech-mcp-golang-cdea313c)",
+  "links": {
+    "primary": "https://github.com/Rethunk-Tech/mcp-golang",
+    "repo": "https://github.com/Rethunk-Tech/mcp-golang",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

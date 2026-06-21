@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "bitcompare-net-mcp-1db77cc7",
+  "source": {
+    "projectUrl": "https://bitcompare.net/mcp"
+  },
+  "links": {
+    "docs": "https://api.bitcompare.net/openapi.json",
+    "endpoint": "https://api.bitcompare.net/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx @bitcompare/mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Bearer/API-key auth from Bitcompare Pro"
+    ]
+  }
+}

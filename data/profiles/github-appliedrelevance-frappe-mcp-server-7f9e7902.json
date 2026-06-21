@@ -1,0 +1,24 @@
+{
+  "id": "github-appliedrelevance-frappe-mcp-server-7f9e7902",
+  "name": "appliedrelevance/frappe_mcp_server",
+  "description": "Facilitates AI assistant interactions with Frappe applications via a standardized REST API interface, focusing on document operations and schema management.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-appliedrelevance-frappe-mcp-server-7f9e7902",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-appliedrelevance-frappe-mcp-server-7f9e7902)",
+  "links": {
+    "primary": "https://github.com/appliedrelevance/frappe_mcp_server",
+    "repo": "https://github.com/appliedrelevance/frappe_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

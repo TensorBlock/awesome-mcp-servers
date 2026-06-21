@@ -1,0 +1,24 @@
+{
+  "id": "github-riza-io-riza-mcp-e09e8b48",
+  "name": "riza-io/riza-mcp",
+  "description": "Riza MCP Server provides a secure environment for LLM-generated code execution and tool management via the Riza API.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-riza-io-riza-mcp-e09e8b48",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-riza-io-riza-mcp-e09e8b48)",
+  "links": {
+    "primary": "https://github.com/riza-io/riza-mcp",
+    "repo": "https://github.com/riza-io/riza-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

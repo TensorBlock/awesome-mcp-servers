@@ -2,6 +2,7 @@
 
 Servers controlling hardware devices, interacting with embedded systems, serial communication, 3D printers, or smart home systems.
 
+- [veonua/smartthings-mcp](https://github.com/veonua/smartthings-mcp): Lightweight Samsung SmartThings MCP server for room mapping, device listing, status checks, and device command execution.
 - [kukapay/modbus-mcp](https://github.com/kukapay/modbus-mcp): Standardizes and contextualizes Modbus data for seamless AI agent integration with industrial IoT systems.
 - [zradlicz/particle-mcp-server](https://github.com/zradlicz/particle-mcp-server): Facilitates AI-driven management of Particle IoT devices through natural language commands.
 - [Volt23/mcp-arduino-server](https://github.com/Volt23/mcp-arduino-server): Facilitates Arduino development workflows by bridging MCP with Arduino CLI for sketch, board, library, and file management.
@@ -60,4 +61,11 @@ Servers controlling hardware devices, interacting with embedded systems, serial 
 - [miguelg719/home-assistant-mcp](https://github.com/miguelg719/home-assistant-mcp): Integrates with Home Assistant to enable smart home control through an MCP server, supporting functionalities like lighting, climate, and security system management.
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant): Facilitates seamless integration of Home Assistant with the Model Context Protocol for enhanced smart home automation.
 - [octoco-ltd/sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp): Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.
-
+- [roomi-fields/osc-bridge](https://github.com/roomi-fields/osc-bridge): OSC ↔ MIDI/SysEx bridge for 849 hardware synthesizers plus music software (Ableton, Bitwig, Reaper, SuperCollider…). A MIDI MCP and OSC MCP — discover devices, read their named control surface, and send OSC to drive them. `npx -y @roomi-fields/osc-bridge mcp`
+- [daedalus/mcp-canbus](https://github.com/daedalus/mcp-canbus) - MCP server for CAN bus communication.
+- [daedalus/mcp-delonghi-ecam](https://github.com/daedalus/mcp-delonghi-ecam) - MCP server for DeLonghi ECAM espresso coffee machines via local network.
+- [daedalus/mcp-homeassistant](https://github.com/daedalus/mcp-homeassistant) - MCP server for Home Assistant integration.
+- [daedalus/mcp-kicad](https://github.com/daedalus/mcp-kicad) - MCP server exposing KiCad PCB Editor functionality via IPC API.
+- [daedalus/mcp-rs232](https://github.com/daedalus/mcp-rs232) - An MCP server that exposes RS232 serial port connectivity.
+- [daedalus/mcp-rs485](https://github.com/daedalus/mcp-rs485) - An MCP server that exposes RS485 bus connectivity.
+- [daedalus/mcp-snap7](https://github.com/daedalus/mcp-snap7) - MCP server for python-snap7, enabling MCP clients to interact with Siemens PLCs.

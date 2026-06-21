@@ -1,0 +1,24 @@
+{
+  "id": "github-toliuweijing-mcp-browser-automation-d3f332cf",
+  "name": "toliuweijing/mcp-browser-automation",
+  "description": "A TypeScript-based MCP server that implements a simple notes system with tools for creating and summarizing text notes.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-toliuweijing-mcp-browser-automation-d3f332cf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-toliuweijing-mcp-browser-automation-d3f332cf)",
+  "links": {
+    "primary": "https://github.com/toliuweijing/mcp-browser-automation",
+    "repo": "https://github.com/toliuweijing/mcp-browser-automation",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

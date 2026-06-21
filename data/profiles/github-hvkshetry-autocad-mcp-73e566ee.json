@@ -1,0 +1,24 @@
+{
+  "id": "github-hvkshetry-autocad-mcp-73e566ee",
+  "name": "hvkshetry/autocad-mcp",
+  "description": "Facilitates natural language-driven engineering drawing creation in AutoCAD LT via AutoLISP code generation and execution.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/github-hvkshetry-autocad-mcp-73e566ee",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hvkshetry-autocad-mcp-73e566ee)",
+  "links": {
+    "primary": "https://github.com/hvkshetry/autocad-mcp",
+    "repo": "https://github.com/hvkshetry/autocad-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
