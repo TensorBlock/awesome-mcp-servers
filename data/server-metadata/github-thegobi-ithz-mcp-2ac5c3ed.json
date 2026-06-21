@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-thegobi-ithz-mcp-2ac5c3ed",
+  "source": {
+    "issue": 835,
+    "projectUrl": "https://github.com/thegobi/ithz_mcp"
+  },
+  "links": {
+    "endpoint": "https://ithz.dev/mcp/"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other MCP clients"
+  ],
+  "license": "Other / custom alpha distribution terms"
+}
