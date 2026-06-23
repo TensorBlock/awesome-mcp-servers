@@ -90,4 +90,5 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide](https://github.com/trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide): A detailed guide for verifying and troubleshooting MCP server installations on Windows, highlighting key differences from MacOS setups.
 - [Bigsy/maven-mcp-server](https://github.com/Bigsy/maven-mcp-server): Facilitates LLMs in verifying and retrieving Maven dependency versions from the Maven Central Repository.
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp): Facilitates Docker container and stack management through Claude AI with a Model Context Protocol server.
+- [friendlygeorge/docker-mcp-server](https://github.com/friendlygeorge/docker-mcp-server): A comprehensive Docker MCP server with 50+ tools for container lifecycle management, compose stack operations, image management, network/volume administration, and Docker system monitoring.
 
