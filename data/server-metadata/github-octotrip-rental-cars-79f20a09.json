@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-octotrip-rental-cars-79f20a09",
+  "source": {
+    "issue": 885,
+    "projectUrl": "https://github.com/OctoTrip/rental-cars"
+  },
+  "links": {
+    "endpoint": "https://mcp.octotrip.app/rental-cars/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "Cline",
+    "LobeHub",
+    "Smithery"
+  ],
+  "license": "MIT"
+}
