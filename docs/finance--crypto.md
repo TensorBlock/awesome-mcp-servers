@@ -177,6 +177,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [sakura-ku/grobal_mcp_stock_server](https://github.com/sakura-ku/grobal_mcp_stock_server): Facilitates real-time access to global stock market data and analysis for AI assistants.
 - [weerofun/kaiafun-mcp](https://github.com/weerofun/kaiafun-mcp): Facilitates token listing, trading, and blockchain interaction on KaiaFun using the MCP protocol.
 - [huahuayu/etherscan-mcp-server](https://github.com/huahuayu/etherscan-mcp-server): A Go-based server enabling LLM applications to access multi-chain Etherscan blockchain data via the Model Context Protocol.
+- [matiosera3-ops/defi-mcp](https://github.com/matiosera3-ops/defi-mcp): Open-source MCP server for on-chain DeFi data — Aave v3 positions, Chainlink token prices, Uniswap v3 swap simulation across Polygon and Arbitrum.
 - [Eneswunbeaten/MarketPricesMCP](https://github.com/Eneswunbeaten/MarketPricesMCP): A .NET-based server application that provides real-time grocery price comparisons across Turkish markets, integrating seamlessly with MCP-compatible clients.
 - [onori/yfinance-mcp-server](https://github.com/onori/yfinance-mcp-server): Access Yahoo Finance stock data effortlessly with this TypeScript-based MCP server.
 - [ikhyunAn/MCP_InvestmentPortfolio](https://github.com/ikhyunAn/MCP_InvestmentPortfolio): Facilitates investment portfolio management and analysis with real-time market data and personalized recommendations.
