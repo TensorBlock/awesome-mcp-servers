@@ -1,10 +1,7 @@
 ## 💰 Finance & Crypto
 
 - [Timwal78/SqueezeOS](https://github.com/Timwal78/SqueezeOS) - Institutional market intelligence MCP server with 33 tools. Schwab/Polygon/Alpaca APIs, x402 payment gating via XRPL/RLUSD and Base/USDC, short-squeeze detection, FTD cycle analysis. Free tier + paid signal tiers. Remote: `https://squeezeos-api.onrender.com/mcp`
-- [Timwal78/sml-x402-signal-api](https://github.com/Timwal78/sml-x402-signal-api) - Pay-per-call US equities signal API for AI agents. Tiers: free teaser, $0.01 bias+momentum, $0.05 full regime, $0.25 short-squeeze pressure engine. Base USDC via x402, ed25519-signed responses, 30% USDC affiliate revenue-share.
-- [Timwal78/aetheris-mcp-render](https://github.com/Timwal78/aetheris-mcp-render) - x402 agentic web scraper MCP server. AI agents pay USDC on Base per scrape. Deep DOM sanitization via JSDOM, SSE transport, one-click Render deploy.
 - [Timwal78/ghost-layer](https://github.com/Timwal78/ghost-layer) - Dual-chain XRPL/Base toll gateway for autonomous AI agents. URIToken on-chain licensing, 54-block execution matrix, Agent Passport loyalty tiers, x402 protocol. MCP: `https://ghost-layer.onrender.com/mcp`. Zero custody.
-- [Timwal78/zeroquery-protocol](https://github.com/Timwal78/zeroquery-protocol) - Proof-of-Intent open protocol for AI agent identity. x402-compatible, no OAuth, no API keys. Enables autonomous agents to declare, sign, and verify intent before executing paid actions.
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
