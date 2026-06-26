@@ -2,6 +2,7 @@
 
 Servers connecting to monitoring systems, logging platforms, or providing system/application performance metrics.
 
+- [uptimemonitoring/examples](https://github.com/uptimemonitoring/examples): Agent-native uptime monitoring via MCP — create, inspect, and assert monitor health, list incidents, and manage monitors. Remote `streamable-http` at `https://api.uptimemonitoring.com/mcp`, OAuth 2.1 or API key, no install. Free 50-monitor tier. Registry id `com.uptimemonitoring/mcp`. Docs: https://uptimemonitoring.com/docs/mcp/.
 - [triadgit/humanhours-mcp](https://github.com/triadgit/humanhours-mcp): Track agent ROI and enrich companies via MCP: hours and money saved, ROI reports, and per-hour wage data. Remote `streamable-http` at `https://mcp.humanhours.dev/mcp`, OAuth 2.1, no install, no API keys. Registry id `dev.humanhours/humanhours`. Docs: https://humanhours.dev/docs/mcp.
 - [Tethral-Inc/AgentRegistry](https://github.com/Tethral-Inc/AgentRegistry): Agent Composition Records MCP server for logging AI-agent interactions and querying behavioral profiles through friction, coverage, stable-corridor, failure-registry, and trend lenses. 21 tools. Install: `npx -y @tethral/acr-mcp`.
 - [kame6493-del/mcp-diagnostics](https://github.com/kame6493-del/mcp-diagnostics): Website diagnostics MCP server for DNS, SSL, HTTP headers, security audit grading, WHOIS, and technology-stack checks. Install: `npx mcp-diagnostics`. No API keys required.
