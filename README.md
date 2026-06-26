@@ -207,7 +207,7 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Data Analysis & Business Intelligence | 244 | [Browse](docs/data-analysis--business-intelligence.md) |
 | Databases | 299 | [Browse](docs/databases.md) |
 | Developer Productivity & Utilities | 414 | [Browse](docs/developer-productivity--utilities.md) |
-| Filesystems | 56 | [Browse](docs/filesystems.md) |
+| Filesystems | 57 | [Browse](docs/filesystems.md) |
 | Finance & Crypto | 445 | [Browse](docs/finance--crypto.md) |
 | Frameworks | 245 | [Browse](docs/frameworks.md) |
 | Gaming | 108 | [Browse](docs/gaming.md) |

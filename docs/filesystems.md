@@ -58,3 +58,5 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 
 - [fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp): Advanced filesystem operations with large file handling capabilities and Claude-optimized features. Provides fast file reading/writing, sequential reading for large files, directory operations, file search, and streaming writes with backup & recovery.
+
+- [tony8713/casa](https://github.com/tony8713/casa): Encrypted, pay-per-call (x402/USDC) permanent storage for AI agents. Content is encrypted client-side (zero-knowledge) and stored permanently; each store costs $0.01 USDC paid automatically over x402 from your own wallet, and the wallet that pays is the wallet that decrypts. Ships an MCP server plus a TypeScript SDK.
