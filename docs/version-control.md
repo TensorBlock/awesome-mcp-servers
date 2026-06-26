@@ -80,3 +80,4 @@ Servers interacting with version control systems and platforms for repository ma
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest): Facilitates the exploration and reading of GitHub repository structures and key files through a Model Context Protocol server.
 - [kazuph/mcp-github-pera1](https://github.com/kazuph/mcp-github-pera1): Connects GitHub code to Claude.ai using Pera1 for enhanced context extraction.
 - [loglmhq/mcp-server-github-repo](https://github.com/loglmhq/mcp-server-github-repo): Facilitates AI assistants in browsing and reading files from GitHub repositories through an MCP server interface.
+- [SSX360/matrixscroll](https://github.com/SSX360/matrixscroll): A trust-first repository copilot to audit signed commit provenance, preview editor configuration safety, and manage Git hook rollouts. Install: `pip install matrixscroll`.
