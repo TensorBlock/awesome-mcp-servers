@@ -2,6 +2,7 @@
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [matrixscroll](https://github.com/SSX360/matrixscroll): Signed commit-time provenance for agent-assisted Git with offline verification and CI gates.
 - [GateCheck](https://github.com/LarryLemonBot/gatecheck): Hosted remote MCP server for paid x402 and MCP seller-readiness checks. Verifies discovery surfaces, MCP inventory, payment terms, policy receipts, and claim boundaries before public submission or agent routing. Streamable HTTP endpoint at `https://x402-resource-scanner.vercel.app/gatecheck/mcp`; public `initialize` and `tools/list`; protected tool execution may require bearer auth.
 - [fak](https://github.com/anthony-chaudhary/fak): Agent tool firewall that fronts an MCP server and adjudicates every tool call through a default-deny capability gate (irreversible actions fail closed), then quarantines suspicious tool results out of the model’s context to contain Tool Poisoning / Memory Poisoning. Exposes five `fak_*` adjudication tools to any MCP client. Single static Go binary, zero external dependencies, Apache-2.0.
 - [MEOK Governance Suite](https://github.com/CSOAI-ORG/meok-setup): Installer for 38 AI compliance MCPs across Claude Desktop, Cursor, VS Code, and Windsurf, covering EU AI Act, DORA, NIS2, GDPR, SOC2, ISO 42001, HIPAA, and governance workflows. Install with `npx meok-setup --pack governance` or `pip install meok_setup`. MIT.
