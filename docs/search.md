@@ -18,6 +18,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [jmchat/mcp-search-console-ts](https://github.com/jmchat/mcp-search-console-ts): Manage Google Search Console properties, sitemaps, and search analytics via a Model Context Protocol server.
 - [OEvortex/ddg_search](https://github.com/OEvortex/ddg_search): A privacy-focused MCP server that leverages DuckDuckGo for efficient web search and URL content extraction.
 - [BochaAI/bocha-search-mcp](https://github.com/BochaAI/bocha-search-mcp): Bocha Search MCP Server empowers AI applications with high-quality knowledge from billions of web pages and diverse content sources, enhancing search capabilities across multiple domains.
+- [BuyWhere](https://github.com/BuyWhere/buywhere-mcp): Real-time product search and price comparison across major retailers via MCP. 150M+ products, 88K+ merchants (US Best Buy, Walmart, Target, Amazon). Published as `@buywhere/mcp-server` on npm and `buywhere-mcp` on PyPI. Tools: search_products, get_deals, get_product_details.
 - [nitish-raj/searxng-mcp-bridge](https://github.com/nitish-raj/searxng-mcp-bridge): Facilitates search operations by bridging MCP clients with a SearxNG instance.
 - [mytechnotalent/RAG_MCP](https://github.com/mytechnotalent/RAG_MCP): A semantic PDF search server utilizing OCR, FAISS, and transformers for intelligent query responses.
 - [g-fukurowl/fess-mcp-server](https://github.com/g-fukurowl/fess-mcp-server): Middleware server that integrates with the Fess search engine to enable information retrieval via MCP clients.
