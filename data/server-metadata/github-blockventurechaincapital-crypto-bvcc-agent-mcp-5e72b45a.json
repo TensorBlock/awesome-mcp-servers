@@ -6,12 +6,17 @@
     "projectUrl": "https://github.com/blockventurechaincapital-crypto/bvcc-agent-mcp"
   },
   "install": {
-    "commands": [],
+    "commands": [
+      "npx -y @bvcc/agent-mcp"
+    ],
     "env": [
       "AGENT_PRIVATE_KEY",
-      "RPC_URL"
+      "WALLET_ADDRESS",
+      "CHAIN_ID",
+      "RPC_URL",
+      "BVCC_MCP_READONLY"
     ],
-    "confidence": "low"
+    "confidence": "medium"
   },
   "transport": [
     "stdio"
