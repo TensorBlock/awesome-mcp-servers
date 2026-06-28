@@ -1,5 +1,8 @@
 ## 💰 Finance & Crypto
 
+- [Timwal78/SqueezeOS](https://github.com/Timwal78/SqueezeOS) - Institutional market intelligence MCP server with 33 tools. Schwab/Polygon/Alpaca APIs, x402 payment gating via XRPL/RLUSD and Base/USDC, short-squeeze detection, FTD cycle analysis. Free tier + paid signal tiers. Remote: `https://squeezeos-api.onrender.com/mcp`
+- [Timwal78/ghost-layer](https://github.com/Timwal78/ghost-layer) - Dual-chain XRPL/Base toll gateway for autonomous AI agents. URIToken on-chain licensing, 54-block execution matrix, Agent Passport loyalty tiers, x402 protocol. MCP: `https://ghost-layer.onrender.com/mcp`. Zero custody.
+
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
 - [jarvismaximum-hue/profitplay-mcp](https://github.com/jarvismaximum-hue/profitplay-mcp): Prediction market arena MCP server where agents register, view games and markets, place or cancel bets, check status, read leaderboards, and chat around BTC, ETH, SOL, S&P 500, and gold price-movement games. 9 tools. MIT.
