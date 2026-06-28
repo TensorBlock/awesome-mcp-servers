@@ -3,6 +3,11 @@ export type AuthType = "none" | "api-key" | "oauth" | "bearer" | "unknown";
 export type Confidence = "high" | "medium" | "low";
 export type VerificationStatus = "unknown" | "self_reported" | "partial" | "verified" | "failing";
 
+export interface CatalogSourceMetadata {
+  lastUpdatedAt?: string | null;
+  pullRequest?: number | null;
+}
+
 export interface CatalogEntry {
   id: string;
   name: string;
@@ -13,6 +18,7 @@ export interface CatalogEntry {
     docsPath: string | null;
     featuredInReadme: boolean;
     pullRequest?: number | null;
+    lastUpdatedAt?: string | null;
   };
   links: {
     primary: string;

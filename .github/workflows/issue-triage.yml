@@ -28,8 +28,15 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Resolve automation token
+        id: automation-token
+        uses: ./.github/actions/create-automation-token
+        with:
+          app-client-id: ${{ vars.MCP_AUTOMATION_APP_CLIENT_ID }}
+          app-private-key: ${{ secrets.MCP_AUTOMATION_APP_PRIVATE_KEY }}
+          fallback-token: ${{ github.token }}
+
       - name: Route issue and reply
         run: node .github/scripts/triage-issue.mjs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          GITHUB_TOKEN: ${{ steps.automation-token.outputs.token }}

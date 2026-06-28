@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mcp-gondola-ai-mcp-9dc511da",
+  "source": {
+    "projectUrl": "https://mcp.gondola.ai/mcp"
+  },
+  "description": "Searches hotels and flights with side-by-side cash and points pricing, cents-per-point valuations, loyalty account tracking, rate alerts, and direct booking. The only travel search that shows cash and award rates together.",
+  "category": "Travel & Transportation",
+  "links": {
+    "docs": "https://gondola.ai",
+    "endpoint": "https://mcp.gondola.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Requires a Gondola account API key for personalized loyalty, profile, and booking tools"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 30,
+    "names": [
+      "search_hotels",
+      "search_flights",
+      "search_vehicles",
+      "compare_rates",
+      "get_hotel_details",
+      "get_loyalty_accounts",
+      "optimize_loyalty_portfolio",
+      "create_rate_alert",
+      "book_hotel"
+    ],
+    "source": "self_reported"
+  }
+}

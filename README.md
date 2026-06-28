@@ -122,6 +122,8 @@ Useful endpoints:
 - `GET /v1/categories` - list categories with entry counts and source docs.
 - `GET /v1/servers?query=postgres&limit=5` - search servers by name, description, category, or URL.
 - `GET /v1/servers?category=Databases&transport=stdio` - filter by category, transport, auth type, and result limit.
+- `GET /v1/servers/recent?limit=12` - list recently added servers using git-derived catalog timestamps.
+- `GET /v1/servers/updated?limit=12` - list recently updated entries using git-derived catalog timestamps.
 - `GET /v1/servers/{id}` - fetch the normalized profile for one MCP server.
 - `GET /v1/servers/{id}/badge.svg` - render a TensorBlock MCP Index badge for project READMEs.
 - `GET /v1/servers/{id}/install-config?client=claude-desktop` - generate an MCP client config for Claude Desktop, Cursor, Codex, or VS Code.
@@ -131,6 +133,7 @@ What the API supports today:
 
 - Search MCP servers by keyword.
 - Filter by category, transport, auth type, and result limit.
+- Browse recently added and recently updated servers.
 - Browse all categories with entry counts.
 - Fetch a normalized server profile by stable server id.
 - Generate install-config previews for Claude Desktop, Cursor, Codex, and VS Code.

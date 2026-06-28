@@ -16,6 +16,8 @@ GET /health
 GET /v1
 GET /v1/categories
 GET /v1/servers?query=&category=&transport=&auth=&limit=
+GET /v1/servers/recent?limit=
+GET /v1/servers/updated?limit=
 GET /v1/servers/{id}
 GET /v1/servers/{id}/badge.svg
 GET /v1/servers/{id}/install-config?client=claude-desktop|cursor|codex|vscode
@@ -40,6 +42,20 @@ Filter by category and transport:
 ```bash
 curl "$MCP_INDEX_API_URL/v1/servers?category=Databases&transport=stdio"
 ```
+
+Fetch recently added servers:
+
+```bash
+curl "$MCP_INDEX_API_URL/v1/servers/recent?limit=12"
+```
+
+Fetch recently updated catalog entries:
+
+```bash
+curl "$MCP_INDEX_API_URL/v1/servers/updated?limit=12"
+```
+
+Server summaries include `sourcePullRequest` when known and `lastUpdatedAt` when the catalog builder can derive it from git history. The `recent` and `updated` collections sort by `lastUpdatedAt`, using source pull request numbers as an additional ordering signal when timestamps tie.
 
 Fetch a full server profile:
 
