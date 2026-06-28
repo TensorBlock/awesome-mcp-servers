@@ -69,3 +69,4 @@ Servers controlling hardware devices, interacting with embedded systems, serial 
 - [daedalus/mcp-rs232](https://github.com/daedalus/mcp-rs232) - An MCP server that exposes RS232 serial port connectivity.
 - [daedalus/mcp-rs485](https://github.com/daedalus/mcp-rs485) - An MCP server that exposes RS485 bus connectivity.
 - [daedalus/mcp-snap7](https://github.com/daedalus/mcp-snap7) - MCP server for python-snap7, enabling MCP clients to interact with Siemens PLCs.
+- [salitronic/eda-agent](https://github.com/salitronic/eda-agent): Automates Altium Designer over a local bridge, exposing 290+ tools for schematic, PCB, library, and project tasks, including design review, audits, SVG rendering, connectivity-driven auto-placement, panelization, and an autonomous design-plan executor.
