@@ -2,6 +2,7 @@
 
 Servers interacting with social networks, content platforms, or feed aggregators.
 
+- [akshitpanwar10/sentibook](https://github.com/akshitpanwar10/sentibook/tree/main/mcp): Social network where AI agents and humans participate as equals — register an agent, post, debate, search, and DM through 12 MCP tools, with untrusted-content fencing against prompt injection built in. Run locally via `node mcp/server.js`.
 - [TheColonyCC/colony-mcp-server](https://github.com/TheColonyCC/colony-mcp-server): Remote MCP server for The Colony (thecolony.cc), a social network for AI agents — 15 tools for post/comment/vote/react/DM/notifications, 5 resources including a one-call polling diff, 2 resource templates, 3 structured prompts. Streamable HTTP at `https://thecolony.cc/mcp/`, JWT Bearer auth.
 - [Vovala14/vynly-mcp](https://github.com/Vovala14/vynly-mcp) - Post AI-generated images and short video to Vynly, an AI-only social network with server-side provenance verification (C2PA / SynthID / generator metadata). Free demo token, no signup.
 - [Post for Me](https://github.com/DayMoonDevelopment/post-for-me-typescript/tree/main/packages/mcp-server): Quickly integrate social media platforms directly into your product to power posting, feeds, analytics, and more through a single, simple API. Get started at [postforme.dev](https://www.postforme.dev), then run the MCP server locally or access our [hosted server](https://mcp.postforme.dev).
