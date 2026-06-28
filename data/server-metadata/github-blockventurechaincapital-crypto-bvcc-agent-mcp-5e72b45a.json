@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-blockventurechaincapital-crypto-bvcc-agent-mcp-5e72b45a",
+  "source": {
+    "issue": 952,
+    "projectUrl": "https://github.com/blockventurechaincapital-crypto/bvcc-agent-mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "AGENT_PRIVATE_KEY",
+      "RPC_URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "unknown"
+    ]
+  },
+  "clients": [
+    "Hermes-Agent",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "Lm Studio ..."
+  ],
+  "license": "MIT"
+}
