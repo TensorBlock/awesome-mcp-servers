@@ -5,6 +5,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [paperandbeyond23-gif/edgrapi-skills](https://github.com/paperandbeyond23-gif/edgrapi-skills): Clean SEC EDGAR financial data MCP server for income statements, balance sheets, cash flow, ratios, company profiles, filings, and 10-K/10-Q narrative sections normalized to JSON for 10,000+ US public companies. Hosted Streamable HTTP at `https://api.edgrapi.com/mcp`; Bearer API key auth with a free tier. Homepage: https://edgrapi.com; docs: https://edgrapi.com/docs.
 - [jarvismaximum-hue/profitplay-mcp](https://github.com/jarvismaximum-hue/profitplay-mcp): Prediction market arena MCP server where agents register, view games and markets, place or cancel bets, check status, read leaderboards, and chat around BTC, ETH, SOL, S&P 500, and gold price-movement games. 9 tools. MIT.
 - [kame6493-del/kabu-mcp](https://github.com/kame6493-del/kabu-mcp): Japanese and global stock market MCP server for quotes, charts, RSI, MACD, Bollinger Bands, and market screening. Install: `npx kabu-mcp`.
 - [Luckkyyy23/omni-service-node](https://github.com/Luckkyyy23/omni-service-node): Pay-per-call data marketplace MCP server with endpoints for trading signals, macro economics, geopolitical intelligence, crypto, DeFi, whale tracking, SEC filings, insider trades, options flow, ArXiv research, sanctions screening, AI tokens, and Bittensor.
