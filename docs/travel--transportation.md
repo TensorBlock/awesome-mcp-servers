@@ -2,6 +2,7 @@
 
 Servers providing data or services related to flights, trains, transportation APIs, or travel planning.
 
+- [OctoTrip/rental-cars](https://github.com/OctoTrip/rental-cars): Free rental car search with real-time pricing from multiple providers worldwide. No API key or login required. Returns cars grouped by category (economy, compact, SUV, etc.) with per-day pricing, vendor details, and booking links. Remote Streamable HTTP endpoint at `https://mcp.octotrip.app/rental-cars/mcp`.
 - [drivly/auto-dev-skill](https://github.com/drivly/auto-dev-skill): Automotive data APIs for AI agents — VIN decode, vehicle listings, payments, recalls, and specs.
 - [MyCarTracks](https://mycartracks.com/resources/connect-with-ai): Remote MCP server for app-based GPS vehicle tracking and automatic mileage tracking, exposing authorized trip, track, and vehicle data via `https://mycartracks.com/mcp`.
 - [ckorhonen/mta-mcp](https://subwayinfo.nyc): Provides real-time NYC subway arrivals, service status, alerts, station search, and trip planning capabilities.
