@@ -13,7 +13,7 @@
     "env": [
       "URL"
     ],
-    "confidence": "low"
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
