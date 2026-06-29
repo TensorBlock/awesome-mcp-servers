@@ -1,0 +1,24 @@
+{
+  "id": "github-phoenixai-sw-mcp-agent-phoenix-1286e68d",
+  "name": "phoenixai-sw/mcp-agent-phoenix",
+  "description": "A Python-based MCP server for YouTube content analysis, integrating with OpenAI Agents SDK for enhanced AI-driven insights.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-phoenixai-sw-mcp-agent-phoenix-1286e68d",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-phoenixai-sw-mcp-agent-phoenix-1286e68d)",
+  "links": {
+    "primary": "https://github.com/phoenixai-sw/mcp-agent-phoenix",
+    "repo": "https://github.com/phoenixai-sw/mcp-agent-phoenix",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

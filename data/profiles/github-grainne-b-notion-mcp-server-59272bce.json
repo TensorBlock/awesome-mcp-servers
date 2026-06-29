@@ -1,0 +1,24 @@
+{
+  "id": "github-grainne-b-notion-mcp-server-59272bce",
+  "name": "grainne-b/notion_mcp_server",
+  "description": "Facilitates integration with Notion through an MCP server, enabling seamless API interactions and automation.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-grainne-b-notion-mcp-server-59272bce",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-grainne-b-notion-mcp-server-59272bce)",
+  "links": {
+    "primary": "https://github.com/grainne-b/notion_mcp_server",
+    "repo": "https://github.com/grainne-b/notion_mcp_server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

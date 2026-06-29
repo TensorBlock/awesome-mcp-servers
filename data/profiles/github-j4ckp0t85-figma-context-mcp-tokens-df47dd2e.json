@@ -1,0 +1,24 @@
+{
+  "id": "github-j4ckp0t85-figma-context-mcp-tokens-df47dd2e",
+  "name": "j4ckp0t85/Figma-Context-MCP-tokens",
+  "description": "Facilitates AI-powered tools to access and translate Figma design data into detailed CSS and design tokens for seamless integration into development workflows.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-j4ckp0t85-figma-context-mcp-tokens-df47dd2e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-j4ckp0t85-figma-context-mcp-tokens-df47dd2e)",
+  "links": {
+    "primary": "https://github.com/j4ckp0t85/Figma-Context-MCP-tokens",
+    "repo": "https://github.com/j4ckp0t85/Figma-Context-MCP-tokens",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

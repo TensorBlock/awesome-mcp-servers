@@ -1,0 +1,24 @@
+{
+  "id": "github-index01d-ytrnscrpt-mcp-server-acd122b1",
+  "name": "index01d/ytrnscrpt-mcp-server",
+  "description": "Facilitates Claude's ability to retrieve and analyze YouTube video transcripts through an MCP server.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-index01d-ytrnscrpt-mcp-server-acd122b1",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-index01d-ytrnscrpt-mcp-server-acd122b1)",
+  "links": {
+    "primary": "https://github.com/index01d/ytrnscrpt-mcp-server",
+    "repo": "https://github.com/index01d/ytrnscrpt-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

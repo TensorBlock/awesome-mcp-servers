@@ -1,0 +1,24 @@
+{
+  "id": "github-kevinypfan-fugle-mcp-server-062d6dac",
+  "name": "kevinypfan/fugle-mcp-server",
+  "description": "Facilitates interaction with the Fugle trading system, offering real-time stock market queries and optional trading capabilities.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-kevinypfan-fugle-mcp-server-062d6dac",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kevinypfan-fugle-mcp-server-062d6dac)",
+  "links": {
+    "primary": "https://github.com/kevinypfan/fugle-mcp-server",
+    "repo": "https://github.com/kevinypfan/fugle-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: TensorBlock Discord
+    url: https://discord.com/invite/Ej5NmeHFf2
+    about: Discuss metadata quality, profile claims, client config formats, and roadmap work with the community.
+  - name: Hosted MCP Index API
+    url: https://mcp-index.tensorblock.co
+    about: Explore the live API discovery page, search endpoints, profile endpoints, badges, and install-config generation.
+  - name: MCP Index Community Cleanup Queue
+    url: https://github.com/TensorBlock/awesome-mcp-servers/blob/main/docs/community-cleanup-queue.md
+    about: Pick a scoped cleanup task for metadata, broken entries, catalog-health reports, client config requests, or profile claims.
+  - name: MCP Index API docs
+    url: https://github.com/TensorBlock/awesome-mcp-servers/blob/main/docs/index-api.md
+    about: Read the HTTP API docs before building against the index.

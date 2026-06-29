@@ -1,0 +1,24 @@
+{
+  "id": "github-sinkect-unity-mcp-for-server-4d0104e8",
+  "name": "sinkect/unity-mcp-for-server",
+  "description": "Facilitates the integration of Unity with MCP through a Node.js server, enabling seamless communication and debugging within the Unity Editor.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-sinkect-unity-mcp-for-server-4d0104e8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sinkect-unity-mcp-for-server-4d0104e8)",
+  "links": {
+    "primary": "https://github.com/sinkect/unity-mcp-for-server",
+    "repo": "https://github.com/sinkect/unity-mcp-for-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

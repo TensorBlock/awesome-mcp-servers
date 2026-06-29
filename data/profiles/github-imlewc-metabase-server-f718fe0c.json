@@ -1,0 +1,24 @@
+{
+  "id": "github-imlewc-metabase-server-f718fe0c",
+  "name": "imlewc/metabase-server",
+  "description": "Facilitates AI-driven interaction with Metabase by providing a TypeScript-based MCP server for querying and managing dashboards, questions, and databases.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-imlewc-metabase-server-f718fe0c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-imlewc-metabase-server-f718fe0c)",
+  "links": {
+    "primary": "https://github.com/imlewc/metabase-server",
+    "repo": "https://github.com/imlewc/metabase-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

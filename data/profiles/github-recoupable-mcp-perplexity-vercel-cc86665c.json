@@ -1,0 +1,24 @@
+{
+  "id": "github-recoupable-mcp-perplexity-vercel-cc86665c",
+  "name": "recoupable/mcp-perplexity-vercel",
+  "description": "Access Perplexity AI's language models via a standardized MCP interface with seamless Vercel deployment.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-recoupable-mcp-perplexity-vercel-cc86665c",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-recoupable-mcp-perplexity-vercel-cc86665c)",
+  "links": {
+    "primary": "https://github.com/recoupable/mcp-perplexity-vercel",
+    "repo": "https://github.com/recoupable/mcp-perplexity-vercel",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-nikolaypavlov-mcp-myip-e55f93ac",
+  "name": "nikolaypavlov/mcp-myip",
+  "description": "Provides LLMs with access to public IP information via a Model Context Protocol server.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-nikolaypavlov-mcp-myip-e55f93ac",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nikolaypavlov-mcp-myip-e55f93ac)",
+  "links": {
+    "primary": "https://github.com/nikolaypavlov/mcp-myip",
+    "repo": "https://github.com/nikolaypavlov/mcp-myip",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

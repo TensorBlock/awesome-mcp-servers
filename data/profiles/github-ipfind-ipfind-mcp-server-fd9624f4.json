@@ -1,0 +1,24 @@
+{
+  "id": "github-ipfind-ipfind-mcp-server-fd9624f4",
+  "name": "ipfind/ipfind-mcp-server",
+  "description": "Facilitates AI assistants in retrieving IP address locations via the IP Find API.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/github-ipfind-ipfind-mcp-server-fd9624f4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ipfind-ipfind-mcp-server-fd9624f4)",
+  "links": {
+    "primary": "https://github.com/ipfind/ipfind-mcp-server",
+    "repo": "https://github.com/ipfind/ipfind-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "smithery-ai-servers-usdv-capital-real-estate-cfo-c486ecd1",
+  "source": {
+    "projectUrl": "https://smithery.ai/servers/usdv-capital/real-estate-cfo"
+  },
+  "links": {
+    "endpoint": "https://real-estate-cfo--usdv-capital.run.tools"
+  },
+  "install": {
+    "commands": [
+      "npx -y smithery mcp add usdv-capital/real-estate-cfo"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Smithery listing and original PR describe open access for most tools"
+    ]
+  }
+}

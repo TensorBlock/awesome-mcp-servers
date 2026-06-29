@@ -1,0 +1,24 @@
+{
+  "id": "github-mizakahk-mcp-gomamayo-20a0f3cf",
+  "name": "mizakaHK/mcp-gomamayo",
+  "description": "Facilitates text structure validation for 'ゴママヨ' using the Model Context Protocol.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-mizakahk-mcp-gomamayo-20a0f3cf",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mizakahk-mcp-gomamayo-20a0f3cf)",
+  "links": {
+    "primary": "https://github.com/mizakaHK/mcp-gomamayo",
+    "repo": "https://github.com/mizakaHK/mcp-gomamayo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

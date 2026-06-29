@@ -1,0 +1,59 @@
+name: Improve MCP metadata
+description: Fix or enrich an indexed MCP server profile.
+title: "Improve metadata: "
+labels:
+  - metadata
+body:
+  - type: input
+    id: profile-url
+    attributes:
+      label: TensorBlock profile URL or server id
+      placeholder: https://tensorblock.co/mcp/servers/... or server id
+    validations:
+      required: true
+  - type: input
+    id: project-url
+    attributes:
+      label: Project URL
+      placeholder: https://github.com/owner/project
+    validations:
+      required: false
+  - type: checkboxes
+    id: fields
+    attributes:
+      label: Metadata to update
+      options:
+        - label: Description
+        - label: Category
+        - label: Install command
+        - label: Environment variables
+        - label: Transport
+        - label: Auth requirements
+        - label: Supported clients
+        - label: Tool names or tool count
+        - label: Docs URL
+        - label: License
+        - label: Health or verification status
+  - type: textarea
+    id: changes
+    attributes:
+      label: Correct metadata
+      description: Include exact values using labels like Install, Transport, Auth, Docs URL, License, Tools, Tool count, or Verification.
+      placeholder: |
+        Description: Short profile description to show in search results.
+        Transport: stdio
+        Auth: api-key, requires EXAMPLE_API_KEY
+        Install: `npx -y example-mcp`
+        Docs URL: https://docs.example.com/example-mcp
+        License: MIT
+        Tools: search, fetch_profile
+        Tool count: 2
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source or proof
+      description: Link docs, README sections, package pages, maintainer comments, or other references.
+    validations:
+      required: false

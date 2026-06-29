@@ -1,0 +1,24 @@
+{
+  "id": "github-hrishi0102-spotifyyy-mcp-39485a79",
+  "name": "hrishi0102/spotifyyy-mcp",
+  "description": "Interact with Spotify through Claude to search for songs, create playlists, and get personalized recommendations using your Spotify account.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-hrishi0102-spotifyyy-mcp-39485a79",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hrishi0102-spotifyyy-mcp-39485a79)",
+  "links": {
+    "primary": "https://github.com/hrishi0102/spotifyyy-mcp",
+    "repo": "https://github.com/hrishi0102/spotifyyy-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

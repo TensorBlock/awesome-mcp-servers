@@ -1,0 +1,24 @@
+{
+  "id": "github-devyhan-mcp-swift-example-server-7fc490ab",
+  "name": "devyhan/mcp-swift-example-server",
+  "description": "A Swift-based server utilizing the Model Context Protocol for communication via stdio, featuring a custom echo tool and integration with Claude Desktop.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/github-devyhan-mcp-swift-example-server-7fc490ab",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-devyhan-mcp-swift-example-server-7fc490ab)",
+  "links": {
+    "primary": "https://github.com/devyhan/mcp-swift-example-server",
+    "repo": "https://github.com/devyhan/mcp-swift-example-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

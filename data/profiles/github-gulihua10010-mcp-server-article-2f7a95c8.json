@@ -1,0 +1,24 @@
+{
+  "id": "github-gulihua10010-mcp-server-article-2f7a95c8",
+  "name": "gulihua10010/mcp-server-article",
+  "description": "Automates article generation and publication to platforms like CSDN, Juejin, and Cnblogs using AI and MCP protocol integration.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-gulihua10010-mcp-server-article-2f7a95c8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gulihua10010-mcp-server-article-2f7a95c8)",
+  "links": {
+    "primary": "https://github.com/gulihua10010/mcp-server-article",
+    "repo": "https://github.com/gulihua10010/mcp-server-article",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

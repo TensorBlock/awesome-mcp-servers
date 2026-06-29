@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-larrylemonbot-resultrail-mcp-server-edd5e2b0",
+  "source": {
+    "projectUrl": "https://github.com/LarryLemonBot/resultrail-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://x402-resource-scanner.vercel.app/resultrail/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Public initialize and tools/list are available; protected paid execution may require product authorization or x402 payment flow"
+    ]
+  }
+}

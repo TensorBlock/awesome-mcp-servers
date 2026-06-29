@@ -1,0 +1,24 @@
+{
+  "id": "github-ekzhu-mcp-server-sparql-f5f4b563",
+  "name": "ekzhu/mcp-server-sparql",
+  "description": "Facilitates querying SPARQL endpoints through a Model Context Protocol server, enabling seamless data retrieval from sources like Wikidata.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/github-ekzhu-mcp-server-sparql-f5f4b563",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ekzhu-mcp-server-sparql-f5f4b563)",
+  "links": {
+    "primary": "https://github.com/ekzhu/mcp-server-sparql",
+    "repo": "https://github.com/ekzhu/mcp-server-sparql",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-taazkareem-twitter-mcp-server-318d8fa0",
+  "name": "taazkareem/twitter-mcp-server",
+  "description": "Integrates Twitter functionalities with AI agents using the MCP standard, offering a seamless interface for accessing and interacting with Twitter data.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/github-taazkareem-twitter-mcp-server-318d8fa0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-taazkareem-twitter-mcp-server-318d8fa0)",
+  "links": {
+    "primary": "https://github.com/taazkareem/twitter-mcp-server",
+    "repo": "https://github.com/taazkareem/twitter-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

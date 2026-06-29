@@ -1,0 +1,24 @@
+{
+  "id": "github-scrapezy-mcp-935d2c9e",
+  "name": "Scrapezy/mcp",
+  "description": "Enables AI models to extract structured data from websites using the Model Context Protocol.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-scrapezy-mcp-935d2c9e",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-scrapezy-mcp-935d2c9e)",
+  "links": {
+    "primary": "https://github.com/Scrapezy/mcp",
+    "repo": "https://github.com/Scrapezy/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

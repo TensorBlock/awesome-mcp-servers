@@ -1,0 +1,24 @@
+{
+  "id": "github-yzfly-mcp-python-interpreter-96a2dfe0",
+  "name": "yzfly/mcp-python-interpreter",
+  "description": "Facilitates LLM interaction with Python environments for code execution, file management, and development workflows.",
+  "category": "Code Execution",
+  "profileUrl": "https://tensorblock.co/mcp/github-yzfly-mcp-python-interpreter-96a2dfe0",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yzfly-mcp-python-interpreter-96a2dfe0)",
+  "links": {
+    "primary": "https://github.com/yzfly/mcp-python-interpreter",
+    "repo": "https://github.com/yzfly/mcp-python-interpreter",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

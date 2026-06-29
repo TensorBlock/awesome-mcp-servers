@@ -1,0 +1,24 @@
+{
+  "id": "github-ciaraadkins-puppeteer-plus-mcp-928f5563",
+  "name": "ciaraadkins/puppeteer-plus-mcp",
+  "description": "Enhances Puppeteer with advanced digital marketing and SEO analysis capabilities, enabling comprehensive audits of website marketing technologies and SEO practices.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/github-ciaraadkins-puppeteer-plus-mcp-928f5563",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ciaraadkins-puppeteer-plus-mcp-928f5563)",
+  "links": {
+    "primary": "https://github.com/ciaraadkins/puppeteer-plus-mcp",
+    "repo": "https://github.com/ciaraadkins/puppeteer-plus-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,93 @@
+## 🏗️ Build & Deployment Tools
+
+Servers interacting with build systems, containerization, CI/CD, or deployment platforms.
+
+- [zenoengine/msbuild-mcp-server](https://github.com/zenoengine/msbuild-mcp-server): Automates MSBuild project builds with dynamic discovery and customizable configurations, integrating seamlessly with various MCP clients.
+- [radostkali/gitlab-mcp-server](https://github.com/radostkali/gitlab-mcp-server): Facilitates GitLab integration using FastMCP for streamlined code review and repository management.
+- [rianvdm/remote-mcp-server](https://github.com/rianvdm/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [gabelul/perplexity-mcp](https://github.com/gabelul/perplexity-mcp): An intelligent research assistant leveraging Perplexity's AI models for automatic query complexity detection and optimal model routing.
+- [yoda-digital/horologic-mcp](https://github.com/yoda-digital/horologic-mcp): Horologic MCP is a TypeScript server for time and timezone operations, seamlessly integrating with MCP-compatible clients like Claude Desktop.
+- [Miura55/fastapi-mcp-workshop](https://github.com/Miura55/fastapi-mcp-workshop): A workshop sample code for implementing MCP using FastAPI, facilitating integration with mcp-proxy.
+- [hipposys-ltd/airflow-mcp](https://github.com/hipposys-ltd/airflow-mcp): Enhance your Apache Airflow management with natural language queries and troubleshooting using a custom MCP server.
+- [aYenx/remote-mcp-server](https://github.com/aYenx/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with Claude Desktop and MCP Inspector.
+- [kaeosdesign/remote-mcp-server](https://github.com/kaeosdesign/remote-mcp-server): Deploy and manage a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.
+- [vistaarjuneja/harness-mcp](https://github.com/vistaarjuneja/harness-mcp): Facilitates the management of connectors within the Harness platform using a Model Context Protocol server.
+- [ankit1057/nexuscontroller](https://github.com/ankit1057/nexuscontroller): NexusController offers advanced Android automation with MCP support for seamless AI integration, enabling robust device control and UI testing.
+- [yodablocks/mcp-installer.0](https://github.com/yodablocks/mcp-installer.0): Facilitates the installation of MCP servers from npm or PyPi using Claude, streamlining server setup processes.
+- [akr4/claude-code-mcp-docker](https://github.com/akr4/claude-code-mcp-docker): A Docker container for running Claude Code MCP server with enhanced security features, including a network firewall to prevent unauthorized outbound connections.
+- [sakomws/mcp-cf-deploy](https://github.com/sakomws/mcp-cf-deploy): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [hiroooo000/mydockers](https://github.com/hiroooo000/mydockers): Facilitates browser automation using Playwright within a Dockerized MCP server environment.
+- [dandacompany/webhook-trigger](https://github.com/dandacompany/webhook-trigger): Facilitates dynamic webhook transmission using FastMCP framework with support for various HTTP methods and custom headers.
+- [base/base-builder-mcp](https://github.com/base/base-builder-mcp): Facilitates integration with Base Docs for Model Context Protocol, enabling seamless interaction with Base Builders.
+- [snowsky/mcp-helmfile](https://github.com/snowsky/mcp-helmfile): Facilitates Helmfile command execution and management through a standardized MCP interface, enhancing AI-assisted deployments and configurations.
+- [buildkite/buildkite-mcp-server](https://github.com/buildkite/buildkite-mcp-server): Facilitates access to Buildkite pipeline, build, and job data for integration with tools like Claude Desktop and GitHub Copilot.
+- [bsmith925/mcp-examples](https://github.com/bsmith925/mcp-examples): Explore deployment configurations and custom implementations for team-wide MCP servers, focusing on Git repository management and Kubernetes deployment.
+- [misanthropic-ai/lean-docker-mcp](https://github.com/misanthropic-ai/lean-docker-mcp): Facilitates the execution of Lean4 code in isolated Docker containers for LLM-powered agents, offering both transient and persistent environments.
+- [kappaexpress/docker-mcp](https://github.com/kappaexpress/docker-mcp): Facilitates MCP server integration with Claude Desktop using a Docker image built with Playwright.
+- [aaomidi/mcp-bazel](https://github.com/aaomidi/mcp-bazel): Facilitates Bazel project interactions by providing build, test, and dependency analysis tools.
+- [ThomasRohde/mcp_server_manager](https://github.com/ThomasRohde/mcp_server_manager): A backend Python application offering a Model Context Protocol interface and FastAPI web interface for managing MCP servers integrated with Claude Desktop.
+- [addozhang/spring-rest-to-mcp](https://github.com/addozhang/spring-rest-to-mcp): Effortlessly transform Spring Web REST APIs into MCP server tools using OpenRewrite recipes for seamless AI integration.
+- [gunpal5/QuickMCP](https://github.com/gunpal5/QuickMCP): QuickMCP enables rapid creation and deployment of MCP servers using OpenAPI, Swagger, or Google Discovery specifications with .NET.
+- [Drew-Goddyn/buildkite-mcp](https://github.com/Drew-Goddyn/buildkite-mcp): Facilitates seamless integration with Buildkite by providing a microservice for retrieving and managing build information via MCP.
+- [thepragmatik/mcp-server-jvm-build-tools](https://github.com/thepragmatik/mcp-server-jvm-build-tools): Facilitates natural language interaction with Apache Maven through an MCP server for streamlined project builds.
+- [f-inc/containerinc-mcp](https://github.com/f-inc/containerinc-mcp): Automates deployments to Container Inc. with ephemeral and free deployment capabilities.
+- [cpecf/docker-mcp](https://github.com/cpecf/docker-mcp): Facilitates Docker container and compose stack management through Claude AI integration.
+- [hirotoe0112/mcp-server-docker](https://github.com/hirotoe0112/mcp-server-docker): A sample Docker setup for deploying an MCP server using a specified docker-compose configuration.
+- [lieee1995/mcp-jenkins-server](https://github.com/lieee1995/mcp-jenkins-server): Integrates Jenkins with MCP to manage jobs, builds, and views through a Python-based server.
+- [garrettgalow/remote-mcp-server](https://github.com/garrettgalow/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [runbookai/runbook-mcp-server](https://github.com/runbookai/runbook-mcp-server): Facilitates the execution of operational runbooks through Claude Desktop, enabling tasks like service deployment and Kubernetes upgrades.
+- [kartikeyapandey20/jenkins-mcp-server](https://github.com/kartikeyapandey20/jenkins-mcp-server): Facilitates Jenkins operations management through an MCP server, enabling job listing, build triggering, and status checking.
+- [luoluoluo22/remote-mcp-server](https://github.com/luoluoluo22/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [narumiruna/twse-mcp](https://github.com/narumiruna/twse-mcp): Facilitates the execution of TWSE-related tasks through a customizable MCP server setup.
+- [samansara/remote-mcp-server](https://github.com/samansara/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [lecepin/gen-mcp](https://github.com/lecepin/gen-mcp): A CLI tool that generates MCP server scaffolding with TypeScript support, offering templates for Stdio and SSE transport methods.
+- [allen-munsch/mcp-prefect](https://github.com/allen-munsch/mcp-prefect): Facilitates natural language interaction with Prefect's APIs for flow, task, and deployment management.
+- [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server): Enables AI agents to integrate real-time production context into local environments for faster code auto-fixing.
+- [elblanco2/arc-mcp](https://github.com/elblanco2/arc-mcp): Arc MCP Server facilitates seamless web application deployment across various hosting environments through conversational interfaces, bridging the gap between LLMs and hosting platforms.
+- [tgrall/mcp-github-actions-versions](https://github.com/tgrall/mcp-github-actions-versions): Facilitates seamless updates to GitHub Actions workflows by providing the latest versions through a lightweight MCP server.
+- [XD3an/mcp-builder](https://github.com/XD3an/mcp-builder): A Python-based MCP server designed to streamline the installation and configuration of other MCP servers across multiple platforms.
+- [ma3u/mcp-server-dust-Py](https://github.com/ma3u/mcp-server-dust-Py): Facilitates integration with Dust AI agents through HTTP calls, enabling advanced cognitive and problem-solving capabilities.
+- [nextDriveIoE/github-action-trigger-mcp](https://github.com/nextDriveIoE/github-action-trigger-mcp): Facilitates seamless integration with GitHub Actions by providing tools to fetch, trigger, and manage workflows and releases.
+- [marcoeg/mcp-bauplan](https://github.com/marcoeg/mcp-bauplan): Facilitates interaction with Bauplan data tables using SQL queries and supports both SSE and STDIO transports.
+- [erinnmclaughlin/Tizzani.AzureDevOps.MCP](https://github.com/erinnmclaughlin/Tizzani.AzureDevOps.MCP): Facilitates seamless integration with Azure DevOps through a dedicated MCP server for API queries.
+- [elblanco2/hostbridge-mcp](https://github.com/elblanco2/hostbridge-mcp): Arc MCP Server streamlines framework deployments on shared hosting environments, bridging LLMs with hosting platforms for seamless web application deployment.
+- [misanthropic-ai/python-docker-mcp](https://github.com/misanthropic-ai/python-docker-mcp): A Dockerized Python execution environment for LLM-powered agents, enabling secure and isolated code execution with transient and persistent session options.
+- [ProgrammerAgua/jenkins-mcp-server](https://github.com/ProgrammerAgua/jenkins-mcp-server): Facilitates Jenkins job management and operations through a Spring AI-based MCP server.
+- [braveTony44/docker-mcp-server](https://github.com/braveTony44/docker-mcp-server): Automate Docker container management with AI-driven MCP server integration, enabling seamless container lifecycle operations and real-time monitoring.
+- [gitsoufiane/mcp-launchdarkley](https://github.com/gitsoufiane/mcp-launchdarkley): Facilitates querying and managing LaunchDarkly feature flags and resources through MCP integration.
+- [ko1ynnky/github-actions-mcp-server](https://github.com/ko1ynnky/github-actions-mcp-server): Facilitates AI-driven management of GitHub Actions workflows with comprehensive error handling and security features.
+- [mwolf1989/tanstack-starter](https://github.com/mwolf1989/tanstack-starter): A starter template integrating TanStack with Supabase, featuring MCP support for natural language database interactions.
+- [Warashi/mcp-server-pipecd](https://github.com/Warashi/mcp-server-pipecd): Facilitates integration and management of applications and deployments with PipeCD.
+- [ruibaby/1panel-mcp](https://github.com/ruibaby/1panel-mcp): Automates the deployment of websites to 1Panel servers, ensuring seamless integration with the MCP standard protocol.
+- [baronfel/mcp-msbuild-host](https://github.com/baronfel/mcp-msbuild-host): Facilitates the analysis of MSBuild projects by integrating with any MCP server.
+- [1Panel-dev/mcp-1panel](https://github.com/1Panel-dev/mcp-1panel): Facilitates seamless integration with 1Panel by providing a robust MCP server implementation.
+- [OwenQian/mcp-server-manager](https://github.com/OwenQian/mcp-server-manager): A Python script that manages multiple MCP servers, wrapping stdio servers with Supergateway to expose them as SSE servers, and supports automatic recovery and background operation.
+- [cuongdev/mcp-codepipeline-server](https://github.com/cuongdev/mcp-codepipeline-server): Integrates AWS CodePipeline with Windsurf and Cascade, offering a standardized interface for pipeline management and natural language interaction.
+- [jfrog/mcp-jfrog](https://github.com/jfrog/mcp-jfrog): Facilitates repository management, build tracking, and release lifecycle management within the JFrog Platform API.
+- [severity1/argocd-mcp](https://github.com/severity1/argocd-mcp): Integrates with the ArgoCD API to enable AI-driven management of ArgoCD applications and resources through natural language.
+- [spheronFdn/spheron-mcp-plugin](https://github.com/spheronFdn/spheron-mcp-plugin): Integrates with the Spheron SDK to enable compute deployment and management through Claude.
+- [vlyl/mcpc](https://github.com/vlyl/mcpc): A command-line tool for generating structured MCP server project templates in TypeScript or Python, complete with dependency management and testing capabilities.
+- [infinitimeless/mcp-server-manager](https://github.com/infinitimeless/mcp-server-manager): Facilitates the creation, building, and management of MCP servers for integration with Claude and other clients.
+- [marvijo-code/azure-pipelines-mcp-roo](https://github.com/marvijo-code/azure-pipelines-mcp-roo): Facilitates interaction with Azure DevOps Pipelines by listing and triggering pipeline runs through MCP integration.
+- [situ2001/unplugin-mcp](https://github.com/situ2001/unplugin-mcp): A versatile plugin that integrates an MCP server with JavaScript build tools, enabling AI-driven build process management and codebase analysis.
+- [tibbon/github-actions-mcp](https://github.com/tibbon/github-actions-mcp): Facilitates interaction with GitHub Actions workflows and artifacts through a Model Context Protocol server.
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp): Automatically exposes FastAPI endpoints as MCP tools with zero configuration, enabling seamless integration and discovery of API resources.
+- [ShenghaiWang/androidbuild](https://github.com/ShenghaiWang/androidbuild): Facilitates Android project builds and testing with seamless integration into Visual Studio Code using MCP protocols.
+- [treerootboy/airflow-mcp](https://github.com/treerootboy/airflow-mcp): Integrates with Apache Airflow to manage and monitor DAG operations through a Model Context Protocol server.
+- [nacgarg/bazel-mcp-server](https://github.com/nacgarg/bazel-mcp-server): Facilitates AI agents in utilizing Bazel's build system through a local MCP server, offering tools for building, querying, testing, and managing Bazel targets.
+- [ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild): Facilitates building and testing iOS Xcode projects with seamless integration into Visual Studio Code workflows.
+- [thrashr888/terraform-mcp-server](https://github.com/thrashr888/terraform-mcp-server): Facilitates AI-driven interactions with the Terraform Registry API, enabling detailed queries on providers, resources, and modules.
+- [jlopezm/mcp-build-toolchain](https://github.com/jlopezm/mcp-build-toolchain): Facilitates efficient build processes by analyzing and filtering compilation errors to optimize LLM token usage.
+- [kjozsa/jenkins-mcp](https://github.com/kjozsa/jenkins-mcp): Facilitates Jenkins operations management through an MCP server, enabling job listing, build triggering, and status checking.
+- [AnyContext-ai/fastmcp-openapi-server](https://github.com/AnyContext-ai/fastmcp-openapi-server): FastMCP Server facilitates OpenAPI-based API interactions with support for various transport methods and OAuth2 authentication.
+- [TheApeMachine/mcp-server-devops-bridge](https://github.com/TheApeMachine/mcp-server-devops-bridge): A sophisticated bridge connecting DevOps tools with AI capabilities, enabling seamless integration and autonomous workflows across platforms like Azure DevOps, GitHub, and Slack.
+- [nickbaumann98/release-notes-server](https://github.com/nickbaumann98/release-notes-server): Generates organized and enriched release notes from GitHub commits, utilizing efficient API usage and markdown formatting.
+- [peterparker57/clarion-builder-mcp-server](https://github.com/peterparker57/clarion-builder-mcp-server): Facilitates automated Clarion IDE operations and build management through ClarionCL and MSBuild integration.
+- [hanweg/mcp-tool-builder](https://github.com/hanweg/mcp-tool-builder): Empowers LLMs to dynamically create and manage new tools through MCP clients like Claude Desktop.
+- [strowk/synf](https://github.com/strowk/synf): Synf enhances MCP server development by enabling hot-reloading on file changes, ensuring seamless integration and state management between client and server.
+- [dkmaker/mcp-rest-api](https://github.com/dkmaker/mcp-rest-api): A TypeScript-based server for testing and interacting with REST API endpoints directly from your development environment.
+- [hekmon8/Jenkins-server-mcp](https://github.com/hekmon8/Jenkins-server-mcp): Facilitates AI-driven interactions with Jenkins CI/CD servers for build management and log retrieval.
+- [trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide](https://github.com/trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide): A detailed guide for verifying and troubleshooting MCP server installations on Windows, highlighting key differences from MacOS setups.
+- [Bigsy/maven-mcp-server](https://github.com/Bigsy/maven-mcp-server): Facilitates LLMs in verifying and retrieving Maven dependency versions from the Maven Central Repository.
+- [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp): Facilitates Docker container and stack management through Claude AI with a Model Context Protocol server.
+

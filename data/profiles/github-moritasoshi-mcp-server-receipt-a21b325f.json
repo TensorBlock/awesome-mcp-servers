@@ -1,0 +1,24 @@
+{
+  "id": "github-moritasoshi-mcp-server-receipt-a21b325f",
+  "name": "moritasoshi/mcp-server-receipt",
+  "description": "Facilitates automated receipt organization by guiding LLMs to extract and rename receipt files using a standardized format.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-moritasoshi-mcp-server-receipt-a21b325f",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-moritasoshi-mcp-server-receipt-a21b325f)",
+  "links": {
+    "primary": "https://github.com/moritasoshi/mcp-server-receipt",
+    "repo": "https://github.com/moritasoshi/mcp-server-receipt",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}
