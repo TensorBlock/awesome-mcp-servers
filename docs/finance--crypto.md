@@ -331,4 +331,4 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [huahuayu/1scan](https://github.com/huahuayu/1scan): A unified API gateway that integrates multiple blockchain explorer APIs, enabling AI assistants to query blockchain data via MCP.
 - [Frederick-G764/brokers-mcp](https://github.com/Frederick-G764/brokers-mcp): Facilitates interaction with TradeStation's API for trading operations, including retrieving market data and managing orders and positions.
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server): Facilitates access to Coinmarket API endpoints for currency listings and token quotes via a custom URI scheme.
-
+- [bankbridge-money/bankbridge-plugin](https://github.com/bankbridge-money/bankbridge-plugin): Read-only access to your real bank accounts, transactions, and investment holdings via the hosted [BankBridge](https://bankbridge.money) MCP server. 12 tools — balances, spending summaries, recurring charges, cashflow, holdings, investment txns. Works with Claude, ChatGPT, Cursor, Gemini, Codex, and 25+ other MCP hosts.

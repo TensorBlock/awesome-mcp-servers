@@ -556,6 +556,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [abdulazeem-tk4vr/shardeum-mcp-server](https://github.com/abdulazeem-tk4vr/shardeum-mcp-server): Facilitates seamless interaction with the Shardeum blockchain using standardized RPC methods, enhancing AI and application integration.
 - [redDwarf03/archethic-uco-mcp](https://github.com/redDwarf03/archethic-uco-mcp): Provides real-time UCO token prices from the Archethic network's OracleChain via GraphQL API for AI agents and applications.
 - [AI-Strategy-Enablement/mcp-economic](https://github.com/AI-Strategy-Enablement/mcp-economic): Facilitates seamless interaction with e-conomic's API for comprehensive financial management through standardized MCP commands.
+- [bankbridge-money/bankbridge-plugin](https://github.com/bankbridge-money/bankbridge-plugin): Read-only access to your real bank accounts, transactions, and investment holdings via the hosted [BankBridge](https://bankbridge.money) MCP server. 12 tools — balances, spending, recurring charges, cashflow, holdings, investment txns. Works with Claude, ChatGPT, Cursor, Gemini, Codex, and 25+ MCP hosts.
 
 ## 🧰 Frameworks
 
