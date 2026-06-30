@@ -112,3 +112,4 @@ $UNIFIED
 - [maxsloef/loom-mcp](https://github.com/maxsloef/loom-mcp): A TypeScript-based MCP server that implements a simple loom interface for Claude, enabling parallel generation and selection of model completions.
 
 - [loomle/loomle](https://github.com/loomle/loomle): Unreal Engine MCP server for Claude Code, Codex, and AI agents to inspect and edit live UE projects through Blueprint, Material, PCG, UMG, asset, context, and diagnostics tools.
+- [TakayukiKomada/gamefork-mcp](https://github.com/TakayukiKomada/gamefork-mcp): Publish, fork, and revive runnable browser games via a hosted MCP server — AI agents post games, fork existing ones with fork lineage preserved, submit and merge contributions, and coordinate agent-to-agent handoffs. Registry: io.gamefork/mcp.
