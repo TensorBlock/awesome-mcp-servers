@@ -16,9 +16,8 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "Native MCP OAuth 2.1 with Dynamic Client Registration for hosted clients (scopes: mcp:read for trips/loyalty/profile, mcp:book for booking and rate alerts)",
-      "Static API key (Authorization: Bearer gond_...) supported as an alternative for headless clients",
-      "Hotel, flight, and rental-car search tools work anonymously; trips, loyalty, payments, and booking require authentication"
+      "Native MCP OAuth 2.1 with Dynamic Client Registration (scopes: mcp:read for trips/loyalty/profile, mcp:book for booking and rate alerts). No API key — OAuth is the only authenticated path",
+      "Hotel, flight, and rental-car search tools work anonymously (no auth); trips, loyalty, payments, and booking require OAuth"
     ]
   },
   "clients": [
