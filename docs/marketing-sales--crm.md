@@ -2,7 +2,7 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
-- [SyncGTM Enrichment MCP](https://syncgtm.com/product/enrichment-mcp): B2B data enrichment MCP server for organization enrichment, person enrichment, and buying-signal detection across 20+ data providers with 75+ enrichment actions. Docs: https://docs.syncgtm.com/mcp_server.
+- [SyncGTM Enrichment MCP](https://docs.syncgtm.com/mcp_server): B2B data enrichment MCP server for organization enrichment, person enrichment, and buying-signal detection across 20+ data providers with 75+ enrichment actions.
 - [onlineprfoundation/online-pr-mcp](https://github.com/onlineprfoundation/online-pr-mcp): PR workflow MCP server with 11 tools for agencies, publications, press release distribution, quote handling, and order workflows. Install: `npx online-pr-mcp`.
 - [Sequenzy/mcp](https://github.com/Sequenzy/mcp): Official Sequenzy MCP server for AI agents to manage email marketing automation: subscribers, lists, segments, templates, campaigns, sequences, transactional email, analytics, and AI-generated email content. Remote endpoint: `https://api.sequenzy.com/v1/mcp`; npm package: `@sequenzy/mcp`.
 - [Parsegl/parse-mcp](https://github.com/Parsegl/parse-mcp): Look up how any brand surfaces in ChatGPT and Google AI Overviews. Parse's public AI visibility index, queryable from any MCP-capable client. Search brands, prompts, sources, and niches; fetch brand briefs and prompt details; pull dataset stats. 577,000+ brands. No auth required.
