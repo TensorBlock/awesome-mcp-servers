@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [andysalvo/agentrank](https://github.com/andysalvo/agentrank): Settlement-grounded counterparty trust for AI agents. Verify an agent or x402 service before paying it: 0-1000 score from real on-chain USDC settlement (sybil-resistant, adversarially stress-tested), gate your own service by caller rank, classify any x402 address, read the State of x402 census. Ed25519-signed receipts. 5 tools, free. Remote: `https://api.agentrank.info/mcp`
 - [jarvismaximum-hue/profitplay-mcp](https://github.com/jarvismaximum-hue/profitplay-mcp): Prediction market arena MCP server where agents register, view games and markets, place or cancel bets, check status, read leaderboards, and chat around BTC, ETH, SOL, S&P 500, and gold price-movement games. 9 tools. MIT.
 - [kame6493-del/kabu-mcp](https://github.com/kame6493-del/kabu-mcp): Japanese and global stock market MCP server for quotes, charts, RSI, MACD, Bollinger Bands, and market screening. Install: `npx kabu-mcp`.
 - [Luckkyyy23/omni-service-node](https://github.com/Luckkyyy23/omni-service-node): Pay-per-call data marketplace MCP server with endpoints for trading signals, macro economics, geopolitical intelligence, crypto, DeFi, whale tracking, SEC filings, insider trades, options flow, ArXiv research, sanctions screening, AI tokens, and Bittensor.
