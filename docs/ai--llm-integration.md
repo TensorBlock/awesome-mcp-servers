@@ -19,7 +19,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [Ankit2533/research](https://github.com/Ankit2533/research): A multi-agent deep researcher leveraging MCP to perform comprehensive web searches with Linkup and CrewAI orchestration.
 - [CDataSoftware/cdata-jdbc-mcp-server](https://github.com/CDataSoftware/cdata-jdbc-mcp-server): Facilitates querying live data from over 300 sources via CData JDBC Drivers using natural language through a read-only MCP interface.
 - [kylewoolstenhulme-block/Notion-Goose-MCP](https://github.com/kylewoolstenhulme-block/Notion-Goose-MCP): Facilitates seamless interaction with the Notion API through an MCP server, enabling automated content management and integration.
-- [Ankit2533/multi-agentic_deepresearch](https://github.com/Ankit2533/multi-agentic_deepresearch): A multi-agent deep researcher leveraging MCP to orchestrate AI agents for collaborative deep web searches and knowledge synthesis.
 - [drdeeks/remote-mcp-server](https://github.com/drdeeks/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
 - [raj-mehra/jira-mcp](https://github.com/raj-mehra/jira-mcp): Integrates Jira with MCP to fetch and search ticket details using a flexible framework.
 - [AlexShan2008/mcp-claude-weather](https://github.com/AlexShan2008/mcp-claude-weather): Provides real-time weather alerts and forecasts from the US National Weather Service, seamlessly integrating with Claude for Desktop.
