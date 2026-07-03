@@ -21,7 +21,6 @@ Servers providing access to the host operating system's command line/shell, exec
 - [mediar-ai/mcp-server-macos-use](https://github.com/mediar-ai/mcp-server-macos-use): Swift-based server enabling macOS application control via accessibility APIs, compatible with MCP clients like Claude Desktop.
 - [gamunu/mcp-unix-shell](https://github.com/gamunu/mcp-unix-shell): A Go-based server for executing shell commands via MCP, featuring command execution history and configurable security settings.
 - [shkna1368/mcp-cline](https://github.com/shkna1368/mcp-cline): Facilitates the setup and configuration of an MCP server using SQLite for database management and integration with Visual Studio Code.
-- [krishanka/remote-mcp](https://github.com/krishanka/remote-mcp): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [Machine-To-Machine/m2m-mcp-server-ssh-server](https://github.com/Machine-To-Machine/m2m-mcp-server-ssh-server): A secure SSH server enabling remote access and interaction with multiple MCP tools through a unified interface.
 - [bfollington/remote-mcp-server](https://github.com/bfollington/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool invocation.
 - [Deniscartin/mcp-cli](https://github.com/Deniscartin/mcp-cli): A comprehensive toolkit for interacting with Model Context Protocol servers, offering a GUI, CLI, and API for managing server configurations and executing queries.
@@ -29,7 +28,6 @@ Servers providing access to the host operating system's command line/shell, exec
 - [paulsmith/tailscale-mcp-server](https://github.com/paulsmith/tailscale-mcp-server): Facilitates secure, read-only interactions with Tailscale networks via MCP-compatible clients like Claude Desktop.
 - [thuanpham582002/tabby-mcp-server](https://github.com/thuanpham582002/tabby-mcp-server): Empower your terminal with AI-driven control and automation using the Tabby MCP server.
 - [Ryuhei-So/mermaid-cli-server](https://github.com/Ryuhei-So/mermaid-cli-server): Generates PNG images from Mermaid markdown using the official mermaid-cli.
-- [LiTschii/remote-mcp-server](https://github.com/LiTschii/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [wgr1984/ns-lookup-mcp](https://github.com/wgr1984/ns-lookup-mcp): Provides a REST API for DNS lookups using the nslookup command, enabling easy integration of DNS resolution into applications.
 - [GeLi2001/mcp-terminal](https://github.com/GeLi2001/mcp-terminal): A terminal-based interactive client for managing and communicating with MCP servers, supporting multiple transport methods and server configurations.
 - [Wh0am123/MCP-Kali-Server](https://github.com/Wh0am123/MCP-Kali-Server): A lightweight API bridge enabling AI-driven offensive security testing by connecting MCP clients to a Kali Linux machine for executing terminal commands and solving CTF challenges.

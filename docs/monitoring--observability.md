@@ -53,9 +53,7 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 - [serkanh/cloudwatch-logs-mcp](https://github.com/serkanh/cloudwatch-logs-mcp): Facilitates AI-driven access to AWS CloudWatch logs, enabling listing and retrieval of log entries through an MCP server.
 - [QAInsights/k6-mcp-server](https://github.com/QAInsights/k6-mcp-server): Facilitates running k6 load tests through a Model Context Protocol server with customizable test parameters and real-time execution output.
 - [tay3223/mcp-server-prometheus](https://github.com/tay3223/mcp-server-prometheus): Integrate Prometheus monitoring data into the Cursor code editor for real-time insights and historical trends.
-- [DynamicEndpoints/mesh-scanner](https://github.com/DynamicEndpoints/mesh-scanner): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
 - [besthand/mcp-server-taiwan-aqi](https://github.com/besthand/mcp-server-taiwan-aqi): Provides real-time and historical air quality data from Taiwan's monitoring stations via an MCP server.
-- [besthand/mcp-server-taiwan-aqi--](https://github.com/besthand/mcp-server-taiwan-aqi--): Access real-time and historical air quality data from Taiwan's monitoring stations via an MCP server.
 - [dortegau/mcp-proxy-sidecar](https://github.com/dortegau/mcp-proxy-sidecar): Enhances the JetBrains MCP Server with real-time WebSocket monitoring for all MCP interactions.
 - [getsentry/sentry-mcp-stdio](https://github.com/getsentry/sentry-mcp-stdio): Facilitates interaction with Sentry's API for AI-driven error analysis and project management.
 - [suolr/lighthouse-integration](https://github.com/suolr/lighthouse-integration): Enhances Puppeteer MCP with Google Lighthouse for comprehensive web performance audits and accessibility checks.

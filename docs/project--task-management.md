@@ -47,7 +47,6 @@ Servers integrating with project management and task tracking tools.
 - [RossiFire/mcp-google-calendar](https://github.com/RossiFire/mcp-google-calendar): Facilitates seamless interaction between Claude Desktop and Google Calendar for efficient event management.
 - [dream-star-end/task-manager-mcp](https://github.com/dream-star-end/task-manager-mcp): A task management system leveraging MCP for intelligent task parsing, dependency management, and LLM-driven subtask expansion.
 - [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager): An intelligent task management system leveraging MCP to streamline programming workflows for AI agents, enhancing task memory and dependency management.
-- [erv3lus/youtrack-mcp](https://github.com/erv3lus/youtrack-mcp): Facilitates seamless integration with YouTrack for task management and knowledge base access via Model Context Protocol.
 - [Hint-Services/mcp-trello](https://github.com/Hint-Services/mcp-trello): Facilitates seamless interaction with Trello boards through a Model Context Protocol server, ensuring efficient API integration with built-in rate limiting and type safety.
 - [peakflames/PolarionMcpServers](https://github.com/peakflames/PolarionMcpServers): Facilitates integration with Polarion ALM through Model Context Protocol servers, supporting both server-based and local workstation installations.
 - [qamary666/jira-aio-mcp-server](https://github.com/qamary666/jira-aio-mcp-server): Facilitates interaction with AIO Test Management for Jira through MCP protocol, enabling efficient test case management.
@@ -56,12 +55,10 @@ Servers integrating with project management and task tracking tools.
 - [niallroche/accord-project-mcp](https://github.com/niallroche/accord-project-mcp): Facilitates interaction with the Accord Project Agreement Protocol for managing templates and agreements through an MCP server.
 - [assistantdonnie/trello_mcp](https://github.com/assistantdonnie/trello_mcp): Facilitates seamless interaction with Trello boards through a Model Context Protocol server, ensuring type safety, rate limiting, and robust error handling.
 - [cuongtl1992/unleash-mcp](https://github.com/cuongtl1992/unleash-mcp): Integrates LLM applications with the Unleash feature flag system, enabling dynamic feature management through the Model Context Protocol.
-- [final-il/jira-mcp-server](https://github.com/final-il/jira-mcp-server): Facilitates seamless integration with Atlassian's Confluence and Jira, supporting both cloud and server deployments.
 - [srcgrp/jira-basic-mcp](https://github.com/srcgrp/jira-basic-mcp): Facilitates seamless interaction with Jira's API for efficient issue, project, and workflow management.
 - [tomelliot/todos-mcp](https://github.com/tomelliot/todos-mcp): A todo list manager that integrates with AI assistants using the Model Context Protocol for seamless task management.
 - [masseater/esa-mcp-server](https://github.com/masseater/esa-mcp-server): Facilitates seamless integration with esa.io by providing essential API operations through a Deno-based MCP server.
 - [tbreeding/jira-mcp](https://github.com/tbreeding/jira-mcp): Facilitates interaction with Jira through MCP, offering core functionalities and a guided issue creation wizard.
-- [EKibort/wrike-mcp-server](https://github.com/EKibort/wrike-mcp-server): Facilitates integration between Wrike's project management platform and Language Learning Models through a lightweight MCP server.
 - [kunikada/mcp-redmine-docker](https://github.com/kunikada/mcp-redmine-docker): Facilitates HTTP/SSE communication with Redmine via a Dockerized MCP server.
 - [katoiek/mcp-server-wrike](https://github.com/katoiek/mcp-server-wrike): Facilitates interaction with the Wrike API through MCP clients, enabling seamless task and project management.
 - [TranTri1996/todo-list-with-mcp](https://github.com/TranTri1996/todo-list-with-mcp): Facilitates AI integration with a Todo List application using a Model Context Protocol server.
@@ -92,7 +89,6 @@ Servers integrating with project management and task tracking tools.
 - [anoncam/linear-mcp](https://github.com/anoncam/linear-mcp): A Linear MCP server enabling AI assistants to interact with Linear's project management resources and tools.
 - [TerraCo89/mcp-server-github-projects](https://github.com/TerraCo89/mcp-server-github-projects): Facilitates management of GitHub Project views, priorities, dependencies, and metrics through a Model Context Protocol server.
 - [markoinla/build-together](https://github.com/markoinla/build-together): A lightweight, self-hosted project management tool with native MCP and API functionality for seamless AI assistant integration.
-- [adamjbird2/mcp-atlassian-sprint](https://github.com/adamjbird2/mcp-atlassian-sprint): Integrates Confluence and Jira for seamless project management across Atlassian Cloud and Server/Data Center environments.
 - [talhaorak/pytaiga-mcp](https://github.com/talhaorak/pytaiga-mcp): Facilitates seamless AI-driven project management by bridging Taiga with MCP for comprehensive task and resource management.
 - [RayYokoyama/qase-mcp-server](https://github.com/RayYokoyama/qase-mcp-server): Facilitates integration with Qase's test management platform by managing test case creation, retrieval, and execution.
 - [magarcia/mcp-server-linearapp](https://github.com/magarcia/mcp-server-linearapp): Facilitates seamless interaction with Linear's issue tracking system through MCP, enabling LLMs to manage and track issues efficiently.
@@ -102,7 +98,6 @@ Servers integrating with project management and task tracking tools.
 - [mumunha/cal_dot_com_mcpserver](https://github.com/mumunha/cal_dot_com_mcpserver): Integrates with Cal.com Calendar API to manage appointment scheduling, including adding, updating, deleting, and listing appointments.
 - [InfinitIQ-Tech/mcp-jira](https://github.com/InfinitIQ-Tech/mcp-jira): Facilitates natural language interaction with Jira's REST API for managing issues and projects.
 - [Dsazz/mcp-jira](https://github.com/Dsazz/mcp-jira): Integrate JIRA functionalities directly into any MCP-compatible editor or application, enabling seamless access to JIRA issues and tasks.
-- [DCjanus/dida365-mcp-server](https://github.com/DCjanus/dida365-mcp-server): Facilitates seamless integration with Dida365 through a secure OAuth 2.0 authenticated MCP server interface.
 - [tejpalvirk/project](https://github.com/tejpalvirk/project): Facilitates comprehensive project management through structured knowledge graphs, enabling efficient tracking of tasks, milestones, resources, and risks.
 - [Solar2004/google-calendar-mcp](https://github.com/Solar2004/google-calendar-mcp): Integrate Google Calendar with LLMs to manage events seamlessly through a standardized interface.
 - [druid0523/task-manager-mcp](https://github.com/druid0523/task-manager-mcp): Task Manager MCP orchestrates complex task lifecycles with hierarchical modeling and Gantt chart visualization.
@@ -116,7 +111,6 @@ Servers integrating with project management and task tracking tools.
 - [arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks): Facilitates task management by bridging Claude with Google Tasks, enabling seamless task list and task operations.
 - [CaptainCrouton89/planner](https://github.com/CaptainCrouton89/planner): Facilitates AI assistants in managing and tracking hierarchical tasks by breaking them into manageable steps.
 - [yu7400ki/tauri-todo-mcp](https://github.com/yu7400ki/tauri-todo-mcp): A Tauri-based application demonstrating MCP server integration for task management.
-- [dkeesey/todoist-mcp-server](https://github.com/dkeesey/todoist-mcp-server): Facilitates seamless task management and integration with Todoist through Claude, leveraging Python Astral UV.
 - [falgom4/calendar-mcp](https://github.com/falgom4/calendar-mcp): Facilitates AI-driven management of Google Calendar with seamless authentication and natural language processing.
 - [event-catalog/mcp-server](https://github.com/event-catalog/mcp-server): Enhance your EventCatalog experience by integrating with MCP clients to query and visualize event-driven architectures effortlessly.
 - [adiletD/feature-request-collection-mcp](https://github.com/adiletD/feature-request-collection-mcp): Facilitates querying the feature_suggestions table in Supabase through an MCP server, enabling integration with AI tools like Cursor and Claude Desktop.
@@ -165,7 +159,6 @@ Servers integrating with project management and task tracking tools.
 - [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior): Facilitates TaskWarrior operations through a Node.js MCP server, enabling task management via API calls.
 - [strickvl/mcp-beeminder](https://github.com/strickvl/mcp-beeminder): Facilitates AI-driven management of Beeminder goals through MCP-compatible server access to the Beeminder API.
 - [sakce/mcp-server-monday](https://github.com/sakce/mcp-server-monday): Facilitates seamless interaction with Monday.com boards, items, updates, and documents through MCP clients.
-- [cpage-pivotal/time-mcp](https://github.com/cpage-pivotal/time-mcp): Provides an LLM interface to fetch current time data from the World Time API using Spring AI MCP.
 - [teamcurri/mcp-linear](https://github.com/teamcurri/mcp-linear): Facilitates interaction with Curri's API through a TypeScript-based MCP server, offering note management and summarization tools.
 - [NightTrek/Software-planning-mcp](https://github.com/NightTrek/Software-planning-mcp): Facilitates structured software development planning by breaking down projects into tasks, tracking progress, and managing detailed plans.
 - [mikah13/mcp-clickup](https://github.com/mikah13/mcp-clickup): Facilitates interaction with ClickUp workspaces through an MCP server, enabling task management and authentication via the ClickUp API.

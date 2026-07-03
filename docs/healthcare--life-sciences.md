@@ -13,7 +13,6 @@ Servers integrating with healthcare standards, medical literature databases, bio
 - [Deep-Intelligent-Pharma/Translationx-mcp-server](https://github.com/Deep-Intelligent-Pharma/Translationx-mcp-server): Facilitates translation tasks by integrating with TranslationX through a Python-based MCP server.
 - [sheffler/mcp-server-lims](https://github.com/sheffler/mcp-server-lims): Facilitates AI-driven management of laboratory workflows by simulating instrument data processing and integrating with MCP tools.
 - [andyrewlee/dad-mcp](https://github.com/andyrewlee/dad-mcp): Enhance home education with a remote MCP server that integrates AI for creative learning experiences.
-- [entropic-digital/bioinformatics-mcp-example](https://github.com/entropic-digital/bioinformatics-mcp-example): Facilitates bioinformatics tasks by integrating with Claude Desktop through a Docker-based MCP server.
 - [JackKuo666/ClinicalTrials-MCP-Server](https://github.com/JackKuo666/ClinicalTrials-MCP-Server): Facilitates AI-driven searches and access to ClinicalTrials.gov data, enhancing health sciences research through a streamlined MCP interface.
 - [shaunporwal/DICOM-MCP](https://github.com/shaunporwal/DICOM-MCP): Facilitates interaction with DICOM images through a note storage system, enabling note summarization and management.
 - [jmandel/health-record-mcp](https://github.com/jmandel/health-record-mcp): Facilitates secure AI access to Electronic Health Records using SMART on FHIR, enabling comprehensive data retrieval and analysis through MCP tools.
@@ -52,7 +51,6 @@ Servers integrating with healthcare standards, medical literature databases, bio
 - [terilios/smartsheet-server](https://github.com/terilios/smartsheet-server): Facilitates intelligent healthcare analytics and document management on Smartsheet through seamless AI integration.
 - [grll/pubmedmcp](https://github.com/grll/pubmedmcp): Facilitates searching and retrieving biomedical literature from PubMed using a dedicated MCP server.
 - [VertexStudio/bioma-tool](https://github.com/VertexStudio/bioma-tool): Bioma-tool is an MCP server designed for generating schemas from MCP schema files, facilitating structured data management.
-- [flexpa/mcp-fhir](https://github.com/flexpa/mcp-fhir): A TypeScript-based server enabling interaction with FHIR resources through the Model Context Protocol, offering search and access functionalities.
 - [navisbio/mcp_motherduck](https://github.com/navisbio/mcp_motherduck): Provides read-only access to MotherDuck databases with schema-level access control through MCP.
 - [navisbio/mcp_bigquery_biomedical](https://github.com/navisbio/mcp_bigquery_biomedical): Facilitates access to Google BigQuery biomedical datasets, optimizing data retrieval for biopharma-specific inquiries.
 - [mdagost/mcp-cps-data](https://github.com/mdagost/mcp-cps-data): Facilitates querying local databases for detailed information on Chicago Public Schools, including school neighborhoods and websites.
@@ -60,5 +58,4 @@ Servers integrating with healthcare standards, medical literature databases, bio
 - [navisbio/ctgov_MCP](https://github.com/navisbio/ctgov_MCP): Facilitates analysis of clinical trial data from the AACT database, offering insights into therapeutic landscapes.
 - [LoggerApp/Nutrient_db_MCP](https://github.com/LoggerApp/Nutrient_db_MCP): Access USDA nutritional data with advanced search and nutrient analysis capabilities through a high-performance MCP server.
 
-- [EmperorMew/WWF](https://github.com/EmperorMew/WWF): 43 tools for U.S. veteran benefits, crisis routing, and service-locator queries — Veterans Crisis Line (988), VA disability rating calculations, PACT Act presumptive condition matching, VA form lookup, accredited representative search, county/CVSO finder, and HSDS-formatted resource search across 100,437 veteran service records. Built on open data: VA disability rates, ACS demographics, CDC PLACES, housing burden. Streamable HTTP at `https://warriors-fund-api.emperormew.workers.dev/mcp`.
 - [rajdeepmondaldotcom/whoop-mcp-server](https://github.com/rajdeepmondaldotcom/whoop-mcp-server): Ask AI agents about your WHOOP recovery, sleep, strain, and workouts in plain English; runs locally and read-only, computing answers from your own records. Install: `uv tool install whoop-mcp-server`. stdio transport, OAuth to WHOOP.

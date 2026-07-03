@@ -9,7 +9,6 @@ Servers providing web search capabilities or interfacing with specialized search
 - [AgentGrade](https://agentgrade.com): Scan any website for AI agent readiness — scores 80+ checks across payments, MCP, OpenAPI, and discovery. Remote MCP server at agentgrade.com/mcp.
 - [unifapi-agent/unifapi-mcp-server](https://github.com/unifapi-agent/unifapi-mcp-server): Hosted remote MCP server for live public data across social, search, scraping, news, creator research, and KOL pricing workflows.
 - [kansei-link/kansei-mcp-server](https://github.com/kansei-link/kansei-mcp-server): Intelligence layer for AI agents to discover and evaluate 156+ SaaS/API services with trust scores, 120 workflow recipes, intent-based search, and Agent Voice feedback from real agent usage.
-- [kokilabo/pdf-researcher](https://github.com/kokilabo/pdf-researcher): A specialized MCP server designed for searching PDF documents using the Brave Search API.
 - [joaomj/deep-search-mcp](https://github.com/joaomj/deep-search-mcp): Facilitates deep web searches using the LinkUp API, offering structured results and customizable search parameters.
 - [jarondonp/portfolio-mcp-server](https://github.com/jarondonp/portfolio-mcp-server): Integrates the Brave Search API to offer web and local search capabilities with flexible filtering and smart fallbacks.
 - [dealwallet1/meiliseachmcp](https://github.com/dealwallet1/meiliseachmcp): Facilitates seamless interaction with Meilisearch through LLM interfaces, offering dynamic connection management, search capabilities, and comprehensive index and task management.
@@ -74,7 +73,6 @@ Servers providing web search capabilities or interfacing with specialized search
 - [mnhlt/WebSearch-MCP](https://github.com/mnhlt/WebSearch-MCP): Enables AI assistants to perform real-time web searches by integrating with a WebSearch Crawler API over stdio transport.
 - [Shoofio/brave-search-mcp-sse](https://github.com/Shoofio/brave-search-mcp-sse): Facilitates real-time streaming of Brave Search results to AI models via a centralized MCP/SSE interface, deployable with Docker or Helm.
 - [MaartenSmeets/mcp-server-search](https://github.com/MaartenSmeets/mcp-server-search): Facilitates AI models in retrieving real-time web information through Google search integration, ensuring efficient and ethical data access.
-- [HuangZeLinCute/github-mcp-server](https://github.com/HuangZeLinCute/github-mcp-server): Facilitates GitHub search operations through an MCP server interface.
 - [tisDDM/searxng-mcp](https://github.com/tisDDM/searxng-mcp): Empower AI assistants to conduct privacy-focused web searches using SearXNG with seamless integration and zero-configuration setup.
 - [gergelyszerovay/mcp-server-qdrant-retrieve](https://github.com/gergelyszerovay/mcp-server-qdrant-retrieve): Facilitates semantic search using Qdrant vector database for retrieving similar documents across multiple collections.
 - [rebers/4o-mini-search-mcp](https://github.com/rebers/4o-mini-search-mcp): Enhance your AI's web search capabilities with a cost-effective MCP server using OpenAI's 4o-mini Search model.
@@ -125,7 +123,6 @@ Servers providing web search capabilities or interfacing with specialized search
 - [jaacob/perplexity-mcp](https://github.com/jaacob/perplexity-mcp): Enables Claude Desktop to perform web searches using Perplexity's API for enhanced information retrieval.
 - [adenot/mcp-google-search](https://github.com/adenot/mcp-google-search): Facilitates web searches and webpage content extraction using Google Custom Search API.
 - [arben-adm/brave-mcp-search](https://github.com/arben-adm/brave-mcp-search): Facilitates integration with AI assistants by enabling Brave Search capabilities through an MCP server.
-- [Claw256/mcp-web-search](https://github.com/Claw256/mcp-web-search): Facilitates Google search and web content viewing with advanced bot detection avoidance, leveraging rebrowser-puppeteer for seamless integration.
 - [spences10/mcp-jinaai-search](https://github.com/spences10/mcp-jinaai-search): Integrates Jina.ai's Search API with LLMs for efficient web search and clean content retrieval.
 - [spences10/mcp-duckduckgo-search](https://github.com/spences10/mcp-duckduckgo-search): Integrates DuckDuckGo search capabilities with LLMs, offering comprehensive web search functionality with various result types and filtering options.
 - [madarco/ragrabbit](https://github.com/madarco/ragrabbit): RagRabbit is a self-hosted AI search and LLM integration platform that enables seamless content crawling and indexing with an MCP server for enhanced documentation retrieval.

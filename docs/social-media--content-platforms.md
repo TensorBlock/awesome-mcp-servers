@@ -22,7 +22,6 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [saginawj/mcp-reddit-companion](https://github.com/saginawj/mcp-reddit-companion): Enhance your Reddit experience with natural language interaction, enabling custom curated feeds and content analysis using your preferred LLM client.
 - [stephen9412/youtube-mcp-server](https://github.com/stephen9412/youtube-mcp-server): FastMCP server for YouTube offering unified video, channel, and playlist management tools for memo agents and automation workflows.
 - [Yooki-K/weibo-mcp-server](https://github.com/Yooki-K/weibo-mcp-server): Fetches and displays Weibo hot search data, including rankings, details, and comments, using the MCP framework.
-- [bossdong955/weibo-mcp-server](https://github.com/bossdong955/weibo-mcp-server): Facilitates retrieval of the top N trending topics on Weibo with support for stdio and SSE modes.
 - [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp): Tracks historical changes of Twitter usernames to identify potential scam risks in crypto projects.
 - [bads1de/GNews-MCP](https://github.com/bads1de/GNews-MCP): Integrates with the GNews API to provide access to global news articles across various categories and languages.
 - [Lunran/rssmcp](https://github.com/Lunran/rssmcp): Fetches and formats RSS feed entries with optional export capabilities.
@@ -53,7 +52,6 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [Freespirits/social-auto-engine](https://github.com/Freespirits/social-auto-engine): Open-source multi-platform social media manager. Publish to Facebook, Instagram, Threads, WhatsApp, and LinkedIn from one dashboard or via MCP; TikTok and YouTube adapters await platform review. FastAPI/HTMX approval queue (no silent automation), 17 AI content skills (voice training, post writing, carousels). MIT, self-hosted.
 - [tiroshanm/facebook-mcp-server](https://github.com/tiroshanm/facebook-mcp-server): Facilitates automated Facebook Page management, including posting, comment moderation, and content retrieval.
 - [0xGval/twitter-X-mcp-server](https://github.com/0xGval/twitter-X-mcp-server): A toolkit enabling Claude to perform advanced Twitter searches using natural language and syntax, with options for raw data or AI-driven analysis.
-- [AudienseCo/mcp-audiense-di-linkedin](https://github.com/AudienseCo/mcp-audiense-di-linkedin): Facilitates interaction with LinkedIn's Digital Intelligence service, enabling report creation, insights retrieval, and typeahead suggestions through MCP-compatible clients.
 - [GridfireAI/reddit-mcp](https://github.com/GridfireAI/reddit-mcp): A plug-and-play server for browsing, searching, and reading Reddit content using the MCP protocol.
 - [a2xdeveloper/tagesschau-mcp-server](https://github.com/a2xdeveloper/tagesschau-mcp-server): Access the latest news articles and details from tagesschau.de through this MCP server.
 - [Samge0/mcp-qqmusic-test-server](https://github.com/Samge0/mcp-qqmusic-test-server): Facilitates keyword-based music track searches on QQ Music using the Modular Control Protocol.
@@ -67,7 +65,6 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [Nocodeboy/youtube-mcp-server](https://github.com/Nocodeboy/youtube-mcp-server): Facilitates AI assistants like Claude to interact with YouTube's API for video and channel data retrieval.
 - [mosesblxk/instagram_mcp](https://github.com/mosesblxk/instagram_mcp): Provides tools for analyzing Instagram engagement metrics, extracting demographic insights, and identifying potential leads from Instagram posts and accounts.
 - [Greg-Swiftomatic/substack-mcp](https://github.com/Greg-Swiftomatic/substack-mcp): Facilitates AI assistants' interaction with Substack content through a standardized protocol.
-- [AudienseCo/mcp-tweetbinder](https://github.com/AudienseCo/mcp-tweetbinder): Facilitates interaction between Claude and TweetBinder by Audiense for comprehensive Twitter analytics and reporting.
 - [VectorInstitute/mcp-goodnews](https://github.com/VectorInstitute/mcp-goodnews): Delivers curated positive news stories using a Cohere LLM for sentiment analysis and ranking.
 - [Xpoz MCP](https://xpoz.ai): Remote-only social media MCP server for Twitter/X, Instagram, and TikTok data & insights. 1.5B+ posts indexed. No installation required - just add endpoint URL (https://mcp.xpoz.ai). No API keys needed.
 - [nattyraz/youtube-mcp](https://github.com/nattyraz/youtube-mcp): Facilitates interaction with YouTube videos by extracting metadata and captions, converting them to markdown, and supporting search functionality.
