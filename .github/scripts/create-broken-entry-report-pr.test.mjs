@@ -7,6 +7,7 @@ import {
   buildBrokenEntryReportSpec,
   buildIssueComment,
   buildPrBody,
+  createOrUpdatePullRequest,
   findBrokenEntryTargets,
   parseBrokenEntryIssue,
   removeEntryLineFromMarkdown,
@@ -240,4 +241,68 @@ test("skips direct cleanup when the dead primary URL maps to multiple catalog en
   });
 
   assert.equal(cleanup, null);
+});
+
+test("marks an existing draft cleanup pull request ready through GraphQL", async () => {
+  const calls = [];
+  const graphqlCalls = [];
+  const request = async (pathname, options = {}) => {
+    calls.push({ pathname, options });
+
+    if (pathname.startsWith("/pulls?")) {
+      return [{
+        number: 1027,
+        draft: true,
+        node_id: "PR_kwDOExample",
+      }];
+    }
+
+    if (pathname === "/pulls/1027" && options.method === "PATCH") {
+      return {
+        number: 1027,
+        draft: true,
+        html_url: "https://github.com/TensorBlock/awesome-mcp-servers/pull/1027",
+      };
+    }
+
+    if (pathname === "/pulls/1027") {
+      return {
+        number: 1027,
+        draft: false,
+        html_url: "https://github.com/TensorBlock/awesome-mcp-servers/pull/1027",
+      };
+    }
+
+    throw new Error(`Unexpected request: ${pathname}`);
+  };
+  const graphqlRequest = async (query, variables) => {
+    graphqlCalls.push({ query, variables });
+    return {
+      markPullRequestReadyForReview: {
+        pullRequest: {
+          id: variables.pullRequestId,
+          isDraft: false,
+        },
+      },
+    };
+  };
+
+  const pullRequest = await createOrUpdatePullRequest(request, {
+    owner: "TensorBlock",
+    branch: "mcp/broken-entry-issue-1022",
+    title: "Remove dead MCP entry report #1022",
+    body: "body",
+    draft: false,
+    graphqlRequest,
+  });
+
+  assert.equal(pullRequest.draft, false);
+  assert.equal(graphqlCalls.length, 1);
+  assert.match(graphqlCalls[0].query, /markPullRequestReadyForReview/);
+  assert.deepEqual(graphqlCalls[0].variables, { pullRequestId: "PR_kwDOExample" });
+  assert.deepEqual(calls.map((call) => `${call.options.method ?? "GET"} ${call.pathname}`), [
+    "GET /pulls?head=TensorBlock%3Amcp%2Fbroken-entry-issue-1022&state=open",
+    "PATCH /pulls/1027",
+    "GET /pulls/1027",
+  ]);
 });
