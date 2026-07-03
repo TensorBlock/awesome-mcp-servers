@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "api-veradata-dev-69a345fc",
+  "source": {
+    "issue": 1040,
+    "projectUrl": "https://api.veradata.dev"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @teodorofodocrispin-cmyk in #1040 under the community profile-claim process.",
+      "Requested profile metadata in #1040: - **Author:** Ivar Garcés (@teodorofodocrispin-cmyk) - **MCP endpoint:** https://api.veradata.dev/mcp (Streamable HTTP) - **Transport:** HTTP - **Auth:** x402 v2 micropayments (USDC on Base or Solana) — no API key..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@teodorofodocrispin-cmyk"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
