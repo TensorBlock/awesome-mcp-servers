@@ -34,7 +34,6 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [Packrift/packrift-mcp](https://github.com/Packrift/packrift-mcp): Remote MCP server for Packrift's packaging-supplies catalog with product search, pricing, inventory, packaging recommendations, and checkout URLs.
 - [ciaraadkins/mixpanel-mcp-server](https://github.com/ciaraadkins/mixpanel-mcp-server): Integrates Mixpanel analytics with Claude and other MCP clients, enabling event tracking and user profile updates.
 - [borgius/jobspy-mcp-server](https://github.com/borgius/jobspy-mcp-server): Facilitates job searches across multiple platforms using AI assistants, offering structured data output and multiple transport options.
-- [ciaraadkins/mixpanel-mcp-wrapper](https://github.com/ciaraadkins/mixpanel-mcp-wrapper): Facilitates seamless integration of Mixpanel analytics with Claude Desktop by automatically injecting project tokens into MCP requests.
 - [clykins90/jobnimbus-mcp-server](https://github.com/clykins90/jobnimbus-mcp-server): Facilitates AI-driven interactions with JobNimbus data via a Model Context Protocol server, enabling secure access and manipulation of contacts, jobs, tasks, products, workflows, and invoices.
 - [friendlygeorge/jobber-mcp-server](https://github.com/friendlygeorge/jobber-mcp-server): MCP server for Jobber (home services SaaS) — manage clients, jobs, invoices, and quotes via GraphQL API. 8 tools. Requires Jobber API key. Install: `npx -y @supernova123/jobber-mcp-server`. Transport: stdio. License: MIT.
 - [falahgs/Gemini-Email-Subject-Generator-MCP](https://github.com/falahgs/Gemini-Email-Subject-Generator-MCP): Leverages Google's Gemini Flash 2 AI model to generate engaging email subjects and detailed thinking processes, integrating seamlessly with Claude Desktop.
@@ -92,7 +91,6 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [namejiahui/mcp-boss-zp](https://github.com/namejiahui/mcp-boss-zp): Facilitates large language models in accessing Boss Zhipin interfaces for job filtering and communication.
 - [adexltd/mcp-google-suite](https://github.com/adexltd/mcp-google-suite): Facilitates AI-driven interactions with Google Workspace services through a Model Context Protocol server.
 - [usama-dtc/salesforce_mcp](https://github.com/usama-dtc/salesforce_mcp): Integrates Claude with Salesforce for natural language interactions with Salesforce data and metadata.
-- [eno-graph/mcp-server-google-analytics](https://github.com/eno-graph/mcp-server-google-analytics): Facilitates access to Google Analytics Data API through a Model Context Protocol interface, enabling report generation and real-time data retrieval.
 - [shinzo-labs/hubspot-mcp](https://github.com/shinzo-labs/hubspot-mcp): Provides a standardized interface for accessing and managing HubSpot CRM data through a comprehensive MCP implementation.
 - [bigcatchkm/mcp-server-promua](https://github.com/bigcatchkm/mcp-server-promua): Facilitates interaction with Prom.ua API for data exchange with Claude and other LLM models.
 - [Fewsats/agora-mcp](https://github.com/Fewsats/agora-mcp): Agora MCP enables AI assistants to search, compare, and purchase products across multiple online stores using the SearchAgora engine.
@@ -125,7 +123,6 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [Bob-lance/instagram-engagement-mcp](https://github.com/Bob-lance/instagram-engagement-mcp): Track Instagram engagement, generate leads, and analyze audience feedback with this MCP server.
 - [filipecalegario/mcp-server-strateegia](https://github.com/filipecalegario/mcp-server-strateegia): Integrates with the strateegia API to enable AI assistants to access and interact with strateegia projects.
 - [techspawn/woocommerce-mcp-server](https://github.com/techspawn/woocommerce-mcp-server): Facilitates seamless WooCommerce store management through JSON-RPC 2.0 protocol, integrating with WordPress REST API for comprehensive product, order, and customer operations.
-- [ethangillani/connectwise-mcp-server](https://github.com/ethangillani/connectwise-mcp-server): Facilitates integration with ConnectWise Manage API for Claude Desktop, enabling operations like ticket and company management.
 - [Gitmaxd/dubco-mcp-server-npm](https://github.com/Gitmaxd/dubco-mcp-server-npm): Enables AI assistants to manage Dub.co short links through the Model Context Protocol, offering tools for creating, updating, and deleting links.
 - [Gitmaxd/dubco-mcp-server](https://github.com/Gitmaxd/dubco-mcp-server): Facilitates AI-driven management of short links via Dub.co's API.
 - [stefw/boamp-server](https://github.com/stefw/boamp-server): Facilitates querying the BOAMP API to retrieve and detail public procurement notices using various criteria.
@@ -139,8 +136,6 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [kishimoto-banana/shopify-py-mcp](https://github.com/kishimoto-banana/shopify-py-mcp): Facilitates seamless interaction with Shopify's API for product management through Claude Desktop.
 - [jtucker/mcp-untappd-server](https://github.com/jtucker/mcp-untappd-server): A Node.js server for querying the Untappd API using the Model Context Protocol, supporting beer search and detailed information retrieval.
 - [kenjihikmatullah/productboard-mcp](https://github.com/kenjihikmatullah/productboard-mcp): Facilitates integration of Productboard API into agentic workflows using MCP.
-- [aaronsb/apptio-target-process-mcp](https://github.com/aaronsb/apptio-target-process-mcp): Facilitates AI-driven interactions with Targetprocess for project management and agile planning through robust querying, entity management, and data model exploration.
-- [DynamicEndpoints/Paypal-MCP](https://github.com/DynamicEndpoints/Paypal-MCP): Facilitates seamless integration with PayPal's payment processing and business management features through a standardized MCP interface.
 - [jlwaugh/agency](https://github.com/jlwaugh/agency): Facilitates integration with Claude Desktop by configuring and launching MCP servers with debugging support.
 - [Funmula-Corp/BigGo-MCP-Server](https://github.com/Funmula-Corp/BigGo-MCP-Server): Leverage BigGo's APIs for comprehensive product discovery and price history tracking across multiple e-commerce platforms.
 - [hmk/attio-mcp-server](https://github.com/hmk/attio-mcp-server): Facilitates seamless integration between MCP clients and the Attio API for managing CRM data.

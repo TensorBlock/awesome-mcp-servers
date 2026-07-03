@@ -13,7 +13,6 @@ Servers accessing scientific databases, research platforms, or providing tools f
 - [simpolism/AstroMCP](https://github.com/simpolism/AstroMCP): AstroMCP provides AI assistants with astrological chart functionality, integrating seamlessly via the Model Context Protocol.
 - [Nicolassaint/mathsIA_API](https://github.com/Nicolassaint/mathsIA_API): MathsIA API integrates FastAPI-MCP to enable AI models to manage a flashcard system for math learning, offering features for user management and progress tracking.
 - [Xinruims/my_experiment](https://github.com/Xinruims/my_experiment): Enhance Roo Code with MCP server implementations for AI-driven coding tools, offering seamless integration and configuration across platforms.
-- [liuyixin-louis/ArxivMCP](https://github.com/liuyixin-louis/ArxivMCP): Facilitates academic paper searches on arXiv with MCP client integration for seamless retrieval.
 - [wildsonbbl/gnnepcsaft_mcp_server](https://github.com/wildsonbbl/gnnepcsaft_mcp_server): Facilitates communication and context management for GNNePCSAFT tools using the Model Context Protocol.
 - [milatechtransfer/paperpal](https://github.com/milatechtransfer/paperpal): Enhance your literature review process by integrating LLMs with access to arXiv, Hugging Face papers, and Semantic Scholar.
 - [rperezll/mcp-lab](https://github.com/rperezll/mcp-lab): A personal lab exploring the Model Context Protocol SDK in TypeScript, featuring basic and advanced implementations like a Text-to-SQL server.
@@ -77,7 +76,6 @@ Servers accessing scientific databases, research platforms, or providing tools f
 - [vrtejus/pymol-mcp](https://github.com/vrtejus/pymol-mcp): PyMOL-MCP enables seamless integration of PyMOL with Claude AI for interactive molecular visualization and analysis through natural language commands.
 - [edwardpwtsoi/mathjs-mcp](https://github.com/edwardpwtsoi/mathjs-mcp): Facilitates mathematical calculations and derivative computations using MathJS.
 - [PhelanShao/pubchem-mcp-server](https://github.com/PhelanShao/pubchem-mcp-server): Facilitates AI-driven queries to the PubChem database for comprehensive chemical compound data retrieval.
-- [husqvaluna/spike-symbol-mcp-server](https://github.com/husqvaluna/spike-symbol-mcp-server): A Symbol MCP server facilitating integration with Symbol's open API for streamlined communication and data handling.
 - [JackKuo666/medRxiv-MCP-Server](https://github.com/JackKuo666/medRxiv-MCP-Server): Facilitates AI-driven searches and access to medRxiv preprints, enhancing research capabilities in health sciences.
 - [JackKuo666/bioRxiv-MCP-Server](https://github.com/JackKuo666/bioRxiv-MCP-Server): Facilitates AI-driven searches and metadata retrieval of bioRxiv preprints through a streamlined MCP interface.
 - [goern/bundestag-mcp](https://github.com/goern/bundestag-mcp): Facilitates interaction with German Bundestag protocols through a Model Context Protocol server.

@@ -31,7 +31,6 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [EdenYavin/Garak-MCP](https://github.com/EdenYavin/Garak-MCP): Facilitates vulnerability scanning on various LLMs using Garak through a lightweight MCP server.
 - [GH05TCREW/winsecMCP](https://github.com/GH05TCREW/winsecMCP): Automates Windows security configuration by managing firewall, RDP, UAC, and account policies.
 - [CyberSecurityUP/Offensive-MCP-AI](https://github.com/CyberSecurityUP/Offensive-MCP-AI): A cybersecurity-focused MCP server that integrates AI for autonomous red teaming, threat hunting, and incident response automation.
-- [ashgw/vault-mcp](https://github.com/ashgw/vault-mcp): Facilitates secure interaction with HashiCorp Vault for secret and policy management through a Model Context Protocol server.
 - [ca-risken/risken-mcp-server](https://github.com/ca-risken/risken-mcp-server): Facilitates seamless integration with RISKEN APIs for advanced automation and interaction capabilities.
 - [mytechnotalent/MalwareBazaar_MCP](https://github.com/mytechnotalent/MalwareBazaar_MCP): AI-driven server autonomously interfaces with MalwareBazaar for real-time threat intelligence and sample metadata in cybersecurity research.
 - [jmorrell-cloudflare/mcp-bearer-auth-example](https://github.com/jmorrell-cloudflare/mcp-bearer-auth-example): A remote MCP server implementation on Cloudflare utilizing Bearer Token authentication for secure connections.
@@ -125,7 +124,6 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [daedalus/mcp-pymetasploit3](https://github.com/daedalus/mcp-pymetasploit3) - MCP server for Metasploit Framework via pymetasploit3.
 - [daedalus/mcp-pwntools](https://github.com/daedalus/mcp-pwntools) - MCP server exposing pwntools functionality for binary exploitation.
 - [daedalus/mcp-recon-ng](https://github.com/daedalus/mcp-recon-ng) - MCP server exposing full recon-ng OSINT framework functionality.
-- [daedalus/mcp-reverse-engineering](https://github.com/daedalus/mcp-reverse-engineering) - Sandboxed MCP tool for reverse engineering with security restrictions.
 - [daedalus/mcp-server-nmap](https://github.com/daedalus/mcp-server-nmap) - MCP server that exposes the python-nmap API for network scanning.
 - [daedalus/mcp-shodan](https://github.com/daedalus/mcp-shodan) - MCP server exposing all Shodan API functionality.
 - [daedalus/mcp-smbmap](https://github.com/daedalus/mcp-smbmap) - MCP server exposing smbmap SMB enumeration functionality.

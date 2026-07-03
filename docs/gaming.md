@@ -29,7 +29,6 @@ $UNIFIED
 - [kyopark2014/mcp-bedrock-agent](https://github.com/kyopark2014/mcp-bedrock-agent): Facilitates the use of Amazon's Bedrock agent with MCP for seamless access to tools and resources in generative AI applications.
 - [Panth1823/formula1-mcp](https://github.com/Panth1823/formula1-mcp): Experience the excitement of Formula 1 with real-time and historical racing data through a TypeScript-based MCP server.
 - [hahanikan/pocket-cavalry](https://github.com/hahanikan/pocket-cavalry): Facilitates AI-driven management of Gitee repositories, issues, and pull requests through a Model Context Protocol server.
-- [attilad/bgg-mcp-server](https://github.com/attilad/bgg-mcp-server): Facilitates seamless integration with the BoardGameGeek API, enabling efficient retrieval and synchronization of board game data and user collections.
 - [jlgrimes/ptcg-mcp](https://github.com/jlgrimes/ptcg-mcp): Enables Claude to search and display Pokemon Trading Card Game cards with detailed filtering options.
 - [xhulz/mcp-game-helper](https://github.com/xhulz/mcp-game-helper): AI-powered tools for game developers to optimize combat balancing, skill analysis, and level pacing.
 - [appleweed/UnrealMCPBridge](https://github.com/appleweed/UnrealMCPBridge): Facilitates access to the Unreal Engine Python API for MCP clients, enabling dynamic tool development and automation within the UE environment.
@@ -87,7 +86,6 @@ $UNIFIED
 - [kvick-games/UnrealMCP](https://github.com/kvick-games/UnrealMCP): UnrealMCP enables AI agents to programmatically control and manipulate Unreal Engine environments using a TCP server and JSON-based command protocol.
 - [dested/factorio-mcp-server](https://github.com/dested/factorio-mcp-server): A minimal MCP server template for building AI assistant tools with TypeScript and esbuild, featuring a simple 'hello world' tool example.
 - [djcopley/artifacts-mmo-mcp](https://github.com/djcopley/artifacts-mmo-mcp): Facilitates the management and execution of Artifacts MMO through a dedicated MCP server.
-- [8bitsats/Wonderland-Agentic-MCP](https://github.com/8bitsats/Wonderland-Agentic-MCP): Leverage Anthropic's MCP to build an AI agent for trading tokens on the Solana blockchain, integrating real-time market data and risk assessments.
 - [Pratik-Kumar-Cse/avatar-clone-mcp](https://github.com/Pratik-Kumar-Cse/avatar-clone-mcp): Facilitates avatar cloning on various platforms with note storage and summarization capabilities.
 - [castielLi/gamingTest](https://github.com/castielLi/gamingTest): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
 - [Props-Labs/fireflies-mcp](https://github.com/Props-Labs/fireflies-mcp): Facilitates transcript retrieval, search, and summary generation via the Fireflies.ai API.
