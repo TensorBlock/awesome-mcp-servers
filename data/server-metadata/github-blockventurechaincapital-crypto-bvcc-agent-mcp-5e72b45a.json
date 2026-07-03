@@ -34,5 +34,21 @@
     "Codex",
     "Lm Studio ..."
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Claim accepted from #976 under the community profile-claim process.",
+      "Requested maintainer handle: @rami8612."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@rami8612"
+    ],
+    "verifiedBy": [
+      "TensorBlock"
+    ],
+    "claimed": true
+  }
 }
