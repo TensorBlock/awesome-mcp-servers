@@ -113,3 +113,6 @@ $UNIFIED
 
 - [loomle/loomle](https://github.com/loomle/loomle): Unreal Engine MCP server for Claude Code, Codex, and AI agents to inspect and edit live UE projects through Blueprint, Material, PCG, UMG, asset, context, and diagnostics tools.
 - [TakayukiKomada/gamefork-mcp](https://github.com/TakayukiKomada/gamefork-mcp): Publish, fork, and revive runnable browser games via a hosted MCP server — AI agents post games, fork existing ones with fork lineage preserved, submit and merge contributions, and coordinate agent-to-agent handoffs. Registry: io.gamefork/mcp.
+- [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP): Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools.
+- [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP): Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
+- [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP): Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
