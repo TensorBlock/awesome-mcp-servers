@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this form if you maintain an indexed MCP server and want the public profile to show maintainer and verification metadata. The Project URL should match the indexed profile source, repository, homepage, docs URL, or existing metadata sidecar project URL.
+        Use this form if you maintain an indexed MCP server and want the public profile to show maintainer claim metadata. Claiming a profile is separate from TensorBlock verification. The Project URL should match the indexed profile source, repository, homepage, docs URL, or existing metadata sidecar project URL.
   - type: input
     id: profile-url
     attributes:
@@ -33,17 +33,17 @@ body:
   - type: textarea
     id: proof
     attributes:
-      label: Maintainer proof
-      description: Explain how we can verify your relationship to the project.
+      label: Optional maintainer proof
+      description: Optional links or notes that support your claim. Claims can be accepted without this, but stronger verification signals may be added later through metadata updates.
       placeholder: |
         I am an owner of the GitHub repo / npm package / organization.
         Verification link:
     validations:
-      required: true
+      required: false
   - type: textarea
     id: metadata
     attributes:
       label: Metadata you want displayed
-      description: Optional maintainer, verification, docs, or support details for the indexed profile.
+      description: Optional maintainer, docs, support, install, auth, or verification details for the indexed profile.
     validations:
       required: false

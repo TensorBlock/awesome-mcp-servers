@@ -154,15 +154,15 @@ test("builds a deduplicated route-specific comment", () => {
   assert.match(comment, /https:\/\/github.com\/owner\/example/);
 });
 
-test("builds claim profile comments with normalized profile links and verification steps", () => {
+test("builds claim profile comments with normalized profile links and claim steps", () => {
   const comment = buildTriageComment(claimProfileIssue);
 
   assert.match(comment, /tensorblock-mcp-issue-triage:v1:claim-profile/);
   assert.match(comment, /https:\/\/tensorblock\.co\/mcp\/servers\/github-owner-demo-12345678/);
   assert.match(comment, /https:\/\/mcp-index\.tensorblock\.co\/v1\/servers\/github-owner-demo-12345678/);
   assert.match(comment, /badge\.svg/);
-  assert.match(comment, /Maintainer verification checklist:/);
-  assert.match(comment, /official project source/);
+  assert.match(comment, /Profile claim checklist:/);
+  assert.match(comment, /Claiming is separate from TensorBlock verification/);
 });
 
 test("builds client config comments that mention the generated request spec", () => {
@@ -177,7 +177,8 @@ test("builds broken-entry comments that mention the generated report spec", () =
   const comment = buildTriageComment(brokenEntryIssue);
 
   assert.match(comment, /tensorblock-mcp-issue-triage:v1:broken-entry/);
-  assert.match(comment, /automation will draft a broken-entry report spec PR/);
+  assert.match(comment, /automation can draft a cleanup PR/);
+  assert.match(comment, /investigation spec PR/);
   assert.match(comment, /github-owner-demo-mcp-12345678/);
 });
 

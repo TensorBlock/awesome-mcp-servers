@@ -32,7 +32,7 @@ If you maintain an MCP server, the index can give your project a public profile,
 2. Include install, transport, auth, supported clients, docs, license, endpoint, and tool details when you have them.
 3. After merge, the follow-up comment gives you the public profile URL, API profile URL, install-config links, and badge markdown.
 4. Add the TensorBlock MCP Index badge to your project README so users can jump back to the indexed profile.
-5. Claim your profile or send metadata fixes through the [claim profile](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml) and [metadata improvement](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) forms. Valid profile claims and structured metadata updates generate draft metadata PRs; once reviewed, merged, and deployed, the public profile shows the maintainer, install, auth, docs, license, tool, and verification metadata.
+5. Claim your profile or send metadata fixes through the [claim profile](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml) and [metadata improvement](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) forms. Valid profile claims and structured metadata updates generate draft metadata PRs; once reviewed, merged, and deployed, the public profile shows maintainer claim status plus install, auth, docs, license, tool, and verification metadata when available. Claim status is separate from TensorBlock verification.
 
 ## Coverage
 
@@ -55,7 +55,7 @@ Choose the path that matches what you want to do.
 - Share your public MCP profile from [https://www.tensorblock.co/mcp](https://www.tensorblock.co/mcp) so users can inspect metadata, install configs, source links, and badges without reading the raw markdown.
 - Add your server to the best category under [Browse by Category](#browse-by-category), or use the [Add MCP server issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=add-mcp-server.yml).
 - Improve your existing entry with install command, transport, auth requirements, supported clients, docs URL, license, endpoint, and tool details. Use the [metadata issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=improve-metadata.yml) if you do not want to open a PR directly; when the profile id and structured values are clear, automation drafts a metadata sidecar PR for maintainer review.
-- Claim your TensorBlock MCP profile with the [claim profile issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml).
+- Claim your TensorBlock MCP profile with the [claim profile issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=claim-profile.yml). Claims show community maintainer ownership metadata and do not imply TensorBlock verification.
 - Add the TensorBlock MCP Index badge to your project README so users can jump from your repo to the indexed profile.
 
 **If you build MCP clients, agents, or developer tools:**
@@ -66,13 +66,13 @@ Choose the path that matches what you want to do.
 
 **If you want to improve the index itself:**
 
-- Fix duplicate, stale, broken, or poorly categorized entries. Use the [broken entry issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=report-broken-entry.yml) when you want maintainers to triage it; clear reports generate a draft investigation PR so cleanup work can be reviewed and tracked.
+- Fix duplicate, stale, broken, or poorly categorized entries. Use the [broken entry issue form](https://github.com/TensorBlock/awesome-mcp-servers/issues/new?template=report-broken-entry.yml) when you want maintainers to triage it. Clear dead-link reports can generate direct cleanup PRs, while duplicate, stale, category, safety, or unclear reports generate draft investigation PRs so cleanup work can be reviewed and tracked.
 - Add missing metadata that makes search and install generation more accurate.
 - Pick a scoped cleanup task from the [community cleanup queue](docs/community-cleanup-queue.md).
 - Propose verification signals, ranking improvements, or better category rules. The catalog health checker also runs on a schedule to flag duplicate primary links, missing GitHub repos, archived repos, and disabled repos as broken-entry reports.
 - Join the [TensorBlock Discord](https://discord.com/invite/Ej5NmeHFf2) to discuss roadmap work before opening a larger PR.
 
-Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving. Server submissions with a clear category can generate draft docs PRs, structured metadata updates or profile claims can generate draft metadata PRs, clear client-config requests can generate draft spec PRs, and clear broken-entry reports can generate draft investigation PRs.
+Issue forms are routed automatically. When you submit a server, metadata update, profile claim, client config request, or broken-entry report, the repo adds the right triage labels and posts the next steps so contributors and maintainers can keep the workflow moving. Server submissions with a clear category can generate draft docs PRs, structured metadata updates or profile claims can generate draft metadata PRs, clear client-config requests can generate draft spec PRs, and clear broken-entry reports can generate either direct cleanup PRs or draft investigation PRs depending on the report type.
 
 New server submissions also get intake status labels so the queue is easier to review at scale:
 
@@ -94,7 +94,7 @@ New server entries can be simple, but high-quality metadata makes the profile mu
 
 After a PR lands on `main`, the deploy workflow rebuilds the catalog and profiles. The hosted API and public profile pages refresh after the Railway deployment succeeds.
 
-The scheduled catalog health check uses the generated catalog to open `catalog-health` issues for duplicate links and stale or unreachable GitHub repositories. Those issues feed back into the same broken-entry report workflow, so cleanup work can become reviewable PRs instead of staying as loose maintainer notes.
+The scheduled catalog health check uses the generated catalog to open `catalog-health` issues for duplicate links and stale or unreachable GitHub repositories. Those issues feed back into the same broken-entry report workflow, so verified dead links can become direct cleanup PRs and ambiguous cleanup work can become reviewable investigation PRs instead of staying as loose maintainer notes.
 
 ## TensorBlock MCP Index
 
