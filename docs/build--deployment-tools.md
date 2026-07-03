@@ -2,6 +2,7 @@
 
 Servers interacting with build systems, containerization, CI/CD, or deployment platforms.
 
+- [friendlygeorge/docker-mcp-server](https://github.com/friendlygeorge/docker-mcp-server): Docker MCP server for container management, health checks, auto-restart, Compose lifecycle, log streaming, image, volume, network, and system diagnostics workflows. Install: `npx @supernova123/docker-mcp-server`. Stdio transport; no auth beyond local Docker socket access. MIT.
 - [zenoengine/msbuild-mcp-server](https://github.com/zenoengine/msbuild-mcp-server): Automates MSBuild project builds with dynamic discovery and customizable configurations, integrating seamlessly with various MCP clients.
 - [radostkali/gitlab-mcp-server](https://github.com/radostkali/gitlab-mcp-server): Facilitates GitLab integration using FastMCP for streamlined code review and repository management.
 - [rianvdm/remote-mcp-server](https://github.com/rianvdm/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
@@ -90,4 +91,3 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide](https://github.com/trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide): A detailed guide for verifying and troubleshooting MCP server installations on Windows, highlighting key differences from MacOS setups.
 - [Bigsy/maven-mcp-server](https://github.com/Bigsy/maven-mcp-server): Facilitates LLMs in verifying and retrieving Maven dependency versions from the Maven Central Repository.
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp): Facilitates Docker container and stack management through Claude AI with a Model Context Protocol server.
-
