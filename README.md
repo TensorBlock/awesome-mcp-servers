@@ -167,6 +167,7 @@ To add a new MCP server:
 3. Add one markdown bullet using this format:
    ```
    - [Server Name](https://github.com/owner/repo): Brief description of what the MCP server lets an agent do. Install: `npx your-package`.
+- [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight booking MCP server with direct booking links for 249 countries.
    ```
 4. Search the repo for your URL or project name to avoid duplicates.
 5. Open a pull request.
