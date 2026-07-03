@@ -131,7 +131,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [Paulhb7/mcp-sequential-ethical-thinking](https://github.com/Paulhb7/mcp-sequential-ethical-thinking): Facilitates structured ethical reasoning through deontological and consequentialist analysis, enabling moral judgment simulation and AI alignment.
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp): Facilitates interactive communication between LLMs and users through local prompts, chat, and notifications.
 - [alontu/tuval-remote-mcp-server](https://github.com/alontu/tuval-remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [ChangooLee/mcp-naver-news](https://github.com/ChangooLee/mcp-naver-news): Facilitates secure, context-based AI interactions with Naver News through a Model Context Protocol server.
 - [wmxl/mcp-weather](https://github.com/wmxl/mcp-weather): A Java-based MCP server offering weather forecasts and alerts using the US National Weather Service API.
 - [Norcim133/OutlookMCPServer](https://github.com/Norcim133/OutlookMCPServer): Facilitates seamless integration of Microsoft 365 mail and calendar functionalities with Claude Desktop using the Microsoft Graph API.
 - [Overseer66/comfyui-mcp-server](https://github.com/Overseer66/comfyui-mcp-server): Integrates ComfyUI with MCP, enabling seamless workflow execution and image processing through customizable tools.
