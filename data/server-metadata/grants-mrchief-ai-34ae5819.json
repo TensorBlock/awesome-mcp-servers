@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "grants-mrchief-ai-34ae5819",
+  "source": {
+    "issue": 802,
+    "projectUrl": "https://grants.mrchief.ai"
+  },
+  "links": {
+    "endpoint": "https://grants.mrchief.ai/mcp/"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "PUBLIC_GRANTS_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Create an account and API key at https://grants.mrchief.ai/account, then send Authorization: Bearer <key>. OAuth 2.0 device flow is also available."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "any MCP-compatible AI agent"
+  ],
+  "license": "unknown"
+}
