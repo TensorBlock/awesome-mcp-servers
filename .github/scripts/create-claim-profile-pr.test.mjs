@@ -57,6 +57,7 @@ test("validates profile claim submissions against indexed project URLs", () => {
   const submission = parseClaimProfileIssue(issueBody);
 
   assert.deepEqual(validateClaimSubmission(submission, catalogEntry, {}), []);
+  assert.deepEqual(validateClaimSubmission({ ...submission, proof: "" }, catalogEntry, {}), []);
   assert.deepEqual(
     validateClaimSubmission({
       ...submission,
@@ -101,12 +102,13 @@ test("builds a claimed profile metadata sidecar while preserving existing metada
     commands: ["npx demo-mcp"],
     confidence: "medium",
   });
-  assert.equal(metadata.verification.status, "verified");
-  assert.ok(metadata.verification.notes.some((note) => /Claimed by @owner in #761/.test(note)));
+  assert.equal(metadata.verification.status, "self_reported");
+  assert.ok(metadata.verification.notes.some((note) => /Profile claimed by @owner in #761/.test(note)));
+  assert.ok(metadata.verification.notes.some((note) => /Optional maintainer proof submitted in #761/.test(note)));
   assert.ok(metadata.verification.notes.some((note) => /Requested profile metadata in #761/.test(note)));
   assert.deepEqual(metadata.community, {
     maintainedBy: ["@co-maintainer", "@owner"],
-    verifiedBy: ["TensorBlock"],
+    verifiedBy: [],
     claimed: true,
   });
 });
@@ -125,5 +127,6 @@ test("finds catalog entries and builds actionable comments", () => {
 
   assert.match(comment, /tensorblock-mcp-claim-profile-pr:v1/);
   assert.match(comment, /draft metadata PR/);
+  assert.match(comment, /Claiming is separate from TensorBlock verification/);
   assert.match(comment, /github-owner-demo-mcp-12345678/);
 });

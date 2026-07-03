@@ -2,10 +2,14 @@ import assert from "node:assert/strict";
 import test from "node:test";
 
 import {
+  buildDeadEntryCleanupCandidate,
+  buildDeadEntryCleanupPrBody,
   buildBrokenEntryReportSpec,
   buildIssueComment,
   buildPrBody,
+  findBrokenEntryTargets,
   parseBrokenEntryIssue,
+  removeEntryLineFromMarkdown,
   slugFromEntryReference,
   validateBrokenEntryReport,
 } from "./create-broken-entry-report-pr.mjs";
@@ -106,4 +110,134 @@ test("builds actionable comments and PR body", () => {
   assert.match(body, /## Summary/);
   assert.match(body, /docs\/broken-entry-reports\/901-github-owner-demo-mcp-12345678\.md/);
   assert.match(body, /Closes #901/);
+});
+
+test("builds direct cleanup changes for verified dead docs entries", async () => {
+  const report = {
+    ...parseBrokenEntryIssue(issueBody),
+    issueTypes: ["Dead link"],
+    source: "https://github.com/owner/demo-mcp",
+  };
+  const entry = {
+    id: "github-owner-demo-mcp-12345678",
+    name: "owner/demo-mcp",
+    source: {
+      docsPath: "docs/developer-productivity--utilities.md",
+    },
+    links: {
+      primary: "https://github.com/owner/demo-mcp",
+      repo: "https://github.com/owner/demo-mcp",
+      homepage: null,
+      docs: null,
+      endpoint: null,
+    },
+  };
+  const targets = findBrokenEntryTargets([entry], report);
+  const cleanup = await buildDeadEntryCleanupCandidate({
+    catalog: [entry],
+    report,
+    fetchImpl: async () => ({ status: 404 }),
+  });
+  const removal = removeEntryLineFromMarkdown([
+    "## Developer Productivity",
+    "",
+    "- [owner/demo-mcp](https://github.com/owner/demo-mcp): Dead server.",
+    "- [Keep](https://github.com/owner/keep): Healthy server.",
+    "",
+  ].join("\n"), entry);
+  const body = buildDeadEntryCleanupPrBody({
+    issue: { number: 901, html_url: "https://github.com/TensorBlock/awesome-mcp-servers/issues/901" },
+    report,
+    cleanup,
+    removal,
+  });
+  const comment = buildIssueComment({
+    issue: { number: 901 },
+    report,
+    pullRequest: {
+      cleanup: true,
+      html_url: "https://github.com/TensorBlock/awesome-mcp-servers/pull/902",
+      checkedUrl: cleanup.checkedUrl,
+      statusCode: cleanup.statusCode,
+      path: cleanup.path,
+    },
+  });
+
+  assert.equal(targets.length, 1);
+  assert.equal(cleanup.path, "docs/developer-productivity--utilities.md");
+  assert.equal(cleanup.statusCode, 404);
+  assert.deepEqual(removal.removedLines, [
+    "- [owner/demo-mcp](https://github.com/owner/demo-mcp): Dead server.",
+  ]);
+  assert.doesNotMatch(removal.content, /demo-mcp/);
+  assert.match(body, /remove verified-dead catalog entry/);
+  assert.match(body, /HTTP 404/);
+  assert.match(comment, /Created a cleanup PR/);
+});
+
+test("skips direct cleanup for mixed or proof-only dead-link reports", async () => {
+  const entry = {
+    id: "github-owner-demo-mcp-12345678",
+    name: "owner/demo-mcp",
+    source: {
+      docsPath: "docs/developer-productivity--utilities.md",
+    },
+    links: {
+      primary: "https://github.com/owner/demo-mcp",
+      repo: "https://github.com/owner/demo-mcp",
+      homepage: null,
+      docs: null,
+      endpoint: null,
+    },
+  };
+  const mixedReport = {
+    ...parseBrokenEntryIssue(issueBody),
+    issueTypes: ["Dead link", "Wrong category"],
+    source: "https://github.com/owner/demo-mcp",
+  };
+  const proofOnlyReport = {
+    ...parseBrokenEntryIssue(issueBody),
+    issueTypes: ["Dead link"],
+    source: "https://example.com/proof-of-broken-link",
+  };
+  const fetchImpl = async () => {
+    throw new Error("fetch should not be called for skipped cleanup candidates");
+  };
+
+  assert.equal(await buildDeadEntryCleanupCandidate({ catalog: [entry], report: mixedReport, fetchImpl }), null);
+  assert.equal(await buildDeadEntryCleanupCandidate({ catalog: [entry], report: proofOnlyReport, fetchImpl }), null);
+});
+
+test("skips direct cleanup when the dead primary URL maps to multiple catalog entries", async () => {
+  const report = {
+    ...parseBrokenEntryIssue(issueBody),
+    issueTypes: ["Dead link"],
+    source: "https://github.com/owner/demo-mcp",
+  };
+  const firstEntry = {
+    id: "github-owner-demo-mcp-12345678",
+    name: "owner/demo-mcp",
+    source: {
+      docsPath: "docs/developer-productivity--utilities.md",
+    },
+    links: {
+      primary: "https://github.com/owner/demo-mcp",
+      repo: "https://github.com/owner/demo-mcp",
+      homepage: null,
+      docs: null,
+      endpoint: null,
+    },
+  };
+  const duplicateEntry = {
+    ...firstEntry,
+    id: "github-owner-demo-mcp-87654321",
+    name: "owner/demo-mcp duplicate",
+  };
+  const cleanup = await buildDeadEntryCleanupCandidate({
+    catalog: [firstEntry, duplicateEntry],
+    report,
+    fetchImpl: async () => ({ status: 404 }),
+  });
+
+  assert.equal(cleanup, null);
 });

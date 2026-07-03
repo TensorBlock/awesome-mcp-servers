@@ -95,7 +95,8 @@ describe("renderServerProfilePage", () => {
     });
 
     expect(html).toContain("Claimed profile");
-    expect(html).toContain("verified project maintainer");
+    expect(html).toContain("community maintainer");
+    expect(html).toContain("Claim status is separate from TensorBlock verification");
     expect(html).toContain("<dd>Yes</dd>");
     expect(html).toContain("<code>@owner</code>");
     expect(html).toContain("<code>TensorBlock</code>");

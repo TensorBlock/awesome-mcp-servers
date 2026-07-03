@@ -17,7 +17,7 @@ Use it when you want a focused contribution: verify a stale entry, improve metad
 | Ready server PRs | Server submissions with automation-generated PRs ready for maintainer review | [Open ready-for-pr submissions](https://github.com/TensorBlock/awesome-mcp-servers/issues?q=is%3Aissue%20is%3Aopen%20label%3Aserver-submission%20label%3Aready-for-pr) |
 | Duplicate submissions | Server submissions matching an existing project URL | [Open duplicate submissions](https://github.com/TensorBlock/awesome-mcp-servers/issues?q=is%3Aissue%20is%3Aopen%20label%3Aserver-submission%20label%3Aduplicate) |
 | Client config requests | New MCP client or install target formats | [Open client-config issues](https://github.com/TensorBlock/awesome-mcp-servers/issues?q=is%3Aissue%20is%3Aopen%20label%3Aclient-config) |
-| Profile claims | Maintainer verification for indexed profiles | [Open claim-profile issues](https://github.com/TensorBlock/awesome-mcp-servers/issues?q=is%3Aissue%20is%3Aopen%20label%3Aclaim-profile) |
+| Profile claims | Community maintainer claims for indexed profiles | [Open claim-profile issues](https://github.com/TensorBlock/awesome-mcp-servers/issues?q=is%3Aissue%20is%3Aopen%20label%3Aclaim-profile) |
 
 ## How To Pick A Task
 
@@ -28,13 +28,13 @@ Before editing, check:
 - whether the project URL already appears elsewhere in `docs/*.md`,
 - whether the public project README or docs confirm the proposed change,
 - whether the fix belongs in a category markdown file or `data/server-metadata/*.json`,
-- whether the issue already has an automation-generated draft PR.
+- whether the issue already has an automation-generated cleanup PR or draft investigation PR.
 
 For server submissions, use the intake labels to pick the next action:
 
 - `needs-metadata`: ask for the missing URL, category, or description before editing docs.
 - `duplicate`: close or link to the existing entry unless the submitter shows it is a distinct MCP server.
-- `ready-for-pr`: review the generated draft PR instead of hand-editing the issue.
+- `ready-for-pr`: review the generated PR instead of hand-editing the issue.
 - `automation-blocked`: open the PR from the generated branch or fix workflow permissions, then rerun by editing the issue.
 
 Maintainers can backfill these labels with the **MCP Add Server Intake Refresh** workflow. Use `dry_run=true` to inspect the planned changes across open `server-submission` issues, then rerun with `dry_run=false` to apply the labels. Set `issue_number` when you only want to refresh one issue.
@@ -45,7 +45,7 @@ Comment on the issue before doing larger cleanup work so two contributors do not
 
 Most cleanup PRs fall into one of these shapes:
 
-- Edit a category page under `docs/*.md` to remove a duplicate, fix a broken link, or move an entry to a better category.
+- Edit a category page under `docs/*.md` to remove a duplicate, remove a verified dead link, fix a broken URL, or move an entry to a better category.
 - Add or update a `data/server-metadata/{serverId}.json` sidecar for install, auth, transport, docs, license, client, tool, maintainer, or verification metadata.
 - Update a generated investigation spec under `docs/broken-entry-reports/` with the maintainer decision.
 - Add client config support after a request spec under `docs/client-config-requests/` is reviewed.
@@ -87,7 +87,7 @@ Generated files such as `data/catalog.json`, `data/catalog-errors.json`, and `da
 The queue is meant to turn drive-by reports into visible contribution opportunities:
 
 - issue forms add route labels and next-step comments,
-- clear reports can create draft PRs,
+- clear dead-link reports can create direct cleanup PRs, while ambiguous reports can create draft investigation PRs,
 - catalog-health issues surface stale or broken entries proactively,
 - merged server PRs post profile, API, install-config, and badge links,
 - cleanup contributors can point maintainers to verified sources instead of leaving loose notes.

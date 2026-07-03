@@ -12,7 +12,7 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
   const readmeBadge = badgeMarkdown(entry, profileUrl);
   const maintainerActions = renderMaintainerActions(entry);
   const maintainerIntro = entry.community.claimed
-    ? "This profile has been claimed by a verified project maintainer. Keep metadata current when install, auth, docs, license, or tool details change."
+    ? "This profile has been claimed by a community maintainer. Claim status is separate from TensorBlock verification; keep metadata current when install, auth, docs, license, or tool details change."
     : "Use this profile as the public install and metadata page for your MCP server. Claim the profile, add the badge to your README, and send metadata fixes when install or auth details change.";
   const installCommands = entry.install.commands.length > 0
     ? entry.install.commands.map((command) => `<code>${escapeHtml(command)}</code>`).join("")

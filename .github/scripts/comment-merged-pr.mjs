@@ -79,6 +79,7 @@ export function buildMergedPrComment({ pullRequest, entries }) {
     ...visibleEntries.flatMap(formatEntryFollowUp),
     ...(omittedCount > 0 ? [`_Omitted ${omittedCount} additional entries from this comment._`, ""] : []),
     "Help the MCP community find better servers:",
+    "- TensorBlock contributes free hosting, indexing, install-config generation, and registry API infrastructure for the MCP community.",
     `- Star this repo if the TensorBlock MCP Index is useful: ${REPO_URL}`,
     "- Share the indexed profile with users who need install/config metadata.",
     `- Join the community: ${DISCORD_URL}`,

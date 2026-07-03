@@ -95,5 +95,6 @@ test("builds a merged PR follow-up with profile, API, badge, and community links
   assert.match(comment, /Share this profile/);
   assert.match(comment, /Add the README badge/);
   assert.match(comment, /Missing install, transport, auth, docs, license, or tool metadata\?/);
+  assert.match(comment, /free hosting, indexing, install-config generation, and registry API infrastructure/);
   assert.match(comment, /Star this repo/);
 });

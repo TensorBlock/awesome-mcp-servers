@@ -1,5 +1,5 @@
 name: Report broken entry
-description: Report a duplicate, dead link, bad category, stale metadata, or unsafe entry. Clear reports can generate a draft investigation PR.
+description: Report a duplicate, dead link, bad category, stale metadata, or unsafe entry. Clear dead-link reports can generate cleanup PRs; other reports generate draft investigation PRs.
 title: "Report broken MCP entry: "
 labels:
   - broken-entry

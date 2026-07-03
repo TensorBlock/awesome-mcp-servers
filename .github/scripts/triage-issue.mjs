@@ -146,9 +146,9 @@ export function buildTriageComment(issue) {
       `Thanks for claiming this MCP profile in ${issueNumber}.`,
       "",
       "What happens next:",
-      "- We will verify the maintainer relationship using the repo, package, organization, or docs proof you provided.",
       "- If the profile id and project URL match the index, automation will draft a metadata PR for maintainer review.",
-      "- After that PR is verified, merged, and deployed, the profile can show maintainer and claim metadata in the index.",
+      "- After that PR is merged and deployed, the profile can show the requested maintainer handle as a claimed profile.",
+      "- Claiming is separate from TensorBlock verification; stronger verification signals can be added later through metadata updates.",
       "- If the profile also needs install/auth/docs updates, include them here or open a metadata PR.",
       "",
       describeCapturedFields(body, [
@@ -174,7 +174,8 @@ export function buildTriageComment(issue) {
       "",
       "What happens next:",
       "- We will verify the duplicate, dead link, stale metadata, wrong category, or safety concern.",
-      "- If the entry reference, issue type, and details are clear, automation will draft a broken-entry report spec PR for maintainer review.",
+      "- If this is a clear dead link and the URL still returns a dead status, automation can draft a cleanup PR against the matching `docs/*.md` entry.",
+      "- For duplicates, wrong categories, stale metadata, or safety reports, automation drafts an investigation spec PR for maintainer review.",
       "- If there is a clear correction, a direct PR against the matching `docs/*.md` entry is welcome.",
       "- Safety or security reports are routed with higher priority.",
       "",
@@ -211,11 +212,11 @@ function claimProfileGuidance(body) {
 
   return [
     ...links,
-    "Maintainer verification checklist:",
+    "Profile claim checklist:",
     "- The submitted project URL matches the indexed profile source or official project docs.",
-    "- The maintainer handle is visible on the official project source, package, organization, or docs.",
-    "- The proof link is controlled by the project, not only a personal statement.",
-    "- After verification, profile metadata changes can go through the metadata issue form or a direct PR.",
+    "- The maintainer handle is the GitHub/package/org handle you want displayed on the profile.",
+    "- Optional proof links can be added as supporting context, but claim metadata can be accepted without them.",
+    "- TensorBlock verification is tracked separately from the claimed profile status.",
   ].join("\n");
 }
 
