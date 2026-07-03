@@ -1,0 +1,24 @@
+{
+  "id": "github-kfischer-okarin-mcp-server-python-functions-d9fb40f2",
+  "name": "kfischer-okarin/mcp-server-python-functions",
+  "description": "A Python-based MCP server utilizing 'just' for streamlined command execution and integration with MCP clients like Claude.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-kfischer-okarin-mcp-server-python-functions-d9fb40f2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kfischer-okarin-mcp-server-python-functions-d9fb40f2)",
+  "links": {
+    "primary": "https://github.com/kfischer-okarin/mcp-server-python-functions",
+    "repo": "https://github.com/kfischer-okarin/mcp-server-python-functions",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

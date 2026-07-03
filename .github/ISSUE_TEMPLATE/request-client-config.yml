@@ -1,0 +1,44 @@
+name: Request client config support
+description: Request install-config generation for another MCP client or format. Clear requests can generate a draft spec PR.
+title: "Request client config support: "
+labels:
+  - client-config
+body:
+  - type: input
+    id: client
+    attributes:
+      label: Client or install target
+      placeholder: Claude Code, Windsurf, Continue, custom agent runtime
+    validations:
+      required: true
+  - type: textarea
+    id: config-shape
+    attributes:
+      label: Expected config shape
+      description: Paste an example config or describe the required file format.
+      render: json
+      placeholder: |
+        {
+          "mcpServers": {
+            "example": {
+              "command": "npx",
+              "args": ["-y", "example-mcp"]
+            }
+          }
+        }
+    validations:
+      required: true
+  - type: input
+    id: docs
+    attributes:
+      label: Official docs or reference
+      placeholder: https://...
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Include platform differences, auth handling, env var behavior, or examples from real MCP servers.
+    validations:
+      required: false

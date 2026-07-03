@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-smartdatabrokers-slideforge-mcp-705d941a",
+  "source": {
+    "projectUrl": "https://github.com/smartdatabrokers/slideforge-mcp"
+  },
+  "links": {
+    "docs": "https://slideforge.dev",
+    "endpoint": "https://api.slideforge.dev/mcp/"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add slideforge --transport http https://api.slideforge.dev/mcp/",
+      "npx -y mcp-remote@latest https://api.slideforge.dev/mcp/ --header \"Authorization: Bearer sf_live_YOUR_KEY\""
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Claude Desktop uses OAuth 2.1; Cursor, Windsurf, and other clients can use bearer/API-key auth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Cline"
+  ],
+  "license": "MIT"
+}

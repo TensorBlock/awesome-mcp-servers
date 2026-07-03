@@ -1,0 +1,40 @@
+name: Report broken entry
+description: Report a duplicate, dead link, bad category, stale metadata, or unsafe entry. Clear reports can generate a draft investigation PR.
+title: "Report broken MCP entry: "
+labels:
+  - broken-entry
+body:
+  - type: input
+    id: profile-url
+    attributes:
+      label: TensorBlock profile URL, server id, or project URL
+      placeholder: https://tensorblock.co/mcp/servers/... or https://github.com/owner/project
+    validations:
+      required: true
+  - type: checkboxes
+    id: issue-type
+    attributes:
+      label: What is wrong?
+      options:
+        - label: Dead link
+        - label: Duplicate entry
+        - label: Wrong category
+        - label: Incorrect install command
+        - label: Incorrect auth or transport metadata
+        - label: Stale project
+        - label: Security or safety concern
+        - label: Other
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain the issue and include the corrected value if you know it.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source or proof
+      placeholder: https://...
+    validations:
+      required: false

@@ -2,6 +2,8 @@
 
 Servers accessing scientific databases, research platforms, or providing tools for scientific computation/simulation.
 
+- [xmpuspus/ph-civic-data-mcp](https://github.com/xmpuspus/ph-civic-data-mcp): Philippine civic data plus global Earth observation as MCP tools. Covers PSGC location resolver, PHIVOLCS earthquakes and volcano alerts, PAGASA weather and typhoons, PhilGEPS procurement with infra-spending accountability flags, PSA population, poverty, and economy (inflation, labor, health), NASA POWER solar/climate, Open-Meteo air quality, NASA MODIS NDVI, USGS earthquakes, NOAA IBTrACS typhoon tracks, and World Bank macro indicators. 29 tools across 12 sources, zero required API keys, with cross-source multi-hazard risk profiler and a `get_area_profile` auto-stitch that composes demographics, economy, procurement, hazard, and weather in one call. Install: `uvx ph-civic-data-mcp`.
+- [connerlambden/bgpt-mcp](https://github.com/connerlambden/bgpt-mcp): Search scientific papers with structured experimental data extracted from full-text studies, returning 25+ fields per paper including methods, results, sample sizes, and quality scores.
 - [GreatApo/concrete-properties-mcp](https://github.com/GreatApo/concrete-properties-mcp): Facilitates AI-driven analysis of reinforced concrete sections by providing a unified API interface for calculating geometric and material properties.
 - [GooTec/NCBI-MCP](https://github.com/GooTec/NCBI-MCP): Facilitates access to NCBI Datasets through a modular MCP server with OpenAPI-driven endpoints for genome, gene, and taxonomy data.
 - [leelasd/molecule_mcp](https://github.com/leelasd/molecule_mcp): Facilitates chemistry-focused applications by visualizing molecules and retrieving molecular properties using SMILES codes, integrated with LLMs like Claude Desktop.
@@ -17,10 +19,12 @@ Servers accessing scientific databases, research platforms, or providing tools f
 - [rperezll/mcp-lab](https://github.com/rperezll/mcp-lab): A personal lab exploring the Model Context Protocol SDK in TypeScript, featuring basic and advanced implementations like a Text-to-SQL server.
 - [falahgs/Brave-Gemini-Research-MCP-Server](https://github.com/falahgs/Brave-Gemini-Research-MCP-Server): Empowers AI assistants with web search and research paper analysis using Brave Search API and Google's Gemini model.
 - [Orthogonalpub/modelica_simulation_mcp_server](https://github.com/Orthogonalpub/modelica_simulation_mcp_server): Facilitates Modelica model simulations, enabling LLMs to execute and manage Modelica-related tasks.
+- [kobzevvv/moldsim-mcp](https://github.com/kobzevvv/moldsim-mcp): Injection molding simulation knowledge for AI — material properties (Cross-WLF, PVT, thermal, mechanical for 21 materials), process validation, DFM checklist, troubleshooting (230+ knowledge chunks with semantic search), and simulation spec generation.
 - [ytworks/openMM-Doc-MCP](https://github.com/ytworks/openMM-Doc-MCP): Facilitates semantic search through OpenMM molecular dynamics documentation using vector embeddings and FAISS for efficient retrieval, optimized for LLM integration.
 - [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp): Facilitates interaction with Kaggle by providing tools for dataset search, download, and EDA notebook generation via the Model Context Protocol.
 - [mila-iqia/paperpal](https://github.com/mila-iqia/paperpal): Enhance your literature review process by integrating LLMs with arXiv and Hugging Face papers for seamless paper discussions and organization.
 - [huang-sh/scanpy-mcp](https://github.com/huang-sh/scanpy-mcp): Facilitates natural language-driven scRNA-Seq analysis using Scanpy, enabling seamless integration with AI clients and agent frameworks.
+- [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial): Enables spatial transcriptomics analysis through natural language, integrating 60+ methods for spatial domains, deconvolution, cell communication, and trajectory analysis across Visium, Xenium, MERFISH and more.
 - [datalayer/jupyter-earth-mcp-server](https://github.com/datalayer/jupyter-earth-mcp-server): Facilitates geospatial analysis in Jupyter notebooks by integrating NASA Earthdata with Model Context Protocol.
 - [fdmocho/mcp_server_nasa](https://github.com/fdmocho/mcp_server_nasa): Facilitates integration with NASA's Near Earth Object API, enabling date-specific data retrieval through an MCP server setup.
 - [hiyenwong/arxiv_mcp](https://github.com/hiyenwong/arxiv_mcp): Facilitates the search and interpretation of academic papers from arXiv using MCP technology.
@@ -104,4 +108,16 @@ Servers accessing scientific databases, research platforms, or providing tools f
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed): Facilitates access to PubMed articles via the Entrez API, enabling keyword searches and retrieval of abstracts and full texts for open access articles.
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv): Facilitates LLMs to search and access scientific papers on arXiv, providing metadata and abstracts through an MCP server.
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server): Facilitates AI-driven search and analysis of arXiv papers via a streamlined MCP interface.
+- [daedalus/mcp-gmpy2](https://github.com/daedalus/mcp-gmpy2) - MCP server exposing gmpy2 arbitrary precision arithmetic functions.
+- [daedalus/mcp-manimgl](https://github.com/daedalus/mcp-manimgl) - MCP server exposing manimgl mathematical animation functionality.
+- [daedalus/mcp-number-theory](https://github.com/daedalus/mcp-number-theory) - MCP server exposing number theory functions and factorization algorithms from RsaCtfTool.
+- [daedalus/mcp-numpy](https://github.com/daedalus/mcp-numpy) - An MCP server that exposes NumPy functionality.
+- [daedalus/mcp-oeis](https://github.com/daedalus/mcp-oeis) - MCP server for the OEIS (Online Encyclopedia of Integer Sequences) API.
+- [daedalus/mcp-parigp](https://github.com/daedalus/mcp-parigp) - MCP server exposing cypari2 (PARI/GP) number theory library.
+- [daedalus/mcp-qiskit](https://github.com/daedalus/mcp-qiskit) - MCP server exposing Qiskit quantum computing functionality.
+- [daedalus/mcp-sympy](https://github.com/daedalus/mcp-sympy) - MCP server that exposes SymPy's symbolic mathematics functionality.
+- [daedalus/mcp-z3-prover](https://github.com/daedalus/mcp-z3-prover) - MCP server exposing Z3 solver API.
 
+- [cajusticewatch/mcp-server](https://github.com/cajusticewatch/mcp-server): California criminal-justice accountability databases as MCP tools — 58 District Attorneys, 196 defenders, 1,620 currently sitting judges, 1,500 officer misconduct records, Commission on Judicial Performance discipline (247 records + semantic full-text search over 250 decision PDFs), 671 POST decertifications. 15 tools, public read-only, no auth, remote at `https://cajusticewatch.com/api/mcp`. Sources: cjp.ca.gov, post.ca.gov, official court rosters, named press coverage.
+- [federicodeponte/openpaper-mcp](https://github.com/federicodeponte/openpaper-mcp): Generate full academic papers with verified citations via OpenPaper.dev using 18 specialized AI agents.
+- [Archerkattri/mathlas](https://github.com/Archerkattri/mathlas): Airtight math tools for agents with no LLM inside and no API key: theorem search over a 3.68M-document index, PSLQ closed-form constant identification, exact OEIS sequence matching, and real Lean 4 kernel proof checking that returns the kernel's exact error for repair loops. stdio transport, no auth, works with Claude Code, Cursor, and any MCP client. Install: `uvx mathlas-mcp`.

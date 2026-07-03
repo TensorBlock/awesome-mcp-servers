@@ -1,0 +1,24 @@
+{
+  "id": "github-swairshah-claude-cli-mcp-client-0477da36",
+  "name": "swairshah/claude-cli-mcp-client",
+  "description": "This repository provides a basic CLI client for interacting with MCP-compatible servers, featuring example configurations for Node.js and Python servers.",
+  "category": "Operating System & Command Line",
+  "profileUrl": "https://tensorblock.co/mcp/github-swairshah-claude-cli-mcp-client-0477da36",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-swairshah-claude-cli-mcp-client-0477da36)",
+  "links": {
+    "primary": "https://github.com/swairshah/claude-cli-mcp-client",
+    "repo": "https://github.com/swairshah/claude-cli-mcp-client",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -32,6 +32,7 @@ Servers using mapping APIs, providing geolocation services, address lookups, or 
 - [hiroaqii/jp-weather-mcp-server](https://github.com/hiroaqii/jp-weather-mcp-server): Provides weather forecasts for Japan using a compatible API.
 - [lincw/cwa-mcp-server](https://github.com/lincw/cwa-mcp-server): Connects Claude Desktop to Taiwan's Central Weather Bureau API for weather data access.
 - [lincw/dwd-mcp-server](https://github.com/lincw/dwd-mcp-server): Connects Claude Desktop to the Deutsche Wetterdienst API for real-time German weather data and warnings.
+- [IPGeolocation/ipgeolocation-io-mcp](https://github.com/IPGeolocation/ipgeolocation-io-mcp): Official MCP server for IP geolocation, IP security, abuse contacts, ASN, timezone, astronomy, and user-agent parsing using ipgeolocation.io APIs.
 - [overstarry/qweather-mcp](https://github.com/overstarry/qweather-mcp): Provides weather information query capabilities through the QWeather API using Model Context Protocol.
 - [pinnaclesoft-ko/seoul_data_mcp](https://github.com/pinnaclesoft-ko/seoul_data_mcp): Facilitates access to Seoul's public data through an MCP server, offering insights into subway usage and cultural events.
 - [tonykonst/mcp-gmaps](https://github.com/tonykonst/mcp-gmaps): A versatile collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for LLMs.
@@ -73,6 +74,7 @@ Servers using mapping APIs, providing geolocation services, address lookups, or 
 - [chinlung/weather-api-project](https://github.com/chinlung/weather-api-project): A dedicated MCP server for Claude AI, providing real-time weather forecasts, alerts, and rainfall data from Taiwan's Central Weather Bureau.
 - [MiLLeRRain/weather-server](https://github.com/MiLLeRRain/weather-server): A TypeScript-based MCP server that enhances LLM interactions by providing structured weather data and a simple notes system.
 - [lework/mcp-server-ip](https://github.com/lework/mcp-server-ip): Provides IP address geolocation queries using the Model Context Protocol with HTTP SSE data transmission.
+- [LatLng](https://www.latlng.work/mcp): Official LatLng MCP server for geocoding, reverse geocoding, places search, nearby places, and place categories powered by OpenStreetMap data. Remote endpoint: `https://mcp.latlng.work/mcp`. Transport: streamable-http. Auth: LatLng Server Key. Install: `npx -y @latlng/mcp-server`.
 - [jagan-shanmugam/open-streetmap-mcp](https://github.com/jagan-shanmugam/open-streetmap-mcp): Enhances LLM capabilities with geospatial data and location-based services using OpenStreetMap.
 - [SeanLF/weather-mcp](https://github.com/SeanLF/weather-mcp): Provides weather forecast data from the Government of Canada Weather API, integrating seamlessly with Claude Desktop and other MCP-compatible clients.
 - [shanggqm/hefeng-mcp-weather](https://github.com/shanggqm/hefeng-mcp-weather): Provides weather forecast data for locations in China via the HeFeng Weather API.
@@ -90,4 +92,5 @@ Servers using mapping APIs, providing geolocation services, address lookups, or 
 - [youqingkui/dify_service](https://github.com/youqingkui/dify_service): A server that manages note storage and summarization with custom URI schemes and prompt tools.
 - [egublog/claude_mcp_weather](https://github.com/egublog/claude_mcp_weather): A TypeScript-based MCP server implementing a notes system with tools for note creation and summarization.
 - [duan-li/mcp-weather-server-example](https://github.com/duan-li/mcp-weather-server-example): A weather server utilizing MCP to manage and summarize note resources with customizable prompts.
-
+- [danishashko/geocode-mcp](https://github.com/danishashko/geocode-mcp): Geocoding via OpenStreetMap Nominatim: forward and reverse geocoding, place search, and distance between locations. 4 tools, no API key, install via `npx geocode-mcp`.
+- [HeavenEcoHub/heaven-homes-mcp](https://heavenhomeshub.com/mcp): Global real-estate marketplace — search property across 190+ countries, find verified agents, and pull city market summaries. 5 tools (search_properties, get_property, find_agents, list_cities, get_market_summary). Transport: streamable-http. Auth: none. License: Proprietary. Hosted by Heaven Homes (TypeScript / Node 22, Cloud Functions).

@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "emile-wine-mcp-0f8bfe89",
+  "source": {
+    "projectUrl": "https://emile.wine/mcp/"
+  },
+  "links": {
+    "docs": "https://emile.wine/mcp/",
+    "endpoint": "https://mcp.emile.wine/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @emile-wine/mcp-server"
+    ],
+    "env": [
+      "EMILE_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Remote connector uses OAuth; local stdio uses EMILE_API_KEY"
+    ]
+  },
+  "license": "MIT"
+}

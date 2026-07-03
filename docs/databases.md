@@ -2,11 +2,14 @@
 
 Servers providing interfaces to various database types like SQL, NoSQL, Vector Databases, Graph Databases, Time-Series, etc.
 
+- [mcp-database-connector-lite](https://pypi.org/project/mcp-database-connector-lite/): Free SQLite MCP server for query execution, schema inspection, and data manipulation from AI assistants. Install: `pip install mcp-database-connector-lite`. MIT.
+- [rog0x/mcp-database-tools](https://github.com/rog0x/mcp-database-tools): Database MCP tools for SQL formatting, schema inspection, and migration workflows. Install from the `@rog0x` npm package family. MIT.
 - [tkz24589/mcp_mongodb](https://github.com/tkz24589/mcp_mongodb): Facilitates AI-driven interactions with MongoDB through natural language queries, supporting seamless data management and retrieval.
 - [cwilby/mcp-node-mssql](https://github.com/cwilby/mcp-node-mssql): Facilitates SQL Server interactions via MCP using node-mssql, enabling seamless database management.
 - [wangzhaobo168/dm-mcp-server](https://github.com/wangzhaobo168/dm-mcp-server): Facilitates interaction with Dameng databases by listing tables, executing read-only SQL queries, and displaying table structures.
 - [NomotoK/doris-mcp-server](https://github.com/NomotoK/doris-mcp-server): Facilitates secure, read-only SQL queries and schema exploration on Apache Doris databases for LLM applications.
 - [waii-ai/waii-mcp-server](https://github.com/waii-ai/waii-mcp-server): Facilitates natural language interaction with databases, enabling Language Models to execute queries and process data through WAII.
+- [cpenniman12/text2sql-mcp](https://github.com/cpenniman12/text2sql-mcp): Frontier models can now make hundreds of iterative tool calls per prompt — so instead of pre-computing which schema elements are relevant, you can hand the LLM one tool (`execute_sql`) and let it explore the schema, write queries, and self-correct. No RAG, semantic layer, or schema descriptions required — just a connection string and a frontier model. SQLite, Postgres, MySQL, Snowflake, and BigQuery via install extras. Install: `uvx text2sql-mcp`. Transport: stdio. License: MIT.
 - [affannahmed/MCP-Server-with-Claude-Ai](https://github.com/affannahmed/MCP-Server-with-Claude-Ai): Facilitates secure interaction between AI applications and MySQL databases through a controlled MCP interface.
 - [ydb-platform/ydb-mcp](https://github.com/ydb-platform/ydb-mcp): Facilitates AI-driven interactions with YDB databases through a Model Context Protocol server, enabling natural language database operations.
 - [Moonlight-CL/redshift-mcp-server](https://github.com/Moonlight-CL/redshift-mcp-server): Facilitates AI assistant interactions with Amazon Redshift databases through a Python-based MCP server.
@@ -41,6 +44,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [Azure-Samples/azure-postgresql-mcp](https://github.com/Azure-Samples/azure-postgresql-mcp): Connect AI applications to Azure Database for PostgreSQL using standardized MCP protocols for seamless data interaction.
 - [kutsushitaneko/mcp-server-for-oracle-database](https://github.com/kutsushitaneko/mcp-server-for-oracle-database): Facilitates AI applications to execute SQL queries on Oracle Database, ensuring seamless integration with MCP clients like Cursor and Claude Desktop.
 - [yuefeng-cn/mcp-postgres](https://github.com/yuefeng-cn/mcp-postgres): Facilitates the integration of PostgreSQL with AI agents through MCP server configurations.
+- [LVTD-LLC/pgsandbox-mcp](https://github.com/LVTD-LLC/pgsandbox-mcp): Local stdio MCP server for disposable PostgreSQL sandboxes, creating tracked database and role pairs with scoped credentials, TTL cleanup, bounded SQL execution, and schema inspection for coding agents.
 - [Doofie15/Supabase-](https://github.com/Doofie15/Supabase-): Empower your IDE to safely execute SQL, manage schema changes, and interact with Supabase APIs using natural language.
 - [morristai/iceberg-mcp](https://github.com/morristai/iceberg-mcp): Facilitates interaction with Apache Iceberg catalogs through an MCP server, supporting REST and AWS Glue integrations with asynchronous operations and logging.
 - [vitalyDV/mysql-mcp](https://github.com/vitalyDV/mysql-mcp): Facilitates interaction with MySQL databases through a Model Context Protocol server, enabling SQL query execution and schema retrieval.
@@ -290,3 +294,12 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb): Facilitates database operations on DuckDB through MCP tools, enabling SQL queries and schema inspection with optional read-only mode for data integrity.
 - [lucas-deangelis/arango-mcp-server](https://github.com/lucas-deangelis/arango-mcp-server): Facilitates interaction with ArangoDB through the Model Context Protocol, enabling database queries and management via a structured command interface.
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox): Open source MCP server specializing in easy, fast, and secure tools for Databases.
+- [haymon-ai/database](https://github.com/haymon-ai/database): Single-binary MCP server for MySQL, MariaDB, PostgreSQL & SQLite. Built in Rust with zero runtime dependencies.
+- [daedalus/mcp-mysql-connector](https://github.com/daedalus/mcp-mysql-connector) - MCP server for MySQL database connectivity.
+- [daedalus/mcp-psycopg2](https://github.com/daedalus/mcp-psycopg2) - MCP server exposing psycopg2 PostgreSQL database adapter functionality.
+- [daedalus/mcp-redis-server](https://github.com/daedalus/mcp-redis-server) - MCP server that exposes Redis API to AI models.
+- [daedalus/mcp-server-mssql](https://github.com/daedalus/mcp-server-mssql) - MCP server for Microsoft SQL Server.
+- [daedalus/mcp-sqlite3](https://github.com/daedalus/mcp-sqlite3) - MCP server exposing sqlite3 library functionality.
+
+- [stucchi/db-mcp-server](https://github.com/stucchi/db-mcp-server): Database MCP server for MySQL, PostgreSQL, and MongoDB with SSH tunneling support. Run queries, explore schemas, and manage data across multiple database types.
+- [haymon-ai/dbmcp](https://github.com/haymon-ai/dbmcp): Connect AI assistants to MySQL, MariaDB, PostgreSQL, and SQLite databases through an MCP server with schema discovery, query execution, read-only mode, and optional PII redaction.

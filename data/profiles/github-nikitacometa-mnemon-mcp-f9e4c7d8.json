@@ -1,0 +1,24 @@
+{
+  "id": "github-nikitacometa-mnemon-mcp-f9e4c7d8",
+  "name": "nikitacometa/mnemon-mcp",
+  "description": "Persistent layered memory for AI agents. SQLite FTS5, fact versioning with superseding chains, and zero-cloud local storage.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-nikitacometa-mnemon-mcp-f9e4c7d8",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nikitacometa-mnemon-mcp-f9e4c7d8)",
+  "links": {
+    "primary": "https://github.com/nikitacometa/mnemon-mcp",
+    "repo": "https://github.com/nikitacometa/mnemon-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-enostech-inc-remote-mcp-server-95bc6edb",
+  "name": "ENOSTECH-inc/remote-mcp-server",
+  "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with Claude Desktop and MCP Inspector.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-enostech-inc-remote-mcp-server-95bc6edb",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-enostech-inc-remote-mcp-server-95bc6edb)",
+  "links": {
+    "primary": "https://github.com/ENOSTECH-inc/remote-mcp-server",
+    "repo": "https://github.com/ENOSTECH-inc/remote-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

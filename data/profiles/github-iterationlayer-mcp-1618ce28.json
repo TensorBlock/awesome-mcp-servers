@@ -1,0 +1,24 @@
+{
+  "id": "github-iterationlayer-mcp-1618ce28",
+  "name": "iterationlayer/mcp",
+  "description": "Document extraction, image transformation, programmatic image generation, document generation, and sheet generation via composable APIs with OAuth 2.1 authentication.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/github-iterationlayer-mcp-1618ce28",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iterationlayer-mcp-1618ce28)",
+  "links": {
+    "primary": "https://github.com/iterationlayer/mcp",
+    "repo": "https://github.com/iterationlayer/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

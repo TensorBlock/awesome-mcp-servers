@@ -1,0 +1,24 @@
+{
+  "id": "github-r-huijts-ns-mcp-server-4a34c84b",
+  "name": "r-huijts/ns-mcp-server",
+  "description": "Connects Claude AI to real-time Dutch Railways travel information, enabling seamless access to train schedules, disruptions, and pricing through the official NS API.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/github-r-huijts-ns-mcp-server-4a34c84b",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-r-huijts-ns-mcp-server-4a34c84b)",
+  "links": {
+    "primary": "https://github.com/r-huijts/ns-mcp-server",
+    "repo": "https://github.com/r-huijts/ns-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

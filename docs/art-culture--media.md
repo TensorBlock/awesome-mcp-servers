@@ -2,6 +2,9 @@
 
 Servers interacting with APIs for museums, media databases, image/video hosting, or creative content platforms.
 
+- [Émile](https://emile.wine/mcp/): Official wine-cellar MCP server for searching a 100k+ wine catalog, listing cellars and bottles, recommending bottles from a user's own cellar, adding/updating/deleting inventory, and scanning wine labels from photos. Remote OAuth endpoint at `https://mcp.emile.wine/mcp`; local stdio with `npx -y @emile-wine/mcp-server` and `EMILE_API_KEY`. MIT.
+- [Alisammour/storyflo-mcp](https://github.com/Alisammour/storyflo-mcp): Curated audio-news MCP server. Searches trending articles, fetches narrated audio, subscribes topic feeds. Free tier; premium briefings via x402 over USDC on Base mainnet. OAuth 2.1 + RFC 7591 DCR. Hosted at https://api.storyflo.com/mcp/v1.
+- [spritecook/spritecook-mcp](https://github.com/spritecook/spritecook-mcp): Generates pixel art sprites and animations for game developers, turning text prompts into game-ready characters, items, and sprite sheet animations.
 - [ourongxing/newsnow-mcp-server](https://github.com/ourongxing/newsnow-mcp-server): Facilitates access to over 40 news sources through a dedicated MCP server for NewsNow.
 - [trevhud/vibe-mcp](https://github.com/trevhud/vibe-mcp): Generates music based on coding context with support for multiple audio backends and seamless playback.
 - [eluc1a/mcp-news](https://github.com/eluc1a/mcp-news): Facilitates access to categorized news articles from a database, enabling clients to retrieve and summarize the latest content.
@@ -79,3 +82,6 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 - [angheljf/nyt](https://github.com/angheljf/nyt): A TypeScript-based server enabling keyword-based searches for New York Times articles from the past 30 days.
 - [carllapierre/spotify-mcp](https://github.com/carllapierre/spotify-mcp): A TypeScript-based server enabling Spotify playlist creation and song search via the Model Context Protocol.
 
+- [The-Doxa-Way/doxa-mcp-schema](https://github.com/The-Doxa-Way/doxa-mcp-schema): Christian Bible MCP for Scripture lookup (Berean Standard Bible, public domain), Christian encouragement in the Doxa voice, and the Doxa Way journey map. Three tools: doxa_encourage, doxa_scripture, doxa_way_movement. Hosted at `https://doxa.app/mcp/v1`, free per-individual quota, BYOL via X-Anthropic-Key for unlimited. Listed on the official MCP Registry as `io.github.TheDoxaWay/doxa-mcp`.
+- [kultur-dev/mcp-server](https://github.com/kultur-dev/mcp-server ) - Cultural intelligence MCP server providing sensitivity analysis, localization guidance, Hofstede cultural dimensions, and cross-market communication tools for 50+ markets.
+- [sapuyou45-bit/ai-divination-skills](https://github.com/sapuyou45-bit/ai-divination-skills): Audited tarot, I Ching, and Xiao Liu Ren divination MCP server. Local seeded-or-system-entropy scripts; the model never invents the result — it only interprets the JSON output. `pip install ai-divination-skills` then run `ai-divination-mcp`.

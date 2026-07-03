@@ -1,0 +1,24 @@
+{
+  "id": "github-alvnavraii-mcpgithub-e4b1be47",
+  "name": "alvnavraii/MCPGithub",
+  "description": "Facilitates efficient and secure GitHub repository management through MCP integration, offering comprehensive tools for repository, branch, and pull request operations.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/github-alvnavraii-mcpgithub-e4b1be47",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alvnavraii-mcpgithub-e4b1be47)",
+  "links": {
+    "primary": "https://github.com/alvnavraii/MCPGithub",
+    "repo": "https://github.com/alvnavraii/MCPGithub",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

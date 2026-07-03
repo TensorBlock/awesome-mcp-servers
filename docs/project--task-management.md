@@ -2,9 +2,15 @@
 
 Servers integrating with project management and task tracking tools.
 
+- [KyaniteLabs/Epoch](https://github.com/KyaniteLabs/Epoch): Software estimation MCP server — PERT, COCOMO II, Monte Carlo, sprint forecasting, and schedule-risk tools for AI agents.
+- [Claw Task Hub](https://github.com/Catfish-75/claw-task-hub): Local-first, SQLite-backed task hub with MCP-compatible tools for AI agent issue tracking, sessions, claims, comments, and acceptance trails.
+- [MadGapun/PBP](https://github.com/MadGapun/PBP): AI-powered MCP server for job application management in the German-speaking market (DACH). 73 tools, 18 guided workflows, 18 job portal scrapers, React dashboard with 8 tabs, email integration (.msg/.eml), calendar with .ics export, intelligent scoring, and AI coaching. Currently German language only. MIT licensed, runs locally, privacy-first.
+- [Writbase/writbase](https://github.com/Writbase/writbase): MCP-native task management for AI agent fleets with multi-agent permissions, full provenance, inter-agent delegation, and A2A protocol alignment.
+- [spranab/saga-mcp](https://github.com/spranab/saga-mcp): A Jira-like project tracker MCP server for AI agents. SQLite-backed with full hierarchy (Projects > Epics > Tasks > Subtasks), automatic activity logging, dashboard overview, and unified notes system — so LLMs never lose track across sessions.
 - [ACNet-AI/OmniTaskAgent](https://github.com/ACNet-AI/OmniTaskAgent): OmniTaskAgent is a versatile multi-model task management system that integrates with various task management solutions and editors via the MCP protocol, enhancing intelligent workflow processes.
 - [linshu123/volar_docs](https://github.com/linshu123/volar_docs): Volar facilitates task management by aligning human and AI collaboration through an MCP server, enabling asynchronous workflows and context organization.
 - [eyalzh/kanban-mcp](https://github.com/eyalzh/kanban-mcp): Facilitates task management for AI-driven workflows using a kanban system, enabling structured planning and execution across multiple sessions.
+- [danielealbano/mcp-for-azure-devops-boards](https://github.com/danielealbano/mcp-for-azure-devops-boards): The necessary bits to let your favourite AI manage Azure DevOps Boards like a project manager, with stdio and HTTP support and authentication via standard Azure login.
 - [jj3ny/reclaim-mcp-server](https://github.com/jj3ny/reclaim-mcp-server): A TypeScript-based MCP server enabling seamless interaction with Reclaim.ai's API for task management and scheduling.
 - [namanyayg/giga-mcp](https://github.com/namanyayg/giga-mcp): Enhance AI project management by automating memory and task tracking with seamless integration into MCP clients.
 - [Moss-G/Gantt-server](https://github.com/Moss-G/Gantt-server): Facilitates AI-driven Gantt chart project and task management with interactive visualization capabilities.
@@ -214,3 +220,9 @@ Servers integrating with project management and task tracking tools.
 - [noah-vh/mcp-server-clickup](https://github.com/noah-vh/mcp-server-clickup): Integrates ClickUp with a Model Context Protocol server to manage and summarize notes efficiently.
 - [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro): Connects to the MIRO Whiteboard Application for board manipulation and bulk operations using the Model Context Protocol.
 
+- [TourAround/LystBot](https://github.com/TourAround/LystBot): AI-powered list management MCP server. Create grocery lists, todos, and packing lists, add items, check them off, and share lists with family. 10 MCP tools for the full list lifecycle. Free iOS + Android app at lystbot.com.
+- [SprintFlint](https://sprintflint.com/mcp): Opinionated sprint tracker for small dev teams. Remote MCP server at `https://mcp.sprintflint.com` (streamable HTTP, bearer-token auth) lets Claude/Cursor/Claude Code/Zed read and update tickets, sprints, comments, and velocity. Listed on the official MCP Registry as `io.github.neoflintai/sprintflint`. Free tier 300 tickets, no card.
+
+- [taskade/mcp](https://github.com/taskade/mcp): Official Taskade MCP server: connect Taskade’s API to any MCP-compatible client (e.g. Claude or Cursor), enabling workspace loading, task retrieval, and interactive operations.
+- [mstang/casemgr-mcp](https://github.com/mstang/casemgr-mcp): Shared workspace your AI agents write to. CMMN case management with 184 MCP tools: create cases, drive event-driven workflows with sentries, persistent memory with semantic search, billing and invoicing. OAuth or token auth; hosted MCP endpoint at casemgr.systems.
+- [mondaycom/mcp](https://github.com/mondaycom/mcp): Official monday.com MCP server. Manage boards, items, columns, groups, docs, and workspace data. Hosted MCP endpoint at `https://mcp.monday.com/mcp` (OAuth 2.1) or run locally via `npx @mondaydotcomorg/monday-api-mcp` with an API token.

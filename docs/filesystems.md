@@ -2,15 +2,15 @@
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
 
+- [us-all/google-drive-mcp-server](https://github.com/us-all/google-drive-mcp-server) - Google Drive + Workspace MCP server with 98 tools across Docs, Sheets, Slides, Shared Drives, Labels, and Approvals. OAuth2 / Service Account + Domain-Wide Delegation auth.
+- [raullenchai/vnsh-mcp](https://github.com/raullenchai/vnsh/tree/main/mcp): Ephemeral encrypted file sharing for AI workflows. Client-side AES-256 encryption with 24h auto-vaporization. Read vnsh URLs and share large outputs securely.
 - [MVA-MCP-servers/filesystem](https://github.com/MVA-MCP-servers/filesystem): Node.js server for advanced filesystem operations using Model Context Protocol, featuring smart file management and directory navigation.
 - [yinzhouzhi/filesystem-server](https://github.com/yinzhouzhi/filesystem-server): Facilitates local filesystem access and operations through a Model Context Protocol-based server.
 - [CyberT33N/mcp-filesystem-extended](https://github.com/CyberT33N/mcp-filesystem-extended): Node.js server for comprehensive filesystem operations using the Model Context Protocol.
 - [webconsulting/mcp-server-wsl-filesystem](https://github.com/webconsulting/mcp-server-wsl-filesystem): Optimized for WSL, this Node.js server facilitates seamless filesystem operations between Windows and Linux distributions, enhancing performance and control for WSL users.
-- [asirulnik/mcp_server_filesystem_01](https://github.com/asirulnik/mcp_server_filesystem_01): Facilitates AI-driven file system operations within a project directory, enabling seamless code interaction and management.
 - [arunjavagithub/MCPJavaFileSystem](https://github.com/arunjavagithub/MCPJavaFileSystem): A Java-based MCP server enabling LLM agents to perform filesystem operations and web content retrieval.
 - [danielsuguimoto/readonly-filesystem-mcp](https://github.com/danielsuguimoto/readonly-filesystem-mcp): Node.js server for readonly filesystem operations using Model Context Protocol.
 - [cyanheads/filesystem-mcp-server](https://github.com/cyanheads/filesystem-mcp-server): Facilitates AI agents with secure, platform-independent file system operations, including advanced search/replace and directory management.
-- [abhishekloiwal/mcp-file-server](https://github.com/abhishekloiwal/mcp-file-server): Facilitates local file system operations for AI assistants via an MCP server, enabling file reading, writing, and management.
 - [axlwolf/filesystem-mcp](https://github.com/axlwolf/filesystem-mcp): Node.js server for performing filesystem operations using the Model Context Protocol, enabling file manipulation, directory management, and metadata retrieval.
 - [alexissinglaire/filesystemcustom_final](https://github.com/alexissinglaire/filesystemcustom_final): Node.js server for executing filesystem operations via Model Context Protocol, enabling file manipulation and directory management within specified boundaries.
 - [ysthink/Filesystem-MCP-Server-SSE](https://github.com/ysthink/Filesystem-MCP-Server-SSE): Facilitates filesystem operations through a Node.js server using SSE for efficient file management and directory handling.
@@ -56,3 +56,5 @@ Servers focused on interacting with local or remote file systems for reading, wr
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server): A Go server enabling filesystem operations through the Model Context Protocol, offering functionalities like file manipulation and directory management.
 - [philgei/mcp_server_filesystem](https://github.com/philgei/mcp_server_filesystem): An unofficial port of Claude's filesystem MCP server implementation for educational purposes, allowing directory access through Claude Desktop.
 
+
+- [fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp): Advanced filesystem operations with large file handling capabilities and Claude-optimized features. Provides fast file reading/writing, sequential reading for large files, directory operations, file search, and streaming writes with backup & recovery.

@@ -2,6 +2,7 @@
 
 Servers specifically designed to interact with CMS platforms.
 
+- [UnMarkdown/mcp-server](https://github.com/UnMarkdown/mcp-server): Converts markdown to formatted documents for Google Docs, Word, Slack, OneNote, Email, and Plain Text with 62 templates, plus document management and publishing via 7 MCP tools.
 - [edgarrmondragon/limesurvey-mcp](https://github.com/edgarrmondragon/limesurvey-mcp): Facilitates seamless management of LimeSurvey surveys and responses through a dedicated MCP server.
 - [thoy-le-duc/mcp-woocommerce-thoy](https://github.com/thoy-le-duc/mcp-woocommerce-thoy): Facilitates seamless WooCommerce store management via JSON-RPC 2.0, integrating with WordPress REST API across multiple platforms.
 - [aguaitech/Elementor-MCP](https://github.com/aguaitech/Elementor-MCP): Facilitates CRUD operations on Elementor data within WordPress using a simple MCP server.
@@ -59,4 +60,6 @@ Servers specifically designed to interact with CMS platforms.
 - [r-huijts/canvas-mcp](https://github.com/r-huijts/canvas-mcp): Facilitates AI-driven management of Canvas LMS through a Model Context Protocol server, enabling seamless interaction with course data and student information.
 - [Omedia/mcp-server-drupal](https://github.com/Omedia/mcp-server-drupal): A TypeScript-based MCP server designed to integrate with the Drupal MCP module using STDIO transport.
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp): Integrates with Contentful's API to manage content, spaces, and environments with full CRUD operations and bulk processing capabilities.
+- [jonradoff/lightcms](https://github.com/jonradoff/lightcms): AI-native CMS with 41 MCP tools for managing websites through natural language. Create pages, templates, assets, themes, collections, redirects, and more with full content versioning.
+- [dochost](https://dochost.io/mcp): Hosted remote MCP server that publishes Markdown or HTML to a clean, public, shareable link straight from your AI assistant (Claude, ChatGPT, Cursor), no copy-paste. 2 tools. Transport: streamable-http. Auth: OAuth sign-in, no API keys. Endpoint: `https://dochost.io/api/mcp`. Connect: `claude mcp add --transport http dochost https://dochost.io/api/mcp`.
 

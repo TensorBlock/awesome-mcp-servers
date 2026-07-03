@@ -1,0 +1,24 @@
+{
+  "id": "github-sanxxit-my-aws-cost-explorer-3903d177",
+  "name": "sanxxit/my-aws-cost-explorer",
+  "description": "Facilitates AWS spend analysis and visualization through an MCP server, integrating with Anthropic's Claude model for natural language queries.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-sanxxit-my-aws-cost-explorer-3903d177",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sanxxit-my-aws-cost-explorer-3903d177)",
+  "links": {
+    "primary": "https://github.com/sanxxit/my-aws-cost-explorer",
+    "repo": "https://github.com/sanxxit/my-aws-cost-explorer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

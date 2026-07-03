@@ -1,0 +1,24 @@
+{
+  "id": "github-freezonex-mcp-server-supos-a9856f95",
+  "name": "FREEZONEX/mcp-server-supos",
+  "description": "Facilitates access to supOS open APIs for querying and analyzing topic structures and real-time data using the MCP protocol.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/github-freezonex-mcp-server-supos-a9856f95",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-freezonex-mcp-server-supos-a9856f95)",
+  "links": {
+    "primary": "https://github.com/FREEZONEX/mcp-server-supos",
+    "repo": "https://github.com/FREEZONEX/mcp-server-supos",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

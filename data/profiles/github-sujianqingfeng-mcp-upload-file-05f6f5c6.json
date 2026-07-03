@@ -1,0 +1,24 @@
+{
+  "id": "github-sujianqingfeng-mcp-upload-file-05f6f5c6",
+  "name": "sujianqingfeng/mcp-upload-file",
+  "description": "Facilitates file uploads using the Model Context Protocol with customizable form data and environment configurations.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/github-sujianqingfeng-mcp-upload-file-05f6f5c6",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sujianqingfeng-mcp-upload-file-05f6f5c6)",
+  "links": {
+    "primary": "https://github.com/sujianqingfeng/mcp-upload-file",
+    "repo": "https://github.com/sujianqingfeng/mcp-upload-file",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

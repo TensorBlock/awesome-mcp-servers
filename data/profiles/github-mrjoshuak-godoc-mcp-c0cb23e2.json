@@ -1,0 +1,24 @@
+{
+  "id": "github-mrjoshuak-godoc-mcp-c0cb23e2",
+  "name": "mrjoshuak/godoc-mcp",
+  "description": "Enhances LLMs' understanding of Go projects by providing efficient access to Go documentation, reducing token usage and improving performance.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-mrjoshuak-godoc-mcp-c0cb23e2",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mrjoshuak-godoc-mcp-c0cb23e2)",
+  "links": {
+    "primary": "https://github.com/mrjoshuak/godoc-mcp",
+    "repo": "https://github.com/mrjoshuak/godoc-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

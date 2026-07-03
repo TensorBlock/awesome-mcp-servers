@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-yeshello-app-mcp-1eea42fe",
+  "source": {
+    "projectUrl": "https://github.com/yeshello-app/mcp"
+  },
+  "links": {
+    "docs": "https://yeshello.app/docs/mcp-connector",
+    "endpoint": "https://yeshello.app/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.0 with PKCE"
+    ]
+  },
+  "license": "MIT"
+}

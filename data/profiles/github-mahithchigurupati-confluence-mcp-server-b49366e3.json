@@ -1,0 +1,24 @@
+{
+  "id": "github-mahithchigurupati-confluence-mcp-server-b49366e3",
+  "name": "MahithChigurupati/Confluence-MCP-Server",
+  "description": "FastMCP-based server enabling seamless programmatic access to Confluence's REST API for managing spaces, pages, and executing content searches.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/github-mahithchigurupati-confluence-mcp-server-b49366e3",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mahithchigurupati-confluence-mcp-server-b49366e3)",
+  "links": {
+    "primary": "https://github.com/MahithChigurupati/Confluence-MCP-Server",
+    "repo": "https://github.com/MahithChigurupati/Confluence-MCP-Server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-maiphong0411-user-management-via-chat-ead3d219",
+  "name": "maiphong0411/user-management-via-chat",
+  "description": "Facilitates user management through chat interactions with Claude Desktop, leveraging MCP server capabilities.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/github-maiphong0411-user-management-via-chat-ead3d219",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maiphong0411-user-management-via-chat-ead3d219)",
+  "links": {
+    "primary": "https://github.com/maiphong0411/user-management-via-chat",
+    "repo": "https://github.com/maiphong0411/user-management-via-chat",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

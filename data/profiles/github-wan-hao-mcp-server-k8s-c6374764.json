@@ -1,0 +1,24 @@
+{
+  "id": "github-wan-hao-mcp-server-k8s-c6374764",
+  "name": "Wan-Hao/mcp-server-k8s",
+  "description": "Facilitates AI-driven management and operation of Docker containers and Kubernetes clusters using a unified interface.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/github-wan-hao-mcp-server-k8s-c6374764",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wan-hao-mcp-server-k8s-c6374764)",
+  "links": {
+    "primary": "https://github.com/Wan-Hao/mcp-server-k8s",
+    "repo": "https://github.com/Wan-Hao/mcp-server-k8s",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

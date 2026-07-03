@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-smallhandsome-shotapi-mcp-server-aa65c6e4",
+  "source": {
+    "issue": 784,
+    "projectUrl": "https://github.com/smallhandsome/shotapi-mcp-server"
+  },
+  "description": "Web screenshot and HTML render MCP server for AI agents. The hosted Streamable HTTP endpoint captures web pages, renders HTML/CSS to images, and supports selector, viewport, and full-page screenshot options.",
+  "category": "Browser Automation & Web Scraping",
+  "links": {
+    "docs": "https://github.com/smallhandsome/shotapi-mcp-server",
+    "endpoint": "https://aiphotoshop.mynatapp.cc/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport streamable-http shotapi https://aiphotoshop.mynatapp.cc/mcp"
+    ],
+    "env": [
+      "SHOTAPI_BASE_URL",
+      "SHOTAPI_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Hosted free tier is available without signup; paid usage can use SHOTAPI_KEY in local stdio mode."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "any MCP-compatible AI agent"
+  ],
+  "tools": {
+    "count": 3,
+    "names": [
+      "screenshot_one_liner",
+      "screenshot",
+      "render"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Initialized the hosted Streamable HTTP endpoint during review."
+    ]
+  }
+}

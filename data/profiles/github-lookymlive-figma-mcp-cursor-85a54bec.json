@@ -1,0 +1,24 @@
+{
+  "id": "github-lookymlive-figma-mcp-cursor-85a54bec",
+  "name": "lookymlive/figma-mcp-cursor",
+  "description": "Facilitates seamless communication between Cursor AI and Figma for programmatic design modifications.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/github-lookymlive-figma-mcp-cursor-85a54bec",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lookymlive-figma-mcp-cursor-85a54bec)",
+  "links": {
+    "primary": "https://github.com/lookymlive/figma-mcp-cursor",
+    "repo": "https://github.com/lookymlive/figma-mcp-cursor",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

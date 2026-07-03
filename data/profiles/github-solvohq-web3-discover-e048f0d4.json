@@ -1,0 +1,24 @@
+{
+  "id": "github-solvohq-web3-discover-e048f0d4",
+  "name": "SolvoHQ/web3-discover",
+  "description": "Curated directory of 32 active crypto airdrops with per-wallet eligibility checks across 7 chains (Ethereum, Base, Linea, Arbitrum, Polygon, BSC, Solana). 3 tools — `list_active_airdrops` (filter by chain/risk/deadline), `get_airdrop` (full details, action steps, cost floor), `check_wallet` (multi-chain eligibility scan). Hosted HTTP MCP at `https://web3-discover.vercel.app/api/mcp` — no install, no auth, CORS-open.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/github-solvohq-web3-discover-e048f0d4",
+  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-solvohq-web3-discover-e048f0d4)",
+  "links": {
+    "primary": "https://github.com/SolvoHQ/web3-discover",
+    "repo": "https://github.com/SolvoHQ/web3-discover",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://web3-discover.vercel.app/api/mcp"
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "verification": "unknown",
+    "toolCount": 3
+  }
+}
