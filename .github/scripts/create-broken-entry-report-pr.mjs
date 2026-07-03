@@ -459,6 +459,7 @@ async function main() {
   const [owner, repo] = repository.split("/");
   const report = parseBrokenEntryIssue(issue.body ?? "");
   const request = createGitHubRequest({ token, owner, repo });
+  const graphqlRequest = createGitHubGraphqlRequest({ token });
   const errors = validateBrokenEntryReport(report);
   const catalog = JSON.parse(fs.readFileSync("data/catalog.json", "utf8"));
 
@@ -509,6 +510,7 @@ async function main() {
       title,
       body,
       draft,
+      graphqlRequest,
     });
   } catch (error) {
     if (!isPullRequestCreationBlocked(error)) {
@@ -590,7 +592,34 @@ function createGitHubRequest({ token, owner, repo }) {
   };
 }
 
-async function createOrUpdatePullRequest(request, { owner, branch, title, body, draft = true }) {
+function createGitHubGraphqlRequest({ token }) {
+  return async function graphqlRequest(query, variables = {}) {
+    const response = await fetch(`${API_BASE}/graphql`, {
+      method: "POST",
+      headers: {
+        Accept: "application/vnd.github+json",
+        Authorization: `Bearer ${token}`,
+        "Content-Type": "application/json",
+        "X-GitHub-Api-Version": "2022-11-28",
+      },
+      body: JSON.stringify({ query, variables }),
+    });
+
+    const text = await response.text();
+    const data = text ? JSON.parse(text) : null;
+
+    if (!response.ok || data?.errors?.length) {
+      const error = new Error(`GitHub GraphQL request failed: ${response.status}`);
+      error.status = response.status;
+      error.data = data;
+      throw error;
+    }
+
+    return data?.data;
+  };
+}
+
+export async function createOrUpdatePullRequest(request, { owner, branch, title, body, draft = true, graphqlRequest }) {
   const query = new URLSearchParams({
     head: `${owner}:${branch}`,
     state: "open",
@@ -604,10 +633,9 @@ async function createOrUpdatePullRequest(request, { owner, branch, title, body, 
       body: { title, body },
     });
 
-    if (!draft && existingPull.draft) {
-      return request(`/pulls/${existingPull.number}/ready_for_review`, {
-        method: "POST",
-      });
+    if (!draft && existingPull.draft && graphqlRequest) {
+      await markPullRequestReadyForReview(graphqlRequest, existingPull.node_id);
+      return request(`/pulls/${existingPull.number}`);
     }
 
     return updatedPull;
@@ -624,6 +652,20 @@ async function createOrUpdatePullRequest(request, { owner, branch, title, body, 
       maintainer_can_modify: true,
     },
   });
+}
+
+async function markPullRequestReadyForReview(graphqlRequest, pullRequestId) {
+  return graphqlRequest(
+    `mutation MarkPullRequestReadyForReview($pullRequestId: ID!) {
+      markPullRequestReadyForReview(input: { pullRequestId: $pullRequestId }) {
+        pullRequest {
+          id
+          isDraft
+        }
+      }
+    }`,
+    { pullRequestId },
+  );
 }
 
 function isPullRequestCreationBlocked(error) {
