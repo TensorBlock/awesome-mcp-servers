@@ -407,7 +407,15 @@ function extractMcpEndpointText(value) {
 }
 
 function normalizeCategory(value, context = "") {
-  const lookupText = [value, context].filter(Boolean).join("\n");
+  return categoryFromText(value) ?? categoryFromText(context) ?? value;
+}
+
+function categoryFromText(value = "") {
+  const lookupText = String(value).trim();
+  if (!lookupText) {
+    return null;
+  }
+
   const docsPath = lookupText.match(/docs\/[a-z0-9-]+\.md/i)?.[0];
   if (docsPath && DOCS_PATH_TO_CATEGORY[docsPath]) {
     return DOCS_PATH_TO_CATEGORY[docsPath];
@@ -455,7 +463,7 @@ function normalizeCategory(value, context = "") {
     }
   }
 
-  return value;
+  return null;
 }
 
 export function buildIssueComment({ issue, submission, pullRequest, duplicate, errors }) {

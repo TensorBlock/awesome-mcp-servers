@@ -146,6 +146,32 @@ const suggestedCategoryIssueBody = [
   "no auth",
 ].join("\n");
 
+const explicitSearchCategoryIssueBody = [
+  "### Server name",
+  "",
+  "AIServices",
+  "",
+  "### Project URL",
+  "",
+  "https://github.com/vbkotecha/aiservices-api",
+  "",
+  "### Best category",
+  "",
+  "Search",
+  "",
+  "### What can an agent do with this server?",
+  "",
+  "AIServices gives agents a remote MCP endpoint plus paid x402 APIs for AI-powered web search, crypto/DeFi market data, on-chain analytics, URL metadata, marketing intelligence, and policy-driven dispute resolution.",
+  "",
+  "### Install or connection instructions",
+  "",
+  "Remote MCP endpoint: https://api.aiservices.to/mcp",
+  "",
+  "### Known supported clients",
+  "",
+  "MCP-compatible clients and agent frameworks that support remote MCP servers.",
+].join("\n");
+
 const freeformServerUrlIssueBody = [
   "Server URL: https://github.com/wangletiand/400860-radar",
   "",
@@ -268,6 +294,13 @@ test("maps category to docs path", () => {
 test("uses suggested category from the issue description when category is unsure", () => {
   assert.equal(parseAddServerIssue(suggestedCategoryIssueBody).category, "Finance & Crypto");
   assert.deepEqual(validateSubmission(parseAddServerIssue(suggestedCategoryIssueBody)), []);
+});
+
+test("keeps explicit submitted category ahead of contextual category words", () => {
+  const submission = parseAddServerIssue(explicitSearchCategoryIssueBody);
+
+  assert.equal(submission.category, "Search");
+  assert.equal(docPathForCategory(submission.category), "docs/search.md");
 });
 
 test("parses free-form add-server fields with server URL and category aliases", () => {
