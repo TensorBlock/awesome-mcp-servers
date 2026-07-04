@@ -316,7 +316,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [Gelembjuk/cleverchatty](https://github.com/Gelembjuk/cleverchatty): CleverChatty is a Go package that integrates MCP server support for AI chat systems, enabling seamless interaction with large language models across various platforms.
 - [NamanSharma5/chatgpt_mcp_server](https://github.com/NamanSharma5/chatgpt_mcp_server): Facilitates shared memory for models using ChatGPT's memory capabilities, enabling integration with applications like Claude Desktop App.
 - [Suprjack/context7-clone](https://github.com/Suprjack/context7-clone): Facilitates up-to-date documentation retrieval for LLMs and AI code editors through the Model Context Protocol.
-- [ChangooLee/mcp-opendart](https://github.com/ChangooLee/mcp-opendart): Facilitates secure and contextual AI interactions with OpenDART for financial data retrieval and analysis.
 - [nkwa/pay-js](https://github.com/nkwa/pay-js): Facilitates mobile money integration with AI applications by exposing SDK methods as tools for MCP server invocation.
 - [xuyuanzhang1122/remote-mcp-server](https://github.com/xuyuanzhang1122/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [pongpisit/remote-mcp-server](https://github.com/pongpisit/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
