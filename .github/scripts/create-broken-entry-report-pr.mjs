@@ -174,13 +174,19 @@ export async function buildDeadEntryCleanupCandidate({ catalog, report, fetchImp
 }
 
 export function removeEntryLineFromMarkdown(markdown, entry) {
-  const urls = unique([
-    entry.links?.primary,
-    entry.links?.repo,
-    entry.links?.homepage,
-    entry.links?.docs,
-    entry.links?.endpoint,
-  ].filter(Boolean));
+  return removeEntriesFromMarkdown(markdown, [entry]);
+}
+
+export function removeEntriesFromMarkdown(markdown, entries) {
+  const urls = unique(
+    entries.flatMap((entry) => [
+      entry.links?.primary,
+      entry.links?.repo,
+      entry.links?.homepage,
+      entry.links?.docs,
+      entry.links?.endpoint,
+    ].filter(Boolean)),
+  );
   const hadTrailingNewline = markdown.endsWith("\n");
   const removedLines = [];
   const keptLines = markdown.split(/\r?\n/).filter((line, index, lines) => {
@@ -206,6 +212,90 @@ export function removeEntryLineFromMarkdown(markdown, entry) {
     content,
     removedLines,
   };
+}
+
+export async function buildDeadEntryCleanupGroup({
+  issue,
+  report,
+  cleanup,
+  catalog,
+  relatedIssues = [],
+  fetchImpl = fetch,
+}) {
+  const itemsByIssueNumber = new Map();
+  const targetPath = cleanup.path;
+  const addItem = ({ itemIssue, itemReport, itemCleanup }) => {
+    if (itemCleanup.path !== targetPath) {
+      return;
+    }
+
+    itemsByIssueNumber.set(itemIssue.number, {
+      issue: itemIssue,
+      report: itemReport,
+      cleanup: itemCleanup,
+    });
+  };
+
+  addItem({ itemIssue: issue, itemReport: report, itemCleanup: cleanup });
+
+  for (const relatedIssue of relatedIssues) {
+    if (relatedIssue.number === issue.number || relatedIssue.pull_request) {
+      continue;
+    }
+
+    const relatedReport = parseBrokenEntryIssue(relatedIssue.body ?? "");
+    if (validateBrokenEntryReport(relatedReport).length > 0) {
+      continue;
+    }
+
+    const relatedCleanup = await buildDeadEntryCleanupCandidate({
+      catalog,
+      report: relatedReport,
+      fetchImpl,
+    });
+
+    if (relatedCleanup) {
+      addItem({
+        itemIssue: relatedIssue,
+        itemReport: relatedReport,
+        itemCleanup: relatedCleanup,
+      });
+    }
+  }
+
+  const items = Array.from(itemsByIssueNumber.values()).sort((left, right) => left.issue.number - right.issue.number);
+
+  return {
+    path: targetPath,
+    branch: deadEntryCleanupBranchForPath(targetPath),
+    title: `Remove dead MCP entries from ${targetPath}`,
+    items,
+  };
+}
+
+export function buildDeadEntryCleanupGroupPrBody({ group, removal }) {
+  return [
+    "## Summary",
+    `- remove ${group.items.length} verified-dead catalog entries from \`${group.path}\``,
+    ...group.items.map((item) => {
+      return `- checked \`${item.cleanup.checkedUrl}\` and received HTTP ${item.cleanup.statusCode}`;
+    }),
+    "- keep the fix scoped to the source category docs; no generated catalog files are committed",
+    "",
+    "## Removed entries",
+    "",
+    "```md",
+    ...removal.removedLines,
+    "```",
+    "",
+    "## Source issues",
+    "",
+    ...group.items.map((item) => {
+      return `- ${item.issue.html_url ?? `#${item.issue.number}`} (${item.cleanup.entry.name})`;
+    }),
+    "",
+    ...group.items.map((item) => `Closes #${item.issue.number}`),
+  ].join("\n");
 }
 
 export function buildDeadEntryCleanupPrBody({ issue, report, cleanup, removal }) {
@@ -328,6 +418,18 @@ function writeDeadEntryCleanup(cleanup) {
   return removal;
 }
 
+function writeDeadEntryCleanupGroup(group) {
+  const markdown = fs.readFileSync(group.path, "utf8");
+  const removal = removeEntriesFromMarkdown(markdown, group.items.map((item) => item.cleanup.entry));
+
+  if (removal.removedLines.length === 0) {
+    return null;
+  }
+
+  fs.writeFileSync(group.path, removal.content);
+  return removal;
+}
+
 function parseCheckedIssueTypes(value) {
   return value
     .split("\n")
@@ -440,6 +542,33 @@ function unique(values) {
   return Array.from(new Set(values));
 }
 
+function deadEntryCleanupBranchForPath(sourcePath) {
+  const docsSlug = sourcePath
+    .replace(/^docs\//, "")
+    .replace(/\.md$/i, "");
+  return `mcp/dead-entry-cleanup-${slugify(docsSlug)}`;
+}
+
+async function listOpenBrokenEntryIssues(request) {
+  const issues = [];
+  let page = 1;
+
+  while (true) {
+    const pageIssues = await request(
+      `/issues?state=open&labels=${encodeURIComponent("broken-entry")}&per_page=100&page=${page}`,
+    );
+
+    if (pageIssues.length === 0) {
+      break;
+    }
+
+    issues.push(...pageIssues.filter((issue) => !issue.pull_request));
+    page += 1;
+  }
+
+  return issues;
+}
+
 async function main() {
   const token = process.env.GITHUB_TOKEN;
   const eventPath = process.env.GITHUB_EVENT_PATH;
@@ -469,26 +598,36 @@ async function main() {
     return;
   }
 
-  const branch = `mcp/broken-entry-issue-${issue.number}`;
+  const cleanup = await buildDeadEntryCleanupCandidate({ catalog, report });
+  const relatedIssues = cleanup ? await listOpenBrokenEntryIssues(request) : [];
+  const cleanupGroup = cleanup
+    ? await buildDeadEntryCleanupGroup({
+        issue,
+        report,
+        cleanup,
+        catalog,
+        relatedIssues,
+      })
+    : null;
+  const branch = cleanupGroup?.branch ?? `mcp/broken-entry-issue-${issue.number}`;
 
   run("git", ["config", "user.name", "github-actions[bot]"]);
   run("git", ["config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"]);
   run("git", ["fetch", "origin", DEFAULT_BASE_BRANCH]);
   run("git", ["checkout", "-B", branch, `origin/${DEFAULT_BASE_BRANCH}`]);
 
-  const cleanup = await buildDeadEntryCleanupCandidate({ catalog, report });
-  const removal = cleanup ? writeDeadEntryCleanup(cleanup) : null;
+  const removal = cleanupGroup ? writeDeadEntryCleanupGroup(cleanupGroup) : null;
   const spec = removal ? null : buildBrokenEntryReportSpec({ issue, report });
   const title = removal
-    ? `Remove dead MCP entry report #${issue.number}`
+    ? cleanupGroup.title
     : `Investigate broken MCP entry report #${issue.number}`;
   const body = removal
-    ? buildDeadEntryCleanupPrBody({ issue, report, cleanup, removal })
+    ? buildDeadEntryCleanupGroupPrBody({ group: cleanupGroup, removal })
     : buildPrBody({ issue, report, spec });
   const draft = !removal;
 
   if (removal) {
-    run("git", ["add", cleanup.path]);
+    run("git", ["add", cleanupGroup.path]);
   } else {
     writeSpec(spec);
     run("git", ["add", spec.path]);
@@ -549,6 +688,23 @@ async function main() {
         }
       : pullRequest,
   }));
+
+  if (removal) {
+    for (const item of cleanupGroup.items.filter((item) => item.issue.number !== issue.number)) {
+      await upsertIssueComment(request, item.issue.number, buildIssueComment({
+        issue: item.issue,
+        report: item.report,
+        pullRequest: {
+          ...pullRequest,
+          cleanup: true,
+          checkedUrl: item.cleanup.checkedUrl,
+          statusCode: item.cleanup.statusCode,
+          path: item.cleanup.path,
+        },
+      }));
+    }
+  }
+
   console.log(`Created or updated ${draft ? "draft report" : "cleanup"} PR ${pullRequest.html_url} for issue #${issue.number}.`);
 }
 

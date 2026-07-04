@@ -3,6 +3,8 @@ import test from "node:test";
 
 import {
   buildDeadEntryCleanupCandidate,
+  buildDeadEntryCleanupGroup,
+  buildDeadEntryCleanupGroupPrBody,
   buildDeadEntryCleanupPrBody,
   buildBrokenEntryReportSpec,
   buildIssueComment,
@@ -10,6 +12,7 @@ import {
   createOrUpdatePullRequest,
   findBrokenEntryTargets,
   parseBrokenEntryIssue,
+  removeEntriesFromMarkdown,
   removeEntryLineFromMarkdown,
   slugFromEntryReference,
   validateBrokenEntryReport,
@@ -174,6 +177,117 @@ test("builds direct cleanup changes for verified dead docs entries", async () =>
   assert.match(body, /remove verified-dead catalog entry/);
   assert.match(body, /HTTP 404/);
   assert.match(comment, /Created a cleanup PR/);
+});
+
+test("groups same-file dead-entry cleanups into one pull request", async () => {
+  const firstReport = {
+    entryReference: "https://github.com/owner/first-mcp",
+    serverId: "",
+    issueTypes: ["Dead link"],
+    details: "GitHub returned 404.",
+    source: "https://github.com/owner/first-mcp",
+  };
+  const secondReport = {
+    entryReference: "https://github.com/owner/second-mcp",
+    serverId: "",
+    issueTypes: ["Dead link"],
+    details: "GitHub returned 404.",
+    source: "https://github.com/owner/second-mcp",
+  };
+  const firstEntry = {
+    id: "github-owner-first-mcp-11111111",
+    name: "owner/first-mcp",
+    source: { docsPath: "docs/ai--llm-integration.md" },
+    links: { primary: "https://github.com/owner/first-mcp", repo: "https://github.com/owner/first-mcp" },
+  };
+  const secondEntry = {
+    id: "github-owner-second-mcp-22222222",
+    name: "owner/second-mcp",
+    source: { docsPath: "docs/ai--llm-integration.md" },
+    links: { primary: "https://github.com/owner/second-mcp", repo: "https://github.com/owner/second-mcp" },
+  };
+  const otherPathEntry = {
+    id: "github-owner-other-mcp-33333333",
+    name: "owner/other-mcp",
+    source: { docsPath: "docs/security.md" },
+    links: { primary: "https://github.com/owner/other-mcp", repo: "https://github.com/owner/other-mcp" },
+  };
+  const catalog = [firstEntry, secondEntry, otherPathEntry];
+  const fetchImpl = async () => ({ status: 404 });
+  const firstCleanup = await buildDeadEntryCleanupCandidate({ catalog, report: firstReport, fetchImpl });
+  const group = await buildDeadEntryCleanupGroup({
+    issue: { number: 1049, html_url: "https://github.com/TensorBlock/awesome-mcp-servers/issues/1049" },
+    report: firstReport,
+    cleanup: firstCleanup,
+    catalog,
+    relatedIssues: [
+      {
+        number: 1051,
+        html_url: "https://github.com/TensorBlock/awesome-mcp-servers/issues/1051",
+        body: [
+          "### TensorBlock profile URL, server id, or project URL",
+          "",
+          "https://github.com/owner/second-mcp",
+          "",
+          "### What is wrong?",
+          "",
+          "- [x] Dead link",
+          "",
+          "### Details",
+          "",
+          "GitHub returned 404.",
+          "",
+          "### Source or proof",
+          "",
+          "https://github.com/owner/second-mcp",
+        ].join("\n"),
+      },
+      {
+        number: 1052,
+        html_url: "https://github.com/TensorBlock/awesome-mcp-servers/issues/1052",
+        body: [
+          "### TensorBlock profile URL, server id, or project URL",
+          "",
+          "https://github.com/owner/other-mcp",
+          "",
+          "### What is wrong?",
+          "",
+          "- [x] Dead link",
+          "",
+          "### Details",
+          "",
+          "GitHub returned 404.",
+          "",
+          "### Source or proof",
+          "",
+          "https://github.com/owner/other-mcp",
+        ].join("\n"),
+      },
+    ],
+    fetchImpl,
+  });
+  const removal = removeEntriesFromMarkdown([
+    "## AI",
+    "",
+    "- [owner/first-mcp](https://github.com/owner/first-mcp): First dead server.",
+    "- [owner/second-mcp](https://github.com/owner/second-mcp): Second dead server.",
+    "- [Keep](https://github.com/owner/keep): Healthy server.",
+    "",
+  ].join("\n"), group.items.map((item) => item.cleanup.entry));
+  const body = buildDeadEntryCleanupGroupPrBody({ group, removal });
+
+  assert.equal(group.branch, "mcp/dead-entry-cleanup-ai-llm-integration");
+  assert.equal(group.title, "Remove dead MCP entries from docs/ai--llm-integration.md");
+  assert.deepEqual(group.items.map((item) => item.issue.number), [1049, 1051]);
+  assert.deepEqual(removal.removedLines, [
+    "- [owner/first-mcp](https://github.com/owner/first-mcp): First dead server.",
+    "- [owner/second-mcp](https://github.com/owner/second-mcp): Second dead server.",
+  ]);
+  assert.doesNotMatch(removal.content, /first-mcp|second-mcp/);
+  assert.match(body, /owner\/first-mcp/);
+  assert.match(body, /owner\/second-mcp/);
+  assert.match(body, /Closes #1049/);
+  assert.match(body, /Closes #1051/);
 });
 
 test("skips direct cleanup for mixed or proof-only dead-link reports", async () => {
