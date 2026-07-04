@@ -35,7 +35,8 @@ const ROUTES = [
   {
     id: "server-submission",
     label: "server-submission",
-    titlePrefix: "Add MCP server:",
+    titlePrefixes: ["Add MCP server:", "Add server:"],
+    matches: looksLikeFreeformServerSubmission,
     name: "server submission",
   },
   {
@@ -70,9 +71,26 @@ export function routeIssue(issue) {
 
   return (
     ROUTES.find((route) => labels.has(route.label)) ??
-    ROUTES.find((route) => title.startsWith(route.titlePrefix)) ??
+    ROUTES.find((route) => routeTitlePrefixes(route).some((prefix) => title.startsWith(prefix))) ??
+    ROUTES.find((route) => route.matches?.(issue)) ??
     null
   );
+}
+
+function routeTitlePrefixes(route) {
+  return route.titlePrefixes ?? (route.titlePrefix ? [route.titlePrefix] : []);
+}
+
+function looksLikeFreeformServerSubmission(issue) {
+  const title = issue.title ?? "";
+  const body = issue.body ?? "";
+
+  if (!/^Add\b/i.test(title)) {
+    return false;
+  }
+
+  return /(?:Project URL|Server URL|Repository|Repo|Homepage|Website|Remote MCP endpoint|MCP endpoint)\s*:/i.test(body) ||
+    /^\s*[-*]\s+\[[^\]]+\]\(https?:\/\/[^)]+\)\s*:/m.test(body);
 }
 
 export function labelsForIssue(issue, action = "opened") {

@@ -146,6 +146,51 @@ const suggestedCategoryIssueBody = [
   "no auth",
 ].join("\n");
 
+const freeformServerUrlIssueBody = [
+  "Server URL: https://github.com/wangletiand/400860-radar",
+  "",
+  "Category: Finance / Data APIs",
+  "",
+  "Description: Real-time DeFi yield pools and TVL data from DeFiLlama, LLM API pricing comparison across 8 providers, and web scraping via Scrapling. Pay-per-call via x402 protocol on Base mainnet.",
+  "",
+  "Transport: streamable-http (https://api.400860.xyz/v1/mcp/call)",
+  "",
+  "Tools:",
+  "- get_defi_yields: Top DeFi yield pools filtered by chain/APY/stablecoin",
+  "- get_defi_tvl: Protocol TVL with 24h/7d change deltas",
+  "- get_ai_pricing: LLM API pricing comparison across providers",
+  "",
+  "License: MIT",
+].join("\n");
+
+const boldColonIssueBody = [
+  "**Server name:** ENTIA",
+  "",
+  "**Repository:** https://github.com/ENTIA-IA/entia-mcp-server",
+  "",
+  "**Remote MCP endpoint:** `https://mcp.entia.systems/mcp` (streamable-http)",
+  "",
+  "**Official MCP registry:** `io.github.entia-systems-core/entity-verification` (v4.0.0, active).",
+  "",
+  "**Description:** Verified business-identity intelligence for AI agents & MCP clients — company verification, VAT, BORME, GLEIF, ownership and risk signals across 34 countries.",
+  "",
+  "**Category:** Finance / Business Data / Verification (KYB).",
+  "",
+  "**Language:** Python. **Type:** Cloud / hosted remote. **Official:** yes.",
+].join("\n");
+
+const suggestedEntryIssueBody = [
+  "## Submission: VeraData — LATAM Compliance MCP Server",
+  "",
+  "Requesting addition to the **Finance & Crypto** section.",
+  "",
+  "### Suggested entry",
+  "",
+  "```",
+  "- [VeraData](https://api.veradata.dev): LATAM compliance MCP server — sanctions screening against OFAC+UN+EU+UK with audit trail, KYB bundles for CO/MX/BR/CL/PE, and central bank rates. Tools: `sanctions_screen`, `kyb_complete`, `get_rates`. MCP endpoint: `https://api.veradata.dev/mcp`.",
+  "```",
+].join("\n");
+
 test("parses add-server issue form fields", () => {
   assert.deepEqual(parseAddServerIssue(issueBody), {
     serverName: "owner/example-mcp",
@@ -216,6 +261,48 @@ test("maps category to docs path", () => {
 test("uses suggested category from the issue description when category is unsure", () => {
   assert.equal(parseAddServerIssue(suggestedCategoryIssueBody).category, "Finance & Crypto");
   assert.deepEqual(validateSubmission(parseAddServerIssue(suggestedCategoryIssueBody)), []);
+});
+
+test("parses free-form add-server fields with server URL and category aliases", () => {
+  assert.deepEqual(parseAddServerIssue(freeformServerUrlIssueBody), {
+    serverName: "wangletiand/400860-radar",
+    projectUrl: "https://github.com/wangletiand/400860-radar",
+    category: "Finance & Crypto",
+    description: "Real-time DeFi yield pools and TVL data from DeFiLlama, LLM API pricing comparison across 8 providers, and web scraping via Scrapling. Pay-per-call via x402 protocol on Base mainnet.",
+    install: "",
+    transport: "streamable-http (https://api.400860.xyz/v1/mcp/call)",
+    auth: "",
+    clients: "",
+    license: "MIT",
+  });
+});
+
+test("parses bold labels with colon inside emphasis and remote endpoint metadata", () => {
+  assert.deepEqual(parseAddServerIssue(boldColonIssueBody), {
+    serverName: "ENTIA",
+    projectUrl: "https://github.com/ENTIA-IA/entia-mcp-server",
+    category: "Finance & Crypto",
+    description: "Verified business-identity intelligence for AI agents & MCP clients — company verification, VAT, BORME, GLEIF, ownership and risk signals across 34 countries.",
+    install: "`https://mcp.entia.systems/mcp` (streamable-http)",
+    transport: "",
+    auth: "",
+    clients: "",
+    license: "",
+  });
+});
+
+test("parses server submissions from a suggested markdown entry", () => {
+  assert.deepEqual(parseAddServerIssue(suggestedEntryIssueBody), {
+    serverName: "VeraData",
+    projectUrl: "https://api.veradata.dev",
+    category: "Finance & Crypto",
+    description: "LATAM compliance MCP server — sanctions screening against OFAC+UN+EU+UK with audit trail, KYB bundles for CO/MX/BR/CL/PE, and central bank rates. Tools: `sanctions_screen`, `kyb_complete`, `get_rates`. MCP endpoint: `https://api.veradata.dev/mcp`.",
+    install: "`https://api.veradata.dev/mcp`",
+    transport: "",
+    auth: "",
+    clients: "",
+    license: "",
+  });
 });
 
 test("builds catalog markdown entry", () => {
