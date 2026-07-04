@@ -191,6 +191,13 @@ const suggestedEntryIssueBody = [
   "```",
 ].join("\n");
 
+test("runs add-server workflow when server-submission label is added manually", () => {
+  const workflow = fs.readFileSync(".github/workflows/add-server-issue-pr.yml", "utf8");
+
+  assert.match(workflow, /types:\s*\n(?:\s+- .+\n)*\s+- labeled\b/);
+  assert.match(workflow, /contains\(github\.event\.issue\.labels\.\*\.name, 'server-submission'\)/);
+});
+
 test("parses add-server issue form fields", () => {
   assert.deepEqual(parseAddServerIssue(issueBody), {
     serverName: "owner/example-mcp",
