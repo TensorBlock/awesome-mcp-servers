@@ -91,6 +91,35 @@ test("routes issues by title prefix when labels are missing", () => {
   assert.equal(routeIssue(issue)?.id, "claim-profile");
 });
 
+test("routes free-form add-server issue titles", () => {
+  assert.equal(
+    routeIssue({
+      title: "Add server: ENTIA",
+      labels: [],
+      body: "**Repository:** https://github.com/ENTIA-IA/entia-mcp-server",
+    })?.id,
+    "server-submission",
+  );
+
+  assert.equal(
+    routeIssue({
+      title: "Add 400860 Radar to Finance & DeFi",
+      labels: [],
+      body: "Server URL: https://github.com/wangletiand/400860-radar",
+    })?.id,
+    "server-submission",
+  );
+
+  assert.equal(
+    routeIssue({
+      title: "Add VeraData LATAM Compliance MCP Server",
+      labels: [],
+      body: "- [VeraData](https://api.veradata.dev): LATAM compliance MCP server.",
+    })?.id,
+    "server-submission",
+  );
+});
+
 test("adds triage and metadata labels on opened issues", () => {
   assert.deepEqual(labelsForIssue(metadataIssue, "opened"), [
     "community-intake",
