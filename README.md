@@ -167,6 +167,7 @@ To add a new MCP server:
 3. Add one markdown bullet using this format:
    ```
    - [Server Name](https://github.com/owner/repo): Brief description of what the MCP server lets an agent do. Install: `npx your-package`.
+- [context-kit](https://github.com/JDDavenport/context-kit) - MCP resource server exposing Personal Context Artifacts (PCA files: wiki, mental-models, voice, protocols) to Claude Desktop and any MCP client. Zero dependencies (stdlib only), one-command install.
    ```
 4. Search the repo for your URL or project name to avoid duplicates.
 5. Open a pull request.
