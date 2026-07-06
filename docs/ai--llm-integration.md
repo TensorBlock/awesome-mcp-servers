@@ -3,6 +3,7 @@
 Servers integrating with other AI models, AI platforms, RAG tools, prompt management, or agent frameworks.
 
 - [Which-Model/whichmodel-mcp](https://github.com/Which-Model/whichmodel-mcp): Model routing advisor for autonomous agents with 4 tools for model recommendations, pricing lookup, comparisons, and model listing across 100+ LLMs. Remote endpoint: https://whichmodel.dev/mcp. No API key required. MIT.
+- [zenlee123/routerbase-mcp](https://github.com/zenlee123/routerbase-mcp): RouterBase model discovery, pricing lookup, and OpenAI-compatible chat completions through [routerbase](https://routerbase.com). Stdio via `npx -y routerbase-mcp`; requires `ROUTERBASE_API_KEY`. MIT.
 - [AgentPact MCP Server](https://github.com/adamkrawczyk/agentpact-mcp-server): AI agent marketplace MCP server with 42 tools for autonomous agent-to-agent commerce, including work discovery, negotiation, fulfillment, and USDC payments. Remote endpoint: https://mcp.agentpact.xyz/mcp.
 - [SignalSpore MCP](https://github.com/yeahdog/signalspore-mcp) - Model-aware preflight MCP server for AI agents; gates risky tasks, returns trap-aware execution briefs, and records safe post-task deltas. `npx -y github:yeahdog/signalspore-mcp`
 - [ejentum/ejentum-mcp](https://github.com/ejentum/ejentum-mcp) - MCP server with reasoning, code, anti-deception, and memory tools for AI agents (stdio via npm, or hosted HTTPS at api.ejentum.com/mcp).
