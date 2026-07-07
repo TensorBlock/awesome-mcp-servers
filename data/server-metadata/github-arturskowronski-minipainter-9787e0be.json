@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-arturskowronski-minipainter-9787e0be",
+  "source": {
+    "issue": 1096,
+    "projectUrl": "https://github.com/ArturSkowronski/minipainter"
+  },
+  "install": {
+    "commands": [
+      "npx -y -p minipainter minipainter-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT (via the /mcp/v3 route)",
+    "and any MCP-capable client."
+  ],
+  "license": "MIT"
+}
