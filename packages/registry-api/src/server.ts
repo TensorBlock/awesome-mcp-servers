@@ -16,7 +16,7 @@ import {
 } from "./search.js";
 import { renderServerProfilePage } from "./profilePage.js";
 import { webProfileTemplate } from "./webProfile.js";
-import { renderBadgeSvg } from "./badge.js";
+import { renderBadgeSvg, renderMissingServerBadgeSvg } from "./badge.js";
 
 const CLIENT_ALIASES: Record<string, ClientName> = {
   "claude": "claude",
@@ -94,14 +94,7 @@ const handleRequest = async (
     }
 
     if (segments[0] === "servers" && segments[2] === "badge.svg" && segments.length === 3) {
-      const entry = findServer(state.catalog, segments[1]);
-
-      if (!entry) {
-        sendError(response, 404, `Server not found: ${segments[1]}`);
-        return;
-      }
-
-      sendSvg(response, 200, renderBadgeSvg(entry));
+      handleBadge(response, state.catalog, segments[1]);
       return;
     }
 
@@ -275,7 +268,7 @@ const handleBadge = (
   const entry = findServer(catalog, serverId);
 
   if (!entry) {
-    sendError(response, 404, `Server not found: ${serverId}`);
+    sendSvg(response, 200, renderMissingServerBadgeSvg(serverId));
     return;
   }
 

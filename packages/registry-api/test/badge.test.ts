@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
-import { badgeImageUrl, badgeMarkdown, renderBadgeSvg } from "../src/badge.js";
+import { badgeImageUrl, badgeMarkdown, renderBadgeSvg, renderMissingServerBadgeSvg } from "../src/badge.js";
 
 const entry: CatalogEntry = {
   id: "unsafe-demo",
@@ -68,5 +68,14 @@ describe("badge helpers", () => {
     expect(badgeMarkdown(entry, "https://example.com/profile")).toBe(
       "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/unsafe-demo/badge.svg)](https://example.com/profile)"
     );
+  });
+
+  it("renders a non-broken fallback badge for unresolved server ids", () => {
+    const svg = renderMissingServerBadgeSvg("unsafe <missing>");
+
+    expect(svg).toContain("TensorBlock");
+    expect(svg).toContain("MCP Profile");
+    expect(svg).toContain("unsafe &lt;missing&gt; was not resolved in TensorBlock MCP Index");
+    expect(svg).not.toContain("unsafe <missing>");
   });
 });
