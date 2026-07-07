@@ -149,6 +149,51 @@ describe("registry API server", () => {
     expect(body).toContain("Postgres MCP is indexed on TensorBlock MCP Index");
   });
 
+  it("serves a branded SVG badge through a unique repo slug alias", async () => {
+    const baseUrl = await startServer([
+      catalogEntry({
+        id: "github-crystaldba-postgres-mcp-22e80ea8",
+        name: "crystaldba/postgres-mcp",
+        links: {
+          primary: "https://github.com/crystaldba/postgres-mcp",
+          repo: "https://github.com/crystaldba/postgres-mcp",
+        },
+      }),
+    ]);
+    const response = await fetch(`${baseUrl}/v1/servers/postgres-mcp/badge.svg`);
+    const body = await response.text();
+
+    expect(response.status).toBe(200);
+    expect(response.headers.get("content-type")).toContain("image/svg+xml");
+    expect(body).toContain("crystaldba/postgres-mcp is indexed on TensorBlock MCP Index");
+  });
+
+  it("serves a fallback SVG badge for an unresolved server id", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/servers/missing-server/badge.svg`);
+    const body = await response.text();
+
+    expect(response.status).toBe(200);
+    expect(response.headers.get("content-type")).toContain("image/svg+xml");
+    expect(body).toContain("<svg");
+    expect(body).toContain("TensorBlock");
+    expect(body).toContain("MCP Profile");
+    expect(body).toContain("missing-server was not resolved in TensorBlock MCP Index");
+  });
+
+  it("keeps unresolved install config requests as JSON 404 errors", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/servers/missing-server/install-config`);
+    const body = await response.json() as { error: { message: string; statusCode: number } };
+
+    expect(response.status).toBe(404);
+    expect(response.headers.get("content-type")).toContain("application/json");
+    expect(body.error).toEqual({
+      message: "Server not found: missing-server",
+      statusCode: 404,
+    });
+  });
+
   it("returns recently added server summaries", async () => {
     const baseUrl = await startServer([
       catalogEntry({
