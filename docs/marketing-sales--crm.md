@@ -48,6 +48,7 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [gregce/adwords-mcp](https://github.com/gregce/adwords-mcp): Injects cringe-worthy advertisements into LLM responses, showcasing the risks of ad-injecting intermediaries.
 - [o-b-one/groceries-mcp](https://github.com/o-b-one/groceries-mcp): Facilitates integration with grocery vendor APIs for seamless grocery lookup and cart management.
 - [KunihiroS/patsnap-mcp](https://github.com/KunihiroS/patsnap-mcp): Facilitates trend analysis and reporting by interacting with PatSnap's API to gather patent-related insights.
+- [hitSlop/shots](https://github.com/hitSlop/shots): App Store screenshot and app icon generation with ASO listing copy and localization workflows for mobile app developers. Remote endpoint: `https://shots.run/api/mcp`; supports OAuth authentication. Works with Codex, Claude Code, Cursor, Gemini CLI, and all MCP clients.
 - [pandeussilvae/mcp-odoo-panda](https://github.com/pandeussilvae/mcp-odoo-panda): Facilitates seamless integration with Odoo ERP instances through a standardized interface, supporting multiple protocols and asynchronous connection pooling.
 - [taylor-ortiz/mcp-salesforce](https://github.com/taylor-ortiz/mcp-salesforce): Facilitates natural language-driven SOQL query generation and execution on Salesforce using Fast MCP and LLM integration.
 - [silviorodrigues/organizze-mcp](https://github.com/silviorodrigues/organizze-mcp): Facilitates seamless interaction with the Organizze API for managing financial accounts, transactions, and budgets.
