@@ -60,13 +60,13 @@ Server summaries include `sourcePullRequest` when known and `lastUpdatedAt` when
 Fetch a full server profile:
 
 ```bash
-curl "$MCP_INDEX_API_URL/v1/servers/postgres-mcp"
+curl "$MCP_INDEX_API_URL/v1/servers/github-crystaldba-postgres-mcp-22e80ea8"
 ```
 
 Open a shareable website profile page:
 
 ```text
-https://tensorblock.co/mcp/servers/postgres-mcp
+https://tensorblock.co/mcp/servers/github-crystaldba-postgres-mcp-22e80ea8
 ```
 
 The API also keeps `GET /servers/{id}` as a lightweight HTML fallback, but the canonical community profile is hosted on the TensorBlock website.
@@ -74,13 +74,13 @@ The API also keeps `GET /servers/{id}` as a lightweight HTML fallback, but the c
 Embed an MCP Index badge in a project README:
 
 ```markdown
-[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/postgres-mcp/badge.svg)](https://tensorblock.co/mcp/servers/postgres-mcp)
+[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-crystaldba-postgres-mcp-22e80ea8/badge.svg)](https://tensorblock.co/mcp/servers/github-crystaldba-postgres-mcp-22e80ea8)
 ```
 
 Generate an install config:
 
 ```bash
-curl "$MCP_INDEX_API_URL/v1/servers/postgres-mcp/install-config?client=claude-desktop"
+curl "$MCP_INDEX_API_URL/v1/servers/github-crystaldba-postgres-mcp-22e80ea8/install-config?client=claude-desktop"
 ```
 
 ## Railway Deployment
