@@ -56,6 +56,21 @@ jobs:
       - name: Typecheck
         run: npm run typecheck
 
+      - name: Write build metadata
+        run: |
+          node --input-type=module <<'NODE'
+          import { mkdirSync, writeFileSync } from "node:fs";
+
+          const metadata = {
+            commitSha: process.env.GITHUB_SHA ?? null,
+            builtAt: new Date().toISOString(),
+          };
+
+          mkdirSync("data", { recursive: true });
+          writeFileSync("data/build-info.json", `${JSON.stringify(metadata, null, 2)}\n`, "utf8");
+          console.log(JSON.stringify(metadata));
+          NODE
+
       - name: Build
         run: npm run build
 
@@ -81,22 +96,25 @@ jobs:
           base_url="${REGISTRY_API_BASE_URL%/}"
           health_url="$base_url/health"
           badge_url="$base_url/v1/servers/postgres-mcp/badge.svg"
+          expected_commit_sha="$GITHUB_SHA"
           delay_seconds=10
           max_attempts=36
 
           for attempt in $(seq 1 "$max_attempts"); do
             health_status="$(curl -sS -o /tmp/registry-health.json -w "%{http_code}" "$health_url" || true)"
             badge_status="$(curl -sS -D /tmp/registry-badge.headers -o /tmp/registry-badge.svg -w "%{http_code}" "$badge_url" || true)"
+            health_commit_sha="$(node -e 'const fs = require("node:fs"); const health = JSON.parse(fs.readFileSync("/tmp/registry-health.json", "utf8")); process.stdout.write(health.build?.commitSha ?? "");' 2>/tmp/registry-health-parse.err || true)"
 
             if [ "$health_status" = "200" ] \
               && [ "$badge_status" = "200" ] \
+              && [ "$health_commit_sha" = "$expected_commit_sha" ] \
               && grep -qi '^content-type: image/svg+xml' /tmp/registry-badge.headers \
               && grep -q '<svg' /tmp/registry-badge.svg; then
               echo "Registry API smoke test passed on attempt $attempt."
               exit 0
             fi
 
-            echo "Attempt $attempt/$max_attempts failed: health=$health_status badge=$badge_status"
+            echo "Attempt $attempt/$max_attempts failed: health=$health_status badge=$badge_status commit=$health_commit_sha expected=$expected_commit_sha"
             if [ "$attempt" -lt "$max_attempts" ]; then
               sleep "$delay_seconds"
             fi
@@ -105,6 +123,8 @@ jobs:
           echo "Registry API smoke test failed after $max_attempts attempts."
           echo "Health response:"
           cat /tmp/registry-health.json 2>/dev/null || true
+          echo "Health parse error:"
+          cat /tmp/registry-health-parse.err 2>/dev/null || true
           echo "Badge response headers:"
           cat /tmp/registry-badge.headers 2>/dev/null || true
           echo "Badge response body:"
