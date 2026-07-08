@@ -27,6 +27,7 @@ jobs:
       RAILWAY_PROJECT_ID: d0179e2b-95d8-47cc-be7b-abc178a80948
       RAILWAY_SERVICE_ID: ca56cfa7-79a4-4fd1-8ef2-6a918cba40bb
       RAILWAY_ENVIRONMENT: production
+      REGISTRY_API_BASE_URL: https://mcp-index.tensorblock.co
 
     steps:
       - name: Check out repository
@@ -70,6 +71,45 @@ jobs:
           --environment "$RAILWAY_ENVIRONMENT"
           --detach
           --message "Deploy registry API from ${GITHUB_SHA}"
+
+      - name: Smoke test deployed registry API
+        if: env.RAILWAY_TOKEN != ''
+        timeout-minutes: 8
+        run: |
+          set -euo pipefail
+
+          base_url="${REGISTRY_API_BASE_URL%/}"
+          health_url="$base_url/health"
+          badge_url="$base_url/v1/servers/postgres-mcp/badge.svg"
+          delay_seconds=10
+          max_attempts=36
+
+          for attempt in $(seq 1 "$max_attempts"); do
+            health_status="$(curl -sS -o /tmp/registry-health.json -w "%{http_code}" "$health_url" || true)"
+            badge_status="$(curl -sS -D /tmp/registry-badge.headers -o /tmp/registry-badge.svg -w "%{http_code}" "$badge_url" || true)"
+
+            if [ "$health_status" = "200" ] \
+              && [ "$badge_status" = "200" ] \
+              && grep -qi '^content-type: image/svg+xml' /tmp/registry-badge.headers \
+              && grep -q '<svg' /tmp/registry-badge.svg; then
+              echo "Registry API smoke test passed on attempt $attempt."
+              exit 0
+            fi
+
+            echo "Attempt $attempt/$max_attempts failed: health=$health_status badge=$badge_status"
+            if [ "$attempt" -lt "$max_attempts" ]; then
+              sleep "$delay_seconds"
+            fi
+          done
+
+          echo "Registry API smoke test failed after $max_attempts attempts."
+          echo "Health response:"
+          cat /tmp/registry-health.json 2>/dev/null || true
+          echo "Badge response headers:"
+          cat /tmp/registry-badge.headers 2>/dev/null || true
+          echo "Badge response body:"
+          head -n 20 /tmp/registry-badge.svg 2>/dev/null || true
+          exit 1
 
       - name: Missing Railway token
         if: env.RAILWAY_TOKEN == ''
