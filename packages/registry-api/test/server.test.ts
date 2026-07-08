@@ -1,8 +1,11 @@
 import { once } from "node:events";
+import { mkdtempSync, rmSync, writeFileSync } from "node:fs";
 import type { AddressInfo } from "node:net";
+import { tmpdir } from "node:os";
+import { join } from "node:path";
 import { afterEach, describe, expect, it } from "vitest";
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
-import { createRegistryApiServer } from "../src/server.js";
+import { createRegistryApiServer, loadBuildInfo, type BuildInfo } from "../src/server.js";
 
 const catalog: CatalogEntry[] = [
   {
@@ -119,6 +122,53 @@ describe("registry API server", () => {
 
     expect(response.status).toBe(200);
     expect(body.version).toBe("v1");
+  });
+
+  it("returns build fingerprint metadata from the health endpoint", async () => {
+    const build = {
+      commitSha: "abc123def456",
+      builtAt: "2026-07-08T00:00:00.000Z",
+    };
+    const baseUrl = await startServer(catalog, build);
+    const response = await fetch(`${baseUrl}/health`);
+    const body = await response.json() as {
+      status: string;
+      catalogEntries: number;
+      loadedAt: string;
+      build: BuildInfo;
+    };
+
+    expect(response.status).toBe(200);
+    expect(body.status).toBe("ok");
+    expect(body.catalogEntries).toBe(1);
+    expect(body.loadedAt).toBe("2026-06-06T00:00:00.000Z");
+    expect(body.build).toEqual(build);
+  });
+
+  it("loads build fingerprint metadata from JSON", () => {
+    const directory = mkdtempSync(join(tmpdir(), "registry-api-build-"));
+    const buildInfoPath = join(directory, "build-info.json");
+    const build = {
+      commitSha: "abc123def456",
+      builtAt: "2026-07-08T00:00:00.000Z",
+    };
+
+    try {
+      writeFileSync(buildInfoPath, `${JSON.stringify(build)}\n`, "utf8");
+
+      expect(loadBuildInfo(buildInfoPath)).toEqual(build);
+    } finally {
+      rmSync(directory, { recursive: true, force: true });
+    }
+  });
+
+  it("uses null build fingerprint metadata when the JSON file is missing", () => {
+    const missingPath = join(tmpdir(), "missing-registry-api-build-info.json");
+
+    expect(loadBuildInfo(missingPath)).toEqual({
+      commitSha: null,
+      builtAt: null,
+    });
   });
 
   it("serves a shareable HTML profile page for a server", async () => {
@@ -283,10 +333,17 @@ describe("registry API server", () => {
   });
 });
 
-const startServer = async (entries = catalog): Promise<string> => {
+const startServer = async (
+  entries = catalog,
+  build: BuildInfo = {
+    commitSha: null,
+    builtAt: null,
+  }
+): Promise<string> => {
   const server = createRegistryApiServer({
     catalog: entries,
     loadedAt: "2026-06-06T00:00:00.000Z",
+    build,
   });
   servers.push(server);
   server.listen(0, "127.0.0.1");
