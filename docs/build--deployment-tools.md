@@ -22,7 +22,6 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [base/base-builder-mcp](https://github.com/base/base-builder-mcp): Facilitates integration with Base Docs for Model Context Protocol, enabling seamless interaction with Base Builders.
 - [snowsky/mcp-helmfile](https://github.com/snowsky/mcp-helmfile): Facilitates Helmfile command execution and management through a standardized MCP interface, enhancing AI-assisted deployments and configurations.
 - [buildkite/buildkite-mcp-server](https://github.com/buildkite/buildkite-mcp-server): Facilitates access to Buildkite pipeline, build, and job data for integration with tools like Claude Desktop and GitHub Copilot.
-- [bsmith925/mcp-examples](https://github.com/bsmith925/mcp-examples): Explore deployment configurations and custom implementations for team-wide MCP servers, focusing on Git repository management and Kubernetes deployment.
 - [misanthropic-ai/lean-docker-mcp](https://github.com/misanthropic-ai/lean-docker-mcp): Facilitates the execution of Lean4 code in isolated Docker containers for LLM-powered agents, offering both transient and persistent environments.
 - [kappaexpress/docker-mcp](https://github.com/kappaexpress/docker-mcp): Facilitates MCP server integration with Claude Desktop using a Docker image built with Playwright.
 - [aaomidi/mcp-bazel](https://github.com/aaomidi/mcp-bazel): Facilitates Bazel project interactions by providing build, test, and dependency analysis tools.
