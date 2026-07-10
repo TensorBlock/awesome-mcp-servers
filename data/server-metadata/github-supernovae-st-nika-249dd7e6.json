@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-supernovae-st-nika-249dd7e6",
+  "source": {
+    "issue": 1139,
+    "projectUrl": "https://github.com/supernovae-st/nika"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Install the binary (`brew install supernovae-st/tap/nika`, or release tarballs with SHA256SUMS; `.mcpb` bundles also ship per release), then wire `{\"command\": \"nika\", \"args\": [\"mcp\"]}`."
+    ]
+  }
+}
