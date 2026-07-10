@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-xenocoregiger31-gemma-by-google-0673dfe2",
+  "source": {
+    "issue": 1142,
+    "projectUrl": "https://github.com/XenoCoreGiger31/GEMMA-by-GOOGLE"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Gemma",
+    "Qwen"
+  ],
+  "license": "MIT"
+}
