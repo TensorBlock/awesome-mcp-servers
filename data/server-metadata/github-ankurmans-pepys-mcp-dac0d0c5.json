@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ankurmans-pepys-mcp-dac0d0c5",
+  "source": {
+    "issue": 1157,
+    "projectUrl": "https://github.com/ankurmans/pepys-mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "API key (stdio) / OAuth (hosted)"
+    ]
+  },
+  "clients": [
+    "Claude Desktop/Code",
+    "Cursor",
+    "ChatGPT (remote connector)",
+    "any MCP client"
+  ],
+  "license": "MIT - [x] I searched the repo for this project URL or name to avoid duplicates."
+}
