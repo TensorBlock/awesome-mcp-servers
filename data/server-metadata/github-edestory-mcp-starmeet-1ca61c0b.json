@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-edestory-mcp-starmeet-1ca61c0b",
+  "source": {
+    "issue": 1159,
+    "projectUrl": "https://github.com/edestory/mcp-starmeet"
+  },
+  "install": {
+    "commands": [
+      "npm install && npm run build && node dist/index.js"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
