@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-taygunsavas-patina-unity-mcp-8c8f04b5",
+  "source": {
+    "issue": 1171,
+    "projectUrl": "https://github.com/taygunsavas/patina-unity-mcp"
+  },
+  "links": {
+    "docs": "https://github.com/taygunsavas/patina-unity-mcp#readme"
+  },
+  "install": {
+    "commands": [
+      "com.taygunsavas.patina-unity-mcp"
+    ],
+    "env": [
+      "none",
+      "URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Visual Studio Code",
+    "GitHub Copilot in VS Code",
+    "Gemini CLI",
+    "JetBrains Rider/Junie",
+    "Codex CLI",
+    "Antigravity CLI"
+  ],
+  "tools": {
+    "count": 3,
+    "names": [
+      "patina_capabilities",
+      "patina_call",
+      "patina_health"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "The repository is public, the npm package is published, and the official MCP Registry entry is active.",
+      "Metadata updated from issue #1171. Source: Repository README: https://github.com/taygunsavas/patina-unity-mcp#readme Official MCP Registry entry: https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.taygunsavas/patina-unity-mcp npm package:..."
+    ]
+  }
+}
