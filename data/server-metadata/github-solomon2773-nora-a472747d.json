@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-solomon2773-nora-a472747d",
+  "source": {
+    "issue": 1155,
+    "projectUrl": "https://github.com/solomon2773/nora"
+  },
+  "install": {
+    "commands": [
+      "npx -y @noraai/mcp-server"
+    ],
+    "env": [
+      "NORA_API_URL",
+      "NORA_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "and other stdio MCP clients"
+  ],
+  "license": "Apache-2.0"
+}
