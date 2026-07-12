@@ -12,7 +12,6 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 - [chatmcp/heybeauty-mcp](https://github.com/chatmcp/heybeauty-mcp): Facilitates virtual try-on experiences by leveraging HeyBeauty API to manage and execute try-on tasks with clothing resources.
 - [kokushin/exia-mcp](https://github.com/kokushin/exia-mcp): Generates and displays scenario files for the exia visual novel engine in the Kotoha Sisters explanation format.
 - [molmolkky/prompt-character-mcp-server](https://github.com/molmolkky/prompt-character-mcp-server): Facilitates the retrieval of iconic quotes from the character Ou Ki from the manga 'Kingdom' via an MCP server.
-- [enggpt-it/MCP-Server-Cybersecurity-News](https://github.com/enggpt-it/MCP-Server-Cybersecurity-News): Access the latest cybersecurity news from various websites with seamless Claude Desktop integration.
 - [NFTGo/mcp-nftgo-api](https://github.com/NFTGo/mcp-nftgo-api): Facilitates seamless interaction with the NFTGo Developer API, offering comprehensive NFT data and analytics for Ethereum-based assets.
 - [Lala-0x3f/mj-mcp](https://github.com/Lala-0x3f/mj-mcp): Facilitates image generation using Midjourney through an MCP server interface.
 - [JayArrowz/mcp-osrs](https://github.com/JayArrowz/mcp-osrs): Facilitates interaction with the Old School RuneScape Wiki API and game data files through a Model Context Protocol server.

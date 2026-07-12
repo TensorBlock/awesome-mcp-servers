@@ -5,13 +5,24 @@
     "issue": 1139,
     "projectUrl": "https://github.com/supernovae-st/nika"
   },
+  "description": "Read-only stdio MCP oracle for validating Nika workflow DAGs, explaining findings, browsing schemas and examples, and estimating cost before execution.",
+  "category": "Developer Productivity & Utilities",
+  "install": {
+    "commands": [
+      "brew install supernovae-st/tap/nika",
+      "nika mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
   "transport": [
     "stdio"
   ],
   "auth": {
-    "type": "unknown",
+    "type": "none",
     "notes": [
-      "Install the binary (`brew install supernovae-st/tap/nika`, or release tarballs with SHA256SUMS; `.mcpb` bundles also ship per release), then wire `{\"command\": \"nika\", \"args\": [\"mcp\"]}`."
+      "Read-only MCP mode; no workflow execution or mutation."
     ]
-  }
+  },
+  "license": "AGPL-3.0"
 }
