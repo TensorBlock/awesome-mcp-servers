@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-xenocoregiger31-gemma-by-google-0673dfe2",
+  "source": {
+    "issue": 1142,
+    "projectUrl": "https://github.com/XenoCoreGiger31/GEMMA-by-GOOGLE"
+  },
+  "description": "Local offensive-security testing MCP server exposing 29 tools for authorized reconnaissance, scanning, web testing, credential testing, and OSINT.",
+  "category": "Security",
+  "install": {
+    "commands": [
+      "git clone https://github.com/XenoCoreGiger31/GEMMA-by-GOOGLE && cd GEMMA-by-GOOGLE && python3 mcp_server.py"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code"
+  ],
+  "license": "MIT"
+}
