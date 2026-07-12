@@ -5,6 +5,8 @@
     "issue": 1159,
     "projectUrl": "https://github.com/edestory/mcp-starmeet"
   },
+  "description": "Local stdio MCP server for Vedic astrology data, including kundali birth-chart previews, daily Panchang calculations, and profiles for all 27 nakshatras.",
+  "category": "Science & Research",
   "install": {
     "commands": [
       "npm install && npm run build && node dist/index.js"
