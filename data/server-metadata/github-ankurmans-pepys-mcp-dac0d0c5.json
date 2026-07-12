@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ankurmans-pepys-mcp-dac0d0c5",
+  "source": {
+    "issue": 1157,
+    "projectUrl": "https://github.com/ankurmans/pepys-mcp"
+  },
+  "description": "Transcribes audio, video, and podcast feeds into speaker-labeled, timestamped transcripts with SRT/VTT output, URL ingestion, batch processing, and transcript search.",
+  "category": "Multimedia Processing",
+  "links": {
+    "endpoint": "https://pepys.co/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y pepys-mcp"
+    ],
+    "env": [
+      "PEPYS_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "PEPYS_API_KEY for stdio; OAuth for the hosted endpoint."
+    ]
+  },
+  "clients": [
+    "Claude Desktop/Code",
+    "Cursor",
+    "ChatGPT (remote connector)",
+    "any MCP client"
+  ],
+  "license": "MIT"
+}
