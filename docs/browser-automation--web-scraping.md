@@ -2,7 +2,6 @@
 
 Servers using tools for browser control, automation, and extracting content from websites.
 - [unitedideas/actablesite-mcp](https://github.com/unitedideas/actablesite-mcp): Read-only website audit MCP server for AI-crawler policy checks and full-report handoff. Supports Streamable HTTP and a dependency-free stdio bridge with no authentication; exposes 3 bounded tools and cannot modify sites. MIT.
-- [Goldentrii/novada-mcp](https://github.com/Goldentrii/novada-mcp): Web data MCP server for search, extraction, crawling, and research using Novada proxy infrastructure. Tools include `novada_search`, `novada_extract`, `novada_crawl`, and `novada_research`. Install: `npx -y novada-mcp`. Env: NOVADA_API_KEY.
 - [rog0x/mcp-web-tools](https://github.com/rog0x/mcp-web-tools): Web MCP tools for scraping, search, and monitoring workflows. Install from the `@rog0x` npm package family. MIT.
 - [rog0x/mcp-seo-tools](https://github.com/rog0x/mcp-seo-tools): SEO MCP tools for metadata, keywords, page speed, and search visibility checks. Install from the `@rog0x` npm package family. MIT.
 - [Crawlio-app/crawlio-browser-agent](https://github.com/Crawlio-app/crawlio-browser-agent): AI-powered website crawling MCP server with 38 tools for crawl control, browser enrichment capture, export (WARC/ZIP/single-HTML), observation timeline, and evidence-backed findings. Install: `npx crawlio-mcp`.
