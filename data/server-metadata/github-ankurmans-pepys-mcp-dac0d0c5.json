@@ -5,14 +5,28 @@
     "issue": 1157,
     "projectUrl": "https://github.com/ankurmans/pepys-mcp"
   },
+  "description": "Transcribes audio, video, and podcast feeds into speaker-labeled, timestamped transcripts with SRT/VTT output, URL ingestion, batch processing, and transcript search.",
+  "category": "Multimedia Processing",
+  "links": {
+    "endpoint": "https://pepys.co/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y pepys-mcp"
+    ],
+    "env": [
+      "PEPYS_API_KEY"
+    ],
+    "confidence": "high"
+  },
   "transport": [
     "stdio",
     "streamable-http"
   ],
   "auth": {
-    "type": "oauth",
+    "type": "api-key",
     "notes": [
-      "API key (stdio) / OAuth (hosted)"
+      "PEPYS_API_KEY for stdio; OAuth for the hosted endpoint."
     ]
   },
   "clients": [
@@ -21,5 +35,5 @@
     "ChatGPT (remote connector)",
     "any MCP client"
   ],
-  "license": "MIT - [x] I searched the repo for this project URL or name to avoid duplicates."
+  "license": "MIT"
 }
