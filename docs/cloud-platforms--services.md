@@ -5,7 +5,6 @@ Servers integrating with major cloud providers or specific cloud services.
 - [kubestellar/console](https://github.com/kubestellar/console): Multi-cluster Kubernetes MCP server (kc-agent) for AI-assisted operations across edge and cloud clusters. 50+ tools for workload placement, policy enforcement, and observability via natural language.
 - [xmpuspus/cloudwright](https://github.com/xmpuspus/cloudwright): Architecture intelligence for cloud engineers. Design AWS/GCP/Azure systems from natural language and get back a structured ArchSpec, multi-cloud cost estimates with workload profiles (small/medium/large/enterprise), compliance reports for HIPAA, PCI-DSS, SOC 2, FedRAMP, and GDPR, Terraform/CloudFormation code, Mermaid/D2/C4 diagrams, security scans, and what-if scenario analysis. 9 MCP tools including persistent multi-turn design sessions. Install: `pip install cloudwright-ai-mcp`.
 - [render-oss/render-mcp-server](https://github.com/render-oss/render-mcp-server) - Official Render MCP server for managing web services, static sites, cron jobs, Postgres databases, and Key Value stores, with deployment tracking, log querying, and performance metrics. Hosted at `https://mcp.render.com/mcp`.
-- [doma2k/monad-contract-deployment-mcp](https://github.com/doma2k/monad-contract-deployment-mcp): Facilitates the compilation and deployment of smart contracts within the Monad ecosystem, enabling interactions directly from chat prompts or compatible MCP clients.
 - [adrianmonad/MonDeployer](https://github.com/adrianmonad/MonDeployer): Facilitates the deployment of Solidity contracts to the Monad testnet using AI and MCP integration.
 - [groovyBugify/aws-security-mcp](https://github.com/groovyBugify/aws-security-mcp): Connects AI assistants to AWS security services for autonomous security analysis and threat modeling.
 - [joeseesun/qiniu-mcp-joe](https://github.com/joeseesun/qiniu-mcp-joe): Facilitates file uploads to Qiniu Cloud Storage, providing a seamless integration for managing media assets.
@@ -14,7 +13,6 @@ Servers integrating with major cloud providers or specific cloud services.
 - [oliverbenns/digitalocean-mcp](https://github.com/oliverbenns/digitalocean-mcp): Manage and monitor DigitalOcean app platform deployments and alerts using the Model Context Protocol.
 - [Ropz3/remote-mcp-server](https://github.com/Ropz3/remote-mcp-server): Deploy and manage a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.
 - [curious-pm/mcp-google_cloud_billing](https://github.com/curious-pm/mcp-google_cloud_billing): Facilitates integration with Google Cloud Billing API, enabling AI assistants to analyze and manage cloud costs efficiently.
-- [curious-pm/mcp-digital_ocean_billing](https://github.com/curious-pm/mcp-digital_ocean_billing): Facilitates seamless integration with Digital Ocean's Billing API, offering tools for viewing account balances, billing history, and invoices.
 - [bizflycloud/bizflycloud-mcp-server](https://github.com/bizflycloud/bizflycloud-mcp-server): Connects to Bizfly Cloud for comprehensive cloud resource management, utilizing the mark3labs/mcp-go SDK.
 - [JCallico/py-az-mcp](https://github.com/JCallico/py-az-mcp): Facilitates seamless integration with Azure services via Azure CLI commands, enabling a wide range of cloud operations.
 - [leeb003/supabase-mcp](https://github.com/leeb003/supabase-mcp): Facilitates CRUD operations on Supabase databases through a FastAPI-based MCP server, ensuring seamless integration with Cursor.
@@ -25,7 +23,6 @@ Servers integrating with major cloud providers or specific cloud services.
 - [Collaborne/mcp-server](https://github.com/Collaborne/mcp-server): Facilitates interaction between Large Language Models and NEXT structured data, enabling operations like retrieving highlights and clusters.
 - [trilliwon/lion-mcp-server](https://github.com/trilliwon/lion-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [jhgaylor/me_mcp_server](https://github.com/jhgaylor/me_mcp_server): Facilitates personalized job search and profile management through a Model Context Protocol server.
-- [bocchiczennie/aws-monthly-cost-report-mcp-server](https://github.com/bocchiczennie/aws-monthly-cost-report-mcp-server): Facilitates the generation of monthly AWS cost reports through an MCP server, integrating seamlessly with Claude Desktop.
 - [roboulos/remote-mcp-server](https://github.com/roboulos/remote-mcp-server): A remote MCP server leveraging Cloudflare Workers and Xano for efficient tool management, session tracking, and OAuth integration.
 - [anandkumarpatel/remote-mcp-server](https://github.com/anandkumarpatel/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
 - [Arodoid/FastlyMCP](https://github.com/Arodoid/FastlyMCP): Fastly MCP integrates Fastly's API with AI assistants, enabling seamless management of CDN services, caching, security, and performance monitoring through the Model Context Protocol.
@@ -39,9 +36,7 @@ Servers integrating with major cloud providers or specific cloud services.
 - [fjrdomingues/remote-mcp-server](https://github.com/fjrdomingues/remote-mcp-server): Deploy and manage a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.
 - [msremigio/mcp-server-weather](https://github.com/msremigio/mcp-server-weather): Provides weather data integration through a US weather API using MCP server architecture.
 - [YYvanYang/yapi-mcp-server](https://github.com/YYvanYang/yapi-mcp-server): Facilitates LLMs in accessing and retrieving API documentation from YAPI projects.
-- [agentdevhub/AWS-MCP](https://github.com/agentdevhub/AWS-MCP): A comprehensive suite of MCP servers designed to enhance AWS capabilities, offering tools for documentation access, cost analysis, and infrastructure management.
 - [cappt-team/mcp-server](https://github.com/cappt-team/mcp-server): Facilitates the generation of outlines and presentations using Cappt's Model Context Protocol.
-- [ashgw/s3-mcp](https://github.com/ashgw/s3-mcp): Facilitates comprehensive management of AWS S3 resources through a Model Context Protocol server.
 - [bilgoun/mcp-gcp-demo](https://github.com/bilgoun/mcp-gcp-demo): Facilitates browser automation through AI agents with dual transport support for SSE and stdio protocols.
 - [batprem/set-mcp](https://github.com/batprem/set-mcp): Facilitates AI-driven access to comprehensive financial data from the Securities Exchange of Thailand using Model Context Protocol.
 - [IveHD/mcp-gw](https://github.com/IveHD/mcp-gw): Facilitates note-taking in Flomo through a TypeScript-based MCP server.
@@ -168,7 +163,6 @@ Servers integrating with major cloud providers or specific cloud services.
 - [xiangxinji/mcp-aliyun-driver](https://github.com/xiangxinji/mcp-aliyun-driver): A TypeScript-based MCP server implementing a simple notes system with tools for note creation and summarization.
 - [edgee-cloud/mcp-server-edgee](https://github.com/edgee-cloud/mcp-server-edgee): Facilitates organization, project, component, and user management through the Edgee API using the Model Context Protocol.
 - [meethuhu/remote-mcp-server](https://github.com/meethuhu/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [campfirein/byterover-mcp](https://github.com/campfirein/byterover-mcp): Facilitates collaborative coding with AI agents by providing shared long-term memory through the Model Context Protocol.
 - [nekokuro2nya/remote-mcp-server](https://github.com/nekokuro2nya/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [EnactProtocol/enact-mcp](https://github.com/EnactProtocol/enact-mcp): Facilitates the creation and execution of capabilities across applications using the Enact Protocol.
 - [zcking/mcp-server-unifi](https://github.com/zcking/mcp-server-unifi): Facilitates natural language management of UniFi network devices using AI agents by interfacing with the UniFi Network API.
@@ -319,7 +313,6 @@ Servers integrating with major cloud providers or specific cloud services.
 - [rmasters/mcp-openapi](https://github.com/rmasters/mcp-openapi): Facilitates HTTP method exposure from OpenAPI specs as tools via a Model Context Protocol server.
 - [sofianhamiti/mcp-server-s3](https://github.com/sofianhamiti/mcp-server-s3): Facilitates direct interaction with AWS S3 buckets using the Model Context Protocol.
 - [Streen9/azure-mcp](https://github.com/Streen9/azure-mcp): Enables Claude Desktop to manage Azure resources through natural language interactions.
-- [DynamicEndpoints/Netlify-MCP-Server](https://github.com/DynamicEndpoints/Netlify-MCP-Server): Facilitates comprehensive management of Netlify deployments, DNS settings, serverless functions, and more through a Model Context Protocol server.
 - [mrchi/caiyun-weather-mcp-server](https://github.com/mrchi/caiyun-weather-mcp-server): Provides seamless access to the Caiyun Weather API through an MCP server.
 - [canvrno/ProxmoxMCP](https://github.com/canvrno/ProxmoxMCP): A Python-based MCP server for seamless management of Proxmox hypervisors, offering tools for node, VM, and container administration with secure token-based authentication.
 - [r3-yamauchi/cdata-connect-cloud-mcp-server](https://github.com/r3-yamauchi/cdata-connect-cloud-mcp-server): Facilitates integration with CData Connect Cloud through a customizable MCP server setup.
@@ -333,11 +326,9 @@ Servers integrating with major cloud providers or specific cloud services.
 - [KBB99/mcp-registry-server](https://github.com/KBB99/mcp-registry-server): Facilitates semantic search and retrieval of MCP servers, enhancing integration with Claude Desktop.
 - [QuantGeekDev/mcp-add-sse](https://github.com/QuantGeekDev/mcp-add-sse): Demonstrates the integration of SSE and authentication capabilities within an MCP server using the mcp-framework.
 - [komer3/linode-mcp](https://github.com/komer3/linode-mcp): Facilitates LLMs in managing Linode cloud resources through a standardized MCP interface.
-- [beamlit/mcp-gateway](https://github.com/beamlit/mcp-gateway): Facilitates seamless interaction between Beamlit CLI and AI models through a robust MCP server implementation.
 - [aaronsb/google-workspace-mcp](https://github.com/aaronsb/google-workspace-mcp): Provides authenticated access to Google Workspace APIs, integrating Gmail, Calendar, and Drive functionalities for streamlined management and automation.
 - [stefanskiasan/azure-devops-mcp-server](https://github.com/stefanskiasan/azure-devops-mcp-server): Facilitates seamless integration with Azure DevOps for Cline users, enabling efficient management of work items, pipelines, pull requests, and wikis.
 - [Gregspillane/mcp-cloudindex](https://github.com/Gregspillane/mcp-cloudindex): A platform offering semantic search capabilities via the CloudIndex API, integrated with Claude Desktop for enhanced document retrieval.
-- [cpage-pivotal/cloud-foundry-mcp](https://github.com/cpage-pivotal/cloud-foundry-mcp): Facilitates interaction with Cloud Foundry foundations through an LLM interface using the Spring AI MCP framework.
 - [GRID-is/claude-mcp](https://github.com/GRID-is/claude-mcp): Facilitates direct interaction with the GRID API from Claude for Desktop, enabling spreadsheet data manipulation via MCP.
 - [oxylabs/oxylabs-mcp](https://github.com/oxylabs/oxylabs-mcp): Facilitates seamless web data access for AI assistants using Oxylabs' advanced web scraping technology.
 - [confluentinc/mcp-confluent](https://github.com/confluentinc/mcp-confluent): Facilitates seamless interaction with Confluent Kafka and Confluent Cloud REST APIs through an MCP server.
@@ -350,10 +341,8 @@ Servers integrating with major cloud providers or specific cloud services.
 - [tengfone/supabase-nextjs-mcp-server](https://github.com/tengfone/supabase-nextjs-mcp-server): A TypeScript-based MCP server for NextJS that implements a simple notes system with features for creating and summarizing text notes.
 - [JeromyJSmith/cognee-mcp-server](https://github.com/JeromyJSmith/cognee-mcp-server): Cognee MCP server integrates seamlessly with Claude Desktop, providing a robust environment for managing and executing server commands with enhanced local development capabilities.
 - [knmurphy/glide-api-mcp-server](https://github.com/knmurphy/glide-api-mcp-server): Facilitates seamless interaction with Glide API versions 1 and 2 through a secure and type-safe MCP server implementation.
-- [DynamicEndpoints/cloudflare-github-backup-mcp](https://github.com/DynamicEndpoints/cloudflare-github-backup-mcp): Facilitates automated backups of Cloudflare projects to GitHub repositories using MCP server capabilities.
 - [aws-samples/sample-mcp-server-s3](https://github.com/aws-samples/sample-mcp-server-s3): Facilitates the retrieval of PDF documents from AWS S3 into an LLM's context using the Model Context Protocol.
 - [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp): Facilitates seamless integration of Supabase projects with AI assistants for efficient project management and database operations.
-- [DynamicEndpoints/supabase-mcp](https://github.com/DynamicEndpoints/supabase-mcp): Facilitates seamless interaction with Supabase databases, storage, and edge functions through a Model Context Protocol server.
 - [dkmaker/mcp-azure-tablestorage](https://github.com/dkmaker/mcp-azure-tablestorage): Facilitates querying and managing Azure Table Storage data for local development using a TypeScript-based MCP server.
 - [RafalWilinski/aws-mcp](https://github.com/RafalWilinski/aws-mcp): Facilitates natural language interaction with AWS resources through Claude, offering a seamless alternative to Amazon Q.
 - [cloudflare/workers-mcp](https://github.com/cloudflare/workers-mcp): Facilitates communication between Claude Desktop and Cloudflare Workers, enabling custom MCP server functionality for remote method execution.
