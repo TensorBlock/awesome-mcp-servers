@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-taygunsavas-patina-unity-mcp-8c8f04b5",
+  "source": {
+    "issue": 1172,
+    "projectUrl": "https://github.com/taygunsavas/patina-unity-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @taygunsavas in #1172 under the community profile-claim process.",
+      "Requested profile metadata in #1172: Maintainer: @taygunsavas Support/contact: info@taygunsavas.com Docs: https://github.com/taygunsavas/patina-unity-mcp#readme License: MIT Install: Unity Package Manager scoped registry package..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@taygunsavas"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
