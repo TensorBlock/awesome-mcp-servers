@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-eagleeyejack-jacks-seo-mcp-ce3c52e4",
+  "source": {
+    "issue": 1186,
+    "projectUrl": "https://github.com/eagleeyejack/jacks-seo-mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Per-account token embedded in the connector URL. Paid plans from $9/month; managed keyword and SERP data included."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "any MCP client"
+  ],
+  "license": "Documentation MIT (github.com/eagleeyejack/jacks-seo-mcp); hosted service is commercial."
+}
