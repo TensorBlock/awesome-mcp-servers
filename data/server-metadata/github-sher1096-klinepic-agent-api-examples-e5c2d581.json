@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sher1096-klinepic-agent-api-examples-e5c2d581",
+  "source": {
+    "issue": 1176,
+    "projectUrl": "https://github.com/sher1096/klinepic-agent-api-examples"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:sher1096/klinepic-agent-api-examples",
+      "docker build -t klinepic-mcp .",
+      "docker run --rm -i -e KLINE_AGENT_API_KEY=kline_agent_xxx klinepic-mcp"
+    ],
+    "env": [
+      "KLINE_AGENT_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Any MCP client that supports stdio and environment variables. The repository includes a generic client configuration",
+    "the official MCP SDK initialize and tools/list handshake has been tested."
+  ],
+  "license": "MIT"
+}
