@@ -6,7 +6,7 @@
     "projectUrl": "https://github.com/vbkotecha/aiservices-api"
   },
   "links": {
-    "endpoint": "https://api.aiservices.to/mcp"
+    "endpoint": "https://agentservices.to/mcp"
   },
   "transport": [
     "streamable-http"
