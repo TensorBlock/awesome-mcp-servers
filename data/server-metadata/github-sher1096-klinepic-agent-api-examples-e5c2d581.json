@@ -5,6 +5,11 @@
     "issue": 1176,
     "projectUrl": "https://github.com/sher1096/klinepic-agent-api-examples"
   },
+  "description": "Generates annotated candlestick-chart PNGs from broker or exchange fills for post-trade review and visualization without signals, predictions, or order execution.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://klinepic.com/guides/trade-review-chart-api/"
+  },
   "install": {
     "commands": [
       "npx -y github:sher1096/klinepic-agent-api-examples",
@@ -22,12 +27,26 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "KLINE_AGENT_API_KEY is required for live API calls; the server can start without a key for tool-schema inspection."
     ]
   },
   "clients": [
-    "Any MCP client that supports stdio and environment variables. The repository includes a generic client configuration",
-    "the official MCP SDK initialize and tools/list handshake has been tested."
+    "MCP clients that support stdio and environment variables"
   ],
-  "license": "MIT"
+  "tools": {
+    "count": 3,
+    "names": [
+      "klinepic_get_capabilities",
+      "klinepic_preflight_review_chart",
+      "klinepic_create_review_chart"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "The project README reports successful MCP initialize and tools/list checks with three tools."
+    ]
+  }
 }
