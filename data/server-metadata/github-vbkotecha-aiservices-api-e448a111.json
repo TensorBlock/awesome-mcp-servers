@@ -5,8 +5,11 @@
     "issue": 1059,
     "projectUrl": "https://github.com/vbkotecha/aiservices-api"
   },
+  "description": "Remote MCP server with 37 tools for crypto and DeFi market data, on-chain analytics, web search, URL metadata, marketing intelligence, and policy-driven dispute resolution.",
+  "category": "Finance & Crypto",
   "links": {
-    "endpoint": "https://api.aiservices.to/mcp"
+    "docs": "https://github.com/vbkotecha/aiservices-api#readme",
+    "endpoint": "https://agentservices.to/mcp"
   },
   "transport": [
     "streamable-http"
@@ -18,5 +21,16 @@
   "clients": [
     "MCP-compatible clients and agent frameworks that support remote MCP servers."
   ],
-  "license": "MIT"
+  "tools": {
+    "count": 37,
+    "names": [],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint completed MCP initialize and tools/list checks on 2026-07-14."
+    ]
+  }
 }
