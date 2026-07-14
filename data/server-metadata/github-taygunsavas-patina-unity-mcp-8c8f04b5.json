@@ -5,6 +5,8 @@
     "issue": 1171,
     "projectUrl": "https://github.com/taygunsavas/patina-unity-mcp"
   },
+  "description": "Unity MCP package exposing an 86-command catalog through three discovery, execution, and health tools.",
+  "category": "Gaming",
   "links": {
     "docs": "https://github.com/taygunsavas/patina-unity-mcp#readme"
   },
@@ -12,11 +14,8 @@
     "commands": [
       "com.taygunsavas.patina-unity-mcp"
     ],
-    "env": [
-      "none",
-      "URL"
-    ],
-    "confidence": "medium"
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
     "stdio"
@@ -49,8 +48,15 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "The repository is public, the npm package is published, and the official MCP Registry entry is active.",
-      "Metadata updated from issue #1171. Source: Repository README: https://github.com/taygunsavas/patina-unity-mcp#readme Official MCP Registry entry: https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.taygunsavas/patina-unity-mcp npm package:..."
+      "Metadata was submitted by @taygunsavas in #1171 and matches the public repository, npm package, and official MCP Registry entry.",
+      "Profile ownership was claimed by @taygunsavas in #1172; claiming is separate from TensorBlock verification."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@taygunsavas"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
