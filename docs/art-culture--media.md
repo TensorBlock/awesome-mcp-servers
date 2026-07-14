@@ -2,6 +2,7 @@
 
 Servers interacting with APIs for museums, media databases, image/video hosting, or creative content platforms.
 
+- [Framesail](https://framesail.com/developers): Turns a script into a finished long-form video end to end — script, locked character and environment references, storyboard, voiceover, animated segments, and MP4 export, with every shot rendered against the same references. Remote streamable-HTTP server with OAuth 2.0 (DCR + PKCE) at `https://api.framesail.com/mcp`; 65+ tools. Paid, commercial license.
 - [Émile](https://emile.wine/mcp/): Official wine-cellar MCP server for searching a 100k+ wine catalog, listing cellars and bottles, recommending bottles from a user's own cellar, adding/updating/deleting inventory, and scanning wine labels from photos. Remote OAuth endpoint at `https://mcp.emile.wine/mcp`; local stdio with `npx -y @emile-wine/mcp-server` and `EMILE_API_KEY`. MIT.
 - [Alisammour/storyflo-mcp](https://github.com/Alisammour/storyflo-mcp): Curated audio-news MCP server. Searches trending articles, fetches narrated audio, subscribes topic feeds. Free tier; premium briefings via x402 over USDC on Base mainnet. OAuth 2.1 + RFC 7591 DCR. Hosted at https://api.storyflo.com/mcp/v1.
 - [spritecook/spritecook-mcp](https://github.com/spritecook/spritecook-mcp): Generates pixel art sprites and animations for game developers, turning text prompts into game-ready characters, items, and sprite sheet animations.
