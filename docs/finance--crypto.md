@@ -3,6 +3,7 @@
 - [AccountsOS](https://www.npmjs.com/package/@thriveventurelabs/accountsos-mcp) - AI accountant for UK and global founders. Query your company's real books (balances, transactions, VAT, deadlines, invoices) from Claude or any MCP client. Install: `npx -y @thriveventurelabs/accountsos-mcp`. Homepage: https://accounts-os.com
 - [Timwal78/SqueezeOS](https://github.com/Timwal78/SqueezeOS) - Institutional market intelligence MCP server with 33 tools. Schwab/Polygon/Alpaca APIs, x402 payment gating via XRPL/RLUSD and Base/USDC, short-squeeze detection, FTD cycle analysis. Free tier + paid signal tiers. Remote: `https://squeezeos-api.onrender.com/mcp`
 - [Timwal78/ghost-layer](https://github.com/Timwal78/ghost-layer) - Dual-chain XRPL/Base toll gateway for autonomous AI agents. URIToken on-chain licensing, 54-block execution matrix, Agent Passport loyalty tiers, x402 protocol. MCP: `https://ghost-layer.onrender.com/mcp`. Zero custody.
+- [OpenChainBench](https://openchainbench.com/mcp) - Open, neutral crypto infrastructure benchmark. Live RPC latency across 22 EVM chains plus Solana, oracle deviation, bridge quote fees, perp DEX all-in cost, prediction market resolution delay. Streamable HTTP endpoint at `https://openchainbench.com/api/mcp/mcp`, open (no auth). Tools: `list_benchmarks`, `get_benchmark`, `query_prom`. Open methodology, CC BY 4.0 data.
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
