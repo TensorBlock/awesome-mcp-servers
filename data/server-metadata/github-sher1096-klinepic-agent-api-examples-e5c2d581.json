@@ -46,7 +46,15 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "The project README reports successful MCP initialize and tools/list checks with three tools."
+      "The project README reports successful MCP initialize and tools/list checks with three tools.",
+      "Profile claimed by @sher1096 in #1212 under the community profile-claim process."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@sher1096"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
