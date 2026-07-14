@@ -100,7 +100,6 @@ Servers designed to execute code snippets or scripts in various languages, often
 - [go-rod/rod-mcp](https://github.com/go-rod/rod-mcp): Rod-MCP enhances browser automation by leveraging Rod to enable LLMs to interact with web pages through actions like clicking, screenshotting, and PDF generation.
 - [nguyenvanduocit/script-mcp](https://github.com/nguyenvanduocit/script-mcp): Facilitates the execution of command line scripts across multiple platforms with safety and error handling features.
 - [msl2246/mcp-proxy](https://github.com/msl2246/mcp-proxy): Facilitates seamless communication between stdio and SSE transports for MCP servers, enhancing connectivity for clients like Claude Desktop.
-- [albeorla/mcp](https://github.com/albeorla/mcp): Aerith Admin MCP server facilitates RBAC dashboard application development with browser automation, integrating seamlessly with Cursor IDE.
 - [s123104/ClaudeMCP](https://github.com/s123104/ClaudeMCP): Integrates Claude Desktop and Claude Code with Docker to run multiple MCP servers, supporting GitLab project management, time conversion, and structured thinking workflows.
 - [devdanks/mcp-server](https://github.com/devdanks/mcp-server): Showcases reference implementations of MCP servers, demonstrating secure and controlled access for LLMs to various tools and data sources.
 - [pangahn/bond-mcp-server](https://github.com/pangahn/bond-mcp-server): Integrates China bond market data with AkShare using a lightweight MCP server framework.
@@ -143,7 +142,6 @@ Servers designed to execute code snippets or scripts in various languages, often
 - [YuheiNakasaka/arithmetic-mcp-server](https://github.com/YuheiNakasaka/arithmetic-mcp-server): Facilitates basic arithmetic operations through an MCP server, enabling integration with the Claude Desktop App for seamless mathematical computations.
 - [JohanCodinha/nrepl-mcp-server](https://github.com/JohanCodinha/nrepl-mcp-server): Facilitates interaction with Clojure nREPL instances for code evaluation and namespace management via MCP.
 - [manybooks/command-executer](https://github.com/manybooks/command-executer): Facilitates secure execution of pre-approved commands with customizable shell configurations.
-- [cluffa/julia-runner](https://github.com/cluffa/julia-runner): Facilitates interaction with Julia by executing code, managing packages, and retrieving documentation.
 - [bazinga012/mcp_code_executor](https://github.com/bazinga012/mcp_code_executor): Facilitates Python code execution by LLMs within a specified Conda environment, leveraging MCP server capabilities.
 - [tadasant/mcp-server-ssh-rails-runner](https://github.com/tadasant/mcp-server-ssh-rails-runner): Facilitates secure remote execution of Rails console commands via SSH, enabling both read-only and managed mutation operations in a deployed Rails environment.
 - [Automata-Labs-team/code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp): Provides AI applications with a secure and isolated Docker-based environment for executing code.

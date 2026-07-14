@@ -5,15 +5,16 @@
     "issue": 1206,
     "projectUrl": "https://github.com/runcomfy-com/runcomfy-mcp"
   },
+  "description": "Official remote MCP server for managing RunComfy Serverless API GPU deployments and asynchronous ComfyUI image and video inference.",
+  "category": "Multimedia Processing",
   "links": {
+    "docs": "https://docs.runcomfy.com/mcp",
     "endpoint": "https://mcp.runcomfy.com/mcp"
   },
   "install": {
     "commands": [],
-    "env": [
-      "YOUR_RUNCOMFY_TOKEN"
-    ],
-    "confidence": "low"
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
@@ -21,7 +22,22 @@
   "auth": {
     "type": "bearer",
     "notes": [
-      "Remote streamable-http endpoint: `https://mcp.runcomfy.com/mcp` Header: `Authorization: Bearer <YOUR_RUNCOMFY_TOKEN>` (token from https://www.runcomfy.com/profile) Also published to the official MCP registry as..."
+      "Use a RunComfy API token from https://www.runcomfy.com/profile in the Authorization: Bearer header."
+    ]
+  },
+  "clients": [
+    "Remote MCP clients that support Streamable HTTP and bearer headers"
+  ],
+  "tools": {
+    "count": 10,
+    "names": [],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint completed MCP initialize and tools/list checks on 2026-07-14."
     ]
   }
 }
