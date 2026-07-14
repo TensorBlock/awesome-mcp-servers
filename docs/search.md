@@ -167,6 +167,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [Superhighway](https://superhighway.walls.sh): Web search API for AI agents — search, news, images, scrape, and deep research. Agents pay per call in USDC via x402 (no signup needed) or use a free API key. Five tools.
 
 - [wd041216-bit/cross-validated-search](https://github.com/wd041216-bit/cross-validated-search): Evidence-aware search, page reading, and claim verification for AI agents with CLI, MCP, and skill surfaces for Gemini, Claude Code, Manus, and OpenClaw.
+- [goofrey/zoom-search](https://github.com/goofrey/zoom-search): MCP search and evidence tool for AI agents that rewrites questions, zooms into source domains, and returns sourced answers with warnings and runtime metrics. Install: `pip install "zoom-search[mcp]"`.
 - [supertrained/rhumb](https://github.com/supertrained/rhumb): Discover, evaluate, and execute 695+ external APIs for AI agents with AN Score trust ratings across 86 categories. Zero-signup discovery, three credential modes, and 16 MCP tools for finding and comparing services.
 - [uju777/coupang-mcp](https://github.com/uju777/coupang-mcp): MCP server for Coupang (Korea's largest e-commerce) product search with Rocket Delivery filtering and affiliate link generation.
 - [uju777/mcp-server-naver-search](https://github.com/uju777/mcp-server-naver-search): MCP server for Naver Search (Shopping, Cafe, News). Essential for Korean users.

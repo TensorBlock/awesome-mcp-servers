@@ -1,6 +1,7 @@
 ## 🌐 Browser Automation & Web Scraping
 
 Servers using tools for browser control, automation, and extracting content from websites.
+- [Satyajeet-04/parley](https://github.com/Satyajeet-04/parley): Lightweight CDP browser-automation framework with 14 MCP tools — DOM reading, cookie extraction, JS execution, and AI chat bridging across ChatGPT/Gemini/Claude tabs. Zero heavy deps, text-only (no screenshots).
 - [unitedideas/actablesite-mcp](https://github.com/unitedideas/actablesite-mcp): Read-only website audit MCP server for AI-crawler policy checks and full-report handoff. Supports Streamable HTTP and a dependency-free stdio bridge with no authentication; exposes 3 bounded tools and cannot modify sites. MIT.
 - [rog0x/mcp-web-tools](https://github.com/rog0x/mcp-web-tools): Web MCP tools for scraping, search, and monitoring workflows. Install from the `@rog0x` npm package family. MIT.
 - [rog0x/mcp-seo-tools](https://github.com/rog0x/mcp-seo-tools): SEO MCP tools for metadata, keywords, page speed, and search visibility checks. Install from the `@rog0x` npm package family. MIT.
