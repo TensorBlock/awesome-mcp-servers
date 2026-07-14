@@ -2,6 +2,7 @@
 
 Servers providing access to sports-related APIs and analysis.
 
+- [propzapi](https://github.com/paperandbeyond23-gif/propzapi-skills): Hosted Streamable HTTP MCP server for live sports odds and player props across US sportsbooks, with moneyline, spread, total, event, and sportsbook tools. Endpoint: `https://api.propzapi.com/mcp` with `PROPZAPI_KEY`; free tier available. MIT-0.
 - [dhrbtjr0331/nba-stats-predictor-mcp](https://github.com/dhrbtjr0331/nba-stats-predictor-mcp): Generates NBA player performance forecasts using real-time data analysis and advanced statistical modeling.
 - [JamsusMaximus/trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp): Accesses TrainingPeaks training data including fitness metrics (CTL/ATL/TSB), workout history, and power/pace personal records for endurance athletes.
 - [henryco23/NBA](https://github.com/henryco23/NBA): A Python server utilizing MCP to provide comprehensive access to NBA statistics and live game data through the NBA API.
