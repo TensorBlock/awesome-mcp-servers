@@ -44,7 +44,6 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [cheukyin175/metabase-mcp](https://github.com/cheukyin175/metabase-mcp): Facilitates seamless integration of AI assistants with Metabase analytics, enabling direct interaction with analytics data via MCP capabilities.
 - [jikime/py-mcp-ko-weather](https://github.com/jikime/py-mcp-ko-weather): Provides real-time weather forecasts for Korean regions using the Korea Meteorological Administration API through an MCP server.
 - [DxO-AI-Dep/DxO-MCP-SQL-BI-INSTALLER](https://github.com/DxO-AI-Dep/DxO-MCP-SQL-BI-INSTALLER): Facilitates the integration of SQLite databases with Claude Desktop using the `mcp-alchemy` server for seamless data analysis and business intelligence tasks.
-- [ChangooLee/opendart-mcp](https://github.com/ChangooLee/opendart-mcp): Facilitates AI model access to South Korea's Financial Supervisory Service's DART data via the OpenDART API using the MCP protocol.
 - [IzarLabs/TitanicAIAnalysis](https://github.com/IzarLabs/TitanicAIAnalysis): Facilitates complex data analysis on the Titanic dataset using Claude, leveraging MCP to expose structured data and tools for enhanced LLM interaction.
 - [r3-yamauchi/kintone-deno-mcp-server](https://github.com/r3-yamauchi/kintone-deno-mcp-server): Facilitates secure integration with kintone using Deno, leveraging MCP for seamless communication.
 - [marlonluo2018/pandas-mcp-server](https://github.com/marlonluo2018/pandas-mcp-server): Facilitates CSV file handling and Pandas code execution through an MCP server interface.
@@ -93,7 +92,6 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [samefarrar/mcp-pdb](https://github.com/samefarrar/mcp-pdb): MCP-PDB integrates Python's debugger with Claude and other LLMs, enabling enhanced debugging capabilities through the Model Context Protocol.
 - [unravel-team/mcp-analyst](https://github.com/unravel-team/mcp-analyst): Empowers Claude to efficiently analyze large local CSV or Parquet datasets without uploading full files.
 - [moritalous/bedrock-mcp-streamlit-v2](https://github.com/moritalous/bedrock-mcp-streamlit-v2): A Streamlit-based chat application integrating Bedrock and MCP tools for dynamic LLM interactions and configuration.
-- [cpenniman12/semantic-postgres-mcp](https://github.com/cpenniman12/semantic-postgres-mcp): Enables AI assistants to perform semantic search on PostgreSQL databases using vector embeddings for natural language queries.
 - [silviorodrigues/amplitude-mcp](https://github.com/silviorodrigues/amplitude-mcp): Facilitates interaction with Amplitude Analytics API for querying and segmenting event data.
 - [colygon/agglayer-mcp-server](https://github.com/colygon/agglayer-mcp-server): Facilitates cross-chain interactions and liquidity management using the Agglayer settlement layer.
 - [periscopegithub/count-r-mcp](https://github.com/periscopegithub/count-r-mcp): A versatile MCP server offering real-time letter 'r' counting in words via TypeScript and Python implementations using SSE.
@@ -118,7 +116,6 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [MJunKWON/multiplication-teacher-mcp](https://github.com/MJunKWON/multiplication-teacher-mcp): Facilitates multiplication table calculations through an MCP server with Claude Desktop integration.
 - [johnib/kusto-mcp](https://github.com/johnib/kusto-mcp): A TypeScript MCP server enabling AI assistants to interact with Azure Data Explorer through a standardized protocol, supporting KQL queries and schema operations.
 - [Flow-Research/mcp-server-trend-persister](https://github.com/Flow-Research/mcp-server-trend-persister): A Python-based MCP server that persists trend data into PostgreSQL, supporting upward and downward trend schemas.
-- [dubydu/excel-mcp](https://github.com/dubydu/excel-mcp): Facilitates interaction with Excel and CSV files through a Model Context Protocol server, enabling data querying, updating, and management.
 - [luisoala/croissant-mcp-poc](https://github.com/luisoala/croissant-mcp-poc): A proof-of-concept MCP server for indexing and accessing Croissant datasets with real-time updates via SSE.
 - [EvanOman/mcp-data-handles](https://github.com/EvanOman/mcp-data-handles): Demonstrates managing pandas DataFrames through handles in MCP servers, offering both simplified and generic operations for data manipulation.
 - [bsmi021/mcp-npm_docs-server](https://github.com/bsmi021/mcp-npm_docs-server): Fetches and caches metadata and documentation for NPM packages using the npms.io API, enhancing performance with local caching.
@@ -189,7 +186,6 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [JiantaoFu/AppInsightMCP](https://github.com/JiantaoFu/AppInsightMCP): Provides market intelligence by analyzing data from the Apple App Store and Google Play Store, offering insights on apps, trends, competitors, and user feedback.
 - [mackenly/mcp-fathom-analytics](https://github.com/mackenly/mcp-fathom-analytics): Access Fathom Analytics data through an AI assistant using an unofficial MCP server implementation.
 - [nermalcat69/zerops-mcp](https://github.com/nermalcat69/zerops-mcp): Facilitates seamless GitHub repository management and file operations through an MCP server interface.
-- [dschlabach/base-mcp-alpha](https://github.com/dschlabach/base-mcp-alpha): A Model Context Protocol server enabling Claude AI to interact with the Base blockchain and Coinbase API for onchain operations.
 - [explorium-ai/mcp-explorium](https://github.com/explorium-ai/mcp-explorium): Facilitates interaction with the Explorium API through an MCP server setup.
 - [quintonwall/mcp-airbyte-list-sources](https://github.com/quintonwall/mcp-airbyte-list-sources): Facilitates monitoring of Airbyte connections through an MCP server integrated with Claude Desktop.
 - [ranveer0323/stock-analysis-mcp](https://github.com/ranveer0323/stock-analysis-mcp): Provides real-time and historical stock market data from Alpha Vantage API for MCP clients.
@@ -219,7 +215,6 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [truaxki/mcp-variance-log](https://github.com/truaxki/mcp-variance-log): Monitors conversation patterns for statistical anomalies and logs them to a SQLite database, integrating seamlessly with Claude Desktop.
 - [jnoller/condamcp](https://github.com/jnoller/condamcp): Facilitates natural language interactions with the conda ecosystem, transforming complex CLI operations into intuitive commands for environment management and package building.
 - [tosin2013/deekseek-context-optimizer](https://github.com/tosin2013/deekseek-context-optimizer): Repository classified as category 13
-- [danielma-tic/fillout-mcp-server](https://github.com/danielma-tic/fillout-mcp-server): Facilitates form management, response handling, and analytics through the Fillout.io API.
 - [rebots-online/ChatGPT-neo4j-qdrant-hybrid-knowledge-graph-analyzer](https://github.com/rebots-online/ChatGPT-neo4j-qdrant-hybrid-knowledge-graph-analyzer): A hybrid system leveraging vector embeddings and knowledge graphs for semantic search and relationship analysis of ChatGPT conversations.
 - [anshumax/world_bank_mcp_server](https://github.com/anshumax/world_bank_mcp_server): Facilitates AI-driven analysis of World Bank open data by listing and evaluating country-specific indicators.
 - [ibproduct/ib-mcp-cache-server](https://github.com/ibproduct/ib-mcp-cache-server): Enhances language model interactions by caching data to minimize token usage, seamlessly integrating with any MCP client.
