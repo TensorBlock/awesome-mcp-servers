@@ -1,4 +1,5 @@
 ## 💰 Finance & Crypto
+- [hbhqq9/bde-score](https://github.com/hbhqq9/bde-score) — Multi-factor quantitative stock analysis MCP server covering US, HK, and CN A-share markets. Transparent 0-100 composite scoring with 40+ financial indicators. EU AI Act Art.50 compliant. Streamable HTTP transport.
 
 - [svkbogislav/latam-data-mcp](https://github.com/svkbogislav/latam-data-mcp) - Latin America data & compliance MCP server: tax-ID validation for 15 countries, bank-account (MX CLABE, AR CBU/CVU), Brazil PIX-key and phone-number validation, company lookups (Brazil, Costa Rica), FX & central-bank rates, currency conversion, and holiday/business-day math. 20 tools, free no-key APIs. Install: `uvx latam-data-mcp`.
 - [AccountsOS](https://www.npmjs.com/package/@thriveventurelabs/accountsos-mcp) - AI accountant for UK and global founders. Query your company's real books (balances, transactions, VAT, deadlines, invoices) from Claude or any MCP client. Install: `npx -y @thriveventurelabs/accountsos-mcp`. Homepage: https://accounts-os.com
