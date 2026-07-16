@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-corewebvitals-state-of-cwv-mcp-ed02f0ff",
+  "source": {
+    "issue": 1246,
+    "projectUrl": "https://github.com/corewebvitals/state-of-cwv-mcp"
+  },
+  "links": {
+    "endpoint": "https://www.corewebvitals.io/api/state-of-cwv/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
