@@ -67,7 +67,7 @@ test("uses the same stable slug format as catalog profiles", () => {
   );
 });
 
-test("builds a merged PR follow-up with profile, API, badge, and community links", () => {
+test("builds a concise merged PR follow-up with profile and repository links", () => {
   const entries = extractAddedCatalogEntries([
     {
       path: "docs/operating-system--command-line.md",
@@ -81,20 +81,14 @@ test("builds a merged PR follow-up with profile, API, badge, and community links
 
   assert.match(comment, /tensorblock-mcp-merge-follow-up:v1/);
   assert.match(comment, /https:\/\/tensorblock\.co\/mcp\/servers\/github-cursortouch-windows-mcp-83a6332f/);
-  assert.match(comment, /https:\/\/mcp-index\.tensorblock\.co\/v1\/servers\/github-cursortouch-windows-mcp-83a6332f/);
-  assert.match(comment, /badge\.svg/);
-  assert.match(comment, /claim-profile\.yml/);
-  assert.match(comment, /improve-metadata\.yml/);
-  assert.match(comment, /report-broken-entry\.yml/);
-  assert.match(comment, /install-config\?client=claude-desktop/);
-  assert.match(comment, /install-config\?client=cursor/);
-  assert.match(comment, /install-config\?client=codex/);
-  assert.match(comment, /install-config\?client=vscode/);
-  assert.match(comment, /discord\.com\/invite/);
-  assert.match(comment, /MCP author onboarding/);
-  assert.match(comment, /Share this profile/);
-  assert.match(comment, /Add the README badge/);
-  assert.match(comment, /Missing install, transport, auth, docs, license, or tool metadata\?/);
-  assert.match(comment, /free hosting, indexing, install-config generation, and registry API infrastructure/);
-  assert.match(comment, /Star this repo/);
+  assert.match(comment, /Each profile includes install configs, a shareable badge, and options to claim or improve metadata\./);
+  assert.match(comment, /consider starring the repo/);
+  assert.doesNotMatch(comment, /mcp-index\.tensorblock\.co/);
+  assert.doesNotMatch(comment, /badge\.svg/);
+  assert.doesNotMatch(comment, /claim-profile\.yml/);
+  assert.doesNotMatch(comment, /improve-metadata\.yml/);
+  assert.doesNotMatch(comment, /report-broken-entry\.yml/);
+  assert.doesNotMatch(comment, /install-config\?client=/);
+  assert.doesNotMatch(comment, /discord\.com\/invite/);
+  assert.doesNotMatch(comment, /MCP author onboarding/);
 });
