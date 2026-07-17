@@ -2,6 +2,7 @@
 
 Servers connecting to data warehouses, data query engines, analytics platforms, or specific data APIs.
 
+- [Nexly Analytics](https://www.nexly.to/help/api/mcp): Hosted, read-only product and web analytics for AI agents, covering traffic, pages, acquisition, custom events, funnels, reports, anomalies, and AI-traffic breakdowns. Streamable HTTP endpoint at `https://api.nexly.to/mcp` with OAuth 2.1 and PKCE; supports Claude, Cursor, Codex, and other OAuth-capable MCP clients. Listed in the official MCP Registry as `to.nexly/analytics`.
 - [Steep](https://github.com/SteepHq/steep-mcp): Query a governed semantic layer — list and query metrics (with date ranges and breakdowns), targets, entities, modules, reports, and workspace members — and create reports. Streamable HTTP endpoint at `https://mcp.steep.app/mcp` with OAuth (RFC 9728 discovery + dynamic client registration). Listed in the official MCP Registry as `app.steep/mcp`. Apache-2.0.
 
 - [CrashStory MCP](https://crashstory.com/mcp): Colorado crash data and attorney-search MCP server with 15 tools for querying 594K+ crash records by location, date, and severity, plus AI-analyzed review intelligence for 600+ personal injury attorneys. Streamable HTTP endpoint: https://crashstory-mcp-production.up.railway.app/mcp. Public read-only. MIT.
