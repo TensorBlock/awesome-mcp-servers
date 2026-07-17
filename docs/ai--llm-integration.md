@@ -2,6 +2,7 @@
 
 Servers integrating with other AI models, AI platforms, RAG tools, prompt management, or agent frameworks.
 
+- [GetABrain](https://github.com/Guitarmaniac24/getabrain-mcp-server): Lets AI agents get real human answers to structured queries (yes/no, ratings, A/B, ranking, sentiment, image comparison, free text, voice/video/photo capture) when a task needs human judgment instead of a model guess. Free test mode; pay-per-response from $0.05+15% fee. Install: `npx @getabrain/mcp-server`. Docs: https://www.getabrain.ai/mcp. MIT.
 - [GoldBean](https://github.com/wuzenghai616-lang/goldbean): MCP gateway exposing 51 tools across 67 Baidu AI routes for OCR, translation, speech, ERNIE LLM, vision, NLP, protein structure, and video generation. Install: `npx goldbean-mcp`; remote SSE at `https://goldbean-api.xyz/sse`. No API key for the free tier; paid calls use x402 USDC, PayPal, or Alipay. MIT.
 - [Which-Model/whichmodel-mcp](https://github.com/Which-Model/whichmodel-mcp): Model routing advisor for autonomous agents with 4 tools for model recommendations, pricing lookup, comparisons, and model listing across 100+ LLMs. Remote endpoint: https://whichmodel.dev/mcp. No API key required. MIT.
 - [zenlee123/routerbase-mcp](https://github.com/zenlee123/routerbase-mcp): RouterBase model discovery, pricing lookup, and OpenAI-compatible chat completions through [routerbase](https://routerbase.com). Stdio via `npx -y routerbase-mcp`; requires `ROUTERBASE_API_KEY`. MIT.
