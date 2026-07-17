@@ -5,14 +5,10 @@ import fs from "node:fs";
 import { fileURLToPath } from "node:url";
 
 const API_BASE = "https://api.github.com";
-const API_PROFILE_BASE_URL = "https://mcp-index.tensorblock.co/v1/servers";
 const WEB_PROFILE_BASE_URL = "https://tensorblock.co/mcp/servers";
-const DISCORD_URL = "https://discord.com/invite/Ej5NmeHFf2";
 const REPO_URL = "https://github.com/TensorBlock/awesome-mcp-servers";
-const ISSUE_FORM_BASE_URL = "https://github.com/TensorBlock/awesome-mcp-servers/issues/new";
 const COMMENT_MARKER = "<!-- tensorblock-mcp-merge-follow-up:v1 -->";
 const MAX_ENTRIES_IN_COMMENT = 10;
-const CLIENTS = ["claude-desktop", "cursor", "codex", "vscode"];
 
 export function extractAddedCatalogEntries(files) {
   const entriesById = new Map();
@@ -74,46 +70,14 @@ export function buildMergedPrComment({ pullRequest, entries }) {
     COMMENT_MARKER,
     `Thanks for contributing to the TensorBlock MCP Index. PR #${pullRequest.number} has been merged into \`main\`.`,
     "",
-    "After the registry deploy finishes, the new server entry will be searchable through the public MCP Index website and API. Each indexed profile includes normalized metadata, generated install-config previews, and a README badge you can share from your project.",
+    "Once the registry deploy completes, your server profile will be available here:",
     "",
-    ...visibleEntries.flatMap(formatEntryFollowUp),
-    ...(omittedCount > 0 ? [`_Omitted ${omittedCount} additional entries from this comment._`, ""] : []),
-    "Help the MCP community find better servers:",
-    "- TensorBlock contributes free hosting, indexing, install-config generation, and registry API infrastructure for the MCP community.",
-    `- Star this repo if the TensorBlock MCP Index is useful: ${REPO_URL}`,
-    "- Share the indexed profile with users who need install/config metadata.",
-    `- Join the community: ${DISCORD_URL}`,
+    ...visibleEntries.map((entry) => `- [${entry.name}](${webProfileUrl(entry.id)})`),
+    ...(omittedCount > 0 ? [`- _${omittedCount} additional profile${omittedCount === 1 ? "" : "s"} omitted_`, ""] : []),
+    "Each profile includes install configs, a shareable badge, and options to claim or improve metadata.",
+    "",
+    `If the MCP Index is useful, consider starring the repo: ${REPO_URL}`,
   ].join("\n");
-}
-
-function formatEntryFollowUp(entry) {
-  const profileUrl = webProfileUrl(entry.id);
-  const apiProfileUrl = apiProfileUrlFor(entry.id);
-  const badgeMarkdown = badgeMarkdownFor(entry);
-  const installConfigLinks = CLIENTS
-    .map((client) => `[${client}](${apiProfileUrl}/install-config?client=${client})`)
-    .join(" · ");
-
-  return [
-    `### ${entry.name}`,
-    "",
-    "MCP author onboarding:",
-    `- Profile: ${profileUrl}`,
-    `- API profile: ${apiProfileUrl}`,
-    `- Install config previews: ${installConfigLinks}`,
-    `- Share this profile with users: ${profileUrl}`,
-    `- Add the README badge below to your project so users can find the indexed profile.`,
-    `- Claim your profile: ${issueFormUrl("claim-profile.yml", `Claim MCP profile: ${entry.name}`)}`,
-    `- Missing install, transport, auth, docs, license, or tool metadata? ${issueFormUrl("improve-metadata.yml", `Improve metadata: ${entry.name}`)}`,
-    `- Report a duplicate, stale link, wrong category, or safety issue: ${issueFormUrl("report-broken-entry.yml", `Report broken MCP entry: ${entry.name}`)}`,
-    "",
-    "README badge:",
-    "",
-    "```md",
-    badgeMarkdown,
-    "```",
-    "",
-  ];
 }
 
 function parseDescriptionRemainder(raw) {
@@ -170,23 +134,6 @@ function domainSlug(hostname, pathname) {
 
 function webProfileUrl(serverId) {
   return `${WEB_PROFILE_BASE_URL}/${encodeURIComponent(serverId)}`;
-}
-
-function apiProfileUrlFor(serverId) {
-  return `${API_PROFILE_BASE_URL}/${encodeURIComponent(serverId)}`;
-}
-
-function badgeMarkdownFor(entry) {
-  return `[![Indexed on TensorBlock MCP Index](${apiProfileUrlFor(entry.id)}/badge.svg)](${webProfileUrl(entry.id)})`;
-}
-
-function issueFormUrl(template, title) {
-  const params = new URLSearchParams({
-    template,
-    title,
-  });
-
-  return `${ISSUE_FORM_BASE_URL}?${params.toString()}`;
 }
 
 async function main() {
