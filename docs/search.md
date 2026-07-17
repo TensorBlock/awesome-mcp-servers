@@ -2,6 +2,7 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [Newscatcher/catchall-mcp](https://github.com/Newscatcher/catchall-mcp): Recall-first web search API for comprehensive real-world event retrieval — finds every relevant event across the open web (not just top results), returned as structured, deduplicated data. Hosted MCP at https://catchall-mcp.newscatcherapi.com/mcp (auth via x-api-key header; key from platform.newscatcherapi.com).
 - [AKzar1el/mcp-gsc](https://github.com/AKzar1el/mcp-gsc): Self-hostable Google Search Console MCP for Search Console analytics, URL inspection, sitemap management, indexing requests, and SEO diagnostics. Runs on Cloudflare Workers with Google OAuth; see [SETUP.md](https://github.com/AKzar1el/mcp-gsc/blob/main/SETUP.md) for deployment.
 
 - [conformi](https://conformi.eu): EU legal research with verifiable CELEX citations from the EUR-Lex corpus (German, English, French — native-language indexes, not translations). Semantic search across EU secondary law and treaties (GDPR, AI Act, NIS2, DORA, DSA). Remote streamable-HTTP MCP server at `https://conformi.eu/api/mcp`. Three tools: `get_knowledge_article` and `get_legal_timeline` are free (no key); `search_eu_law` is metered. Source: github.com/conformi-eu/conformi-search-mcp. Research tool with primary-source citations — not legal advice.
