@@ -38,7 +38,6 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [elhadjaoui/pr_reviewer](https://github.com/elhadjaoui/pr_reviewer): An MCP server that integrates with Claude Desktop to analyze GitHub Pull Requests and automatically saves reviews to Google Drive.
 - [skeet-build/skeet-local](https://github.com/skeet-build/skeet-local): Facilitates seamless integration and configuration of Skeet MCP tools for database and search operations.
 - [Demontie/mcp-google-sheets](https://github.com/Demontie/mcp-google-sheets): Facilitates seamless data interaction with Google Sheets through a Model Context Protocol server.
-- [alvinveroy/aider-mcp-client](https://github.com/alvinveroy/aider-mcp-client): A Python tool that integrates MCP with Aider to fetch library documentation and enhance AI-assisted coding workflows.
 - [slavahatnuke/octolis-tech-support](https://github.com/slavahatnuke/octolis-tech-support): Facilitates technical support operations through MCP server configurations.
 - [Hizuki1030/visa-mcp](https://github.com/Hizuki1030/visa-mcp): Facilitates the control of oscilloscopes using the VISA architecture through an MCP server, enabling seamless integration and automation of various measurement tasks.
 - [charlesmuchene/pref-editor-mcp-server](https://github.com/charlesmuchene/pref-editor-mcp-server): Facilitates editing Android preferences through a dedicated MCP server, leveraging the Android Preference Editor tool.
@@ -49,10 +48,8 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [ZebraRoy/review-toolkit-mcp](https://github.com/ZebraRoy/review-toolkit-mcp): Facilitates AI-driven code review sessions with features for session management, file tracking, and report generation.
 - [Aryan1718/mcp-sever-google-sheets](https://github.com/Aryan1718/mcp-sever-google-sheets): Facilitates seamless interaction with Google Sheets for data manipulation through an MCP server.
 - [Xutaotaotao/mcp-get-installed-apps](https://github.com/Xutaotaotao/mcp-get-installed-apps): Enables AI assistants to discover installed applications on MacOS and Windows through the Model Context Protocol.
-- [ai-wes/version_checker_mcp](https://github.com/ai-wes/version_checker_mcp): A specialized MCP server that aids developers in managing React Native and Expo projects by analyzing dependencies, checking compatibility, and reviewing changelogs.
 - [yo-ban/poly-mcp-client](https://github.com/yo-ban/poly-mcp-client): A Python client library for managing connections to MCP servers, adapting tool definitions for Anthropic, OpenAI, and Gemini.
 - [furey/lifx-api-mcp-server](https://github.com/furey/lifx-api-mcp-server): Facilitates natural language control of LIFX smart lighting devices via the LIFX HTTP API, enabling actions like light management and effect activation through LLMs.
-- [aezizhu/simple-mcp-fileserver](https://github.com/aezizhu/simple-mcp-fileserver): Facilitates AI agents' interaction with local file systems via JSON-RPC for autonomous coding and code repair.
 - [yasu89/switch-bot-mcp-server](https://github.com/yasu89/switch-bot-mcp-server): Facilitates interactive control of SwitchBot devices using the Model Context Protocol.
 - [iamkaia/mcp-server-implement](https://github.com/iamkaia/mcp-server-implement): A collection of five MCP servers for integration with Claude Desktop, offering functionalities like email management, web page fetching, document manipulation, and filesystem operations.
 - [jsnanigans/mcpm](https://github.com/jsnanigans/mcpm): A command-line tool for managing and proxying MCP servers, facilitating JSON-RPC communication and server configuration.
@@ -74,7 +71,6 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [dx-zero/mcp-starter](https://github.com/dx-zero/mcp-starter): A foundational kit for creating custom MCP servers with AI assistant integration, featuring extensible tooling and minimal setup.
 - [savhascelik/meta-api-mcp-server](https://github.com/savhascelik/meta-api-mcp-server): A meta API Gateway server enabling seamless integration of multiple APIs with LLMs through MCP, facilitating direct interaction with real-world data sources.
 - [japan4415/MCPallete](https://github.com/japan4415/MCPallete): MCPallete is a Rust TUI tool for interactively managing multiple MCP server configurations and presets with live-coded precision.
-- [cer12u/mcp-test](https://github.com/cer12u/mcp-test): A server for generating random values with configurable limits, designed for Claude Desktop.
 - [netanelgilad/remote-mcp-server](https://github.com/netanelgilad/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [deepmihir/MCP-Server-Tutorial](https://github.com/deepmihir/MCP-Server-Tutorial): Facilitates documentation search for Python libraries using Claude and integrates with Google Search API for enhanced web scraping capabilities.
 - [mixcoffee88/aa-mcp-test](https://github.com/mixcoffee88/aa-mcp-test): Enables access to Adobe Analytics API through MCP, offering comprehensive report and component retrieval capabilities.
