@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aislon-uizze-mcp-30a796c9",
+  "source": {
+    "issue": 1161,
+    "projectUrl": "https://github.com/aislon/uizze-mcp"
+  },
+  "links": {
+    "endpoint": "https://uizze.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "UIZZE_AGENT_TOKEN"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "and other MCP clients"
+  ]
+}

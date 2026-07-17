@@ -14,7 +14,7 @@ const COMMENT_MARKER = "<!-- tensorblock-mcp-add-server-pr:v1 -->";
 const SERVER_SUBMISSION_LABEL = "server-submission";
 
 export function classifyAddServerIssue({ issue, docsDir = "docs", comments = [], pullRequests = [] }) {
-  const submission = parseAddServerIssue(issue.body ?? "");
+  const submission = parseAddServerIssue(issue.body ?? "", issue);
   const errors = validateSubmission(submission);
   const duplicate = errors.length > 0 ? null : findDuplicateByUrl(submission.projectUrl, docsDir);
   const pullRequest = errors.length > 0 || duplicate ? null : findGeneratedPullRequest(issue.number, comments, pullRequests);

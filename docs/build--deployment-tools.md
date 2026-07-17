@@ -2,6 +2,7 @@
 
 Servers interacting with build systems, containerization, CI/CD, or deployment platforms.
 
+- [friendlygeorge/docker-mcp-server](https://github.com/friendlygeorge/docker-mcp-server): Docker MCP server for container management, health checks, auto-restart, Compose lifecycle, log streaming, image, volume, network, and system diagnostics workflows. Install: `npx @supernova123/docker-mcp-server`. Stdio transport; no auth beyond local Docker socket access. MIT.
 - [zenoengine/msbuild-mcp-server](https://github.com/zenoengine/msbuild-mcp-server): Automates MSBuild project builds with dynamic discovery and customizable configurations, integrating seamlessly with various MCP clients.
 - [radostkali/gitlab-mcp-server](https://github.com/radostkali/gitlab-mcp-server): Facilitates GitLab integration using FastMCP for streamlined code review and repository management.
 - [rianvdm/remote-mcp-server](https://github.com/rianvdm/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
@@ -21,7 +22,6 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [base/base-builder-mcp](https://github.com/base/base-builder-mcp): Facilitates integration with Base Docs for Model Context Protocol, enabling seamless interaction with Base Builders.
 - [snowsky/mcp-helmfile](https://github.com/snowsky/mcp-helmfile): Facilitates Helmfile command execution and management through a standardized MCP interface, enhancing AI-assisted deployments and configurations.
 - [buildkite/buildkite-mcp-server](https://github.com/buildkite/buildkite-mcp-server): Facilitates access to Buildkite pipeline, build, and job data for integration with tools like Claude Desktop and GitHub Copilot.
-- [bsmith925/mcp-examples](https://github.com/bsmith925/mcp-examples): Explore deployment configurations and custom implementations for team-wide MCP servers, focusing on Git repository management and Kubernetes deployment.
 - [misanthropic-ai/lean-docker-mcp](https://github.com/misanthropic-ai/lean-docker-mcp): Facilitates the execution of Lean4 code in isolated Docker containers for LLM-powered agents, offering both transient and persistent environments.
 - [kappaexpress/docker-mcp](https://github.com/kappaexpress/docker-mcp): Facilitates MCP server integration with Claude Desktop using a Docker image built with Playwright.
 - [aaomidi/mcp-bazel](https://github.com/aaomidi/mcp-bazel): Facilitates Bazel project interactions by providing build, test, and dependency analysis tools.
@@ -90,4 +90,4 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide](https://github.com/trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide): A detailed guide for verifying and troubleshooting MCP server installations on Windows, highlighting key differences from MacOS setups.
 - [Bigsy/maven-mcp-server](https://github.com/Bigsy/maven-mcp-server): Facilitates LLMs in verifying and retrieving Maven dependency versions from the Maven Central Repository.
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp): Facilitates Docker container and stack management through Claude AI with a Model Context Protocol server.
-
+- [solomon2773/nora](https://github.com/solomon2773/nora): Deploy, inspect, start, stop, restart, redeploy, and monitor self-hosted OpenClaw and Hermes agent fleets through a Nora control plane, including fleet health, metrics, events, versions, and per-agent cost.

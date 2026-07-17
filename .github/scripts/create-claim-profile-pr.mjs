@@ -45,10 +45,6 @@ export function validateClaimSubmission(submission, entry, existingMetadata) {
     errors.push("Maintainer handle is required.");
   }
 
-  if (!submission.proof) {
-    errors.push("Maintainer proof is required.");
-  }
-
   if (entry && submission.projectUrl && !projectUrlMatchesEntry(submission.projectUrl, entry, existingMetadata)) {
     errors.push("Project URL must match the indexed profile source URL, repository, homepage, docs URL, or existing sidecar project URL.");
   }
@@ -57,7 +53,10 @@ export function validateClaimSubmission(submission, entry, existingMetadata) {
 }
 
 export function buildClaimMetadataSidecar({ issue, submission, entry, existingMetadata = {} }) {
-  const proofNote = `Claimed by ${submission.maintainer} in #${issue.number}. Proof: ${compactText(submission.proof, 220)}`;
+  const claimNote = `Profile claimed by ${submission.maintainer} in #${issue.number} under the community profile-claim process.`;
+  const proofNote = submission.proof
+    ? `Optional maintainer proof submitted in #${issue.number}: ${compactText(submission.proof, 220)}`
+    : "";
   const requestedMetadataNote = submission.requestedMetadata
     ? `Requested profile metadata in #${issue.number}: ${compactText(submission.requestedMetadata, 220)}`
     : "";
@@ -75,9 +74,10 @@ export function buildClaimMetadataSidecar({ issue, submission, entry, existingMe
     source,
     verification: {
       ...(existingMetadata.verification ?? {}),
-      status: "verified",
+      status: claimVerificationStatus(existingMetadata.verification?.status),
       notes: unique([
         ...(existingMetadata.verification?.notes ?? []),
+        claimNote,
         proofNote,
         requestedMetadataNote,
       ].filter(Boolean)),
@@ -90,7 +90,6 @@ export function buildClaimMetadataSidecar({ issue, submission, entry, existingMe
       ]),
       verifiedBy: unique([
         ...(existingMetadata.community?.verifiedBy ?? []),
-        "TensorBlock",
       ]),
       claimed: true,
     },
@@ -115,7 +114,7 @@ export function buildIssueComment({ issue, submission, pullRequest, errors }) {
       "What needs attention:",
       ...errors.map((error) => `- ${error}`),
       "",
-      "Update this issue with the corrected profile id, matching project URL, maintainer handle, and proof link. The automation will try again when the issue is edited.",
+      "Update this issue with the corrected profile id, matching project URL, and maintainer handle. Optional proof links can still be added as supporting context. The automation will try again when the issue is edited.",
     ].join("\n");
   }
 
@@ -132,7 +131,7 @@ export function buildIssueComment({ issue, submission, pullRequest, errors }) {
     COMMENT_MARKER,
     `Created a draft metadata PR for this profile claim: ${pullRequest.html_url}`,
     "",
-    "A maintainer should verify the proof before merging. Once merged and deployed, the profile will show the claimed maintainer and verification metadata.",
+    "This claim PR records the maintainer handle and marks the profile as claimed. Claiming is separate from TensorBlock verification; stronger verification signals can be added later through a metadata update.",
     "",
     `Claimed profile id: \`${submission.serverId}\``,
   ].join("\n");
@@ -142,19 +141,26 @@ export function buildPrBody({ issue, submission, entry, sidecar }) {
   return [
     "## Summary",
     `- claim TensorBlock MCP profile \`${entry.id}\` for \`${entry.name}\``,
-    `- add maintainer and verification metadata to \`${sidecar.path}\``,
+    `- add maintainer claim metadata to \`${sidecar.path}\``,
     "- mark the profile as claimed once this PR is reviewed and merged",
     "",
-    "## Maintainer verification",
+    "## Profile claim",
     `- Maintainer: ${submission.maintainer}`,
     `- Project URL: ${submission.projectUrl}`,
     `- Indexed primary link: ${entry.links.primary}`,
+    "- Claim status is tracked separately from TensorBlock verification.",
     "",
-    "Proof submitted in the issue:",
-    "",
-    "```text",
-    submission.proof,
-    "```",
+    ...(submission.proof
+      ? [
+          "Optional proof submitted in the issue:",
+          "",
+          "```text",
+          submission.proof,
+          "```",
+        ]
+      : [
+          "No maintainer proof was required for this community profile claim.",
+        ]),
     ...(submission.requestedMetadata
       ? [
           "",
@@ -263,6 +269,14 @@ function compactText(value, maxLength) {
   const lastSpace = slice.lastIndexOf(" ");
   const wordBoundary = lastSpace > maxLength * 0.6 ? slice.slice(0, lastSpace) : slice;
   return `${wordBoundary.trimEnd()}...`;
+}
+
+function claimVerificationStatus(existingStatus) {
+  if (existingStatus && existingStatus !== "unknown") {
+    return existingStatus;
+  }
+
+  return "self_reported";
 }
 
 function unique(values) {

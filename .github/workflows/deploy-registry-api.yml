@@ -1,0 +1,138 @@
+name: Deploy Registry API
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/deploy-registry-api.yml"
+      - "README.md"
+      - "data/**"
+      - "docs/**"
+      - "package-lock.json"
+      - "package.json"
+      - "packages/**"
+      - "railway.json"
+      - "schemas/**"
+      - "tsconfig.base.json"
+      - "vitest.config.ts"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Build and deploy registry API
+    runs-on: ubuntu-latest
+    env:
+      RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+      RAILWAY_PROJECT_ID: d0179e2b-95d8-47cc-be7b-abc178a80948
+      RAILWAY_SERVICE_ID: ca56cfa7-79a4-4fd1-8ef2-6a918cba40bb
+      RAILWAY_ENVIRONMENT: production
+      REGISTRY_API_BASE_URL: https://mcp-index.tensorblock.co
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate catalog
+        run: npm run catalog:build
+
+      - name: Generate profiles
+        run: npm run profiles:build
+
+      - name: Test
+        run: npm test
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Write build metadata
+        run: |
+          node --input-type=module <<'NODE'
+          import { mkdirSync, writeFileSync } from "node:fs";
+
+          const metadata = {
+            commitSha: process.env.GITHUB_SHA ?? null,
+            builtAt: new Date().toISOString(),
+          };
+
+          mkdirSync("data", { recursive: true });
+          writeFileSync("data/build-info.json", `${JSON.stringify(metadata, null, 2)}\n`, "utf8");
+          console.log(JSON.stringify(metadata));
+          NODE
+
+      - name: Build
+        run: npm run build
+
+      - name: Install Railway CLI
+        run: npm install -g @railway/cli
+
+      - name: Deploy to Railway
+        if: env.RAILWAY_TOKEN != ''
+        run: >
+          railway up
+          --project "$RAILWAY_PROJECT_ID"
+          --service "$RAILWAY_SERVICE_ID"
+          --environment "$RAILWAY_ENVIRONMENT"
+          --detach
+          --message "Deploy registry API from ${GITHUB_SHA}"
+
+      - name: Smoke test deployed registry API
+        if: env.RAILWAY_TOKEN != ''
+        timeout-minutes: 8
+        run: |
+          set -euo pipefail
+
+          base_url="${REGISTRY_API_BASE_URL%/}"
+          health_url="$base_url/health"
+          badge_url="$base_url/v1/servers/postgres-mcp/badge.svg"
+          expected_commit_sha="$GITHUB_SHA"
+          delay_seconds=10
+          max_attempts=36
+
+          for attempt in $(seq 1 "$max_attempts"); do
+            health_status="$(curl -sS -o /tmp/registry-health.json -w "%{http_code}" "$health_url" || true)"
+            badge_status="$(curl -sS -D /tmp/registry-badge.headers -o /tmp/registry-badge.svg -w "%{http_code}" "$badge_url" || true)"
+            health_commit_sha="$(node -e 'const fs = require("node:fs"); const health = JSON.parse(fs.readFileSync("/tmp/registry-health.json", "utf8")); process.stdout.write(health.build?.commitSha ?? "");' 2>/tmp/registry-health-parse.err || true)"
+
+            if [ "$health_status" = "200" ] \
+              && [ "$badge_status" = "200" ] \
+              && [ "$health_commit_sha" = "$expected_commit_sha" ] \
+              && grep -qi '^content-type: image/svg+xml' /tmp/registry-badge.headers \
+              && grep -q '<svg' /tmp/registry-badge.svg; then
+              echo "Registry API smoke test passed on attempt $attempt."
+              exit 0
+            fi
+
+            echo "Attempt $attempt/$max_attempts failed: health=$health_status badge=$badge_status commit=$health_commit_sha expected=$expected_commit_sha"
+            if [ "$attempt" -lt "$max_attempts" ]; then
+              sleep "$delay_seconds"
+            fi
+          done
+
+          echo "Registry API smoke test failed after $max_attempts attempts."
+          echo "Health response:"
+          cat /tmp/registry-health.json 2>/dev/null || true
+          echo "Health parse error:"
+          cat /tmp/registry-health-parse.err 2>/dev/null || true
+          echo "Badge response headers:"
+          cat /tmp/registry-badge.headers 2>/dev/null || true
+          echo "Badge response body:"
+          head -n 20 /tmp/registry-badge.svg 2>/dev/null || true
+          exit 1
+
+      - name: Missing Railway token
+        if: env.RAILWAY_TOKEN == ''
+        run: |
+          echo "RAILWAY_TOKEN secret is required to deploy the registry API."
+          exit 1

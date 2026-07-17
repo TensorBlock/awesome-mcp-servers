@@ -148,7 +148,6 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [AgentWong/optimized-memory-mcp-server](https://github.com/AgentWong/optimized-memory-mcp-server): A Python-based MCP server utilizing a local knowledge graph for persistent memory, enabling Claude AI to remember user information across interactions.
 - [zentu-co/mcp-servers](https://github.com/zentu-co/mcp-servers): A monorepo of MCP server implementations, including a server for accessing Svelte 5 documentation, managed with pnpm workspaces.
 - [folderr-tech/folderr-mcp-server](https://github.com/folderr-tech/folderr-mcp-server): Facilitates interaction with Folderr's API for managing and communicating with Folderr Assistants.
-- [aindreyway/mcp-neurolora](https://github.com/aindreyway/mcp-neurolora): An intelligent server offering tools for code analysis, collection, and documentation generation using OpenAI API.
 - [TaichiHo/k8s-interactive-mcp](https://github.com/TaichiHo/k8s-interactive-mcp): Facilitates Kubernetes command execution and interpretation via MCP tools, enhancing command line flexibility and error handling.
 - [gxjansen/MCP](https://github.com/gxjansen/MCP): Enhance Cline's functionality with specialized MCP servers for Astro documentation access and file comparison.
 - [Bina-man/modelcontextprotocol](https://github.com/Bina-man/modelcontextprotocol): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for LLMs.
@@ -158,7 +157,6 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [netcaster1/e2b-mcp](https://github.com/netcaster1/e2b-mcp): A secure sandbox environment for executing code using the Model Context Protocol, tailored for integration with Claude Desktop.
 - [kswap/consul-mcp](https://github.com/kswap/consul-mcp): Facilitates Consul service discovery and mesh integration through an MCP server interface.
 - [daedalus/mcp-mdns](https://github.com/daedalus/mcp-mdns) - MCP server for mDNS (Multicast DNS) service discovery.
-- [daedalus/mcp-ntp-server](https://github.com/daedalus/mcp-ntp-server) - MCP server providing NTP time synchronization tools for AI agents.
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go): Local-first MCP proxy/gateway with BM25 tool discovery (~99% token savings), security quarantine (tool-poisoning protection), sensitive-data scanning, Docker isolation, OAuth 2.1, and a web UI.
 
 

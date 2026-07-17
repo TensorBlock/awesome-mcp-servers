@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-octotrip-rental-cars-79f20a09",
+  "source": {
+    "issue": 885,
+    "projectUrl": "https://github.com/OctoTrip/rental-cars"
+  },
+  "links": {
+    "endpoint": "https://mcp.octotrip.app/rental-cars/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "Cline",
+    "LobeHub",
+    "Smithery"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @xltnapps in #1075 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@xltnapps"
+    ],
+    "claimed": true
+  }
+}

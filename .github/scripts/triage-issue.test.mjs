@@ -91,6 +91,35 @@ test("routes issues by title prefix when labels are missing", () => {
   assert.equal(routeIssue(issue)?.id, "claim-profile");
 });
 
+test("routes free-form add-server issue titles", () => {
+  assert.equal(
+    routeIssue({
+      title: "Add server: ENTIA",
+      labels: [],
+      body: "**Repository:** https://github.com/ENTIA-IA/entia-mcp-server",
+    })?.id,
+    "server-submission",
+  );
+
+  assert.equal(
+    routeIssue({
+      title: "Add 400860 Radar to Finance & DeFi",
+      labels: [],
+      body: "Server URL: https://github.com/wangletiand/400860-radar",
+    })?.id,
+    "server-submission",
+  );
+
+  assert.equal(
+    routeIssue({
+      title: "Add VeraData LATAM Compliance MCP Server",
+      labels: [],
+      body: "- [VeraData](https://api.veradata.dev): LATAM compliance MCP server.",
+    })?.id,
+    "server-submission",
+  );
+});
+
 test("adds triage and metadata labels on opened issues", () => {
   assert.deepEqual(labelsForIssue(metadataIssue, "opened"), [
     "community-intake",
@@ -154,15 +183,15 @@ test("builds a deduplicated route-specific comment", () => {
   assert.match(comment, /https:\/\/github.com\/owner\/example/);
 });
 
-test("builds claim profile comments with normalized profile links and verification steps", () => {
+test("builds claim profile comments with normalized profile links and claim steps", () => {
   const comment = buildTriageComment(claimProfileIssue);
 
   assert.match(comment, /tensorblock-mcp-issue-triage:v1:claim-profile/);
   assert.match(comment, /https:\/\/tensorblock\.co\/mcp\/servers\/github-owner-demo-12345678/);
   assert.match(comment, /https:\/\/mcp-index\.tensorblock\.co\/v1\/servers\/github-owner-demo-12345678/);
   assert.match(comment, /badge\.svg/);
-  assert.match(comment, /Maintainer verification checklist:/);
-  assert.match(comment, /official project source/);
+  assert.match(comment, /Profile claim checklist:/);
+  assert.match(comment, /Claiming is separate from TensorBlock verification/);
 });
 
 test("builds client config comments that mention the generated request spec", () => {
@@ -177,7 +206,8 @@ test("builds broken-entry comments that mention the generated report spec", () =
   const comment = buildTriageComment(brokenEntryIssue);
 
   assert.match(comment, /tensorblock-mcp-issue-triage:v1:broken-entry/);
-  assert.match(comment, /automation will draft a broken-entry report spec PR/);
+  assert.match(comment, /automation can draft a cleanup PR/);
+  assert.match(comment, /investigation spec PR/);
   assert.match(comment, /github-owner-demo-mcp-12345678/);
 });
 

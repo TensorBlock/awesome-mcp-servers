@@ -1,8 +1,11 @@
 import { once } from "node:events";
+import { mkdtempSync, rmSync, writeFileSync } from "node:fs";
 import type { AddressInfo } from "node:net";
+import { tmpdir } from "node:os";
+import { join } from "node:path";
 import { afterEach, describe, expect, it } from "vitest";
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
-import { createRegistryApiServer } from "../src/server.js";
+import { createRegistryApiServer, loadBuildInfo, type BuildInfo } from "../src/server.js";
 
 const catalog: CatalogEntry[] = [
   {
@@ -121,6 +124,53 @@ describe("registry API server", () => {
     expect(body.version).toBe("v1");
   });
 
+  it("returns build fingerprint metadata from the health endpoint", async () => {
+    const build = {
+      commitSha: "abc123def456",
+      builtAt: "2026-07-08T00:00:00.000Z",
+    };
+    const baseUrl = await startServer(catalog, build);
+    const response = await fetch(`${baseUrl}/health`);
+    const body = await response.json() as {
+      status: string;
+      catalogEntries: number;
+      loadedAt: string;
+      build: BuildInfo;
+    };
+
+    expect(response.status).toBe(200);
+    expect(body.status).toBe("ok");
+    expect(body.catalogEntries).toBe(1);
+    expect(body.loadedAt).toBe("2026-06-06T00:00:00.000Z");
+    expect(body.build).toEqual(build);
+  });
+
+  it("loads build fingerprint metadata from JSON", () => {
+    const directory = mkdtempSync(join(tmpdir(), "registry-api-build-"));
+    const buildInfoPath = join(directory, "build-info.json");
+    const build = {
+      commitSha: "abc123def456",
+      builtAt: "2026-07-08T00:00:00.000Z",
+    };
+
+    try {
+      writeFileSync(buildInfoPath, `${JSON.stringify(build)}\n`, "utf8");
+
+      expect(loadBuildInfo(buildInfoPath)).toEqual(build);
+    } finally {
+      rmSync(directory, { recursive: true, force: true });
+    }
+  });
+
+  it("uses null build fingerprint metadata when the JSON file is missing", () => {
+    const missingPath = join(tmpdir(), "missing-registry-api-build-info.json");
+
+    expect(loadBuildInfo(missingPath)).toEqual({
+      commitSha: null,
+      builtAt: null,
+    });
+  });
+
   it("serves a shareable HTML profile page for a server", async () => {
     const baseUrl = await startServer();
     const response = await fetch(`${baseUrl}/servers/postgres-mcp`);
@@ -147,6 +197,51 @@ describe("registry API server", () => {
     expect(body).toContain("TensorBlock");
     expect(body).toContain("MCP Indexed");
     expect(body).toContain("Postgres MCP is indexed on TensorBlock MCP Index");
+  });
+
+  it("serves a branded SVG badge through a unique repo slug alias", async () => {
+    const baseUrl = await startServer([
+      catalogEntry({
+        id: "github-crystaldba-postgres-mcp-22e80ea8",
+        name: "crystaldba/postgres-mcp",
+        links: {
+          primary: "https://github.com/crystaldba/postgres-mcp",
+          repo: "https://github.com/crystaldba/postgres-mcp",
+        },
+      }),
+    ]);
+    const response = await fetch(`${baseUrl}/v1/servers/postgres-mcp/badge.svg`);
+    const body = await response.text();
+
+    expect(response.status).toBe(200);
+    expect(response.headers.get("content-type")).toContain("image/svg+xml");
+    expect(body).toContain("crystaldba/postgres-mcp is indexed on TensorBlock MCP Index");
+  });
+
+  it("serves a fallback SVG badge for an unresolved server id", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/servers/missing-server/badge.svg`);
+    const body = await response.text();
+
+    expect(response.status).toBe(200);
+    expect(response.headers.get("content-type")).toContain("image/svg+xml");
+    expect(body).toContain("<svg");
+    expect(body).toContain("TensorBlock");
+    expect(body).toContain("MCP Profile");
+    expect(body).toContain("missing-server was not resolved in TensorBlock MCP Index");
+  });
+
+  it("keeps unresolved install config requests as JSON 404 errors", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/servers/missing-server/install-config`);
+    const body = await response.json() as { error: { message: string; statusCode: number } };
+
+    expect(response.status).toBe(404);
+    expect(response.headers.get("content-type")).toContain("application/json");
+    expect(body.error).toEqual({
+      message: "Server not found: missing-server",
+      statusCode: 404,
+    });
   });
 
   it("returns recently added server summaries", async () => {
@@ -238,10 +333,17 @@ describe("registry API server", () => {
   });
 });
 
-const startServer = async (entries = catalog): Promise<string> => {
+const startServer = async (
+  entries = catalog,
+  build: BuildInfo = {
+    commitSha: null,
+    builtAt: null,
+  }
+): Promise<string> => {
   const server = createRegistryApiServer({
     catalog: entries,
     loadedAt: "2026-06-06T00:00:00.000Z",
+    build,
   });
   servers.push(server);
   server.listen(0, "127.0.0.1");

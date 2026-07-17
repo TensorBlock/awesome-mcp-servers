@@ -3,6 +3,7 @@
 Servers interacting with game engines, game platforms/APIs, or providing game-related tools.
 
 - [BASIC-BIT/vrchat-mcp](https://github.com/BASIC-BIT/vrchat-mcp): Access VRChat friends, worlds, groups, events, notifications, status, avatars, and VRCX history from MCP clients.
+- [integrate-your-mind/grokhack](https://github.com/integrate-your-mind/grokhack): Live multiplayer NetHack-class roguelike MMO. Agents join via stdio MCP (join/act/look/chat/social/leaderboard); humans play in-browser under the same rules. Zero auth. Docs: https://grokhack.mondello.dev/mcp.html · llms.txt: https://grokhack.mondello.dev/llms.txt · Contests: https://grokhack.mondello.dev/contests.html. Install: clone repo, `npm install && npm run mcp:build`, point host at `mcp/dist/index.js`.
 - [Signal-Loop/UnityCodeMCPServer](https://github.com/Signal-Loop/UnityCodeMCPServer): Performs any task in Unity Editor by executing C# scripts. Full access to UnityEngine, UnityEditor APIs, and reflection. Use for manipulating GameObjects, scenes, components, or automating Unity Editor tasks.
 - [sedyh/ebitengine-mcp](https://github.com/sedyh/ebitengine-mcp): Facilitates the integration of Ebitengine games with MCP servers for enhanced game control and management.
 - [ecovacs-ai/ecovacs-mcp](https://github.com/ecovacs-ai/ecovacs-mcp): Ecovacs MCP Server enables seamless integration of cleaning robot services into large models, facilitating device management and control operations like cleaning and recharging.
@@ -29,7 +30,6 @@ $UNIFIED
 - [kyopark2014/mcp-bedrock-agent](https://github.com/kyopark2014/mcp-bedrock-agent): Facilitates the use of Amazon's Bedrock agent with MCP for seamless access to tools and resources in generative AI applications.
 - [Panth1823/formula1-mcp](https://github.com/Panth1823/formula1-mcp): Experience the excitement of Formula 1 with real-time and historical racing data through a TypeScript-based MCP server.
 - [hahanikan/pocket-cavalry](https://github.com/hahanikan/pocket-cavalry): Facilitates AI-driven management of Gitee repositories, issues, and pull requests through a Model Context Protocol server.
-- [attilad/bgg-mcp-server](https://github.com/attilad/bgg-mcp-server): Facilitates seamless integration with the BoardGameGeek API, enabling efficient retrieval and synchronization of board game data and user collections.
 - [jlgrimes/ptcg-mcp](https://github.com/jlgrimes/ptcg-mcp): Enables Claude to search and display Pokemon Trading Card Game cards with detailed filtering options.
 - [xhulz/mcp-game-helper](https://github.com/xhulz/mcp-game-helper): AI-powered tools for game developers to optimize combat balancing, skill analysis, and level pacing.
 - [appleweed/UnrealMCPBridge](https://github.com/appleweed/UnrealMCPBridge): Facilitates access to the Unreal Engine Python API for MCP clients, enabling dynamic tool development and automation within the UE environment.
@@ -71,6 +71,7 @@ $UNIFIED
 - [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server): A Minecraft bot leveraging the Mineflayer API and MCP to enable AI-driven real-time control of a Minecraft character for building, exploring, and interacting with the game environment.
 - [tonypan2/minesweeper-mcp-server](https://github.com/tonypan2/minesweeper-mcp-server): Facilitates MCP client agents to engage in a game of Minesweeper, integrating with a dedicated game server.
 - [fenxer/steam-review-mcp](https://github.com/fenxer/steam-review-mcp): Facilitates LLMs in accessing and analyzing Steam game reviews and information via MCP.
+- [Grinv/steam-games-mcp](https://github.com/Grinv/steam-games-mcp): MCP server for Steam — store search, prices, discounts, reviews, review trends, news, and Steam Deck/SteamOS/Machine/Frame compatibility, all keyless; plus player profiles, libraries, achievements, and friends via the official Steam Web API (free key).
 - [Purisky/MCP4Unity](https://github.com/Purisky/MCP4Unity): MCP4Unity is a Unity editor extension enabling remote invocation of Unity methods via HTTP requests, facilitating dynamic tool management and execution.
 - [baryhuang/mcp-threejs](https://github.com/baryhuang/mcp-threejs): Facilitates AI-driven searches for downloadable 3D models compatible with Three.js, streamlining the development of 3D web applications.
 - [tahooki/unreal-blender-mcp](https://github.com/tahooki/unreal-blender-mcp): Facilitates AI-driven control of Blender and Unreal Engine through a unified MCP server, enabling seamless integration and interaction with AI agents like Claude and ChatGPT.
@@ -87,7 +88,6 @@ $UNIFIED
 - [kvick-games/UnrealMCP](https://github.com/kvick-games/UnrealMCP): UnrealMCP enables AI agents to programmatically control and manipulate Unreal Engine environments using a TCP server and JSON-based command protocol.
 - [dested/factorio-mcp-server](https://github.com/dested/factorio-mcp-server): A minimal MCP server template for building AI assistant tools with TypeScript and esbuild, featuring a simple 'hello world' tool example.
 - [djcopley/artifacts-mmo-mcp](https://github.com/djcopley/artifacts-mmo-mcp): Facilitates the management and execution of Artifacts MMO through a dedicated MCP server.
-- [8bitsats/Wonderland-Agentic-MCP](https://github.com/8bitsats/Wonderland-Agentic-MCP): Leverage Anthropic's MCP to build an AI agent for trading tokens on the Solana blockchain, integrating real-time market data and risk assessments.
 - [Pratik-Kumar-Cse/avatar-clone-mcp](https://github.com/Pratik-Kumar-Cse/avatar-clone-mcp): Facilitates avatar cloning on various platforms with note storage and summarization capabilities.
 - [castielLi/gamingTest](https://github.com/castielLi/gamingTest): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
 - [Props-Labs/fireflies-mcp](https://github.com/Props-Labs/fireflies-mcp): Facilitates transcript retrieval, search, and summary generation via the Fireflies.ai API.
@@ -112,3 +112,8 @@ $UNIFIED
 - [maxsloef/loom-mcp](https://github.com/maxsloef/loom-mcp): A TypeScript-based MCP server that implements a simple loom interface for Claude, enabling parallel generation and selection of model completions.
 
 - [loomle/loomle](https://github.com/loomle/loomle): Unreal Engine MCP server for Claude Code, Codex, and AI agents to inspect and edit live UE projects through Blueprint, Material, PCG, UMG, asset, context, and diagnostics tools.
+- [TakayukiKomada/gamefork-mcp](https://github.com/TakayukiKomada/gamefork-mcp): Publish, fork, and revive runnable browser games via a hosted MCP server — AI agents post games, fork existing ones with fork lineage preserved, submit and merge contributions, and coordinate agent-to-agent handoffs. Registry: io.gamefork/mcp.
+- [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP): Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools.
+- [Patina Unity MCP](https://github.com/taygunsavas/patina-unity-mcp): Local Rust/C# MCP bridge for controlling the Unity Editor from AI coding tools, with one-click host setup and commands for scenes, GameObjects, prefabs, assets, scripts, console, tests, and build settings.
+- [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP): Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
+- [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP): Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).

@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ophis-fi-ophis-fdeea275",
+  "source": {
+    "issue": 972,
+    "projectUrl": "https://github.com/ophis-fi/ophis"
+  },
+  "links": {
+    "endpoint": "https://mcp.ophis.fi/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "GPL-3.0"
+}
