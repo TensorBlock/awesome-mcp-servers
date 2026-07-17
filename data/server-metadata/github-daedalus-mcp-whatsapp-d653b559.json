@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-daedalus-mcp-whatsapp-d653b559",
+  "source": {
+    "issue": 1248,
+    "projectUrl": "https://github.com/daedalus/mcp-whatsapp"
+  },
+  "description": "Local MCP server for sending WhatsApp messages, media, and locations through either WhatsApp Web or the WhatsApp Business API.",
+  "category": "Communication & Messaging",
+  "links": {
+    "docs": "https://github.com/daedalus/mcp-whatsapp"
+  },
+  "install": {
+    "commands": [
+      "pip install \"mcp-whatsapp[pywhatkit] @ git+https://github.com/daedalus/mcp-whatsapp.git\"",
+      "mcp-whatsapp"
+    ],
+    "env": [
+      "WHATSAPP_ADAPTER",
+      "WHATSAPP_PHONE_NUMBER_ID",
+      "WHATSAPP_ACCESS_TOKEN",
+      "WHATSAPP_VERIFY_TOKEN"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The local MCP server has no client authentication. The whatsapp-business adapter requires WhatsApp Business API credentials in environment variables."
+    ]
+  },
+  "clients": [
+    "MCP clients that support stdio"
+  ],
+  "tools": {
+    "count": 5,
+    "names": [
+      "send_message",
+      "send_media",
+      "send_location",
+      "connect_whatsapp",
+      "disconnect_whatsapp"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The repository source confirms the stdio entry point and five registered MCP tools.",
+      "The README advertises a PyPI package, but it was not available from PyPI during review; the install command therefore uses the public Git repository."
+    ]
+  }
+}
