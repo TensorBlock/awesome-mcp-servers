@@ -73,16 +73,61 @@ const DOCS_PATH_TO_CATEGORY = Object.fromEntries(
   Object.entries(CATEGORY_TO_DOCS_PATH).map(([category, docsPath]) => [docsPath, category]),
 );
 
-export function parseAddServerIssue(body) {
+const ISSUE_FORM_FIELD_LABELS = [
+  "Server name",
+  "Project URL",
+  "Best category",
+  "What can an agent do with this server?",
+  "Install or connection instructions",
+  "Transport",
+  "Auth requirements",
+  "Known supported clients",
+  "License",
+].map(canonicalLabel);
+
+export function parseAddServerIssue(body, issue = {}) {
+  const suggestedEntry = parseSuggestedMarkdownEntry(body);
+  const projectUrl = normalizeUrlField(
+    firstIssueField(body, "Project URL", "Server URL", "Repository", "Repo", "Homepage", "Website") ||
+      suggestedEntry.projectUrl,
+  );
+  const serverName = normalizeField(
+    firstIssueField(body, "Server name", "Name") ||
+      suggestedEntry.serverName ||
+      serverNameFromTitle(issue.title ?? "", projectUrl) ||
+      serverNameFromUrl(projectUrl),
+  );
+  const category = normalizeCategory(
+    normalizeField(firstIssueField(body, "Best category", "Category", "Suggested category") || suggestedEntry.category),
+    [issue.title, body].filter(Boolean).join("\n"),
+  );
+  const description = normalizeField(
+    firstIssueField(body, "What can an agent do with this server?", "Description", "What it is") ||
+      suggestedEntry.description,
+  );
+  const install = normalizeField(
+    firstIssueField(
+      body,
+      "Install or connection instructions",
+      "Install",
+      "Installation",
+      "Connection instructions",
+      "Remote MCP endpoint",
+      "MCP endpoint",
+      "Endpoint",
+      "Hosted endpoint",
+    ) || suggestedEntry.endpoint,
+  );
+
   return {
-    serverName: normalizeField(extractIssueField(body, "Server name")),
-    projectUrl: normalizeField(extractIssueField(body, "Project URL")),
-    category: normalizeCategory(normalizeField(extractIssueField(body, "Best category")), body),
-    description: normalizeField(extractIssueField(body, "What can an agent do with this server?")),
-    install: normalizeField(extractIssueField(body, "Install or connection instructions")),
-    transport: normalizeField(extractIssueField(body, "Transport")),
-    auth: normalizeField(extractIssueField(body, "Auth requirements", "Auth")),
-    clients: normalizeField(extractIssueField(body, "Known supported clients", "Clients")),
+    serverName,
+    projectUrl,
+    category,
+    description,
+    install,
+    transport: normalizeField(extractIssueField(body, "Transport", "Transport protocol")),
+    auth: normalizeField(extractIssueField(body, "Auth requirements", "Authentication requirements", "Auth", "Authentication")),
+    clients: normalizeField(extractIssueField(body, "Known supported clients", "Clients", "Supported clients")),
     license: normalizeField(extractIssueField(body, "License")),
   };
 }
@@ -243,6 +288,17 @@ export function buildMetadataSidecar({ issue, submission }) {
   };
 }
 
+function firstIssueField(body, ...labels) {
+  for (const label of labels) {
+    const value = extractIssueField(body, label);
+    if (value) {
+      return value;
+    }
+  }
+
+  return "";
+}
+
 function extractIssueField(body, ...labels) {
   for (const label of labels) {
     const markdownField = extractField(body, label);
@@ -254,6 +310,11 @@ function extractIssueField(body, ...labels) {
     if (boldField) {
       return boldField;
     }
+
+    const plainField = extractPlainField(body, label);
+    if (plainField) {
+      return plainField;
+    }
   }
 
   return "";
@@ -261,7 +322,7 @@ function extractIssueField(body, ...labels) {
 
 function extractBoldField(body, label) {
   const pattern = new RegExp(
-    `(?:^|\\n)\\s*\\*\\*${escapeRegex(label)}\\*\\*\\s*:?\\s*([^\\n]*)\\n?([\\s\\S]*?)(?=\\n\\s*(?:\\*\\*[^\\n*]+\\*\\*\\s*:?|###\\s+)|$)`,
+    `(?:^|\\n)\\s*\\*\\*${escapeRegex(label)}\\s*:?\\*\\*\\s*:?\\s*([^\\n]*)\\n?([\\s\\S]*?)(?=\\n\\s*(?:\\*\\*[^\\n*]+\\s*:?\\*\\*\\s*:?|#{2,3}\\s+)|$)`,
     "i",
   );
   const match = body.match(pattern);
@@ -276,8 +337,85 @@ function extractBoldField(body, label) {
     .trim();
 }
 
+function extractPlainField(body, label) {
+  const pattern = new RegExp(
+    `(^|\\n)\\s*${escapeRegex(label)}\\s*:\\s*([^\\n]*)\\n?([\\s\\S]*?)(?=\\n\\s*(?:#{2,3}\\s+|\\*\\*[^\\n*]+\\s*:?\\*\\*\\s*:?|[A-Za-z][A-Za-z0-9 /&()._-]{1,80}:\\s*)|$)`,
+    "gi",
+  );
+
+  for (const match of body.matchAll(pattern)) {
+    const fieldStart = match.index + match[1].length;
+    if (isInsideDifferentIssueFormField(body, fieldStart, label)) {
+      continue;
+    }
+
+    return [match[2], match[3]]
+      .map((value) => value.trim())
+      .filter(Boolean)
+      .join("\n")
+      .trim();
+  }
+
+  return "";
+}
+
+function isInsideDifferentIssueFormField(body, index, label) {
+  const headings = Array.from(body.slice(0, index).matchAll(/(?:^|\n)#{2,3}\s+([^\n]+)\s*\n/g));
+  const heading = headings.at(-1)?.[1];
+  if (!heading) {
+    return false;
+  }
+
+  const headingLabel = canonicalLabel(heading);
+  return ISSUE_FORM_FIELD_LABELS.includes(headingLabel) && headingLabel !== canonicalLabel(label);
+}
+
+function parseSuggestedMarkdownEntry(body) {
+  const candidates = [];
+  const fencedBlocks = Array.from(body.matchAll(/```(?:md|markdown)?\s*\n([\s\S]*?)```/gi)).map((match) => match[1]);
+  candidates.push(...fencedBlocks, body);
+
+  for (const candidate of candidates) {
+    const match = candidate.match(/^\s*[-*]\s+\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)\s*:\s*([\s\S]*?)(?=\n\s*[-*]\s+\[[^\]]+\]\(https?:\/\/|$)/m);
+    if (!match) {
+      continue;
+    }
+
+    const description = normalizeSuggestedDescription(match[3]);
+
+    return {
+      serverName: match[1].trim(),
+      projectUrl: stripUrlPunctuation(match[2]),
+      description,
+      endpoint: extractMcpEndpointText(description),
+    };
+  }
+
+  return {};
+}
+
+function normalizeSuggestedDescription(value) {
+  return value
+    .replace(/```/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function extractMcpEndpointText(value) {
+  const match = value.match(/\b(?:remote\s+)?mcp endpoint\s*:\s*(`https?:\/\/[^`]+`|https?:\/\/[^\s,.)]+)/i);
+  return match ? match[1].replace(/[.;]+$/g, "").trim() : "";
+}
+
 function normalizeCategory(value, context = "") {
-  const lookupText = [value, context].filter(Boolean).join("\n");
+  return categoryFromText(value) ?? categoryFromText(context) ?? value;
+}
+
+function categoryFromText(value = "") {
+  const lookupText = String(value).trim();
+  if (!lookupText) {
+    return null;
+  }
+
   const docsPath = lookupText.match(/docs\/[a-z0-9-]+\.md/i)?.[0];
   if (docsPath && DOCS_PATH_TO_CATEGORY[docsPath]) {
     return DOCS_PATH_TO_CATEGORY[docsPath];
@@ -290,7 +428,42 @@ function normalizeCategory(value, context = "") {
     }
   }
 
-  return value;
+  const aliasRules = [
+    {
+      category: "Finance & Crypto",
+      patterns: [
+        /\bfinance\b/i,
+        /\bfinancial\b/i,
+        /\bdefi\b/i,
+        /\bcrypto\b/i,
+        /\bkyb\b/i,
+        /\bofac\b/i,
+        /\bsanctions?\b/i,
+        /\bvat\b/i,
+        /\bbank(?:ing)?\b/i,
+      ],
+    },
+    {
+      category: "Travel & Transportation",
+      patterns: [/\btravel\b/i, /\btransportation\b/i, /\bflight\b/i, /\bhotel\b/i, /\bbooking\b/i],
+    },
+    {
+      category: "Build & Deployment Tools",
+      patterns: [/\bdeploy(?:ment)?\b/i, /\bbuild\b/i, /\bdocker\b/i, /\bcontainer\b/i],
+    },
+    {
+      category: "Security",
+      patterns: [/\bsecurity\b/i, /\bvulnerabilit(?:y|ies)\b/i, /\bscanner\b/i, /\bcompliance\b/i],
+    },
+  ];
+
+  for (const rule of aliasRules) {
+    if (rule.patterns.some((pattern) => pattern.test(lookupText))) {
+      return rule.category;
+    }
+  }
+
+  return null;
 }
 
 export function buildIssueComment({ issue, submission, pullRequest, duplicate, errors }) {
@@ -350,8 +523,8 @@ export function buildIssueComment({ issue, submission, pullRequest, duplicate, e
   ].join("\n");
 }
 
-function normalizeField(value) {
-  const normalized = value
+function normalizeField(value = "") {
+  const normalized = String(value)
     .replace(/<!--[\s\S]*?-->/g, "")
     .trim();
 
@@ -360,6 +533,56 @@ function normalizeField(value) {
   }
 
   return normalized;
+}
+
+function normalizeUrlField(value) {
+  const normalized = normalizeField(value)
+    .replace(/^`+|`+$/g, "")
+    .replace(/^<|>$/g, "")
+    .trim();
+  const url = normalized.match(/https?:\/\/[^\s`<>)]+/i)?.[0] ?? normalized;
+  return stripUrlPunctuation(url);
+}
+
+function serverNameFromTitle(title, projectUrl) {
+  const cleaned = title
+    .replace(/^add\s+(?:mcp\s+)?server\s*:\s*/i, "")
+    .replace(/^add\s+/i, "")
+    .replace(/\s+(?:to|for|under)\s+.+$/i, "")
+    .replace(/\s+mcp\s+server$/i, "")
+    .trim();
+
+  if (!cleaned || cleaned.toLowerCase() === title.toLowerCase()) {
+    return serverNameFromUrl(projectUrl);
+  }
+
+  return cleaned;
+}
+
+function serverNameFromUrl(projectUrl) {
+  if (!projectUrl) {
+    return "";
+  }
+
+  try {
+    const parsed = new URL(projectUrl);
+    const segments = parsed.pathname
+      .split("/")
+      .filter(Boolean)
+      .map((segment) => decodeURIComponent(segment).replace(/\.git$/i, ""));
+
+    if (parsed.hostname.toLowerCase().replace(/^www\./, "") === "github.com" && segments.length >= 2) {
+      return `${segments[0]}/${segments[1]}`;
+    }
+
+    return segments.at(-1) || parsed.hostname.replace(/^www\./i, "");
+  } catch {
+    return "";
+  }
+}
+
+function canonicalLabel(value) {
+  return value.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
 }
 
 function compactText(value, maxLength = 240) {
@@ -594,7 +817,7 @@ async function main() {
     return;
   }
 
-  const submission = parseAddServerIssue(issue.body ?? "");
+  const submission = parseAddServerIssue(issue.body ?? "", issue);
   const [owner, repo] = repository.split("/");
   const request = createGitHubRequest({ token, owner, repo });
   const errors = validateSubmission(submission);

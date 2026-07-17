@@ -16,7 +16,7 @@ import {
 } from "./search.js";
 import { renderServerProfilePage } from "./profilePage.js";
 import { webProfileTemplate } from "./webProfile.js";
-import { renderBadgeSvg } from "./badge.js";
+import { renderBadgeSvg, renderMissingServerBadgeSvg } from "./badge.js";
 
 const CLIENT_ALIASES: Record<string, ClientName> = {
   "claude": "claude",
@@ -33,12 +33,35 @@ const AUTH_TYPES = new Set<AuthType>(["none", "api-key", "oauth", "bearer", "unk
 interface RegistryApiState {
   catalog: CatalogEntry[];
   loadedAt: string;
+  build: BuildInfo;
+}
+
+export interface BuildInfo {
+  commitSha: string | null;
+  builtAt: string | null;
 }
 
 const startedAt = new Date();
 
 export const loadCatalog = (catalogPath = process.env.CATALOG_PATH ?? "data/catalog.json"): CatalogEntry[] =>
   JSON.parse(readFileSync(resolve(catalogPath), "utf8")) as CatalogEntry[];
+
+export const loadBuildInfo = (buildInfoPath = process.env.BUILD_INFO_PATH ?? "data/build-info.json"): BuildInfo => {
+  try {
+    const raw = JSON.parse(readFileSync(resolve(buildInfoPath), "utf8")) as Partial<BuildInfo>;
+
+    return {
+      commitSha: typeof raw.commitSha === "string" ? raw.commitSha : null,
+      builtAt: typeof raw.builtAt === "string" ? raw.builtAt : null,
+    };
+  } catch (error) {
+    if (isNodeFileNotFoundError(error)) {
+      return emptyBuildInfo();
+    }
+
+    throw error;
+  }
+};
 
 export const createRegistryApiServer = (state: RegistryApiState) =>
   createServer((request, response) => {
@@ -76,6 +99,7 @@ const handleRequest = async (
         status: "ok",
         catalogEntries: state.catalog.length,
         loadedAt: state.loadedAt,
+        build: state.build,
         uptimeSeconds: Math.floor((Date.now() - startedAt.getTime()) / 1000),
       });
       return;
@@ -94,14 +118,7 @@ const handleRequest = async (
     }
 
     if (segments[0] === "servers" && segments[2] === "badge.svg" && segments.length === 3) {
-      const entry = findServer(state.catalog, segments[1]);
-
-      if (!entry) {
-        sendError(response, 404, `Server not found: ${segments[1]}`);
-        return;
-      }
-
-      sendSvg(response, 200, renderBadgeSvg(entry));
+      handleBadge(response, state.catalog, segments[1]);
       return;
     }
 
@@ -275,7 +292,7 @@ const handleBadge = (
   const entry = findServer(catalog, serverId);
 
   if (!entry) {
-    sendError(response, 404, `Server not found: ${serverId}`);
+    sendSvg(response, 200, renderMissingServerBadgeSvg(serverId));
     return;
   }
 
@@ -362,6 +379,7 @@ export const main = (): void => {
   const server = createRegistryApiServer({
     catalog,
     loadedAt: new Date().toISOString(),
+    build: loadBuildInfo(),
   });
 
   server.listen(port, host, () => {
@@ -380,4 +398,17 @@ const isDirectRun = (): boolean => {
 
 if (isDirectRun()) {
   main();
+}
+
+function emptyBuildInfo(): BuildInfo {
+  return {
+    commitSha: null,
+    builtAt: null,
+  };
+}
+
+function isNodeFileNotFoundError(error: unknown): error is NodeJS.ErrnoException {
+  return error instanceof Error
+    && "code" in error
+    && (error as NodeJS.ErrnoException).code === "ENOENT";
 }

@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-taygunsavas-patina-unity-mcp-8c8f04b5",
+  "source": {
+    "issue": 1171,
+    "projectUrl": "https://github.com/taygunsavas/patina-unity-mcp"
+  },
+  "description": "Unity MCP package exposing an 86-command catalog through three discovery, execution, and health tools.",
+  "category": "Gaming",
+  "links": {
+    "docs": "https://github.com/taygunsavas/patina-unity-mcp#readme"
+  },
+  "install": {
+    "commands": [
+      "com.taygunsavas.patina-unity-mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Visual Studio Code",
+    "GitHub Copilot in VS Code",
+    "Gemini CLI",
+    "JetBrains Rider/Junie",
+    "Codex CLI",
+    "Antigravity CLI"
+  ],
+  "tools": {
+    "count": 3,
+    "names": [
+      "patina_capabilities",
+      "patina_call",
+      "patina_health"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata was submitted by @taygunsavas in #1171 and matches the public repository, npm package, and official MCP Registry entry.",
+      "Profile ownership was claimed by @taygunsavas in #1172; claiming is separate from TensorBlock verification."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@taygunsavas"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

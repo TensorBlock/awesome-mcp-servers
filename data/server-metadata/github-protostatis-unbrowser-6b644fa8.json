@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-protostatis-unbrowser-6b644fa8",
+  "source": {
+    "issue": 1257,
+    "projectUrl": "https://github.com/protostatis/unbrowser"
+  },
+  "links": {
+    "endpoint": "https://unchainedsky.com/unbrowser-mcp/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Cline"
+  ],
+  "license": "Apache-2.0"
+}

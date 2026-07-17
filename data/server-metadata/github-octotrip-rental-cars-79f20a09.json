@@ -30,5 +30,17 @@
     "LobeHub",
     "Smithery"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @xltnapps in #1075 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@xltnapps"
+    ],
+    "claimed": true
+  }
 }

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-llm-pulse-llmpulse-mcp-94aba511",
+  "source": {
+    "issue": 1085,
+    "projectUrl": "https://github.com/LLM-Pulse/llmpulse-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.llmpulse.ai/api/v1/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "LLM_PULSE_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "and other Streamable HTTP-compatible MCP clients"
+  ],
+  "license": "Metadata repo license unknown"
+}

@@ -196,6 +196,54 @@ describe("catalog helpers", () => {
     expect(findServer(catalog, "missing")).toBeNull();
   });
 
+  it("finds a unique hashed GitHub server by stable alias keys", () => {
+    const hashedCatalog = [
+      entry({
+        id: "github-owner-alpha-server-1234abcd",
+        name: "owner/alpha-server",
+        links: {
+          primary: "https://github.com/owner/alpha-server",
+          repo: "https://github.com/owner/alpha-server",
+        },
+      }),
+      entry({
+        id: "github-owner-beta-server-5678abcd",
+        name: "owner/beta-server",
+        links: {
+          primary: "https://github.com/owner/beta-server",
+          repo: "https://github.com/owner/beta-server",
+        },
+      }),
+    ];
+
+    expect(findServer(hashedCatalog, "github-owner-alpha-server")?.id).toBe("github-owner-alpha-server-1234abcd");
+    expect(findServer(hashedCatalog, "owner-alpha-server")?.id).toBe("github-owner-alpha-server-1234abcd");
+    expect(findServer(hashedCatalog, "alpha-server")?.id).toBe("github-owner-alpha-server-1234abcd");
+  });
+
+  it("does not resolve ambiguous short aliases", () => {
+    const ambiguousCatalog = [
+      entry({
+        id: "github-first-postgres-mcp-1234abcd",
+        name: "first/postgres-mcp",
+        links: {
+          primary: "https://github.com/first/postgres-mcp",
+          repo: "https://github.com/first/postgres-mcp",
+        },
+      }),
+      entry({
+        id: "github-second-postgres-mcp-5678abcd",
+        name: "second/postgres-mcp",
+        links: {
+          primary: "https://github.com/second/postgres-mcp",
+          repo: "https://github.com/second/postgres-mcp",
+        },
+      }),
+    ];
+
+    expect(findServer(ambiguousCatalog, "postgres-mcp")).toBeNull();
+  });
+
   it("normalizes limits", () => {
     expect(normalizeLimit(undefined)).toBe(25);
     expect(normalizeLimit(0)).toBe(25);

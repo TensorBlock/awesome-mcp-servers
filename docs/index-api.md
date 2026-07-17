@@ -31,6 +31,25 @@ Discover available endpoints:
 curl "$MCP_INDEX_API_URL/"
 ```
 
+Check API health and deployment fingerprint:
+
+```bash
+curl "$MCP_INDEX_API_URL/health"
+```
+
+```json
+{
+  "status": "ok",
+  "catalogEntries": 7729,
+  "loadedAt": "2026-07-08T00:00:00.000Z",
+  "build": {
+    "commitSha": "694bc1a8c555e6d6df6dfe2ee1b04b7ae866eee5",
+    "builtAt": "2026-07-08T00:11:55.000Z"
+  },
+  "uptimeSeconds": 60
+}
+```
+
 Search for Postgres servers:
 
 ```bash
@@ -60,13 +79,13 @@ Server summaries include `sourcePullRequest` when known and `lastUpdatedAt` when
 Fetch a full server profile:
 
 ```bash
-curl "$MCP_INDEX_API_URL/v1/servers/postgres-mcp"
+curl "$MCP_INDEX_API_URL/v1/servers/github-crystaldba-postgres-mcp-22e80ea8"
 ```
 
 Open a shareable website profile page:
 
 ```text
-https://tensorblock.co/mcp/servers/postgres-mcp
+https://tensorblock.co/mcp/servers/github-crystaldba-postgres-mcp-22e80ea8
 ```
 
 The API also keeps `GET /servers/{id}` as a lightweight HTML fallback, but the canonical community profile is hosted on the TensorBlock website.
@@ -74,13 +93,13 @@ The API also keeps `GET /servers/{id}` as a lightweight HTML fallback, but the c
 Embed an MCP Index badge in a project README:
 
 ```markdown
-[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/postgres-mcp/badge.svg)](https://tensorblock.co/mcp/servers/postgres-mcp)
+[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-crystaldba-postgres-mcp-22e80ea8/badge.svg)](https://tensorblock.co/mcp/servers/github-crystaldba-postgres-mcp-22e80ea8)
 ```
 
 Generate an install config:
 
 ```bash
-curl "$MCP_INDEX_API_URL/v1/servers/postgres-mcp/install-config?client=claude-desktop"
+curl "$MCP_INDEX_API_URL/v1/servers/github-crystaldba-postgres-mcp-22e80ea8/install-config?client=claude-desktop"
 ```
 
 ## Railway Deployment
@@ -103,6 +122,6 @@ The service reads `data/catalog.json` on startup and keeps it in memory. Every d
 
 ## Automatic Refresh
 
-The deployment workflow runs on every push to `main` that touches the catalog, docs, API package, schema, or Railway config. It rebuilds `data/catalog.json` and `data/profiles/*.json` before deploying, so newly merged server entries are reflected by the live API after the Railway deployment succeeds.
+The deployment workflow runs on every push to `main` that touches the catalog, docs, API package, schema, or Railway config. It rebuilds `data/catalog.json` and `data/profiles/*.json`, writes `data/build-info.json`, and verifies the live `/health` deployment fingerprint before finishing, so newly merged server entries are reflected by the live API after the Railway deployment succeeds.
 
 The workflow requires a GitHub repository secret named `RAILWAY_TOKEN` with deploy access to the Railway project.

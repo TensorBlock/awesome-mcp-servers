@@ -102,7 +102,23 @@ export const searchCatalog = (
 export const findServer = (
   catalog: CatalogEntry[],
   serverId: string
-): CatalogEntry | null => catalog.find((entry) => entry.id === serverId) ?? null;
+): CatalogEntry | null => {
+  const requestedKey = normalizeLookupKey(serverId);
+
+  if (!requestedKey) {
+    return null;
+  }
+
+  const exactMatch = catalog.find((entry) => normalizeLookupKey(entry.id) === requestedKey);
+
+  if (exactMatch) {
+    return exactMatch;
+  }
+
+  const aliasMatches = catalog.filter((entry) => serverLookupKeys(entry).has(requestedKey));
+
+  return aliasMatches.length === 1 ? aliasMatches[0] : null;
+};
 
 export const listRecentServers = (
   catalog: CatalogEntry[],
@@ -235,3 +251,70 @@ const tokenize = (query: string): string[] =>
     .filter((term) => term.length > 0);
 
 const normalizeText = (value: string): string => value.toLowerCase();
+
+const HASH_SUFFIX_PATTERN = /-[a-f0-9]{8}$/;
+
+const serverLookupKeys = (entry: CatalogEntry): Set<string> => {
+  const keys = new Set<string>();
+  addLookupKey(keys, entry.id);
+  addLookupKey(keys, entry.id.replace(HASH_SUFFIX_PATTERN, ""));
+  addNameLookupKeys(keys, entry.name);
+  addUrlLookupKeys(keys, entry.links.primary);
+  addUrlLookupKeys(keys, entry.links.repo);
+
+  return keys;
+};
+
+const addNameLookupKeys = (keys: Set<string>, name: string): void => {
+  addLookupKey(keys, name);
+
+  const parts = name.split("/").filter(Boolean);
+  if (parts.length >= 2) {
+    addLookupKey(keys, parts.slice(-2).join("-"));
+    addLookupKey(keys, parts.at(-1) ?? "");
+  }
+};
+
+const addUrlLookupKeys = (keys: Set<string>, rawUrl: string | null | undefined): void => {
+  if (!rawUrl) {
+    return;
+  }
+
+  try {
+    const parsed = new URL(rawUrl);
+    const host = parsed.hostname.replace(/^www\./, "").toLowerCase();
+    const pathParts = parsed.pathname.split("/").filter(Boolean);
+
+    if (host === "github.com" && pathParts.length >= 2) {
+      const owner = pathParts[0];
+      const repo = pathParts[1];
+
+      addLookupKey(keys, `github-${owner}-${repo}`);
+      addLookupKey(keys, `${owner}-${repo}`);
+      addLookupKey(keys, repo);
+      return;
+    }
+
+    addLookupKey(keys, [host, ...pathParts].join("-"));
+    addLookupKey(keys, pathParts.at(-1) ?? "");
+  } catch {
+    addLookupKey(keys, rawUrl);
+  }
+};
+
+const addLookupKey = (keys: Set<string>, value: string): void => {
+  const key = normalizeLookupKey(value);
+
+  if (key) {
+    keys.add(key);
+  }
+};
+
+const normalizeLookupKey = (value: string): string =>
+  value
+    .trim()
+    .toLowerCase()
+    .replace(/[_\s]+/g, "-")
+    .replace(/[^a-z0-9-]+/g, "-")
+    .replace(/-{2,}/g, "-")
+    .replace(/^-|-$/g, "");
