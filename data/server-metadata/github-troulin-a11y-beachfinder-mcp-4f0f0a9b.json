@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-troulin-a11y-beachfinder-mcp-4f0f0a9b",
+  "source": {
+    "issue": 1214,
+    "projectUrl": "https://github.com/troulin-a11y/BeachFinder-mcp"
+  },
+  "links": {
+    "endpoint": "https://getbeachfinder.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Codex and other Streamable HTTP MCP clients"
+  ],
+  "license": "Public remote service; repository contains manifests and documentation only"
+}
