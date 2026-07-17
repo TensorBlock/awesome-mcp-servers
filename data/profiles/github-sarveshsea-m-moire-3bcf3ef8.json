@@ -1,15 +1,15 @@
 {
   "id": "github-sarveshsea-m-moire-3bcf3ef8",
-  "name": "sarveshsea/memi",
-  "description": "Agent design CI and interface understanding for coding agents. Audits UI debt, extracts Tailwind tokens, ships focused Agent Skills, exposes 47 MCP tools, and enforces file-anchored UI quality gates.",
+  "name": "sarveshsea/m-moire",
+  "description": "MCP server and CLI for shadcn-native Design CI. Diagnose UI debt, extract Tailwind tokens, export shadcn registries, and plan safe UI fixes.",
   "category": "Developer Productivity & Utilities",
   "profileUrl": "https://tensorblock.co/mcp/github-sarveshsea-m-moire-3bcf3ef8",
   "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sarveshsea-m-moire-3bcf3ef8)",
   "links": {
-    "primary": "https://github.com/sarveshsea/memi",
-    "repo": "https://github.com/sarveshsea/memi",
-    "homepage": "https://www.memoire.cv",
-    "docs": "https://www.memoire.cv/mcp",
+    "primary": "https://github.com/sarveshsea/m-moire",
+    "repo": "https://github.com/sarveshsea/m-moire",
+    "homepage": null,
+    "docs": null,
     "endpoint": null
   },
   "summary": {
