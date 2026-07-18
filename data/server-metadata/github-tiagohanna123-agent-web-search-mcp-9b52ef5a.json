@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-tiagohanna123-agent-web-search-mcp-9b52ef5a",
+  "source": {
+    "issue": 1275,
+    "projectUrl": "https://github.com/tiagohanna123/agent-web-search-mcp"
+  },
+  "install": {
+    "commands": [
+      "MCP client config:"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Remote MCP server (HTTP/JSON-RPC). Free usage: POST to https://hermes-api.tiagohanna.com/ with JSON-RPC payload. Pro usage: add `x-api-key` header after purchase. MCP client config: ```json { \"mcpServers\": { \"agent-web-search\": {..."
+    ]
+  }
+}
