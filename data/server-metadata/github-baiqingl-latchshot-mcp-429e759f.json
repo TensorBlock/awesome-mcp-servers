@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-baiqingl-latchshot-mcp-429e759f",
+  "source": {
+    "projectUrl": "https://github.com/BaiqingL/latchshot-mcp"
+  },
+  "description": "Capture guarded screenshots and PDFs of public web pages with hosted Chromium, inline MCP artifacts, render diagnostics, and successful-render quota reporting.",
+  "category": "Browser Automation & Web Scraping",
+  "links": {
+    "docs": "https://latchshot.fly.dev/docs.md#hosted-mcp-server",
+    "endpoint": "https://latchshot.fly.dev/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": ["LATCHSHOT_API_KEY"],
+    "confidence": "high"
+  },
+  "transport": ["streamable-http"],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Send the Latchshot API key as Authorization: Bearer <LATCHSHOT_API_KEY>.",
+      "The email-only Free plan renews to 100 successful renders each UTC calendar month."
+    ]
+  },
+  "clients": ["MCP clients with Streamable HTTP and custom-header support"],
+  "tools": {
+    "count": 2,
+    "names": ["capture_page", "get_usage"],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "The official MCP TypeScript SDK completed initialize, tools/list, get_usage, and a live inline PNG capture against production."
+    ]
+  }
+}
