@@ -1,0 +1,16 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "ghostinthedroid-com-5481aabf",
+  "source": {
+    "issue": 1285,
+    "projectUrl": "https://ghostinthedroid.com"
+  },
+  "install": {
+    "commands": [
+      "pip install ghost-in-the-droid"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "license": "MIT"
+}
