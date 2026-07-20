@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nippyhost-cli-779a85ec",
+  "source": {
+    "issue": 1302,
+    "projectUrl": "https://github.com/nippyhost/cli"
+  },
+  "links": {
+    "endpoint": "https://api.nippy.host/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx nippy-mcp",
+      "npx nippy-mcp --client claude-code"
+    ],
+    "env": [
+      "URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 + PKCE (dynamic client registration), or a scoped API token from https://nippy.host/settings/api-tokens (a free account works)."
+    ]
+  },
+  "clients": [
+    "claude.ai",
+    "ChatGPT",
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor"
+  ],
+  "license": "MIT"
+}
