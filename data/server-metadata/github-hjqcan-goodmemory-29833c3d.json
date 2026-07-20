@@ -2,7 +2,8 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-hjqcan-goodmemory-29833c3d",
   "source": {
-    "projectUrl": "https://github.com/hjqcan/GoodMemory"
+    "projectUrl": "https://github.com/hjqcan/GoodMemory",
+    "issue": 1287
   },
   "description": "Local-first, auditable memory layer for Codex, Claude Code, AI apps, and any MCP client, with durable SQLite, embedding-free recall, and opt-in governed writeback.",
   "category": "Knowledge Management & Memory",
@@ -56,7 +57,16 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata matches the v0.5.1 capability descriptor and standalone MCP tool surface."
+      "Metadata matches the v0.5.1 capability descriptor and standalone MCP tool surface.",
+      "Profile claimed by @hjqcan in #1287 under the community profile-claim process.",
+      "Requested profile metadata in #1287: Please update the profile from v0.5.1 to the current published v0.6.0 metadata. The portable standalone configuration is: ```json { \"command\": \"npx\", \"args\": [ \"-y\", \"goodmemory@0.6.0\", \"mcp\", \"serve\",..."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@hjqcan"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
