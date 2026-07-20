@@ -115,6 +115,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [Semutireng22/mcp-monad](https://github.com/Semutireng22/mcp-monad): Facilitates interaction with the Monad testnet, enabling blockchain data queries and smart contract interactions, including a coinflip game, through natural language commands.
 - [cesarvarela/alpaca-mcp](https://github.com/cesarvarela/alpaca-mcp): Facilitates access to Alpaca's Market Data and Broker API through MCP tools for seamless financial data integration.
 - [wlu03/ALPACA-MCP](https://github.com/wlu03/ALPACA-MCP): Facilitates seamless trading and market data access via the Alpaca API, integrating with Claude for enhanced desktop trading experiences.
+- [World Bank Indicators MCP](https://github.com/ryanngit/world-bank-indicators-mcp): Read-only access to country and economic data from the World Bank Indicators API through five MCP tools. No API key required. MIT licensed.
 - [dino65-dev/Finance_mcp-server](https://github.com/dino65-dev/Finance_mcp-server): Provides real-time financial data to AI models via Yahoo Finance using the Model Context Protocol.
 - [maxscheijen/mcp-yahoo-finance](https://github.com/maxscheijen/mcp-yahoo-finance): Facilitates interaction with Yahoo Finance to retrieve pricing and company information through an MCP server.
 - [berlinbra/alpaca-mcp](https://github.com/berlinbra/alpaca-mcp): Provides real-time cryptocurrency market data access via the Alpaca API, featuring historical data retrieval and error management.
