@@ -2,6 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-hjqcan-goodmemory-29833c3d",
   "source": {
+    "issue": 1287,
     "projectUrl": "https://github.com/hjqcan/GoodMemory"
   },
   "description": "Local-first, auditable memory layer for Codex, Claude Code, AI apps, and any MCP client, with durable SQLite, embedding-free recall, and opt-in governed writeback.",
@@ -11,8 +12,7 @@
   },
   "install": {
     "commands": [
-      "npm install -g goodmemory@0.5.1",
-      "goodmemory-mcp --standalone --user-id YOUR_USER_ID"
+      "npx -y goodmemory@0.6.0 mcp serve --standalone --user-id YOUR_USER_ID"
     ],
     "env": [],
     "confidence": "high"
@@ -38,7 +38,7 @@
     "other MCP clients with stdio support"
   ],
   "tools": {
-    "count": 9,
+    "count": 8,
     "names": [
       "goodmemory_get_context",
       "goodmemory_get_records",
@@ -47,8 +47,7 @@
       "goodmemory_search_index",
       "goodmemory_stats",
       "goodmemory_timeline",
-      "goodmemory_trace_recall",
-      "goodmemory_remember"
+      "goodmemory_trace_recall"
     ],
     "source": "self_reported"
   },
@@ -56,7 +55,15 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata matches the v0.5.1 capability descriptor and standalone MCP tool surface."
+      "Metadata matches the public v0.6.0 capability descriptor and standalone MCP tool surface.",
+      "Profile claimed by @hjqcan in #1287 under the community profile-claim process."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@hjqcan"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
