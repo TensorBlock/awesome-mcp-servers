@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "bizmuse-ai-mcp-9600d610",
+  "source": {
+    "issue": 1307,
+    "projectUrl": "https://bizmuse.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y bizmuse-mcp"
+    ],
+    "env": [
+      "BIZMUSE_API_KEY",
+      "BIZMUSE_API_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "Windsurf",
+    "VS Code",
+    "and other standards-compliant MCP clients"
+  ],
+  "license": "MIT"
+}
