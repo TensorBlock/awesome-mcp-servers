@@ -5,11 +5,12 @@
     "issue": 1285,
     "projectUrl": "https://ghostinthedroid.com"
   },
-  "auth": {
-    "type": "unknown",
-    "notes": [
-      "`pip install ghost-in-the-droid`"
-    ]
+  "install": {
+    "commands": [
+      "pip install ghost-in-the-droid"
+    ],
+    "env": [],
+    "confidence": "medium"
   },
   "license": "MIT"
 }
