@@ -225,7 +225,6 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [tejpalvirk/developer](https://github.com/tejpalvirk/developer): Facilitates seamless project context management for developers, ensuring continuity across coding sessions with comprehensive dependency tracking and decision history.
 - [everettjf/MCPXcode](https://github.com/everettjf/MCPXcode): Facilitates seamless integration between Xcode and AI assistants, enhancing developer workflows through context exchange and tool execution.
 - [thirdstrandstudio/mcp-tool-chainer](https://github.com/thirdstrandstudio/mcp-tool-chainer): Facilitates efficient tool chaining and data processing by connecting multiple MCP tools in sequence, minimizing token usage and enhancing workflow performance.
-- [Lutra23/mcp-assistant-server](https://github.com/Lutra23/mcp-assistant-server): Empowers intelligent task analysis and tool recommendation through seamless LLM integration and context management.
 - [puryadianati/convert-figma-code-cursor](https://github.com/puryadianati/convert-figma-code-cursor): Facilitates seamless communication between Cursor AI and Figma for programmatic design modifications via MCP integration.
 - [vkogmail/cursortofigma](https://github.com/vkogmail/cursortofigma): Enhance Figma design workflows with robust variable management and seamless integration through a TypeScript MCP server.
 - [yance-zhang/pumpfun-dune-mcp](https://github.com/yance-zhang/pumpfun-dune-mcp): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
@@ -254,7 +253,6 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [anhnt2003/mcp-tool-kit](https://github.com/anhnt2003/mcp-tool-kit): A versatile toolkit for integrating MCP with SQL Server and Jira, offering seamless database interactions and robust issue tracking capabilities.
 - [portone-io/mcp-server](https://github.com/portone-io/mcp-server): Facilitates easy and accurate retrieval of PortOne Developer Center documentation using LLMs.
 - [cremich/promptz-mcp](https://github.com/cremich/promptz-mcp): Facilitates seamless access to promptz.dev prompts for AI assistants, minimizing context switching and enhancing workflow efficiency.
-- [L-Chris/xyz-mcp](https://github.com/L-Chris/xyz-mcp): Facilitates interaction with Xiaoyuzhou podcast content, enabling search and account management functionalities.
 - [MasihMoafi/MCP](https://github.com/MasihMoafi/MCP): Advanced MCP server implementations for integrating with services like GitHub, Kaggle, and HuggingFace, featuring browser automation capabilities.
 - [sonnylazuardi/cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp): Facilitates seamless communication between Cursor AI and Figma for automated design modifications and interactions.
 - [niyogi/render-mcp](https://github.com/niyogi/render-mcp): Facilitates AI-driven deployment and management of services on Render.com through an MCP server interface.
@@ -303,7 +301,6 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [biegehydra/BifrostMCP](https://github.com/biegehydra/BifrostMCP): Bifrost is a VSCode extension that integrates an MCP server to provide advanced code navigation and analysis tools for AI coding assistants.
 - [Pratik-Kumar-Cse/script-generation-mcp](https://github.com/Pratik-Kumar-Cse/script-generation-mcp): Facilitates note storage and script generation with customizable prompts and tools for efficient content management.
 - [bcharleson/Instantly-MCP](https://github.com/bcharleson/Instantly-MCP): Facilitates seamless integration with Instantly API v2 for managing email campaigns and leads.
-- [ConechoAI/time-mcp-local](https://github.com/ConechoAI/time-mcp-local): Facilitates time and timezone conversions for LLMs using IANA timezone names with automatic system timezone detection.
 - [kortexa-ai/worker17](https://github.com/kortexa-ai/worker17): A 3D worker monitoring and control system utilizing SSE MCP server for real-time task management and productivity assessment.
 - [Cam10001110101/mcp-configuration-manager](https://github.com/Cam10001110101/mcp-configuration-manager): A desktop application for managing MCP server configurations with a user-friendly interface, supporting profile management, JSON editing, and client integration.
 - [justinotero/ai-productivity-app](https://github.com/justinotero/ai-productivity-app): Enhance your Next.js development with Cursor's Model Context Protocol for seamless GitHub integration.
@@ -313,7 +310,6 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [capecoma/winterm-mcp](https://github.com/capecoma/winterm-mcp): Facilitates AI-driven interactions with the Windows terminal through a Model Context Protocol server.
 - [lbcheng888/mcp-nim](https://github.com/lbcheng888/mcp-nim): A Nim SDK for building AI agent capabilities using the Model Context Protocol.
 - [jonrad/tmux-mcp](https://github.com/jonrad/tmux-mcp): Enables AI-driven programmatic control over tmux sessions through a Model Context Protocol server.
-- [cpage-pivotal/cf-time-mcp](https://github.com/cpage-pivotal/cf-time-mcp): Facilitates real-time access to global time data via an LLM interface using the World Time API.
 - [metatool-ai/mcp-server-metamcp](https://github.com/metatool-ai/mcp-server-metamcp): MetaMCP MCP Server acts as a proxy server, integrating multiple MCP servers into a unified system for streamlined tool and resource management.
 - [JasonSteving99/click-clack](https://github.com/JasonSteving99/click-clack): Generate a minimalist UI for Python scripts using the Click library, with MCP server capabilities for seamless integration with clients like Claude Desktop.
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp): Magic AI Agent empowers developers to create modern UI components through natural language in popular IDEs, offering seamless integration and real-time previews.
@@ -336,7 +332,6 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [cyanheads/toolkit-mcp-server](https://github.com/cyanheads/toolkit-mcp-server): Empower LLM Agents with a versatile MCP server offering tools for IP geolocation, network diagnostics, system monitoring, cryptographic operations, and QR code generation.
 - [spences10/mcp-sequentialthinking-tools](https://github.com/spences10/mcp-sequentialthinking-tools): Guides problem-solving by recommending effective MCP tools for each step with confidence scoring and rationale.
 - [ShunsukeHayashi/MCP](https://github.com/ShunsukeHayashi/MCP): A comprehensive monorepo of MCP servers facilitating AI/LLM integration, browser automation, external service integration, and file/system operations.
-- [cpage-pivotal/app-advisor-mcp](https://github.com/cpage-pivotal/app-advisor-mcp): Facilitates interaction with Spring Application Advisor through an LLM interface using the Spring AI MCP framework.
 - [Pimzino/vscode-local-snapshots](https://github.com/Pimzino/vscode-local-snapshots): Local Snapshots for VS Code enables seamless workspace file snapshot management with manual and automatic capabilities, featuring an optional MCP server for AI tool integration.
 - [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server): Enhances Xcode projects with AI-driven code assistance and project management through a secure MCP server integration.
 - [AItheLab/mcp-replicate](https://github.com/AItheLab/mcp-replicate): Interact with Replicate's machine learning models seamlessly through the Model Context Protocol, enabling AI systems to manage predictions without API complexities.
