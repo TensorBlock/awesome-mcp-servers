@@ -117,3 +117,4 @@ $UNIFIED
 - [Patina Unity MCP](https://github.com/taygunsavas/patina-unity-mcp): Local Rust/C# MCP bridge for controlling the Unity Editor from AI coding tools, with one-click host setup and commands for scenes, GameObjects, prefabs, assets, scripts, console, tests, and build settings.
 - [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP): Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
 - [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP): Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
+- [echoo19/hearth](https://github.com/echoo19/hearth): Open-source 2D game engine and editor with an MCP server exposing 78 editor tools so coding agents can build and edit 2D games. Install: download `hearth-mcp.mjs` from the latest release, then `claude mcp add hearth -- node hearth-mcp.mjs --project <game>`.
