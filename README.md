@@ -166,6 +166,7 @@ To add a new MCP server:
 2. Open that category page under `docs/`.
 3. Add one markdown bullet using this format:
    ```
+   - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous pentest engine (GPL-3.0): AD + Kubernetes + web, evidence trail on every finding, runs on local or hosted models.
    - [Server Name](https://github.com/owner/repo): Brief description of what the MCP server lets an agent do. Install: `npx your-package`.
    ```
 4. Search the repo for your URL or project name to avoid duplicates.
