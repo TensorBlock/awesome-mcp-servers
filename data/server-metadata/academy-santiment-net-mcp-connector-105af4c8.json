@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "academy-santiment-net-mcp-connector-105af4c8",
+  "source": {
+    "issue": 1323,
+    "projectUrl": "https://academy.santiment.net/mcp-connector/"
+  },
+  "links": {
+    "endpoint": "https://api.santiment.net/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "claude.ai",
+    "ChatGPT"
+  ],
+  "license": "proprietary (hosted service)"
+}
