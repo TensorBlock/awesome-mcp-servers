@@ -76,7 +76,6 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 - [iaalm/rongda-mcp-server](https://github.com/iaalm/rongda-mcp-server): Facilitates the setup and execution of the Rongda MCP server with customizable environment variables.
 - [Bloomingg/simple-mcp-server](https://github.com/Bloomingg/simple-mcp-server): A TypeScript-based MCP server featuring a simple echo tool for message repetition, designed for integration with MCP clients like Claude Desktop.
 - [nazonoa/go-mcp-calculator-demo](https://github.com/nazonoa/go-mcp-calculator-demo): A Go-based MCP server demo utilizing SSE mode for calculator operations.
-- [hungry557/fastmcp-demo](https://github.com/hungry557/fastmcp-demo): Showcases the creation of a basic MCP server using the FastMCP framework with TypeScript, featuring tools for arithmetic operations and weather queries.
 - [lefrog-dont-code/mcp-docs-server](https://github.com/lefrog-dont-code/mcp-docs-server): A TypeScript-based MCP server that provides access to the complete MCP documentation, compatible with Claude Desktop and other MCP clients.
 - [nguyendinhsinh361/fastapi-mcp](https://github.com/nguyendinhsinh361/fastapi-mcp): Effortlessly convert FastAPI endpoints into MCP tools with zero configuration, enabling seamless integration and deployment.
 - [rajaravindp/serpScoop](https://github.com/rajaravindp/serpScoop): SerpScoop offers a basic yet functional MCP server setup, allowing seamless integration with various clients.
@@ -127,7 +126,6 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 - [kenrollins/langchain-mcp-client](https://github.com/kenrollins/langchain-mcp-client): A framework that connects LangChain with MCP servers, optimized for local LLMs through Ollama.
 - [mediar-ai/mcp-rust-sdk](https://github.com/mediar-ai/mcp-rust-sdk): A Rust-based MCP server example utilizing newline-delimited JSON stdio transport for testing and debugging purposes.
 - [moekiorg/active_mcp](https://github.com/moekiorg/active_mcp): Integrate Model Context Protocol capabilities into Rails applications, enabling seamless AI tool connectivity.
-- [gendl/gendl-mcp](https://github.com/gendl/gendl-mcp): Facilitates AI-assisted generative engineering design by bridging Claude AI with the Gendl knowledge-based engineering system.
 - [SongJunSub/SpringMCP](https://github.com/SongJunSub/SpringMCP): Facilitates context-aware prompting by integrating external data sources with LLM applications using the Model Context Protocol.
 - [lukaskai/mcp-new](https://github.com/lukaskai/mcp-new): Facilitates AI-driven voice calls using Twilio and OpenAI for real-time audio processing and interaction.
 - [anht3889/cucumber-studio-mcp](https://github.com/anht3889/cucumber-studio-mcp): Integrates Cucumber Studio with AI assistants for managing BDD scenarios and projects through a Model Context Protocol server.
@@ -162,7 +160,6 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 - [kyopark2014/mcp](https://github.com/kyopark2014/mcp): A comprehensive guide to implementing a RAG application using MCP with LangChain integration, leveraging AWS Lambda for seamless API access.
 - [RGGH/python360](https://github.com/RGGH/python360): A Python-based MCP server offering a note storage system with summarization and note management capabilities.
 - [connor-roberts/tsmcp](https://github.com/connor-roberts/tsmcp): A TypeScript-based MCP server that sends greeting messages to httpbin.org and integrates seamlessly with Claude for Desktop.
-- [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp): Facilitates integration with Ashra through a Model Context Protocol server, enabling seamless communication and configuration with Claude.
 - [bash0C7/mcp-ruby-skeleton](https://github.com/bash0C7/mcp-ruby-skeleton): A Ruby-based framework for experimenting with LLM integrations via a Model Context Protocol server, featuring random number generation and JSON-RPC 2.0 compliance.
 - [lumix-labs/swift](https://github.com/lumix-labs/swift): Swift by Lumix Labs accelerates legacy code deployment and modernization with a Docker-based MCP server, reducing technical debt and incidents.
 - [cyanheads/mcp-ts-template](https://github.com/cyanheads/mcp-ts-template): A TypeScript template offering a comprehensive foundation for building MCP servers with production-ready utilities and examples.
@@ -191,7 +188,6 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 - [yjacquin/fast-mcp](https://github.com/yjacquin/fast-mcp): Fast MCP provides a Ruby-focused implementation of the Model Context Protocol, enabling seamless AI model integration with Ruby applications through a clean and expressive interface.
 - [rirachii/vapi-mcp](https://github.com/rirachii/vapi-mcp): Facilitates interaction between Claude and the VAPI API for managing calls and assistants.
 - [caicongyang/mcp-demo](https://github.com/caicongyang/mcp-demo): Facilitates database interactions via MySQL, enabling SQL queries, table creation, and schema exploration.
-- [appliedrelevance/frappe_mcp_server](https://github.com/appliedrelevance/frappe_mcp_server): Facilitates AI assistant interactions with Frappe applications via a standardized REST API interface, focusing on document operations and schema management.
 - [rokudone/codebase-rag-typescript](https://github.com/rokudone/codebase-rag-typescript): Facilitates retrieval-augmented generation for TypeScript codebases by analyzing and referencing code to answer natural language queries.
 - [jmanhype/MCPhoenix](https://github.com/jmanhype/MCPhoenix): MCPheonix leverages Elixir's Phoenix Framework to create a self-healing, distributed AI event system using the Model Context Protocol, integrating seamlessly with Cloudflare for resilient edge computing.
 - [bimgeek/speckle-mcp](https://github.com/bimgeek/speckle-mcp): Facilitates seamless interaction with Speckle's collaborative data hub, enabling project management and model querying through a Model Context Protocol server.
