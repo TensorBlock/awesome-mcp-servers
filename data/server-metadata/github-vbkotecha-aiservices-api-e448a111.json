@@ -2,21 +2,23 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-vbkotecha-aiservices-api-e448a111",
   "source": {
-    "issue": 1059,
+    "issue": 1290,
     "projectUrl": "https://github.com/vbkotecha/aiservices-api"
   },
-  "description": "Remote MCP server with 37 tools for crypto and DeFi market data, on-chain analytics, web search, URL metadata, marketing intelligence, and policy-driven dispute resolution.",
+  "description": "AgentServices provides paid APIs for AI agents with x402 micropayments on Base: 54 services, 97 endpoints, 41 x402-paid endpoints, and 37 MCP tools for crypto/DeFi market data, on-chain analytics, marketing intelligence, deep research, inference, and policy-driven dispute resolution.",
   "category": "Finance & Crypto",
   "links": {
-    "docs": "https://github.com/vbkotecha/aiservices-api#readme",
+    "docs": "https://agentservices.to",
     "endpoint": "https://agentservices.to/mcp"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "unknown",
+    "notes": [
+      "x402 payment challenges are returned for paid endpoints; free services are available without API-key setup."
+    ]
   },
   "clients": [
     "MCP-compatible clients and agent frameworks that support remote MCP servers."
@@ -30,7 +32,8 @@
   "verification": {
     "status": "partial",
     "notes": [
-      "The hosted endpoint completed MCP initialize and tools/list checks on 2026-07-14."
+      "The hosted endpoint completed MCP initialize and tools/list checks on 2026-07-14.",
+      "On 2026-07-22, https://agentservices.to/.well-known/mcp.json and https://agentservices.to/openapi.json returned 200 with version 5.3.0 metadata. The /health endpoint returned 200 only when bypassing a TLS hostname mismatch for agentservices.to."
     ]
   }
 }

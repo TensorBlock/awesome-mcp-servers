@@ -173,7 +173,7 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [ckz/flux-schnell-mcp](https://github.com/ckz/flux-schnell-mcp): Generates images using the Flux Schnell model via Replicate API with customizable prompts.
 - [index01d/ytrnscrpt-mcp-server](https://github.com/index01d/ytrnscrpt-mcp-server): Facilitates Claude's ability to retrieve and analyze YouTube video transcripts through an MCP server.
 - [jkawamoto/mcp-florence2](https://github.com/jkawamoto/mcp-florence2): Processes images and PDFs to extract text or generate descriptive captions using Florence-2.
-- [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server): Facilitates AI workflows by managing glifs and bots, offering customizable tools and metadata access through MCP.
+- [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server): Official hosted media-generation agent from Glif. Generate images, video, and audio, transcribe media, and chain multi-step creative workflows from any MCP client. Streamable HTTP endpoint: `https://glif.app/api/mcp`; OAuth 2.1. MIT.
 - [maoxiaoke/mcp-media-processor](https://github.com/maoxiaoke/mcp-media-processor): Node.js server for advanced video and image processing using MCP, featuring conversion, compression, and editing capabilities.
 - [lalanikarim/comfy-mcp-server](https://github.com/lalanikarim/comfy-mcp-server): Utilizes the FastMCP framework to generate images from prompts by interfacing with a remote Comfy server.
 - [husniadil/mcp-image-placeholder](https://github.com/husniadil/mcp-image-placeholder): Generates placeholder images from multiple providers, offering seamless integration with tools like Claude for Desktop and Cursor.
