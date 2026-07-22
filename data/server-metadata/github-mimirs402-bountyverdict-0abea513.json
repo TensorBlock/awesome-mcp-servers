@@ -1,11 +1,12 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "github-cristianmoroaica-bountyverdict-038d60c1",
+  "id": "github-mimirs402-bountyverdict-0abea513",
   "source": {
     "issue": 1311,
-    "projectUrl": "https://github.com/cristianmoroaica/bountyverdict"
+    "projectUrl": "https://github.com/Mimirs402/bountyverdict"
   },
   "links": {
+    "docs": "https://mimirs402.github.io/bountyverdict/",
     "endpoint": "https://bountyverdict-agent-production.mimirslab.workers.dev/mcp"
   },
   "transport": [
