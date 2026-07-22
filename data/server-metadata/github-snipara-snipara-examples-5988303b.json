@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-snipara-snipara-examples-5988303b",
+  "source": {
+    "issue": 1320,
+    "projectUrl": "https://github.com/Snipara/snipara-examples"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "and other Streamable HTTP MCP clients"
+  ],
+  "license": "Apache-2.0 for the public examples, metadata, and evidence repository. The hosted service is not represented as..."
+}
