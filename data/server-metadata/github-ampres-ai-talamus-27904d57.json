@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ampres-ai-talamus-27904d57",
+  "source": {
+    "issue": 1304,
+    "projectUrl": "https://github.com/ampres-ai/talamus"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "OpenCode",
+    "and other stdio MCP clients"
+  ],
+  "license": "Apache-2.0"
+}
