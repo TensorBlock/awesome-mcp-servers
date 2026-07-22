@@ -9,7 +9,6 @@ Servers controlling hardware devices, interacting with embedded systems, serial 
 - [xiangmy21/iotdb-mcp-server-TreeModel](https://github.com/xiangmy21/iotdb-mcp-server-TreeModel): Facilitates database interaction and business intelligence through IoTDB with SQL query execution capabilities.
 - [liorfranko/home-assistant-mcp](https://github.com/liorfranko/home-assistant-mcp): Integrate Anthropic's Claude with Home Assistant for seamless natural language control and monitoring of home automation systems.
 - [dhavalgujar/esp-rainmaker-mcp](https://github.com/dhavalgujar/esp-rainmaker-mcp): Facilitates interaction with ESP RainMaker devices through MCP-compatible clients using the ESP-Rainmaker CLI.
-- [hussam0is/solidworks-mcp-server](https://github.com/hussam0is/solidworks-mcp-server): Enables AI assistants to perform CAD operations in SolidWorks through natural language requests.
 - [srmorete/adb-mcp](https://github.com/srmorete/adb-mcp): Facilitates interaction between AI models and Android devices using ADB through a TypeScript-based MCP server.
 - [ioehub/ioehub-mqtt-mcp-server](https://github.com/ioehub/ioehub-mqtt-mcp-server): Facilitates IoT device communication via MQTT for temperature sensing and LED control using FastMCP framework.
 - [simon-duchastel/lifx-lan-mcp](https://github.com/simon-duchastel/lifx-lan-mcp): Enable AI agents to control LIFX lights over a local network using the Model Context Protocol.
@@ -20,7 +19,6 @@ Servers controlling hardware devices, interacting with embedded systems, serial 
 - [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server): Facilitates database interaction and business intelligence through IoTDB with SQL query execution capabilities.
 - [alecf/airtop-mcp](https://github.com/alecf/airtop-mcp): Facilitates interaction with Airtop's browser automation service through a Model Context Protocol server.
 - [omni-mcp/isaac-sim-mcp](https://github.com/omni-mcp/isaac-sim-mcp): Enables natural language control of NVIDIA Isaac Sim for dynamic robot simulations and scene manipulation.
-- [JackieTien97/iotdb_mcp_server](https://github.com/JackieTien97/iotdb_mcp_server): Facilitates secure and structured AI-driven exploration and analysis of IoTDB databases through a controlled MCP interface.
 - [sankhodeep/android-adb-controller](https://github.com/sankhodeep/android-adb-controller): Facilitates AI-driven control of Android devices through ADB commands, enabling functionalities like device listing and screen tapping.
 - [github-hewei/mcp-android-adb-server](https://github.com/github-hewei/mcp-android-adb-server): Facilitates Android device management through ADB commands, enhanced with visual model integration for screen content description.
 - [wolfcoming/adb_mcp_server](https://github.com/wolfcoming/adb_mcp_server): Facilitates remote control of Android devices via ADB using the MCP protocol, enabling device management, screen operations, input actions, app management, and more.
