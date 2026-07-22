@@ -1,0 +1,69 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "traderdaddy-pro-developers-ad61d37d",
+  "source": {
+    "projectUrl": "https://www.traderdaddy.pro/developers"
+  },
+  "description": "Hosted, read-only options-flow and market-intelligence MCP server — 26 tools for unusual options activity, gamma exposure (GEX), Apex magnet levels, sector rotation, earnings flow, premarket gappers, congressional & Form 4 insider trades, screeners, and dividend/IPO/economic calendars. Remote HTTP endpoint at https://api.traderdaddy.pro/api/v1/mcp with Bearer `td_live_` key; a free keyless premarket-gapper endpoint is at https://api.traderdaddy.pro/api/mcp/free. Works with Claude Desktop, Claude Code, and Cursor.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://www.traderdaddy.pro/developers",
+    "endpoint": "https://api.traderdaddy.pro/api/v1/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Bearer `td_live_` API key from a TraderDaddy Pro subscription; the free premarket-gapper endpoint at https://api.traderdaddy.pro/api/mcp/free is keyless."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor"
+  ],
+  "tools": {
+    "count": 26,
+    "names": [
+      "get_market_stats",
+      "get_unusual_activity",
+      "get_gex_overview",
+      "get_gex_ticker",
+      "get_apex_levels",
+      "get_sector_flow",
+      "get_put_call_ratios",
+      "get_earnings_flow",
+      "get_economic_calendar",
+      "get_dividend_calendar",
+      "get_ipo_scanner",
+      "get_premarket_gappers",
+      "get_edge_xray",
+      "get_iv_rank",
+      "get_hedge_analysis",
+      "get_institutional_activity",
+      "get_politician_trades",
+      "get_politician_trades_by_ticker",
+      "get_insider_trades",
+      "get_long_term_quality",
+      "get_conviction",
+      "get_market_health",
+      "get_bounce_signals",
+      "get_bounce_score",
+      "get_strategy_ideas",
+      "run_screener"
+    ],
+    "source": "self_reported"
+  },
+  "license": "unknown",
+  "verification": {
+    "status": "self_reported",
+    "notes": []
+  }
+}
