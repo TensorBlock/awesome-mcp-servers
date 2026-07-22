@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-akbardizaji-agentrecall-9b7529bd",
+  "source": {
+    "issue": 1299,
+    "projectUrl": "https://github.com/AkbarDizaji/AgentRecall"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @AkbarDizaji in #1299 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@AkbarDizaji"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
