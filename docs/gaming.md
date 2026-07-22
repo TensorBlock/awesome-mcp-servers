@@ -22,7 +22,6 @@ Servers interacting with game engines, game platforms/APIs, or providing game-re
 - [passontw/slotdemo](https://github.com/passontw/slotdemo): A modern slot machine game built with native JavaScript, CSS animations, and Tailwind CSS, offering a smooth and interactive gaming experience.
 - [jimbo530/baselings-mcp](https://github.com/jimbo530/baselings-mcp): 43 MCP tools for AI agents to play Baselings, a yield-generating pet game on Base chain with guardrailed DeFi swaps, token launches, reactor burns, and carbon retirement. No API key required. Install: `npx baselings-mcp`.
 $UNIFIED
-- [henryco23/NBA](https://github.com/henryco23/NBA): A Python server utilizing MCP to provide comprehensive access to NBA statistics and live game data through the NBA API.
 - [yeonupark/mcp-soccer-data](https://github.com/yeonupark/mcp-soccer-data): Delivers real-time football match data through natural language interactions using the SoccerDataAPI.
 - [andrzejsliwa/6510emu_in_c](https://github.com/andrzejsliwa/6510emu_in_c): A modern C implementation of a 6510/6502 CPU emulator with disassembly support, used in the Commodore 64.
 - [8tako8tako8/sample_mcp_pokemon](https://github.com/8tako8tako8/sample_mcp_pokemon): Retrieve Pokémon data using a dedicated MCP server that interfaces with PokeAPI.
