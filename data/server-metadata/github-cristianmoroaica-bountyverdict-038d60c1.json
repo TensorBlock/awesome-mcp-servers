@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cristianmoroaica-bountyverdict-038d60c1",
+  "source": {
+    "issue": 1311,
+    "projectUrl": "https://github.com/cristianmoroaica/bountyverdict"
+  },
+  "links": {
+    "endpoint": "https://bountyverdict-agent-production.mimirslab.workers.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Claude Code/Desktop",
+    "Cursor",
+    "VS Code",
+    "and other Streamable HTTP MCP clients"
+  ],
+  "license": "MIT"
+}
