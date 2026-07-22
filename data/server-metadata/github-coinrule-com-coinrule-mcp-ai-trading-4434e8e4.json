@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-coinrule-com-coinrule-mcp-ai-trading-4434e8e4",
+  "source": {
+    "issue": 1338,
+    "projectUrl": "https://github.com/coinrule-com/coinrule-mcp-ai-trading"
+  },
+  "links": {
+    "endpoint": "https://cloud.coinrule.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "Perplexity",
+    "Copilot",
+    "Grok"
+  ],
+  "license": "MIT"
+}
