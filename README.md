@@ -2283,6 +2283,8 @@ Servers accessing scientific databases, research platforms, or providing tools f
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
 - [RamXX/mcp-tavily](https://github.com/RamXX/mcp-tavily): An MCP server for Tavily's search API
+- [sharyuke/tavily-hub](https://github.com/sharyuke/tavily-hub): Tavily 国内聚合 + Credit 池回充 + 自费通道 + 多账号号池 + 自动负载均衡 (MCP streamableHTTP + SSE 双协议, 5 分钟接入 Claude/Cursor/Cherry 等 9 个客户端, 无需海外信用卡)
+
 - [Sunwood-ai-labs/duckduckgo-web-search](https://github.com/Sunwood-ai-labs/duckduckgo-web-search): DuckDuckGo Web Search MCP Server - A simple web search implementation for Claude Desktop using DuckDuckGo API
 - [letsbuildagent/perplexity-tool](https://github.com/letsbuildagent/perplexity-tool): perplexity search tool for Claude MCP
 - [kagisearch/kagimcp](https://github.com/kagisearch/kagimcp): A Model Context Protocol (MCP) server for Kagi search.
