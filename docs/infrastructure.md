@@ -107,7 +107,6 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [tekorex/umcp-php](https://github.com/tekorex/umcp-php): μMCP offers a minimalist PHP library for building MCP servers with zero dependencies, enabling quick tool creation for MCP clients.
 - [BitteProtocol/mcp](https://github.com/BitteProtocol/mcp): Facilitates AI integrations through MCP servers, leveraging a monorepo structure for efficient service management.
 - [tmizuma/mcp-server](https://github.com/tmizuma/mcp-server): A Node.js-based MCP server designed for executing and managing frequent word analysis tasks on AWS.
-- [derbenoo/fiberflow-mcp-gateway](https://github.com/derbenoo/fiberflow-mcp-gateway): Fiberflow MCP Gateway facilitates running a Fiberflow MCP SSE Server over stdio, enabling seamless integration with Fiberflow's API.
 - [pavanjava/kafka_mcp_server](https://github.com/pavanjava/kafka_mcp_server): Integrates Apache Kafka with AI models for seamless message publishing and consumption through a standardized interface.
 - [jkf87/mcp-google-calendar](https://github.com/jkf87/mcp-google-calendar): Facilitates Claude's integration with Google Calendar using MCP, enabling seamless event management through OAuth authentication.
 - [abhijeetka/mcp-k8s-server](https://github.com/abhijeetka/mcp-k8s-server): Facilitates Kubernetes cluster management through natural language interactions with LLMs, leveraging the Model Context Protocol for seamless integration.
@@ -126,7 +125,6 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [usegranthq/mcp-server](https://github.com/usegranthq/mcp-server): Facilitates interaction with the UseGrant API by managing providers, clients, tenants, and access tokens.
 - [vlttnv/k8s-mcp](https://github.com/vlttnv/k8s-mcp): A Python-based MCP server for Kubernetes clusters, offering a comprehensive API to access cluster information and diagnose issues.
 - [yeakub108/mcp-server](https://github.com/yeakub108/mcp-server): An AI-powered MCP server for Windsurf that offers intelligent coding assistance through advanced reasoning LLMs and custom AI tools.
-- [FREEZONEX/mcp-server-supos](https://github.com/FREEZONEX/mcp-server-supos): Facilitates access to supOS open APIs for querying and analyzing topic structures and real-time data using the MCP protocol.
 - [neurelo-connect/neurelo-connect-mcp](https://github.com/neurelo-connect/neurelo-connect-mcp): Facilitates natural language interactions with databases using the Neurelo Connect MCP server, enabling tasks like schema retrieval and SQL query execution.
 - [ArthurClune/MCP-Demo](https://github.com/ArthurClune/MCP-Demo): A minimal MCP server that executes the shell command 'ls' to list directory contents, designed for educational purposes.
 - [dennismartis/mcp-server](https://github.com/dennismartis/mcp-server): A basic MCP server implementing a note storage system with custom URI schemes and summarization capabilities.
