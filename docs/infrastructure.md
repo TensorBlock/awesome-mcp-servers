@@ -161,3 +161,4 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle): Self-hosted MCP Registry and Gateway for AI Agents
 - [stucchi/mcp-advisor](https://github.com/stucchi/mcp-advisor): Browse, search, and discover 7,000+ MCP servers from the official registry. Search by name, tag, or transport, get install instructions for any client, and view trending servers.
 - [systempromptio/systemprompt-template](https://github.com/systempromptio/systemprompt-template): Rust infrastructure runtime for hosting and governing MCP servers. Built-in RBAC, secret detection, rate limiting, audit logging, OAuth 2.0. Single ~50MB binary, no Kubernetes. [BSL-1.1]
+- [AndrewDryga/emisar](https://github.com/AndrewDryga/emisar): An MCP control plane for running defined infrastructure actions on servers, with access controls, policy checks, optional approvals, host-side validation, and audit logs.
