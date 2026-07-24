@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-hjqcan-goodmemory-29833c3d",
   "source": {
-    "issue": 1287,
+    "issue": 1369,
     "projectUrl": "https://github.com/hjqcan/GoodMemory"
   },
   "description": "Local-first, auditable memory layer for Codex, Claude Code, AI apps, and any MCP client, with durable SQLite, embedding-free recall, and opt-in governed writeback.",
@@ -12,10 +12,10 @@
   },
   "install": {
     "commands": [
-      "npx -y goodmemory@0.6.0 mcp serve --standalone --user-id YOUR_USER_ID"
+      "npx -y goodmemory@0.7.0 mcp serve --standalone --user-id YOUR_USER_ID"
     ],
     "env": [],
-    "confidence": "high"
+    "confidence": "medium"
   },
   "transport": [
     "stdio"
@@ -56,7 +56,9 @@
     "status": "self_reported",
     "notes": [
       "Metadata matches the public v0.6.0 capability descriptor and standalone MCP tool surface.",
-      "Profile claimed by @hjqcan in #1287 under the community profile-claim process."
+      "Profile claimed by @hjqcan in #1287 under the community profile-claim process.",
+      "metadata matches the public v0.7.0 capability descriptor and latest GitHub/npm release. No transport or auth change: stdio; local standalone mode has no required API key. The default profile remains read-only (8 tools);...",
+      "Metadata updated from issue #1369. Source: - Capability descriptor: https://github.com/hjqcan/GoodMemory/blob/main/.well-known/goodmemory.json - v0.7.0 release: https://github.com/hjqcan/GoodMemory/releases/tag/v0.7.0 - npm package:..."
     ]
   },
   "community": {
