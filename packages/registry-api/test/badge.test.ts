@@ -63,6 +63,28 @@ describe("badge helpers", () => {
     expect(svg).not.toContain("Unsafe <Demo>");
   });
 
+  it("matches the 20px badge geometry README rows expect", () => {
+    const svg = renderBadgeSvg(entry);
+
+    // Standard badge height and corner radius, so the badge sits level with
+    // the shields.io badges it shares a line with.
+    expect(svg).toContain('height="20"');
+    expect(svg).toContain('rx="3"');
+    expect(svg).toContain('viewBox="0 0 187 20"');
+  });
+
+  it("keeps both halves opaque and pins label widths", () => {
+    const svg = renderBadgeSvg(entry);
+
+    // An opaque value block reads on light and dark README backgrounds alike.
+    expect(svg).toContain('fill="#0c0a09"');
+    expect(svg).toContain('fill="#b5b09b"');
+    // textLength keeps text inside its block whatever font the viewer resolves.
+    expect(svg).toContain('textLength="66"');
+    expect(svg).toContain('textLength="69"');
+    expect(svg).not.toContain("stroke=\"#e6e3db\"");
+  });
+
   it("builds copy-ready badge markdown", () => {
     expect(badgeImageUrl(entry.id)).toBe("https://mcp-index.tensorblock.co/v1/servers/unsafe-demo/badge.svg");
     expect(badgeMarkdown(entry, "https://example.com/profile")).toBe(
