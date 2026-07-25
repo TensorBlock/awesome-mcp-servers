@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sipyourdrink-ltd-bernstein-82d9a3e2",
+  "source": {
+    "issue": 1390,
+    "projectUrl": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  "description": "Deterministic orchestration for CLI coding agents. Runs Claude Code, Codex, Gemini CLI, Aider, OpenHands and 40+ other agent CLIs in parallel inside isolated git worktrees, with a replay journal, lineage tracking, and an opt-in HMAC-chained audit log that verifies offline.",
+  "links": {
+    "docs": "https://bernstein.readthedocs.io"
+  },
+  "install": {
+    "commands": [
+      "uvx --from bernstein bernstein mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "sse",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "tools": {
+    "count": 13,
+    "names": [
+      "bernstein_health",
+      "bernstein_run",
+      "bernstein_status",
+      "bernstein_tasks",
+      "bernstein_task_handle",
+      "bernstein_cost",
+      "bernstein_claim",
+      "bernstein_update",
+      "bernstein_post_artifact",
+      "bernstein_stop",
+      "bernstein_approve",
+      "bernstein_create_subtask",
+      "load_skill"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #1390. Source: - Package: https://pypi.org/project/bernstein/ (3.9.0) - Tier membership is declared in one table: https://github.com/sipyourdrink-ltd/bernstein/blob/main/src/bernstein/core/protocols/mcp/tool_tiers.py - Transports..."
+    ]
+  }
+}

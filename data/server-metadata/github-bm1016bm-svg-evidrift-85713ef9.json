@@ -2,7 +2,8 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-bm1016bm-svg-evidrift-85713ef9",
   "source": {
-    "projectUrl": "https://github.com/bm1016bm-svg/evidrift"
+    "projectUrl": "https://github.com/bm1016bm-svg/evidrift",
+    "issue": 1350
   },
   "description": "Local-first MCP server and CLI that records deterministic evidence for installed TypeScript APIs and repository-local OpenAPI/JSON contracts, then revalidates receipts in CI.",
   "category": "Code Analysis & Quality",
@@ -43,7 +44,16 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata matches the public v0.3.3 server manifest, package metadata, MCP implementation, and setup documentation."
+      "Metadata matches the public v0.3.3 server manifest, package metadata, MCP implementation, and setup documentation.",
+      "Profile claimed by @bm1016bm-svg in #1350 under the community profile-claim process.",
+      "Requested profile metadata in #1350: - Maintainer: @bm1016bm-svg - Documentation: https://github.com/bm1016bm-svg/evidrift/blob/main/docs/mcp.md - Support: https://github.com/bm1016bm-svg/evidrift/issues - Install: `npx -y evidrift@0.3.3 mcp`"
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@bm1016bm-svg"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
