@@ -2,11 +2,12 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-aislon-uizze-mcp-30a796c9",
   "source": {
-    "issue": 1161,
+    "issue": 1344,
     "projectUrl": "https://github.com/aislon/uizze-mcp"
   },
   "links": {
-    "endpoint": "https://uizze.com/mcp"
+    "endpoint": "https://uizze.com/mcp",
+    "docs": "https://uizze.com/docs"
   },
   "install": {
     "commands": [],
@@ -29,5 +30,12 @@
     "Claude Code",
     "Cursor",
     "and other MCP clients"
-  ]
+  ],
+  "description": "UIZZE gives Codex, Claude Code, Cursor, and other coding agents real web and iOS UI context, structured design contracts, and hard finish-gate reviews before shipping.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #1344. Source: The indexed project URL above is the historical source and now redirects on GitHub to https://github.com/uizze/uizze-mcp after the repository transfer. The destination is the same repository under the UIZZE..."
+    ]
+  }
 }

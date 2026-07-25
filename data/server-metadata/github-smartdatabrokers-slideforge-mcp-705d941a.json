@@ -4,6 +4,8 @@
   "source": {
     "projectUrl": "https://github.com/smartdatabrokers/slideforge-mcp"
   },
+  "description": "Hosted MCP server for consulting-grade PowerPoint generation from typed slide intents or a prose brief. Renders fully editable .pptx decks - charts, diagrams, brand templates - deterministically, with a machine-readable fidelity manifest on every response.",
+  "category": "multimedia-processing",
   "links": {
     "docs": "https://slideforge.dev",
     "endpoint": "https://api.slideforge.dev/mcp/"
@@ -32,5 +34,24 @@
     "Windsurf",
     "Cline"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "tools": {
+    "count": 7,
+    "names": [
+      "create_slide",
+      "create_deck",
+      "plan_slide",
+      "browse_catalog",
+      "translate_deck",
+      "upload_asset",
+      "manage_account"
+    ],
+    "source": "self_reported"
+  },
+  "community": {
+    "maintainedBy": [
+      "smartdatabrokers"
+    ],
+    "claimed": true
+  }
 }

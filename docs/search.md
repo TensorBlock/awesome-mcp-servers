@@ -50,6 +50,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [ChristianSch/openrouter-websearch-mcp](https://github.com/ChristianSch/openrouter-websearch-mcp): Facilitates web searches using OpenRouter's online models to deliver concise, fact-based answers.
 - [kikuchy/pubdev_mcp](https://github.com/kikuchy/pubdev_mcp): Facilitates natural language package search on pub.dev with LLM-powered conversational interactions.
 - [0xDAEF0F/job-searchoor](https://github.com/0xDAEF0F/job-searchoor): Facilitates job search with filtering options for remote work and keyword inclusion/exclusion.
+- [kopachlager/prerenderbuddy-mcp](https://github.com/kopachlager/prerenderbuddy-mcp): MCP server for crawler visibility and rendering checks for AI/search agents — compare rendered vs raw pages, inspect JS-rendered output, and extract page-level signals for discovery safety.
 - [jonathan-politzki/search-rag](https://github.com/jonathan-politzki/search-rag): A robust MCP server utilizing Apify's RAG Web Browser Actor for web content extraction, enhancing retrieval-augmented generation workflows with LLMs.
 - [hieu-blackbox/mcp-brave-search](https://github.com/hieu-blackbox/mcp-brave-search): Integrates the Brave Search API to provide comprehensive web and local search capabilities with smart fallbacks and flexible filtering.
 - [tonykonst/brave-search](https://github.com/tonykonst/brave-search): Integrates the Brave Search API for comprehensive web and local search capabilities with smart fallback mechanisms.
