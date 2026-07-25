@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cremenescu-mem0ry4ai-053d1f06",
+  "source": {
+    "issue": 1399,
+    "projectUrl": "https://github.com/cremenescu/mem0ry4ai"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @cremenescu in #1399 under the community profile-claim process.",
+      "Requested profile metadata in #1399: - **Name:** mem0ry4ai - **Maintainer:** @cremenescu - **Repository:** https://github.com/cremenescu/mem0ry4ai - **Docs / homepage:** https://cremenescu.ro/en/mem0ry4ai/ - **License:** GPL-2.0-or-later - **Latest..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@cremenescu"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
