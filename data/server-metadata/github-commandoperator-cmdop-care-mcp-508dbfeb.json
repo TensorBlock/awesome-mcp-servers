@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-commandoperator-cmdop-care-mcp-508dbfeb",
+  "source": {
+    "issue": 1365,
+    "projectUrl": "https://github.com/commandoperator/cmdop-care-mcp"
+  },
+  "install": {
+    "commands": [
+      "docker run -i --rm ghcr.io/commandoperator/cmdop-care:v0.1.2"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Uses the existing cmdop CLI enrollment from the host OS keyring. No relay token is configured in the MCP client config."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Cline",
+    "Windsurf"
+  ],
+  "license": "Apache-2.0"
+}

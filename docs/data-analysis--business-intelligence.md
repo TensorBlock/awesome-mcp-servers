@@ -184,6 +184,7 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [databutton/databutton-mcp](https://github.com/databutton/databutton-mcp): Facilitates initial app planning and development by deploying frontends and backends using React and Python APIs.
 - [suthio/redash-mcp](https://github.com/suthio/redash-mcp): Facilitates integration of Redash with AI assistants by managing and executing queries and dashboards via the Redash API.
 - [PostHog/posthog-mcp](https://github.com/PostHog/posthog-mcp): Facilitates interaction with PostHog by enabling project management and annotation creation through Claude Desktop.
+- [Formo](https://formo.so): Official hosted, read-only MCP server for project-scoped product and onchain analytics, including SQL, funnels, retention, revenue, users, and wallet profiles. Supports OAuth or workspace API keys. [Docs](https://docs.formo.so/mcp/overview).
 - [JiantaoFu/AppInsightMCP](https://github.com/JiantaoFu/AppInsightMCP): Provides market intelligence by analyzing data from the Apple App Store and Google Play Store, offering insights on apps, trends, competitors, and user feedback.
 - [mackenly/mcp-fathom-analytics](https://github.com/mackenly/mcp-fathom-analytics): Access Fathom Analytics data through an AI assistant using an unofficial MCP server implementation.
 - [nermalcat69/zerops-mcp](https://github.com/nermalcat69/zerops-mcp): Facilitates seamless GitHub repository management and file operations through an MCP server interface.
