@@ -42,23 +42,19 @@
     "other MCP clients with stdio or streamable HTTP support"
   ],
   "tools": {
-    "count": 17,
+    "count": 13,
     "names": [
+      "bernstein_health",
+      "bernstein_run",
+      "bernstein_status",
+      "bernstein_tasks",
+      "bernstein_task_handle",
       "bernstein_approve",
       "bernstein_claim",
-      "bernstein_context",
       "bernstein_cost",
       "bernstein_create_subtask",
-      "bernstein_health",
       "bernstein_post_artifact",
-      "bernstein_run",
-      "bernstein_scenario",
-      "bernstein_scenario_status",
-      "bernstein_scenarios",
-      "bernstein_status",
       "bernstein_stop",
-      "bernstein_task_handle",
-      "bernstein_tasks",
       "bernstein_update",
       "load_skill"
     ],
@@ -68,9 +64,9 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Tool names and count read from the shipped tool schemas in src/bernstein/mcp/tool_schemas/ at version 3.9.0.",
+      "Tool count is the number advertised at the default tier. The server has a tier setting that trades tool count against context budget: core advertises 5, the default standard advertises the 13 listed here, and all advertises 18. The repository ships 17 tool schema files, which is a different figure and is not the advertised count.",
       "Transports read from the stdio entry point and the streamable HTTP transport module.",
-      "Adapter count read from the adapter registry, which holds more than 40 entries; the indexed profile description said 37."
+      "Adapter count read from the adapter registry, which holds more than 40 entries. The indexed profile description said 37."
     ]
   },
   "community": {
