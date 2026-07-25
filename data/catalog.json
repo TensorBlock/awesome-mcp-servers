@@ -103000,8 +103000,8 @@
   },
   {
     "id": "github-darko893-mcp-server-64f62812",
-    "name": "Darko893/mcp-server",
-    "description": "AI-powered web scraping MCP server with Cloudflare bypass, JavaScript rendering, and structured data extraction via the Haunt API. Pay-per-use with generous free tier.",
+    "name": "Darko893/haunt-mcp-server",
+    "description": "Web extraction for AI agents, plus ready-made sources: Reddit posts and comments with no Reddit app or OAuth, company profiles from a URL, and GitHub repo data. Any permitted public page to structured JSON or clean Markdown from a plain-English prompt, including Cloudflare-protected and bot-walled pages. Login walls and CAPTCHAs return a typed error instead of invented data, and failed calls never burn credits. Free tier, no card.",
     "category": "Browser Automation & Web Scraping",
     "source": {
       "readmePath": null,
@@ -103009,29 +103009,46 @@
       "featuredInReadme": false
     },
     "links": {
-      "primary": "https://github.com/Darko893/mcp-server",
-      "repo": "https://github.com/Darko893/mcp-server",
-      "homepage": null,
-      "docs": null,
-      "endpoint": null
+      "primary": "https://github.com/Darko893/haunt-mcp-server",
+      "repo": "https://github.com/Darko893/haunt-mcp-server",
+      "homepage": "https://hauntapi.com",
+      "docs": "https://hauntapi.com/docs",
+      "endpoint": "https://hauntapi.com/mcp/server"
     },
     "install": {
-      "commands": [],
-      "env": [],
-      "confidence": "low"
+      "commands": [
+        "npx -y @hauntapi/mcp-server"
+      ],
+      "env": [
+        "HAUNT_API_KEY"
+      ],
+      "confidence": "high"
     },
     "transport": [
-      "unknown"
+      "stdio",
+      "http"
     ],
     "auth": {
-      "type": "unknown",
-      "notes": []
+      "type": "api-key",
+      "notes": [
+        "HAUNT_API_KEY environment variable"
+      ]
     },
     "clients": [],
     "tools": {
-      "count": null,
-      "names": [],
-      "source": "unknown"
+      "count": 9,
+      "names": [
+        "try_demo_extract",
+        "extract",
+        "extract_markdown",
+        "extract_article",
+        "extract_metadata",
+        "read_reddit",
+        "company_profile",
+        "github_repo",
+        "get_usage"
+      ],
+      "source": "dockerfile-introspection"
     },
     "license": "unknown",
     "health": {
