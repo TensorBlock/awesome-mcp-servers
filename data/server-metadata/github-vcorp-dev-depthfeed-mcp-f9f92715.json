@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-vcorp-dev-depthfeed-mcp-f9f92715",
+  "source": {
+    "projectUrl": "https://github.com/vcorp-dev/depthfeed-mcp"
+  },
+  "description": "Read-only prediction-market data tools for market discovery and live or historical L2 order books across Polymarket, Kalshi, and Limitless.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://depthfeed.com/mcp",
+    "endpoint": "https://api.depthfeed.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Limited BTC Polymarket access is available without authentication; a DepthFeed Bearer API key unlocks plan-based assets, venues, and history."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "ChatGPT",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 12,
+    "names": [
+      "polymarket_all_markets",
+      "polymarket_search_markets",
+      "polymarket_get_market",
+      "polymarket_get_snapshots",
+      "kalshi_search_markets",
+      "kalshi_get_orderbook",
+      "kalshi_get_snapshots",
+      "limitless_search_markets",
+      "limitless_get_orderbook",
+      "limitless_get_snapshots",
+      "screener",
+      "whoami"
+    ],
+    "source": "self_reported"
+  },
+  "license": "proprietary (hosted service)"
+}
