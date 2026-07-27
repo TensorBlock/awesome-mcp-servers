@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-neozi12-dispatchseo-649cce88",
+  "source": {
+    "issue": 1430,
+    "projectUrl": "https://github.com/NeoZi12/dispatchseo"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code"
+  ],
+  "license": "AGPL-3.0"
+}
