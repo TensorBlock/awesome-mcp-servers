@@ -112,6 +112,7 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office): Integrates seamlessly with Lexware Office to manage business operations via the Model Context Protocol.
 - [rashidazarang/airtable-mcp](https://github.com/rashidazarang/airtable-mcp): Seamlessly integrate AI tools with Airtable for efficient data management using a natural language interface.
 - [AminForou/mcp-gsc](https://github.com/AminForou/mcp-gsc): Integrates Google Search Console with Claude AI for SEO data analysis through natural language interactions.
+- [Google Search Console MCP](https://github.com/AKzar1el/mcp-gsc): Self-hostable Cloudflare Workers MCP server for Google Search Console analytics, URL inspection, sitemap management, indexing requests, and SEO reporting. Remote endpoint: `https://mcp-gsc.digestseo.com/mcp`; Transport: Streamable HTTP; Auth: Google OAuth.
 - [WillDent/pipedrive-mcp-server](https://github.com/WillDent/pipedrive-mcp-server): Connects to the Pipedrive API to expose data and functionality for LLM applications like Claude.
 - [ibraheem4/clover-mcp](https://github.com/ibraheem4/clover-mcp): Facilitates AI-driven access to Clover merchant data, inventory, and orders through a secure OAuth-authenticated MCP server.
 - [amekala/adspirer-mcp-server](https://github.com/amekala/adspirer-mcp-server): Enhance your digital advertising campaigns with AI-driven insights and management through conversational interactions in Claude.
