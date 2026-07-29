@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-neozi12-dispatchseo-649cce88",
+  "source": {
+    "issue": 1430,
+    "projectUrl": "https://github.com/NeoZi12/dispatchseo"
+  },
+  "links": {
+    "docs": "https://dispatchseo.com",
+    "endpoint": "https://dispatchseo.com/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "git clone https://github.com/NeoZi12/dispatchseo && cd dispatchseo && sh start.sh"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Per-project Bearer token issued by DispatchSEO or a self-hosted instance."
+    ]
+  },
+  "clients": [
+    "Claude Code"
+  ],
+  "license": "AGPL-3.0"
+}

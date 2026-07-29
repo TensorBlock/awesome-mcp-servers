@@ -1,0 +1,74 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cremenescu-mem0ry4ai-053d1f06",
+  "source": {
+    "issue": 1401,
+    "projectUrl": "https://github.com/cremenescu/mem0ry4ai"
+  },
+  "description": "Local-first persistent memory for coding agents. Plain markdown versioned by git is the source of truth; the SQLite FTS5 index and optional local Ollama embeddings are derived and rebuildable. Hybrid keyword + semantic retrieval fused with RRF, degrading to keyword-only when offline. Secrets redacted before every write. Also ships Claude Code SessionStart/SessionEnd hooks.",
+  "links": {
+    "docs": "https://cremenescu.ro/en/mem0ry4ai/"
+  },
+  "install": {
+    "commands": [
+      "git clone https://github.com/cremenescu/mem0ry4ai",
+      "claude mcp add mem0ry4ai -- python3 /absolute/path/to/mem.py mcp",
+      "python3 mem.py mcp"
+    ],
+    "env": [
+      "MEM_MCP_WRITE",
+      "MEM_DATA_DIR",
+      "MEM_REDACT",
+      "MEM_EMBED_MODEL",
+      "OLLAMA_URL",
+      "MEM_INJECT_BUDGET",
+      "MEM_WEB_PORT",
+      "MEM_UI_LANG"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Fully local; no API keys, no cloud service, no telemetry."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Gemini CLI",
+    "OpenCode"
+  ],
+  "tools": {
+    "count": 8,
+    "names": [
+      "memory_search",
+      "memory_get",
+      "memory_list",
+      "memory_resume",
+      "memory_add",
+      "memory_note",
+      "memory_promote",
+      "session_search"
+    ],
+    "source": "self_reported"
+  },
+  "license": "GPL-2.0-or-later",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #1401 and profile claimed by @cremenescu in #1399 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@cremenescu"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

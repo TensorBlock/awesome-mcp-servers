@@ -59,3 +59,4 @@ Servers integrating with healthcare standards, medical literature databases, bio
 - [LoggerApp/Nutrient_db_MCP](https://github.com/LoggerApp/Nutrient_db_MCP): Access USDA nutritional data with advanced search and nutrient analysis capabilities through a high-performance MCP server.
 
 - [rajdeepmondaldotcom/whoop-mcp-server](https://github.com/rajdeepmondaldotcom/whoop-mcp-server): Ask AI agents about your WHOOP recovery, sleep, strain, and workouts in plain English; runs locally and read-only, computing answers from your own records. Install: `uv tool install whoop-mcp-server`. stdio transport, OAuth to WHOOP.
+- [aanari/loacare-healthcare-pricing](https://github.com/aanari/loacare-healthcare-pricing): Gives AI agents source-labeled U.S. healthcare pricing, CPT and HCPCS code search, and provider and hospital discovery through a remote Streamable HTTP server.
