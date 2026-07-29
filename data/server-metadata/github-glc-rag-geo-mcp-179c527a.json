@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-glc-rag-geo-mcp-179c527a",
+  "source": {
+    "issue": 1404,
+    "projectUrl": "https://github.com/glc-rag/geo-mcp"
+  },
+  "links": {
+    "docs": "https://mcp.glc-rag.hu/llms.txt",
+    "endpoint": "https://mcp.glc-rag.hu/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Agents can register for a bearer API token with POST https://mcp.glc-rag.hu/api/auth/register using account_type=agent."
+    ]
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Endpoint, docs, and official registry id io.github.glc-rag/geo-mcp were provided in issue #1404."
+    ]
+  },
+  "license": "MIT"
+}
