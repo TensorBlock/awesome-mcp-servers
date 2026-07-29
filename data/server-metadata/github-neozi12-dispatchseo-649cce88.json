@@ -5,12 +5,16 @@
     "issue": 1430,
     "projectUrl": "https://github.com/NeoZi12/dispatchseo"
   },
+  "links": {
+    "docs": "https://dispatchseo.com",
+    "endpoint": "https://dispatchseo.com/api/mcp"
+  },
   "install": {
-    "commands": [],
-    "env": [
-      "URL"
+    "commands": [
+      "git clone https://github.com/NeoZi12/dispatchseo && cd dispatchseo && sh start.sh"
     ],
-    "confidence": "low"
+    "env": [],
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
@@ -18,7 +22,7 @@
   "auth": {
     "type": "bearer",
     "notes": [
-      "bearer"
+      "Per-project Bearer token issued by DispatchSEO or a self-hosted instance."
     ]
   },
   "clients": [
