@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-akzar1el-mcp-web-validator-4b38b48a",
+  "source": {
+    "issue": 1432,
+    "projectUrl": "https://github.com/AKzar1el/mcp-web-validator"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @AKzar1el in #1432 under the community profile-claim process.",
+      "Requested profile metadata in #1432: Category: Code Analysis & Quality Transport: unknown Auth: unknown Install confidence: medium License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@AKzar1el"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
