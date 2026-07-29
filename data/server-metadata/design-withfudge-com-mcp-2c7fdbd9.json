@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "design-withfudge-com-mcp-2c7fdbd9",
+  "source": {
+    "issue": 1406,
+    "projectUrl": "https://design.withfudge.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.withfudge.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "OpenCode",
+    "Windsurf",
+    "VS Code",
+    "Gemini CLI",
+    "Zed"
+  ],
+  "license": "Proprietary hosted service"
+}
