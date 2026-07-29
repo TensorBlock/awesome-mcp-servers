@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cumpsd-broker-as-a-service-d361c6b6",
+  "source": {
+    "issue": 1396,
+    "projectUrl": "https://github.com/CumpsD/broker-as-a-service"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @cumpsd in #1396 under the community profile-claim process.",
+      "Requested profile metadata in #1396: Category: Finance & Crypto Transport: streamable-http Auth: none Install confidence: low License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@cumpsd"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
