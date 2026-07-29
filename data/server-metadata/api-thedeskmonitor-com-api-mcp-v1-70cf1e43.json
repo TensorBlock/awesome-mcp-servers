@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "api-thedeskmonitor-com-api-mcp-v1-70cf1e43",
+  "source": {
+    "issue": 1419,
+    "projectUrl": "https://api.thedeskmonitor.com/api/mcp/v1/"
+  },
+  "links": {
+    "docs": "https://api.thedeskmonitor.com/api/mcp/v1/openapi.json",
+    "endpoint": "https://api.thedeskmonitor.com/api/mcp/v1/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 / PKCE plus API-key support. Demo mode is available with dm_demo_* keys."
+    ]
+  },
+  "tools": {
+    "count": 24,
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Health, tools, and OpenAPI discovery endpoints were provided in issue #1419."
+    ]
+  }
+}
