@@ -6,6 +6,11 @@
 [![🤗 Hugging Face](https://img.shields.io/badge/HuggingFace-TensorBlock-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/tensorblock)
 [![Telegram](https://img.shields.io/badge/Telegram-Group-blue?logo=telegram)](https://t.me/TensorBlock)
 
+<p align="center">
+  <img src="assets/demo.gif" alt="Live Demo Animation" width="100%" />
+</p>
+
+
 <div style="text-align: left; margin: 20px 0;">
     <a href="https://discord.com/invite/Ej5NmeHFf2" style="display: inline-block; padding: 10px 20px; background-color: #5865F2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
         Join the TensorBlock Discord
