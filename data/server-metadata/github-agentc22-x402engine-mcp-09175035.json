@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-agentc22-x402engine-mcp-09175035",
+  "source": {
+    "projectUrl": "https://github.com/agentc22/x402engine-mcp"
+  },
+  "description": "Connects agents to 108 x402 pay-per-call APIs: 72 LLMs plus image/video generation, web search and scraping, code execution, crypto and wallet data, transaction simulation, TTS and transcription, travel, and IPFS. Pay with USDC on Base or Solana, or USDm on MegaETH.",
+  "links": {
+    "docs": "https://x402engine.app/docs",
+    "endpoint": "https://x402engine.app/mcp"
+  }
+}
