@@ -11,25 +11,19 @@
   },
   "install": {
     "commands": [
+      "git clone https://github.com/cremenescu/mem0ry4ai",
+      "claude mcp add mem0ry4ai -- python3 /absolute/path/to/mem.py mcp",
       "python3 mem.py mcp"
     ],
     "env": [
-      "MEM_MCP_WRITE (default on",
-      "set to 0 for a read-only server)",
+      "MEM_MCP_WRITE",
       "MEM_DATA_DIR",
       "MEM_REDACT",
       "MEM_EMBED_MODEL",
       "OLLAMA_URL",
       "MEM_INJECT_BUDGET",
       "MEM_WEB_PORT",
-      "MEM_UI_LANG",
-      "Runtime: Python 3 standard library only — no `pip install",
-      "no venv",
-      "no third-party dependencies",
-      "Platforms: macOS",
-      "Linux",
-      "Windows",
-      "Latest release: v0.16.0"
+      "MEM_UI_LANG"
     ],
     "confidence": "medium"
   },
@@ -38,14 +32,16 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Fully local; no API keys, no cloud service, no telemetry."
+    ]
   },
   "clients": [
     "Claude Code",
     "Claude Desktop",
     "Cursor",
     "Gemini CLI",
-    "OpenCode (any MCP client)"
+    "OpenCode"
   ],
   "tools": {
     "count": 8,
@@ -65,7 +61,14 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #1401. Source: All values come from the project README and are verifiable in the repository: - Tools, transport and the `MEM_MCP_WRITE` gate: https://github.com/cremenescu/mem0ry4ai#use-from-any-agent-mcp - Install commands: same..."
+      "Metadata updated from issue #1401 and profile claimed by @cremenescu in #1399 under the community profile-claim process."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@cremenescu"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
