@@ -1,0 +1,8 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-tianma-if-edgeever-3a71a638",
+  "source": {
+    "issue": 1450,
+    "projectUrl": "https://github.com/tianma-if/edgeever"
+  }
+}

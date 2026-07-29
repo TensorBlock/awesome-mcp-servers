@@ -17,7 +17,6 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [4kk11/mcp-gpt-image](https://github.com/4kk11/mcp-gpt-image): Generates and edits images using OpenAI API, providing scalable previews and Docker integration.
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart): Facilitates the creation of diverse visual charts using AntV through a TypeScript-based MCP server.
 - [HYPERVAPOR/mcp-image-processor](https://github.com/HYPERVAPOR/mcp-image-processor): High-performance image processing server offering format conversion, resizing, and optimization capabilities.
-- [MalluBeast69/gemini-img-gen-MCP](https://github.com/MalluBeast69/gemini-img-gen-MCP): Generate images using Google's Gemini model via a dedicated MCP server.
 - [Bigchx/mcp_3d_relief](https://github.com/Bigchx/mcp_3d_relief): Transform 2D images into detailed 3D relief models in STL format for 3D printing or rendering.
 - [falahgs/mcp-3d-style-cartoon-gen-server](https://github.com/falahgs/mcp-3d-style-cartoon-gen-server): A server that combines 3D-style cartoon image generation with secure file system operations, leveraging Google's Gemini AI and MCP SDK.
 - [zjf2671/hh-mcp-comfyui](https://github.com/zjf2671/hh-mcp-comfyui): Facilitates image generation through natural language commands by interfacing with a local ComfyUI instance via the MCP protocol.
@@ -42,7 +41,6 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [undertaker86001/mcp-process-pdf](https://github.com/undertaker86001/mcp-process-pdf): A robust MCP server for processing PDF documents with features like text extraction, image optimization, and intelligent classification using deep learning.
 - [Synohara/supercollider-mcp](https://github.com/Synohara/supercollider-mcp): Facilitates the execution of SuperCollider synths using supercolliderjs through an MCP server.
 - [slot181/sd-image-gen-mcp](https://github.com/slot181/sd-image-gen-mcp): Provides text-to-image generation using Stable Diffusion WebUI API with optional Cloudflare ImgBed integration.
-- [led-ray/mcp-voicevox](https://github.com/led-ray/mcp-voicevox): Facilitates AI agents in reading aloud text using the VOICEVOX engine with customizable voice parameters and dialogue formats.
 - [coderjun/shaka-packager-mcp-server](https://github.com/coderjun/shaka-packager-mcp-server): Integrates Shaka Packager with Claude AI for video transcoding, packaging, and analysis, enhancing media processing capabilities.
 - [rjn32s/mcp-ocr](https://github.com/rjn32s/mcp-ocr): A robust OCR server leveraging MCP to extract text from images using Tesseract, supporting various input types and languages.
 - [An-3/mcp-audacity](https://github.com/An-3/mcp-audacity): Facilitates remote control of Audacity through MCP endpoints using named pipes and the mod-script-pipe interface.
@@ -79,8 +77,6 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [demon24ru/fish-speech-mcp](https://github.com/demon24ru/fish-speech-mcp): Facilitates text-to-speech synthesis for LLMs with FishSpeech integration.
 - [R-lz/mcp-video-digest](https://github.com/R-lz/mcp-video-digest): Facilitates video transcription and summarization from platforms like YouTube and Bilibili using multiple transcription services.
 - [longbowzz/svg2png_mcp](https://github.com/longbowzz/svg2png_mcp): Facilitates SVG to PNG conversion using CairoSVG or Inkscape, integrated with MCP protocol for seamless client interaction.
-- [MCPJam/mcpjam-spotify](https://github.com/MCPJam/mcpjam-spotify): Facilitates seamless integration with Spotify through an MCP server developed by the MCPJam team.
-- [madpharmy/dalle](https://github.com/madpharmy/dalle): Facilitates image generation, editing, and variation creation using OpenAI's DALL-E API.
 - [richbai90/spotify-mcp](https://github.com/richbai90/spotify-mcp): Integrates with Spotify API to manage and create playlists through Claude.
 - [wheattoast11/mcp-video-gen](https://github.com/wheattoast11/mcp-video-gen): Facilitates video and image generation using RunwayML and Luma AI APIs, with capabilities to enhance prompts via OpenRouter LLMs.
 - [IA-Entertainment-git-organization/youtube-video-summarize](https://github.com/IA-Entertainment-git-organization/youtube-video-summarize): Summarizes YouTube videos by extracting and analyzing transcripts using various algorithms, including OpenAI's API for high-quality summaries.
@@ -129,7 +125,6 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [rocksun/gemini-image-mcp-server](https://github.com/rocksun/gemini-image-mcp-server): Provides AI-driven image generation and editing services using the MCP protocol with Google Gemini technology.
 - [okooo5km/unsplash-mcp-server-swift](https://github.com/okooo5km/unsplash-mcp-server-swift): Swift-based server enabling LLMs to search and retrieve photos from Unsplash with advanced filtering options.
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp): Connects AI coding assistants to DaVinci Resolve, enabling natural language control and querying.
-- [mfleurival/FFmpeg](https://github.com/mfleurival/FFmpeg): Facilitates video and audio processing through FFmpeg with capabilities like video trimming, frame extraction, and audio segmentation.
 - [Rupeebw/mcp-image-reader](https://github.com/Rupeebw/mcp-image-reader): A TypeScript-based MCP server that facilitates the creation, management, and summarization of text notes using URIs and metadata.
 - [Garblesnarff/gemini-mcp-server](https://github.com/Garblesnarff/gemini-mcp-server): Facilitates image generation on Claude Desktop using Google's Gemini AI models.
 - [eetumartola/houdini-mcp](https://github.com/eetumartola/houdini-mcp): Facilitates seamless interaction between Claude AI and Houdini for enhanced 3D modeling and scene manipulation.
