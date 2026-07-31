@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-wp-a-nature-academic-search-24b4493d",
+  "source": {
+    "issue": 1491,
+    "projectUrl": "https://github.com/wp-a/nature-academic-search"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Claude Code"
+  ],
+  "license": "MIT"
+}
