@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-happy520ai-unified-ai-system-6379f442",
+  "source": {
+    "projectUrl": "https://github.com/happy520ai/unified-ai-system"
+  },
+  "description": "Terminal-first, self-hosted AI gateway with eight governed MCP tools and a credential-free local fake provider.",
+  "category": "AI & LLM Integration",
+  "links": {
+    "docs": "https://github.com/happy520ai/unified-ai-system/blob/master/docs/codex-mcp-quickstart.md"
+  },
+  "install": {
+    "commands": [
+      "docker run --rm -i ghcr.io/happy520ai/unified-ai-system/mcp-server:0.3.2"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The published MCP image starts an isolated local gateway in fake-provider mode and does not require a provider API key."
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Cline"
+  ],
+  "tools": {
+    "count": 8,
+    "names": [
+      "gateway_health",
+      "gateway_readiness",
+      "gateway_chat",
+      "knowledge_readiness",
+      "workflow_health",
+      "workflow_actions",
+      "workforce_health",
+      "workforce_agents"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "The source repository CI and public-clone verifier cover credential-free startup, MCP tool enumeration, and child-process cleanup."
+    ]
+  }
+}
