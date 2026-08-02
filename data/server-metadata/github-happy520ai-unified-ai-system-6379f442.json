@@ -11,7 +11,7 @@
   },
   "install": {
     "commands": [
-      "docker run --rm -i ghcr.io/happy520ai/unified-ai-system/mcp-server:0.3.2"
+      "docker run --rm -i ghcr.io/happy520ai/unified-ai-system/mcp-server:0.3.3"
     ],
     "env": [],
     "confidence": "high"
