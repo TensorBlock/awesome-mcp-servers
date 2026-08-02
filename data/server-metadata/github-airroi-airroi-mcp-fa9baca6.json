@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-airroi-airroi-mcp-fa9baca6",
+  "source": {
+    "issue": 1517,
+    "projectUrl": "https://github.com/airroi/airroi-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.airroi.com"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL",
+      "KEY",
+      "YOUR_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "and any MCP client supporting remote Streamable HTTP servers"
+  ],
+  "license": "MIT"
+}
