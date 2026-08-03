@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "Node.js: 20+"
+      "npx -y agent-only-mcp"
     ],
     "env": [],
     "confidence": "medium"
