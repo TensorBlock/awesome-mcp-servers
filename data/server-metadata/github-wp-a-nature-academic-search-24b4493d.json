@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-wp-a-nature-academic-search-24b4493d",
+  "source": {
+    "issue": 1491,
+    "projectUrl": "https://github.com/wp-a/nature-academic-search"
+  },
+  "install": {
+    "commands": [
+      "PUBMED_EMAIL=researcher@example.com uvx --from nature-academic-search==0.2.0 nature-academic-search-mcp"
+    ],
+    "env": [
+      "PUBMED_EMAIL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Claude Code"
+  ],
+  "license": "MIT"
+}
