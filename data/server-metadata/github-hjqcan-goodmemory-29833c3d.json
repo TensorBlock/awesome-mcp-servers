@@ -12,7 +12,7 @@
   },
   "install": {
     "commands": [
-      "npx -y goodmemory@0.7.0 mcp serve --standalone --user-id YOUR_USER_ID"
+      "npx -y goodmemory@0.7.1 mcp serve --standalone --user-id YOUR_USER_ID"
     ],
     "env": [],
     "confidence": "medium"
