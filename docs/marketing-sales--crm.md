@@ -2,6 +2,7 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [SalesTouch](https://github.com/antoineDsh/SalesTouch): Connect AI agents to LinkedIn prospecting workflows for profile, company, and post research; lead qualification; conversations; follow-ups; content engagement; and publishing. Remote endpoint: `https://www.salestouch.io/api/mcp`; Transport: Streamable HTTP; Auth: OAuth.
 - [SyncGTM Enrichment MCP](https://docs.syncgtm.com/mcp_server): B2B data enrichment MCP server for organization enrichment, person enrichment, and buying-signal detection across 20+ data providers with 75+ enrichment actions.
 - [onlineprfoundation/online-pr-mcp](https://github.com/onlineprfoundation/online-pr-mcp): PR workflow MCP server with 11 tools for agencies, publications, press release distribution, quote handling, and order workflows. Install: `npx online-pr-mcp`.
 - [Sequenzy/mcp](https://github.com/Sequenzy/mcp): Official Sequenzy MCP server for AI agents to manage email marketing automation: subscribers, lists, segments, templates, campaigns, sequences, transactional email, analytics, and AI-generated email content. Remote endpoint: `https://api.sequenzy.com/v1/mcp`; npm package: `@sequenzy/mcp`.

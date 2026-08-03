@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-airroi-airroi-mcp-fa9baca6",
+  "source": {
+    "issue": 1517,
+    "projectUrl": "https://github.com/airroi/airroi-mcp"
+  },
+  "links": {
+    "docs": "https://www.airroi.com/mcp-server",
+    "endpoint": "https://mcp.airroi.com"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "X-API-KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Send an X-API-KEY header. Free API keys are available from AirROI."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 22,
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

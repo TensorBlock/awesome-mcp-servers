@@ -14,7 +14,7 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "Send the API key in the X-CruiseFeed-Key header. A free key is available from CruiseFeed."
     ]
   },
   "clients": [
