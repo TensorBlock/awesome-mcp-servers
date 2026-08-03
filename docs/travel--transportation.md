@@ -24,7 +24,6 @@ Servers providing data or services related to flights, trains, transportation AP
 - [hrishabhn/flight-mcp](https://github.com/hrishabhn/flight-mcp): Facilitates flight queries and bookings using the RapidAPI Skyscanner API through the Model Context Protocol.
 - [Ignav Flights](https://ignav.com/mcp): Streamable HTTP transport, endpoint [https://ignav.com/mcp](https://ignav.com/mcp), docs [https://ignav.com/docs/mcp](https://ignav.com/docs/mcp), auth anonymous testing plus optional API key.
 - [birariro/agoda-review-mcp](https://github.com/birariro/agoda-review-mcp): Facilitates LLMs in retrieving and aggregating Agoda hotel reviews for enhanced decision-making.
-- [arjunkmrm/sg-lta-mcp](https://github.com/arjunkmrm/sg-lta-mcp): Access real-time transportation data from Singapore's Land Transport Authority via an MCP server.
 - [Cyreslab-AI/flightradar24-mcp-server](https://github.com/Cyreslab-AI/flightradar24-mcp-server): Provides real-time flight tracking data from Flightradar24 via a Model Context Protocol server.
 - [kennyckk/mcp_hkbus](https://github.com/kennyckk/mcp_hkbus): Provides real-time access to Hong Kong's KMB and Long Win Bus route information and arrival times for Language Models.
 - [pab1it0/tripadvisor-mcp](https://github.com/pab1it0/tripadvisor-mcp): Facilitates AI-driven exploration of Tripadvisor's location data, reviews, and photos via standardized MCP interfaces.
@@ -39,7 +38,6 @@ Servers providing data or services related to flights, trains, transportation AP
 - [lumile/lumbretravel-mcp](https://github.com/lumile/lumbretravel-mcp): Facilitates seamless integration with the LumbreTravel API for managing travel programs and activities.
 - [ticketlens/ticketlens-experiences-mcp](https://github.com/ticketlens/ticketlens-experiences-mcp): Official remote MCP and REST API for destination experiences, including tours, attraction tickets, sports tickets, and events.
 - [MariyaFilippova/mcp-strava](https://github.com/MariyaFilippova/mcp-strava): Facilitates seamless integration between Strava APIs and Claude for Desktop, enabling efficient interaction with Strava activity data.
-- [ben4mn/amadeus-mcp](https://github.com/ben4mn/amadeus-mcp): Integrates Amadeus flight search capabilities with Claude Desktop for seamless travel planning.
 - [sarunasdaujotis/vilnius-transport-mcp-server](https://github.com/sarunasdaujotis/vilnius-transport-mcp-server): Enables LLMs to access real-time Vilnius public transport data for enhanced query responses.
 - [fortran01/smarttour](https://github.com/fortran01/smarttour): SmartTour optimizes tourist itineraries by integrating real-time crowd and traffic data to enhance sightseeing experiences in Toronto.
 - [GongRzhe/TRAVEL-PLANNER-MCP-Server](https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server): Facilitates travel-related tasks by integrating with Google Maps for location search, place details, and route calculations.
