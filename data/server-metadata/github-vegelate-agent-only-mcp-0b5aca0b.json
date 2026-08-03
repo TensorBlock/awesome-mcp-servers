@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-vegelate-agent-only-mcp-0b5aca0b",
+  "source": {
+    "issue": 1494,
+    "projectUrl": "https://github.com/vegelate/agent-only-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y agent-only-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}

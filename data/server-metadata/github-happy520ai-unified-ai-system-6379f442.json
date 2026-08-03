@@ -23,5 +23,20 @@
     "Codex and Cline verified",
     "Cursor and other stdio MCP clients are protocol-compatible and documented."
   ],
+  "tools": {
+    "count": 9,
+    "names": [
+      "gateway_health",
+      "gateway_readiness",
+      "gateway_prompt_enhance",
+      "gateway_chat",
+      "knowledge_readiness",
+      "workflow_health",
+      "workflow_actions",
+      "workforce_health",
+      "workforce_agents"
+    ],
+    "source": "self_reported"
+  },
   "license": "Apache-2.0"
 }
