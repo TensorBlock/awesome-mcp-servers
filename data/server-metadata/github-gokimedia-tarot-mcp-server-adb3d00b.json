@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-gokimedia-tarot-mcp-server-adb3d00b",
+  "source": {
+    "issue": 1498,
+    "projectUrl": "https://github.com/gokimedia/tarot-mcp-server"
+  },
+  "install": {
+    "commands": [
+      "npx -y @deckaura/tarot-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "VS Code",
+    "Zed",
+    "Cline and other MCP-compatible clients"
+  ],
+  "license": "MIT"
+}
