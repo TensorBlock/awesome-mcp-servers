@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-fund-z-fundzwatch-mcp-a66e9e32",
+  "source": {
+    "issue": 1545,
+    "projectUrl": "https://github.com/Fund-z/fundzwatch-mcp"
+  },
+  "install": {
+    "commands": [
+      "npm:"
+    ],
+    "env": [
+      "FUNDZWATCH_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "**Optional.** 7 of 14 tools need no credential. A free API key — no credit card, no sales call — is issued instantly at https://www.fundz.net/api-trial and unlocks the remaining 7. Free tier is 500 API calls/month."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "Cline. Also listed on the official MCP registry",
+    "Smithery and Glama."
+  ]
+}
