@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-morluto-rea-458c04cd",
+  "source": {
+    "issue": 1560,
+    "projectUrl": "https://github.com/morluto/rea"
+  },
+  "install": {
+    "commands": [
+      "npx -y rea-agents@latest setup"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf",
+    "Claude Code"
+  ],
+  "license": "MIT"
+}
