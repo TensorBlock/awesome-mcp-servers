@@ -1,0 +1,76 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-outagedeck-mcp-e3150620",
+  "source": {
+    "projectUrl": "https://github.com/outagedeck/mcp"
+  },
+  "description": "Live provider status, stack-wide outage verdicts, incident timelines, and independent uptime history for 172 cloud and SaaS vendors from their official status feeds.",
+  "category": "Monitoring & Observability",
+  "links": {
+    "docs": "https://outagedeck.com/developers/mcp",
+    "endpoint": "https://outagedeck.com/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http outagedeck https://outagedeck.com/api/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Public status, incident, and uptime tools require no account or API key.",
+      "Account-specific custom-provider and alert tools optionally authenticate with an OutageDeck API key or OAuth 2.1."
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI",
+    "Windsurf",
+    "Zed",
+    "OpenAI Agents SDK"
+  ],
+  "tools": {
+    "count": 14,
+    "names": [
+      "get_provider_status",
+      "check_my_stack",
+      "list_active_incidents",
+      "get_incident_details",
+      "get_uptime",
+      "get_outage_report",
+      "search_providers",
+      "list_custom_providers",
+      "add_custom_provider",
+      "update_custom_provider",
+      "remove_custom_provider",
+      "watch_provider",
+      "search",
+      "fetch"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT (repository documentation and registry metadata)",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "MCP initialize and tools/list succeeded against the public endpoint on 2026-08-05.",
+      "Active in the official MCP Registry as com.outagedeck/outagedeck-status version 1.1.0."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "OutageDeck"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
