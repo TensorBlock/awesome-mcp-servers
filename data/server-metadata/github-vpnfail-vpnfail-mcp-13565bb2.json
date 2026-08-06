@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-vpnfail-vpnfail-mcp-13565bb2",
+  "source": {
+    "issue": 1571,
+    "projectUrl": "https://github.com/vpnfail/vpnfail-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.vpn.fail/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Official MCP Inspector CLI"
+  ],
+  "license": "MIT for the public documentation and configuration repository. The hosted backend is not included in the repository."
+}
