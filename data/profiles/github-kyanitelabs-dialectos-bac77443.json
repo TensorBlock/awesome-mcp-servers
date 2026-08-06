@@ -1,0 +1,56 @@
+{
+  "id": "github-kyanitelabs-dialectos-bac77443",
+  "name": "KyaniteLabs/DialectOS",
+  "description": "Spanish dialect localization MCP server and CLI — translate and QA across 25 regional variants with register control and structure preservation.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kyanitelabs-dialectos-bac77443",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kyanitelabs-dialectos-bac77443/badge.svg)](https://tensorblock.co/mcp/servers/github-kyanitelabs-dialectos-bac77443)",
+  "links": {
+    "primary": "https://github.com/KyaniteLabs/DialectOS",
+    "repo": "https://github.com/KyaniteLabs/DialectOS",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

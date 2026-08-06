@@ -3,8 +3,8 @@
   "name": "mystique920/mcp-pandoc-ts",
   "description": "Facilitates document conversion across multiple formats using a TypeScript-based MCP server and a Python Flask host service for executing Pandoc commands.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-mystique920-mcp-pandoc-ts-5771aa76",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mystique920-mcp-pandoc-ts-5771aa76)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mystique920-mcp-pandoc-ts-5771aa76",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mystique920-mcp-pandoc-ts-5771aa76/badge.svg)](https://tensorblock.co/mcp/servers/github-mystique920-mcp-pandoc-ts-5771aa76)",
   "links": {
     "primary": "https://github.com/mystique920/mcp-pandoc-ts",
     "repo": "https://github.com/mystique920/mcp-pandoc-ts",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

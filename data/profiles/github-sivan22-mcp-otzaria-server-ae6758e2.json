@@ -3,8 +3,8 @@
   "name": "Sivan22/mcp-otzaria-server",
   "description": "Facilitates advanced search and reference of Jewish texts for LLMs via the MCP protocol.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-sivan22-mcp-otzaria-server-ae6758e2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sivan22-mcp-otzaria-server-ae6758e2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sivan22-mcp-otzaria-server-ae6758e2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sivan22-mcp-otzaria-server-ae6758e2/badge.svg)](https://tensorblock.co/mcp/servers/github-sivan22-mcp-otzaria-server-ae6758e2)",
   "links": {
     "primary": "https://github.com/Sivan22/mcp-otzaria-server",
     "repo": "https://github.com/Sivan22/mcp-otzaria-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,58 @@
+{
+  "id": "github-unitedideas-agentprobe-9e22b44c",
+  "name": "unitedideas/agentprobe",
+  "description": "Probe any seller URL for agentic commerce readiness. Returns a 0-95 score and grade (NOT_READY/PARTIAL/AGENT_READY/CERTIFIED) across 10 checks: llms.txt, OpenAPI, ai-plugin.json, MCP endpoint, commerce.json, catalog/quote/checkout APIs, payment rail declarations, and refund/contact metadata. One tool: `probe_site(url)`. CI action available.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-unitedideas-agentprobe-9e22b44c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-unitedideas-agentprobe-9e22b44c/badge.svg)](https://tensorblock.co/mcp/servers/github-unitedideas-agentprobe-9e22b44c)",
+  "links": {
+    "primary": "https://github.com/unitedideas/agentprobe",
+    "repo": "https://github.com/unitedideas/agentprobe",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

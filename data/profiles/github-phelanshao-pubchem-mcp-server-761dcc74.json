@@ -3,8 +3,8 @@
   "name": "PhelanShao/pubchem-mcp-server",
   "description": "Facilitates AI-driven queries to the PubChem database for comprehensive chemical compound data retrieval.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-phelanshao-pubchem-mcp-server-761dcc74",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-phelanshao-pubchem-mcp-server-761dcc74)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-phelanshao-pubchem-mcp-server-761dcc74",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-phelanshao-pubchem-mcp-server-761dcc74/badge.svg)](https://tensorblock.co/mcp/servers/github-phelanshao-pubchem-mcp-server-761dcc74)",
   "links": {
     "primary": "https://github.com/PhelanShao/pubchem-mcp-server",
     "repo": "https://github.com/PhelanShao/pubchem-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

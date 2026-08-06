@@ -3,8 +3,8 @@
   "name": "Cicatriiz/timezone-toolkit",
   "description": "Advanced server offering extensive time and timezone functionalities, including astronomical calculations and business day computations.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-cicatriiz-timezone-toolkit-e41f23b2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cicatriiz-timezone-toolkit-e41f23b2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cicatriiz-timezone-toolkit-e41f23b2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cicatriiz-timezone-toolkit-e41f23b2/badge.svg)](https://tensorblock.co/mcp/servers/github-cicatriiz-timezone-toolkit-e41f23b2)",
   "links": {
     "primary": "https://github.com/Cicatriiz/timezone-toolkit",
     "repo": "https://github.com/Cicatriiz/timezone-toolkit",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "blackpilledsoftware-prog/migas-mcp",
   "description": "Query local meeting transcripts from Migas, a macOS meeting copilot with on-device transcription and realtime speaker labels. Search across meetings, get full transcripts, and find what anyone said. Read-only, local SQLite.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-blackpilledsoftware-prog-migas-mcp-cc999957",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-blackpilledsoftware-prog-migas-mcp-cc999957)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-blackpilledsoftware-prog-migas-mcp-cc999957",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-blackpilledsoftware-prog-migas-mcp-cc999957/badge.svg)](https://tensorblock.co/mcp/servers/github-blackpilledsoftware-prog-migas-mcp-cc999957)",
   "links": {
     "primary": "https://github.com/blackpilledsoftware-prog/migas-mcp",
     "repo": "https://github.com/blackpilledsoftware-prog/migas-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

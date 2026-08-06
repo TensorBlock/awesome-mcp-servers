@@ -3,8 +3,8 @@
   "name": "daoch4n/mcp-git",
   "description": "A TypeScript-based MCP server that facilitates Git operations by managing text notes with URIs and metadata, offering tools for note creation and summarization prompts.",
   "category": "Version Control",
-  "profileUrl": "https://tensorblock.co/mcp/github-daoch4n-mcp-git-e76360d4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-daoch4n-mcp-git-e76360d4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-daoch4n-mcp-git-e76360d4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-daoch4n-mcp-git-e76360d4/badge.svg)](https://tensorblock.co/mcp/servers/github-daoch4n-mcp-git-e76360d4)",
   "links": {
     "primary": "https://github.com/daoch4n/mcp-git",
     "repo": "https://github.com/daoch4n/mcp-git",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

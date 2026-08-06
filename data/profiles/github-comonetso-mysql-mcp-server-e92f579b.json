@@ -3,8 +3,8 @@
   "name": "comonetso/mysql-mcp-server",
   "description": "Facilitates interaction with MySQL databases within Cursor IDE using the Model Context Protocol.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-comonetso-mysql-mcp-server-e92f579b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-comonetso-mysql-mcp-server-e92f579b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-comonetso-mysql-mcp-server-e92f579b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-comonetso-mysql-mcp-server-e92f579b/badge.svg)](https://tensorblock.co/mcp/servers/github-comonetso-mysql-mcp-server-e92f579b)",
   "links": {
     "primary": "https://github.com/comonetso/mysql-mcp-server",
     "repo": "https://github.com/comonetso/mysql-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

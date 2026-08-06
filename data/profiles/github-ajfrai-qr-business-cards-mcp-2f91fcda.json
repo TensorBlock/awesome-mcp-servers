@@ -1,0 +1,56 @@
+{
+  "id": "github-ajfrai-qr-business-cards-mcp-2f91fcda",
+  "name": "ajfrai/qr-business-cards-mcp",
+  "description": "Create digital business card profiles and generate QR codes via MCP. AI assistants can create professional contact cards with name, title, company, and social links on behalf of users. Remote server at `https://qr-business-cards.com/api/mcp`.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ajfrai-qr-business-cards-mcp-2f91fcda",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ajfrai-qr-business-cards-mcp-2f91fcda/badge.svg)](https://tensorblock.co/mcp/servers/github-ajfrai-qr-business-cards-mcp-2f91fcda)",
+  "links": {
+    "primary": "https://github.com/ajfrai/qr-business-cards-mcp",
+    "repo": "https://github.com/ajfrai/qr-business-cards-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://qr-business-cards.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "crashstory-com-mcp-3bcb61b4",
+  "name": "CrashStory MCP",
+  "description": "Colorado crash data and attorney-search MCP server with 15 tools for querying 594K+ crash records by location, date, and severity, plus AI-analyzed review intelligence for 600+ personal injury attorneys. Streamable HTTP endpoint: https://crashstory-mcp-production.up.railway.app/mcp. Public read-only. MIT.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/servers/crashstory-com-mcp-3bcb61b4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/crashstory-com-mcp-3bcb61b4/badge.svg)](https://tensorblock.co/mcp/servers/crashstory-com-mcp-3bcb61b4)",
+  "links": {
+    "primary": "https://crashstory.com/mcp",
+    "repo": null,
+    "homepage": "https://crashstory.com/mcp",
+    "docs": null,
+    "endpoint": "https://crashstory-mcp-production.up.railway.app/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 15
+  }
+}

@@ -3,14 +3,46 @@
   "name": "guoling2008/go-mcp-postgres",
   "description": "A zero-burden MCP server for seamless interaction with PostgreSQL, supporting automation in SSE and stdio modes with internationalization.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-guoling2008-go-mcp-postgres-b2d3fdfa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-guoling2008-go-mcp-postgres-b2d3fdfa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-guoling2008-go-mcp-postgres-b2d3fdfa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-guoling2008-go-mcp-postgres-b2d3fdfa/badge.svg)](https://tensorblock.co/mcp/servers/github-guoling2008-go-mcp-postgres-b2d3fdfa)",
   "links": {
     "primary": "https://github.com/guoling2008/go-mcp-postgres",
     "repo": "https://github.com/guoling2008/go-mcp-postgres",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

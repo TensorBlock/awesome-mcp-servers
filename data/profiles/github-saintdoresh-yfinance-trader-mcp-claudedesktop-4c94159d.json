@@ -3,8 +3,8 @@
   "name": "SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop",
   "description": "Provides stock market data and trading capabilities using the yfinance library, tailored for integration with Claude Desktop.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-saintdoresh-yfinance-trader-mcp-claudedesktop-4c94159d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-saintdoresh-yfinance-trader-mcp-claudedesktop-4c94159d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-saintdoresh-yfinance-trader-mcp-claudedesktop-4c94159d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-saintdoresh-yfinance-trader-mcp-claudedesktop-4c94159d/badge.svg)](https://tensorblock.co/mcp/servers/github-saintdoresh-yfinance-trader-mcp-claudedesktop-4c94159d)",
   "links": {
     "primary": "https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop",
     "repo": "https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "OzorOwn/defi-mcp",
   "description": "DeFi MCP server providing 12 tools: token prices (CoinGecko), multi-chain wallet balances across 6 EVM chains, gas prices, and DEX swap quotes via 1inch (EVM) + Jupiter (Solana). No API key required for basic usage. MIT license.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-ozorown-defi-mcp-e5818830",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ozorown-defi-mcp-e5818830)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ozorown-defi-mcp-e5818830",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ozorown-defi-mcp-e5818830/badge.svg)](https://tensorblock.co/mcp/servers/github-ozorown-defi-mcp-e5818830)",
   "links": {
     "primary": "https://github.com/OzorOwn/defi-mcp",
     "repo": "https://github.com/OzorOwn/defi-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "none",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 12
   }

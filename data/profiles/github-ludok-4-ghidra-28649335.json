@@ -3,8 +3,8 @@
   "name": "Ludok-4/Ghidra",
   "description": "ghidraMCP enables LLMs to autonomously reverse engineer applications by integrating Ghidra's decompilation and analysis tools with MCP clients.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-ludok-4-ghidra-28649335",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ludok-4-ghidra-28649335)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ludok-4-ghidra-28649335",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ludok-4-ghidra-28649335/badge.svg)](https://tensorblock.co/mcp/servers/github-ludok-4-ghidra-28649335)",
   "links": {
     "primary": "https://github.com/Ludok-4/Ghidra",
     "repo": "https://github.com/Ludok-4/Ghidra",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

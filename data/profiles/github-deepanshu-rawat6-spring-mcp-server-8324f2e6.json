@@ -3,8 +3,8 @@
   "name": "deepanshu-rawat6/Spring_MCP_Server",
   "description": "A Spring Boot application serving as an MCP server to expose information about Deepanshu Rawat through AI-powered tools.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-deepanshu-rawat6-spring-mcp-server-8324f2e6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-deepanshu-rawat6-spring-mcp-server-8324f2e6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-deepanshu-rawat6-spring-mcp-server-8324f2e6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-deepanshu-rawat6-spring-mcp-server-8324f2e6/badge.svg)](https://tensorblock.co/mcp/servers/github-deepanshu-rawat6-spring-mcp-server-8324f2e6)",
   "links": {
     "primary": "https://github.com/deepanshu-rawat6/Spring_MCP_Server",
     "repo": "https://github.com/deepanshu-rawat6/Spring_MCP_Server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "falahgs/Gemini-Email-Subject-Generator-MCP",
   "description": "Leverages Google's Gemini Flash 2 AI model to generate engaging email subjects and detailed thinking processes, integrating seamlessly with Claude Desktop.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-falahgs-gemini-email-subject-generator-mcp-1dc089c9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-falahgs-gemini-email-subject-generator-mcp-1dc089c9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-falahgs-gemini-email-subject-generator-mcp-1dc089c9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-falahgs-gemini-email-subject-generator-mcp-1dc089c9/badge.svg)](https://tensorblock.co/mcp/servers/github-falahgs-gemini-email-subject-generator-mcp-1dc089c9)",
   "links": {
     "primary": "https://github.com/falahgs/Gemini-Email-Subject-Generator-MCP",
     "repo": "https://github.com/falahgs/Gemini-Email-Subject-Generator-MCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

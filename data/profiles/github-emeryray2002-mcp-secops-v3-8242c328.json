@@ -3,8 +3,8 @@
   "name": "emeryray2002/mcp-secops-v3",
   "description": "Facilitates interaction with Google's Chronicle Security Operations API for security event management and alert retrieval.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-emeryray2002-mcp-secops-v3-8242c328",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-emeryray2002-mcp-secops-v3-8242c328)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-emeryray2002-mcp-secops-v3-8242c328",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-emeryray2002-mcp-secops-v3-8242c328/badge.svg)](https://tensorblock.co/mcp/servers/github-emeryray2002-mcp-secops-v3-8242c328)",
   "links": {
     "primary": "https://github.com/emeryray2002/mcp-secops-v3",
     "repo": "https://github.com/emeryray2002/mcp-secops-v3",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

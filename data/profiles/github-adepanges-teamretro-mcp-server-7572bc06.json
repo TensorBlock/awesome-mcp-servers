@@ -3,8 +3,8 @@
   "name": "adepanges/teamretro-mcp-server",
   "description": "Facilitates seamless integration with TeamRetro's API for enhanced retrospective management.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-adepanges-teamretro-mcp-server-7572bc06",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adepanges-teamretro-mcp-server-7572bc06)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-adepanges-teamretro-mcp-server-7572bc06",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-adepanges-teamretro-mcp-server-7572bc06/badge.svg)](https://tensorblock.co/mcp/servers/github-adepanges-teamretro-mcp-server-7572bc06)",
   "links": {
     "primary": "https://github.com/adepanges/teamretro-mcp-server",
     "repo": "https://github.com/adepanges/teamretro-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

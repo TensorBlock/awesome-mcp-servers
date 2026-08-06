@@ -3,8 +3,8 @@
   "name": "umshere/uiflowchartcreator",
   "description": "Facilitates the creation of UI flowcharts through an MCP server, enhancing visualization of user interfaces and interactions.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-umshere-uiflowchartcreator-693c5e27",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-umshere-uiflowchartcreator-693c5e27)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-umshere-uiflowchartcreator-693c5e27",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-umshere-uiflowchartcreator-693c5e27/badge.svg)](https://tensorblock.co/mcp/servers/github-umshere-uiflowchartcreator-693c5e27)",
   "links": {
     "primary": "https://github.com/umshere/uiflowchartcreator",
     "repo": "https://github.com/umshere/uiflowchartcreator",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

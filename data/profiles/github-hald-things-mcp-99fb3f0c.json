@@ -3,8 +3,8 @@
   "name": "hald/things-mcp",
   "description": "Facilitates interaction with task management data in Things app using Claude Desktop, enabling task creation, project analysis, and priority management.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-hald-things-mcp-99fb3f0c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hald-things-mcp-99fb3f0c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hald-things-mcp-99fb3f0c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hald-things-mcp-99fb3f0c/badge.svg)](https://tensorblock.co/mcp/servers/github-hald-things-mcp-99fb3f0c)",
   "links": {
     "primary": "https://github.com/hald/things-mcp",
     "repo": "https://github.com/hald/things-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

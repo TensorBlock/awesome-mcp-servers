@@ -1,0 +1,58 @@
+{
+  "id": "github-ndesv21-socialclaw-6e86cc19",
+  "name": "ndesv21/socialclaw",
+  "description": "Schedule, publish, and track social posts for AI agents across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress. 17 tools for validating/scheduling posts, uploading media, managing connected accounts, retries, run status, and analytics. Hosted streamable-HTTP MCP at `https://getsocialclaw.com/mcp` (Bearer API key) plus the `socialclaw` npm package via `npx socialclaw mcp`.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ndesv21-socialclaw-6e86cc19",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ndesv21-socialclaw-6e86cc19/badge.svg)](https://tensorblock.co/mcp/servers/github-ndesv21-socialclaw-6e86cc19)",
+  "links": {
+    "primary": "https://github.com/ndesv21/socialclaw",
+    "repo": "https://github.com/ndesv21/socialclaw",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://getsocialclaw.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npm package via"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "bearer",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": 17
+  }
+}

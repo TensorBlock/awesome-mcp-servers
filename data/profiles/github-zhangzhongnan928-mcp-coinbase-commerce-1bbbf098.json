@@ -3,8 +3,8 @@
   "name": "zhangzhongnan928/mcp-coinbase-commerce",
   "description": "Facilitates the generation of cryptocurrency payment links via Coinbase Commerce, integrating seamlessly with AI assistants like Claude.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-zhangzhongnan928-mcp-coinbase-commerce-1bbbf098",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zhangzhongnan928-mcp-coinbase-commerce-1bbbf098)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zhangzhongnan928-mcp-coinbase-commerce-1bbbf098",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zhangzhongnan928-mcp-coinbase-commerce-1bbbf098/badge.svg)](https://tensorblock.co/mcp/servers/github-zhangzhongnan928-mcp-coinbase-commerce-1bbbf098)",
   "links": {
     "primary": "https://github.com/zhangzhongnan928/mcp-coinbase-commerce",
     "repo": "https://github.com/zhangzhongnan928/mcp-coinbase-commerce",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

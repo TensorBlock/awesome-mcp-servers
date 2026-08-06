@@ -3,8 +3,8 @@
   "name": "b-open-io/bsv-mcp",
   "description": "Facilitates Bitcoin SV blockchain interactions through the Model Context Protocol, offering tools for wallet management, ordinals, and utility functions.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-b-open-io-bsv-mcp-7238a8f0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-b-open-io-bsv-mcp-7238a8f0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-b-open-io-bsv-mcp-7238a8f0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-b-open-io-bsv-mcp-7238a8f0/badge.svg)](https://tensorblock.co/mcp/servers/github-b-open-io-bsv-mcp-7238a8f0)",
   "links": {
     "primary": "https://github.com/b-open-io/bsv-mcp",
     "repo": "https://github.com/b-open-io/bsv-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

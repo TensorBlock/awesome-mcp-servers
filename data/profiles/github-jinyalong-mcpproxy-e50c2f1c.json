@@ -3,8 +3,8 @@
   "name": "jinyalong/mcpproxy",
   "description": "Facilitates remote execution of MCP servers with SSE support, enabling shared or independent sessions and dynamic configuration.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-jinyalong-mcpproxy-e50c2f1c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jinyalong-mcpproxy-e50c2f1c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jinyalong-mcpproxy-e50c2f1c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jinyalong-mcpproxy-e50c2f1c/badge.svg)](https://tensorblock.co/mcp/servers/github-jinyalong-mcpproxy-e50c2f1c)",
   "links": {
     "primary": "https://github.com/jinyalong/mcpproxy",
     "repo": "https://github.com/jinyalong/mcpproxy",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

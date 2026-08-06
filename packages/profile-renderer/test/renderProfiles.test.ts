@@ -39,6 +39,8 @@ const createEntry = (overrides: Partial<CatalogEntry> = {}): CatalogEntry => ({
     source: "unknown",
   },
   license: "MIT",
+  installReady: true,
+  verifiedAt: null,
   health: {
     repoPublic: null,
     packageFound: null,
@@ -78,7 +80,16 @@ describe("renderProfile", () => {
     });
     expect(profile.clients).toEqual(["claude"]);
     expect(profile.license).toBe("MIT");
+    expect(profile.installReady).toBe(true);
+    expect(profile.verifiedAt).toBeNull();
+    expect(profile.health).toEqual({
+      repoPublic: null,
+      packageFound: null,
+      endpointReachable: null,
+      lastCheckedAt: null,
+    });
     expect(profile.summary.installConfidence).toBe("medium");
+    expect(profile.summary.installReady).toBe(true);
   });
 
   it("removes stale profile JSON files before writing current profiles", () => {

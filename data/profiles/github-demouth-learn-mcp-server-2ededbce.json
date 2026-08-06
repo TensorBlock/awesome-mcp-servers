@@ -3,8 +3,8 @@
   "name": "demouth/learn-mcp-server",
   "description": "A simple MCP server implementation for educational purposes, supporting basic arithmetic operations and integration with Claude Desktop.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-demouth-learn-mcp-server-2ededbce",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-demouth-learn-mcp-server-2ededbce)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-demouth-learn-mcp-server-2ededbce",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-demouth-learn-mcp-server-2ededbce/badge.svg)](https://tensorblock.co/mcp/servers/github-demouth-learn-mcp-server-2ededbce)",
   "links": {
     "primary": "https://github.com/demouth/learn-mcp-server",
     "repo": "https://github.com/demouth/learn-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

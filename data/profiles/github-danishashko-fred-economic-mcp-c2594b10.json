@@ -1,0 +1,58 @@
+{
+  "id": "github-danishashko-fred-economic-mcp-c2594b10",
+  "name": "danishashko/fred-economic-mcp",
+  "description": "Federal Reserve economic data (FRED): 800,000+ time series including GDP, inflation, unemployment, and interest rates, with transforms and a one-call economic snapshot. 6 tools, free API key, install via `npx fred-economic-mcp`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-danishashko-fred-economic-mcp-c2594b10",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-danishashko-fred-economic-mcp-c2594b10/badge.svg)](https://tensorblock.co/mcp/servers/github-danishashko-fred-economic-mcp-c2594b10)",
+  "links": {
+    "primary": "https://github.com/danishashko/fred-economic-mcp",
+    "repo": "https://github.com/danishashko/fred-economic-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx fred-economic-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 6
+  }
+}

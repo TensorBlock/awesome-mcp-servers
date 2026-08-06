@@ -3,8 +3,8 @@
   "name": "mkusaka/mcp-shell-server",
   "description": "Facilitates AI agents in executing shell commands across various environments with robust error handling and logging.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-mkusaka-mcp-shell-server-b0e3f45b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mkusaka-mcp-shell-server-b0e3f45b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mkusaka-mcp-shell-server-b0e3f45b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mkusaka-mcp-shell-server-b0e3f45b/badge.svg)](https://tensorblock.co/mcp/servers/github-mkusaka-mcp-shell-server-b0e3f45b)",
   "links": {
     "primary": "https://github.com/mkusaka/mcp-shell-server",
     "repo": "https://github.com/mkusaka/mcp-shell-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Rkm1999/CelestialMCP",
   "description": "CelestialMCP offers precise astronomical calculations for celestial object positions and rise/set times, integrating seamlessly with Claude AI.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-rkm1999-celestialmcp-cf4bc790",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rkm1999-celestialmcp-cf4bc790)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rkm1999-celestialmcp-cf4bc790",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rkm1999-celestialmcp-cf4bc790/badge.svg)](https://tensorblock.co/mcp/servers/github-rkm1999-celestialmcp-cf4bc790)",
   "links": {
     "primary": "https://github.com/Rkm1999/CelestialMCP",
     "repo": "https://github.com/Rkm1999/CelestialMCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

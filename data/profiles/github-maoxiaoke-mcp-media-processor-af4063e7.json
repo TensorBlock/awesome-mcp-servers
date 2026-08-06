@@ -3,8 +3,8 @@
   "name": "maoxiaoke/mcp-media-processor",
   "description": "Node.js server for advanced video and image processing using MCP, featuring conversion, compression, and editing capabilities.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-maoxiaoke-mcp-media-processor-af4063e7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maoxiaoke-mcp-media-processor-af4063e7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-maoxiaoke-mcp-media-processor-af4063e7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-maoxiaoke-mcp-media-processor-af4063e7/badge.svg)](https://tensorblock.co/mcp/servers/github-maoxiaoke-mcp-media-processor-af4063e7)",
   "links": {
     "primary": "https://github.com/maoxiaoke/mcp-media-processor",
     "repo": "https://github.com/maoxiaoke/mcp-media-processor",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

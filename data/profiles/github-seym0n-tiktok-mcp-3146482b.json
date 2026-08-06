@@ -3,8 +3,8 @@
   "name": "Seym0n/tiktok-mcp",
   "description": "Integrates TikTok access into Claude AI and other apps, enabling analysis and interaction with TikTok videos.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-seym0n-tiktok-mcp-3146482b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-seym0n-tiktok-mcp-3146482b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-seym0n-tiktok-mcp-3146482b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-seym0n-tiktok-mcp-3146482b/badge.svg)](https://tensorblock.co/mcp/servers/github-seym0n-tiktok-mcp-3146482b)",
   "links": {
     "primary": "https://github.com/Seym0n/tiktok-mcp",
     "repo": "https://github.com/Seym0n/tiktok-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

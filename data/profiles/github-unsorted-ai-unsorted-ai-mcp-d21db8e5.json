@@ -3,8 +3,8 @@
   "name": "unsorted-ai/unsorted-ai-mcp",
   "description": "Facilitates interaction with the Monad blockchain using Alchemy's API, enabling LLM-powered agents to fetch on-chain token balances.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-unsorted-ai-unsorted-ai-mcp-d21db8e5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-unsorted-ai-unsorted-ai-mcp-d21db8e5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-unsorted-ai-unsorted-ai-mcp-d21db8e5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-unsorted-ai-unsorted-ai-mcp-d21db8e5/badge.svg)](https://tensorblock.co/mcp/servers/github-unsorted-ai-unsorted-ai-mcp-d21db8e5)",
   "links": {
     "primary": "https://github.com/unsorted-ai/unsorted-ai-mcp",
     "repo": "https://github.com/unsorted-ai/unsorted-ai-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

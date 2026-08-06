@@ -3,8 +3,8 @@
   "name": "h0rv/d2-mcp",
   "description": "Facilitates the integration of D2 diagram creation and validation into development workflows, offering syntax validation and rendering capabilities.",
   "category": "Gaming",
-  "profileUrl": "https://tensorblock.co/mcp/github-h0rv-d2-mcp-de8e1187",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-h0rv-d2-mcp-de8e1187)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-h0rv-d2-mcp-de8e1187",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-h0rv-d2-mcp-de8e1187/badge.svg)](https://tensorblock.co/mcp/servers/github-h0rv-d2-mcp-de8e1187)",
   "links": {
     "primary": "https://github.com/h0rv/d2-mcp",
     "repo": "https://github.com/h0rv/d2-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

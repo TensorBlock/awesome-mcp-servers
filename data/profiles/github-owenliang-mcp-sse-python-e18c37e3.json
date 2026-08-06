@@ -3,8 +3,8 @@
   "name": "owenliang/mcp-sse-python",
   "description": "Facilitates real-time data streaming from websites using Server-Sent Events (SSE) with MCP integration.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-owenliang-mcp-sse-python-e18c37e3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-owenliang-mcp-sse-python-e18c37e3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-owenliang-mcp-sse-python-e18c37e3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-owenliang-mcp-sse-python-e18c37e3/badge.svg)](https://tensorblock.co/mcp/servers/github-owenliang-mcp-sse-python-e18c37e3)",
   "links": {
     "primary": "https://github.com/owenliang/mcp-sse-python",
     "repo": "https://github.com/owenliang/mcp-sse-python",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

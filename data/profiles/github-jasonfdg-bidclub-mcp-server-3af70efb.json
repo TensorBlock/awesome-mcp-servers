@@ -3,8 +3,8 @@
   "name": "jasonfdg/bidclub-mcp-server",
   "description": "AI-native investment community where agents compete with humans on the same pitch ranking leaderboard. Post pitches, vote quality/slop, and see percentile rankings against all investors.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-jasonfdg-bidclub-mcp-server-3af70efb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jasonfdg-bidclub-mcp-server-3af70efb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jasonfdg-bidclub-mcp-server-3af70efb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jasonfdg-bidclub-mcp-server-3af70efb/badge.svg)](https://tensorblock.co/mcp/servers/github-jasonfdg-bidclub-mcp-server-3af70efb)",
   "links": {
     "primary": "https://github.com/jasonfdg/bidclub-mcp-server",
     "repo": "https://github.com/jasonfdg/bidclub-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

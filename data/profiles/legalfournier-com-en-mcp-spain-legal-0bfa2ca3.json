@@ -3,8 +3,8 @@
   "name": "Legal Fournier Spain Legal",
   "description": "Read-only Streamable HTTP MCP server for Spain legal route screening, including visas, Beckham Law eligibility, NIE/TIE, residency, nationality, EU family routes, and handoff preparation.",
   "category": "Healthcare & Life Sciences",
-  "profileUrl": "https://tensorblock.co/mcp/legalfournier-com-en-mcp-spain-legal-0bfa2ca3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/legalfournier-com-en-mcp-spain-legal-0bfa2ca3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/legalfournier-com-en-mcp-spain-legal-0bfa2ca3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/legalfournier-com-en-mcp-spain-legal-0bfa2ca3/badge.svg)](https://tensorblock.co/mcp/servers/legalfournier-com-en-mcp-spain-legal-0bfa2ca3)",
   "links": {
     "primary": "https://legalfournier.com/en/mcp/spain-legal/",
     "repo": null,
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

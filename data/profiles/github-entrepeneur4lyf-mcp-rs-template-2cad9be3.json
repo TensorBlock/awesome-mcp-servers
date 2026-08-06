@@ -3,8 +3,8 @@
   "name": "entrepeneur4lyf/mcp-rs-template",
   "description": "A Rust-based template for implementing MCP CLI servers, facilitating seamless integration between LLM applications and external data sources.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-entrepeneur4lyf-mcp-rs-template-2cad9be3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-entrepeneur4lyf-mcp-rs-template-2cad9be3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-entrepeneur4lyf-mcp-rs-template-2cad9be3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-entrepeneur4lyf-mcp-rs-template-2cad9be3/badge.svg)](https://tensorblock.co/mcp/servers/github-entrepeneur4lyf-mcp-rs-template-2cad9be3)",
   "links": {
     "primary": "https://github.com/entrepeneur4lyf/mcp-rs-template",
     "repo": "https://github.com/entrepeneur4lyf/mcp-rs-template",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

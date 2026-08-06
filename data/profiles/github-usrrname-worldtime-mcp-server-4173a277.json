@@ -3,8 +3,8 @@
   "name": "usrrname/worldtime-mcp-server",
   "description": "Provides current time information for various timezones using the WorldTime and TimezoneDB APIs.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-usrrname-worldtime-mcp-server-4173a277",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-usrrname-worldtime-mcp-server-4173a277)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-usrrname-worldtime-mcp-server-4173a277",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-usrrname-worldtime-mcp-server-4173a277/badge.svg)](https://tensorblock.co/mcp/servers/github-usrrname-worldtime-mcp-server-4173a277)",
   "links": {
     "primary": "https://github.com/usrrname/worldtime-mcp-server",
     "repo": "https://github.com/usrrname/worldtime-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

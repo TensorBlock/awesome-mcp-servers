@@ -3,8 +3,8 @@
   "name": "mz462/mcpPaylocity",
   "description": "Fetches and manages employee and payroll data from Paylocity using a custom MCP server.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-mz462-mcppaylocity-9f6a343a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mz462-mcppaylocity-9f6a343a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mz462-mcppaylocity-9f6a343a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mz462-mcppaylocity-9f6a343a/badge.svg)](https://tensorblock.co/mcp/servers/github-mz462-mcppaylocity-9f6a343a)",
   "links": {
     "primary": "https://github.com/mz462/mcpPaylocity",
     "repo": "https://github.com/mz462/mcpPaylocity",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

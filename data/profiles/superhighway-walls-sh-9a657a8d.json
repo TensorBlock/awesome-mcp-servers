@@ -1,0 +1,56 @@
+{
+  "id": "superhighway-walls-sh-9a657a8d",
+  "name": "Superhighway",
+  "description": "Web search API for AI agents — search, news, images, scrape, and deep research. Agents pay per call in USDC via x402 (no signup needed) or use a free API key. Five tools.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/servers/superhighway-walls-sh-9a657a8d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/superhighway-walls-sh-9a657a8d/badge.svg)](https://tensorblock.co/mcp/servers/superhighway-walls-sh-9a657a8d)",
+  "links": {
+    "primary": "https://superhighway.walls.sh",
+    "repo": null,
+    "homepage": "https://superhighway.walls.sh",
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

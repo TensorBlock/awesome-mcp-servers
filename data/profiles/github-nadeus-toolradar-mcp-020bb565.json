@@ -3,8 +3,8 @@
   "name": "Nadeus/toolradar-mcp",
   "description": "Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, and real alternatives.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-nadeus-toolradar-mcp-020bb565",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nadeus-toolradar-mcp-020bb565)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nadeus-toolradar-mcp-020bb565",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nadeus-toolradar-mcp-020bb565/badge.svg)](https://tensorblock.co/mcp/servers/github-nadeus-toolradar-mcp-020bb565)",
   "links": {
     "primary": "https://github.com/Nadeus/toolradar-mcp",
     "repo": "https://github.com/Nadeus/toolradar-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

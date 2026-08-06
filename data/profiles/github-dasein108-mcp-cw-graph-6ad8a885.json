@@ -3,8 +3,8 @@
   "name": "dasein108/mcp-cw-graph",
   "description": "Facilitates interaction with CW-Social smart contracts on Cosmos blockchains through CRUD operations and rich query capabilities for cyberlinks.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-dasein108-mcp-cw-graph-6ad8a885",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dasein108-mcp-cw-graph-6ad8a885)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dasein108-mcp-cw-graph-6ad8a885",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dasein108-mcp-cw-graph-6ad8a885/badge.svg)](https://tensorblock.co/mcp/servers/github-dasein108-mcp-cw-graph-6ad8a885)",
   "links": {
     "primary": "https://github.com/dasein108/mcp-cw-graph",
     "repo": "https://github.com/dasein108/mcp-cw-graph",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "dceluis/tasker-mcp",
   "description": "Facilitates automation on Android devices by integrating with Tasker through a customizable MCP server.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-dceluis-tasker-mcp-a6f72b85",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dceluis-tasker-mcp-a6f72b85)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dceluis-tasker-mcp-a6f72b85",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dceluis-tasker-mcp-a6f72b85/badge.svg)](https://tensorblock.co/mcp/servers/github-dceluis-tasker-mcp-a6f72b85)",
   "links": {
     "primary": "https://github.com/dceluis/tasker-mcp",
     "repo": "https://github.com/dceluis/tasker-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

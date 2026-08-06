@@ -3,8 +3,8 @@
   "name": "anchor-x402-mcp",
   "description": "16 pay-per-call USDC tools on Base + Solana mainnet — nine commodity primitives (hash anchoring, OFAC sanctions screening, signed decision attestation, tx + calldata decode, ENS/SNS resolution, USD token price, datetime parser, bundled wallet intel), one async due-diligence investigator (`/v1/investigate`, $7.77), one verifiable signed RNG (`/v1/roll`), and five universal LLM endpoints (roast, oracle with anchored verdict, tldr, aura, grade). Auto-pay via `x402-fetch` + `viem`; configure one `BASE_PRIVATE_KEY` env var, no API keys. Install: `npx anchor-x402-mcp`. MIT.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-hypeprinter007-stack-anchor-x402-mcp-65e7f942",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hypeprinter007-stack-anchor-x402-mcp-65e7f942)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hypeprinter007-stack-anchor-x402-mcp-65e7f942",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hypeprinter007-stack-anchor-x402-mcp-65e7f942/badge.svg)](https://tensorblock.co/mcp/servers/github-hypeprinter007-stack-anchor-x402-mcp-65e7f942)",
   "links": {
     "primary": "https://github.com/hypeprinter007-stack/anchor-x402-mcp",
     "repo": "https://github.com/hypeprinter007-stack/anchor-x402-mcp",
@@ -12,12 +12,48 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx anchor-x402-mcp"
+    ],
+    "env": [
+      "BASE_PRIVATE_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "none",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "2b3pro/roam-research-mcp",
   "description": "Facilitates AI interaction with Roam Research graphs through a standardized interface, enabling comprehensive API access and advanced data retrieval.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-2b3pro-roam-research-mcp-def13672",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-2b3pro-roam-research-mcp-def13672)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-2b3pro-roam-research-mcp-def13672",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-2b3pro-roam-research-mcp-def13672/badge.svg)](https://tensorblock.co/mcp/servers/github-2b3pro-roam-research-mcp-def13672)",
   "links": {
     "primary": "https://github.com/2b3pro/roam-research-mcp",
     "repo": "https://github.com/2b3pro/roam-research-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

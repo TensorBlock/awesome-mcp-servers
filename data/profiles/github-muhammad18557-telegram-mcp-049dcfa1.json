@@ -3,8 +3,8 @@
   "name": "Muhammad18557/telegram-mcp",
   "description": "Facilitates seamless interaction with Telegram through Claude by enabling message search, contact management, and communication via a Model Context Protocol server.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-muhammad18557-telegram-mcp-049dcfa1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-muhammad18557-telegram-mcp-049dcfa1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-muhammad18557-telegram-mcp-049dcfa1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-muhammad18557-telegram-mcp-049dcfa1/badge.svg)](https://tensorblock.co/mcp/servers/github-muhammad18557-telegram-mcp-049dcfa1)",
   "links": {
     "primary": "https://github.com/Muhammad18557/telegram-mcp",
     "repo": "https://github.com/Muhammad18557/telegram-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "WynnD/mcp-server-shortcut",
   "description": "Facilitates AI assistants' interaction with Shortcut.com's ticket management system, enabling story management and workflow retrieval.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-wynnd-mcp-server-shortcut-b0339369",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wynnd-mcp-server-shortcut-b0339369)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wynnd-mcp-server-shortcut-b0339369",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wynnd-mcp-server-shortcut-b0339369/badge.svg)](https://tensorblock.co/mcp/servers/github-wynnd-mcp-server-shortcut-b0339369)",
   "links": {
     "primary": "https://github.com/WynnD/mcp-server-shortcut",
     "repo": "https://github.com/WynnD/mcp-server-shortcut",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

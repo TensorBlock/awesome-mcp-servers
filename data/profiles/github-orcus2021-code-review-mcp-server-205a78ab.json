@@ -3,8 +3,8 @@
   "name": "Orcus2021/code-review-mcp-server",
   "description": "A Cursor plugin leveraging MCP to automate git diffs and code reviews with Notion integration for guideline retrieval.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-orcus2021-code-review-mcp-server-205a78ab",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-orcus2021-code-review-mcp-server-205a78ab)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-orcus2021-code-review-mcp-server-205a78ab",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-orcus2021-code-review-mcp-server-205a78ab/badge.svg)](https://tensorblock.co/mcp/servers/github-orcus2021-code-review-mcp-server-205a78ab)",
   "links": {
     "primary": "https://github.com/Orcus2021/code-review-mcp-server",
     "repo": "https://github.com/Orcus2021/code-review-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

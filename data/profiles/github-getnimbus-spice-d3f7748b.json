@@ -3,8 +3,8 @@
   "name": "getnimbus/spice",
   "description": "A TypeScript-based server enabling Solana blockchain data queries via the Flipside API, featuring structured metadata access and SQL query examples.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-getnimbus-spice-d3f7748b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-getnimbus-spice-d3f7748b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-getnimbus-spice-d3f7748b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-getnimbus-spice-d3f7748b/badge.svg)](https://tensorblock.co/mcp/servers/github-getnimbus-spice-d3f7748b)",
   "links": {
     "primary": "https://github.com/getnimbus/spice",
     "repo": "https://github.com/getnimbus/spice",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

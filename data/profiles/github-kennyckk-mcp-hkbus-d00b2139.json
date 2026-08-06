@@ -3,8 +3,8 @@
   "name": "kennyckk/mcp_hkbus",
   "description": "Provides real-time access to Hong Kong's KMB and Long Win Bus route information and arrival times for Language Models.",
   "category": "Travel & Transportation",
-  "profileUrl": "https://tensorblock.co/mcp/github-kennyckk-mcp-hkbus-d00b2139",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kennyckk-mcp-hkbus-d00b2139)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kennyckk-mcp-hkbus-d00b2139",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kennyckk-mcp-hkbus-d00b2139/badge.svg)](https://tensorblock.co/mcp/servers/github-kennyckk-mcp-hkbus-d00b2139)",
   "links": {
     "primary": "https://github.com/kennyckk/mcp_hkbus",
     "repo": "https://github.com/kennyckk/mcp_hkbus",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

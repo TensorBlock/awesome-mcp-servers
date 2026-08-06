@@ -3,8 +3,8 @@
   "name": "falahgs/imagen-3.0-generate-google-mcp-server",
   "description": "Harnesses Google's Imagen 3.0 model via the Gemini API for high-quality image generation, seamlessly integrating with MCP-compatible hosts.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-falahgs-imagen-3-0-generate-google-mcp-server-238c1f2a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-falahgs-imagen-3-0-generate-google-mcp-server-238c1f2a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-falahgs-imagen-3-0-generate-google-mcp-server-238c1f2a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-falahgs-imagen-3-0-generate-google-mcp-server-238c1f2a/badge.svg)](https://tensorblock.co/mcp/servers/github-falahgs-imagen-3-0-generate-google-mcp-server-238c1f2a)",
   "links": {
     "primary": "https://github.com/falahgs/imagen-3.0-generate-google-mcp-server",
     "repo": "https://github.com/falahgs/imagen-3.0-generate-google-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

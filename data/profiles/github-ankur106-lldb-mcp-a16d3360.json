@@ -3,8 +3,8 @@
   "name": "ankur106/LLDB_MCP",
   "description": "Facilitates LLDB debugging sessions via MCP for seamless integration with AI assistants like Claude.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-ankur106-lldb-mcp-a16d3360",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ankur106-lldb-mcp-a16d3360)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ankur106-lldb-mcp-a16d3360",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ankur106-lldb-mcp-a16d3360/badge.svg)](https://tensorblock.co/mcp/servers/github-ankur106-lldb-mcp-a16d3360)",
   "links": {
     "primary": "https://github.com/ankur106/LLDB_MCP",
     "repo": "https://github.com/ankur106/LLDB_MCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

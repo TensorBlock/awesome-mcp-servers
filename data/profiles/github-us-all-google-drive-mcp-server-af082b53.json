@@ -3,8 +3,8 @@
   "name": "us-all/google-drive-mcp-server",
   "description": "Google Drive + Workspace MCP server with 98 tools across Docs, Sheets, Slides, Shared Drives, Labels, and Approvals. OAuth2 / Service Account + Domain-Wide Delegation auth.",
   "category": "Filesystems",
-  "profileUrl": "https://tensorblock.co/mcp/github-us-all-google-drive-mcp-server-af082b53",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-us-all-google-drive-mcp-server-af082b53)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-us-all-google-drive-mcp-server-af082b53",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-us-all-google-drive-mcp-server-af082b53/badge.svg)](https://tensorblock.co/mcp/servers/github-us-all-google-drive-mcp-server-af082b53)",
   "links": {
     "primary": "https://github.com/us-all/google-drive-mcp-server",
     "repo": "https://github.com/us-all/google-drive-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "oauth",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 98
   }

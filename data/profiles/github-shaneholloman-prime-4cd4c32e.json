@@ -3,8 +3,8 @@
   "name": "shaneholloman/prime",
   "description": "Prime serves as a CLI host application enabling LLMs to interact with external tools via the Model Context Protocol, supporting models like Claude, OpenAI, and Ollama.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-shaneholloman-prime-4cd4c32e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shaneholloman-prime-4cd4c32e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shaneholloman-prime-4cd4c32e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shaneholloman-prime-4cd4c32e/badge.svg)](https://tensorblock.co/mcp/servers/github-shaneholloman-prime-4cd4c32e)",
   "links": {
     "primary": "https://github.com/shaneholloman/prime",
     "repo": "https://github.com/shaneholloman/prime",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

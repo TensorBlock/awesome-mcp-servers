@@ -3,8 +3,8 @@
   "name": "bitibi/OpenAI-WebSearch-MCP-Server",
   "description": "Facilitates real-time web searches using OpenAI's Responses API through an MCP server implementation.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-bitibi-openai-websearch-mcp-server-99edc5da",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bitibi-openai-websearch-mcp-server-99edc5da)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bitibi-openai-websearch-mcp-server-99edc5da",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bitibi-openai-websearch-mcp-server-99edc5da/badge.svg)](https://tensorblock.co/mcp/servers/github-bitibi-openai-websearch-mcp-server-99edc5da)",
   "links": {
     "primary": "https://github.com/bitibi/OpenAI-WebSearch-MCP-Server",
     "repo": "https://github.com/bitibi/OpenAI-WebSearch-MCP-Server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

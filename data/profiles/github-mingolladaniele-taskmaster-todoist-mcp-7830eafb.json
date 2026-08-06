@@ -3,8 +3,8 @@
   "name": "mingolladaniele/taskMaster-todoist-mcp",
   "description": "Facilitates natural language interaction with Todoist tasks directly from your IDE, enhancing productivity through seamless integration with Cursor AI.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-mingolladaniele-taskmaster-todoist-mcp-7830eafb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mingolladaniele-taskmaster-todoist-mcp-7830eafb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mingolladaniele-taskmaster-todoist-mcp-7830eafb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mingolladaniele-taskmaster-todoist-mcp-7830eafb/badge.svg)](https://tensorblock.co/mcp/servers/github-mingolladaniele-taskmaster-todoist-mcp-7830eafb)",
   "links": {
     "primary": "https://github.com/mingolladaniele/taskMaster-todoist-mcp",
     "repo": "https://github.com/mingolladaniele/taskMaster-todoist-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

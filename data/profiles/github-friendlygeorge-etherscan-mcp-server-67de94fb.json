@@ -1,0 +1,58 @@
+{
+  "id": "github-friendlygeorge-etherscan-mcp-server-67de94fb",
+  "name": "Etherscan MCP Server",
+  "description": "Ethereum blockchain data: balances, transactions, contract ABIs, and token transfers. 12 tools. Free tier available. Install: `npx -y etherscan-mcp-server`. Transport: stdio. License: MIT.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-friendlygeorge-etherscan-mcp-server-67de94fb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-friendlygeorge-etherscan-mcp-server-67de94fb/badge.svg)](https://tensorblock.co/mcp/servers/github-friendlygeorge-etherscan-mcp-server-67de94fb)",
+  "links": {
+    "primary": "https://github.com/friendlygeorge/etherscan-mcp-server",
+    "repo": "https://github.com/friendlygeorge/etherscan-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y etherscan-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": 12
+  }
+}

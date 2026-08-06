@@ -3,8 +3,8 @@
   "name": "superposition/tusky-mcp-server",
   "description": "Facilitates seamless integration between Tusky storage/Mastodon and AI systems like Claude through the Model Context Protocol.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-superposition-tusky-mcp-server-7b1f9ffc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-superposition-tusky-mcp-server-7b1f9ffc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-superposition-tusky-mcp-server-7b1f9ffc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-superposition-tusky-mcp-server-7b1f9ffc/badge.svg)](https://tensorblock.co/mcp/servers/github-superposition-tusky-mcp-server-7b1f9ffc)",
   "links": {
     "primary": "https://github.com/superposition/tusky-mcp-server",
     "repo": "https://github.com/superposition/tusky-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

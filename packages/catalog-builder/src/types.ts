@@ -44,6 +44,8 @@ export interface CatalogEntry {
     source: "self_reported" | "verified" | "unknown";
   };
   license: string;
+  installReady: boolean;
+  verifiedAt: string | null;
   health: {
     repoPublic: boolean | null;
     packageFound: boolean | null;

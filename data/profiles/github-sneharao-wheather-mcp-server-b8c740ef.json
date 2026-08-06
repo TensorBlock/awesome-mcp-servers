@@ -3,8 +3,8 @@
   "name": "sneharao/wheather-mcp-server",
   "description": "Connects with Claude Desktop to provide weather alerts and information using the MCP protocol.",
   "category": "Location & Maps",
-  "profileUrl": "https://tensorblock.co/mcp/github-sneharao-wheather-mcp-server-b8c740ef",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sneharao-wheather-mcp-server-b8c740ef)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sneharao-wheather-mcp-server-b8c740ef",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sneharao-wheather-mcp-server-b8c740ef/badge.svg)](https://tensorblock.co/mcp/servers/github-sneharao-wheather-mcp-server-b8c740ef)",
   "links": {
     "primary": "https://github.com/sneharao/wheather-mcp-server",
     "repo": "https://github.com/sneharao/wheather-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

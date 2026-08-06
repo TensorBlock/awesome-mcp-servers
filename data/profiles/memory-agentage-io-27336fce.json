@@ -1,0 +1,59 @@
+{
+  "id": "memory-agentage-io-27336fce",
+  "name": "Agentage Memory",
+  "description": "One memory, every AI, owned by you - the shared remote memory layer that Claude, Cursor, and ChatGPT read and write through MCP, mirrored locally as plain markdown you own. Remote Streamable HTTP endpoint `https://memory.agentage.io/mcp`. Transport: `streamable-http`. Auth: OAuth 2.1 + PKCE + Dynamic Client Registration. 6 tools: `memory__search`, `memory__read`, `memory__write`, `memory__edit`, `memory__list`, `memory__delete`. Clients: Claude Desktop, Cursor, ChatGPT, any Streamable-HTTP MCP client.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/memory-agentage-io-27336fce",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/memory-agentage-io-27336fce/badge.svg)](https://tensorblock.co/mcp/servers/memory-agentage-io-27336fce)",
+  "links": {
+    "primary": "https://memory.agentage.io",
+    "repo": null,
+    "homepage": "https://memory.agentage.io",
+    "docs": null,
+    "endpoint": "https://memory.agentage.io/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 6
+  }
+}

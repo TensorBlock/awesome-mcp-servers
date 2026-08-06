@@ -3,8 +3,8 @@
   "name": "AnyContext-ai/fastmcp-openapi-server",
   "description": "FastMCP Server facilitates OpenAPI-based API interactions with support for various transport methods and OAuth2 authentication.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-anycontext-ai-fastmcp-openapi-server-078ecb3a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anycontext-ai-fastmcp-openapi-server-078ecb3a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-anycontext-ai-fastmcp-openapi-server-078ecb3a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-anycontext-ai-fastmcp-openapi-server-078ecb3a/badge.svg)](https://tensorblock.co/mcp/servers/github-anycontext-ai-fastmcp-openapi-server-078ecb3a)",
   "links": {
     "primary": "https://github.com/AnyContext-ai/fastmcp-openapi-server",
     "repo": "https://github.com/AnyContext-ai/fastmcp-openapi-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "oauth",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

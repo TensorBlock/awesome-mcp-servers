@@ -3,8 +3,8 @@
   "name": "s-stefanov/actual-mcp",
   "description": "Integrate Actual Budget with LLMs to manage personal finances using natural language queries.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-s-stefanov-actual-mcp-b4fd0ccb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-s-stefanov-actual-mcp-b4fd0ccb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-s-stefanov-actual-mcp-b4fd0ccb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-s-stefanov-actual-mcp-b4fd0ccb/badge.svg)](https://tensorblock.co/mcp/servers/github-s-stefanov-actual-mcp-b4fd0ccb)",
   "links": {
     "primary": "https://github.com/s-stefanov/actual-mcp",
     "repo": "https://github.com/s-stefanov/actual-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

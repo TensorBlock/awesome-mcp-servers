@@ -3,8 +3,8 @@
   "name": "Zeeshanunique/figma_plugin",
   "description": "A development-focused MCP server for Cursor IDE, offering file operations, an interactive CLI, and REST API endpoints.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-zeeshanunique-figma-plugin-83e03fcc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zeeshanunique-figma-plugin-83e03fcc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zeeshanunique-figma-plugin-83e03fcc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zeeshanunique-figma-plugin-83e03fcc/badge.svg)](https://tensorblock.co/mcp/servers/github-zeeshanunique-figma-plugin-83e03fcc)",
   "links": {
     "primary": "https://github.com/Zeeshanunique/figma_plugin",
     "repo": "https://github.com/Zeeshanunique/figma_plugin",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

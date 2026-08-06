@@ -3,8 +3,8 @@
   "name": "RossH121/discord-mcp",
   "description": "Integrates Claude with Discord, enabling message management and server resource handling via MCP.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-rossh121-discord-mcp-525e9e75",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rossh121-discord-mcp-525e9e75)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rossh121-discord-mcp-525e9e75",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rossh121-discord-mcp-525e9e75/badge.svg)](https://tensorblock.co/mcp/servers/github-rossh121-discord-mcp-525e9e75)",
   "links": {
     "primary": "https://github.com/RossH121/discord-mcp",
     "repo": "https://github.com/RossH121/discord-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

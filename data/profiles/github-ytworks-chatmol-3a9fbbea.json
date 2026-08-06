@@ -3,8 +3,8 @@
   "name": "ytworks/chatMol",
   "description": "ChatMol calculates molecular properties from SMILES notations, enabling chemical data analysis with Claude Desktop.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-ytworks-chatmol-3a9fbbea",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ytworks-chatmol-3a9fbbea)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ytworks-chatmol-3a9fbbea",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ytworks-chatmol-3a9fbbea/badge.svg)](https://tensorblock.co/mcp/servers/github-ytworks-chatmol-3a9fbbea)",
   "links": {
     "primary": "https://github.com/ytworks/chatMol",
     "repo": "https://github.com/ytworks/chatMol",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

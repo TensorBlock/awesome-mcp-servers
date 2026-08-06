@@ -3,8 +3,8 @@
   "name": "gulihua10010/mcp-server-article",
   "description": "Automates article generation and publication to platforms like CSDN, Juejin, and Cnblogs using AI and MCP protocol integration.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-gulihua10010-mcp-server-article-2f7a95c8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gulihua10010-mcp-server-article-2f7a95c8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-gulihua10010-mcp-server-article-2f7a95c8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-gulihua10010-mcp-server-article-2f7a95c8/badge.svg)](https://tensorblock.co/mcp/servers/github-gulihua10010-mcp-server-article-2f7a95c8)",
   "links": {
     "primary": "https://github.com/gulihua10010/mcp-server-article",
     "repo": "https://github.com/gulihua10010/mcp-server-article",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

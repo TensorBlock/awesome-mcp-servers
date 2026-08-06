@@ -3,8 +3,8 @@
   "name": "QAInsights/locust-mcp-server",
   "description": "Facilitates seamless integration of Locust load testing with AI-powered environments through a Model Context Protocol server.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-qainsights-locust-mcp-server-509cc79b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qainsights-locust-mcp-server-509cc79b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-qainsights-locust-mcp-server-509cc79b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-qainsights-locust-mcp-server-509cc79b/badge.svg)](https://tensorblock.co/mcp/servers/github-qainsights-locust-mcp-server-509cc79b)",
   "links": {
     "primary": "https://github.com/QAInsights/locust-mcp-server",
     "repo": "https://github.com/QAInsights/locust-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

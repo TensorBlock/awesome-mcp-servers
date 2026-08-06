@@ -1,0 +1,58 @@
+{
+  "id": "github-friendlygeorge-docker-mcp-server-e0efd090",
+  "name": "friendlygeorge/docker-mcp-server",
+  "description": "Docker MCP server for container management, health checks, auto-restart, Compose lifecycle, log streaming, image, volume, network, and system diagnostics workflows. Install: `npx @supernova123/docker-mcp-server`. Stdio transport; no auth beyond local Docker socket access. MIT.",
+  "category": "Build & Deployment Tools",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-friendlygeorge-docker-mcp-server-e0efd090",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-friendlygeorge-docker-mcp-server-e0efd090/badge.svg)](https://tensorblock.co/mcp/servers/github-friendlygeorge-docker-mcp-server-e0efd090)",
+  "links": {
+    "primary": "https://github.com/friendlygeorge/docker-mcp-server",
+    "repo": "https://github.com/friendlygeorge/docker-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx @supernova123/docker-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

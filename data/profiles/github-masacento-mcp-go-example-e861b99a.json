@@ -3,8 +3,8 @@
   "name": "masacento/mcp-go-example",
   "description": "A Go-based example server for the Model Context Protocol, designed for educational purposes with no security or multiuser support.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-masacento-mcp-go-example-e861b99a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-masacento-mcp-go-example-e861b99a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-masacento-mcp-go-example-e861b99a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-masacento-mcp-go-example-e861b99a/badge.svg)](https://tensorblock.co/mcp/servers/github-masacento-mcp-go-example-e861b99a)",
   "links": {
     "primary": "https://github.com/masacento/mcp-go-example",
     "repo": "https://github.com/masacento/mcp-go-example",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

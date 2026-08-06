@@ -3,8 +3,8 @@
   "name": "aashari/mcp-server-atlassian-bitbucket",
   "description": "Node.js/TypeScript server enabling AI systems to interact with Atlassian Bitbucket workspaces, repositories, and pull requests through the MCP interface.",
   "category": "Version Control",
-  "profileUrl": "https://tensorblock.co/mcp/github-aashari-mcp-server-atlassian-bitbucket-b7367ccb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aashari-mcp-server-atlassian-bitbucket-b7367ccb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aashari-mcp-server-atlassian-bitbucket-b7367ccb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aashari-mcp-server-atlassian-bitbucket-b7367ccb/badge.svg)](https://tensorblock.co/mcp/servers/github-aashari-mcp-server-atlassian-bitbucket-b7367ccb)",
   "links": {
     "primary": "https://github.com/aashari/mcp-server-atlassian-bitbucket",
     "repo": "https://github.com/aashari/mcp-server-atlassian-bitbucket",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

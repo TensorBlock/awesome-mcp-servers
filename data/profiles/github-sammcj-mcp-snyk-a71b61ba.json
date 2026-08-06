@@ -3,8 +3,8 @@
   "name": "sammcj/mcp-snyk",
   "description": "Facilitates security scanning of repositories and Snyk projects with integration options for Claude desktop and Snyk CLI.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-sammcj-mcp-snyk-a71b61ba",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sammcj-mcp-snyk-a71b61ba)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sammcj-mcp-snyk-a71b61ba",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sammcj-mcp-snyk-a71b61ba/badge.svg)](https://tensorblock.co/mcp/servers/github-sammcj-mcp-snyk-a71b61ba)",
   "links": {
     "primary": "https://github.com/sammcj/mcp-snyk",
     "repo": "https://github.com/sammcj/mcp-snyk",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

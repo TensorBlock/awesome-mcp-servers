@@ -3,8 +3,8 @@
   "name": "olo-dot-io/Uni-CLI",
   "description": "Self-repairing CLI catalog that exposes web, desktop apps, Electron apps, and bridge CLIs as deterministic commands through one MCP server. Declarative YAML adapters with structured error envelopes let agents fix failing adapters and retry. Live catalog size and per-call token budget tracked in the repo's README and `docs/BENCHMARK.md`.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-olo-dot-io-uni-cli-2a96b5a3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-olo-dot-io-uni-cli-2a96b5a3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-olo-dot-io-uni-cli-2a96b5a3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-olo-dot-io-uni-cli-2a96b5a3/badge.svg)](https://tensorblock.co/mcp/servers/github-olo-dot-io-uni-cli-2a96b5a3)",
   "links": {
     "primary": "https://github.com/olo-dot-io/Uni-CLI",
     "repo": "https://github.com/olo-dot-io/Uni-CLI",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

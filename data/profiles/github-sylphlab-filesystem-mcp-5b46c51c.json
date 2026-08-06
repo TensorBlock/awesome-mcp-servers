@@ -3,8 +3,8 @@
   "name": "sylphlab/filesystem-mcp",
   "description": "Node.js server offering secure and efficient filesystem access for AI agents, ensuring operations are confined to a project root.",
   "category": "Filesystems",
-  "profileUrl": "https://tensorblock.co/mcp/github-sylphlab-filesystem-mcp-5b46c51c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sylphlab-filesystem-mcp-5b46c51c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sylphlab-filesystem-mcp-5b46c51c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sylphlab-filesystem-mcp-5b46c51c/badge.svg)](https://tensorblock.co/mcp/servers/github-sylphlab-filesystem-mcp-5b46c51c)",
   "links": {
     "primary": "https://github.com/sylphlab/filesystem-mcp",
     "repo": "https://github.com/sylphlab/filesystem-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

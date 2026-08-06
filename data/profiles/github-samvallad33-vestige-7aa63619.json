@@ -1,0 +1,63 @@
+{
+  "id": "github-samvallad33-vestige-7aa63619",
+  "name": "samvallad33/vestige",
+  "description": "Local-first cognitive memory for AI agents. FSRS-6 spaced-repetition decay, prediction-error gating, active forgetting, spreading activation, and a real-time 3D memory dashboard, all in one Rust binary that runs fully on your machine. Works with Claude Code, Cursor, VS Code, Codex, Windsurf, and any MCP client. Install: `npm install -g vestige-mcp-server`.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-samvallad33-vestige-7aa63619",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-samvallad33-vestige-7aa63619/badge.svg)](https://tensorblock.co/mcp/servers/github-samvallad33-vestige-7aa63619)",
+  "links": {
+    "primary": "https://github.com/samvallad33/vestige",
+    "repo": "https://github.com/samvallad33/vestige",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npm install -g vestige-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

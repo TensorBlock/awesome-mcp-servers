@@ -3,8 +3,8 @@
   "name": "honjo2/simple-mcp-server-python",
   "description": "A minimalistic MCP server implementation in Python, designed for easy setup and testing.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-honjo2-simple-mcp-server-python-9a539992",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-honjo2-simple-mcp-server-python-9a539992)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-honjo2-simple-mcp-server-python-9a539992",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-honjo2-simple-mcp-server-python-9a539992/badge.svg)](https://tensorblock.co/mcp/servers/github-honjo2-simple-mcp-server-python-9a539992)",
   "links": {
     "primary": "https://github.com/honjo2/simple-mcp-server-python",
     "repo": "https://github.com/honjo2/simple-mcp-server-python",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

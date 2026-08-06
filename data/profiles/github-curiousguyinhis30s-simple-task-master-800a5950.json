@@ -3,8 +3,8 @@
   "name": "curiousguyinhis30s/simple-task-master",
   "description": "A task management system that integrates with Desktop Commander MCP to organize and track tasks for Claude desktop code projects.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-curiousguyinhis30s-simple-task-master-800a5950",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-curiousguyinhis30s-simple-task-master-800a5950)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-curiousguyinhis30s-simple-task-master-800a5950",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-curiousguyinhis30s-simple-task-master-800a5950/badge.svg)](https://tensorblock.co/mcp/servers/github-curiousguyinhis30s-simple-task-master-800a5950)",
   "links": {
     "primary": "https://github.com/curiousguyinhis30s/simple-task-master",
     "repo": "https://github.com/curiousguyinhis30s/simple-task-master",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

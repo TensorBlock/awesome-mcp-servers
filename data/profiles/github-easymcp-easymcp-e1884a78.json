@@ -3,8 +3,8 @@
   "name": "easymcp/easymcp",
   "description": "EasyMCP seamlessly connects Claude Desktop and Cursor to external tools and services via MCP servers, offering secure, configurable, and expandable integrations.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-easymcp-easymcp-e1884a78",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-easymcp-easymcp-e1884a78)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-easymcp-easymcp-e1884a78",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-easymcp-easymcp-e1884a78/badge.svg)](https://tensorblock.co/mcp/servers/github-easymcp-easymcp-e1884a78)",
   "links": {
     "primary": "https://github.com/easymcp/easymcp",
     "repo": "https://github.com/easymcp/easymcp",
@@ -12,12 +12,47 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

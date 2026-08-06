@@ -3,8 +3,8 @@
   "name": "CorefluxCommunity/CorefluxMCPServer",
   "description": "Facilitates Coreflux MQTT broker integration with Claude and other MCP-compatible AI assistants, offering comprehensive command tools and LOT language resources.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-corefluxcommunity-corefluxmcpserver-fd8b8950",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-corefluxcommunity-corefluxmcpserver-fd8b8950)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-corefluxcommunity-corefluxmcpserver-fd8b8950",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-corefluxcommunity-corefluxmcpserver-fd8b8950/badge.svg)](https://tensorblock.co/mcp/servers/github-corefluxcommunity-corefluxmcpserver-fd8b8950)",
   "links": {
     "primary": "https://github.com/CorefluxCommunity/CorefluxMCPServer",
     "repo": "https://github.com/CorefluxCommunity/CorefluxMCPServer",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

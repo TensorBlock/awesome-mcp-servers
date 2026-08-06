@@ -3,8 +3,8 @@
   "name": "cwilby/mcp-node-mssql",
   "description": "Facilitates SQL Server interactions via MCP using node-mssql, enabling seamless database management.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-cwilby-mcp-node-mssql-38e64614",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cwilby-mcp-node-mssql-38e64614)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cwilby-mcp-node-mssql-38e64614",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cwilby-mcp-node-mssql-38e64614/badge.svg)](https://tensorblock.co/mcp/servers/github-cwilby-mcp-node-mssql-38e64614)",
   "links": {
     "primary": "https://github.com/cwilby/mcp-node-mssql",
     "repo": "https://github.com/cwilby/mcp-node-mssql",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

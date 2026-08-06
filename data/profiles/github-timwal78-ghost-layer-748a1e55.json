@@ -1,0 +1,56 @@
+{
+  "id": "github-timwal78-ghost-layer-748a1e55",
+  "name": "Timwal78/ghost-layer",
+  "description": "Dual-chain XRPL/Base toll gateway for autonomous AI agents. URIToken on-chain licensing, 54-block execution matrix, Agent Passport loyalty tiers, x402 protocol. MCP: `https://ghost-layer.onrender.com/mcp`. Zero custody.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-timwal78-ghost-layer-748a1e55",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-timwal78-ghost-layer-748a1e55/badge.svg)](https://tensorblock.co/mcp/servers/github-timwal78-ghost-layer-748a1e55)",
+  "links": {
+    "primary": "https://github.com/Timwal78/ghost-layer",
+    "repo": "https://github.com/Timwal78/ghost-layer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://ghost-layer.onrender.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

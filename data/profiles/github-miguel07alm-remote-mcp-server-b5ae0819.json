@@ -3,8 +3,8 @@
   "name": "Miguel07Alm/remote-mcp-server",
   "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-miguel07alm-remote-mcp-server-b5ae0819",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-miguel07alm-remote-mcp-server-b5ae0819)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-miguel07alm-remote-mcp-server-b5ae0819",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-miguel07alm-remote-mcp-server-b5ae0819/badge.svg)](https://tensorblock.co/mcp/servers/github-miguel07alm-remote-mcp-server-b5ae0819)",
   "links": {
     "primary": "https://github.com/Miguel07Alm/remote-mcp-server",
     "repo": "https://github.com/Miguel07Alm/remote-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "oauth",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

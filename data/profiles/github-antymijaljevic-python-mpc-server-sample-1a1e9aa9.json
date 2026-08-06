@@ -3,8 +3,8 @@
   "name": "antymijaljevic/python-mpc-server-sample",
   "description": "A Python-based MCP server for managing and summarizing sticky notes using the Model Context Protocol SDK.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-antymijaljevic-python-mpc-server-sample-1a1e9aa9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-antymijaljevic-python-mpc-server-sample-1a1e9aa9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-antymijaljevic-python-mpc-server-sample-1a1e9aa9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-antymijaljevic-python-mpc-server-sample-1a1e9aa9/badge.svg)](https://tensorblock.co/mcp/servers/github-antymijaljevic-python-mpc-server-sample-1a1e9aa9)",
   "links": {
     "primary": "https://github.com/antymijaljevic/python-mpc-server-sample",
     "repo": "https://github.com/antymijaljevic/python-mpc-server-sample",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

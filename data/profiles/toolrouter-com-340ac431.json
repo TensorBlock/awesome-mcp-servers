@@ -3,8 +3,8 @@
   "name": "ToolRouter",
   "description": "Give your AI agent superpowers with access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/toolrouter-com-340ac431",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/toolrouter-com-340ac431)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/toolrouter-com-340ac431",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/toolrouter-com-340ac431/badge.svg)](https://tensorblock.co/mcp/servers/toolrouter-com-340ac431)",
   "links": {
     "primary": "https://toolrouter.com",
     "repo": null,
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx -y toolrouter-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "api-key",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

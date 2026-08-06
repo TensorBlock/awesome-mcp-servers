@@ -3,8 +3,8 @@
   "name": "singularityjason/lightning-memory",
   "description": "Persistent agent memory for the Lightning economy. Vendor reputation tracking, spending anomaly detection, Nostr identity (BIP-340), and L402 payment gateway for agent-to-agent knowledge markets. Local-first SQLite with FTS5 search.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-singularityjason-lightning-memory-ad39c11a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-singularityjason-lightning-memory-ad39c11a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-singularityjason-lightning-memory-ad39c11a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-singularityjason-lightning-memory-ad39c11a/badge.svg)](https://tensorblock.co/mcp/servers/github-singularityjason-lightning-memory-ad39c11a)",
   "links": {
     "primary": "https://github.com/singularityjason/lightning-memory",
     "repo": "https://github.com/singularityjason/lightning-memory",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

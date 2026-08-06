@@ -3,8 +3,8 @@
   "name": "ps173/google-tasks-to-md",
   "description": "A command-line tool to convert Google Tasks into a markdown file for easier viewing and editing.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-ps173-google-tasks-to-md-210f42cf",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ps173-google-tasks-to-md-210f42cf)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ps173-google-tasks-to-md-210f42cf",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ps173-google-tasks-to-md-210f42cf/badge.svg)](https://tensorblock.co/mcp/servers/github-ps173-google-tasks-to-md-210f42cf)",
   "links": {
     "primary": "https://github.com/ps173/google-tasks-to-md",
     "repo": "https://github.com/ps173/google-tasks-to-md",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

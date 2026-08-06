@@ -1,0 +1,58 @@
+{
+  "id": "github-marsheer-agentdomain-mcp-9a2c31a2",
+  "name": "MarsHeer/agentdomain-mcp",
+  "description": "Register, manage, and renew domain names directly from AI agents via MCP. Supports domain search, purchase, DNS management, and wallet operations. Install: `uvx agentdomain-mcp` or connect via HTTP endpoint at `https://api.agentdomain.cloud/mcp`.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-marsheer-agentdomain-mcp-9a2c31a2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-marsheer-agentdomain-mcp-9a2c31a2/badge.svg)](https://tensorblock.co/mcp/servers/github-marsheer-agentdomain-mcp-9a2c31a2)",
+  "links": {
+    "primary": "https://github.com/MarsHeer/agentdomain-mcp",
+    "repo": "https://github.com/MarsHeer/agentdomain-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://api.agentdomain.cloud/mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx agentdomain-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

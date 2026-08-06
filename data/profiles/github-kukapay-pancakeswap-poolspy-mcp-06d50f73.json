@@ -3,8 +3,8 @@
   "name": "kukapay/pancakeswap-poolspy-mcp",
   "description": "Tracks newly created liquidity pools on Pancake Swap, offering real-time data for DeFi analysts, traders, and developers.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-pancakeswap-poolspy-mcp-06d50f73",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-pancakeswap-poolspy-mcp-06d50f73)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kukapay-pancakeswap-poolspy-mcp-06d50f73",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kukapay-pancakeswap-poolspy-mcp-06d50f73/badge.svg)](https://tensorblock.co/mcp/servers/github-kukapay-pancakeswap-poolspy-mcp-06d50f73)",
   "links": {
     "primary": "https://github.com/kukapay/pancakeswap-poolspy-mcp",
     "repo": "https://github.com/kukapay/pancakeswap-poolspy-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

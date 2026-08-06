@@ -3,8 +3,8 @@
   "name": "Hint-Services/mcp-trello",
   "description": "Facilitates seamless interaction with Trello boards through a Model Context Protocol server, ensuring efficient API integration with built-in rate limiting and type safety.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-hint-services-mcp-trello-d6985fcd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hint-services-mcp-trello-d6985fcd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hint-services-mcp-trello-d6985fcd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hint-services-mcp-trello-d6985fcd/badge.svg)](https://tensorblock.co/mcp/servers/github-hint-services-mcp-trello-d6985fcd)",
   "links": {
     "primary": "https://github.com/Hint-Services/mcp-trello",
     "repo": "https://github.com/Hint-Services/mcp-trello",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

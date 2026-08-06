@@ -3,8 +3,8 @@
   "name": "DGuhr/spicedb-mcp",
   "description": "Facilitates LLMs in querying SpiceDB for access and audit-related questions, leveraging MCP and C# SDKs.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-dguhr-spicedb-mcp-c8515671",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dguhr-spicedb-mcp-c8515671)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dguhr-spicedb-mcp-c8515671",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dguhr-spicedb-mcp-c8515671/badge.svg)](https://tensorblock.co/mcp/servers/github-dguhr-spicedb-mcp-c8515671)",
   "links": {
     "primary": "https://github.com/DGuhr/spicedb-mcp",
     "repo": "https://github.com/DGuhr/spicedb-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

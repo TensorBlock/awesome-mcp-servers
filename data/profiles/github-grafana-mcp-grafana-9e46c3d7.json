@@ -3,8 +3,8 @@
   "name": "grafana/mcp-grafana",
   "description": "Facilitates interaction with Grafana's ecosystem, enabling dashboard searches, datasource queries, and incident management through MCP.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-grafana-mcp-grafana-9e46c3d7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-grafana-mcp-grafana-9e46c3d7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-grafana-mcp-grafana-9e46c3d7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-grafana-mcp-grafana-9e46c3d7/badge.svg)](https://tensorblock.co/mcp/servers/github-grafana-mcp-grafana-9e46c3d7)",
   "links": {
     "primary": "https://github.com/grafana/mcp-grafana",
     "repo": "https://github.com/grafana/mcp-grafana",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

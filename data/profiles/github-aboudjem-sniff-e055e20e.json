@@ -1,0 +1,58 @@
+{
+  "id": "github-aboudjem-sniff-e055e20e",
+  "name": "Aboudjem/sniff",
+  "description": "Autonomous QA and accessibility scanner that walks real user flows in a headless browser, reporting broken pages, dead links, console errors, and WCAG issues. Install with `npx -y sniff-qa --mcp`.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aboudjem-sniff-e055e20e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aboudjem-sniff-e055e20e/badge.svg)](https://tensorblock.co/mcp/servers/github-aboudjem-sniff-e055e20e)",
+  "links": {
+    "primary": "https://github.com/Aboudjem/sniff",
+    "repo": "https://github.com/Aboudjem/sniff",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y sniff-qa --mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

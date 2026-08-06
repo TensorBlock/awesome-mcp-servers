@@ -3,8 +3,8 @@
   "name": "jimpick/mcp-fireproof-todos",
   "description": "A demo MCP server integrating Fireproof database to manage a 'To Do List' service, enabling interaction through Claude Desktop for task management.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-jimpick-mcp-fireproof-todos-1eddc43c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jimpick-mcp-fireproof-todos-1eddc43c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jimpick-mcp-fireproof-todos-1eddc43c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jimpick-mcp-fireproof-todos-1eddc43c/badge.svg)](https://tensorblock.co/mcp/servers/github-jimpick-mcp-fireproof-todos-1eddc43c)",
   "links": {
     "primary": "https://github.com/jimpick/mcp-fireproof-todos",
     "repo": "https://github.com/jimpick/mcp-fireproof-todos",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

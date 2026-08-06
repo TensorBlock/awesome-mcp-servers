@@ -1,0 +1,62 @@
+{
+  "id": "github-sapph1re-findata-mcp-a8d7f574",
+  "name": "sapph1re/findata-mcp",
+  "description": "Get real-time financial data — stock quotes, company fundamentals, FRED economic indicators (800k+ series), SEC filings, and crypto prices. 5 tools, $0.01/call via x402 micropayments on Base mainnet. No API key or signup required. Suggested category: Finance & Crypto.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sapph1re-findata-mcp-a8d7f574",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sapph1re-findata-mcp-a8d7f574/badge.svg)](https://tensorblock.co/mcp/servers/github-sapph1re-findata-mcp-a8d7f574)",
+  "links": {
+    "primary": "https://github.com/sapph1re/findata-mcp",
+    "repo": "https://github.com/sapph1re/findata-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other"
+  ],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 5
+  }
+}

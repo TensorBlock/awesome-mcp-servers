@@ -3,8 +3,8 @@
   "name": "mikecreighton/mikecreighton-dot-com-content-mcp",
   "description": "Facilitates collaboration and content management for Mike Creighton Consulting by providing website pages as accessible resources to MCP clients.",
   "category": "Content Management Systems",
-  "profileUrl": "https://tensorblock.co/mcp/github-mikecreighton-mikecreighton-dot-com-content-mcp-8963d4fa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mikecreighton-mikecreighton-dot-com-content-mcp-8963d4fa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mikecreighton-mikecreighton-dot-com-content-mcp-8963d4fa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mikecreighton-mikecreighton-dot-com-content-mcp-8963d4fa/badge.svg)](https://tensorblock.co/mcp/servers/github-mikecreighton-mikecreighton-dot-com-content-mcp-8963d4fa)",
   "links": {
     "primary": "https://github.com/mikecreighton/mikecreighton-dot-com-content-mcp",
     "repo": "https://github.com/mikecreighton/mikecreighton-dot-com-content-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "viewyonder/claudemcp",
   "description": "Explore and learn Claude MCP through Python code and documentation, focusing on building a CLI host app with conversational interfaces.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-viewyonder-claudemcp-b0d2f5ad",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-viewyonder-claudemcp-b0d2f5ad)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-viewyonder-claudemcp-b0d2f5ad",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-viewyonder-claudemcp-b0d2f5ad/badge.svg)](https://tensorblock.co/mcp/servers/github-viewyonder-claudemcp-b0d2f5ad)",
   "links": {
     "primary": "https://github.com/viewyonder/claudemcp",
     "repo": "https://github.com/viewyonder/claudemcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

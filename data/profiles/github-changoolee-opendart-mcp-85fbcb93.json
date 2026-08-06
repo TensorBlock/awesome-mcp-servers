@@ -3,8 +3,8 @@
   "name": "ChangooLee/opendart-mcp",
   "description": "Facilitates AI model access to South Korea's Financial Supervisory Service's DART data via the OpenDART API using the MCP protocol.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-changoolee-opendart-mcp-85fbcb93",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-changoolee-opendart-mcp-85fbcb93)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-changoolee-opendart-mcp-85fbcb93",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-changoolee-opendart-mcp-85fbcb93/badge.svg)](https://tensorblock.co/mcp/servers/github-changoolee-opendart-mcp-85fbcb93)",
   "links": {
     "primary": "https://github.com/ChangooLee/opendart-mcp",
     "repo": "https://github.com/ChangooLee/opendart-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

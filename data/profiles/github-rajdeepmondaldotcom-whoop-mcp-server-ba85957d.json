@@ -1,0 +1,56 @@
+{
+  "id": "github-rajdeepmondaldotcom-whoop-mcp-server-ba85957d",
+  "name": "rajdeepmondaldotcom/whoop-mcp-server",
+  "description": "Ask AI agents about your WHOOP recovery, sleep, strain, and workouts in plain English; runs locally and read-only, computing answers from your own records. Install: `uv tool install whoop-mcp-server`. stdio transport, OAuth to WHOOP.",
+  "category": "Healthcare & Life Sciences",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rajdeepmondaldotcom-whoop-mcp-server-ba85957d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rajdeepmondaldotcom-whoop-mcp-server-ba85957d/badge.svg)](https://tensorblock.co/mcp/servers/github-rajdeepmondaldotcom-whoop-mcp-server-ba85957d)",
+  "links": {
+    "primary": "https://github.com/rajdeepmondaldotcom/whoop-mcp-server",
+    "repo": "https://github.com/rajdeepmondaldotcom/whoop-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

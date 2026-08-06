@@ -3,8 +3,8 @@
   "name": "Gitreceiver/TAMA-MCP",
   "description": "Tama is an AI-enhanced task management CLI that operates as an MCP server, enabling programmatic task management and AI-driven task expansion.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-gitreceiver-tama-mcp-57c7afbb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gitreceiver-tama-mcp-57c7afbb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-gitreceiver-tama-mcp-57c7afbb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-gitreceiver-tama-mcp-57c7afbb/badge.svg)](https://tensorblock.co/mcp/servers/github-gitreceiver-tama-mcp-57c7afbb)",
   "links": {
     "primary": "https://github.com/Gitreceiver/TAMA-MCP",
     "repo": "https://github.com/Gitreceiver/TAMA-MCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

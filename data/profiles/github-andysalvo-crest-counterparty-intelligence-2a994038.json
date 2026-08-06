@@ -1,0 +1,56 @@
+{
+  "id": "github-andysalvo-crest-counterparty-intelligence-2a994038",
+  "name": "crest Counterparty Intelligence",
+  "description": "Token risk (rug / honeypot, scoring the contract and the wallet that controls it), agent credit, and x402 counterparty checks. 7 tools: token_risk, crest_score, agent_credit, agent_preflight, check_counterparty, pm_counterparty, onchain_profile. Free, read-only. Remote MCP at `https://data.crestsystems.ai/mcp` (Streamable HTTP, no auth).",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-andysalvo-crest-counterparty-intelligence-2a994038",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-andysalvo-crest-counterparty-intelligence-2a994038/badge.svg)](https://tensorblock.co/mcp/servers/github-andysalvo-crest-counterparty-intelligence-2a994038)",
+  "links": {
+    "primary": "https://github.com/andysalvo/crest-counterparty-intelligence",
+    "repo": "https://github.com/andysalvo/crest-counterparty-intelligence",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://data.crestsystems.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 7
+  }
+}

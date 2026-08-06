@@ -3,8 +3,8 @@
   "name": "atamaplus-public/mcp-guardrail",
   "description": "MCP Guardrail Server provides a secure environment for executing pre-authorized commands, ideal for high-security applications.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-atamaplus-public-mcp-guardrail-9929d4bc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-atamaplus-public-mcp-guardrail-9929d4bc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-atamaplus-public-mcp-guardrail-9929d4bc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-atamaplus-public-mcp-guardrail-9929d4bc/badge.svg)](https://tensorblock.co/mcp/servers/github-atamaplus-public-mcp-guardrail-9929d4bc)",
   "links": {
     "primary": "https://github.com/atamaplus-public/mcp-guardrail",
     "repo": "https://github.com/atamaplus-public/mcp-guardrail",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

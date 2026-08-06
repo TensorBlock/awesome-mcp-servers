@@ -3,8 +3,8 @@
   "name": "PoliTwit1984/mcp-perplexity-server",
   "description": "Enhance your code analysis and debugging with Perplexity AI's API, seamlessly integrated with the Claude desktop client for intelligent error detection and solutions.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-politwit1984-mcp-perplexity-server-b1039db4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-politwit1984-mcp-perplexity-server-b1039db4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-politwit1984-mcp-perplexity-server-b1039db4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-politwit1984-mcp-perplexity-server-b1039db4/badge.svg)](https://tensorblock.co/mcp/servers/github-politwit1984-mcp-perplexity-server-b1039db4)",
   "links": {
     "primary": "https://github.com/PoliTwit1984/mcp-perplexity-server",
     "repo": "https://github.com/PoliTwit1984/mcp-perplexity-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

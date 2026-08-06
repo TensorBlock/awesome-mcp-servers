@@ -3,8 +3,8 @@
   "name": "askbudi/roundtable",
   "description": "Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface, built on FastMCP framework.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-askbudi-roundtable-c9e412c4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-askbudi-roundtable-c9e412c4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-askbudi-roundtable-c9e412c4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-askbudi-roundtable-c9e412c4/badge.svg)](https://tensorblock.co/mcp/servers/github-askbudi-roundtable-c9e412c4)",
   "links": {
     "primary": "https://github.com/askbudi/roundtable",
     "repo": "https://github.com/askbudi/roundtable",
@@ -12,12 +12,48 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

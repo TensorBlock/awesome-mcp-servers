@@ -3,8 +3,8 @@
   "name": "themotionmachine/OmniFocus-MCP",
   "description": "Integrate AI assistants with OmniFocus to manage tasks and projects through natural language commands.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-themotionmachine-omnifocus-mcp-d2bfa881",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-themotionmachine-omnifocus-mcp-d2bfa881)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-themotionmachine-omnifocus-mcp-d2bfa881",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-themotionmachine-omnifocus-mcp-d2bfa881/badge.svg)](https://tensorblock.co/mcp/servers/github-themotionmachine-omnifocus-mcp-d2bfa881)",
   "links": {
     "primary": "https://github.com/themotionmachine/OmniFocus-MCP",
     "repo": "https://github.com/themotionmachine/OmniFocus-MCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

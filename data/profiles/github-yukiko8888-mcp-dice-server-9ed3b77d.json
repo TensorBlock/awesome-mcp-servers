@@ -3,8 +3,8 @@
   "name": "yukiko8888/-mcp-dice-server-",
   "description": "Facilitates dice rolling with customizable sides and quantities via MCP integration.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-yukiko8888-mcp-dice-server-9ed3b77d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yukiko8888-mcp-dice-server-9ed3b77d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yukiko8888-mcp-dice-server-9ed3b77d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yukiko8888-mcp-dice-server-9ed3b77d/badge.svg)](https://tensorblock.co/mcp/servers/github-yukiko8888-mcp-dice-server-9ed3b77d)",
   "links": {
     "primary": "https://github.com/yukiko8888/-mcp-dice-server-",
     "repo": "https://github.com/yukiko8888/-mcp-dice-server-",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

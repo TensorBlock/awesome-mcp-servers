@@ -3,8 +3,8 @@
   "name": "suguru-toyohara/LocalLibraryforLLM",
   "description": "Facilitates smoother development by delegating necessary resources to an MCP server, verified with CLINE 3.7.0.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-suguru-toyohara-locallibraryforllm-392063f0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-suguru-toyohara-locallibraryforllm-392063f0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-suguru-toyohara-locallibraryforllm-392063f0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-suguru-toyohara-locallibraryforllm-392063f0/badge.svg)](https://tensorblock.co/mcp/servers/github-suguru-toyohara-locallibraryforllm-392063f0)",
   "links": {
     "primary": "https://github.com/suguru-toyohara/LocalLibraryforLLM",
     "repo": "https://github.com/suguru-toyohara/LocalLibraryforLLM",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,63 @@
+{
+  "id": "github-harperz9-telos-87ec1251",
+  "name": "HarperZ9/telos",
+  "description": "Project Telos source-checkout MCP workbench for local AI-agent development. Exposes Gather, Index, Forum, Crucible, and Telos servers for workspace maps, provenance receipts, routing ledgers, action receipts, context packs, and MATCH/DRIFT/UNVERIFIABLE doctor checks. Transport: stdio and streamable-http catalog surfaces. Auth: no auth for local source-checkout tools. Clients: Codex, Claude, OpenAI Agents/Apps, Cursor, VS Code, and other MCP hosts. License: FSL-1.1-ALv2.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-harperz9-telos-87ec1251",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-harperz9-telos-87ec1251/badge.svg)](https://tensorblock.co/mcp/servers/github-harperz9-telos-87ec1251)",
+  "links": {
+    "primary": "https://github.com/HarperZ9/telos",
+    "repo": "https://github.com/HarperZ9/telos",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

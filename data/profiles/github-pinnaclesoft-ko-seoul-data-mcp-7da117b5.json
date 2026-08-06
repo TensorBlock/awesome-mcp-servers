@@ -3,8 +3,8 @@
   "name": "pinnaclesoft-ko/seoul_data_mcp",
   "description": "Facilitates access to Seoul's public data through an MCP server, offering insights into subway usage and cultural events.",
   "category": "Location & Maps",
-  "profileUrl": "https://tensorblock.co/mcp/github-pinnaclesoft-ko-seoul-data-mcp-7da117b5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pinnaclesoft-ko-seoul-data-mcp-7da117b5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-pinnaclesoft-ko-seoul-data-mcp-7da117b5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-pinnaclesoft-ko-seoul-data-mcp-7da117b5/badge.svg)](https://tensorblock.co/mcp/servers/github-pinnaclesoft-ko-seoul-data-mcp-7da117b5)",
   "links": {
     "primary": "https://github.com/pinnaclesoft-ko/seoul_data_mcp",
     "repo": "https://github.com/pinnaclesoft-ko/seoul_data_mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

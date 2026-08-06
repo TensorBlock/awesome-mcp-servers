@@ -1,0 +1,58 @@
+{
+  "id": "github-whdrnr2583-cmd-koreanpulse-bae7fee0",
+  "name": "whdrnr2583-cmd/koreanpulse",
+  "description": "Provides English-language access to Korean equity data — DART corporate filings, activist investor 5%-rule classification (KCGI, Align Partners, Elliott, ValueAct), foreign-holder flows (BlackRock, Vanguard, Norges Bank, GIC), and 16-sector KRX industry news. Hosted remote MCP at `https://mcp.koreanpulse.dev/mcp` or `pip install koreanpulse`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-whdrnr2583-cmd-koreanpulse-bae7fee0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-whdrnr2583-cmd-koreanpulse-bae7fee0/badge.svg)](https://tensorblock.co/mcp/servers/github-whdrnr2583-cmd-koreanpulse-bae7fee0)",
+  "links": {
+    "primary": "https://github.com/whdrnr2583-cmd/koreanpulse",
+    "repo": "https://github.com/whdrnr2583-cmd/koreanpulse",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.koreanpulse.dev/mcp"
+  },
+  "install": {
+    "commands": [
+      "pip install koreanpulse"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

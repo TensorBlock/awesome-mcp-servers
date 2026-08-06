@@ -3,8 +3,8 @@
   "name": "godwin3737/mcp-server-microsoft365-filesearch",
   "description": "Facilitates advanced file search and metadata analysis within Microsoft 365, integrating seamlessly with SharePoint and OneDrive for efficient business workflows.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-godwin3737-mcp-server-microsoft365-filesearch-e1087401",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-godwin3737-mcp-server-microsoft365-filesearch-e1087401)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-godwin3737-mcp-server-microsoft365-filesearch-e1087401",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-godwin3737-mcp-server-microsoft365-filesearch-e1087401/badge.svg)](https://tensorblock.co/mcp/servers/github-godwin3737-mcp-server-microsoft365-filesearch-e1087401)",
   "links": {
     "primary": "https://github.com/godwin3737/mcp-server-microsoft365-filesearch",
     "repo": "https://github.com/godwin3737/mcp-server-microsoft365-filesearch",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

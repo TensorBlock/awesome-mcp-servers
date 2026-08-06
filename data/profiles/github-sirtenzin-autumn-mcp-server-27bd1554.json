@@ -3,8 +3,8 @@
   "name": "SirTenzin/autumn-mcp-server",
   "description": "Facilitates seamless interaction with the Autumn pricing API for customer management and billing operations.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-sirtenzin-autumn-mcp-server-27bd1554",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sirtenzin-autumn-mcp-server-27bd1554)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sirtenzin-autumn-mcp-server-27bd1554",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sirtenzin-autumn-mcp-server-27bd1554/badge.svg)](https://tensorblock.co/mcp/servers/github-sirtenzin-autumn-mcp-server-27bd1554)",
   "links": {
     "primary": "https://github.com/SirTenzin/autumn-mcp-server",
     "repo": "https://github.com/SirTenzin/autumn-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

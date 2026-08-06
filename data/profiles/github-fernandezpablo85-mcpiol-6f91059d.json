@@ -3,8 +3,8 @@
   "name": "fernandezpablo85/mcpiol",
   "description": "Facilitates interaction with the Invertir Online API via Claude Desktop using the Model Context Protocol.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-fernandezpablo85-mcpiol-6f91059d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fernandezpablo85-mcpiol-6f91059d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fernandezpablo85-mcpiol-6f91059d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fernandezpablo85-mcpiol-6f91059d/badge.svg)](https://tensorblock.co/mcp/servers/github-fernandezpablo85-mcpiol-6f91059d)",
   "links": {
     "primary": "https://github.com/fernandezpablo85/mcpiol",
     "repo": "https://github.com/fernandezpablo85/mcpiol",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

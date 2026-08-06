@@ -1,0 +1,79 @@
+{
+  "id": "github-blockventurechaincapital-crypto-bvcc-agent-mcp-5e72b45a",
+  "name": "blockventurechaincapital-crypto/bvcc-agent-mcp",
+  "description": "Operate a non-custodial BVCC Agent Wallet on-chain from an AI agent: check balances, send native/ERC-20, approve, and swap on Uniswap v3/v4 across Ethereum, BNB Chain, Arbitrum, and Base. Every spend/recipient/token limit is enforced on-chain by the wallet contract. Multi-network stdio server with read/simulate tools plus opt-in write tools. Install: `npx -y @bvcc/agent-mcp`. Env: `AGENT_PRIVATE_KEY`, `WALLET_ADDRESS`, `CHAIN_ID`; optional `RPC_URL`, `BVCC_MCP_READONLY`. MIT.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-blockventurechaincapital-crypto-bvcc-agent-mcp-5e72b45a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-blockventurechaincapital-crypto-bvcc-agent-mcp-5e72b45a/badge.svg)](https://tensorblock.co/mcp/servers/github-blockventurechaincapital-crypto-bvcc-agent-mcp-5e72b45a)",
+  "links": {
+    "primary": "https://github.com/blockventurechaincapital-crypto/bvcc-agent-mcp",
+    "repo": "https://github.com/blockventurechaincapital-crypto/bvcc-agent-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y @bvcc/agent-mcp"
+    ],
+    "env": [
+      "AGENT_PRIVATE_KEY",
+      "WALLET_ADDRESS",
+      "CHAIN_ID",
+      "RPC_URL",
+      "BVCC_MCP_READONLY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "unknown"
+    ]
+  },
+  "clients": [
+    "Hermes-Agent",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "Lm Studio ..."
+  ],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": "2026-06-28T22:19:10.000Z",
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Claim accepted from #976 under the community profile-claim process.",
+      "Requested maintainer handle: @rami8612."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@rami8612"
+    ],
+    "verifiedBy": [
+      "TensorBlock"
+    ],
+    "claimed": true
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "verified",
+    "toolCount": null
+  }
+}

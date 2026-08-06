@@ -3,8 +3,8 @@
   "name": "dreamfactorysoftware/df-mcp",
   "description": "DreamFactory MCP Server facilitates AI assistants like Claude to access databases via DreamFactory's REST APIs.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-dreamfactorysoftware-df-mcp-c2952cd8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dreamfactorysoftware-df-mcp-c2952cd8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dreamfactorysoftware-df-mcp-c2952cd8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dreamfactorysoftware-df-mcp-c2952cd8/badge.svg)](https://tensorblock.co/mcp/servers/github-dreamfactorysoftware-df-mcp-c2952cd8)",
   "links": {
     "primary": "https://github.com/dreamfactorysoftware/df-mcp",
     "repo": "https://github.com/dreamfactorysoftware/df-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

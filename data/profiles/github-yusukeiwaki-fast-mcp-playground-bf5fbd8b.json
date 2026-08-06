@@ -3,8 +3,8 @@
   "name": "YusukeIwaki/fast-mcp-playground",
   "description": "Facilitates browser automation and personal memo recording using Playwright and Docker.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-yusukeiwaki-fast-mcp-playground-bf5fbd8b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yusukeiwaki-fast-mcp-playground-bf5fbd8b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yusukeiwaki-fast-mcp-playground-bf5fbd8b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yusukeiwaki-fast-mcp-playground-bf5fbd8b/badge.svg)](https://tensorblock.co/mcp/servers/github-yusukeiwaki-fast-mcp-playground-bf5fbd8b)",
   "links": {
     "primary": "https://github.com/YusukeIwaki/fast-mcp-playground",
     "repo": "https://github.com/YusukeIwaki/fast-mcp-playground",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Sunwood-ai-labs/github-kanban-mcp-server",
   "description": "Facilitates efficient task management by transforming GitHub issues into a Kanban board format with LLM integration.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-sunwood-ai-labs-github-kanban-mcp-server-9181fd95",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sunwood-ai-labs-github-kanban-mcp-server-9181fd95)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sunwood-ai-labs-github-kanban-mcp-server-9181fd95",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sunwood-ai-labs-github-kanban-mcp-server-9181fd95/badge.svg)](https://tensorblock.co/mcp/servers/github-sunwood-ai-labs-github-kanban-mcp-server-9181fd95)",
   "links": {
     "primary": "https://github.com/Sunwood-ai-labs/github-kanban-mcp-server",
     "repo": "https://github.com/Sunwood-ai-labs/github-kanban-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

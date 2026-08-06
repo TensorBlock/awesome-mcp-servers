@@ -3,8 +3,8 @@
   "name": "Veroq-api/veroq-mcp",
   "description": "Financial intelligence MCP server with 52 tools for verified market data, trading signals, sentiment analysis, and fact-checking across 1,061+ tickers (equities, crypto, ETFs, commodities, indices). Multi-provider architecture with failover. Install via `npx veroq-mcp`.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-veroq-api-veroq-mcp-7ed45a8f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-veroq-api-veroq-mcp-7ed45a8f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-veroq-api-veroq-mcp-7ed45a8f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-veroq-api-veroq-mcp-7ed45a8f/badge.svg)](https://tensorblock.co/mcp/servers/github-veroq-api-veroq-mcp-7ed45a8f)",
   "links": {
     "primary": "https://github.com/Veroq-api/veroq-mcp",
     "repo": "https://github.com/Veroq-api/veroq-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx veroq-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 52
   }

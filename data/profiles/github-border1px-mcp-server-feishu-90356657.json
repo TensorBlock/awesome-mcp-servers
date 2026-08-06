@@ -3,8 +3,8 @@
   "name": "border1px/mcp-server-feishu",
   "description": "A TypeScript-based MCP server for recording and summarizing notes with Yuque integration.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-border1px-mcp-server-feishu-90356657",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-border1px-mcp-server-feishu-90356657)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-border1px-mcp-server-feishu-90356657",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-border1px-mcp-server-feishu-90356657/badge.svg)](https://tensorblock.co/mcp/servers/github-border1px-mcp-server-feishu-90356657)",
   "links": {
     "primary": "https://github.com/border1px/mcp-server-feishu",
     "repo": "https://github.com/border1px/mcp-server-feishu",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

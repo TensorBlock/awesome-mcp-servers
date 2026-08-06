@@ -3,8 +3,8 @@
   "name": "LuckyXYJ/mcp_ios_project",
   "description": "An MCP server configured for iOS projects, utilizing Python scripts for server execution.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-luckyxyj-mcp-ios-project-6b643334",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-luckyxyj-mcp-ios-project-6b643334)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-luckyxyj-mcp-ios-project-6b643334",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-luckyxyj-mcp-ios-project-6b643334/badge.svg)](https://tensorblock.co/mcp/servers/github-luckyxyj-mcp-ios-project-6b643334)",
   "links": {
     "primary": "https://github.com/LuckyXYJ/mcp_ios_project",
     "repo": "https://github.com/LuckyXYJ/mcp_ios_project",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "getsentry/sentry-mcp",
   "description": "Middleware MCP server enabling seamless interaction with Sentry through LLMs, supporting both remote and stdio transport.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-getsentry-sentry-mcp-426a8eff",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-getsentry-sentry-mcp-426a8eff)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-getsentry-sentry-mcp-426a8eff",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-getsentry-sentry-mcp-426a8eff/badge.svg)](https://tensorblock.co/mcp/servers/github-getsentry-sentry-mcp-426a8eff)",
   "links": {
     "primary": "https://github.com/getsentry/sentry-mcp",
     "repo": "https://github.com/getsentry/sentry-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "stdio"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

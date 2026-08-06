@@ -1,0 +1,56 @@
+{
+  "id": "github-babelwrap-babelwrap-mcp-b556ce9e",
+  "name": "babelwrap/babelwrap-mcp",
+  "description": "HTTP API and MCP server that lets AI agents interact with websites through natural language instead of CSS selectors. Navigate, click, fill forms, and extract data via plain English descriptions.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-babelwrap-babelwrap-mcp-b556ce9e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-babelwrap-babelwrap-mcp-b556ce9e/badge.svg)](https://tensorblock.co/mcp/servers/github-babelwrap-babelwrap-mcp-b556ce9e)",
+  "links": {
+    "primary": "https://github.com/babelwrap/babelwrap-mcp",
+    "repo": "https://github.com/babelwrap/babelwrap-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

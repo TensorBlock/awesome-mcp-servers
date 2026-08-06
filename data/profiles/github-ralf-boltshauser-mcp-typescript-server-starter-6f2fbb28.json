@@ -3,14 +3,46 @@
   "name": "ralf-boltshauser/mcp-typescript-server-starter",
   "description": "A TypeScript starter project for building MCP servers with an echo server implementation, supporting both STDIO and SSE communication modes.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-ralf-boltshauser-mcp-typescript-server-starter-6f2fbb28",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ralf-boltshauser-mcp-typescript-server-starter-6f2fbb28)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ralf-boltshauser-mcp-typescript-server-starter-6f2fbb28",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ralf-boltshauser-mcp-typescript-server-starter-6f2fbb28/badge.svg)](https://tensorblock.co/mcp/servers/github-ralf-boltshauser-mcp-typescript-server-starter-6f2fbb28)",
   "links": {
     "primary": "https://github.com/ralf-boltshauser/mcp-typescript-server-starter",
     "repo": "https://github.com/ralf-boltshauser/mcp-typescript-server-starter",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

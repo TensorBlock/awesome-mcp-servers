@@ -3,8 +3,8 @@
   "name": "Sladey01/servers",
   "description": "A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for Large Language Models.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-sladey01-servers-a28f3a3a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sladey01-servers-a28f3a3a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sladey01-servers-a28f3a3a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sladey01-servers-a28f3a3a/badge.svg)](https://tensorblock.co/mcp/servers/github-sladey01-servers-a28f3a3a)",
   "links": {
     "primary": "https://github.com/Sladey01/servers",
     "repo": "https://github.com/Sladey01/servers",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

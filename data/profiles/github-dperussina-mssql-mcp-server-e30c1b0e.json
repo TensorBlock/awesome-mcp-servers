@@ -3,8 +3,8 @@
   "name": "dperussina/mssql-mcp-server",
   "description": "Facilitates AI-driven exploration and querying of Microsoft SQL Server databases, enabling natural language interactions and secure, read-only access for data analysis.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-dperussina-mssql-mcp-server-e30c1b0e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dperussina-mssql-mcp-server-e30c1b0e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dperussina-mssql-mcp-server-e30c1b0e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dperussina-mssql-mcp-server-e30c1b0e/badge.svg)](https://tensorblock.co/mcp/servers/github-dperussina-mssql-mcp-server-e30c1b0e)",
   "links": {
     "primary": "https://github.com/dperussina/mssql-mcp-server",
     "repo": "https://github.com/dperussina/mssql-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

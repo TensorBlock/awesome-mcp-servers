@@ -3,8 +3,8 @@
   "name": "Deniscartin/mcp-cli",
   "description": "A comprehensive toolkit for interacting with Model Context Protocol servers, offering a GUI, CLI, and API for managing server configurations and executing queries.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-deniscartin-mcp-cli-e0b8173f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-deniscartin-mcp-cli-e0b8173f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-deniscartin-mcp-cli-e0b8173f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-deniscartin-mcp-cli-e0b8173f/badge.svg)](https://tensorblock.co/mcp/servers/github-deniscartin-mcp-cli-e0b8173f)",
   "links": {
     "primary": "https://github.com/Deniscartin/mcp-cli",
     "repo": "https://github.com/Deniscartin/mcp-cli",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

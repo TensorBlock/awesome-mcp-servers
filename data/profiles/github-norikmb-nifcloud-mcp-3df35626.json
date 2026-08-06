@@ -3,8 +3,8 @@
   "name": "norikmb/nifcloud-mcp",
   "description": "Facilitates interaction with FJcloud-V's API through a Model Context Protocol server, offering tools to retrieve lists of servers, disks, load balancers, firewalls, routers, and databases.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-norikmb-nifcloud-mcp-3df35626",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-norikmb-nifcloud-mcp-3df35626)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-norikmb-nifcloud-mcp-3df35626",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-norikmb-nifcloud-mcp-3df35626/badge.svg)](https://tensorblock.co/mcp/servers/github-norikmb-nifcloud-mcp-3df35626)",
   "links": {
     "primary": "https://github.com/norikmb/nifcloud-mcp",
     "repo": "https://github.com/norikmb/nifcloud-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

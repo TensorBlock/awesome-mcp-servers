@@ -3,8 +3,8 @@
   "name": "andrewdmontgomery/mcp-server-gravatar",
   "description": "Provides access to Gravatar profiles and avatars via a stdio-based MCP server, enabling easy integration with MCP-aware clients.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-andrewdmontgomery-mcp-server-gravatar-4e601d7b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-andrewdmontgomery-mcp-server-gravatar-4e601d7b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-andrewdmontgomery-mcp-server-gravatar-4e601d7b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-andrewdmontgomery-mcp-server-gravatar-4e601d7b/badge.svg)](https://tensorblock.co/mcp/servers/github-andrewdmontgomery-mcp-server-gravatar-4e601d7b)",
   "links": {
     "primary": "https://github.com/andrewdmontgomery/mcp-server-gravatar",
     "repo": "https://github.com/andrewdmontgomery/mcp-server-gravatar",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "stdio"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "lyonzin/knowledge-rag",
   "description": "Local RAG system for Claude Code via MCP with hybrid semantic + BM25 search, cross-encoder reranking, and 12 MCP tools — no external servers required.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-lyonzin-knowledge-rag-6edd20b5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lyonzin-knowledge-rag-6edd20b5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lyonzin-knowledge-rag-6edd20b5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lyonzin-knowledge-rag-6edd20b5/badge.svg)](https://tensorblock.co/mcp/servers/github-lyonzin-knowledge-rag-6edd20b5)",
   "links": {
     "primary": "https://github.com/lyonzin/knowledge-rag",
     "repo": "https://github.com/lyonzin/knowledge-rag",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 12
   }

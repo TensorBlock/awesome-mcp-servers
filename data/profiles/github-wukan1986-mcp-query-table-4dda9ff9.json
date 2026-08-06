@@ -3,8 +3,8 @@
   "name": "wukan1986/mcp_query_table",
   "description": "A Playwright-based financial web table crawler supporting MCP, enabling seamless data extraction from multiple financial websites.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-wukan1986-mcp-query-table-4dda9ff9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wukan1986-mcp-query-table-4dda9ff9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wukan1986-mcp-query-table-4dda9ff9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wukan1986-mcp-query-table-4dda9ff9/badge.svg)](https://tensorblock.co/mcp/servers/github-wukan1986-mcp-query-table-4dda9ff9)",
   "links": {
     "primary": "https://github.com/wukan1986/mcp_query_table",
     "repo": "https://github.com/wukan1986/mcp_query_table",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

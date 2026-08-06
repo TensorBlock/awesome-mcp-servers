@@ -3,8 +3,8 @@
   "name": "nature-lover-iv/neo4j-mcp",
   "description": "Facilitates natural language interaction with Neo4j graph databases through the MCP protocol, enabling schema exploration, query execution, and database management.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-nature-lover-iv-neo4j-mcp-eecbce4f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nature-lover-iv-neo4j-mcp-eecbce4f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nature-lover-iv-neo4j-mcp-eecbce4f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nature-lover-iv-neo4j-mcp-eecbce4f/badge.svg)](https://tensorblock.co/mcp/servers/github-nature-lover-iv-neo4j-mcp-eecbce4f)",
   "links": {
     "primary": "https://github.com/nature-lover-iv/neo4j-mcp",
     "repo": "https://github.com/nature-lover-iv/neo4j-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

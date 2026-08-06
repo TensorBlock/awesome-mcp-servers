@@ -3,8 +3,8 @@
   "name": "minimind-org/mcp-server-typescript-template",
   "description": "A TypeScript template for building MCP servers with custom tools and operations, facilitating communication between AI models and external tools.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-minimind-org-mcp-server-typescript-template-db213865",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-minimind-org-mcp-server-typescript-template-db213865)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-minimind-org-mcp-server-typescript-template-db213865",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-minimind-org-mcp-server-typescript-template-db213865/badge.svg)](https://tensorblock.co/mcp/servers/github-minimind-org-mcp-server-typescript-template-db213865)",
   "links": {
     "primary": "https://github.com/minimind-org/mcp-server-typescript-template",
     "repo": "https://github.com/minimind-org/mcp-server-typescript-template",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

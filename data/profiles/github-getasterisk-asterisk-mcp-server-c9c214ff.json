@@ -3,8 +3,8 @@
   "name": "getAsterisk/asterisk-mcp-server",
   "description": "Asterisk MCP Server provides real-time security analysis of code by connecting to the Asterisk security API, enabling AI assistants to detect vulnerabilities in code snippets and codebases.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-getasterisk-asterisk-mcp-server-c9c214ff",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-getasterisk-asterisk-mcp-server-c9c214ff)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-getasterisk-asterisk-mcp-server-c9c214ff",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-getasterisk-asterisk-mcp-server-c9c214ff/badge.svg)](https://tensorblock.co/mcp/servers/github-getasterisk-asterisk-mcp-server-c9c214ff)",
   "links": {
     "primary": "https://github.com/getAsterisk/asterisk-mcp-server",
     "repo": "https://github.com/getAsterisk/asterisk-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

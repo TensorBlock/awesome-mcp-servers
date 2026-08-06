@@ -3,8 +3,8 @@
   "name": "pollyannaanalytics/Figma-BDD-MCP-Server",
   "description": "Automatically generates BDD test plans from Figma designs using a microservice architecture.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-pollyannaanalytics-figma-bdd-mcp-server-32053934",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pollyannaanalytics-figma-bdd-mcp-server-32053934)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-pollyannaanalytics-figma-bdd-mcp-server-32053934",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-pollyannaanalytics-figma-bdd-mcp-server-32053934/badge.svg)](https://tensorblock.co/mcp/servers/github-pollyannaanalytics-figma-bdd-mcp-server-32053934)",
   "links": {
     "primary": "https://github.com/pollyannaanalytics/Figma-BDD-MCP-Server",
     "repo": "https://github.com/pollyannaanalytics/Figma-BDD-MCP-Server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

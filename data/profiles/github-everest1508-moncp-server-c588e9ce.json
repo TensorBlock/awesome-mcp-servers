@@ -3,8 +3,8 @@
   "name": "Everest1508/moncp-server",
   "description": "Fetches MON balances on Monad Testnet using wallet addresses or private keys.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-everest1508-moncp-server-c588e9ce",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-everest1508-moncp-server-c588e9ce)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-everest1508-moncp-server-c588e9ce",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-everest1508-moncp-server-c588e9ce/badge.svg)](https://tensorblock.co/mcp/servers/github-everest1508-moncp-server-c588e9ce)",
   "links": {
     "primary": "https://github.com/Everest1508/moncp-server",
     "repo": "https://github.com/Everest1508/moncp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

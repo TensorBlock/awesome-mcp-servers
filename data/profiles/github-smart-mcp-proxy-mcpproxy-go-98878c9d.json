@@ -1,0 +1,56 @@
+{
+  "id": "github-smart-mcp-proxy-mcpproxy-go-98878c9d",
+  "name": "smart-mcp-proxy/mcpproxy-go",
+  "description": "Local-first MCP proxy/gateway with BM25 tool discovery (~99% token savings), security quarantine (tool-poisoning protection), sensitive-data scanning, Docker isolation, OAuth 2.1, and a web UI.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-smart-mcp-proxy-mcpproxy-go-98878c9d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-smart-mcp-proxy-mcpproxy-go-98878c9d/badge.svg)](https://tensorblock.co/mcp/servers/github-smart-mcp-proxy-mcpproxy-go-98878c9d)",
+  "links": {
+    "primary": "https://github.com/smart-mcp-proxy/mcpproxy-go",
+    "repo": "https://github.com/smart-mcp-proxy/mcpproxy-go",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "tumf/fastmcp-gsuite",
   "description": "Facilitates seamless interaction with Gmail and Google Calendar through a fastmcp-based server, supporting multiple accounts and advanced email and calendar management.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-tumf-fastmcp-gsuite-925791ad",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tumf-fastmcp-gsuite-925791ad)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tumf-fastmcp-gsuite-925791ad",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tumf-fastmcp-gsuite-925791ad/badge.svg)](https://tensorblock.co/mcp/servers/github-tumf-fastmcp-gsuite-925791ad)",
   "links": {
     "primary": "https://github.com/tumf/fastmcp-gsuite",
     "repo": "https://github.com/tumf/fastmcp-gsuite",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

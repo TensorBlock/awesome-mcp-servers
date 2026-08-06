@@ -3,8 +3,8 @@
   "name": "doma2k/monad-contract-deployment-mcp",
   "description": "Facilitates the compilation and deployment of smart contracts within the Monad ecosystem, enabling interactions directly from chat prompts or compatible MCP clients.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-doma2k-monad-contract-deployment-mcp-f0ff1862",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-doma2k-monad-contract-deployment-mcp-f0ff1862)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-doma2k-monad-contract-deployment-mcp-f0ff1862",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-doma2k-monad-contract-deployment-mcp-f0ff1862/badge.svg)](https://tensorblock.co/mcp/servers/github-doma2k-monad-contract-deployment-mcp-f0ff1862)",
   "links": {
     "primary": "https://github.com/doma2k/monad-contract-deployment-mcp",
     "repo": "https://github.com/doma2k/monad-contract-deployment-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

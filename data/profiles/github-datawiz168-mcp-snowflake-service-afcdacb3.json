@@ -3,8 +3,8 @@
   "name": "datawiz168/mcp-snowflake-service",
   "description": "Enables Claude to securely execute SQL queries on Snowflake databases with automatic connection management.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-datawiz168-mcp-snowflake-service-afcdacb3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-datawiz168-mcp-snowflake-service-afcdacb3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-datawiz168-mcp-snowflake-service-afcdacb3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-datawiz168-mcp-snowflake-service-afcdacb3/badge.svg)](https://tensorblock.co/mcp/servers/github-datawiz168-mcp-snowflake-service-afcdacb3)",
   "links": {
     "primary": "https://github.com/datawiz168/mcp-snowflake-service",
     "repo": "https://github.com/datawiz168/mcp-snowflake-service",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

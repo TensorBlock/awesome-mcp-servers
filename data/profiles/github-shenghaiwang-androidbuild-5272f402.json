@@ -3,8 +3,8 @@
   "name": "ShenghaiWang/androidbuild",
   "description": "Facilitates Android project builds and testing with seamless integration into Visual Studio Code using MCP protocols.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-shenghaiwang-androidbuild-5272f402",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shenghaiwang-androidbuild-5272f402)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shenghaiwang-androidbuild-5272f402",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shenghaiwang-androidbuild-5272f402/badge.svg)](https://tensorblock.co/mcp/servers/github-shenghaiwang-androidbuild-5272f402)",
   "links": {
     "primary": "https://github.com/ShenghaiWang/androidbuild",
     "repo": "https://github.com/ShenghaiWang/androidbuild",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

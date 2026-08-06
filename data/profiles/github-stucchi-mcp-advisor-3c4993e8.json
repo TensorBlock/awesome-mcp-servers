@@ -3,8 +3,8 @@
   "name": "stucchi/mcp-advisor",
   "description": "Browse, search, and discover 7,000+ MCP servers from the official registry. Search by name, tag, or transport, get install instructions for any client, and view trending servers.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-stucchi-mcp-advisor-3c4993e8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stucchi-mcp-advisor-3c4993e8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-stucchi-mcp-advisor-3c4993e8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stucchi-mcp-advisor-3c4993e8/badge.svg)](https://tensorblock.co/mcp/servers/github-stucchi-mcp-advisor-3c4993e8)",
   "links": {
     "primary": "https://github.com/stucchi/mcp-advisor",
     "repo": "https://github.com/stucchi/mcp-advisor",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

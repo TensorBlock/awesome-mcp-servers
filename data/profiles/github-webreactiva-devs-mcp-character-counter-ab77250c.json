@@ -3,8 +3,8 @@
   "name": "webreactiva-devs/mcp-character-counter",
   "description": "Provides detailed character analysis for text, counting total characters, letters, numbers, and symbols.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-webreactiva-devs-mcp-character-counter-ab77250c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-webreactiva-devs-mcp-character-counter-ab77250c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-webreactiva-devs-mcp-character-counter-ab77250c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-webreactiva-devs-mcp-character-counter-ab77250c/badge.svg)](https://tensorblock.co/mcp/servers/github-webreactiva-devs-mcp-character-counter-ab77250c)",
   "links": {
     "primary": "https://github.com/webreactiva-devs/mcp-character-counter",
     "repo": "https://github.com/webreactiva-devs/mcp-character-counter",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

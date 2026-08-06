@@ -3,8 +3,8 @@
   "name": "NapthaAI/auto-mcp",
   "description": "Transforms existing functions, tools, and agents into MCP servers with ease, facilitating seamless integration and deployment.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-napthaai-auto-mcp-abbc6331",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-napthaai-auto-mcp-abbc6331)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-napthaai-auto-mcp-abbc6331",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-napthaai-auto-mcp-abbc6331/badge.svg)](https://tensorblock.co/mcp/servers/github-napthaai-auto-mcp-abbc6331)",
   "links": {
     "primary": "https://github.com/NapthaAI/auto-mcp",
     "repo": "https://github.com/NapthaAI/auto-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

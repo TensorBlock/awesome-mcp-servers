@@ -3,8 +3,8 @@
   "name": "ShiftEngineering/mcp-close-server",
   "description": "Connects to Close.com API to manage leads, contacts, emails, tasks, opportunities, calls, and users for AI assistants.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-shiftengineering-mcp-close-server-41b6efb3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shiftengineering-mcp-close-server-41b6efb3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shiftengineering-mcp-close-server-41b6efb3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shiftengineering-mcp-close-server-41b6efb3/badge.svg)](https://tensorblock.co/mcp/servers/github-shiftengineering-mcp-close-server-41b6efb3)",
   "links": {
     "primary": "https://github.com/ShiftEngineering/mcp-close-server",
     "repo": "https://github.com/ShiftEngineering/mcp-close-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

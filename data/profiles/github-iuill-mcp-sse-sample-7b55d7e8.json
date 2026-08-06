@@ -3,8 +3,8 @@
   "name": "iuill/mcp_sse_sample",
   "description": "A sample implementation of an MCP server using Server-Sent Events (SSE) to demonstrate various tools and logging capabilities.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-iuill-mcp-sse-sample-7b55d7e8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iuill-mcp-sse-sample-7b55d7e8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-iuill-mcp-sse-sample-7b55d7e8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-iuill-mcp-sse-sample-7b55d7e8/badge.svg)](https://tensorblock.co/mcp/servers/github-iuill-mcp-sse-sample-7b55d7e8)",
   "links": {
     "primary": "https://github.com/iuill/mcp_sse_sample",
     "repo": "https://github.com/iuill/mcp_sse_sample",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

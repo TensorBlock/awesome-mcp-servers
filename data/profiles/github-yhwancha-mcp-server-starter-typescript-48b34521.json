@@ -3,8 +3,8 @@
   "name": "yhwancha/mcp_server_starter_typescript",
   "description": "A TypeScript starter template for building customizable Model Context Protocol servers with sample tool implementations.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-yhwancha-mcp-server-starter-typescript-48b34521",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yhwancha-mcp-server-starter-typescript-48b34521)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yhwancha-mcp-server-starter-typescript-48b34521",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yhwancha-mcp-server-starter-typescript-48b34521/badge.svg)](https://tensorblock.co/mcp/servers/github-yhwancha-mcp-server-starter-typescript-48b34521)",
   "links": {
     "primary": "https://github.com/yhwancha/mcp_server_starter_typescript",
     "repo": "https://github.com/yhwancha/mcp_server_starter_typescript",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

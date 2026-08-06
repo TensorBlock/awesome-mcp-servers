@@ -3,8 +3,8 @@
   "name": "TP-Lab/mcp-marketplace",
   "description": "Facilitates seamless interaction with blockchain technology through Claude by providing a marketplace of MCP servers, including a Wallet MCP for secure crypto transactions.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-tp-lab-mcp-marketplace-a3de527b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tp-lab-mcp-marketplace-a3de527b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tp-lab-mcp-marketplace-a3de527b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tp-lab-mcp-marketplace-a3de527b/badge.svg)](https://tensorblock.co/mcp/servers/github-tp-lab-mcp-marketplace-a3de527b)",
   "links": {
     "primary": "https://github.com/TP-Lab/mcp-marketplace",
     "repo": "https://github.com/TP-Lab/mcp-marketplace",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

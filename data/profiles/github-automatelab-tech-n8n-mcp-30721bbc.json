@@ -3,8 +3,8 @@
   "name": "AutomateLab-tech/n8n-mcp",
   "description": "Nine-tool MCP server for n8n: generate workflow JSON from natural language, lint for deprecated node types, missing typeVersion, and broken connections, and debug per-node execution failures. Install: `npx @automatelab/n8n-mcp`.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-automatelab-tech-n8n-mcp-30721bbc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-automatelab-tech-n8n-mcp-30721bbc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-automatelab-tech-n8n-mcp-30721bbc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-automatelab-tech-n8n-mcp-30721bbc/badge.svg)](https://tensorblock.co/mcp/servers/github-automatelab-tech-n8n-mcp-30721bbc)",
   "links": {
     "primary": "https://github.com/AutomateLab-tech/n8n-mcp",
     "repo": "https://github.com/AutomateLab-tech/n8n-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx @automatelab/n8n-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

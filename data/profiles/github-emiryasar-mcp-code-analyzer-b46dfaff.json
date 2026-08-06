@@ -3,8 +3,8 @@
   "name": "emiryasar/mcp_code_analyzer",
   "description": "A comprehensive code analysis and management tool that integrates with Claude Desktop for natural language-driven code insights and modifications.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-emiryasar-mcp-code-analyzer-b46dfaff",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-emiryasar-mcp-code-analyzer-b46dfaff)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-emiryasar-mcp-code-analyzer-b46dfaff",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-emiryasar-mcp-code-analyzer-b46dfaff/badge.svg)](https://tensorblock.co/mcp/servers/github-emiryasar-mcp-code-analyzer-b46dfaff)",
   "links": {
     "primary": "https://github.com/emiryasar/mcp_code_analyzer",
     "repo": "https://github.com/emiryasar/mcp_code_analyzer",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

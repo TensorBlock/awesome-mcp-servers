@@ -3,8 +3,8 @@
   "name": "saginawj/mcp-reddit-companion",
   "description": "Enhance your Reddit experience with natural language interaction, enabling custom curated feeds and content analysis using your preferred LLM client.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-saginawj-mcp-reddit-companion-2a7c0cec",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-saginawj-mcp-reddit-companion-2a7c0cec)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-saginawj-mcp-reddit-companion-2a7c0cec",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-saginawj-mcp-reddit-companion-2a7c0cec/badge.svg)](https://tensorblock.co/mcp/servers/github-saginawj-mcp-reddit-companion-2a7c0cec)",
   "links": {
     "primary": "https://github.com/saginawj/mcp-reddit-companion",
     "repo": "https://github.com/saginawj/mcp-reddit-companion",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

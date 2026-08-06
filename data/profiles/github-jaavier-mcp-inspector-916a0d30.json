@@ -3,8 +3,8 @@
   "name": "jaavier/mcp-inspector",
   "description": "The MCP Inspector is a developer tool designed for testing and debugging MCP servers, offering both a UI and CLI mode for versatile interaction.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-jaavier-mcp-inspector-916a0d30",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jaavier-mcp-inspector-916a0d30)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jaavier-mcp-inspector-916a0d30",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jaavier-mcp-inspector-916a0d30/badge.svg)](https://tensorblock.co/mcp/servers/github-jaavier-mcp-inspector-916a0d30)",
   "links": {
     "primary": "https://github.com/jaavier/mcp-inspector",
     "repo": "https://github.com/jaavier/mcp-inspector",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

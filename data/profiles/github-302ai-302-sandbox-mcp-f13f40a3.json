@@ -3,8 +3,8 @@
   "name": "302ai/302_sandbox_mcp",
   "description": "A secure MCP service enabling AI assistants to execute arbitrary code within a sandbox environment.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-302ai-302-sandbox-mcp-f13f40a3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-302ai-302-sandbox-mcp-f13f40a3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-302ai-302-sandbox-mcp-f13f40a3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-302ai-302-sandbox-mcp-f13f40a3/badge.svg)](https://tensorblock.co/mcp/servers/github-302ai-302-sandbox-mcp-f13f40a3)",
   "links": {
     "primary": "https://github.com/302ai/302_sandbox_mcp",
     "repo": "https://github.com/302ai/302_sandbox_mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

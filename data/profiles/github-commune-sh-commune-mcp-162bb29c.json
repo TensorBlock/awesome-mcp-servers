@@ -3,8 +3,8 @@
   "name": "commune-sh/commune-mcp",
   "description": "Provides email infrastructure for AI agents, enabling programmatic inbox creation, send/receive email, thread management across concurrent conversations, custom domains, structured extraction on inbound mail, and SMS.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-commune-sh-commune-mcp-162bb29c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-commune-sh-commune-mcp-162bb29c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-commune-sh-commune-mcp-162bb29c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-commune-sh-commune-mcp-162bb29c/badge.svg)](https://tensorblock.co/mcp/servers/github-commune-sh-commune-mcp-162bb29c)",
   "links": {
     "primary": "https://github.com/commune-sh/commune-mcp",
     "repo": "https://github.com/commune-sh/commune-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

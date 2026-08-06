@@ -3,8 +3,8 @@
   "name": "omar391/mcp-agents",
   "description": "Agentic MCP servers autonomously manage workflows and interactions by incorporating decision-making logic and dynamic state management.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-omar391-mcp-agents-ade898b3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-omar391-mcp-agents-ade898b3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-omar391-mcp-agents-ade898b3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-omar391-mcp-agents-ade898b3/badge.svg)](https://tensorblock.co/mcp/servers/github-omar391-mcp-agents-ade898b3)",
   "links": {
     "primary": "https://github.com/omar391/mcp-agents",
     "repo": "https://github.com/omar391/mcp-agents",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

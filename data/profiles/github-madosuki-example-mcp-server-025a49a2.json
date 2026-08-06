@@ -3,8 +3,8 @@
   "name": "madosuki/example-mcp-server",
   "description": "A Clojure-based stdio MCP server utilizing the Java SDK for integration with Claude desktop configurations.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-madosuki-example-mcp-server-025a49a2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-madosuki-example-mcp-server-025a49a2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-madosuki-example-mcp-server-025a49a2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-madosuki-example-mcp-server-025a49a2/badge.svg)](https://tensorblock.co/mcp/servers/github-madosuki-example-mcp-server-025a49a2)",
   "links": {
     "primary": "https://github.com/madosuki/example-mcp-server",
     "repo": "https://github.com/madosuki/example-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "stdio"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

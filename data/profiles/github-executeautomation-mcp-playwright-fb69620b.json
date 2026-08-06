@@ -3,8 +3,8 @@
   "name": "executeautomation/mcp-playwright",
   "description": "Automates browser interactions and API testing using Playwright, enabling LLMs to interact with web pages and execute JavaScript in a real browser environment.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-executeautomation-mcp-playwright-fb69620b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-executeautomation-mcp-playwright-fb69620b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-executeautomation-mcp-playwright-fb69620b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-executeautomation-mcp-playwright-fb69620b/badge.svg)](https://tensorblock.co/mcp/servers/github-executeautomation-mcp-playwright-fb69620b)",
   "links": {
     "primary": "https://github.com/executeautomation/mcp-playwright",
     "repo": "https://github.com/executeautomation/mcp-playwright",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

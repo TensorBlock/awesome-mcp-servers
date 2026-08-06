@@ -3,14 +3,46 @@
   "name": "Headcrab/letter_mcp",
   "description": "A Go-based MCP-compatible server for counting specified letters in words, supporting both stdio and SSE transports.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-headcrab-letter-mcp-1e5a8fd0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-headcrab-letter-mcp-1e5a8fd0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-headcrab-letter-mcp-1e5a8fd0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-headcrab-letter-mcp-1e5a8fd0/badge.svg)](https://tensorblock.co/mcp/servers/github-headcrab-letter-mcp-1e5a8fd0)",
   "links": {
     "primary": "https://github.com/Headcrab/letter_mcp",
     "repo": "https://github.com/Headcrab/letter_mcp",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

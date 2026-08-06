@@ -1,0 +1,59 @@
+{
+  "id": "github-loomle-loomle-44a2f0ce",
+  "name": "loomle/loomle",
+  "description": "Unreal Engine MCP server for Claude Code, Codex, and AI agents to inspect and edit live UE projects through Blueprint, Material, PCG, UMG, asset, context, and diagnostics tools.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-loomle-loomle-44a2f0ce",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-loomle-loomle-44a2f0ce/badge.svg)](https://tensorblock.co/mcp/servers/github-loomle-loomle-44a2f0ce)",
+  "links": {
+    "primary": "https://github.com/loomle/loomle",
+    "repo": "https://github.com/loomle/loomle",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Codex"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

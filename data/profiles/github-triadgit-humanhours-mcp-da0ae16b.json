@@ -1,0 +1,56 @@
+{
+  "id": "github-triadgit-humanhours-mcp-da0ae16b",
+  "name": "triadgit/humanhours-mcp",
+  "description": "Track agent ROI and enrich companies via MCP: hours and money saved, ROI reports, and per-hour wage data. Remote `streamable-http` at `https://mcp.humanhours.dev/mcp`, OAuth 2.1, no install, no API keys. Registry id `dev.humanhours/humanhours`. Docs: https://humanhours.dev/docs/mcp.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-triadgit-humanhours-mcp-da0ae16b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-triadgit-humanhours-mcp-da0ae16b/badge.svg)](https://tensorblock.co/mcp/servers/github-triadgit-humanhours-mcp-da0ae16b)",
+  "links": {
+    "primary": "https://github.com/triadgit/humanhours-mcp",
+    "repo": "https://github.com/triadgit/humanhours-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.humanhours.dev/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "AutomateLab-tech/citation-intelligence",
   "description": "Query which URLs Perplexity, Claude, ChatGPT, Gemini, Bing, and Google AI Overviews cite for any query. Self-hosted, BYO API key. Install: `npx @automatelab/citation-intelligence`.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-automatelab-tech-citation-intelligence-f01b841c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-automatelab-tech-citation-intelligence-f01b841c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-automatelab-tech-citation-intelligence-f01b841c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-automatelab-tech-citation-intelligence-f01b841c/badge.svg)](https://tensorblock.co/mcp/servers/github-automatelab-tech-citation-intelligence-f01b841c)",
   "links": {
     "primary": "https://github.com/AutomateLab-tech/citation-intelligence",
     "repo": "https://github.com/AutomateLab-tech/citation-intelligence",
@@ -12,12 +12,48 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx @automatelab/citation-intelligence"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "api-key",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

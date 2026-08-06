@@ -3,8 +3,8 @@
   "name": "llcdj/Figma-Context-MCP-main",
   "description": "Enable AI-powered coding tools to access and utilize Figma design data efficiently for accurate one-shot design implementations.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-llcdj-figma-context-mcp-main-0ec861ce",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-llcdj-figma-context-mcp-main-0ec861ce)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-llcdj-figma-context-mcp-main-0ec861ce",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-llcdj-figma-context-mcp-main-0ec861ce/badge.svg)](https://tensorblock.co/mcp/servers/github-llcdj-figma-context-mcp-main-0ec861ce)",
   "links": {
     "primary": "https://github.com/llcdj/Figma-Context-MCP-main",
     "repo": "https://github.com/llcdj/Figma-Context-MCP-main",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

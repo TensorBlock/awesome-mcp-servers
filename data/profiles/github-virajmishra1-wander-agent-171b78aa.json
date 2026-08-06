@@ -1,0 +1,56 @@
+{
+  "id": "github-virajmishra1-wander-agent-171b78aa",
+  "name": "VirajMishra1/wander-agent",
+  "description": "Personal travel agent MCP server with 66 tools — flights, hotels, visa checks, itinerary planning, weather, travel advisories, currency conversion, passport power index, and credit card points/miles optimization. No API keys required.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-virajmishra1-wander-agent-171b78aa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-virajmishra1-wander-agent-171b78aa/badge.svg)](https://tensorblock.co/mcp/servers/github-virajmishra1-wander-agent-171b78aa)",
+  "links": {
+    "primary": "https://github.com/VirajMishra1/wander-agent",
+    "repo": "https://github.com/VirajMishra1/wander-agent",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 66
+  }
+}

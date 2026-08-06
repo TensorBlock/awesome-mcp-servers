@@ -3,8 +3,8 @@
   "name": "yan5236/bing-cn-mcp-server",
   "description": "A Chinese Bing search tool leveraging MCP for seamless integration with AI tools like Claude, enabling direct Bing searches and webpage content retrieval without an API key.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-yan5236-bing-cn-mcp-server-feb98c9a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yan5236-bing-cn-mcp-server-feb98c9a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yan5236-bing-cn-mcp-server-feb98c9a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yan5236-bing-cn-mcp-server-feb98c9a/badge.svg)](https://tensorblock.co/mcp/servers/github-yan5236-bing-cn-mcp-server-feb98c9a)",
   "links": {
     "primary": "https://github.com/yan5236/bing-cn-mcp-server",
     "repo": "https://github.com/yan5236/bing-cn-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "api-key",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

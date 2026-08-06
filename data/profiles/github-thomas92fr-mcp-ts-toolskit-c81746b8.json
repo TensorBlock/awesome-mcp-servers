@@ -3,8 +3,8 @@
   "name": "thomas92fr/mcp-ts-toolskit",
   "description": "A secure and configurable MCP server toolkit for file system manipulation, web search, document conversion, and project management across npm and .NET environments.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-thomas92fr-mcp-ts-toolskit-c81746b8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thomas92fr-mcp-ts-toolskit-c81746b8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-thomas92fr-mcp-ts-toolskit-c81746b8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-thomas92fr-mcp-ts-toolskit-c81746b8/badge.svg)](https://tensorblock.co/mcp/servers/github-thomas92fr-mcp-ts-toolskit-c81746b8)",
   "links": {
     "primary": "https://github.com/thomas92fr/mcp-ts-toolskit",
     "repo": "https://github.com/thomas92fr/mcp-ts-toolskit",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "rizkisyaf/traderfit-bridge",
   "description": "Connects MCP clients to TraderFitAI's backend API using a stdio bridge for dynamic tool execution and authentication.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-rizkisyaf-traderfit-bridge-a2789008",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rizkisyaf-traderfit-bridge-a2789008)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rizkisyaf-traderfit-bridge-a2789008",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rizkisyaf-traderfit-bridge-a2789008/badge.svg)](https://tensorblock.co/mcp/servers/github-rizkisyaf-traderfit-bridge-a2789008)",
   "links": {
     "primary": "https://github.com/rizkisyaf/traderfit-bridge",
     "repo": "https://github.com/rizkisyaf/traderfit-bridge",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "stdio"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

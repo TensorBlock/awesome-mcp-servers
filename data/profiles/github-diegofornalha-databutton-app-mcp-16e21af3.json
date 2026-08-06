@@ -3,8 +3,8 @@
   "name": "diegofornalha/databutton-app-mcp",
   "description": "Facilitates secure connection of Databutton app API endpoints to LLM tools via MCP protocol over websockets.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-diegofornalha-databutton-app-mcp-16e21af3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-diegofornalha-databutton-app-mcp-16e21af3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-diegofornalha-databutton-app-mcp-16e21af3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-diegofornalha-databutton-app-mcp-16e21af3/badge.svg)](https://tensorblock.co/mcp/servers/github-diegofornalha-databutton-app-mcp-16e21af3)",
   "links": {
     "primary": "https://github.com/diegofornalha/databutton-app-mcp",
     "repo": "https://github.com/diegofornalha/databutton-app-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

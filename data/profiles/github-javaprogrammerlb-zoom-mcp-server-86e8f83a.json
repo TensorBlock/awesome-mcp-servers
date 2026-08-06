@@ -3,8 +3,8 @@
   "name": "JavaProgrammerLB/zoom-mcp-server",
   "description": "Facilitates scheduling Zoom meetings with AI assistance through a server-to-server OAuth integration.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-javaprogrammerlb-zoom-mcp-server-86e8f83a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-javaprogrammerlb-zoom-mcp-server-86e8f83a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-javaprogrammerlb-zoom-mcp-server-86e8f83a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-javaprogrammerlb-zoom-mcp-server-86e8f83a/badge.svg)](https://tensorblock.co/mcp/servers/github-javaprogrammerlb-zoom-mcp-server-86e8f83a)",
   "links": {
     "primary": "https://github.com/JavaProgrammerLB/zoom-mcp-server",
     "repo": "https://github.com/JavaProgrammerLB/zoom-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "oauth",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

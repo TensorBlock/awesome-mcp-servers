@@ -3,8 +3,8 @@
   "name": "sharozdawa/robotstxt-ai",
   "description": "Visual robots.txt manager for AI crawlers with toggle controls for 20+ bots including GPTBot, ClaudeBot, and PerplexityBot.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-sharozdawa-robotstxt-ai-32b46bc8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sharozdawa-robotstxt-ai-32b46bc8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sharozdawa-robotstxt-ai-32b46bc8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sharozdawa-robotstxt-ai-32b46bc8/badge.svg)](https://tensorblock.co/mcp/servers/github-sharozdawa-robotstxt-ai-32b46bc8)",
   "links": {
     "primary": "https://github.com/sharozdawa/robotstxt-ai",
     "repo": "https://github.com/sharozdawa/robotstxt-ai",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

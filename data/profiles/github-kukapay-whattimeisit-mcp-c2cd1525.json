@@ -3,8 +3,8 @@
   "name": "kukapay/whattimeisit-mcp",
   "description": "Provides the current time based on IP using a lightweight MCP server powered by World Time API.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-whattimeisit-mcp-c2cd1525",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-whattimeisit-mcp-c2cd1525)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kukapay-whattimeisit-mcp-c2cd1525",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kukapay-whattimeisit-mcp-c2cd1525/badge.svg)](https://tensorblock.co/mcp/servers/github-kukapay-whattimeisit-mcp-c2cd1525)",
   "links": {
     "primary": "https://github.com/kukapay/whattimeisit-mcp",
     "repo": "https://github.com/kukapay/whattimeisit-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

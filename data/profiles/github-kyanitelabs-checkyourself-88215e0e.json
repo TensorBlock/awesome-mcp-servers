@@ -1,0 +1,56 @@
+{
+  "id": "github-kyanitelabs-checkyourself-88215e0e",
+  "name": "KyaniteLabs/checkyourself",
+  "description": "Local-first production-readiness audit for AI-built apps — read-only checks, an evidence-based 0-100 score, and guided fixes before launch.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kyanitelabs-checkyourself-88215e0e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kyanitelabs-checkyourself-88215e0e/badge.svg)](https://tensorblock.co/mcp/servers/github-kyanitelabs-checkyourself-88215e0e)",
+  "links": {
+    "primary": "https://github.com/KyaniteLabs/checkyourself",
+    "repo": "https://github.com/KyaniteLabs/checkyourself",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

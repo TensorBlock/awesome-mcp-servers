@@ -1,0 +1,68 @@
+{
+  "id": "github-mukul-dutt-mentionsapi-mcp-4763ceff",
+  "name": "mukul-dutt/mentionsapi-mcp",
+  "description": "Check whether AI mentions, ranks, and cites a brand across ChatGPT, Claude, Gemini, Perplexity, Google AI Overviews, AI Mode, and Bing Copilot. Four tools: mentions_check, mentions_watch, mentions_discover, mentions_compare; 8 modes from cached quick checks to live UI scrapes.",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mukul-dutt-mentionsapi-mcp-4763ceff",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mukul-dutt-mentionsapi-mcp-4763ceff/badge.svg)](https://tensorblock.co/mcp/servers/github-mukul-dutt-mentionsapi-mcp-4763ceff)",
+  "links": {
+    "primary": "https://github.com/mukul-dutt/mentionsapi-mcp",
+    "repo": "https://github.com/mukul-dutt/mentionsapi-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://api.mentionsapi.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "MENTIONSAPI_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "ChatGPT"
+  ],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

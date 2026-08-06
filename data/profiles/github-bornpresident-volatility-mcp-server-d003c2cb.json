@@ -3,8 +3,8 @@
   "name": "bornpresident/Volatility-MCP-Server",
   "description": "Integrates Volatility 3 memory forensics with Claude, enabling natural language-driven memory analysis for digital forensic investigations.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-bornpresident-volatility-mcp-server-d003c2cb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bornpresident-volatility-mcp-server-d003c2cb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bornpresident-volatility-mcp-server-d003c2cb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bornpresident-volatility-mcp-server-d003c2cb/badge.svg)](https://tensorblock.co/mcp/servers/github-bornpresident-volatility-mcp-server-d003c2cb)",
   "links": {
     "primary": "https://github.com/bornpresident/Volatility-MCP-Server",
     "repo": "https://github.com/bornpresident/Volatility-MCP-Server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

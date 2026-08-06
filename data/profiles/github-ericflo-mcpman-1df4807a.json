@@ -3,8 +3,8 @@
   "name": "ericflo/mcpman",
   "description": "MCPMan orchestrates interactions between LLMs and MCP servers, enabling seamless agentic workflows with diverse tool integrations.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-ericflo-mcpman-1df4807a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ericflo-mcpman-1df4807a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ericflo-mcpman-1df4807a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ericflo-mcpman-1df4807a/badge.svg)](https://tensorblock.co/mcp/servers/github-ericflo-mcpman-1df4807a)",
   "links": {
     "primary": "https://github.com/ericflo/mcpman",
     "repo": "https://github.com/ericflo/mcpman",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

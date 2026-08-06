@@ -3,8 +3,8 @@
   "name": "YuChenSSR/quantum-simulator-mcp",
   "description": "A Docker-based quantum circuit simulator implementing MCP for seamless integration with clients like Claude, featuring noise models and OpenQASM 2.0 support.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-yuchenssr-quantum-simulator-mcp-74384b3f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yuchenssr-quantum-simulator-mcp-74384b3f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yuchenssr-quantum-simulator-mcp-74384b3f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yuchenssr-quantum-simulator-mcp-74384b3f/badge.svg)](https://tensorblock.co/mcp/servers/github-yuchenssr-quantum-simulator-mcp-74384b3f)",
   "links": {
     "primary": "https://github.com/YuChenSSR/quantum-simulator-mcp",
     "repo": "https://github.com/YuChenSSR/quantum-simulator-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

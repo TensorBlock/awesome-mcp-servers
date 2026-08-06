@@ -3,8 +3,8 @@
   "name": "tesla0225/mcp-create",
   "description": "A dynamic service for creating, running, and managing MCP servers, enhancing flexibility within the MCP ecosystem.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-tesla0225-mcp-create-0360564f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tesla0225-mcp-create-0360564f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tesla0225-mcp-create-0360564f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tesla0225-mcp-create-0360564f/badge.svg)](https://tensorblock.co/mcp/servers/github-tesla0225-mcp-create-0360564f)",
   "links": {
     "primary": "https://github.com/tesla0225/mcp-create",
     "repo": "https://github.com/tesla0225/mcp-create",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

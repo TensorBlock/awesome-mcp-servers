@@ -3,8 +3,8 @@
   "name": "zaki9501/monad-sse-mcp",
   "description": "A Monad SSE-based MCP server built with Next.js, designed for seamless integration and deployment on Vercel with Redis support.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-zaki9501-monad-sse-mcp-de0623f2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zaki9501-monad-sse-mcp-de0623f2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zaki9501-monad-sse-mcp-de0623f2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zaki9501-monad-sse-mcp-de0623f2/badge.svg)](https://tensorblock.co/mcp/servers/github-zaki9501-monad-sse-mcp-de0623f2)",
   "links": {
     "primary": "https://github.com/zaki9501/monad-sse-mcp",
     "repo": "https://github.com/zaki9501/monad-sse-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

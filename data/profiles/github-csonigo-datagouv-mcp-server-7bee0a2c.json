@@ -3,8 +3,8 @@
   "name": "csonigo/datagouv-mcp-server",
   "description": "Facilitates seamless interaction with Data.gouv.fr APIs to retrieve comprehensive company information in France.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-csonigo-datagouv-mcp-server-7bee0a2c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-csonigo-datagouv-mcp-server-7bee0a2c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-csonigo-datagouv-mcp-server-7bee0a2c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-csonigo-datagouv-mcp-server-7bee0a2c/badge.svg)](https://tensorblock.co/mcp/servers/github-csonigo-datagouv-mcp-server-7bee0a2c)",
   "links": {
     "primary": "https://github.com/csonigo/datagouv-mcp-server",
     "repo": "https://github.com/csonigo/datagouv-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "RafalWilinski/mcp-apple-notes",
   "description": "Facilitates semantic search and retrieval over Apple Notes using Claude, enabling AI-driven note referencing and interaction.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-rafalwilinski-mcp-apple-notes-13812e8f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rafalwilinski-mcp-apple-notes-13812e8f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rafalwilinski-mcp-apple-notes-13812e8f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rafalwilinski-mcp-apple-notes-13812e8f/badge.svg)](https://tensorblock.co/mcp/servers/github-rafalwilinski-mcp-apple-notes-13812e8f)",
   "links": {
     "primary": "https://github.com/RafalWilinski/mcp-apple-notes",
     "repo": "https://github.com/RafalWilinski/mcp-apple-notes",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

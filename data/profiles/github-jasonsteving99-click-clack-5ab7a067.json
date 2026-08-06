@@ -3,8 +3,8 @@
   "name": "JasonSteving99/click-clack",
   "description": "Generate a minimalist UI for Python scripts using the Click library, with MCP server capabilities for seamless integration with clients like Claude Desktop.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-jasonsteving99-click-clack-5ab7a067",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jasonsteving99-click-clack-5ab7a067)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jasonsteving99-click-clack-5ab7a067",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jasonsteving99-click-clack-5ab7a067/badge.svg)](https://tensorblock.co/mcp/servers/github-jasonsteving99-click-clack-5ab7a067)",
   "links": {
     "primary": "https://github.com/JasonSteving99/click-clack",
     "repo": "https://github.com/JasonSteving99/click-clack",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

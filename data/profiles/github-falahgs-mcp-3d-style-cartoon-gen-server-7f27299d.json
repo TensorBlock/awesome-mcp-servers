@@ -3,8 +3,8 @@
   "name": "falahgs/mcp-3d-style-cartoon-gen-server",
   "description": "A server that combines 3D-style cartoon image generation with secure file system operations, leveraging Google's Gemini AI and MCP SDK.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-falahgs-mcp-3d-style-cartoon-gen-server-7f27299d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-falahgs-mcp-3d-style-cartoon-gen-server-7f27299d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-falahgs-mcp-3d-style-cartoon-gen-server-7f27299d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-falahgs-mcp-3d-style-cartoon-gen-server-7f27299d/badge.svg)](https://tensorblock.co/mcp/servers/github-falahgs-mcp-3d-style-cartoon-gen-server-7f27299d)",
   "links": {
     "primary": "https://github.com/falahgs/mcp-3d-style-cartoon-gen-server",
     "repo": "https://github.com/falahgs/mcp-3d-style-cartoon-gen-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

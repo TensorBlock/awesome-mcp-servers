@@ -3,8 +3,8 @@
   "name": "mediar-ai/mcp-server-macos-use",
   "description": "Swift-based server enabling macOS application control via accessibility APIs, compatible with MCP clients like Claude Desktop.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-mediar-ai-mcp-server-macos-use-4a9f6965",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mediar-ai-mcp-server-macos-use-4a9f6965)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mediar-ai-mcp-server-macos-use-4a9f6965",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mediar-ai-mcp-server-macos-use-4a9f6965/badge.svg)](https://tensorblock.co/mcp/servers/github-mediar-ai-mcp-server-macos-use-4a9f6965)",
   "links": {
     "primary": "https://github.com/mediar-ai/mcp-server-macos-use",
     "repo": "https://github.com/mediar-ai/mcp-server-macos-use",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

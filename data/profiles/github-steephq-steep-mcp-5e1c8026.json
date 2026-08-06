@@ -1,0 +1,56 @@
+{
+  "id": "github-steephq-steep-mcp-5e1c8026",
+  "name": "Steep",
+  "description": "Query a governed semantic layer — list and query metrics (with date ranges and breakdowns), targets, entities, modules, reports, and workspace members — and create reports. Streamable HTTP endpoint at `https://mcp.steep.app/mcp` with OAuth (RFC 9728 discovery + dynamic client registration). Listed in the official MCP Registry as `app.steep/mcp`. Apache-2.0.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-steephq-steep-mcp-5e1c8026",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-steephq-steep-mcp-5e1c8026/badge.svg)](https://tensorblock.co/mcp/servers/github-steephq-steep-mcp-5e1c8026)",
+  "links": {
+    "primary": "https://github.com/SteepHq/steep-mcp",
+    "repo": "https://github.com/SteepHq/steep-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.steep.app/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "Apache-2.0",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "github-subsquid-labs-portal-mcp-server-c9b6f62a",
+  "name": "subsquid-labs/portal-mcp-server",
+  "description": "Official SQD Portal MCP server for querying indexed onchain data across EVM, Solana, Bitcoin, Substrate, and Hyperliquid networks via the SQD Portal API — logs, transactions, token transfers, OHLC, and wallet analytics. Hosted remote Streamable HTTP endpoint at `https://portal.sqd.dev/mcp`; also runs locally via stdio (Docker image `subsquid/portal-mcp-server`). TypeScript.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-subsquid-labs-portal-mcp-server-c9b6f62a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-subsquid-labs-portal-mcp-server-c9b6f62a/badge.svg)](https://tensorblock.co/mcp/servers/github-subsquid-labs-portal-mcp-server-c9b6f62a)",
+  "links": {
+    "primary": "https://github.com/subsquid-labs/portal-mcp-server",
+    "repo": "https://github.com/subsquid-labs/portal-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://portal.sqd.dev/mcp"
+  },
+  "install": {
+    "commands": [
+      "; also runs locally via stdio (Docker image"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

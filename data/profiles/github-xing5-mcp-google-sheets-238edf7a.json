@@ -3,8 +3,8 @@
   "name": "xing5/mcp-google-sheets",
   "description": "Facilitates seamless interaction with Google Sheets for creating, modifying, and managing spreadsheets via the Google Sheets API.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-xing5-mcp-google-sheets-238edf7a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xing5-mcp-google-sheets-238edf7a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-xing5-mcp-google-sheets-238edf7a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-xing5-mcp-google-sheets-238edf7a/badge.svg)](https://tensorblock.co/mcp/servers/github-xing5-mcp-google-sheets-238edf7a)",
   "links": {
     "primary": "https://github.com/xing5/mcp-google-sheets",
     "repo": "https://github.com/xing5/mcp-google-sheets",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

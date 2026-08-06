@@ -3,8 +3,8 @@
   "name": "philippe-guerit/claude-desktop-memory-bank",
   "description": "Provides autonomous memory persistence for Claude Desktop, enabling seamless context management across sessions with integration into Git repositories.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-philippe-guerit-claude-desktop-memory-bank-71091701",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-philippe-guerit-claude-desktop-memory-bank-71091701)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-philippe-guerit-claude-desktop-memory-bank-71091701",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-philippe-guerit-claude-desktop-memory-bank-71091701/badge.svg)](https://tensorblock.co/mcp/servers/github-philippe-guerit-claude-desktop-memory-bank-71091701)",
   "links": {
     "primary": "https://github.com/philippe-guerit/claude-desktop-memory-bank",
     "repo": "https://github.com/philippe-guerit/claude-desktop-memory-bank",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

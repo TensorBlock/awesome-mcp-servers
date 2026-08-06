@@ -3,8 +3,8 @@
   "name": "amornpan/py-mcp-line",
   "description": "Facilitates the integration of LINE Bot messages with Language Models through a Python-based MCP server, leveraging FastAPI for API endpoints and Pydantic for data validation.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-amornpan-py-mcp-line-542a7132",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amornpan-py-mcp-line-542a7132)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-amornpan-py-mcp-line-542a7132",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-amornpan-py-mcp-line-542a7132/badge.svg)](https://tensorblock.co/mcp/servers/github-amornpan-py-mcp-line-542a7132)",
   "links": {
     "primary": "https://github.com/amornpan/py-mcp-line",
     "repo": "https://github.com/amornpan/py-mcp-line",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

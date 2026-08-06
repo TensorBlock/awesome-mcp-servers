@@ -3,8 +3,8 @@
   "name": "ibraheem4/clover-mcp",
   "description": "Facilitates AI-driven access to Clover merchant data, inventory, and orders through a secure OAuth-authenticated MCP server.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-ibraheem4-clover-mcp-dea1325b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ibraheem4-clover-mcp-dea1325b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ibraheem4-clover-mcp-dea1325b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ibraheem4-clover-mcp-dea1325b/badge.svg)](https://tensorblock.co/mcp/servers/github-ibraheem4-clover-mcp-dea1325b)",
   "links": {
     "primary": "https://github.com/ibraheem4/clover-mcp",
     "repo": "https://github.com/ibraheem4/clover-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "oauth",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

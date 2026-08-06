@@ -1,0 +1,58 @@
+{
+  "id": "github-danishashko-yahoo-finance-mcp-180e9282",
+  "name": "danishashko/yahoo-finance-mcp",
+  "description": "Real-time stock market data via Yahoo Finance: quotes, historical prices, financials, analyst ratings, options, holders, dividends, news, and market status. 13 tools, no API key, install via `npx yahoo-finance-mcp-server`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-danishashko-yahoo-finance-mcp-180e9282",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-danishashko-yahoo-finance-mcp-180e9282/badge.svg)](https://tensorblock.co/mcp/servers/github-danishashko-yahoo-finance-mcp-180e9282)",
+  "links": {
+    "primary": "https://github.com/danishashko/yahoo-finance-mcp",
+    "repo": "https://github.com/danishashko/yahoo-finance-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx yahoo-finance-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 13
+  }
+}

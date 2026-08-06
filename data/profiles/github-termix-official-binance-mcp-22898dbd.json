@@ -3,8 +3,8 @@
   "name": "TermiX-official/binance-mcp",
   "description": "Facilitates secure and efficient trading on Binance using the Model Context Protocol framework for structured transactions.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-termix-official-binance-mcp-22898dbd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-termix-official-binance-mcp-22898dbd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-termix-official-binance-mcp-22898dbd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-termix-official-binance-mcp-22898dbd/badge.svg)](https://tensorblock.co/mcp/servers/github-termix-official-binance-mcp-22898dbd)",
   "links": {
     "primary": "https://github.com/TermiX-official/binance-mcp",
     "repo": "https://github.com/TermiX-official/binance-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

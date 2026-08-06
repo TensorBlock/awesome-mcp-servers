@@ -3,8 +3,8 @@
   "name": "raw391/coin_daemon_mcp",
   "description": "Facilitates AI-driven management of cryptocurrency nodes through secure RPC interactions.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-raw391-coin-daemon-mcp-f152b30d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-raw391-coin-daemon-mcp-f152b30d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-raw391-coin-daemon-mcp-f152b30d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-raw391-coin-daemon-mcp-f152b30d/badge.svg)](https://tensorblock.co/mcp/servers/github-raw391-coin-daemon-mcp-f152b30d)",
   "links": {
     "primary": "https://github.com/raw391/coin_daemon_mcp",
     "repo": "https://github.com/raw391/coin_daemon_mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

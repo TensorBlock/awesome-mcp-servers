@@ -1,0 +1,60 @@
+{
+  "id": "github-namixai-signer-mcp-945beae6",
+  "name": "signer-mcp",
+  "description": "Keyless CEX/DEX signing for AI trading agents — Binance, OKX, Bybit, KuCoin, Hyperliquid, Asterdex. Signing keys never leave an AWS Nitro Enclave (attested PCR0); agents receive policy-bounded signatures, not credentials. Built to survive prompt injection and supply-chain leaks. 5 tools, stdio. Install: `npx -y @usenami/signer-mcp`. Auth: API token bound to a per-asset / per-period policy. License: MIT.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-namixai-signer-mcp-945beae6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-namixai-signer-mcp-945beae6/badge.svg)](https://tensorblock.co/mcp/servers/github-namixai-signer-mcp-945beae6)",
+  "links": {
+    "primary": "https://github.com/namixai/signer-mcp",
+    "repo": "https://github.com/namixai/signer-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y @usenami/signer-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": 5
+  }
+}

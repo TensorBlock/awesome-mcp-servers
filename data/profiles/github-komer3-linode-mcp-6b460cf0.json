@@ -3,8 +3,8 @@
   "name": "komer3/linode-mcp",
   "description": "Facilitates LLMs in managing Linode cloud resources through a standardized MCP interface.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-komer3-linode-mcp-6b460cf0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-komer3-linode-mcp-6b460cf0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-komer3-linode-mcp-6b460cf0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-komer3-linode-mcp-6b460cf0/badge.svg)](https://tensorblock.co/mcp/servers/github-komer3-linode-mcp-6b460cf0)",
   "links": {
     "primary": "https://github.com/komer3/linode-mcp",
     "repo": "https://github.com/komer3/linode-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

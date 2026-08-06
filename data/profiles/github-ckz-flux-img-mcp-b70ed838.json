@@ -3,8 +3,8 @@
   "name": "ckz/flux-img-mcp",
   "description": "Enables image generation using the Flux Schnell model via Replicate, accessible through MCP tool calls.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-ckz-flux-img-mcp-b70ed838",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ckz-flux-img-mcp-b70ed838)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ckz-flux-img-mcp-b70ed838",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ckz-flux-img-mcp-b70ed838/badge.svg)](https://tensorblock.co/mcp/servers/github-ckz-flux-img-mcp-b70ed838)",
   "links": {
     "primary": "https://github.com/ckz/flux-img-mcp",
     "repo": "https://github.com/ckz/flux-img-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

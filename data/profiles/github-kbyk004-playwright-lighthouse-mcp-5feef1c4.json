@@ -3,8 +3,8 @@
   "name": "kbyk004/playwright-lighthouse-mcp",
   "description": "Analyzes website performance using Playwright and Lighthouse, enabling LLMs to perform detailed performance analysis via MCP.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-kbyk004-playwright-lighthouse-mcp-5feef1c4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kbyk004-playwright-lighthouse-mcp-5feef1c4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kbyk004-playwright-lighthouse-mcp-5feef1c4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kbyk004-playwright-lighthouse-mcp-5feef1c4/badge.svg)](https://tensorblock.co/mcp/servers/github-kbyk004-playwright-lighthouse-mcp-5feef1c4)",
   "links": {
     "primary": "https://github.com/kbyk004/playwright-lighthouse-mcp",
     "repo": "https://github.com/kbyk004/playwright-lighthouse-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

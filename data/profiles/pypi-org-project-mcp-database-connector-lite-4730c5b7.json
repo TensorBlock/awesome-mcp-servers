@@ -1,0 +1,58 @@
+{
+  "id": "pypi-org-project-mcp-database-connector-lite-4730c5b7",
+  "name": "mcp-database-connector-lite",
+  "description": "Free SQLite MCP server for query execution, schema inspection, and data manipulation from AI assistants. Install: `pip install mcp-database-connector-lite`. MIT.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/servers/pypi-org-project-mcp-database-connector-lite-4730c5b7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/pypi-org-project-mcp-database-connector-lite-4730c5b7/badge.svg)](https://tensorblock.co/mcp/servers/pypi-org-project-mcp-database-connector-lite-4730c5b7)",
+  "links": {
+    "primary": "https://pypi.org/project/mcp-database-connector-lite/",
+    "repo": null,
+    "homepage": "https://pypi.org/project/mcp-database-connector-lite/",
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "pip install mcp-database-connector-lite"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

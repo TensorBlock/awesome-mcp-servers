@@ -3,8 +3,8 @@
   "name": "Writbase/writbase",
   "description": "MCP-native task management for AI agent fleets with multi-agent permissions, full provenance, inter-agent delegation, and A2A protocol alignment.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-writbase-writbase-a834eb6e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-writbase-writbase-a834eb6e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-writbase-writbase-a834eb6e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-writbase-writbase-a834eb6e/badge.svg)](https://tensorblock.co/mcp/servers/github-writbase-writbase-a834eb6e)",
   "links": {
     "primary": "https://github.com/Writbase/writbase",
     "repo": "https://github.com/Writbase/writbase",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

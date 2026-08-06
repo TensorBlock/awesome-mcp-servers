@@ -3,8 +3,8 @@
   "name": "spences10/mcp-embedding-search",
   "description": "Facilitates vector similarity search in transcript databases using a Turso backend, enabling users to find relevant segments by querying embeddings.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-spences10-mcp-embedding-search-603272c9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-spences10-mcp-embedding-search-603272c9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-spences10-mcp-embedding-search-603272c9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-spences10-mcp-embedding-search-603272c9/badge.svg)](https://tensorblock.co/mcp/servers/github-spences10-mcp-embedding-search-603272c9)",
   "links": {
     "primary": "https://github.com/spences10/mcp-embedding-search",
     "repo": "https://github.com/spences10/mcp-embedding-search",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

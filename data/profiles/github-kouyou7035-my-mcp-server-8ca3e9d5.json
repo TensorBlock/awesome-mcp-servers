@@ -3,8 +3,8 @@
   "name": "kouyou7035/my-mcp-server",
   "description": "A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for LLMs.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-kouyou7035-my-mcp-server-8ca3e9d5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kouyou7035-my-mcp-server-8ca3e9d5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kouyou7035-my-mcp-server-8ca3e9d5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kouyou7035-my-mcp-server-8ca3e9d5/badge.svg)](https://tensorblock.co/mcp/servers/github-kouyou7035-my-mcp-server-8ca3e9d5)",
   "links": {
     "primary": "https://github.com/kouyou7035/my-mcp-server",
     "repo": "https://github.com/kouyou7035/my-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

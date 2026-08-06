@@ -1,0 +1,56 @@
+{
+  "id": "seaotter-ai-2621d915",
+  "name": "SeaOtter / OtterScore",
+  "description": "Hostile-by-default critic that grades AI agent output (code, docs, decks, images) against your acceptance policy before it ships — returns a score, a band (ship / route to fix / quarantine / block), located flaws, and concrete fixes, so an agent can iterate until it clears the gate. Hosted MCP at `https://mcp.seaotter.ai/mcp`; free self-serve API key, no human required.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/servers/seaotter-ai-2621d915",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/seaotter-ai-2621d915/badge.svg)](https://tensorblock.co/mcp/servers/seaotter-ai-2621d915)",
+  "links": {
+    "primary": "https://seaotter.ai",
+    "repo": null,
+    "homepage": "https://seaotter.ai",
+    "docs": null,
+    "endpoint": "https://mcp.seaotter.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

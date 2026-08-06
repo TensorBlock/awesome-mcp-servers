@@ -3,8 +3,8 @@
   "name": "Aigen-Protocol/aigen-protocol",
   "description": "Open bounty protocol for AI agents. 22 MCP tools spanning token safety scans (6 EVM chains + Solana SPL) and a paid mission marketplace (create/submit/vote with USDC/ETH/SOL/SPL rewards), agent reputation, and peer voting. Live at `https://cryptogenesis.duckdns.org/mcp` (streamable_http). Listed on the official MCP Registry as `org.duckdns.cryptogenesis/safe-agent`. Framework SDKs for Mastra, LangChain, CrewAI, Letta, OpenAI Agents, Vercel AI, Workers AI, and a universal client.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-aigen-protocol-aigen-protocol-d6470ec3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aigen-protocol-aigen-protocol-d6470ec3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aigen-protocol-aigen-protocol-d6470ec3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aigen-protocol-aigen-protocol-d6470ec3/badge.svg)](https://tensorblock.co/mcp/servers/github-aigen-protocol-aigen-protocol-d6470ec3)",
   "links": {
     "primary": "https://github.com/Aigen-Protocol/aigen-protocol",
     "repo": "https://github.com/Aigen-Protocol/aigen-protocol",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": "https://cryptogenesis.duckdns.org/mcp"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 22
   }

@@ -3,8 +3,8 @@
   "name": "phpmac/fetch_mcp",
   "description": "Fetch web content in various formats using an MCP server, supporting HTML, JSON, plain text, and Markdown outputs.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-phpmac-fetch-mcp-a861e47f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-phpmac-fetch-mcp-a861e47f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-phpmac-fetch-mcp-a861e47f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-phpmac-fetch-mcp-a861e47f/badge.svg)](https://tensorblock.co/mcp/servers/github-phpmac-fetch-mcp-a861e47f)",
   "links": {
     "primary": "https://github.com/phpmac/fetch_mcp",
     "repo": "https://github.com/phpmac/fetch_mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

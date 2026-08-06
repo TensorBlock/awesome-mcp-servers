@@ -1,0 +1,58 @@
+{
+  "id": "npmjs-com-package-bitget-mcp-server-8948aa4f",
+  "name": "Bitget MCP Server",
+  "description": "Bitget trading MCP server for crypto market data, account management, portfolio tracking, and spot/futures trading workflows. Install: `npx bitget-mcp-server`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/npmjs-com-package-bitget-mcp-server-8948aa4f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/npmjs-com-package-bitget-mcp-server-8948aa4f/badge.svg)](https://tensorblock.co/mcp/servers/npmjs-com-package-bitget-mcp-server-8948aa4f)",
+  "links": {
+    "primary": "https://www.npmjs.com/package/bitget-mcp-server",
+    "repo": null,
+    "homepage": "https://www.npmjs.com/package/bitget-mcp-server",
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx bitget-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "github-jarvismaximum-hue-profitplay-mcp-509a71b5",
+  "name": "jarvismaximum-hue/profitplay-mcp",
+  "description": "Prediction market arena MCP server where agents register, view games and markets, place or cancel bets, check status, read leaderboards, and chat around BTC, ETH, SOL, S&P 500, and gold price-movement games. 9 tools. MIT.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jarvismaximum-hue-profitplay-mcp-509a71b5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jarvismaximum-hue-profitplay-mcp-509a71b5/badge.svg)](https://tensorblock.co/mcp/servers/github-jarvismaximum-hue-profitplay-mcp-509a71b5)",
+  "links": {
+    "primary": "https://github.com/jarvismaximum-hue/profitplay-mcp",
+    "repo": "https://github.com/jarvismaximum-hue/profitplay-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 9
+  }
+}

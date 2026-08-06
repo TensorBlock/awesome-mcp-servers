@@ -3,8 +3,8 @@
   "name": "1yhy/Figma-Context-MCP",
   "description": "Facilitates seamless integration of Figma design files with AI coding tools by converting design data into AI-friendly formats.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-1yhy-figma-context-mcp-b976bf59",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-1yhy-figma-context-mcp-b976bf59)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-1yhy-figma-context-mcp-b976bf59",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-1yhy-figma-context-mcp-b976bf59/badge.svg)](https://tensorblock.co/mcp/servers/github-1yhy-figma-context-mcp-b976bf59)",
   "links": {
     "primary": "https://github.com/1yhy/Figma-Context-MCP",
     "repo": "https://github.com/1yhy/Figma-Context-MCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

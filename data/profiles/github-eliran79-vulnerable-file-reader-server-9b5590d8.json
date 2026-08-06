@@ -3,8 +3,8 @@
   "name": "Eliran79/Vulnerable-file-reader-server",
   "description": "A Python MCP server showcasing command injection vulnerabilities for educational purposes, highlighting the risks of improper input sanitization.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-eliran79-vulnerable-file-reader-server-9b5590d8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-eliran79-vulnerable-file-reader-server-9b5590d8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-eliran79-vulnerable-file-reader-server-9b5590d8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-eliran79-vulnerable-file-reader-server-9b5590d8/badge.svg)](https://tensorblock.co/mcp/servers/github-eliran79-vulnerable-file-reader-server-9b5590d8)",
   "links": {
     "primary": "https://github.com/Eliran79/Vulnerable-file-reader-server",
     "repo": "https://github.com/Eliran79/Vulnerable-file-reader-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

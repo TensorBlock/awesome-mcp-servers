@@ -3,8 +3,8 @@
   "name": "brunoborges/jvm-diagnostics-mcp",
   "description": "Enhances JVM diagnostic tools with a user-friendly prompt and exposes them via an MCP server for local use.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-brunoborges-jvm-diagnostics-mcp-dafdb228",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-brunoborges-jvm-diagnostics-mcp-dafdb228)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-brunoborges-jvm-diagnostics-mcp-dafdb228",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-brunoborges-jvm-diagnostics-mcp-dafdb228/badge.svg)](https://tensorblock.co/mcp/servers/github-brunoborges-jvm-diagnostics-mcp-dafdb228)",
   "links": {
     "primary": "https://github.com/brunoborges/jvm-diagnostics-mcp",
     "repo": "https://github.com/brunoborges/jvm-diagnostics-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

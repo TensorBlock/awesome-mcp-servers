@@ -3,8 +3,8 @@
   "name": "xfantasyx/lum_mcp",
   "description": "Facilitates Claude AI's interaction with Lumverse Engine for creating and manipulating 3D scenes using the Model Context Protocol.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-xfantasyx-lum-mcp-c6354607",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xfantasyx-lum-mcp-c6354607)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-xfantasyx-lum-mcp-c6354607",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-xfantasyx-lum-mcp-c6354607/badge.svg)](https://tensorblock.co/mcp/servers/github-xfantasyx-lum-mcp-c6354607)",
   "links": {
     "primary": "https://github.com/xfantasyx/lum_mcp",
     "repo": "https://github.com/xfantasyx/lum_mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

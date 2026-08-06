@@ -3,8 +3,8 @@
   "name": "aviaryhq/cloudglue-mcp-server",
   "description": "Facilitates AI assistants in understanding video collections by transforming them into structured data for LLMs.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-aviaryhq-cloudglue-mcp-server-36ca8bbf",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aviaryhq-cloudglue-mcp-server-36ca8bbf)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aviaryhq-cloudglue-mcp-server-36ca8bbf",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aviaryhq-cloudglue-mcp-server-36ca8bbf/badge.svg)](https://tensorblock.co/mcp/servers/github-aviaryhq-cloudglue-mcp-server-36ca8bbf)",
   "links": {
     "primary": "https://github.com/aviaryhq/cloudglue-mcp-server",
     "repo": "https://github.com/aviaryhq/cloudglue-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

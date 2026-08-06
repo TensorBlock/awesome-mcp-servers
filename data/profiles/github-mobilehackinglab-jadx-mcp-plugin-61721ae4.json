@@ -3,8 +3,8 @@
   "name": "mobilehackinglab/jadx-mcp-plugin",
   "description": "Facilitates decompiler access for Claude by bridging Jadx API over HTTP using MCP, enabling live interaction with decompiled code.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-mobilehackinglab-jadx-mcp-plugin-61721ae4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mobilehackinglab-jadx-mcp-plugin-61721ae4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mobilehackinglab-jadx-mcp-plugin-61721ae4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mobilehackinglab-jadx-mcp-plugin-61721ae4/badge.svg)](https://tensorblock.co/mcp/servers/github-mobilehackinglab-jadx-mcp-plugin-61721ae4)",
   "links": {
     "primary": "https://github.com/mobilehackinglab/jadx-mcp-plugin",
     "repo": "https://github.com/mobilehackinglab/jadx-mcp-plugin",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "shivaji43/gibwork-mcp",
   "description": "Facilitates task management on the GibWork platform using the Model Context Protocol.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-shivaji43-gibwork-mcp-9a2447e4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shivaji43-gibwork-mcp-9a2447e4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shivaji43-gibwork-mcp-9a2447e4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shivaji43-gibwork-mcp-9a2447e4/badge.svg)](https://tensorblock.co/mcp/servers/github-shivaji43-gibwork-mcp-9a2447e4)",
   "links": {
     "primary": "https://github.com/shivaji43/gibwork-mcp",
     "repo": "https://github.com/shivaji43/gibwork-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

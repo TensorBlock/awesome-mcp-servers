@@ -3,8 +3,8 @@
   "name": "bart6114/my-bear-mcp-server",
   "description": "Facilitates AI assistants in accessing and reading notes from the Bear app through a read-only MCP server connection.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-bart6114-my-bear-mcp-server-fdc5b6ed",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bart6114-my-bear-mcp-server-fdc5b6ed)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bart6114-my-bear-mcp-server-fdc5b6ed",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bart6114-my-bear-mcp-server-fdc5b6ed/badge.svg)](https://tensorblock.co/mcp/servers/github-bart6114-my-bear-mcp-server-fdc5b6ed)",
   "links": {
     "primary": "https://github.com/bart6114/my-bear-mcp-server",
     "repo": "https://github.com/bart6114/my-bear-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

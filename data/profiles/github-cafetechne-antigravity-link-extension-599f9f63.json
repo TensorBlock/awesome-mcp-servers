@@ -3,8 +3,8 @@
   "name": "cafeTechne/antigravity-link-extension",
   "description": "MCP server + OpenAPI API to control Antigravity IDE instances (snapshot, send, stop generation, switch instance, task/walkthrough/plan retrieval) with a mobile companion UI.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-cafetechne-antigravity-link-extension-599f9f63",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cafetechne-antigravity-link-extension-599f9f63)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cafetechne-antigravity-link-extension-599f9f63",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cafetechne-antigravity-link-extension-599f9f63/badge.svg)](https://tensorblock.co/mcp/servers/github-cafetechne-antigravity-link-extension-599f9f63)",
   "links": {
     "primary": "https://github.com/cafeTechne/antigravity-link-extension",
     "repo": "https://github.com/cafeTechne/antigravity-link-extension",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

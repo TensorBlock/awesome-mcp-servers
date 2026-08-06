@@ -3,8 +3,8 @@
   "name": "CaptainCrouton89/mcp-maker",
   "description": "MCP Maker facilitates the creation of new Model Context Protocol servers by providing scaffolding tools and templates for server structure, tools, resources, and prompts.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-captaincrouton89-mcp-maker-9f636c28",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-captaincrouton89-mcp-maker-9f636c28)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-captaincrouton89-mcp-maker-9f636c28",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-captaincrouton89-mcp-maker-9f636c28/badge.svg)](https://tensorblock.co/mcp/servers/github-captaincrouton89-mcp-maker-9f636c28)",
   "links": {
     "primary": "https://github.com/CaptainCrouton89/mcp-maker",
     "repo": "https://github.com/CaptainCrouton89/mcp-maker",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

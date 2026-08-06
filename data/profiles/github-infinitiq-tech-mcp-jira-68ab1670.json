@@ -3,8 +3,8 @@
   "name": "InfinitIQ-Tech/mcp-jira",
   "description": "Facilitates natural language interaction with Jira's REST API for managing issues and projects.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-infinitiq-tech-mcp-jira-68ab1670",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-infinitiq-tech-mcp-jira-68ab1670)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-infinitiq-tech-mcp-jira-68ab1670",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-infinitiq-tech-mcp-jira-68ab1670/badge.svg)](https://tensorblock.co/mcp/servers/github-infinitiq-tech-mcp-jira-68ab1670)",
   "links": {
     "primary": "https://github.com/InfinitIQ-Tech/mcp-jira",
     "repo": "https://github.com/InfinitIQ-Tech/mcp-jira",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

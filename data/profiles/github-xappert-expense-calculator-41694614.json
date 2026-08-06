@@ -3,8 +3,8 @@
   "name": "xappert/expense-calculator",
   "description": "A dual-language financial analysis system utilizing MCP for intelligent transaction categorization and secure API key management.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-xappert-expense-calculator-41694614",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xappert-expense-calculator-41694614)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-xappert-expense-calculator-41694614",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-xappert-expense-calculator-41694614/badge.svg)](https://tensorblock.co/mcp/servers/github-xappert-expense-calculator-41694614)",
   "links": {
     "primary": "https://github.com/xappert/expense-calculator",
     "repo": "https://github.com/xappert/expense-calculator",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "api-key",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

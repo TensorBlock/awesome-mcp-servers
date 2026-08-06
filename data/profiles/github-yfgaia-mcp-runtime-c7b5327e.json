@@ -3,8 +3,8 @@
   "name": "YFGaia/mcp-runtime",
   "description": "A pre-configured runtime environment that simplifies the setup of MCP servers on Windows and macOS, integrating essential tools like Node.js, Python, and Git.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-yfgaia-mcp-runtime-c7b5327e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yfgaia-mcp-runtime-c7b5327e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yfgaia-mcp-runtime-c7b5327e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yfgaia-mcp-runtime-c7b5327e/badge.svg)](https://tensorblock.co/mcp/servers/github-yfgaia-mcp-runtime-c7b5327e)",
   "links": {
     "primary": "https://github.com/YFGaia/mcp-runtime",
     "repo": "https://github.com/YFGaia/mcp-runtime",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

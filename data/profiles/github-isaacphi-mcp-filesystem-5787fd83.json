@@ -3,8 +3,8 @@
   "name": "isaacphi/mcp-filesystem",
   "description": "Facilitates file management in a workspace by exposing each file as an MCP resource with change notifications and MIME type detection.",
   "category": "Filesystems",
-  "profileUrl": "https://tensorblock.co/mcp/github-isaacphi-mcp-filesystem-5787fd83",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-isaacphi-mcp-filesystem-5787fd83)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-isaacphi-mcp-filesystem-5787fd83",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-isaacphi-mcp-filesystem-5787fd83/badge.svg)](https://tensorblock.co/mcp/servers/github-isaacphi-mcp-filesystem-5787fd83)",
   "links": {
     "primary": "https://github.com/isaacphi/mcp-filesystem",
     "repo": "https://github.com/isaacphi/mcp-filesystem",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

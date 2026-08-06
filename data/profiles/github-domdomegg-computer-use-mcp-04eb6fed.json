@@ -3,8 +3,8 @@
   "name": "domdomegg/computer-use-mcp",
   "description": "A local MCP server enabling Claude to control computer functions with enhanced keyboard navigation via the Rango browser extension.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-domdomegg-computer-use-mcp-04eb6fed",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-domdomegg-computer-use-mcp-04eb6fed)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-domdomegg-computer-use-mcp-04eb6fed",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-domdomegg-computer-use-mcp-04eb6fed/badge.svg)](https://tensorblock.co/mcp/servers/github-domdomegg-computer-use-mcp-04eb6fed)",
   "links": {
     "primary": "https://github.com/domdomegg/computer-use-mcp",
     "repo": "https://github.com/domdomegg/computer-use-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

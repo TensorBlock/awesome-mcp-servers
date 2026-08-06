@@ -3,8 +3,8 @@
   "name": "dheerajoruganty/aws-bedrock-logs-mcp-server",
   "description": "Analyze AWS Bedrock usage and logs through a command-line interface and API using Anthropic's Claude model.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-dheerajoruganty-aws-bedrock-logs-mcp-server-130416b1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dheerajoruganty-aws-bedrock-logs-mcp-server-130416b1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dheerajoruganty-aws-bedrock-logs-mcp-server-130416b1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dheerajoruganty-aws-bedrock-logs-mcp-server-130416b1/badge.svg)](https://tensorblock.co/mcp/servers/github-dheerajoruganty-aws-bedrock-logs-mcp-server-130416b1)",
   "links": {
     "primary": "https://github.com/dheerajoruganty/aws-bedrock-logs-mcp-server",
     "repo": "https://github.com/dheerajoruganty/aws-bedrock-logs-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

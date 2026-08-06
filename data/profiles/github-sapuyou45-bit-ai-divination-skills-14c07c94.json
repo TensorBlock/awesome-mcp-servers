@@ -1,0 +1,58 @@
+{
+  "id": "github-sapuyou45-bit-ai-divination-skills-14c07c94",
+  "name": "sapuyou45-bit/ai-divination-skills",
+  "description": "Audited tarot, I Ching, and Xiao Liu Ren divination MCP server. Local seeded-or-system-entropy scripts; the model never invents the result — it only interprets the JSON output. `pip install ai-divination-skills` then run `ai-divination-mcp`.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sapuyou45-bit-ai-divination-skills-14c07c94",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sapuyou45-bit-ai-divination-skills-14c07c94/badge.svg)](https://tensorblock.co/mcp/servers/github-sapuyou45-bit-ai-divination-skills-14c07c94)",
+  "links": {
+    "primary": "https://github.com/sapuyou45-bit/ai-divination-skills",
+    "repo": "https://github.com/sapuyou45-bit/ai-divination-skills",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "pip install ai-divination-skills"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

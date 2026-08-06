@@ -3,8 +3,8 @@
   "name": "antymijaljevic/k8s-doc-mcp",
   "description": "A Python-based MCP server for managing and summarizing sticky notes using the Model Context Protocol SDK.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-antymijaljevic-k8s-doc-mcp-9e36d780",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-antymijaljevic-k8s-doc-mcp-9e36d780)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-antymijaljevic-k8s-doc-mcp-9e36d780",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-antymijaljevic-k8s-doc-mcp-9e36d780/badge.svg)](https://tensorblock.co/mcp/servers/github-antymijaljevic-k8s-doc-mcp-9e36d780)",
   "links": {
     "primary": "https://github.com/antymijaljevic/k8s-doc-mcp",
     "repo": "https://github.com/antymijaljevic/k8s-doc-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "bugstan/MCPxHub",
   "description": "Middleware that seamlessly forwards MCP requests from clients to local IDE extensions, supporting automatic IDE endpoint discovery and tool call forwarding.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-bugstan-mcpxhub-69b9980d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bugstan-mcpxhub-69b9980d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bugstan-mcpxhub-69b9980d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bugstan-mcpxhub-69b9980d/badge.svg)](https://tensorblock.co/mcp/servers/github-bugstan-mcpxhub-69b9980d)",
   "links": {
     "primary": "https://github.com/bugstan/MCPxHub",
     "repo": "https://github.com/bugstan/MCPxHub",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

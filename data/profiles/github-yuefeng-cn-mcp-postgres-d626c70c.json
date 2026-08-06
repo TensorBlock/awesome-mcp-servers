@@ -3,8 +3,8 @@
   "name": "yuefeng-cn/mcp-postgres",
   "description": "Facilitates the integration of PostgreSQL with AI agents through MCP server configurations.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-yuefeng-cn-mcp-postgres-d626c70c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yuefeng-cn-mcp-postgres-d626c70c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yuefeng-cn-mcp-postgres-d626c70c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yuefeng-cn-mcp-postgres-d626c70c/badge.svg)](https://tensorblock.co/mcp/servers/github-yuefeng-cn-mcp-postgres-d626c70c)",
   "links": {
     "primary": "https://github.com/yuefeng-cn/mcp-postgres",
     "repo": "https://github.com/yuefeng-cn/mcp-postgres",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "kyleselh/youtube-knowledge-assistant",
   "description": "Facilitates AI language models to interact with YouTube content through a standardized interface, offering features like video information retrieval, transcript management, and channel management.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-kyleselh-youtube-knowledge-assistant-700723f8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kyleselh-youtube-knowledge-assistant-700723f8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kyleselh-youtube-knowledge-assistant-700723f8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kyleselh-youtube-knowledge-assistant-700723f8/badge.svg)](https://tensorblock.co/mcp/servers/github-kyleselh-youtube-knowledge-assistant-700723f8)",
   "links": {
     "primary": "https://github.com/kyleselh/youtube-knowledge-assistant",
     "repo": "https://github.com/kyleselh/youtube-knowledge-assistant",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

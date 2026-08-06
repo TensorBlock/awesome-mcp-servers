@@ -3,8 +3,8 @@
   "name": "nacal/mcp-minecraft-remote",
   "description": "Facilitates remote control of Minecraft servers through AI-driven commands, enabling players to navigate, interact, and manage their Minecraft world seamlessly.",
   "category": "Gaming",
-  "profileUrl": "https://tensorblock.co/mcp/github-nacal-mcp-minecraft-remote-394c995e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nacal-mcp-minecraft-remote-394c995e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nacal-mcp-minecraft-remote-394c995e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nacal-mcp-minecraft-remote-394c995e/badge.svg)](https://tensorblock.co/mcp/servers/github-nacal-mcp-minecraft-remote-394c995e)",
   "links": {
     "primary": "https://github.com/nacal/mcp-minecraft-remote",
     "repo": "https://github.com/nacal/mcp-minecraft-remote",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,56 @@
+{
+  "id": "idphotosnap-com-developers-mcp-9e4edb6b",
+  "name": "whitetirocket/idphotosnap-mcp",
+  "description": "Passport and visa photo specifications for 100+ countries and 248 document formats. Tools for country specs, government portal file-size constraints (DS-160 240KB, Saudi Enjaz 200KB, India Sarathi 20-50KB, China COVA, Canada IRCC, Schengen VFS, K-ETA), and deep links to a browser-only photo tool. Validated against 15+ official government sources. Endpoint: `https://idphotosnap.com/api/mcp`. Open MIT dataset at github.com/whitetirocket/passport-photo-specs.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/servers/idphotosnap-com-developers-mcp-9e4edb6b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/idphotosnap-com-developers-mcp-9e4edb6b/badge.svg)](https://tensorblock.co/mcp/servers/idphotosnap-com-developers-mcp-9e4edb6b)",
+  "links": {
+    "primary": "https://idphotosnap.com/developers/mcp",
+    "repo": null,
+    "homepage": "https://idphotosnap.com/developers/mcp",
+    "docs": null,
+    "endpoint": "https://idphotosnap.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "MaXal/jetbrainsMCPProxy",
   "description": "Facilitates communication between clients and JetBrains IDE by proxying requests through MCP, enhancing CLI interactions.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-maxal-jetbrainsmcpproxy-b0d89154",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maxal-jetbrainsmcpproxy-b0d89154)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-maxal-jetbrainsmcpproxy-b0d89154",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-maxal-jetbrainsmcpproxy-b0d89154/badge.svg)](https://tensorblock.co/mcp/servers/github-maxal-jetbrainsmcpproxy-b0d89154)",
   "links": {
     "primary": "https://github.com/MaXal/jetbrainsMCPProxy",
     "repo": "https://github.com/MaXal/jetbrainsMCPProxy",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

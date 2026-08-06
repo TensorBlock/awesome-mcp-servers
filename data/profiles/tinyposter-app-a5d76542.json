@@ -1,0 +1,56 @@
+{
+  "id": "tinyposter-app-a5d76542",
+  "name": "Tinyposter",
+  "description": "Post to 11 social platforms (Instagram, X, Threads, TikTok, LinkedIn, YouTube, Facebook, Pinterest, Bluesky, Mastodon, Reddit) from any MCP client. OAuth + bearer auth, RFC 9728 compliant. Scheduling, calendar, multi-brand support. Docs at [tinyposter.app/docs/mcp](https://tinyposter.app/docs/mcp).",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/servers/tinyposter-app-a5d76542",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/tinyposter-app-a5d76542/badge.svg)](https://tensorblock.co/mcp/servers/tinyposter-app-a5d76542)",
+  "links": {
+    "primary": "https://tinyposter.app",
+    "repo": null,
+    "homepage": "https://tinyposter.app",
+    "docs": null,
+    "endpoint": "https://tinyposter.app/docs/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

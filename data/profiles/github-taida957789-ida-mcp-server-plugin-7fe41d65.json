@@ -3,8 +3,8 @@
   "name": "taida957789/ida-mcp-server-plugin",
   "description": "Facilitates remote querying and control of IDA Pro for binary analysis via the MCP interface, enabling AI assistants to interact directly with the tool.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-taida957789-ida-mcp-server-plugin-7fe41d65",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-taida957789-ida-mcp-server-plugin-7fe41d65)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-taida957789-ida-mcp-server-plugin-7fe41d65",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-taida957789-ida-mcp-server-plugin-7fe41d65/badge.svg)](https://tensorblock.co/mcp/servers/github-taida957789-ida-mcp-server-plugin-7fe41d65)",
   "links": {
     "primary": "https://github.com/taida957789/ida-mcp-server-plugin",
     "repo": "https://github.com/taida957789/ida-mcp-server-plugin",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

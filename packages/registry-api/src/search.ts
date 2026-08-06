@@ -17,6 +17,8 @@ export interface ServerSummary {
   transport: Transport[];
   auth: AuthType;
   installConfidence: CatalogEntry["install"]["confidence"];
+  installReady: boolean;
+  verifiedAt: string | null;
   primaryUrl: string;
   profilePath: string;
   webProfilePath: string;
@@ -46,6 +48,8 @@ export const summarizeServer = (entry: CatalogEntry): ServerSummary => ({
   transport: entry.transport,
   auth: entry.auth.type,
   installConfidence: entry.install.confidence,
+  installReady: entry.installReady,
+  verifiedAt: entry.verifiedAt,
   primaryUrl: entry.links.primary,
   profilePath: `/v1/servers/${entry.id}`,
   webProfilePath: webProfileUrl(entry.id),

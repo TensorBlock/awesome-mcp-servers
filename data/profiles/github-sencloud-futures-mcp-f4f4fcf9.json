@@ -3,8 +3,8 @@
   "name": "sencloud/futures_mcp",
   "description": "A platform for futures trading strategy analysis, integrating real-time market data, technical analysis, news insights, and AI-driven analysis.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-sencloud-futures-mcp-f4f4fcf9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sencloud-futures-mcp-f4f4fcf9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sencloud-futures-mcp-f4f4fcf9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sencloud-futures-mcp-f4f4fcf9/badge.svg)](https://tensorblock.co/mcp/servers/github-sencloud-futures-mcp-f4f4fcf9)",
   "links": {
     "primary": "https://github.com/sencloud/futures_mcp",
     "repo": "https://github.com/sencloud/futures_mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

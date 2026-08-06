@@ -3,8 +3,8 @@
   "name": "tsainte/wordpress-automation-mcp",
   "description": "Automate WordPress post management with a Python-based MCP server, offering CRUD operations and post status handling.",
   "category": "Content Management Systems",
-  "profileUrl": "https://tensorblock.co/mcp/github-tsainte-wordpress-automation-mcp-7ec699e9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tsainte-wordpress-automation-mcp-7ec699e9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tsainte-wordpress-automation-mcp-7ec699e9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tsainte-wordpress-automation-mcp-7ec699e9/badge.svg)](https://tensorblock.co/mcp/servers/github-tsainte-wordpress-automation-mcp-7ec699e9)",
   "links": {
     "primary": "https://github.com/tsainte/wordpress-automation-mcp",
     "repo": "https://github.com/tsainte/wordpress-automation-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

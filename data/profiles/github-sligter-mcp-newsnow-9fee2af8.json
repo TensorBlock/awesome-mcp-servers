@@ -3,8 +3,8 @@
   "name": "sligter/mcp_newsnow",
   "description": "Aggregates trending news and topics from over 14 platforms using the Newsnow API, supporting both Chinese and English sources.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-sligter-mcp-newsnow-9fee2af8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sligter-mcp-newsnow-9fee2af8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sligter-mcp-newsnow-9fee2af8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sligter-mcp-newsnow-9fee2af8/badge.svg)](https://tensorblock.co/mcp/servers/github-sligter-mcp-newsnow-9fee2af8)",
   "links": {
     "primary": "https://github.com/sligter/mcp_newsnow",
     "repo": "https://github.com/sligter/mcp_newsnow",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

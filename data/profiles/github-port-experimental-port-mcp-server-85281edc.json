@@ -3,8 +3,8 @@
   "name": "port-experimental/port-mcp-server",
   "description": "Enables natural language interaction with Port.io's developer platform, facilitating quick information retrieval, scorecard analysis, and resource creation.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-port-experimental-port-mcp-server-85281edc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-port-experimental-port-mcp-server-85281edc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-port-experimental-port-mcp-server-85281edc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-port-experimental-port-mcp-server-85281edc/badge.svg)](https://tensorblock.co/mcp/servers/github-port-experimental-port-mcp-server-85281edc)",
   "links": {
     "primary": "https://github.com/port-experimental/port-mcp-server",
     "repo": "https://github.com/port-experimental/port-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

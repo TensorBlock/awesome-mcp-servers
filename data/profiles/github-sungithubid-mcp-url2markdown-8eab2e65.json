@@ -3,8 +3,8 @@
   "name": "sungithubid/mcp-url2markdown",
   "description": "Transforms web page content from a given URL into clean, formatted markdown using MCP server capabilities.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-sungithubid-mcp-url2markdown-8eab2e65",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sungithubid-mcp-url2markdown-8eab2e65)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sungithubid-mcp-url2markdown-8eab2e65",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sungithubid-mcp-url2markdown-8eab2e65/badge.svg)](https://tensorblock.co/mcp/servers/github-sungithubid-mcp-url2markdown-8eab2e65)",
   "links": {
     "primary": "https://github.com/sungithubid/mcp-url2markdown",
     "repo": "https://github.com/sungithubid/mcp-url2markdown",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

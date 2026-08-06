@@ -3,8 +3,8 @@
   "name": "javaDer/mcp-sentry-custom",
   "description": "Facilitates the retrieval and analysis of issues from Sentry, providing detailed insights into error reports and debugging information.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-javader-mcp-sentry-custom-847592cd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-javader-mcp-sentry-custom-847592cd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-javader-mcp-sentry-custom-847592cd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-javader-mcp-sentry-custom-847592cd/badge.svg)](https://tensorblock.co/mcp/servers/github-javader-mcp-sentry-custom-847592cd)",
   "links": {
     "primary": "https://github.com/javaDer/mcp-sentry-custom",
     "repo": "https://github.com/javaDer/mcp-sentry-custom",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

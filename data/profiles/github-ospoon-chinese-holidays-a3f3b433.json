@@ -3,8 +3,8 @@
   "name": "OSpoon/chinese-holidays",
   "description": "Provides tools to query and manage information about Chinese holidays.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-ospoon-chinese-holidays-a3f3b433",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ospoon-chinese-holidays-a3f3b433)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ospoon-chinese-holidays-a3f3b433",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ospoon-chinese-holidays-a3f3b433/badge.svg)](https://tensorblock.co/mcp/servers/github-ospoon-chinese-holidays-a3f3b433)",
   "links": {
     "primary": "https://github.com/OSpoon/chinese-holidays",
     "repo": "https://github.com/OSpoon/chinese-holidays",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

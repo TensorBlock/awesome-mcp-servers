@@ -3,8 +3,8 @@
   "name": "ubie-oss/mcp-proxy",
   "description": "Facilitates HTTP connectivity to MCP servers by acting as a lightweight proxy, eliminating the need for custom streaming transports.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-ubie-oss-mcp-proxy-985051d3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ubie-oss-mcp-proxy-985051d3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ubie-oss-mcp-proxy-985051d3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ubie-oss-mcp-proxy-985051d3/badge.svg)](https://tensorblock.co/mcp/servers/github-ubie-oss-mcp-proxy-985051d3)",
   "links": {
     "primary": "https://github.com/ubie-oss/mcp-proxy",
     "repo": "https://github.com/ubie-oss/mcp-proxy",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

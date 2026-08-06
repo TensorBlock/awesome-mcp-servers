@@ -3,8 +3,8 @@
   "name": "mohdsuhail007/VerbilioMCP",
   "description": "Facilitates seamless integration with GitHub using Verbilio MCP server for streamlined workflow automation.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-mohdsuhail007-verbiliomcp-a21d5d5e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mohdsuhail007-verbiliomcp-a21d5d5e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mohdsuhail007-verbiliomcp-a21d5d5e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mohdsuhail007-verbiliomcp-a21d5d5e/badge.svg)](https://tensorblock.co/mcp/servers/github-mohdsuhail007-verbiliomcp-a21d5d5e)",
   "links": {
     "primary": "https://github.com/mohdsuhail007/VerbilioMCP",
     "repo": "https://github.com/mohdsuhail007/VerbilioMCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "yoi-hibino/mcp-ssh-server",
   "description": "A Model Context Protocol (MCP) compatible SSH server designed for seamless integration with Windsurf IDE, supporting full MCP protocol for SSH operations.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-yoi-hibino-mcp-ssh-server-a809e240",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yoi-hibino-mcp-ssh-server-a809e240)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yoi-hibino-mcp-ssh-server-a809e240",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yoi-hibino-mcp-ssh-server-a809e240/badge.svg)](https://tensorblock.co/mcp/servers/github-yoi-hibino-mcp-ssh-server-a809e240)",
   "links": {
     "primary": "https://github.com/yoi-hibino/mcp-ssh-server",
     "repo": "https://github.com/yoi-hibino/mcp-ssh-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

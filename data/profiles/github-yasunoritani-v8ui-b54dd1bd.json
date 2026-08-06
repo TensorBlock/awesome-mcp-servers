@@ -3,8 +3,8 @@
   "name": "yasunoritani/v8ui",
   "description": "A custom MCP server enabling natural language control of Max environments through Claude Desktop, enhancing creative workflows in music and multimedia production.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-yasunoritani-v8ui-b54dd1bd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yasunoritani-v8ui-b54dd1bd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yasunoritani-v8ui-b54dd1bd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yasunoritani-v8ui-b54dd1bd/badge.svg)](https://tensorblock.co/mcp/servers/github-yasunoritani-v8ui-b54dd1bd)",
   "links": {
     "primary": "https://github.com/yasunoritani/v8ui",
     "repo": "https://github.com/yasunoritani/v8ui",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

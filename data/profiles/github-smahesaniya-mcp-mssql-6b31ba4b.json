@@ -3,8 +3,8 @@
   "name": "smahesaniya/mcp-mssql",
   "description": "Facilitates SQL query execution against Microsoft SQL Server databases, supporting only SELECT queries.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-smahesaniya-mcp-mssql-6b31ba4b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-smahesaniya-mcp-mssql-6b31ba4b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-smahesaniya-mcp-mssql-6b31ba4b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-smahesaniya-mcp-mssql-6b31ba4b/badge.svg)](https://tensorblock.co/mcp/servers/github-smahesaniya-mcp-mssql-6b31ba4b)",
   "links": {
     "primary": "https://github.com/smahesaniya/mcp-mssql",
     "repo": "https://github.com/smahesaniya/mcp-mssql",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

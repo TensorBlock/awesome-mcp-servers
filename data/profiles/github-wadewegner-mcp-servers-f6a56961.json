@@ -3,8 +3,8 @@
   "name": "wadewegner/mcp-servers",
   "description": "A versatile collection of MCP servers for accessing weather data and managing DigitalOcean deployments, complete with templates for creating new servers.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-wadewegner-mcp-servers-f6a56961",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wadewegner-mcp-servers-f6a56961)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wadewegner-mcp-servers-f6a56961",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wadewegner-mcp-servers-f6a56961/badge.svg)](https://tensorblock.co/mcp/servers/github-wadewegner-mcp-servers-f6a56961)",
   "links": {
     "primary": "https://github.com/wadewegner/mcp-servers",
     "repo": "https://github.com/wadewegner/mcp-servers",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

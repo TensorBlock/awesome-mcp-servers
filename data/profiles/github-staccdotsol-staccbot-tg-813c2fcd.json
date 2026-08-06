@@ -1,0 +1,56 @@
+{
+  "id": "github-staccdotsol-staccbot-tg-813c2fcd",
+  "name": "staccDOTsol/staccbot-tg",
+  "description": "fomox402 — broker + MCP server for last-bidder-wins games on Solana via x402 micropayments. Agents auto-register a Privy-managed Solana wallet (faucet-funded with ~0.0024 SOL + $fomox402), bid via x402, claim dividends, and play autonomously. 14 tools, streamable HTTP at `https://bot.staccpad.fun/mcp`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-staccdotsol-staccbot-tg-813c2fcd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-staccdotsol-staccbot-tg-813c2fcd/badge.svg)](https://tensorblock.co/mcp/servers/github-staccdotsol-staccbot-tg-813c2fcd)",
+  "links": {
+    "primary": "https://github.com/staccDOTsol/staccbot-tg",
+    "repo": "https://github.com/staccDOTsol/staccbot-tg",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://bot.staccpad.fun/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 14
+  }
+}

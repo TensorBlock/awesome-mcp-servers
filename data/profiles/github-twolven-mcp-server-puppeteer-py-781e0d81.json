@@ -3,8 +3,8 @@
   "name": "twolven/mcp-server-puppeteer-py",
   "description": "A Python-based MCP server leveraging Playwright for comprehensive browser automation, enabling LLMs to interact with web pages, capture screenshots, and execute JavaScript.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-twolven-mcp-server-puppeteer-py-781e0d81",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-twolven-mcp-server-puppeteer-py-781e0d81)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-twolven-mcp-server-puppeteer-py-781e0d81",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-twolven-mcp-server-puppeteer-py-781e0d81/badge.svg)](https://tensorblock.co/mcp/servers/github-twolven-mcp-server-puppeteer-py-781e0d81)",
   "links": {
     "primary": "https://github.com/twolven/mcp-server-puppeteer-py",
     "repo": "https://github.com/twolven/mcp-server-puppeteer-py",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

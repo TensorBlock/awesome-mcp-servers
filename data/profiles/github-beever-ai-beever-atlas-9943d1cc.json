@@ -3,8 +3,8 @@
   "name": "Beever-AI/beever-atlas",
   "description": "Open-source LLM Wiki that distills team-chat corpora (Slack, Discord, Microsoft Teams, Mattermost, Telegram) into a 3-tier semantic schema and an entity graph. Exposes 16 MCP tools for cited Q&A from Claude Code and Cursor. Apache 2.0, runnable in 3 commands via `make demo`.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-beever-ai-beever-atlas-9943d1cc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-beever-ai-beever-atlas-9943d1cc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-beever-ai-beever-atlas-9943d1cc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-beever-ai-beever-atlas-9943d1cc/badge.svg)](https://tensorblock.co/mcp/servers/github-beever-ai-beever-atlas-9943d1cc)",
   "links": {
     "primary": "https://github.com/Beever-AI/beever-atlas",
     "repo": "https://github.com/Beever-AI/beever-atlas",
@@ -12,12 +12,47 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 16
   }

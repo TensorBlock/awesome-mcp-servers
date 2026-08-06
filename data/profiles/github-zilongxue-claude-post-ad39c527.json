@@ -3,8 +3,8 @@
   "name": "ZilongXue/claude-post",
   "description": "Facilitates natural language-driven email management with Claude, enabling secure email search, reading, and sending.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-zilongxue-claude-post-ad39c527",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zilongxue-claude-post-ad39c527)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zilongxue-claude-post-ad39c527",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zilongxue-claude-post-ad39c527/badge.svg)](https://tensorblock.co/mcp/servers/github-zilongxue-claude-post-ad39c527)",
   "links": {
     "primary": "https://github.com/ZilongXue/claude-post",
     "repo": "https://github.com/ZilongXue/claude-post",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

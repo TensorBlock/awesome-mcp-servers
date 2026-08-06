@@ -3,8 +3,8 @@
   "name": "shinzo-labs/hubspot-mcp",
   "description": "Provides a standardized interface for accessing and managing HubSpot CRM data through a comprehensive MCP implementation.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-shinzo-labs-hubspot-mcp-3cc42b36",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shinzo-labs-hubspot-mcp-3cc42b36)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shinzo-labs-hubspot-mcp-3cc42b36",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shinzo-labs-hubspot-mcp-3cc42b36/badge.svg)](https://tensorblock.co/mcp/servers/github-shinzo-labs-hubspot-mcp-3cc42b36)",
   "links": {
     "primary": "https://github.com/shinzo-labs/hubspot-mcp",
     "repo": "https://github.com/shinzo-labs/hubspot-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

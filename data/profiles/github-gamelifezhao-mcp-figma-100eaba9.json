@@ -3,8 +3,8 @@
   "name": "gamelifezhao/mcp-figma",
   "description": "Facilitates AI-driven interactions with Figma by leveraging the Model Context Protocol to access user data, files, components, annotations, styles, and version history.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-gamelifezhao-mcp-figma-100eaba9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gamelifezhao-mcp-figma-100eaba9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-gamelifezhao-mcp-figma-100eaba9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-gamelifezhao-mcp-figma-100eaba9/badge.svg)](https://tensorblock.co/mcp/servers/github-gamelifezhao-mcp-figma-100eaba9)",
   "links": {
     "primary": "https://github.com/gamelifezhao/mcp-figma",
     "repo": "https://github.com/gamelifezhao/mcp-figma",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

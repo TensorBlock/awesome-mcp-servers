@@ -3,8 +3,8 @@
   "name": "bookmd/Secure-Coding-MCP",
   "description": "Enhances AI-generated code security by integrating security guidelines into Cursor's code generation process.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-bookmd-secure-coding-mcp-974437fb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bookmd-secure-coding-mcp-974437fb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bookmd-secure-coding-mcp-974437fb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bookmd-secure-coding-mcp-974437fb/badge.svg)](https://tensorblock.co/mcp/servers/github-bookmd-secure-coding-mcp-974437fb)",
   "links": {
     "primary": "https://github.com/bookmd/Secure-Coding-MCP",
     "repo": "https://github.com/bookmd/Secure-Coding-MCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

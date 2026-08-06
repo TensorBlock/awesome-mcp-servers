@@ -3,8 +3,8 @@
   "name": "dhrbtjr0331/nba-stats-predictor-mcp",
   "description": "Generates NBA player performance forecasts using real-time data analysis and advanced statistical modeling.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-dhrbtjr0331-nba-stats-predictor-mcp-aa65606b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dhrbtjr0331-nba-stats-predictor-mcp-aa65606b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dhrbtjr0331-nba-stats-predictor-mcp-aa65606b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dhrbtjr0331-nba-stats-predictor-mcp-aa65606b/badge.svg)](https://tensorblock.co/mcp/servers/github-dhrbtjr0331-nba-stats-predictor-mcp-aa65606b)",
   "links": {
     "primary": "https://github.com/dhrbtjr0331/nba-stats-predictor-mcp",
     "repo": "https://github.com/dhrbtjr0331/nba-stats-predictor-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

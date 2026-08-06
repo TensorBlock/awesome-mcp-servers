@@ -3,8 +3,8 @@
   "name": "roma-mgcom/wildberries-mcp",
   "description": "Facilitates interaction with the Wildberries API through a configurable MCP server setup.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-roma-mgcom-wildberries-mcp-d666fefc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-roma-mgcom-wildberries-mcp-d666fefc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-roma-mgcom-wildberries-mcp-d666fefc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-roma-mgcom-wildberries-mcp-d666fefc/badge.svg)](https://tensorblock.co/mcp/servers/github-roma-mgcom-wildberries-mcp-d666fefc)",
   "links": {
     "primary": "https://github.com/roma-mgcom/wildberries-mcp",
     "repo": "https://github.com/roma-mgcom/wildberries-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

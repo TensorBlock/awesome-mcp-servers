@@ -3,8 +3,8 @@
   "name": "lpenguin/openai-mcp",
   "description": "A TypeScript-based server for generating images using OpenAI's DALL-E 3 model via the Model Context Protocol.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-lpenguin-openai-mcp-9f85488d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lpenguin-openai-mcp-9f85488d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lpenguin-openai-mcp-9f85488d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lpenguin-openai-mcp-9f85488d/badge.svg)](https://tensorblock.co/mcp/servers/github-lpenguin-openai-mcp-9f85488d)",
   "links": {
     "primary": "https://github.com/lpenguin/openai-mcp",
     "repo": "https://github.com/lpenguin/openai-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

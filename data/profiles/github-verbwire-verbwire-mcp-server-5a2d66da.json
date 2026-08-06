@@ -3,8 +3,8 @@
   "name": "verbwire/verbwire-mcp-server",
   "description": "Facilitates blockchain operations such as deploying smart contracts, minting NFTs, and managing IPFS storage through the Verbwire API.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-verbwire-verbwire-mcp-server-5a2d66da",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-verbwire-verbwire-mcp-server-5a2d66da)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-verbwire-verbwire-mcp-server-5a2d66da",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-verbwire-verbwire-mcp-server-5a2d66da/badge.svg)](https://tensorblock.co/mcp/servers/github-verbwire-verbwire-mcp-server-5a2d66da)",
   "links": {
     "primary": "https://github.com/verbwire/verbwire-mcp-server",
     "repo": "https://github.com/verbwire/verbwire-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "playcations/MCP-Calculator",
   "description": "A Python-based MCP server offering a containerized API for performing advanced mathematical operations using scipy and numpy.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-playcations-mcp-calculator-e84df91a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-playcations-mcp-calculator-e84df91a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-playcations-mcp-calculator-e84df91a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-playcations-mcp-calculator-e84df91a/badge.svg)](https://tensorblock.co/mcp/servers/github-playcations-mcp-calculator-e84df91a)",
   "links": {
     "primary": "https://github.com/playcations/MCP-Calculator",
     "repo": "https://github.com/playcations/MCP-Calculator",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

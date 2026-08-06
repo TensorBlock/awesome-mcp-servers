@@ -3,8 +3,8 @@
   "name": "Scarvy/readwise-chat",
   "description": "Engage with your Reader library through Claude Desktop, leveraging Anthropic's Model Context Protocol for seamless document interaction.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-scarvy-readwise-chat-7f8543a7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-scarvy-readwise-chat-7f8543a7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-scarvy-readwise-chat-7f8543a7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-scarvy-readwise-chat-7f8543a7/badge.svg)](https://tensorblock.co/mcp/servers/github-scarvy-readwise-chat-7f8543a7)",
   "links": {
     "primary": "https://github.com/Scarvy/readwise-chat",
     "repo": "https://github.com/Scarvy/readwise-chat",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

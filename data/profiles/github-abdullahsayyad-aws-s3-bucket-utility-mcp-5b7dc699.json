@@ -3,8 +3,8 @@
   "name": "abdullahsayyad/aws-s3-bucket-utility-mcp",
   "description": "Facilitates seamless interaction with AWS S3 storage for LLMs, enabling bucket listing, object retrieval, and CSV filtering with async support.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-abdullahsayyad-aws-s3-bucket-utility-mcp-5b7dc699",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abdullahsayyad-aws-s3-bucket-utility-mcp-5b7dc699)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-abdullahsayyad-aws-s3-bucket-utility-mcp-5b7dc699",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-abdullahsayyad-aws-s3-bucket-utility-mcp-5b7dc699/badge.svg)](https://tensorblock.co/mcp/servers/github-abdullahsayyad-aws-s3-bucket-utility-mcp-5b7dc699)",
   "links": {
     "primary": "https://github.com/abdullahsayyad/aws-s3-bucket-utility-mcp",
     "repo": "https://github.com/abdullahsayyad/aws-s3-bucket-utility-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

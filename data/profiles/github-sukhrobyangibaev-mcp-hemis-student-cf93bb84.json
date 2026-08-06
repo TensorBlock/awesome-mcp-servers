@@ -3,8 +3,8 @@
   "name": "sukhrobyangibaev/mcp_hemis_student",
   "description": "Facilitates seamless access to student academic data from HEMIS through Claude, enabling retrieval of grades, schedules, and university statistics.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-sukhrobyangibaev-mcp-hemis-student-cf93bb84",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sukhrobyangibaev-mcp-hemis-student-cf93bb84)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sukhrobyangibaev-mcp-hemis-student-cf93bb84",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sukhrobyangibaev-mcp-hemis-student-cf93bb84/badge.svg)](https://tensorblock.co/mcp/servers/github-sukhrobyangibaev-mcp-hemis-student-cf93bb84)",
   "links": {
     "primary": "https://github.com/sukhrobyangibaev/mcp_hemis_student",
     "repo": "https://github.com/sukhrobyangibaev/mcp_hemis_student",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

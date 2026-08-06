@@ -3,8 +3,8 @@
   "name": "Akira-Papa/akirapapa-mcp-notion-server",
   "description": "Facilitates seamless interaction with Notion workspaces through Claude by leveraging the Notion API.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-akira-papa-akirapapa-mcp-notion-server-15fe0521",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-akira-papa-akirapapa-mcp-notion-server-15fe0521)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-akira-papa-akirapapa-mcp-notion-server-15fe0521",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-akira-papa-akirapapa-mcp-notion-server-15fe0521/badge.svg)](https://tensorblock.co/mcp/servers/github-akira-papa-akirapapa-mcp-notion-server-15fe0521)",
   "links": {
     "primary": "https://github.com/Akira-Papa/akirapapa-mcp-notion-server",
     "repo": "https://github.com/Akira-Papa/akirapapa-mcp-notion-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

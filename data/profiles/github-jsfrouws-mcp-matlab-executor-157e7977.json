@@ -3,8 +3,8 @@
   "name": "JSFrouws/mcp-matlab-executor",
   "description": "Securely execute MATLAB functions and scripts with user-approved security prompts.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-jsfrouws-mcp-matlab-executor-157e7977",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jsfrouws-mcp-matlab-executor-157e7977)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jsfrouws-mcp-matlab-executor-157e7977",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jsfrouws-mcp-matlab-executor-157e7977/badge.svg)](https://tensorblock.co/mcp/servers/github-jsfrouws-mcp-matlab-executor-157e7977)",
   "links": {
     "primary": "https://github.com/JSFrouws/mcp-matlab-executor",
     "repo": "https://github.com/JSFrouws/mcp-matlab-executor",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "stevenyu113228/BloodHound-MCP",
   "description": "BloodHound MCP enables LLMs to interact with and analyze Active Directory environments using natural language queries, enhancing the BloodHound tool's capabilities.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-stevenyu113228-bloodhound-mcp-380fdd1b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stevenyu113228-bloodhound-mcp-380fdd1b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-stevenyu113228-bloodhound-mcp-380fdd1b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stevenyu113228-bloodhound-mcp-380fdd1b/badge.svg)](https://tensorblock.co/mcp/servers/github-stevenyu113228-bloodhound-mcp-380fdd1b)",
   "links": {
     "primary": "https://github.com/stevenyu113228/BloodHound-MCP",
     "repo": "https://github.com/stevenyu113228/BloodHound-MCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

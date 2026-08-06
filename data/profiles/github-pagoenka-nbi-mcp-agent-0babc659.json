@@ -3,8 +3,8 @@
   "name": "pagoenka/nbi-mcp-agent",
   "description": "Enhance Jupyter Notebook with an MCP Agent extension for managing and configuring MCP server settings directly within the notebook environment.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-pagoenka-nbi-mcp-agent-0babc659",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pagoenka-nbi-mcp-agent-0babc659)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-pagoenka-nbi-mcp-agent-0babc659",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-pagoenka-nbi-mcp-agent-0babc659/badge.svg)](https://tensorblock.co/mcp/servers/github-pagoenka-nbi-mcp-agent-0babc659)",
   "links": {
     "primary": "https://github.com/pagoenka/nbi-mcp-agent",
     "repo": "https://github.com/pagoenka/nbi-mcp-agent",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }
