@@ -3,8 +3,8 @@
   "name": "otanl/mGB-MCP",
   "description": "Facilitates MIDI sequencing through a WebSocket server, enabling Claude MCP integration for seamless music creation and control.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-otanl-mgb-mcp-5c423d53",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-otanl-mgb-mcp-5c423d53)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-otanl-mgb-mcp-5c423d53",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-otanl-mgb-mcp-5c423d53/badge.svg)](https://tensorblock.co/mcp/servers/github-otanl-mgb-mcp-5c423d53)",
   "links": {
     "primary": "https://github.com/otanl/mGB-MCP",
     "repo": "https://github.com/otanl/mGB-MCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

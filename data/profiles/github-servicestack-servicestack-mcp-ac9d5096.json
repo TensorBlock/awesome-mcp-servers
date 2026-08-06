@@ -3,8 +3,8 @@
   "name": "ServiceStack/servicestack-mcp",
   "description": "A TypeScript-based MCP server for exploring and invoking ServiceStack APIs with a simple notes system.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-servicestack-servicestack-mcp-ac9d5096",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-servicestack-servicestack-mcp-ac9d5096)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-servicestack-servicestack-mcp-ac9d5096",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-servicestack-servicestack-mcp-ac9d5096/badge.svg)](https://tensorblock.co/mcp/servers/github-servicestack-servicestack-mcp-ac9d5096)",
   "links": {
     "primary": "https://github.com/ServiceStack/servicestack-mcp",
     "repo": "https://github.com/ServiceStack/servicestack-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "nicekon/zendesk-mcp-server-kon",
   "description": "Enhances Zendesk integration by managing tickets, community posts, and knowledge base access.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-nicekon-zendesk-mcp-server-kon-98bb6717",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nicekon-zendesk-mcp-server-kon-98bb6717)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nicekon-zendesk-mcp-server-kon-98bb6717",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nicekon-zendesk-mcp-server-kon-98bb6717/badge.svg)](https://tensorblock.co/mcp/servers/github-nicekon-zendesk-mcp-server-kon-98bb6717)",
   "links": {
     "primary": "https://github.com/nicekon/zendesk-mcp-server-kon",
     "repo": "https://github.com/nicekon/zendesk-mcp-server-kon",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

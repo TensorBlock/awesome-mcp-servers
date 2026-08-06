@@ -1,0 +1,56 @@
+{
+  "id": "github-alona-iaig-overboard-claude-plugin-e0cf0e8b",
+  "name": "Overboard Studio",
+  "description": "AI-powered collaborative whiteboard. Create boards, diagrams, flowcharts, and project plans from AI conversations. 17 MCP tools, OAuth 2.0 + PKCE, real-time collaboration, free unlimited boards.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-alona-iaig-overboard-claude-plugin-e0cf0e8b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-alona-iaig-overboard-claude-plugin-e0cf0e8b/badge.svg)](https://tensorblock.co/mcp/servers/github-alona-iaig-overboard-claude-plugin-e0cf0e8b)",
+  "links": {
+    "primary": "https://github.com/alona-iaig/overboard-claude-plugin",
+    "repo": "https://github.com/alona-iaig/overboard-claude-plugin",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 17
+  }
+}

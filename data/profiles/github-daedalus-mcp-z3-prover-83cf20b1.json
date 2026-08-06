@@ -1,0 +1,56 @@
+{
+  "id": "github-daedalus-mcp-z3-prover-83cf20b1",
+  "name": "daedalus/mcp-z3-prover",
+  "description": "MCP server exposing Z3 solver API.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-daedalus-mcp-z3-prover-83cf20b1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-daedalus-mcp-z3-prover-83cf20b1/badge.svg)](https://tensorblock.co/mcp/servers/github-daedalus-mcp-z3-prover-83cf20b1)",
+  "links": {
+    "primary": "https://github.com/daedalus/mcp-z3-prover",
+    "repo": "https://github.com/daedalus/mcp-z3-prover",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

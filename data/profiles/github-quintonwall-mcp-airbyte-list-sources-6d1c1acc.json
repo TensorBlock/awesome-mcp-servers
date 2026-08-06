@@ -3,8 +3,8 @@
   "name": "quintonwall/mcp-airbyte-list-sources",
   "description": "Facilitates monitoring of Airbyte connections through an MCP server integrated with Claude Desktop.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-quintonwall-mcp-airbyte-list-sources-6d1c1acc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-quintonwall-mcp-airbyte-list-sources-6d1c1acc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-quintonwall-mcp-airbyte-list-sources-6d1c1acc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-quintonwall-mcp-airbyte-list-sources-6d1c1acc/badge.svg)](https://tensorblock.co/mcp/servers/github-quintonwall-mcp-airbyte-list-sources-6d1c1acc)",
   "links": {
     "primary": "https://github.com/quintonwall/mcp-airbyte-list-sources",
     "repo": "https://github.com/quintonwall/mcp-airbyte-list-sources",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

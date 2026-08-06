@@ -1,0 +1,58 @@
+{
+  "id": "github-anipotts-imessage-mcp-845f39eb",
+  "name": "anipotts/imessage-mcp",
+  "description": "iMessage MCP server for sending and reading Apple Messages on macOS. Install: `npx imessage-mcp`.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-anipotts-imessage-mcp-845f39eb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-anipotts-imessage-mcp-845f39eb/badge.svg)](https://tensorblock.co/mcp/servers/github-anipotts-imessage-mcp-845f39eb)",
+  "links": {
+    "primary": "https://github.com/anipotts/imessage-mcp",
+    "repo": "https://github.com/anipotts/imessage-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx imessage-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "github-larrylemonbot-resultrail-mcp-server-edd5e2b0",
+  "name": "ResultRail",
+  "description": "Hosted remote MCP server for pay-per-success public-data result packs with source URLs, confidence, timestamps, and receipt hashes. Streamable HTTP endpoint at `https://x402-resource-scanner.vercel.app/resultrail/mcp`; public `initialize` and `tools/list`; protected paid execution may require product authorization or x402 payment flow.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-larrylemonbot-resultrail-mcp-server-edd5e2b0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-larrylemonbot-resultrail-mcp-server-edd5e2b0/badge.svg)](https://tensorblock.co/mcp/servers/github-larrylemonbot-resultrail-mcp-server-edd5e2b0)",
+  "links": {
+    "primary": "https://github.com/LarryLemonBot/resultrail-mcp-server",
+    "repo": "https://github.com/LarryLemonBot/resultrail-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://x402-resource-scanner.vercel.app/resultrail/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Public initialize and tools/list are available; protected paid execution may require product authorization or x402 payment flow"
+    ]
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

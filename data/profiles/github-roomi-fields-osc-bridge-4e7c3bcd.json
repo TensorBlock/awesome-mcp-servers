@@ -3,8 +3,8 @@
   "name": "roomi-fields/osc-bridge",
   "description": "OSC ↔ MIDI/SysEx bridge for 849 hardware synthesizers plus music software (Ableton, Bitwig, Reaper, SuperCollider…). A MIDI MCP and OSC MCP — discover devices, read their named control surface, and send OSC to drive them. `npx -y @roomi-fields/osc-bridge mcp`",
   "category": "Hardware & IoT",
-  "profileUrl": "https://tensorblock.co/mcp/github-roomi-fields-osc-bridge-4e7c3bcd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-roomi-fields-osc-bridge-4e7c3bcd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-roomi-fields-osc-bridge-4e7c3bcd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-roomi-fields-osc-bridge-4e7c3bcd/badge.svg)](https://tensorblock.co/mcp/servers/github-roomi-fields-osc-bridge-4e7c3bcd)",
   "links": {
     "primary": "https://github.com/roomi-fields/osc-bridge",
     "repo": "https://github.com/roomi-fields/osc-bridge",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx -y @roomi-fields/osc-bridge mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

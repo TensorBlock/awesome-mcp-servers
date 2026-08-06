@@ -3,8 +3,8 @@
   "name": "t-shiratori/mcp-server-example-random-num",
   "description": "A TypeScript-based MCP server example that generates random numbers for integration with Claude for Desktop.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-t-shiratori-mcp-server-example-random-num-9c56262c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-t-shiratori-mcp-server-example-random-num-9c56262c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-t-shiratori-mcp-server-example-random-num-9c56262c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-t-shiratori-mcp-server-example-random-num-9c56262c/badge.svg)](https://tensorblock.co/mcp/servers/github-t-shiratori-mcp-server-example-random-num-9c56262c)",
   "links": {
     "primary": "https://github.com/t-shiratori/mcp-server-example-random-num",
     "repo": "https://github.com/t-shiratori/mcp-server-example-random-num",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

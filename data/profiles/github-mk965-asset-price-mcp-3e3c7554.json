@@ -3,8 +3,8 @@
   "name": "mk965/asset-price-mcp",
   "description": "Facilitates real-time retrieval and display of asset prices, including precious metals and cryptocurrencies, for large language models.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-mk965-asset-price-mcp-3e3c7554",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mk965-asset-price-mcp-3e3c7554)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mk965-asset-price-mcp-3e3c7554",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mk965-asset-price-mcp-3e3c7554/badge.svg)](https://tensorblock.co/mcp/servers/github-mk965-asset-price-mcp-3e3c7554)",
   "links": {
     "primary": "https://github.com/mk965/asset-price-mcp",
     "repo": "https://github.com/mk965/asset-price-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

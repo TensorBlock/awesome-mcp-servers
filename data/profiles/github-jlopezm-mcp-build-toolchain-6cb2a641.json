@@ -3,8 +3,8 @@
   "name": "jlopezm/mcp-build-toolchain",
   "description": "Facilitates efficient build processes by analyzing and filtering compilation errors to optimize LLM token usage.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-jlopezm-mcp-build-toolchain-6cb2a641",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jlopezm-mcp-build-toolchain-6cb2a641)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jlopezm-mcp-build-toolchain-6cb2a641",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jlopezm-mcp-build-toolchain-6cb2a641/badge.svg)](https://tensorblock.co/mcp/servers/github-jlopezm-mcp-build-toolchain-6cb2a641)",
   "links": {
     "primary": "https://github.com/jlopezm/mcp-build-toolchain",
     "repo": "https://github.com/jlopezm/mcp-build-toolchain",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "kortexa-ai/worker17",
   "description": "A 3D worker monitoring and control system utilizing SSE MCP server for real-time task management and productivity assessment.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-kortexa-ai-worker17-9882ffba",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kortexa-ai-worker17-9882ffba)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kortexa-ai-worker17-9882ffba",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kortexa-ai-worker17-9882ffba/badge.svg)](https://tensorblock.co/mcp/servers/github-kortexa-ai-worker17-9882ffba)",
   "links": {
     "primary": "https://github.com/kortexa-ai/worker17",
     "repo": "https://github.com/kortexa-ai/worker17",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "edoscars/pan-os-mcp",
   "description": "Facilitates natural language management and configuration of Palo Alto Networks firewalls via the XML API.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-edoscars-pan-os-mcp-a827e606",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-edoscars-pan-os-mcp-a827e606)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-edoscars-pan-os-mcp-a827e606",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-edoscars-pan-os-mcp-a827e606/badge.svg)](https://tensorblock.co/mcp/servers/github-edoscars-pan-os-mcp-a827e606)",
   "links": {
     "primary": "https://github.com/edoscars/pan-os-mcp",
     "repo": "https://github.com/edoscars/pan-os-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

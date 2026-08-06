@@ -1,0 +1,56 @@
+{
+  "id": "github-rog0x-mcp-seo-tools-58eeda64",
+  "name": "rog0x/mcp-seo-tools",
+  "description": "SEO MCP tools for metadata, keywords, page speed, and search visibility checks. Install from the `@rog0x` npm package family. MIT.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rog0x-mcp-seo-tools-58eeda64",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rog0x-mcp-seo-tools-58eeda64/badge.svg)](https://tensorblock.co/mcp/servers/github-rog0x-mcp-seo-tools-58eeda64)",
+  "links": {
+    "primary": "https://github.com/rog0x/mcp-seo-tools",
+    "repo": "https://github.com/rog0x/mcp-seo-tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

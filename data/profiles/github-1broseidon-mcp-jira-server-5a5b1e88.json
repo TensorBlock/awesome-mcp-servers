@@ -3,8 +3,8 @@
   "name": "1broseidon/mcp-jira-server",
   "description": "Integrates with Jira's REST API to enable AI assistants to programmatically manage Jira issues.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-1broseidon-mcp-jira-server-5a5b1e88",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-1broseidon-mcp-jira-server-5a5b1e88)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-1broseidon-mcp-jira-server-5a5b1e88",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-1broseidon-mcp-jira-server-5a5b1e88/badge.svg)](https://tensorblock.co/mcp/servers/github-1broseidon-mcp-jira-server-5a5b1e88)",
   "links": {
     "primary": "https://github.com/1broseidon/mcp-jira-server",
     "repo": "https://github.com/1broseidon/mcp-jira-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

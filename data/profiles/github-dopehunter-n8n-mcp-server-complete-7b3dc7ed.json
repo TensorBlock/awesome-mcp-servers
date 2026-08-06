@@ -3,8 +3,8 @@
   "name": "dopehunter/n8n_MCP_server_complete",
   "description": "Facilitates seamless management of n8n workflows within LLMs and AI agents using the Smithery Model Context Protocol.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-dopehunter-n8n-mcp-server-complete-7b3dc7ed",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dopehunter-n8n-mcp-server-complete-7b3dc7ed)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dopehunter-n8n-mcp-server-complete-7b3dc7ed",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dopehunter-n8n-mcp-server-complete-7b3dc7ed/badge.svg)](https://tensorblock.co/mcp/servers/github-dopehunter-n8n-mcp-server-complete-7b3dc7ed)",
   "links": {
     "primary": "https://github.com/dopehunter/n8n_MCP_server_complete",
     "repo": "https://github.com/dopehunter/n8n_MCP_server_complete",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

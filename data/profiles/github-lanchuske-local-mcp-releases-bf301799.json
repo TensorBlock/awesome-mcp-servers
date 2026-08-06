@@ -1,0 +1,60 @@
+{
+  "id": "github-lanchuske-local-mcp-releases-bf301799",
+  "name": "lanchuske/local-mcp-releases",
+  "description": "Native macOS MCP server with 105 tools covering Mail, Calendar, Contacts, Microsoft Teams, Slack, OneDrive, iMessage, Notes, Reminders, OmniFocus, and Office documents. Runs 100% locally — no cloud, no tokens, no API keys required. Works with Claude, Cursor, Windsurf, and VS Code.",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lanchuske-local-mcp-releases-bf301799",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lanchuske-local-mcp-releases-bf301799/badge.svg)](https://tensorblock.co/mcp/servers/github-lanchuske-local-mcp-releases-bf301799)",
+  "links": {
+    "primary": "https://github.com/lanchuske/local-mcp-releases",
+    "repo": "https://github.com/lanchuske/local-mcp-releases",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 105
+  }
+}

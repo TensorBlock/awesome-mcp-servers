@@ -1,0 +1,58 @@
+{
+  "id": "prismix-dev-api-docs-bec59ad7",
+  "name": "prismix/status-mcp",
+  "description": "Real-time AI service status MCP server tracking 75+ providers (OpenAI, Anthropic, Gemini, Mistral, etc.) with uptime and incident feeds. Streamable HTTP transport (protocol `2024-11-05`), no auth required. Claude Desktop config: `{\"mcpServers\":{\"prismix\":{\"url\":\"https://prismix.dev/api/v1/mcp\"}}}`. Tools: `check_ai_status` (query a specific provider), `list_ai_services` (list all 75+ tracked services).",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/servers/prismix-dev-api-docs-bec59ad7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/prismix-dev-api-docs-bec59ad7/badge.svg)](https://tensorblock.co/mcp/servers/prismix-dev-api-docs-bec59ad7)",
+  "links": {
+    "primary": "https://prismix.dev/api-docs",
+    "repo": null,
+    "homepage": "https://prismix.dev/api-docs",
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

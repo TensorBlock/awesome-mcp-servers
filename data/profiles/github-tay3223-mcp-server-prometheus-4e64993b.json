@@ -3,8 +3,8 @@
   "name": "tay3223/mcp-server-prometheus",
   "description": "Integrate Prometheus monitoring data into the Cursor code editor for real-time insights and historical trends.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-tay3223-mcp-server-prometheus-4e64993b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tay3223-mcp-server-prometheus-4e64993b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tay3223-mcp-server-prometheus-4e64993b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tay3223-mcp-server-prometheus-4e64993b/badge.svg)](https://tensorblock.co/mcp/servers/github-tay3223-mcp-server-prometheus-4e64993b)",
   "links": {
     "primary": "https://github.com/tay3223/mcp-server-prometheus",
     "repo": "https://github.com/tay3223/mcp-server-prometheus",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

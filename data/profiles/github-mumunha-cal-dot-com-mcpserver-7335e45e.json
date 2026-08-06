@@ -3,8 +3,8 @@
   "name": "mumunha/cal_dot_com_mcpserver",
   "description": "Integrates with Cal.com Calendar API to manage appointment scheduling, including adding, updating, deleting, and listing appointments.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-mumunha-cal-dot-com-mcpserver-7335e45e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mumunha-cal-dot-com-mcpserver-7335e45e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mumunha-cal-dot-com-mcpserver-7335e45e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mumunha-cal-dot-com-mcpserver-7335e45e/badge.svg)](https://tensorblock.co/mcp/servers/github-mumunha-cal-dot-com-mcpserver-7335e45e)",
   "links": {
     "primary": "https://github.com/mumunha/cal_dot_com_mcpserver",
     "repo": "https://github.com/mumunha/cal_dot_com_mcpserver",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

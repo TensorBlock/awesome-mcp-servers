@@ -3,8 +3,8 @@
   "name": "StepanCooleague/file-finder-mcp",
   "description": "Facilitates file searches in the filesystem by matching path fragments and returning detailed metadata.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-stepancooleague-file-finder-mcp-d63a6e35",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stepancooleague-file-finder-mcp-d63a6e35)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-stepancooleague-file-finder-mcp-d63a6e35",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stepancooleague-file-finder-mcp-d63a6e35/badge.svg)](https://tensorblock.co/mcp/servers/github-stepancooleague-file-finder-mcp-d63a6e35)",
   "links": {
     "primary": "https://github.com/StepanCooleague/file-finder-mcp",
     "repo": "https://github.com/StepanCooleague/file-finder-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

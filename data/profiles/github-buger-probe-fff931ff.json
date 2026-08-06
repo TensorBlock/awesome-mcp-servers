@@ -3,8 +3,8 @@
   "name": "buger/probe",
   "description": "An AI-friendly, fully local semantic code search engine that integrates with AI editors via MCP server mode for efficient codebase exploration.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-buger-probe-fff931ff",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-buger-probe-fff931ff)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-buger-probe-fff931ff",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-buger-probe-fff931ff/badge.svg)](https://tensorblock.co/mcp/servers/github-buger-probe-fff931ff)",
   "links": {
     "primary": "https://github.com/buger/probe",
     "repo": "https://github.com/buger/probe",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

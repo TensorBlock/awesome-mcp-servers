@@ -3,8 +3,8 @@
   "name": "gomcpgo/filesys",
   "description": "A secure MCP server offering controlled filesystem operations with directory access management and thread-safe caching.",
   "category": "Filesystems",
-  "profileUrl": "https://tensorblock.co/mcp/github-gomcpgo-filesys-5f2c9d8d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gomcpgo-filesys-5f2c9d8d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-gomcpgo-filesys-5f2c9d8d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-gomcpgo-filesys-5f2c9d8d/badge.svg)](https://tensorblock.co/mcp/servers/github-gomcpgo-filesys-5f2c9d8d)",
   "links": {
     "primary": "https://github.com/gomcpgo/filesys",
     "repo": "https://github.com/gomcpgo/filesys",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

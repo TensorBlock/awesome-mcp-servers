@@ -3,8 +3,8 @@
   "name": "jamiesonio/defectdojo-mcp",
   "description": "Connects LLMs to DefectDojo for AI-driven security workflows, enabling natural language interaction with vulnerability data and automating reporting.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-jamiesonio-defectdojo-mcp-b96e5faf",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jamiesonio-defectdojo-mcp-b96e5faf)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jamiesonio-defectdojo-mcp-b96e5faf",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jamiesonio-defectdojo-mcp-b96e5faf/badge.svg)](https://tensorblock.co/mcp/servers/github-jamiesonio-defectdojo-mcp-b96e5faf)",
   "links": {
     "primary": "https://github.com/jamiesonio/defectdojo-mcp",
     "repo": "https://github.com/jamiesonio/defectdojo-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

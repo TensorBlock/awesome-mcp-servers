@@ -3,8 +3,8 @@
   "name": "cyanheads/filesystem-mcp-server",
   "description": "Facilitates AI agents with secure, platform-independent file system operations, including advanced search/replace and directory management.",
   "category": "Filesystems",
-  "profileUrl": "https://tensorblock.co/mcp/github-cyanheads-filesystem-mcp-server-e20586e3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cyanheads-filesystem-mcp-server-e20586e3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cyanheads-filesystem-mcp-server-e20586e3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cyanheads-filesystem-mcp-server-e20586e3/badge.svg)](https://tensorblock.co/mcp/servers/github-cyanheads-filesystem-mcp-server-e20586e3)",
   "links": {
     "primary": "https://github.com/cyanheads/filesystem-mcp-server",
     "repo": "https://github.com/cyanheads/filesystem-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

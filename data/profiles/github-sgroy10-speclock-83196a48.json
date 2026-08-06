@@ -1,0 +1,60 @@
+{
+  "id": "github-sgroy10-speclock-83196a48",
+  "name": "sgroy10/speclock",
+  "description": "AI constraint engine for enforcing CLAUDE.md, .cursorrules, and AGENTS.md rules with semantic conflict detection and 51 MCP tools. Install: `npx speclock serve`. MIT.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sgroy10-speclock-83196a48",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sgroy10-speclock-83196a48/badge.svg)](https://tensorblock.co/mcp/servers/github-sgroy10-speclock-83196a48)",
+  "links": {
+    "primary": "https://github.com/sgroy10/speclock",
+    "repo": "https://github.com/sgroy10/speclock",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx speclock serve"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 51
+  }
+}

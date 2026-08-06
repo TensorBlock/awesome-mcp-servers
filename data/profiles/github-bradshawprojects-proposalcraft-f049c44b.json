@@ -1,0 +1,56 @@
+{
+  "id": "github-bradshawprojects-proposalcraft-f049c44b",
+  "name": "ProposalCraft",
+  "description": "MCP server for freelancers — paste a client brief, get a ready-to-send proposal drafted in your voice from your past winning work. 7 tools including brief analysis, proposal drafting, and a one-command template library.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bradshawprojects-proposalcraft-f049c44b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bradshawprojects-proposalcraft-f049c44b/badge.svg)](https://tensorblock.co/mcp/servers/github-bradshawprojects-proposalcraft-f049c44b)",
+  "links": {
+    "primary": "https://github.com/bradshawprojects/proposalcraft",
+    "repo": "https://github.com/bradshawprojects/proposalcraft",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 7
+  }
+}

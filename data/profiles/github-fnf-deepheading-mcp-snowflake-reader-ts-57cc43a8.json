@@ -3,8 +3,8 @@
   "name": "fnf-deepHeading/mcp-snowflake-reader-ts",
   "description": "Provides secure, read-only access to Snowflake databases via the MCP protocol, supporting cross-platform functionality and query caching.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-fnf-deepheading-mcp-snowflake-reader-ts-57cc43a8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fnf-deepheading-mcp-snowflake-reader-ts-57cc43a8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fnf-deepheading-mcp-snowflake-reader-ts-57cc43a8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fnf-deepheading-mcp-snowflake-reader-ts-57cc43a8/badge.svg)](https://tensorblock.co/mcp/servers/github-fnf-deepheading-mcp-snowflake-reader-ts-57cc43a8)",
   "links": {
     "primary": "https://github.com/fnf-deepHeading/mcp-snowflake-reader-ts",
     "repo": "https://github.com/fnf-deepHeading/mcp-snowflake-reader-ts",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

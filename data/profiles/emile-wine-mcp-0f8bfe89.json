@@ -1,0 +1,64 @@
+{
+  "id": "emile-wine-mcp-0f8bfe89",
+  "name": "Émile",
+  "description": "Official wine-cellar MCP server for searching a 100k+ wine catalog, listing cellars and bottles, recommending bottles from a user's own cellar, adding/updating/deleting inventory, and scanning wine labels from photos. Remote OAuth endpoint at `https://mcp.emile.wine/mcp`; local stdio with `npx -y @emile-wine/mcp-server` and `EMILE_API_KEY`. MIT.",
+  "category": "Art, Culture & Media",
+  "profileUrl": "https://tensorblock.co/mcp/servers/emile-wine-mcp-0f8bfe89",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/emile-wine-mcp-0f8bfe89/badge.svg)](https://tensorblock.co/mcp/servers/emile-wine-mcp-0f8bfe89)",
+  "links": {
+    "primary": "https://emile.wine/mcp/",
+    "repo": null,
+    "homepage": "https://emile.wine/mcp/",
+    "docs": "https://emile.wine/mcp/",
+    "endpoint": "https://mcp.emile.wine/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @emile-wine/mcp-server"
+    ],
+    "env": [
+      "EMILE_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Remote connector uses OAuth; local stdio uses EMILE_API_KEY"
+    ]
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "oauth",
+    "installConfidence": "high",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

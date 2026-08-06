@@ -3,8 +3,8 @@
   "name": "ai-wes/version_checker_mcp",
   "description": "A specialized MCP server that aids developers in managing React Native and Expo projects by analyzing dependencies, checking compatibility, and reviewing changelogs.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-ai-wes-version-checker-mcp-3af87137",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ai-wes-version-checker-mcp-3af87137)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ai-wes-version-checker-mcp-3af87137",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ai-wes-version-checker-mcp-3af87137/badge.svg)](https://tensorblock.co/mcp/servers/github-ai-wes-version-checker-mcp-3af87137)",
   "links": {
     "primary": "https://github.com/ai-wes/version_checker_mcp",
     "repo": "https://github.com/ai-wes/version_checker_mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

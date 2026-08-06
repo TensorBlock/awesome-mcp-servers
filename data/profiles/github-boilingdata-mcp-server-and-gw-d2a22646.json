@@ -3,14 +3,49 @@
   "name": "boilingdata/mcp-server-and-gw",
   "description": "Facilitates communication between stdio and HTTP SSE endpoints, enabling seamless integration with Claude Desktop.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-boilingdata-mcp-server-and-gw-d2a22646",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-boilingdata-mcp-server-and-gw-d2a22646)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-boilingdata-mcp-server-and-gw-d2a22646",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-boilingdata-mcp-server-and-gw-d2a22646/badge.svg)](https://tensorblock.co/mcp/servers/github-boilingdata-mcp-server-and-gw-d2a22646)",
   "links": {
     "primary": "https://github.com/boilingdata/mcp-server-and-gw",
     "repo": "https://github.com/boilingdata/mcp-server-and-gw",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -20,6 +55,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

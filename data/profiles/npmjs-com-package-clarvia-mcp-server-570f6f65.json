@@ -1,0 +1,58 @@
+{
+  "id": "npmjs-com-package-clarvia-mcp-server-570f6f65",
+  "name": "Clarvia MCP Server",
+  "description": "Tool discovery and AEO quality scanner for MCP servers with search, scoring, trending tools, leaderboards, and comparison workflows. Install: `npx clarvia-mcp-server`.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/npmjs-com-package-clarvia-mcp-server-570f6f65",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/npmjs-com-package-clarvia-mcp-server-570f6f65/badge.svg)](https://tensorblock.co/mcp/servers/npmjs-com-package-clarvia-mcp-server-570f6f65)",
+  "links": {
+    "primary": "https://www.npmjs.com/package/clarvia-mcp-server",
+    "repo": null,
+    "homepage": "https://www.npmjs.com/package/clarvia-mcp-server",
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx clarvia-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

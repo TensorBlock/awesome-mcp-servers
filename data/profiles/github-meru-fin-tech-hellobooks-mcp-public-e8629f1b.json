@@ -1,0 +1,58 @@
+{
+  "id": "github-meru-fin-tech-hellobooks-mcp-public-e8629f1b",
+  "name": "Meru-Fin-Tech/HelloBooks-MCP-Public",
+  "description": "Public read-only MCP server for [HelloBooks](https://hellobooks.ai) cloud accounting/payroll/tax SaaS. Five tools — `list_plans` (8 currencies), `list_integrations` (banks/payments/payroll/ecommerce), `country_support`, `compliance_capabilities` (BAS, STP, MTD, GST e-invoice, 1099), and `feature_search` — plus `hellobooks://about` and `hellobooks://changelog` resources. Hosted at `https://mcp.hellobooks.ai/mcp`. Install: `claude mcp add --transport http hellobooks https://mcp.hellobooks.ai/mcp`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-meru-fin-tech-hellobooks-mcp-public-e8629f1b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-meru-fin-tech-hellobooks-mcp-public-e8629f1b/badge.svg)](https://tensorblock.co/mcp/servers/github-meru-fin-tech-hellobooks-mcp-public-e8629f1b)",
+  "links": {
+    "primary": "https://github.com/Meru-Fin-Tech/HelloBooks-MCP-Public",
+    "repo": "https://github.com/Meru-Fin-Tech/HelloBooks-MCP-Public",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.hellobooks.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

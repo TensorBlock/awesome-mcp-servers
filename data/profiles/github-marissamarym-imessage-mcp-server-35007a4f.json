@@ -3,8 +3,8 @@
   "name": "marissamarym/imessage-mcp-server",
   "description": "Facilitates sending iMessages and managing contacts on macOS using AppleScript through MCP.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-marissamarym-imessage-mcp-server-35007a4f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-marissamarym-imessage-mcp-server-35007a4f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-marissamarym-imessage-mcp-server-35007a4f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-marissamarym-imessage-mcp-server-35007a4f/badge.svg)](https://tensorblock.co/mcp/servers/github-marissamarym-imessage-mcp-server-35007a4f)",
   "links": {
     "primary": "https://github.com/marissamarym/imessage-mcp-server",
     "repo": "https://github.com/marissamarym/imessage-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

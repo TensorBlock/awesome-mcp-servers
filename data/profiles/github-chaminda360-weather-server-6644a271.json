@@ -3,8 +3,8 @@
   "name": "chaminda360/weather-server",
   "description": "A TypeScript-based server offering weather data management and summarization through MCP protocols.",
   "category": "Location & Maps",
-  "profileUrl": "https://tensorblock.co/mcp/github-chaminda360-weather-server-6644a271",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chaminda360-weather-server-6644a271)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-chaminda360-weather-server-6644a271",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-chaminda360-weather-server-6644a271/badge.svg)](https://tensorblock.co/mcp/servers/github-chaminda360-weather-server-6644a271)",
   "links": {
     "primary": "https://github.com/chaminda360/weather-server",
     "repo": "https://github.com/chaminda360/weather-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

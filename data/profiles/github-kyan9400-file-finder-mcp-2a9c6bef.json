@@ -3,8 +3,8 @@
   "name": "kyan9400/file-finder-mcp",
   "description": "A Python-based MCP server that integrates with VSCode's Cline extension to search for files in the filesystem by path fragment and return results in JSON format.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-kyan9400-file-finder-mcp-2a9c6bef",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kyan9400-file-finder-mcp-2a9c6bef)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kyan9400-file-finder-mcp-2a9c6bef",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kyan9400-file-finder-mcp-2a9c6bef/badge.svg)](https://tensorblock.co/mcp/servers/github-kyan9400-file-finder-mcp-2a9c6bef)",
   "links": {
     "primary": "https://github.com/kyan9400/file-finder-mcp",
     "repo": "https://github.com/kyan9400/file-finder-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

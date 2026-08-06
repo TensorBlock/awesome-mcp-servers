@@ -3,8 +3,8 @@
   "name": "natsukium/mcp-servers-nix",
   "description": "A Nix-based framework for configuring and deploying modular MCP servers with reproducible builds and security-focused features.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-natsukium-mcp-servers-nix-2ffdc73e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-natsukium-mcp-servers-nix-2ffdc73e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-natsukium-mcp-servers-nix-2ffdc73e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-natsukium-mcp-servers-nix-2ffdc73e/badge.svg)](https://tensorblock.co/mcp/servers/github-natsukium-mcp-servers-nix-2ffdc73e)",
   "links": {
     "primary": "https://github.com/natsukium/mcp-servers-nix",
     "repo": "https://github.com/natsukium/mcp-servers-nix",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "scopeblind/scopeblind-gateway",
   "description": "Security gateway for MCP servers — per-tool policies (Cedar + JSON), Ed25519-signed decision receipts, human approval gates, trust tiers. Shadow mode by default. Install via `npx protect-mcp`.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-scopeblind-scopeblind-gateway-7eb21f28",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-scopeblind-scopeblind-gateway-7eb21f28)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-scopeblind-scopeblind-gateway-7eb21f28",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-scopeblind-scopeblind-gateway-7eb21f28/badge.svg)](https://tensorblock.co/mcp/servers/github-scopeblind-scopeblind-gateway-7eb21f28)",
   "links": {
     "primary": "https://github.com/scopeblind/scopeblind-gateway",
     "repo": "https://github.com/scopeblind/scopeblind-gateway",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx protect-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

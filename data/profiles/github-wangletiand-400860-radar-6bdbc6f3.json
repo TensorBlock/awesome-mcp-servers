@@ -1,0 +1,56 @@
+{
+  "id": "github-wangletiand-400860-radar-6bdbc6f3",
+  "name": "wangletiand/400860-radar",
+  "description": "Remote MCP server for real-time DeFi yield pools and TVL data, LLM API pricing comparison across 8 providers, and web scraping via Scrapling. Streamable HTTP endpoint at `https://api.400860.xyz/v1/mcp/call`; x402 pay-per-call on Base USDC. Tools include `get_defi_yields`, `get_defi_tvl`, and `get_ai_pricing`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wangletiand-400860-radar-6bdbc6f3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wangletiand-400860-radar-6bdbc6f3/badge.svg)](https://tensorblock.co/mcp/servers/github-wangletiand-400860-radar-6bdbc6f3)",
+  "links": {
+    "primary": "https://github.com/wangletiand/400860-radar",
+    "repo": "https://github.com/wangletiand/400860-radar",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

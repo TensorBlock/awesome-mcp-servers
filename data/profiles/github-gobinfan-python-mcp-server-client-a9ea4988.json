@@ -3,14 +3,46 @@
   "name": "GobinFan/python-mcp-server-client",
   "description": "Facilitates querying technical documentation of mainstream agent frameworks using MCP with stdio and SSE protocols.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-gobinfan-python-mcp-server-client-a9ea4988",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gobinfan-python-mcp-server-client-a9ea4988)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-gobinfan-python-mcp-server-client-a9ea4988",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-gobinfan-python-mcp-server-client-a9ea4988/badge.svg)](https://tensorblock.co/mcp/servers/github-gobinfan-python-mcp-server-client-a9ea4988)",
   "links": {
     "primary": "https://github.com/GobinFan/python-mcp-server-client",
     "repo": "https://github.com/GobinFan/python-mcp-server-client",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

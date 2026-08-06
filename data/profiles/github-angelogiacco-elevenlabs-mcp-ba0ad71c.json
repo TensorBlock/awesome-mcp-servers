@@ -3,8 +3,8 @@
   "name": "AngeloGiacco/elevenlabs-mcp",
   "description": "Exposes OpenAPI-defined ElevenLabs endpoints as MCP resources for seamless integration with Claude Desktop.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-angelogiacco-elevenlabs-mcp-ba0ad71c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-angelogiacco-elevenlabs-mcp-ba0ad71c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-angelogiacco-elevenlabs-mcp-ba0ad71c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-angelogiacco-elevenlabs-mcp-ba0ad71c/badge.svg)](https://tensorblock.co/mcp/servers/github-angelogiacco-elevenlabs-mcp-ba0ad71c)",
   "links": {
     "primary": "https://github.com/AngeloGiacco/elevenlabs-mcp",
     "repo": "https://github.com/AngeloGiacco/elevenlabs-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

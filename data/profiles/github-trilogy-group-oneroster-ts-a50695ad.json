@@ -3,8 +3,8 @@
   "name": "trilogy-group/oneroster-ts",
   "description": "A TypeScript SDK offering a type-safe interface for interacting with the 1EdTech OneRoster API, also deployable as an MCP server for AI applications.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-trilogy-group-oneroster-ts-a50695ad",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-trilogy-group-oneroster-ts-a50695ad)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-trilogy-group-oneroster-ts-a50695ad",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-trilogy-group-oneroster-ts-a50695ad/badge.svg)](https://tensorblock.co/mcp/servers/github-trilogy-group-oneroster-ts-a50695ad)",
   "links": {
     "primary": "https://github.com/trilogy-group/oneroster-ts",
     "repo": "https://github.com/trilogy-group/oneroster-ts",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

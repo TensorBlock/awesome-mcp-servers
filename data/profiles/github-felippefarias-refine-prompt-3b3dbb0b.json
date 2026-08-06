@@ -3,8 +3,8 @@
   "name": "FelippeFarias/refine-prompt",
   "description": "Refine Prompt enhances ordinary prompts into structured instructions for any LLM, leveraging Claude's capabilities for improved AI interactions.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-felippefarias-refine-prompt-3b3dbb0b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-felippefarias-refine-prompt-3b3dbb0b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-felippefarias-refine-prompt-3b3dbb0b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-felippefarias-refine-prompt-3b3dbb0b/badge.svg)](https://tensorblock.co/mcp/servers/github-felippefarias-refine-prompt-3b3dbb0b)",
   "links": {
     "primary": "https://github.com/FelippeFarias/refine-prompt",
     "repo": "https://github.com/FelippeFarias/refine-prompt",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

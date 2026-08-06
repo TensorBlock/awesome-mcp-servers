@@ -3,8 +3,8 @@
   "name": "xmpuspus/cloudwright",
   "description": "Architecture intelligence for cloud engineers. Design AWS/GCP/Azure systems from natural language and get back a structured ArchSpec, multi-cloud cost estimates with workload profiles (small/medium/large/enterprise), compliance reports for HIPAA, PCI-DSS, SOC 2, FedRAMP, and GDPR, Terraform/CloudFormation code, Mermaid/D2/C4 diagrams, security scans, and what-if scenario analysis. 9 MCP tools including persistent multi-turn design sessions. Install: `pip install cloudwright-ai-mcp`.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-xmpuspus-cloudwright-2dac966c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xmpuspus-cloudwright-2dac966c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-xmpuspus-cloudwright-2dac966c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-xmpuspus-cloudwright-2dac966c/badge.svg)](https://tensorblock.co/mcp/servers/github-xmpuspus-cloudwright-2dac966c)",
   "links": {
     "primary": "https://github.com/xmpuspus/cloudwright",
     "repo": "https://github.com/xmpuspus/cloudwright",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "pip install cloudwright-ai-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 9
   }

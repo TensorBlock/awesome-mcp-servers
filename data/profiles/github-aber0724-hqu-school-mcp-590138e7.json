@@ -3,8 +3,8 @@
   "name": "aBER0724/hqu-school-mcp",
   "description": "Facilitates HQU students in accessing academic information such as schedules, grades, and GPA through a dedicated MCP server.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-aber0724-hqu-school-mcp-590138e7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aber0724-hqu-school-mcp-590138e7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aber0724-hqu-school-mcp-590138e7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aber0724-hqu-school-mcp-590138e7/badge.svg)](https://tensorblock.co/mcp/servers/github-aber0724-hqu-school-mcp-590138e7)",
   "links": {
     "primary": "https://github.com/aBER0724/hqu-school-mcp",
     "repo": "https://github.com/aBER0724/hqu-school-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

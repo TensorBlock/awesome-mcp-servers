@@ -3,8 +3,8 @@
   "name": "fortran01/smarttour",
   "description": "SmartTour optimizes tourist itineraries by integrating real-time crowd and traffic data to enhance sightseeing experiences in Toronto.",
   "category": "Travel & Transportation",
-  "profileUrl": "https://tensorblock.co/mcp/github-fortran01-smarttour-21e7c41a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fortran01-smarttour-21e7c41a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fortran01-smarttour-21e7c41a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fortran01-smarttour-21e7c41a/badge.svg)](https://tensorblock.co/mcp/servers/github-fortran01-smarttour-21e7c41a)",
   "links": {
     "primary": "https://github.com/fortran01/smarttour",
     "repo": "https://github.com/fortran01/smarttour",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -287,6 +287,8 @@ describe("buildCatalogFromMarkdown", () => {
       source: "self_reported",
     });
     expect(entry?.license).toBe("MIT");
+    expect(entry?.installReady).toBe(true);
+    expect(entry?.verifiedAt).toBeNull();
     expect(entry?.verification).toEqual({
       status: "verified",
       notes: ["Maintainer relationship verified in #42."],
@@ -299,21 +301,32 @@ describe("buildCatalogFromMarkdown", () => {
   });
 
   it("attaches source update metadata from the entry location", () => {
+    const projectUrl = "https://github.com/owner/tracked-mcp";
+    const id = slugFromUrl(projectUrl);
     const readme = [
       "## 🔎 Search",
-      "- [Tracked MCP](https://github.com/owner/tracked-mcp): Search tool.",
+      `- [Tracked MCP](${projectUrl}): Search tool.`,
     ].join("\n");
     const docs = new Map([
       [
         "docs/search.md",
         [
           "## 🔎 Search",
-          "- [Tracked MCP](https://github.com/owner/tracked-mcp): Search tool.",
+          `- [Tracked MCP](${projectUrl}): Search tool.`,
         ].join("\n"),
       ],
     ]);
 
-    const result = buildCatalogFromMarkdown(readme, docs, new Map(), new Map([
+    const result = buildCatalogFromMarkdown(readme, docs, new Map([
+      [
+        id,
+        {
+          verification: {
+            status: "verified",
+          },
+        },
+      ],
+    ]), new Map([
       [
         "docs/search.md:2",
         {
@@ -323,6 +336,7 @@ describe("buildCatalogFromMarkdown", () => {
     ]));
 
     expect(result.entries[0]?.source.lastUpdatedAt).toBe("2026-06-18T12:34:56.000Z");
+    expect(result.entries[0]?.verifiedAt).toBe("2026-06-18T12:34:56.000Z");
   });
 
   it("builds entries that validate against the catalog schema", () => {

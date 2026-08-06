@@ -3,8 +3,8 @@
   "name": "joinbuildclub/buildclub-mcp-server",
   "description": "BuildClub's official server facilitates seamless integration with Claude Desktop through MCP protocol.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-joinbuildclub-buildclub-mcp-server-85c6f1b0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-joinbuildclub-buildclub-mcp-server-85c6f1b0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-joinbuildclub-buildclub-mcp-server-85c6f1b0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-joinbuildclub-buildclub-mcp-server-85c6f1b0/badge.svg)](https://tensorblock.co/mcp/servers/github-joinbuildclub-buildclub-mcp-server-85c6f1b0)",
   "links": {
     "primary": "https://github.com/joinbuildclub/buildclub-mcp-server",
     "repo": "https://github.com/joinbuildclub/buildclub-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

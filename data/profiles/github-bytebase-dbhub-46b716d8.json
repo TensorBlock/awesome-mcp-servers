@@ -3,8 +3,8 @@
   "name": "bytebase/dbhub",
   "description": "DBHub serves as a universal database gateway, enabling seamless MCP client connections to various databases like MySQL, PostgreSQL, SQL Server, and SQLite.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-bytebase-dbhub-46b716d8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bytebase-dbhub-46b716d8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bytebase-dbhub-46b716d8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bytebase-dbhub-46b716d8/badge.svg)](https://tensorblock.co/mcp/servers/github-bytebase-dbhub-46b716d8)",
   "links": {
     "primary": "https://github.com/bytebase/dbhub",
     "repo": "https://github.com/bytebase/dbhub",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

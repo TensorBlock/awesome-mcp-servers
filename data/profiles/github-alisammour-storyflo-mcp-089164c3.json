@@ -3,8 +3,8 @@
   "name": "Alisammour/storyflo-mcp",
   "description": "Curated audio-news MCP server. Searches trending articles, fetches narrated audio, subscribes topic feeds. Free tier; premium briefings via x402 over USDC on Base mainnet. OAuth 2.1 + RFC 7591 DCR. Hosted at https://api.storyflo.com/mcp/v1.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-alisammour-storyflo-mcp-089164c3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alisammour-storyflo-mcp-089164c3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-alisammour-storyflo-mcp-089164c3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-alisammour-storyflo-mcp-089164c3/badge.svg)](https://tensorblock.co/mcp/servers/github-alisammour-storyflo-mcp-089164c3)",
   "links": {
     "primary": "https://github.com/Alisammour/storyflo-mcp",
     "repo": "https://github.com/Alisammour/storyflo-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": "https://api.storyflo.com/mcp/v1"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "oauth",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

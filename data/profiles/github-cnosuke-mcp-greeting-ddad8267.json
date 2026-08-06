@@ -3,8 +3,8 @@
   "name": "cnosuke/mcp-greeting",
   "description": "A Go-based MCP server that facilitates greeting message generation with JSON-RPC compliance, supporting integration with MCP clients like Claude Desktop.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-cnosuke-mcp-greeting-ddad8267",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cnosuke-mcp-greeting-ddad8267)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cnosuke-mcp-greeting-ddad8267",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cnosuke-mcp-greeting-ddad8267/badge.svg)](https://tensorblock.co/mcp/servers/github-cnosuke-mcp-greeting-ddad8267)",
   "links": {
     "primary": "https://github.com/cnosuke/mcp-greeting",
     "repo": "https://github.com/cnosuke/mcp-greeting",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

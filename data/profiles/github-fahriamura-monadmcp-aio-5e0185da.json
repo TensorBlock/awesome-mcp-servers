@@ -3,8 +3,8 @@
   "name": "fahriamura/MonadMCP-AIO",
   "description": "Monad MCP AIO facilitates seamless interaction with the Monad blockchain testnet through an AI interface, enabling users to manage MON tokens, deploy smart contracts, and perform token analysis directly via Claude Desktop.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-fahriamura-monadmcp-aio-5e0185da",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fahriamura-monadmcp-aio-5e0185da)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fahriamura-monadmcp-aio-5e0185da",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fahriamura-monadmcp-aio-5e0185da/badge.svg)](https://tensorblock.co/mcp/servers/github-fahriamura-monadmcp-aio-5e0185da)",
   "links": {
     "primary": "https://github.com/fahriamura/MonadMCP-AIO",
     "repo": "https://github.com/fahriamura/MonadMCP-AIO",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

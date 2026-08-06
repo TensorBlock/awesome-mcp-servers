@@ -3,8 +3,8 @@
   "name": "loganrooks/zlibrary-mcp",
   "description": "Facilitates AI coding assistants in accessing Z-Library for book searches, metadata retrieval, and download links via a standardized API.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-loganrooks-zlibrary-mcp-a090847d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-loganrooks-zlibrary-mcp-a090847d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-loganrooks-zlibrary-mcp-a090847d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-loganrooks-zlibrary-mcp-a090847d/badge.svg)](https://tensorblock.co/mcp/servers/github-loganrooks-zlibrary-mcp-a090847d)",
   "links": {
     "primary": "https://github.com/loganrooks/zlibrary-mcp",
     "repo": "https://github.com/loganrooks/zlibrary-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

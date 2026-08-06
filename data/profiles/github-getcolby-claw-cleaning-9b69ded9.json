@@ -1,0 +1,61 @@
+{
+  "id": "github-getcolby-claw-cleaning-9b69ded9",
+  "name": "GetColby/claw-cleaning",
+  "description": "Remote Streamable HTTP MCP server for AI-booked apartment cleaning in San Francisco. Books weekend cleanings end-to-end, priced at $40/hour, with 3 tools for quoting and scheduling. Endpoint: `https://claw.cleaning/mcp`. No auth. MIT.",
+  "category": "Real Estate & Home Services",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-getcolby-claw-cleaning-9b69ded9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-getcolby-claw-cleaning-9b69ded9/badge.svg)](https://tensorblock.co/mcp/servers/github-getcolby-claw-cleaning-9b69ded9)",
+  "links": {
+    "primary": "https://github.com/GetColby/claw-cleaning",
+    "repo": "https://github.com/GetColby/claw-cleaning",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://claw.cleaning/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude.ai",
+    "Cursor",
+    "Windsurf"
+  ],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 3
+  }
+}

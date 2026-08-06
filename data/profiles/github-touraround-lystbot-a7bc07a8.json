@@ -3,8 +3,8 @@
   "name": "TourAround/LystBot",
   "description": "AI-powered list management MCP server. Create grocery lists, todos, and packing lists, add items, check them off, and share lists with family. 10 MCP tools for the full list lifecycle. Free iOS + Android app at lystbot.com.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-touraround-lystbot-a7bc07a8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-touraround-lystbot-a7bc07a8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-touraround-lystbot-a7bc07a8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-touraround-lystbot-a7bc07a8/badge.svg)](https://tensorblock.co/mcp/servers/github-touraround-lystbot-a7bc07a8)",
   "links": {
     "primary": "https://github.com/TourAround/LystBot",
     "repo": "https://github.com/TourAround/LystBot",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 10
   }

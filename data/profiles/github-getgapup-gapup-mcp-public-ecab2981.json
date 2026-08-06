@@ -1,0 +1,56 @@
+{
+  "id": "github-getgapup-gapup-mcp-public-ecab2981",
+  "name": "gapup-team/gapup-mcp",
+  "description": "100+ agent-payable C-suite expertises in one MCP — competitive intel (EDGAR+Yahoo+Wayback), SEC filing decoder, 8-list sanctions screener (OFAC+EU+UK+UN+SECO+SEMA+DFAT), KYC, pentest scope, clinical evidence GRADE-graded (PubMed+ClinicalTrials.gov+OpenFDA), EU-first real estate (DVF Cerema+Géorisques), NAICS classifier, sentiment news (GDELT), research paper Q&A (OpenAlex 45M). 183 tools. Pay-per-call x402 USDC/EURC on Base+Optimism. Free 100 calls/mo.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-getgapup-gapup-mcp-public-ecab2981",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-getgapup-gapup-mcp-public-ecab2981/badge.svg)](https://tensorblock.co/mcp/servers/github-getgapup-gapup-mcp-public-ecab2981)",
+  "links": {
+    "primary": "https://github.com/getgapup/gapup-mcp-public",
+    "repo": "https://github.com/getgapup/gapup-mcp-public",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 183
+  }
+}

@@ -3,8 +3,8 @@
   "name": "iflytek/ifly-workflow-mcp-server",
   "description": "Facilitates intelligent workflow scheduling and execution using iFlytek's MCP server, supporting diverse business scenarios with robust node and orchestration capabilities.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-iflytek-ifly-workflow-mcp-server-343da722",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iflytek-ifly-workflow-mcp-server-343da722)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-iflytek-ifly-workflow-mcp-server-343da722",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-iflytek-ifly-workflow-mcp-server-343da722/badge.svg)](https://tensorblock.co/mcp/servers/github-iflytek-ifly-workflow-mcp-server-343da722)",
   "links": {
     "primary": "https://github.com/iflytek/ifly-workflow-mcp-server",
     "repo": "https://github.com/iflytek/ifly-workflow-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

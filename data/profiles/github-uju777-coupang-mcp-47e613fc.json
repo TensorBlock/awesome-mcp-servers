@@ -3,8 +3,8 @@
   "name": "uju777/coupang-mcp",
   "description": "MCP server for Coupang (Korea's largest e-commerce) product search with Rocket Delivery filtering and affiliate link generation.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-uju777-coupang-mcp-47e613fc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-uju777-coupang-mcp-47e613fc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-uju777-coupang-mcp-47e613fc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-uju777-coupang-mcp-47e613fc/badge.svg)](https://tensorblock.co/mcp/servers/github-uju777-coupang-mcp-47e613fc)",
   "links": {
     "primary": "https://github.com/uju777/coupang-mcp",
     "repo": "https://github.com/uju777/coupang-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

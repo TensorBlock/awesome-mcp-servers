@@ -3,8 +3,8 @@
   "name": "mnckapilan/starling_mcp",
   "description": "Facilitates AI model interactions with Starling Bank API endpoints for account management, transactions, and more.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-mnckapilan-starling-mcp-df49f4fc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mnckapilan-starling-mcp-df49f4fc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mnckapilan-starling-mcp-df49f4fc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mnckapilan-starling-mcp-df49f4fc/badge.svg)](https://tensorblock.co/mcp/servers/github-mnckapilan-starling-mcp-df49f4fc)",
   "links": {
     "primary": "https://github.com/mnckapilan/starling_mcp",
     "repo": "https://github.com/mnckapilan/starling_mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

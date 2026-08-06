@@ -3,8 +3,8 @@
   "name": "Automata-Labs-team/code-sandbox-mcp",
   "description": "Provides AI applications with a secure and isolated Docker-based environment for executing code.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-automata-labs-team-code-sandbox-mcp-16bcfa0c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-automata-labs-team-code-sandbox-mcp-16bcfa0c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-automata-labs-team-code-sandbox-mcp-16bcfa0c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-automata-labs-team-code-sandbox-mcp-16bcfa0c/badge.svg)](https://tensorblock.co/mcp/servers/github-automata-labs-team-code-sandbox-mcp-16bcfa0c)",
   "links": {
     "primary": "https://github.com/Automata-Labs-team/code-sandbox-mcp",
     "repo": "https://github.com/Automata-Labs-team/code-sandbox-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

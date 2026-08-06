@@ -1,0 +1,58 @@
+{
+  "id": "github-ctrlabs-ctrl-mcp-1ea4dc95",
+  "name": "CTRLabs/ctrl-mcp",
+  "description": "Visual DeFi workflow automation on Base + Ethereum mainnet. Compose triggers (cron, price, balance, `pool.created`, whale watch) and actions (swaps, USDC payouts, notifications) on a canvas; an 8-wallet keeper executes from vault-direct V13 smart contracts — no session keys, no delegated approvals. Install: `claude mcp add ctrl https://ctrl.build/api/mcp`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ctrlabs-ctrl-mcp-1ea4dc95",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ctrlabs-ctrl-mcp-1ea4dc95/badge.svg)](https://tensorblock.co/mcp/servers/github-ctrlabs-ctrl-mcp-1ea4dc95)",
+  "links": {
+    "primary": "https://github.com/CTRLabs/ctrl-mcp",
+    "repo": "https://github.com/CTRLabs/ctrl-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://ctrl.build/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

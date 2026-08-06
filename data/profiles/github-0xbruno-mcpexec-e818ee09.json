@@ -3,8 +3,8 @@
   "name": "0xBruno/MCPExec",
   "description": "Facilitates the execution of local CLI commands through an MCP server setup.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-0xbruno-mcpexec-e818ee09",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-0xbruno-mcpexec-e818ee09)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-0xbruno-mcpexec-e818ee09",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-0xbruno-mcpexec-e818ee09/badge.svg)](https://tensorblock.co/mcp/servers/github-0xbruno-mcpexec-e818ee09)",
   "links": {
     "primary": "https://github.com/0xBruno/MCPExec",
     "repo": "https://github.com/0xBruno/MCPExec",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

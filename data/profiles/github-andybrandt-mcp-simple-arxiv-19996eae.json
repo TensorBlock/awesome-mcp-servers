@@ -3,8 +3,8 @@
   "name": "andybrandt/mcp-simple-arxiv",
   "description": "Facilitates LLMs to search and access scientific papers on arXiv, providing metadata and abstracts through an MCP server.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-andybrandt-mcp-simple-arxiv-19996eae",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-andybrandt-mcp-simple-arxiv-19996eae)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-andybrandt-mcp-simple-arxiv-19996eae",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-andybrandt-mcp-simple-arxiv-19996eae/badge.svg)](https://tensorblock.co/mcp/servers/github-andybrandt-mcp-simple-arxiv-19996eae)",
   "links": {
     "primary": "https://github.com/andybrandt/mcp-simple-arxiv",
     "repo": "https://github.com/andybrandt/mcp-simple-arxiv",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

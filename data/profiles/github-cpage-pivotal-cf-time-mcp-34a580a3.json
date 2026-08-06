@@ -3,8 +3,8 @@
   "name": "cpage-pivotal/cf-time-mcp",
   "description": "Facilitates real-time access to global time data via an LLM interface using the World Time API.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-cpage-pivotal-cf-time-mcp-34a580a3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cpage-pivotal-cf-time-mcp-34a580a3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cpage-pivotal-cf-time-mcp-34a580a3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cpage-pivotal-cf-time-mcp-34a580a3/badge.svg)](https://tensorblock.co/mcp/servers/github-cpage-pivotal-cf-time-mcp-34a580a3)",
   "links": {
     "primary": "https://github.com/cpage-pivotal/cf-time-mcp",
     "repo": "https://github.com/cpage-pivotal/cf-time-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

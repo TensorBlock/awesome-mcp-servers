@@ -3,8 +3,8 @@
   "name": "huhu415/macPilotCli",
   "description": "MacPilot CLI empowers LLMs to control macOS systems via MCP, offering tools for system operations like cursor movement, app launching, and screen capturing.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-huhu415-macpilotcli-a240afef",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-huhu415-macpilotcli-a240afef)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-huhu415-macpilotcli-a240afef",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-huhu415-macpilotcli-a240afef/badge.svg)](https://tensorblock.co/mcp/servers/github-huhu415-macpilotcli-a240afef)",
   "links": {
     "primary": "https://github.com/huhu415/macPilotCli",
     "repo": "https://github.com/huhu415/macPilotCli",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Streen9/azure-mcp",
   "description": "Enables Claude Desktop to manage Azure resources through natural language interactions.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-streen9-azure-mcp-a356ed73",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-streen9-azure-mcp-a356ed73)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-streen9-azure-mcp-a356ed73",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-streen9-azure-mcp-a356ed73/badge.svg)](https://tensorblock.co/mcp/servers/github-streen9-azure-mcp-a356ed73)",
   "links": {
     "primary": "https://github.com/Streen9/azure-mcp",
     "repo": "https://github.com/Streen9/azure-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

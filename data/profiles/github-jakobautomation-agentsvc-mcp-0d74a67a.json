@@ -1,0 +1,56 @@
+{
+  "id": "github-jakobautomation-agentsvc-mcp-0d74a67a",
+  "name": "jakobautomation/agentsvc-mcp",
+  "description": "Provides 20 pay-per-call utility tools for AI agents via x402 USDC micropayments on Base, including screenshots, OCR, PDF extraction, web scraping, weather forecasts, forex rates, crypto/stock prices, DNS/IP lookup, geocoding, translation, and news search. No API keys required.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jakobautomation-agentsvc-mcp-0d74a67a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jakobautomation-agentsvc-mcp-0d74a67a/badge.svg)](https://tensorblock.co/mcp/servers/github-jakobautomation-agentsvc-mcp-0d74a67a)",
+  "links": {
+    "primary": "https://github.com/jakobautomation/agentsvc-mcp",
+    "repo": "https://github.com/jakobautomation/agentsvc-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

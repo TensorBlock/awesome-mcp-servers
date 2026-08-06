@@ -3,8 +3,8 @@
   "name": "Lockingdong/todo-list-mcp-ts",
   "description": "A TypeScript-based todo list application utilizing MCP for efficient task management.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-lockingdong-todo-list-mcp-ts-a6bb74aa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lockingdong-todo-list-mcp-ts-a6bb74aa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lockingdong-todo-list-mcp-ts-a6bb74aa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lockingdong-todo-list-mcp-ts-a6bb74aa/badge.svg)](https://tensorblock.co/mcp/servers/github-lockingdong-todo-list-mcp-ts-a6bb74aa)",
   "links": {
     "primary": "https://github.com/Lockingdong/todo-list-mcp-ts",
     "repo": "https://github.com/Lockingdong/todo-list-mcp-ts",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

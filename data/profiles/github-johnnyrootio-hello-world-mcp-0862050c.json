@@ -3,8 +3,8 @@
   "name": "johnnyrootio/hello-world-mcp",
   "description": "A minimal FastMCP-based server demonstrating core MCP concepts with tools, resources, and prompts, integrated with Uvicorn for production readiness.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-johnnyrootio-hello-world-mcp-0862050c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-johnnyrootio-hello-world-mcp-0862050c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-johnnyrootio-hello-world-mcp-0862050c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-johnnyrootio-hello-world-mcp-0862050c/badge.svg)](https://tensorblock.co/mcp/servers/github-johnnyrootio-hello-world-mcp-0862050c)",
   "links": {
     "primary": "https://github.com/johnnyrootio/hello-world-mcp",
     "repo": "https://github.com/johnnyrootio/hello-world-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

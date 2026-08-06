@@ -3,8 +3,8 @@
   "name": "soonstal/reach",
   "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-soonstal-reach-4d59b8f8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-soonstal-reach-4d59b8f8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-soonstal-reach-4d59b8f8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-soonstal-reach-4d59b8f8/badge.svg)](https://tensorblock.co/mcp/servers/github-soonstal-reach-4d59b8f8)",
   "links": {
     "primary": "https://github.com/soonstal/reach",
     "repo": "https://github.com/soonstal/reach",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

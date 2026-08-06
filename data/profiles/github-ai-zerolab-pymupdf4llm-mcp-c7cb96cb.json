@@ -3,8 +3,8 @@
   "name": "ai-zerolab/pymupdf4llm-mcp",
   "description": "Transforms PDFs into markdown format optimized for LLMs using pymupdf.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-ai-zerolab-pymupdf4llm-mcp-c7cb96cb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ai-zerolab-pymupdf4llm-mcp-c7cb96cb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ai-zerolab-pymupdf4llm-mcp-c7cb96cb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ai-zerolab-pymupdf4llm-mcp-c7cb96cb/badge.svg)](https://tensorblock.co/mcp/servers/github-ai-zerolab-pymupdf4llm-mcp-c7cb96cb)",
   "links": {
     "primary": "https://github.com/ai-zerolab/pymupdf4llm-mcp",
     "repo": "https://github.com/ai-zerolab/pymupdf4llm-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

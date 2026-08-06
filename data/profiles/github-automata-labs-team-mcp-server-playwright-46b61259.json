@@ -3,8 +3,8 @@
   "name": "Automata-Labs-team/MCP-Server-Playwright",
   "description": "Empower LLMs with browser automation capabilities using Playwright for seamless web interaction and JavaScript execution.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-automata-labs-team-mcp-server-playwright-46b61259",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-automata-labs-team-mcp-server-playwright-46b61259)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-automata-labs-team-mcp-server-playwright-46b61259",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-automata-labs-team-mcp-server-playwright-46b61259/badge.svg)](https://tensorblock.co/mcp/servers/github-automata-labs-team-mcp-server-playwright-46b61259)",
   "links": {
     "primary": "https://github.com/Automata-Labs-team/MCP-Server-Playwright",
     "repo": "https://github.com/Automata-Labs-team/MCP-Server-Playwright",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Greg-Swiftomatic/substack-mcp-server",
   "description": "Facilitates AI-driven interactions with Substack newsletters, enabling content retrieval, search, and discovery across multiple publications.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-greg-swiftomatic-substack-mcp-server-97ffaa2e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-greg-swiftomatic-substack-mcp-server-97ffaa2e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-greg-swiftomatic-substack-mcp-server-97ffaa2e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-greg-swiftomatic-substack-mcp-server-97ffaa2e/badge.svg)](https://tensorblock.co/mcp/servers/github-greg-swiftomatic-substack-mcp-server-97ffaa2e)",
   "links": {
     "primary": "https://github.com/Greg-Swiftomatic/substack-mcp-server",
     "repo": "https://github.com/Greg-Swiftomatic/substack-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

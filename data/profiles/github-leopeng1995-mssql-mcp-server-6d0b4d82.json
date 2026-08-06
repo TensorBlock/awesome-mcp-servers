@@ -3,8 +3,8 @@
   "name": "leopeng1995/mssql-mcp-server",
   "description": "Facilitates seamless connectivity to Microsoft SQL Server using the Model Context Protocol.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-leopeng1995-mssql-mcp-server-6d0b4d82",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-leopeng1995-mssql-mcp-server-6d0b4d82)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-leopeng1995-mssql-mcp-server-6d0b4d82",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-leopeng1995-mssql-mcp-server-6d0b4d82/badge.svg)](https://tensorblock.co/mcp/servers/github-leopeng1995-mssql-mcp-server-6d0b4d82)",
   "links": {
     "primary": "https://github.com/leopeng1995/mssql-mcp-server",
     "repo": "https://github.com/leopeng1995/mssql-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

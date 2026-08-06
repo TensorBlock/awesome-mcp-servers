@@ -1,0 +1,56 @@
+{
+  "id": "github-matthiastjong-shellgate-a08a249d",
+  "name": "matthiastjong/shellgate",
+  "description": "Self-hosted security gateway for AI agents — proxies API requests with credential injection, SSH execution with guard protection, credential vault, webhook handling, agent memories, org skills, and wiki. Agents get scoped tokens and never see real credentials. TypeScript, Docker, MIT licensed.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-matthiastjong-shellgate-a08a249d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-matthiastjong-shellgate-a08a249d/badge.svg)](https://tensorblock.co/mcp/servers/github-matthiastjong-shellgate-a08a249d)",
+  "links": {
+    "primary": "https://github.com/matthiastjong/shellgate",
+    "repo": "https://github.com/matthiastjong/shellgate",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "okooo5km/zipic-mcp-server",
   "description": "Swift-based server enabling AI assistants to compress and optimize images using advanced tools and batch processing capabilities.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-okooo5km-zipic-mcp-server-52391025",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-okooo5km-zipic-mcp-server-52391025)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-okooo5km-zipic-mcp-server-52391025",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-okooo5km-zipic-mcp-server-52391025/badge.svg)](https://tensorblock.co/mcp/servers/github-okooo5km-zipic-mcp-server-52391025)",
   "links": {
     "primary": "https://github.com/okooo5km/zipic-mcp-server",
     "repo": "https://github.com/okooo5km/zipic-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

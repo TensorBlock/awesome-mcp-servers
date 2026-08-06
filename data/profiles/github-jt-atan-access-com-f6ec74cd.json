@@ -3,8 +3,8 @@
   "name": "jt-atan/Access-COM",
   "description": "Facilitates seamless interaction with 32-bit Microsoft Access databases through a Model Context Protocol tool, supporting SQL queries and linked table management.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-jt-atan-access-com-f6ec74cd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jt-atan-access-com-f6ec74cd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jt-atan-access-com-f6ec74cd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jt-atan-access-com-f6ec74cd/badge.svg)](https://tensorblock.co/mcp/servers/github-jt-atan-access-com-f6ec74cd)",
   "links": {
     "primary": "https://github.com/jt-atan/Access-COM",
     "repo": "https://github.com/jt-atan/Access-COM",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

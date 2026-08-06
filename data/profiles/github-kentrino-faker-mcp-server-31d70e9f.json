@@ -3,8 +3,8 @@
   "name": "kentrino/faker-mcp-server",
   "description": "A TypeScript-based server utilizing Faker.js to generate customizable fake data across various locales.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-kentrino-faker-mcp-server-31d70e9f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kentrino-faker-mcp-server-31d70e9f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kentrino-faker-mcp-server-31d70e9f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kentrino-faker-mcp-server-31d70e9f/badge.svg)](https://tensorblock.co/mcp/servers/github-kentrino-faker-mcp-server-31d70e9f)",
   "links": {
     "primary": "https://github.com/kentrino/faker-mcp-server",
     "repo": "https://github.com/kentrino/faker-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

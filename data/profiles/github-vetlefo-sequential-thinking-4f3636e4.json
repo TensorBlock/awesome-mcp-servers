@@ -3,8 +3,8 @@
   "name": "vetlefo/sequential-thinking",
   "description": "Enhances the official MCP sequential thinking server with graph-based thought management and advanced metadata tracking for complex thought processes.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-vetlefo-sequential-thinking-4f3636e4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vetlefo-sequential-thinking-4f3636e4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vetlefo-sequential-thinking-4f3636e4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vetlefo-sequential-thinking-4f3636e4/badge.svg)](https://tensorblock.co/mcp/servers/github-vetlefo-sequential-thinking-4f3636e4)",
   "links": {
     "primary": "https://github.com/vetlefo/sequential-thinking",
     "repo": "https://github.com/vetlefo/sequential-thinking",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

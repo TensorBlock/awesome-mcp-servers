@@ -3,8 +3,8 @@
   "name": "orhanveli/openapi-client-generator-mcp",
   "description": "Generates TypeScript API clients from OpenAPI specs using a Model Context Protocol server.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-orhanveli-openapi-client-generator-mcp-38e9686b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-orhanveli-openapi-client-generator-mcp-38e9686b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-orhanveli-openapi-client-generator-mcp-38e9686b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-orhanveli-openapi-client-generator-mcp-38e9686b/badge.svg)](https://tensorblock.co/mcp/servers/github-orhanveli-openapi-client-generator-mcp-38e9686b)",
   "links": {
     "primary": "https://github.com/orhanveli/openapi-client-generator-mcp",
     "repo": "https://github.com/orhanveli/openapi-client-generator-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

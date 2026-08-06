@@ -3,8 +3,8 @@
   "name": "gowtham3105/mcp_server_opensearch",
   "description": "Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-gowtham3105-mcp-server-opensearch-fa263c93",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gowtham3105-mcp-server-opensearch-fa263c93)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-gowtham3105-mcp-server-opensearch-fa263c93",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-gowtham3105-mcp-server-opensearch-fa263c93/badge.svg)](https://tensorblock.co/mcp/servers/github-gowtham3105-mcp-server-opensearch-fa263c93)",
   "links": {
     "primary": "https://github.com/gowtham3105/mcp_server_opensearch",
     "repo": "https://github.com/gowtham3105/mcp_server_opensearch",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

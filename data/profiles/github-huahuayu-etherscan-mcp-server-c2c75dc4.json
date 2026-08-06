@@ -3,8 +3,8 @@
   "name": "huahuayu/etherscan-mcp-server",
   "description": "A Go-based server enabling LLM applications to access multi-chain Etherscan blockchain data via the Model Context Protocol.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-huahuayu-etherscan-mcp-server-c2c75dc4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-huahuayu-etherscan-mcp-server-c2c75dc4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-huahuayu-etherscan-mcp-server-c2c75dc4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-huahuayu-etherscan-mcp-server-c2c75dc4/badge.svg)](https://tensorblock.co/mcp/servers/github-huahuayu-etherscan-mcp-server-c2c75dc4)",
   "links": {
     "primary": "https://github.com/huahuayu/etherscan-mcp-server",
     "repo": "https://github.com/huahuayu/etherscan-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

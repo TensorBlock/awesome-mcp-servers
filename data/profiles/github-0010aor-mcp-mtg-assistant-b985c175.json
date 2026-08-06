@@ -3,8 +3,8 @@
   "name": "0010aor/mcp-mtg-assistant",
   "description": "Fetches Magic: The Gathering card details using the Scryfall API, aiding in rules queries and card information retrieval.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-0010aor-mcp-mtg-assistant-b985c175",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-0010aor-mcp-mtg-assistant-b985c175)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-0010aor-mcp-mtg-assistant-b985c175",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-0010aor-mcp-mtg-assistant-b985c175/badge.svg)](https://tensorblock.co/mcp/servers/github-0010aor-mcp-mtg-assistant-b985c175)",
   "links": {
     "primary": "https://github.com/0010aor/mcp-mtg-assistant",
     "repo": "https://github.com/0010aor/mcp-mtg-assistant",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

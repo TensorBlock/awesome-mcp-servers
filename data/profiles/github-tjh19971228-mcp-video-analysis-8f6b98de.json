@@ -3,8 +3,8 @@
   "name": "tjh19971228/mcp_video_analysis",
   "description": "Facilitates video content analysis and mind map generation using the Model Context Protocol.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-tjh19971228-mcp-video-analysis-8f6b98de",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tjh19971228-mcp-video-analysis-8f6b98de)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tjh19971228-mcp-video-analysis-8f6b98de",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tjh19971228-mcp-video-analysis-8f6b98de/badge.svg)](https://tensorblock.co/mcp/servers/github-tjh19971228-mcp-video-analysis-8f6b98de)",
   "links": {
     "primary": "https://github.com/tjh19971228/mcp_video_analysis",
     "repo": "https://github.com/tjh19971228/mcp_video_analysis",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Sainigurnoor511/model-context-protocol",
   "description": "Provides real-time stock market data to LLMs using the Finnhub API, enabling access to stock quotes, company profiles, and symbol searches.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-sainigurnoor511-model-context-protocol-4d473050",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sainigurnoor511-model-context-protocol-4d473050)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sainigurnoor511-model-context-protocol-4d473050",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sainigurnoor511-model-context-protocol-4d473050/badge.svg)](https://tensorblock.co/mcp/servers/github-sainigurnoor511-model-context-protocol-4d473050)",
   "links": {
     "primary": "https://github.com/Sainigurnoor511/model-context-protocol",
     "repo": "https://github.com/Sainigurnoor511/model-context-protocol",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

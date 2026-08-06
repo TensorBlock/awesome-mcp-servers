@@ -3,8 +3,8 @@
   "name": "ACNet-AI/OmniTaskAgent",
   "description": "OmniTaskAgent is a versatile multi-model task management system that integrates with various task management solutions and editors via the MCP protocol, enhancing intelligent workflow processes.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-acnet-ai-omnitaskagent-9e5dc590",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-acnet-ai-omnitaskagent-9e5dc590)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-acnet-ai-omnitaskagent-9e5dc590",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-acnet-ai-omnitaskagent-9e5dc590/badge.svg)](https://tensorblock.co/mcp/servers/github-acnet-ai-omnitaskagent-9e5dc590)",
   "links": {
     "primary": "https://github.com/ACNet-AI/OmniTaskAgent",
     "repo": "https://github.com/ACNet-AI/OmniTaskAgent",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

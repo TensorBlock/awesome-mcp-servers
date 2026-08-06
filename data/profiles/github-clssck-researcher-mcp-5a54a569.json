@@ -3,8 +3,8 @@
   "name": "clssck/researcher-mcp",
   "description": "A research assistant server that integrates with Cline and Claude Desktop, utilizing Perplexity AI for intelligent search, documentation retrieval, API discovery, and code modernization assistance.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-clssck-researcher-mcp-5a54a569",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-clssck-researcher-mcp-5a54a569)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-clssck-researcher-mcp-5a54a569",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-clssck-researcher-mcp-5a54a569/badge.svg)](https://tensorblock.co/mcp/servers/github-clssck-researcher-mcp-5a54a569)",
   "links": {
     "primary": "https://github.com/clssck/researcher-mcp",
     "repo": "https://github.com/clssck/researcher-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

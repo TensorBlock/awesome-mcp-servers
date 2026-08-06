@@ -1,0 +1,58 @@
+{
+  "id": "github-vostride-agent-qa-d9ee8202",
+  "name": "vostride/agent-qa",
+  "description": "Self-improving agentic QA harness with a local MCP server for authoring, running, validating, and triaging natural-language web and mobile tests. Install: `npm install -D agent-qa`.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vostride-agent-qa-d9ee8202",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vostride-agent-qa-d9ee8202/badge.svg)](https://tensorblock.co/mcp/servers/github-vostride-agent-qa-d9ee8202)",
+  "links": {
+    "primary": "https://github.com/vostride/agent-qa",
+    "repo": "https://github.com/vostride/agent-qa",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npm install -D agent-qa"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

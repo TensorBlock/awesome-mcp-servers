@@ -3,8 +3,8 @@
   "name": "199-bio/better-thinking-mcp",
   "description": "Facilitates structured, multi-step reasoning inspired by LLM computational mechanisms, enhancing transparency and robustness in decision-making processes.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-199-bio-better-thinking-mcp-f97ad938",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-199-bio-better-thinking-mcp-f97ad938)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-199-bio-better-thinking-mcp-f97ad938",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-199-bio-better-thinking-mcp-f97ad938/badge.svg)](https://tensorblock.co/mcp/servers/github-199-bio-better-thinking-mcp-f97ad938)",
   "links": {
     "primary": "https://github.com/199-bio/better-thinking-mcp",
     "repo": "https://github.com/199-bio/better-thinking-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

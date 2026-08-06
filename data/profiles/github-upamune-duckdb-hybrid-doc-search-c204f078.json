@@ -3,8 +3,8 @@
   "name": "upamune/duckdb-hybrid-doc-search",
   "description": "Facilitates hybrid indexing and search of Markdown documents using DuckDB, integrating full-text and vector search capabilities with AI coding agents via an MCP stdio server.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-upamune-duckdb-hybrid-doc-search-c204f078",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-upamune-duckdb-hybrid-doc-search-c204f078)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-upamune-duckdb-hybrid-doc-search-c204f078",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-upamune-duckdb-hybrid-doc-search-c204f078/badge.svg)](https://tensorblock.co/mcp/servers/github-upamune-duckdb-hybrid-doc-search-c204f078)",
   "links": {
     "primary": "https://github.com/upamune/duckdb-hybrid-doc-search",
     "repo": "https://github.com/upamune/duckdb-hybrid-doc-search",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "stdio"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

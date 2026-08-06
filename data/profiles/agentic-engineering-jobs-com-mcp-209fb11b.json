@@ -3,8 +3,8 @@
   "name": "Agentic Engineering Jobs",
   "description": "Remote MCP server for searching live agentic AI engineering jobs by framework (LangChain, LlamaIndex, CrewAI, etc.), seniority, location, and remote status. Query aggregate salary benchmarks. Zero-auth streamable HTTP endpoint.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/agentic-engineering-jobs-com-mcp-209fb11b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/agentic-engineering-jobs-com-mcp-209fb11b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/agentic-engineering-jobs-com-mcp-209fb11b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/agentic-engineering-jobs-com-mcp-209fb11b/badge.svg)](https://tensorblock.co/mcp/servers/agentic-engineering-jobs-com-mcp-209fb11b)",
   "links": {
     "primary": "https://agentic-engineering-jobs.com/mcp",
     "repo": null,
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

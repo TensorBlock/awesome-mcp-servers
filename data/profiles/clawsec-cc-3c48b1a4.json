@@ -3,8 +3,8 @@
   "name": "ClawSec",
   "description": "Security audit platform for MCP servers and AI agent skills. 5-tier analysis pipeline — static analysis, pattern matching, LLM semantic review, Firecracker sandbox execution, and LLM audit — detects malicious patterns, data exfiltration, and prompt injection. Database of 30,000+ audited skills with Trust Scores. Companion tool [ClawSearch](https://clawsearch.cc) provides safe skill discovery with security ratings.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/clawsec-cc-3c48b1a4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/clawsec-cc-3c48b1a4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/clawsec-cc-3c48b1a4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/clawsec-cc-3c48b1a4/badge.svg)](https://tensorblock.co/mcp/servers/clawsec-cc-3c48b1a4)",
   "links": {
     "primary": "https://clawsec.cc",
     "repo": null,
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

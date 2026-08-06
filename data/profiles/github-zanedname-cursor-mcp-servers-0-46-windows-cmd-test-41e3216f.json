@@ -3,8 +3,8 @@
   "name": "Zanedname/cursor-mcp-Servers-0.46-windows-cmd-test",
   "description": "A comprehensive guide for configuring and using MCP Servers in Cursor IDE 0.46 on Windows, enabling AI assistants to leverage external tools and services.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-zanedname-cursor-mcp-servers-0-46-windows-cmd-test-41e3216f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zanedname-cursor-mcp-servers-0-46-windows-cmd-test-41e3216f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zanedname-cursor-mcp-servers-0-46-windows-cmd-test-41e3216f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zanedname-cursor-mcp-servers-0-46-windows-cmd-test-41e3216f/badge.svg)](https://tensorblock.co/mcp/servers/github-zanedname-cursor-mcp-servers-0-46-windows-cmd-test-41e3216f)",
   "links": {
     "primary": "https://github.com/Zanedname/cursor-mcp-Servers-0.46-windows-cmd-test",
     "repo": "https://github.com/Zanedname/cursor-mcp-Servers-0.46-windows-cmd-test",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

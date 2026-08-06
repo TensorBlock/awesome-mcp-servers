@@ -3,8 +3,8 @@
   "name": "resend/mcp-send-email",
   "description": "Facilitates seamless email dispatch directly from Cursor using Resend's API, enhancing productivity with scheduled and customizable email options.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-resend-mcp-send-email-7d63cac8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-resend-mcp-send-email-7d63cac8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-resend-mcp-send-email-7d63cac8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-resend-mcp-send-email-7d63cac8/badge.svg)](https://tensorblock.co/mcp/servers/github-resend-mcp-send-email-7d63cac8)",
   "links": {
     "primary": "https://github.com/resend/mcp-send-email",
     "repo": "https://github.com/resend/mcp-send-email",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

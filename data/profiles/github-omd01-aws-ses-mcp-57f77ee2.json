@@ -3,8 +3,8 @@
   "name": "omd01/aws-ses-mcp",
   "description": "Facilitates seamless email sending via AWS SES with advanced features like CC, BCC, and reply-to, integrating effortlessly with Cursor and Claude Desktop.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-omd01-aws-ses-mcp-57f77ee2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-omd01-aws-ses-mcp-57f77ee2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-omd01-aws-ses-mcp-57f77ee2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-omd01-aws-ses-mcp-57f77ee2/badge.svg)](https://tensorblock.co/mcp/servers/github-omd01-aws-ses-mcp-57f77ee2)",
   "links": {
     "primary": "https://github.com/omd01/aws-ses-mcp",
     "repo": "https://github.com/omd01/aws-ses-mcp",
@@ -12,12 +12,47 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

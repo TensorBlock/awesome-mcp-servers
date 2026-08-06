@@ -3,8 +3,8 @@
   "name": "nazonoa/go-mcp-calculator-demo",
   "description": "A Go-based MCP server demo utilizing SSE mode for calculator operations.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-nazonoa-go-mcp-calculator-demo-828eaf7f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nazonoa-go-mcp-calculator-demo-828eaf7f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nazonoa-go-mcp-calculator-demo-828eaf7f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nazonoa-go-mcp-calculator-demo-828eaf7f/badge.svg)](https://tensorblock.co/mcp/servers/github-nazonoa-go-mcp-calculator-demo-828eaf7f)",
   "links": {
     "primary": "https://github.com/nazonoa/go-mcp-calculator-demo",
     "repo": "https://github.com/nazonoa/go-mcp-calculator-demo",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

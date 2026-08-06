@@ -3,8 +3,8 @@
   "name": "fakepixels/base-mcp-server",
   "description": "Facilitates blockchain operations on the Base network using natural language commands, enabling LLMs to manage wallets, check balances, and execute transactions.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-fakepixels-base-mcp-server-398de287",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fakepixels-base-mcp-server-398de287)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fakepixels-base-mcp-server-398de287",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fakepixels-base-mcp-server-398de287/badge.svg)](https://tensorblock.co/mcp/servers/github-fakepixels-base-mcp-server-398de287)",
   "links": {
     "primary": "https://github.com/fakepixels/base-mcp-server",
     "repo": "https://github.com/fakepixels/base-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

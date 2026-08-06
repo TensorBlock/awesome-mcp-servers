@@ -3,8 +3,8 @@
   "name": "fireproof-storage/mcp-database-server",
   "description": "Facilitates JSON document storage and retrieval for AI systems using a Fireproof database within an MCP server.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-fireproof-storage-mcp-database-server-fd711154",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fireproof-storage-mcp-database-server-fd711154)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fireproof-storage-mcp-database-server-fd711154",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fireproof-storage-mcp-database-server-fd711154/badge.svg)](https://tensorblock.co/mcp/servers/github-fireproof-storage-mcp-database-server-fd711154)",
   "links": {
     "primary": "https://github.com/fireproof-storage/mcp-database-server",
     "repo": "https://github.com/fireproof-storage/mcp-database-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "rebers/4o-mini-search-mcp",
   "description": "Enhance your AI's web search capabilities with a cost-effective MCP server using OpenAI's 4o-mini Search model.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-rebers-4o-mini-search-mcp-e207ed6a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rebers-4o-mini-search-mcp-e207ed6a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rebers-4o-mini-search-mcp-e207ed6a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rebers-4o-mini-search-mcp-e207ed6a/badge.svg)](https://tensorblock.co/mcp/servers/github-rebers-4o-mini-search-mcp-e207ed6a)",
   "links": {
     "primary": "https://github.com/rebers/4o-mini-search-mcp",
     "repo": "https://github.com/rebers/4o-mini-search-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

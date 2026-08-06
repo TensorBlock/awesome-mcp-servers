@@ -1,0 +1,56 @@
+{
+  "id": "github-estevecastells-domscan-mcp-63efc6c3",
+  "name": "estevecastells/domscan-mcp",
+  "description": "Domain intelligence MCP server: availability across 1500+ TLDs, DNS, WHOIS/RDAP, SSL/TLS, subdomain discovery, valuation, email security, and typosquatting/brand protection. Remote endpoint: `https://domscan.net/mcp` (Bearer auth).",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-estevecastells-domscan-mcp-63efc6c3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-estevecastells-domscan-mcp-63efc6c3/badge.svg)](https://tensorblock.co/mcp/servers/github-estevecastells-domscan-mcp-63efc6c3)",
+  "links": {
+    "primary": "https://github.com/estevecastells/domscan-mcp",
+    "repo": "https://github.com/estevecastells/domscan-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://domscan.net/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "bearer",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

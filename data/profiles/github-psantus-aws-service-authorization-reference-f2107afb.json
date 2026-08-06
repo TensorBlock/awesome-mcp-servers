@@ -3,8 +3,8 @@
   "name": "psantus/aws-service-authorization-reference",
   "description": "Facilitates LLMs in accessing AWS IAM actions, resources, and condition keys through a Model Context Protocol server.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-psantus-aws-service-authorization-reference-f2107afb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-psantus-aws-service-authorization-reference-f2107afb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-psantus-aws-service-authorization-reference-f2107afb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-psantus-aws-service-authorization-reference-f2107afb/badge.svg)](https://tensorblock.co/mcp/servers/github-psantus-aws-service-authorization-reference-f2107afb)",
   "links": {
     "primary": "https://github.com/psantus/aws-service-authorization-reference",
     "repo": "https://github.com/psantus/aws-service-authorization-reference",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

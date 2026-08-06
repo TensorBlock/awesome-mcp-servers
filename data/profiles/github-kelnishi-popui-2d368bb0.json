@@ -3,8 +3,8 @@
   "name": "kelnishi/PopUI",
   "description": "PopUI enhances Claude Desktop with a collaborative user interface, enabling real-time visual context and interaction through an SSE MCP server proxy.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-kelnishi-popui-2d368bb0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kelnishi-popui-2d368bb0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kelnishi-popui-2d368bb0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kelnishi-popui-2d368bb0/badge.svg)](https://tensorblock.co/mcp/servers/github-kelnishi-popui-2d368bb0)",
   "links": {
     "primary": "https://github.com/kelnishi/PopUI",
     "repo": "https://github.com/kelnishi/PopUI",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

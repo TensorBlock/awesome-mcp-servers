@@ -3,8 +3,8 @@
   "name": "terilios/smartsheet-server",
   "description": "Facilitates intelligent healthcare analytics and document management on Smartsheet through seamless AI integration.",
   "category": "Healthcare & Life Sciences",
-  "profileUrl": "https://tensorblock.co/mcp/github-terilios-smartsheet-server-48bf6cae",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-terilios-smartsheet-server-48bf6cae)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-terilios-smartsheet-server-48bf6cae",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-terilios-smartsheet-server-48bf6cae/badge.svg)](https://tensorblock.co/mcp/servers/github-terilios-smartsheet-server-48bf6cae)",
   "links": {
     "primary": "https://github.com/terilios/smartsheet-server",
     "repo": "https://github.com/terilios/smartsheet-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

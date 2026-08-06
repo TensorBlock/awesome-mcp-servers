@@ -3,8 +3,8 @@
   "name": "sanity-io/sanity-mcp-server",
   "description": "Facilitates seamless interaction between AI models and Sanity's CMS, offering document management, GROQ querying, and semantic search capabilities.",
   "category": "Content Management Systems",
-  "profileUrl": "https://tensorblock.co/mcp/github-sanity-io-sanity-mcp-server-68658c26",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sanity-io-sanity-mcp-server-68658c26)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sanity-io-sanity-mcp-server-68658c26",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sanity-io-sanity-mcp-server-68658c26/badge.svg)](https://tensorblock.co/mcp/servers/github-sanity-io-sanity-mcp-server-68658c26)",
   "links": {
     "primary": "https://github.com/sanity-io/sanity-mcp-server",
     "repo": "https://github.com/sanity-io/sanity-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

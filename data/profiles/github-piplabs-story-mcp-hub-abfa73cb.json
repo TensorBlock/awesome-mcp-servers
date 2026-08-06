@@ -3,8 +3,8 @@
   "name": "piplabs/story-mcp-hub",
   "description": "Facilitates AI agent interactions with Story Protocol's ecosystem through blockchain data queries and SDK interactions.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-piplabs-story-mcp-hub-abfa73cb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-piplabs-story-mcp-hub-abfa73cb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-piplabs-story-mcp-hub-abfa73cb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-piplabs-story-mcp-hub-abfa73cb/badge.svg)](https://tensorblock.co/mcp/servers/github-piplabs-story-mcp-hub-abfa73cb)",
   "links": {
     "primary": "https://github.com/piplabs/story-mcp-hub",
     "repo": "https://github.com/piplabs/story-mcp-hub",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

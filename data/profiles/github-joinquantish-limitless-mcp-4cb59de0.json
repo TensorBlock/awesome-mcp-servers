@@ -1,0 +1,58 @@
+{
+  "id": "github-joinquantish-limitless-mcp-4cb59de0",
+  "name": "joinQuantish/limitless-mcp",
+  "description": "Limitless Exchange prediction market MCP server on Base with 34 tools for market access, limit-order trading, and AES-encrypted wallet management. Install: `npx -y @quantish/limitless-server`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-joinquantish-limitless-mcp-4cb59de0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-joinquantish-limitless-mcp-4cb59de0/badge.svg)](https://tensorblock.co/mcp/servers/github-joinquantish-limitless-mcp-4cb59de0)",
+  "links": {
+    "primary": "https://github.com/joinQuantish/limitless-mcp",
+    "repo": "https://github.com/joinQuantish/limitless-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y @quantish/limitless-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 34
+  }
+}

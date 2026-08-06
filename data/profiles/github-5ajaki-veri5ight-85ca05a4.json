@@ -3,8 +3,8 @@
   "name": "5ajaki/veri5ight",
   "description": "Veri5ight facilitates seamless interaction between Claude and Ethereum nodes, offering real-time token balance, smart contract insights, and unrestricted node access.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-5ajaki-veri5ight-85ca05a4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-5ajaki-veri5ight-85ca05a4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-5ajaki-veri5ight-85ca05a4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-5ajaki-veri5ight-85ca05a4/badge.svg)](https://tensorblock.co/mcp/servers/github-5ajaki-veri5ight-85ca05a4)",
   "links": {
     "primary": "https://github.com/5ajaki/veri5ight",
     "repo": "https://github.com/5ajaki/veri5ight",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "mohitparmar1/Solana-Wallet-Security-Scanner",
   "description": "A demo MCP server for Solana development, offering basic RPC methods and prompts to enhance Solana programming tasks.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-mohitparmar1-solana-wallet-security-scanner-2259713c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mohitparmar1-solana-wallet-security-scanner-2259713c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mohitparmar1-solana-wallet-security-scanner-2259713c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mohitparmar1-solana-wallet-security-scanner-2259713c/badge.svg)](https://tensorblock.co/mcp/servers/github-mohitparmar1-solana-wallet-security-scanner-2259713c)",
   "links": {
     "primary": "https://github.com/mohitparmar1/Solana-Wallet-Security-Scanner",
     "repo": "https://github.com/mohitparmar1/Solana-Wallet-Security-Scanner",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

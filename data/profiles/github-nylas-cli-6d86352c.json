@@ -3,8 +3,8 @@
   "name": "nylas/cli",
   "description": "MCP server for email, calendar, and contacts. 16 tools across Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP via a single auth flow. JSON output, install with `nylas mcp install`, works with Claude Code, Cursor, Codex, and Windsurf. Docs at https://cli.nylas.com.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-nylas-cli-6d86352c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nylas-cli-6d86352c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nylas-cli-6d86352c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nylas-cli-6d86352c/badge.svg)](https://tensorblock.co/mcp/servers/github-nylas-cli-6d86352c)",
   "links": {
     "primary": "https://github.com/nylas/cli",
     "repo": "https://github.com/nylas/cli",
@@ -12,12 +12,48 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 16
   }

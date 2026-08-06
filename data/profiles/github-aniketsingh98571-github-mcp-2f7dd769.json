@@ -3,8 +3,8 @@
   "name": "aniketsingh98571/github-mcp",
   "description": "Facilitates seamless interaction with GitHub's API through a Model Control Protocol interface, enabling efficient repository management and user information retrieval.",
   "category": "Version Control",
-  "profileUrl": "https://tensorblock.co/mcp/github-aniketsingh98571-github-mcp-2f7dd769",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aniketsingh98571-github-mcp-2f7dd769)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aniketsingh98571-github-mcp-2f7dd769",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aniketsingh98571-github-mcp-2f7dd769/badge.svg)](https://tensorblock.co/mcp/servers/github-aniketsingh98571-github-mcp-2f7dd769)",
   "links": {
     "primary": "https://github.com/aniketsingh98571/github-mcp",
     "repo": "https://github.com/aniketsingh98571/github-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Impa-Ventures/hyperliquid-mcp",
   "description": "Facilitates AI applications' interaction with Hyperliquid by providing onchain tools through a Model Context Protocol server.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-impa-ventures-hyperliquid-mcp-f13eb249",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-impa-ventures-hyperliquid-mcp-f13eb249)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-impa-ventures-hyperliquid-mcp-f13eb249",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-impa-ventures-hyperliquid-mcp-f13eb249/badge.svg)](https://tensorblock.co/mcp/servers/github-impa-ventures-hyperliquid-mcp-f13eb249)",
   "links": {
     "primary": "https://github.com/Impa-Ventures/hyperliquid-mcp",
     "repo": "https://github.com/Impa-Ventures/hyperliquid-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

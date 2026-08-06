@@ -3,8 +3,8 @@
   "name": "MaitreyaM/Gmail-mcp-server",
   "description": "Facilitates email sending through Gmail's SMTP server using AI agents with robust attachment handling and resilience features.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-maitreyam-gmail-mcp-server-314d153d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maitreyam-gmail-mcp-server-314d153d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-maitreyam-gmail-mcp-server-314d153d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-maitreyam-gmail-mcp-server-314d153d/badge.svg)](https://tensorblock.co/mcp/servers/github-maitreyam-gmail-mcp-server-314d153d)",
   "links": {
     "primary": "https://github.com/MaitreyaM/Gmail-mcp-server",
     "repo": "https://github.com/MaitreyaM/Gmail-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

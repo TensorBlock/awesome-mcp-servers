@@ -3,8 +3,8 @@
   "name": "simon-duchastel/lifx-lan-mcp",
   "description": "Enable AI agents to control LIFX lights over a local network using the Model Context Protocol.",
   "category": "Hardware & IoT",
-  "profileUrl": "https://tensorblock.co/mcp/github-simon-duchastel-lifx-lan-mcp-47d67e4d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-simon-duchastel-lifx-lan-mcp-47d67e4d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-simon-duchastel-lifx-lan-mcp-47d67e4d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-simon-duchastel-lifx-lan-mcp-47d67e4d/badge.svg)](https://tensorblock.co/mcp/servers/github-simon-duchastel-lifx-lan-mcp-47d67e4d)",
   "links": {
     "primary": "https://github.com/simon-duchastel/lifx-lan-mcp",
     "repo": "https://github.com/simon-duchastel/lifx-lan-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

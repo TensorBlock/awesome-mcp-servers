@@ -3,8 +3,8 @@
   "name": "speakeasy-api/markdown-sidecar-mcp",
   "description": "Facilitates structured access to markdown documentation for NPM, Go, and PyPi packages via an MCP server, enhancing code generation by exposing these docs as tools or resources.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-speakeasy-api-markdown-sidecar-mcp-c994ae79",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-speakeasy-api-markdown-sidecar-mcp-c994ae79)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-speakeasy-api-markdown-sidecar-mcp-c994ae79",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-speakeasy-api-markdown-sidecar-mcp-c994ae79/badge.svg)](https://tensorblock.co/mcp/servers/github-speakeasy-api-markdown-sidecar-mcp-c994ae79)",
   "links": {
     "primary": "https://github.com/speakeasy-api/markdown-sidecar-mcp",
     "repo": "https://github.com/speakeasy-api/markdown-sidecar-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

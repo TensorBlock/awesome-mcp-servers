@@ -1,0 +1,58 @@
+{
+  "id": "github-aidevelopers2-remoteopenclaw-mcp-c2674348",
+  "name": "aidevelopers2/remoteopenclaw-mcp",
+  "description": "MCP server and CLI that searches 13,870+ MCP servers, 4,384+ skills, and plugins from the terminal or an AI agent. Install: `npx -y remoteopenclaw`. Stdio transport, no API key.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aidevelopers2-remoteopenclaw-mcp-c2674348",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aidevelopers2-remoteopenclaw-mcp-c2674348/badge.svg)](https://tensorblock.co/mcp/servers/github-aidevelopers2-remoteopenclaw-mcp-c2674348)",
+  "links": {
+    "primary": "https://github.com/aidevelopers2/remoteopenclaw-mcp",
+    "repo": "https://github.com/aidevelopers2/remoteopenclaw-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y remoteopenclaw"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

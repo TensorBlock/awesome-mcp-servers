@@ -1,0 +1,61 @@
+{
+  "id": "github-ipythoning-domain-monitor-mcp-server-48496711",
+  "name": "iPythoning/domain-monitor-mcp-server",
+  "description": "Domain WHOIS and SSL certificate monitoring via RDAP and crt.sh — single or batch domain checks with severity classification. Zero API keys, stdio transport (Claude Code/Desktop, Cursor, Windsurf). Install: `npx domain-monitor-mcp-server`.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ipythoning-domain-monitor-mcp-server-48496711",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ipythoning-domain-monitor-mcp-server-48496711/badge.svg)](https://tensorblock.co/mcp/servers/github-ipythoning-domain-monitor-mcp-server-48496711)",
+  "links": {
+    "primary": "https://github.com/iPythoning/domain-monitor-mcp-server",
+    "repo": "https://github.com/iPythoning/domain-monitor-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx domain-monitor-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

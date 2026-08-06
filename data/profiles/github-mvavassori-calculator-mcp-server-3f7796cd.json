@@ -3,8 +3,8 @@
   "name": "mvavassori/calculator-mcp-server",
   "description": "A TypeScript-based server offering extensive mathematical functions as MCP tools for seamless integration with language models.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-mvavassori-calculator-mcp-server-3f7796cd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mvavassori-calculator-mcp-server-3f7796cd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mvavassori-calculator-mcp-server-3f7796cd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mvavassori-calculator-mcp-server-3f7796cd/badge.svg)](https://tensorblock.co/mcp/servers/github-mvavassori-calculator-mcp-server-3f7796cd)",
   "links": {
     "primary": "https://github.com/mvavassori/calculator-mcp-server",
     "repo": "https://github.com/mvavassori/calculator-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "DMontgomery40/mcp-3D-printer-server",
   "description": "Facilitates seamless interaction between Claude and various 3D printer APIs, enabling advanced STL operations and comprehensive printer management.",
   "category": "Hardware & IoT",
-  "profileUrl": "https://tensorblock.co/mcp/github-dmontgomery40-mcp-3d-printer-server-69008944",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dmontgomery40-mcp-3d-printer-server-69008944)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dmontgomery40-mcp-3d-printer-server-69008944",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dmontgomery40-mcp-3d-printer-server-69008944/badge.svg)](https://tensorblock.co/mcp/servers/github-dmontgomery40-mcp-3d-printer-server-69008944)",
   "links": {
     "primary": "https://github.com/DMontgomery40/mcp-3D-printer-server",
     "repo": "https://github.com/DMontgomery40/mcp-3D-printer-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "fleagne/backlog-mcp-server",
   "description": "Integrates the Backlog API for project, issue, and wiki management through an MCP server.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-fleagne-backlog-mcp-server-4fb1ae55",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fleagne-backlog-mcp-server-4fb1ae55)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fleagne-backlog-mcp-server-4fb1ae55",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fleagne-backlog-mcp-server-4fb1ae55/badge.svg)](https://tensorblock.co/mcp/servers/github-fleagne-backlog-mcp-server-4fb1ae55)",
   "links": {
     "primary": "https://github.com/fleagne/backlog-mcp-server",
     "repo": "https://github.com/fleagne/backlog-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "xianminx/mcp-server-flomo",
   "description": "Facilitates seamless note creation in Flomo through AI chat interactions using natural language commands.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-xianminx-mcp-server-flomo-56c45584",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xianminx-mcp-server-flomo-56c45584)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-xianminx-mcp-server-flomo-56c45584",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-xianminx-mcp-server-flomo-56c45584/badge.svg)](https://tensorblock.co/mcp/servers/github-xianminx-mcp-server-flomo-56c45584)",
   "links": {
     "primary": "https://github.com/xianminx/mcp-server-flomo",
     "repo": "https://github.com/xianminx/mcp-server-flomo",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

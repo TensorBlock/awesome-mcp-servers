@@ -3,8 +3,8 @@
   "name": "binaryYuki/RIE-Discord-MCP",
   "description": "Effortlessly expose FastAPI endpoints as Model Context Protocol tools with zero configuration.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-binaryyuki-rie-discord-mcp-8ff4915f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-binaryyuki-rie-discord-mcp-8ff4915f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-binaryyuki-rie-discord-mcp-8ff4915f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-binaryyuki-rie-discord-mcp-8ff4915f/badge.svg)](https://tensorblock.co/mcp/servers/github-binaryyuki-rie-discord-mcp-8ff4915f)",
   "links": {
     "primary": "https://github.com/binaryYuki/RIE-Discord-MCP",
     "repo": "https://github.com/binaryYuki/RIE-Discord-MCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

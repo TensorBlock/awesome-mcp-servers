@@ -3,8 +3,8 @@
   "name": "AVIMBU/uptime_agent_mcp",
   "description": "Facilitates seamless integration of Uptime Agent monitoring with AI assistants for real-time system status checks and incident management.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-avimbu-uptime-agent-mcp-bb80b40f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-avimbu-uptime-agent-mcp-bb80b40f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-avimbu-uptime-agent-mcp-bb80b40f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-avimbu-uptime-agent-mcp-bb80b40f/badge.svg)](https://tensorblock.co/mcp/servers/github-avimbu-uptime-agent-mcp-bb80b40f)",
   "links": {
     "primary": "https://github.com/AVIMBU/uptime_agent_mcp",
     "repo": "https://github.com/AVIMBU/uptime_agent_mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

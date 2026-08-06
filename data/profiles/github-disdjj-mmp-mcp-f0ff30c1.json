@@ -3,8 +3,8 @@
   "name": "Disdjj/mmp-mcp",
   "description": "Facilitates AI model memory management through a structured tree protocol, enabling efficient storage and retrieval of interaction-generated memories.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-disdjj-mmp-mcp-f0ff30c1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-disdjj-mmp-mcp-f0ff30c1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-disdjj-mmp-mcp-f0ff30c1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-disdjj-mmp-mcp-f0ff30c1/badge.svg)](https://tensorblock.co/mcp/servers/github-disdjj-mmp-mcp-f0ff30c1)",
   "links": {
     "primary": "https://github.com/Disdjj/mmp-mcp",
     "repo": "https://github.com/Disdjj/mmp-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

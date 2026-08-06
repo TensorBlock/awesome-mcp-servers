@@ -3,8 +3,8 @@
   "name": "blajanclaudiu/cotton",
   "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-blajanclaudiu-cotton-f70edece",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-blajanclaudiu-cotton-f70edece)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-blajanclaudiu-cotton-f70edece",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-blajanclaudiu-cotton-f70edece/badge.svg)](https://tensorblock.co/mcp/servers/github-blajanclaudiu-cotton-f70edece)",
   "links": {
     "primary": "https://github.com/blajanclaudiu/cotton",
     "repo": "https://github.com/blajanclaudiu/cotton",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "albertdow/mcp-datapi",
   "description": "Facilitates access to ECMWF's Climate Data Store catalogues and job statuses through an MCP server interface.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-albertdow-mcp-datapi-6b0cc8eb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-albertdow-mcp-datapi-6b0cc8eb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-albertdow-mcp-datapi-6b0cc8eb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-albertdow-mcp-datapi-6b0cc8eb/badge.svg)](https://tensorblock.co/mcp/servers/github-albertdow-mcp-datapi-6b0cc8eb)",
   "links": {
     "primary": "https://github.com/albertdow/mcp-datapi",
     "repo": "https://github.com/albertdow/mcp-datapi",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

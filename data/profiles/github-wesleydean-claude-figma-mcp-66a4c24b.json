@@ -3,8 +3,8 @@
   "name": "wesleydean/claude-figma-mcp",
   "description": "Facilitates design creation and manipulation in Figma through Claude using both plugin and API approaches.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-wesleydean-claude-figma-mcp-66a4c24b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wesleydean-claude-figma-mcp-66a4c24b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wesleydean-claude-figma-mcp-66a4c24b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wesleydean-claude-figma-mcp-66a4c24b/badge.svg)](https://tensorblock.co/mcp/servers/github-wesleydean-claude-figma-mcp-66a4c24b)",
   "links": {
     "primary": "https://github.com/wesleydean/claude-figma-mcp",
     "repo": "https://github.com/wesleydean/claude-figma-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

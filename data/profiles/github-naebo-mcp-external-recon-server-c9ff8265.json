@@ -3,8 +3,8 @@
   "name": "naebo/mcp-external-recon-server",
   "description": "Conducts active external reconnaissance with DNS enumeration, subdomain discovery, and SSL certificate inspection for offensive security engagements.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-naebo-mcp-external-recon-server-c9ff8265",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-naebo-mcp-external-recon-server-c9ff8265)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-naebo-mcp-external-recon-server-c9ff8265",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-naebo-mcp-external-recon-server-c9ff8265/badge.svg)](https://tensorblock.co/mcp/servers/github-naebo-mcp-external-recon-server-c9ff8265)",
   "links": {
     "primary": "https://github.com/naebo/mcp-external-recon-server",
     "repo": "https://github.com/naebo/mcp-external-recon-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

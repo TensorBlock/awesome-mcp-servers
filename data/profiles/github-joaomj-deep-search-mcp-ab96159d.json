@@ -3,8 +3,8 @@
   "name": "joaomj/deep-search-mcp",
   "description": "Facilitates deep web searches using the LinkUp API, offering structured results and customizable search parameters.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-joaomj-deep-search-mcp-ab96159d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-joaomj-deep-search-mcp-ab96159d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-joaomj-deep-search-mcp-ab96159d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-joaomj-deep-search-mcp-ab96159d/badge.svg)](https://tensorblock.co/mcp/servers/github-joaomj-deep-search-mcp-ab96159d)",
   "links": {
     "primary": "https://github.com/joaomj/deep-search-mcp",
     "repo": "https://github.com/joaomj/deep-search-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

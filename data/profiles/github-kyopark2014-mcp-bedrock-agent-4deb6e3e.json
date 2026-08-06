@@ -3,8 +3,8 @@
   "name": "kyopark2014/mcp-bedrock-agent",
   "description": "Facilitates the use of Amazon's Bedrock agent with MCP for seamless access to tools and resources in generative AI applications.",
   "category": "Gaming",
-  "profileUrl": "https://tensorblock.co/mcp/github-kyopark2014-mcp-bedrock-agent-4deb6e3e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kyopark2014-mcp-bedrock-agent-4deb6e3e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kyopark2014-mcp-bedrock-agent-4deb6e3e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kyopark2014-mcp-bedrock-agent-4deb6e3e/badge.svg)](https://tensorblock.co/mcp/servers/github-kyopark2014-mcp-bedrock-agent-4deb6e3e)",
   "links": {
     "primary": "https://github.com/kyopark2014/mcp-bedrock-agent",
     "repo": "https://github.com/kyopark2014/mcp-bedrock-agent",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "charlesverge/mcp_open_interest",
   "description": "Analyzes options open interest data to calculate market sentiment using put/call ratios for specified stock symbols.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-charlesverge-mcp-open-interest-ac5da2ca",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-charlesverge-mcp-open-interest-ac5da2ca)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-charlesverge-mcp-open-interest-ac5da2ca",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-charlesverge-mcp-open-interest-ac5da2ca/badge.svg)](https://tensorblock.co/mcp/servers/github-charlesverge-mcp-open-interest-ac5da2ca)",
   "links": {
     "primary": "https://github.com/charlesverge/mcp_open_interest",
     "repo": "https://github.com/charlesverge/mcp_open_interest",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

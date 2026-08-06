@@ -3,8 +3,8 @@
   "name": "tanker327/md5-mcp",
   "description": "MD5-MCP provides tools for calculating MD5 hashes from strings, JSON data, and base64-encoded binary data, with easy integration into MCP-compatible clients.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-tanker327-md5-mcp-b1983559",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tanker327-md5-mcp-b1983559)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tanker327-md5-mcp-b1983559",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tanker327-md5-mcp-b1983559/badge.svg)](https://tensorblock.co/mcp/servers/github-tanker327-md5-mcp-b1983559)",
   "links": {
     "primary": "https://github.com/tanker327/md5-mcp",
     "repo": "https://github.com/tanker327/md5-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "allenporter/mcp-server-home-assistant",
   "description": "Facilitates seamless integration of Home Assistant with the Model Context Protocol for enhanced smart home automation.",
   "category": "Hardware & IoT",
-  "profileUrl": "https://tensorblock.co/mcp/github-allenporter-mcp-server-home-assistant-874ee3ff",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-allenporter-mcp-server-home-assistant-874ee3ff)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-allenporter-mcp-server-home-assistant-874ee3ff",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-allenporter-mcp-server-home-assistant-874ee3ff/badge.svg)](https://tensorblock.co/mcp/servers/github-allenporter-mcp-server-home-assistant-874ee3ff)",
   "links": {
     "primary": "https://github.com/allenporter/mcp-server-home-assistant",
     "repo": "https://github.com/allenporter/mcp-server-home-assistant",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

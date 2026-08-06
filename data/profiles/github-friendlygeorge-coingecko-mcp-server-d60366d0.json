@@ -1,0 +1,58 @@
+{
+  "id": "github-friendlygeorge-coingecko-mcp-server-d60366d0",
+  "name": "CoinGecko MCP Server",
+  "description": "Cryptocurrency prices, market data, trending coins, and exchange info. 12 tools. No API key required. Install: `npx -y coingecko-mcp-server`. Transport: stdio. License: MIT.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-friendlygeorge-coingecko-mcp-server-d60366d0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-friendlygeorge-coingecko-mcp-server-d60366d0/badge.svg)](https://tensorblock.co/mcp/servers/github-friendlygeorge-coingecko-mcp-server-d60366d0)",
+  "links": {
+    "primary": "https://github.com/friendlygeorge/coingecko-mcp-server",
+    "repo": "https://github.com/friendlygeorge/coingecko-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y coingecko-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": 12
+  }
+}

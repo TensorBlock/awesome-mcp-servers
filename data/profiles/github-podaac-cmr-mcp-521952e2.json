@@ -3,8 +3,8 @@
   "name": "podaac/cmr-mcp",
   "description": "Integrates AI retrievals with NASA's Earthdata Catalog using the Model Context Protocol.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-podaac-cmr-mcp-521952e2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-podaac-cmr-mcp-521952e2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-podaac-cmr-mcp-521952e2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-podaac-cmr-mcp-521952e2/badge.svg)](https://tensorblock.co/mcp/servers/github-podaac-cmr-mcp-521952e2)",
   "links": {
     "primary": "https://github.com/podaac/cmr-mcp",
     "repo": "https://github.com/podaac/cmr-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

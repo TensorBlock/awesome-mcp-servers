@@ -3,8 +3,8 @@
   "name": "sujal862/MCPTester",
   "description": "A web application designed to test MCP servers locally using JSON or NPX command formats, offering real-time response monitoring and error detection.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-sujal862-mcptester-3ca7c35d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sujal862-mcptester-3ca7c35d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sujal862-mcptester-3ca7c35d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sujal862-mcptester-3ca7c35d/badge.svg)](https://tensorblock.co/mcp/servers/github-sujal862-mcptester-3ca7c35d)",
   "links": {
     "primary": "https://github.com/sujal862/MCPTester",
     "repo": "https://github.com/sujal862/MCPTester",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

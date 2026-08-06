@@ -3,8 +3,8 @@
   "name": "Mukabony/mcp_sql",
   "description": "Facilitates secure interaction with Microsoft SQL Server databases, enabling AI assistants to list tables, read data, and execute SQL queries through a controlled interface.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-mukabony-mcp-sql-390b6dec",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mukabony-mcp-sql-390b6dec)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mukabony-mcp-sql-390b6dec",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mukabony-mcp-sql-390b6dec/badge.svg)](https://tensorblock.co/mcp/servers/github-mukabony-mcp-sql-390b6dec)",
   "links": {
     "primary": "https://github.com/Mukabony/mcp_sql",
     "repo": "https://github.com/Mukabony/mcp_sql",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

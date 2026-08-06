@@ -3,8 +3,8 @@
   "name": "giptilabs/mcp-stock-analysis",
   "description": "Access real-time and historical Indian stock data via an MCP server using the Yahoo Finance API, enabling integration with local LLMs.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-giptilabs-mcp-stock-analysis-84307157",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-giptilabs-mcp-stock-analysis-84307157)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-giptilabs-mcp-stock-analysis-84307157",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-giptilabs-mcp-stock-analysis-84307157/badge.svg)](https://tensorblock.co/mcp/servers/github-giptilabs-mcp-stock-analysis-84307157)",
   "links": {
     "primary": "https://github.com/giptilabs/mcp-stock-analysis",
     "repo": "https://github.com/giptilabs/mcp-stock-analysis",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

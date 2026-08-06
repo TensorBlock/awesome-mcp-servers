@@ -1,0 +1,56 @@
+{
+  "id": "github-alvisooculus-optionsahoy-mcp-7af553c8",
+  "name": "OptionsAhoy",
+  "description": "Multi-year equity-compensation tax optimization. Returns the optimal incentive stock option (ISO) and alternative minimum tax (AMT) exercise schedule, non-qualified stock option (NSO) sell-vs-hold decision, restricted stock unit (RSU) vest plan, single-stock concentration sell-down, protective put and zero-cost collar pricing, Section 1202 qualified small business stock (QSBS) qualification verdict, and a multi-year sell schedule to fund a target after-tax cash amount from equity by a deadline. Each result is globally optimal within the modeled problem constraints, shown against an exhaustive brute-force maximum. The tax math is independently verified against IRS publications and open-source tax engines. Both are recomputed live at https://optionsahoy.com/verification. Covers the full relevant federal tax code plus all 50 states and DC. Remote HTTP MCP at `https://optionsahoy.com/mcp`, no auth, no install. 7 tools.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-alvisooculus-optionsahoy-mcp-7af553c8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-alvisooculus-optionsahoy-mcp-7af553c8/badge.svg)](https://tensorblock.co/mcp/servers/github-alvisooculus-optionsahoy-mcp-7af553c8)",
+  "links": {
+    "primary": "https://github.com/AlvisoOculus/optionsahoy-mcp",
+    "repo": "https://github.com/AlvisoOculus/optionsahoy-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://optionsahoy.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 7
+  }
+}

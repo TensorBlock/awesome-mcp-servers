@@ -3,8 +3,8 @@
   "name": "modularflow/mcp-ui-explorer",
   "description": "Facilitates interaction with UI elements on your screen, enabling exploration, visualization, and automation of UI tasks.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-modularflow-mcp-ui-explorer-654391ef",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-modularflow-mcp-ui-explorer-654391ef)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-modularflow-mcp-ui-explorer-654391ef",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-modularflow-mcp-ui-explorer-654391ef/badge.svg)](https://tensorblock.co/mcp/servers/github-modularflow-mcp-ui-explorer-654391ef)",
   "links": {
     "primary": "https://github.com/modularflow/mcp-ui-explorer",
     "repo": "https://github.com/modularflow/mcp-ui-explorer",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

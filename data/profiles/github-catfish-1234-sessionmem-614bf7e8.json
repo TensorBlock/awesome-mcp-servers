@@ -1,0 +1,61 @@
+{
+  "id": "github-catfish-1234-sessionmem-614bf7e8",
+  "name": "sessionmem",
+  "description": "Local-first MCP server that gives AI coding assistants persistent session memory. Auto-injects compact summaries at session start so your AI instantly knows what you were building and where you left off. 85.6% token reduction vs keeping full history. All data stored locally in SQLite at ~/.sessionmem/memories.db, no cloud, no API keys. Supports Claude Code, Cursor, Cline, Windsurf. Install: `npx sessionmem`.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-catfish-1234-sessionmem-614bf7e8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-catfish-1234-sessionmem-614bf7e8/badge.svg)](https://tensorblock.co/mcp/servers/github-catfish-1234-sessionmem-614bf7e8)",
+  "links": {
+    "primary": "https://github.com/catfish-1234/sessionmem",
+    "repo": "https://github.com/catfish-1234/sessionmem",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx sessionmem"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "cappt-team/mcp-server-nodejs",
   "description": "Facilitates the generation of outlines and presentations using Cappt with NodeJS.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-cappt-team-mcp-server-nodejs-40b8a9dc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cappt-team-mcp-server-nodejs-40b8a9dc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cappt-team-mcp-server-nodejs-40b8a9dc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cappt-team-mcp-server-nodejs-40b8a9dc/badge.svg)](https://tensorblock.co/mcp/servers/github-cappt-team-mcp-server-nodejs-40b8a9dc)",
   "links": {
     "primary": "https://github.com/cappt-team/mcp-server-nodejs",
     "repo": "https://github.com/cappt-team/mcp-server-nodejs",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

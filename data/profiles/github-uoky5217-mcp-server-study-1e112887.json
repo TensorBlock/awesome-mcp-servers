@@ -3,14 +3,46 @@
   "name": "uoky5217/Mcp-Server-Study",
   "description": "A learning project implementing an MCP server with stdio and SSE transport methods for basic arithmetic operations.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-uoky5217-mcp-server-study-1e112887",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-uoky5217-mcp-server-study-1e112887)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-uoky5217-mcp-server-study-1e112887",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-uoky5217-mcp-server-study-1e112887/badge.svg)](https://tensorblock.co/mcp/servers/github-uoky5217-mcp-server-study-1e112887)",
   "links": {
     "primary": "https://github.com/uoky5217/Mcp-Server-Study",
     "repo": "https://github.com/uoky5217/Mcp-Server-Study",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

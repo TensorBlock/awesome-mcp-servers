@@ -3,8 +3,8 @@
   "name": "Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
   "description": "AI-first stock analysis for Indian markets — 34 tools to search, screen & analyze all 8,200+ NSE and BSE stocks: live quotes, financials, technicals, a 326-ratio screener, FII/DII institutional flows, IPOs & portfolio tracking. Hosted MCP, works with Claude, ChatGPT, Cursor & any MCP client. Install: `npx tapetide-mcp`.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19/badge.svg)](https://tensorblock.co/mcp/servers/github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19)",
   "links": {
     "primary": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
     "repo": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
@@ -12,12 +12,49 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx tapetide-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 34
   }

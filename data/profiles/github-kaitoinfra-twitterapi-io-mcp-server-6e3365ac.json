@@ -1,0 +1,65 @@
+{
+  "id": "github-kaitoinfra-twitterapi-io-mcp-server-6e3365ac",
+  "name": "kaitoInfra/twitterapi-io-mcp-server",
+  "description": "Official MCP server for [twitterapi.io](https://twitterapi.io) — a Twitter / X data API. 12 read-only tools letting agents: - Search tweets with full operator syntax (from:, to:, since:, until:, lang:, has:images, etc.) - Fetch user profiles, followers, following lists - Expand conversation threads / reply chains - Stream real-time WebSocket tweets...",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kaitoinfra-twitterapi-io-mcp-server-6e3365ac",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kaitoinfra-twitterapi-io-mcp-server-6e3365ac/badge.svg)](https://tensorblock.co/mcp/servers/github-kaitoinfra-twitterapi-io-mcp-server-6e3365ac)",
+  "links": {
+    "primary": "https://github.com/kaitoInfra/twitterapi-io-mcp-server",
+    "repo": "https://github.com/kaitoInfra/twitterapi-io-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.twitterapi.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @kaitoinfra/twitterapi-io-mcp-server"
+    ],
+    "env": [
+      "YOUR_API_KEY",
+      "TWITTERAPI_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "API key (Bearer or env var)"
+    ]
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "api-key",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

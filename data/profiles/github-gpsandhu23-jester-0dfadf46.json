@@ -3,8 +3,8 @@
   "name": "gpsandhu23/jester",
   "description": "Jester is a Python-based MCP server showcasing basic protocol functionality with example tools like greeting and version information.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-gpsandhu23-jester-0dfadf46",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gpsandhu23-jester-0dfadf46)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-gpsandhu23-jester-0dfadf46",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-gpsandhu23-jester-0dfadf46/badge.svg)](https://tensorblock.co/mcp/servers/github-gpsandhu23-jester-0dfadf46)",
   "links": {
     "primary": "https://github.com/gpsandhu23/jester",
     "repo": "https://github.com/gpsandhu23/jester",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

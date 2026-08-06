@@ -3,8 +3,8 @@
   "name": "us-all/airflow-mcp-server",
   "description": "Airflow MCP for the Airflow 3.x `/api/v2` REST API with JWT auth (SimpleAuthManager). 7 tools (DAG list, runs, task instances, log tails, trigger, clear) plus `dag-health-rollup` aggregation and 2 triage Prompts. Read-only by default; trigger/clear gated by `AIRFLOW_ALLOW_WRITE`.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-us-all-airflow-mcp-server-1ea82346",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-us-all-airflow-mcp-server-1ea82346)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-us-all-airflow-mcp-server-1ea82346",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-us-all-airflow-mcp-server-1ea82346/badge.svg)](https://tensorblock.co/mcp/servers/github-us-all-airflow-mcp-server-1ea82346)",
   "links": {
     "primary": "https://github.com/us-all/airflow-mcp-server",
     "repo": "https://github.com/us-all/airflow-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 7
   }

@@ -3,8 +3,8 @@
   "name": "theposch/gmail-mcp",
   "description": "Facilitates seamless Gmail integration for AI assistants, enabling comprehensive email management through natural language interactions.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-theposch-gmail-mcp-52e65868",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-theposch-gmail-mcp-52e65868)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-theposch-gmail-mcp-52e65868",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-theposch-gmail-mcp-52e65868/badge.svg)](https://tensorblock.co/mcp/servers/github-theposch-gmail-mcp-52e65868)",
   "links": {
     "primary": "https://github.com/theposch/gmail-mcp",
     "repo": "https://github.com/theposch/gmail-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

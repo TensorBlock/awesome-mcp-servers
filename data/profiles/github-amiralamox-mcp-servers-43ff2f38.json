@@ -3,8 +3,8 @@
   "name": "amiralamox/mcp-servers",
   "description": "Facilitates interaction with Jira using JQL queries through MCP for enhanced project management capabilities.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-amiralamox-mcp-servers-43ff2f38",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amiralamox-mcp-servers-43ff2f38)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-amiralamox-mcp-servers-43ff2f38",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-amiralamox-mcp-servers-43ff2f38/badge.svg)](https://tensorblock.co/mcp/servers/github-amiralamox-mcp-servers-43ff2f38)",
   "links": {
     "primary": "https://github.com/amiralamox/mcp-servers",
     "repo": "https://github.com/amiralamox/mcp-servers",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

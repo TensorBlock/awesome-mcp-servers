@@ -3,8 +3,8 @@
   "name": "wenkil/mcp_review_code_tool",
   "description": "A server tool for intelligent code review and analysis using OpenAI's capabilities, based on the Model Context Protocol.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-wenkil-mcp-review-code-tool-6b8fe6f1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wenkil-mcp-review-code-tool-6b8fe6f1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wenkil-mcp-review-code-tool-6b8fe6f1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wenkil-mcp-review-code-tool-6b8fe6f1/badge.svg)](https://tensorblock.co/mcp/servers/github-wenkil-mcp-review-code-tool-6b8fe6f1)",
   "links": {
     "primary": "https://github.com/wenkil/mcp_review_code_tool",
     "repo": "https://github.com/wenkil/mcp_review_code_tool",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

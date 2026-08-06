@@ -1,0 +1,58 @@
+{
+  "id": "github-friendlygeorge-jobber-mcp-server-e96c013f",
+  "name": "friendlygeorge/jobber-mcp-server",
+  "description": "MCP server for Jobber (home services SaaS) — manage clients, jobs, invoices, and quotes via GraphQL API. 8 tools. Requires Jobber API key. Install: `npx -y @supernova123/jobber-mcp-server`. Transport: stdio. License: MIT.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-friendlygeorge-jobber-mcp-server-e96c013f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-friendlygeorge-jobber-mcp-server-e96c013f/badge.svg)](https://tensorblock.co/mcp/servers/github-friendlygeorge-jobber-mcp-server-e96c013f)",
+  "links": {
+    "primary": "https://github.com/friendlygeorge/jobber-mcp-server",
+    "repo": "https://github.com/friendlygeorge/jobber-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y @supernova123/jobber-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "api-key",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": 8
+  }
+}

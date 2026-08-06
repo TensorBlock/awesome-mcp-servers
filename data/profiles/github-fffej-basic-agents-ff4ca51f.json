@@ -3,8 +3,8 @@
   "name": "fffej/basic-agents",
   "description": "A versatile MCP server facilitating command execution and directory management on WSL and Linux systems.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-fffej-basic-agents-ff4ca51f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fffej-basic-agents-ff4ca51f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fffej-basic-agents-ff4ca51f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fffej-basic-agents-ff4ca51f/badge.svg)](https://tensorblock.co/mcp/servers/github-fffej-basic-agents-ff4ca51f)",
   "links": {
     "primary": "https://github.com/fffej/basic-agents",
     "repo": "https://github.com/fffej/basic-agents",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

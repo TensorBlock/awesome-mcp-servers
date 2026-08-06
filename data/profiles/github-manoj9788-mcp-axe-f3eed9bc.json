@@ -3,8 +3,8 @@
   "name": "manoj9788/mcp-axe",
   "description": "Automated accessibility scanning plugin using axe-core, compatible with MCP, supporting Selenium and Playwright engines.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-manoj9788-mcp-axe-f3eed9bc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-manoj9788-mcp-axe-f3eed9bc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-manoj9788-mcp-axe-f3eed9bc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-manoj9788-mcp-axe-f3eed9bc/badge.svg)](https://tensorblock.co/mcp/servers/github-manoj9788-mcp-axe-f3eed9bc)",
   "links": {
     "primary": "https://github.com/manoj9788/mcp-axe",
     "repo": "https://github.com/manoj9788/mcp-axe",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

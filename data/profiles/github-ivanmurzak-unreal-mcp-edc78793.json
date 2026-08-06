@@ -1,0 +1,56 @@
+{
+  "id": "github-ivanmurzak-unreal-mcp-edc78793",
+  "name": "Unreal-MCP",
+  "description": "Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ivanmurzak-unreal-mcp-edc78793",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ivanmurzak-unreal-mcp-edc78793/badge.svg)](https://tensorblock.co/mcp/servers/github-ivanmurzak-unreal-mcp-edc78793)",
+  "links": {
+    "primary": "https://github.com/IvanMurzak/Unreal-MCP",
+    "repo": "https://github.com/IvanMurzak/Unreal-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

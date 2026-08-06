@@ -1,0 +1,56 @@
+{
+  "id": "github-cajusticewatch-mcp-server-964902c4",
+  "name": "cajusticewatch/mcp-server",
+  "description": "California criminal-justice accountability databases as MCP tools — 58 District Attorneys, 196 defenders, 1,620 currently sitting judges, 1,500 officer misconduct records, Commission on Judicial Performance discipline (247 records + semantic full-text search over 250 decision PDFs), 671 POST decertifications. 15 tools, public read-only, no auth, remote at `https://cajusticewatch.com/api/mcp`. Sources: cjp.ca.gov, post.ca.gov, official court rosters, named press coverage.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cajusticewatch-mcp-server-964902c4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cajusticewatch-mcp-server-964902c4/badge.svg)](https://tensorblock.co/mcp/servers/github-cajusticewatch-mcp-server-964902c4)",
+  "links": {
+    "primary": "https://github.com/cajusticewatch/mcp-server",
+    "repo": "https://github.com/cajusticewatch/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://cajusticewatch.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 15
+  }
+}

@@ -3,8 +3,8 @@
   "name": "enesbol/gcp-mcp",
   "description": "A comprehensive MCP server for managing and interacting with Google Cloud Platform services through a standardized interface.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-enesbol-gcp-mcp-5b42edfe",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-enesbol-gcp-mcp-5b42edfe)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-enesbol-gcp-mcp-5b42edfe",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-enesbol-gcp-mcp-5b42edfe/badge.svg)](https://tensorblock.co/mcp/servers/github-enesbol-gcp-mcp-5b42edfe)",
   "links": {
     "primary": "https://github.com/enesbol/gcp-mcp",
     "repo": "https://github.com/enesbol/gcp-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

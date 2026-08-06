@@ -3,8 +3,8 @@
   "name": "BRO3886/mcp-memory-custom",
   "description": "Enhances the Memory server by enabling custom memory paths and timestamping for interactions, facilitating the creation and management of a knowledge graph.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-bro3886-mcp-memory-custom-ea96e7aa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bro3886-mcp-memory-custom-ea96e7aa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bro3886-mcp-memory-custom-ea96e7aa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bro3886-mcp-memory-custom-ea96e7aa/badge.svg)](https://tensorblock.co/mcp/servers/github-bro3886-mcp-memory-custom-ea96e7aa)",
   "links": {
     "primary": "https://github.com/BRO3886/mcp-memory-custom",
     "repo": "https://github.com/BRO3886/mcp-memory-custom",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

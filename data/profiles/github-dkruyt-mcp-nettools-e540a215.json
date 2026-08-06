@@ -3,8 +3,8 @@
   "name": "dkruyt/mcp-nettools",
   "description": "Provides network diagnostics and scanning tools, including DNS queries, SSL analysis, and IP geolocation.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-dkruyt-mcp-nettools-e540a215",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dkruyt-mcp-nettools-e540a215)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dkruyt-mcp-nettools-e540a215",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dkruyt-mcp-nettools-e540a215/badge.svg)](https://tensorblock.co/mcp/servers/github-dkruyt-mcp-nettools-e540a215)",
   "links": {
     "primary": "https://github.com/dkruyt/mcp-nettools",
     "repo": "https://github.com/dkruyt/mcp-nettools",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

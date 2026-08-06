@@ -3,8 +3,8 @@
   "name": "HAERGI-PL/mcp-hello_world",
   "description": "A JavaScript ES Module implementation of the Model Context Protocol, featuring a 'hello_world' tool for personalized greetings, compatible with Claude, Anthropic's AI assistant.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-haergi-pl-mcp-hello-world-2024c577",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-haergi-pl-mcp-hello-world-2024c577)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-haergi-pl-mcp-hello-world-2024c577",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-haergi-pl-mcp-hello-world-2024c577/badge.svg)](https://tensorblock.co/mcp/servers/github-haergi-pl-mcp-hello-world-2024c577)",
   "links": {
     "primary": "https://github.com/HAERGI-PL/mcp-hello_world",
     "repo": "https://github.com/HAERGI-PL/mcp-hello_world",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

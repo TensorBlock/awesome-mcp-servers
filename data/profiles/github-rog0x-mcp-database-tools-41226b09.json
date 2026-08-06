@@ -1,0 +1,56 @@
+{
+  "id": "github-rog0x-mcp-database-tools-41226b09",
+  "name": "rog0x/mcp-database-tools",
+  "description": "Database MCP tools for SQL formatting, schema inspection, and migration workflows. Install from the `@rog0x` npm package family. MIT.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rog0x-mcp-database-tools-41226b09",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rog0x-mcp-database-tools-41226b09/badge.svg)](https://tensorblock.co/mcp/servers/github-rog0x-mcp-database-tools-41226b09)",
+  "links": {
+    "primary": "https://github.com/rog0x/mcp-database-tools",
+    "repo": "https://github.com/rog0x/mcp-database-tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

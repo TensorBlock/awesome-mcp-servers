@@ -3,8 +3,8 @@
   "name": "guolisen/ts_mcp_client",
   "description": "A TypeScript-based client for testing MCP servers with support for multiple LLM providers and tool calling capabilities.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-guolisen-ts-mcp-client-187aae65",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-guolisen-ts-mcp-client-187aae65)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-guolisen-ts-mcp-client-187aae65",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-guolisen-ts-mcp-client-187aae65/badge.svg)](https://tensorblock.co/mcp/servers/github-guolisen-ts-mcp-client-187aae65)",
   "links": {
     "primary": "https://github.com/guolisen/ts_mcp_client",
     "repo": "https://github.com/guolisen/ts_mcp_client",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

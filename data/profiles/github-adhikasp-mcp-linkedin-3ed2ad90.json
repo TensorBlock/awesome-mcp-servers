@@ -3,8 +3,8 @@
   "name": "adhikasp/mcp-linkedin",
   "description": "Facilitates interaction with LinkedIn's Feeds and Job API using unofficial LinkedIn API tools.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-adhikasp-mcp-linkedin-3ed2ad90",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adhikasp-mcp-linkedin-3ed2ad90)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-adhikasp-mcp-linkedin-3ed2ad90",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-adhikasp-mcp-linkedin-3ed2ad90/badge.svg)](https://tensorblock.co/mcp/servers/github-adhikasp-mcp-linkedin-3ed2ad90)",
   "links": {
     "primary": "https://github.com/adhikasp/mcp-linkedin",
     "repo": "https://github.com/adhikasp/mcp-linkedin",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

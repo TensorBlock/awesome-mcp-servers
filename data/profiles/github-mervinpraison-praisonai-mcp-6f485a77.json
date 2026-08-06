@@ -3,8 +3,8 @@
   "name": "MervinPraison/praisonai-mcp",
   "description": "An AI Agents framework providing 64+ built-in MCP tools for search, memory management, workflow orchestration, code execution, and file operations. Install via uvx praisonai-mcp.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-mervinpraison-praisonai-mcp-6f485a77",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mervinpraison-praisonai-mcp-6f485a77)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mervinpraison-praisonai-mcp-6f485a77",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mervinpraison-praisonai-mcp-6f485a77/badge.svg)](https://tensorblock.co/mcp/servers/github-mervinpraison-praisonai-mcp-6f485a77)",
   "links": {
     "primary": "https://github.com/MervinPraison/praisonai-mcp",
     "repo": "https://github.com/MervinPraison/praisonai-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

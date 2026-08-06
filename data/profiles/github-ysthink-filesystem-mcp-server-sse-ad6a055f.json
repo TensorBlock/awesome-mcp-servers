@@ -3,8 +3,8 @@
   "name": "ysthink/Filesystem-MCP-Server-SSE",
   "description": "Facilitates filesystem operations through a Node.js server using SSE for efficient file management and directory handling.",
   "category": "Filesystems",
-  "profileUrl": "https://tensorblock.co/mcp/github-ysthink-filesystem-mcp-server-sse-ad6a055f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ysthink-filesystem-mcp-server-sse-ad6a055f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ysthink-filesystem-mcp-server-sse-ad6a055f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ysthink-filesystem-mcp-server-sse-ad6a055f/badge.svg)](https://tensorblock.co/mcp/servers/github-ysthink-filesystem-mcp-server-sse-ad6a055f)",
   "links": {
     "primary": "https://github.com/ysthink/Filesystem-MCP-Server-SSE",
     "repo": "https://github.com/ysthink/Filesystem-MCP-Server-SSE",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

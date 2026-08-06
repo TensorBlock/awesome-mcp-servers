@@ -3,8 +3,8 @@
   "name": "HZreal/mcp-weather-server",
   "description": "Provides weather data integration for Claude using the MCP protocol.",
   "category": "Location & Maps",
-  "profileUrl": "https://tensorblock.co/mcp/github-hzreal-mcp-weather-server-b99c8b77",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hzreal-mcp-weather-server-b99c8b77)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hzreal-mcp-weather-server-b99c8b77",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hzreal-mcp-weather-server-b99c8b77/badge.svg)](https://tensorblock.co/mcp/servers/github-hzreal-mcp-weather-server-b99c8b77)",
   "links": {
     "primary": "https://github.com/HZreal/mcp-weather-server",
     "repo": "https://github.com/HZreal/mcp-weather-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

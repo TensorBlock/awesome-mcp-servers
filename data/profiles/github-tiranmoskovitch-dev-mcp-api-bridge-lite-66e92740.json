@@ -1,0 +1,58 @@
+{
+  "id": "github-tiranmoskovitch-dev-mcp-api-bridge-lite-66e92740",
+  "name": "tiranmoskovitch-dev/mcp-api-bridge-lite",
+  "description": "REST API to MCP bridge that converts YAML API definitions into MCP tools with support for common HTTP methods, authentication, headers, and parameter mapping. Install: `pip install mcp-api-bridge-lite`. MIT.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tiranmoskovitch-dev-mcp-api-bridge-lite-66e92740",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tiranmoskovitch-dev-mcp-api-bridge-lite-66e92740/badge.svg)](https://tensorblock.co/mcp/servers/github-tiranmoskovitch-dev-mcp-api-bridge-lite-66e92740)",
+  "links": {
+    "primary": "https://github.com/tiranmoskovitch-dev/mcp-api-bridge-lite",
+    "repo": "https://github.com/tiranmoskovitch-dev/mcp-api-bridge-lite",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "pip install mcp-api-bridge-lite"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

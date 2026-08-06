@@ -1,0 +1,56 @@
+{
+  "id": "github-daedalus-mcp-pyright-9a13278c",
+  "name": "daedalus/mcp-pyright",
+  "description": "MCP server that exposes Pyright language server functionality.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-daedalus-mcp-pyright-9a13278c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-daedalus-mcp-pyright-9a13278c/badge.svg)](https://tensorblock.co/mcp/servers/github-daedalus-mcp-pyright-9a13278c)",
+  "links": {
+    "primary": "https://github.com/daedalus/mcp-pyright",
+    "repo": "https://github.com/daedalus/mcp-pyright",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

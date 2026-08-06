@@ -3,8 +3,8 @@
   "name": "granthooks/Nocodb-MCP-Server",
   "description": "Facilitates CRUD operations on Nocodb databases via the Model Context Protocol, ensuring seamless integration and management of database records.",
   "category": "Content Management Systems",
-  "profileUrl": "https://tensorblock.co/mcp/github-granthooks-nocodb-mcp-server-6e0e2c94",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-granthooks-nocodb-mcp-server-6e0e2c94)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-granthooks-nocodb-mcp-server-6e0e2c94",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-granthooks-nocodb-mcp-server-6e0e2c94/badge.svg)](https://tensorblock.co/mcp/servers/github-granthooks-nocodb-mcp-server-6e0e2c94)",
   "links": {
     "primary": "https://github.com/granthooks/Nocodb-MCP-Server",
     "repo": "https://github.com/granthooks/Nocodb-MCP-Server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "kimtaeyoon83/mcp-server-youtube-transcript",
   "description": "Facilitates direct transcript retrieval from YouTube videos with language-specific options.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-kimtaeyoon83-mcp-server-youtube-transcript-b459296b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kimtaeyoon83-mcp-server-youtube-transcript-b459296b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kimtaeyoon83-mcp-server-youtube-transcript-b459296b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kimtaeyoon83-mcp-server-youtube-transcript-b459296b/badge.svg)](https://tensorblock.co/mcp/servers/github-kimtaeyoon83-mcp-server-youtube-transcript-b459296b)",
   "links": {
     "primary": "https://github.com/kimtaeyoon83/mcp-server-youtube-transcript",
     "repo": "https://github.com/kimtaeyoon83/mcp-server-youtube-transcript",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

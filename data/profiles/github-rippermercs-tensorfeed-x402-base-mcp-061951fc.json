@@ -3,8 +3,8 @@
   "name": "RipperMercs/tensorfeed-x402-base-mcp",
   "description": "Read-only Base mainnet chain reader for x402 payment verification. 11 tools: verify on-chain that a USDC settlement matches a claimed x402 receipt (recipient + amount), parse publisher `/.well-known/x402` manifests, list recent USDC payments to an address, check AFTA federation status, plus generic Base reads (balance, usdc_balance, get_tx_receipt, call, recent_transfers). No private keys, no signing, no broadcasts. MIT, published with cryptographic provenance via OIDC. Install: `npx -y @tensorfeed/x402-base-mcp`.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-rippermercs-tensorfeed-x402-base-mcp-061951fc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rippermercs-tensorfeed-x402-base-mcp-061951fc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rippermercs-tensorfeed-x402-base-mcp-061951fc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rippermercs-tensorfeed-x402-base-mcp-061951fc/badge.svg)](https://tensorblock.co/mcp/servers/github-rippermercs-tensorfeed-x402-base-mcp-061951fc)",
   "links": {
     "primary": "https://github.com/RipperMercs/tensorfeed-x402-base-mcp",
     "repo": "https://github.com/RipperMercs/tensorfeed-x402-base-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx -y @tensorfeed/x402-base-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 11
   }

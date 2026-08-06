@@ -3,8 +3,8 @@
   "name": "elienaibh/mcp-clone-c",
   "description": "A proxy MCP server facilitating integration between Claude and JetBrains IDEs, enabling seamless client request redirection.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-elienaibh-mcp-clone-c-76e0a389",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elienaibh-mcp-clone-c-76e0a389)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-elienaibh-mcp-clone-c-76e0a389",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-elienaibh-mcp-clone-c-76e0a389/badge.svg)](https://tensorblock.co/mcp/servers/github-elienaibh-mcp-clone-c-76e0a389)",
   "links": {
     "primary": "https://github.com/elienaibh/mcp-clone-c",
     "repo": "https://github.com/elienaibh/mcp-clone-c",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

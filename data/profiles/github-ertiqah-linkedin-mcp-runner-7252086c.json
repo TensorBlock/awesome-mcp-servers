@@ -3,8 +3,8 @@
   "name": "ertiqah/linkedin-mcp-runner",
   "description": "Facilitates LinkedIn and Twitter post scheduling and publishing via the Claude Desktop Application.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-ertiqah-linkedin-mcp-runner-7252086c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ertiqah-linkedin-mcp-runner-7252086c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ertiqah-linkedin-mcp-runner-7252086c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ertiqah-linkedin-mcp-runner-7252086c/badge.svg)](https://tensorblock.co/mcp/servers/github-ertiqah-linkedin-mcp-runner-7252086c)",
   "links": {
     "primary": "https://github.com/ertiqah/linkedin-mcp-runner",
     "repo": "https://github.com/ertiqah/linkedin-mcp-runner",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

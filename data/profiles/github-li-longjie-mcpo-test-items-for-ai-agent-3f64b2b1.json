@@ -3,8 +3,8 @@
   "name": "li-longjie/mcpo-Test-items_for-ai_agent",
   "description": "MCPO seamlessly transforms MCP tools into OpenAPI-compliant HTTP servers, enabling standardized access to services like time queries and web content retrieval within a Flask-based chat system.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-li-longjie-mcpo-test-items-for-ai-agent-3f64b2b1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-li-longjie-mcpo-test-items-for-ai-agent-3f64b2b1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-li-longjie-mcpo-test-items-for-ai-agent-3f64b2b1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-li-longjie-mcpo-test-items-for-ai-agent-3f64b2b1/badge.svg)](https://tensorblock.co/mcp/servers/github-li-longjie-mcpo-test-items-for-ai-agent-3f64b2b1)",
   "links": {
     "primary": "https://github.com/li-longjie/mcpo-Test-items_for-ai_agent",
     "repo": "https://github.com/li-longjie/mcpo-Test-items_for-ai_agent",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

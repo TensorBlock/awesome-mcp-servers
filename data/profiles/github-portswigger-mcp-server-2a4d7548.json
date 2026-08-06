@@ -3,8 +3,8 @@
   "name": "PortSwigger/mcp-server",
   "description": "Integrates Burp Suite with AI clients using the Model Context Protocol, featuring automatic installation for Claude Desktop and a packaged Stdio MCP proxy server.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-portswigger-mcp-server-2a4d7548",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-portswigger-mcp-server-2a4d7548)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-portswigger-mcp-server-2a4d7548",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-portswigger-mcp-server-2a4d7548/badge.svg)](https://tensorblock.co/mcp/servers/github-portswigger-mcp-server-2a4d7548)",
   "links": {
     "primary": "https://github.com/PortSwigger/mcp-server",
     "repo": "https://github.com/PortSwigger/mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "stdio"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

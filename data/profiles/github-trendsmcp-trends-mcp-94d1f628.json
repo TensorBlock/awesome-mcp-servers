@@ -3,8 +3,8 @@
   "name": "trendsmcp/trends-mcp",
   "description": "Real-time trend data from Google Trends (Search, Images, News, Shopping), YouTube, TikTok, Reddit, Amazon, Wikipedia, npm, Steam, Spotify, X (Twitter), App Store, Google Play, web traffic, and news sentiment via one MCP connection. Works with Claude, Cursor, VS Code, Windsurf, ChatGPT, and any MCP-compatible AI. Free API key, 20 requests/day.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-trendsmcp-trends-mcp-94d1f628",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-trendsmcp-trends-mcp-94d1f628)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-trendsmcp-trends-mcp-94d1f628",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-trendsmcp-trends-mcp-94d1f628/badge.svg)](https://tensorblock.co/mcp/servers/github-trendsmcp-trends-mcp-94d1f628)",
   "links": {
     "primary": "https://github.com/trendsmcp/trends-mcp",
     "repo": "https://github.com/trendsmcp/trends-mcp",
@@ -12,12 +12,48 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "api-key",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

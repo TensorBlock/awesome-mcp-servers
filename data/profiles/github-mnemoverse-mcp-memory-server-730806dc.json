@@ -1,0 +1,62 @@
+{
+  "id": "github-mnemoverse-mcp-memory-server-730806dc",
+  "name": "mnemoverse/mcp-memory-server",
+  "description": "Hosted persistent-memory API for AI agents — feedback re-ranks what helps and recall fades by recency, shared across Claude, Cursor, VS Code, and ChatGPT. Install: `npx -y @mnemoverse/mcp-memory-server@latest`. Transport: stdio.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mnemoverse-mcp-memory-server-730806dc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mnemoverse-mcp-memory-server-730806dc/badge.svg)](https://tensorblock.co/mcp/servers/github-mnemoverse-mcp-memory-server-730806dc)",
+  "links": {
+    "primary": "https://github.com/mnemoverse/mcp-memory-server",
+    "repo": "https://github.com/mnemoverse/mcp-memory-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y @mnemoverse/mcp-memory-server@latest"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "RollandMELET/mcp-qdrant-docker",
   "description": "Facilitates access to a Qdrant vector database via a Docker-deployed MCP server, enabling integration with Claude.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-rollandmelet-mcp-qdrant-docker-c87c7fa2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rollandmelet-mcp-qdrant-docker-c87c7fa2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rollandmelet-mcp-qdrant-docker-c87c7fa2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rollandmelet-mcp-qdrant-docker-c87c7fa2/badge.svg)](https://tensorblock.co/mcp/servers/github-rollandmelet-mcp-qdrant-docker-c87c7fa2)",
   "links": {
     "primary": "https://github.com/RollandMELET/mcp-qdrant-docker",
     "repo": "https://github.com/RollandMELET/mcp-qdrant-docker",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

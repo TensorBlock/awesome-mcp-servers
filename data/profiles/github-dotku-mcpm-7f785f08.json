@@ -3,8 +3,8 @@
   "name": "dotku/mcpm",
   "description": "Manage and configure multiple MCP servers with ease, supporting filesystem operations and SSE server integration.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-dotku-mcpm-7f785f08",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dotku-mcpm-7f785f08)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dotku-mcpm-7f785f08",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dotku-mcpm-7f785f08/badge.svg)](https://tensorblock.co/mcp/servers/github-dotku-mcpm-7f785f08)",
   "links": {
     "primary": "https://github.com/dotku/mcpm",
     "repo": "https://github.com/dotku/mcpm",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

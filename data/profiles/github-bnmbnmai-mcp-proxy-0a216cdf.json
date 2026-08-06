@@ -3,8 +3,8 @@
   "name": "bnmbnmai/mcp-proxy",
   "description": "Apollo Intelligence MCP Server — 21 tools for AI agents including real-time crypto prices, trending tokens, web scraping via 190+ country residential proxy network, market sentiment, agentic trends, and curated intelligence feeds. Pay-per-request via x402 micropayments (USDC on Base). Install: `npm i -g @apollo_ai/mcp-proxy`",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-bnmbnmai-mcp-proxy-0a216cdf",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bnmbnmai-mcp-proxy-0a216cdf)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bnmbnmai-mcp-proxy-0a216cdf",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bnmbnmai-mcp-proxy-0a216cdf/badge.svg)](https://tensorblock.co/mcp/servers/github-bnmbnmai-mcp-proxy-0a216cdf)",
   "links": {
     "primary": "https://github.com/bnmbnmai/mcp-proxy",
     "repo": "https://github.com/bnmbnmai/mcp-proxy",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npm i -g @apollo_ai/mcp-proxy"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 21
   }

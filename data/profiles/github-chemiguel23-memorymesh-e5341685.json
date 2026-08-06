@@ -3,8 +3,8 @@
   "name": "CheMiguel23/MemoryMesh",
   "description": "MemoryMesh is a knowledge graph server that leverages MCP to provide structured memory persistence for AI models, enhancing dynamic interactions in text-based RPGs and other applications.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-chemiguel23-memorymesh-e5341685",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chemiguel23-memorymesh-e5341685)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-chemiguel23-memorymesh-e5341685",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-chemiguel23-memorymesh-e5341685/badge.svg)](https://tensorblock.co/mcp/servers/github-chemiguel23-memorymesh-e5341685)",
   "links": {
     "primary": "https://github.com/CheMiguel23/MemoryMesh",
     "repo": "https://github.com/CheMiguel23/MemoryMesh",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

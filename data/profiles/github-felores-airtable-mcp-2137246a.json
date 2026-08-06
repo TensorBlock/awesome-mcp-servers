@@ -3,8 +3,8 @@
   "name": "felores/airtable-mcp",
   "description": "Facilitates seamless interaction with Airtable's API for managing bases, tables, fields, and records through Claude Desktop and other MCP clients.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-felores-airtable-mcp-2137246a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-felores-airtable-mcp-2137246a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-felores-airtable-mcp-2137246a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-felores-airtable-mcp-2137246a/badge.svg)](https://tensorblock.co/mcp/servers/github-felores-airtable-mcp-2137246a)",
   "links": {
     "primary": "https://github.com/felores/airtable-mcp",
     "repo": "https://github.com/felores/airtable-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

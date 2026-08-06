@@ -3,8 +3,8 @@
   "name": "Lee-1024/mcp-glances",
   "description": "Integrates MCP with LLMs to analyze server monitoring data via Glances API, providing real-time system status feedback.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-lee-1024-mcp-glances-3c93c27c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lee-1024-mcp-glances-3c93c27c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lee-1024-mcp-glances-3c93c27c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lee-1024-mcp-glances-3c93c27c/badge.svg)](https://tensorblock.co/mcp/servers/github-lee-1024-mcp-glances-3c93c27c)",
   "links": {
     "primary": "https://github.com/Lee-1024/mcp-glances",
     "repo": "https://github.com/Lee-1024/mcp-glances",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

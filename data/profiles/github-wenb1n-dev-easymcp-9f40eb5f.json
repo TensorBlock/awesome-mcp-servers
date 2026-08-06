@@ -3,14 +3,46 @@
   "name": "wenb1n-dev/easyMcp",
   "description": "Facilitates rapid development of extensible MCP server frameworks with support for stdio and SSE modes.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-wenb1n-dev-easymcp-9f40eb5f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wenb1n-dev-easymcp-9f40eb5f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wenb1n-dev-easymcp-9f40eb5f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wenb1n-dev-easymcp-9f40eb5f/badge.svg)](https://tensorblock.co/mcp/servers/github-wenb1n-dev-easymcp-9f40eb5f)",
   "links": {
     "primary": "https://github.com/wenb1n-dev/easyMcp",
     "repo": "https://github.com/wenb1n-dev/easyMcp",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

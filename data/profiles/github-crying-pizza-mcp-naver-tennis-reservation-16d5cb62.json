@@ -3,8 +3,8 @@
   "name": "crying-pizza/mcp-naver-tennis-reservation",
   "description": "Facilitates automated checking of available time slots at Yangjae Tennis Court via Naver Reservation using Claude integration.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-crying-pizza-mcp-naver-tennis-reservation-16d5cb62",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-crying-pizza-mcp-naver-tennis-reservation-16d5cb62)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-crying-pizza-mcp-naver-tennis-reservation-16d5cb62",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-crying-pizza-mcp-naver-tennis-reservation-16d5cb62/badge.svg)](https://tensorblock.co/mcp/servers/github-crying-pizza-mcp-naver-tennis-reservation-16d5cb62)",
   "links": {
     "primary": "https://github.com/crying-pizza/mcp-naver-tennis-reservation",
     "repo": "https://github.com/crying-pizza/mcp-naver-tennis-reservation",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

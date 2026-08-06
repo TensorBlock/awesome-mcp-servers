@@ -3,8 +3,8 @@
   "name": "ywateru/mcp-gateway",
   "description": "A Golang-based gateway that exposes MCP services via HTTP API for external applications, supporting concurrent requests to multiple MCP servers.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-ywateru-mcp-gateway-b0653702",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ywateru-mcp-gateway-b0653702)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ywateru-mcp-gateway-b0653702",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ywateru-mcp-gateway-b0653702/badge.svg)](https://tensorblock.co/mcp/servers/github-ywateru-mcp-gateway-b0653702)",
   "links": {
     "primary": "https://github.com/ywateru/mcp-gateway",
     "repo": "https://github.com/ywateru/mcp-gateway",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "TheApeMachine/mcp-server-devops-bridge",
   "description": "A sophisticated bridge connecting DevOps tools with AI capabilities, enabling seamless integration and autonomous workflows across platforms like Azure DevOps, GitHub, and Slack.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-theapemachine-mcp-server-devops-bridge-7c8830bc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-theapemachine-mcp-server-devops-bridge-7c8830bc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-theapemachine-mcp-server-devops-bridge-7c8830bc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-theapemachine-mcp-server-devops-bridge-7c8830bc/badge.svg)](https://tensorblock.co/mcp/servers/github-theapemachine-mcp-server-devops-bridge-7c8830bc)",
   "links": {
     "primary": "https://github.com/TheApeMachine/mcp-server-devops-bridge",
     "repo": "https://github.com/TheApeMachine/mcp-server-devops-bridge",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

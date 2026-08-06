@@ -1,0 +1,58 @@
+{
+  "id": "github-steffd415-clawvr-mcp-server-3512dc40",
+  "name": "Steffd415/clawvr-mcp-server",
+  "description": "Generate custom AI Operating Systems for any small business across 13+ verticals (dental, salon, restaurant, contractor, real estate, vet, photographer, fitness, insurance, CPA, law, HVAC, general SMB). Auto-detects the vertical from a business description, returns master prompt + workflow superprompts + 30-day deployment roadmap. Built for the Claude for Small Business ecosystem. MIT licensed.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-steffd415-clawvr-mcp-server-3512dc40",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-steffd415-clawvr-mcp-server-3512dc40/badge.svg)](https://tensorblock.co/mcp/servers/github-steffd415-clawvr-mcp-server-3512dc40)",
+  "links": {
+    "primary": "https://github.com/Steffd415/clawvr-mcp-server",
+    "repo": "https://github.com/Steffd415/clawvr-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

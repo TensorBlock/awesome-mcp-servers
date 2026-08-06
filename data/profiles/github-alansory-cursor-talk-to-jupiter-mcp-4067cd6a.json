@@ -3,8 +3,8 @@
   "name": "alansory/cursor-talk-to-jupiter-mcp",
   "description": "Facilitates DeFi operations on Solana by integrating Jupiter Exchange with Cursor IDE for seamless token swaps, price quotes, and profit/loss calculations.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-alansory-cursor-talk-to-jupiter-mcp-4067cd6a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alansory-cursor-talk-to-jupiter-mcp-4067cd6a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-alansory-cursor-talk-to-jupiter-mcp-4067cd6a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-alansory-cursor-talk-to-jupiter-mcp-4067cd6a/badge.svg)](https://tensorblock.co/mcp/servers/github-alansory-cursor-talk-to-jupiter-mcp-4067cd6a)",
   "links": {
     "primary": "https://github.com/alansory/cursor-talk-to-jupiter-mcp",
     "repo": "https://github.com/alansory/cursor-talk-to-jupiter-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "atamaplus-public/mcp-bigquery",
   "description": "Facilitates AI assistants in executing SQL queries and accessing BigQuery data securely through natural language commands.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-atamaplus-public-mcp-bigquery-6db77c9d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-atamaplus-public-mcp-bigquery-6db77c9d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-atamaplus-public-mcp-bigquery-6db77c9d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-atamaplus-public-mcp-bigquery-6db77c9d/badge.svg)](https://tensorblock.co/mcp/servers/github-atamaplus-public-mcp-bigquery-6db77c9d)",
   "links": {
     "primary": "https://github.com/atamaplus-public/mcp-bigquery",
     "repo": "https://github.com/atamaplus-public/mcp-bigquery",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

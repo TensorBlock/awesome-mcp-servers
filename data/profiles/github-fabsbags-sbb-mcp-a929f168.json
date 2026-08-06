@@ -3,8 +3,8 @@
   "name": "Fabsbags/sbb-mcp",
   "description": "Swiss Federal Railways (SBB/CFF/FFS) MCP server with real-time train schedules, ticket prices with Half-Fare/GA support, and direct purchase links via the official SBB SMAPI.",
   "category": "Travel & Transportation",
-  "profileUrl": "https://tensorblock.co/mcp/github-fabsbags-sbb-mcp-a929f168",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fabsbags-sbb-mcp-a929f168)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fabsbags-sbb-mcp-a929f168",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fabsbags-sbb-mcp-a929f168/badge.svg)](https://tensorblock.co/mcp/servers/github-fabsbags-sbb-mcp-a929f168)",
   "links": {
     "primary": "https://github.com/Fabsbags/sbb-mcp",
     "repo": "https://github.com/Fabsbags/sbb-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

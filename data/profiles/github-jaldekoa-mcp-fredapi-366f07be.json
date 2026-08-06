@@ -3,8 +3,8 @@
   "name": "Jaldekoa/mcp-fredapi",
   "description": "Integrates FRED economic data with MCP for seamless AI-driven data retrieval.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-jaldekoa-mcp-fredapi-366f07be",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jaldekoa-mcp-fredapi-366f07be)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jaldekoa-mcp-fredapi-366f07be",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jaldekoa-mcp-fredapi-366f07be/badge.svg)](https://tensorblock.co/mcp/servers/github-jaldekoa-mcp-fredapi-366f07be)",
   "links": {
     "primary": "https://github.com/Jaldekoa/mcp-fredapi",
     "repo": "https://github.com/Jaldekoa/mcp-fredapi",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

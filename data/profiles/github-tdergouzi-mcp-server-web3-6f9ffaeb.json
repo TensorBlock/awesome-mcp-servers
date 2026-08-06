@@ -3,8 +3,8 @@
   "name": "tdergouzi/mcp-server-web3",
   "description": "A Web3 function plugin server leveraging Anthropic's MCP framework for seamless integration with Claude clients.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-tdergouzi-mcp-server-web3-6f9ffaeb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tdergouzi-mcp-server-web3-6f9ffaeb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tdergouzi-mcp-server-web3-6f9ffaeb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tdergouzi-mcp-server-web3-6f9ffaeb/badge.svg)](https://tensorblock.co/mcp/servers/github-tdergouzi-mcp-server-web3-6f9ffaeb)",
   "links": {
     "primary": "https://github.com/tdergouzi/mcp-server-web3",
     "repo": "https://github.com/tdergouzi/mcp-server-web3",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "stareing/MCP_Calculator",
   "description": "A versatile MCP server offering a calculator module with extensive decorator support for tool, prompt, and resource registration.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-stareing-mcp-calculator-827332c4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stareing-mcp-calculator-827332c4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-stareing-mcp-calculator-827332c4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stareing-mcp-calculator-827332c4/badge.svg)](https://tensorblock.co/mcp/servers/github-stareing-mcp-calculator-827332c4)",
   "links": {
     "primary": "https://github.com/stareing/MCP_Calculator",
     "repo": "https://github.com/stareing/MCP_Calculator",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

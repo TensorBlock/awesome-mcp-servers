@@ -3,8 +3,8 @@
   "name": "An-3/mcp-audacity",
   "description": "Facilitates remote control of Audacity through MCP endpoints using named pipes and the mod-script-pipe interface.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-an-3-mcp-audacity-42cd7848",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-an-3-mcp-audacity-42cd7848)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-an-3-mcp-audacity-42cd7848",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-an-3-mcp-audacity-42cd7848/badge.svg)](https://tensorblock.co/mcp/servers/github-an-3-mcp-audacity-42cd7848)",
   "links": {
     "primary": "https://github.com/An-3/mcp-audacity",
     "repo": "https://github.com/An-3/mcp-audacity",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

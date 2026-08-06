@@ -3,8 +3,8 @@
   "name": "nicekate/flux-dev-mcp",
   "description": "A Model Context Protocol server leveraging the Duannao Cloud Flux API to deliver robust AI capabilities.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-nicekate-flux-dev-mcp-a2a785be",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nicekate-flux-dev-mcp-a2a785be)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nicekate-flux-dev-mcp-a2a785be",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nicekate-flux-dev-mcp-a2a785be/badge.svg)](https://tensorblock.co/mcp/servers/github-nicekate-flux-dev-mcp-a2a785be)",
   "links": {
     "primary": "https://github.com/nicekate/flux-dev-mcp",
     "repo": "https://github.com/nicekate/flux-dev-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

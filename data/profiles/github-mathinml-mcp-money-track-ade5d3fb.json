@@ -3,8 +3,8 @@
   "name": "mathinml/mcp_money_track",
   "description": "Tracks and manages financial transactions using a customizable MCP server setup.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-mathinml-mcp-money-track-ade5d3fb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mathinml-mcp-money-track-ade5d3fb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mathinml-mcp-money-track-ade5d3fb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mathinml-mcp-money-track-ade5d3fb/badge.svg)](https://tensorblock.co/mcp/servers/github-mathinml-mcp-money-track-ade5d3fb)",
   "links": {
     "primary": "https://github.com/mathinml/mcp_money_track",
     "repo": "https://github.com/mathinml/mcp_money_track",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

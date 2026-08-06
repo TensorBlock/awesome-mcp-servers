@@ -3,8 +3,8 @@
   "name": "Rul1an/assay",
   "description": "The firewall for MCP tool calls — policy enforcement proxy with allow/deny/constraints, replayable evidence bundles, and OWASP MCP Top 10 coverage. Run via `assay mcp wrap --policy X -- npx server`.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-rul1an-assay-c358eda1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rul1an-assay-c358eda1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rul1an-assay-c358eda1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rul1an-assay-c358eda1/badge.svg)](https://tensorblock.co/mcp/servers/github-rul1an-assay-c358eda1)",
   "links": {
     "primary": "https://github.com/Rul1an/assay",
     "repo": "https://github.com/Rul1an/assay",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "assay mcp wrap --policy X -- npx server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

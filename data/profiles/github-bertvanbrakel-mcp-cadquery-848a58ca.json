@@ -3,14 +3,47 @@
   "name": "bertvanbrakel/mcp-cadquery",
   "description": "Facilitates CadQuery script execution and model management via MCP, offering both HTTP SSE and Stdio modes for client integration.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-bertvanbrakel-mcp-cadquery-848a58ca",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bertvanbrakel-mcp-cadquery-848a58ca)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bertvanbrakel-mcp-cadquery-848a58ca",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bertvanbrakel-mcp-cadquery-848a58ca/badge.svg)](https://tensorblock.co/mcp/servers/github-bertvanbrakel-mcp-cadquery-848a58ca)",
   "links": {
     "primary": "https://github.com/bertvanbrakel/mcp-cadquery",
     "repo": "https://github.com/bertvanbrakel/mcp-cadquery",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -20,6 +53,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

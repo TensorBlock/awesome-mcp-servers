@@ -3,8 +3,8 @@
   "name": "teamsincetoday/newsletter-commerce-mcp",
   "description": "Extracts shoppable products and sponsor mentions from newsletter editions using AI-powered content intelligence. Generates affiliate-ready product sections for newsletters.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-teamsincetoday-newsletter-commerce-mcp-0f447ae6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-teamsincetoday-newsletter-commerce-mcp-0f447ae6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-teamsincetoday-newsletter-commerce-mcp-0f447ae6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-teamsincetoday-newsletter-commerce-mcp-0f447ae6/badge.svg)](https://tensorblock.co/mcp/servers/github-teamsincetoday-newsletter-commerce-mcp-0f447ae6)",
   "links": {
     "primary": "https://github.com/teamsincetoday/newsletter-commerce-mcp",
     "repo": "https://github.com/teamsincetoday/newsletter-commerce-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

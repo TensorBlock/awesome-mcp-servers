@@ -1,0 +1,58 @@
+{
+  "id": "github-kame6493-del-mcp-diagnostics-67b38225",
+  "name": "kame6493-del/mcp-diagnostics",
+  "description": "Website diagnostics MCP server for DNS, SSL, HTTP headers, security audit grading, WHOIS, and technology-stack checks. Install: `npx mcp-diagnostics`. No API keys required.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kame6493-del-mcp-diagnostics-67b38225",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kame6493-del-mcp-diagnostics-67b38225/badge.svg)](https://tensorblock.co/mcp/servers/github-kame6493-del-mcp-diagnostics-67b38225)",
+  "links": {
+    "primary": "https://github.com/kame6493-del/mcp-diagnostics",
+    "repo": "https://github.com/kame6493-del/mcp-diagnostics",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx mcp-diagnostics"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

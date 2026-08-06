@@ -3,8 +3,8 @@
   "name": "zhongmingyuan/mcp-my-mac",
   "description": "A lightweight server that provides real-time Mac system information via a simple API for AI assistants like Claude.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-zhongmingyuan-mcp-my-mac-9756d9c2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zhongmingyuan-mcp-my-mac-9756d9c2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zhongmingyuan-mcp-my-mac-9756d9c2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zhongmingyuan-mcp-my-mac-9756d9c2/badge.svg)](https://tensorblock.co/mcp/servers/github-zhongmingyuan-mcp-my-mac-9756d9c2)",
   "links": {
     "primary": "https://github.com/zhongmingyuan/mcp-my-mac",
     "repo": "https://github.com/zhongmingyuan/mcp-my-mac",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

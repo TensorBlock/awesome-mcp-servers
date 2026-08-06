@@ -3,8 +3,8 @@
   "name": "alexandreroman/mcp-chess",
   "description": "Enhance Claude AI's chess capabilities with move suggestions, legality checks, and board visualization.",
   "category": "Gaming",
-  "profileUrl": "https://tensorblock.co/mcp/github-alexandreroman-mcp-chess-b2e7cffc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexandreroman-mcp-chess-b2e7cffc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-alexandreroman-mcp-chess-b2e7cffc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-alexandreroman-mcp-chess-b2e7cffc/badge.svg)](https://tensorblock.co/mcp/servers/github-alexandreroman-mcp-chess-b2e7cffc)",
   "links": {
     "primary": "https://github.com/alexandreroman/mcp-chess",
     "repo": "https://github.com/alexandreroman/mcp-chess",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

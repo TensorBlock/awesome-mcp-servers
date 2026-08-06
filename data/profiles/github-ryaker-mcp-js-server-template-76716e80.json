@@ -3,8 +3,8 @@
   "name": "ryaker/MCP-JS-Server-Template",
   "description": "A streamlined Node.js template for developing custom MCP servers with integration capabilities for Claude Desktop.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-ryaker-mcp-js-server-template-76716e80",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ryaker-mcp-js-server-template-76716e80)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ryaker-mcp-js-server-template-76716e80",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ryaker-mcp-js-server-template-76716e80/badge.svg)](https://tensorblock.co/mcp/servers/github-ryaker-mcp-js-server-template-76716e80)",
   "links": {
     "primary": "https://github.com/ryaker/MCP-JS-Server-Template",
     "repo": "https://github.com/ryaker/MCP-JS-Server-Template",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

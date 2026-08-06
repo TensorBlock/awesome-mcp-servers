@@ -3,8 +3,8 @@
   "name": "sjzar/chatlog",
   "description": "A tool for accessing and managing personal chat data with seamless integration into AI assistants via the MCP SSE protocol.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-sjzar-chatlog-b7bfab80",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sjzar-chatlog-b7bfab80)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sjzar-chatlog-b7bfab80",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sjzar-chatlog-b7bfab80/badge.svg)](https://tensorblock.co/mcp/servers/github-sjzar-chatlog-b7bfab80)",
   "links": {
     "primary": "https://github.com/sjzar/chatlog",
     "repo": "https://github.com/sjzar/chatlog",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

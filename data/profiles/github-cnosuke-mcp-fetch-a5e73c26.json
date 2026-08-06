@@ -3,8 +3,8 @@
   "name": "cnosuke/mcp-fetch",
   "description": "A Go-based server that fetches and converts URL content to Markdown, enhancing readability for MCP clients.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-cnosuke-mcp-fetch-a5e73c26",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cnosuke-mcp-fetch-a5e73c26)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cnosuke-mcp-fetch-a5e73c26",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cnosuke-mcp-fetch-a5e73c26/badge.svg)](https://tensorblock.co/mcp/servers/github-cnosuke-mcp-fetch-a5e73c26)",
   "links": {
     "primary": "https://github.com/cnosuke/mcp-fetch",
     "repo": "https://github.com/cnosuke/mcp-fetch",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

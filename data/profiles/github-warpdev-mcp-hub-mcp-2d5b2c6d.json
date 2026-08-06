@@ -3,8 +3,8 @@
   "name": "warpdev/mcp-hub-mcp",
   "description": "A hub server that connects and manages multiple MCP servers, facilitating tool execution and management beyond Cursor's limitations.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-warpdev-mcp-hub-mcp-2d5b2c6d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-warpdev-mcp-hub-mcp-2d5b2c6d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-warpdev-mcp-hub-mcp-2d5b2c6d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-warpdev-mcp-hub-mcp-2d5b2c6d/badge.svg)](https://tensorblock.co/mcp/servers/github-warpdev-mcp-hub-mcp-2d5b2c6d)",
   "links": {
     "primary": "https://github.com/warpdev/mcp-hub-mcp",
     "repo": "https://github.com/warpdev/mcp-hub-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

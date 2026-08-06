@@ -3,8 +3,8 @@
   "name": "LT-aitools/MCPblusky",
   "description": "Connects to Bluesky and enables natural language interaction with ATProtocol features, enhancing LLM applications with contextual data from Bluesky.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-lt-aitools-mcpblusky-4ebcdae3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lt-aitools-mcpblusky-4ebcdae3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lt-aitools-mcpblusky-4ebcdae3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lt-aitools-mcpblusky-4ebcdae3/badge.svg)](https://tensorblock.co/mcp/servers/github-lt-aitools-mcpblusky-4ebcdae3)",
   "links": {
     "primary": "https://github.com/LT-aitools/MCPblusky",
     "repo": "https://github.com/LT-aitools/MCPblusky",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

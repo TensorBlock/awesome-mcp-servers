@@ -3,8 +3,8 @@
   "name": "reservoirprotocol/relay-mcp",
   "description": "Cross-chain bridge and swap quotes, fee estimation, and transaction tracking via Relay Protocol. 8 tools for AI agents — supported chains/tokens discovery, bridge and swap quotes, fee estimation, transaction status and history, and deep links to the Relay app. Install: `npm i -g @relayprotocol/relay-mcp`",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-reservoirprotocol-relay-mcp-ba66fe60",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-reservoirprotocol-relay-mcp-ba66fe60)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-reservoirprotocol-relay-mcp-ba66fe60",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-reservoirprotocol-relay-mcp-ba66fe60/badge.svg)](https://tensorblock.co/mcp/servers/github-reservoirprotocol-relay-mcp-ba66fe60)",
   "links": {
     "primary": "https://github.com/reservoirprotocol/relay-mcp",
     "repo": "https://github.com/reservoirprotocol/relay-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npm i -g @relayprotocol/relay-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 8
   }

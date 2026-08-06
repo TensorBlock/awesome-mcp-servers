@@ -3,8 +3,8 @@
   "name": "nsxdavid/clickup-mcp-server",
   "description": "Facilitates AI-driven interactions with ClickUp by providing a standardized MCP interface for managing tasks, workspaces, and other project elements.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-nsxdavid-clickup-mcp-server-68556677",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nsxdavid-clickup-mcp-server-68556677)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nsxdavid-clickup-mcp-server-68556677",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nsxdavid-clickup-mcp-server-68556677/badge.svg)](https://tensorblock.co/mcp/servers/github-nsxdavid-clickup-mcp-server-68556677)",
   "links": {
     "primary": "https://github.com/nsxdavid/clickup-mcp-server",
     "repo": "https://github.com/nsxdavid/clickup-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

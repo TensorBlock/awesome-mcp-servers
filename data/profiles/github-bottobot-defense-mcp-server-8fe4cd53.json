@@ -3,8 +3,8 @@
   "name": "bottobot/defense-mcp-server",
   "description": "31 defensive security tools with 250+ actions for Linux system hardening, compliance auditing, firewall management, vulnerability scanning, and incident response. Dry-run by default.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-bottobot-defense-mcp-server-8fe4cd53",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bottobot-defense-mcp-server-8fe4cd53)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bottobot-defense-mcp-server-8fe4cd53",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bottobot-defense-mcp-server-8fe4cd53/badge.svg)](https://tensorblock.co/mcp/servers/github-bottobot-defense-mcp-server-8fe4cd53)",
   "links": {
     "primary": "https://github.com/bottobot/defense-mcp-server",
     "repo": "https://github.com/bottobot/defense-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

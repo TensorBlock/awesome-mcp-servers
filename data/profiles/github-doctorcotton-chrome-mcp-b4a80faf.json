@@ -3,8 +3,8 @@
   "name": "doctorcotton/Chrome_MCP",
   "description": "Facilitates interaction with the Chrome browser console and execution of JavaScript via Claude using MCP.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-doctorcotton-chrome-mcp-b4a80faf",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-doctorcotton-chrome-mcp-b4a80faf)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-doctorcotton-chrome-mcp-b4a80faf",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-doctorcotton-chrome-mcp-b4a80faf/badge.svg)](https://tensorblock.co/mcp/servers/github-doctorcotton-chrome-mcp-b4a80faf)",
   "links": {
     "primary": "https://github.com/doctorcotton/Chrome_MCP",
     "repo": "https://github.com/doctorcotton/Chrome_MCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "codingaslu/Linkedin_Mcp_Server",
   "description": "Fetch LinkedIn profile data using the Fresh LinkedIn Profile Data API with asynchronous HTTP requests.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-codingaslu-linkedin-mcp-server-5f951795",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-codingaslu-linkedin-mcp-server-5f951795)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-codingaslu-linkedin-mcp-server-5f951795",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-codingaslu-linkedin-mcp-server-5f951795/badge.svg)](https://tensorblock.co/mcp/servers/github-codingaslu-linkedin-mcp-server-5f951795)",
   "links": {
     "primary": "https://github.com/codingaslu/Linkedin_Mcp_Server",
     "repo": "https://github.com/codingaslu/Linkedin_Mcp_Server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

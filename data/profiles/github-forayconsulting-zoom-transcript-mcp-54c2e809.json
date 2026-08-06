@@ -3,8 +3,8 @@
   "name": "forayconsulting/zoom_transcript_mcp",
   "description": "Facilitates interaction with Zoom Cloud Recording transcripts, enabling listing, downloading, searching, and managing through a structured interface.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-forayconsulting-zoom-transcript-mcp-54c2e809",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-forayconsulting-zoom-transcript-mcp-54c2e809)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-forayconsulting-zoom-transcript-mcp-54c2e809",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-forayconsulting-zoom-transcript-mcp-54c2e809/badge.svg)](https://tensorblock.co/mcp/servers/github-forayconsulting-zoom-transcript-mcp-54c2e809)",
   "links": {
     "primary": "https://github.com/forayconsulting/zoom_transcript_mcp",
     "repo": "https://github.com/forayconsulting/zoom_transcript_mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

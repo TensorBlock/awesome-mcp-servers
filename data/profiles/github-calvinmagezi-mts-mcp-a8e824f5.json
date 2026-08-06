@@ -3,8 +3,8 @@
   "name": "CalvinMagezi/mts-mcp",
   "description": "A suite of MCP servers and AI agents enhancing Claude's capabilities with integrations like package management, knowledge graphs, and advanced search.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-calvinmagezi-mts-mcp-a8e824f5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-calvinmagezi-mts-mcp-a8e824f5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-calvinmagezi-mts-mcp-a8e824f5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-calvinmagezi-mts-mcp-a8e824f5/badge.svg)](https://tensorblock.co/mcp/servers/github-calvinmagezi-mts-mcp-a8e824f5)",
   "links": {
     "primary": "https://github.com/CalvinMagezi/mts-mcp",
     "repo": "https://github.com/CalvinMagezi/mts-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

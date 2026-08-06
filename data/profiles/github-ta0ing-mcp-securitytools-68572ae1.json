@@ -3,8 +3,8 @@
   "name": "Ta0ing/MCP-SecurityTools",
   "description": "A comprehensive collection of security tools and techniques for enhancing AI capabilities in network security through MCP integrations.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-ta0ing-mcp-securitytools-68572ae1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ta0ing-mcp-securitytools-68572ae1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ta0ing-mcp-securitytools-68572ae1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ta0ing-mcp-securitytools-68572ae1/badge.svg)](https://tensorblock.co/mcp/servers/github-ta0ing-mcp-securitytools-68572ae1)",
   "links": {
     "primary": "https://github.com/Ta0ing/MCP-SecurityTools",
     "repo": "https://github.com/Ta0ing/MCP-SecurityTools",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

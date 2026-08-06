@@ -1,0 +1,56 @@
+{
+  "id": "github-posteverywhere-mcp-bb48c2f5",
+  "name": "posteverywhere/mcp",
+  "description": "Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord and Telegram from natural language. Hosted MCP connector at https://mcp.posteverywhere.ai/mcp plus the @posteverywhere/mcp npm package; 33 tools across posts, campaigns, bulk ops, media, analytics, webhooks, and AI captions.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-posteverywhere-mcp-bb48c2f5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-posteverywhere-mcp-bb48c2f5/badge.svg)](https://tensorblock.co/mcp/servers/github-posteverywhere-mcp-bb48c2f5)",
+  "links": {
+    "primary": "https://github.com/posteverywhere/mcp",
+    "repo": "https://github.com/posteverywhere/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.posteverywhere.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 33
+  }
+}

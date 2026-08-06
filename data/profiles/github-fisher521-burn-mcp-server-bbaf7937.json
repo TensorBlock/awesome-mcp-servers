@@ -1,0 +1,59 @@
+{
+  "id": "github-fisher521-burn-mcp-server-bbaf7937",
+  "name": "Fisher521/burn-mcp-server",
+  "description": "Burn 451 MCP server with 26 tools for saving, searching, and triaging a personal read-later queue with a 24h burn timer (Flame → Spark → Vault → Ash pipeline). Works with Claude, Cursor, and Windsurf via stdio. Requires a free Burn account token. MIT licensed, available on npm.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fisher521-burn-mcp-server-bbaf7937",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fisher521-burn-mcp-server-bbaf7937/badge.svg)](https://tensorblock.co/mcp/servers/github-fisher521-burn-mcp-server-bbaf7937)",
+  "links": {
+    "primary": "https://github.com/Fisher521/burn-mcp-server",
+    "repo": "https://github.com/Fisher521/burn-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 26
+  }
+}

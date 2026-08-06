@@ -1,0 +1,56 @@
+{
+  "id": "github-andysalvo-agentrank-c4b8f3d9",
+  "name": "andysalvo/agentrank",
+  "description": "Settlement-grounded counterparty trust for AI agents. Verify an agent or x402 service before paying it: 0-1000 score from real on-chain USDC settlement (sybil-resistant, adversarially stress-tested), gate your own service by caller rank, classify any x402 address, read the State of x402 census. Ed25519-signed receipts. 5 tools, free. Remote: `https://api.agentrank.info/mcp`",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-andysalvo-agentrank-c4b8f3d9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-andysalvo-agentrank-c4b8f3d9/badge.svg)](https://tensorblock.co/mcp/servers/github-andysalvo-agentrank-c4b8f3d9)",
+  "links": {
+    "primary": "https://github.com/andysalvo/agentrank",
+    "repo": "https://github.com/andysalvo/agentrank",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://api.agentrank.info/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 5
+  }
+}

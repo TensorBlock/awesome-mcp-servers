@@ -3,8 +3,8 @@
   "name": "Nazruden/clickup-mcp-server",
   "description": "Facilitates AI assistant interactions with ClickUp workspaces through a Model Context Protocol server.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-nazruden-clickup-mcp-server-0c6f49ca",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nazruden-clickup-mcp-server-0c6f49ca)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nazruden-clickup-mcp-server-0c6f49ca",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nazruden-clickup-mcp-server-0c6f49ca/badge.svg)](https://tensorblock.co/mcp/servers/github-nazruden-clickup-mcp-server-0c6f49ca)",
   "links": {
     "primary": "https://github.com/Nazruden/clickup-mcp-server",
     "repo": "https://github.com/Nazruden/clickup-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

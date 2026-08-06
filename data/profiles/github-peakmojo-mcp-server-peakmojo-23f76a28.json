@@ -3,8 +3,8 @@
   "name": "peakmojo/mcp-server-peakmojo",
   "description": "Integrates with the PeakMojo API, offering resource and tool-based access with automatic mock responses for development.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-peakmojo-mcp-server-peakmojo-23f76a28",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-peakmojo-mcp-server-peakmojo-23f76a28)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-peakmojo-mcp-server-peakmojo-23f76a28",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-peakmojo-mcp-server-peakmojo-23f76a28/badge.svg)](https://tensorblock.co/mcp/servers/github-peakmojo-mcp-server-peakmojo-23f76a28)",
   "links": {
     "primary": "https://github.com/peakmojo/mcp-server-peakmojo",
     "repo": "https://github.com/peakmojo/mcp-server-peakmojo",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "brandu-mos/konquest-meta-ads-mcp",
   "description": "Supervised Meta Ads operating system for Claude Code with 57 tools for campaign management, multi-asset ads, targeting, pixel diagnostics, catalogs, and safety gates.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-brandu-mos-konquest-meta-ads-mcp-37a5412b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-brandu-mos-konquest-meta-ads-mcp-37a5412b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-brandu-mos-konquest-meta-ads-mcp-37a5412b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-brandu-mos-konquest-meta-ads-mcp-37a5412b/badge.svg)](https://tensorblock.co/mcp/servers/github-brandu-mos-konquest-meta-ads-mcp-37a5412b)",
   "links": {
     "primary": "https://github.com/brandu-mos/konquest-meta-ads-mcp",
     "repo": "https://github.com/brandu-mos/konquest-meta-ads-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 57
   }
