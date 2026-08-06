@@ -2,6 +2,7 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [shibley/aisotools-mcp-server](https://github.com/shibley/aisotools-mcp-server): Search and compare a curated catalog of 1,113 AI tools — pricing model and tiers, ratings, features, pros/cons, who each tool is for, and curated alternatives. Every result carries the canonical `aisotools.com/tool/<slug>` page so answers cite a source instead of paraphrasing. Streamable HTTP, stateless, read-only, no auth: `https://aisotools.com/api/mcp`. Tools: `search_ai_tools`, `get_ai_tool`, `list_ai_tool_categories`, `compare_ai_tools`, `find_ai_tool_alternatives`. Registry id `io.github.shibley/aisotools`. Note: `GET` returns 405 (stateless serverless, no held-open SSE stream); POST-based clients work.
 - [Newscatcher/catchall-mcp](https://github.com/Newscatcher/catchall-mcp): Recall-first web search API for comprehensive real-world event retrieval — finds every relevant event across the open web (not just top results), returned as structured, deduplicated data. Hosted MCP at https://catchall-mcp.newscatcherapi.com/mcp (auth via x-api-key header; key from platform.newscatcherapi.com).
 - [AKzar1el/mcp-gsc](https://github.com/AKzar1el/mcp-gsc): Self-hostable Google Search Console MCP for Search Console analytics, URL inspection, sitemap management, indexing requests, and SEO diagnostics. Runs on Cloudflare Workers with Google OAuth; see [SETUP.md](https://github.com/AKzar1el/mcp-gsc/blob/main/SETUP.md) for deployment.
 
