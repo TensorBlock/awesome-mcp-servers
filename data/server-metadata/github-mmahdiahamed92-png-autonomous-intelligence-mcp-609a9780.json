@@ -1,0 +1,8 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mmahdiahamed92-png-autonomous-intelligence-mcp-609a9780",
+  "source": {
+    "issue": 1593,
+    "projectUrl": "https://github.com/mmahdiahamed92-png/autonomous-intelligence-mcp"
+  }
+}
