@@ -372512,7 +372512,7 @@
   {
     "id": "github-xmpuspus-ph-civic-data-mcp-b30f7fb8",
     "name": "xmpuspus/ph-civic-data-mcp",
-    "description": "Philippine civic data plus global Earth observation as MCP tools. Covers PSGC location resolver, PHIVOLCS earthquakes and volcano alerts, PAGASA weather and typhoons, PhilGEPS procurement with infra-spending accountability flags, PSA population, poverty, and economy (inflation, labor, health), NASA POWER solar/climate, Open-Meteo air quality, NASA MODIS NDVI, USGS earthquakes, NOAA IBTrACS typhoon tracks, and World Bank macro indicators. 29 tools across 12 sources, zero required API keys, with cross-source multi-hazard risk profiler and a `get_area_profile` auto-stitch that composes demographics, economy, procurement, hazard, and weather in one call. Install: `uvx ph-civic-data-mcp`.",
+    "description": "Philippine civic data plus global Earth observation as MCP tools. Browse, describe and query the full PSA OpenSTAT statistical catalog (~2,900 tables) through three tools with bounded, validated queries. Also covers PSGC location resolver, PHIVOLCS earthquakes and volcano alerts, PAGASA weather and typhoons, PhilGEPS procurement with infra-spending accountability flags, PSA population, poverty, and economy (inflation, labor, health), NASA POWER solar/climate, Open-Meteo air quality, NASA MODIS NDVI, USGS earthquakes, NOAA IBTrACS typhoon tracks, and World Bank macro indicators. 32 tools across 12 sources, zero required API keys, with a cross-source multi-hazard risk profiler and a `get_area_profile` auto-stitch that composes demographics, economy, procurement, hazard, and weather in one call. Install: `uvx ph-civic-data-mcp`.",
     "category": "Science & Research",
     "source": {
       "readmePath": null,
@@ -372539,7 +372539,7 @@
       "unknown"
     ],
     "auth": {
-      "type": "api-key",
+      "type": "none",
       "notes": []
     },
     "clients": [],
