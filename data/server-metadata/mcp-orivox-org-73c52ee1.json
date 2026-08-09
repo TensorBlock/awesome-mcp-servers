@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mcp-orivox-org-73c52ee1",
+  "source": {
+    "issue": 1567,
+    "projectUrl": "https://mcp.orivox.org/"
+  },
+  "links": {
+    "endpoint": "https://mcp.orivox.org/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (custom connector)"
+  ],
+  "license": "Unknown; hosted service"
+}

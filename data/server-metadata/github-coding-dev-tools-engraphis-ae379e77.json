@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-coding-dev-tools-engraphis-ae379e77",
+  "source": {
+    "issue": 1578,
+    "projectUrl": "https://github.com/Coding-Dev-Tools/engraphis"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Cline",
+    "Zed"
+  ],
+  "license": "Apache-2.0"
+}

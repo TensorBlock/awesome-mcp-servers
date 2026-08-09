@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-agentskit-io-doc-bridge-34a6ee67",
+  "source": {
+    "issue": 1583,
+    "projectUrl": "https://github.com/AgentsKit-io/doc-bridge"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Cline",
+    "Cursor",
+    "Claude Desktop",
+    "and Codex-style MCP clients"
+  ],
+  "license": "MIT"
+}
