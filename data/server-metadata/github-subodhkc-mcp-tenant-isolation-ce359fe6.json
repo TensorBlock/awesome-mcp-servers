@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-subodhkc-mcp-tenant-isolation-ce359fe6",
+  "source": {
+    "issue": 1598,
+    "projectUrl": "https://github.com/subodhkc/mcp-tenant-isolation"
+  },
+  "description": "Static analysis scanner for MCP server code and multi-tenant SaaS applications with 57 deterministic tenant-isolation, IDOR, RLS, schema, and MCP-specific rules.",
+  "category": "Security",
+  "links": {
+    "docs": "https://www.haiec.com/mcp-tenant-isolation"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-tenant-isolation mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Cline"
+  ],
+  "tools": {
+    "count": 4,
+    "names": [
+      "scan_tenant_isolation",
+      "list_tenant_isolation_rules",
+      "explain_tenant_isolation_rule",
+      "suppress_tenant_isolation_finding"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and docs URL were reachable on 2026-08-09.",
+      "MCP launch command and tool names were taken from the upstream README."
+    ]
+  }
+}

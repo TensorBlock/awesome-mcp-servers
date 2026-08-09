@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-vbkotecha-agentservices-api-d8154d8f",
+  "source": {
+    "issue": 1532,
+    "projectUrl": "https://github.com/vbkotecha/agentservices-api"
+  },
+  "description": "AgentServices gives AI agents paid, structured access to crypto, market, DeFi, macro, exchange, and on-chain data through 37 MCP tools and x402 settlement on Base.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://agentservices.to",
+    "endpoint": "https://api.agentservices.to/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "x402 payment challenges are returned for paid endpoints; free endpoints are available."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "MCP-compatible clients that support remote Streamable HTTP servers"
+  ],
+  "tools": {
+    "count": 37,
+    "names": [],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint completed MCP initialize and tools/list checks on 2026-07-14 before the canonical repo URL update.",
+      "Canonical project URL updated from https://github.com/vbkotecha/aiservices-api to https://github.com/vbkotecha/agentservices-api from #1532."
+    ]
+  }
+}

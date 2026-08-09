@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "jobvetta-com-mcp-25242920",
+  "source": {
+    "issue": 1440,
+    "projectUrl": "https://www.jobvetta.com/mcp"
+  },
+  "description": "Jobvetta MCP Server searches current India job openings gathered from official employer career pages by keyword, city or state, and posting age.",
+  "category": "Search",
+  "links": {
+    "docs": "https://www.jobvetta.com/mcp",
+    "endpoint": "https://api.jobvetta.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "JOBVETTA_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Send Authorization: Bearer <Jobvetta key>. Early access includes 50 shared MCP or REST calls per key per UTC day."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Streamable HTTP MCP clients"
+  ],
+  "license": "Proprietary hosted service",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Docs URL returned HTTP 200 and the MCP endpoint returned HTTP 405 to HEAD on 2026-08-09, consistent with a POST-only remote MCP endpoint."
+    ]
+  }
+}
