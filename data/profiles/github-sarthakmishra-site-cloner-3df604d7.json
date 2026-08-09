@@ -3,8 +3,8 @@
   "name": "SarthakMishra/site-cloner",
   "description": "Facilitates website cloning by providing tools to fetch, analyze, and download website assets for LLMs.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-sarthakmishra-site-cloner-3df604d7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sarthakmishra-site-cloner-3df604d7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sarthakmishra-site-cloner-3df604d7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sarthakmishra-site-cloner-3df604d7/badge.svg)](https://tensorblock.co/mcp/servers/github-sarthakmishra-site-cloner-3df604d7)",
   "links": {
     "primary": "https://github.com/SarthakMishra/site-cloner",
     "repo": "https://github.com/SarthakMishra/site-cloner",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

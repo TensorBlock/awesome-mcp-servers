@@ -3,8 +3,8 @@
   "name": "hiroooo000/mydockers",
   "description": "Facilitates browser automation using Playwright within a Dockerized MCP server environment.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-hiroooo000-mydockers-debccdea",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hiroooo000-mydockers-debccdea)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hiroooo000-mydockers-debccdea",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hiroooo000-mydockers-debccdea/badge.svg)](https://tensorblock.co/mcp/servers/github-hiroooo000-mydockers-debccdea)",
   "links": {
     "primary": "https://github.com/hiroooo000/mydockers",
     "repo": "https://github.com/hiroooo000/mydockers",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

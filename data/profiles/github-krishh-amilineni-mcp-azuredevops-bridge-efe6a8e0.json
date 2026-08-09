@@ -3,8 +3,8 @@
   "name": "krishh-amilineni/mcp-azuredevops-bridge",
   "description": "Facilitates seamless integration with Azure DevOps for managing work items, wiki documentation, sprint planning, and attachments.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-krishh-amilineni-mcp-azuredevops-bridge-efe6a8e0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-krishh-amilineni-mcp-azuredevops-bridge-efe6a8e0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-krishh-amilineni-mcp-azuredevops-bridge-efe6a8e0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-krishh-amilineni-mcp-azuredevops-bridge-efe6a8e0/badge.svg)](https://tensorblock.co/mcp/servers/github-krishh-amilineni-mcp-azuredevops-bridge-efe6a8e0)",
   "links": {
     "primary": "https://github.com/krishh-amilineni/mcp-azuredevops-bridge",
     "repo": "https://github.com/krishh-amilineni/mcp-azuredevops-bridge",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

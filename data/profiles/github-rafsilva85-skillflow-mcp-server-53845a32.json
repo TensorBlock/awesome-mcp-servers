@@ -1,0 +1,67 @@
+{
+  "id": "github-rafsilva85-skillflow-mcp-server-53845a32",
+  "name": "rafsilva85/skillflow-mcp-server",
+  "description": "MCP server for connecting AI coding agents to the SkillFlow marketplace of 500+ curated AI skills with trust metrics and performance data. Local stdio via `npx -y skillflow-mcp-server`; Streamable HTTP via `skillflow-mcp-http` or Smithery. No API keys required. MIT.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rafsilva85-skillflow-mcp-server-53845a32",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rafsilva85-skillflow-mcp-server-53845a32/badge.svg)](https://tensorblock.co/mcp/servers/github-rafsilva85-skillflow-mcp-server-53845a32)",
+  "links": {
+    "primary": "https://github.com/rafsilva85/skillflow-mcp-server",
+    "repo": "https://github.com/rafsilva85/skillflow-mcp-server",
+    "homepage": null,
+    "docs": "https://skillflow.builders",
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y skillflow-mcp-server",
+      "skillflow-mcp-http"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "Copilot",
+    "Gemini CLI"
+  ],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "high",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

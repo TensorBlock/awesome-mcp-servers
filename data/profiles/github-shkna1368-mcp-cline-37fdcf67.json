@@ -3,8 +3,8 @@
   "name": "shkna1368/mcp-cline",
   "description": "Facilitates the setup and configuration of an MCP server using SQLite for database management and integration with Visual Studio Code.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-shkna1368-mcp-cline-37fdcf67",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shkna1368-mcp-cline-37fdcf67)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shkna1368-mcp-cline-37fdcf67",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shkna1368-mcp-cline-37fdcf67/badge.svg)](https://tensorblock.co/mcp/servers/github-shkna1368-mcp-cline-37fdcf67)",
   "links": {
     "primary": "https://github.com/shkna1368/mcp-cline",
     "repo": "https://github.com/shkna1368/mcp-cline",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

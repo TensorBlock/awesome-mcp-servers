@@ -3,8 +3,8 @@
   "name": "openbnb-org/mcp-server-airbnb",
   "description": "Facilitates Airbnb listing searches and detailed information retrieval without requiring an API key, while respecting robots.txt rules.",
   "category": "Travel & Transportation",
-  "profileUrl": "https://tensorblock.co/mcp/github-openbnb-org-mcp-server-airbnb-d9649e24",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-openbnb-org-mcp-server-airbnb-d9649e24)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-openbnb-org-mcp-server-airbnb-d9649e24",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-openbnb-org-mcp-server-airbnb-d9649e24/badge.svg)](https://tensorblock.co/mcp/servers/github-openbnb-org-mcp-server-airbnb-d9649e24)",
   "links": {
     "primary": "https://github.com/openbnb-org/mcp-server-airbnb",
     "repo": "https://github.com/openbnb-org/mcp-server-airbnb",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "api-key",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

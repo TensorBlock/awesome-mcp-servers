@@ -3,8 +3,8 @@
   "name": "fykong/time_fastmcp_server",
   "description": "Facilitates time and timezone conversions for LLMs using IANA timezone names with automatic system timezone detection.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-fykong-time-fastmcp-server-ed3402e0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fykong-time-fastmcp-server-ed3402e0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fykong-time-fastmcp-server-ed3402e0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fykong-time-fastmcp-server-ed3402e0/badge.svg)](https://tensorblock.co/mcp/servers/github-fykong-time-fastmcp-server-ed3402e0)",
   "links": {
     "primary": "https://github.com/fykong/time_fastmcp_server",
     "repo": "https://github.com/fykong/time_fastmcp_server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

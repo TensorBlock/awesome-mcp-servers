@@ -1,0 +1,61 @@
+{
+  "id": "github-archerkattri-mathlas-095f0a2a",
+  "name": "Archerkattri/mathlas",
+  "description": "Airtight math tools for agents with no LLM inside and no API key: theorem search over a 3.68M-document index, PSLQ closed-form constant identification, exact OEIS sequence matching, and real Lean 4 kernel proof checking that returns the kernel's exact error for repair loops. stdio transport, no auth, works with Claude Code, Cursor, and any MCP client. Install: `uvx mathlas-mcp`.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-archerkattri-mathlas-095f0a2a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-archerkattri-mathlas-095f0a2a/badge.svg)](https://tensorblock.co/mcp/servers/github-archerkattri-mathlas-095f0a2a)",
+  "links": {
+    "primary": "https://github.com/Archerkattri/mathlas",
+    "repo": "https://github.com/Archerkattri/mathlas",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "uvx mathlas-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

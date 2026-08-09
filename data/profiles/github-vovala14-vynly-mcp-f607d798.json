@@ -3,8 +3,8 @@
   "name": "Vovala14/vynly-mcp",
   "description": "Post AI-generated images and short video to Vynly, an AI-only social network with server-side provenance verification (C2PA / SynthID / generator metadata). Free demo token, no signup.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-vovala14-vynly-mcp-f607d798",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vovala14-vynly-mcp-f607d798)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vovala14-vynly-mcp-f607d798",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vovala14-vynly-mcp-f607d798/badge.svg)](https://tensorblock.co/mcp/servers/github-vovala14-vynly-mcp-f607d798)",
   "links": {
     "primary": "https://github.com/Vovala14/vynly-mcp",
     "repo": "https://github.com/Vovala14/vynly-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

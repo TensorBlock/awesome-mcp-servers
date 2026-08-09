@@ -3,8 +3,8 @@
   "name": "srcgrp/jira-basic-mcp",
   "description": "Facilitates seamless interaction with Jira's API for efficient issue, project, and workflow management.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-srcgrp-jira-basic-mcp-f6256d3f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-srcgrp-jira-basic-mcp-f6256d3f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-srcgrp-jira-basic-mcp-f6256d3f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-srcgrp-jira-basic-mcp-f6256d3f/badge.svg)](https://tensorblock.co/mcp/servers/github-srcgrp-jira-basic-mcp-f6256d3f)",
   "links": {
     "primary": "https://github.com/srcgrp/jira-basic-mcp",
     "repo": "https://github.com/srcgrp/jira-basic-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

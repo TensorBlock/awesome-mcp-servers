@@ -3,8 +3,8 @@
   "name": "YIELD INTELLIGENCE",
   "description": "Passive income opportunity analysis with live US Treasury rates, portfolio yield calculator, and AI-powered income optimization. Remote MCP endpoint: https://api.intuitek.ai/yield/mcp (open, no auth required).",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-thebrierfox-intuitek-ace-fbdd7010",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thebrierfox-intuitek-ace-fbdd7010)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-thebrierfox-intuitek-ace-fbdd7010",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-thebrierfox-intuitek-ace-fbdd7010/badge.svg)](https://tensorblock.co/mcp/servers/github-thebrierfox-intuitek-ace-fbdd7010)",
   "links": {
     "primary": "https://github.com/thebrierfox/intuitek-ace",
     "repo": "https://github.com/thebrierfox/intuitek-ace",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": "https://api.intuitek.ai/yield/mcp"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "none",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Frihet-io/frihet-mcp",
   "description": "AI-native business management MCP server with 31 tools for invoicing, expenses, clients, products, quotes, tax compliance (VeriFactu), and webhooks. Multi-currency (40 currencies), OCR, and Stripe Connect. Install: `npm install @frihet/mcp-server`",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-frihet-io-frihet-mcp-6a637b26",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-frihet-io-frihet-mcp-6a637b26)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-frihet-io-frihet-mcp-6a637b26",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-frihet-io-frihet-mcp-6a637b26/badge.svg)](https://tensorblock.co/mcp/servers/github-frihet-io-frihet-mcp-6a637b26)",
   "links": {
     "primary": "https://github.com/Frihet-io/frihet-mcp",
     "repo": "https://github.com/Frihet-io/frihet-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npm install @frihet/mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 31
   }

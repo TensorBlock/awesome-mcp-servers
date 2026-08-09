@@ -1,0 +1,65 @@
+{
+  "id": "github-csoai-org-meok-setup-364bfb72",
+  "name": "MEOK Governance Suite",
+  "description": "Installer for 38 AI compliance MCPs across Claude Desktop, Cursor, VS Code, and Windsurf, covering EU AI Act, DORA, NIS2, GDPR, SOC2, ISO 42001, HIPAA, and governance workflows. Install with `npx meok-setup --pack governance` or `pip install meok_setup`. MIT.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-csoai-org-meok-setup-364bfb72",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-csoai-org-meok-setup-364bfb72/badge.svg)](https://tensorblock.co/mcp/servers/github-csoai-org-meok-setup-364bfb72)",
+  "links": {
+    "primary": "https://github.com/CSOAI-ORG/meok-setup",
+    "repo": "https://github.com/CSOAI-ORG/meok-setup",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx meok-setup --pack governance",
+      "pip install meok_setup"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Installer covers free and paid MEOK compliance packs"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

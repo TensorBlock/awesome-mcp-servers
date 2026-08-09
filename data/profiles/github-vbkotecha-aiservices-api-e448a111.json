@@ -1,0 +1,60 @@
+{
+  "id": "github-vbkotecha-aiservices-api-e448a111",
+  "name": "AIServices",
+  "description": "AIServices gives agents a remote MCP endpoint plus paid x402 APIs for AI-powered web search, crypto/DeFi market data, on-chain analytics, URL metadata, marketing intelligence, and policy-driven dispute resolution.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vbkotecha-aiservices-api-e448a111",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vbkotecha-aiservices-api-e448a111/badge.svg)](https://tensorblock.co/mcp/servers/github-vbkotecha-aiservices-api-e448a111)",
+  "links": {
+    "primary": "https://github.com/vbkotecha/aiservices-api",
+    "repo": "https://github.com/vbkotecha/aiservices-api",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://api.aiservices.to/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "MCP-compatible clients and agent frameworks that support remote MCP servers."
+  ],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

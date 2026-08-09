@@ -3,8 +3,8 @@
   "name": "huccihuang/bilibili-mcp-server",
   "description": "Facilitates interaction with the Bilibili API, enabling video search and future operations.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-huccihuang-bilibili-mcp-server-960e776f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-huccihuang-bilibili-mcp-server-960e776f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-huccihuang-bilibili-mcp-server-960e776f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-huccihuang-bilibili-mcp-server-960e776f/badge.svg)](https://tensorblock.co/mcp/servers/github-huccihuang-bilibili-mcp-server-960e776f)",
   "links": {
     "primary": "https://github.com/huccihuang/bilibili-mcp-server",
     "repo": "https://github.com/huccihuang/bilibili-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

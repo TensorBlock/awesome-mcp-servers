@@ -3,8 +3,8 @@
   "name": "ciaraadkins/puppeteer-plus-mcp",
   "description": "Enhances Puppeteer with advanced digital marketing and SEO analysis capabilities, enabling comprehensive audits of website marketing technologies and SEO practices.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-ciaraadkins-puppeteer-plus-mcp-928f5563",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ciaraadkins-puppeteer-plus-mcp-928f5563)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ciaraadkins-puppeteer-plus-mcp-928f5563",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ciaraadkins-puppeteer-plus-mcp-928f5563/badge.svg)](https://tensorblock.co/mcp/servers/github-ciaraadkins-puppeteer-plus-mcp-928f5563)",
   "links": {
     "primary": "https://github.com/ciaraadkins/puppeteer-plus-mcp",
     "repo": "https://github.com/ciaraadkins/puppeteer-plus-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

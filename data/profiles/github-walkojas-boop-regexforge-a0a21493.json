@@ -3,8 +3,8 @@
   "name": "walkojas-boop/regexforge",
   "description": "Deterministic regex synthesis. Send labeled examples, get a battle-tested regex + test matrix + backtracking-risk analysis. Zero LLM at serve time. $0.002/call. Live at https://regexforge.jason-12c.workers.dev/.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-walkojas-boop-regexforge-a0a21493",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-walkojas-boop-regexforge-a0a21493)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-walkojas-boop-regexforge-a0a21493",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-walkojas-boop-regexforge-a0a21493/badge.svg)](https://tensorblock.co/mcp/servers/github-walkojas-boop-regexforge-a0a21493)",
   "links": {
     "primary": "https://github.com/walkojas-boop/regexforge",
     "repo": "https://github.com/walkojas-boop/regexforge",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

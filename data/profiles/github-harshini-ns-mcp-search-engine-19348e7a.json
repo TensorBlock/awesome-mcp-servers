@@ -3,8 +3,8 @@
   "name": "harshini-ns/mcp-search-engine",
   "description": "A TypeScript-based MCP server offering a comprehensive suite of mathematical functions for seamless integration with language models.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-harshini-ns-mcp-search-engine-19348e7a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-harshini-ns-mcp-search-engine-19348e7a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-harshini-ns-mcp-search-engine-19348e7a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-harshini-ns-mcp-search-engine-19348e7a/badge.svg)](https://tensorblock.co/mcp/servers/github-harshini-ns-mcp-search-engine-19348e7a)",
   "links": {
     "primary": "https://github.com/harshini-ns/mcp-search-engine",
     "repo": "https://github.com/harshini-ns/mcp-search-engine",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

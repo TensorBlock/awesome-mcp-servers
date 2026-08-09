@@ -3,8 +3,8 @@
   "name": "cdugo/package-documentation-mcp",
   "description": "Fetches package documentation from various language ecosystems for LLMs like Claude, without needing API keys.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-cdugo-package-documentation-mcp-fcd41282",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cdugo-package-documentation-mcp-fcd41282)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cdugo-package-documentation-mcp-fcd41282",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cdugo-package-documentation-mcp-fcd41282/badge.svg)](https://tensorblock.co/mcp/servers/github-cdugo-package-documentation-mcp-fcd41282)",
   "links": {
     "primary": "https://github.com/cdugo/package-documentation-mcp",
     "repo": "https://github.com/cdugo/package-documentation-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "api-key",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

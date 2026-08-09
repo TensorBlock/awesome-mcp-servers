@@ -3,8 +3,8 @@
   "name": "querypie/querypie-mcp-server",
   "description": "QueryPie MCP server empowers administrators with real-time data visualization, resource monitoring, and security auditing capabilities.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-querypie-querypie-mcp-server-464ff435",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-querypie-querypie-mcp-server-464ff435)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-querypie-querypie-mcp-server-464ff435",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-querypie-querypie-mcp-server-464ff435/badge.svg)](https://tensorblock.co/mcp/servers/github-querypie-querypie-mcp-server-464ff435)",
   "links": {
     "primary": "https://github.com/querypie/querypie-mcp-server",
     "repo": "https://github.com/querypie/querypie-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

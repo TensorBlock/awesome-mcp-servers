@@ -3,8 +3,8 @@
   "name": "kukapay/crypto-portfolio-mcp",
   "description": "Facilitates real-time cryptocurrency portfolio management and optimization through AI agent interactions.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-crypto-portfolio-mcp-b6983548",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-crypto-portfolio-mcp-b6983548)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kukapay-crypto-portfolio-mcp-b6983548",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kukapay-crypto-portfolio-mcp-b6983548/badge.svg)](https://tensorblock.co/mcp/servers/github-kukapay-crypto-portfolio-mcp-b6983548)",
   "links": {
     "primary": "https://github.com/kukapay/crypto-portfolio-mcp",
     "repo": "https://github.com/kukapay/crypto-portfolio-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

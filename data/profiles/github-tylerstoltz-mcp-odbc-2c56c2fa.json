@@ -3,8 +3,8 @@
   "name": "tylerstoltz/mcp-odbc",
   "description": "Facilitates secure and read-only database queries via ODBC connections for LLM tools like Claude Desktop.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-tylerstoltz-mcp-odbc-2c56c2fa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tylerstoltz-mcp-odbc-2c56c2fa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tylerstoltz-mcp-odbc-2c56c2fa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tylerstoltz-mcp-odbc-2c56c2fa/badge.svg)](https://tensorblock.co/mcp/servers/github-tylerstoltz-mcp-odbc-2c56c2fa)",
   "links": {
     "primary": "https://github.com/tylerstoltz/mcp-odbc",
     "repo": "https://github.com/tylerstoltz/mcp-odbc",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

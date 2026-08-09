@@ -3,8 +3,8 @@
   "name": "nulab/backlog-mcp-server",
   "description": "Facilitates project management and issue tracking on Backlog through Claude integration.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-nulab-backlog-mcp-server-19d55086",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nulab-backlog-mcp-server-19d55086)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nulab-backlog-mcp-server-19d55086",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nulab-backlog-mcp-server-19d55086/badge.svg)](https://tensorblock.co/mcp/servers/github-nulab-backlog-mcp-server-19d55086)",
   "links": {
     "primary": "https://github.com/nulab/backlog-mcp-server",
     "repo": "https://github.com/nulab/backlog-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

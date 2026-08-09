@@ -3,8 +3,8 @@
   "name": "ashokpokharel977/mcp-gsuite",
   "description": "Facilitates seamless interaction with Google Workspace services, including Drive, Docs, and Sheets, through a TypeScript/JavaScript interface.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-ashokpokharel977-mcp-gsuite-a31a726e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ashokpokharel977-mcp-gsuite-a31a726e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ashokpokharel977-mcp-gsuite-a31a726e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ashokpokharel977-mcp-gsuite-a31a726e/badge.svg)](https://tensorblock.co/mcp/servers/github-ashokpokharel977-mcp-gsuite-a31a726e)",
   "links": {
     "primary": "https://github.com/ashokpokharel977/mcp-gsuite",
     "repo": "https://github.com/ashokpokharel977/mcp-gsuite",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

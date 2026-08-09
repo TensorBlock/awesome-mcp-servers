@@ -3,8 +3,8 @@
   "name": "esshka/okx-mcp",
   "description": "Provides real-time cryptocurrency price data from OKX exchange via a Model Context Protocol server.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-esshka-okx-mcp-f1da9265",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-esshka-okx-mcp-f1da9265)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-esshka-okx-mcp-f1da9265",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-esshka-okx-mcp-f1da9265/badge.svg)](https://tensorblock.co/mcp/servers/github-esshka-okx-mcp-f1da9265)",
   "links": {
     "primary": "https://github.com/esshka/okx-mcp",
     "repo": "https://github.com/esshka/okx-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

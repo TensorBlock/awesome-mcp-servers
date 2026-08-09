@@ -3,8 +3,8 @@
   "name": "Dumpling-AI/mcp-server-dumplingai",
   "description": "Integrates Dumpling AI with comprehensive data scraping, content processing, and AI capabilities, including secure code execution.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-dumpling-ai-mcp-server-dumplingai-7070305e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dumpling-ai-mcp-server-dumplingai-7070305e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dumpling-ai-mcp-server-dumplingai-7070305e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dumpling-ai-mcp-server-dumplingai-7070305e/badge.svg)](https://tensorblock.co/mcp/servers/github-dumpling-ai-mcp-server-dumplingai-7070305e)",
   "links": {
     "primary": "https://github.com/Dumpling-AI/mcp-server-dumplingai",
     "repo": "https://github.com/Dumpling-AI/mcp-server-dumplingai",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

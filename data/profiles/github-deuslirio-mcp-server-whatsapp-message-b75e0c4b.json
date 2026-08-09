@@ -3,8 +3,8 @@
   "name": "deuslirio/mcp-server-whatsapp-message",
   "description": "Facilitates sending WhatsApp messages through the Meta WhatsApp Business API using MCP.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-deuslirio-mcp-server-whatsapp-message-b75e0c4b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-deuslirio-mcp-server-whatsapp-message-b75e0c4b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-deuslirio-mcp-server-whatsapp-message-b75e0c4b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-deuslirio-mcp-server-whatsapp-message-b75e0c4b/badge.svg)](https://tensorblock.co/mcp/servers/github-deuslirio-mcp-server-whatsapp-message-b75e0c4b)",
   "links": {
     "primary": "https://github.com/deuslirio/mcp-server-whatsapp-message",
     "repo": "https://github.com/deuslirio/mcp-server-whatsapp-message",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

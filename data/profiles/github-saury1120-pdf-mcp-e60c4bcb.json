@@ -3,8 +3,8 @@
   "name": "saury1120/pdf-mcp",
   "description": "A robust service for comprehensive PDF document analysis, featuring multilingual text extraction, image processing, table recognition, and intelligent classification.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-saury1120-pdf-mcp-e60c4bcb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-saury1120-pdf-mcp-e60c4bcb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-saury1120-pdf-mcp-e60c4bcb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-saury1120-pdf-mcp-e60c4bcb/badge.svg)](https://tensorblock.co/mcp/servers/github-saury1120-pdf-mcp-e60c4bcb)",
   "links": {
     "primary": "https://github.com/saury1120/pdf-mcp",
     "repo": "https://github.com/saury1120/pdf-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

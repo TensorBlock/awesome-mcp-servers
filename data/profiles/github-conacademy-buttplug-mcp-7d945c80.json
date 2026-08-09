@@ -3,8 +3,8 @@
   "name": "ConAcademy/buttplug-mcp",
   "description": "Facilitates interaction with Buttplug.io devices using the Model Context Protocol, enabling LLMs to query and control connected devices.",
   "category": "Gaming",
-  "profileUrl": "https://tensorblock.co/mcp/github-conacademy-buttplug-mcp-7d945c80",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-conacademy-buttplug-mcp-7d945c80)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-conacademy-buttplug-mcp-7d945c80",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-conacademy-buttplug-mcp-7d945c80/badge.svg)](https://tensorblock.co/mcp/servers/github-conacademy-buttplug-mcp-7d945c80)",
   "links": {
     "primary": "https://github.com/ConAcademy/buttplug-mcp",
     "repo": "https://github.com/ConAcademy/buttplug-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

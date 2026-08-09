@@ -3,8 +3,8 @@
   "name": "RioTheGreat-ai/agentfund-mcp",
   "description": "Crowdfunding for AI agents with milestone-based escrow on Base chain. Create funding proposals, track projects, receive payments.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-riothegreat-ai-agentfund-mcp-559562b5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-riothegreat-ai-agentfund-mcp-559562b5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-riothegreat-ai-agentfund-mcp-559562b5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-riothegreat-ai-agentfund-mcp-559562b5/badge.svg)](https://tensorblock.co/mcp/servers/github-riothegreat-ai-agentfund-mcp-559562b5)",
   "links": {
     "primary": "https://github.com/RioTheGreat-ai/agentfund-mcp",
     "repo": "https://github.com/RioTheGreat-ai/agentfund-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

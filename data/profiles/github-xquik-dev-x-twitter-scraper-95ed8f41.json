@@ -1,24 +1,58 @@
 {
   "id": "github-xquik-dev-x-twitter-scraper-95ed8f41",
   "name": "Xquik-dev/x-twitter-scraper",
-  "description": "X/Twitter automation platform with an MCP server, 100+ REST API endpoints, 23 extraction types, HMAC webhooks, and SDKs.",
+  "description": "X/Twitter automation platform with 100+ REST endpoints, 2 MCP tools, 23 extraction types, HMAC webhooks, SDKs, and Streamable HTTP at `https://xquik.com/mcp` with `x-api-key` auth.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-xquik-dev-x-twitter-scraper-95ed8f41",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xquik-dev-x-twitter-scraper-95ed8f41)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-xquik-dev-x-twitter-scraper-95ed8f41",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-xquik-dev-x-twitter-scraper-95ed8f41/badge.svg)](https://tensorblock.co/mcp/servers/github-xquik-dev-x-twitter-scraper-95ed8f41)",
   "links": {
     "primary": "https://github.com/Xquik-dev/x-twitter-scraper",
     "repo": "https://github.com/Xquik-dev/x-twitter-scraper",
     "homepage": null,
     "docs": null,
-    "endpoint": null
+    "endpoint": "https://xquik.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "x-api-key auth"
+    ]
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
-      "unknown"
+      "streamable-http"
     ],
-    "auth": "unknown",
+    "auth": "api-key",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
-    "toolCount": null
+    "toolCount": 2
   }
 }

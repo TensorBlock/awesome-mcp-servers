@@ -3,8 +3,8 @@
   "name": "gamalan/mcp-email-client",
   "description": "A Python-based email client MCP server enabling management and configuration of multiple email accounts, including sending and reading emails.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-gamalan-mcp-email-client-83935a21",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gamalan-mcp-email-client-83935a21)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-gamalan-mcp-email-client-83935a21",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-gamalan-mcp-email-client-83935a21/badge.svg)](https://tensorblock.co/mcp/servers/github-gamalan-mcp-email-client-83935a21)",
   "links": {
     "primary": "https://github.com/gamalan/mcp-email-client",
     "repo": "https://github.com/gamalan/mcp-email-client",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

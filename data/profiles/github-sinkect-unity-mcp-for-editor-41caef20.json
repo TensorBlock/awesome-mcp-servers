@@ -3,8 +3,8 @@
   "name": "sinkect/unity-mcp-for-editor",
   "description": "Enhances Unity editor integration with VSCode IDEs by providing tools for executing menu items, managing game objects, and running tests via an MCP server.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-sinkect-unity-mcp-for-editor-41caef20",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sinkect-unity-mcp-for-editor-41caef20)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sinkect-unity-mcp-for-editor-41caef20",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sinkect-unity-mcp-for-editor-41caef20/badge.svg)](https://tensorblock.co/mcp/servers/github-sinkect-unity-mcp-for-editor-41caef20)",
   "links": {
     "primary": "https://github.com/sinkect/unity-mcp-for-editor",
     "repo": "https://github.com/sinkect/unity-mcp-for-editor",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

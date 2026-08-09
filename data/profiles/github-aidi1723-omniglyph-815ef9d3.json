@@ -1,0 +1,56 @@
+{
+  "id": "github-aidi1723-omniglyph-815ef9d3",
+  "name": "aidi1723/OmniGlyph",
+  "description": "Local symbol ground-truth MCP server for Unicode/Unihan lookup, domain-term normalization, output guardrails, and code-symbol linting. Detects homoglyphs, zero-width spaces, and suspicious Unicode before agents reason over text. Published on PyPI as `omniglyph` and registered in the MCP Registry.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aidi1723-omniglyph-815ef9d3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aidi1723-omniglyph-815ef9d3/badge.svg)](https://tensorblock.co/mcp/servers/github-aidi1723-omniglyph-815ef9d3)",
+  "links": {
+    "primary": "https://github.com/aidi1723/OmniGlyph",
+    "repo": "https://github.com/aidi1723/OmniGlyph",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

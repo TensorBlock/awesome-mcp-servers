@@ -3,8 +3,8 @@
   "name": "taggartbg/vibeframe",
   "description": "Vibeframe is a VSCode extension that enables seamless integration of MCP server UIs directly within the IDE, supporting server discovery and secure communication.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-taggartbg-vibeframe-387fa294",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-taggartbg-vibeframe-387fa294)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-taggartbg-vibeframe-387fa294",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-taggartbg-vibeframe-387fa294/badge.svg)](https://tensorblock.co/mcp/servers/github-taggartbg-vibeframe-387fa294)",
   "links": {
     "primary": "https://github.com/taggartbg/vibeframe",
     "repo": "https://github.com/taggartbg/vibeframe",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "yorkchanpru/mcp-ssh",
   "description": "Facilitates secure SSH access and command execution on remote virtual machines with comprehensive session management and error handling.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-yorkchanpru-mcp-ssh-94c0fa8a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yorkchanpru-mcp-ssh-94c0fa8a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yorkchanpru-mcp-ssh-94c0fa8a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yorkchanpru-mcp-ssh-94c0fa8a/badge.svg)](https://tensorblock.co/mcp/servers/github-yorkchanpru-mcp-ssh-94c0fa8a)",
   "links": {
     "primary": "https://github.com/yorkchanpru/mcp-ssh",
     "repo": "https://github.com/yorkchanpru/mcp-ssh",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

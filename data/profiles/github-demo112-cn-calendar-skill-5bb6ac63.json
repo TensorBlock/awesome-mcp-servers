@@ -1,0 +1,56 @@
+{
+  "id": "github-demo112-cn-calendar-skill-5bb6ac63",
+  "name": "demo112/cn-calendar-skill",
+  "description": "Chinese calendar and holiday queries — public holidays, workday schedules (调休), traditional festivals, and 24 solar terms (二十四节气) via MCP tools.",
+  "category": "Utilities & Helpers",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-demo112-cn-calendar-skill-5bb6ac63",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-demo112-cn-calendar-skill-5bb6ac63/badge.svg)](https://tensorblock.co/mcp/servers/github-demo112-cn-calendar-skill-5bb6ac63)",
+  "links": {
+    "primary": "https://github.com/demo112/cn-calendar-skill",
+    "repo": "https://github.com/demo112/cn-calendar-skill",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

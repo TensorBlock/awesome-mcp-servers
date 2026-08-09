@@ -3,8 +3,8 @@
   "name": "lechien73/mcp_email",
   "description": "Facilitates sending emails via Proton Mail or Gmail using MCP tools in Python.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-lechien73-mcp-email-831c6690",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lechien73-mcp-email-831c6690)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lechien73-mcp-email-831c6690",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lechien73-mcp-email-831c6690/badge.svg)](https://tensorblock.co/mcp/servers/github-lechien73-mcp-email-831c6690)",
   "links": {
     "primary": "https://github.com/lechien73/mcp_email",
     "repo": "https://github.com/lechien73/mcp_email",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

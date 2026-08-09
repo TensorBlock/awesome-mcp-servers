@@ -3,8 +3,8 @@
   "name": "T0UGH/mcp_server_my_lark_doc",
   "description": "Facilitates seamless access and search of Lark documents through a Model Context Protocol server with robust OAuth authentication.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-t0ugh-mcp-server-my-lark-doc-1555dbbe",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-t0ugh-mcp-server-my-lark-doc-1555dbbe)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-t0ugh-mcp-server-my-lark-doc-1555dbbe",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-t0ugh-mcp-server-my-lark-doc-1555dbbe/badge.svg)](https://tensorblock.co/mcp/servers/github-t0ugh-mcp-server-my-lark-doc-1555dbbe)",
   "links": {
     "primary": "https://github.com/T0UGH/mcp_server_my_lark_doc",
     "repo": "https://github.com/T0UGH/mcp_server_my_lark_doc",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "oauth",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

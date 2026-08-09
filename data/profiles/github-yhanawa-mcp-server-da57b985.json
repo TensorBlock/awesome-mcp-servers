@@ -3,8 +3,8 @@
   "name": "yhanawa/mcp_server",
   "description": "Facilitates API documentation access through an MCP server, utilizing scripts for web crawling and JSON/YAML data handling.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-yhanawa-mcp-server-da57b985",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yhanawa-mcp-server-da57b985)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yhanawa-mcp-server-da57b985",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yhanawa-mcp-server-da57b985/badge.svg)](https://tensorblock.co/mcp/servers/github-yhanawa-mcp-server-da57b985)",
   "links": {
     "primary": "https://github.com/yhanawa/mcp_server",
     "repo": "https://github.com/yhanawa/mcp_server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "aicoders-academy/ai-guards",
   "description": "AI Guards offers a framework for AI-driven development, integrating seamlessly with MCP-compatible tools to standardize code planning, review, execution, and verification processes.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-aicoders-academy-ai-guards-e3129909",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aicoders-academy-ai-guards-e3129909)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aicoders-academy-ai-guards-e3129909",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aicoders-academy-ai-guards-e3129909/badge.svg)](https://tensorblock.co/mcp/servers/github-aicoders-academy-ai-guards-e3129909)",
   "links": {
     "primary": "https://github.com/aicoders-academy/ai-guards",
     "repo": "https://github.com/aicoders-academy/ai-guards",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "wiseman/osm-mcp",
   "description": "Facilitates querying and visualizing OpenStreetMap data through a Model Context Protocol interface with web-based map viewing and PostgreSQL integration.",
   "category": "Location & Maps",
-  "profileUrl": "https://tensorblock.co/mcp/github-wiseman-osm-mcp-4bba3631",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wiseman-osm-mcp-4bba3631)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wiseman-osm-mcp-4bba3631",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wiseman-osm-mcp-4bba3631/badge.svg)](https://tensorblock.co/mcp/servers/github-wiseman-osm-mcp-4bba3631)",
   "links": {
     "primary": "https://github.com/wiseman/osm-mcp",
     "repo": "https://github.com/wiseman/osm-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

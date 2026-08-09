@@ -3,8 +3,8 @@
   "name": "jespino/developers-conferences-agenda-mcp",
   "description": "Facilitates access to developer conferences and events data, allowing users to search, filter, and retrieve information through MCP-compatible clients.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-jespino-developers-conferences-agenda-mcp-840d03ac",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jespino-developers-conferences-agenda-mcp-840d03ac)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jespino-developers-conferences-agenda-mcp-840d03ac",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jespino-developers-conferences-agenda-mcp-840d03ac/badge.svg)](https://tensorblock.co/mcp/servers/github-jespino-developers-conferences-agenda-mcp-840d03ac)",
   "links": {
     "primary": "https://github.com/jespino/developers-conferences-agenda-mcp",
     "repo": "https://github.com/jespino/developers-conferences-agenda-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

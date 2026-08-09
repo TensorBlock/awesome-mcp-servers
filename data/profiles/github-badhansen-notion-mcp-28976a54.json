@@ -3,8 +3,8 @@
   "name": "Badhansen/notion-mcp",
   "description": "Integrates with Notion's API to manage personal todo lists using the Model Context Protocol.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-badhansen-notion-mcp-28976a54",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-badhansen-notion-mcp-28976a54)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-badhansen-notion-mcp-28976a54",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-badhansen-notion-mcp-28976a54/badge.svg)](https://tensorblock.co/mcp/servers/github-badhansen-notion-mcp-28976a54)",
   "links": {
     "primary": "https://github.com/Badhansen/notion-mcp",
     "repo": "https://github.com/Badhansen/notion-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

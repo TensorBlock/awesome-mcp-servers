@@ -3,8 +3,8 @@
   "name": "mamisoa/mcp-alchemy",
   "description": "MCP Alchemy seamlessly integrates Claude Desktop with various databases, enabling advanced SQL query assistance and data analysis.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-mamisoa-mcp-alchemy-75a9e416",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mamisoa-mcp-alchemy-75a9e416)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mamisoa-mcp-alchemy-75a9e416",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mamisoa-mcp-alchemy-75a9e416/badge.svg)](https://tensorblock.co/mcp/servers/github-mamisoa-mcp-alchemy-75a9e416)",
   "links": {
     "primary": "https://github.com/mamisoa/mcp-alchemy",
     "repo": "https://github.com/mamisoa/mcp-alchemy",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

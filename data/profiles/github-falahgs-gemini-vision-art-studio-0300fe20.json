@@ -3,8 +3,8 @@
   "name": "falahgs/gemini-vision-art-studio",
   "description": "Gemini Vision Art Studio harnesses Google's Gemini AI to generate 3D cartoons and transform images with artistic flair.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-falahgs-gemini-vision-art-studio-0300fe20",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-falahgs-gemini-vision-art-studio-0300fe20)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-falahgs-gemini-vision-art-studio-0300fe20",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-falahgs-gemini-vision-art-studio-0300fe20/badge.svg)](https://tensorblock.co/mcp/servers/github-falahgs-gemini-vision-art-studio-0300fe20)",
   "links": {
     "primary": "https://github.com/falahgs/gemini-vision-art-studio",
     "repo": "https://github.com/falahgs/gemini-vision-art-studio",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Tlazypanda/aptos-mcp-server",
   "description": "Facilitates interaction with Aptos documentation and development of full-stack Aptos blockchain applications.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-tlazypanda-aptos-mcp-server-5e206000",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tlazypanda-aptos-mcp-server-5e206000)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tlazypanda-aptos-mcp-server-5e206000",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tlazypanda-aptos-mcp-server-5e206000/badge.svg)](https://tensorblock.co/mcp/servers/github-tlazypanda-aptos-mcp-server-5e206000)",
   "links": {
     "primary": "https://github.com/Tlazypanda/aptos-mcp-server",
     "repo": "https://github.com/Tlazypanda/aptos-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

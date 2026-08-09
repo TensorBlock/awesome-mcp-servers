@@ -3,8 +3,8 @@
   "name": "workopia/workopia-mcp",
   "description": "Hosted MCP server for job search (direct from employer career pages), PDF resume generation with 50+ templates and career advice. Free, no auth required. Endpoint: https://workopia.io/api/mcp-gpt",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-workopia-workopia-mcp-6e9c1984",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-workopia-workopia-mcp-6e9c1984)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-workopia-workopia-mcp-6e9c1984",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-workopia-workopia-mcp-6e9c1984/badge.svg)](https://tensorblock.co/mcp/servers/github-workopia-workopia-mcp-6e9c1984)",
   "links": {
     "primary": "https://github.com/workopia/workopia-mcp",
     "repo": "https://github.com/workopia/workopia-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": "https://workopia.io/api/mcp-gpt"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "none",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

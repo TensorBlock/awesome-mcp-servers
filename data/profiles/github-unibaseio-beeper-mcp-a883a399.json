@@ -3,8 +3,8 @@
   "name": "unibaseio/beeper-mcp",
   "description": "Facilitates beeper transactions on Binance Smart Chain with tools for balance management, token transfers, and swaps.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-unibaseio-beeper-mcp-a883a399",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-unibaseio-beeper-mcp-a883a399)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-unibaseio-beeper-mcp-a883a399",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-unibaseio-beeper-mcp-a883a399/badge.svg)](https://tensorblock.co/mcp/servers/github-unibaseio-beeper-mcp-a883a399)",
   "links": {
     "primary": "https://github.com/unibaseio/beeper-mcp",
     "repo": "https://github.com/unibaseio/beeper-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

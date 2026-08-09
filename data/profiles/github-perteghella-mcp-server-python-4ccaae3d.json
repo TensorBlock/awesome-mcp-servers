@@ -3,8 +3,8 @@
   "name": "Perteghella/MCP-Server-python",
   "description": "A Python-based MCP server demonstrating basic functionality and network exposure using SSE transport for testing and development.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-perteghella-mcp-server-python-4ccaae3d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-perteghella-mcp-server-python-4ccaae3d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-perteghella-mcp-server-python-4ccaae3d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-perteghella-mcp-server-python-4ccaae3d/badge.svg)](https://tensorblock.co/mcp/servers/github-perteghella-mcp-server-python-4ccaae3d)",
   "links": {
     "primary": "https://github.com/Perteghella/MCP-Server-python",
     "repo": "https://github.com/Perteghella/MCP-Server-python",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

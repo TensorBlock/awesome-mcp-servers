@@ -3,8 +3,8 @@
   "name": "egorov-ma/mcp-selenium-test",
   "description": "Automate browser testing using mcp-selenium, a Model Context Protocol implementation for Selenium WebDriver, enabling cross-platform browser control via API without local driver installations.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-egorov-ma-mcp-selenium-test-2433d15d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-egorov-ma-mcp-selenium-test-2433d15d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-egorov-ma-mcp-selenium-test-2433d15d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-egorov-ma-mcp-selenium-test-2433d15d/badge.svg)](https://tensorblock.co/mcp/servers/github-egorov-ma-mcp-selenium-test-2433d15d)",
   "links": {
     "primary": "https://github.com/egorov-ma/mcp-selenium-test",
     "repo": "https://github.com/egorov-ma/mcp-selenium-test",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

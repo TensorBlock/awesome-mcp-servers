@@ -49,6 +49,8 @@ const createValidEntry = (): CatalogEntry => ({
     source: "unknown"
   },
   license: "unknown",
+  installReady: false,
+  verifiedAt: null,
   health: {
     repoPublic: null,
     packageFound: null,

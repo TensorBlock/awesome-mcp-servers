@@ -1,0 +1,61 @@
+{
+  "id": "github-newrelic-experimental-preflight-c1bd3975",
+  "name": "newrelic-experimental/preflight",
+  "description": "Local-first observability MCP server for AI coding assistants — captures every tool call, tracks USD cost per session/day/week and per model, scores efficiency, and detects anti-patterns (re-reads, blind edits, stuck loops) on a live local dashboard. Offline by default (Apache-2.0); optional New Relic backend for team rollups and alerting. Works with Claude Code, Cursor, Windsurf, Copilot, Zed, Continue.dev, and Amazon Q. Install: `npx @newrelic/preflight setup`.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-newrelic-experimental-preflight-c1bd3975",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-newrelic-experimental-preflight-c1bd3975/badge.svg)](https://tensorblock.co/mcp/servers/github-newrelic-experimental-preflight-c1bd3975)",
+  "links": {
+    "primary": "https://github.com/newrelic-experimental/preflight",
+    "repo": "https://github.com/newrelic-experimental/preflight",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx @newrelic/preflight setup"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "Apache-2.0",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

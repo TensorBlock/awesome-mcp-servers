@@ -3,8 +3,8 @@
   "name": "mat-griffin/jamf-mcp",
   "description": "Integrates with Jamf Pro to query computer information using Cursor AI, allowing for detailed management and security insights.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-mat-griffin-jamf-mcp-12a6a7cf",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mat-griffin-jamf-mcp-12a6a7cf)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mat-griffin-jamf-mcp-12a6a7cf",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mat-griffin-jamf-mcp-12a6a7cf/badge.svg)](https://tensorblock.co/mcp/servers/github-mat-griffin-jamf-mcp-12a6a7cf)",
   "links": {
     "primary": "https://github.com/mat-griffin/jamf-mcp",
     "repo": "https://github.com/mat-griffin/jamf-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

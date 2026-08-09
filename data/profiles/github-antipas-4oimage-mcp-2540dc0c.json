@@ -3,8 +3,8 @@
   "name": "Antipas/4oimage-mcp",
   "description": "Integrates with 4o-image API to enable AI-driven image generation and editing through text prompts.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-antipas-4oimage-mcp-2540dc0c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-antipas-4oimage-mcp-2540dc0c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-antipas-4oimage-mcp-2540dc0c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-antipas-4oimage-mcp-2540dc0c/badge.svg)](https://tensorblock.co/mcp/servers/github-antipas-4oimage-mcp-2540dc0c)",
   "links": {
     "primary": "https://github.com/Antipas/4oimage-mcp",
     "repo": "https://github.com/Antipas/4oimage-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

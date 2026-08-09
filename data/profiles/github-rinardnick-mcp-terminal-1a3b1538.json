@@ -3,8 +3,8 @@
   "name": "RinardNick/mcp-terminal",
   "description": "Provides secure terminal access for executing shell commands with robust security and resource controls.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-rinardnick-mcp-terminal-1a3b1538",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rinardnick-mcp-terminal-1a3b1538)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rinardnick-mcp-terminal-1a3b1538",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rinardnick-mcp-terminal-1a3b1538/badge.svg)](https://tensorblock.co/mcp/servers/github-rinardnick-mcp-terminal-1a3b1538)",
   "links": {
     "primary": "https://github.com/RinardNick/mcp-terminal",
     "repo": "https://github.com/RinardNick/mcp-terminal",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

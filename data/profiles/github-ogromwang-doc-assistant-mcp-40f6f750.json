@@ -3,8 +3,8 @@
   "name": "ogromwang/doc-assistant-mcp",
   "description": "A personalized document assistant server enabling semantic search across various document formats using the MCP protocol.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-ogromwang-doc-assistant-mcp-40f6f750",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ogromwang-doc-assistant-mcp-40f6f750)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ogromwang-doc-assistant-mcp-40f6f750",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ogromwang-doc-assistant-mcp-40f6f750/badge.svg)](https://tensorblock.co/mcp/servers/github-ogromwang-doc-assistant-mcp-40f6f750)",
   "links": {
     "primary": "https://github.com/ogromwang/doc-assistant-mcp",
     "repo": "https://github.com/ogromwang/doc-assistant-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Agent Trust Stack MCP",
   "description": "Cryptographic provenance, trust scoring, and tamper-evident logging for AI agent interactions via the Chain of Consciousness protocol.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-alexfleetcommander-agent-trust-stack-mcp-8c3ec908",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexfleetcommander-agent-trust-stack-mcp-8c3ec908)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-alexfleetcommander-agent-trust-stack-mcp-8c3ec908",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-alexfleetcommander-agent-trust-stack-mcp-8c3ec908/badge.svg)](https://tensorblock.co/mcp/servers/github-alexfleetcommander-agent-trust-stack-mcp-8c3ec908)",
   "links": {
     "primary": "https://github.com/alexfleetcommander/agent-trust-stack-mcp",
     "repo": "https://github.com/alexfleetcommander/agent-trust-stack-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

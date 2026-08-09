@@ -3,14 +3,46 @@
   "name": "msl2246/rmcpp",
   "description": "A versatile proxy tool enabling seamless communication between stdio and SSE transports for MCP servers.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-msl2246-rmcpp-14206a3f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-msl2246-rmcpp-14206a3f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-msl2246-rmcpp-14206a3f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-msl2246-rmcpp-14206a3f/badge.svg)](https://tensorblock.co/mcp/servers/github-msl2246-rmcpp-14206a3f)",
   "links": {
     "primary": "https://github.com/msl2246/rmcpp",
     "repo": "https://github.com/msl2246/rmcpp",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "aiuluna/knowledge-graph-mcp",
   "description": "Facilitates the creation, management, and visualization of knowledge graphs with seamless integration into MCP-compatible AI assistants.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-aiuluna-knowledge-graph-mcp-67e47406",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aiuluna-knowledge-graph-mcp-67e47406)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aiuluna-knowledge-graph-mcp-67e47406",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aiuluna-knowledge-graph-mcp-67e47406/badge.svg)](https://tensorblock.co/mcp/servers/github-aiuluna-knowledge-graph-mcp-67e47406)",
   "links": {
     "primary": "https://github.com/aiuluna/knowledge-graph-mcp",
     "repo": "https://github.com/aiuluna/knowledge-graph-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

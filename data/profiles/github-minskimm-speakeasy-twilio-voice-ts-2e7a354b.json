@@ -3,8 +3,8 @@
   "name": "minskimm/speakeasy-twilio-voice-ts",
   "description": "A TypeScript SDK that provides a developer-friendly interface to the Twilio Voice API, with MCP server capabilities for AI applications.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-minskimm-speakeasy-twilio-voice-ts-2e7a354b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-minskimm-speakeasy-twilio-voice-ts-2e7a354b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-minskimm-speakeasy-twilio-voice-ts-2e7a354b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-minskimm-speakeasy-twilio-voice-ts-2e7a354b/badge.svg)](https://tensorblock.co/mcp/servers/github-minskimm-speakeasy-twilio-voice-ts-2e7a354b)",
   "links": {
     "primary": "https://github.com/minskimm/speakeasy-twilio-voice-ts",
     "repo": "https://github.com/minskimm/speakeasy-twilio-voice-ts",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

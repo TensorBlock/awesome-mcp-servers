@@ -3,8 +3,8 @@
   "name": "tumf/mcp-text-editor",
   "description": "Facilitates efficient line-based text file editing with robust conflict detection, optimized for LLM tools through token-efficient partial file access.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-tumf-mcp-text-editor-39f0119a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tumf-mcp-text-editor-39f0119a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tumf-mcp-text-editor-39f0119a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tumf-mcp-text-editor-39f0119a/badge.svg)](https://tensorblock.co/mcp/servers/github-tumf-mcp-text-editor-39f0119a)",
   "links": {
     "primary": "https://github.com/tumf/mcp-text-editor",
     "repo": "https://github.com/tumf/mcp-text-editor",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

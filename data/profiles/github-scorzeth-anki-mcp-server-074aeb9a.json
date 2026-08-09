@@ -3,8 +3,8 @@
   "name": "scorzeth/anki-mcp-server",
   "description": "Facilitates seamless interaction with Anki for card review and creation through a locally connected MCP server.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-scorzeth-anki-mcp-server-074aeb9a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-scorzeth-anki-mcp-server-074aeb9a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-scorzeth-anki-mcp-server-074aeb9a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-scorzeth-anki-mcp-server-074aeb9a/badge.svg)](https://tensorblock.co/mcp/servers/github-scorzeth-anki-mcp-server-074aeb9a)",
   "links": {
     "primary": "https://github.com/scorzeth/anki-mcp-server",
     "repo": "https://github.com/scorzeth/anki-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

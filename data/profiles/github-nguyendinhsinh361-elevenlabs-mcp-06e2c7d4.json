@@ -3,8 +3,8 @@
   "name": "nguyendinhsinh361/elevenlabs-mcp",
   "description": "Facilitates interaction with ElevenLabs' Text to Speech and audio processing APIs, enabling MCP clients to generate speech, clone voices, and transcribe audio.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-nguyendinhsinh361-elevenlabs-mcp-06e2c7d4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nguyendinhsinh361-elevenlabs-mcp-06e2c7d4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nguyendinhsinh361-elevenlabs-mcp-06e2c7d4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nguyendinhsinh361-elevenlabs-mcp-06e2c7d4/badge.svg)](https://tensorblock.co/mcp/servers/github-nguyendinhsinh361-elevenlabs-mcp-06e2c7d4)",
   "links": {
     "primary": "https://github.com/nguyendinhsinh361/elevenlabs-mcp",
     "repo": "https://github.com/nguyendinhsinh361/elevenlabs-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Muhammadtallah/google-sheet",
   "description": "Facilitates AI-driven interactions with Google Sheets through a Model Context Protocol connector, enabling seamless spreadsheet management and data manipulation.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-muhammadtallah-google-sheet-cda068ae",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-muhammadtallah-google-sheet-cda068ae)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-muhammadtallah-google-sheet-cda068ae",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-muhammadtallah-google-sheet-cda068ae/badge.svg)](https://tensorblock.co/mcp/servers/github-muhammadtallah-google-sheet-cda068ae)",
   "links": {
     "primary": "https://github.com/Muhammadtallah/google-sheet",
     "repo": "https://github.com/Muhammadtallah/google-sheet",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "amornpan/py-mcp-mysql",
   "description": "Facilitates secure MySQL database interactions for AI assistants through a structured MCP server interface.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-amornpan-py-mcp-mysql-e4c0eb65",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amornpan-py-mcp-mysql-e4c0eb65)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-amornpan-py-mcp-mysql-e4c0eb65",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-amornpan-py-mcp-mysql-e4c0eb65/badge.svg)](https://tensorblock.co/mcp/servers/github-amornpan-py-mcp-mysql-e4c0eb65)",
   "links": {
     "primary": "https://github.com/amornpan/py-mcp-mysql",
     "repo": "https://github.com/amornpan/py-mcp-mysql",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

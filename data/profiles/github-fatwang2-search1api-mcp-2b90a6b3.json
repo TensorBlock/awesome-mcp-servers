@@ -3,8 +3,8 @@
   "name": "fatwang2/search1api-mcp",
   "description": "Facilitates search and crawl operations using Search1API, offering seamless integration with various MCP clients.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-fatwang2-search1api-mcp-2b90a6b3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fatwang2-search1api-mcp-2b90a6b3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fatwang2-search1api-mcp-2b90a6b3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fatwang2-search1api-mcp-2b90a6b3/badge.svg)](https://tensorblock.co/mcp/servers/github-fatwang2-search1api-mcp-2b90a6b3)",
   "links": {
     "primary": "https://github.com/fatwang2/search1api-mcp",
     "repo": "https://github.com/fatwang2/search1api-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

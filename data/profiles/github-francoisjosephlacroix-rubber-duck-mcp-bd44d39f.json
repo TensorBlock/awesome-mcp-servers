@@ -3,8 +3,8 @@
   "name": "francoisjosephlacroix/rubber-duck-mcp",
   "description": "A debugging tool for LLMs that uses a rubber duck metaphor to help organize thoughts and debug code effectively.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-francoisjosephlacroix-rubber-duck-mcp-bd44d39f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-francoisjosephlacroix-rubber-duck-mcp-bd44d39f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-francoisjosephlacroix-rubber-duck-mcp-bd44d39f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-francoisjosephlacroix-rubber-duck-mcp-bd44d39f/badge.svg)](https://tensorblock.co/mcp/servers/github-francoisjosephlacroix-rubber-duck-mcp-bd44d39f)",
   "links": {
     "primary": "https://github.com/francoisjosephlacroix/rubber-duck-mcp",
     "repo": "https://github.com/francoisjosephlacroix/rubber-duck-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

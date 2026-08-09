@@ -3,8 +3,8 @@
   "name": "yifanyifan897645/webcheck-mcp",
   "description": "Website health checker MCP server: SEO audit, accessibility scan, broken link detection, and performance analysis.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-yifanyifan897645-webcheck-mcp-2327c55a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yifanyifan897645-webcheck-mcp-2327c55a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yifanyifan897645-webcheck-mcp-2327c55a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yifanyifan897645-webcheck-mcp-2327c55a/badge.svg)](https://tensorblock.co/mcp/servers/github-yifanyifan897645-webcheck-mcp-2327c55a)",
   "links": {
     "primary": "https://github.com/yifanyifan897645/webcheck-mcp",
     "repo": "https://github.com/yifanyifan897645/webcheck-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

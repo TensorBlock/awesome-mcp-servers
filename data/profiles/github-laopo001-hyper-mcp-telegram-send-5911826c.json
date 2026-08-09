@@ -3,8 +3,8 @@
   "name": "laopo001/hyper-mcp-telegram-send",
   "description": "A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-laopo001-hyper-mcp-telegram-send-5911826c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-laopo001-hyper-mcp-telegram-send-5911826c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-laopo001-hyper-mcp-telegram-send-5911826c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-laopo001-hyper-mcp-telegram-send-5911826c/badge.svg)](https://tensorblock.co/mcp/servers/github-laopo001-hyper-mcp-telegram-send-5911826c)",
   "links": {
     "primary": "https://github.com/laopo001/hyper-mcp-telegram-send",
     "repo": "https://github.com/laopo001/hyper-mcp-telegram-send",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

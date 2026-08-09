@@ -3,8 +3,8 @@
   "name": "Rupeebw/mcp-image-reader",
   "description": "A TypeScript-based MCP server that facilitates the creation, management, and summarization of text notes using URIs and metadata.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-rupeebw-mcp-image-reader-56ee3b66",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rupeebw-mcp-image-reader-56ee3b66)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rupeebw-mcp-image-reader-56ee3b66",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rupeebw-mcp-image-reader-56ee3b66/badge.svg)](https://tensorblock.co/mcp/servers/github-rupeebw-mcp-image-reader-56ee3b66)",
   "links": {
     "primary": "https://github.com/Rupeebw/mcp-image-reader",
     "repo": "https://github.com/Rupeebw/mcp-image-reader",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

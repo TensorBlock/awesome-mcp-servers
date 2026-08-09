@@ -3,8 +3,8 @@
   "name": "rickydata-indexer/notion_mcp_server",
   "description": "Access and query your Notion knowledge base seamlessly through the Cline VSCode extension, leveraging FastMCP for robust performance.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-rickydata-indexer-notion-mcp-server-379d20e7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rickydata-indexer-notion-mcp-server-379d20e7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rickydata-indexer-notion-mcp-server-379d20e7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rickydata-indexer-notion-mcp-server-379d20e7/badge.svg)](https://tensorblock.co/mcp/servers/github-rickydata-indexer-notion-mcp-server-379d20e7)",
   "links": {
     "primary": "https://github.com/rickydata-indexer/notion_mcp_server",
     "repo": "https://github.com/rickydata-indexer/notion_mcp_server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

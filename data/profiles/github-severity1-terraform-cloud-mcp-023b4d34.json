@@ -3,8 +3,8 @@
   "name": "severity1/terraform-cloud-mcp",
   "description": "Integrates AI assistants with Terraform Cloud API for infrastructure management through natural conversation.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-severity1-terraform-cloud-mcp-023b4d34",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-severity1-terraform-cloud-mcp-023b4d34)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-severity1-terraform-cloud-mcp-023b4d34",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-severity1-terraform-cloud-mcp-023b4d34/badge.svg)](https://tensorblock.co/mcp/servers/github-severity1-terraform-cloud-mcp-023b4d34)",
   "links": {
     "primary": "https://github.com/severity1/terraform-cloud-mcp",
     "repo": "https://github.com/severity1/terraform-cloud-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "tomiyasu0428/100try86_mcp_spredsheet",
   "description": "Facilitates natural language operations on Google Sheets through an MCP server, enabling spreadsheet management and data manipulation.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-tomiyasu0428-100try86-mcp-spredsheet-827d9839",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tomiyasu0428-100try86-mcp-spredsheet-827d9839)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tomiyasu0428-100try86-mcp-spredsheet-827d9839",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tomiyasu0428-100try86-mcp-spredsheet-827d9839/badge.svg)](https://tensorblock.co/mcp/servers/github-tomiyasu0428-100try86-mcp-spredsheet-827d9839)",
   "links": {
     "primary": "https://github.com/tomiyasu0428/100try86_mcp_spredsheet",
     "repo": "https://github.com/tomiyasu0428/100try86_mcp_spredsheet",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

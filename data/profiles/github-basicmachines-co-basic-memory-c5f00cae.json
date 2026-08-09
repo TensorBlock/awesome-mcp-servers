@@ -3,8 +3,8 @@
   "name": "basicmachines-co/basic-memory",
   "description": "Basic Memory enables persistent knowledge management through AI conversations, storing data in Markdown files for seamless integration with tools like Obsidian.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-basicmachines-co-basic-memory-c5f00cae",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-basicmachines-co-basic-memory-c5f00cae)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-basicmachines-co-basic-memory-c5f00cae",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-basicmachines-co-basic-memory-c5f00cae/badge.svg)](https://tensorblock.co/mcp/servers/github-basicmachines-co-basic-memory-c5f00cae)",
   "links": {
     "primary": "https://github.com/basicmachines-co/basic-memory",
     "repo": "https://github.com/basicmachines-co/basic-memory",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

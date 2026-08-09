@@ -3,8 +3,8 @@
   "name": "yurenju/uniswap-mcp",
   "description": "Implements the Model Context Protocol for Uniswap, enabling token swaps and wallet management on the Optimism network with Claude Desktop integration.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-yurenju-uniswap-mcp-3c0787ac",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yurenju-uniswap-mcp-3c0787ac)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yurenju-uniswap-mcp-3c0787ac",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yurenju-uniswap-mcp-3c0787ac/badge.svg)](https://tensorblock.co/mcp/servers/github-yurenju-uniswap-mcp-3c0787ac)",
   "links": {
     "primary": "https://github.com/yurenju/uniswap-mcp",
     "repo": "https://github.com/yurenju/uniswap-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

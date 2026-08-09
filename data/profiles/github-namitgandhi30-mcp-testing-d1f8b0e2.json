@@ -3,8 +3,8 @@
   "name": "NamitGandhi30/mcp--testing",
   "description": "A web application designed to test and verify connections to MCP servers with an interactive JSON configuration interface.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-namitgandhi30-mcp-testing-d1f8b0e2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-namitgandhi30-mcp-testing-d1f8b0e2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-namitgandhi30-mcp-testing-d1f8b0e2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-namitgandhi30-mcp-testing-d1f8b0e2/badge.svg)](https://tensorblock.co/mcp/servers/github-namitgandhi30-mcp-testing-d1f8b0e2)",
   "links": {
     "primary": "https://github.com/NamitGandhi30/mcp--testing",
     "repo": "https://github.com/NamitGandhi30/mcp--testing",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

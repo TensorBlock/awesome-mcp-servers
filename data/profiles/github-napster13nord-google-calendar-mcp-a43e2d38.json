@@ -3,8 +3,8 @@
   "name": "Napster13Nord/google-calendar-mcp",
   "description": "Facilitates interaction with Google Calendar through Claude, enabling event management and scheduling.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-napster13nord-google-calendar-mcp-a43e2d38",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-napster13nord-google-calendar-mcp-a43e2d38)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-napster13nord-google-calendar-mcp-a43e2d38",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-napster13nord-google-calendar-mcp-a43e2d38/badge.svg)](https://tensorblock.co/mcp/servers/github-napster13nord-google-calendar-mcp-a43e2d38)",
   "links": {
     "primary": "https://github.com/Napster13Nord/google-calendar-mcp",
     "repo": "https://github.com/Napster13Nord/google-calendar-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

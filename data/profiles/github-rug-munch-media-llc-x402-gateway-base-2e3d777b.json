@@ -1,0 +1,56 @@
+{
+  "id": "github-rug-munch-media-llc-x402-gateway-base-2e3d777b",
+  "name": "Rug-Munch-Media-LLC/x402-gateway-base",
+  "description": "175 crypto security & analytics tools via x402 micropayments — 21 RMI tools + 154 MCP tools across 28 services (DexScreener, Jupiter, Birdeye, GMGN, Arkham, Nansen, CoinGecko, DeFiLlama). Base+Solana, free trials, auto-refund guarantee. $0.01-$0.15 USDC per call. [Discovery](https://x402-base.cryptorugmuncher.workers.dev/.well-known/x402) | [Live Gateway](https://x402-base.cryptorugmuncher.workers.dev) | [Smithery](https://smithery.ai/servers/@cryptorugmuncher/x402-base)",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rug-munch-media-llc-x402-gateway-base-2e3d777b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rug-munch-media-llc-x402-gateway-base-2e3d777b/badge.svg)](https://tensorblock.co/mcp/servers/github-rug-munch-media-llc-x402-gateway-base-2e3d777b)",
+  "links": {
+    "primary": "https://github.com/Rug-Munch-Media-LLC/x402-gateway-base",
+    "repo": "https://github.com/Rug-Munch-Media-LLC/x402-gateway-base",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 154
+  }
+}

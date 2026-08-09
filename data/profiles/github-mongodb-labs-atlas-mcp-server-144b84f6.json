@@ -3,8 +3,8 @@
   "name": "mongodb-labs/atlas-mcp-server",
   "description": "Facilitates interaction with MongoDB Atlas through a Model Context Protocol server, enabling seamless integration with tools like VSCode and Claude.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-mongodb-labs-atlas-mcp-server-144b84f6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mongodb-labs-atlas-mcp-server-144b84f6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mongodb-labs-atlas-mcp-server-144b84f6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mongodb-labs-atlas-mcp-server-144b84f6/badge.svg)](https://tensorblock.co/mcp/servers/github-mongodb-labs-atlas-mcp-server-144b84f6)",
   "links": {
     "primary": "https://github.com/mongodb-labs/atlas-mcp-server",
     "repo": "https://github.com/mongodb-labs/atlas-mcp-server",
@@ -12,12 +12,47 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

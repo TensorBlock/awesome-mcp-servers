@@ -3,8 +3,8 @@
   "name": "kabragaurav/MCP-Server-AI",
   "description": "A Model Context Protocol server designed to facilitate AI use cases by enabling LLMs to interact with external tools and services.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-kabragaurav-mcp-server-ai-13410b47",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kabragaurav-mcp-server-ai-13410b47)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kabragaurav-mcp-server-ai-13410b47",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kabragaurav-mcp-server-ai-13410b47/badge.svg)](https://tensorblock.co/mcp/servers/github-kabragaurav-mcp-server-ai-13410b47)",
   "links": {
     "primary": "https://github.com/kabragaurav/MCP-Server-AI",
     "repo": "https://github.com/kabragaurav/MCP-Server-AI",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

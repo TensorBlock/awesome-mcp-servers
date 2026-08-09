@@ -1,0 +1,58 @@
+{
+  "id": "github-aboudjem-ui-ux-suite-c1e0248a",
+  "name": "Aboudjem/ui-ux-suite",
+  "description": "UI/UX design-audit server that scores a project across 12 dimensions including color contrast, typography, accessibility, layout, and spacing against WCAG 2.2 and APCA. Install with `npx -y ui-ux-suite`.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aboudjem-ui-ux-suite-c1e0248a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aboudjem-ui-ux-suite-c1e0248a/badge.svg)](https://tensorblock.co/mcp/servers/github-aboudjem-ui-ux-suite-c1e0248a)",
+  "links": {
+    "primary": "https://github.com/Aboudjem/ui-ux-suite",
+    "repo": "https://github.com/Aboudjem/ui-ux-suite",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y ui-ux-suite"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

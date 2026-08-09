@@ -3,8 +3,8 @@
   "name": "jaacob/perplexity-mcp",
   "description": "Enables Claude Desktop to perform web searches using Perplexity's API for enhanced information retrieval.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-jaacob-perplexity-mcp-c3898095",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jaacob-perplexity-mcp-c3898095)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jaacob-perplexity-mcp-c3898095",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jaacob-perplexity-mcp-c3898095/badge.svg)](https://tensorblock.co/mcp/servers/github-jaacob-perplexity-mcp-c3898095)",
   "links": {
     "primary": "https://github.com/jaacob/perplexity-mcp",
     "repo": "https://github.com/jaacob/perplexity-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

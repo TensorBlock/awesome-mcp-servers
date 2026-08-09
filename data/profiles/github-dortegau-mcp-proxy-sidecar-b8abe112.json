@@ -3,8 +3,8 @@
   "name": "dortegau/mcp-proxy-sidecar",
   "description": "Enhances the JetBrains MCP Server with real-time WebSocket monitoring for all MCP interactions.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-dortegau-mcp-proxy-sidecar-b8abe112",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dortegau-mcp-proxy-sidecar-b8abe112)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dortegau-mcp-proxy-sidecar-b8abe112",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dortegau-mcp-proxy-sidecar-b8abe112/badge.svg)](https://tensorblock.co/mcp/servers/github-dortegau-mcp-proxy-sidecar-b8abe112)",
   "links": {
     "primary": "https://github.com/dortegau/mcp-proxy-sidecar",
     "repo": "https://github.com/dortegau/mcp-proxy-sidecar",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

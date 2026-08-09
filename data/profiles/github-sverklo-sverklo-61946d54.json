@@ -1,0 +1,63 @@
+{
+  "id": "github-sverklo-sverklo-61946d54",
+  "name": "sverklo/sverklo",
+  "description": "Local-first repo memory and code-intelligence MCP for Claude Code, Cursor, Windsurf, and Codex CLI. Provides semantic search, symbol lookup, impact analysis, diff-aware review, and git-pinned decisions over stdio with no API key. Install: `npm install -g sverklo`; proof-first trial: `npm exec --yes --package=sverklo@latest -- sverklo prove --no-write --guided --markdown`.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sverklo-sverklo-61946d54",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sverklo-sverklo-61946d54/badge.svg)](https://tensorblock.co/mcp/servers/github-sverklo-sverklo-61946d54)",
+  "links": {
+    "primary": "https://github.com/sverklo/sverklo",
+    "repo": "https://github.com/sverklo/sverklo",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npm install -g sverklo",
+      "npm exec --yes --package=sverklo@latest -- sverklo prove --no-write --guided --markdown"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

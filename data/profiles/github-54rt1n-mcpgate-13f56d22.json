@@ -3,14 +3,46 @@
   "name": "54rt1n/mcpgate",
   "description": "MCPGate facilitates seamless communication between local applications and remote MCP servers through a reliable stdio-to-HTTP bridge.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-54rt1n-mcpgate-13f56d22",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-54rt1n-mcpgate-13f56d22)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-54rt1n-mcpgate-13f56d22",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-54rt1n-mcpgate-13f56d22/badge.svg)](https://tensorblock.co/mcp/servers/github-54rt1n-mcpgate-13f56d22)",
   "links": {
     "primary": "https://github.com/54rt1n/mcpgate",
     "repo": "https://github.com/54rt1n/mcpgate",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

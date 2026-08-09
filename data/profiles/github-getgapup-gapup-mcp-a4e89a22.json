@@ -1,0 +1,56 @@
+{
+  "id": "github-getgapup-gapup-mcp-a4e89a22",
+  "name": "Gapup MCP Knowledge",
+  "description": "175-tool gold-standard MCP server for AI agents across 8 verticals: compliance & AI governance (EU AI Act, GDPR, 6-source sanctions OFAC/UN/EU/UK/SECO/AUSTRAC), competitive intelligence, trade intelligence, financial models (DCF/LBO/3-statement), patent FTO, KYC/AML, content/ad-tech taxonomy, geo/macro. Remote HTTP at mcp.gapup.io.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-getgapup-gapup-mcp-a4e89a22",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-getgapup-gapup-mcp-a4e89a22/badge.svg)](https://tensorblock.co/mcp/servers/github-getgapup-gapup-mcp-a4e89a22)",
+  "links": {
+    "primary": "https://github.com/getgapup/gapup-mcp",
+    "repo": "https://github.com/getgapup/gapup-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "KashiwaByte/vikingdb-mcp-server",
   "description": "Facilitates high-performance data storage and search operations using VikingDB.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-kashiwabyte-vikingdb-mcp-server-bb76ee73",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kashiwabyte-vikingdb-mcp-server-bb76ee73)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kashiwabyte-vikingdb-mcp-server-bb76ee73",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kashiwabyte-vikingdb-mcp-server-bb76ee73/badge.svg)](https://tensorblock.co/mcp/servers/github-kashiwabyte-vikingdb-mcp-server-bb76ee73)",
   "links": {
     "primary": "https://github.com/KashiwaByte/vikingdb-mcp-server",
     "repo": "https://github.com/KashiwaByte/vikingdb-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

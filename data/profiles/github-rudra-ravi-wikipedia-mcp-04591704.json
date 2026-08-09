@@ -3,8 +3,8 @@
   "name": "Rudra-ravi/wikipedia-mcp",
   "description": "Facilitates LLMs with contextual information from Wikipedia by retrieving and processing article content.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-rudra-ravi-wikipedia-mcp-04591704",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rudra-ravi-wikipedia-mcp-04591704)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rudra-ravi-wikipedia-mcp-04591704",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rudra-ravi-wikipedia-mcp-04591704/badge.svg)](https://tensorblock.co/mcp/servers/github-rudra-ravi-wikipedia-mcp-04591704)",
   "links": {
     "primary": "https://github.com/Rudra-ravi/wikipedia-mcp",
     "repo": "https://github.com/Rudra-ravi/wikipedia-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

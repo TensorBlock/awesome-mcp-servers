@@ -3,8 +3,8 @@
   "name": "manimohans/verge-news-mcp",
   "description": "Fetch and search The Verge news articles via an MCP server, integrating seamlessly with tools like Claude and Smithery.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-manimohans-verge-news-mcp-c7de90a8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-manimohans-verge-news-mcp-c7de90a8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-manimohans-verge-news-mcp-c7de90a8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-manimohans-verge-news-mcp-c7de90a8/badge.svg)](https://tensorblock.co/mcp/servers/github-manimohans-verge-news-mcp-c7de90a8)",
   "links": {
     "primary": "https://github.com/manimohans/verge-news-mcp",
     "repo": "https://github.com/manimohans/verge-news-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

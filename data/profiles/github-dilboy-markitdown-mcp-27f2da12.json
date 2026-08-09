@@ -3,14 +3,46 @@
   "name": "dilboy/markitdown-mcp",
   "description": "Facilitates the conversion of various URI types to Markdown using a lightweight MCP server with STDIO and SSE support.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-dilboy-markitdown-mcp-27f2da12",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dilboy-markitdown-mcp-27f2da12)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dilboy-markitdown-mcp-27f2da12",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dilboy-markitdown-mcp-27f2da12/badge.svg)](https://tensorblock.co/mcp/servers/github-dilboy-markitdown-mcp-27f2da12)",
   "links": {
     "primary": "https://github.com/dilboy/markitdown-mcp",
     "repo": "https://github.com/dilboy/markitdown-mcp",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

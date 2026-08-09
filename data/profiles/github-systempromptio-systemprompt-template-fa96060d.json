@@ -1,0 +1,56 @@
+{
+  "id": "github-systempromptio-systemprompt-template-fa96060d",
+  "name": "systempromptio/systemprompt-template",
+  "description": "Rust infrastructure runtime for hosting and governing MCP servers. Built-in RBAC, secret detection, rate limiting, audit logging, OAuth 2.0. Single ~50MB binary, no Kubernetes. [BSL-1.1]",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-systempromptio-systemprompt-template-fa96060d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-systempromptio-systemprompt-template-fa96060d/badge.svg)](https://tensorblock.co/mcp/servers/github-systempromptio-systemprompt-template-fa96060d)",
+  "links": {
+    "primary": "https://github.com/systempromptio/systemprompt-template",
+    "repo": "https://github.com/systempromptio/systemprompt-template",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

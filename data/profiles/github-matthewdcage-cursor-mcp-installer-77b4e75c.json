@@ -3,8 +3,8 @@
   "name": "matthewdcage/cursor-mcp-installer",
   "description": "Facilitates the installation and configuration of MCP servers within the Cursor IDE, streamlining server setup and management.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-matthewdcage-cursor-mcp-installer-77b4e75c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-matthewdcage-cursor-mcp-installer-77b4e75c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-matthewdcage-cursor-mcp-installer-77b4e75c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-matthewdcage-cursor-mcp-installer-77b4e75c/badge.svg)](https://tensorblock.co/mcp/servers/github-matthewdcage-cursor-mcp-installer-77b4e75c)",
   "links": {
     "primary": "https://github.com/matthewdcage/cursor-mcp-installer",
     "repo": "https://github.com/matthewdcage/cursor-mcp-installer",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,56 @@
+{
+  "id": "github-estevecastells-llmpulse-mcp-712dfa7e",
+  "name": "estevecastells/llmpulse-mcp",
+  "description": "AI search visibility (GEO/AEO) data for any MCP client: brand mentions, citations, share of voice, and AI-referred traffic across ChatGPT, Perplexity, Gemini, and Google AI Overviews. Remote endpoint: `https://llmpulse.ai/api/v1/mcp` (Bearer auth).",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-estevecastells-llmpulse-mcp-712dfa7e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-estevecastells-llmpulse-mcp-712dfa7e/badge.svg)](https://tensorblock.co/mcp/servers/github-estevecastells-llmpulse-mcp-712dfa7e)",
+  "links": {
+    "primary": "https://github.com/estevecastells/llmpulse-mcp",
+    "repo": "https://github.com/estevecastells/llmpulse-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://llmpulse.ai/api/v1/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "bearer",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "anton-107/mcp-server-dabs",
   "description": "Facilitates the execution of Databricks Assets Bundle commands locally via an MCP server.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-anton-107-mcp-server-dabs-f56f6070",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anton-107-mcp-server-dabs-f56f6070)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-anton-107-mcp-server-dabs-f56f6070",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-anton-107-mcp-server-dabs-f56f6070/badge.svg)](https://tensorblock.co/mcp/servers/github-anton-107-mcp-server-dabs-f56f6070)",
   "links": {
     "primary": "https://github.com/anton-107/mcp-server-dabs",
     "repo": "https://github.com/anton-107/mcp-server-dabs",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

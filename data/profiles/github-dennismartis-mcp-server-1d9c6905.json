@@ -3,8 +3,8 @@
   "name": "dennismartis/mcp-server",
   "description": "A basic MCP server implementing a note storage system with custom URI schemes and summarization capabilities.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-dennismartis-mcp-server-1d9c6905",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dennismartis-mcp-server-1d9c6905)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dennismartis-mcp-server-1d9c6905",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dennismartis-mcp-server-1d9c6905/badge.svg)](https://tensorblock.co/mcp/servers/github-dennismartis-mcp-server-1d9c6905)",
   "links": {
     "primary": "https://github.com/dennismartis/mcp-server",
     "repo": "https://github.com/dennismartis/mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

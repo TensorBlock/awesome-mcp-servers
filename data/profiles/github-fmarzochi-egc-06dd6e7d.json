@@ -1,0 +1,63 @@
+{
+  "id": "github-fmarzochi-egc-06dd6e7d",
+  "name": "EGC",
+  "description": "Persistent cross-session memory MCP server for 13+ AI coding tools including Claude Code, Cursor, Gemini CLI, Codex, Windsurf, Amp, Kiro, and VS Code Copilot. SQLite-backed state survives context resets. Install: `npm install -g @egchq/egc`.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fmarzochi-egc-06dd6e7d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fmarzochi-egc-06dd6e7d/badge.svg)](https://tensorblock.co/mcp/servers/github-fmarzochi-egc-06dd6e7d)",
+  "links": {
+    "primary": "https://github.com/Fmarzochi/EGC",
+    "repo": "https://github.com/Fmarzochi/EGC",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npm install -g @egchq/egc"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

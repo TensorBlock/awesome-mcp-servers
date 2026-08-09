@@ -3,8 +3,8 @@
   "name": "chigwell/telegram-mcp",
   "description": "Facilitates direct interaction with Telegram chats through MCP-compatible hosts using Python and Telethon.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-chigwell-telegram-mcp-1d8e4df7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chigwell-telegram-mcp-1d8e4df7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-chigwell-telegram-mcp-1d8e4df7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-chigwell-telegram-mcp-1d8e4df7/badge.svg)](https://tensorblock.co/mcp/servers/github-chigwell-telegram-mcp-1d8e4df7)",
   "links": {
     "primary": "https://github.com/chigwell/telegram-mcp",
     "repo": "https://github.com/chigwell/telegram-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

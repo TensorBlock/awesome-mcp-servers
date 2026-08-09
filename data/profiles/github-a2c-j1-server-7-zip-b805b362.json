@@ -3,8 +3,8 @@
   "name": "a2c-j1/server-7-zip",
   "description": "Facilitates file compression using 7-Zip through a Model Context Protocol server.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-a2c-j1-server-7-zip-b805b362",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-a2c-j1-server-7-zip-b805b362)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-a2c-j1-server-7-zip-b805b362",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-a2c-j1-server-7-zip-b805b362/badge.svg)](https://tensorblock.co/mcp/servers/github-a2c-j1-server-7-zip-b805b362)",
   "links": {
     "primary": "https://github.com/a2c-j1/server-7-zip",
     "repo": "https://github.com/a2c-j1/server-7-zip",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

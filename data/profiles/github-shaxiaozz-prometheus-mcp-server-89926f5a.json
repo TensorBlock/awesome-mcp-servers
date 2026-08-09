@@ -3,8 +3,8 @@
   "name": "shaxiaozz/prometheus-mcp-server",
   "description": "A Golang-based server that integrates with Prometheus to provide real-time metric querying and exploration via the Model Context Protocol.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-shaxiaozz-prometheus-mcp-server-89926f5a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shaxiaozz-prometheus-mcp-server-89926f5a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shaxiaozz-prometheus-mcp-server-89926f5a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shaxiaozz-prometheus-mcp-server-89926f5a/badge.svg)](https://tensorblock.co/mcp/servers/github-shaxiaozz-prometheus-mcp-server-89926f5a)",
   "links": {
     "primary": "https://github.com/shaxiaozz/prometheus-mcp-server",
     "repo": "https://github.com/shaxiaozz/prometheus-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "jwalsh/mcp-server-qrcode",
   "description": "Connects large language models to QR code generation capabilities, supporting multiple content types and output formats.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-jwalsh-mcp-server-qrcode-e787f344",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jwalsh-mcp-server-qrcode-e787f344)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jwalsh-mcp-server-qrcode-e787f344",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jwalsh-mcp-server-qrcode-e787f344/badge.svg)](https://tensorblock.co/mcp/servers/github-jwalsh-mcp-server-qrcode-e787f344)",
   "links": {
     "primary": "https://github.com/jwalsh/mcp-server-qrcode",
     "repo": "https://github.com/jwalsh/mcp-server-qrcode",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

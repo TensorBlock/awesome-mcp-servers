@@ -1,0 +1,60 @@
+{
+  "id": "github-joelklabo-maximumsats-mcp-4d5045b6",
+  "name": "joelklabo/maximumsats-mcp",
+  "description": "Bitcoin, Lightning, and Nostr MCP server with 47 pay-per-call tools for BOLT11 invoice parsing, Nostr identity encoding/decoding, LNURL, BIP21, Bitcoin address validation, L402 auth helpers, web-of-trust scoring, AI DVM, and image generation. Install: `npx -y maximumsats-mcp`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-joelklabo-maximumsats-mcp-4d5045b6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-joelklabo-maximumsats-mcp-4d5045b6/badge.svg)](https://tensorblock.co/mcp/servers/github-joelklabo-maximumsats-mcp-4d5045b6)",
+  "links": {
+    "primary": "https://github.com/joelklabo/maximumsats-mcp",
+    "repo": "https://github.com/joelklabo/maximumsats-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y maximumsats-mcp"
+    ],
+    "env": [
+      "LNURL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

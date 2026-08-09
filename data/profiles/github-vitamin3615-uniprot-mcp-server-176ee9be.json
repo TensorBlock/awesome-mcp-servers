@@ -3,8 +3,8 @@
   "name": "vitamin3615/uniprot-mcp-server",
   "description": "Facilitates language models in retrieving protein data from the UniProt database, supporting integration with Claude Desktop and other MCP-compatible AI applications.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-vitamin3615-uniprot-mcp-server-176ee9be",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vitamin3615-uniprot-mcp-server-176ee9be)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vitamin3615-uniprot-mcp-server-176ee9be",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vitamin3615-uniprot-mcp-server-176ee9be/badge.svg)](https://tensorblock.co/mcp/servers/github-vitamin3615-uniprot-mcp-server-176ee9be)",
   "links": {
     "primary": "https://github.com/vitamin3615/uniprot-mcp-server",
     "repo": "https://github.com/vitamin3615/uniprot-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

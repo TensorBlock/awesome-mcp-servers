@@ -1,0 +1,65 @@
+{
+  "id": "grants-mrchief-ai-34ae5819",
+  "name": "Public Grants",
+  "description": "Remote MCP server for finding, checking eligibility for, and drafting applications to 49 French public grant programmes including CIR, JEI, BPI, CNC, ADEME, and EIC Accelerator. Provides 21 tools plus 3 guided prompts for company onboarding, grant discovery, eligibility checks, application drafting, validation, export, and strategic briefing. Streamable HTTP at `https://grants.mrchief.ai/mcp/`; requires `Authorization: Bearer <key>` from https://grants.mrchief.ai/account.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/grants-mrchief-ai-34ae5819",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/grants-mrchief-ai-34ae5819/badge.svg)](https://tensorblock.co/mcp/servers/grants-mrchief-ai-34ae5819)",
+  "links": {
+    "primary": "https://grants.mrchief.ai",
+    "repo": null,
+    "homepage": "https://grants.mrchief.ai",
+    "docs": null,
+    "endpoint": "https://grants.mrchief.ai/mcp/"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "PUBLIC_GRANTS_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Create an account and API key at https://grants.mrchief.ai/account, then send Authorization: Bearer <key>. OAuth 2.0 device flow is also available."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "any MCP-compatible AI agent"
+  ],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "bearer",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": 21
+  }
+}

@@ -3,8 +3,8 @@
   "name": "inkdropapp/mcp-server",
   "description": "Facilitates seamless interaction with Inkdrop's local HTTP server API for efficient note management.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-inkdropapp-mcp-server-06e3da52",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-inkdropapp-mcp-server-06e3da52)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-inkdropapp-mcp-server-06e3da52",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-inkdropapp-mcp-server-06e3da52/badge.svg)](https://tensorblock.co/mcp/servers/github-inkdropapp-mcp-server-06e3da52)",
   "links": {
     "primary": "https://github.com/inkdropapp/mcp-server",
     "repo": "https://github.com/inkdropapp/mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

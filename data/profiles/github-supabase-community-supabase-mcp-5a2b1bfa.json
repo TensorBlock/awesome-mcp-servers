@@ -3,8 +3,8 @@
   "name": "supabase-community/supabase-mcp",
   "description": "Facilitates seamless integration of Supabase projects with AI assistants for efficient project management and database operations.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-supabase-community-supabase-mcp-5a2b1bfa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-supabase-community-supabase-mcp-5a2b1bfa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-supabase-community-supabase-mcp-5a2b1bfa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-supabase-community-supabase-mcp-5a2b1bfa/badge.svg)](https://tensorblock.co/mcp/servers/github-supabase-community-supabase-mcp-5a2b1bfa)",
   "links": {
     "primary": "https://github.com/supabase-community/supabase-mcp",
     "repo": "https://github.com/supabase-community/supabase-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

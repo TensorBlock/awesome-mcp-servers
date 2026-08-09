@@ -3,8 +3,8 @@
   "name": "dannegm/dnn-mcp-labs",
   "description": "A sandbox for experimenting with Model Context Protocols to enhance model capabilities with dynamic context awareness.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-dannegm-dnn-mcp-labs-1a514ce3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dannegm-dnn-mcp-labs-1a514ce3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dannegm-dnn-mcp-labs-1a514ce3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dannegm-dnn-mcp-labs-1a514ce3/badge.svg)](https://tensorblock.co/mcp/servers/github-dannegm-dnn-mcp-labs-1a514ce3)",
   "links": {
     "primary": "https://github.com/dannegm/dnn-mcp-labs",
     "repo": "https://github.com/dannegm/dnn-mcp-labs",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

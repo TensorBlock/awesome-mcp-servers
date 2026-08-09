@@ -1,0 +1,60 @@
+{
+  "id": "github-hushvert-mcp-075ce27a",
+  "name": "hushvert/mcp",
+  "description": "File conversion for AI agents. Office docs to PDF, PDF to Word, document interchange (Markdown/HTML/EPUB/LaTeX/RST), and audio/video transcodes via the hushvert hosted API. 4 tools: convert_file, convert_poll, list_formats, check_usage. Install: `npx -y @hushvert/mcp`. Stdio transport; API key via `HUSHVERT_API_KEY`. MIT.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hushvert-mcp-075ce27a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hushvert-mcp-075ce27a/badge.svg)](https://tensorblock.co/mcp/servers/github-hushvert-mcp-075ce27a)",
+  "links": {
+    "primary": "https://github.com/hushvert/mcp",
+    "repo": "https://github.com/hushvert/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y @hushvert/mcp"
+    ],
+    "env": [
+      "HUSHVERT_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "api-key",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": 4
+  }
+}

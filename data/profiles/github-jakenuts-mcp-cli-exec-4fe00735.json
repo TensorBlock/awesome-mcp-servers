@@ -3,8 +3,8 @@
   "name": "jakenuts/mcp-cli-exec",
   "description": "A CLI command execution MCP server that runs shell commands with structured output and detailed execution results.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-jakenuts-mcp-cli-exec-4fe00735",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jakenuts-mcp-cli-exec-4fe00735)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jakenuts-mcp-cli-exec-4fe00735",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jakenuts-mcp-cli-exec-4fe00735/badge.svg)](https://tensorblock.co/mcp/servers/github-jakenuts-mcp-cli-exec-4fe00735)",
   "links": {
     "primary": "https://github.com/jakenuts/mcp-cli-exec",
     "repo": "https://github.com/jakenuts/mcp-cli-exec",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

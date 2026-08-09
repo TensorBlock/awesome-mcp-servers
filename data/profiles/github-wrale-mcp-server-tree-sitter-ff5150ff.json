@@ -3,8 +3,8 @@
   "name": "wrale/mcp-server-tree-sitter",
   "description": "Enhances code analysis with tree-sitter, offering language-agnostic, structure-aware insights for intelligent codebase exploration.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-wrale-mcp-server-tree-sitter-ff5150ff",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wrale-mcp-server-tree-sitter-ff5150ff)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wrale-mcp-server-tree-sitter-ff5150ff",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wrale-mcp-server-tree-sitter-ff5150ff/badge.svg)](https://tensorblock.co/mcp/servers/github-wrale-mcp-server-tree-sitter-ff5150ff)",
   "links": {
     "primary": "https://github.com/wrale/mcp-server-tree-sitter",
     "repo": "https://github.com/wrale/mcp-server-tree-sitter",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

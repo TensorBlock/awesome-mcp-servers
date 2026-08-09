@@ -3,8 +3,8 @@
   "name": "web-agent-master/google-search",
   "description": "A Playwright-based tool that enables real-time Google search capabilities for AI assistants by bypassing anti-scraping mechanisms and integrating with MCP servers.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-web-agent-master-google-search-a791b6a0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-web-agent-master-google-search-a791b6a0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-web-agent-master-google-search-a791b6a0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-web-agent-master-google-search-a791b6a0/badge.svg)](https://tensorblock.co/mcp/servers/github-web-agent-master-google-search-a791b6a0)",
   "links": {
     "primary": "https://github.com/web-agent-master/google-search",
     "repo": "https://github.com/web-agent-master/google-search",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

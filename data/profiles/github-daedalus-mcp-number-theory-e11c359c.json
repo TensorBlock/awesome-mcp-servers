@@ -1,0 +1,56 @@
+{
+  "id": "github-daedalus-mcp-number-theory-e11c359c",
+  "name": "daedalus/mcp-number-theory",
+  "description": "MCP server exposing number theory functions and factorization algorithms from RsaCtfTool.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-daedalus-mcp-number-theory-e11c359c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-daedalus-mcp-number-theory-e11c359c/badge.svg)](https://tensorblock.co/mcp/servers/github-daedalus-mcp-number-theory-e11c359c)",
+  "links": {
+    "primary": "https://github.com/daedalus/mcp-number-theory",
+    "repo": "https://github.com/daedalus/mcp-number-theory",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

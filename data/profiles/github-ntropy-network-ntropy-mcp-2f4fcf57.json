@@ -3,8 +3,8 @@
   "name": "ntropy-network/ntropy-mcp",
   "description": "Enrich banking data using the Ntropy API, facilitating seamless financial data processing for LLM agents.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-ntropy-network-ntropy-mcp-2f4fcf57",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ntropy-network-ntropy-mcp-2f4fcf57)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ntropy-network-ntropy-mcp-2f4fcf57",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ntropy-network-ntropy-mcp-2f4fcf57/badge.svg)](https://tensorblock.co/mcp/servers/github-ntropy-network-ntropy-mcp-2f4fcf57)",
   "links": {
     "primary": "https://github.com/ntropy-network/ntropy-mcp",
     "repo": "https://github.com/ntropy-network/ntropy-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

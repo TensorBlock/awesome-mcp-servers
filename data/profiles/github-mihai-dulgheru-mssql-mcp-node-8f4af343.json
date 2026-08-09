@@ -3,8 +3,8 @@
   "name": "mihai-dulgheru/mssql-mcp-node",
   "description": "Node.js server offering a standardized API for interacting with Microsoft SQL Server databases, featuring SQL query execution and schema retrieval via the Model Context Protocol.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-mihai-dulgheru-mssql-mcp-node-8f4af343",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mihai-dulgheru-mssql-mcp-node-8f4af343)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mihai-dulgheru-mssql-mcp-node-8f4af343",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mihai-dulgheru-mssql-mcp-node-8f4af343/badge.svg)](https://tensorblock.co/mcp/servers/github-mihai-dulgheru-mssql-mcp-node-8f4af343)",
   "links": {
     "primary": "https://github.com/mihai-dulgheru/mssql-mcp-node",
     "repo": "https://github.com/mihai-dulgheru/mssql-mcp-node",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

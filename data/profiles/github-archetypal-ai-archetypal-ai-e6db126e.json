@@ -1,0 +1,58 @@
+{
+  "id": "github-archetypal-ai-archetypal-ai-e6db126e",
+  "name": "archetypal-ai/archetypal-ai",
+  "description": "Persistent memory MCP server for AI agents with recall, remember, and checkpoint tools. Install: `npx archetypal-ai`.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-archetypal-ai-archetypal-ai-e6db126e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-archetypal-ai-archetypal-ai-e6db126e/badge.svg)](https://tensorblock.co/mcp/servers/github-archetypal-ai-archetypal-ai-e6db126e)",
+  "links": {
+    "primary": "https://github.com/archetypal-ai/archetypal-ai",
+    "repo": "https://github.com/archetypal-ai/archetypal-ai",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx archetypal-ai"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

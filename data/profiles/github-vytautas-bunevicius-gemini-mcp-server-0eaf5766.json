@@ -3,8 +3,8 @@
   "name": "vytautas-bunevicius/gemini-mcp-server",
   "description": "Facilitates seamless interaction between MCP clients and Google's Gemini AI models, supporting tools like ask_gemini and chat_with_gemini.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-vytautas-bunevicius-gemini-mcp-server-0eaf5766",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vytautas-bunevicius-gemini-mcp-server-0eaf5766)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vytautas-bunevicius-gemini-mcp-server-0eaf5766",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vytautas-bunevicius-gemini-mcp-server-0eaf5766/badge.svg)](https://tensorblock.co/mcp/servers/github-vytautas-bunevicius-gemini-mcp-server-0eaf5766)",
   "links": {
     "primary": "https://github.com/vytautas-bunevicius/gemini-mcp-server",
     "repo": "https://github.com/vytautas-bunevicius/gemini-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

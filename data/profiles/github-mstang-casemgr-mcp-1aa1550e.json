@@ -1,0 +1,56 @@
+{
+  "id": "github-mstang-casemgr-mcp-1aa1550e",
+  "name": "mstang/casemgr-mcp",
+  "description": "Shared workspace your AI agents write to. CMMN case management with 184 MCP tools: create cases, drive event-driven workflows with sentries, persistent memory with semantic search, billing and invoicing. OAuth or token auth; hosted MCP endpoint at casemgr.systems.",
+  "category": "Project & Task Management",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mstang-casemgr-mcp-1aa1550e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mstang-casemgr-mcp-1aa1550e/badge.svg)](https://tensorblock.co/mcp/servers/github-mstang-casemgr-mcp-1aa1550e)",
+  "links": {
+    "primary": "https://github.com/mstang/casemgr-mcp",
+    "repo": "https://github.com/mstang/casemgr-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 184
+  }
+}

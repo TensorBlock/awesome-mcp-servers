@@ -3,8 +3,8 @@
   "name": "jacksun911/megaswap-mcp",
   "description": "AI-native DEX on MegaETH. 9 tools for token swaps, price quotes, liquidity management. Supports ETH, MEGAS, USDM, USDT0 and any ERC-20. `npx megaswap-mcp`",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-jacksun911-megaswap-mcp-6f707b4f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jacksun911-megaswap-mcp-6f707b4f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jacksun911-megaswap-mcp-6f707b4f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jacksun911-megaswap-mcp-6f707b4f/badge.svg)](https://tensorblock.co/mcp/servers/github-jacksun911-megaswap-mcp-6f707b4f)",
   "links": {
     "primary": "https://github.com/jacksun911/megaswap-mcp",
     "repo": "https://github.com/jacksun911/megaswap-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx megaswap-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 9
   }

@@ -3,8 +3,8 @@
   "name": "cnitlrt/headless-ida-mcp-server",
   "description": "Leverage IDA Pro's headless mode to analyze binaries and manage functions via an MCP server.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-cnitlrt-headless-ida-mcp-server-bcefce12",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cnitlrt-headless-ida-mcp-server-bcefce12)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cnitlrt-headless-ida-mcp-server-bcefce12",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cnitlrt-headless-ida-mcp-server-bcefce12/badge.svg)](https://tensorblock.co/mcp/servers/github-cnitlrt-headless-ida-mcp-server-bcefce12)",
   "links": {
     "primary": "https://github.com/cnitlrt/headless-ida-mcp-server",
     "repo": "https://github.com/cnitlrt/headless-ida-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

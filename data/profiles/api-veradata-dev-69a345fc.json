@@ -1,0 +1,61 @@
+{
+  "id": "api-veradata-dev-69a345fc",
+  "name": "VeraData",
+  "description": "LATAM compliance MCP server for sanctions screening, KYB bundles, central bank rates, and compliance audit trails. Streamable HTTP endpoint at `https://api.veradata.dev/mcp`; tools include `sanctions_screen`, `kyb_complete`, and `get_rates`. x402 pay-per-call with trial calls via `X-TRIAL: true`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/api-veradata-dev-69a345fc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/api-veradata-dev-69a345fc/badge.svg)](https://tensorblock.co/mcp/servers/api-veradata-dev-69a345fc)",
+  "links": {
+    "primary": "https://api.veradata.dev",
+    "repo": null,
+    "homepage": "https://api.veradata.dev",
+    "docs": null,
+    "endpoint": "https://api.veradata.dev/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @teodorofodocrispin-cmyk in #1040 under the community profile-claim process.",
+      "Requested profile metadata in #1040: - **Author:** Ivar Garcés (@teodorofodocrispin-cmyk) - **MCP endpoint:** https://api.veradata.dev/mcp (Streamable HTTP) - **Transport:** HTTP - **Auth:** x402 v2 micropayments (USDC on Base or Solana) — no API key..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@teodorofodocrispin-cmyk"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "self_reported",
+    "toolCount": null
+  }
+}

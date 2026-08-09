@@ -3,8 +3,8 @@
   "name": "yodablocks/mcp-installer.0",
   "description": "Facilitates the installation of MCP servers from npm or PyPi using Claude, streamlining server setup processes.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-yodablocks-mcp-installer-0-eff47084",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yodablocks-mcp-installer-0-eff47084)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yodablocks-mcp-installer-0-eff47084",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yodablocks-mcp-installer-0-eff47084/badge.svg)](https://tensorblock.co/mcp/servers/github-yodablocks-mcp-installer-0-eff47084)",
   "links": {
     "primary": "https://github.com/yodablocks/mcp-installer.0",
     "repo": "https://github.com/yodablocks/mcp-installer.0",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

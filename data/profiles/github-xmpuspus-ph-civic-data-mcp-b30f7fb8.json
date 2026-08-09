@@ -3,8 +3,8 @@
   "name": "xmpuspus/ph-civic-data-mcp",
   "description": "Philippine civic data plus global Earth observation as MCP tools. Covers PSGC location resolver, PHIVOLCS earthquakes and volcano alerts, PAGASA weather and typhoons, PhilGEPS procurement with infra-spending accountability flags, PSA population, poverty, and economy (inflation, labor, health), NASA POWER solar/climate, Open-Meteo air quality, NASA MODIS NDVI, USGS earthquakes, NOAA IBTrACS typhoon tracks, and World Bank macro indicators. 29 tools across 12 sources, zero required API keys, with cross-source multi-hazard risk profiler and a `get_area_profile` auto-stitch that composes demographics, economy, procurement, hazard, and weather in one call. Install: `uvx ph-civic-data-mcp`.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-xmpuspus-ph-civic-data-mcp-b30f7fb8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xmpuspus-ph-civic-data-mcp-b30f7fb8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-xmpuspus-ph-civic-data-mcp-b30f7fb8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-xmpuspus-ph-civic-data-mcp-b30f7fb8/badge.svg)](https://tensorblock.co/mcp/servers/github-xmpuspus-ph-civic-data-mcp-b30f7fb8)",
   "links": {
     "primary": "https://github.com/xmpuspus/ph-civic-data-mcp",
     "repo": "https://github.com/xmpuspus/ph-civic-data-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "uvx ph-civic-data-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "api-key",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 29
   }

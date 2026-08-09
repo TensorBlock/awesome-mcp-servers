@@ -3,8 +3,8 @@
   "name": "yuki-koma2/my-mcp-servers",
   "description": "Dockerized MCP server for GitHub API integration, enabling repository management and search functionalities.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-yuki-koma2-my-mcp-servers-b579bc30",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yuki-koma2-my-mcp-servers-b579bc30)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yuki-koma2-my-mcp-servers-b579bc30",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yuki-koma2-my-mcp-servers-b579bc30/badge.svg)](https://tensorblock.co/mcp/servers/github-yuki-koma2-my-mcp-servers-b579bc30)",
   "links": {
     "primary": "https://github.com/yuki-koma2/my-mcp-servers",
     "repo": "https://github.com/yuki-koma2/my-mcp-servers",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "mmaeso/mcp-server-scrapli",
   "description": "Facilitates SSH interactions with network devices using Scrapli through an MCP server.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-mmaeso-mcp-server-scrapli-121b499c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mmaeso-mcp-server-scrapli-121b499c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mmaeso-mcp-server-scrapli-121b499c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mmaeso-mcp-server-scrapli-121b499c/badge.svg)](https://tensorblock.co/mcp/servers/github-mmaeso-mcp-server-scrapli-121b499c)",
   "links": {
     "primary": "https://github.com/mmaeso/mcp-server-scrapli",
     "repo": "https://github.com/mmaeso/mcp-server-scrapli",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

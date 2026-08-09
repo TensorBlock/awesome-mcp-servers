@@ -3,8 +3,8 @@
   "name": "sudhakarmlal/ERAV3-GMAILMCP",
   "description": "Facilitates seamless email management through the Gmail API, allowing users to send, read, and manage emails via an MCP client.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-sudhakarmlal-erav3-gmailmcp-640f232a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sudhakarmlal-erav3-gmailmcp-640f232a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sudhakarmlal-erav3-gmailmcp-640f232a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sudhakarmlal-erav3-gmailmcp-640f232a/badge.svg)](https://tensorblock.co/mcp/servers/github-sudhakarmlal-erav3-gmailmcp-640f232a)",
   "links": {
     "primary": "https://github.com/sudhakarmlal/ERAV3-GMAILMCP",
     "repo": "https://github.com/sudhakarmlal/ERAV3-GMAILMCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

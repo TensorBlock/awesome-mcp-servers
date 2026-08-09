@@ -1,0 +1,56 @@
+{
+  "id": "heavenhomeshub-com-mcp-72da82e4",
+  "name": "HeavenEcoHub/heaven-homes-mcp",
+  "description": "Global real-estate marketplace — search property across 190+ countries, find verified agents, and pull city market summaries. 5 tools (search_properties, get_property, find_agents, list_cities, get_market_summary). Transport: streamable-http. Auth: none. License: Proprietary. Hosted by Heaven Homes (TypeScript / Node 22, Cloud Functions).",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/servers/heavenhomeshub-com-mcp-72da82e4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/heavenhomeshub-com-mcp-72da82e4/badge.svg)](https://tensorblock.co/mcp/servers/heavenhomeshub-com-mcp-72da82e4)",
+  "links": {
+    "primary": "https://heavenhomeshub.com/mcp",
+    "repo": null,
+    "homepage": "https://heavenhomeshub.com/mcp",
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 5
+  }
+}

@@ -3,8 +3,8 @@
   "name": "neugence/whipscribe-mcp",
   "description": "MCP server for audio/video transcription via the Whipscribe API. Transcribes from a URL (YouTube, podcasts, direct media links) or local file; returns txt/json/srt/vtt/docx with optional speaker diarization and word timestamps. Hosted remote endpoint at `https://whipscribe.com/mcp` (Bearer auth) or local install via `uvx whipscribe-mcp`.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-neugence-whipscribe-mcp-286d68ae",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-neugence-whipscribe-mcp-286d68ae)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-neugence-whipscribe-mcp-286d68ae",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-neugence-whipscribe-mcp-286d68ae/badge.svg)](https://tensorblock.co/mcp/servers/github-neugence-whipscribe-mcp-286d68ae)",
   "links": {
     "primary": "https://github.com/neugence/whipscribe-mcp",
     "repo": "https://github.com/neugence/whipscribe-mcp",
@@ -12,12 +12,48 @@
     "docs": null,
     "endpoint": "https://whipscribe.com/mcp"
   },
+  "install": {
+    "commands": [
+      "uvx whipscribe-mcp"
+    ],
+    "env": [
+      "URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "bearer",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

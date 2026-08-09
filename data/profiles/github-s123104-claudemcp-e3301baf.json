@@ -3,8 +3,8 @@
   "name": "s123104/ClaudeMCP",
   "description": "Integrates Claude Desktop and Claude Code with Docker to run multiple MCP servers, supporting GitLab project management, time conversion, and structured thinking workflows.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-s123104-claudemcp-e3301baf",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-s123104-claudemcp-e3301baf)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-s123104-claudemcp-e3301baf",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-s123104-claudemcp-e3301baf/badge.svg)](https://tensorblock.co/mcp/servers/github-s123104-claudemcp-e3301baf)",
   "links": {
     "primary": "https://github.com/s123104/ClaudeMCP",
     "repo": "https://github.com/s123104/ClaudeMCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

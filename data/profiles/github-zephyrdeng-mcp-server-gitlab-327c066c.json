@@ -3,8 +3,8 @@
   "name": "ZephyrDeng/mcp-server-gitlab",
   "description": "Integrates GitLab RESTful API tools with platforms like Claude and Smithery, enabling seamless project management and collaboration.",
   "category": "Version Control",
-  "profileUrl": "https://tensorblock.co/mcp/github-zephyrdeng-mcp-server-gitlab-327c066c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zephyrdeng-mcp-server-gitlab-327c066c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zephyrdeng-mcp-server-gitlab-327c066c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zephyrdeng-mcp-server-gitlab-327c066c/badge.svg)](https://tensorblock.co/mcp/servers/github-zephyrdeng-mcp-server-gitlab-327c066c)",
   "links": {
     "primary": "https://github.com/ZephyrDeng/mcp-server-gitlab",
     "repo": "https://github.com/ZephyrDeng/mcp-server-gitlab",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

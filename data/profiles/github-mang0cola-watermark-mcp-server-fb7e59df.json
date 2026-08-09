@@ -3,8 +3,8 @@
   "name": "mang0cola/watermark-mcp-server",
   "description": "Enhance images by adding customizable text or image watermarks using a simple MCP server.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-mang0cola-watermark-mcp-server-fb7e59df",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mang0cola-watermark-mcp-server-fb7e59df)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mang0cola-watermark-mcp-server-fb7e59df",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mang0cola-watermark-mcp-server-fb7e59df/badge.svg)](https://tensorblock.co/mcp/servers/github-mang0cola-watermark-mcp-server-fb7e59df)",
   "links": {
     "primary": "https://github.com/mang0cola/watermark-mcp-server",
     "repo": "https://github.com/mang0cola/watermark-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

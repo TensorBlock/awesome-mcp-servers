@@ -3,8 +3,8 @@
   "name": "imankamyabi/dynamodb-mcp-server",
   "description": "Facilitates efficient management of Amazon DynamoDB resources through a Model Context Protocol server, offering comprehensive tools for table, index, and capacity management.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-imankamyabi-dynamodb-mcp-server-13e2a025",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-imankamyabi-dynamodb-mcp-server-13e2a025)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-imankamyabi-dynamodb-mcp-server-13e2a025",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-imankamyabi-dynamodb-mcp-server-13e2a025/badge.svg)](https://tensorblock.co/mcp/servers/github-imankamyabi-dynamodb-mcp-server-13e2a025)",
   "links": {
     "primary": "https://github.com/imankamyabi/dynamodb-mcp-server",
     "repo": "https://github.com/imankamyabi/dynamodb-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

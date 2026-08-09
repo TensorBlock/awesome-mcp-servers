@@ -1,0 +1,56 @@
+{
+  "id": "github-olivergrabner-composer-mcp-1932a2f0",
+  "name": "Composer",
+  "description": "Visual architecture canvas where agents build, read, and modify system design diagrams with real-time sync.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-olivergrabner-composer-mcp-1932a2f0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-olivergrabner-composer-mcp-1932a2f0/badge.svg)](https://tensorblock.co/mcp/servers/github-olivergrabner-composer-mcp-1932a2f0)",
+  "links": {
+    "primary": "https://github.com/OliverGrabner/composer-mcp",
+    "repo": "https://github.com/OliverGrabner/composer-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

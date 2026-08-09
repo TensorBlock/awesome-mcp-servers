@@ -3,8 +3,8 @@
   "name": "evmcp/EVM-MCP-Server",
   "description": "Facilitates AI agents' interaction with multiple EVM-compatible blockchain networks through a unified interface, supporting smart contract interactions, token transfers, and ENS name resolution.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-evmcp-evm-mcp-server-1abf74f2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-evmcp-evm-mcp-server-1abf74f2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-evmcp-evm-mcp-server-1abf74f2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-evmcp-evm-mcp-server-1abf74f2/badge.svg)](https://tensorblock.co/mcp/servers/github-evmcp-evm-mcp-server-1abf74f2)",
   "links": {
     "primary": "https://github.com/evmcp/EVM-MCP-Server",
     "repo": "https://github.com/evmcp/EVM-MCP-Server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

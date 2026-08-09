@@ -3,8 +3,8 @@
   "name": "shuakami/mcp-mail",
   "description": "AI-powered tool enabling seamless email management through standardized interfaces, allowing AI assistants to perform tasks like sending, reading, and managing emails effortlessly.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-shuakami-mcp-mail-7376d57b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shuakami-mcp-mail-7376d57b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shuakami-mcp-mail-7376d57b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shuakami-mcp-mail-7376d57b/badge.svg)](https://tensorblock.co/mcp/servers/github-shuakami-mcp-mail-7376d57b)",
   "links": {
     "primary": "https://github.com/shuakami/mcp-mail",
     "repo": "https://github.com/shuakami/mcp-mail",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

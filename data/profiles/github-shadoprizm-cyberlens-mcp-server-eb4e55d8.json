@@ -3,8 +3,8 @@
   "name": "shadoprizm/cyberlens-mcp-server",
   "description": "Security scanning MCP server for AI assistants — scan websites for missing headers and HTTPS issues, scan GitHub repos for secrets and CVE vulnerabilities, and scan Claw Hub skills for malicious code before installing. Free tier with local quick-scan (no account needed). `npx -y @shadoprizm/cyberlens-mcp-server`",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-shadoprizm-cyberlens-mcp-server-eb4e55d8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shadoprizm-cyberlens-mcp-server-eb4e55d8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shadoprizm-cyberlens-mcp-server-eb4e55d8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shadoprizm-cyberlens-mcp-server-eb4e55d8/badge.svg)](https://tensorblock.co/mcp/servers/github-shadoprizm-cyberlens-mcp-server-eb4e55d8)",
   "links": {
     "primary": "https://github.com/shadoprizm/cyberlens-mcp-server",
     "repo": "https://github.com/shadoprizm/cyberlens-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx -y @shadoprizm/cyberlens-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

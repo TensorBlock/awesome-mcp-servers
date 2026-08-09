@@ -3,8 +3,8 @@
   "name": "yasar38/BLENDER-MCP-CURSOR-",
   "description": "Facilitates AI-driven 3D modeling in Blender through seamless integration with Cursor using the Model Context Protocol.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-yasar38-blender-mcp-cursor-d2aad442",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yasar38-blender-mcp-cursor-d2aad442)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yasar38-blender-mcp-cursor-d2aad442",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yasar38-blender-mcp-cursor-d2aad442/badge.svg)](https://tensorblock.co/mcp/servers/github-yasar38-blender-mcp-cursor-d2aad442)",
   "links": {
     "primary": "https://github.com/yasar38/BLENDER-MCP-CURSOR-",
     "repo": "https://github.com/yasar38/BLENDER-MCP-CURSOR-",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

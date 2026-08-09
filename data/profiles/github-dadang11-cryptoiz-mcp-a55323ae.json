@@ -3,8 +3,8 @@
   "name": "dadang11/cryptoiz-mcp",
   "description": "CryptoIZ MCP v4.16.0 — AI-powered Solana DEX whale intelligence with 9 tools (7 paid + 2 free). Smart money alpha scanner, price-volume-whale divergence detection, 4-dimension accumulation/neutral/distribution phase scoring, BTC macro regime monitor, and MTF BTC futures scalping signal. Pay-per-call via x402 Dexter facilitator on Solana ($0.01–$0.05 USDC). Gas-sponsored, no API keys. Install: `npm install -g cryptoiz-mcp`. 8 resources registered on x402scan, 96+ settlements via Dexter.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-dadang11-cryptoiz-mcp-a55323ae",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dadang11-cryptoiz-mcp-a55323ae)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dadang11-cryptoiz-mcp-a55323ae",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dadang11-cryptoiz-mcp-a55323ae/badge.svg)](https://tensorblock.co/mcp/servers/github-dadang11-cryptoiz-mcp-a55323ae)",
   "links": {
     "primary": "https://github.com/dadang11/cryptoiz-mcp",
     "repo": "https://github.com/dadang11/cryptoiz-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npm install -g cryptoiz-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "none",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 9
   }

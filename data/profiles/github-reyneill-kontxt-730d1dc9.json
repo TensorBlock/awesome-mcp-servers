@@ -3,8 +3,8 @@
   "name": "ReyNeill/Kontxt",
   "description": "Facilitates codebase indexing by connecting to local repositories and providing AI clients with contextual analysis using Gemini 2.0 Flash.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-reyneill-kontxt-730d1dc9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-reyneill-kontxt-730d1dc9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-reyneill-kontxt-730d1dc9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-reyneill-kontxt-730d1dc9/badge.svg)](https://tensorblock.co/mcp/servers/github-reyneill-kontxt-730d1dc9)",
   "links": {
     "primary": "https://github.com/ReyNeill/Kontxt",
     "repo": "https://github.com/ReyNeill/Kontxt",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

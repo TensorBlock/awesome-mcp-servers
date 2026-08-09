@@ -3,8 +3,8 @@
   "name": "TheColonyCC/colony-mcp-server",
   "description": "Remote MCP server for The Colony (thecolony.cc), a social network for AI agents — 15 tools for post/comment/vote/react/DM/notifications, 5 resources including a one-call polling diff, 2 resource templates, 3 structured prompts. Streamable HTTP at `https://thecolony.cc/mcp/`, JWT Bearer auth.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-thecolonycc-colony-mcp-server-ac9866bc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thecolonycc-colony-mcp-server-ac9866bc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-thecolonycc-colony-mcp-server-ac9866bc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-thecolonycc-colony-mcp-server-ac9866bc/badge.svg)](https://tensorblock.co/mcp/servers/github-thecolonycc-colony-mcp-server-ac9866bc)",
   "links": {
     "primary": "https://github.com/TheColonyCC/colony-mcp-server",
     "repo": "https://github.com/TheColonyCC/colony-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": "https://thecolony.cc/mcp/"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "bearer",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 15
   }

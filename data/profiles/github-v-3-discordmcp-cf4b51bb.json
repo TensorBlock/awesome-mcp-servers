@@ -3,8 +3,8 @@
   "name": "v-3/discordmcp",
   "description": "Facilitates seamless interaction between LLMs and Discord channels, enabling message exchange and channel management through Discord's API.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-v-3-discordmcp-cf4b51bb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-v-3-discordmcp-cf4b51bb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-v-3-discordmcp-cf4b51bb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-v-3-discordmcp-cf4b51bb/badge.svg)](https://tensorblock.co/mcp/servers/github-v-3-discordmcp-cf4b51bb)",
   "links": {
     "primary": "https://github.com/v-3/discordmcp",
     "repo": "https://github.com/v-3/discordmcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

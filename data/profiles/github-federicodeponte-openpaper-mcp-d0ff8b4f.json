@@ -1,0 +1,56 @@
+{
+  "id": "github-federicodeponte-openpaper-mcp-d0ff8b4f",
+  "name": "federicodeponte/openpaper-mcp",
+  "description": "Generate full academic papers with verified citations via OpenPaper.dev using 18 specialized AI agents.",
+  "category": "Science & Research",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-federicodeponte-openpaper-mcp-d0ff8b4f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-federicodeponte-openpaper-mcp-d0ff8b4f/badge.svg)](https://tensorblock.co/mcp/servers/github-federicodeponte-openpaper-mcp-d0ff8b4f)",
+  "links": {
+    "primary": "https://github.com/federicodeponte/openpaper-mcp",
+    "repo": "https://github.com/federicodeponte/openpaper-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

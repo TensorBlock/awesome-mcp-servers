@@ -3,8 +3,8 @@
   "name": "trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide",
   "description": "A detailed guide for verifying and troubleshooting MCP server installations on Windows, highlighting key differences from MacOS setups.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-trevorwilkerson-windows-mcp-server-installation-verification-guide-b7d2246a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-trevorwilkerson-windows-mcp-server-installation-verification-guide-b7d2246a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-trevorwilkerson-windows-mcp-server-installation-verification-guide-b7d2246a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-trevorwilkerson-windows-mcp-server-installation-verification-guide-b7d2246a/badge.svg)](https://tensorblock.co/mcp/servers/github-trevorwilkerson-windows-mcp-server-installation-verification-guide-b7d2246a)",
   "links": {
     "primary": "https://github.com/trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide",
     "repo": "https://github.com/trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

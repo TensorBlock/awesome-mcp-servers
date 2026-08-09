@@ -3,8 +3,8 @@
   "name": "fluxdevine/mcp-starter-template",
   "description": "A TypeScript-based starter template for building scalable MCP servers with integrated tools and utilities.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-fluxdevine-mcp-starter-template-0a529917",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fluxdevine-mcp-starter-template-0a529917)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fluxdevine-mcp-starter-template-0a529917",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fluxdevine-mcp-starter-template-0a529917/badge.svg)](https://tensorblock.co/mcp/servers/github-fluxdevine-mcp-starter-template-0a529917)",
   "links": {
     "primary": "https://github.com/fluxdevine/mcp-starter-template",
     "repo": "https://github.com/fluxdevine/mcp-starter-template",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

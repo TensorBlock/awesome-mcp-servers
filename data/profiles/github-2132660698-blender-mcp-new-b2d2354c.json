@@ -3,8 +3,8 @@
   "name": "2132660698/blender_mcp_new",
   "description": "Integrates Model Context Protocol with Blender, enabling AI models to directly perform 3D modeling and rendering tasks.",
   "category": "Gaming",
-  "profileUrl": "https://tensorblock.co/mcp/github-2132660698-blender-mcp-new-b2d2354c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-2132660698-blender-mcp-new-b2d2354c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-2132660698-blender-mcp-new-b2d2354c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-2132660698-blender-mcp-new-b2d2354c/badge.svg)](https://tensorblock.co/mcp/servers/github-2132660698-blender-mcp-new-b2d2354c)",
   "links": {
     "primary": "https://github.com/2132660698/blender_mcp_new",
     "repo": "https://github.com/2132660698/blender_mcp_new",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

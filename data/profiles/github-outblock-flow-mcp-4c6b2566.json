@@ -3,8 +3,8 @@
   "name": "Outblock/flow-mcp",
   "description": "Facilitates interaction with the Flow blockchain using Model Context Protocol tools for balance checks, account info, and contract retrieval.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-outblock-flow-mcp-4c6b2566",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-outblock-flow-mcp-4c6b2566)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-outblock-flow-mcp-4c6b2566",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-outblock-flow-mcp-4c6b2566/badge.svg)](https://tensorblock.co/mcp/servers/github-outblock-flow-mcp-4c6b2566)",
   "links": {
     "primary": "https://github.com/Outblock/flow-mcp",
     "repo": "https://github.com/Outblock/flow-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

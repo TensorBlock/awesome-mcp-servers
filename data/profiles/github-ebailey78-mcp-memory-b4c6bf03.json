@@ -3,8 +3,8 @@
   "name": "ebailey78/mcp-memory",
   "description": "Facilitates structured memory management for Claude Desktop, enhancing project-based work by maintaining context and knowledge across chat sessions.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-ebailey78-mcp-memory-b4c6bf03",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ebailey78-mcp-memory-b4c6bf03)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ebailey78-mcp-memory-b4c6bf03",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ebailey78-mcp-memory-b4c6bf03/badge.svg)](https://tensorblock.co/mcp/servers/github-ebailey78-mcp-memory-b4c6bf03)",
   "links": {
     "primary": "https://github.com/ebailey78/mcp-memory",
     "repo": "https://github.com/ebailey78/mcp-memory",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

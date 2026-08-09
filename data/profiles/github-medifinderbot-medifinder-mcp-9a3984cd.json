@@ -3,8 +3,8 @@
   "name": "MediFinderBot/medifinder-mcp",
   "description": "Facilitates secure communication for medicine inventory queries with AI assistants, offering location-based searches and WhatsApp integration.",
   "category": "Healthcare & Life Sciences",
-  "profileUrl": "https://tensorblock.co/mcp/github-medifinderbot-medifinder-mcp-9a3984cd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-medifinderbot-medifinder-mcp-9a3984cd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-medifinderbot-medifinder-mcp-9a3984cd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-medifinderbot-medifinder-mcp-9a3984cd/badge.svg)](https://tensorblock.co/mcp/servers/github-medifinderbot-medifinder-mcp-9a3984cd)",
   "links": {
     "primary": "https://github.com/MediFinderBot/medifinder-mcp",
     "repo": "https://github.com/MediFinderBot/medifinder-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

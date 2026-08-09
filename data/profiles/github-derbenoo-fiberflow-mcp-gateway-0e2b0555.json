@@ -3,14 +3,46 @@
   "name": "derbenoo/fiberflow-mcp-gateway",
   "description": "Fiberflow MCP Gateway facilitates running a Fiberflow MCP SSE Server over stdio, enabling seamless integration with Fiberflow's API.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-derbenoo-fiberflow-mcp-gateway-0e2b0555",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-derbenoo-fiberflow-mcp-gateway-0e2b0555)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-derbenoo-fiberflow-mcp-gateway-0e2b0555",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-derbenoo-fiberflow-mcp-gateway-0e2b0555/badge.svg)](https://tensorblock.co/mcp/servers/github-derbenoo-fiberflow-mcp-gateway-0e2b0555)",
   "links": {
     "primary": "https://github.com/derbenoo/fiberflow-mcp-gateway",
     "repo": "https://github.com/derbenoo/fiberflow-mcp-gateway",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

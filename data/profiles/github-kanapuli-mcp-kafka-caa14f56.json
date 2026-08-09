@@ -3,8 +3,8 @@
   "name": "kanapuli/mcp-kafka",
   "description": "Facilitates AI assistants in managing Kafka client operations through the Model Context Protocol.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-kanapuli-mcp-kafka-caa14f56",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kanapuli-mcp-kafka-caa14f56)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kanapuli-mcp-kafka-caa14f56",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kanapuli-mcp-kafka-caa14f56/badge.svg)](https://tensorblock.co/mcp/servers/github-kanapuli-mcp-kafka-caa14f56)",
   "links": {
     "primary": "https://github.com/kanapuli/mcp-kafka",
     "repo": "https://github.com/kanapuli/mcp-kafka",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

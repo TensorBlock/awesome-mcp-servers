@@ -42,6 +42,8 @@ const catalog: CatalogEntry[] = [
       source: "unknown",
     },
     license: "unknown",
+    installReady: true,
+    verifiedAt: null,
     health: {
       repoPublic: null,
       packageFound: null,

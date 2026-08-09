@@ -3,8 +3,8 @@
   "name": "dpk83/adomcpserver",
   "description": "Facilitates seamless interaction with Azure DevOps using natural language queries via the REST API.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-dpk83-adomcpserver-1e4e8832",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dpk83-adomcpserver-1e4e8832)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dpk83-adomcpserver-1e4e8832",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dpk83-adomcpserver-1e4e8832/badge.svg)](https://tensorblock.co/mcp/servers/github-dpk83-adomcpserver-1e4e8832)",
   "links": {
     "primary": "https://github.com/dpk83/adomcpserver",
     "repo": "https://github.com/dpk83/adomcpserver",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "yoda-digital/mcp-gitlab-server",
   "description": "A robust server facilitating seamless AI-driven interactions with GitLab resources, supporting comprehensive API integration and standardized response formatting.",
   "category": "Version Control",
-  "profileUrl": "https://tensorblock.co/mcp/github-yoda-digital-mcp-gitlab-server-33b1a9a3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yoda-digital-mcp-gitlab-server-33b1a9a3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yoda-digital-mcp-gitlab-server-33b1a9a3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yoda-digital-mcp-gitlab-server-33b1a9a3/badge.svg)](https://tensorblock.co/mcp/servers/github-yoda-digital-mcp-gitlab-server-33b1a9a3)",
   "links": {
     "primary": "https://github.com/yoda-digital/mcp-gitlab-server",
     "repo": "https://github.com/yoda-digital/mcp-gitlab-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "ivannikolovbg/repull-mcp",
   "description": "MCP server for the Repull API — the unified API for vacation-rental tech. Connect to every PMS, OTA, and channel manager (Airbnb, Booking.com, VRBO, Smoobu + 46 more) through one server.",
   "category": "Travel & Transportation",
-  "profileUrl": "https://tensorblock.co/mcp/github-ivannikolovbg-repull-mcp-014c214d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ivannikolovbg-repull-mcp-014c214d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ivannikolovbg-repull-mcp-014c214d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ivannikolovbg-repull-mcp-014c214d/badge.svg)](https://tensorblock.co/mcp/servers/github-ivannikolovbg-repull-mcp-014c214d)",
   "links": {
     "primary": "https://github.com/ivannikolovbg/repull-mcp",
     "repo": "https://github.com/ivannikolovbg/repull-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

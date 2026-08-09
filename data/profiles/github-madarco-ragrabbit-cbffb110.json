@@ -3,8 +3,8 @@
   "name": "madarco/ragrabbit",
   "description": "RagRabbit is a self-hosted AI search and LLM integration platform that enables seamless content crawling and indexing with an MCP server for enhanced documentation retrieval.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-madarco-ragrabbit-cbffb110",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-madarco-ragrabbit-cbffb110)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-madarco-ragrabbit-cbffb110",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-madarco-ragrabbit-cbffb110/badge.svg)](https://tensorblock.co/mcp/servers/github-madarco-ragrabbit-cbffb110)",
   "links": {
     "primary": "https://github.com/madarco/ragrabbit",
     "repo": "https://github.com/madarco/ragrabbit",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

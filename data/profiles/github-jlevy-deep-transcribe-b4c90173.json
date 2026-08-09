@@ -3,8 +3,8 @@
   "name": "jlevy/deep-transcribe",
   "description": "Facilitates deep transcription of video and audio content with speaker identification and annotations, operable as an MCP server.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-jlevy-deep-transcribe-b4c90173",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jlevy-deep-transcribe-b4c90173)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jlevy-deep-transcribe-b4c90173",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jlevy-deep-transcribe-b4c90173/badge.svg)](https://tensorblock.co/mcp/servers/github-jlevy-deep-transcribe-b4c90173)",
   "links": {
     "primary": "https://github.com/jlevy/deep-transcribe",
     "repo": "https://github.com/jlevy/deep-transcribe",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

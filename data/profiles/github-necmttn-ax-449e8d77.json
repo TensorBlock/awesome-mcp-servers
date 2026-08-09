@@ -1,0 +1,60 @@
+{
+  "id": "github-necmttn-ax-449e8d77",
+  "name": "Necmttn/ax",
+  "description": "Local-first MCP server over an AI coding-agent telemetry graph: recall sessions, inspect costs, skills, tool usage, and OTLP events across Claude Code, Codex, OpenCode, Cursor, and Pi. Install: `curl -fsSL ax.necmttn.com/install | sh`; run `ax mcp`.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-necmttn-ax-449e8d77",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-necmttn-ax-449e8d77/badge.svg)](https://tensorblock.co/mcp/servers/github-necmttn-ax-449e8d77)",
+  "links": {
+    "primary": "https://github.com/Necmttn/ax",
+    "repo": "https://github.com/Necmttn/ax",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

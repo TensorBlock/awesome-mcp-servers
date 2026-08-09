@@ -3,8 +3,8 @@
   "name": "Pyrimid",
   "description": "MCP server and x402 catalog for paid AI/API products, paid MCP tools, and agent-to-agent commerce on Base USDC. Streamable HTTP endpoint at `https://pyrimid.ai/api/mcp`, with catalog and agent discovery metadata.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-pyrimid-ai-pyrimid-fc607b19",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pyrimid-ai-pyrimid-fc607b19)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-pyrimid-ai-pyrimid-fc607b19",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-pyrimid-ai-pyrimid-fc607b19/badge.svg)](https://tensorblock.co/mcp/servers/github-pyrimid-ai-pyrimid-fc607b19)",
   "links": {
     "primary": "https://github.com/pyrimid-ai/pyrimid",
     "repo": "https://github.com/pyrimid-ai/pyrimid",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": "https://pyrimid.ai/api/mcp"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

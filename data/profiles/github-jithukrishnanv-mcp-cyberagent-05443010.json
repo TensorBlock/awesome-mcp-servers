@@ -3,8 +3,8 @@
   "name": "JithukrishnanV/MCP-CyberAgent",
   "description": "MCP-CyberAgent connects Claude Desktop with cybersecurity tools like VirusTotal, Nmap, and Shodan for AI-driven threat detection and network analysis.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-jithukrishnanv-mcp-cyberagent-05443010",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jithukrishnanv-mcp-cyberagent-05443010)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jithukrishnanv-mcp-cyberagent-05443010",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jithukrishnanv-mcp-cyberagent-05443010/badge.svg)](https://tensorblock.co/mcp/servers/github-jithukrishnanv-mcp-cyberagent-05443010)",
   "links": {
     "primary": "https://github.com/JithukrishnanV/MCP-CyberAgent",
     "repo": "https://github.com/JithukrishnanV/MCP-CyberAgent",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

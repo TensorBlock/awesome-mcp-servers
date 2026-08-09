@@ -1,0 +1,56 @@
+{
+  "id": "github-daedalus-mcp-metar-6c7060c3",
+  "name": "daedalus/mcp-metar",
+  "description": "MCP server for METAR/TAF aviation weather data.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-daedalus-mcp-metar-6c7060c3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-daedalus-mcp-metar-6c7060c3/badge.svg)](https://tensorblock.co/mcp/servers/github-daedalus-mcp-metar-6c7060c3)",
+  "links": {
+    "primary": "https://github.com/daedalus/mcp-metar",
+    "repo": "https://github.com/daedalus/mcp-metar",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

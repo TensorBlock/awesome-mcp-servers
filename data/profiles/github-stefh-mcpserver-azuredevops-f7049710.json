@@ -3,8 +3,8 @@
   "name": "StefH/mcpserver.azuredevops",
   "description": "A dotnet tool providing a Stdio MCP server interface for seamless interaction with Azure DevOps projects, repositories, and pipelines.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-stefh-mcpserver-azuredevops-f7049710",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stefh-mcpserver-azuredevops-f7049710)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-stefh-mcpserver-azuredevops-f7049710",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stefh-mcpserver-azuredevops-f7049710/badge.svg)](https://tensorblock.co/mcp/servers/github-stefh-mcpserver-azuredevops-f7049710)",
   "links": {
     "primary": "https://github.com/StefH/mcpserver.azuredevops",
     "repo": "https://github.com/StefH/mcpserver.azuredevops",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "stdio"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

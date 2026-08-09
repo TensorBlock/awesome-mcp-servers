@@ -3,8 +3,8 @@
   "name": "tayler-id/comic-panel-description-generator",
   "description": "AI-powered tool that transforms comic sketches into detailed textual descriptions, featuring Claude integration via an MCP server.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-tayler-id-comic-panel-description-generator-d1bb69c6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tayler-id-comic-panel-description-generator-d1bb69c6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tayler-id-comic-panel-description-generator-d1bb69c6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tayler-id-comic-panel-description-generator-d1bb69c6/badge.svg)](https://tensorblock.co/mcp/servers/github-tayler-id-comic-panel-description-generator-d1bb69c6)",
   "links": {
     "primary": "https://github.com/tayler-id/comic-panel-description-generator",
     "repo": "https://github.com/tayler-id/comic-panel-description-generator",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "ronantakizawa/a11ymcp",
   "description": "Empowers LLMs to conduct comprehensive web accessibility testing using Deque Axe-core API and Puppeteer.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-ronantakizawa-a11ymcp-a453daeb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ronantakizawa-a11ymcp-a453daeb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ronantakizawa-a11ymcp-a453daeb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ronantakizawa-a11ymcp-a453daeb/badge.svg)](https://tensorblock.co/mcp/servers/github-ronantakizawa-a11ymcp-a453daeb)",
   "links": {
     "primary": "https://github.com/ronantakizawa/a11ymcp",
     "repo": "https://github.com/ronantakizawa/a11ymcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

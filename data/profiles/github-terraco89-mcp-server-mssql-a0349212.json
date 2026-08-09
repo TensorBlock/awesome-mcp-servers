@@ -3,8 +3,8 @@
   "name": "TerraCo89/mcp-server-mssql",
   "description": "Facilitates secure interaction with MS SQL Server databases using AI assistants via the Model Context Protocol.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-terraco89-mcp-server-mssql-a0349212",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-terraco89-mcp-server-mssql-a0349212)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-terraco89-mcp-server-mssql-a0349212",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-terraco89-mcp-server-mssql-a0349212/badge.svg)](https://tensorblock.co/mcp/servers/github-terraco89-mcp-server-mssql-a0349212)",
   "links": {
     "primary": "https://github.com/TerraCo89/mcp-server-mssql",
     "repo": "https://github.com/TerraCo89/mcp-server-mssql",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

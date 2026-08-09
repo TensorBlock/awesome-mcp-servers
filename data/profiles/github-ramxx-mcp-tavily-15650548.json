@@ -3,8 +3,8 @@
   "name": "RamXX/mcp-tavily",
   "description": "Empower LLMs with AI-driven web search capabilities using Tavily's search API for comprehensive and direct answer retrieval.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-ramxx-mcp-tavily-15650548",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ramxx-mcp-tavily-15650548)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ramxx-mcp-tavily-15650548",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ramxx-mcp-tavily-15650548/badge.svg)](https://tensorblock.co/mcp/servers/github-ramxx-mcp-tavily-15650548)",
   "links": {
     "primary": "https://github.com/RamXX/mcp-tavily",
     "repo": "https://github.com/RamXX/mcp-tavily",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

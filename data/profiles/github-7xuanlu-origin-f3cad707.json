@@ -3,8 +3,8 @@
   "name": "7xuanlu/origin",
   "description": "Local-first AI work memory. Captures decisions, handoffs, and project context, then serves source-backed wiki pages, graph context, and hybrid retrieval across MCP clients.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-7xuanlu-origin-f3cad707",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-7xuanlu-origin-f3cad707)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-7xuanlu-origin-f3cad707",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-7xuanlu-origin-f3cad707/badge.svg)](https://tensorblock.co/mcp/servers/github-7xuanlu-origin-f3cad707)",
   "links": {
     "primary": "https://github.com/7xuanlu/origin",
     "repo": "https://github.com/7xuanlu/origin",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

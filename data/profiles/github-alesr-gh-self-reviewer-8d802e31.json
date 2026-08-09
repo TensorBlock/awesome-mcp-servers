@@ -3,8 +3,8 @@
   "name": "alesr/gh-self-reviewer",
   "description": "A Go-based Anthropic MCP server facilitating self-review of GitHub pull requests with Claude AI integration.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-alesr-gh-self-reviewer-8d802e31",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alesr-gh-self-reviewer-8d802e31)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-alesr-gh-self-reviewer-8d802e31",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-alesr-gh-self-reviewer-8d802e31/badge.svg)](https://tensorblock.co/mcp/servers/github-alesr-gh-self-reviewer-8d802e31)",
   "links": {
     "primary": "https://github.com/alesr/gh-self-reviewer",
     "repo": "https://github.com/alesr/gh-self-reviewer",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

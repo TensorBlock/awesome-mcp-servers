@@ -3,14 +3,46 @@
   "name": "OwenQian/mcp-server-manager",
   "description": "A Python script that manages multiple MCP servers, wrapping stdio servers with Supergateway to expose them as SSE servers, and supports automatic recovery and background operation.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-owenqian-mcp-server-manager-537c35db",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-owenqian-mcp-server-manager-537c35db)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-owenqian-mcp-server-manager-537c35db",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-owenqian-mcp-server-manager-537c35db/badge.svg)](https://tensorblock.co/mcp/servers/github-owenqian-mcp-server-manager-537c35db)",
   "links": {
     "primary": "https://github.com/OwenQian/mcp-server-manager",
     "repo": "https://github.com/OwenQian/mcp-server-manager",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

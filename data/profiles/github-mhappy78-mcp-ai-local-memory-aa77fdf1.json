@@ -3,8 +3,8 @@
   "name": "mhappy78/mcp_ai_local_memory",
   "description": "Facilitates file management operations on local systems using Model Context Protocol, enabling AI-driven local memory storage.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-mhappy78-mcp-ai-local-memory-aa77fdf1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mhappy78-mcp-ai-local-memory-aa77fdf1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mhappy78-mcp-ai-local-memory-aa77fdf1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mhappy78-mcp-ai-local-memory-aa77fdf1/badge.svg)](https://tensorblock.co/mcp/servers/github-mhappy78-mcp-ai-local-memory-aa77fdf1)",
   "links": {
     "primary": "https://github.com/mhappy78/mcp_ai_local_memory",
     "repo": "https://github.com/mhappy78/mcp_ai_local_memory",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -34,6 +34,8 @@ const createEntry = (overrides: Partial<CatalogEntry> = {}): CatalogEntry => ({
     source: "self_reported",
   },
   license: "MIT",
+  installReady: true,
+  verifiedAt: null,
   health: {
     repoPublic: true,
     packageFound: true,

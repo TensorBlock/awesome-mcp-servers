@@ -3,8 +3,8 @@
   "name": "fern-api/2025-04-02-mcp-server",
   "description": "A MongoDB MCP server utilizing the Fern API for seamless integration and deployment.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-fern-api-2025-04-02-mcp-server-8cd9de54",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fern-api-2025-04-02-mcp-server-8cd9de54)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fern-api-2025-04-02-mcp-server-8cd9de54",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fern-api-2025-04-02-mcp-server-8cd9de54/badge.svg)](https://tensorblock.co/mcp/servers/github-fern-api-2025-04-02-mcp-server-8cd9de54)",
   "links": {
     "primary": "https://github.com/fern-api/2025-04-02-mcp-server",
     "repo": "https://github.com/fern-api/2025-04-02-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

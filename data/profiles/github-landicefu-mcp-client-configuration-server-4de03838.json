@@ -3,8 +3,8 @@
   "name": "landicefu/mcp-client-configuration-server",
   "description": "Facilitates seamless management of MCP client configurations across multiple AI-powered applications, ensuring consistent server settings and automated deployment.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-landicefu-mcp-client-configuration-server-4de03838",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-landicefu-mcp-client-configuration-server-4de03838)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-landicefu-mcp-client-configuration-server-4de03838",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-landicefu-mcp-client-configuration-server-4de03838/badge.svg)](https://tensorblock.co/mcp/servers/github-landicefu-mcp-client-configuration-server-4de03838)",
   "links": {
     "primary": "https://github.com/landicefu/mcp-client-configuration-server",
     "repo": "https://github.com/landicefu/mcp-client-configuration-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,67 @@
+{
+  "id": "github-smartdatabrokers-slideforge-mcp-705d941a",
+  "name": "smartdatabrokers/slideforge-mcp",
+  "description": "Hosted MCP server for consulting-quality PowerPoint generation from natural language or structured component specs. Generates editable `.pptx` decks with charts, diagrams, and signed download URLs. 8 tools. Streamable HTTP at `https://api.slideforge.dev/mcp/`; OAuth 2.1 for Claude Desktop and bearer/API-key auth for other clients. MIT.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-smartdatabrokers-slideforge-mcp-705d941a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-smartdatabrokers-slideforge-mcp-705d941a/badge.svg)](https://tensorblock.co/mcp/servers/github-smartdatabrokers-slideforge-mcp-705d941a)",
+  "links": {
+    "primary": "https://github.com/smartdatabrokers/slideforge-mcp",
+    "repo": "https://github.com/smartdatabrokers/slideforge-mcp",
+    "homepage": null,
+    "docs": "https://slideforge.dev",
+    "endpoint": "https://api.slideforge.dev/mcp/"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add slideforge --transport http https://api.slideforge.dev/mcp/",
+      "npx -y mcp-remote@latest https://api.slideforge.dev/mcp/ --header \"Authorization: Bearer sf_live_YOUR_KEY\""
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Claude Desktop uses OAuth 2.1; Cursor, Windsurf, and other clients can use bearer/API-key auth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Cline"
+  ],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "oauth",
+    "installConfidence": "high",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": 8
+  }
+}

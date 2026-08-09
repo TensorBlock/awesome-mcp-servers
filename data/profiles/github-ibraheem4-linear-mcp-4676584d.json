@@ -3,8 +3,8 @@
   "name": "ibraheem4/linear-mcp",
   "description": "Facilitates AI-driven management of issues, projects, and teams on the Linear platform through a custom MCP server.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-ibraheem4-linear-mcp-4676584d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ibraheem4-linear-mcp-4676584d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ibraheem4-linear-mcp-4676584d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ibraheem4-linear-mcp-4676584d/badge.svg)](https://tensorblock.co/mcp/servers/github-ibraheem4-linear-mcp-4676584d)",
   "links": {
     "primary": "https://github.com/ibraheem4/linear-mcp",
     "repo": "https://github.com/ibraheem4/linear-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

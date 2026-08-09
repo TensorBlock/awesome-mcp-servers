@@ -3,8 +3,8 @@
   "name": "japan4415/MCPallete",
   "description": "MCPallete is a Rust TUI tool for interactively managing multiple MCP server configurations and presets with live-coded precision.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-japan4415-mcpallete-0bf73978",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-japan4415-mcpallete-0bf73978)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-japan4415-mcpallete-0bf73978",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-japan4415-mcpallete-0bf73978/badge.svg)](https://tensorblock.co/mcp/servers/github-japan4415-mcpallete-0bf73978)",
   "links": {
     "primary": "https://github.com/japan4415/MCPallete",
     "repo": "https://github.com/japan4415/MCPallete",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

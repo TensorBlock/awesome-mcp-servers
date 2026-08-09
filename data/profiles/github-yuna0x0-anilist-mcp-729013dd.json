@@ -3,8 +3,8 @@
   "name": "yuna0x0/anilist-mcp",
   "description": "Interface with the AniList API to access and interact with anime, manga, and user data through a Model Context Protocol server.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-yuna0x0-anilist-mcp-729013dd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yuna0x0-anilist-mcp-729013dd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yuna0x0-anilist-mcp-729013dd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yuna0x0-anilist-mcp-729013dd/badge.svg)](https://tensorblock.co/mcp/servers/github-yuna0x0-anilist-mcp-729013dd)",
   "links": {
     "primary": "https://github.com/yuna0x0/anilist-mcp",
     "repo": "https://github.com/yuna0x0/anilist-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

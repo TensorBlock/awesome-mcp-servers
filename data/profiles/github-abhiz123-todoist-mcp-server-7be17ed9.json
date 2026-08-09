@@ -3,8 +3,8 @@
   "name": "abhiz123/todoist-mcp-server",
   "description": "Integrates Claude with Todoist for seamless natural language task management.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-abhiz123-todoist-mcp-server-7be17ed9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abhiz123-todoist-mcp-server-7be17ed9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-abhiz123-todoist-mcp-server-7be17ed9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-abhiz123-todoist-mcp-server-7be17ed9/badge.svg)](https://tensorblock.co/mcp/servers/github-abhiz123-todoist-mcp-server-7be17ed9)",
   "links": {
     "primary": "https://github.com/abhiz123/todoist-mcp-server",
     "repo": "https://github.com/abhiz123/todoist-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

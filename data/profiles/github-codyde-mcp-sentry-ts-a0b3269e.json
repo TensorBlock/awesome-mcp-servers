@@ -3,8 +3,8 @@
   "name": "codyde/mcp-sentry-ts",
   "description": "Facilitates AI-driven interaction with Sentry for error analysis, project management, and performance monitoring.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-codyde-mcp-sentry-ts-a0b3269e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-codyde-mcp-sentry-ts-a0b3269e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-codyde-mcp-sentry-ts-a0b3269e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-codyde-mcp-sentry-ts-a0b3269e/badge.svg)](https://tensorblock.co/mcp/servers/github-codyde-mcp-sentry-ts-a0b3269e)",
   "links": {
     "primary": "https://github.com/codyde/mcp-sentry-ts",
     "repo": "https://github.com/codyde/mcp-sentry-ts",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

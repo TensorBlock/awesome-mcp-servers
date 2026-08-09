@@ -3,8 +3,8 @@
   "name": "keepondream/wordnet-mcp-server",
   "description": "A WordNet-based MCP server offering vocabulary query functions such as synonyms, antonyms, hypernyms, hyponyms, and definitions.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-keepondream-wordnet-mcp-server-7e0e5f6b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-keepondream-wordnet-mcp-server-7e0e5f6b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-keepondream-wordnet-mcp-server-7e0e5f6b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-keepondream-wordnet-mcp-server-7e0e5f6b/badge.svg)](https://tensorblock.co/mcp/servers/github-keepondream-wordnet-mcp-server-7e0e5f6b)",
   "links": {
     "primary": "https://github.com/keepondream/wordnet-mcp-server",
     "repo": "https://github.com/keepondream/wordnet-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

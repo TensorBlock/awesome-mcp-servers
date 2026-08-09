@@ -3,8 +3,8 @@
   "name": "MasihMoafi/MCP",
   "description": "Advanced MCP server implementations for integrating with services like GitHub, Kaggle, and HuggingFace, featuring browser automation capabilities.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-masihmoafi-mcp-b82a6824",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-masihmoafi-mcp-b82a6824)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-masihmoafi-mcp-b82a6824",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-masihmoafi-mcp-b82a6824/badge.svg)](https://tensorblock.co/mcp/servers/github-masihmoafi-mcp-b82a6824)",
   "links": {
     "primary": "https://github.com/MasihMoafi/MCP",
     "repo": "https://github.com/MasihMoafi/MCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

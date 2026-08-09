@@ -1,0 +1,60 @@
+{
+  "id": "github-massanaroger-extracto-mcp-86988083",
+  "name": "massanaRoger/extracto-mcp",
+  "description": "Turns any URL plus a JSON schema into validated, typed JSON via the Extracto API. No CSS selectors; missing fields return null instead of guesses. Install: `npx -y extracto-mcp`.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-massanaroger-extracto-mcp-86988083",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-massanaroger-extracto-mcp-86988083/badge.svg)](https://tensorblock.co/mcp/servers/github-massanaroger-extracto-mcp-86988083)",
+  "links": {
+    "primary": "https://github.com/massanaRoger/extracto-mcp",
+    "repo": "https://github.com/massanaRoger/extracto-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y extracto-mcp"
+    ],
+    "env": [
+      "URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

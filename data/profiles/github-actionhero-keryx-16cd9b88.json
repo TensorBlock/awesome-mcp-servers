@@ -1,0 +1,56 @@
+{
+  "id": "github-actionhero-keryx-16cd9b88",
+  "name": "actionhero/keryx",
+  "description": "Fullstack TypeScript framework for MCP and APIs on Bun. One Action can serve HTTP, WebSocket, CLI, background tasks, and MCP tools with OAuth 2.1 and streaming support. npm package: `keryx`. MIT.",
+  "category": "Frameworks",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-actionhero-keryx-16cd9b88",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-actionhero-keryx-16cd9b88/badge.svg)](https://tensorblock.co/mcp/servers/github-actionhero-keryx-16cd9b88)",
+  "links": {
+    "primary": "https://github.com/actionhero/keryx",
+    "repo": "https://github.com/actionhero/keryx",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

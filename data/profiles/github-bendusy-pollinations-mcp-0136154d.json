@@ -3,8 +3,8 @@
   "name": "bendusy/pollinations-mcp",
   "description": "Connects AI models to Pollinations.ai for image and text generation via MCP protocol.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-bendusy-pollinations-mcp-0136154d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bendusy-pollinations-mcp-0136154d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bendusy-pollinations-mcp-0136154d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bendusy-pollinations-mcp-0136154d/badge.svg)](https://tensorblock.co/mcp/servers/github-bendusy-pollinations-mcp-0136154d)",
   "links": {
     "primary": "https://github.com/bendusy/pollinations-mcp",
     "repo": "https://github.com/bendusy/pollinations-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

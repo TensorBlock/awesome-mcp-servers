@@ -3,8 +3,8 @@
   "name": "brandon-butterwick/MRP_Calculation",
   "description": "Facilitates Material Requirements Planning calculations by determining order needs and delivery schedules using the Model Context Protocol.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-brandon-butterwick-mrp-calculation-56663acd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-brandon-butterwick-mrp-calculation-56663acd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-brandon-butterwick-mrp-calculation-56663acd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-brandon-butterwick-mrp-calculation-56663acd/badge.svg)](https://tensorblock.co/mcp/servers/github-brandon-butterwick-mrp-calculation-56663acd)",
   "links": {
     "primary": "https://github.com/brandon-butterwick/MRP_Calculation",
     "repo": "https://github.com/brandon-butterwick/MRP_Calculation",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

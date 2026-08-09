@@ -3,8 +3,8 @@
   "name": "tekorex/umcp-php",
   "description": "μMCP offers a minimalist PHP library for building MCP servers with zero dependencies, enabling quick tool creation for MCP clients.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-tekorex-umcp-php-6aec79dc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tekorex-umcp-php-6aec79dc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tekorex-umcp-php-6aec79dc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tekorex-umcp-php-6aec79dc/badge.svg)](https://tensorblock.co/mcp/servers/github-tekorex-umcp-php-6aec79dc)",
   "links": {
     "primary": "https://github.com/tekorex/umcp-php",
     "repo": "https://github.com/tekorex/umcp-php",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

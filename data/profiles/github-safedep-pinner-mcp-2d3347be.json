@@ -3,8 +3,8 @@
   "name": "safedep/pinner-mcp",
   "description": "Facilitates the pinning of third-party dependencies like Docker images and GitHub Actions to immutable versions.",
   "category": "Version Control",
-  "profileUrl": "https://tensorblock.co/mcp/github-safedep-pinner-mcp-2d3347be",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-safedep-pinner-mcp-2d3347be)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-safedep-pinner-mcp-2d3347be",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-safedep-pinner-mcp-2d3347be/badge.svg)](https://tensorblock.co/mcp/servers/github-safedep-pinner-mcp-2d3347be)",
   "links": {
     "primary": "https://github.com/safedep/pinner-mcp",
     "repo": "https://github.com/safedep/pinner-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,62 @@
+{
+  "id": "bitcompare-net-mcp-1db77cc7",
+  "name": "Bitcompare MCP",
+  "description": "Crypto yield intelligence API and MCP server for live and historical lending, staking, borrowing, and stablecoin yield data across 350+ assets and 60+ providers. Hosted Streamable HTTP endpoint: `https://api.bitcompare.net/mcp`; npm: `npx @bitcompare/mcp-server`; OpenAPI: `https://api.bitcompare.net/openapi.json`; tool catalog: `https://api.bitcompare.net/mcp/tools.json`. 18 read-only tools. Bearer/API-key auth from Bitcompare Pro.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/bitcompare-net-mcp-1db77cc7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/bitcompare-net-mcp-1db77cc7/badge.svg)](https://tensorblock.co/mcp/servers/bitcompare-net-mcp-1db77cc7)",
+  "links": {
+    "primary": "https://bitcompare.net/mcp",
+    "repo": null,
+    "homepage": "https://bitcompare.net/mcp",
+    "docs": "https://api.bitcompare.net/openapi.json",
+    "endpoint": "https://api.bitcompare.net/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx @bitcompare/mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Bearer/API-key auth from Bitcompare Pro"
+    ]
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "api-key",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

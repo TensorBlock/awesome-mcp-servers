@@ -3,8 +3,8 @@
   "name": "svngoku/mcp-docker-code-interpreter",
   "description": "A secure Docker-based environment for executing code through MCP, enabling AI assistants to run code safely within isolated containers.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-svngoku-mcp-docker-code-interpreter-b6db6a03",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-svngoku-mcp-docker-code-interpreter-b6db6a03)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-svngoku-mcp-docker-code-interpreter-b6db6a03",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-svngoku-mcp-docker-code-interpreter-b6db6a03/badge.svg)](https://tensorblock.co/mcp/servers/github-svngoku-mcp-docker-code-interpreter-b6db6a03)",
   "links": {
     "primary": "https://github.com/svngoku/mcp-docker-code-interpreter",
     "repo": "https://github.com/svngoku/mcp-docker-code-interpreter",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "mprokopov/ledger-mcp-server",
   "description": "Facilitates ledger file management and access through Claude with tools for listing accounts, checking balances, and viewing transaction registers.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-mprokopov-ledger-mcp-server-bdd6fede",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mprokopov-ledger-mcp-server-bdd6fede)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mprokopov-ledger-mcp-server-bdd6fede",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mprokopov-ledger-mcp-server-bdd6fede/badge.svg)](https://tensorblock.co/mcp/servers/github-mprokopov-ledger-mcp-server-bdd6fede)",
   "links": {
     "primary": "https://github.com/mprokopov/ledger-mcp-server",
     "repo": "https://github.com/mprokopov/ledger-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "rishijatia/fantasy-pl-mcp",
   "description": "Access and interact with Fantasy Premier League data using a Model Context Protocol server, compatible with Claude for Desktop and other MCP clients.",
   "category": "Gaming",
-  "profileUrl": "https://tensorblock.co/mcp/github-rishijatia-fantasy-pl-mcp-d2b59324",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rishijatia-fantasy-pl-mcp-d2b59324)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rishijatia-fantasy-pl-mcp-d2b59324",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rishijatia-fantasy-pl-mcp-d2b59324/badge.svg)](https://tensorblock.co/mcp/servers/github-rishijatia-fantasy-pl-mcp-d2b59324)",
   "links": {
     "primary": "https://github.com/rishijatia/fantasy-pl-mcp",
     "repo": "https://github.com/rishijatia/fantasy-pl-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "aaronccasanova/mcp-template",
   "description": "A minimal template for quickly setting up an MCP Server with various configuration options for different environments.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-aaronccasanova-mcp-template-7bf2e8f9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aaronccasanova-mcp-template-7bf2e8f9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aaronccasanova-mcp-template-7bf2e8f9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aaronccasanova-mcp-template-7bf2e8f9/badge.svg)](https://tensorblock.co/mcp/servers/github-aaronccasanova-mcp-template-7bf2e8f9)",
   "links": {
     "primary": "https://github.com/aaronccasanova/mcp-template",
     "repo": "https://github.com/aaronccasanova/mcp-template",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

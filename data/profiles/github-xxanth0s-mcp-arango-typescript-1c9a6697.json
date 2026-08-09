@@ -3,8 +3,8 @@
   "name": "xXanth0s/mcp_arango_typescript",
   "description": "A Model Context Protocol server for ArangoDB, offering a standardized interface for database interaction with LLM-based query validation.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-xxanth0s-mcp-arango-typescript-1c9a6697",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xxanth0s-mcp-arango-typescript-1c9a6697)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-xxanth0s-mcp-arango-typescript-1c9a6697",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-xxanth0s-mcp-arango-typescript-1c9a6697/badge.svg)](https://tensorblock.co/mcp/servers/github-xxanth0s-mcp-arango-typescript-1c9a6697)",
   "links": {
     "primary": "https://github.com/xXanth0s/mcp_arango_typescript",
     "repo": "https://github.com/xXanth0s/mcp_arango_typescript",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

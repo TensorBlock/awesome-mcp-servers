@@ -3,8 +3,8 @@
   "name": "arush15june/zammad-mcp-go",
   "description": "Facilitates interaction with the Zammad API for managing tickets and users through structured MCP resources and tools.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-arush15june-zammad-mcp-go-e76f7228",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arush15june-zammad-mcp-go-e76f7228)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-arush15june-zammad-mcp-go-e76f7228",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-arush15june-zammad-mcp-go-e76f7228/badge.svg)](https://tensorblock.co/mcp/servers/github-arush15june-zammad-mcp-go-e76f7228)",
   "links": {
     "primary": "https://github.com/arush15june/zammad-mcp-go",
     "repo": "https://github.com/arush15june/zammad-mcp-go",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

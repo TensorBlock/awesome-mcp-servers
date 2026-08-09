@@ -1,0 +1,56 @@
+{
+  "id": "github-easyname889-worldcitisim-frontend-a9f11066",
+  "name": "easyname889/worldcitisim-frontend",
+  "description": "Travel eSIM MCP server for 193 countries + UK SMS verification numbers. Stripe + Bitcoin checkout, QR delivered by email in ~30s. Anonymous, no API key needed. Published as `@worldcitisim/mcp-esim`.",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-easyname889-worldcitisim-frontend-a9f11066",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-easyname889-worldcitisim-frontend-a9f11066/badge.svg)](https://tensorblock.co/mcp/servers/github-easyname889-worldcitisim-frontend-a9f11066)",
+  "links": {
+    "primary": "https://github.com/easyname889/worldcitisim-frontend/tree/main/apps/mcp-server",
+    "repo": "https://github.com/easyname889/worldcitisim-frontend/tree/main/apps/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

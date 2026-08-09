@@ -3,8 +3,8 @@
   "name": "samuraikun/aws-s3-mcp",
   "description": "Facilitates seamless interaction between AWS S3 storage and Large Language Models, enabling operations like listing buckets and retrieving object contents.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-samuraikun-aws-s3-mcp-5562d71b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-samuraikun-aws-s3-mcp-5562d71b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-samuraikun-aws-s3-mcp-5562d71b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-samuraikun-aws-s3-mcp-5562d71b/badge.svg)](https://tensorblock.co/mcp/servers/github-samuraikun-aws-s3-mcp-5562d71b)",
   "links": {
     "primary": "https://github.com/samuraikun/aws-s3-mcp",
     "repo": "https://github.com/samuraikun/aws-s3-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

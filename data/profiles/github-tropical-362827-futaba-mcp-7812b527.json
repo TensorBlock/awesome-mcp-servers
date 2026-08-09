@@ -3,8 +3,8 @@
   "name": "tropical-362827/futaba-mcp",
   "description": "A Python library enabling AI assistants to interact with ふたば☆ちゃんねる by retrieving and sorting thread data.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-tropical-362827-futaba-mcp-7812b527",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tropical-362827-futaba-mcp-7812b527)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tropical-362827-futaba-mcp-7812b527",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tropical-362827-futaba-mcp-7812b527/badge.svg)](https://tensorblock.co/mcp/servers/github-tropical-362827-futaba-mcp-7812b527)",
   "links": {
     "primary": "https://github.com/tropical-362827/futaba-mcp",
     "repo": "https://github.com/tropical-362827/futaba-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

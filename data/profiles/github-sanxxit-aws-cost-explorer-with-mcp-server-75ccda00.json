@@ -3,8 +3,8 @@
   "name": "sanxxit/AWS-cost-explorer-with-MCP-server",
   "description": "Facilitates AWS spend analysis and visualization through an interactive interface using Anthropic's Claude model.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-sanxxit-aws-cost-explorer-with-mcp-server-75ccda00",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sanxxit-aws-cost-explorer-with-mcp-server-75ccda00)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sanxxit-aws-cost-explorer-with-mcp-server-75ccda00",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sanxxit-aws-cost-explorer-with-mcp-server-75ccda00/badge.svg)](https://tensorblock.co/mcp/servers/github-sanxxit-aws-cost-explorer-with-mcp-server-75ccda00)",
   "links": {
     "primary": "https://github.com/sanxxit/AWS-cost-explorer-with-MCP-server",
     "repo": "https://github.com/sanxxit/AWS-cost-explorer-with-MCP-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

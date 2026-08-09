@@ -3,8 +3,8 @@
   "name": "cyanheads/mcp-ts-template",
   "description": "A TypeScript template offering a comprehensive foundation for building MCP servers with production-ready utilities and examples.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-cyanheads-mcp-ts-template-922753ba",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cyanheads-mcp-ts-template-922753ba)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cyanheads-mcp-ts-template-922753ba",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cyanheads-mcp-ts-template-922753ba/badge.svg)](https://tensorblock.co/mcp/servers/github-cyanheads-mcp-ts-template-922753ba)",
   "links": {
     "primary": "https://github.com/cyanheads/mcp-ts-template",
     "repo": "https://github.com/cyanheads/mcp-ts-template",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

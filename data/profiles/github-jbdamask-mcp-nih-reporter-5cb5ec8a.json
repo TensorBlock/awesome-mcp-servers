@@ -3,8 +3,8 @@
   "name": "jbdamask/mcp-nih-reporter",
   "description": "Facilitates conversational searches of NIH-funded research projects and publications via the NIH RePORTER API.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-jbdamask-mcp-nih-reporter-5cb5ec8a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jbdamask-mcp-nih-reporter-5cb5ec8a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jbdamask-mcp-nih-reporter-5cb5ec8a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jbdamask-mcp-nih-reporter-5cb5ec8a/badge.svg)](https://tensorblock.co/mcp/servers/github-jbdamask-mcp-nih-reporter-5cb5ec8a)",
   "links": {
     "primary": "https://github.com/jbdamask/mcp-nih-reporter",
     "repo": "https://github.com/jbdamask/mcp-nih-reporter",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

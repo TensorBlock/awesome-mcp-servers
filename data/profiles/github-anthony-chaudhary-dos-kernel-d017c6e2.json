@@ -1,0 +1,61 @@
+{
+  "id": "github-anthony-chaudhary-dos-kernel-d017c6e2",
+  "name": "anthony-chaudhary/dos-kernel",
+  "description": "Trust kernel for agent fleets — lets an agent or its supervisor verify that a claimed task actually shipped from git evidence (never self-report), arbitrate concurrent file edits with lane leases, and refuse with typed reasons. stdio, no auth; works with Claude Code, Claude Desktop, Cursor. Install: `pip install \"dos-kernel[mcp]\"` (binary `dos-mcp`); also on the MCP Registry as `io.github.anthony-chaudhary/dos-kernel`.",
+  "category": "Infrastructure",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-anthony-chaudhary-dos-kernel-d017c6e2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-anthony-chaudhary-dos-kernel-d017c6e2/badge.svg)](https://tensorblock.co/mcp/servers/github-anthony-chaudhary-dos-kernel-d017c6e2)",
+  "links": {
+    "primary": "https://github.com/anthony-chaudhary/dos-kernel",
+    "repo": "https://github.com/anthony-chaudhary/dos-kernel",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "pip install \"dos-kernel[mcp]\""
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "arunsanna/aws-sage",
   "description": "Facilitates natural language interaction with AWS services through an MCP server, enhancing AI assistant capabilities for AWS resource management.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-arunsanna-aws-sage-71851313",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-arunsanna-aws-sage-71851313)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-arunsanna-aws-sage-71851313",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-arunsanna-aws-sage-71851313/badge.svg)](https://tensorblock.co/mcp/servers/github-arunsanna-aws-sage-71851313)",
   "links": {
     "primary": "https://github.com/arunsanna/aws-sage",
     "repo": "https://github.com/arunsanna/aws-sage",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

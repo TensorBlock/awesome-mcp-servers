@@ -3,8 +3,8 @@
   "name": "cocoindex-io/cocoindex-code",
   "description": "A super light-weight embedded MCP server for coding agents that uses tree-sitter for code search and indexing, saving 70% tokens and improving speed with Apache-2.0 license.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-cocoindex-io-cocoindex-code-74ab8997",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cocoindex-io-cocoindex-code-74ab8997)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cocoindex-io-cocoindex-code-74ab8997",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cocoindex-io-cocoindex-code-74ab8997/badge.svg)](https://tensorblock.co/mcp/servers/github-cocoindex-io-cocoindex-code-74ab8997)",
   "links": {
     "primary": "https://github.com/cocoindex-io/cocoindex-code",
     "repo": "https://github.com/cocoindex-io/cocoindex-code",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "Apache-2.0",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

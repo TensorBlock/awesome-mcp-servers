@@ -3,8 +3,8 @@
   "name": "L3-N0X/Minecraft-Wiki-MCP",
   "description": "Facilitates browsing and searching the official Minecraft Wiki with multi-language support and detailed page navigation.",
   "category": "Gaming",
-  "profileUrl": "https://tensorblock.co/mcp/github-l3-n0x-minecraft-wiki-mcp-f45b9349",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-l3-n0x-minecraft-wiki-mcp-f45b9349)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-l3-n0x-minecraft-wiki-mcp-f45b9349",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-l3-n0x-minecraft-wiki-mcp-f45b9349/badge.svg)](https://tensorblock.co/mcp/servers/github-l3-n0x-minecraft-wiki-mcp-f45b9349)",
   "links": {
     "primary": "https://github.com/L3-N0X/Minecraft-Wiki-MCP",
     "repo": "https://github.com/L3-N0X/Minecraft-Wiki-MCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

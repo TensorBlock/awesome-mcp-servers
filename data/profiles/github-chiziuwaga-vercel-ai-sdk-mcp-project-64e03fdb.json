@@ -3,8 +3,8 @@
   "name": "chiziuwaga/vercel-ai-sdk-mcp-project",
   "description": "Facilitates AI development by integrating Vercel AI SDK with Figma and Magic MCP for seamless multi-MCP orchestration in Cursor environments.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-chiziuwaga-vercel-ai-sdk-mcp-project-64e03fdb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chiziuwaga-vercel-ai-sdk-mcp-project-64e03fdb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-chiziuwaga-vercel-ai-sdk-mcp-project-64e03fdb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-chiziuwaga-vercel-ai-sdk-mcp-project-64e03fdb/badge.svg)](https://tensorblock.co/mcp/servers/github-chiziuwaga-vercel-ai-sdk-mcp-project-64e03fdb)",
   "links": {
     "primary": "https://github.com/chiziuwaga/vercel-ai-sdk-mcp-project",
     "repo": "https://github.com/chiziuwaga/vercel-ai-sdk-mcp-project",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

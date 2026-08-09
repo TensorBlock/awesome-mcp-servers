@@ -3,8 +3,8 @@
   "name": "raghav18482/LinkedInMCP",
   "description": "Interact with LinkedIn data using Claude AI to fetch profiles, search jobs, and generate PDF CVs via an MCP server.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-raghav18482-linkedinmcp-a865156f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-raghav18482-linkedinmcp-a865156f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-raghav18482-linkedinmcp-a865156f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-raghav18482-linkedinmcp-a865156f/badge.svg)](https://tensorblock.co/mcp/servers/github-raghav18482-linkedinmcp-a865156f)",
   "links": {
     "primary": "https://github.com/raghav18482/LinkedInMCP",
     "repo": "https://github.com/raghav18482/LinkedInMCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

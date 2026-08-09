@@ -3,8 +3,8 @@
   "name": "zw459123678/tuniao-server",
   "description": "Access and explore TuNiao UI components through a Model Context Protocol server with AI model integration.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-zw459123678-tuniao-server-30c417dd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zw459123678-tuniao-server-30c417dd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zw459123678-tuniao-server-30c417dd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zw459123678-tuniao-server-30c417dd/badge.svg)](https://tensorblock.co/mcp/servers/github-zw459123678-tuniao-server-30c417dd)",
   "links": {
     "primary": "https://github.com/zw459123678/tuniao-server",
     "repo": "https://github.com/zw459123678/tuniao-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

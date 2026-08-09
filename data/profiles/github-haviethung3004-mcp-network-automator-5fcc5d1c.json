@@ -3,8 +3,8 @@
   "name": "haviethung3004/MCP_Network_automator",
   "description": "An AI-assisted tool for automating Cisco network device management through natural language commands, integrated with Claude Desktop.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-haviethung3004-mcp-network-automator-5fcc5d1c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-haviethung3004-mcp-network-automator-5fcc5d1c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-haviethung3004-mcp-network-automator-5fcc5d1c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-haviethung3004-mcp-network-automator-5fcc5d1c/badge.svg)](https://tensorblock.co/mcp/servers/github-haviethung3004-mcp-network-automator-5fcc5d1c)",
   "links": {
     "primary": "https://github.com/haviethung3004/MCP_Network_automator",
     "repo": "https://github.com/haviethung3004/MCP_Network_automator",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

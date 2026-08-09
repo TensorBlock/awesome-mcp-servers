@@ -3,8 +3,8 @@
   "name": "qianyan/weather-mcp-server",
   "description": "A weather query server built on FastMCP, offering global city weather information with temperature and humidity details.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-qianyan-weather-mcp-server-45d12c57",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qianyan-weather-mcp-server-45d12c57)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-qianyan-weather-mcp-server-45d12c57",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-qianyan-weather-mcp-server-45d12c57/badge.svg)](https://tensorblock.co/mcp/servers/github-qianyan-weather-mcp-server-45d12c57)",
   "links": {
     "primary": "https://github.com/qianyan/weather-mcp-server",
     "repo": "https://github.com/qianyan/weather-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

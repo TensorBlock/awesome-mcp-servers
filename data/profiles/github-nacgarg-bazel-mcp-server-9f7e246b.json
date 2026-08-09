@@ -3,8 +3,8 @@
   "name": "nacgarg/bazel-mcp-server",
   "description": "Facilitates AI agents in utilizing Bazel's build system through a local MCP server, offering tools for building, querying, testing, and managing Bazel targets.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-nacgarg-bazel-mcp-server-9f7e246b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nacgarg-bazel-mcp-server-9f7e246b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nacgarg-bazel-mcp-server-9f7e246b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nacgarg-bazel-mcp-server-9f7e246b/badge.svg)](https://tensorblock.co/mcp/servers/github-nacgarg-bazel-mcp-server-9f7e246b)",
   "links": {
     "primary": "https://github.com/nacgarg/bazel-mcp-server",
     "repo": "https://github.com/nacgarg/bazel-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

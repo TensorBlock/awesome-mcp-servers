@@ -1,0 +1,56 @@
+{
+  "id": "github-nikhonit-zillow-skills-9a112cac",
+  "name": "Zillapi Zillow Property Data",
+  "description": "Zillow property data MCP server with 4 tools for address lookup, ZPID lookup, Zestimate retrieval, and active listing search. Returns Zestimates, rent estimates, tax records, listing details, price history, school data, photos, and 300+ property fields. Streamable HTTP endpoint: https://api.zillapi.com/mcp. OAuth 2.1 with PKCE. MIT-0.",
+  "category": "Real Estate & Home Services",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nikhonit-zillow-skills-9a112cac",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nikhonit-zillow-skills-9a112cac/badge.svg)](https://tensorblock.co/mcp/servers/github-nikhonit-zillow-skills-9a112cac)",
+  "links": {
+    "primary": "https://github.com/nikhonit/zillow-skills",
+    "repo": "https://github.com/nikhonit/zillow-skills",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://api.zillapi.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 4
+  }
+}

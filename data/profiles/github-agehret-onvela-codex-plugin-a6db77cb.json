@@ -1,0 +1,60 @@
+{
+  "id": "github-agehret-onvela-codex-plugin-a6db77cb",
+  "name": "onvela",
+  "description": "GDPR-compliant CRM exposed as a remote MCP server for contacts, organizations, groups, notes, tasks and activities (~50 tools) in natural language from Claude, Cursor or OpenAI Codex. Endpoint: https://onvela.app/mcp; Auth: OAuth 2.1; EU-hosted. Docs: https://onvela.app/crm-mcp.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-agehret-onvela-codex-plugin-a6db77cb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-agehret-onvela-codex-plugin-a6db77cb/badge.svg)](https://tensorblock.co/mcp/servers/github-agehret-onvela-codex-plugin-a6db77cb)",
+  "links": {
+    "primary": "https://github.com/agehret/onvela_codex_plugin",
+    "repo": "https://github.com/agehret/onvela_codex_plugin",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://onvela.app/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 50
+  }
+}

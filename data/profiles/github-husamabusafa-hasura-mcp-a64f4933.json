@@ -3,8 +3,8 @@
   "name": "husamabusafa/hasura_mcp",
   "description": "Facilitates AI agents' interaction with Hasura GraphQL endpoints, enabling dynamic API exploration and data operations through natural language requests.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-husamabusafa-hasura-mcp-a64f4933",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-husamabusafa-hasura-mcp-a64f4933)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-husamabusafa-hasura-mcp-a64f4933",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-husamabusafa-hasura-mcp-a64f4933/badge.svg)](https://tensorblock.co/mcp/servers/github-husamabusafa-hasura-mcp-a64f4933)",
   "links": {
     "primary": "https://github.com/husamabusafa/hasura_mcp",
     "repo": "https://github.com/husamabusafa/hasura_mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,58 @@
+{
+  "id": "github-onlineprfoundation-online-pr-mcp-6531b26c",
+  "name": "onlineprfoundation/online-pr-mcp",
+  "description": "PR workflow MCP server with 11 tools for agencies, publications, press release distribution, quote handling, and order workflows. Install: `npx online-pr-mcp`.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-onlineprfoundation-online-pr-mcp-6531b26c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-onlineprfoundation-online-pr-mcp-6531b26c/badge.svg)](https://tensorblock.co/mcp/servers/github-onlineprfoundation-online-pr-mcp-6531b26c)",
+  "links": {
+    "primary": "https://github.com/onlineprfoundation/online-pr-mcp",
+    "repo": "https://github.com/onlineprfoundation/online-pr-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx online-pr-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 11
+  }
+}

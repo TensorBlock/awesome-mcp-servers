@@ -1,0 +1,58 @@
+{
+  "id": "github-pictify-io-mcp-0c33daa0",
+  "name": "pictify-io/mcp",
+  "description": "Render images, animated GIFs, and PDFs from HTML/CSS, live URLs, or reusable Handlebars/FabricJS templates. Batch up to 100 personalised renders per request and A/B test image variants with built-in experiments. Hosted remote at `https://mcp.pictify.io` or self-host via `npx -y @pictify/mcp-server`.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-pictify-io-mcp-0c33daa0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-pictify-io-mcp-0c33daa0/badge.svg)](https://tensorblock.co/mcp/servers/github-pictify-io-mcp-0c33daa0)",
+  "links": {
+    "primary": "https://github.com/pictify-io/mcp",
+    "repo": "https://github.com/pictify-io/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.pictify.io"
+  },
+  "install": {
+    "commands": [
+      "npx -y @pictify/mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

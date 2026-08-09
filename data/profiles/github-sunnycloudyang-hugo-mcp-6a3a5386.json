@@ -3,8 +3,8 @@
   "name": "SunnyCloudYang/hugo-mcp",
   "description": "Manage and deploy Hugo static sites with a comprehensive suite of tools for environment setup, site management, and theme customization.",
   "category": "Content Management Systems",
-  "profileUrl": "https://tensorblock.co/mcp/github-sunnycloudyang-hugo-mcp-6a3a5386",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sunnycloudyang-hugo-mcp-6a3a5386)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sunnycloudyang-hugo-mcp-6a3a5386",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sunnycloudyang-hugo-mcp-6a3a5386/badge.svg)](https://tensorblock.co/mcp/servers/github-sunnycloudyang-hugo-mcp-6a3a5386)",
   "links": {
     "primary": "https://github.com/SunnyCloudYang/hugo-mcp",
     "repo": "https://github.com/SunnyCloudYang/hugo-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

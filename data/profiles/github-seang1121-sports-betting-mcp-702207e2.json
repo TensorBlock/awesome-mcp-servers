@@ -3,8 +3,8 @@
   "name": "seang1121/sports-betting-mcp",
   "description": "AI-powered sports betting intelligence for NBA, NHL, and NCAAB. Provides live odds, injury reports, line movement, daily picks with confidence scores, and visual bet slip cards — backed by 1,353+ resolved picks with 59.6% documented win rate.",
   "category": "Sports",
-  "profileUrl": "https://tensorblock.co/mcp/github-seang1121-sports-betting-mcp-702207e2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-seang1121-sports-betting-mcp-702207e2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-seang1121-sports-betting-mcp-702207e2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-seang1121-sports-betting-mcp-702207e2/badge.svg)](https://tensorblock.co/mcp/servers/github-seang1121-sports-betting-mcp-702207e2)",
   "links": {
     "primary": "https://github.com/seang1121/sports-betting-mcp",
     "repo": "https://github.com/seang1121/sports-betting-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "akr4/claude-code-mcp-docker",
   "description": "A Docker container for running Claude Code MCP server with enhanced security features, including a network firewall to prevent unauthorized outbound connections.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-akr4-claude-code-mcp-docker-eb56a336",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-akr4-claude-code-mcp-docker-eb56a336)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-akr4-claude-code-mcp-docker-eb56a336",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-akr4-claude-code-mcp-docker-eb56a336/badge.svg)](https://tensorblock.co/mcp/servers/github-akr4-claude-code-mcp-docker-eb56a336)",
   "links": {
     "primary": "https://github.com/akr4/claude-code-mcp-docker",
     "repo": "https://github.com/akr4/claude-code-mcp-docker",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

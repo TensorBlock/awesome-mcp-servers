@@ -3,8 +3,8 @@
   "name": "kriuchkov/ton-mcp",
   "description": "Facilitates interaction with the TON Blockchain through MCP, enabling operations like transactions and balance checks.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-kriuchkov-ton-mcp-6c4e3283",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kriuchkov-ton-mcp-6c4e3283)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kriuchkov-ton-mcp-6c4e3283",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kriuchkov-ton-mcp-6c4e3283/badge.svg)](https://tensorblock.co/mcp/servers/github-kriuchkov-ton-mcp-6c4e3283)",
   "links": {
     "primary": "https://github.com/kriuchkov/ton-mcp",
     "repo": "https://github.com/kriuchkov/ton-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

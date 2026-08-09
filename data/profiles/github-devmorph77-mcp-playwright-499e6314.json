@@ -3,8 +3,8 @@
   "name": "DevMorph77/mcp-playwright",
   "description": "Integrates Playwright with MCP for seamless web automation and testing through natural language or programmatic interaction.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-devmorph77-mcp-playwright-499e6314",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-devmorph77-mcp-playwright-499e6314)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-devmorph77-mcp-playwright-499e6314",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-devmorph77-mcp-playwright-499e6314/badge.svg)](https://tensorblock.co/mcp/servers/github-devmorph77-mcp-playwright-499e6314)",
   "links": {
     "primary": "https://github.com/DevMorph77/mcp-playwright",
     "repo": "https://github.com/DevMorph77/mcp-playwright",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "stuartsy-asana/asana-mcp",
   "description": "A prototype middleware MCP server facilitating integration with the Asana API.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-stuartsy-asana-asana-mcp-bfd9af03",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stuartsy-asana-asana-mcp-bfd9af03)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-stuartsy-asana-asana-mcp-bfd9af03",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stuartsy-asana-asana-mcp-bfd9af03/badge.svg)](https://tensorblock.co/mcp/servers/github-stuartsy-asana-asana-mcp-bfd9af03)",
   "links": {
     "primary": "https://github.com/stuartsy-asana/asana-mcp",
     "repo": "https://github.com/stuartsy-asana/asana-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

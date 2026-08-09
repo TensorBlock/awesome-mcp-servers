@@ -3,8 +3,8 @@
   "name": "bit-pal/MPC-server",
   "description": "Facilitates file searching through an MCP server integrated with VSCode, utilizing Python for command execution.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-bit-pal-mpc-server-0867542a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bit-pal-mpc-server-0867542a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bit-pal-mpc-server-0867542a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bit-pal-mpc-server-0867542a/badge.svg)](https://tensorblock.co/mcp/servers/github-bit-pal-mpc-server-0867542a)",
   "links": {
     "primary": "https://github.com/bit-pal/MPC-server",
     "repo": "https://github.com/bit-pal/MPC-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

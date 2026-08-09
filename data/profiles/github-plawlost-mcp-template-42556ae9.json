@@ -3,8 +3,8 @@
   "name": "plawlost/mcp-template",
   "description": "A template for creating MCP servers that interface with Claude and other MCP-compatible clients, offering customizable tools and prompts for LLM interactions.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-plawlost-mcp-template-42556ae9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-plawlost-mcp-template-42556ae9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-plawlost-mcp-template-42556ae9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-plawlost-mcp-template-42556ae9/badge.svg)](https://tensorblock.co/mcp/servers/github-plawlost-mcp-template-42556ae9)",
   "links": {
     "primary": "https://github.com/plawlost/mcp-template",
     "repo": "https://github.com/plawlost/mcp-template",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

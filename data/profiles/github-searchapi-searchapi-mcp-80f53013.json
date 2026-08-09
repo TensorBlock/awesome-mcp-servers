@@ -1,0 +1,56 @@
+{
+  "id": "github-searchapi-searchapi-mcp-80f53013",
+  "name": "searchapi/searchapi-mcp",
+  "description": "Real-time SERP and web data for AI assistants: 100+ tools across Google, Bing, Amazon, YouTube, Maps, travel, and social from one remote MCP server.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-searchapi-searchapi-mcp-80f53013",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-searchapi-searchapi-mcp-80f53013/badge.svg)](https://tensorblock.co/mcp/servers/github-searchapi-searchapi-mcp-80f53013)",
+  "links": {
+    "primary": "https://github.com/searchapi/searchapi-mcp",
+    "repo": "https://github.com/searchapi/searchapi-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

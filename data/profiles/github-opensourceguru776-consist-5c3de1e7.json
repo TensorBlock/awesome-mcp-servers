@@ -3,8 +3,8 @@
   "name": "OpenSourceGuru776/consist",
   "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-opensourceguru776-consist-5c3de1e7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-opensourceguru776-consist-5c3de1e7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-opensourceguru776-consist-5c3de1e7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-opensourceguru776-consist-5c3de1e7/badge.svg)](https://tensorblock.co/mcp/servers/github-opensourceguru776-consist-5c3de1e7)",
   "links": {
     "primary": "https://github.com/OpenSourceGuru776/consist",
     "repo": "https://github.com/OpenSourceGuru776/consist",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }
