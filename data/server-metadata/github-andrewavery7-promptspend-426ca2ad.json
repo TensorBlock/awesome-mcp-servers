@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-andrewavery7-promptspend-426ca2ad",
+  "source": {
+    "issue": 1629,
+    "projectUrl": "https://github.com/AndrewAvery7/promptspend"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @AndrewAvery7 in #1629 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@AndrewAvery7"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
