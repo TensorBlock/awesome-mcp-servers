@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-44-pixels-handover-mcp-5d212e68",
+  "source": {
+    "issue": 1548,
+    "projectUrl": "https://github.com/44-pixels/handover-mcp"
+  },
+  "links": {
+    "endpoint": "https://handover.sh/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "Gemini CLI",
+    "VS Code",
+    "and compatible Streamable HTTP MCP clients"
+  ],
+  "license": "MIT"
+}
