@@ -3,8 +3,8 @@
   "name": "pricepertoken/mcp-server",
   "description": "Provides real-time LLM API pricing comparison and benchmark rankings across 100+ models from 30+ providers including OpenAI, Anthropic, Google, and Meta. No API key required.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/pricepertoken-com-mcp-3f8c69cc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/pricepertoken-com-mcp-3f8c69cc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/pricepertoken-com-mcp-3f8c69cc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/pricepertoken-com-mcp-3f8c69cc/badge.svg)](https://tensorblock.co/mcp/servers/pricepertoken-com-mcp-3f8c69cc)",
   "links": {
     "primary": "https://pricepertoken.com/mcp",
     "repo": null,
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "none",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

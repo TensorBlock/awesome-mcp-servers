@@ -3,8 +3,8 @@
   "name": "orlando2019/MCO-postgres",
   "description": "Enables language models to perform read-only operations on PostgreSQL databases by providing schema inspection and query execution capabilities.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-orlando2019-mco-postgres-f10ac0f5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-orlando2019-mco-postgres-f10ac0f5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-orlando2019-mco-postgres-f10ac0f5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-orlando2019-mco-postgres-f10ac0f5/badge.svg)](https://tensorblock.co/mcp/servers/github-orlando2019-mco-postgres-f10ac0f5)",
   "links": {
     "primary": "https://github.com/orlando2019/MCO-postgres",
     "repo": "https://github.com/orlando2019/MCO-postgres",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

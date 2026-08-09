@@ -3,8 +3,8 @@
   "name": "d4n5h/developer-tools-mcp",
   "description": "A versatile MCP server offering extensive browser automation and web development tools via Puppeteer, enabling seamless integration with Cursor IDE and other MCP clients.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-d4n5h-developer-tools-mcp-7f3febd0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-d4n5h-developer-tools-mcp-7f3febd0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-d4n5h-developer-tools-mcp-7f3febd0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-d4n5h-developer-tools-mcp-7f3febd0/badge.svg)](https://tensorblock.co/mcp/servers/github-d4n5h-developer-tools-mcp-7f3febd0)",
   "links": {
     "primary": "https://github.com/d4n5h/developer-tools-mcp",
     "repo": "https://github.com/d4n5h/developer-tools-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

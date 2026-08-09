@@ -3,8 +3,8 @@
   "name": "albeorla/mcp",
   "description": "Aerith Admin MCP server facilitates RBAC dashboard application development with browser automation, integrating seamlessly with Cursor IDE.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-albeorla-mcp-00a60982",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-albeorla-mcp-00a60982)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-albeorla-mcp-00a60982",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-albeorla-mcp-00a60982/badge.svg)](https://tensorblock.co/mcp/servers/github-albeorla-mcp-00a60982)",
   "links": {
     "primary": "https://github.com/albeorla/mcp",
     "repo": "https://github.com/albeorla/mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

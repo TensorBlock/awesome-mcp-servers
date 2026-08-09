@@ -3,8 +3,8 @@
   "name": "HackTastic99/sad",
   "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-hacktastic99-sad-0678ad54",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hacktastic99-sad-0678ad54)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hacktastic99-sad-0678ad54",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hacktastic99-sad-0678ad54/badge.svg)](https://tensorblock.co/mcp/servers/github-hacktastic99-sad-0678ad54)",
   "links": {
     "primary": "https://github.com/HackTastic99/sad",
     "repo": "https://github.com/HackTastic99/sad",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

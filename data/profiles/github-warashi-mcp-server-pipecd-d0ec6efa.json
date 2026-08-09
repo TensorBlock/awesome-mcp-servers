@@ -3,8 +3,8 @@
   "name": "Warashi/mcp-server-pipecd",
   "description": "Facilitates integration and management of applications and deployments with PipeCD.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-warashi-mcp-server-pipecd-d0ec6efa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-warashi-mcp-server-pipecd-d0ec6efa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-warashi-mcp-server-pipecd-d0ec6efa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-warashi-mcp-server-pipecd-d0ec6efa/badge.svg)](https://tensorblock.co/mcp/servers/github-warashi-mcp-server-pipecd-d0ec6efa)",
   "links": {
     "primary": "https://github.com/Warashi/mcp-server-pipecd",
     "repo": "https://github.com/Warashi/mcp-server-pipecd",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

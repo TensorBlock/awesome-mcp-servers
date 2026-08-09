@@ -3,8 +3,8 @@
   "name": "LorinLex/test-opora-standart",
   "description": "Facilitates file searching by path fragment using a customizable MCP server setup.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-lorinlex-test-opora-standart-6da784c7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lorinlex-test-opora-standart-6da784c7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lorinlex-test-opora-standart-6da784c7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lorinlex-test-opora-standart-6da784c7/badge.svg)](https://tensorblock.co/mcp/servers/github-lorinlex-test-opora-standart-6da784c7)",
   "links": {
     "primary": "https://github.com/LorinLex/test-opora-standart",
     "repo": "https://github.com/LorinLex/test-opora-standart",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

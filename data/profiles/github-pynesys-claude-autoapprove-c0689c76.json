@@ -3,8 +3,8 @@
   "name": "PyneSys/claude_autoapprove",
   "description": "A CLI tool for automatically approving tool requests in the Claude Desktop App using remote debugging.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-pynesys-claude-autoapprove-c0689c76",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pynesys-claude-autoapprove-c0689c76)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-pynesys-claude-autoapprove-c0689c76",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-pynesys-claude-autoapprove-c0689c76/badge.svg)](https://tensorblock.co/mcp/servers/github-pynesys-claude-autoapprove-c0689c76)",
   "links": {
     "primary": "https://github.com/PyneSys/claude_autoapprove",
     "repo": "https://github.com/PyneSys/claude_autoapprove",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

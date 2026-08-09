@@ -1,0 +1,56 @@
+{
+  "id": "github-sharozdawa-content-optimizer-4cc4e98f",
+  "name": "sharozdawa/content-optimizer",
+  "description": "Open source Surfer SEO alternative with SERP-based content scoring across 7 categories, entity analysis, heading optimization, and readability scoring.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sharozdawa-content-optimizer-4cc4e98f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sharozdawa-content-optimizer-4cc4e98f/badge.svg)](https://tensorblock.co/mcp/servers/github-sharozdawa-content-optimizer-4cc4e98f)",
+  "links": {
+    "primary": "https://github.com/sharozdawa/content-optimizer",
+    "repo": "https://github.com/sharozdawa/content-optimizer",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

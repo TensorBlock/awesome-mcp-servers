@@ -3,8 +3,8 @@
   "name": "hideya/mcp-server-weather-js",
   "description": "Access real-time weather information in the US using a Node.js server implementing the Model Context Protocol.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-hideya-mcp-server-weather-js-1cfc62cc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hideya-mcp-server-weather-js-1cfc62cc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hideya-mcp-server-weather-js-1cfc62cc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hideya-mcp-server-weather-js-1cfc62cc/badge.svg)](https://tensorblock.co/mcp/servers/github-hideya-mcp-server-weather-js-1cfc62cc)",
   "links": {
     "primary": "https://github.com/hideya/mcp-server-weather-js",
     "repo": "https://github.com/hideya/mcp-server-weather-js",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

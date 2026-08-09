@@ -3,8 +3,8 @@
   "name": "fr0gger/MCP_Security",
   "description": "A Model Context Protocol server for querying the ORKL API, providing tools for threat intelligence analysis and integration with MCP-compatible applications.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-fr0gger-mcp-security-968c7dfd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fr0gger-mcp-security-968c7dfd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fr0gger-mcp-security-968c7dfd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fr0gger-mcp-security-968c7dfd/badge.svg)](https://tensorblock.co/mcp/servers/github-fr0gger-mcp-security-968c7dfd)",
   "links": {
     "primary": "https://github.com/fr0gger/MCP_Security",
     "repo": "https://github.com/fr0gger/MCP_Security",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

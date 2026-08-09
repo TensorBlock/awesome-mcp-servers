@@ -3,8 +3,8 @@
   "name": "yy1588133/code-merge-mcp",
   "description": "Facilitates code file extraction, merging, and analysis for large language models using the Model Context Protocol.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-yy1588133-code-merge-mcp-53b6a1a8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yy1588133-code-merge-mcp-53b6a1a8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yy1588133-code-merge-mcp-53b6a1a8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yy1588133-code-merge-mcp-53b6a1a8/badge.svg)](https://tensorblock.co/mcp/servers/github-yy1588133-code-merge-mcp-53b6a1a8)",
   "links": {
     "primary": "https://github.com/yy1588133/code-merge-mcp",
     "repo": "https://github.com/yy1588133/code-merge-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

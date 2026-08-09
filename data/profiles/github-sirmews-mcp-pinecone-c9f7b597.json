@@ -3,8 +3,8 @@
   "name": "sirmews/mcp-pinecone",
   "description": "Facilitates reading and writing operations on a Pinecone index, enabling semantic search and document processing for Claude Desktop.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-sirmews-mcp-pinecone-c9f7b597",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sirmews-mcp-pinecone-c9f7b597)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sirmews-mcp-pinecone-c9f7b597",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sirmews-mcp-pinecone-c9f7b597/badge.svg)](https://tensorblock.co/mcp/servers/github-sirmews-mcp-pinecone-c9f7b597)",
   "links": {
     "primary": "https://github.com/sirmews/mcp-pinecone",
     "repo": "https://github.com/sirmews/mcp-pinecone",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

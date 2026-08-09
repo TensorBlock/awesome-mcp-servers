@@ -3,8 +3,8 @@
   "name": "ukiuni/mcp-git",
   "description": "Facilitates the execution of Git commands via an MCP server, enabling seamless integration with various MCP clients.",
   "category": "Version Control",
-  "profileUrl": "https://tensorblock.co/mcp/github-ukiuni-mcp-git-7cc6b90f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ukiuni-mcp-git-7cc6b90f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ukiuni-mcp-git-7cc6b90f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ukiuni-mcp-git-7cc6b90f/badge.svg)](https://tensorblock.co/mcp/servers/github-ukiuni-mcp-git-7cc6b90f)",
   "links": {
     "primary": "https://github.com/ukiuni/mcp-git",
     "repo": "https://github.com/ukiuni/mcp-git",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

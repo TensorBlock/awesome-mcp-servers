@@ -3,8 +3,8 @@
   "name": "kenken64/mcp-server-java",
   "description": "A Java-based MCP server designed for seamless integration with Claude Desktop applications.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-kenken64-mcp-server-java-72ba24fd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kenken64-mcp-server-java-72ba24fd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kenken64-mcp-server-java-72ba24fd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kenken64-mcp-server-java-72ba24fd/badge.svg)](https://tensorblock.co/mcp/servers/github-kenken64-mcp-server-java-72ba24fd)",
   "links": {
     "primary": "https://github.com/kenken64/mcp-server-java",
     "repo": "https://github.com/kenken64/mcp-server-java",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "jj3ny/reclaim-mcp-server",
   "description": "A TypeScript-based MCP server enabling seamless interaction with Reclaim.ai's API for task management and scheduling.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-jj3ny-reclaim-mcp-server-deaa8429",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jj3ny-reclaim-mcp-server-deaa8429)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jj3ny-reclaim-mcp-server-deaa8429",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jj3ny-reclaim-mcp-server-deaa8429/badge.svg)](https://tensorblock.co/mcp/servers/github-jj3ny-reclaim-mcp-server-deaa8429)",
   "links": {
     "primary": "https://github.com/jj3ny/reclaim-mcp-server",
     "repo": "https://github.com/jj3ny/reclaim-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

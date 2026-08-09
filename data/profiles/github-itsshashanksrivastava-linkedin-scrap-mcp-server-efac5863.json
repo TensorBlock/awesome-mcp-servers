@@ -3,8 +3,8 @@
   "name": "itsShashankSrivastava/Linkedin-Scrap-MCP-Server",
   "description": "Fetches real-time LinkedIn profile data using an MCP server integrated with the Fresh LinkedIn Profile Data API.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-itsshashanksrivastava-linkedin-scrap-mcp-server-efac5863",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-itsshashanksrivastava-linkedin-scrap-mcp-server-efac5863)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-itsshashanksrivastava-linkedin-scrap-mcp-server-efac5863",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-itsshashanksrivastava-linkedin-scrap-mcp-server-efac5863/badge.svg)](https://tensorblock.co/mcp/servers/github-itsshashanksrivastava-linkedin-scrap-mcp-server-efac5863)",
   "links": {
     "primary": "https://github.com/itsShashankSrivastava/Linkedin-Scrap-MCP-Server",
     "repo": "https://github.com/itsShashankSrivastava/Linkedin-Scrap-MCP-Server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

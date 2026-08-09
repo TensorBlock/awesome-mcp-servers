@@ -3,8 +3,8 @@
   "name": "jmchat/mcp-ga4-data-ts",
   "description": "Access Google Analytics 4 reporting data through a Model Context Protocol server, compatible with Claude and other MCP clients.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-jmchat-mcp-ga4-data-ts-f3bfd42f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jmchat-mcp-ga4-data-ts-f3bfd42f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jmchat-mcp-ga4-data-ts-f3bfd42f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jmchat-mcp-ga4-data-ts-f3bfd42f/badge.svg)](https://tensorblock.co/mcp/servers/github-jmchat-mcp-ga4-data-ts-f3bfd42f)",
   "links": {
     "primary": "https://github.com/jmchat/mcp-ga4-data-ts",
     "repo": "https://github.com/jmchat/mcp-ga4-data-ts",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

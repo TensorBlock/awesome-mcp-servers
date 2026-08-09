@@ -3,8 +3,8 @@
   "name": "liaokongVFX/MCP-Chinese-Getting-Started-Guide",
   "description": "A comprehensive guide to quickly getting started with MCP programming, including server implementation for web search and integration with various tools.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-liaokongvfx-mcp-chinese-getting-started-guide-b3373f03",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-liaokongvfx-mcp-chinese-getting-started-guide-b3373f03)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-liaokongvfx-mcp-chinese-getting-started-guide-b3373f03",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-liaokongvfx-mcp-chinese-getting-started-guide-b3373f03/badge.svg)](https://tensorblock.co/mcp/servers/github-liaokongvfx-mcp-chinese-getting-started-guide-b3373f03)",
   "links": {
     "primary": "https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide",
     "repo": "https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

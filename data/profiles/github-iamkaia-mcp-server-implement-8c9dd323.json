@@ -3,8 +3,8 @@
   "name": "iamkaia/mcp-server-implement",
   "description": "A collection of five MCP servers for integration with Claude Desktop, offering functionalities like email management, web page fetching, document manipulation, and filesystem operations.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-iamkaia-mcp-server-implement-8c9dd323",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iamkaia-mcp-server-implement-8c9dd323)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-iamkaia-mcp-server-implement-8c9dd323",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-iamkaia-mcp-server-implement-8c9dd323/badge.svg)](https://tensorblock.co/mcp/servers/github-iamkaia-mcp-server-implement-8c9dd323)",
   "links": {
     "primary": "https://github.com/iamkaia/mcp-server-implement",
     "repo": "https://github.com/iamkaia/mcp-server-implement",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

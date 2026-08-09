@@ -3,8 +3,8 @@
   "name": "AleksanStark/mcp-ipfs-server",
   "description": "A server leveraging IPFS for decentralized data storage and retrieval, integrated with Claude AI for enhanced MCP interactions.",
   "category": "Filesystems",
-  "profileUrl": "https://tensorblock.co/mcp/github-aleksanstark-mcp-ipfs-server-b326985a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aleksanstark-mcp-ipfs-server-b326985a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aleksanstark-mcp-ipfs-server-b326985a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aleksanstark-mcp-ipfs-server-b326985a/badge.svg)](https://tensorblock.co/mcp/servers/github-aleksanstark-mcp-ipfs-server-b326985a)",
   "links": {
     "primary": "https://github.com/AleksanStark/mcp-ipfs-server",
     "repo": "https://github.com/AleksanStark/mcp-ipfs-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

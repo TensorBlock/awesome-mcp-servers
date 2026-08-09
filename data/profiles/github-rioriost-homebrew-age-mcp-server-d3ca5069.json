@@ -3,8 +3,8 @@
   "name": "rioriost/homebrew-age-mcp-server",
   "description": "Facilitates graph data operations on PostgreSQL databases using Apache AGE, with integration support for Azure and Visual Studio Code.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-rioriost-homebrew-age-mcp-server-d3ca5069",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rioriost-homebrew-age-mcp-server-d3ca5069)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rioriost-homebrew-age-mcp-server-d3ca5069",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rioriost-homebrew-age-mcp-server-d3ca5069/badge.svg)](https://tensorblock.co/mcp/servers/github-rioriost-homebrew-age-mcp-server-d3ca5069)",
   "links": {
     "primary": "https://github.com/rioriost/homebrew-age-mcp-server",
     "repo": "https://github.com/rioriost/homebrew-age-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

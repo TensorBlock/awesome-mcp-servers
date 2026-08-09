@@ -3,8 +3,8 @@
   "name": "tejedamiguel6/MCP-server-Contenful",
   "description": "Facilitates direct interaction between Claude and Contentful CMS data, enabling seamless content retrieval and management.",
   "category": "Content Management Systems",
-  "profileUrl": "https://tensorblock.co/mcp/github-tejedamiguel6-mcp-server-contenful-8e7ff725",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tejedamiguel6-mcp-server-contenful-8e7ff725)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tejedamiguel6-mcp-server-contenful-8e7ff725",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tejedamiguel6-mcp-server-contenful-8e7ff725/badge.svg)](https://tensorblock.co/mcp/servers/github-tejedamiguel6-mcp-server-contenful-8e7ff725)",
   "links": {
     "primary": "https://github.com/tejedamiguel6/MCP-server-Contenful",
     "repo": "https://github.com/tejedamiguel6/MCP-server-Contenful",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "lowprofix/n8n-mcp-server",
   "description": "Enhance your n8n automation projects with workflow validation tools and NextJS integration capabilities.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-lowprofix-n8n-mcp-server-c31bad4c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lowprofix-n8n-mcp-server-c31bad4c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lowprofix-n8n-mcp-server-c31bad4c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lowprofix-n8n-mcp-server-c31bad4c/badge.svg)](https://tensorblock.co/mcp/servers/github-lowprofix-n8n-mcp-server-c31bad4c)",
   "links": {
     "primary": "https://github.com/lowprofix/n8n-mcp-server",
     "repo": "https://github.com/lowprofix/n8n-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

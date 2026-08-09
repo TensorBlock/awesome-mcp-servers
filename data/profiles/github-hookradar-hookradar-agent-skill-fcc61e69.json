@@ -1,0 +1,56 @@
+{
+  "id": "github-hookradar-hookradar-agent-skill-fcc61e69",
+  "name": "HookRadar MCP",
+  "description": "Remote MCP server for creative intelligence workflows: tracked Meta ads, TikTok ads, Instagram/TikTok organic videos, AI creative analysis, reports, and downloadable media for marketing teams. Endpoint: `https://mcp.hookradar.net/mcp`; Auth: OAuth via HookRadar account.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hookradar-hookradar-agent-skill-fcc61e69",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hookradar-hookradar-agent-skill-fcc61e69/badge.svg)](https://tensorblock.co/mcp/servers/github-hookradar-hookradar-agent-skill-fcc61e69)",
+  "links": {
+    "primary": "https://github.com/HookRadar/hookradar-agent-skill",
+    "repo": "https://github.com/HookRadar/hookradar-agent-skill",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.hookradar.net/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

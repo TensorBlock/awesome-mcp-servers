@@ -3,8 +3,8 @@
   "name": "yjacquin/fast-mcp",
   "description": "Fast MCP provides a Ruby-focused implementation of the Model Context Protocol, enabling seamless AI model integration with Ruby applications through a clean and expressive interface.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-yjacquin-fast-mcp-ea232f6a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yjacquin-fast-mcp-ea232f6a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yjacquin-fast-mcp-ea232f6a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yjacquin-fast-mcp-ea232f6a/badge.svg)](https://tensorblock.co/mcp/servers/github-yjacquin-fast-mcp-ea232f6a)",
   "links": {
     "primary": "https://github.com/yjacquin/fast-mcp",
     "repo": "https://github.com/yjacquin/fast-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

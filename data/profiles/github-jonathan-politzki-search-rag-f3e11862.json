@@ -3,8 +3,8 @@
   "name": "jonathan-politzki/search-rag",
   "description": "A robust MCP server utilizing Apify's RAG Web Browser Actor for web content extraction, enhancing retrieval-augmented generation workflows with LLMs.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-jonathan-politzki-search-rag-f3e11862",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jonathan-politzki-search-rag-f3e11862)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jonathan-politzki-search-rag-f3e11862",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jonathan-politzki-search-rag-f3e11862/badge.svg)](https://tensorblock.co/mcp/servers/github-jonathan-politzki-search-rag-f3e11862)",
   "links": {
     "primary": "https://github.com/jonathan-politzki/search-rag",
     "repo": "https://github.com/jonathan-politzki/search-rag",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

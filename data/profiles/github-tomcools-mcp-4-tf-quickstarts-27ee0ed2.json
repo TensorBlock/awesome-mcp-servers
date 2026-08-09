@@ -3,8 +3,8 @@
   "name": "TomCools/mcp-4-tf-quickstarts",
   "description": "Facilitates modifications to Timefold Quickstarts using a Quarkus-based MCP server.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-tomcools-mcp-4-tf-quickstarts-27ee0ed2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tomcools-mcp-4-tf-quickstarts-27ee0ed2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tomcools-mcp-4-tf-quickstarts-27ee0ed2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tomcools-mcp-4-tf-quickstarts-27ee0ed2/badge.svg)](https://tensorblock.co/mcp/servers/github-tomcools-mcp-4-tf-quickstarts-27ee0ed2)",
   "links": {
     "primary": "https://github.com/TomCools/mcp-4-tf-quickstarts",
     "repo": "https://github.com/TomCools/mcp-4-tf-quickstarts",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

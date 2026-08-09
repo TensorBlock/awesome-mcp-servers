@@ -3,8 +3,8 @@
   "name": "explorium-ai/mcp-explorium",
   "description": "Facilitates interaction with the Explorium API through an MCP server setup.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-explorium-ai-mcp-explorium-31f1f032",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-explorium-ai-mcp-explorium-31f1f032)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-explorium-ai-mcp-explorium-31f1f032",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-explorium-ai-mcp-explorium-31f1f032/badge.svg)](https://tensorblock.co/mcp/servers/github-explorium-ai-mcp-explorium-31f1f032)",
   "links": {
     "primary": "https://github.com/explorium-ai/mcp-explorium",
     "repo": "https://github.com/explorium-ai/mcp-explorium",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

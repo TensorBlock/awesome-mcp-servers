@@ -3,8 +3,8 @@
   "name": "kenjihikmatullah/productboard-mcp",
   "description": "Facilitates integration of Productboard API into agentic workflows using MCP.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-kenjihikmatullah-productboard-mcp-05d78705",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kenjihikmatullah-productboard-mcp-05d78705)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kenjihikmatullah-productboard-mcp-05d78705",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kenjihikmatullah-productboard-mcp-05d78705/badge.svg)](https://tensorblock.co/mcp/servers/github-kenjihikmatullah-productboard-mcp-05d78705)",
   "links": {
     "primary": "https://github.com/kenjihikmatullah/productboard-mcp",
     "repo": "https://github.com/kenjihikmatullah/productboard-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

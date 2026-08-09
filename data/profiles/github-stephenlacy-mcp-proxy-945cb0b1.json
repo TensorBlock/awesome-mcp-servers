@@ -3,14 +3,46 @@
   "name": "stephenlacy/mcp-proxy",
   "description": "A fast Rust-based proxy facilitating bidirectional communication between stdio and SSE for MCP servers.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-stephenlacy-mcp-proxy-945cb0b1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stephenlacy-mcp-proxy-945cb0b1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-stephenlacy-mcp-proxy-945cb0b1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stephenlacy-mcp-proxy-945cb0b1/badge.svg)](https://tensorblock.co/mcp/servers/github-stephenlacy-mcp-proxy-945cb0b1)",
   "links": {
     "primary": "https://github.com/stephenlacy/mcp-proxy",
     "repo": "https://github.com/stephenlacy/mcp-proxy",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

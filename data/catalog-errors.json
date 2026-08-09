@@ -1,70 +1,63 @@
 [
   {
     "code": "duplicate_url",
-    "message": "Duplicate URL also appears at docs/browser-automation--web-scraping.md:4",
+    "message": "Duplicate URL also appears at docs/browser-automation--web-scraping.md:7",
     "entryId": "github-crawlio-app-crawlio-browser-agent-a8f4691c",
     "sourcePath": "docs/browser-automation--web-scraping.md",
-    "line": 5
+    "line": 8
   },
   {
     "code": "duplicate_url",
-    "message": "Duplicate URL also appears at docs/browser-automation--web-scraping.md:53",
+    "message": "Duplicate URL also appears at docs/browser-automation--web-scraping.md:57",
     "entryId": "github-rascal-3-mcp-servers-a6768f52",
     "sourcePath": "docs/browser-automation--web-scraping.md",
-    "line": 94
+    "line": 98
   },
   {
     "code": "duplicate_url",
-    "message": "Duplicate URL also appears at docs/ai--llm-integration.md:518",
+    "message": "Duplicate URL also appears at docs/ai--llm-integration.md:511",
     "entryId": "github-fgh23333-remote-mcp-server-62ba457a",
     "sourcePath": "docs/code-execution.md",
     "line": 40
   },
   {
     "code": "duplicate_url",
-    "message": "Duplicate URL also appears at docs/finance--crypto.md:28",
-    "entryId": "github-coinpaprika-dexpaprika-mcp-d469d942",
-    "sourcePath": "docs/finance--crypto.md",
-    "line": 300
-  },
-  {
-    "code": "duplicate_url",
-    "message": "Duplicate URL also appears at docs/ai--llm-integration.md:355",
+    "message": "Duplicate URL also appears at docs/ai--llm-integration.md:350",
     "entryId": "github-evanmschultz-memcp-17750372",
     "sourcePath": "docs/knowledge-management--memory.md",
-    "line": 241
+    "line": 240
   },
   {
     "code": "duplicate_url",
-    "message": "Duplicate URL also appears at docs/code-analysis--quality.md:7",
+    "message": "Duplicate URL also appears at docs/code-analysis--quality.md:10",
     "entryId": "github-isaacphi-mcp-language-server-a18f02c5",
     "sourcePath": "docs/knowledge-management--memory.md",
-    "line": 492
+    "line": 488
   },
   {
     "code": "duplicate_url",
-    "message": "Duplicate URL also appears at docs/data-analysis--business-intelligence.md:12",
+    "message": "Duplicate URL also appears at docs/data-analysis--business-intelligence.md:17",
     "entryId": "github-dhrbtjr0331-nba-stats-predictor-mcp-aa65606b",
     "sourcePath": "docs/sport.md",
     "line": 5
   },
   {
     "code": "duplicate_url",
-    "message": "Duplicate URL also appears at docs/gaming.md:22",
+    "message": "Duplicate URL also appears at docs/gaming.md:24",
     "entryId": "github-henryco23-nba-aff700d4",
     "sourcePath": "docs/sport.md",
     "line": 7
   },
   {
     "code": "duplicate_url",
-    "message": "Duplicate URL also appears at docs/gaming.md:23",
+    "message": "Duplicate URL also appears at docs/gaming.md:25",
     "entryId": "github-yeonupark-mcp-soccer-data-16b4e456",
     "sourcePath": "docs/sport.md",
     "line": 8
   },
   {
     "code": "duplicate_url",
-    "message": "Duplicate URL also appears at docs/infrastructure.md:140",
+    "message": "Duplicate URL also appears at docs/infrastructure.md:142",
     "entryId": "github-shin-t-o-mcp-access-23fc1690",
     "sourcePath": "docs/utilities--helpers.md",
     "line": 79

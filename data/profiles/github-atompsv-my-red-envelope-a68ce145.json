@@ -3,8 +3,8 @@
   "name": "atompsv/my-red-envelope",
   "description": "Facilitates querying MON token balances on the Monad testnet via an MCP server.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-atompsv-my-red-envelope-a68ce145",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-atompsv-my-red-envelope-a68ce145)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-atompsv-my-red-envelope-a68ce145",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-atompsv-my-red-envelope-a68ce145/badge.svg)](https://tensorblock.co/mcp/servers/github-atompsv-my-red-envelope-a68ce145)",
   "links": {
     "primary": "https://github.com/atompsv/my-red-envelope",
     "repo": "https://github.com/atompsv/my-red-envelope",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

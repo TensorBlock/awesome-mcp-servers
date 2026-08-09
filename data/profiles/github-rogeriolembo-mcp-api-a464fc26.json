@@ -3,8 +3,8 @@
   "name": "rogeriolembo/mcp-api",
   "description": "Integrates the Sonar API to enable Claude with real-time, web-wide research capabilities.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-rogeriolembo-mcp-api-a464fc26",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rogeriolembo-mcp-api-a464fc26)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rogeriolembo-mcp-api-a464fc26",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rogeriolembo-mcp-api-a464fc26/badge.svg)](https://tensorblock.co/mcp/servers/github-rogeriolembo-mcp-api-a464fc26)",
   "links": {
     "primary": "https://github.com/rogeriolembo/mcp-api",
     "repo": "https://github.com/rogeriolembo/mcp-api",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

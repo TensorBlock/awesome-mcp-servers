@@ -3,8 +3,8 @@
   "name": "Yulikepython/mcp-client-slackbot-by-itc",
   "description": "A Slack bot application that integrates with MCP servers and tools, featuring agent-based architecture and multilingual support.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-yulikepython-mcp-client-slackbot-by-itc-83d2720c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yulikepython-mcp-client-slackbot-by-itc-83d2720c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yulikepython-mcp-client-slackbot-by-itc-83d2720c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yulikepython-mcp-client-slackbot-by-itc-83d2720c/badge.svg)](https://tensorblock.co/mcp/servers/github-yulikepython-mcp-client-slackbot-by-itc-83d2720c)",
   "links": {
     "primary": "https://github.com/Yulikepython/mcp-client-slackbot-by-itc",
     "repo": "https://github.com/Yulikepython/mcp-client-slackbot-by-itc",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

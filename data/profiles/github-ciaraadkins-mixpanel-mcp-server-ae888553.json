@@ -3,8 +3,8 @@
   "name": "ciaraadkins/mixpanel-mcp-server",
   "description": "Integrates Mixpanel analytics with Claude and other MCP clients, enabling event tracking and user profile updates.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-ciaraadkins-mixpanel-mcp-server-ae888553",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ciaraadkins-mixpanel-mcp-server-ae888553)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ciaraadkins-mixpanel-mcp-server-ae888553",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ciaraadkins-mixpanel-mcp-server-ae888553/badge.svg)](https://tensorblock.co/mcp/servers/github-ciaraadkins-mixpanel-mcp-server-ae888553)",
   "links": {
     "primary": "https://github.com/ciaraadkins/mixpanel-mcp-server",
     "repo": "https://github.com/ciaraadkins/mixpanel-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

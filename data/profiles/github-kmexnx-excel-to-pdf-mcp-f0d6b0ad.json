@@ -3,8 +3,8 @@
   "name": "kmexnx/excel-to-pdf-mcp",
   "description": "Facilitates the conversion of Excel and Apple Numbers files to PDF, integrating seamlessly with AI assistants for streamlined file handling.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-kmexnx-excel-to-pdf-mcp-f0d6b0ad",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kmexnx-excel-to-pdf-mcp-f0d6b0ad)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kmexnx-excel-to-pdf-mcp-f0d6b0ad",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kmexnx-excel-to-pdf-mcp-f0d6b0ad/badge.svg)](https://tensorblock.co/mcp/servers/github-kmexnx-excel-to-pdf-mcp-f0d6b0ad)",
   "links": {
     "primary": "https://github.com/kmexnx/excel-to-pdf-mcp",
     "repo": "https://github.com/kmexnx/excel-to-pdf-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

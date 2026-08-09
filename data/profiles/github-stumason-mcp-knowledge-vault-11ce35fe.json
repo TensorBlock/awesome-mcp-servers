@@ -3,8 +3,8 @@
   "name": "StuMason/mcp-knowledge-vault",
   "description": "A robust knowledge management system enabling AI models to efficiently store, retrieve, and manage structured information using the Model Context Protocol.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-stumason-mcp-knowledge-vault-11ce35fe",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stumason-mcp-knowledge-vault-11ce35fe)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-stumason-mcp-knowledge-vault-11ce35fe",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stumason-mcp-knowledge-vault-11ce35fe/badge.svg)](https://tensorblock.co/mcp/servers/github-stumason-mcp-knowledge-vault-11ce35fe)",
   "links": {
     "primary": "https://github.com/StuMason/mcp-knowledge-vault",
     "repo": "https://github.com/StuMason/mcp-knowledge-vault",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "ferrants/mcp-streamable-http-typescript-server",
   "description": "A TypeScript-based MCP server starter kit featuring streamable HTTP transport and session management.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-ferrants-mcp-streamable-http-typescript-server-cc6c8939",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ferrants-mcp-streamable-http-typescript-server-cc6c8939)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ferrants-mcp-streamable-http-typescript-server-cc6c8939",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ferrants-mcp-streamable-http-typescript-server-cc6c8939/badge.svg)](https://tensorblock.co/mcp/servers/github-ferrants-mcp-streamable-http-typescript-server-cc6c8939)",
   "links": {
     "primary": "https://github.com/ferrants/mcp-streamable-http-typescript-server",
     "repo": "https://github.com/ferrants/mcp-streamable-http-typescript-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

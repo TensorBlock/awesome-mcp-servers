@@ -3,8 +3,8 @@
   "name": "sofianhamiti/mcp-server-s3",
   "description": "Facilitates direct interaction with AWS S3 buckets using the Model Context Protocol.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-sofianhamiti-mcp-server-s3-6c9c78f8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sofianhamiti-mcp-server-s3-6c9c78f8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sofianhamiti-mcp-server-s3-6c9c78f8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sofianhamiti-mcp-server-s3-6c9c78f8/badge.svg)](https://tensorblock.co/mcp/servers/github-sofianhamiti-mcp-server-s3-6c9c78f8)",
   "links": {
     "primary": "https://github.com/sofianhamiti/mcp-server-s3",
     "repo": "https://github.com/sofianhamiti/mcp-server-s3",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

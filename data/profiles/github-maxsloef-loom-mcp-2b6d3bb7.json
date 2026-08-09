@@ -3,8 +3,8 @@
   "name": "maxsloef/loom-mcp",
   "description": "A TypeScript-based MCP server that implements a simple loom interface for Claude, enabling parallel generation and selection of model completions.",
   "category": "Gaming",
-  "profileUrl": "https://tensorblock.co/mcp/github-maxsloef-loom-mcp-2b6d3bb7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maxsloef-loom-mcp-2b6d3bb7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-maxsloef-loom-mcp-2b6d3bb7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-maxsloef-loom-mcp-2b6d3bb7/badge.svg)](https://tensorblock.co/mcp/servers/github-maxsloef-loom-mcp-2b6d3bb7)",
   "links": {
     "primary": "https://github.com/maxsloef/loom-mcp",
     "repo": "https://github.com/maxsloef/loom-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop",
   "description": "Provides real-time cryptocurrency market data for Claude Desktop using the CoinGecko API.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-saintdoresh-crypto-trader-mcp-claudedesktop-c5ff26d9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-saintdoresh-crypto-trader-mcp-claudedesktop-c5ff26d9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-saintdoresh-crypto-trader-mcp-claudedesktop-c5ff26d9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-saintdoresh-crypto-trader-mcp-claudedesktop-c5ff26d9/badge.svg)](https://tensorblock.co/mcp/servers/github-saintdoresh-crypto-trader-mcp-claudedesktop-c5ff26d9)",
   "links": {
     "primary": "https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop",
     "repo": "https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "caretdev/mcp-server-iris",
   "description": "Facilitates seamless interaction and automation with InterSystems IRIS databases using the Model Context Protocol.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-caretdev-mcp-server-iris-01739dc7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-caretdev-mcp-server-iris-01739dc7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-caretdev-mcp-server-iris-01739dc7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-caretdev-mcp-server-iris-01739dc7/badge.svg)](https://tensorblock.co/mcp/servers/github-caretdev-mcp-server-iris-01739dc7)",
   "links": {
     "primary": "https://github.com/caretdev/mcp-server-iris",
     "repo": "https://github.com/caretdev/mcp-server-iris",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

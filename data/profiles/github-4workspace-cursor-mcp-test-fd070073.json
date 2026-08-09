@@ -3,8 +3,8 @@
   "name": "4workspace/Cursor-MCP-test",
   "description": "Facilitates GitHub integration within Cursor IDE using the Model Control Protocol for streamlined repository management.",
   "category": "Version Control",
-  "profileUrl": "https://tensorblock.co/mcp/github-4workspace-cursor-mcp-test-fd070073",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-4workspace-cursor-mcp-test-fd070073)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-4workspace-cursor-mcp-test-fd070073",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-4workspace-cursor-mcp-test-fd070073/badge.svg)](https://tensorblock.co/mcp/servers/github-4workspace-cursor-mcp-test-fd070073)",
   "links": {
     "primary": "https://github.com/4workspace/Cursor-MCP-test",
     "repo": "https://github.com/4workspace/Cursor-MCP-test",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

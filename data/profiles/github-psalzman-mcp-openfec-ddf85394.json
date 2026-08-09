@@ -3,8 +3,8 @@
   "name": "psalzman/mcp-openfec",
   "description": "Access Federal Election Commission campaign finance data via the OpenFEC API with this MCP server.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-psalzman-mcp-openfec-ddf85394",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-psalzman-mcp-openfec-ddf85394)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-psalzman-mcp-openfec-ddf85394",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-psalzman-mcp-openfec-ddf85394/badge.svg)](https://tensorblock.co/mcp/servers/github-psalzman-mcp-openfec-ddf85394)",
   "links": {
     "primary": "https://github.com/psalzman/mcp-openfec",
     "repo": "https://github.com/psalzman/mcp-openfec",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

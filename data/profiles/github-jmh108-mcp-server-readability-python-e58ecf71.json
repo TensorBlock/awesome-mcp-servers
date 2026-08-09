@@ -3,8 +3,8 @@
   "name": "jmh108/MCP-server-readability-python",
   "description": "Transforms webpage content into clean, LLM-optimized Markdown using a Python-based MCP server.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-jmh108-mcp-server-readability-python-e58ecf71",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jmh108-mcp-server-readability-python-e58ecf71)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jmh108-mcp-server-readability-python-e58ecf71",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jmh108-mcp-server-readability-python-e58ecf71/badge.svg)](https://tensorblock.co/mcp/servers/github-jmh108-mcp-server-readability-python-e58ecf71)",
   "links": {
     "primary": "https://github.com/jmh108/MCP-server-readability-python",
     "repo": "https://github.com/jmh108/MCP-server-readability-python",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

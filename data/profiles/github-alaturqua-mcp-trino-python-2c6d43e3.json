@@ -3,8 +3,8 @@
   "name": "alaturqua/mcp-trino-python",
   "description": "Facilitates advanced data exploration and management in Trino and Iceberg through a standardized interface.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-alaturqua-mcp-trino-python-2c6d43e3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alaturqua-mcp-trino-python-2c6d43e3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-alaturqua-mcp-trino-python-2c6d43e3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-alaturqua-mcp-trino-python-2c6d43e3/badge.svg)](https://tensorblock.co/mcp/servers/github-alaturqua-mcp-trino-python-2c6d43e3)",
   "links": {
     "primary": "https://github.com/alaturqua/mcp-trino-python",
     "repo": "https://github.com/alaturqua/mcp-trino-python",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

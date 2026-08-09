@@ -3,8 +3,8 @@
   "name": "qianO33/mcp-excel-server",
   "description": "Facilitates Excel file operations through a Node.js server using the Model Context Protocol.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-qiano33-mcp-excel-server-11d0cc27",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qiano33-mcp-excel-server-11d0cc27)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-qiano33-mcp-excel-server-11d0cc27",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-qiano33-mcp-excel-server-11d0cc27/badge.svg)](https://tensorblock.co/mcp/servers/github-qiano33-mcp-excel-server-11d0cc27)",
   "links": {
     "primary": "https://github.com/qianO33/mcp-excel-server",
     "repo": "https://github.com/qianO33/mcp-excel-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

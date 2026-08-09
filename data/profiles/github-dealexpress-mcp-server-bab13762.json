@@ -3,8 +3,8 @@
   "name": "DealExpress/mcp-server",
   "description": "Facilitates LLM interactions with the DealX platform for ad searches using the Model Context Protocol.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-dealexpress-mcp-server-bab13762",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dealexpress-mcp-server-bab13762)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dealexpress-mcp-server-bab13762",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dealexpress-mcp-server-bab13762/badge.svg)](https://tensorblock.co/mcp/servers/github-dealexpress-mcp-server-bab13762)",
   "links": {
     "primary": "https://github.com/DealExpress/mcp-server",
     "repo": "https://github.com/DealExpress/mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

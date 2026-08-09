@@ -1,0 +1,56 @@
+{
+  "id": "github-timwal78-squeezeos-27df9396",
+  "name": "Timwal78/SqueezeOS",
+  "description": "Institutional market intelligence MCP server with 33 tools. Schwab/Polygon/Alpaca APIs, x402 payment gating via XRPL/RLUSD and Base/USDC, short-squeeze detection, FTD cycle analysis. Free tier + paid signal tiers. Remote: `https://squeezeos-api.onrender.com/mcp`",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-timwal78-squeezeos-27df9396",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-timwal78-squeezeos-27df9396/badge.svg)](https://tensorblock.co/mcp/servers/github-timwal78-squeezeos-27df9396)",
+  "links": {
+    "primary": "https://github.com/Timwal78/SqueezeOS",
+    "repo": "https://github.com/Timwal78/SqueezeOS",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://squeezeos-api.onrender.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 33
+  }
+}

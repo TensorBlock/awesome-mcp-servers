@@ -3,14 +3,46 @@
   "name": "Michaelzag/mcp-sse-bridge",
   "description": "Facilitates communication between Roo-Code and SSE-based MCP servers by translating stdin/stdout to HTTP/SSE protocols.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-michaelzag-mcp-sse-bridge-d1552327",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-michaelzag-mcp-sse-bridge-d1552327)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-michaelzag-mcp-sse-bridge-d1552327",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-michaelzag-mcp-sse-bridge-d1552327/badge.svg)](https://tensorblock.co/mcp/servers/github-michaelzag-mcp-sse-bridge-d1552327)",
   "links": {
     "primary": "https://github.com/Michaelzag/mcp-sse-bridge",
     "repo": "https://github.com/Michaelzag/mcp-sse-bridge",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

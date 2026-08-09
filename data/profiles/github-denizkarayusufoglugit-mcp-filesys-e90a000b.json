@@ -3,8 +3,8 @@
   "name": "DenizkarayusufogluGit/mcp-filesys",
   "description": "Facilitates secure filesystem access for AI models via JSON-RPC requests, adhering to the MCP specification.",
   "category": "Filesystems",
-  "profileUrl": "https://tensorblock.co/mcp/github-denizkarayusufoglugit-mcp-filesys-e90a000b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-denizkarayusufoglugit-mcp-filesys-e90a000b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-denizkarayusufoglugit-mcp-filesys-e90a000b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-denizkarayusufoglugit-mcp-filesys-e90a000b/badge.svg)](https://tensorblock.co/mcp/servers/github-denizkarayusufoglugit-mcp-filesys-e90a000b)",
   "links": {
     "primary": "https://github.com/DenizkarayusufogluGit/mcp-filesys",
     "repo": "https://github.com/DenizkarayusufogluGit/mcp-filesys",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

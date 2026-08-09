@@ -3,8 +3,8 @@
   "name": "joeseesun/qiniu-mcp-joe",
   "description": "Facilitates file uploads to Qiniu Cloud Storage, providing a seamless integration for managing media assets.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-joeseesun-qiniu-mcp-joe-498d9039",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-joeseesun-qiniu-mcp-joe-498d9039)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-joeseesun-qiniu-mcp-joe-498d9039",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-joeseesun-qiniu-mcp-joe-498d9039/badge.svg)](https://tensorblock.co/mcp/servers/github-joeseesun-qiniu-mcp-joe-498d9039)",
   "links": {
     "primary": "https://github.com/joeseesun/qiniu-mcp-joe",
     "repo": "https://github.com/joeseesun/qiniu-mcp-joe",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

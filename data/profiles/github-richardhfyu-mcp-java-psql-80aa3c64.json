@@ -3,8 +3,8 @@
   "name": "RichardHFYU/MCP_Java_PSQL",
   "description": "A Spring Boot and Spring AI-based MCP server for inspecting PostgreSQL database schemas, supporting SSE transport for integration with Cursor and other MCP clients.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-richardhfyu-mcp-java-psql-80aa3c64",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-richardhfyu-mcp-java-psql-80aa3c64)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-richardhfyu-mcp-java-psql-80aa3c64",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-richardhfyu-mcp-java-psql-80aa3c64/badge.svg)](https://tensorblock.co/mcp/servers/github-richardhfyu-mcp-java-psql-80aa3c64)",
   "links": {
     "primary": "https://github.com/RichardHFYU/MCP_Java_PSQL",
     "repo": "https://github.com/RichardHFYU/MCP_Java_PSQL",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

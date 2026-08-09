@@ -3,8 +3,8 @@
   "name": "stedwick/codecov-mcp",
   "description": "Enhance your code coverage analysis with a TypeScript-based server that integrates Codecov insights and test suggestions.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-stedwick-codecov-mcp-0b5b54a2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stedwick-codecov-mcp-0b5b54a2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-stedwick-codecov-mcp-0b5b54a2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stedwick-codecov-mcp-0b5b54a2/badge.svg)](https://tensorblock.co/mcp/servers/github-stedwick-codecov-mcp-0b5b54a2)",
   "links": {
     "primary": "https://github.com/stedwick/codecov-mcp",
     "repo": "https://github.com/stedwick/codecov-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "jboothomas/pure-model-context-protocol",
   "description": "Facilitates real-time interaction with Pure Storage FlashBlade arrays, providing modular tools for retrieving array information.",
   "category": "Filesystems",
-  "profileUrl": "https://tensorblock.co/mcp/github-jboothomas-pure-model-context-protocol-4c1b1645",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jboothomas-pure-model-context-protocol-4c1b1645)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jboothomas-pure-model-context-protocol-4c1b1645",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jboothomas-pure-model-context-protocol-4c1b1645/badge.svg)](https://tensorblock.co/mcp/servers/github-jboothomas-pure-model-context-protocol-4c1b1645)",
   "links": {
     "primary": "https://github.com/jboothomas/pure-model-context-protocol",
     "repo": "https://github.com/jboothomas/pure-model-context-protocol",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

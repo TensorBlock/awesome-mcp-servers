@@ -3,8 +3,8 @@
   "name": "lucianoayres/mcp-server-python",
   "description": "A Python-based MCP server that integrates with AI-assisted development environments, offering tools for arithmetic operations and environment variable retrieval.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-lucianoayres-mcp-server-python-59721162",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lucianoayres-mcp-server-python-59721162)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lucianoayres-mcp-server-python-59721162",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lucianoayres-mcp-server-python-59721162/badge.svg)](https://tensorblock.co/mcp/servers/github-lucianoayres-mcp-server-python-59721162)",
   "links": {
     "primary": "https://github.com/lucianoayres/mcp-server-python",
     "repo": "https://github.com/lucianoayres/mcp-server-python",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

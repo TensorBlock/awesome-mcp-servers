@@ -3,8 +3,8 @@
   "name": "tejpalvirk/task_researcher",
   "description": "A Python-based task management system that leverages AI for task decomposition and complexity analysis, offering both CLI and MCP server functionalities for enhanced project management.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-tejpalvirk-task-researcher-76af6c53",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tejpalvirk-task-researcher-76af6c53)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tejpalvirk-task-researcher-76af6c53",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tejpalvirk-task-researcher-76af6c53/badge.svg)](https://tensorblock.co/mcp/servers/github-tejpalvirk-task-researcher-76af6c53)",
   "links": {
     "primary": "https://github.com/tejpalvirk/task_researcher",
     "repo": "https://github.com/tejpalvirk/task_researcher",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

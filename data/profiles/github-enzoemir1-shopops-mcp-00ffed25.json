@@ -3,8 +3,8 @@
   "name": "enzoemir1/shopops-mcp",
   "description": "E-commerce operations with inventory management, dynamic pricing, customer segmentation, sales analytics, product catalog, and order management. 11 tools, 4 resources.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-enzoemir1-shopops-mcp-00ffed25",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-enzoemir1-shopops-mcp-00ffed25)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-enzoemir1-shopops-mcp-00ffed25",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-enzoemir1-shopops-mcp-00ffed25/badge.svg)](https://tensorblock.co/mcp/servers/github-enzoemir1-shopops-mcp-00ffed25)",
   "links": {
     "primary": "https://github.com/enzoemir1/shopops-mcp",
     "repo": "https://github.com/enzoemir1/shopops-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 11
   }

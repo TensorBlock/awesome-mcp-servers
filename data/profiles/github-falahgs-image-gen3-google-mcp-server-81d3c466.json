@@ -3,8 +3,8 @@
   "name": "falahgs/image-gen3-google-mcp-server",
   "description": "Harness Google's Imagen 3.0 model via the Gemini API for high-quality image generation, seamlessly integrating with Claude Desktop and other MCP-compatible hosts.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-falahgs-image-gen3-google-mcp-server-81d3c466",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-falahgs-image-gen3-google-mcp-server-81d3c466)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-falahgs-image-gen3-google-mcp-server-81d3c466",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-falahgs-image-gen3-google-mcp-server-81d3c466/badge.svg)](https://tensorblock.co/mcp/servers/github-falahgs-image-gen3-google-mcp-server-81d3c466)",
   "links": {
     "primary": "https://github.com/falahgs/image-gen3-google-mcp-server",
     "repo": "https://github.com/falahgs/image-gen3-google-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

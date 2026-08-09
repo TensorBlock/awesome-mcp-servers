@@ -3,8 +3,8 @@
   "name": "cmann50/mcp-chrome-google-search",
   "description": "Facilitates Google search and webpage content extraction via Chrome, integrating with Claude for seamless content fetching.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-cmann50-mcp-chrome-google-search-e54e64be",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cmann50-mcp-chrome-google-search-e54e64be)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cmann50-mcp-chrome-google-search-e54e64be",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cmann50-mcp-chrome-google-search-e54e64be/badge.svg)](https://tensorblock.co/mcp/servers/github-cmann50-mcp-chrome-google-search-e54e64be)",
   "links": {
     "primary": "https://github.com/cmann50/mcp-chrome-google-search",
     "repo": "https://github.com/cmann50/mcp-chrome-google-search",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

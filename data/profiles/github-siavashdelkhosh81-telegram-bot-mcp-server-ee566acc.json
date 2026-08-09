@@ -3,8 +3,8 @@
   "name": "siavashdelkhosh81/telegram-bot-mcp-server",
   "description": "Facilitates seamless interaction with the Telegram Bot API through a structured set of commands for messaging, user management, and bot configuration.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-siavashdelkhosh81-telegram-bot-mcp-server-ee566acc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-siavashdelkhosh81-telegram-bot-mcp-server-ee566acc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-siavashdelkhosh81-telegram-bot-mcp-server-ee566acc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-siavashdelkhosh81-telegram-bot-mcp-server-ee566acc/badge.svg)](https://tensorblock.co/mcp/servers/github-siavashdelkhosh81-telegram-bot-mcp-server-ee566acc)",
   "links": {
     "primary": "https://github.com/siavashdelkhosh81/telegram-bot-mcp-server",
     "repo": "https://github.com/siavashdelkhosh81/telegram-bot-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

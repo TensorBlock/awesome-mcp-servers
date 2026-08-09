@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-crawlora-org-crawlora-mcp-0ee2563b",
+  "source": {
+    "issue": 1479,
+    "projectUrl": "https://github.com/Crawlora-org/crawlora-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.crawlora.net/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Cline",
+    "VS Code",
+    "n8n"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @tonywangcn in #1562 under the community profile-claim process.",
+      "Requested profile metadata in #1562: Category: Browser Automation & Web Scraping Transport: streamable-http Auth: api-key Install confidence: low License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@tonywangcn"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

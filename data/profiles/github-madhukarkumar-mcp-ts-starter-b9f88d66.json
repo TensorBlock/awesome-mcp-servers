@@ -3,14 +3,46 @@
   "name": "madhukarkumar/mcp-ts-starter",
   "description": "A TypeScript starter project for building MCP servers with resources, prompts, and tools, supporting both stdio and HTTP transport options.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-madhukarkumar-mcp-ts-starter-b9f88d66",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-madhukarkumar-mcp-ts-starter-b9f88d66)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-madhukarkumar-mcp-ts-starter-b9f88d66",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-madhukarkumar-mcp-ts-starter-b9f88d66/badge.svg)](https://tensorblock.co/mcp/servers/github-madhukarkumar-mcp-ts-starter-b9f88d66)",
   "links": {
     "primary": "https://github.com/madhukarkumar/mcp-ts-starter",
     "repo": "https://github.com/madhukarkumar/mcp-ts-starter",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

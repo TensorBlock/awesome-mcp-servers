@@ -1,0 +1,56 @@
+{
+  "id": "github-rog0x-mcp-github-tools-faadb1a8",
+  "name": "rog0x/mcp-github-tools",
+  "description": "GitHub MCP tools for repository analytics, pull requests, issues, and project activity workflows. Install from the `@rog0x` npm package family. MIT.",
+  "category": "Version Control",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rog0x-mcp-github-tools-faadb1a8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rog0x-mcp-github-tools-faadb1a8/badge.svg)](https://tensorblock.co/mcp/servers/github-rog0x-mcp-github-tools-faadb1a8)",
+  "links": {
+    "primary": "https://github.com/rog0x/mcp-github-tools",
+    "repo": "https://github.com/rog0x/mcp-github-tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

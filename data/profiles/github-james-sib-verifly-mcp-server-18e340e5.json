@@ -1,0 +1,58 @@
+{
+  "id": "github-james-sib-verifly-mcp-server-18e340e5",
+  "name": "Verifly",
+  "description": "Email verification for AI agents — verify deliverability, detect disposable/role/typo addresses, clean lists, and check domain/MX health. Hosted MCP (Streamable HTTP) at https://verifly.email/mcp with autonomous self-registration (instant API key + 100 free credits) and crypto payment.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-james-sib-verifly-mcp-server-18e340e5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-james-sib-verifly-mcp-server-18e340e5/badge.svg)](https://tensorblock.co/mcp/servers/github-james-sib-verifly-mcp-server-18e340e5)",
+  "links": {
+    "primary": "https://github.com/james-sib/verifly-mcp-server",
+    "repo": "https://github.com/james-sib/verifly-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://verifly.email/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http",
+    "sse"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http",
+      "sse"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

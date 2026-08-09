@@ -3,8 +3,8 @@
   "name": "AzDeltaQQ/Mcp-Reasoning-Server",
   "description": "An advanced reasoning server for Cursor AI, utilizing Monte Carlo Tree Search, Beam Search, and Transformer-based methods for complex problem-solving.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-azdeltaqq-mcp-reasoning-server-6aa01d7b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-azdeltaqq-mcp-reasoning-server-6aa01d7b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-azdeltaqq-mcp-reasoning-server-6aa01d7b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-azdeltaqq-mcp-reasoning-server-6aa01d7b/badge.svg)](https://tensorblock.co/mcp/servers/github-azdeltaqq-mcp-reasoning-server-6aa01d7b)",
   "links": {
     "primary": "https://github.com/AzDeltaQQ/Mcp-Reasoning-Server",
     "repo": "https://github.com/AzDeltaQQ/Mcp-Reasoning-Server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "54yyyu/code-mcp",
   "description": "Code-MCP integrates Claude AI with development environments, enabling terminal commands and file operations through an AI interface.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-54yyyu-code-mcp-e1ab80f6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-54yyyu-code-mcp-e1ab80f6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-54yyyu-code-mcp-e1ab80f6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-54yyyu-code-mcp-e1ab80f6/badge.svg)](https://tensorblock.co/mcp/servers/github-54yyyu-code-mcp-e1ab80f6)",
   "links": {
     "primary": "https://github.com/54yyyu/code-mcp",
     "repo": "https://github.com/54yyyu/code-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

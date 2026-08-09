@@ -3,8 +3,8 @@
   "name": "ktanaka101/mcp-server-duckdb",
   "description": "Facilitates database operations on DuckDB through MCP tools, enabling SQL queries and schema inspection with optional read-only mode for data integrity.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-ktanaka101-mcp-server-duckdb-a523f871",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ktanaka101-mcp-server-duckdb-a523f871)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ktanaka101-mcp-server-duckdb-a523f871",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ktanaka101-mcp-server-duckdb-a523f871/badge.svg)](https://tensorblock.co/mcp/servers/github-ktanaka101-mcp-server-duckdb-a523f871)",
   "links": {
     "primary": "https://github.com/ktanaka101/mcp-server-duckdb",
     "repo": "https://github.com/ktanaka101/mcp-server-duckdb",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

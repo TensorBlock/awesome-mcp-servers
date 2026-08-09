@@ -3,8 +3,8 @@
   "name": "pullkitsan/mobsf-mcp-server",
   "description": "Utilizes MobSF's API to scan and analyze APK and IPA files through an MCP-compatible interface.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-pullkitsan-mobsf-mcp-server-217a0a27",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pullkitsan-mobsf-mcp-server-217a0a27)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-pullkitsan-mobsf-mcp-server-217a0a27",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-pullkitsan-mobsf-mcp-server-217a0a27/badge.svg)](https://tensorblock.co/mcp/servers/github-pullkitsan-mobsf-mcp-server-217a0a27)",
   "links": {
     "primary": "https://github.com/pullkitsan/mobsf-mcp-server",
     "repo": "https://github.com/pullkitsan/mobsf-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

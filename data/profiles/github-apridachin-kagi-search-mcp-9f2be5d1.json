@@ -3,8 +3,8 @@
   "name": "apridachin/kagi-search-mcp",
   "description": "Facilitates web searches using the Kagi API to enhance model context with web and news content.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-apridachin-kagi-search-mcp-9f2be5d1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-apridachin-kagi-search-mcp-9f2be5d1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-apridachin-kagi-search-mcp-9f2be5d1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-apridachin-kagi-search-mcp-9f2be5d1/badge.svg)](https://tensorblock.co/mcp/servers/github-apridachin-kagi-search-mcp-9f2be5d1)",
   "links": {
     "primary": "https://github.com/apridachin/kagi-search-mcp",
     "repo": "https://github.com/apridachin/kagi-search-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

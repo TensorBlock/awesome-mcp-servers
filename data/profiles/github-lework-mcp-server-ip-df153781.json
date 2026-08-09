@@ -3,14 +3,46 @@
   "name": "lework/mcp-server-ip",
   "description": "Provides IP address geolocation queries using the Model Context Protocol with HTTP SSE data transmission.",
   "category": "Location & Maps",
-  "profileUrl": "https://tensorblock.co/mcp/github-lework-mcp-server-ip-df153781",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lework-mcp-server-ip-df153781)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lework-mcp-server-ip-df153781",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lework-mcp-server-ip-df153781/badge.svg)](https://tensorblock.co/mcp/servers/github-lework-mcp-server-ip-df153781)",
   "links": {
     "primary": "https://github.com/lework/mcp-server-ip",
     "repo": "https://github.com/lework/mcp-server-ip",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

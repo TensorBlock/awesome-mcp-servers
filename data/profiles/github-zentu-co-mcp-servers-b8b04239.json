@@ -3,8 +3,8 @@
   "name": "zentu-co/mcp-servers",
   "description": "A monorepo of MCP server implementations, including a server for accessing Svelte 5 documentation, managed with pnpm workspaces.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-zentu-co-mcp-servers-b8b04239",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zentu-co-mcp-servers-b8b04239)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zentu-co-mcp-servers-b8b04239",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zentu-co-mcp-servers-b8b04239/badge.svg)](https://tensorblock.co/mcp/servers/github-zentu-co-mcp-servers-b8b04239)",
   "links": {
     "primary": "https://github.com/zentu-co/mcp-servers",
     "repo": "https://github.com/zentu-co/mcp-servers",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

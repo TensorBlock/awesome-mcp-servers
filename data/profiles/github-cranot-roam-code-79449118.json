@@ -1,0 +1,56 @@
+{
+  "id": "github-cranot-roam-code-79449118",
+  "name": "Cranot/roam-code",
+  "description": "Local-first MCP server with 116 tools for codebase intelligence — graph-aware retrieval (FTS5 + personalized PageRank + clones), patch verifier (clones-not-edited check), in-toto v1 Code Graph Attestation with cosign signing, OpenVEX-correct taint reachability, AIBOM extension (CycloneDX 1.7) for EU AI Act compliance. 27 languages, 33-tool core preset + dedicated 14-tool compliance preset. Zero API keys, 100% local SQLite.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cranot-roam-code-79449118",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cranot-roam-code-79449118/badge.svg)](https://tensorblock.co/mcp/servers/github-cranot-roam-code-79449118)",
+  "links": {
+    "primary": "https://github.com/Cranot/roam-code",
+    "repo": "https://github.com/Cranot/roam-code",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 116
+  }
+}

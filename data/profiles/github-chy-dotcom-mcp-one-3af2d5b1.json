@@ -3,8 +3,8 @@
   "name": "chy-dotcom/mcp-one",
   "description": "Deploy HTML content to EdgeOne Pages with automatic public URL generation using the MCP protocol.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-chy-dotcom-mcp-one-3af2d5b1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chy-dotcom-mcp-one-3af2d5b1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-chy-dotcom-mcp-one-3af2d5b1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-chy-dotcom-mcp-one-3af2d5b1/badge.svg)](https://tensorblock.co/mcp/servers/github-chy-dotcom-mcp-one-3af2d5b1)",
   "links": {
     "primary": "https://github.com/chy-dotcom/mcp-one",
     "repo": "https://github.com/chy-dotcom/mcp-one",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

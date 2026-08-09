@@ -3,8 +3,8 @@
   "name": "wonderwhy-er/DesktopCommanderMCP",
   "description": "Empower Claude with terminal control and file system management for seamless code editing and process handling.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-wonderwhy-er-desktopcommandermcp-b229581a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wonderwhy-er-desktopcommandermcp-b229581a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wonderwhy-er-desktopcommandermcp-b229581a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wonderwhy-er-desktopcommandermcp-b229581a/badge.svg)](https://tensorblock.co/mcp/servers/github-wonderwhy-er-desktopcommandermcp-b229581a)",
   "links": {
     "primary": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
     "repo": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

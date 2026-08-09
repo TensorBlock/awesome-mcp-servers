@@ -3,8 +3,8 @@
   "name": "gtfierro/rdf-mcp",
   "description": "Facilitates the use of Brick and 223P ontologies through Model Context Protocol servers, enabling ontology-based operations and definitions retrieval.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-gtfierro-rdf-mcp-818c43fa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gtfierro-rdf-mcp-818c43fa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-gtfierro-rdf-mcp-818c43fa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-gtfierro-rdf-mcp-818c43fa/badge.svg)](https://tensorblock.co/mcp/servers/github-gtfierro-rdf-mcp-818c43fa)",
   "links": {
     "primary": "https://github.com/gtfierro/rdf-mcp",
     "repo": "https://github.com/gtfierro/rdf-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

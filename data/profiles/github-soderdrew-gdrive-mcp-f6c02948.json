@@ -3,8 +3,8 @@
   "name": "soderdrew/gdrive-mcp",
   "description": "Facilitates AI assistants' seamless access to Google Docs, enabling document search, reading, and format conversion.",
   "category": "Content Management Systems",
-  "profileUrl": "https://tensorblock.co/mcp/github-soderdrew-gdrive-mcp-f6c02948",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-soderdrew-gdrive-mcp-f6c02948)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-soderdrew-gdrive-mcp-f6c02948",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-soderdrew-gdrive-mcp-f6c02948/badge.svg)](https://tensorblock.co/mcp/servers/github-soderdrew-gdrive-mcp-f6c02948)",
   "links": {
     "primary": "https://github.com/soderdrew/gdrive-mcp",
     "repo": "https://github.com/soderdrew/gdrive-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

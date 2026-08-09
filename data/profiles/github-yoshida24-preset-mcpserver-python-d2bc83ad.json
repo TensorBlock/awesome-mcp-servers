@@ -3,8 +3,8 @@
   "name": "Yoshida24/preset-mcpserver-python",
   "description": "A Python-based template for developing MCP servers using fastmcp, designed to streamline dependency management with uv.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-yoshida24-preset-mcpserver-python-d2bc83ad",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yoshida24-preset-mcpserver-python-d2bc83ad)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yoshida24-preset-mcpserver-python-d2bc83ad",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yoshida24-preset-mcpserver-python-d2bc83ad/badge.svg)](https://tensorblock.co/mcp/servers/github-yoshida24-preset-mcpserver-python-d2bc83ad)",
   "links": {
     "primary": "https://github.com/Yoshida24/preset-mcpserver-python",
     "repo": "https://github.com/Yoshida24/preset-mcpserver-python",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

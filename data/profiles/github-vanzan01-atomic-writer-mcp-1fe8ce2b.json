@@ -3,8 +3,8 @@
   "name": "vanzan01/atomic-writer-mcp",
   "description": "Atomic Writer MCP Server ensures secure and atomic file operations, preventing data loss through transactional integrity, ideal for AI integrations and collaborative editing.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-vanzan01-atomic-writer-mcp-1fe8ce2b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vanzan01-atomic-writer-mcp-1fe8ce2b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vanzan01-atomic-writer-mcp-1fe8ce2b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vanzan01-atomic-writer-mcp-1fe8ce2b/badge.svg)](https://tensorblock.co/mcp/servers/github-vanzan01-atomic-writer-mcp-1fe8ce2b)",
   "links": {
     "primary": "https://github.com/vanzan01/atomic-writer-mcp",
     "repo": "https://github.com/vanzan01/atomic-writer-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

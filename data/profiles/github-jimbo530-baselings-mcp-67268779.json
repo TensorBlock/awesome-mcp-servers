@@ -1,0 +1,58 @@
+{
+  "id": "github-jimbo530-baselings-mcp-67268779",
+  "name": "jimbo530/baselings-mcp",
+  "description": "43 MCP tools for AI agents to play Baselings, a yield-generating pet game on Base chain with guardrailed DeFi swaps, token launches, reactor burns, and carbon retirement. No API key required. Install: `npx baselings-mcp`.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jimbo530-baselings-mcp-67268779",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jimbo530-baselings-mcp-67268779/badge.svg)](https://tensorblock.co/mcp/servers/github-jimbo530-baselings-mcp-67268779)",
+  "links": {
+    "primary": "https://github.com/jimbo530/baselings-mcp",
+    "repo": "https://github.com/jimbo530/baselings-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx baselings-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 43
+  }
+}

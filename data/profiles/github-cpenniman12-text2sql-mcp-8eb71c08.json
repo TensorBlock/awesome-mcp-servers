@@ -1,0 +1,58 @@
+{
+  "id": "github-cpenniman12-text2sql-mcp-8eb71c08",
+  "name": "cpenniman12/text2sql-mcp",
+  "description": "Frontier models can now make hundreds of iterative tool calls per prompt — so instead of pre-computing which schema elements are relevant, you can hand the LLM one tool (`execute_sql`) and let it explore the schema, write queries, and self-correct. No RAG, semantic layer, or schema descriptions required — just a connection string and a frontier model. SQLite, Postgres, MySQL, Snowflake, and BigQuery via install extras. Install: `uvx text2sql-mcp`. Transport: stdio. License: MIT.",
+  "category": "Databases",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cpenniman12-text2sql-mcp-8eb71c08",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cpenniman12-text2sql-mcp-8eb71c08/badge.svg)](https://tensorblock.co/mcp/servers/github-cpenniman12-text2sql-mcp-8eb71c08)",
+  "links": {
+    "primary": "https://github.com/cpenniman12/text2sql-mcp",
+    "repo": "https://github.com/cpenniman12/text2sql-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "uvx text2sql-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

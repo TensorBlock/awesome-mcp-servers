@@ -3,8 +3,8 @@
   "name": "tenntenn/deepgo",
   "description": "Facilitates deeper exploration of the Go ecosystem by providing tools to retrieve Go proposal meeting minutes, release notes, and the latest Go version.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-tenntenn-deepgo-601b4037",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tenntenn-deepgo-601b4037)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tenntenn-deepgo-601b4037",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tenntenn-deepgo-601b4037/badge.svg)](https://tensorblock.co/mcp/servers/github-tenntenn-deepgo-601b4037)",
   "links": {
     "primary": "https://github.com/tenntenn/deepgo",
     "repo": "https://github.com/tenntenn/deepgo",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

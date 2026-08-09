@@ -3,8 +3,8 @@
   "name": "6/mcp-server-rubygems",
   "description": "Fetches and manages RubyGems metadata through the RubyGems.org API, facilitating integration with MCP clients.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-6-mcp-server-rubygems-e561e3be",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-6-mcp-server-rubygems-e561e3be)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-6-mcp-server-rubygems-e561e3be",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-6-mcp-server-rubygems-e561e3be/badge.svg)](https://tensorblock.co/mcp/servers/github-6-mcp-server-rubygems-e561e3be)",
   "links": {
     "primary": "https://github.com/6/mcp-server-rubygems",
     "repo": "https://github.com/6/mcp-server-rubygems",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

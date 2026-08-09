@@ -1,0 +1,58 @@
+{
+  "id": "github-friendlygeorge-defillama-mcp-server-f630e83a",
+  "name": "DeFi Llama MCP Server",
+  "description": "TVL, yields, protocol stats, and chain data from DeFi Llama. 10 tools. No API key required. Install: `npx -y defillama-mcp-server`. Transport: stdio. License: MIT.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-friendlygeorge-defillama-mcp-server-f630e83a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-friendlygeorge-defillama-mcp-server-f630e83a/badge.svg)](https://tensorblock.co/mcp/servers/github-friendlygeorge-defillama-mcp-server-f630e83a)",
+  "links": {
+    "primary": "https://github.com/friendlygeorge/defillama-mcp-server",
+    "repo": "https://github.com/friendlygeorge/defillama-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y defillama-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": 10
+  }
+}

@@ -3,8 +3,8 @@
   "name": "Cleversoft-IT/drupal-tools-mcp",
   "description": "Enhances Drupal development workflows by providing a TypeScript-based MCP server for managing and summarizing text notes with seamless integration into existing tools.",
   "category": "Content Management Systems",
-  "profileUrl": "https://tensorblock.co/mcp/github-cleversoft-it-drupal-tools-mcp-908db93b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cleversoft-it-drupal-tools-mcp-908db93b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cleversoft-it-drupal-tools-mcp-908db93b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cleversoft-it-drupal-tools-mcp-908db93b/badge.svg)](https://tensorblock.co/mcp/servers/github-cleversoft-it-drupal-tools-mcp-908db93b)",
   "links": {
     "primary": "https://github.com/Cleversoft-IT/drupal-tools-mcp",
     "repo": "https://github.com/Cleversoft-IT/drupal-tools-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

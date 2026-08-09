@@ -3,8 +3,8 @@
   "name": "tijs/py-sound-mcp",
   "description": "Enhances coding environments with audio feedback for events using the Model Context Protocol, compatible with Cursor and other IDEs.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-tijs-py-sound-mcp-a94122cd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tijs-py-sound-mcp-a94122cd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tijs-py-sound-mcp-a94122cd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tijs-py-sound-mcp-a94122cd/badge.svg)](https://tensorblock.co/mcp/servers/github-tijs-py-sound-mcp-a94122cd)",
   "links": {
     "primary": "https://github.com/tijs/py-sound-mcp",
     "repo": "https://github.com/tijs/py-sound-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,58 @@
+{
+  "id": "github-vdalal-agentx-security-sdk-a64e5823",
+  "name": "AgentX Security SDK",
+  "description": "Keyless firewall for any MCP server. Wrap the server's command in one line of mcp.json (`agentx-mcp <server command>`) and it blocks catastrophic tool calls (destructive SQL, SSRF, secret/PII reads, rm -rf, path traversal) before they reach the server, keeping the agent's run alive instead of dying on the block. No API key, nothing leaves your machine. Install: `pip install agentx-security-sdk`.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vdalal-agentx-security-sdk-a64e5823",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vdalal-agentx-security-sdk-a64e5823/badge.svg)](https://tensorblock.co/mcp/servers/github-vdalal-agentx-security-sdk-a64e5823)",
+  "links": {
+    "primary": "https://github.com/vdalal/agentx-security-sdk",
+    "repo": "https://github.com/vdalal/agentx-security-sdk",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "pip install agentx-security-sdk"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

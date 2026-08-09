@@ -3,8 +3,8 @@
   "name": "GaoCan702/mcp-gererate-image",
   "description": "Facilitates AI-driven image generation requests from Cursor using Cloudflare's Flux AI model, with local or temporary storage options.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-gaocan702-mcp-gererate-image-75b68a4e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gaocan702-mcp-gererate-image-75b68a4e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-gaocan702-mcp-gererate-image-75b68a4e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-gaocan702-mcp-gererate-image-75b68a4e/badge.svg)](https://tensorblock.co/mcp/servers/github-gaocan702-mcp-gererate-image-75b68a4e)",
   "links": {
     "primary": "https://github.com/GaoCan702/mcp-gererate-image",
     "repo": "https://github.com/GaoCan702/mcp-gererate-image",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

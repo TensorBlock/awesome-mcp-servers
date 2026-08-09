@@ -3,8 +3,8 @@
   "name": "tonypan2/minesweeper-mcp-server",
   "description": "Facilitates MCP client agents to engage in a game of Minesweeper, integrating with a dedicated game server.",
   "category": "Gaming",
-  "profileUrl": "https://tensorblock.co/mcp/github-tonypan2-minesweeper-mcp-server-267682a7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tonypan2-minesweeper-mcp-server-267682a7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tonypan2-minesweeper-mcp-server-267682a7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tonypan2-minesweeper-mcp-server-267682a7/badge.svg)](https://tensorblock.co/mcp/servers/github-tonypan2-minesweeper-mcp-server-267682a7)",
   "links": {
     "primary": "https://github.com/tonypan2/minesweeper-mcp-server",
     "repo": "https://github.com/tonypan2/minesweeper-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

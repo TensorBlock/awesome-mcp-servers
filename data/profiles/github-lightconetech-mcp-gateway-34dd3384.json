@@ -3,14 +3,49 @@
   "name": "lightconetech/mcp-gateway",
   "description": "A gateway service enabling Claude Desktop to communicate with HTTP/SSE-based MCP servers by translating stdio protocol requests and responses.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-lightconetech-mcp-gateway-34dd3384",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lightconetech-mcp-gateway-34dd3384)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lightconetech-mcp-gateway-34dd3384",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lightconetech-mcp-gateway-34dd3384/badge.svg)](https://tensorblock.co/mcp/servers/github-lightconetech-mcp-gateway-34dd3384)",
   "links": {
     "primary": "https://github.com/lightconetech/mcp-gateway",
     "repo": "https://github.com/lightconetech/mcp-gateway",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -20,6 +55,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

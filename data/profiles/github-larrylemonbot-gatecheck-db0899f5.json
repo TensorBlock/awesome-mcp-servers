@@ -1,0 +1,58 @@
+{
+  "id": "github-larrylemonbot-gatecheck-db0899f5",
+  "name": "GateCheck",
+  "description": "Hosted remote MCP server for paid x402 and MCP seller-readiness checks. Verifies discovery surfaces, MCP inventory, payment terms, policy receipts, and claim boundaries before public submission or agent routing. Streamable HTTP endpoint at `https://x402-resource-scanner.vercel.app/gatecheck/mcp`; public `initialize` and `tools/list`; protected tool execution may require bearer auth.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-larrylemonbot-gatecheck-db0899f5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-larrylemonbot-gatecheck-db0899f5/badge.svg)](https://tensorblock.co/mcp/servers/github-larrylemonbot-gatecheck-db0899f5)",
+  "links": {
+    "primary": "https://github.com/LarryLemonBot/gatecheck",
+    "repo": "https://github.com/LarryLemonBot/gatecheck",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://x402-resource-scanner.vercel.app/gatecheck/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Public initialize and tools/list are available; protected production calls may require a bearer token"
+    ]
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "bearer",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "mordonez/mcp-example-basic",
   "description": "Provides weather alerts and forecasts across the U.S. using the National Weather Service API, integrated with Claude Desktop.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-mordonez-mcp-example-basic-d62ffaad",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mordonez-mcp-example-basic-d62ffaad)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mordonez-mcp-example-basic-d62ffaad",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mordonez-mcp-example-basic-d62ffaad/badge.svg)](https://tensorblock.co/mcp/servers/github-mordonez-mcp-example-basic-d62ffaad)",
   "links": {
     "primary": "https://github.com/mordonez/mcp-example-basic",
     "repo": "https://github.com/mordonez/mcp-example-basic",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

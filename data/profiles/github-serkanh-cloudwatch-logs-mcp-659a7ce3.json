@@ -3,8 +3,8 @@
   "name": "serkanh/cloudwatch-logs-mcp",
   "description": "Facilitates AI-driven access to AWS CloudWatch logs, enabling listing and retrieval of log entries through an MCP server.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-serkanh-cloudwatch-logs-mcp-659a7ce3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-serkanh-cloudwatch-logs-mcp-659a7ce3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-serkanh-cloudwatch-logs-mcp-659a7ce3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-serkanh-cloudwatch-logs-mcp-659a7ce3/badge.svg)](https://tensorblock.co/mcp/servers/github-serkanh-cloudwatch-logs-mcp-659a7ce3)",
   "links": {
     "primary": "https://github.com/serkanh/cloudwatch-logs-mcp",
     "repo": "https://github.com/serkanh/cloudwatch-logs-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

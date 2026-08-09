@@ -3,8 +3,8 @@
   "name": "anshumax/world_bank_mcp_server",
   "description": "Facilitates AI-driven analysis of World Bank open data by listing and evaluating country-specific indicators.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-anshumax-world-bank-mcp-server-0e0ca8a3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anshumax-world-bank-mcp-server-0e0ca8a3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-anshumax-world-bank-mcp-server-0e0ca8a3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-anshumax-world-bank-mcp-server-0e0ca8a3/badge.svg)](https://tensorblock.co/mcp/servers/github-anshumax-world-bank-mcp-server-0e0ca8a3)",
   "links": {
     "primary": "https://github.com/anshumax/world_bank_mcp_server",
     "repo": "https://github.com/anshumax/world_bank_mcp_server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

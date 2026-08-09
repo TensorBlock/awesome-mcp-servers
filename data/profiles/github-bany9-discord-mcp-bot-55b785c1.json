@@ -3,8 +3,8 @@
   "name": "bany9/discord-mcp-bot",
   "description": "Facilitates seamless interaction between LLMs and Discord channels, enabling message sending and reading through Discord's API.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-bany9-discord-mcp-bot-55b785c1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bany9-discord-mcp-bot-55b785c1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bany9-discord-mcp-bot-55b785c1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bany9-discord-mcp-bot-55b785c1/badge.svg)](https://tensorblock.co/mcp/servers/github-bany9-discord-mcp-bot-55b785c1)",
   "links": {
     "primary": "https://github.com/bany9/discord-mcp-bot",
     "repo": "https://github.com/bany9/discord-mcp-bot",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

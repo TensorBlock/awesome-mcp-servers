@@ -1,0 +1,56 @@
+{
+  "id": "github-tanayshah11-travel-mcp-server-5104b34e",
+  "name": "tanayshah11/travel-mcp-server",
+  "description": "AI-powered travel search exposing flights, hotels, and weather as MCP tools, with a MongoDB-backed per-tool TTL cache whose timeouts are tuned to each upstream API's reliability characteristics. Architecture: [tanayshah.dev/projects/travel-mcp-server](https://tanayshah.dev/projects/travel-mcp-server/).",
+  "category": "Travel & Transportation",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tanayshah11-travel-mcp-server-5104b34e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tanayshah11-travel-mcp-server-5104b34e/badge.svg)](https://tensorblock.co/mcp/servers/github-tanayshah11-travel-mcp-server-5104b34e)",
+  "links": {
+    "primary": "https://github.com/tanayshah11/travel-mcp-server",
+    "repo": "https://github.com/tanayshah11/travel-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

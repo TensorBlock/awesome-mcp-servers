@@ -3,8 +3,8 @@
   "name": "Xutaotaotao/mcp-get-installed-apps",
   "description": "Enables AI assistants to discover installed applications on MacOS and Windows through the Model Context Protocol.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-xutaotaotao-mcp-get-installed-apps-d0204c0d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xutaotaotao-mcp-get-installed-apps-d0204c0d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-xutaotaotao-mcp-get-installed-apps-d0204c0d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-xutaotaotao-mcp-get-installed-apps-d0204c0d/badge.svg)](https://tensorblock.co/mcp/servers/github-xutaotaotao-mcp-get-installed-apps-d0204c0d)",
   "links": {
     "primary": "https://github.com/Xutaotaotao/mcp-get-installed-apps",
     "repo": "https://github.com/Xutaotaotao/mcp-get-installed-apps",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

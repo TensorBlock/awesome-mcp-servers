@@ -3,8 +3,8 @@
   "name": "codacy/codacy-mcp-server",
   "description": "Codacy's MCP Server provides comprehensive tools for repository management, code quality analysis, and security assessments, integrating seamlessly with the Codacy API.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-codacy-codacy-mcp-server-fdee038f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-codacy-codacy-mcp-server-fdee038f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-codacy-codacy-mcp-server-fdee038f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-codacy-codacy-mcp-server-fdee038f/badge.svg)](https://tensorblock.co/mcp/servers/github-codacy-codacy-mcp-server-fdee038f)",
   "links": {
     "primary": "https://github.com/codacy/codacy-mcp-server",
     "repo": "https://github.com/codacy/codacy-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

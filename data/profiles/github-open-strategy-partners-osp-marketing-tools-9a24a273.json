@@ -3,8 +3,8 @@
   "name": "open-strategy-partners/osp_marketing_tools",
   "description": "Empowers LLMs with Open Strategy Partners' core writing and product marketing techniques for technical content creation and optimization.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-open-strategy-partners-osp-marketing-tools-9a24a273",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-open-strategy-partners-osp-marketing-tools-9a24a273)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-open-strategy-partners-osp-marketing-tools-9a24a273",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-open-strategy-partners-osp-marketing-tools-9a24a273/badge.svg)](https://tensorblock.co/mcp/servers/github-open-strategy-partners-osp-marketing-tools-9a24a273)",
   "links": {
     "primary": "https://github.com/open-strategy-partners/osp_marketing_tools",
     "repo": "https://github.com/open-strategy-partners/osp_marketing_tools",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

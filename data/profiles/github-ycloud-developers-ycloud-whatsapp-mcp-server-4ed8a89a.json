@@ -3,8 +3,8 @@
   "name": "YCloud-Developers/ycloud-whatsapp-mcp-server",
   "description": "Facilitates seamless interaction between AI models and YCloud WhatsApp API by automatically generating MCP tools from OpenAPI specifications.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-ycloud-developers-ycloud-whatsapp-mcp-server-4ed8a89a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ycloud-developers-ycloud-whatsapp-mcp-server-4ed8a89a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ycloud-developers-ycloud-whatsapp-mcp-server-4ed8a89a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ycloud-developers-ycloud-whatsapp-mcp-server-4ed8a89a/badge.svg)](https://tensorblock.co/mcp/servers/github-ycloud-developers-ycloud-whatsapp-mcp-server-4ed8a89a)",
   "links": {
     "primary": "https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server",
     "repo": "https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

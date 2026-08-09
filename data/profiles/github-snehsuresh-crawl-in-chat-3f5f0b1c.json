@@ -3,8 +3,8 @@
   "name": "snehsuresh/Crawl-In-Chat",
   "description": "A modular system for web crawling and AI-powered chat interfaces, integrating XML sitemap ingestion, vector embeddings, and multiple frontend options including MCP.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-snehsuresh-crawl-in-chat-3f5f0b1c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-snehsuresh-crawl-in-chat-3f5f0b1c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-snehsuresh-crawl-in-chat-3f5f0b1c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-snehsuresh-crawl-in-chat-3f5f0b1c/badge.svg)](https://tensorblock.co/mcp/servers/github-snehsuresh-crawl-in-chat-3f5f0b1c)",
   "links": {
     "primary": "https://github.com/snehsuresh/Crawl-In-Chat",
     "repo": "https://github.com/snehsuresh/Crawl-In-Chat",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

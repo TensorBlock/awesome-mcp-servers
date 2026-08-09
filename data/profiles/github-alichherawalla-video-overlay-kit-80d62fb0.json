@@ -1,0 +1,56 @@
+{
+  "id": "github-alichherawalla-video-overlay-kit-80d62fb0",
+  "name": "alichherawalla/video-overlay-kit",
+  "description": "Render 4-6s animated b-roll overlay videos for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape video. MCP-driven: paste a script, the AI writes the scene spec and renders the mp4. Free, MIT, runs locally.",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-alichherawalla-video-overlay-kit-80d62fb0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-alichherawalla-video-overlay-kit-80d62fb0/badge.svg)](https://tensorblock.co/mcp/servers/github-alichherawalla-video-overlay-kit-80d62fb0)",
+  "links": {
+    "primary": "https://github.com/alichherawalla/video-overlay-kit",
+    "repo": "https://github.com/alichherawalla/video-overlay-kit",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

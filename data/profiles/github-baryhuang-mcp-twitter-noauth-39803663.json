@@ -3,8 +3,8 @@
   "name": "baryhuang/mcp-twitter-noauth",
   "description": "Facilitates Twitter API interactions without local credential setup, enabling core operations like searching, posting, and replying to tweets in a headless, remote environment.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-baryhuang-mcp-twitter-noauth-39803663",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-baryhuang-mcp-twitter-noauth-39803663)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-baryhuang-mcp-twitter-noauth-39803663",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-baryhuang-mcp-twitter-noauth-39803663/badge.svg)](https://tensorblock.co/mcp/servers/github-baryhuang-mcp-twitter-noauth-39803663)",
   "links": {
     "primary": "https://github.com/baryhuang/mcp-twitter-noauth",
     "repo": "https://github.com/baryhuang/mcp-twitter-noauth",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

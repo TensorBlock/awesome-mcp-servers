@@ -3,8 +3,8 @@
   "name": "alicuche/mcp-fetch-url",
   "description": "A Node.js server that fetches URLs as part of the Modular Command Platform system.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-alicuche-mcp-fetch-url-bc7cee71",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alicuche-mcp-fetch-url-bc7cee71)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-alicuche-mcp-fetch-url-bc7cee71",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-alicuche-mcp-fetch-url-bc7cee71/badge.svg)](https://tensorblock.co/mcp/servers/github-alicuche-mcp-fetch-url-bc7cee71)",
   "links": {
     "primary": "https://github.com/alicuche/mcp-fetch-url",
     "repo": "https://github.com/alicuche/mcp-fetch-url",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

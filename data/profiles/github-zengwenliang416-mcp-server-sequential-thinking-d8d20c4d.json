@@ -3,8 +3,8 @@
   "name": "zengwenliang416/mcp-server-sequential-thinking",
   "description": "Facilitates structured problem-solving by breaking down complex issues into manageable steps with iterative refinement and alternative reasoning paths.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-zengwenliang416-mcp-server-sequential-thinking-d8d20c4d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zengwenliang416-mcp-server-sequential-thinking-d8d20c4d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zengwenliang416-mcp-server-sequential-thinking-d8d20c4d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zengwenliang416-mcp-server-sequential-thinking-d8d20c4d/badge.svg)](https://tensorblock.co/mcp/servers/github-zengwenliang416-mcp-server-sequential-thinking-d8d20c4d)",
   "links": {
     "primary": "https://github.com/zengwenliang416/mcp-server-sequential-thinking",
     "repo": "https://github.com/zengwenliang416/mcp-server-sequential-thinking",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

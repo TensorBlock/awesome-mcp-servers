@@ -3,8 +3,8 @@
   "name": "morristai/iceberg-mcp",
   "description": "Facilitates interaction with Apache Iceberg catalogs through an MCP server, supporting REST and AWS Glue integrations with asynchronous operations and logging.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-morristai-iceberg-mcp-af429ff8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-morristai-iceberg-mcp-af429ff8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-morristai-iceberg-mcp-af429ff8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-morristai-iceberg-mcp-af429ff8/badge.svg)](https://tensorblock.co/mcp/servers/github-morristai-iceberg-mcp-af429ff8)",
   "links": {
     "primary": "https://github.com/morristai/iceberg-mcp",
     "repo": "https://github.com/morristai/iceberg-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

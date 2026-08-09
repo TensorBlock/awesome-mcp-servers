@@ -1,23 +1,59 @@
 {
   "id": "github-algovaultlabs-crypto-quant-signal-mcp-c8c3051d",
   "name": "AlgoVaultLabs/crypto-quant-signal-mcp",
-  "description": "AI trading brain for crypto perps — composite BUY/SELL/HOLD signals with confidence scoring, cross-venue funding rate arb scanning (Hyperliquid vs Binance vs Bybit), and market regime classification for 200+ Hyperliquid assets. Published track record via signal-performance resource. Remote MCP server with x402 micropayments (USDC on Base). Install: `npx crypto-quant-signal-mcp`.",
+  "description": "AI trading brain for crypto perps — composite BUY/SELL/HOLD signals with confidence scoring, cross-venue funding-rate arb scanning across 5 venues (Hyperliquid, Binance, Bybit, OKX, Bitget), and market-regime classification for 760+ assets across 11 timeframes. Published track record (91.7% PFE win rate, Merkle-verified on Base L2) via the signal-performance resource. Remote MCP server (Streamable HTTP at https://api.algovault.com/mcp) with x402 micropayments (USDC on Base); free tier available. MIT. Install: `npx crypto-quant-signal-mcp`.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-algovaultlabs-crypto-quant-signal-mcp-c8c3051d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-algovaultlabs-crypto-quant-signal-mcp-c8c3051d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-algovaultlabs-crypto-quant-signal-mcp-c8c3051d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-algovaultlabs-crypto-quant-signal-mcp-c8c3051d/badge.svg)](https://tensorblock.co/mcp/servers/github-algovaultlabs-crypto-quant-signal-mcp-c8c3051d)",
   "links": {
     "primary": "https://github.com/AlgoVaultLabs/crypto-quant-signal-mcp",
     "repo": "https://github.com/AlgoVaultLabs/crypto-quant-signal-mcp",
     "homepage": null,
     "docs": null,
-    "endpoint": null
+    "endpoint": "https://api.algovault.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx crypto-quant-signal-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
+      "streamable-http",
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": true,
     "verification": "unknown",
     "toolCount": null
   }

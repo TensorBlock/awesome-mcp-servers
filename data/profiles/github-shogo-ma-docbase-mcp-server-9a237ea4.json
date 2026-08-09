@@ -3,8 +3,8 @@
   "name": "shogo-ma/docbase-mcp-server",
   "description": "Facilitates interaction with Docbase through MCP for post management tasks like searching, retrieving, and creating posts.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-shogo-ma-docbase-mcp-server-9a237ea4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shogo-ma-docbase-mcp-server-9a237ea4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shogo-ma-docbase-mcp-server-9a237ea4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shogo-ma-docbase-mcp-server-9a237ea4/badge.svg)](https://tensorblock.co/mcp/servers/github-shogo-ma-docbase-mcp-server-9a237ea4)",
   "links": {
     "primary": "https://github.com/shogo-ma/docbase-mcp-server",
     "repo": "https://github.com/shogo-ma/docbase-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

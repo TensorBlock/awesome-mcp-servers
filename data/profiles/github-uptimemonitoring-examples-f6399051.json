@@ -1,0 +1,58 @@
+{
+  "id": "github-uptimemonitoring-examples-f6399051",
+  "name": "uptimemonitoring/examples",
+  "description": "Agent-native uptime monitoring via MCP — create, inspect, and assert monitor health, list incidents, and manage monitors. Remote `streamable-http` at `https://api.uptimemonitoring.com/mcp`, OAuth 2.1 or API key, no install. Free 50-monitor tier. Registry id `com.uptimemonitoring/mcp`. Docs: https://uptimemonitoring.com/docs/mcp/.",
+  "category": "Monitoring & Observability",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-uptimemonitoring-examples-f6399051",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-uptimemonitoring-examples-f6399051/badge.svg)](https://tensorblock.co/mcp/servers/github-uptimemonitoring-examples-f6399051)",
+  "links": {
+    "primary": "https://github.com/uptimemonitoring/examples",
+    "repo": "https://github.com/uptimemonitoring/examples",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://api.uptimemonitoring.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http",
+    "sse"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http",
+      "sse"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

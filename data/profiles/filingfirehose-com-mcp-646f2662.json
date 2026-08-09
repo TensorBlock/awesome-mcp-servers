@@ -1,0 +1,56 @@
+{
+  "id": "filingfirehose-com-mcp-646f2662",
+  "name": "FilingFirehose MCP",
+  "description": "Hosted MCP server for SEC EDGAR filing intelligence. Body-text-classified 8-Ks (flags items the filer did not report — 7.3% of Item 8.01 filings have buried 1.05/5.02 events), Schedule 13D/G with 21+ activist filers auto-tagged, S-3/424B5 with ATM offering detection, plus per-ticker forensic risk score (cyber, dilution, restatement, officer departures, bankruptcy proximity). Remote MCP at `https://mcp.filingfirehose.com`, free 72h public tier, no API key required. Also available as REST API, ChatGPT GPT, and Python SDK.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/filingfirehose-com-mcp-646f2662",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/filingfirehose-com-mcp-646f2662/badge.svg)](https://tensorblock.co/mcp/servers/filingfirehose-com-mcp-646f2662)",
+  "links": {
+    "primary": "https://filingfirehose.com/mcp",
+    "repo": null,
+    "homepage": "https://filingfirehose.com/mcp",
+    "docs": null,
+    "endpoint": "https://mcp.filingfirehose.com"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

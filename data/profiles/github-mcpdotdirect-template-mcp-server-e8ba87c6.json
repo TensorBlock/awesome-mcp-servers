@@ -3,14 +3,46 @@
   "name": "mcpdotdirect/template-mcp-server",
   "description": "Quickly set up a customizable MCP server with FastMCP, supporting both stdio and HTTP transports for flexible development and deployment.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-mcpdotdirect-template-mcp-server-e8ba87c6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mcpdotdirect-template-mcp-server-e8ba87c6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mcpdotdirect-template-mcp-server-e8ba87c6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mcpdotdirect-template-mcp-server-e8ba87c6/badge.svg)](https://tensorblock.co/mcp/servers/github-mcpdotdirect-template-mcp-server-e8ba87c6)",
   "links": {
     "primary": "https://github.com/mcpdotdirect/template-mcp-server",
     "repo": "https://github.com/mcpdotdirect/template-mcp-server",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

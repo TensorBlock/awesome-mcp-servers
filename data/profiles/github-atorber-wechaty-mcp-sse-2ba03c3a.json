@@ -3,8 +3,8 @@
   "name": "atorber/wechaty-mcp-sse",
   "description": "Facilitates seamless integration between Wechaty and large language models like Claude, enabling message sending and contact querying via a TypeScript-based MCP server.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-atorber-wechaty-mcp-sse-2ba03c3a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-atorber-wechaty-mcp-sse-2ba03c3a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-atorber-wechaty-mcp-sse-2ba03c3a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-atorber-wechaty-mcp-sse-2ba03c3a/badge.svg)](https://tensorblock.co/mcp/servers/github-atorber-wechaty-mcp-sse-2ba03c3a)",
   "links": {
     "primary": "https://github.com/atorber/wechaty-mcp-sse",
     "repo": "https://github.com/atorber/wechaty-mcp-sse",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

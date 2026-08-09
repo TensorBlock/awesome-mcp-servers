@@ -3,8 +3,8 @@
   "name": "huntsyea/mcp-tasks-organizer",
   "description": "Transforms Cursor agent plans into organized markdown task lists for efficient AI-generated plan management.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-huntsyea-mcp-tasks-organizer-f7908eaa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-huntsyea-mcp-tasks-organizer-f7908eaa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-huntsyea-mcp-tasks-organizer-f7908eaa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-huntsyea-mcp-tasks-organizer-f7908eaa/badge.svg)](https://tensorblock.co/mcp/servers/github-huntsyea-mcp-tasks-organizer-f7908eaa)",
   "links": {
     "primary": "https://github.com/huntsyea/mcp-tasks-organizer",
     "repo": "https://github.com/huntsyea/mcp-tasks-organizer",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,58 @@
+{
+  "id": "github-sequenzy-mcp-03727317",
+  "name": "Sequenzy/mcp",
+  "description": "Official Sequenzy MCP server for AI agents to manage email marketing automation: subscribers, lists, segments, templates, campaigns, sequences, transactional email, analytics, and AI-generated email content. Remote endpoint: `https://api.sequenzy.com/v1/mcp`; npm package: `@sequenzy/mcp`.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sequenzy-mcp-03727317",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sequenzy-mcp-03727317/badge.svg)](https://tensorblock.co/mcp/servers/github-sequenzy-mcp-03727317)",
+  "links": {
+    "primary": "https://github.com/Sequenzy/mcp",
+    "repo": "https://github.com/Sequenzy/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://api.sequenzy.com/v1/mcp"
+  },
+  "install": {
+    "commands": [
+      "; npm package:"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

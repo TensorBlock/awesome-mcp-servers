@@ -3,8 +3,8 @@
   "name": "Sifu213/monad-mcp-magiceden",
   "description": "Facilitates interaction with NFT data on the Monad testnet, offering insights into holder addresses, total NFT value, and trending collections by sales and volume.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-sifu213-monad-mcp-magiceden-5ce7430f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sifu213-monad-mcp-magiceden-5ce7430f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sifu213-monad-mcp-magiceden-5ce7430f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sifu213-monad-mcp-magiceden-5ce7430f/badge.svg)](https://tensorblock.co/mcp/servers/github-sifu213-monad-mcp-magiceden-5ce7430f)",
   "links": {
     "primary": "https://github.com/Sifu213/monad-mcp-magiceden",
     "repo": "https://github.com/Sifu213/monad-mcp-magiceden",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

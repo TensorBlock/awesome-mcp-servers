@@ -36,7 +36,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [OpenSourceGuru776/consist](https://github.com/OpenSourceGuru776/consist): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [TheCommitKing/world](https://github.com/TheCommitKing/world): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [CyberCraftr489/behavior](https://github.com/CyberCraftr489/behavior): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [ByteNinja42457/bridge](https://github.com/ByteNinja42457/bridge): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [xoy8n/webp-converter](https://github.com/xoy8n/webp-converter): Transforms image files into WebP format with configurable quality and compression settings.
 - [denisechee/cookies](https://github.com/denisechee/cookies): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [blajanclaudiu/camera](https://github.com/blajanclaudiu/camera): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
@@ -45,13 +44,11 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [andrewdmontgomery/mcp-server-gravatar](https://github.com/andrewdmontgomery/mcp-server-gravatar): Provides access to Gravatar profiles and avatars via a stdio-based MCP server, enabling easy integration with MCP-aware clients.
 - [HackTastic99/sad](https://github.com/HackTastic99/sad): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [DevSpectrum-max/zebra](https://github.com/DevSpectrum-max/zebra): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [ByteNinja42457/experiment](https://github.com/ByteNinja42457/experiment): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [CodeCrafte78/properly](https://github.com/CodeCrafte78/properly): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [orlando2019/MCP-filesystem](https://github.com/orlando2019/MCP-filesystem): Node.js server enabling filesystem operations through the Model Context Protocol, supporting file manipulation, directory management, and metadata retrieval.
 - [orlando2019/MCP-SEVER](https://github.com/orlando2019/MCP-SEVER): A comprehensive full-stack MCP server implementation for file management and client request handling, supporting integration with n8n, AppSheet, and npm using TypeScript and Python.
 - [cloudsyncer303/zulu](https://github.com/cloudsyncer303/zulu): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [cloudsyncer303/twenty](https://github.com/cloudsyncer303/twenty): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [cloudsyncer303/inside](https://github.com/cloudsyncer303/inside): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [CodeAlchemyX647/general](https://github.com/CodeAlchemyX647/general): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [wrdan/mcp-server-canteen](https://github.com/wrdan/mcp-server-canteen): Facilitates querying employee canteen dining statistics for specified date ranges, including breakfast and lunch counts.
 - [shujink0/WeatherMCP](https://github.com/shujink0/WeatherMCP): Facilitates weather data retrieval through a Go-based MCP server, supporting both stdio and SSE transports.
@@ -84,7 +81,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [M6saw0/mcp-client-typescript](https://github.com/M6saw0/mcp-client-typescript): A TypeScript client sample for utilizing multiple MCPs, allowing configuration of server names via JSON.
 - [imb96/mcp-server](https://github.com/imb96/mcp-server): Facilitates integration of filesystem and Google Calendar functionalities through MCP server commands.
 - [intellygentle/mon-magma-mcp](https://github.com/intellygentle/mon-magma-mcp): Facilitates staking and unstaking operations on the Monad network using MCP tools.
-- [azkal279/slope](https://github.com/azkal279/slope): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [soonstal/reach](https://github.com/soonstal/reach): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [soonstal/operation](https://github.com/soonstal/operation): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [Lockingdong/todo-list-mcp-ts](https://github.com/Lockingdong/todo-list-mcp-ts): A TypeScript-based todo list application utilizing MCP for efficient task management.
@@ -104,7 +100,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [Griffis/unusual](https://github.com/Griffis/unusual): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [SecretiveShell/mcp-windows](https://github.com/SecretiveShell/mcp-windows): Facilitates interaction with Windows API for media control, notifications, window management, and more.
 - [briannaluna17/grew](https://github.com/briannaluna17/grew): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [briannaluna17/angle](https://github.com/briannaluna17/angle): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [briannaluna17/opposite](https://github.com/briannaluna17/opposite): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [mrwylan/mcpserver](https://github.com/mrwylan/mcpserver): A simple MCP server that provides an interactive list of color names and their hex values, built using Spring Boot.
 - [ddoojoang/mcp-excel-controller-pro](https://github.com/ddoojoang/mcp-excel-controller-pro): Facilitates advanced Excel file manipulation through a Node.js-based MCP server.
@@ -115,7 +110,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [notarybob/explain](https://github.com/notarybob/explain): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [chenmingyong0423/mcp-ip-geo](https://github.com/chenmingyong0423/mcp-ip-geo): Facilitates IP geolocation lookups using ip-api.com, offering integration via executable or HTTP for seamless MCP server deployment.
 - [KS-GEN-AI/word-mcp-server](https://github.com/KS-GEN-AI/word-mcp-server): Facilitates seamless interaction with Microsoft Word files, offering precise conversion to PDF while maintaining formatting integrity.
-- [blinddumper/except](https://github.com/blinddumper/except): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [Macha-Nai/weather_service](https://github.com/Macha-Nai/weather_service): A Python MCP server offering weather information and note management services with customizable summaries.
 - [limadelic/mcvibes](https://github.com/limadelic/mcvibes): Node.js server for filesystem operations using Model Context Protocol, enabling advanced file management and directory manipulation.
 - [StrongMonkey/mcp-poc](https://github.com/StrongMonkey/mcp-poc): A Go service that interfaces with MCP servers, providing their tools through a RESTful API and OpenAPI documentation.
@@ -244,7 +238,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [ser163/reading_support](https://github.com/ser163/reading_support): Facilitates seamless integration with the ReadRecord App through a dedicated MCP server.
 - [cryptobro-man/test](https://github.com/cryptobro-man/test): Showcases versatile MCP server implementations for secure LLM access to tools and data sources using TypeScript and Python SDKs.
 - [jeremy-n-martin/mcp-test](https://github.com/jeremy-n-martin/mcp-test): A versatile MCP server setup for running and testing Python scripts on both macOS and Windows environments.
-- [anthonyjj89/cline-mcp-tools](https://github.com/anthonyjj89/cline-mcp-tools): Facilitates access to VS Code extension conversations for Claude Desktop with tools for message retrieval and task management.
 - [Co5mos/uncover-mcp](https://github.com/Co5mos/uncover-mcp): Uncover MCP leverages the uncover tool to swiftly identify exposed internet hosts through an MCP service interface, integrating with search engines like Shodan and FOFA.
 - [Cicatriiz/timezone-toolkit](https://github.com/Cicatriiz/timezone-toolkit): Advanced server offering extensive time and timezone functionalities, including astronomical calculations and business day computations.
 - [ysd-rysn/random-number-mcp-server](https://github.com/ysd-rysn/random-number-mcp-server): Facilitates random number generation via the random.org API using an MCP server setup.
@@ -274,7 +267,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [bingal/FastDomainCheck-MCP-Server](https://github.com/bingal/FastDomainCheck-MCP-Server): Facilitates bulk domain registration status checks with dual verification using WHOIS and DNS, ensuring seamless AI tool integration.
 - [kukapay/whoami-mcp](https://github.com/kukapay/whoami-mcp): A lightweight server that identifies the system username for local LLM integration.
 - [kukapay/whattimeisit-mcp](https://github.com/kukapay/whattimeisit-mcp): Provides the current time based on IP using a lightweight MCP server powered by World Time API.
-- [alvarogarciapiz/mcp-demo](https://github.com/alvarogarciapiz/mcp-demo): A demo MCP server template that responds with a personalized greeting, designed for integration with Claude.
 - [Cactusinhand/mcp_server_notify](https://github.com/Cactusinhand/mcp_server_notify): Facilitates cross-platform desktop notifications with sound alerts upon agent task completion, leveraging the MCP protocol for seamless LLM client integration.
 - [Stormbreaker06/MCP-SERVER](https://github.com/Stormbreaker06/MCP-SERVER): Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.
 - [kazuph/mcp-preview-opener](https://github.com/kazuph/mcp-preview-opener): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note creation and summarization.
@@ -360,3 +352,4 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [jakobautomation/agentsvc-mcp](https://github.com/jakobautomation/agentsvc-mcp): Provides 20 pay-per-call utility tools for AI agents via x402 USDC micropayments on Base, including screenshots, OCR, PDF extraction, web scraping, weather forecasts, forex rates, crypto/stock prices, DNS/IP lookup, geocoding, translation, and news search. No API keys required.
 - [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown): Control the FluxDown multi-protocol download manager from an agent — add tasks from HTTP/HTTPS, FTP, magnet or BitTorrent sources, then list, inspect, pause, resume and remove them, browse named queues, and manage RSS subscriptions. 12 tools. Transport: `streamable-http` at `http://127.0.0.1:17800/mcp`. Auth: bearer token. Install: run the FluxDown desktop app or the headless server image `ghcr.io/zerx-lab/fluxdown-server`, then enable the MCP endpoint in settings.
 - [bitterdev/pdf-letter-mcp](https://github.com/bitterdev/pdf-letter-mcp): Turns a structured letter into a print ready PDF laid out to DIN 5008, so the recipient block lands exactly in the window of a DL or C6/C5 envelope instead of half behind the paper. Runs entirely offline with no external API. Reusable sender profiles, English and German fixed texts and salutations, subject and reference blocks, and a signature image that gets background-stripped and scaled. Pairs with pixelletter-mcp, which posts the file it writes. 7 tools including `create_letter`, `preview_letter`, `prepare_signature` and `get_din5008_spec`. Transport: stdio. Auth: none. License: MIT. Install: `npx -y pdf-letter-mcp`.
+- [ai-detect](https://github.com/houtini-ai/ai-detect): Local AI-text detection scored sentence by sentence with a DeBERTa-v3-large model that ranked first on the RAID benchmark. Explains why each line reads as machine-written - missing contractions, formal verbs, "Furthermore" openers - and suggests a rewrite. Runs offline after the first model download; no API key, nothing leaves your machine. Install: `pip install .`. MIT.

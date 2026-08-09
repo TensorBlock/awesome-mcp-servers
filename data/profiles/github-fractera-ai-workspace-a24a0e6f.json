@@ -1,0 +1,58 @@
+{
+  "id": "github-fractera-ai-workspace-a24a0e6f",
+  "name": "Fractera",
+  "description": "Zero-Ops deploy of a private AI coding workspace (5 AI coding engines, an autonomous Hermes orchestrator, and private LightRAG graph memory) onto your own Ubuntu VPS in about 10 minutes, straight from your AI chat. Hosted remote connector at `https://www.fractera.ai/api/mcp` (streamable-http, no auth); add that URL to your client's mcpServers. Published in the Official MCP Registry as `io.github.Fractera/deploy`.",
+  "category": "Cloud Platforms & Services",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fractera-ai-workspace-a24a0e6f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fractera-ai-workspace-a24a0e6f/badge.svg)](https://tensorblock.co/mcp/servers/github-fractera-ai-workspace-a24a0e6f)",
+  "links": {
+    "primary": "https://github.com/Fractera/ai-workspace",
+    "repo": "https://github.com/Fractera/ai-workspace",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://www.fractera.ai/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

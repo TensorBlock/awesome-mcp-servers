@@ -3,8 +3,8 @@
   "name": "rember/rember-mcp",
   "description": "Facilitates the creation of flashcards using Claude and the Rember API, enhancing study and memory retention through spaced repetition.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-rember-rember-mcp-ea416132",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rember-rember-mcp-ea416132)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rember-rember-mcp-ea416132",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rember-rember-mcp-ea416132/badge.svg)](https://tensorblock.co/mcp/servers/github-rember-rember-mcp-ea416132)",
   "links": {
     "primary": "https://github.com/rember/rember-mcp",
     "repo": "https://github.com/rember/rember-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

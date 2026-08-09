@@ -1,0 +1,62 @@
+{
+  "id": "github-ophis-fi-ophis-fdeea275",
+  "name": "ophis-fi/ophis",
+  "description": "A remote MCP server for onchain token swaps. An agent parses a swap intent, resolves a token symbol to its canonical address (anti-spoof), fetches a quote and expected surplus, builds an unsigned order, then submits it. Swaps settle through CoW Protocol solver competition: MEV-protected, gasless, keyless, non-custodial, across 12 EVM chains.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ophis-fi-ophis-fdeea275",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ophis-fi-ophis-fdeea275/badge.svg)](https://tensorblock.co/mcp/servers/github-ophis-fi-ophis-fdeea275)",
+  "links": {
+    "primary": "https://github.com/ophis-fi/ophis",
+    "repo": "https://github.com/ophis-fi/ophis",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.ophis.fi/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "GPL-3.0",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

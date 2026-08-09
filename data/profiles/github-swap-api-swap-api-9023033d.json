@@ -1,0 +1,56 @@
+{
+  "id": "github-swap-api-swap-api-9023033d",
+  "name": "swap-api/swap-api",
+  "description": "Free DEX aggregator MCP server returning executable swap calldata across 46 EVM chains. No API key required. Single GET request returns ready-to-sign transactions for any token pair.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-swap-api-swap-api-9023033d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-swap-api-swap-api-9023033d/badge.svg)](https://tensorblock.co/mcp/servers/github-swap-api-swap-api-9023033d)",
+  "links": {
+    "primary": "https://github.com/swap-api/swap-api",
+    "repo": "https://github.com/swap-api/swap-api",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

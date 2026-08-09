@@ -3,8 +3,8 @@
   "name": "getAlby/lightning-tools-mcp-server",
   "description": "Facilitates interaction with lightning addresses and tools for LLMs using the official MCP TypeScript SDK.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-getalby-lightning-tools-mcp-server-d8babe72",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-getalby-lightning-tools-mcp-server-d8babe72)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-getalby-lightning-tools-mcp-server-d8babe72",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-getalby-lightning-tools-mcp-server-d8babe72/badge.svg)](https://tensorblock.co/mcp/servers/github-getalby-lightning-tools-mcp-server-d8babe72)",
   "links": {
     "primary": "https://github.com/getAlby/lightning-tools-mcp-server",
     "repo": "https://github.com/getAlby/lightning-tools-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

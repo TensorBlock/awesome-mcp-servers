@@ -3,8 +3,8 @@
   "name": "aidalinfo/mcp-clean-code",
   "description": "Facilitates the planning and creation of clean, well-structured code with comprehensive English comments, focusing on readability and maintainability.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-aidalinfo-mcp-clean-code-7cdcec90",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aidalinfo-mcp-clean-code-7cdcec90)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aidalinfo-mcp-clean-code-7cdcec90",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aidalinfo-mcp-clean-code-7cdcec90/badge.svg)](https://tensorblock.co/mcp/servers/github-aidalinfo-mcp-clean-code-7cdcec90)",
   "links": {
     "primary": "https://github.com/aidalinfo/mcp-clean-code",
     "repo": "https://github.com/aidalinfo/mcp-clean-code",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

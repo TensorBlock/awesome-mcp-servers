@@ -3,8 +3,8 @@
   "name": "sdaaron/coze-workflow-mcp",
   "description": "Facilitates the integration of the Coze workflow into Claude and Cursor environments through a customizable MCP server setup.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-sdaaron-coze-workflow-mcp-75fadecb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sdaaron-coze-workflow-mcp-75fadecb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sdaaron-coze-workflow-mcp-75fadecb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sdaaron-coze-workflow-mcp-75fadecb/badge.svg)](https://tensorblock.co/mcp/servers/github-sdaaron-coze-workflow-mcp-75fadecb)",
   "links": {
     "primary": "https://github.com/sdaaron/coze-workflow-mcp",
     "repo": "https://github.com/sdaaron/coze-workflow-mcp",
@@ -12,12 +12,47 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "ks6088ts-labs/mcp-python",
   "description": "A Python-based MCP server playground offering weather and YouTube transcript services with SSE support.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-ks6088ts-labs-mcp-python-81b3c8b1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ks6088ts-labs-mcp-python-81b3c8b1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ks6088ts-labs-mcp-python-81b3c8b1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ks6088ts-labs-mcp-python-81b3c8b1/badge.svg)](https://tensorblock.co/mcp/servers/github-ks6088ts-labs-mcp-python-81b3c8b1)",
   "links": {
     "primary": "https://github.com/ks6088ts-labs/mcp-python",
     "repo": "https://github.com/ks6088ts-labs/mcp-python",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

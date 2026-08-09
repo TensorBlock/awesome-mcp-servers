@@ -3,8 +3,8 @@
   "name": "jmagar/yarr",
   "description": "YARR Media Stack MCP Server enables intelligent automation and natural language control of media services, bridging LLMs with self-hosted media technology.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-jmagar-yarr-1fc26a8a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jmagar-yarr-1fc26a8a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jmagar-yarr-1fc26a8a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jmagar-yarr-1fc26a8a/badge.svg)](https://tensorblock.co/mcp/servers/github-jmagar-yarr-1fc26a8a)",
   "links": {
     "primary": "https://github.com/jmagar/yarr",
     "repo": "https://github.com/jmagar/yarr",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

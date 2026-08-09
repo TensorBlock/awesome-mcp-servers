@@ -1,0 +1,56 @@
+{
+  "id": "github-rog0x-mcp-api-tools-1adfa1c5",
+  "name": "rog0x/mcp-api-tools",
+  "description": "API MCP tools for HTTP calls, JWT handling, headers, and request utility workflows. Install from the `@rog0x` npm package family. MIT.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rog0x-mcp-api-tools-1adfa1c5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rog0x-mcp-api-tools-1adfa1c5/badge.svg)](https://tensorblock.co/mcp/servers/github-rog0x-mcp-api-tools-1adfa1c5)",
+  "links": {
+    "primary": "https://github.com/rog0x/mcp-api-tools",
+    "repo": "https://github.com/rog0x/mcp-api-tools",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

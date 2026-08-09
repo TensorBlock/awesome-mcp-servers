@@ -3,8 +3,8 @@
   "name": "narumiruna/yfinance-mcp",
   "description": "A Yahoo Finance MCP server leveraging yfinance to provide tools for fetching stock data, news, and financial insights.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-narumiruna-yfinance-mcp-e2dfbe32",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-narumiruna-yfinance-mcp-e2dfbe32)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-narumiruna-yfinance-mcp-e2dfbe32",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-narumiruna-yfinance-mcp-e2dfbe32/badge.svg)](https://tensorblock.co/mcp/servers/github-narumiruna-yfinance-mcp-e2dfbe32)",
   "links": {
     "primary": "https://github.com/narumiruna/yfinance-mcp",
     "repo": "https://github.com/narumiruna/yfinance-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

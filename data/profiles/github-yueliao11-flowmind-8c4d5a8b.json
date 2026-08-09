@@ -3,8 +3,8 @@
   "name": "yueliao11/FlowMind",
   "description": "FlowMind provides a comprehensive toolkit for managing Flow blockchain assets, enabling users to query account information, transaction history, and the latest block details.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-yueliao11-flowmind-8c4d5a8b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yueliao11-flowmind-8c4d5a8b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yueliao11-flowmind-8c4d5a8b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yueliao11-flowmind-8c4d5a8b/badge.svg)](https://tensorblock.co/mcp/servers/github-yueliao11-flowmind-8c4d5a8b)",
   "links": {
     "primary": "https://github.com/yueliao11/FlowMind",
     "repo": "https://github.com/yueliao11/FlowMind",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

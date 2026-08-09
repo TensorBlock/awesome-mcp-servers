@@ -3,8 +3,8 @@
   "name": "tiovikram/openai-websearch-mcp",
   "description": "Facilitates real-time web searches for AI models using OpenAI's Web Search API, with features like geographic customization and automatic citations.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-tiovikram-openai-websearch-mcp-3b1dadc7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tiovikram-openai-websearch-mcp-3b1dadc7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tiovikram-openai-websearch-mcp-3b1dadc7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tiovikram-openai-websearch-mcp-3b1dadc7/badge.svg)](https://tensorblock.co/mcp/servers/github-tiovikram-openai-websearch-mcp-3b1dadc7)",
   "links": {
     "primary": "https://github.com/tiovikram/openai-websearch-mcp",
     "repo": "https://github.com/tiovikram/openai-websearch-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

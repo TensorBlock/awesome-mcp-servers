@@ -3,8 +3,8 @@
   "name": "pietrozullo/mcp-use",
   "description": "MCP-Use is an open-source library that facilitates connecting any LLM to MCP tools, enabling the creation of custom agents with tool access for tasks like web browsing and file operations.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-pietrozullo-mcp-use-3e1b476d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pietrozullo-mcp-use-3e1b476d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-pietrozullo-mcp-use-3e1b476d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-pietrozullo-mcp-use-3e1b476d/badge.svg)](https://tensorblock.co/mcp/servers/github-pietrozullo-mcp-use-3e1b476d)",
   "links": {
     "primary": "https://github.com/pietrozullo/mcp-use",
     "repo": "https://github.com/pietrozullo/mcp-use",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

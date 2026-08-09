@@ -1,0 +1,58 @@
+{
+  "id": "github-getcutpro-mcp-95d73d0a",
+  "name": "getcutpro/mcp",
+  "description": "MCP server that exposes the full CutPro v1 API as 34 tools for AI clients — analyze videos, submit clipping jobs, manage clips, render, publish posts, and more. Supports stdio (local), Streamable HTTP (remote), and OAuth 2.1 (browser clients).",
+  "category": "Multimedia Processing",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-getcutpro-mcp-95d73d0a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-getcutpro-mcp-95d73d0a/badge.svg)](https://tensorblock.co/mcp/servers/github-getcutpro-mcp-95d73d0a)",
+  "links": {
+    "primary": "https://github.com/getcutpro/mcp",
+    "repo": "https://github.com/getcutpro/mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 34
+  }
+}

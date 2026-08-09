@@ -3,8 +3,8 @@
   "name": "bitscorp-mcp/mcp-ffmpeg",
   "description": "A Node.js server leveraging FFmpeg to provide APIs for video resizing and audio extraction, seamlessly integrating with Claude Desktop for natural language video processing.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-bitscorp-mcp-mcp-ffmpeg-254a4eca",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bitscorp-mcp-mcp-ffmpeg-254a4eca)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bitscorp-mcp-mcp-ffmpeg-254a4eca",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bitscorp-mcp-mcp-ffmpeg-254a4eca/badge.svg)](https://tensorblock.co/mcp/servers/github-bitscorp-mcp-mcp-ffmpeg-254a4eca)",
   "links": {
     "primary": "https://github.com/bitscorp-mcp/mcp-ffmpeg",
     "repo": "https://github.com/bitscorp-mcp/mcp-ffmpeg",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

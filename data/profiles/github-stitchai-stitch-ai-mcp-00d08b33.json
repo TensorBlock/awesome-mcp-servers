@@ -3,8 +3,8 @@
   "name": "StitchAI/stitch-ai-mcp",
   "description": "A decentralized knowledge hub for AI, enabling efficient memory management through a Model Context Protocol server.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-stitchai-stitch-ai-mcp-00d08b33",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stitchai-stitch-ai-mcp-00d08b33)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-stitchai-stitch-ai-mcp-00d08b33",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stitchai-stitch-ai-mcp-00d08b33/badge.svg)](https://tensorblock.co/mcp/servers/github-stitchai-stitch-ai-mcp-00d08b33)",
   "links": {
     "primary": "https://github.com/StitchAI/stitch-ai-mcp",
     "repo": "https://github.com/StitchAI/stitch-ai-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

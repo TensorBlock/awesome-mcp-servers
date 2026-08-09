@@ -1,0 +1,58 @@
+{
+  "id": "github-disentinel-grafema-13bb9259",
+  "name": "Disentinel/grafema",
+  "description": "Semantic code graph MCP server for AI coding agents. Indexes codebases into a typed graph (functions/types/modules as nodes; CALLS/IMPORTS/DATAFLOW/EFFECTS as typed edges) and exposes 40+ MCP tools for call-chain tracing, data-flow analysis, semantic search, and invariant checking — so agents navigate code structure instead of reading files line by line. Install: `npm install -g grafema`.",
+  "category": "Code Analysis & Quality",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-disentinel-grafema-13bb9259",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-disentinel-grafema-13bb9259/badge.svg)](https://tensorblock.co/mcp/servers/github-disentinel-grafema-13bb9259)",
+  "links": {
+    "primary": "https://github.com/Disentinel/grafema",
+    "repo": "https://github.com/Disentinel/grafema",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npm install -g grafema"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

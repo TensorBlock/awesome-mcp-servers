@@ -3,8 +3,8 @@
   "name": "serhiizghama/viber-mcp",
   "description": "MCP server for the Viber Bot REST API. Send text/picture/video/file/location/contact messages, broadcast to up to 300 recipients, manage webhooks, and read account/user state — 13 tools, TypeScript, published to npm as `@serhii.zghama/viber-mcp`.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-serhiizghama-viber-mcp-11451afa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-serhiizghama-viber-mcp-11451afa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-serhiizghama-viber-mcp-11451afa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-serhiizghama-viber-mcp-11451afa/badge.svg)](https://tensorblock.co/mcp/servers/github-serhiizghama-viber-mcp-11451afa)",
   "links": {
     "primary": "https://github.com/serhiizghama/viber-mcp",
     "repo": "https://github.com/serhiizghama/viber-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 13
   }

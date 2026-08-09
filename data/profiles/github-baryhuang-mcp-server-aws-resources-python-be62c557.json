@@ -3,8 +3,8 @@
   "name": "baryhuang/mcp-server-aws-resources-python",
   "description": "Facilitates querying AWS resources using Python and boto3, offering a containerized MCP server solution for AWS management operations.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-baryhuang-mcp-server-aws-resources-python-be62c557",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-baryhuang-mcp-server-aws-resources-python-be62c557)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-baryhuang-mcp-server-aws-resources-python-be62c557",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-baryhuang-mcp-server-aws-resources-python-be62c557/badge.svg)](https://tensorblock.co/mcp/servers/github-baryhuang-mcp-server-aws-resources-python-be62c557)",
   "links": {
     "primary": "https://github.com/baryhuang/mcp-server-aws-resources-python",
     "repo": "https://github.com/baryhuang/mcp-server-aws-resources-python",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

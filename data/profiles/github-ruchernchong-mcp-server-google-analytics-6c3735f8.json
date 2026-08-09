@@ -3,8 +3,8 @@
   "name": "ruchernchong/mcp-server-google-analytics",
   "description": "Facilitates the retrieval and analysis of Google Analytics 4 data through a Model Context Protocol server, enhancing LLM capabilities.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-ruchernchong-mcp-server-google-analytics-6c3735f8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ruchernchong-mcp-server-google-analytics-6c3735f8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ruchernchong-mcp-server-google-analytics-6c3735f8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ruchernchong-mcp-server-google-analytics-6c3735f8/badge.svg)](https://tensorblock.co/mcp/servers/github-ruchernchong-mcp-server-google-analytics-6c3735f8)",
   "links": {
     "primary": "https://github.com/ruchernchong/mcp-server-google-analytics",
     "repo": "https://github.com/ruchernchong/mcp-server-google-analytics",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

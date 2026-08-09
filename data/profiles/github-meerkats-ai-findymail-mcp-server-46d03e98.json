@@ -3,8 +3,8 @@
   "name": "Meerkats-Ai/findymail-mcp-server",
   "description": "Integrates with the Findymail API to provide email validation and finding capabilities using MCP.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-meerkats-ai-findymail-mcp-server-46d03e98",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-meerkats-ai-findymail-mcp-server-46d03e98)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-meerkats-ai-findymail-mcp-server-46d03e98",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-meerkats-ai-findymail-mcp-server-46d03e98/badge.svg)](https://tensorblock.co/mcp/servers/github-meerkats-ai-findymail-mcp-server-46d03e98)",
   "links": {
     "primary": "https://github.com/Meerkats-Ai/findymail-mcp-server",
     "repo": "https://github.com/Meerkats-Ai/findymail-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

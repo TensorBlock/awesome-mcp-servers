@@ -3,8 +3,8 @@
   "name": "miyamo2/hotpepper-gourmet-mcp-server",
   "description": "Facilitates gourmet search and area-based queries using the Hot Pepper Gourmet API.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-miyamo2-hotpepper-gourmet-mcp-server-7ab4d3f3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-miyamo2-hotpepper-gourmet-mcp-server-7ab4d3f3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-miyamo2-hotpepper-gourmet-mcp-server-7ab4d3f3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-miyamo2-hotpepper-gourmet-mcp-server-7ab4d3f3/badge.svg)](https://tensorblock.co/mcp/servers/github-miyamo2-hotpepper-gourmet-mcp-server-7ab4d3f3)",
   "links": {
     "primary": "https://github.com/miyamo2/hotpepper-gourmet-mcp-server",
     "repo": "https://github.com/miyamo2/hotpepper-gourmet-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

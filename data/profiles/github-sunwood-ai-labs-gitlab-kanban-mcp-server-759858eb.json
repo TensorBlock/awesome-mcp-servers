@@ -3,8 +3,8 @@
   "name": "Sunwood-ai-labs/gitlab-kanban-mcp-server",
   "description": "Facilitates GitLab Kanban board management through a Model Context Protocol server, enabling task creation, updates, and comments.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-sunwood-ai-labs-gitlab-kanban-mcp-server-759858eb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sunwood-ai-labs-gitlab-kanban-mcp-server-759858eb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sunwood-ai-labs-gitlab-kanban-mcp-server-759858eb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sunwood-ai-labs-gitlab-kanban-mcp-server-759858eb/badge.svg)](https://tensorblock.co/mcp/servers/github-sunwood-ai-labs-gitlab-kanban-mcp-server-759858eb)",
   "links": {
     "primary": "https://github.com/Sunwood-ai-labs/gitlab-kanban-mcp-server",
     "repo": "https://github.com/Sunwood-ai-labs/gitlab-kanban-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

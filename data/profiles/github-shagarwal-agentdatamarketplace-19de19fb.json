@@ -1,0 +1,56 @@
+{
+  "id": "github-shagarwal-agentdatamarketplace-19de19fb",
+  "name": "shagarwal/agentdatamarketplace",
+  "description": "DataBazaar — an agent-first data marketplace. AI agents discover, preview, bid on, and purchase datasets via MCP tools (`search_datasets`, `get_dataset`, `buy_now`, `place_bid`, `get_download_url`). Free datasets download without auth; paid ones use a saved Stripe card.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shagarwal-agentdatamarketplace-19de19fb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shagarwal-agentdatamarketplace-19de19fb/badge.svg)](https://tensorblock.co/mcp/servers/github-shagarwal-agentdatamarketplace-19de19fb)",
+  "links": {
+    "primary": "https://github.com/shagarwal/agentdatamarketplace",
+    "repo": "https://github.com/shagarwal/agentdatamarketplace",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

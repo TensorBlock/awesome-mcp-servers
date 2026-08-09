@@ -1,0 +1,56 @@
+{
+  "id": "github-veonua-smartthings-mcp-c60832c1",
+  "name": "veonua/smartthings-mcp",
+  "description": "Lightweight Samsung SmartThings MCP server for room mapping, device listing, status checks, and device command execution.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-veonua-smartthings-mcp-c60832c1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-veonua-smartthings-mcp-c60832c1/badge.svg)](https://tensorblock.co/mcp/servers/github-veonua-smartthings-mcp-c60832c1)",
+  "links": {
+    "primary": "https://github.com/veonua/smartthings-mcp",
+    "repo": "https://github.com/veonua/smartthings-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

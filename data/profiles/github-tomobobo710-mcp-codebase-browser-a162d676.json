@@ -3,8 +3,8 @@
   "name": "Tomobobo710/MCP-Codebase-Browser",
   "description": "A Python-based MCP server enabling Claude to manage and manipulate codebases on Windows systems.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-tomobobo710-mcp-codebase-browser-a162d676",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tomobobo710-mcp-codebase-browser-a162d676)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tomobobo710-mcp-codebase-browser-a162d676",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tomobobo710-mcp-codebase-browser-a162d676/badge.svg)](https://tensorblock.co/mcp/servers/github-tomobobo710-mcp-codebase-browser-a162d676)",
   "links": {
     "primary": "https://github.com/Tomobobo710/MCP-Codebase-Browser",
     "repo": "https://github.com/Tomobobo710/MCP-Codebase-Browser",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

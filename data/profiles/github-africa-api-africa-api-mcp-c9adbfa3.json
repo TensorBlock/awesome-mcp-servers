@@ -1,0 +1,56 @@
+{
+  "id": "github-africa-api-africa-api-mcp-c9adbfa3",
+  "name": "africa-api/africa-api-mcp",
+  "description": "Access structured data on all 54 African countries — 40 tools covering indicators, markets, trade, government, elections, and policies.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-africa-api-africa-api-mcp-c9adbfa3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-africa-api-africa-api-mcp-c9adbfa3/badge.svg)](https://tensorblock.co/mcp/servers/github-africa-api-africa-api-mcp-c9adbfa3)",
+  "links": {
+    "primary": "https://github.com/africa-api/africa-api-mcp",
+    "repo": "https://github.com/africa-api/africa-api-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 40
+  }
+}

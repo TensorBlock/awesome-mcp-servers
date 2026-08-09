@@ -3,8 +3,8 @@
   "name": "stijn-meijers/dracor-mcp",
   "description": "Facilitates interaction with the DraCor API for analyzing dramatic texts and character networks using Claude or other LLMs.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-stijn-meijers-dracor-mcp-a7856afa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stijn-meijers-dracor-mcp-a7856afa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-stijn-meijers-dracor-mcp-a7856afa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stijn-meijers-dracor-mcp-a7856afa/badge.svg)](https://tensorblock.co/mcp/servers/github-stijn-meijers-dracor-mcp-a7856afa)",
   "links": {
     "primary": "https://github.com/stijn-meijers/dracor-mcp",
     "repo": "https://github.com/stijn-meijers/dracor-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

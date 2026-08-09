@@ -3,8 +3,8 @@
   "name": "yangkyeongmo/mcp-server-apache-airflow",
   "description": "Facilitates seamless interaction with Apache Airflow through a standardized MCP interface, leveraging the official client library for robust DAG and task management.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-yangkyeongmo-mcp-server-apache-airflow-8035ca3f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yangkyeongmo-mcp-server-apache-airflow-8035ca3f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yangkyeongmo-mcp-server-apache-airflow-8035ca3f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yangkyeongmo-mcp-server-apache-airflow-8035ca3f/badge.svg)](https://tensorblock.co/mcp/servers/github-yangkyeongmo-mcp-server-apache-airflow-8035ca3f)",
   "links": {
     "primary": "https://github.com/yangkyeongmo/mcp-server-apache-airflow",
     "repo": "https://github.com/yangkyeongmo/mcp-server-apache-airflow",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

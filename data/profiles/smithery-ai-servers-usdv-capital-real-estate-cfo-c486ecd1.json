@@ -1,0 +1,60 @@
+{
+  "id": "smithery-ai-servers-usdv-capital-real-estate-cfo-c486ecd1",
+  "name": "USDV Capital Real Estate CFO",
+  "description": "Real estate market intelligence, financial calculators, and capital advisory MCP covering all 50 US states plus DC and Puerto Rico. 23 tools for market search, location statistics, comparisons, DSCR-style calculators, eligibility checks, and advisory workflows. Smithery install: `npx -y smithery mcp add usdv-capital/real-estate-cfo`; direct endpoint: `https://real-estate-cfo--usdv-capital.run.tools`.",
+  "category": "Real Estate & Home Services",
+  "profileUrl": "https://tensorblock.co/mcp/servers/smithery-ai-servers-usdv-capital-real-estate-cfo-c486ecd1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/smithery-ai-servers-usdv-capital-real-estate-cfo-c486ecd1/badge.svg)](https://tensorblock.co/mcp/servers/smithery-ai-servers-usdv-capital-real-estate-cfo-c486ecd1)",
+  "links": {
+    "primary": "https://smithery.ai/servers/usdv-capital/real-estate-cfo",
+    "repo": null,
+    "homepage": "https://smithery.ai/servers/usdv-capital/real-estate-cfo",
+    "docs": null,
+    "endpoint": "https://real-estate-cfo--usdv-capital.run.tools"
+  },
+  "install": {
+    "commands": [
+      "npx -y smithery mcp add usdv-capital/real-estate-cfo"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Smithery listing and original PR describe open access for most tools"
+    ]
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": 23
+  }
+}

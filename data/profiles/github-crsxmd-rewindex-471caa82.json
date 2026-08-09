@@ -1,0 +1,56 @@
+{
+  "id": "github-crsxmd-rewindex-471caa82",
+  "name": "crsxmd/rewindex",
+  "description": "//rewindex.org)) - Reduces the risk of AI agents breaking your code. Auto-snapshots every file change locally. Rewind sessions, audit code, and inspect diffs from your AI chat or the built-in dashboard. Free, safe, and no coding required.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-crsxmd-rewindex-471caa82",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-crsxmd-rewindex-471caa82/badge.svg)](https://tensorblock.co/mcp/servers/github-crsxmd-rewindex-471caa82)",
+  "links": {
+    "primary": "https://github.com/crsxmd/rewindex",
+    "repo": "https://github.com/crsxmd/rewindex",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

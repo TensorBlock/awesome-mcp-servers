@@ -3,8 +3,8 @@
   "name": "Bpolat0/atlasmemory",
   "description": "Evidence-backed AI memory for codebases. Tree-sitter indexing (11 languages), proof system with line:hash anchors, token-budgeted context packs, drift detection, cross-session learning. 28 MCP tools, VS Code extension, zero config.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-bpolat0-atlasmemory-babd6dd4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bpolat0-atlasmemory-babd6dd4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bpolat0-atlasmemory-babd6dd4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bpolat0-atlasmemory-babd6dd4/badge.svg)](https://tensorblock.co/mcp/servers/github-bpolat0-atlasmemory-babd6dd4)",
   "links": {
     "primary": "https://github.com/Bpolat0/atlasmemory",
     "repo": "https://github.com/Bpolat0/atlasmemory",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 28
   }

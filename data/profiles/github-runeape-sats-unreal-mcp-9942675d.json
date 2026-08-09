@@ -3,8 +3,8 @@
   "name": "runeape-sats/unreal-mcp",
   "description": "Facilitates interaction between Claude Desktop and Unreal Engine 5.3, enabling text-based creation and manipulation of 3D objects.",
   "category": "Gaming",
-  "profileUrl": "https://tensorblock.co/mcp/github-runeape-sats-unreal-mcp-9942675d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-runeape-sats-unreal-mcp-9942675d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-runeape-sats-unreal-mcp-9942675d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-runeape-sats-unreal-mcp-9942675d/badge.svg)](https://tensorblock.co/mcp/servers/github-runeape-sats-unreal-mcp-9942675d)",
   "links": {
     "primary": "https://github.com/runeape-sats/unreal-mcp",
     "repo": "https://github.com/runeape-sats/unreal-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

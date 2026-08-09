@@ -3,8 +3,8 @@
   "name": "madhukarkumar/singlestore-mcp-server",
   "description": "Facilitates interaction with SingleStore databases through querying, schema description, and ER diagram generation, with support for both MCP and SSE protocols.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-madhukarkumar-singlestore-mcp-server-076cfe7c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-madhukarkumar-singlestore-mcp-server-076cfe7c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-madhukarkumar-singlestore-mcp-server-076cfe7c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-madhukarkumar-singlestore-mcp-server-076cfe7c/badge.svg)](https://tensorblock.co/mcp/servers/github-madhukarkumar-singlestore-mcp-server-076cfe7c)",
   "links": {
     "primary": "https://github.com/madhukarkumar/singlestore-mcp-server",
     "repo": "https://github.com/madhukarkumar/singlestore-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

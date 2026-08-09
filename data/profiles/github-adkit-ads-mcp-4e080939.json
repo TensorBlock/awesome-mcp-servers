@@ -1,0 +1,59 @@
+{
+  "id": "github-adkit-ads-mcp-4e080939",
+  "name": "AdKit — Ads MCP",
+  "description": "Ads MCP to create, launch & analyze ad campaigns and spy on competitor ads across Google Ads, Meta Ads, TikTok Ads, and Reddit Ads — from Claude, Cursor, or ChatGPT. Draft-first, multi-account.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-adkit-ads-mcp-4e080939",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-adkit-ads-mcp-4e080939/badge.svg)](https://tensorblock.co/mcp/servers/github-adkit-ads-mcp-4e080939)",
+  "links": {
+    "primary": "https://github.com/adkit/ads-mcp",
+    "repo": "https://github.com/adkit/ads-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

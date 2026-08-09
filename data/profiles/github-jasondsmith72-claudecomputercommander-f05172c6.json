@@ -3,8 +3,8 @@
   "name": "jasondsmith72/ClaudeComputerCommander",
   "description": "Facilitates Claude's interaction with your computer by executing terminal commands and managing processes with advanced monitoring and backup features.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-jasondsmith72-claudecomputercommander-f05172c6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jasondsmith72-claudecomputercommander-f05172c6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jasondsmith72-claudecomputercommander-f05172c6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jasondsmith72-claudecomputercommander-f05172c6/badge.svg)](https://tensorblock.co/mcp/servers/github-jasondsmith72-claudecomputercommander-f05172c6)",
   "links": {
     "primary": "https://github.com/jasondsmith72/ClaudeComputerCommander",
     "repo": "https://github.com/jasondsmith72/ClaudeComputerCommander",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

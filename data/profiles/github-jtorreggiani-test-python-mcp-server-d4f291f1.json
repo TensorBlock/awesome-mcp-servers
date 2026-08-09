@@ -3,8 +3,8 @@
   "name": "jtorreggiani/test-python-mcp-server",
   "description": "Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-jtorreggiani-test-python-mcp-server-d4f291f1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jtorreggiani-test-python-mcp-server-d4f291f1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jtorreggiani-test-python-mcp-server-d4f291f1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jtorreggiani-test-python-mcp-server-d4f291f1/badge.svg)](https://tensorblock.co/mcp/servers/github-jtorreggiani-test-python-mcp-server-d4f291f1)",
   "links": {
     "primary": "https://github.com/jtorreggiani/test-python-mcp-server",
     "repo": "https://github.com/jtorreggiani/test-python-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

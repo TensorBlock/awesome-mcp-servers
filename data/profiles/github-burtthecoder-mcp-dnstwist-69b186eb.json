@@ -3,8 +3,8 @@
   "name": "BurtTheCoder/mcp-dnstwist",
   "description": "Facilitates domain permutation analysis to detect typosquatting and phishing threats using DNStwist.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-burtthecoder-mcp-dnstwist-69b186eb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-burtthecoder-mcp-dnstwist-69b186eb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-burtthecoder-mcp-dnstwist-69b186eb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-burtthecoder-mcp-dnstwist-69b186eb/badge.svg)](https://tensorblock.co/mcp/servers/github-burtthecoder-mcp-dnstwist-69b186eb)",
   "links": {
     "primary": "https://github.com/BurtTheCoder/mcp-dnstwist",
     "repo": "https://github.com/BurtTheCoder/mcp-dnstwist",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

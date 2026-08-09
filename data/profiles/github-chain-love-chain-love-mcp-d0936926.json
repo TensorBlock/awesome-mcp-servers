@@ -3,8 +3,8 @@
   "name": "Chain.Love MCP",
   "description": "Hosted MCP gateway that enables AI agents to discover and compare Web3 infra services (RPCs, indexing, oracles, storage, compute, dev tools, and more) across 50+ networks via a single endpoint.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-chain-love-chain-love-mcp-d0936926",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chain-love-chain-love-mcp-d0936926)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-chain-love-chain-love-mcp-d0936926",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-chain-love-chain-love-mcp-d0936926/badge.svg)](https://tensorblock.co/mcp/servers/github-chain-love-chain-love-mcp-d0936926)",
   "links": {
     "primary": "https://github.com/Chain-Love/chain.love-mcp",
     "repo": "https://github.com/Chain-Love/chain.love-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

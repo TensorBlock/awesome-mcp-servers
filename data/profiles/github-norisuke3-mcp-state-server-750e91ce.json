@@ -3,8 +3,8 @@
   "name": "norisuke3/mcp-state-server",
   "description": "A TypeScript-based MCP server implementing a notes system with resources, tools, and prompts for note management and summarization.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-norisuke3-mcp-state-server-750e91ce",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-norisuke3-mcp-state-server-750e91ce)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-norisuke3-mcp-state-server-750e91ce",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-norisuke3-mcp-state-server-750e91ce/badge.svg)](https://tensorblock.co/mcp/servers/github-norisuke3-mcp-state-server-750e91ce)",
   "links": {
     "primary": "https://github.com/norisuke3/mcp-state-server",
     "repo": "https://github.com/norisuke3/mcp-state-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

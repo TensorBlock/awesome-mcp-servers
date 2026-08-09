@@ -3,8 +3,8 @@
   "name": "vdalhambra/siteaudit-mcp",
   "description": "Instant website audits MCP with 11 tools — full SEO (20+ checks), security headers + SSL, Lighthouse performance via Google PageSpeed, multi-site competitive comparison, broken link crawler, WCAG accessibility audit, Schema.org structured data validation, competitor gap analysis, robots.txt parser. No API keys. FastMCP 3.2, MIT.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-vdalhambra-siteaudit-mcp-a98eae4e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vdalhambra-siteaudit-mcp-a98eae4e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vdalhambra-siteaudit-mcp-a98eae4e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vdalhambra-siteaudit-mcp-a98eae4e/badge.svg)](https://tensorblock.co/mcp/servers/github-vdalhambra-siteaudit-mcp-a98eae4e)",
   "links": {
     "primary": "https://github.com/vdalhambra/siteaudit-mcp",
     "repo": "https://github.com/vdalhambra/siteaudit-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "none",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 11
   }

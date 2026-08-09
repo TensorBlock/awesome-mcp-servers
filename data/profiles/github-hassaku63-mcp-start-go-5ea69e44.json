@@ -3,8 +3,8 @@
   "name": "hassaku63/mcp-start-go",
   "description": "A Go-based example of an MCP server implementation, demonstrating cross-platform capabilities with StdioTransport.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-hassaku63-mcp-start-go-5ea69e44",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hassaku63-mcp-start-go-5ea69e44)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hassaku63-mcp-start-go-5ea69e44",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hassaku63-mcp-start-go-5ea69e44/badge.svg)](https://tensorblock.co/mcp/servers/github-hassaku63-mcp-start-go-5ea69e44)",
   "links": {
     "primary": "https://github.com/hassaku63/mcp-start-go",
     "repo": "https://github.com/hassaku63/mcp-start-go",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "stdio"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "elblanco2/arc-mcp",
   "description": "Arc MCP Server facilitates seamless web application deployment across various hosting environments through conversational interfaces, bridging the gap between LLMs and hosting platforms.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-elblanco2-arc-mcp-5b7220da",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elblanco2-arc-mcp-5b7220da)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-elblanco2-arc-mcp-5b7220da",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-elblanco2-arc-mcp-5b7220da/badge.svg)](https://tensorblock.co/mcp/servers/github-elblanco2-arc-mcp-5b7220da)",
   "links": {
     "primary": "https://github.com/elblanco2/arc-mcp",
     "repo": "https://github.com/elblanco2/arc-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

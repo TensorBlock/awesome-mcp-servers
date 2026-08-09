@@ -3,8 +3,8 @@
   "name": "tsmztech/mcp-server-salesforce",
   "description": "Integrates Claude with Salesforce for natural language interactions with Salesforce data and metadata.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-tsmztech-mcp-server-salesforce-4f89c728",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tsmztech-mcp-server-salesforce-4f89c728)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tsmztech-mcp-server-salesforce-4f89c728",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tsmztech-mcp-server-salesforce-4f89c728/badge.svg)](https://tensorblock.co/mcp/servers/github-tsmztech-mcp-server-salesforce-4f89c728)",
   "links": {
     "primary": "https://github.com/tsmztech/mcp-server-salesforce",
     "repo": "https://github.com/tsmztech/mcp-server-salesforce",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

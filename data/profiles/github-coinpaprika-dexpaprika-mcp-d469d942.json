@@ -3,8 +3,8 @@
   "name": "coinpaprika/dexpaprika-mcp",
   "description": "Real-time DEX and DeFi data across all blockchains for AI agents. Pools, tokens, trades, OHLCV, and network data. Free, no API key, no rate limits. Install: `npx dexpaprika-mcp`",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-coinpaprika-dexpaprika-mcp-d469d942",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-coinpaprika-dexpaprika-mcp-d469d942)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-coinpaprika-dexpaprika-mcp-d469d942",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-coinpaprika-dexpaprika-mcp-d469d942/badge.svg)](https://tensorblock.co/mcp/servers/github-coinpaprika-dexpaprika-mcp-d469d942)",
   "links": {
     "primary": "https://github.com/coinpaprika/dexpaprika-mcp",
     "repo": "https://github.com/coinpaprika/dexpaprika-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx dexpaprika-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "none",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

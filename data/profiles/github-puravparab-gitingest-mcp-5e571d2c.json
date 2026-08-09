@@ -3,8 +3,8 @@
   "name": "puravparab/Gitingest-MCP",
   "description": "Facilitates rapid extraction of GitHub repository information for MCP clients like Claude Desktop and Cline.",
   "category": "Version Control",
-  "profileUrl": "https://tensorblock.co/mcp/github-puravparab-gitingest-mcp-5e571d2c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-puravparab-gitingest-mcp-5e571d2c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-puravparab-gitingest-mcp-5e571d2c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-puravparab-gitingest-mcp-5e571d2c/badge.svg)](https://tensorblock.co/mcp/servers/github-puravparab-gitingest-mcp-5e571d2c)",
   "links": {
     "primary": "https://github.com/puravparab/Gitingest-MCP",
     "repo": "https://github.com/puravparab/Gitingest-MCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

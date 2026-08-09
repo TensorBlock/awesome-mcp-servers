@@ -3,8 +3,8 @@
   "name": "vistaarjuneja/harness-mcp",
   "description": "Facilitates the management of connectors within the Harness platform using a Model Context Protocol server.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-vistaarjuneja-harness-mcp-f763100a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vistaarjuneja-harness-mcp-f763100a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vistaarjuneja-harness-mcp-f763100a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vistaarjuneja-harness-mcp-f763100a/badge.svg)](https://tensorblock.co/mcp/servers/github-vistaarjuneja-harness-mcp-f763100a)",
   "links": {
     "primary": "https://github.com/vistaarjuneja/harness-mcp",
     "repo": "https://github.com/vistaarjuneja/harness-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

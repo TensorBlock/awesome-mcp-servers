@@ -3,8 +3,8 @@
   "name": "hamflx/imagen3-mcp",
   "description": "Harnesses Google's Imagen 3.0 for photorealistic image generation via MCP, requiring a Google Gemini API key.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-hamflx-imagen3-mcp-de135700",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hamflx-imagen3-mcp-de135700)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hamflx-imagen3-mcp-de135700",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hamflx-imagen3-mcp-de135700/badge.svg)](https://tensorblock.co/mcp/servers/github-hamflx-imagen3-mcp-de135700)",
   "links": {
     "primary": "https://github.com/hamflx/imagen3-mcp",
     "repo": "https://github.com/hamflx/imagen3-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "api-key",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

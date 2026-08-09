@@ -1,0 +1,63 @@
+{
+  "id": "github-skuzadev-wpfpilot-mcp-4d045d69",
+  "name": "skuzadev/wpfpilot-mcp",
+  "description": "Automates Windows WPF desktop apps for AI agents using semantic UI Automation selectors, query/act/wait/assert tools, screenshots, workflow recording, and xUnit + FlaUI test generation. Works with Codex, Claude, Cursor, VS Code, and other MCP clients via `npx -y @skuzadev/wpfpilot-mcp`.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-skuzadev-wpfpilot-mcp-4d045d69",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-skuzadev-wpfpilot-mcp-4d045d69/badge.svg)](https://tensorblock.co/mcp/servers/github-skuzadev-wpfpilot-mcp-4d045d69)",
+  "links": {
+    "primary": "https://github.com/skuzadev/wpfpilot-mcp",
+    "repo": "https://github.com/skuzadev/wpfpilot-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y @skuzadev/wpfpilot-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "sse"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

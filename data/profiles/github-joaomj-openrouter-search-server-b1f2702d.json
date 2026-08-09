@@ -3,8 +3,8 @@
   "name": "joaomj/openrouter-search-server",
   "description": "Facilitates web search capabilities through the OpenRouter API using the MCP protocol.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-joaomj-openrouter-search-server-b1f2702d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-joaomj-openrouter-search-server-b1f2702d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-joaomj-openrouter-search-server-b1f2702d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-joaomj-openrouter-search-server-b1f2702d/badge.svg)](https://tensorblock.co/mcp/servers/github-joaomj-openrouter-search-server-b1f2702d)",
   "links": {
     "primary": "https://github.com/joaomj/openrouter-search-server",
     "repo": "https://github.com/joaomj/openrouter-search-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "MadGapun/PBP",
   "description": "AI-powered MCP server for job application management in the German-speaking market (DACH). 73 tools, 18 guided workflows, 18 job portal scrapers, React dashboard with 8 tabs, email integration (.msg/.eml), calendar with .ics export, intelligent scoring, and AI coaching. Currently German language only. MIT licensed, runs locally, privacy-first.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-madgapun-pbp-e042a37f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-madgapun-pbp-e042a37f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-madgapun-pbp-e042a37f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-madgapun-pbp-e042a37f/badge.svg)](https://tensorblock.co/mcp/servers/github-madgapun-pbp-e042a37f)",
   "links": {
     "primary": "https://github.com/MadGapun/PBP",
     "repo": "https://github.com/MadGapun/PBP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 73
   }

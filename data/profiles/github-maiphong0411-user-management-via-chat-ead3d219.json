@@ -3,8 +3,8 @@
   "name": "maiphong0411/user-management-via-chat",
   "description": "Facilitates user management through chat interactions with Claude Desktop, leveraging MCP server capabilities.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-maiphong0411-user-management-via-chat-ead3d219",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-maiphong0411-user-management-via-chat-ead3d219)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-maiphong0411-user-management-via-chat-ead3d219",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-maiphong0411-user-management-via-chat-ead3d219/badge.svg)](https://tensorblock.co/mcp/servers/github-maiphong0411-user-management-via-chat-ead3d219)",
   "links": {
     "primary": "https://github.com/maiphong0411/user-management-via-chat",
     "repo": "https://github.com/maiphong0411/user-management-via-chat",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

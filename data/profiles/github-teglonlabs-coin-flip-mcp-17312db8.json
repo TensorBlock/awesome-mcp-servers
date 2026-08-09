@@ -3,8 +3,8 @@
   "name": "TeglonLabs/coin-flip-mcp",
   "description": "Provides true random coin flips using random.org's randomness API, demonstrating the Model Context Protocol with configurable outcomes.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-teglonlabs-coin-flip-mcp-17312db8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-teglonlabs-coin-flip-mcp-17312db8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-teglonlabs-coin-flip-mcp-17312db8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-teglonlabs-coin-flip-mcp-17312db8/badge.svg)](https://tensorblock.co/mcp/servers/github-teglonlabs-coin-flip-mcp-17312db8)",
   "links": {
     "primary": "https://github.com/TeglonLabs/coin-flip-mcp",
     "repo": "https://github.com/TeglonLabs/coin-flip-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "fred-em/headline-vibes",
   "description": "Analyze sentiment in news headlines from major US publications with date-based and natural language parsing capabilities.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-fred-em-headline-vibes-1a29e119",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fred-em-headline-vibes-1a29e119)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fred-em-headline-vibes-1a29e119",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fred-em-headline-vibes-1a29e119/badge.svg)](https://tensorblock.co/mcp/servers/github-fred-em-headline-vibes-1a29e119)",
   "links": {
     "primary": "https://github.com/fred-em/headline-vibes",
     "repo": "https://github.com/fred-em/headline-vibes",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

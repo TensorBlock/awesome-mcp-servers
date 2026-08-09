@@ -3,8 +3,8 @@
   "name": "zemloai-ctrl/elecz-api",
   "description": "Real-time Nordic and German electricity spot price API and MCP server. Fetches ENTSO-E day-ahead prices for Finland, Sweden, Norway, Denmark, and Germany with actionable contract recommendations for AI agents.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-zemloai-ctrl-elecz-api-a9683588",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zemloai-ctrl-elecz-api-a9683588)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zemloai-ctrl-elecz-api-a9683588",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zemloai-ctrl-elecz-api-a9683588/badge.svg)](https://tensorblock.co/mcp/servers/github-zemloai-ctrl-elecz-api-a9683588)",
   "links": {
     "primary": "https://github.com/zemloai-ctrl/elecz-api",
     "repo": "https://github.com/zemloai-ctrl/elecz-api",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

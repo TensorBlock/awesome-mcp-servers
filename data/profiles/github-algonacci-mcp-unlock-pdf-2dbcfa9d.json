@@ -3,8 +3,8 @@
   "name": "algonacci/mcp-unlock-pdf",
   "description": "Enables clients to access and read protected PDFs through a configurable MCP server.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-algonacci-mcp-unlock-pdf-2dbcfa9d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-algonacci-mcp-unlock-pdf-2dbcfa9d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-algonacci-mcp-unlock-pdf-2dbcfa9d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-algonacci-mcp-unlock-pdf-2dbcfa9d/badge.svg)](https://tensorblock.co/mcp/servers/github-algonacci-mcp-unlock-pdf-2dbcfa9d)",
   "links": {
     "primary": "https://github.com/algonacci/mcp-unlock-pdf",
     "repo": "https://github.com/algonacci/mcp-unlock-pdf",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

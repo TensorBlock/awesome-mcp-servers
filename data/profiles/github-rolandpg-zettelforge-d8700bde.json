@@ -1,0 +1,58 @@
+{
+  "id": "github-rolandpg-zettelforge-d8700bde",
+  "name": "rolandpg/zettelforge",
+  "description": "Agentic memory for cyber threat intelligence. Entity extraction, STIX 2.1 knowledge graph, intent-classified blended retrieval (lexical + vector + HyDE). Offline-first, `pip install zettelforge`.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rolandpg-zettelforge-d8700bde",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rolandpg-zettelforge-d8700bde/badge.svg)](https://tensorblock.co/mcp/servers/github-rolandpg-zettelforge-d8700bde)",
+  "links": {
+    "primary": "https://github.com/rolandpg/zettelforge",
+    "repo": "https://github.com/rolandpg/zettelforge",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "pip install zettelforge"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

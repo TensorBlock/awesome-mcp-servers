@@ -3,8 +3,8 @@
   "name": "EvanZhouDev/raycast-mcp",
   "description": "Facilitates interaction with Anthropic's Model Context Protocol in Raycast AI, enabling seamless installation and management of MCP servers for enhanced AI tool integration.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-evanzhoudev-raycast-mcp-e5e11915",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-evanzhoudev-raycast-mcp-e5e11915)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-evanzhoudev-raycast-mcp-e5e11915",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-evanzhoudev-raycast-mcp-e5e11915/badge.svg)](https://tensorblock.co/mcp/servers/github-evanzhoudev-raycast-mcp-e5e11915)",
   "links": {
     "primary": "https://github.com/EvanZhouDev/raycast-mcp",
     "repo": "https://github.com/EvanZhouDev/raycast-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

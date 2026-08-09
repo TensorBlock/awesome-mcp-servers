@@ -3,8 +3,8 @@
   "name": "integration-app/mcp-server",
   "description": "Facilitates the exposure of Integration App tools through an MCP server, enabling seamless tool management and execution.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-integration-app-mcp-server-39da47dd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-integration-app-mcp-server-39da47dd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-integration-app-mcp-server-39da47dd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-integration-app-mcp-server-39da47dd/badge.svg)](https://tensorblock.co/mcp/servers/github-integration-app-mcp-server-39da47dd)",
   "links": {
     "primary": "https://github.com/integration-app/mcp-server",
     "repo": "https://github.com/integration-app/mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

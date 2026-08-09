@@ -3,8 +3,8 @@
   "name": "gu-dsan6725/georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2025-lab-extra-credit-aws-cost",
   "description": "Facilitates natural language interaction with AWS Cost Explorer data using Anthropic's Claude model.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-gu-dsan6725-georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2025-lab-extra-credit-aws-cost-38583e21",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gu-dsan6725-georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2025-lab-extra-credit-aws-cost-38583e21)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-gu-dsan6725-georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2025-lab-extra-credit-aws-cost-38583e21",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-gu-dsan6725-georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2025-lab-extra-credit-aws-cost-38583e21/badge.svg)](https://tensorblock.co/mcp/servers/github-gu-dsan6725-georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2025-lab-extra-credit-aws-cost-38583e21)",
   "links": {
     "primary": "https://github.com/gu-dsan6725/georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2025-lab-extra-credit-aws-cost",
     "repo": "https://github.com/gu-dsan6725/georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2025-lab-extra-credit-aws-cost",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

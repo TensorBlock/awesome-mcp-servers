@@ -3,8 +3,8 @@
   "name": "Rickyyy1116/invoice-parser-mcp",
   "description": "Automates the extraction and transfer of invoice data from PDFs to Google Sheets using Claude.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-rickyyy1116-invoice-parser-mcp-62622d75",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rickyyy1116-invoice-parser-mcp-62622d75)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rickyyy1116-invoice-parser-mcp-62622d75",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rickyyy1116-invoice-parser-mcp-62622d75/badge.svg)](https://tensorblock.co/mcp/servers/github-rickyyy1116-invoice-parser-mcp-62622d75)",
   "links": {
     "primary": "https://github.com/Rickyyy1116/invoice-parser-mcp",
     "repo": "https://github.com/Rickyyy1116/invoice-parser-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,62 @@
+{
+  "id": "github-sapph1re-feedback-synthesis-mcp-023deebb",
+  "name": "sapph1re/feedback-synthesis-mcp",
+  "description": "Synthesize customer feedback from GitHub Issues, Hacker News, and App Store reviews into ranked pain clusters with evidence links and suggested actions. 4 tools: synthesize feedback ($0.05/call), extract pain points ($0.02/call), search feedback ($0.01/call), sentiment trends ($0.03/call). x402 micropayments on Base mainnet. Suggested category: Data...",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sapph1re-feedback-synthesis-mcp-023deebb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sapph1re-feedback-synthesis-mcp-023deebb/badge.svg)](https://tensorblock.co/mcp/servers/github-sapph1re-feedback-synthesis-mcp-023deebb)",
+  "links": {
+    "primary": "https://github.com/sapph1re/feedback-synthesis-mcp",
+    "repo": "https://github.com/sapph1re/feedback-synthesis-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other"
+  ],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 4
+  }
+}

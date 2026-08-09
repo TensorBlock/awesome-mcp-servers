@@ -3,8 +3,8 @@
   "name": "Zaeni21/stakenads",
   "description": "Provides enriched blockchain data from Codex for MCP-compatible clients.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-zaeni21-stakenads-6b3343ae",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zaeni21-stakenads-6b3343ae)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zaeni21-stakenads-6b3343ae",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zaeni21-stakenads-6b3343ae/badge.svg)](https://tensorblock.co/mcp/servers/github-zaeni21-stakenads-6b3343ae)",
   "links": {
     "primary": "https://github.com/Zaeni21/stakenads",
     "repo": "https://github.com/Zaeni21/stakenads",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Codex"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

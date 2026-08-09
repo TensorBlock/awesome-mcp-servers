@@ -3,8 +3,8 @@
   "name": "ktrysmt/mcp-script-runner",
   "description": "Facilitates the execution of shell scripts as tools within a designated directory using MCP server capabilities.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-ktrysmt-mcp-script-runner-c28bf674",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ktrysmt-mcp-script-runner-c28bf674)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ktrysmt-mcp-script-runner-c28bf674",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ktrysmt-mcp-script-runner-c28bf674/badge.svg)](https://tensorblock.co/mcp/servers/github-ktrysmt-mcp-script-runner-c28bf674)",
   "links": {
     "primary": "https://github.com/ktrysmt/mcp-script-runner",
     "repo": "https://github.com/ktrysmt/mcp-script-runner",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

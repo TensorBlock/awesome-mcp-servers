@@ -3,8 +3,8 @@
   "name": "jarondonp/airbnb",
   "description": "Facilitates searching and retrieving detailed information on Airbnb listings without requiring an API key.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-jarondonp-airbnb-8d862e94",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jarondonp-airbnb-8d862e94)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jarondonp-airbnb-8d862e94",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jarondonp-airbnb-8d862e94/badge.svg)](https://tensorblock.co/mcp/servers/github-jarondonp-airbnb-8d862e94)",
   "links": {
     "primary": "https://github.com/jarondonp/airbnb",
     "repo": "https://github.com/jarondonp/airbnb",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "api-key",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

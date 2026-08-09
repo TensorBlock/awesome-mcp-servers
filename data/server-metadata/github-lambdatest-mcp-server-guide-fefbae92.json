@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-lambdatest-mcp-server-guide-fefbae92",
+  "source": {
+    "projectUrl": "https://github.com/LambdaTest/mcp-server-guide"
+  },
+  "description": "Hosted MCP server for the TestMu AI (formerly LambdaTest) cloud testing platform. Agents orchestrate HyperExecute runs and generate the YAML for them, triage automation failures from command, network and console logs, explain SmartUI visual regressions, and run WCAG accessibility audits against hosted URLs.",
+  "category": "Browser Automation & Web Scraping",
+  "links": {
+    "docs": "https://www.testmuai.com/support/docs/testmu-mcp-server/",
+    "endpoint": "https://mcp.lambdatest.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http mcp-lambdatest https://mcp.lambdatest.com/mcp",
+      "npx -y mcp-remote@latest https://mcp.lambdatest.com/mcp"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 authorization code flow with PKCE (S256)",
+      "Dynamic client registration is supported, so no pre-registration is required",
+      "No API keys are stored in client configuration files"
+    ]
+  },
+  "clients": [
+    "Cursor",
+    "Claude Code",
+    "Claude Desktop",
+    "GitHub Copilot / VS Code",
+    "OpenAI Codex",
+    "Windsurf",
+    "Cline",
+    "Continue",
+    "Zed AI",
+    "JetBrains AI Assistant"
+  ],
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "OAuth metadata confirmed live at https://mcp.lambdatest.com/.well-known/oauth-authorization-server and /.well-known/oauth-protected-resource"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "TestMu AI (formerly LambdaTest)"
+    ]
+  }
+}

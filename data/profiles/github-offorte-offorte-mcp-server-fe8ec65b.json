@@ -3,8 +3,8 @@
   "name": "Offorte Proposal Software",
   "description": "The Offorte Proposal Software MCP server enables creation and sending of business proposals.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-offorte-offorte-mcp-server-fe8ec65b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-offorte-offorte-mcp-server-fe8ec65b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-offorte-offorte-mcp-server-fe8ec65b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-offorte-offorte-mcp-server-fe8ec65b/badge.svg)](https://tensorblock.co/mcp/servers/github-offorte-offorte-mcp-server-fe8ec65b)",
   "links": {
     "primary": "https://github.com/offorte/offorte-mcp-server",
     "repo": "https://github.com/offorte/offorte-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

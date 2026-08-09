@@ -3,8 +3,8 @@
   "name": "illuminaresolutions/n8n-mcp-server",
   "description": "Facilitates secure interaction between LLMs and n8n workflows, enabling management and execution of workflows, credentials, and more.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-illuminaresolutions-n8n-mcp-server-9d12c64d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-illuminaresolutions-n8n-mcp-server-9d12c64d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-illuminaresolutions-n8n-mcp-server-9d12c64d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-illuminaresolutions-n8n-mcp-server-9d12c64d/badge.svg)](https://tensorblock.co/mcp/servers/github-illuminaresolutions-n8n-mcp-server-9d12c64d)",
   "links": {
     "primary": "https://github.com/illuminaresolutions/n8n-mcp-server",
     "repo": "https://github.com/illuminaresolutions/n8n-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

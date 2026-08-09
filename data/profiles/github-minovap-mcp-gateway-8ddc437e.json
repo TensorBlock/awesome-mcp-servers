@@ -3,8 +3,8 @@
   "name": "minovap/mcp-gateway",
   "description": "A centralized gateway that consolidates multiple MCP servers into a single access point, optimizing parallel execution and configuration management.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-minovap-mcp-gateway-8ddc437e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-minovap-mcp-gateway-8ddc437e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-minovap-mcp-gateway-8ddc437e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-minovap-mcp-gateway-8ddc437e/badge.svg)](https://tensorblock.co/mcp/servers/github-minovap-mcp-gateway-8ddc437e)",
   "links": {
     "primary": "https://github.com/minovap/mcp-gateway",
     "repo": "https://github.com/minovap/mcp-gateway",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

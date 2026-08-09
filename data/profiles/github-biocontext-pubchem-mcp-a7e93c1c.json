@@ -3,8 +3,8 @@
   "name": "BioContext/PubChem-MCP",
   "description": "Access PubChem data for compounds, substances, and bioassays through a Model Context Protocol server.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-biocontext-pubchem-mcp-a7e93c1c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-biocontext-pubchem-mcp-a7e93c1c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-biocontext-pubchem-mcp-a7e93c1c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-biocontext-pubchem-mcp-a7e93c1c/badge.svg)](https://tensorblock.co/mcp/servers/github-biocontext-pubchem-mcp-a7e93c1c)",
   "links": {
     "primary": "https://github.com/BioContext/PubChem-MCP",
     "repo": "https://github.com/BioContext/PubChem-MCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

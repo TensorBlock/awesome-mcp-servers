@@ -3,8 +3,8 @@
   "name": "niallroche/accord-project-mcp",
   "description": "Facilitates interaction with the Accord Project Agreement Protocol for managing templates and agreements through an MCP server.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-niallroche-accord-project-mcp-e1cc664c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-niallroche-accord-project-mcp-e1cc664c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-niallroche-accord-project-mcp-e1cc664c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-niallroche-accord-project-mcp-e1cc664c/badge.svg)](https://tensorblock.co/mcp/servers/github-niallroche-accord-project-mcp-e1cc664c)",
   "links": {
     "primary": "https://github.com/niallroche/accord-project-mcp",
     "repo": "https://github.com/niallroche/accord-project-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

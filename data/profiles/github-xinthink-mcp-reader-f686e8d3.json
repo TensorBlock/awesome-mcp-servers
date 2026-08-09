@@ -3,8 +3,8 @@
   "name": "xinthink/mcp-reader",
   "description": "A Rust-based CLI server template for implementing MCP, facilitating seamless integration between LLM applications and external data sources.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-xinthink-mcp-reader-f686e8d3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xinthink-mcp-reader-f686e8d3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-xinthink-mcp-reader-f686e8d3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-xinthink-mcp-reader-f686e8d3/badge.svg)](https://tensorblock.co/mcp/servers/github-xinthink-mcp-reader-f686e8d3)",
   "links": {
     "primary": "https://github.com/xinthink/mcp-reader",
     "repo": "https://github.com/xinthink/mcp-reader",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

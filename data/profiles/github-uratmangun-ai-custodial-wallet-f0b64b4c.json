@@ -3,8 +3,8 @@
   "name": "uratmangun/ai-custodial-wallet",
   "description": "A secure custodial wallet service designed for integration with MCP servers, facilitating encrypted transactions and seamless configuration with Claude Desktop and Cursor IDE.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-uratmangun-ai-custodial-wallet-f0b64b4c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-uratmangun-ai-custodial-wallet-f0b64b4c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-uratmangun-ai-custodial-wallet-f0b64b4c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-uratmangun-ai-custodial-wallet-f0b64b4c/badge.svg)](https://tensorblock.co/mcp/servers/github-uratmangun-ai-custodial-wallet-f0b64b4c)",
   "links": {
     "primary": "https://github.com/uratmangun/ai-custodial-wallet",
     "repo": "https://github.com/uratmangun/ai-custodial-wallet",
@@ -12,12 +12,47 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

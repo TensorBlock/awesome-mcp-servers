@@ -3,8 +3,8 @@
   "name": "bchopson/indy-gov-mcp",
   "description": "Fetches trash pickup day information for Indy.gov using an MCP server.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-bchopson-indy-gov-mcp-d36fd784",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bchopson-indy-gov-mcp-d36fd784)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bchopson-indy-gov-mcp-d36fd784",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bchopson-indy-gov-mcp-d36fd784/badge.svg)](https://tensorblock.co/mcp/servers/github-bchopson-indy-gov-mcp-d36fd784)",
   "links": {
     "primary": "https://github.com/bchopson/indy-gov-mcp",
     "repo": "https://github.com/bchopson/indy-gov-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

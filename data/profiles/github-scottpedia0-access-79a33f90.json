@@ -1,0 +1,56 @@
+{
+  "id": "github-scottpedia0-access-79a33f90",
+  "name": "Scottpedia0/access",
+  "description": "Self-hosted API gateway for AI agents. One Bearer token, all your services. OAuth, token refresh, audit logging — agents never touch credentials. Built-in MCP server.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-scottpedia0-access-79a33f90",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-scottpedia0-access-79a33f90/badge.svg)](https://tensorblock.co/mcp/servers/github-scottpedia0-access-79a33f90)",
+  "links": {
+    "primary": "https://github.com/Scottpedia0/access",
+    "repo": "https://github.com/Scottpedia0/access",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

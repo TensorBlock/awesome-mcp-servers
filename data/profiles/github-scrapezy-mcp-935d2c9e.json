@@ -3,8 +3,8 @@
   "name": "Scrapezy/mcp",
   "description": "Enables AI models to extract structured data from websites using the Model Context Protocol.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-scrapezy-mcp-935d2c9e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-scrapezy-mcp-935d2c9e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-scrapezy-mcp-935d2c9e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-scrapezy-mcp-935d2c9e/badge.svg)](https://tensorblock.co/mcp/servers/github-scrapezy-mcp-935d2c9e)",
   "links": {
     "primary": "https://github.com/Scrapezy/mcp",
     "repo": "https://github.com/Scrapezy/mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

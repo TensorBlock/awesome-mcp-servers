@@ -3,8 +3,8 @@
   "name": "cuongdev/mcp-codepipeline-server",
   "description": "Integrates AWS CodePipeline with Windsurf and Cascade, offering a standardized interface for pipeline management and natural language interaction.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-cuongdev-mcp-codepipeline-server-443fda2a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cuongdev-mcp-codepipeline-server-443fda2a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cuongdev-mcp-codepipeline-server-443fda2a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cuongdev-mcp-codepipeline-server-443fda2a/badge.svg)](https://tensorblock.co/mcp/servers/github-cuongdev-mcp-codepipeline-server-443fda2a)",
   "links": {
     "primary": "https://github.com/cuongdev/mcp-codepipeline-server",
     "repo": "https://github.com/cuongdev/mcp-codepipeline-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

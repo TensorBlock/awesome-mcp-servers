@@ -3,8 +3,8 @@
   "name": "r3-yamauchi/kintone-mcp-server",
   "description": "Facilitates seamless integration with kintone, enabling data access and updates via Claude Desktop and other clients.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-r3-yamauchi-kintone-mcp-server-db8d33d5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-r3-yamauchi-kintone-mcp-server-db8d33d5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-r3-yamauchi-kintone-mcp-server-db8d33d5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-r3-yamauchi-kintone-mcp-server-db8d33d5/badge.svg)](https://tensorblock.co/mcp/servers/github-r3-yamauchi-kintone-mcp-server-db8d33d5)",
   "links": {
     "primary": "https://github.com/r3-yamauchi/kintone-mcp-server",
     "repo": "https://github.com/r3-yamauchi/kintone-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "portone-io/mcp-server",
   "description": "Facilitates easy and accurate retrieval of PortOne Developer Center documentation using LLMs.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-portone-io-mcp-server-ded468c0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-portone-io-mcp-server-ded468c0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-portone-io-mcp-server-ded468c0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-portone-io-mcp-server-ded468c0/badge.svg)](https://tensorblock.co/mcp/servers/github-portone-io-mcp-server-ded468c0)",
   "links": {
     "primary": "https://github.com/portone-io/mcp-server",
     "repo": "https://github.com/portone-io/mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

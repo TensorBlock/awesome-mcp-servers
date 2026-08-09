@@ -3,8 +3,8 @@
   "name": "alexander-zuev/supabase-mcp-server",
   "description": "Facilitates seamless management of Supabase projects through a chat interface, enabling SQL query execution, schema management, and API interactions with robust safety controls.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-alexander-zuev-supabase-mcp-server-851f6400",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-alexander-zuev-supabase-mcp-server-851f6400)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-alexander-zuev-supabase-mcp-server-851f6400",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-alexander-zuev-supabase-mcp-server-851f6400/badge.svg)](https://tensorblock.co/mcp/servers/github-alexander-zuev-supabase-mcp-server-851f6400)",
   "links": {
     "primary": "https://github.com/alexander-zuev/supabase-mcp-server",
     "repo": "https://github.com/alexander-zuev/supabase-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

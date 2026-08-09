@@ -1,0 +1,58 @@
+{
+  "id": "github-nikhonit-airbnb-skills-52bb767f",
+  "name": "Staying API — Airbnb Stay Data",
+  "description": "Airbnb stay-data MCP server — look up any listing's photos, reviews, host, amenities, pricing, and 12-month availability by ID/URL/address, or search by location, dates, price, and capacity. Streamable HTTP endpoint: https://api.stayingapi.com/mcp. Free 100-credit tier. MIT-0.",
+  "category": "Real Estate & Home Services",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nikhonit-airbnb-skills-52bb767f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nikhonit-airbnb-skills-52bb767f/badge.svg)](https://tensorblock.co/mcp/servers/github-nikhonit-airbnb-skills-52bb767f)",
+  "links": {
+    "primary": "https://github.com/nikhonit/airbnb-skills",
+    "repo": "https://github.com/nikhonit/airbnb-skills",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://api.stayingapi.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

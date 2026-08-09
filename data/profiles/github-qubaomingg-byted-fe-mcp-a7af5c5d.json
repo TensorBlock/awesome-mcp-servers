@@ -3,8 +3,8 @@
   "name": "qubaomingg/byted_fe_mcp",
   "description": "A documentation service for Byte Frontend component libraries, enabling component search and categorization through Model Context Protocol.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-qubaomingg-byted-fe-mcp-a7af5c5d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qubaomingg-byted-fe-mcp-a7af5c5d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-qubaomingg-byted-fe-mcp-a7af5c5d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-qubaomingg-byted-fe-mcp-a7af5c5d/badge.svg)](https://tensorblock.co/mcp/servers/github-qubaomingg-byted-fe-mcp-a7af5c5d)",
   "links": {
     "primary": "https://github.com/qubaomingg/byted_fe_mcp",
     "repo": "https://github.com/qubaomingg/byted_fe_mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

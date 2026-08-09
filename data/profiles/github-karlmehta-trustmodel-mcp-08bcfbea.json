@@ -1,0 +1,59 @@
+{
+  "id": "github-karlmehta-trustmodel-mcp-08bcfbea",
+  "name": "TrustModel",
+  "description": "Score any AI for trust across 10 dimensions (safety, fairness, accuracy, privacy, transparency, robustness, accountability, explainability, compliance, reliability); evaluate, monitor, and govern LLMs and agents and return a unified 0–100 TrustScore. `npx -y @trustmodel/mcp-server` (or `uvx --from \"trustmodel[mcp]\" trustmodel-mcp`).",
+  "category": "AI & LLM Integration",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-karlmehta-trustmodel-mcp-08bcfbea",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-karlmehta-trustmodel-mcp-08bcfbea/badge.svg)](https://tensorblock.co/mcp/servers/github-karlmehta-trustmodel-mcp-08bcfbea)",
+  "links": {
+    "primary": "https://github.com/karlmehta/trustmodel-mcp",
+    "repo": "https://github.com/karlmehta/trustmodel-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y @trustmodel/mcp-server",
+      "uvx --from \"trustmodel[mcp]\" trustmodel-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

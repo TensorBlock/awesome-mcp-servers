@@ -3,8 +3,8 @@
   "name": "johnib/kusto-mcp",
   "description": "A TypeScript MCP server enabling AI assistants to interact with Azure Data Explorer through a standardized protocol, supporting KQL queries and schema operations.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-johnib-kusto-mcp-c6ab352c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-johnib-kusto-mcp-c6ab352c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-johnib-kusto-mcp-c6ab352c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-johnib-kusto-mcp-c6ab352c/badge.svg)](https://tensorblock.co/mcp/servers/github-johnib-kusto-mcp-c6ab352c)",
   "links": {
     "primary": "https://github.com/johnib/kusto-mcp",
     "repo": "https://github.com/johnib/kusto-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

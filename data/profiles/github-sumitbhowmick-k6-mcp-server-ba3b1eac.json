@@ -3,8 +3,8 @@
   "name": "sumitbhowmick/k6-mcp-server",
   "description": "Facilitates running k6 load tests through a Model Context Protocol server with customizable test parameters and real-time execution feedback.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-sumitbhowmick-k6-mcp-server-ba3b1eac",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sumitbhowmick-k6-mcp-server-ba3b1eac)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sumitbhowmick-k6-mcp-server-ba3b1eac",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sumitbhowmick-k6-mcp-server-ba3b1eac/badge.svg)](https://tensorblock.co/mcp/servers/github-sumitbhowmick-k6-mcp-server-ba3b1eac)",
   "links": {
     "primary": "https://github.com/sumitbhowmick/k6-mcp-server",
     "repo": "https://github.com/sumitbhowmick/k6-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

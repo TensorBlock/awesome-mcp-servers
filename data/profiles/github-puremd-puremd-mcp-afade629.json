@@ -3,8 +3,8 @@
   "name": "puremd/puremd-mcp",
   "description": "Enhance MCP clients with web unblocking and search capabilities using pure.md's markdown delivery network.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-puremd-puremd-mcp-afade629",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-puremd-puremd-mcp-afade629)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-puremd-puremd-mcp-afade629",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-puremd-puremd-mcp-afade629/badge.svg)](https://tensorblock.co/mcp/servers/github-puremd-puremd-mcp-afade629)",
   "links": {
     "primary": "https://github.com/puremd/puremd-mcp",
     "repo": "https://github.com/puremd/puremd-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

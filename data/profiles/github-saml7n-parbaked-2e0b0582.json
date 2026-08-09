@@ -3,8 +3,8 @@
   "name": "saml7n/parbaked",
   "description": "Agent-native FastAPI scaffold for invite-only Python apps. 15 MCP tools to scaffold a project, add routes + SQLModel tables, run dev, manage users (approve/reject/reset), check email/deploy status, and ship to fly.io. Install: `uv tool install parbaked && parbaked mcp`.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-saml7n-parbaked-2e0b0582",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-saml7n-parbaked-2e0b0582)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-saml7n-parbaked-2e0b0582",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-saml7n-parbaked-2e0b0582/badge.svg)](https://tensorblock.co/mcp/servers/github-saml7n-parbaked-2e0b0582)",
   "links": {
     "primary": "https://github.com/saml7n/parbaked",
     "repo": "https://github.com/saml7n/parbaked",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 15
   }

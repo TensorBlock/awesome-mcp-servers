@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cruisefeedio-cruisefeed-mcp-f883d985",
+  "source": {
+    "issue": 1515,
+    "projectUrl": "https://github.com/CruiseFeedIO/cruisefeed-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.cruisefeed.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Send the API key in the X-CruiseFeed-Key header. A free key is available from CruiseFeed."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "ChatGPT/OpenAI"
+  ],
+  "license": "MIT"
+}

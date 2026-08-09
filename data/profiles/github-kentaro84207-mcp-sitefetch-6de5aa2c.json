@@ -3,8 +3,8 @@
   "name": "kentaro84207/mcp-sitefetch",
   "description": "Fetches entire websites and integrates their content into LLM contexts for enhanced analysis and interaction.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-kentaro84207-mcp-sitefetch-6de5aa2c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kentaro84207-mcp-sitefetch-6de5aa2c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kentaro84207-mcp-sitefetch-6de5aa2c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kentaro84207-mcp-sitefetch-6de5aa2c/badge.svg)](https://tensorblock.co/mcp/servers/github-kentaro84207-mcp-sitefetch-6de5aa2c)",
   "links": {
     "primary": "https://github.com/kentaro84207/mcp-sitefetch",
     "repo": "https://github.com/kentaro84207/mcp-sitefetch",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

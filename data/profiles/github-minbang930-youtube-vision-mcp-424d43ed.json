@@ -3,8 +3,8 @@
   "name": "minbang930/Youtube-Vision-MCP",
   "description": "Utilizes the Google Gemini Vision API to analyze and interact with YouTube videos, offering features like summarization, Q&A, and key moment extraction.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-minbang930-youtube-vision-mcp-424d43ed",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-minbang930-youtube-vision-mcp-424d43ed)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-minbang930-youtube-vision-mcp-424d43ed",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-minbang930-youtube-vision-mcp-424d43ed/badge.svg)](https://tensorblock.co/mcp/servers/github-minbang930-youtube-vision-mcp-424d43ed)",
   "links": {
     "primary": "https://github.com/minbang930/Youtube-Vision-MCP",
     "repo": "https://github.com/minbang930/Youtube-Vision-MCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

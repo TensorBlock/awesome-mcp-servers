@@ -3,8 +3,8 @@
   "name": "IvanPedroza/Runloop-MCP",
   "description": "Facilitates Claude Desktop's interaction with RunLoop dev environments, enabling programmatic management and AI performance benchmarking.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-ivanpedroza-runloop-mcp-891b359b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ivanpedroza-runloop-mcp-891b359b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ivanpedroza-runloop-mcp-891b359b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ivanpedroza-runloop-mcp-891b359b/badge.svg)](https://tensorblock.co/mcp/servers/github-ivanpedroza-runloop-mcp-891b359b)",
   "links": {
     "primary": "https://github.com/IvanPedroza/Runloop-MCP",
     "repo": "https://github.com/IvanPedroza/Runloop-MCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

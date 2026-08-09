@@ -3,8 +3,8 @@
   "name": "oschina/mcp-gitee",
   "description": "Facilitates AI-driven management of Gitee repositories, issues, and pull requests through a Model Context Protocol server.",
   "category": "Version Control",
-  "profileUrl": "https://tensorblock.co/mcp/github-oschina-mcp-gitee-f44a858c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-oschina-mcp-gitee-f44a858c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-oschina-mcp-gitee-f44a858c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-oschina-mcp-gitee-f44a858c/badge.svg)](https://tensorblock.co/mcp/servers/github-oschina-mcp-gitee-f44a858c)",
   "links": {
     "primary": "https://github.com/oschina/mcp-gitee",
     "repo": "https://github.com/oschina/mcp-gitee",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "x51xxx/osp-marketing-tools-mcp",
   "description": "A TypeScript-based MCP server offering a suite of tools for technical marketing content creation and optimization, leveraging Open Strategy Partners' methodologies.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-x51xxx-osp-marketing-tools-mcp-c8348e44",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-x51xxx-osp-marketing-tools-mcp-c8348e44)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-x51xxx-osp-marketing-tools-mcp-c8348e44",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-x51xxx-osp-marketing-tools-mcp-c8348e44/badge.svg)](https://tensorblock.co/mcp/servers/github-x51xxx-osp-marketing-tools-mcp-c8348e44)",
   "links": {
     "primary": "https://github.com/x51xxx/osp-marketing-tools-mcp",
     "repo": "https://github.com/x51xxx/osp-marketing-tools-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

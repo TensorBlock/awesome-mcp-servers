@@ -3,8 +3,8 @@
   "name": "stefanskiasan/browser-automation-server",
   "description": "A TypeScript-based MCP server implementing a notes system with resources, tools, and prompts for note management and summarization.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-stefanskiasan-browser-automation-server-ebc7f84f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-stefanskiasan-browser-automation-server-ebc7f84f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-stefanskiasan-browser-automation-server-ebc7f84f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stefanskiasan-browser-automation-server-ebc7f84f/badge.svg)](https://tensorblock.co/mcp/servers/github-stefanskiasan-browser-automation-server-ebc7f84f)",
   "links": {
     "primary": "https://github.com/stefanskiasan/browser-automation-server",
     "repo": "https://github.com/stefanskiasan/browser-automation-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

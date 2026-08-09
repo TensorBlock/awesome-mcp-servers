@@ -3,8 +3,8 @@
   "name": "groq/compound-mcp-server",
   "description": "Facilitates interaction with Groq models through a Model Context Protocol server, supporting real-time information queries and code execution.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-groq-compound-mcp-server-41b6da67",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-groq-compound-mcp-server-41b6da67)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-groq-compound-mcp-server-41b6da67",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-groq-compound-mcp-server-41b6da67/badge.svg)](https://tensorblock.co/mcp/servers/github-groq-compound-mcp-server-41b6da67)",
   "links": {
     "primary": "https://github.com/groq/compound-mcp-server",
     "repo": "https://github.com/groq/compound-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

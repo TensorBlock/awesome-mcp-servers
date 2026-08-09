@@ -3,8 +3,8 @@
   "name": "xuezhijian/mcp_weather",
   "description": "Facilitates weather forecasting and city information retrieval for LLMs using the Model Context Protocol.",
   "category": "Location & Maps",
-  "profileUrl": "https://tensorblock.co/mcp/github-xuezhijian-mcp-weather-749d4efa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-xuezhijian-mcp-weather-749d4efa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-xuezhijian-mcp-weather-749d4efa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-xuezhijian-mcp-weather-749d4efa/badge.svg)](https://tensorblock.co/mcp/servers/github-xuezhijian-mcp-weather-749d4efa)",
   "links": {
     "primary": "https://github.com/xuezhijian/mcp_weather",
     "repo": "https://github.com/xuezhijian/mcp_weather",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

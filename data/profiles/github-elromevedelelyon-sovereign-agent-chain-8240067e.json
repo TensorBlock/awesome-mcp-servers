@@ -3,8 +3,8 @@
   "name": "ElromEvedElElyon/sovereign-agent-chain",
   "description": "Bitcoin-native AI agent marketplace with AGT meta-protocol on OP_RETURN. 32 MCP tools — PSBT wallet bridge, cross-chain swaps (BTC/SOL/ETH/Runes), agent registry, reputation system, escrow, and block scanner. 258 tests. Install: `git clone https://github.com/ElromEvedElElyon/sovereign-agent-chain.git && cd sovereign-agent-chain && npm install && npm run build`",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-elromevedelelyon-sovereign-agent-chain-8240067e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elromevedelelyon-sovereign-agent-chain-8240067e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-elromevedelelyon-sovereign-agent-chain-8240067e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-elromevedelelyon-sovereign-agent-chain-8240067e/badge.svg)](https://tensorblock.co/mcp/servers/github-elromevedelelyon-sovereign-agent-chain-8240067e)",
   "links": {
     "primary": "https://github.com/ElromEvedElElyon/sovereign-agent-chain",
     "repo": "https://github.com/ElromEvedElElyon/sovereign-agent-chain",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "git clone https://github.com/ElromEvedElElyon/sovereign-agent-chain.git && cd sovereign-agent-chain && npm install && npm run build"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 32
   }

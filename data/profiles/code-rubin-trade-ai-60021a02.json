@@ -1,0 +1,56 @@
+{
+  "id": "code-rubin-trade-ai-60021a02",
+  "name": "Rubin Exchange",
+  "description": "Self-custody decentralized exchange for crypto perpetuals & spot. Place and manage orders, read order books, candles, positions, and balances from an AI agent. Remote streamable-HTTP MCP at `https://mcp.mainnet.rubin.trade/mcp`. Auth: send an `Authorization: Bearer <token>` header — mint a free MCP token on the Rubin exchange at https://rubin.trade (Trading Keys -> MCP Token).",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/code-rubin-trade-ai-60021a02",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/code-rubin-trade-ai-60021a02/badge.svg)](https://tensorblock.co/mcp/servers/code-rubin-trade-ai-60021a02)",
+  "links": {
+    "primary": "https://code.rubin.trade/ai",
+    "repo": null,
+    "homepage": "https://code.rubin.trade/ai",
+    "docs": null,
+    "endpoint": "https://mcp.mainnet.rubin.trade/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "bearer",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

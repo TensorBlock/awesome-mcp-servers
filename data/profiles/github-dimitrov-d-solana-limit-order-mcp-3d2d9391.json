@@ -3,8 +3,8 @@
   "name": "dimitrov-d/solana-limit-order-mcp",
   "description": "Facilitates AI-driven limit order management on Solana using Jupiter, enhancing AI model interactions with blockchain systems.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-dimitrov-d-solana-limit-order-mcp-3d2d9391",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dimitrov-d-solana-limit-order-mcp-3d2d9391)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dimitrov-d-solana-limit-order-mcp-3d2d9391",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dimitrov-d-solana-limit-order-mcp-3d2d9391/badge.svg)](https://tensorblock.co/mcp/servers/github-dimitrov-d-solana-limit-order-mcp-3d2d9391)",
   "links": {
     "primary": "https://github.com/dimitrov-d/solana-limit-order-mcp",
     "repo": "https://github.com/dimitrov-d/solana-limit-order-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

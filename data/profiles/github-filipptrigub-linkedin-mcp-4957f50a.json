@@ -3,8 +3,8 @@
   "name": "FilippTrigub/linkedin-mcp",
   "description": "Facilitates direct posting to LinkedIn from Claude Desktop, supporting text and media attachments with OAuth2 authentication.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-filipptrigub-linkedin-mcp-4957f50a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-filipptrigub-linkedin-mcp-4957f50a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-filipptrigub-linkedin-mcp-4957f50a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-filipptrigub-linkedin-mcp-4957f50a/badge.svg)](https://tensorblock.co/mcp/servers/github-filipptrigub-linkedin-mcp-4957f50a)",
   "links": {
     "primary": "https://github.com/FilippTrigub/linkedin-mcp",
     "repo": "https://github.com/FilippTrigub/linkedin-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "oauth",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

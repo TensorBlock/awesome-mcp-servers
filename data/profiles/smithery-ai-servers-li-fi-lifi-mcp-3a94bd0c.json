@@ -1,0 +1,56 @@
+{
+  "id": "smithery-ai-servers-li-fi-lifi-mcp-3a94bd0c",
+  "name": "LI.FI MCP",
+  "description": "Official LI.FI MCP server for cross-chain swap routing, bridge/DEX aggregation, transaction status, and Earn API yield vaults. Hosted streamable HTTP endpoint: `https://mcp.li.quest/mcp`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/smithery-ai-servers-li-fi-lifi-mcp-3a94bd0c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/smithery-ai-servers-li-fi-lifi-mcp-3a94bd0c/badge.svg)](https://tensorblock.co/mcp/servers/smithery-ai-servers-li-fi-lifi-mcp-3a94bd0c)",
+  "links": {
+    "primary": "https://smithery.ai/servers/li-fi/lifi-mcp",
+    "repo": null,
+    "homepage": "https://smithery.ai/servers/li-fi/lifi-mcp",
+    "docs": null,
+    "endpoint": "https://mcp.li.quest/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

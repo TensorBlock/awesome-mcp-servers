@@ -3,8 +3,8 @@
   "name": "Sunwood-ai-labs/duckduckgo-web-search",
   "description": "A TypeScript-based MCP server for Claude Desktop that implements a simple notes system using DuckDuckGo API.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-sunwood-ai-labs-duckduckgo-web-search-07c091a6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sunwood-ai-labs-duckduckgo-web-search-07c091a6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sunwood-ai-labs-duckduckgo-web-search-07c091a6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sunwood-ai-labs-duckduckgo-web-search-07c091a6/badge.svg)](https://tensorblock.co/mcp/servers/github-sunwood-ai-labs-duckduckgo-web-search-07c091a6)",
   "links": {
     "primary": "https://github.com/Sunwood-ai-labs/duckduckgo-web-search",
     "repo": "https://github.com/Sunwood-ai-labs/duckduckgo-web-search",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

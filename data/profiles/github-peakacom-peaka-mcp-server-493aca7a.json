@@ -3,8 +3,8 @@
   "name": "peakacom/peaka-mcp-server",
   "description": "Facilitates LLMs in executing SQL queries and inspecting schemas on Peaka projects using the Model Context Protocol.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-peakacom-peaka-mcp-server-493aca7a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-peakacom-peaka-mcp-server-493aca7a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-peakacom-peaka-mcp-server-493aca7a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-peakacom-peaka-mcp-server-493aca7a/badge.svg)](https://tensorblock.co/mcp/servers/github-peakacom-peaka-mcp-server-493aca7a)",
   "links": {
     "primary": "https://github.com/peakacom/peaka-mcp-server",
     "repo": "https://github.com/peakacom/peaka-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

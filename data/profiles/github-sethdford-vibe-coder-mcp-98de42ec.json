@@ -3,8 +3,8 @@
   "name": "sethdford/vibe-coder-mcp",
   "description": "Vibe-Coder-MCP enhances AI assistants with advanced software development tools, facilitating research, planning, and project initiation.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-sethdford-vibe-coder-mcp-98de42ec",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sethdford-vibe-coder-mcp-98de42ec)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sethdford-vibe-coder-mcp-98de42ec",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sethdford-vibe-coder-mcp-98de42ec/badge.svg)](https://tensorblock.co/mcp/servers/github-sethdford-vibe-coder-mcp-98de42ec)",
   "links": {
     "primary": "https://github.com/sethdford/vibe-coder-mcp",
     "repo": "https://github.com/sethdford/vibe-coder-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

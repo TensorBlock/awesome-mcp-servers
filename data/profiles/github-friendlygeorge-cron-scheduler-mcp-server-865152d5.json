@@ -1,0 +1,58 @@
+{
+  "id": "github-friendlygeorge-cron-scheduler-mcp-server-865152d5",
+  "name": "friendlygeorge/cron-scheduler-mcp-server",
+  "description": "Cron job scheduling MCP server for AI agents with 7 tools to create, list, delete, run, monitor, pause, and resume jobs. SQLite persistence, retry logic, webhook triggers, systemd integration, and observability metrics. Install: `npx @supernova123/cron-scheduler-mcp-server`. Stdio transport, no auth. MIT.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-friendlygeorge-cron-scheduler-mcp-server-865152d5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-friendlygeorge-cron-scheduler-mcp-server-865152d5/badge.svg)](https://tensorblock.co/mcp/servers/github-friendlygeorge-cron-scheduler-mcp-server-865152d5)",
+  "links": {
+    "primary": "https://github.com/friendlygeorge/cron-scheduler-mcp-server",
+    "repo": "https://github.com/friendlygeorge/cron-scheduler-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx @supernova123/cron-scheduler-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": 7
+  }
+}

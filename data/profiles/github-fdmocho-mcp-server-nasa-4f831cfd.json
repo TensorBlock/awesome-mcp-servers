@@ -3,8 +3,8 @@
   "name": "fdmocho/mcp_server_nasa",
   "description": "Facilitates integration with NASA's Near Earth Object API, enabling date-specific data retrieval through an MCP server setup.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-fdmocho-mcp-server-nasa-4f831cfd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-fdmocho-mcp-server-nasa-4f831cfd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-fdmocho-mcp-server-nasa-4f831cfd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-fdmocho-mcp-server-nasa-4f831cfd/badge.svg)](https://tensorblock.co/mcp/servers/github-fdmocho-mcp-server-nasa-4f831cfd)",
   "links": {
     "primary": "https://github.com/fdmocho/mcp_server_nasa",
     "repo": "https://github.com/fdmocho/mcp_server_nasa",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

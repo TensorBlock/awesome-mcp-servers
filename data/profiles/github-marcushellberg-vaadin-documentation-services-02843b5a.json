@@ -3,8 +3,8 @@
   "name": "marcushellberg/vaadin-documentation-services",
   "description": "Facilitates semantic search and AI-generated answers for Vaadin documentation through a REST and MCP server integration.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-marcushellberg-vaadin-documentation-services-02843b5a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-marcushellberg-vaadin-documentation-services-02843b5a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-marcushellberg-vaadin-documentation-services-02843b5a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-marcushellberg-vaadin-documentation-services-02843b5a/badge.svg)](https://tensorblock.co/mcp/servers/github-marcushellberg-vaadin-documentation-services-02843b5a)",
   "links": {
     "primary": "https://github.com/marcushellberg/vaadin-documentation-services",
     "repo": "https://github.com/marcushellberg/vaadin-documentation-services",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

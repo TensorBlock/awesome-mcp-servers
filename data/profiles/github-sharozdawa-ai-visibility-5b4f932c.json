@@ -3,8 +3,8 @@
   "name": "sharozdawa/ai-visibility",
   "description": "Track brand visibility across ChatGPT, Perplexity, Claude, and Gemini with visibility scores, sentiment analysis, and competitor detection.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-sharozdawa-ai-visibility-5b4f932c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sharozdawa-ai-visibility-5b4f932c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sharozdawa-ai-visibility-5b4f932c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sharozdawa-ai-visibility-5b4f932c/badge.svg)](https://tensorblock.co/mcp/servers/github-sharozdawa-ai-visibility-5b4f932c)",
   "links": {
     "primary": "https://github.com/sharozdawa/ai-visibility",
     "repo": "https://github.com/sharozdawa/ai-visibility",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

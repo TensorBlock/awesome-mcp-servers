@@ -1,0 +1,72 @@
+{
+  "id": "github-smallhandsome-shotapi-mcp-server-aa65c6e4",
+  "name": "ShotAPI",
+  "description": "Web screenshot and HTML render MCP server for AI agents. The hosted Streamable HTTP endpoint captures web pages, renders HTML/CSS to images, and supports selector, viewport, and full-page screenshot options.",
+  "category": "Browser Automation & Web Scraping",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-smallhandsome-shotapi-mcp-server-aa65c6e4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-smallhandsome-shotapi-mcp-server-aa65c6e4/badge.svg)](https://tensorblock.co/mcp/servers/github-smallhandsome-shotapi-mcp-server-aa65c6e4)",
+  "links": {
+    "primary": "https://github.com/smallhandsome/shotapi-mcp-server",
+    "repo": "https://github.com/smallhandsome/shotapi-mcp-server",
+    "homepage": null,
+    "docs": "https://github.com/smallhandsome/shotapi-mcp-server",
+    "endpoint": "https://aiphotoshop.mynatapp.cc/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport streamable-http shotapi https://aiphotoshop.mynatapp.cc/mcp"
+    ],
+    "env": [
+      "SHOTAPI_BASE_URL",
+      "SHOTAPI_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Hosted free tier is available without signup; paid usage can use SHOTAPI_KEY in local stdio mode."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "any MCP-compatible AI agent"
+  ],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": "2026-06-21T22:07:50.000Z",
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Initialized the hosted Streamable HTTP endpoint during review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http",
+      "stdio"
+    ],
+    "auth": "none",
+    "installConfidence": "high",
+    "installReady": true,
+    "verification": "verified",
+    "toolCount": 3
+  }
+}

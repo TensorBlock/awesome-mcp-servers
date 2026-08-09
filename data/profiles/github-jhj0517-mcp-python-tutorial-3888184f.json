@@ -3,8 +3,8 @@
   "name": "jhj0517/mcp-python-tutorial",
   "description": "A Python tutorial app demonstrating core MCP concepts with a simple local database and mock data.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-jhj0517-mcp-python-tutorial-3888184f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jhj0517-mcp-python-tutorial-3888184f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jhj0517-mcp-python-tutorial-3888184f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jhj0517-mcp-python-tutorial-3888184f/badge.svg)](https://tensorblock.co/mcp/servers/github-jhj0517-mcp-python-tutorial-3888184f)",
   "links": {
     "primary": "https://github.com/jhj0517/mcp-python-tutorial",
     "repo": "https://github.com/jhj0517/mcp-python-tutorial",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

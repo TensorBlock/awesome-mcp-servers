@@ -3,8 +3,8 @@
   "name": "d-stoll/attio-js",
   "description": "A JavaScript/TypeScript SDK for Attio that doubles as an MCP server, enabling AI applications to invoke CRM-related operations.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-d-stoll-attio-js-51078795",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-d-stoll-attio-js-51078795)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-d-stoll-attio-js-51078795",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-d-stoll-attio-js-51078795/badge.svg)](https://tensorblock.co/mcp/servers/github-d-stoll-attio-js-51078795)",
   "links": {
     "primary": "https://github.com/d-stoll/attio-js",
     "repo": "https://github.com/d-stoll/attio-js",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

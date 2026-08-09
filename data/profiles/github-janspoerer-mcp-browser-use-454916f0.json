@@ -3,8 +3,8 @@
   "name": "janspoerer/mcp_browser_use",
   "description": "Empowers AI agents to perform browser automation and web scraping using MCP and Selenium.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-janspoerer-mcp-browser-use-454916f0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-janspoerer-mcp-browser-use-454916f0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-janspoerer-mcp-browser-use-454916f0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-janspoerer-mcp-browser-use-454916f0/badge.svg)](https://tensorblock.co/mcp/servers/github-janspoerer-mcp-browser-use-454916f0)",
   "links": {
     "primary": "https://github.com/janspoerer/mcp_browser_use",
     "repo": "https://github.com/janspoerer/mcp_browser_use",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

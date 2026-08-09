@@ -3,8 +3,8 @@
   "name": "eschnou/gepetto",
   "description": "Gepetto is a CLI-based AI agent that automates browser tasks using MCP for seamless integration with third-party tools.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-eschnou-gepetto-949d0ab5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-eschnou-gepetto-949d0ab5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-eschnou-gepetto-949d0ab5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-eschnou-gepetto-949d0ab5/badge.svg)](https://tensorblock.co/mcp/servers/github-eschnou-gepetto-949d0ab5)",
   "links": {
     "primary": "https://github.com/eschnou/gepetto",
     "repo": "https://github.com/eschnou/gepetto",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

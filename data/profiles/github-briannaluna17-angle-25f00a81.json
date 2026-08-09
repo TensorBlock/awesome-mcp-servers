@@ -3,8 +3,8 @@
   "name": "briannaluna17/angle",
   "description": "Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-briannaluna17-angle-25f00a81",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-briannaluna17-angle-25f00a81)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-briannaluna17-angle-25f00a81",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-briannaluna17-angle-25f00a81/badge.svg)](https://tensorblock.co/mcp/servers/github-briannaluna17-angle-25f00a81)",
   "links": {
     "primary": "https://github.com/briannaluna17/angle",
     "repo": "https://github.com/briannaluna17/angle",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

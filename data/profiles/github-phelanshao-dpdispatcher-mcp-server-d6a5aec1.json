@@ -3,8 +3,8 @@
   "name": "PhelanShao/dpdispatcher-mcp-server",
   "description": "Facilitates the submission and management of computational jobs on local or HPC clusters using the dpdispatcher library.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-phelanshao-dpdispatcher-mcp-server-d6a5aec1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-phelanshao-dpdispatcher-mcp-server-d6a5aec1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-phelanshao-dpdispatcher-mcp-server-d6a5aec1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-phelanshao-dpdispatcher-mcp-server-d6a5aec1/badge.svg)](https://tensorblock.co/mcp/servers/github-phelanshao-dpdispatcher-mcp-server-d6a5aec1)",
   "links": {
     "primary": "https://github.com/PhelanShao/dpdispatcher-mcp-server",
     "repo": "https://github.com/PhelanShao/dpdispatcher-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

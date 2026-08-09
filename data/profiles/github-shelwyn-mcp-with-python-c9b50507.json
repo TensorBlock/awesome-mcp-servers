@@ -3,8 +3,8 @@
   "name": "shelwyn/MCP_with_python",
   "description": "A FastAPI-based MCP server that integrates with Gemini-2.0-Flash and Claude Desktop to generate random user profiles and facilitate AI-driven interactions.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-shelwyn-mcp-with-python-c9b50507",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shelwyn-mcp-with-python-c9b50507)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shelwyn-mcp-with-python-c9b50507",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shelwyn-mcp-with-python-c9b50507/badge.svg)](https://tensorblock.co/mcp/servers/github-shelwyn-mcp-with-python-c9b50507)",
   "links": {
     "primary": "https://github.com/shelwyn/MCP_with_python",
     "repo": "https://github.com/shelwyn/MCP_with_python",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

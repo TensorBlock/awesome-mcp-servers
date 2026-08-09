@@ -3,8 +3,8 @@
   "name": "lyuhau/claude-mcp-repl",
   "description": "Enhances Claude with Python execution, shell commands, and file manipulation capabilities through a Python-based REPL server.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-lyuhau-claude-mcp-repl-5b20d21a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lyuhau-claude-mcp-repl-5b20d21a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lyuhau-claude-mcp-repl-5b20d21a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lyuhau-claude-mcp-repl-5b20d21a/badge.svg)](https://tensorblock.co/mcp/servers/github-lyuhau-claude-mcp-repl-5b20d21a)",
   "links": {
     "primary": "https://github.com/lyuhau/claude-mcp-repl",
     "repo": "https://github.com/lyuhau/claude-mcp-repl",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "neobundy/cwkCursorPippaMCP",
   "description": "A comprehensive memory management system for Cursor IDE, enabling AI assistants to maintain persistent memory across conversations using the MCP protocol.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-neobundy-cwkcursorpippamcp-d5923890",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-neobundy-cwkcursorpippamcp-d5923890)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-neobundy-cwkcursorpippamcp-d5923890",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-neobundy-cwkcursorpippamcp-d5923890/badge.svg)](https://tensorblock.co/mcp/servers/github-neobundy-cwkcursorpippamcp-d5923890)",
   "links": {
     "primary": "https://github.com/neobundy/cwkCursorPippaMCP",
     "repo": "https://github.com/neobundy/cwkCursorPippaMCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

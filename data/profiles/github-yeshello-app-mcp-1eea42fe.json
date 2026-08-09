@@ -1,0 +1,60 @@
+{
+  "id": "github-yeshello-app-mcp-1eea42fe",
+  "name": "yeshello-app/mcp",
+  "description": "Hosted MCP server for digital business cards, lead capture forms, and service listings. AI can build from a website URL, edit live in the browser, search stock photos, create forms/listings, and manage account content through 63 tools. Streamable HTTP at `https://yeshello.app/api/mcp` with OAuth 2.0.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yeshello-app-mcp-1eea42fe",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yeshello-app-mcp-1eea42fe/badge.svg)](https://tensorblock.co/mcp/servers/github-yeshello-app-mcp-1eea42fe)",
+  "links": {
+    "primary": "https://github.com/yeshello-app/mcp",
+    "repo": "https://github.com/yeshello-app/mcp",
+    "homepage": null,
+    "docs": "https://yeshello.app/docs/mcp-connector",
+    "endpoint": "https://yeshello.app/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.0 with PKCE"
+    ]
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 63
+  }
+}

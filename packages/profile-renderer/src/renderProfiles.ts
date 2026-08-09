@@ -16,10 +16,16 @@ export interface ServerProfile {
   auth: CatalogEntry["auth"];
   clients: CatalogEntry["clients"];
   license: CatalogEntry["license"];
+  installReady: CatalogEntry["installReady"];
+  verifiedAt: CatalogEntry["verifiedAt"];
+  health: CatalogEntry["health"];
+  verification: CatalogEntry["verification"];
+  community: CatalogEntry["community"];
   summary: {
     transport: string[];
     auth: string;
     installConfidence: string;
+    installReady: boolean;
     verification: string;
     toolCount: number | null;
   };
@@ -42,10 +48,16 @@ export const renderProfile = (entry: CatalogEntry, baseUrl: string): ServerProfi
     auth: entry.auth,
     clients: entry.clients,
     license: entry.license,
+    installReady: entry.installReady,
+    verifiedAt: entry.verifiedAt,
+    health: entry.health,
+    verification: entry.verification,
+    community: entry.community,
     summary: {
       transport: entry.transport,
       auth: entry.auth.type,
       installConfidence: entry.install.confidence,
+      installReady: entry.installReady,
       verification: entry.verification.status,
       toolCount: entry.tools.count,
     },

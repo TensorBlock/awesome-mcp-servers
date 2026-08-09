@@ -3,8 +3,8 @@
   "name": "anivenk25/Zettelkasten",
   "description": "Zettelkasten is an MCP server tailored for chatbot applications, utilizing hybrid data storage with Pinecone and Neo4j for efficient cross-session chat context management.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-anivenk25-zettelkasten-a4aac6f0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-anivenk25-zettelkasten-a4aac6f0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-anivenk25-zettelkasten-a4aac6f0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-anivenk25-zettelkasten-a4aac6f0/badge.svg)](https://tensorblock.co/mcp/servers/github-anivenk25-zettelkasten-a4aac6f0)",
   "links": {
     "primary": "https://github.com/anivenk25/Zettelkasten",
     "repo": "https://github.com/anivenk25/Zettelkasten",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

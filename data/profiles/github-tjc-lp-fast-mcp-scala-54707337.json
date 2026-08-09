@@ -3,8 +3,8 @@
   "name": "TJC-LP/fast-mcp-scala",
   "description": "A developer-friendly Scala 3 library for building MCP servers with ZIO-based effect handling and seamless Java SDK integration.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-tjc-lp-fast-mcp-scala-54707337",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tjc-lp-fast-mcp-scala-54707337)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tjc-lp-fast-mcp-scala-54707337",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tjc-lp-fast-mcp-scala-54707337/badge.svg)](https://tensorblock.co/mcp/servers/github-tjc-lp-fast-mcp-scala-54707337)",
   "links": {
     "primary": "https://github.com/TJC-LP/fast-mcp-scala",
     "repo": "https://github.com/TJC-LP/fast-mcp-scala",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }
