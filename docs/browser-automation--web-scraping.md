@@ -1,6 +1,7 @@
 ## 🌐 Browser Automation & Web Scraping
 
 Servers using tools for browser control, automation, and extracting content from websites.
+- [VibeTechnologies/vibe-mcp](https://github.com/VibeTechnologies/vibe-mcp): Drives your real, already-logged-in Chrome from any MCP client. The agent can run on a different machine and reaches the browser over an outbound WebSocket relay, so no inbound port has to be open; uses your real Chrome profile with no per-connection approval dialog, and several agents can share one browser. 28 tools (navigate, click, fill, snapshot, screenshot, network, evaluate). stdio transport, no auth for local use. Install: `npx -y @vibebrowser/mcp@latest`. Apache-2.0.
 - [Satyajeet-04/parley](https://github.com/Satyajeet-04/parley): Lightweight CDP browser-automation framework with 14 MCP tools — DOM reading, cookie extraction, JS execution, and AI chat bridging across ChatGPT/Gemini/Claude tabs. Zero heavy deps, text-only (no screenshots).
 - [unitedideas/actablesite-mcp](https://github.com/unitedideas/actablesite-mcp): Read-only website audit MCP server for AI-crawler policy checks and full-report handoff. Supports Streamable HTTP and a dependency-free stdio bridge with no authentication; exposes 3 bounded tools and cannot modify sites. MIT.
 - [rog0x/mcp-web-tools](https://github.com/rog0x/mcp-web-tools): Web MCP tools for scraping, search, and monitoring workflows. Install from the `@rog0x` npm package family. MIT.
