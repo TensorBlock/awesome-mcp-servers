@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-dente22-spokes-cc434e32",
+  "source": {
+    "issue": 1564,
+    "projectUrl": "https://github.com/Dente22/Spokes"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "MIT"
+}
