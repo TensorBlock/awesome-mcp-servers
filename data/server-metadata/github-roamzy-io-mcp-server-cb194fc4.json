@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-roamzy-io-mcp-server-cb194fc4",
+  "source": {
+    "issue": 1580,
+    "projectUrl": "https://github.com/roamzy-io/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://roamzy.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @roamzy/mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Anonymous by default; optional API token or OAuth can bind activity to an existing account."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude.ai",
+    "Cursor",
+    "Cline",
+    "Continue",
+    "Windsurf",
+    "Zed",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
