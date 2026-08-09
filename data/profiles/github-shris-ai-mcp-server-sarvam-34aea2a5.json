@@ -3,8 +3,8 @@
   "name": "shris-ai/mcp-server-sarvam",
   "description": "Facilitates language processing tasks like translation, language identification, and transliteration between English and Indic languages.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-shris-ai-mcp-server-sarvam-34aea2a5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shris-ai-mcp-server-sarvam-34aea2a5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shris-ai-mcp-server-sarvam-34aea2a5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shris-ai-mcp-server-sarvam-34aea2a5/badge.svg)](https://tensorblock.co/mcp/servers/github-shris-ai-mcp-server-sarvam-34aea2a5)",
   "links": {
     "primary": "https://github.com/shris-ai/mcp-server-sarvam",
     "repo": "https://github.com/shris-ai/mcp-server-sarvam",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

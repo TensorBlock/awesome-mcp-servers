@@ -3,8 +3,8 @@
   "name": "matsu911/ollama-mcp-bridge",
   "description": "A TypeScript bridge connecting local LLMs to MCP servers, enabling open-source models to utilize advanced tools like filesystem operations, web search, and email management.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-matsu911-ollama-mcp-bridge-82fd6ff6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-matsu911-ollama-mcp-bridge-82fd6ff6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-matsu911-ollama-mcp-bridge-82fd6ff6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-matsu911-ollama-mcp-bridge-82fd6ff6/badge.svg)](https://tensorblock.co/mcp/servers/github-matsu911-ollama-mcp-bridge-82fd6ff6)",
   "links": {
     "primary": "https://github.com/matsu911/ollama-mcp-bridge",
     "repo": "https://github.com/matsu911/ollama-mcp-bridge",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

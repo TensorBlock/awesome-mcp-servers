@@ -3,8 +3,8 @@
   "name": "oghenetejiriorukpegmail/github-mcp",
   "description": "Facilitates seamless GitHub API interactions using the Model Context Protocol, enabling repository management and user data retrieval.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-oghenetejiriorukpegmail-github-mcp-83d43d0d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-oghenetejiriorukpegmail-github-mcp-83d43d0d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-oghenetejiriorukpegmail-github-mcp-83d43d0d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-oghenetejiriorukpegmail-github-mcp-83d43d0d/badge.svg)](https://tensorblock.co/mcp/servers/github-oghenetejiriorukpegmail-github-mcp-83d43d0d)",
   "links": {
     "primary": "https://github.com/oghenetejiriorukpegmail/github-mcp",
     "repo": "https://github.com/oghenetejiriorukpegmail/github-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

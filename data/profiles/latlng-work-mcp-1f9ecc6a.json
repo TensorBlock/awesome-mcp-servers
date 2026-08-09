@@ -1,0 +1,58 @@
+{
+  "id": "latlng-work-mcp-1f9ecc6a",
+  "name": "LatLng",
+  "description": "Official LatLng MCP server for geocoding, reverse geocoding, places search, nearby places, and place categories powered by OpenStreetMap data. Remote endpoint: `https://mcp.latlng.work/mcp`. Transport: streamable-http. Auth: LatLng Server Key. Install: `npx -y @latlng/mcp-server`.",
+  "category": "Location & Maps",
+  "profileUrl": "https://tensorblock.co/mcp/servers/latlng-work-mcp-1f9ecc6a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/latlng-work-mcp-1f9ecc6a/badge.svg)](https://tensorblock.co/mcp/servers/latlng-work-mcp-1f9ecc6a)",
+  "links": {
+    "primary": "https://www.latlng.work/mcp",
+    "repo": null,
+    "homepage": "https://www.latlng.work/mcp",
+    "docs": null,
+    "endpoint": "https://mcp.latlng.work/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @latlng/mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

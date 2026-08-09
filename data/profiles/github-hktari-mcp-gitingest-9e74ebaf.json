@@ -3,8 +3,8 @@
   "name": "hktari/mcp-gitingest",
   "description": "Facilitates the extraction of GitHub repository information, including summaries, directory structures, and file contents, for integration with MCP clients.",
   "category": "Version Control",
-  "profileUrl": "https://tensorblock.co/mcp/github-hktari-mcp-gitingest-9e74ebaf",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hktari-mcp-gitingest-9e74ebaf)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hktari-mcp-gitingest-9e74ebaf",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hktari-mcp-gitingest-9e74ebaf/badge.svg)](https://tensorblock.co/mcp/servers/github-hktari-mcp-gitingest-9e74ebaf)",
   "links": {
     "primary": "https://github.com/hktari/mcp-gitingest",
     "repo": "https://github.com/hktari/mcp-gitingest",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

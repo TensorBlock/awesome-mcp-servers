@@ -3,8 +3,8 @@
   "name": "TAgents/agent-planner-mcp",
   "description": "Facilitates AI agents' interaction with planning data through a Model Context Protocol server interface connected to the Planning System API.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-tagents-agent-planner-mcp-e27da29f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tagents-agent-planner-mcp-e27da29f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tagents-agent-planner-mcp-e27da29f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tagents-agent-planner-mcp-e27da29f/badge.svg)](https://tensorblock.co/mcp/servers/github-tagents-agent-planner-mcp-e27da29f)",
   "links": {
     "primary": "https://github.com/TAgents/agent-planner-mcp",
     "repo": "https://github.com/TAgents/agent-planner-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

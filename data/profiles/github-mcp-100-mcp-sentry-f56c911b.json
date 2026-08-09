@@ -3,8 +3,8 @@
   "name": "MCP-100/mcp-sentry",
   "description": "Facilitates the retrieval and analysis of issues from Sentry.io, providing detailed insights into error reports and debugging information.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-mcp-100-mcp-sentry-f56c911b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mcp-100-mcp-sentry-f56c911b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mcp-100-mcp-sentry-f56c911b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mcp-100-mcp-sentry-f56c911b/badge.svg)](https://tensorblock.co/mcp/servers/github-mcp-100-mcp-sentry-f56c911b)",
   "links": {
     "primary": "https://github.com/MCP-100/mcp-sentry",
     "repo": "https://github.com/MCP-100/mcp-sentry",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "minio/mcp-server-aistor",
   "description": "Facilitates seamless interaction with AIStor object stores through comprehensive read, write, and admin operations, leveraging AI for content description.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-minio-mcp-server-aistor-3ef1c455",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-minio-mcp-server-aistor-3ef1c455)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-minio-mcp-server-aistor-3ef1c455",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-minio-mcp-server-aistor-3ef1c455/badge.svg)](https://tensorblock.co/mcp/servers/github-minio-mcp-server-aistor-3ef1c455)",
   "links": {
     "primary": "https://github.com/minio/mcp-server-aistor",
     "repo": "https://github.com/minio/mcp-server-aistor",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

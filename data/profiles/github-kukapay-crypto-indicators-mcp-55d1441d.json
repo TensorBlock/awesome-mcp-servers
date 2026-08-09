@@ -3,8 +3,8 @@
   "name": "kukapay/crypto-indicators-mcp",
   "description": "Empowers AI trading agents with cryptocurrency technical analysis indicators and strategies for market trend analysis and quantitative strategy development.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-crypto-indicators-mcp-55d1441d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-crypto-indicators-mcp-55d1441d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kukapay-crypto-indicators-mcp-55d1441d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kukapay-crypto-indicators-mcp-55d1441d/badge.svg)](https://tensorblock.co/mcp/servers/github-kukapay-crypto-indicators-mcp-55d1441d)",
   "links": {
     "primary": "https://github.com/kukapay/crypto-indicators-mcp",
     "repo": "https://github.com/kukapay/crypto-indicators-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

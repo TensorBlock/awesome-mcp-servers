@@ -3,8 +3,8 @@
   "name": "shettysaish20/MCP-Server-V4-Gmail",
   "description": "A dual MCP server suite that integrates advanced mathematical calculations with Gmail for seamless email communication of results.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-shettysaish20-mcp-server-v4-gmail-a4817a9f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shettysaish20-mcp-server-v4-gmail-a4817a9f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shettysaish20-mcp-server-v4-gmail-a4817a9f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shettysaish20-mcp-server-v4-gmail-a4817a9f/badge.svg)](https://tensorblock.co/mcp/servers/github-shettysaish20-mcp-server-v4-gmail-a4817a9f)",
   "links": {
     "primary": "https://github.com/shettysaish20/MCP-Server-V4-Gmail",
     "repo": "https://github.com/shettysaish20/MCP-Server-V4-Gmail",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

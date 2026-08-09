@@ -3,8 +3,8 @@
   "name": "qingfengzxr/eth-mcp-server",
   "description": "Provides Ethereum blockchain capabilities to AI assistants through the MCP framework, enabling real-time access to ETH balances, prices, and transaction details.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-qingfengzxr-eth-mcp-server-a870b721",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-qingfengzxr-eth-mcp-server-a870b721)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-qingfengzxr-eth-mcp-server-a870b721",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-qingfengzxr-eth-mcp-server-a870b721/badge.svg)](https://tensorblock.co/mcp/servers/github-qingfengzxr-eth-mcp-server-a870b721)",
   "links": {
     "primary": "https://github.com/qingfengzxr/eth-mcp-server",
     "repo": "https://github.com/qingfengzxr/eth-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

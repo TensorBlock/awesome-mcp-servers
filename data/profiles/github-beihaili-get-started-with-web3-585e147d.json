@@ -3,8 +3,8 @@
   "name": "beihaili/Get-Started-with-Web3",
   "description": "Read-only MCP server exposing a bilingual Web3 curriculum with 58 lessons, glossary search, learning paths, llms.txt, and citation-ready context packs for AI tutors and coding agents.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-beihaili-get-started-with-web3-585e147d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-beihaili-get-started-with-web3-585e147d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-beihaili-get-started-with-web3-585e147d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-beihaili-get-started-with-web3-585e147d/badge.svg)](https://tensorblock.co/mcp/servers/github-beihaili-get-started-with-web3-585e147d)",
   "links": {
     "primary": "https://github.com/beihaili/Get-Started-with-Web3",
     "repo": "https://github.com/beihaili/Get-Started-with-Web3",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

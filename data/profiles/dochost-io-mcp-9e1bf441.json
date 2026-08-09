@@ -1,0 +1,59 @@
+{
+  "id": "dochost-io-mcp-9e1bf441",
+  "name": "dochost",
+  "description": "Hosted remote MCP server that publishes Markdown or HTML to a clean, public, shareable link straight from your AI assistant (Claude, ChatGPT, Cursor), no copy-paste. 2 tools. Transport: streamable-http. Auth: OAuth sign-in, no API keys. Endpoint: `https://dochost.io/api/mcp`. Connect: `claude mcp add --transport http dochost https://dochost.io/api/mcp`.",
+  "category": "Content Management Systems",
+  "profileUrl": "https://tensorblock.co/mcp/servers/dochost-io-mcp-9e1bf441",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/dochost-io-mcp-9e1bf441/badge.svg)](https://tensorblock.co/mcp/servers/dochost-io-mcp-9e1bf441)",
+  "links": {
+    "primary": "https://dochost.io/mcp",
+    "repo": null,
+    "homepage": "https://dochost.io/mcp",
+    "docs": null,
+    "endpoint": "https://dochost.io/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 2
+  }
+}

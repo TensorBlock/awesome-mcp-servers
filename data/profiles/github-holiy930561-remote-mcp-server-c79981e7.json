@@ -3,8 +3,8 @@
   "name": "holiy930561/remote-mcp-server",
   "description": "A remote MCP server deployed on Cloudflare Workers, featuring OAuth login and integration with Claude Desktop for seamless tool invocation.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-holiy930561-remote-mcp-server-c79981e7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-holiy930561-remote-mcp-server-c79981e7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-holiy930561-remote-mcp-server-c79981e7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-holiy930561-remote-mcp-server-c79981e7/badge.svg)](https://tensorblock.co/mcp/servers/github-holiy930561-remote-mcp-server-c79981e7)",
   "links": {
     "primary": "https://github.com/holiy930561/remote-mcp-server",
     "repo": "https://github.com/holiy930561/remote-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "oauth",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

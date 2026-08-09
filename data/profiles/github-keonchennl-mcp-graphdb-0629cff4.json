@@ -3,8 +3,8 @@
   "name": "keonchennl/mcp-graphdb",
   "description": "Facilitates LLMs in executing SPARQL queries on Ontotext GraphDB for RDF graph exploration.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-keonchennl-mcp-graphdb-0629cff4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-keonchennl-mcp-graphdb-0629cff4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-keonchennl-mcp-graphdb-0629cff4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-keonchennl-mcp-graphdb-0629cff4/badge.svg)](https://tensorblock.co/mcp/servers/github-keonchennl-mcp-graphdb-0629cff4)",
   "links": {
     "primary": "https://github.com/keonchennl/mcp-graphdb",
     "repo": "https://github.com/keonchennl/mcp-graphdb",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

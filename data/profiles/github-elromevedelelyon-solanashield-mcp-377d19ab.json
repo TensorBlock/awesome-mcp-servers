@@ -3,8 +3,8 @@
   "name": "ElromEvedElElyon/solanashield-mcp",
   "description": "AI-powered Solana smart contract security audit server with 40 vulnerability patterns (8 critical, 12 high, 12 medium, 8 low) and 12 MCP tools covering access control, CPI safety, PDA, token operations, arithmetic, and DeFi exploits.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-elromevedelelyon-solanashield-mcp-377d19ab",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elromevedelelyon-solanashield-mcp-377d19ab)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-elromevedelelyon-solanashield-mcp-377d19ab",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-elromevedelelyon-solanashield-mcp-377d19ab/badge.svg)](https://tensorblock.co/mcp/servers/github-elromevedelelyon-solanashield-mcp-377d19ab)",
   "links": {
     "primary": "https://github.com/ElromEvedElElyon/solanashield-mcp",
     "repo": "https://github.com/ElromEvedElElyon/solanashield-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 12
   }

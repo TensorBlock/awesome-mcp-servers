@@ -3,8 +3,8 @@
   "name": "Yash-Kavaiya/mcp-server-templates",
   "description": "Provides templates for building versatile MCP servers tailored for AI assistants like Claude, facilitating interaction with external tools and data sources.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-yash-kavaiya-mcp-server-templates-828a1470",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yash-kavaiya-mcp-server-templates-828a1470)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yash-kavaiya-mcp-server-templates-828a1470",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yash-kavaiya-mcp-server-templates-828a1470/badge.svg)](https://tensorblock.co/mcp/servers/github-yash-kavaiya-mcp-server-templates-828a1470)",
   "links": {
     "primary": "https://github.com/Yash-Kavaiya/mcp-server-templates",
     "repo": "https://github.com/Yash-Kavaiya/mcp-server-templates",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "everettjf/MCPXcode",
   "description": "Facilitates seamless integration between Xcode and AI assistants, enhancing developer workflows through context exchange and tool execution.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-everettjf-mcpxcode-ec193ff7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-everettjf-mcpxcode-ec193ff7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-everettjf-mcpxcode-ec193ff7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-everettjf-mcpxcode-ec193ff7/badge.svg)](https://tensorblock.co/mcp/servers/github-everettjf-mcpxcode-ec193ff7)",
   "links": {
     "primary": "https://github.com/everettjf/MCPXcode",
     "repo": "https://github.com/everettjf/MCPXcode",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

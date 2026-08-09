@@ -3,8 +3,8 @@
   "name": "marcoeg/mcp-nvd",
   "description": "Facilitates querying the NIST National Vulnerability Database using the Model Context Protocol for real-time vulnerability data retrieval.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-marcoeg-mcp-nvd-2f65fa0c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-marcoeg-mcp-nvd-2f65fa0c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-marcoeg-mcp-nvd-2f65fa0c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-marcoeg-mcp-nvd-2f65fa0c/badge.svg)](https://tensorblock.co/mcp/servers/github-marcoeg-mcp-nvd-2f65fa0c)",
   "links": {
     "primary": "https://github.com/marcoeg/mcp-nvd",
     "repo": "https://github.com/marcoeg/mcp-nvd",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

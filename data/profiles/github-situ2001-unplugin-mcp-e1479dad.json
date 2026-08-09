@@ -3,8 +3,8 @@
   "name": "situ2001/unplugin-mcp",
   "description": "A versatile plugin that integrates an MCP server with JavaScript build tools, enabling AI-driven build process management and codebase analysis.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-situ2001-unplugin-mcp-e1479dad",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-situ2001-unplugin-mcp-e1479dad)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-situ2001-unplugin-mcp-e1479dad",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-situ2001-unplugin-mcp-e1479dad/badge.svg)](https://tensorblock.co/mcp/servers/github-situ2001-unplugin-mcp-e1479dad)",
   "links": {
     "primary": "https://github.com/situ2001/unplugin-mcp",
     "repo": "https://github.com/situ2001/unplugin-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

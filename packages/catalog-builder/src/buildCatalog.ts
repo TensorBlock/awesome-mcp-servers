@@ -211,6 +211,8 @@ function toCatalogEntry(
       source: toolCount === null ? "unknown" : "self_reported",
     },
     license: inferLicense(entry.description),
+    installReady: false,
+    verifiedAt: null,
     health: {
       repoPublic: null,
       packageFound: null,
@@ -228,7 +230,7 @@ function toCatalogEntry(
     },
   };
 
-  return applyMetadataOverride(catalogEntry, metadata);
+  return withDerivedSignals(applyMetadataOverride(catalogEntry, metadata));
 }
 
 function locationKey(entry: ParsedMarkdownEntry): string {
@@ -287,6 +289,29 @@ function applyMetadataOverride(
         }
       : entry.community,
   };
+}
+
+function withDerivedSignals(entry: CatalogEntry): CatalogEntry {
+  return {
+    ...entry,
+    installReady: isInstallReady(entry),
+    verifiedAt: verifiedAt(entry),
+  };
+}
+
+function isInstallReady(entry: CatalogEntry): boolean {
+  const hasInstallTarget = entry.install.commands.length > 0 || Boolean(entry.links.endpoint);
+  const hasKnownTransport = entry.transport.some((transport) => transport !== "unknown");
+
+  return hasInstallTarget && hasKnownTransport && entry.install.confidence !== "low";
+}
+
+function verifiedAt(entry: CatalogEntry): string | null {
+  if (entry.verification.status !== "verified") {
+    return null;
+  }
+
+  return entry.health.lastCheckedAt ?? entry.source.lastUpdatedAt ?? null;
 }
 
 function nonEmptyArray<T extends string>(value: T[] | undefined): T[] | null {

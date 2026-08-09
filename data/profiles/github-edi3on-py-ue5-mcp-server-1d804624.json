@@ -3,8 +3,8 @@
   "name": "edi3on/py-ue5-mcp-server",
   "description": "Facilitates natural language interaction with Unreal Engine 5, enabling users to create and manipulate 3D objects and Blueprint actors through conversational commands with Claude.",
   "category": "Hardware & IoT",
-  "profileUrl": "https://tensorblock.co/mcp/github-edi3on-py-ue5-mcp-server-1d804624",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-edi3on-py-ue5-mcp-server-1d804624)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-edi3on-py-ue5-mcp-server-1d804624",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-edi3on-py-ue5-mcp-server-1d804624/badge.svg)](https://tensorblock.co/mcp/servers/github-edi3on-py-ue5-mcp-server-1d804624)",
   "links": {
     "primary": "https://github.com/edi3on/py-ue5-mcp-server",
     "repo": "https://github.com/edi3on/py-ue5-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

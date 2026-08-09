@@ -3,8 +3,8 @@
   "name": "preflight-dev/preflight",
   "description": "A 24-tool MCP server for Claude Code that scores prompts across 12 categories before execution, catches ambiguity and missing context, tracks correction patterns, and provides semantic search over session history with LanceDB vectors.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-preflight-dev-preflight-df1ceece",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-preflight-dev-preflight-df1ceece)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-preflight-dev-preflight-df1ceece",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-preflight-dev-preflight-df1ceece/badge.svg)](https://tensorblock.co/mcp/servers/github-preflight-dev-preflight-df1ceece)",
   "links": {
     "primary": "https://github.com/preflight-dev/preflight",
     "repo": "https://github.com/preflight-dev/preflight",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

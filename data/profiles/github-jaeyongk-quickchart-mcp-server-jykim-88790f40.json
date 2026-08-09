@@ -3,8 +3,8 @@
   "name": "jaeyongk/quickchart-mcp-server-jykim",
   "description": "A TypeScript-based server for generating various chart types using QuickChart.io, supporting URL creation and image downloads.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-jaeyongk-quickchart-mcp-server-jykim-88790f40",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jaeyongk-quickchart-mcp-server-jykim-88790f40)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jaeyongk-quickchart-mcp-server-jykim-88790f40",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jaeyongk-quickchart-mcp-server-jykim-88790f40/badge.svg)](https://tensorblock.co/mcp/servers/github-jaeyongk-quickchart-mcp-server-jykim-88790f40)",
   "links": {
     "primary": "https://github.com/jaeyongk/quickchart-mcp-server-jykim",
     "repo": "https://github.com/jaeyongk/quickchart-mcp-server-jykim",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

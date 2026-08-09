@@ -3,14 +3,46 @@
   "name": "amidabuddha/unichat-ts-mcp-server",
   "description": "Facilitates communication with AI models like OpenAI and Google AI using the MCP protocol, supporting both STDIO and SSE transport mechanisms.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-amidabuddha-unichat-ts-mcp-server-bb352c99",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amidabuddha-unichat-ts-mcp-server-bb352c99)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-amidabuddha-unichat-ts-mcp-server-bb352c99",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-amidabuddha-unichat-ts-mcp-server-bb352c99/badge.svg)](https://tensorblock.co/mcp/servers/github-amidabuddha-unichat-ts-mcp-server-bb352c99)",
   "links": {
     "primary": "https://github.com/amidabuddha/unichat-ts-mcp-server",
     "repo": "https://github.com/amidabuddha/unichat-ts-mcp-server",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

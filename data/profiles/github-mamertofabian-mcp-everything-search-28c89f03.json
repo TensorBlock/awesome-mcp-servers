@@ -3,8 +3,8 @@
   "name": "mamertofabian/mcp-everything-search",
   "description": "Facilitates cross-platform file searching with platform-specific optimizations using the Everything SDK on Windows, Spotlight on macOS, and locate on Linux.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-mamertofabian-mcp-everything-search-28c89f03",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mamertofabian-mcp-everything-search-28c89f03)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mamertofabian-mcp-everything-search-28c89f03",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mamertofabian-mcp-everything-search-28c89f03/badge.svg)](https://tensorblock.co/mcp/servers/github-mamertofabian-mcp-everything-search-28c89f03)",
   "links": {
     "primary": "https://github.com/mamertofabian/mcp-everything-search",
     "repo": "https://github.com/mamertofabian/mcp-everything-search",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

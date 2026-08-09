@@ -3,8 +3,8 @@
   "name": "Nocodeboy/youtube-mcp-server",
   "description": "Facilitates AI assistants like Claude to interact with YouTube's API for video and channel data retrieval.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-nocodeboy-youtube-mcp-server-b6de6367",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nocodeboy-youtube-mcp-server-b6de6367)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nocodeboy-youtube-mcp-server-b6de6367",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nocodeboy-youtube-mcp-server-b6de6367/badge.svg)](https://tensorblock.co/mcp/servers/github-nocodeboy-youtube-mcp-server-b6de6367)",
   "links": {
     "primary": "https://github.com/Nocodeboy/youtube-mcp-server",
     "repo": "https://github.com/Nocodeboy/youtube-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

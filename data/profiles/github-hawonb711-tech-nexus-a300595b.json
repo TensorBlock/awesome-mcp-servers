@@ -1,0 +1,56 @@
+{
+  "id": "github-hawonb711-tech-nexus-a300595b",
+  "name": "hawonb711-tech/nexus",
+  "description": "All-in-one AI developer framework with 14 MCP tools — prompt injection defense (82 rules, 8 languages, 6 detection layers), BM25 + semantic memory, code review (19 detectors), codebase mapping, session intelligence, self-evolving skills, test health, and cost tracking. Zero deps. npm: `@hawon/nexus`.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hawonb711-tech-nexus-a300595b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hawonb711-tech-nexus-a300595b/badge.svg)](https://tensorblock.co/mcp/servers/github-hawonb711-tech-nexus-a300595b)",
+  "links": {
+    "primary": "https://github.com/hawonb711-tech/nexus",
+    "repo": "https://github.com/hawonb711-tech/nexus",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 14
+  }
+}

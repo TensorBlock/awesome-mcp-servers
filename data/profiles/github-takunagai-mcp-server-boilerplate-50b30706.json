@@ -3,8 +3,8 @@
   "name": "takunagai/mcp-server-boilerplate",
   "description": "A foundational implementation for quickly building custom MCP servers with practical tools and extensions.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-takunagai-mcp-server-boilerplate-50b30706",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-takunagai-mcp-server-boilerplate-50b30706)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-takunagai-mcp-server-boilerplate-50b30706",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-takunagai-mcp-server-boilerplate-50b30706/badge.svg)](https://tensorblock.co/mcp/servers/github-takunagai-mcp-server-boilerplate-50b30706)",
   "links": {
     "primary": "https://github.com/takunagai/mcp-server-boilerplate",
     "repo": "https://github.com/takunagai/mcp-server-boilerplate",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

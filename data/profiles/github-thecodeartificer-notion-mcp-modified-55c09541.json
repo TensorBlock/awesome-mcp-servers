@@ -3,8 +3,8 @@
   "name": "thecodeartificer/notion-mcp-modified",
   "description": "Enables AI assistants to seamlessly interact with Notion's API for managing content through natural language commands.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-thecodeartificer-notion-mcp-modified-55c09541",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thecodeartificer-notion-mcp-modified-55c09541)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-thecodeartificer-notion-mcp-modified-55c09541",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-thecodeartificer-notion-mcp-modified-55c09541/badge.svg)](https://tensorblock.co/mcp/servers/github-thecodeartificer-notion-mcp-modified-55c09541)",
   "links": {
     "primary": "https://github.com/thecodeartificer/notion-mcp-modified",
     "repo": "https://github.com/thecodeartificer/notion-mcp-modified",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

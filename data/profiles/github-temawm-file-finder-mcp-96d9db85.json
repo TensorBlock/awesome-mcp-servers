@@ -3,8 +3,8 @@
   "name": "temawm/file-finder-mcp",
   "description": "A Flask-based MCP server that enables file search within a filesystem, returning results in JSON format.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-temawm-file-finder-mcp-96d9db85",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-temawm-file-finder-mcp-96d9db85)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-temawm-file-finder-mcp-96d9db85",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-temawm-file-finder-mcp-96d9db85/badge.svg)](https://tensorblock.co/mcp/servers/github-temawm-file-finder-mcp-96d9db85)",
   "links": {
     "primary": "https://github.com/temawm/file-finder-mcp",
     "repo": "https://github.com/temawm/file-finder-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

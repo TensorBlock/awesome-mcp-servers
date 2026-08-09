@@ -3,8 +3,8 @@
   "name": "sendaifun/solana-mcp",
   "description": "Facilitates seamless AI-driven interactions with the Solana blockchain, enabling operations like transactions, wallet management, and NFT minting through a standardized protocol.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-sendaifun-solana-mcp-5b3cbe68",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sendaifun-solana-mcp-5b3cbe68)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sendaifun-solana-mcp-5b3cbe68",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sendaifun-solana-mcp-5b3cbe68/badge.svg)](https://tensorblock.co/mcp/servers/github-sendaifun-solana-mcp-5b3cbe68)",
   "links": {
     "primary": "https://github.com/sendaifun/solana-mcp",
     "repo": "https://github.com/sendaifun/solana-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

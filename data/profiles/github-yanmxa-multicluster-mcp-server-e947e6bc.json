@@ -3,8 +3,8 @@
   "name": "yanmxa/multicluster-mcp-server",
   "description": "Facilitates GenAI systems' interaction with multiple Kubernetes clusters for comprehensive operations and observability through MCP.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-yanmxa-multicluster-mcp-server-e947e6bc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yanmxa-multicluster-mcp-server-e947e6bc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yanmxa-multicluster-mcp-server-e947e6bc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yanmxa-multicluster-mcp-server-e947e6bc/badge.svg)](https://tensorblock.co/mcp/servers/github-yanmxa-multicluster-mcp-server-e947e6bc)",
   "links": {
     "primary": "https://github.com/yanmxa/multicluster-mcp-server",
     "repo": "https://github.com/yanmxa/multicluster-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

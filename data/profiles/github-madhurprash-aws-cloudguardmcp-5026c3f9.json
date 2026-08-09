@@ -3,8 +3,8 @@
   "name": "madhurprash/AWS_CloudGuardMCP",
   "description": "An intelligent AWS monitoring and incident response solution that analyzes CloudWatch logs and metrics, identifies issues, and creates Jira tickets using Anthropic's Model Context Protocol.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-madhurprash-aws-cloudguardmcp-5026c3f9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-madhurprash-aws-cloudguardmcp-5026c3f9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-madhurprash-aws-cloudguardmcp-5026c3f9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-madhurprash-aws-cloudguardmcp-5026c3f9/badge.svg)](https://tensorblock.co/mcp/servers/github-madhurprash-aws-cloudguardmcp-5026c3f9)",
   "links": {
     "primary": "https://github.com/madhurprash/AWS_CloudGuardMCP",
     "repo": "https://github.com/madhurprash/AWS_CloudGuardMCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

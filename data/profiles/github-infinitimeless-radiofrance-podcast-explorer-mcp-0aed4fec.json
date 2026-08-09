@@ -3,8 +3,8 @@
   "name": "infinitimeless/radiofrance-podcast-explorer-mcp",
   "description": "Facilitates AI-driven exploration and access to Radio France's podcasts and audio content through a Model Control Protocol server.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-infinitimeless-radiofrance-podcast-explorer-mcp-0aed4fec",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-infinitimeless-radiofrance-podcast-explorer-mcp-0aed4fec)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-infinitimeless-radiofrance-podcast-explorer-mcp-0aed4fec",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-infinitimeless-radiofrance-podcast-explorer-mcp-0aed4fec/badge.svg)](https://tensorblock.co/mcp/servers/github-infinitimeless-radiofrance-podcast-explorer-mcp-0aed4fec)",
   "links": {
     "primary": "https://github.com/infinitimeless/radiofrance-podcast-explorer-mcp",
     "repo": "https://github.com/infinitimeless/radiofrance-podcast-explorer-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

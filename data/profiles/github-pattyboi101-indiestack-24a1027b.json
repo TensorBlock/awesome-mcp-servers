@@ -3,8 +3,8 @@
   "name": "Pattyboi101/indiestack",
   "description": "Open-source supply chain for AI agents — search and discover 3,000+ indie creations across 25 categories. 15 MCP tools including find_tools, build_stack, scan_project, compare_tools, and analyze_dependencies. Install via `uvx --from indiestack indiestack-mcp`.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-pattyboi101-indiestack-24a1027b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-pattyboi101-indiestack-24a1027b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-pattyboi101-indiestack-24a1027b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-pattyboi101-indiestack-24a1027b/badge.svg)](https://tensorblock.co/mcp/servers/github-pattyboi101-indiestack-24a1027b)",
   "links": {
     "primary": "https://github.com/Pattyboi101/indiestack",
     "repo": "https://github.com/Pattyboi101/indiestack",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "uvx --from indiestack indiestack-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 15
   }

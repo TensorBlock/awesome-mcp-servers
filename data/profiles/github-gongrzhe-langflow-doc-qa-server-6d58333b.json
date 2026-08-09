@@ -3,8 +3,8 @@
   "name": "GongRzhe/Langflow-DOC-QA-SERVER",
   "description": "A TypeScript-based server enabling document Q&A through a Langflow backend, showcasing core MCP concepts.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-gongrzhe-langflow-doc-qa-server-6d58333b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-gongrzhe-langflow-doc-qa-server-6d58333b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-gongrzhe-langflow-doc-qa-server-6d58333b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-gongrzhe-langflow-doc-qa-server-6d58333b/badge.svg)](https://tensorblock.co/mcp/servers/github-gongrzhe-langflow-doc-qa-server-6d58333b)",
   "links": {
     "primary": "https://github.com/GongRzhe/Langflow-DOC-QA-SERVER",
     "repo": "https://github.com/GongRzhe/Langflow-DOC-QA-SERVER",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

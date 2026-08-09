@@ -3,8 +3,8 @@
   "name": "samanhappy/mcphub",
   "description": "MCPHub consolidates multiple MCP servers into a single SSE endpoint, offering centralized management and real-time monitoring through an intuitive dashboard.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-samanhappy-mcphub-8f09665c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-samanhappy-mcphub-8f09665c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-samanhappy-mcphub-8f09665c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-samanhappy-mcphub-8f09665c/badge.svg)](https://tensorblock.co/mcp/servers/github-samanhappy-mcphub-8f09665c)",
   "links": {
     "primary": "https://github.com/samanhappy/mcphub",
     "repo": "https://github.com/samanhappy/mcphub",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

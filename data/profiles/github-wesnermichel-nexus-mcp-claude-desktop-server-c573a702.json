@@ -3,8 +3,8 @@
   "name": "wesnermichel/nexus-mcp-claude-desktop-server",
   "description": "A lightweight VSCode extension enabling seamless integration between Claude Desktop and your workspace through MCP, with efficient memory usage and customizable security controls.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-wesnermichel-nexus-mcp-claude-desktop-server-c573a702",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wesnermichel-nexus-mcp-claude-desktop-server-c573a702)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wesnermichel-nexus-mcp-claude-desktop-server-c573a702",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wesnermichel-nexus-mcp-claude-desktop-server-c573a702/badge.svg)](https://tensorblock.co/mcp/servers/github-wesnermichel-nexus-mcp-claude-desktop-server-c573a702)",
   "links": {
     "primary": "https://github.com/wesnermichel/nexus-mcp-claude-desktop-server",
     "repo": "https://github.com/wesnermichel/nexus-mcp-claude-desktop-server",
@@ -12,12 +12,47 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

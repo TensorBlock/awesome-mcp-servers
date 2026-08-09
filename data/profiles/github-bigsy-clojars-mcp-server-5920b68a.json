@@ -3,8 +3,8 @@
   "name": "Bigsy/Clojars-MCP-Server",
   "description": "Fetches and verifies Clojars dependency versions, seamlessly integrating with Claude for enhanced dependency management.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-bigsy-clojars-mcp-server-5920b68a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-bigsy-clojars-mcp-server-5920b68a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-bigsy-clojars-mcp-server-5920b68a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bigsy-clojars-mcp-server-5920b68a/badge.svg)](https://tensorblock.co/mcp/servers/github-bigsy-clojars-mcp-server-5920b68a)",
   "links": {
     "primary": "https://github.com/Bigsy/Clojars-MCP-Server",
     "repo": "https://github.com/Bigsy/Clojars-MCP-Server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

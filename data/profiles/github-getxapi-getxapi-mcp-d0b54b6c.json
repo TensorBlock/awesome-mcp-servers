@@ -1,0 +1,66 @@
+{
+  "id": "github-getxapi-getxapi-mcp-d0b54b6c",
+  "name": "getxapi/getxapi-mcp",
+  "description": "Official GetXAPI MCP server for Twitter / X data access and actions. 44 endpoints across reads (search, profiles, follower graph, timeline, bookmarks, mentions) and writes (post tweets, like, retweet, follow, DM, articles). Install with `npx -y @getxapi/mcp@latest`; requires `GETXAPI_KEY`, with optional X account auth for write tools.",
+  "category": "Social Media & Content Platforms",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-getxapi-getxapi-mcp-d0b54b6c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-getxapi-getxapi-mcp-d0b54b6c/badge.svg)](https://tensorblock.co/mcp/servers/github-getxapi-getxapi-mcp-d0b54b6c)",
+  "links": {
+    "primary": "https://github.com/getxapi/getxapi-mcp",
+    "repo": "https://github.com/getxapi/getxapi-mcp",
+    "homepage": null,
+    "docs": "https://docs.getxapi.com",
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y @getxapi/mcp@latest"
+    ],
+    "env": [
+      "GETXAPI_KEY",
+      "X_AUTH_TOKEN",
+      "X_CT0",
+      "X_TWID",
+      "X_PROXY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "GETXAPI_KEY is required for read tools; optional X account auth enables write/private tools"
+    ]
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "api-key",
+    "installConfidence": "high",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

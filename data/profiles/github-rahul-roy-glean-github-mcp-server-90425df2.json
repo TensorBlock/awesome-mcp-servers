@@ -3,8 +3,8 @@
   "name": "rahul-roy-glean/github-mcp-server",
   "description": "Facilitates seamless integration with GitHub's API for file operations, repository management, and search functionalities within CI workflows.",
   "category": "Version Control",
-  "profileUrl": "https://tensorblock.co/mcp/github-rahul-roy-glean-github-mcp-server-90425df2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rahul-roy-glean-github-mcp-server-90425df2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rahul-roy-glean-github-mcp-server-90425df2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rahul-roy-glean-github-mcp-server-90425df2/badge.svg)](https://tensorblock.co/mcp/servers/github-rahul-roy-glean-github-mcp-server-90425df2)",
   "links": {
     "primary": "https://github.com/rahul-roy-glean/github-mcp-server",
     "repo": "https://github.com/rahul-roy-glean/github-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

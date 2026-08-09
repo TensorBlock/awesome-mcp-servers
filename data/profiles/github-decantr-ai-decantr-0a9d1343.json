@@ -1,0 +1,61 @@
+{
+  "id": "github-decantr-ai-decantr-0a9d1343",
+  "name": "decantr-ai/decantr",
+  "description": "Design intelligence for AI-generated UI: structured design context, open pattern registry, and drift detection for Claude/Cursor/Windsurf. `npx -y @decantr/mcp-server`",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-decantr-ai-decantr-0a9d1343",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-decantr-ai-decantr-0a9d1343/badge.svg)](https://tensorblock.co/mcp/servers/github-decantr-ai-decantr-0a9d1343)",
+  "links": {
+    "primary": "https://github.com/decantr-ai/decantr/tree/main/packages/mcp-server",
+    "repo": "https://github.com/decantr-ai/decantr/tree/main/packages/mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y @decantr/mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "funwarioisii/cosense-mcp-server",
   "description": "Facilitates integration with Claude Desktop by providing a customizable MCP server for the cosense platform.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-funwarioisii-cosense-mcp-server-9b4ac742",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-funwarioisii-cosense-mcp-server-9b4ac742)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-funwarioisii-cosense-mcp-server-9b4ac742",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-funwarioisii-cosense-mcp-server-9b4ac742/badge.svg)](https://tensorblock.co/mcp/servers/github-funwarioisii-cosense-mcp-server-9b4ac742)",
   "links": {
     "primary": "https://github.com/funwarioisii/cosense-mcp-server",
     "repo": "https://github.com/funwarioisii/cosense-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

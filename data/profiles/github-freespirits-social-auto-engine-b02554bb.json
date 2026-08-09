@@ -3,8 +3,8 @@
   "name": "Freespirits/social-auto-engine",
   "description": "Open-source multi-platform social media manager. Publish to Facebook, Instagram, Threads, WhatsApp, and LinkedIn from one dashboard or via MCP; TikTok and YouTube adapters await platform review. FastAPI/HTMX approval queue (no silent automation), 17 AI content skills (voice training, post writing, carousels). MIT, self-hosted.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-freespirits-social-auto-engine-b02554bb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-freespirits-social-auto-engine-b02554bb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-freespirits-social-auto-engine-b02554bb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-freespirits-social-auto-engine-b02554bb/badge.svg)](https://tensorblock.co/mcp/servers/github-freespirits-social-auto-engine-b02554bb)",
   "links": {
     "primary": "https://github.com/Freespirits/social-auto-engine",
     "repo": "https://github.com/Freespirits/social-auto-engine",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

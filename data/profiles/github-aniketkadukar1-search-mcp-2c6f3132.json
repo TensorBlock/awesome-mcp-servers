@@ -3,8 +3,8 @@
   "name": "aniketkadukar1/search-mcp",
   "description": "Facilitates real-time documentation search for AI/ML libraries within IDEs using asynchronous processing and Tavily API integration.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-aniketkadukar1-search-mcp-2c6f3132",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-aniketkadukar1-search-mcp-2c6f3132)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aniketkadukar1-search-mcp-2c6f3132",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aniketkadukar1-search-mcp-2c6f3132/badge.svg)](https://tensorblock.co/mcp/servers/github-aniketkadukar1-search-mcp-2c6f3132)",
   "links": {
     "primary": "https://github.com/aniketkadukar1/search-mcp",
     "repo": "https://github.com/aniketkadukar1/search-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

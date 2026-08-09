@@ -3,8 +3,8 @@
   "name": "algonacci/mcp-tavily-extract",
   "description": "Facilitates web page extraction for clients through a configurable MCP server.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-algonacci-mcp-tavily-extract-49d1c10d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-algonacci-mcp-tavily-extract-49d1c10d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-algonacci-mcp-tavily-extract-49d1c10d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-algonacci-mcp-tavily-extract-49d1c10d/badge.svg)](https://tensorblock.co/mcp/servers/github-algonacci-mcp-tavily-extract-49d1c10d)",
   "links": {
     "primary": "https://github.com/algonacci/mcp-tavily-extract",
     "repo": "https://github.com/algonacci/mcp-tavily-extract",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

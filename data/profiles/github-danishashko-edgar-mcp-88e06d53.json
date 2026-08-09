@@ -1,0 +1,58 @@
+{
+  "id": "github-danishashko-edgar-mcp-88e06d53",
+  "name": "danishashko/edgar-mcp",
+  "description": "U.S. SEC EDGAR company filings and XBRL financials: company search, recent filings (10-K/10-Q/8-K), financial facts, and full-text filing search. 6 tools, no API key, install via `npx edgar-mcp`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-danishashko-edgar-mcp-88e06d53",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-danishashko-edgar-mcp-88e06d53/badge.svg)](https://tensorblock.co/mcp/servers/github-danishashko-edgar-mcp-88e06d53)",
+  "links": {
+    "primary": "https://github.com/danishashko/edgar-mcp",
+    "repo": "https://github.com/danishashko/edgar-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx edgar-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 6
+  }
+}

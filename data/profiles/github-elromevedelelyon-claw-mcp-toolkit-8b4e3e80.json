@@ -3,8 +3,8 @@
   "name": "ElromEvedElElyon/claw-mcp-toolkit",
   "description": "Multi-purpose MCP toolkit with 26 tools across 5 modules — crypto (prices, trending, Fear & Greed), web (fetch, DNS, SSL, SEO), social (tweet gen, threads, content calendar), finance (stocks, forex, portfolio, invoices), and productivity (pomodoro, tasks, notes, reminders). Zero API keys, zero config. MIT license.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-elromevedelelyon-claw-mcp-toolkit-8b4e3e80",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elromevedelelyon-claw-mcp-toolkit-8b4e3e80)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-elromevedelelyon-claw-mcp-toolkit-8b4e3e80",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-elromevedelelyon-claw-mcp-toolkit-8b4e3e80/badge.svg)](https://tensorblock.co/mcp/servers/github-elromevedelelyon-claw-mcp-toolkit-8b4e3e80)",
   "links": {
     "primary": "https://github.com/ElromEvedElElyon/claw-mcp-toolkit",
     "repo": "https://github.com/ElromEvedElElyon/claw-mcp-toolkit",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "api-key",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 26
   }

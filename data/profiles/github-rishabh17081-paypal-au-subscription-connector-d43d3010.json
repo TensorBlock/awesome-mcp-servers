@@ -3,8 +3,8 @@
   "name": "rishabh17081/paypal-au-subscription-connector",
   "description": "Integrates PayPal's Account Updater service with e-commerce systems to maintain updated payment card information via MCP.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-rishabh17081-paypal-au-subscription-connector-d43d3010",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rishabh17081-paypal-au-subscription-connector-d43d3010)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rishabh17081-paypal-au-subscription-connector-d43d3010",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rishabh17081-paypal-au-subscription-connector-d43d3010/badge.svg)](https://tensorblock.co/mcp/servers/github-rishabh17081-paypal-au-subscription-connector-d43d3010)",
   "links": {
     "primary": "https://github.com/rishabh17081/paypal-au-subscription-connector",
     "repo": "https://github.com/rishabh17081/paypal-au-subscription-connector",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

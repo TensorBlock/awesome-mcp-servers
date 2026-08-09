@@ -3,8 +3,8 @@
   "name": "JackKuo666/PubChem-MCP-Server",
   "description": "Facilitates AI-driven searches and retrieval of chemical compound data from PubChem via a streamlined MCP interface.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-jackkuo666-pubchem-mcp-server-a6d2476b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jackkuo666-pubchem-mcp-server-a6d2476b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jackkuo666-pubchem-mcp-server-a6d2476b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jackkuo666-pubchem-mcp-server-a6d2476b/badge.svg)](https://tensorblock.co/mcp/servers/github-jackkuo666-pubchem-mcp-server-a6d2476b)",
   "links": {
     "primary": "https://github.com/JackKuo666/PubChem-MCP-Server",
     "repo": "https://github.com/JackKuo666/PubChem-MCP-Server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

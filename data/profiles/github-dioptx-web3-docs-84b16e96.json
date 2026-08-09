@@ -1,0 +1,56 @@
+{
+  "id": "github-dioptx-web3-docs-84b16e96",
+  "name": "dioptx/web3-docs",
+  "description": "Local MCP server indexing 1,767 protocol proposals (EIPs, BIPs, ADRs, CIPs, RFCs) across 10 chains plus a canonical contract-address registry for 19 protocols on major EVM chains. Fork-aware (handles Pectra/Dencun/Shapella aliases). SQLite + FTS5, no API keys.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dioptx-web3-docs-84b16e96",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dioptx-web3-docs-84b16e96/badge.svg)](https://tensorblock.co/mcp/servers/github-dioptx-web3-docs-84b16e96)",
+  "links": {
+    "primary": "https://github.com/dioptx/web3-docs",
+    "repo": "https://github.com/dioptx/web3-docs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "adiadd/mcp-manager",
   "description": "A Raycast extension for managing local MCP servers with features for viewing, searching, sorting, and performing CRUD operations.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-adiadd-mcp-manager-fb1de451",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-adiadd-mcp-manager-fb1de451)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-adiadd-mcp-manager-fb1de451",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-adiadd-mcp-manager-fb1de451/badge.svg)](https://tensorblock.co/mcp/servers/github-adiadd-mcp-manager-fb1de451)",
   "links": {
     "primary": "https://github.com/adiadd/mcp-manager",
     "repo": "https://github.com/adiadd/mcp-manager",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

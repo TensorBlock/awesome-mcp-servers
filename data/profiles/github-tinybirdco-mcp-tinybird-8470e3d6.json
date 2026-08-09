@@ -3,8 +3,8 @@
   "name": "tinybirdco/mcp-tinybird",
   "description": "Facilitates interaction with Tinybird Workspaces, enabling data querying and management through MCP clients.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-tinybirdco-mcp-tinybird-8470e3d6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tinybirdco-mcp-tinybird-8470e3d6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tinybirdco-mcp-tinybird-8470e3d6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tinybirdco-mcp-tinybird-8470e3d6/badge.svg)](https://tensorblock.co/mcp/servers/github-tinybirdco-mcp-tinybird-8470e3d6)",
   "links": {
     "primary": "https://github.com/tinybirdco/mcp-tinybird",
     "repo": "https://github.com/tinybirdco/mcp-tinybird",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

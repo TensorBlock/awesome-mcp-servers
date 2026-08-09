@@ -3,8 +3,8 @@
   "name": "mugoosse/sitemap-mcp-server",
   "description": "Fetch, parse, and visualize website sitemaps to uncover hidden pages and analyze site structures efficiently.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-mugoosse-sitemap-mcp-server-e5a4115f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mugoosse-sitemap-mcp-server-e5a4115f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mugoosse-sitemap-mcp-server-e5a4115f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mugoosse-sitemap-mcp-server-e5a4115f/badge.svg)](https://tensorblock.co/mcp/servers/github-mugoosse-sitemap-mcp-server-e5a4115f)",
   "links": {
     "primary": "https://github.com/mugoosse/sitemap-mcp-server",
     "repo": "https://github.com/mugoosse/sitemap-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

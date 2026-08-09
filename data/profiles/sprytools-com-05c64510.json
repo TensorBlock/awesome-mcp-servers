@@ -1,0 +1,56 @@
+{
+  "id": "sprytools-com-05c64510",
+  "name": "SpryTools API Hub",
+  "description": "Self-serve REST API hub of 30+ developer & utility tools (hashing, QR, geo-IP, currency, text/readability, screenshots, and more), also exposed as an MCP server. Streamable HTTP endpoint: https://api.sprytools.com/mcp — 9 tools, API-key auth + quota. Server card: https://api.sprytools.com/.well-known/mcp/server-card.json.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/sprytools-com-05c64510",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/sprytools-com-05c64510/badge.svg)](https://tensorblock.co/mcp/servers/sprytools-com-05c64510)",
+  "links": {
+    "primary": "https://sprytools.com",
+    "repo": null,
+    "homepage": "https://sprytools.com",
+    "docs": null,
+    "endpoint": "https://api.sprytools.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "api-key",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 9
+  }
+}

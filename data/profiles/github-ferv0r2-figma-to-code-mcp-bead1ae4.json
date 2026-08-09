@@ -3,8 +3,8 @@
   "name": "Ferv0r2/figma-to-code-mcp",
   "description": "Automates the conversion of Figma design files into functional React/Next.js components using the MCP architecture.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-ferv0r2-figma-to-code-mcp-bead1ae4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ferv0r2-figma-to-code-mcp-bead1ae4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ferv0r2-figma-to-code-mcp-bead1ae4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ferv0r2-figma-to-code-mcp-bead1ae4/badge.svg)](https://tensorblock.co/mcp/servers/github-ferv0r2-figma-to-code-mcp-bead1ae4)",
   "links": {
     "primary": "https://github.com/Ferv0r2/figma-to-code-mcp",
     "repo": "https://github.com/Ferv0r2/figma-to-code-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

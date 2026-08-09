@@ -3,8 +3,8 @@
   "name": "getrupt/ashra-mcp",
   "description": "Facilitates integration with Ashra through a Model Context Protocol server, enabling seamless communication and configuration with Claude.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-getrupt-ashra-mcp-0d598878",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-getrupt-ashra-mcp-0d598878)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-getrupt-ashra-mcp-0d598878",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-getrupt-ashra-mcp-0d598878/badge.svg)](https://tensorblock.co/mcp/servers/github-getrupt-ashra-mcp-0d598878)",
   "links": {
     "primary": "https://github.com/getrupt/ashra-mcp",
     "repo": "https://github.com/getrupt/ashra-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

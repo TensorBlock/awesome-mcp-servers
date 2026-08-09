@@ -3,8 +3,8 @@
   "name": "mario-andreschak/mcp-slack",
   "description": "Facilitates seamless interaction between Claude and Slack workspaces through a standalone MCP server implementation.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-mario-andreschak-mcp-slack-d19200a9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mario-andreschak-mcp-slack-d19200a9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mario-andreschak-mcp-slack-d19200a9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mario-andreschak-mcp-slack-d19200a9/badge.svg)](https://tensorblock.co/mcp/servers/github-mario-andreschak-mcp-slack-d19200a9)",
   "links": {
     "primary": "https://github.com/mario-andreschak/mcp-slack",
     "repo": "https://github.com/mario-andreschak/mcp-slack",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

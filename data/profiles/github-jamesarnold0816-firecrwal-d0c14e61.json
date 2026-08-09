@@ -3,8 +3,8 @@
   "name": "jamesarnold0816/firecrwal",
   "description": "Integrates with Firecrawl for advanced web scraping, crawling, and content extraction with support for cloud and self-hosted instances.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-jamesarnold0816-firecrwal-d0c14e61",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jamesarnold0816-firecrwal-d0c14e61)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jamesarnold0816-firecrwal-d0c14e61",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jamesarnold0816-firecrwal-d0c14e61/badge.svg)](https://tensorblock.co/mcp/servers/github-jamesarnold0816-firecrwal-d0c14e61)",
   "links": {
     "primary": "https://github.com/jamesarnold0816/firecrwal",
     "repo": "https://github.com/jamesarnold0816/firecrwal",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

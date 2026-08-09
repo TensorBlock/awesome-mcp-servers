@@ -3,8 +3,8 @@
   "name": "kwanLeeFrmVi/mcp-server-memory",
   "description": "Facilitates AI models' persistent memory through a knowledge graph, enabling information retention and recall across interactions.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-kwanleefrmvi-mcp-server-memory-918ab531",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kwanleefrmvi-mcp-server-memory-918ab531)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kwanleefrmvi-mcp-server-memory-918ab531",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kwanleefrmvi-mcp-server-memory-918ab531/badge.svg)](https://tensorblock.co/mcp/servers/github-kwanleefrmvi-mcp-server-memory-918ab531)",
   "links": {
     "primary": "https://github.com/kwanLeeFrmVi/mcp-server-memory",
     "repo": "https://github.com/kwanLeeFrmVi/mcp-server-memory",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

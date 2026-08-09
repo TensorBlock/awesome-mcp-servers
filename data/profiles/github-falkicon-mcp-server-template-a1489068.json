@@ -3,14 +3,46 @@
   "name": "Falkicon/mcp-server-template",
   "description": "A TypeScript boilerplate for building MCP servers with stdio/http support, logging, Docker, and testing capabilities.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-falkicon-mcp-server-template-a1489068",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-falkicon-mcp-server-template-a1489068)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-falkicon-mcp-server-template-a1489068",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-falkicon-mcp-server-template-a1489068/badge.svg)](https://tensorblock.co/mcp/servers/github-falkicon-mcp-server-template-a1489068)",
   "links": {
     "primary": "https://github.com/Falkicon/mcp-server-template",
     "repo": "https://github.com/Falkicon/mcp-server-template",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

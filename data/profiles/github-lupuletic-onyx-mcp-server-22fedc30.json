@@ -3,8 +3,8 @@
   "name": "lupuletic/onyx-mcp-server",
   "description": "Connects MCP-compatible clients to Onyx AI knowledge bases for semantic search and chat capabilities.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-lupuletic-onyx-mcp-server-22fedc30",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-lupuletic-onyx-mcp-server-22fedc30)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lupuletic-onyx-mcp-server-22fedc30",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lupuletic-onyx-mcp-server-22fedc30/badge.svg)](https://tensorblock.co/mcp/servers/github-lupuletic-onyx-mcp-server-22fedc30)",
   "links": {
     "primary": "https://github.com/lupuletic/onyx-mcp-server",
     "repo": "https://github.com/lupuletic/onyx-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

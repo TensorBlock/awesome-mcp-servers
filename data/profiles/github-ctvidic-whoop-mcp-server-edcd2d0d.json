@@ -3,8 +3,8 @@
   "name": "ctvidic/whoop-mcp-server",
   "description": "Access Whoop API data for cycles, recovery, strain, and workouts via a Python-based MCP server.",
   "category": "Healthcare & Life Sciences",
-  "profileUrl": "https://tensorblock.co/mcp/github-ctvidic-whoop-mcp-server-edcd2d0d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ctvidic-whoop-mcp-server-edcd2d0d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ctvidic-whoop-mcp-server-edcd2d0d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ctvidic-whoop-mcp-server-edcd2d0d/badge.svg)](https://tensorblock.co/mcp/servers/github-ctvidic-whoop-mcp-server-edcd2d0d)",
   "links": {
     "primary": "https://github.com/ctvidic/whoop-mcp-server",
     "repo": "https://github.com/ctvidic/whoop-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

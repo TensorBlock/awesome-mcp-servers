@@ -3,8 +3,8 @@
   "name": "kyopark2014/mcp",
   "description": "A comprehensive guide to implementing a RAG application using MCP with LangChain integration, leveraging AWS Lambda for seamless API access.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-kyopark2014-mcp-209737b7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kyopark2014-mcp-209737b7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kyopark2014-mcp-209737b7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kyopark2014-mcp-209737b7/badge.svg)](https://tensorblock.co/mcp/servers/github-kyopark2014-mcp-209737b7)",
   "links": {
     "primary": "https://github.com/kyopark2014/mcp",
     "repo": "https://github.com/kyopark2014/mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

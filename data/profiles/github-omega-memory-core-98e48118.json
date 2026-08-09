@@ -3,8 +3,8 @@
   "name": "omega-memory/core",
   "description": "Persistent memory for AI coding agents with semantic search, auto-capture, intelligent forgetting, and cross-session learning. #1 on LongMemEval benchmark (95.4%). 83 MCP tools (26 core + 57 pro). Multi-agent coordination, knowledge graphs, ONNX embeddings. Local-first with zero cloud dependency.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-omega-memory-core-98e48118",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-omega-memory-core-98e48118)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-omega-memory-core-98e48118",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-omega-memory-core-98e48118/badge.svg)](https://tensorblock.co/mcp/servers/github-omega-memory-core-98e48118)",
   "links": {
     "primary": "https://github.com/omega-memory/core",
     "repo": "https://github.com/omega-memory/core",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 83
   }

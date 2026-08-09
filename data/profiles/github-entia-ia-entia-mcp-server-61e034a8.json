@@ -1,0 +1,58 @@
+{
+  "id": "github-entia-ia-entia-mcp-server-61e034a8",
+  "name": "ENTIA",
+  "description": "Verified business-identity intelligence for AI agents and MCP clients, covering company verification, VAT, BORME, GLEIF, ownership, and risk signals across 34 countries. Remote streamable HTTP endpoint at `https://mcp.entia.systems/mcp`; free tier available via `npx mcp-remote https://mcp.entia.systems/mcp`. MCP Registry id `io.github.entia-systems-core/entity-verification`. MIT.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-entia-ia-entia-mcp-server-61e034a8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-entia-ia-entia-mcp-server-61e034a8/badge.svg)](https://tensorblock.co/mcp/servers/github-entia-ia-entia-mcp-server-61e034a8)",
+  "links": {
+    "primary": "https://github.com/ENTIA-IA/entia-mcp-server",
+    "repo": "https://github.com/ENTIA-IA/entia-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.entia.systems/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx mcp-remote https://mcp.entia.systems/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

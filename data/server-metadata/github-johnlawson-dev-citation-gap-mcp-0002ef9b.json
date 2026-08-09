@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-johnlawson-dev-citation-gap-mcp-0002ef9b",
+  "source": {
+    "issue": 1605,
+    "projectUrl": "https://github.com/johnlawson-dev/citation-gap-mcp"
+  },
+  "links": {
+    "endpoint": "https://citationgap.johnlawson.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT Claude Other MCP-compatible clients supporting authenticated remote servers"
+  ],
+  "license": "Proprietary service; public documentation licence"
+}

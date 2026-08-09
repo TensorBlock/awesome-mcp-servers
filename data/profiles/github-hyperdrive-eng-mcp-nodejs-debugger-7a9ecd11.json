@@ -3,8 +3,8 @@
   "name": "hyperdrive-eng/mcp-nodejs-debugger",
   "description": "Facilitates real-time debugging of Node.js applications using MCP integration with Cursor and Claude Code.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-hyperdrive-eng-mcp-nodejs-debugger-7a9ecd11",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hyperdrive-eng-mcp-nodejs-debugger-7a9ecd11)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hyperdrive-eng-mcp-nodejs-debugger-7a9ecd11",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hyperdrive-eng-mcp-nodejs-debugger-7a9ecd11/badge.svg)](https://tensorblock.co/mcp/servers/github-hyperdrive-eng-mcp-nodejs-debugger-7a9ecd11)",
   "links": {
     "primary": "https://github.com/hyperdrive-eng/mcp-nodejs-debugger",
     "repo": "https://github.com/hyperdrive-eng/mcp-nodejs-debugger",
@@ -12,12 +12,47 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "hesslee/mcp-server-altibase",
   "description": "Facilitates database interaction and business intelligence through Altibase, enabling SQL queries and automatic business insight generation.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-hesslee-mcp-server-altibase-181baf90",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hesslee-mcp-server-altibase-181baf90)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hesslee-mcp-server-altibase-181baf90",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hesslee-mcp-server-altibase-181baf90/badge.svg)](https://tensorblock.co/mcp/servers/github-hesslee-mcp-server-altibase-181baf90)",
   "links": {
     "primary": "https://github.com/hesslee/mcp-server-altibase",
     "repo": "https://github.com/hesslee/mcp-server-altibase",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

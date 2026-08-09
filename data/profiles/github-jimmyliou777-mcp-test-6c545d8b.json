@@ -3,8 +3,8 @@
   "name": "jimmyliou777/mcp-test",
   "description": "A Node.js server leveraging MCP SDK for custom tool and resource implementation, featuring basic math operations and Puppeteer-based automation.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-jimmyliou777-mcp-test-6c545d8b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jimmyliou777-mcp-test-6c545d8b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jimmyliou777-mcp-test-6c545d8b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jimmyliou777-mcp-test-6c545d8b/badge.svg)](https://tensorblock.co/mcp/servers/github-jimmyliou777-mcp-test-6c545d8b)",
   "links": {
     "primary": "https://github.com/jimmyliou777/mcp-test",
     "repo": "https://github.com/jimmyliou777/mcp-test",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

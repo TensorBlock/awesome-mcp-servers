@@ -3,8 +3,8 @@
   "name": "Xpoz MCP",
   "description": "Remote-only social media MCP server for Twitter/X, Instagram, and TikTok data & insights. 1.5B+ posts indexed. No installation required - just add endpoint URL (https://mcp.xpoz.ai). No API keys needed.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/xpoz-ai-ed7b7a81",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/xpoz-ai-ed7b7a81)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/xpoz-ai-ed7b7a81",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/xpoz-ai-ed7b7a81/badge.svg)](https://tensorblock.co/mcp/servers/xpoz-ai-ed7b7a81)",
   "links": {
     "primary": "https://xpoz.ai",
     "repo": null,
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": "https://mcp.xpoz.ai"
   },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "none",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

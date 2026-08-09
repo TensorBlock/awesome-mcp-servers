@@ -1,0 +1,56 @@
+{
+  "id": "github-teamsincetoday-video-commerce-mcp-de33f6c2",
+  "name": "teamsincetoday/video-commerce-mcp",
+  "description": "Extracts commercial entities, scores monetization opportunities, and discovers market gaps from YouTube videos using AI-powered video commerce intelligence.",
+  "category": "Marketing, Sales & CRM",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-teamsincetoday-video-commerce-mcp-de33f6c2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-teamsincetoday-video-commerce-mcp-de33f6c2/badge.svg)](https://tensorblock.co/mcp/servers/github-teamsincetoday-video-commerce-mcp-de33f6c2)",
+  "links": {
+    "primary": "https://github.com/teamsincetoday/video-commerce-mcp",
+    "repo": "https://github.com/teamsincetoday/video-commerce-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "brcarry/mcp-pymilvus-code-generate-helper",
   "description": "Facilitates the generation of pymilvus code by retrieving relevant code snippets and documents through SSE-based MCP support.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-brcarry-mcp-pymilvus-code-generate-helper-0f2ea087",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-brcarry-mcp-pymilvus-code-generate-helper-0f2ea087)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-brcarry-mcp-pymilvus-code-generate-helper-0f2ea087",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-brcarry-mcp-pymilvus-code-generate-helper-0f2ea087/badge.svg)](https://tensorblock.co/mcp/servers/github-brcarry-mcp-pymilvus-code-generate-helper-0f2ea087)",
   "links": {
     "primary": "https://github.com/brcarry/mcp-pymilvus-code-generate-helper",
     "repo": "https://github.com/brcarry/mcp-pymilvus-code-generate-helper",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

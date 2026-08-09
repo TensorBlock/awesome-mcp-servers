@@ -3,8 +3,8 @@
   "name": "amanasmuei/mcp-server-nodemcu",
   "description": "Manage and control NodeMCU IoT devices with real-time communication and AI integration using the Model Context Protocol.",
   "category": "Hardware & IoT",
-  "profileUrl": "https://tensorblock.co/mcp/github-amanasmuei-mcp-server-nodemcu-5969b63c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amanasmuei-mcp-server-nodemcu-5969b63c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-amanasmuei-mcp-server-nodemcu-5969b63c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-amanasmuei-mcp-server-nodemcu-5969b63c/badge.svg)](https://tensorblock.co/mcp/servers/github-amanasmuei-mcp-server-nodemcu-5969b63c)",
   "links": {
     "primary": "https://github.com/amanasmuei/mcp-server-nodemcu",
     "repo": "https://github.com/amanasmuei/mcp-server-nodemcu",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

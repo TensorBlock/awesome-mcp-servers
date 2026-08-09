@@ -3,8 +3,8 @@
   "name": "kunjanshah0811/MCP-Terminal-Server",
   "description": "Facilitates shell command execution within a defined workspace using an MCP-compatible terminal server for seamless integration with Claude-AI.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-kunjanshah0811-mcp-terminal-server-20a944dc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kunjanshah0811-mcp-terminal-server-20a944dc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kunjanshah0811-mcp-terminal-server-20a944dc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kunjanshah0811-mcp-terminal-server-20a944dc/badge.svg)](https://tensorblock.co/mcp/servers/github-kunjanshah0811-mcp-terminal-server-20a944dc)",
   "links": {
     "primary": "https://github.com/kunjanshah0811/MCP-Terminal-Server",
     "repo": "https://github.com/kunjanshah0811/MCP-Terminal-Server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "CristianCiubancan/sequentialthinking",
   "description": "Facilitates dynamic problem-solving through structured, step-by-step thinking processes.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-cristianciubancan-sequentialthinking-2fd9f2b8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cristianciubancan-sequentialthinking-2fd9f2b8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cristianciubancan-sequentialthinking-2fd9f2b8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cristianciubancan-sequentialthinking-2fd9f2b8/badge.svg)](https://tensorblock.co/mcp/servers/github-cristianciubancan-sequentialthinking-2fd9f2b8)",
   "links": {
     "primary": "https://github.com/CristianCiubancan/sequentialthinking",
     "repo": "https://github.com/CristianCiubancan/sequentialthinking",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

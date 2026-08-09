@@ -3,8 +3,8 @@
   "name": "blacktop/mcp-say",
   "description": "Facilitates text-to-speech capabilities using macOS 'say' command and ElevenLabs API for integration with MCP protocol-based applications.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-blacktop-mcp-say-982e5f35",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-blacktop-mcp-say-982e5f35)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-blacktop-mcp-say-982e5f35",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-blacktop-mcp-say-982e5f35/badge.svg)](https://tensorblock.co/mcp/servers/github-blacktop-mcp-say-982e5f35)",
   "links": {
     "primary": "https://github.com/blacktop/mcp-say",
     "repo": "https://github.com/blacktop/mcp-say",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

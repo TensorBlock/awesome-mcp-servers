@@ -3,8 +3,8 @@
   "name": "imax09-wq/DesktopCommanderMCP",
   "description": "Enhance Claude Desktop with terminal command execution, process management, and advanced file operations using Model Context Protocol.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-imax09-wq-desktopcommandermcp-faa334a0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-imax09-wq-desktopcommandermcp-faa334a0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-imax09-wq-desktopcommandermcp-faa334a0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-imax09-wq-desktopcommandermcp-faa334a0/badge.svg)](https://tensorblock.co/mcp/servers/github-imax09-wq-desktopcommandermcp-faa334a0)",
   "links": {
     "primary": "https://github.com/imax09-wq/DesktopCommanderMCP",
     "repo": "https://github.com/imax09-wq/DesktopCommanderMCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

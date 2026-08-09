@@ -1,0 +1,58 @@
+{
+  "id": "github-thegobi-ithz-mcp-2ac5c3ed",
+  "name": "thegobi/ithz_mcp",
+  "description": "Local-first deterministic project memory for AI coding agents. Provides project-owned context packs, decisions, gates, risks, scoped claims, reviewer notes, and explicit checkpoints while Git remains the code transport. Install: `pip install ithz-mcp`. Transport: `stdio`; no cloud auth required for local use.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-thegobi-ithz-mcp-2ac5c3ed",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-thegobi-ithz-mcp-2ac5c3ed/badge.svg)](https://tensorblock.co/mcp/servers/github-thegobi-ithz-mcp-2ac5c3ed)",
+  "links": {
+    "primary": "https://github.com/thegobi/ithz_mcp",
+    "repo": "https://github.com/thegobi/ithz_mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "pip install ithz-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

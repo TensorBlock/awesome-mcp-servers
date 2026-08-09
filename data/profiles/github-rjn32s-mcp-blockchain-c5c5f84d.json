@@ -3,8 +3,8 @@
   "name": "rjn32s/mcp-blockchain",
   "description": "A robust blockchain server leveraging MCP for Ethereum address validation, gas fee estimation, wallet balance checking, and smart contract ownership verification.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-rjn32s-mcp-blockchain-c5c5f84d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rjn32s-mcp-blockchain-c5c5f84d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rjn32s-mcp-blockchain-c5c5f84d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rjn32s-mcp-blockchain-c5c5f84d/badge.svg)](https://tensorblock.co/mcp/servers/github-rjn32s-mcp-blockchain-c5c5f84d)",
   "links": {
     "primary": "https://github.com/rjn32s/mcp-blockchain",
     "repo": "https://github.com/rjn32s/mcp-blockchain",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

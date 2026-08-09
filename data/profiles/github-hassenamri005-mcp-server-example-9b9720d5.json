@@ -3,8 +3,8 @@
   "name": "Hassenamri005/mcp-server-example",
   "description": "Facilitates interaction between AI assistants and local data files using a lightweight MCP server in Python.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-hassenamri005-mcp-server-example-9b9720d5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hassenamri005-mcp-server-example-9b9720d5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hassenamri005-mcp-server-example-9b9720d5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hassenamri005-mcp-server-example-9b9720d5/badge.svg)](https://tensorblock.co/mcp/servers/github-hassenamri005-mcp-server-example-9b9720d5)",
   "links": {
     "primary": "https://github.com/Hassenamri005/mcp-server-example",
     "repo": "https://github.com/Hassenamri005/mcp-server-example",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

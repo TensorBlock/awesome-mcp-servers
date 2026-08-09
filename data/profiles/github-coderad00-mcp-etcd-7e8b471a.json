@@ -3,8 +3,8 @@
   "name": "Coderad00/mcp-etcd",
   "description": "Facilitates AI assistants' interaction with etcd key-value stores through a consistent MCP interface, supporting key-value operations, authentication, and TLS.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-coderad00-mcp-etcd-7e8b471a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-coderad00-mcp-etcd-7e8b471a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-coderad00-mcp-etcd-7e8b471a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-coderad00-mcp-etcd-7e8b471a/badge.svg)](https://tensorblock.co/mcp/servers/github-coderad00-mcp-etcd-7e8b471a)",
   "links": {
     "primary": "https://github.com/Coderad00/mcp-etcd",
     "repo": "https://github.com/Coderad00/mcp-etcd",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

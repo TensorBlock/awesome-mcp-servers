@@ -3,8 +3,8 @@
   "name": "enggpt-it/MCP-Server-Cybersecurity-News",
   "description": "Access the latest cybersecurity news from various websites with seamless Claude Desktop integration.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-enggpt-it-mcp-server-cybersecurity-news-6794762f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-enggpt-it-mcp-server-cybersecurity-news-6794762f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-enggpt-it-mcp-server-cybersecurity-news-6794762f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-enggpt-it-mcp-server-cybersecurity-news-6794762f/badge.svg)](https://tensorblock.co/mcp/servers/github-enggpt-it-mcp-server-cybersecurity-news-6794762f)",
   "links": {
     "primary": "https://github.com/enggpt-it/MCP-Server-Cybersecurity-News",
     "repo": "https://github.com/enggpt-it/MCP-Server-Cybersecurity-News",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

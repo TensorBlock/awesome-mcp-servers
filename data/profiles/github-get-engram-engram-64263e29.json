@@ -1,0 +1,56 @@
+{
+  "id": "github-get-engram-engram-64263e29",
+  "name": "get-engram/engram",
+  "description": "Hosted memory service for AI agents that stores complete, verbatim conversation transcripts and makes them searchable via semantic search. Built on Cloudflare Workers + D1 + Vectorize. Free tier at mcp.getengram.app.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-get-engram-engram-64263e29",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-get-engram-engram-64263e29/badge.svg)](https://tensorblock.co/mcp/servers/github-get-engram-engram-64263e29)",
+  "links": {
+    "primary": "https://github.com/get-engram/engram",
+    "repo": "https://github.com/get-engram/engram",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "rebots-online/ChatGPT-neo4j-qdrant-hybrid-knowledge-graph-analyzer",
   "description": "A hybrid system leveraging vector embeddings and knowledge graphs for semantic search and relationship analysis of ChatGPT conversations.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-rebots-online-chatgpt-neo4j-qdrant-hybrid-knowledge-graph-analyzer-6b864e2d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rebots-online-chatgpt-neo4j-qdrant-hybrid-knowledge-graph-analyzer-6b864e2d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rebots-online-chatgpt-neo4j-qdrant-hybrid-knowledge-graph-analyzer-6b864e2d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rebots-online-chatgpt-neo4j-qdrant-hybrid-knowledge-graph-analyzer-6b864e2d/badge.svg)](https://tensorblock.co/mcp/servers/github-rebots-online-chatgpt-neo4j-qdrant-hybrid-knowledge-graph-analyzer-6b864e2d)",
   "links": {
     "primary": "https://github.com/rebots-online/ChatGPT-neo4j-qdrant-hybrid-knowledge-graph-analyzer",
     "repo": "https://github.com/rebots-online/ChatGPT-neo4j-qdrant-hybrid-knowledge-graph-analyzer",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "saarw/akhq-mcp-server",
   "description": "Facilitates AI assistants' integration with the AKHQ Kafka monitoring tool through an experimental MCP server.",
   "category": "Monitoring & Observability",
-  "profileUrl": "https://tensorblock.co/mcp/github-saarw-akhq-mcp-server-860faac1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-saarw-akhq-mcp-server-860faac1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-saarw-akhq-mcp-server-860faac1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-saarw-akhq-mcp-server-860faac1/badge.svg)](https://tensorblock.co/mcp/servers/github-saarw-akhq-mcp-server-860faac1)",
   "links": {
     "primary": "https://github.com/saarw/akhq-mcp-server",
     "repo": "https://github.com/saarw/akhq-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

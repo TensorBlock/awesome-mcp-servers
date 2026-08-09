@@ -3,8 +3,8 @@
   "name": "burakdirin/mysqldb-mcp-server",
   "description": "Facilitates Claude AI's interaction with MySQL databases through a dedicated MCP server.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-burakdirin-mysqldb-mcp-server-d71e8a0a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-burakdirin-mysqldb-mcp-server-d71e8a0a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-burakdirin-mysqldb-mcp-server-d71e8a0a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-burakdirin-mysqldb-mcp-server-d71e8a0a/badge.svg)](https://tensorblock.co/mcp/servers/github-burakdirin-mysqldb-mcp-server-d71e8a0a)",
   "links": {
     "primary": "https://github.com/burakdirin/mysqldb-mcp-server",
     "repo": "https://github.com/burakdirin/mysqldb-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

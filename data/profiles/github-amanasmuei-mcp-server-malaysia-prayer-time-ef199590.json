@@ -3,8 +3,8 @@
   "name": "amanasmuei/mcp-server-malaysia-prayer-time",
   "description": "Provides real-time Islamic prayer times for Malaysia, integrating seamlessly with Claude Desktop via MCP.",
   "category": "Healthcare & Life Sciences",
-  "profileUrl": "https://tensorblock.co/mcp/github-amanasmuei-mcp-server-malaysia-prayer-time-ef199590",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amanasmuei-mcp-server-malaysia-prayer-time-ef199590)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-amanasmuei-mcp-server-malaysia-prayer-time-ef199590",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-amanasmuei-mcp-server-malaysia-prayer-time-ef199590/badge.svg)](https://tensorblock.co/mcp/servers/github-amanasmuei-mcp-server-malaysia-prayer-time-ef199590)",
   "links": {
     "primary": "https://github.com/amanasmuei/mcp-server-malaysia-prayer-time",
     "repo": "https://github.com/amanasmuei/mcp-server-malaysia-prayer-time",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

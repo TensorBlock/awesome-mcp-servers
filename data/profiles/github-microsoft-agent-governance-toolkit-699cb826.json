@@ -3,8 +3,8 @@
   "name": "microsoft/agent-governance-toolkit",
   "description": "Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-microsoft-agent-governance-toolkit-699cb826",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-microsoft-agent-governance-toolkit-699cb826)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-microsoft-agent-governance-toolkit-699cb826",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-microsoft-agent-governance-toolkit-699cb826/badge.svg)](https://tensorblock.co/mcp/servers/github-microsoft-agent-governance-toolkit-699cb826)",
   "links": {
     "primary": "https://github.com/microsoft/agent-governance-toolkit",
     "repo": "https://github.com/microsoft/agent-governance-toolkit",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx agentos-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

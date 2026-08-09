@@ -3,8 +3,8 @@
   "name": "strowk/synf",
   "description": "Synf enhances MCP server development by enabling hot-reloading on file changes, ensuring seamless integration and state management between client and server.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-strowk-synf-cea333a1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-strowk-synf-cea333a1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-strowk-synf-cea333a1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-strowk-synf-cea333a1/badge.svg)](https://tensorblock.co/mcp/servers/github-strowk-synf-cea333a1)",
   "links": {
     "primary": "https://github.com/strowk/synf",
     "repo": "https://github.com/strowk/synf",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

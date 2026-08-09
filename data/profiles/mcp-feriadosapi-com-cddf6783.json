@@ -3,8 +3,8 @@
   "name": "feriadosapi/mcp-server",
   "description": "Brazilian holidays MCP server covering 5,570+ municipalities, 27 states, and national holidays. Returns holiday data by date, state, or city (IBGE code).",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/mcp-feriadosapi-com-cddf6783",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/mcp-feriadosapi-com-cddf6783)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/mcp-feriadosapi-com-cddf6783",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/mcp-feriadosapi-com-cddf6783/badge.svg)](https://tensorblock.co/mcp/servers/mcp-feriadosapi-com-cddf6783)",
   "links": {
     "primary": "https://mcp.feriadosapi.com",
     "repo": null,
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "RodrigoPAml/MCP-SqlServer",
   "description": "Facilitates LLM integration with SQL Server through a C# MCP server, enabling database queries and schema retrieval.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-rodrigopaml-mcp-sqlserver-8fed5cca",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rodrigopaml-mcp-sqlserver-8fed5cca)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rodrigopaml-mcp-sqlserver-8fed5cca",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rodrigopaml-mcp-sqlserver-8fed5cca/badge.svg)](https://tensorblock.co/mcp/servers/github-rodrigopaml-mcp-sqlserver-8fed5cca)",
   "links": {
     "primary": "https://github.com/RodrigoPAml/MCP-SqlServer",
     "repo": "https://github.com/RodrigoPAml/MCP-SqlServer",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

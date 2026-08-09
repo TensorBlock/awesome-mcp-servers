@@ -3,8 +3,8 @@
   "name": "199-bio/mcp-wait-timer",
   "description": "Facilitates deliberate pauses in MCP client workflows to ensure time-dependent operations complete successfully.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-199-bio-mcp-wait-timer-8e9eabde",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-199-bio-mcp-wait-timer-8e9eabde)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-199-bio-mcp-wait-timer-8e9eabde",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-199-bio-mcp-wait-timer-8e9eabde/badge.svg)](https://tensorblock.co/mcp/servers/github-199-bio-mcp-wait-timer-8e9eabde)",
   "links": {
     "primary": "https://github.com/199-bio/mcp-wait-timer",
     "repo": "https://github.com/199-bio/mcp-wait-timer",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

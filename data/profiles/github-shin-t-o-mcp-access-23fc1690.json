@@ -3,8 +3,8 @@
   "name": "shin-t-o/mcp-access",
   "description": "A custom MCP server enabling web and PDF text extraction and command execution through a user-friendly interface.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-shin-t-o-mcp-access-23fc1690",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shin-t-o-mcp-access-23fc1690)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shin-t-o-mcp-access-23fc1690",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shin-t-o-mcp-access-23fc1690/badge.svg)](https://tensorblock.co/mcp/servers/github-shin-t-o-mcp-access-23fc1690)",
   "links": {
     "primary": "https://github.com/shin-t-o/mcp-access",
     "repo": "https://github.com/shin-t-o/mcp-access",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

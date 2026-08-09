@@ -1,0 +1,60 @@
+{
+  "id": "github-kunwar-shah-claudex-17591fb5",
+  "name": "kunwar-shah/claudex",
+  "description": "Persistent memory + FTS5 full-text search MCP server for Claude Code conversation history. Indexes `~/.claude/projects/` JSONL into SQLite and exposes 10 MCP tools (store/recall/search memories, browse sessions, get summaries) plus prompts. Includes a web UI for visual exploration. Install via `npm install -g @kunwarshah/claudex`. MIT licensed.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kunwar-shah-claudex-17591fb5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kunwar-shah-claudex-17591fb5/badge.svg)](https://tensorblock.co/mcp/servers/github-kunwar-shah-claudex-17591fb5)",
+  "links": {
+    "primary": "https://github.com/kunwar-shah/claudex",
+    "repo": "https://github.com/kunwar-shah/claudex",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npm install -g @kunwarshah/claudex"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 10
+  }
+}

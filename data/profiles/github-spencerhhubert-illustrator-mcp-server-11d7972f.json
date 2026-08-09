@@ -3,8 +3,8 @@
   "name": "spencerhhubert/illustrator-mcp-server",
   "description": "Facilitates script execution on Adobe Illustrator via an MCP server, leveraging JavaScript and AppleScript for MacOS compatibility.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-spencerhhubert-illustrator-mcp-server-11d7972f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-spencerhhubert-illustrator-mcp-server-11d7972f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-spencerhhubert-illustrator-mcp-server-11d7972f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-spencerhhubert-illustrator-mcp-server-11d7972f/badge.svg)](https://tensorblock.co/mcp/servers/github-spencerhhubert-illustrator-mcp-server-11d7972f)",
   "links": {
     "primary": "https://github.com/spencerhhubert/illustrator-mcp-server",
     "repo": "https://github.com/spencerhhubert/illustrator-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

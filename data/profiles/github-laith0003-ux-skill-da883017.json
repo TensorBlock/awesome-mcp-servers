@@ -3,8 +3,8 @@
   "name": "Laith0003/ux-skill",
   "description": "Deterministic design-intelligence MCP server with 18 tools that lints AI-generated UI against 152 anti-slop rules, drawing on 160 brand specs and a 7-axis synthesizer. Runs fully offline and never calls an LLM.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-laith0003-ux-skill-da883017",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-laith0003-ux-skill-da883017)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-laith0003-ux-skill-da883017",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-laith0003-ux-skill-da883017/badge.svg)](https://tensorblock.co/mcp/servers/github-laith0003-ux-skill-da883017)",
   "links": {
     "primary": "https://github.com/Laith0003/ux-skill",
     "repo": "https://github.com/Laith0003/ux-skill",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 18
   }

@@ -3,8 +3,8 @@
   "name": "ChrisRoyse/CodeGraph",
   "description": "CodeGraph Analyzer transforms codebases into Neo4j graph databases, enabling AI-driven insights and interactions across multi-language projects.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-chrisroyse-codegraph-90870335",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chrisroyse-codegraph-90870335)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-chrisroyse-codegraph-90870335",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-chrisroyse-codegraph-90870335/badge.svg)](https://tensorblock.co/mcp/servers/github-chrisroyse-codegraph-90870335)",
   "links": {
     "primary": "https://github.com/ChrisRoyse/CodeGraph",
     "repo": "https://github.com/ChrisRoyse/CodeGraph",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

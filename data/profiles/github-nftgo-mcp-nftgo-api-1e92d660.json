@@ -3,8 +3,8 @@
   "name": "NFTGo/mcp-nftgo-api",
   "description": "Facilitates seamless interaction with the NFTGo Developer API, offering comprehensive NFT data and analytics for Ethereum-based assets.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-nftgo-mcp-nftgo-api-1e92d660",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nftgo-mcp-nftgo-api-1e92d660)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nftgo-mcp-nftgo-api-1e92d660",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nftgo-mcp-nftgo-api-1e92d660/badge.svg)](https://tensorblock.co/mcp/servers/github-nftgo-mcp-nftgo-api-1e92d660)",
   "links": {
     "primary": "https://github.com/NFTGo/mcp-nftgo-api",
     "repo": "https://github.com/NFTGo/mcp-nftgo-api",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

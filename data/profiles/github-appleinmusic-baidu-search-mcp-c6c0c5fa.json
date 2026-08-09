@@ -3,8 +3,8 @@
   "name": "appleinmusic/baidu-search-mcp",
   "description": "Facilitates intelligent searches using Baidu Wenxin API with support for multiple models and deep search capabilities.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-appleinmusic-baidu-search-mcp-c6c0c5fa",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-appleinmusic-baidu-search-mcp-c6c0c5fa)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-appleinmusic-baidu-search-mcp-c6c0c5fa",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-appleinmusic-baidu-search-mcp-c6c0c5fa/badge.svg)](https://tensorblock.co/mcp/servers/github-appleinmusic-baidu-search-mcp-c6c0c5fa)",
   "links": {
     "primary": "https://github.com/appleinmusic/baidu-search-mcp",
     "repo": "https://github.com/appleinmusic/baidu-search-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

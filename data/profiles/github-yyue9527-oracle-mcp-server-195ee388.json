@@ -3,8 +3,8 @@
   "name": "yyue9527/oracle-mcp-server",
   "description": "Facilitates Oracle database operations with real-time communication using Server-Sent Events.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-yyue9527-oracle-mcp-server-195ee388",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yyue9527-oracle-mcp-server-195ee388)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yyue9527-oracle-mcp-server-195ee388",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yyue9527-oracle-mcp-server-195ee388/badge.svg)](https://tensorblock.co/mcp/servers/github-yyue9527-oracle-mcp-server-195ee388)",
   "links": {
     "primary": "https://github.com/yyue9527/oracle-mcp-server",
     "repo": "https://github.com/yyue9527/oracle-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

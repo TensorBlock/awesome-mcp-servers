@@ -1,0 +1,56 @@
+{
+  "id": "github-daedalus-mcp-recon-ng-c319d71d",
+  "name": "daedalus/mcp-recon-ng",
+  "description": "MCP server exposing full recon-ng OSINT framework functionality.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-daedalus-mcp-recon-ng-c319d71d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-daedalus-mcp-recon-ng-c319d71d/badge.svg)](https://tensorblock.co/mcp/servers/github-daedalus-mcp-recon-ng-c319d71d)",
+  "links": {
+    "primary": "https://github.com/daedalus/mcp-recon-ng",
+    "repo": "https://github.com/daedalus/mcp-recon-ng",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

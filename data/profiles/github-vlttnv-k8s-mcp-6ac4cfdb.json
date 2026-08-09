@@ -3,8 +3,8 @@
   "name": "vlttnv/k8s-mcp",
   "description": "A Python-based MCP server for Kubernetes clusters, offering a comprehensive API to access cluster information and diagnose issues.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-vlttnv-k8s-mcp-6ac4cfdb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vlttnv-k8s-mcp-6ac4cfdb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vlttnv-k8s-mcp-6ac4cfdb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vlttnv-k8s-mcp-6ac4cfdb/badge.svg)](https://tensorblock.co/mcp/servers/github-vlttnv-k8s-mcp-6ac4cfdb)",
   "links": {
     "primary": "https://github.com/vlttnv/k8s-mcp",
     "repo": "https://github.com/vlttnv/k8s-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

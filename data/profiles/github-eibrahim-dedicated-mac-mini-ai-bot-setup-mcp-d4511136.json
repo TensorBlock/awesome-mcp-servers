@@ -1,0 +1,56 @@
+{
+  "id": "github-eibrahim-dedicated-mac-mini-ai-bot-setup-mcp-d4511136",
+  "name": "Dedicated Mac Mini AI Bot Setup MCP",
+  "description": "Read-only hosted MCP endpoint for evaluating dedicated Mac mini AI operator setup services, pricing, queue status, proof links, buyer routes, and setup guardrails. Streamable HTTP endpoint: https://www.emadibrahim.com/mcp.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-eibrahim-dedicated-mac-mini-ai-bot-setup-mcp-d4511136",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-eibrahim-dedicated-mac-mini-ai-bot-setup-mcp-d4511136/badge.svg)](https://tensorblock.co/mcp/servers/github-eibrahim-dedicated-mac-mini-ai-bot-setup-mcp-d4511136)",
+  "links": {
+    "primary": "https://github.com/eibrahim/dedicated-mac-mini-ai-bot-setup-mcp",
+    "repo": "https://github.com/eibrahim/dedicated-mac-mini-ai-bot-setup-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://www.emadibrahim.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

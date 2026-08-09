@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-salatmaster-keenetic-mcp-ce013d9e",
+  "source": {
+    "issue": 1613,
+    "projectUrl": "https://github.com/salatmaster/keenetic-mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "KEENETIC_PASSWORD"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code and Codex (a plugin ships for both)",
+    "plus any MCP client over stdio"
+  ],
+  "license": "MIT"
+}

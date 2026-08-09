@@ -3,8 +3,8 @@
   "name": "caicongyang/mcp-demo",
   "description": "Facilitates database interactions via MySQL, enabling SQL queries, table creation, and schema exploration.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-caicongyang-mcp-demo-5dfa5965",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-caicongyang-mcp-demo-5dfa5965)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-caicongyang-mcp-demo-5dfa5965",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-caicongyang-mcp-demo-5dfa5965/badge.svg)](https://tensorblock.co/mcp/servers/github-caicongyang-mcp-demo-5dfa5965)",
   "links": {
     "primary": "https://github.com/caicongyang/mcp-demo",
     "repo": "https://github.com/caicongyang/mcp-demo",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

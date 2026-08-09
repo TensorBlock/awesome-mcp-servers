@@ -3,8 +3,8 @@
   "name": "cbuitragoh/customRedis",
   "description": "A Dockerized Redis server with integrated MCP support for streamlined Redis operations and enhanced error handling.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-cbuitragoh-customredis-f7c4dc27",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cbuitragoh-customredis-f7c4dc27)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cbuitragoh-customredis-f7c4dc27",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cbuitragoh-customredis-f7c4dc27/badge.svg)](https://tensorblock.co/mcp/servers/github-cbuitragoh-customredis-f7c4dc27)",
   "links": {
     "primary": "https://github.com/cbuitragoh/customRedis",
     "repo": "https://github.com/cbuitragoh/customRedis",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

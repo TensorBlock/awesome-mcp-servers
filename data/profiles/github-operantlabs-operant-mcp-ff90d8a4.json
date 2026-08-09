@@ -3,8 +3,8 @@
   "name": "operantlabs/operant-mcp",
   "description": "Security testing MCP server with 51 tools for penetration testing, network forensics, memory analysis, and vulnerability assessment. Install via `npx operant-mcp`.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-operantlabs-operant-mcp-ff90d8a4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-operantlabs-operant-mcp-ff90d8a4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-operantlabs-operant-mcp-ff90d8a4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-operantlabs-operant-mcp-ff90d8a4/badge.svg)](https://tensorblock.co/mcp/servers/github-operantlabs-operant-mcp-ff90d8a4)",
   "links": {
     "primary": "https://github.com/operantlabs/operant-mcp",
     "repo": "https://github.com/operantlabs/operant-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx operant-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": true,
     "verification": "unknown",
     "toolCount": 51
   }

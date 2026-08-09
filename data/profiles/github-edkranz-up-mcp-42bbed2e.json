@@ -3,8 +3,8 @@
   "name": "edkranz/up-mcp",
   "description": "Facilitates interaction with the Up Bank API for managing accounts, transactions, categories, tags, and webhooks through MCP-enabled clients.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-edkranz-up-mcp-42bbed2e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-edkranz-up-mcp-42bbed2e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-edkranz-up-mcp-42bbed2e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-edkranz-up-mcp-42bbed2e/badge.svg)](https://tensorblock.co/mcp/servers/github-edkranz-up-mcp-42bbed2e)",
   "links": {
     "primary": "https://github.com/edkranz/up-mcp",
     "repo": "https://github.com/edkranz/up-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "molmolkky/prompt-character-mcp-server",
   "description": "Facilitates the retrieval of iconic quotes from the character Ou Ki from the manga 'Kingdom' via an MCP server.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-molmolkky-prompt-character-mcp-server-1cdd2c1d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-molmolkky-prompt-character-mcp-server-1cdd2c1d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-molmolkky-prompt-character-mcp-server-1cdd2c1d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-molmolkky-prompt-character-mcp-server-1cdd2c1d/badge.svg)](https://tensorblock.co/mcp/servers/github-molmolkky-prompt-character-mcp-server-1cdd2c1d)",
   "links": {
     "primary": "https://github.com/molmolkky/prompt-character-mcp-server",
     "repo": "https://github.com/molmolkky/prompt-character-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

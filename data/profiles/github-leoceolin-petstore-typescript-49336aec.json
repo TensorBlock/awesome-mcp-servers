@@ -3,8 +3,8 @@
   "name": "leoceolin/petstore-typescript",
   "description": "A TypeScript SDK offering a developer-friendly and type-safe interface to interact with the Petstore API, also functioning as an installable MCP server for AI applications.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-leoceolin-petstore-typescript-49336aec",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-leoceolin-petstore-typescript-49336aec)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-leoceolin-petstore-typescript-49336aec",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-leoceolin-petstore-typescript-49336aec/badge.svg)](https://tensorblock.co/mcp/servers/github-leoceolin-petstore-typescript-49336aec)",
   "links": {
     "primary": "https://github.com/leoceolin/petstore-typescript",
     "repo": "https://github.com/leoceolin/petstore-typescript",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

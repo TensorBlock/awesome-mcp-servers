@@ -3,8 +3,8 @@
   "name": "tositon/OpenDeepSearch",
   "description": "OpenDeepSearch is an open-source research tool leveraging MCP for in-depth analysis and synthesis of complex topics, integrating seamlessly with various MCP clients.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-tositon-opendeepsearch-350b851d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tositon-opendeepsearch-350b851d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tositon-opendeepsearch-350b851d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tositon-opendeepsearch-350b851d/badge.svg)](https://tensorblock.co/mcp/servers/github-tositon-opendeepsearch-350b851d)",
   "links": {
     "primary": "https://github.com/tositon/OpenDeepSearch",
     "repo": "https://github.com/tositon/OpenDeepSearch",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

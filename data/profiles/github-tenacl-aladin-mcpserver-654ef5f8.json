@@ -3,8 +3,8 @@
   "name": "tenacl/aladin-mcpserver",
   "description": "Facilitates book information retrieval and search using the Aladin API through an MCP server interface.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-tenacl-aladin-mcpserver-654ef5f8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tenacl-aladin-mcpserver-654ef5f8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tenacl-aladin-mcpserver-654ef5f8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tenacl-aladin-mcpserver-654ef5f8/badge.svg)](https://tensorblock.co/mcp/servers/github-tenacl-aladin-mcpserver-654ef5f8)",
   "links": {
     "primary": "https://github.com/tenacl/aladin-mcpserver",
     "repo": "https://github.com/tenacl/aladin-mcpserver",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

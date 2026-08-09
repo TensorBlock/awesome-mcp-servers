@@ -3,8 +3,8 @@
   "name": "vdalhambra/financekit-mcp",
   "description": "Financial market intelligence MCP with 17 tools for AI agents — stock quotes, technical analysis (RSI, MACD, Bollinger, ADX, Stochastic + Golden/Death Cross detection with structured verdicts), crypto via CoinGecko, risk metrics (VaR, Sharpe, Sortino, Beta), correlation matrix, options chains, earnings calendar, sector rotation, and portfolio analysis. No API keys required. FastMCP 3.2, MIT.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-vdalhambra-financekit-mcp-bd66ddda",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vdalhambra-financekit-mcp-bd66ddda)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vdalhambra-financekit-mcp-bd66ddda",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vdalhambra-financekit-mcp-bd66ddda/badge.svg)](https://tensorblock.co/mcp/servers/github-vdalhambra-financekit-mcp-bd66ddda)",
   "links": {
     "primary": "https://github.com/vdalhambra/financekit-mcp",
     "repo": "https://github.com/vdalhambra/financekit-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "none",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 17
   }

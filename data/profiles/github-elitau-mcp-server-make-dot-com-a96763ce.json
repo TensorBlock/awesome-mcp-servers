@@ -3,8 +3,8 @@
   "name": "elitau/mcp-server-make-dot-com",
   "description": "Integrates Make.com API to provide access to scenario blueprints and other resources via an MCP server.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-elitau-mcp-server-make-dot-com-a96763ce",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elitau-mcp-server-make-dot-com-a96763ce)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-elitau-mcp-server-make-dot-com-a96763ce",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-elitau-mcp-server-make-dot-com-a96763ce/badge.svg)](https://tensorblock.co/mcp/servers/github-elitau-mcp-server-make-dot-com-a96763ce)",
   "links": {
     "primary": "https://github.com/elitau/mcp-server-make-dot-com",
     "repo": "https://github.com/elitau/mcp-server-make-dot-com",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

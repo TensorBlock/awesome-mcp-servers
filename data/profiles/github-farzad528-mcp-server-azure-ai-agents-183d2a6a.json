@@ -3,8 +3,8 @@
   "name": "farzad528/mcp-server-azure-ai-agents",
   "description": "Facilitates AI-enhanced document and web search using Azure AI services, seamlessly integrating with Claude Desktop for optimized search results.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-farzad528-mcp-server-azure-ai-agents-183d2a6a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-farzad528-mcp-server-azure-ai-agents-183d2a6a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-farzad528-mcp-server-azure-ai-agents-183d2a6a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-farzad528-mcp-server-azure-ai-agents-183d2a6a/badge.svg)](https://tensorblock.co/mcp/servers/github-farzad528-mcp-server-azure-ai-agents-183d2a6a)",
   "links": {
     "primary": "https://github.com/farzad528/mcp-server-azure-ai-agents",
     "repo": "https://github.com/farzad528/mcp-server-azure-ai-agents",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Godzilla675/doc-context-provider-mcp",
   "description": "Crawls and summarizes online documentation using the Gemini API, providing context for MCP clients.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-godzilla675-doc-context-provider-mcp-8e9e2ccf",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-godzilla675-doc-context-provider-mcp-8e9e2ccf)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-godzilla675-doc-context-provider-mcp-8e9e2ccf",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-godzilla675-doc-context-provider-mcp-8e9e2ccf/badge.svg)](https://tensorblock.co/mcp/servers/github-godzilla675-doc-context-provider-mcp-8e9e2ccf)",
   "links": {
     "primary": "https://github.com/Godzilla675/doc-context-provider-mcp",
     "repo": "https://github.com/Godzilla675/doc-context-provider-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

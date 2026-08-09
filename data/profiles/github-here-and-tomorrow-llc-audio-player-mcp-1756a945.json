@@ -3,8 +3,8 @@
   "name": "Here-and-Tomorrow-LLC/audio-player-mcp",
   "description": "Enables Claude to manage audio playback on your computer through a Model Context Protocol server.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-here-and-tomorrow-llc-audio-player-mcp-1756a945",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-here-and-tomorrow-llc-audio-player-mcp-1756a945)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-here-and-tomorrow-llc-audio-player-mcp-1756a945",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-here-and-tomorrow-llc-audio-player-mcp-1756a945/badge.svg)](https://tensorblock.co/mcp/servers/github-here-and-tomorrow-llc-audio-player-mcp-1756a945)",
   "links": {
     "primary": "https://github.com/Here-and-Tomorrow-LLC/audio-player-mcp",
     "repo": "https://github.com/Here-and-Tomorrow-LLC/audio-player-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

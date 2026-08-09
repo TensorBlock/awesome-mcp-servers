@@ -3,8 +3,8 @@
   "name": "genm/mcp-server-discord-webhook",
   "description": "Facilitates message posting to Discord via webhooks using MCP server commands.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-genm-mcp-server-discord-webhook-1cd33131",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-genm-mcp-server-discord-webhook-1cd33131)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-genm-mcp-server-discord-webhook-1cd33131",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-genm-mcp-server-discord-webhook-1cd33131/badge.svg)](https://tensorblock.co/mcp/servers/github-genm-mcp-server-discord-webhook-1cd33131)",
   "links": {
     "primary": "https://github.com/genm/mcp-server-discord-webhook",
     "repo": "https://github.com/genm/mcp-server-discord-webhook",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

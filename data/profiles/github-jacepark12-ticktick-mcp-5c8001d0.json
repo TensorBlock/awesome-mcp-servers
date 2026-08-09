@@ -3,8 +3,8 @@
   "name": "jacepark12/ticktick-mcp",
   "description": "Facilitates seamless interaction with TickTick task management through Claude and other MCP clients, leveraging TickTick's open API.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-jacepark12-ticktick-mcp-5c8001d0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jacepark12-ticktick-mcp-5c8001d0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jacepark12-ticktick-mcp-5c8001d0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jacepark12-ticktick-mcp-5c8001d0/badge.svg)](https://tensorblock.co/mcp/servers/github-jacepark12-ticktick-mcp-5c8001d0)",
   "links": {
     "primary": "https://github.com/jacepark12/ticktick-mcp",
     "repo": "https://github.com/jacepark12/ticktick-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

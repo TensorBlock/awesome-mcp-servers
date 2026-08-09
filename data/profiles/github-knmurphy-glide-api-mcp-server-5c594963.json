@@ -3,8 +3,8 @@
   "name": "knmurphy/glide-api-mcp-server",
   "description": "Facilitates seamless interaction with Glide API versions 1 and 2 through a secure and type-safe MCP server implementation.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-knmurphy-glide-api-mcp-server-5c594963",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-knmurphy-glide-api-mcp-server-5c594963)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-knmurphy-glide-api-mcp-server-5c594963",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-knmurphy-glide-api-mcp-server-5c594963/badge.svg)](https://tensorblock.co/mcp/servers/github-knmurphy-glide-api-mcp-server-5c594963)",
   "links": {
     "primary": "https://github.com/knmurphy/glide-api-mcp-server",
     "repo": "https://github.com/knmurphy/glide-api-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,56 @@
+{
+  "id": "conformi-eu-e077cf4b",
+  "name": "conformi",
+  "description": "EU legal research with verifiable CELEX citations from the EUR-Lex corpus (German, English, French — native-language indexes, not translations). Semantic search across EU secondary law and treaties (GDPR, AI Act, NIS2, DORA, DSA). Remote streamable-HTTP MCP server at `https://conformi.eu/api/mcp`. Three tools: `get_knowledge_article` and `get_legal_timeline` are free (no key); `search_eu_law` is metered. Source: github.com/conformi-eu/conformi-search-mcp. Research tool with primary-source citations — not legal advice.",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/servers/conformi-eu-e077cf4b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/conformi-eu-e077cf4b/badge.svg)](https://tensorblock.co/mcp/servers/conformi-eu-e077cf4b)",
+  "links": {
+    "primary": "https://conformi.eu",
+    "repo": null,
+    "homepage": "https://conformi.eu",
+    "docs": null,
+    "endpoint": "https://conformi.eu/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "ma3u/mcp-server-dust-Py",
   "description": "Facilitates integration with Dust AI agents through HTTP calls, enabling advanced cognitive and problem-solving capabilities.",
   "category": "Build & Deployment Tools",
-  "profileUrl": "https://tensorblock.co/mcp/github-ma3u-mcp-server-dust-py-4cbd9a03",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ma3u-mcp-server-dust-py-4cbd9a03)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ma3u-mcp-server-dust-py-4cbd9a03",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ma3u-mcp-server-dust-py-4cbd9a03/badge.svg)](https://tensorblock.co/mcp/servers/github-ma3u-mcp-server-dust-py-4cbd9a03)",
   "links": {
     "primary": "https://github.com/ma3u/mcp-server-dust-Py",
     "repo": "https://github.com/ma3u/mcp-server-dust-Py",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

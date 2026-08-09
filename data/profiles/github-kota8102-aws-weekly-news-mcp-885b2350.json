@@ -3,8 +3,8 @@
   "name": "Kota8102/aws-weekly-news-mcp",
   "description": "Facilitates access to Japanese 'Weekly AWS' blog articles through a dedicated MCP server.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-kota8102-aws-weekly-news-mcp-885b2350",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kota8102-aws-weekly-news-mcp-885b2350)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kota8102-aws-weekly-news-mcp-885b2350",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kota8102-aws-weekly-news-mcp-885b2350/badge.svg)](https://tensorblock.co/mcp/servers/github-kota8102-aws-weekly-news-mcp-885b2350)",
   "links": {
     "primary": "https://github.com/Kota8102/aws-weekly-news-mcp",
     "repo": "https://github.com/Kota8102/aws-weekly-news-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

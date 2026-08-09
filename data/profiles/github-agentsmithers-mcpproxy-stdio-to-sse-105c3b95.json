@@ -3,14 +3,46 @@
   "name": "AgentSmithers/MCPProxy-STDIO-to-SSE",
   "description": "Facilitates seamless communication between STDIO-based clients and SSE-backed MCP servers using a .NET console bridge.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-agentsmithers-mcpproxy-stdio-to-sse-105c3b95",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-agentsmithers-mcpproxy-stdio-to-sse-105c3b95)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-agentsmithers-mcpproxy-stdio-to-sse-105c3b95",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-agentsmithers-mcpproxy-stdio-to-sse-105c3b95/badge.svg)](https://tensorblock.co/mcp/servers/github-agentsmithers-mcpproxy-stdio-to-sse-105c3b95)",
   "links": {
     "primary": "https://github.com/AgentSmithers/MCPProxy-STDIO-to-SSE",
     "repo": "https://github.com/AgentSmithers/MCPProxy-STDIO-to-SSE",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

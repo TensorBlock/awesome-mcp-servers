@@ -3,8 +3,8 @@
   "name": "TheSethRose/Alexa-Shopping-List",
   "description": "Facilitates seamless management of Alexa shopping lists through MCP integration, enabling AI assistants to interact with the list via a local API server.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-thesethrose-alexa-shopping-list-b9e61adf",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-thesethrose-alexa-shopping-list-b9e61adf)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-thesethrose-alexa-shopping-list-b9e61adf",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-thesethrose-alexa-shopping-list-b9e61adf/badge.svg)](https://tensorblock.co/mcp/servers/github-thesethrose-alexa-shopping-list-b9e61adf)",
   "links": {
     "primary": "https://github.com/TheSethRose/Alexa-Shopping-List",
     "repo": "https://github.com/TheSethRose/Alexa-Shopping-List",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

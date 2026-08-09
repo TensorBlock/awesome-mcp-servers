@@ -3,8 +3,8 @@
   "name": "us-all/android-mcp-server",
   "description": "Android MCP server with 76 ADB-based tools across device management, apps, UI automation, logcat, emulator, files, system, and debug. 7 workflow Prompts (crash investigation, ANR, battery drain).",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-us-all-android-mcp-server-59ab74fb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-us-all-android-mcp-server-59ab74fb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-us-all-android-mcp-server-59ab74fb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-us-all-android-mcp-server-59ab74fb/badge.svg)](https://tensorblock.co/mcp/servers/github-us-all-android-mcp-server-59ab74fb)",
   "links": {
     "primary": "https://github.com/us-all/android-mcp-server",
     "repo": "https://github.com/us-all/android-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

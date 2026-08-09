@@ -3,8 +3,8 @@
   "name": "digitarald/vscode-mcp-installer-docs",
   "description": "Facilitates the installation of MCP servers in VS Code through TypeScript-based tools for generating CLI commands and URIs.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-digitarald-vscode-mcp-installer-docs-1236038a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-digitarald-vscode-mcp-installer-docs-1236038a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-digitarald-vscode-mcp-installer-docs-1236038a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-digitarald-vscode-mcp-installer-docs-1236038a/badge.svg)](https://tensorblock.co/mcp/servers/github-digitarald-vscode-mcp-installer-docs-1236038a)",
   "links": {
     "primary": "https://github.com/digitarald/vscode-mcp-installer-docs",
     "repo": "https://github.com/digitarald/vscode-mcp-installer-docs",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

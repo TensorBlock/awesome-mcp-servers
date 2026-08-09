@@ -3,8 +3,8 @@
   "name": "8144225309/superscalar-mcp",
   "description": "Bitcoin Lightning channel factory MCP server with 4 tools — protocol overview, UTXO savings estimator, architecture deep-dives (invalidation trees, timeout trees, MuSig2, watchtowers), and resource links. Based on SuperScalar, which onboards N users into one shared UTXO with no soft fork required.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-8144225309-superscalar-mcp-c5856a46",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-8144225309-superscalar-mcp-c5856a46)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-8144225309-superscalar-mcp-c5856a46",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-8144225309-superscalar-mcp-c5856a46/badge.svg)](https://tensorblock.co/mcp/servers/github-8144225309-superscalar-mcp-c5856a46)",
   "links": {
     "primary": "https://github.com/8144225309/superscalar-mcp",
     "repo": "https://github.com/8144225309/superscalar-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 4
   }

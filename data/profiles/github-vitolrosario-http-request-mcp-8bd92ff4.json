@@ -3,8 +3,8 @@
   "name": "vitolrosario/http-request-mcp",
   "description": "Facilitates HTTP requests using the MCP server, supporting various HTTP methods for streamlined web interactions.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-vitolrosario-http-request-mcp-8bd92ff4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-vitolrosario-http-request-mcp-8bd92ff4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vitolrosario-http-request-mcp-8bd92ff4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vitolrosario-http-request-mcp-8bd92ff4/badge.svg)](https://tensorblock.co/mcp/servers/github-vitolrosario-http-request-mcp-8bd92ff4)",
   "links": {
     "primary": "https://github.com/vitolrosario/http-request-mcp",
     "repo": "https://github.com/vitolrosario/http-request-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

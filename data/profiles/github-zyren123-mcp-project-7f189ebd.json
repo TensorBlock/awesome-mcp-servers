@@ -3,8 +3,8 @@
   "name": "zyren123/mcp_project",
   "description": "A multi-server client project enabling simultaneous connections to multiple MCP servers with OpenAI API integration for code execution, file processing, and shell command execution.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-zyren123-mcp-project-7f189ebd",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zyren123-mcp-project-7f189ebd)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zyren123-mcp-project-7f189ebd",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zyren123-mcp-project-7f189ebd/badge.svg)](https://tensorblock.co/mcp/servers/github-zyren123-mcp-project-7f189ebd)",
   "links": {
     "primary": "https://github.com/zyren123/mcp_project",
     "repo": "https://github.com/zyren123/mcp_project",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

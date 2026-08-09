@@ -3,8 +3,8 @@
   "name": "hsinyuyen/my-postgres-mcp",
   "description": "Facilitates read-only access to PostgreSQL databases for LLMs, enabling schema inspection and query execution.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-hsinyuyen-my-postgres-mcp-a40b59d9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hsinyuyen-my-postgres-mcp-a40b59d9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hsinyuyen-my-postgres-mcp-a40b59d9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hsinyuyen-my-postgres-mcp-a40b59d9/badge.svg)](https://tensorblock.co/mcp/servers/github-hsinyuyen-my-postgres-mcp-a40b59d9)",
   "links": {
     "primary": "https://github.com/hsinyuyen/my-postgres-mcp",
     "repo": "https://github.com/hsinyuyen/my-postgres-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

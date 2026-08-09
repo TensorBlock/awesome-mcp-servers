@@ -3,8 +3,8 @@
   "name": "burnyd/mcp-server-cvp-demo",
   "description": "Demonstrates integration of MCP with Cloudvision portal using a secure token-based setup.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-burnyd-mcp-server-cvp-demo-3d98c77b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-burnyd-mcp-server-cvp-demo-3d98c77b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-burnyd-mcp-server-cvp-demo-3d98c77b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-burnyd-mcp-server-cvp-demo-3d98c77b/badge.svg)](https://tensorblock.co/mcp/servers/github-burnyd-mcp-server-cvp-demo-3d98c77b)",
   "links": {
     "primary": "https://github.com/burnyd/mcp-server-cvp-demo",
     "repo": "https://github.com/burnyd/mcp-server-cvp-demo",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

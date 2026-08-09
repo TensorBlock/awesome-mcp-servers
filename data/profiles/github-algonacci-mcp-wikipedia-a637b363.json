@@ -3,8 +3,8 @@
   "name": "algonacci/mcp-wikipedia",
   "description": "Facilitates client access to Wikipedia pages through an MCP server.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-algonacci-mcp-wikipedia-a637b363",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-algonacci-mcp-wikipedia-a637b363)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-algonacci-mcp-wikipedia-a637b363",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-algonacci-mcp-wikipedia-a637b363/badge.svg)](https://tensorblock.co/mcp/servers/github-algonacci-mcp-wikipedia-a637b363)",
   "links": {
     "primary": "https://github.com/algonacci/mcp-wikipedia",
     "repo": "https://github.com/algonacci/mcp-wikipedia",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

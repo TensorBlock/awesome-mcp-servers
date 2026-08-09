@@ -1,0 +1,61 @@
+{
+  "id": "github-finlynq-finlynq-4eebe290",
+  "name": "finlynq/finlynq",
+  "description": "Open-source personal finance app with a first-party MCP server (91 HTTP / 87 stdio tools). Track income, expenses, budgets, investments, loans, and goals; query and mutate via Claude, ChatGPT, Cursor, or any MCP client. Self-host with Docker + PostgreSQL or use the managed cloud. OAuth 2.1 + DCR, per-user encryption, AGPL-3.0.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-finlynq-finlynq-4eebe290",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-finlynq-finlynq-4eebe290/badge.svg)](https://tensorblock.co/mcp/servers/github-finlynq-finlynq-4eebe290)",
+  "links": {
+    "primary": "https://github.com/finlynq/finlynq",
+    "repo": "https://github.com/finlynq/finlynq",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "AGPL-3.0",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": "oauth",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

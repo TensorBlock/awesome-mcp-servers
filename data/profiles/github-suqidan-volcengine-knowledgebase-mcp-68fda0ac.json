@@ -3,8 +3,8 @@
   "name": "suqidan/volcengine_knowledgebase_mcp",
   "description": "Facilitates knowledge base search and dialogue completion using Volcengine for Claude Desktop.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-suqidan-volcengine-knowledgebase-mcp-68fda0ac",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-suqidan-volcengine-knowledgebase-mcp-68fda0ac)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-suqidan-volcengine-knowledgebase-mcp-68fda0ac",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-suqidan-volcengine-knowledgebase-mcp-68fda0ac/badge.svg)](https://tensorblock.co/mcp/servers/github-suqidan-volcengine-knowledgebase-mcp-68fda0ac)",
   "links": {
     "primary": "https://github.com/suqidan/volcengine_knowledgebase_mcp",
     "repo": "https://github.com/suqidan/volcengine_knowledgebase_mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

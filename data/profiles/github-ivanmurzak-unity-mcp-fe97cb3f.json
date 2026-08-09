@@ -1,0 +1,59 @@
+{
+  "id": "github-ivanmurzak-unity-mcp-fe97cb3f",
+  "name": "Unity-MCP",
+  "description": "Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools.",
+  "category": "Gaming",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ivanmurzak-unity-mcp-fe97cb3f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ivanmurzak-unity-mcp-fe97cb3f/badge.svg)](https://tensorblock.co/mcp/servers/github-ivanmurzak-unity-mcp-fe97cb3f)",
+  "links": {
+    "primary": "https://github.com/IvanMurzak/Unity-MCP",
+    "repo": "https://github.com/IvanMurzak/Unity-MCP",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

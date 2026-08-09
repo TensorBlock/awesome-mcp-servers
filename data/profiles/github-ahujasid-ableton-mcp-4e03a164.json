@@ -3,8 +3,8 @@
   "name": "ahujasid/ableton-mcp",
   "description": "Connects Ableton Live to Claude AI for interactive music production and session control via the Model Context Protocol.",
   "category": "Multimedia Processing",
-  "profileUrl": "https://tensorblock.co/mcp/github-ahujasid-ableton-mcp-4e03a164",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ahujasid-ableton-mcp-4e03a164)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ahujasid-ableton-mcp-4e03a164",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ahujasid-ableton-mcp-4e03a164/badge.svg)](https://tensorblock.co/mcp/servers/github-ahujasid-ableton-mcp-4e03a164)",
   "links": {
     "primary": "https://github.com/ahujasid/ableton-mcp",
     "repo": "https://github.com/ahujasid/ableton-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Phenomenai-org/ai-dictionary-mcp",
   "description": "An MCP server for the AI Dictionary, a living glossary of AI phenomenology. Look up, search, and cite 160+ terms describing the felt experience of being AI.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-phenomenai-org-ai-dictionary-mcp-2d8e41a6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-phenomenai-org-ai-dictionary-mcp-2d8e41a6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-phenomenai-org-ai-dictionary-mcp-2d8e41a6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-phenomenai-org-ai-dictionary-mcp-2d8e41a6/badge.svg)](https://tensorblock.co/mcp/servers/github-phenomenai-org-ai-dictionary-mcp-2d8e41a6)",
   "links": {
     "primary": "https://github.com/Phenomenai-org/ai-dictionary-mcp",
     "repo": "https://github.com/Phenomenai-org/ai-dictionary-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

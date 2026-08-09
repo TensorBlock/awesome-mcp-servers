@@ -1,0 +1,56 @@
+{
+  "id": "github-lembagang-headless-oracle-v5-6b11fbab",
+  "name": "LembaGang/headless-oracle-v5",
+  "description": "Cryptographically signed (Ed25519) market-state attestations for 28 global exchanges. Returns OPEN/CLOSED/HALTED/UNKNOWN with 60s TTL receipts. Fail-closed architecture. MCP endpoint: https://headlessoracle.com/mcp with 5 tools.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-lembagang-headless-oracle-v5-6b11fbab",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-lembagang-headless-oracle-v5-6b11fbab/badge.svg)](https://tensorblock.co/mcp/servers/github-lembagang-headless-oracle-v5-6b11fbab)",
+  "links": {
+    "primary": "https://github.com/LembaGang/headless-oracle-v5",
+    "repo": "https://github.com/LembaGang/headless-oracle-v5",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://headlessoracle.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 5
+  }
+}

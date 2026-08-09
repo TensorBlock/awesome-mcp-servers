@@ -1,0 +1,56 @@
+{
+  "id": "github-anthony-chaudhary-fak-fab8826f",
+  "name": "fak",
+  "description": "Agent tool firewall that fronts an MCP server and adjudicates every tool call through a default-deny capability gate (irreversible actions fail closed), then quarantines suspicious tool results out of the model’s context to contain Tool Poisoning / Memory Poisoning. Exposes five `fak_*` adjudication tools to any MCP client. Single static Go binary, zero external dependencies, Apache-2.0.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-anthony-chaudhary-fak-fab8826f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-anthony-chaudhary-fak-fab8826f/badge.svg)](https://tensorblock.co/mcp/servers/github-anthony-chaudhary-fak-fab8826f)",
+  "links": {
+    "primary": "https://github.com/anthony-chaudhary/fak",
+    "repo": "https://github.com/anthony-chaudhary/fak",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "Apache-2.0",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

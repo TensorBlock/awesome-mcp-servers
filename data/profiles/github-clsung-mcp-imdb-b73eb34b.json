@@ -3,8 +3,8 @@
   "name": "clsung/mcp-imdb",
   "description": "Facilitates access to IMDB data through a Model Context Protocol server, featuring note storage and summarization capabilities.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-clsung-mcp-imdb-b73eb34b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-clsung-mcp-imdb-b73eb34b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-clsung-mcp-imdb-b73eb34b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-clsung-mcp-imdb-b73eb34b/badge.svg)](https://tensorblock.co/mcp/servers/github-clsung-mcp-imdb-b73eb34b)",
   "links": {
     "primary": "https://github.com/clsung/mcp-imdb",
     "repo": "https://github.com/clsung/mcp-imdb",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

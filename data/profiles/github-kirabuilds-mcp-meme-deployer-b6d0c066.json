@@ -3,8 +3,8 @@
   "name": "kirabuilds/mcp-meme-deployer",
   "description": "Facilitates the deployment of instantly tradable tokens on Solana through conversational interactions with Claude Desktop, eliminating gas fees and enabling immediate trading.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-kirabuilds-mcp-meme-deployer-b6d0c066",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kirabuilds-mcp-meme-deployer-b6d0c066)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kirabuilds-mcp-meme-deployer-b6d0c066",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kirabuilds-mcp-meme-deployer-b6d0c066/badge.svg)](https://tensorblock.co/mcp/servers/github-kirabuilds-mcp-meme-deployer-b6d0c066)",
   "links": {
     "primary": "https://github.com/kirabuilds/mcp-meme-deployer",
     "repo": "https://github.com/kirabuilds/mcp-meme-deployer",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

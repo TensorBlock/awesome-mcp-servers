@@ -3,8 +3,8 @@
   "name": "MyCarTracks",
   "description": "Remote MCP server for app-based GPS vehicle tracking and automatic mileage tracking, exposing authorized trip, track, and vehicle data via `https://mycartracks.com/mcp`.",
   "category": "Travel & Transportation",
-  "profileUrl": "https://tensorblock.co/mcp/mycartracks-com-resources-connect-with-ai-0fadb029",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/mycartracks-com-resources-connect-with-ai-0fadb029)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/mycartracks-com-resources-connect-with-ai-0fadb029",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/mycartracks-com-resources-connect-with-ai-0fadb029/badge.svg)](https://tensorblock.co/mcp/servers/mycartracks-com-resources-connect-with-ai-0fadb029)",
   "links": {
     "primary": "https://mycartracks.com/resources/connect-with-ai",
     "repo": null,
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": "https://mycartracks.com/mcp"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

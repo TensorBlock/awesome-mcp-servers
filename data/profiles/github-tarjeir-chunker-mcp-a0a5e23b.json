@@ -3,8 +3,8 @@
   "name": "tarjeir/chunker-mcp",
   "description": "Facilitates code chunking and vectorization using LangChain, storing results in ChromaDB for advanced querying.",
   "category": "Code Execution",
-  "profileUrl": "https://tensorblock.co/mcp/github-tarjeir-chunker-mcp-a0a5e23b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tarjeir-chunker-mcp-a0a5e23b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tarjeir-chunker-mcp-a0a5e23b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tarjeir-chunker-mcp-a0a5e23b/badge.svg)](https://tensorblock.co/mcp/servers/github-tarjeir-chunker-mcp-a0a5e23b)",
   "links": {
     "primary": "https://github.com/tarjeir/chunker-mcp",
     "repo": "https://github.com/tarjeir/chunker-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

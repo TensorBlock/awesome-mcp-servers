@@ -3,14 +3,47 @@
   "name": "edanyal/mcp-client",
   "description": "A TypeScript library for connecting LLM agents to MCP servers, supporting stdio and HTTP+SSE transports with built-in server process management.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-edanyal-mcp-client-7bc9ebd5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-edanyal-mcp-client-7bc9ebd5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-edanyal-mcp-client-7bc9ebd5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-edanyal-mcp-client-7bc9ebd5/badge.svg)](https://tensorblock.co/mcp/servers/github-edanyal-mcp-client-7bc9ebd5)",
   "links": {
     "primary": "https://github.com/edanyal/mcp-client",
     "repo": "https://github.com/edanyal/mcp-client",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -20,6 +53,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

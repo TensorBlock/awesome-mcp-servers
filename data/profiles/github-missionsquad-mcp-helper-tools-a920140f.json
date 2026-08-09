@@ -3,8 +3,8 @@
   "name": "MissionSquad/mcp-helper-tools",
   "description": "Empowers LLM Agents with a suite of system utilities and tools, including IP geolocation, network diagnostics, and cryptographic operations.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-missionsquad-mcp-helper-tools-a920140f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-missionsquad-mcp-helper-tools-a920140f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-missionsquad-mcp-helper-tools-a920140f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-missionsquad-mcp-helper-tools-a920140f/badge.svg)](https://tensorblock.co/mcp/servers/github-missionsquad-mcp-helper-tools-a920140f)",
   "links": {
     "primary": "https://github.com/MissionSquad/mcp-helper-tools",
     "repo": "https://github.com/MissionSquad/mcp-helper-tools",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,58 @@
+{
+  "id": "github-traderouter-trade-router-mcp-2e52ee5d",
+  "name": "TradeRouter/trade-router-mcp",
+  "description": "Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools (swap, limit, trailing, TWAP, DCA, combo orders) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected. Ed25519 server-message verification. Private key never leaves the agent. `npx -y @traderouter/trade-router-mcp`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-traderouter-trade-router-mcp-2e52ee5d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-traderouter-trade-router-mcp-2e52ee5d/badge.svg)](https://tensorblock.co/mcp/servers/github-traderouter-trade-router-mcp-2e52ee5d)",
+  "links": {
+    "primary": "https://github.com/TradeRouter/trade-router-mcp",
+    "repo": "https://github.com/TradeRouter/trade-router-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y @traderouter/trade-router-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 21
+  }
+}

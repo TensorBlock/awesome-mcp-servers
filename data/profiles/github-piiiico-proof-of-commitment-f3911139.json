@@ -1,0 +1,61 @@
+{
+  "id": "github-piiiico-proof-of-commitment-f3911139",
+  "name": "piiiico/proof-of-commitment",
+  "description": "Behavioral supply chain risk scoring for npm, PyPI, Cargo, and Go. Scores packages 0–100 on publisher concentration, release consistency, longevity, and OpenSSF Scorecard. Flags sole-publisher packages with high download counts — the attack profile behind LiteLLM and axios compromises. 11 MCP tools via remote Streamable HTTP. Also: CLI (`npx proof-of-commitment`), REST API, GitHub Action, Cursor + Claude Code hooks.",
+  "category": "Security",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-piiiico-proof-of-commitment-f3911139",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-piiiico-proof-of-commitment-f3911139/badge.svg)](https://tensorblock.co/mcp/servers/github-piiiico-proof-of-commitment-f3911139)",
+  "links": {
+    "primary": "https://github.com/piiiico/proof-of-commitment",
+    "repo": "https://github.com/piiiico/proof-of-commitment",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx proof-of-commitment"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": 11
+  }
+}

@@ -3,8 +3,8 @@
   "name": "dino65-dev/Finance_mcp-server",
   "description": "Provides real-time financial data to AI models via Yahoo Finance using the Model Context Protocol.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-dino65-dev-finance-mcp-server-289f4d5b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dino65-dev-finance-mcp-server-289f4d5b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dino65-dev-finance-mcp-server-289f4d5b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dino65-dev-finance-mcp-server-289f4d5b/badge.svg)](https://tensorblock.co/mcp/servers/github-dino65-dev-finance-mcp-server-289f4d5b)",
   "links": {
     "primary": "https://github.com/dino65-dev/Finance_mcp-server",
     "repo": "https://github.com/dino65-dev/Finance_mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "hakxel/mantine-ui-server",
   "description": "Facilitates interaction with Mantine UI components through documentation, generation, and theme utilities.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-hakxel-mantine-ui-server-85534fc1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hakxel-mantine-ui-server-85534fc1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hakxel-mantine-ui-server-85534fc1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hakxel-mantine-ui-server-85534fc1/badge.svg)](https://tensorblock.co/mcp/servers/github-hakxel-mantine-ui-server-85534fc1)",
   "links": {
     "primary": "https://github.com/hakxel/mantine-ui-server",
     "repo": "https://github.com/hakxel/mantine-ui-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "namejiahui/mcp-boss-zp",
   "description": "Facilitates large language models in accessing Boss Zhipin interfaces for job filtering and communication.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-namejiahui-mcp-boss-zp-2ccb325f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-namejiahui-mcp-boss-zp-2ccb325f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-namejiahui-mcp-boss-zp-2ccb325f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-namejiahui-mcp-boss-zp-2ccb325f/badge.svg)](https://tensorblock.co/mcp/servers/github-namejiahui-mcp-boss-zp-2ccb325f)",
   "links": {
     "primary": "https://github.com/namejiahui/mcp-boss-zp",
     "repo": "https://github.com/namejiahui/mcp-boss-zp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "peakmojo/applescript-mcp",
   "description": "Empower your Mac with seamless AppleScript execution for comprehensive control over applications and system functions.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-peakmojo-applescript-mcp-07dc11e8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-peakmojo-applescript-mcp-07dc11e8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-peakmojo-applescript-mcp-07dc11e8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-peakmojo-applescript-mcp-07dc11e8/badge.svg)](https://tensorblock.co/mcp/servers/github-peakmojo-applescript-mcp-07dc11e8)",
   "links": {
     "primary": "https://github.com/peakmojo/applescript-mcp",
     "repo": "https://github.com/peakmojo/applescript-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

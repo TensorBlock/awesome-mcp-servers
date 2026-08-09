@@ -3,8 +3,8 @@
   "name": "DataWhisker/x-mcp-server",
   "description": "Facilitates seamless integration with X (Twitter) by enabling timeline reading and tweet engagement through Claude desktop.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-datawhisker-x-mcp-server-e3877d37",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-datawhisker-x-mcp-server-e3877d37)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-datawhisker-x-mcp-server-e3877d37",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-datawhisker-x-mcp-server-e3877d37/badge.svg)](https://tensorblock.co/mcp/servers/github-datawhisker-x-mcp-server-e3877d37)",
   "links": {
     "primary": "https://github.com/DataWhisker/x-mcp-server",
     "repo": "https://github.com/DataWhisker/x-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

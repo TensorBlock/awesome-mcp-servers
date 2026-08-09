@@ -3,8 +3,8 @@
   "name": "acebaggins/taskwarrior-mcp",
   "description": "Enhance task management with real-time updates and smart prompts using Taskwarrior MCP.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-acebaggins-taskwarrior-mcp-2484f270",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-acebaggins-taskwarrior-mcp-2484f270)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-acebaggins-taskwarrior-mcp-2484f270",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-acebaggins-taskwarrior-mcp-2484f270/badge.svg)](https://tensorblock.co/mcp/servers/github-acebaggins-taskwarrior-mcp-2484f270)",
   "links": {
     "primary": "https://github.com/acebaggins/taskwarrior-mcp",
     "repo": "https://github.com/acebaggins/taskwarrior-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

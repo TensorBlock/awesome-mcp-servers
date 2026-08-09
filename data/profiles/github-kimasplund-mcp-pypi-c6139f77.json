@@ -3,8 +3,8 @@
   "name": "kimasplund/mcp-pypi",
   "description": "A robust Python client and CLI tool for interacting with PyPI, featuring a JSON-RPC 2.0 compliant server for seamless integration with AI assistants supporting the MCP protocol.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-kimasplund-mcp-pypi-c6139f77",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kimasplund-mcp-pypi-c6139f77)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kimasplund-mcp-pypi-c6139f77",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kimasplund-mcp-pypi-c6139f77/badge.svg)](https://tensorblock.co/mcp/servers/github-kimasplund-mcp-pypi-c6139f77)",
   "links": {
     "primary": "https://github.com/kimasplund/mcp-pypi",
     "repo": "https://github.com/kimasplund/mcp-pypi",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

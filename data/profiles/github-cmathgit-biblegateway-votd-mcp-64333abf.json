@@ -3,8 +3,8 @@
   "name": "cmathgit/biblegateway-votd-mcp",
   "description": "Access the BibleGateway Verse of the Day in multiple languages and versions without requiring an API key.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-cmathgit-biblegateway-votd-mcp-64333abf",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cmathgit-biblegateway-votd-mcp-64333abf)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cmathgit-biblegateway-votd-mcp-64333abf",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cmathgit-biblegateway-votd-mcp-64333abf/badge.svg)](https://tensorblock.co/mcp/servers/github-cmathgit-biblegateway-votd-mcp-64333abf)",
   "links": {
     "primary": "https://github.com/cmathgit/biblegateway-votd-mcp",
     "repo": "https://github.com/cmathgit/biblegateway-votd-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "api-key",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

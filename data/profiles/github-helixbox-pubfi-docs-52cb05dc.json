@@ -1,0 +1,68 @@
+{
+  "id": "github-helixbox-pubfi-docs-52cb05dc",
+  "name": "PubFi MCP",
+  "description": "PubFi MCP lets agents route crypto data needs through authenticated hosted Streamable HTTP MCP tools for capability search, route planning, route execution, route explanation, schema lookup, and pricing quotes. Provider identities, endpoint paths, schemas, freshness, and readiness appear as route/catalog data rather than provider-specific public tool names.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-helixbox-pubfi-docs-52cb05dc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-helixbox-pubfi-docs-52cb05dc/badge.svg)](https://tensorblock.co/mcp/servers/github-helixbox-pubfi-docs-52cb05dc)",
+  "links": {
+    "primary": "https://github.com/helixbox/pubfi-docs",
+    "repo": "https://github.com/helixbox/pubfi-docs",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://mcp.pubfi.ai"
+  },
+  "install": {
+    "commands": [
+      "MCP pointer: https://pubfi.ai/.well-known/mcp.json"
+    ],
+    "env": [
+      "PUBFI_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "and other clients that support authenticated Streamable HTTP MCP servers."
+  ],
+  "license": "Public docs repository license metadata in https://github.com/helixbox/pubfi-docs.",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "bearer",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

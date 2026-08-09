@@ -3,8 +3,8 @@
   "name": "haymon-ai/database",
   "description": "Single-binary MCP server for MySQL, MariaDB, PostgreSQL & SQLite. Built in Rust with zero runtime dependencies.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-haymon-ai-database-354b0caf",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-haymon-ai-database-354b0caf)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-haymon-ai-database-354b0caf",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-haymon-ai-database-354b0caf/badge.svg)](https://tensorblock.co/mcp/servers/github-haymon-ai-database-354b0caf)",
   "links": {
     "primary": "https://github.com/haymon-ai/database",
     "repo": "https://github.com/haymon-ai/database",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

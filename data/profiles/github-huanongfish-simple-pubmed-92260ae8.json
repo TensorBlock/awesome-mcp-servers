@@ -3,8 +3,8 @@
   "name": "huanongfish/simple-pubmed",
   "description": "Access PubMed articles via the Entrez API, offering keyword search, abstracts, and full text for open access articles.",
   "category": "Science & Research",
-  "profileUrl": "https://tensorblock.co/mcp/github-huanongfish-simple-pubmed-92260ae8",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-huanongfish-simple-pubmed-92260ae8)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-huanongfish-simple-pubmed-92260ae8",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-huanongfish-simple-pubmed-92260ae8/badge.svg)](https://tensorblock.co/mcp/servers/github-huanongfish-simple-pubmed-92260ae8)",
   "links": {
     "primary": "https://github.com/huanongfish/simple-pubmed",
     "repo": "https://github.com/huanongfish/simple-pubmed",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

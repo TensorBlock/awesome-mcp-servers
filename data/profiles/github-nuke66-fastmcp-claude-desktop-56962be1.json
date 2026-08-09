@@ -3,8 +3,8 @@
   "name": "nuke66/FastMCP_Claude_Desktop",
   "description": "Facilitates MCP server integration with Claude Desktop through configuration and command execution.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-nuke66-fastmcp-claude-desktop-56962be1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-nuke66-fastmcp-claude-desktop-56962be1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-nuke66-fastmcp-claude-desktop-56962be1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-nuke66-fastmcp-claude-desktop-56962be1/badge.svg)](https://tensorblock.co/mcp/servers/github-nuke66-fastmcp-claude-desktop-56962be1)",
   "links": {
     "primary": "https://github.com/nuke66/FastMCP_Claude_Desktop",
     "repo": "https://github.com/nuke66/FastMCP_Claude_Desktop",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

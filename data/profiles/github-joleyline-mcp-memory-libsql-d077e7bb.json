@@ -3,8 +3,8 @@
   "name": "joleyline/mcp-memory-libsql",
   "description": "High-performance persistent memory system utilizing libSQL for vector search and semantic knowledge storage, ideal for AI agents and knowledge graph applications.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-joleyline-mcp-memory-libsql-d077e7bb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-joleyline-mcp-memory-libsql-d077e7bb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-joleyline-mcp-memory-libsql-d077e7bb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-joleyline-mcp-memory-libsql-d077e7bb/badge.svg)](https://tensorblock.co/mcp/servers/github-joleyline-mcp-memory-libsql-d077e7bb)",
   "links": {
     "primary": "https://github.com/joleyline/mcp-memory-libsql",
     "repo": "https://github.com/joleyline/mcp-memory-libsql",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

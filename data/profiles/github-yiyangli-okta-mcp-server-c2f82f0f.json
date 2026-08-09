@@ -3,8 +3,8 @@
   "name": "YiyangLi/okta-mcp-server",
   "description": "Facilitates seamless interaction with Okta organizations through Claude, enabling user and group management, application assignments, and more.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-yiyangli-okta-mcp-server-c2f82f0f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yiyangli-okta-mcp-server-c2f82f0f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yiyangli-okta-mcp-server-c2f82f0f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yiyangli-okta-mcp-server-c2f82f0f/badge.svg)](https://tensorblock.co/mcp/servers/github-yiyangli-okta-mcp-server-c2f82f0f)",
   "links": {
     "primary": "https://github.com/YiyangLi/okta-mcp-server",
     "repo": "https://github.com/YiyangLi/okta-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

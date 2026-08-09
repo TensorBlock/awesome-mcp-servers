@@ -3,8 +3,8 @@
   "name": "AshlynnLu/search-linkedin-mcp",
   "description": "Facilitates LinkedIn company profile verification through search, web crawling, and content validation using MCP.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-ashlynnlu-search-linkedin-mcp-88607a79",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ashlynnlu-search-linkedin-mcp-88607a79)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ashlynnlu-search-linkedin-mcp-88607a79",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ashlynnlu-search-linkedin-mcp-88607a79/badge.svg)](https://tensorblock.co/mcp/servers/github-ashlynnlu-search-linkedin-mcp-88607a79)",
   "links": {
     "primary": "https://github.com/AshlynnLu/search-linkedin-mcp",
     "repo": "https://github.com/AshlynnLu/search-linkedin-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

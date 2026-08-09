@@ -3,8 +3,8 @@
   "name": "axiomhq/mcp-server-axiom",
   "description": "Facilitates AI agents in querying Axiom datasets using Axiom Processing Language through a Model Context Protocol server.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-axiomhq-mcp-server-axiom-d339d095",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-axiomhq-mcp-server-axiom-d339d095)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-axiomhq-mcp-server-axiom-d339d095",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-axiomhq-mcp-server-axiom-d339d095/badge.svg)](https://tensorblock.co/mcp/servers/github-axiomhq-mcp-server-axiom-d339d095)",
   "links": {
     "primary": "https://github.com/axiomhq/mcp-server-axiom",
     "repo": "https://github.com/axiomhq/mcp-server-axiom",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

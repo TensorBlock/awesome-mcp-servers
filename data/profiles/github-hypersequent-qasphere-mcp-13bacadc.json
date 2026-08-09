@@ -3,8 +3,8 @@
   "name": "Hypersequent/qasphere-mcp",
   "description": "Facilitates integration with QA Sphere test management system, enabling LLMs to interact with test cases through MCP.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-hypersequent-qasphere-mcp-13bacadc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hypersequent-qasphere-mcp-13bacadc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hypersequent-qasphere-mcp-13bacadc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hypersequent-qasphere-mcp-13bacadc/badge.svg)](https://tensorblock.co/mcp/servers/github-hypersequent-qasphere-mcp-13bacadc)",
   "links": {
     "primary": "https://github.com/Hypersequent/qasphere-mcp",
     "repo": "https://github.com/Hypersequent/qasphere-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

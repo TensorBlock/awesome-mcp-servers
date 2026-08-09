@@ -3,8 +3,8 @@
   "name": "wgr1984/ns-lookup-mcp",
   "description": "Provides a REST API for DNS lookups using the nslookup command, enabling easy integration of DNS resolution into applications.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-wgr1984-ns-lookup-mcp-ddb5b5fe",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wgr1984-ns-lookup-mcp-ddb5b5fe)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wgr1984-ns-lookup-mcp-ddb5b5fe",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wgr1984-ns-lookup-mcp-ddb5b5fe/badge.svg)](https://tensorblock.co/mcp/servers/github-wgr1984-ns-lookup-mcp-ddb5b5fe)",
   "links": {
     "primary": "https://github.com/wgr1984/ns-lookup-mcp",
     "repo": "https://github.com/wgr1984/ns-lookup-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

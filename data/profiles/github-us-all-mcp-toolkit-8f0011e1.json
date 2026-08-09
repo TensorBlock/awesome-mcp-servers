@@ -3,14 +3,46 @@
   "name": "us-all/mcp-toolkit",
   "description": "Shared library for MCP server authors with token-efficient defaults: category toggles, extractFields response slimming, search-tools meta-tool, ToolRegistry, and runtime helper supporting stdio + Streamable HTTP transports.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-us-all-mcp-toolkit-8f0011e1",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-us-all-mcp-toolkit-8f0011e1)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-us-all-mcp-toolkit-8f0011e1",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-us-all-mcp-toolkit-8f0011e1/badge.svg)](https://tensorblock.co/mcp/servers/github-us-all-mcp-toolkit-8f0011e1)",
   "links": {
     "primary": "https://github.com/us-all/mcp-toolkit",
     "repo": "https://github.com/us-all/mcp-toolkit",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

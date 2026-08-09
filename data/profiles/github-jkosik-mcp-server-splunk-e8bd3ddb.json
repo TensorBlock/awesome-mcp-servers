@@ -3,14 +3,46 @@
   "name": "jkosik/mcp-server-splunk",
   "description": "Facilitates seamless integration with Splunk by providing a Go-based MCP server supporting STDIO and SSE modes.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-jkosik-mcp-server-splunk-e8bd3ddb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jkosik-mcp-server-splunk-e8bd3ddb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jkosik-mcp-server-splunk-e8bd3ddb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jkosik-mcp-server-splunk-e8bd3ddb/badge.svg)](https://tensorblock.co/mcp/servers/github-jkosik-mcp-server-splunk-e8bd3ddb)",
   "links": {
     "primary": "https://github.com/jkosik/mcp-server-splunk",
     "repo": "https://github.com/jkosik/mcp-server-splunk",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

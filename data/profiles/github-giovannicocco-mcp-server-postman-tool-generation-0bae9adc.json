@@ -3,8 +3,8 @@
   "name": "giovannicocco/mcp-server-postman-tool-generation",
   "description": "Generates AI agent tools from Postman collections, converting API endpoints into type-safe code compatible with various AI frameworks.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-giovannicocco-mcp-server-postman-tool-generation-0bae9adc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-giovannicocco-mcp-server-postman-tool-generation-0bae9adc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-giovannicocco-mcp-server-postman-tool-generation-0bae9adc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-giovannicocco-mcp-server-postman-tool-generation-0bae9adc/badge.svg)](https://tensorblock.co/mcp/servers/github-giovannicocco-mcp-server-postman-tool-generation-0bae9adc)",
   "links": {
     "primary": "https://github.com/giovannicocco/mcp-server-postman-tool-generation",
     "repo": "https://github.com/giovannicocco/mcp-server-postman-tool-generation",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "monad-developers/monad-mcp-tutorial",
   "description": "Facilitates querying MON token balances on the Monad testnet via an MCP server integrated with Claude Desktop.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-monad-developers-monad-mcp-tutorial-28fc6edc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-monad-developers-monad-mcp-tutorial-28fc6edc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-monad-developers-monad-mcp-tutorial-28fc6edc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-monad-developers-monad-mcp-tutorial-28fc6edc/badge.svg)](https://tensorblock.co/mcp/servers/github-monad-developers-monad-mcp-tutorial-28fc6edc)",
   "links": {
     "primary": "https://github.com/monad-developers/monad-mcp-tutorial",
     "repo": "https://github.com/monad-developers/monad-mcp-tutorial",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

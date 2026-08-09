@@ -3,8 +3,8 @@
   "name": "jespino/mmctl-mcp",
   "description": "Facilitates AI-driven administration of Mattermost servers through a structured interface, leveraging Claude for enhanced management capabilities.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-jespino-mmctl-mcp-f5f90a84",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jespino-mmctl-mcp-f5f90a84)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jespino-mmctl-mcp-f5f90a84",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jespino-mmctl-mcp-f5f90a84/badge.svg)](https://tensorblock.co/mcp/servers/github-jespino-mmctl-mcp-f5f90a84)",
   "links": {
     "primary": "https://github.com/jespino/mmctl-mcp",
     "repo": "https://github.com/jespino/mmctl-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

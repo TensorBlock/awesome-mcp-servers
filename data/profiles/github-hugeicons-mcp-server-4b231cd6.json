@@ -3,8 +3,8 @@
   "name": "hugeicons/mcp-server",
   "description": "Facilitates seamless integration of Hugeicons across various platforms by providing tools, resources, and platform-specific guides for AI assistants.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-hugeicons-mcp-server-4b231cd6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hugeicons-mcp-server-4b231cd6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hugeicons-mcp-server-4b231cd6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hugeicons-mcp-server-4b231cd6/badge.svg)](https://tensorblock.co/mcp/servers/github-hugeicons-mcp-server-4b231cd6)",
   "links": {
     "primary": "https://github.com/hugeicons/mcp-server",
     "repo": "https://github.com/hugeicons/mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

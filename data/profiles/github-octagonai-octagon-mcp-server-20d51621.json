@@ -3,8 +3,8 @@
   "name": "OctagonAI/octagon-mcp-server",
   "description": "Integrates with Octagon API to provide specialized AI agents for comprehensive market intelligence and financial research.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-octagonai-octagon-mcp-server-20d51621",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-octagonai-octagon-mcp-server-20d51621)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-octagonai-octagon-mcp-server-20d51621",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-octagonai-octagon-mcp-server-20d51621/badge.svg)](https://tensorblock.co/mcp/servers/github-octagonai-octagon-mcp-server-20d51621)",
   "links": {
     "primary": "https://github.com/OctagonAI/octagon-mcp-server",
     "repo": "https://github.com/OctagonAI/octagon-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,56 @@
+{
+  "id": "github-daedalus-mcp-homeassistant-e02c1667",
+  "name": "daedalus/mcp-homeassistant",
+  "description": "MCP server for Home Assistant integration.",
+  "category": "Hardware & IoT",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-daedalus-mcp-homeassistant-e02c1667",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-daedalus-mcp-homeassistant-e02c1667/badge.svg)](https://tensorblock.co/mcp/servers/github-daedalus-mcp-homeassistant-e02c1667)",
+  "links": {
+    "primary": "https://github.com/daedalus/mcp-homeassistant",
+    "repo": "https://github.com/daedalus/mcp-homeassistant",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

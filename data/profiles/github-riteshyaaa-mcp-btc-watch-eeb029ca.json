@@ -3,8 +3,8 @@
   "name": "riteshyaaa/MCP-BTC-Watch",
   "description": "Provides Claude AI with real-time Bitcoin price data using a Model Context Protocol server, integrating with CoinMarketCap and CoinGecko APIs for market information.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-riteshyaaa-mcp-btc-watch-eeb029ca",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-riteshyaaa-mcp-btc-watch-eeb029ca)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-riteshyaaa-mcp-btc-watch-eeb029ca",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-riteshyaaa-mcp-btc-watch-eeb029ca/badge.svg)](https://tensorblock.co/mcp/servers/github-riteshyaaa-mcp-btc-watch-eeb029ca)",
   "links": {
     "primary": "https://github.com/riteshyaaa/MCP-BTC-Watch",
     "repo": "https://github.com/riteshyaaa/MCP-BTC-Watch",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

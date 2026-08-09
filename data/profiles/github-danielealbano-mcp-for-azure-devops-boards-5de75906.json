@@ -3,14 +3,46 @@
   "name": "danielealbano/mcp-for-azure-devops-boards",
   "description": "The necessary bits to let your favourite AI manage Azure DevOps Boards like a project manager, with stdio and HTTP support and authentication via standard Azure login.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-danielealbano-mcp-for-azure-devops-boards-5de75906",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-danielealbano-mcp-for-azure-devops-boards-5de75906)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-danielealbano-mcp-for-azure-devops-boards-5de75906",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-danielealbano-mcp-for-azure-devops-boards-5de75906/badge.svg)](https://tensorblock.co/mcp/servers/github-danielealbano-mcp-for-azure-devops-boards-5de75906)",
   "links": {
     "primary": "https://github.com/danielealbano/mcp-for-azure-devops-boards",
     "repo": "https://github.com/danielealbano/mcp-for-azure-devops-boards",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

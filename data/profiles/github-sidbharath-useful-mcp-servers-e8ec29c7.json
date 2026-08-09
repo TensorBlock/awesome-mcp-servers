@@ -3,8 +3,8 @@
   "name": "sidbharath/useful-mcp-servers",
   "description": "A versatile collection of MCP servers designed to streamline AI interactions with platforms like Twitter and WordPress.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-sidbharath-useful-mcp-servers-e8ec29c7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sidbharath-useful-mcp-servers-e8ec29c7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sidbharath-useful-mcp-servers-e8ec29c7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sidbharath-useful-mcp-servers-e8ec29c7/badge.svg)](https://tensorblock.co/mcp/servers/github-sidbharath-useful-mcp-servers-e8ec29c7)",
   "links": {
     "primary": "https://github.com/sidbharath/useful-mcp-servers",
     "repo": "https://github.com/sidbharath/useful-mcp-servers",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

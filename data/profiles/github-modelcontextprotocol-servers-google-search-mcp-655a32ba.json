@@ -3,8 +3,8 @@
   "name": "modelcontextprotocol-servers/google-search-mcp",
   "description": "A Playwright-based tool that performs Google searches, bypassing anti-bot mechanisms, and integrates with AI assistants for real-time search capabilities.",
   "category": "Search",
-  "profileUrl": "https://tensorblock.co/mcp/github-modelcontextprotocol-servers-google-search-mcp-655a32ba",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-modelcontextprotocol-servers-google-search-mcp-655a32ba)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-modelcontextprotocol-servers-google-search-mcp-655a32ba",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-modelcontextprotocol-servers-google-search-mcp-655a32ba/badge.svg)](https://tensorblock.co/mcp/servers/github-modelcontextprotocol-servers-google-search-mcp-655a32ba)",
   "links": {
     "primary": "https://github.com/modelcontextprotocol-servers/google-search-mcp",
     "repo": "https://github.com/modelcontextprotocol-servers/google-search-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

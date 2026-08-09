@@ -3,8 +3,8 @@
   "name": "ElromEvedElElyon/flash-payment-system",
   "description": "First write-capable Bitcoin Runes MCP server. 12 tools — mint, transfer, batch-mint, list BITCOIN•USD•ONE Runes, Chainlink Proof of Reserves, agent swarm coordination, and x402 agent-to-agent payments. bUSD1 stablecoin backed 1:1 by Runes on Bitcoin L1. 99 tests. Install: `git clone https://github.com/ElromEvedElElyon/flash-payment-system.git && cd flash-payment-system && npm install && npm run build`",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-elromevedelelyon-flash-payment-system-8208df5a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-elromevedelelyon-flash-payment-system-8208df5a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-elromevedelelyon-flash-payment-system-8208df5a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-elromevedelelyon-flash-payment-system-8208df5a/badge.svg)](https://tensorblock.co/mcp/servers/github-elromevedelelyon-flash-payment-system-8208df5a)",
   "links": {
     "primary": "https://github.com/ElromEvedElElyon/flash-payment-system",
     "repo": "https://github.com/ElromEvedElElyon/flash-payment-system",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "git clone https://github.com/ElromEvedElElyon/flash-payment-system.git && cd flash-payment-system && npm install && npm run build"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 12
   }

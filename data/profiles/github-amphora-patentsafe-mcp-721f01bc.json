@@ -3,8 +3,8 @@
   "name": "amphora/patentsafe-mcp",
   "description": "Connects to PatentSafe to retrieve documents using raw Lucene queries.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-amphora-patentsafe-mcp-721f01bc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amphora-patentsafe-mcp-721f01bc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-amphora-patentsafe-mcp-721f01bc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-amphora-patentsafe-mcp-721f01bc/badge.svg)](https://tensorblock.co/mcp/servers/github-amphora-patentsafe-mcp-721f01bc)",
   "links": {
     "primary": "https://github.com/amphora/patentsafe-mcp",
     "repo": "https://github.com/amphora/patentsafe-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

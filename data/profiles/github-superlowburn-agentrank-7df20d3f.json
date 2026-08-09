@@ -3,8 +3,8 @@
   "name": "superlowburn/agentrank",
   "description": "Live, quality-scored index of 25,000+ MCP servers. Scores tools daily using real GitHub signals — freshness, issue health, contributors, dependents, and stars. Search and discover currently maintained tools via 3 MCP tools. Available as `agentrank-mcp-server` on npm.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-superlowburn-agentrank-7df20d3f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-superlowburn-agentrank-7df20d3f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-superlowburn-agentrank-7df20d3f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-superlowburn-agentrank-7df20d3f/badge.svg)](https://tensorblock.co/mcp/servers/github-superlowburn-agentrank-7df20d3f)",
   "links": {
     "primary": "https://github.com/superlowburn/agentrank",
     "repo": "https://github.com/superlowburn/agentrank",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 3
   }

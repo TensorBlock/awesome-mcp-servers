@@ -3,8 +3,8 @@
   "name": "roboulos/remote-mcp-server",
   "description": "A remote MCP server leveraging Cloudflare Workers and Xano for efficient tool management, session tracking, and OAuth integration.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-roboulos-remote-mcp-server-08fc8acb",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-roboulos-remote-mcp-server-08fc8acb)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-roboulos-remote-mcp-server-08fc8acb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-roboulos-remote-mcp-server-08fc8acb/badge.svg)](https://tensorblock.co/mcp/servers/github-roboulos-remote-mcp-server-08fc8acb)",
   "links": {
     "primary": "https://github.com/roboulos/remote-mcp-server",
     "repo": "https://github.com/roboulos/remote-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "oauth",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

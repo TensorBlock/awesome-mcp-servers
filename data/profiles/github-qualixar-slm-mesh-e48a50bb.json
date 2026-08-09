@@ -1,0 +1,60 @@
+{
+  "id": "github-qualixar-slm-mesh-e48a50bb",
+  "name": "qualixar/slm-mesh",
+  "description": "Peer-to-peer communication for AI coding agents. 8 MCP tools for peer discovery, messaging, broadcast, shared state, file locking, and real-time events. Works with any MCP agent (Claude Code, Cursor, Aider, Windsurf, Codex).",
+  "category": "Communication & Messaging",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-qualixar-slm-mesh-e48a50bb",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-qualixar-slm-mesh-e48a50bb/badge.svg)](https://tensorblock.co/mcp/servers/github-qualixar-slm-mesh-e48a50bb)",
+  "links": {
+    "primary": "https://github.com/qualixar/slm-mesh",
+    "repo": "https://github.com/qualixar/slm-mesh",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 8
+  }
+}

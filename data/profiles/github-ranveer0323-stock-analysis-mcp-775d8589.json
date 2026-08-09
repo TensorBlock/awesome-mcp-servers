@@ -3,8 +3,8 @@
   "name": "ranveer0323/stock-analysis-mcp",
   "description": "Provides real-time and historical stock market data from Alpha Vantage API for MCP clients.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-ranveer0323-stock-analysis-mcp-775d8589",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ranveer0323-stock-analysis-mcp-775d8589)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ranveer0323-stock-analysis-mcp-775d8589",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ranveer0323-stock-analysis-mcp-775d8589/badge.svg)](https://tensorblock.co/mcp/servers/github-ranveer0323-stock-analysis-mcp-775d8589)",
   "links": {
     "primary": "https://github.com/ranveer0323/stock-analysis-mcp",
     "repo": "https://github.com/ranveer0323/stock-analysis-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "EdenYavin/OSV-MCP",
   "description": "A lightweight server for querying the OSV database to fetch CVE details, affected versions, and fix versions using the Model Context Protocol.",
   "category": "Operating System & Command Line",
-  "profileUrl": "https://tensorblock.co/mcp/github-edenyavin-osv-mcp-ac5cf958",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-edenyavin-osv-mcp-ac5cf958)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-edenyavin-osv-mcp-ac5cf958",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-edenyavin-osv-mcp-ac5cf958/badge.svg)](https://tensorblock.co/mcp/servers/github-edenyavin-osv-mcp-ac5cf958)",
   "links": {
     "primary": "https://github.com/EdenYavin/OSV-MCP",
     "repo": "https://github.com/EdenYavin/OSV-MCP",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

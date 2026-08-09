@@ -3,8 +3,8 @@
   "name": "DxO-AI-Dep/DxO-MCP-SQL-BI-INSTALLER",
   "description": "Facilitates the integration of SQLite databases with Claude Desktop using the `mcp-alchemy` server for seamless data analysis and business intelligence tasks.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-dxo-ai-dep-dxo-mcp-sql-bi-installer-a7fe27d5",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-dxo-ai-dep-dxo-mcp-sql-bi-installer-a7fe27d5)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-dxo-ai-dep-dxo-mcp-sql-bi-installer-a7fe27d5",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-dxo-ai-dep-dxo-mcp-sql-bi-installer-a7fe27d5/badge.svg)](https://tensorblock.co/mcp/servers/github-dxo-ai-dep-dxo-mcp-sql-bi-installer-a7fe27d5)",
   "links": {
     "primary": "https://github.com/DxO-AI-Dep/DxO-MCP-SQL-BI-INSTALLER",
     "repo": "https://github.com/DxO-AI-Dep/DxO-MCP-SQL-BI-INSTALLER",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

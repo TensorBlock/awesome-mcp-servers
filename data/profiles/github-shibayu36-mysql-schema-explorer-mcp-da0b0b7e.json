@@ -3,8 +3,8 @@
   "name": "shibayu36/mysql-schema-explorer-mcp",
   "description": "Facilitates efficient access to MySQL database schema information using the Model Context Protocol, ideal for large-scale databases.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-shibayu36-mysql-schema-explorer-mcp-da0b0b7e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shibayu36-mysql-schema-explorer-mcp-da0b0b7e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shibayu36-mysql-schema-explorer-mcp-da0b0b7e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shibayu36-mysql-schema-explorer-mcp-da0b0b7e/badge.svg)](https://tensorblock.co/mcp/servers/github-shibayu36-mysql-schema-explorer-mcp-da0b0b7e)",
   "links": {
     "primary": "https://github.com/shibayu36/mysql-schema-explorer-mcp",
     "repo": "https://github.com/shibayu36/mysql-schema-explorer-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

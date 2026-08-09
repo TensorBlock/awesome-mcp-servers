@@ -3,8 +3,8 @@
   "name": "PhialsBasement/nmap-mcp-server",
   "description": "Facilitates AI-driven network scanning and security assessments using NMAP through a standardized MCP interface.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-phialsbasement-nmap-mcp-server-96688310",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-phialsbasement-nmap-mcp-server-96688310)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-phialsbasement-nmap-mcp-server-96688310",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-phialsbasement-nmap-mcp-server-96688310/badge.svg)](https://tensorblock.co/mcp/servers/github-phialsbasement-nmap-mcp-server-96688310)",
   "links": {
     "primary": "https://github.com/PhialsBasement/nmap-mcp-server",
     "repo": "https://github.com/PhialsBasement/nmap-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

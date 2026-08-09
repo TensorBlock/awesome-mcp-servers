@@ -3,8 +3,8 @@
   "name": "jhawkins11/task-manager-mcp",
   "description": "Node.js server leveraging LLMs for AI-driven task management and code review, designed for seamless integration with Cursor.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-jhawkins11-task-manager-mcp-3c95f063",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jhawkins11-task-manager-mcp-3c95f063)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jhawkins11-task-manager-mcp-3c95f063",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jhawkins11-task-manager-mcp-3c95f063/badge.svg)](https://tensorblock.co/mcp/servers/github-jhawkins11-task-manager-mcp-3c95f063)",
   "links": {
     "primary": "https://github.com/jhawkins11/task-manager-mcp",
     "repo": "https://github.com/jhawkins11/task-manager-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

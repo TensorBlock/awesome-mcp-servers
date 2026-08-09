@@ -3,8 +3,8 @@
   "name": "cloud-apim/otoroshi-mcp-proxy",
   "description": "A local proxy facilitating MCP communication through an Otoroshi endpoint, supporting various transport protocols.",
   "category": "Cloud Platforms & Services",
-  "profileUrl": "https://tensorblock.co/mcp/github-cloud-apim-otoroshi-mcp-proxy-07033ff4",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cloud-apim-otoroshi-mcp-proxy-07033ff4)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cloud-apim-otoroshi-mcp-proxy-07033ff4",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cloud-apim-otoroshi-mcp-proxy-07033ff4/badge.svg)](https://tensorblock.co/mcp/servers/github-cloud-apim-otoroshi-mcp-proxy-07033ff4)",
   "links": {
     "primary": "https://github.com/cloud-apim/otoroshi-mcp-proxy",
     "repo": "https://github.com/cloud-apim/otoroshi-mcp-proxy",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

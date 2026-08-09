@@ -3,8 +3,8 @@
   "name": "tahooki/unreal-blender-mcp",
   "description": "Facilitates AI-driven control of Blender and Unreal Engine through a unified MCP server, enabling seamless integration and interaction with AI agents like Claude and ChatGPT.",
   "category": "Gaming",
-  "profileUrl": "https://tensorblock.co/mcp/github-tahooki-unreal-blender-mcp-58fcc7c2",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-tahooki-unreal-blender-mcp-58fcc7c2)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-tahooki-unreal-blender-mcp-58fcc7c2",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tahooki-unreal-blender-mcp-58fcc7c2/badge.svg)](https://tensorblock.co/mcp/servers/github-tahooki-unreal-blender-mcp-58fcc7c2)",
   "links": {
     "primary": "https://github.com/tahooki/unreal-blender-mcp",
     "repo": "https://github.com/tahooki/unreal-blender-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

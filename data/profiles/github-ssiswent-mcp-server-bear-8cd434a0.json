@@ -3,8 +3,8 @@
   "name": "Ssiswent/mcp-server-bear",
   "description": "Facilitates note creation, searching, and management in Bear via conversational interactions with MCP clients.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-ssiswent-mcp-server-bear-8cd434a0",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ssiswent-mcp-server-bear-8cd434a0)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ssiswent-mcp-server-bear-8cd434a0",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ssiswent-mcp-server-bear-8cd434a0/badge.svg)](https://tensorblock.co/mcp/servers/github-ssiswent-mcp-server-bear-8cd434a0)",
   "links": {
     "primary": "https://github.com/Ssiswent/mcp-server-bear",
     "repo": "https://github.com/Ssiswent/mcp-server-bear",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-pineifyapp-pineify-mcp-b76c56bf",
+  "source": {
+    "issue": 1550,
+    "projectUrl": "https://github.com/pineifyapp/pineify-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Bearer token"
+    ]
+  }
+}

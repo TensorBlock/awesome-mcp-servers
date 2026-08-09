@@ -3,8 +3,8 @@
   "name": "DeusData/codebase-memory-mcp",
   "description": "Fastest code intelligence MCP server — indexes the Linux kernel (28M LOC) in 3 minutes, answers structural queries in <1ms. Builds a persistent knowledge graph with call chains, HTTP routes, and cross-service links across 66 languages. 120x fewer tokens. Single static binary, plug-and-play across 10 coding agents.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-deusdata-codebase-memory-mcp-f74d5b6b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-deusdata-codebase-memory-mcp-f74d5b6b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-deusdata-codebase-memory-mcp-f74d5b6b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-deusdata-codebase-memory-mcp-f74d5b6b/badge.svg)](https://tensorblock.co/mcp/servers/github-deusdata-codebase-memory-mcp-f74d5b6b)",
   "links": {
     "primary": "https://github.com/DeusData/codebase-memory-mcp",
     "repo": "https://github.com/DeusData/codebase-memory-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

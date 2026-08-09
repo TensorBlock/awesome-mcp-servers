@@ -3,8 +3,8 @@
   "name": "Escorza07/whatsapp-mcp",
   "description": "Facilitates seamless interaction with WhatsApp through Claude by leveraging a Go bridge and Python MCP server for message management and contact search.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-escorza07-whatsapp-mcp-b3d3057b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-escorza07-whatsapp-mcp-b3d3057b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-escorza07-whatsapp-mcp-b3d3057b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-escorza07-whatsapp-mcp-b3d3057b/badge.svg)](https://tensorblock.co/mcp/servers/github-escorza07-whatsapp-mcp-b3d3057b)",
   "links": {
     "primary": "https://github.com/Escorza07/whatsapp-mcp",
     "repo": "https://github.com/Escorza07/whatsapp-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -1,0 +1,58 @@
+{
+  "id": "sofya-co-fd27d881",
+  "name": "Sofya",
+  "description": "Web intelligence API for AI agents. search returns full page content instead of snippets, fetch converts URLs and PDFs to markdown, extract pulls structured data, and research decomposes a question into sub-queries and returns a cited report. Hosted streamable HTTP MCP at https://mcp.sofya.co/mcp with bearer auth. 4 tools (search, fetch, extract, research). Free tier of 1,000 credits/month for GitHub accounts, then $0.005/credit. Install: claude mcp add --transport http sofya https://mcp.sofya.co/mcp --header \"Authorization: Bearer ay_live_...\".",
+  "category": "Search",
+  "profileUrl": "https://tensorblock.co/mcp/servers/sofya-co-fd27d881",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/sofya-co-fd27d881/badge.svg)](https://tensorblock.co/mcp/servers/sofya-co-fd27d881)",
+  "links": {
+    "primary": "https://sofya.co",
+    "repo": null,
+    "homepage": "https://sofya.co",
+    "docs": null,
+    "endpoint": "https://mcp.sofya.co/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "bearer",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 4
+  }
+}

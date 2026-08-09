@@ -1,0 +1,65 @@
+{
+  "id": "github-vberai-godot-mcp-3ed2bfb3",
+  "name": "vberai/godot-mcp",
+  "description": "This MCP server lets AI agents read and inspect the Godot Engine 4.x Scene Tree, auto-generate and attach GDScript files directly to game nodes, modify Godot resources, and arrange UI elements inside the active editor window in real-time, removing the chore of manual copy-pasting.",
+  "category": "Developer Productivity & Utilities",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-vberai-godot-mcp-3ed2bfb3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-vberai-godot-mcp-3ed2bfb3/badge.svg)](https://tensorblock.co/mcp/servers/github-vberai-godot-mcp-3ed2bfb3)",
+  "links": {
+    "primary": "https://github.com/vberai/godot-mcp",
+    "repo": "https://github.com/vberai/godot-mcp",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "http://127.0.0.1:3000/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Cursor",
+    "Claude Code",
+    "Windsurf",
+    "VS Code (via Cline / Roo-Cline)，Trae",
+    "Codex",
+    "Gemini"
+  ],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "sse",
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

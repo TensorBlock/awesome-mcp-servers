@@ -3,8 +3,8 @@
   "name": "Disdjj/mcp-cook",
   "description": "Facilitates culinary exploration by providing recipe retrieval and dish naming functionalities through MCP integration.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-disdjj-mcp-cook-e2e0a05d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-disdjj-mcp-cook-e2e0a05d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-disdjj-mcp-cook-e2e0a05d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-disdjj-mcp-cook-e2e0a05d/badge.svg)](https://tensorblock.co/mcp/servers/github-disdjj-mcp-cook-e2e0a05d)",
   "links": {
     "primary": "https://github.com/Disdjj/mcp-cook",
     "repo": "https://github.com/Disdjj/mcp-cook",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

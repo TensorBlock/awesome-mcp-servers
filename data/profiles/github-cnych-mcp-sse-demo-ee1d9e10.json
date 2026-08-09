@@ -3,8 +3,8 @@
   "name": "cnych/mcp-sse-demo",
   "description": "A smart shopping assistant leveraging SSE-based MCP services for real-time product information and inventory management.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-cnych-mcp-sse-demo-ee1d9e10",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-cnych-mcp-sse-demo-ee1d9e10)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-cnych-mcp-sse-demo-ee1d9e10",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-cnych-mcp-sse-demo-ee1d9e10/badge.svg)](https://tensorblock.co/mcp/servers/github-cnych-mcp-sse-demo-ee1d9e10)",
   "links": {
     "primary": "https://github.com/cnych/mcp-sse-demo",
     "repo": "https://github.com/cnych/mcp-sse-demo",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

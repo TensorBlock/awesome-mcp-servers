@@ -3,8 +3,8 @@
   "name": "mpizza/mcp_mlb_statsapi",
   "description": "Efficiently access and process MLB data using a Multi-Channel Pipeline server integrated with the MLB Stats API.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-mpizza-mcp-mlb-statsapi-ba418ea6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-mpizza-mcp-mlb-statsapi-ba418ea6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-mpizza-mcp-mlb-statsapi-ba418ea6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-mpizza-mcp-mlb-statsapi-ba418ea6/badge.svg)](https://tensorblock.co/mcp/servers/github-mpizza-mcp-mlb-statsapi-ba418ea6)",
   "links": {
     "primary": "https://github.com/mpizza/mcp_mlb_statsapi",
     "repo": "https://github.com/mpizza/mcp_mlb_statsapi",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

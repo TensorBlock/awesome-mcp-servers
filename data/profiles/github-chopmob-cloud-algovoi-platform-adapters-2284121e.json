@@ -3,8 +3,8 @@
   "name": "chopmob-cloud/AlgoVoi-Platform-Adapters",
   "description": "Multi-chain x402/MPP/AP2 payment gateway MCP. Create hosted USDC checkouts across 7 chains (Algorand, VOI, Hedera, Stellar, Base, Solana, Tempo) from any MCP client. Verifies on-chain settlement (Solana Pay `reference` binding, EVM Transfer-log scans, Algorand memo-bound), generates agent payment challenges. Install: `npx @algovoi/mcp-server` or `uvx algovoi-mcp`.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-chopmob-cloud-algovoi-platform-adapters-2284121e",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-chopmob-cloud-algovoi-platform-adapters-2284121e)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-chopmob-cloud-algovoi-platform-adapters-2284121e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-chopmob-cloud-algovoi-platform-adapters-2284121e/badge.svg)](https://tensorblock.co/mcp/servers/github-chopmob-cloud-algovoi-platform-adapters-2284121e)",
   "links": {
     "primary": "https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters",
     "repo": "https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters",
@@ -12,12 +12,47 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx @algovoi/mcp-server",
+      "uvx algovoi-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

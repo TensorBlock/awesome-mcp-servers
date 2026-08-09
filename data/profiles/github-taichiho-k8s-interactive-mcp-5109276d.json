@@ -3,8 +3,8 @@
   "name": "TaichiHo/k8s-interactive-mcp",
   "description": "Facilitates Kubernetes command execution and interpretation via MCP tools, enhancing command line flexibility and error handling.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-taichiho-k8s-interactive-mcp-5109276d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-taichiho-k8s-interactive-mcp-5109276d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-taichiho-k8s-interactive-mcp-5109276d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-taichiho-k8s-interactive-mcp-5109276d/badge.svg)](https://tensorblock.co/mcp/servers/github-taichiho-k8s-interactive-mcp-5109276d)",
   "links": {
     "primary": "https://github.com/TaichiHo/k8s-interactive-mcp",
     "repo": "https://github.com/TaichiHo/k8s-interactive-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

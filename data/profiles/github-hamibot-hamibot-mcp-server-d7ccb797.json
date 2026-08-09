@@ -3,8 +3,8 @@
   "name": "hamibot/hamibot-mcp-server",
   "description": "Facilitates interaction with the Hamibot API, offering tools for device and script management, including custom JavaScript execution on specified devices.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-hamibot-hamibot-mcp-server-d7ccb797",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hamibot-hamibot-mcp-server-d7ccb797)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hamibot-hamibot-mcp-server-d7ccb797",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hamibot-hamibot-mcp-server-d7ccb797/badge.svg)](https://tensorblock.co/mcp/servers/github-hamibot-hamibot-mcp-server-d7ccb797)",
   "links": {
     "primary": "https://github.com/hamibot/hamibot-mcp-server",
     "repo": "https://github.com/hamibot/hamibot-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

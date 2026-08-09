@@ -3,8 +3,8 @@
   "name": "manpreet2000/mcp-database-server",
   "description": "Facilitates natural language interactions between LLMs and various databases, starting with MongoDB, with plans for PostgreSQL, CockroachDB, and Redis support.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-manpreet2000-mcp-database-server-224871de",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-manpreet2000-mcp-database-server-224871de)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-manpreet2000-mcp-database-server-224871de",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-manpreet2000-mcp-database-server-224871de/badge.svg)](https://tensorblock.co/mcp/servers/github-manpreet2000-mcp-database-server-224871de)",
   "links": {
     "primary": "https://github.com/manpreet2000/mcp-database-server",
     "repo": "https://github.com/manpreet2000/mcp-database-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

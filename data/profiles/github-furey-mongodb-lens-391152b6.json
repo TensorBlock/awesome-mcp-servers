@@ -3,8 +3,8 @@
   "name": "furey/mongodb-lens",
   "description": "MongoDB Lens enables natural language interaction with MongoDB databases, facilitating queries, aggregations, and performance optimizations via LLMs.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-furey-mongodb-lens-391152b6",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-furey-mongodb-lens-391152b6)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-furey-mongodb-lens-391152b6",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-furey-mongodb-lens-391152b6/badge.svg)](https://tensorblock.co/mcp/servers/github-furey-mongodb-lens-391152b6)",
   "links": {
     "primary": "https://github.com/furey/mongodb-lens",
     "repo": "https://github.com/furey/mongodb-lens",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

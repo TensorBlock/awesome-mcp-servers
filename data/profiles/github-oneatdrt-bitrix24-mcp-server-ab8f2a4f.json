@@ -3,8 +3,8 @@
   "name": "OneAtDrt/Bitrix24_MCP_Server",
   "description": "Facilitates seamless interaction with Bitrix24 CRM through a REST API, leveraging the MCP architecture for structured data operations.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-oneatdrt-bitrix24-mcp-server-ab8f2a4f",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-oneatdrt-bitrix24-mcp-server-ab8f2a4f)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-oneatdrt-bitrix24-mcp-server-ab8f2a4f",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-oneatdrt-bitrix24-mcp-server-ab8f2a4f/badge.svg)](https://tensorblock.co/mcp/servers/github-oneatdrt-bitrix24-mcp-server-ab8f2a4f)",
   "links": {
     "primary": "https://github.com/OneAtDrt/Bitrix24_MCP_Server",
     "repo": "https://github.com/OneAtDrt/Bitrix24_MCP_Server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

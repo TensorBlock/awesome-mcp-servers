@@ -3,8 +3,8 @@
   "name": "jeremytandjung/my-notion-mcp-server",
   "description": "A fast MCP server leveraging Bun for seamless integration with Claude Desktop and Notion.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-jeremytandjung-my-notion-mcp-server-0b3bb274",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jeremytandjung-my-notion-mcp-server-0b3bb274)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jeremytandjung-my-notion-mcp-server-0b3bb274",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jeremytandjung-my-notion-mcp-server-0b3bb274/badge.svg)](https://tensorblock.co/mcp/servers/github-jeremytandjung-my-notion-mcp-server-0b3bb274)",
   "links": {
     "primary": "https://github.com/jeremytandjung/my-notion-mcp-server",
     "repo": "https://github.com/jeremytandjung/my-notion-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

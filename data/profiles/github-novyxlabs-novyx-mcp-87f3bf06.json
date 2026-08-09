@@ -3,8 +3,8 @@
   "name": "novyxlabs/novyx-mcp",
   "description": "Persistent memory for AI agents with 107 tools: remember, recall, rollback, audit, knowledge graph, governed actions, eval, cortex, and Runtime v2 agent orchestration. Local SQLite (zero-config) or Novyx Cloud. Install via `uvx novyx-mcp`. MIT licensed.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-novyxlabs-novyx-mcp-87f3bf06",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-novyxlabs-novyx-mcp-87f3bf06)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-novyxlabs-novyx-mcp-87f3bf06",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-novyxlabs-novyx-mcp-87f3bf06/badge.svg)](https://tensorblock.co/mcp/servers/github-novyxlabs-novyx-mcp-87f3bf06)",
   "links": {
     "primary": "https://github.com/novyxlabs/novyx-mcp",
     "repo": "https://github.com/novyxlabs/novyx-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "uvx novyx-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 107
   }

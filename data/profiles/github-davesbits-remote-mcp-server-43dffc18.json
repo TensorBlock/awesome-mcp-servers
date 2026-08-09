@@ -3,8 +3,8 @@
   "name": "davesbits/remote-mcp-server",
   "description": "Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with Claude Desktop and MCP Inspector.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-davesbits-remote-mcp-server-43dffc18",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-davesbits-remote-mcp-server-43dffc18)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-davesbits-remote-mcp-server-43dffc18",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-davesbits-remote-mcp-server-43dffc18/badge.svg)](https://tensorblock.co/mcp/servers/github-davesbits-remote-mcp-server-43dffc18)",
   "links": {
     "primary": "https://github.com/davesbits/remote-mcp-server",
     "repo": "https://github.com/davesbits/remote-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "oauth",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

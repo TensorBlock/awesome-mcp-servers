@@ -3,8 +3,8 @@
   "name": "iuill/mcp_grareco",
   "description": "Transforms any URL or text into a graphic recording format using MCP protocol.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-iuill-mcp-grareco-9be08c8a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-iuill-mcp-grareco-9be08c8a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-iuill-mcp-grareco-9be08c8a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-iuill-mcp-grareco-9be08c8a/badge.svg)](https://tensorblock.co/mcp/servers/github-iuill-mcp-grareco-9be08c8a)",
   "links": {
     "primary": "https://github.com/iuill/mcp_grareco",
     "repo": "https://github.com/iuill/mcp_grareco",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

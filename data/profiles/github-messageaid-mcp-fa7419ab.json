@@ -3,8 +3,8 @@
   "name": "messageaid/mcp",
   "description": "Facilitates message brokering across RabbitMQ, Azure Service Bus, and SQS with multi-broker support.",
   "category": "Infrastructure",
-  "profileUrl": "https://tensorblock.co/mcp/github-messageaid-mcp-fa7419ab",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-messageaid-mcp-fa7419ab)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-messageaid-mcp-fa7419ab",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-messageaid-mcp-fa7419ab/badge.svg)](https://tensorblock.co/mcp/servers/github-messageaid-mcp-fa7419ab)",
   "links": {
     "primary": "https://github.com/messageaid/mcp",
     "repo": "https://github.com/messageaid/mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

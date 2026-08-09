@@ -3,8 +3,8 @@
   "name": "JovanHsu/mcp-neo4j-memory-server",
   "description": "Enhances AI knowledge graph storage with Neo4j, offering robust graph query capabilities and seamless MCP protocol integration.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-jovanhsu-mcp-neo4j-memory-server-06ea4773",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-jovanhsu-mcp-neo4j-memory-server-06ea4773)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-jovanhsu-mcp-neo4j-memory-server-06ea4773",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-jovanhsu-mcp-neo4j-memory-server-06ea4773/badge.svg)](https://tensorblock.co/mcp/servers/github-jovanhsu-mcp-neo4j-memory-server-06ea4773)",
   "links": {
     "primary": "https://github.com/JovanHsu/mcp-neo4j-memory-server",
     "repo": "https://github.com/JovanHsu/mcp-neo4j-memory-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

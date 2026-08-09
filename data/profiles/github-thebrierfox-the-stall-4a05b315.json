@@ -1,0 +1,56 @@
+{
+  "id": "github-thebrierfox-the-stall-4a05b315",
+  "name": "The Stall",
+  "description": "Domain-agnostic x402 pay-per-call capability chassis for AI agents. 210 on-demand data services: US/intl stocks, options chains, DeFi yields, blockchain analytics, macro indicators, wallet intelligence, prediction markets, and more. USDC on Base mainnet, $0.001–$1.50/call. No API keys required. Remote MCP: `https://the-stall.intuitek.ai/mcp`. v4.64.0.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-thebrierfox-the-stall-4a05b315",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-thebrierfox-the-stall-4a05b315/badge.svg)](https://tensorblock.co/mcp/servers/github-thebrierfox-the-stall-4a05b315)",
+  "links": {
+    "primary": "https://github.com/thebrierfox/the-stall",
+    "repo": "https://github.com/thebrierfox/the-stall",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://the-stall.intuitek.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "none",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

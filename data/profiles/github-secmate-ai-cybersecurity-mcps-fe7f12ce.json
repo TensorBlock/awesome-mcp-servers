@@ -3,8 +3,8 @@
   "name": "secmate-ai/CyberSecurity-MCPs",
   "description": "A collection of MCP servers focused on cybersecurity, featuring implementations like SQL injection testing and network space search engines.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-secmate-ai-cybersecurity-mcps-fe7f12ce",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-secmate-ai-cybersecurity-mcps-fe7f12ce)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-secmate-ai-cybersecurity-mcps-fe7f12ce",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-secmate-ai-cybersecurity-mcps-fe7f12ce/badge.svg)](https://tensorblock.co/mcp/servers/github-secmate-ai-cybersecurity-mcps-fe7f12ce)",
   "links": {
     "primary": "https://github.com/secmate-ai/CyberSecurity-MCPs",
     "repo": "https://github.com/secmate-ai/CyberSecurity-MCPs",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

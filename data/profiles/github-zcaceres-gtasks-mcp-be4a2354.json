@@ -3,8 +3,8 @@
   "name": "zcaceres/gtasks-mcp",
   "description": "Facilitates seamless task management by integrating with Google Tasks for listing, searching, creating, updating, and deleting tasks.",
   "category": "Project & Task Management",
-  "profileUrl": "https://tensorblock.co/mcp/github-zcaceres-gtasks-mcp-be4a2354",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-zcaceres-gtasks-mcp-be4a2354)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zcaceres-gtasks-mcp-be4a2354",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zcaceres-gtasks-mcp-be4a2354/badge.svg)](https://tensorblock.co/mcp/servers/github-zcaceres-gtasks-mcp-be4a2354)",
   "links": {
     "primary": "https://github.com/zcaceres/gtasks-mcp",
     "repo": "https://github.com/zcaceres/gtasks-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "hrishi0102/spotifyyy-mcp",
   "description": "Interact with Spotify through Claude to search for songs, create playlists, and get personalized recommendations using your Spotify account.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-hrishi0102-spotifyyy-mcp-39485a79",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-hrishi0102-spotifyyy-mcp-39485a79)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-hrishi0102-spotifyyy-mcp-39485a79",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hrishi0102-spotifyyy-mcp-39485a79/badge.svg)](https://tensorblock.co/mcp/servers/github-hrishi0102-spotifyyy-mcp-39485a79)",
   "links": {
     "primary": "https://github.com/hrishi0102/spotifyyy-mcp",
     "repo": "https://github.com/hrishi0102/spotifyyy-mcp",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "Abhi5h3k/MCP-Email-Verify",
   "description": "A lightweight server that enables LLMs to validate email addresses using the AbstractAPI Email Validation API, seamlessly integrating into AI applications like Claude Desktop.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-abhi5h3k-mcp-email-verify-db02d936",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-abhi5h3k-mcp-email-verify-db02d936)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-abhi5h3k-mcp-email-verify-db02d936",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-abhi5h3k-mcp-email-verify-db02d936/badge.svg)](https://tensorblock.co/mcp/servers/github-abhi5h3k-mcp-email-verify-db02d936)",
   "links": {
     "primary": "https://github.com/Abhi5h3k/MCP-Email-Verify",
     "repo": "https://github.com/Abhi5h3k/MCP-Email-Verify",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

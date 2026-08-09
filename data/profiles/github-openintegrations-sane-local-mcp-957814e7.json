@@ -3,8 +3,8 @@
   "name": "openintegrations/sane-local-mcp",
   "description": "A CLI tool that encapsulates any Node.js-based STD/IO local MCP server within a Docker container to enhance security and monitoring.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-openintegrations-sane-local-mcp-957814e7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-openintegrations-sane-local-mcp-957814e7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-openintegrations-sane-local-mcp-957814e7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-openintegrations-sane-local-mcp-957814e7/badge.svg)](https://tensorblock.co/mcp/servers/github-openintegrations-sane-local-mcp-957814e7)",
   "links": {
     "primary": "https://github.com/openintegrations/sane-local-mcp",
     "repo": "https://github.com/openintegrations/sane-local-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

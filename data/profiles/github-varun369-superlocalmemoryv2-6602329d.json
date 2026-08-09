@@ -3,8 +3,8 @@
   "name": "varun369/SuperLocalMemoryV2",
   "description": "A local-first AI memory system providing persistent memory across 17+ AI tools via MCP, featuring knowledge graphs, hybrid search, and pattern learning with zero cloud dependency.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-varun369-superlocalmemoryv2-6602329d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-varun369-superlocalmemoryv2-6602329d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-varun369-superlocalmemoryv2-6602329d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-varun369-superlocalmemoryv2-6602329d/badge.svg)](https://tensorblock.co/mcp/servers/github-varun369-superlocalmemoryv2-6602329d)",
   "links": {
     "primary": "https://github.com/varun369/SuperLocalMemoryV2",
     "repo": "https://github.com/varun369/SuperLocalMemoryV2",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

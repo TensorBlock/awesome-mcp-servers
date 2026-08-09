@@ -3,8 +3,8 @@
   "name": "sarathsp06/sourcesage",
   "description": "SourceSage efficiently memorizes and retrieves codebase knowledge using a language-agnostic, token-efficient graph structure, leveraging LLM analysis.",
   "category": "Code Analysis & Quality",
-  "profileUrl": "https://tensorblock.co/mcp/github-sarathsp06-sourcesage-4569ae6d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sarathsp06-sourcesage-4569ae6d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sarathsp06-sourcesage-4569ae6d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sarathsp06-sourcesage-4569ae6d/badge.svg)](https://tensorblock.co/mcp/servers/github-sarathsp06-sourcesage-4569ae6d)",
   "links": {
     "primary": "https://github.com/sarathsp06/sourcesage",
     "repo": "https://github.com/sarathsp06/sourcesage",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

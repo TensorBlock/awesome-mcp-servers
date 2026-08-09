@@ -3,8 +3,8 @@
   "name": "your-mcp-repo/MCP.Ai",
   "description": "Facilitates secure interaction between AI models and the NEAR blockchain, enabling account management and smart contract execution.",
   "category": "AI & LLM Integration",
-  "profileUrl": "https://tensorblock.co/mcp/github-your-mcp-repo-mcp-ai-9763c416",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-your-mcp-repo-mcp-ai-9763c416)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-your-mcp-repo-mcp-ai-9763c416",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-your-mcp-repo-mcp-ai-9763c416/badge.svg)](https://tensorblock.co/mcp/servers/github-your-mcp-repo-mcp-ai-9763c416)",
   "links": {
     "primary": "https://github.com/your-mcp-repo/MCP.Ai",
     "repo": "https://github.com/your-mcp-repo/MCP.Ai",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

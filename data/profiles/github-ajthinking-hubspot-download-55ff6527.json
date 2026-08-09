@@ -3,8 +3,8 @@
   "name": "ajthinking/hubspot-download",
   "description": "Facilitates the download of HubSpot CRM objects into JSON files using the Model Context Protocol.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-ajthinking-hubspot-download-55ff6527",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ajthinking-hubspot-download-55ff6527)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ajthinking-hubspot-download-55ff6527",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ajthinking-hubspot-download-55ff6527/badge.svg)](https://tensorblock.co/mcp/servers/github-ajthinking-hubspot-download-55ff6527)",
   "links": {
     "primary": "https://github.com/ajthinking/hubspot-download",
     "repo": "https://github.com/ajthinking/hubspot-download",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

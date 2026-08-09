@@ -1,0 +1,56 @@
+{
+  "id": "github-aldok10-zara-agent-opc-d0c5c41c",
+  "name": "aldok10/zara-agent-opc",
+  "description": "Local cognitive-memory MCP server for persistent AI engineering partners, with 24+ tools across 9 domains, semantic embeddings, multi-agent orchestration, self-improving reflection loops, and RRF retrieval fusion. MIT.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-aldok10-zara-agent-opc-d0c5c41c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-aldok10-zara-agent-opc-d0c5c41c/badge.svg)](https://tensorblock.co/mcp/servers/github-aldok10-zara-agent-opc-d0c5c41c)",
+  "links": {
+    "primary": "https://github.com/aldok10/zara-agent-opc",
+    "repo": "https://github.com/aldok10/zara-agent-opc",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

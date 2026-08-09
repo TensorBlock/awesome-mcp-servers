@@ -3,8 +3,8 @@
   "name": "kukapay/etf-flow-mcp",
   "description": "Delivers crypto ETF flow data to enhance AI agents' decision-making capabilities.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-kukapay-etf-flow-mcp-b9ec4b6a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-kukapay-etf-flow-mcp-b9ec4b6a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-kukapay-etf-flow-mcp-b9ec4b6a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-kukapay-etf-flow-mcp-b9ec4b6a/badge.svg)](https://tensorblock.co/mcp/servers/github-kukapay-etf-flow-mcp-b9ec4b6a)",
   "links": {
     "primary": "https://github.com/kukapay/etf-flow-mcp",
     "repo": "https://github.com/kukapay/etf-flow-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

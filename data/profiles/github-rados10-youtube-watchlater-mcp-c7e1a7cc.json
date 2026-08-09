@@ -3,8 +3,8 @@
   "name": "rados10/youtube-watchlater-mcp",
   "description": "Access your YouTube Watch Later playlist with ease, retrieving video URLs added within a specified timeframe using a secure MCP server.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-rados10-youtube-watchlater-mcp-c7e1a7cc",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rados10-youtube-watchlater-mcp-c7e1a7cc)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rados10-youtube-watchlater-mcp-c7e1a7cc",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rados10-youtube-watchlater-mcp-c7e1a7cc/badge.svg)](https://tensorblock.co/mcp/servers/github-rados10-youtube-watchlater-mcp-c7e1a7cc)",
   "links": {
     "primary": "https://github.com/rados10/youtube-watchlater-mcp",
     "repo": "https://github.com/rados10/youtube-watchlater-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

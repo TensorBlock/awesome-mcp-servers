@@ -3,8 +3,8 @@
   "name": "yanmxa/litemcp",
   "description": "litemcp facilitates seamless integration of AI SDKs into MCP projects, prioritizing simplicity and minimal dependencies.",
   "category": "Developer Productivity & Utilities",
-  "profileUrl": "https://tensorblock.co/mcp/github-yanmxa-litemcp-36fe9053",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yanmxa-litemcp-36fe9053)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yanmxa-litemcp-36fe9053",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yanmxa-litemcp-36fe9053/badge.svg)](https://tensorblock.co/mcp/servers/github-yanmxa-litemcp-36fe9053)",
   "links": {
     "primary": "https://github.com/yanmxa/litemcp",
     "repo": "https://github.com/yanmxa/litemcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

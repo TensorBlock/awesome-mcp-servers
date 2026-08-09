@@ -3,8 +3,8 @@
   "name": "Git-Fg/mcp-server-doccreator",
   "description": "Facilitates AI-driven document generation through a standards-compliant MCP server, supporting formats like PDF, DOCX, PPTX, and XLSX.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-git-fg-mcp-server-doccreator-64ae499b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-git-fg-mcp-server-doccreator-64ae499b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-git-fg-mcp-server-doccreator-64ae499b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-git-fg-mcp-server-doccreator-64ae499b/badge.svg)](https://tensorblock.co/mcp/servers/github-git-fg-mcp-server-doccreator-64ae499b)",
   "links": {
     "primary": "https://github.com/Git-Fg/mcp-server-doccreator",
     "repo": "https://github.com/Git-Fg/mcp-server-doccreator",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

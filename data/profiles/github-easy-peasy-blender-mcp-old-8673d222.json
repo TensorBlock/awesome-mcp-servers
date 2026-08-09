@@ -3,8 +3,8 @@
   "name": "easy-peasy/blender-mcp-OLD",
   "description": "Facilitates seamless interaction between Blender and Claude AI for enhanced 3D modeling and scene manipulation through the Model Context Protocol.",
   "category": "Frameworks",
-  "profileUrl": "https://tensorblock.co/mcp/github-easy-peasy-blender-mcp-old-8673d222",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-easy-peasy-blender-mcp-old-8673d222)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-easy-peasy-blender-mcp-old-8673d222",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-easy-peasy-blender-mcp-old-8673d222/badge.svg)](https://tensorblock.co/mcp/servers/github-easy-peasy-blender-mcp-old-8673d222)",
   "links": {
     "primary": "https://github.com/easy-peasy/blender-mcp-OLD",
     "repo": "https://github.com/easy-peasy/blender-mcp-OLD",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

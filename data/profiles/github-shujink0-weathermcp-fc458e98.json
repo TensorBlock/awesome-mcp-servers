@@ -3,14 +3,46 @@
   "name": "shujink0/WeatherMCP",
   "description": "Facilitates weather data retrieval through a Go-based MCP server, supporting both stdio and SSE transports.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-shujink0-weathermcp-fc458e98",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-shujink0-weathermcp-fc458e98)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-shujink0-weathermcp-fc458e98",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-shujink0-weathermcp-fc458e98/badge.svg)](https://tensorblock.co/mcp/servers/github-shujink0-weathermcp-fc458e98)",
   "links": {
     "primary": "https://github.com/shujink0/WeatherMCP",
     "repo": "https://github.com/shujink0/WeatherMCP",
     "homepage": null,
     "docs": null,
     "endpoint": null
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
   },
   "summary": {
     "transport": [
@@ -19,6 +51,7 @@
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "ark-forge/arkforge-mcp",
   "description": "Certifying proxy for AI agent API calls. Every tool call becomes a signed, timestamped Agent Action Receipt (AAR). Model-agnostic and vendor-independent — works across any LLM provider or infrastructure.",
   "category": "Security",
-  "profileUrl": "https://tensorblock.co/mcp/github-ark-forge-arkforge-mcp-449572a3",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ark-forge-arkforge-mcp-449572a3)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ark-forge-arkforge-mcp-449572a3",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ark-forge-arkforge-mcp-449572a3/badge.svg)](https://tensorblock.co/mcp/servers/github-ark-forge-arkforge-mcp-449572a3)",
   "links": {
     "primary": "https://github.com/ark-forge/arkforge-mcp",
     "repo": "https://github.com/ark-forge/arkforge-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

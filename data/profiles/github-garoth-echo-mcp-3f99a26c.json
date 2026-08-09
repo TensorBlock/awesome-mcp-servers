@@ -3,8 +3,8 @@
   "name": "Garoth/echo-mcp",
   "description": "A debugging tool that echoes back any message sent to it, ideal for testing MCP server functionality.",
   "category": "Communication & Messaging",
-  "profileUrl": "https://tensorblock.co/mcp/github-garoth-echo-mcp-3f99a26c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-garoth-echo-mcp-3f99a26c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-garoth-echo-mcp-3f99a26c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-garoth-echo-mcp-3f99a26c/badge.svg)](https://tensorblock.co/mcp/servers/github-garoth-echo-mcp-3f99a26c)",
   "links": {
     "primary": "https://github.com/Garoth/echo-mcp",
     "repo": "https://github.com/Garoth/echo-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

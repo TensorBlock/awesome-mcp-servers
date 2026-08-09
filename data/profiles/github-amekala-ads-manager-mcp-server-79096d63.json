@@ -3,8 +3,8 @@
   "name": "amekala/Ads-manager-mcp-server",
   "description": "Facilitates the management and analysis of Amazon Advertising data through a standardized interface for LLMs, integrating seamlessly with the Claude Desktop App.",
   "category": "Marketing, Sales & CRM",
-  "profileUrl": "https://tensorblock.co/mcp/github-amekala-ads-manager-mcp-server-79096d63",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-amekala-ads-manager-mcp-server-79096d63)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-amekala-ads-manager-mcp-server-79096d63",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-amekala-ads-manager-mcp-server-79096d63/badge.svg)](https://tensorblock.co/mcp/servers/github-amekala-ads-manager-mcp-server-79096d63)",
   "links": {
     "primary": "https://github.com/amekala/Ads-manager-mcp-server",
     "repo": "https://github.com/amekala/Ads-manager-mcp-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

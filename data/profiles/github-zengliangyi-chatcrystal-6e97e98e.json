@@ -1,0 +1,64 @@
+{
+  "id": "github-zengliangyi-chatcrystal-6e97e98e",
+  "name": "ZengLiangYi/ChatCrystal",
+  "description": "Local-first AI PKM memory server for coding conversations. Imports Claude Code, Cursor, Codex CLI, Trae, and GitHub Copilot chats into notes, semantic search, tag graphs, Markdown exports, and MCP memory tools. Install: `npx -y chatcrystal mcp`. Transport: `stdio`; local default needs no auth, cloud/private instances can use `CHATCRYSTAL_BASE_URL` and optional token.",
+  "category": "Knowledge Management & Memory",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-zengliangyi-chatcrystal-6e97e98e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-zengliangyi-chatcrystal-6e97e98e/badge.svg)](https://tensorblock.co/mcp/servers/github-zengliangyi-chatcrystal-6e97e98e)",
+  "links": {
+    "primary": "https://github.com/ZengLiangYi/ChatCrystal",
+    "repo": "https://github.com/ZengLiangYi/ChatCrystal",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx -y chatcrystal mcp"
+    ],
+    "env": [
+      "CHATCRYSTAL_BASE_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "unknown",
+  "installReady": true,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "stdio"
+    ],
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

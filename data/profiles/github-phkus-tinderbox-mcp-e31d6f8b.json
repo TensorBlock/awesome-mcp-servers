@@ -3,8 +3,8 @@
   "name": "phkus/tinderbox-mcp",
   "description": "Facilitates AI-driven interactions with Tinderbox, enabling natural language control and integration with other services through AppleScript.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-phkus-tinderbox-mcp-e31d6f8b",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-phkus-tinderbox-mcp-e31d6f8b)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-phkus-tinderbox-mcp-e31d6f8b",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-phkus-tinderbox-mcp-e31d6f8b/badge.svg)](https://tensorblock.co/mcp/servers/github-phkus-tinderbox-mcp-e31d6f8b)",
   "links": {
     "primary": "https://github.com/phkus/tinderbox-mcp",
     "repo": "https://github.com/phkus/tinderbox-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

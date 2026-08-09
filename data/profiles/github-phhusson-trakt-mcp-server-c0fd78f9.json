@@ -3,8 +3,8 @@
   "name": "phhusson/trakt-mcp-server",
   "description": "Connects to your Trakt account to manage and interact with your media tracking data using MCP.",
   "category": "Social Media & Content Platforms",
-  "profileUrl": "https://tensorblock.co/mcp/github-phhusson-trakt-mcp-server-c0fd78f9",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-phhusson-trakt-mcp-server-c0fd78f9)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-phhusson-trakt-mcp-server-c0fd78f9",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-phhusson-trakt-mcp-server-c0fd78f9/badge.svg)](https://tensorblock.co/mcp/servers/github-phhusson-trakt-mcp-server-c0fd78f9)",
   "links": {
     "primary": "https://github.com/phhusson/trakt-mcp-server",
     "repo": "https://github.com/phhusson/trakt-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

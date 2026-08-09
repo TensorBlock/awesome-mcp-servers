@@ -3,8 +3,8 @@
   "name": "imlewc/metabase-server",
   "description": "Facilitates AI-driven interaction with Metabase by providing a TypeScript-based MCP server for querying and managing dashboards, questions, and databases.",
   "category": "Data Analysis & Business Intelligence",
-  "profileUrl": "https://tensorblock.co/mcp/github-imlewc-metabase-server-f718fe0c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-imlewc-metabase-server-f718fe0c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-imlewc-metabase-server-f718fe0c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-imlewc-metabase-server-f718fe0c/badge.svg)](https://tensorblock.co/mcp/servers/github-imlewc-metabase-server-f718fe0c)",
   "links": {
     "primary": "https://github.com/imlewc/metabase-server",
     "repo": "https://github.com/imlewc/metabase-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

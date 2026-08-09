@@ -3,8 +3,8 @@
   "name": "berlinbra/alpha-vantage-mcp",
   "description": "Provides real-time financial market data access via Alpha Vantage API, offering tools for stock quotes, company info, and cryptocurrency rates.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-berlinbra-alpha-vantage-mcp-e53dc44d",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-berlinbra-alpha-vantage-mcp-e53dc44d)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-berlinbra-alpha-vantage-mcp-e53dc44d",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-berlinbra-alpha-vantage-mcp-e53dc44d/badge.svg)](https://tensorblock.co/mcp/servers/github-berlinbra-alpha-vantage-mcp-e53dc44d)",
   "links": {
     "primary": "https://github.com/berlinbra/alpha-vantage-mcp",
     "repo": "https://github.com/berlinbra/alpha-vantage-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

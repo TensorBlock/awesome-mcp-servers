@@ -3,8 +3,8 @@
   "name": "norman-finance/norman-mcp-server",
   "description": "Facilitates interaction between LLMs and the Norman Finance API for managing accounting, invoices, and client data.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-norman-finance-norman-mcp-server-0f6c4860",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-norman-finance-norman-mcp-server-0f6c4860)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-norman-finance-norman-mcp-server-0f6c4860",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-norman-finance-norman-mcp-server-0f6c4860/badge.svg)](https://tensorblock.co/mcp/servers/github-norman-finance-norman-mcp-server-0f6c4860)",
   "links": {
     "primary": "https://github.com/norman-finance/norman-mcp-server",
     "repo": "https://github.com/norman-finance/norman-mcp-server",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

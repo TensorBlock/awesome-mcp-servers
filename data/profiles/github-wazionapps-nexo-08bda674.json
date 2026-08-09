@@ -3,8 +3,8 @@
   "name": "wazionapps/nexo",
   "description": "Cognitive memory architecture for Claude Code. Implements Atkinson-Shiffrin memory model, Ebbinghaus forgetting curves, semantic RAG with knowledge graph, trust scoring, and metacognitive error prevention. 100+ MCP tools. Install via `npx nexo-brain init`.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-wazionapps-nexo-08bda674",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-wazionapps-nexo-08bda674)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-wazionapps-nexo-08bda674",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-wazionapps-nexo-08bda674/badge.svg)](https://tensorblock.co/mcp/servers/github-wazionapps-nexo-08bda674)",
   "links": {
     "primary": "https://github.com/wazionapps/nexo",
     "repo": "https://github.com/wazionapps/nexo",
@@ -12,12 +12,48 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx nexo-brain init"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

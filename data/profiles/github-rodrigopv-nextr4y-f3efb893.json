@@ -3,8 +3,8 @@
   "name": "rodrigopv/nextr4y",
   "description": "A Golang-based tool for remote scanning and integration of Next.js applications, revealing build IDs, routes, and assets while evading bot detection.",
   "category": "Browser Automation & Web Scraping",
-  "profileUrl": "https://tensorblock.co/mcp/github-rodrigopv-nextr4y-f3efb893",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-rodrigopv-nextr4y-f3efb893)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-rodrigopv-nextr4y-f3efb893",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-rodrigopv-nextr4y-f3efb893/badge.svg)](https://tensorblock.co/mcp/servers/github-rodrigopv-nextr4y-f3efb893)",
   "links": {
     "primary": "https://github.com/rodrigopv/nextr4y",
     "repo": "https://github.com/rodrigopv/nextr4y",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "sse"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

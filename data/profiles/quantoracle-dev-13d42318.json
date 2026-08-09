@@ -1,0 +1,58 @@
+{
+  "id": "quantoracle-dev-13d42318",
+  "name": "QuantOracle",
+  "description": "Deterministic quant-finance MCP server, 79 tools: Black-Scholes + Greeks, Monte Carlo, VaR/CVaR, Kelly, GARCH, Hurst, plus live crypto volatility/funding data and QuantOracle Watch (24/7 perp-position monitoring with HMAC-signed webhook alerts, billed as a $5/30-day x402 subscription). Free tier 1,000 calls/day; paid endpoints via x402 USDC on Base + Solana. Hosted MCP at `https://mcp.quantoracle.dev/mcp`.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/quantoracle-dev-13d42318",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/quantoracle-dev-13d42318/badge.svg)](https://tensorblock.co/mcp/servers/quantoracle-dev-13d42318)",
+  "links": {
+    "primary": "https://quantoracle.dev",
+    "repo": null,
+    "homepage": "https://quantoracle.dev",
+    "docs": null,
+    "endpoint": "https://mcp.quantoracle.dev/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Free tier 1,000 calls/day; paid endpoints settle via x402 USDC on Base and Solana"
+    ]
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "unknown",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 79
+  }
+}

@@ -3,8 +3,8 @@
   "name": "2b3pro/markdown2pdf-mcp",
   "description": "Effortlessly convert Markdown documents to PDFs with syntax highlighting and custom styling using this MCP server.",
   "category": "Utilities & Helpers",
-  "profileUrl": "https://tensorblock.co/mcp/github-2b3pro-markdown2pdf-mcp-ba974a25",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-2b3pro-markdown2pdf-mcp-ba974a25)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-2b3pro-markdown2pdf-mcp-ba974a25",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-2b3pro-markdown2pdf-mcp-ba974a25/badge.svg)](https://tensorblock.co/mcp/servers/github-2b3pro-markdown2pdf-mcp-ba974a25)",
   "links": {
     "primary": "https://github.com/2b3pro/markdown2pdf-mcp",
     "repo": "https://github.com/2b3pro/markdown2pdf-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

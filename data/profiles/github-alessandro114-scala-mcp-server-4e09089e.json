@@ -1,0 +1,58 @@
+{
+  "id": "github-alessandro114-scala-mcp-server-4e09089e",
+  "name": "Alessandro114/scala-mcp-server",
+  "description": "Search 250M+ companies across 40+ countries — revenue, employees, credit score (0-100), industry. 6 tools for company search, lookup, report generation, and database stats. Free tier: 50 lookups/month. Install: `npx scala-mcp-server`.",
+  "category": "Data Analysis & Business Intelligence",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-alessandro114-scala-mcp-server-4e09089e",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-alessandro114-scala-mcp-server-4e09089e/badge.svg)](https://tensorblock.co/mcp/servers/github-alessandro114-scala-mcp-server-4e09089e)",
+  "links": {
+    "primary": "https://github.com/Alessandro114/scala-mcp-server",
+    "repo": "https://github.com/Alessandro114/scala-mcp-server",
+    "homepage": null,
+    "docs": null,
+    "endpoint": null
+  },
+  "install": {
+    "commands": [
+      "npx scala-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "unknown"
+    ],
+    "auth": "unknown",
+    "installConfidence": "medium",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": 6
+  }
+}

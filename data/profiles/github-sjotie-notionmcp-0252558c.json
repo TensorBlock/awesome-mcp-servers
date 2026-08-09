@@ -3,8 +3,8 @@
   "name": "Sjotie/notionMCP",
   "description": "Connects AI assistants like Claude to Notion workspaces, enabling interaction with databases, pages, and content blocks.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-sjotie-notionmcp-0252558c",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-sjotie-notionmcp-0252558c)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-sjotie-notionmcp-0252558c",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-sjotie-notionmcp-0252558c/badge.svg)](https://tensorblock.co/mcp/servers/github-sjotie-notionmcp-0252558c)",
   "links": {
     "primary": "https://github.com/Sjotie/notionMCP",
     "repo": "https://github.com/Sjotie/notionMCP",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "ravenwits/mcp-server-arangodb",
   "description": "A TypeScript-based server enabling seamless database operations with ArangoDB through MCP tools, compatible with Claude app and Cline VSCode extension.",
   "category": "Databases",
-  "profileUrl": "https://tensorblock.co/mcp/github-ravenwits-mcp-server-arangodb-1cf52d5a",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-ravenwits-mcp-server-arangodb-1cf52d5a)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-ravenwits-mcp-server-arangodb-1cf52d5a",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-ravenwits-mcp-server-arangodb-1cf52d5a/badge.svg)](https://tensorblock.co/mcp/servers/github-ravenwits-mcp-server-arangodb-1cf52d5a)",
   "links": {
     "primary": "https://github.com/ravenwits/mcp-server-arangodb",
     "repo": "https://github.com/ravenwits/mcp-server-arangodb",
@@ -12,12 +12,47 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "VS Code"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

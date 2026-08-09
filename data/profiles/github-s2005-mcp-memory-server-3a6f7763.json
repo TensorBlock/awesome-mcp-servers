@@ -3,8 +3,8 @@
   "name": "s2005/mcp-memory-server",
   "description": "Enables persistent memory for Claude using a local knowledge graph to remember user information across chats.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-s2005-mcp-memory-server-3a6f7763",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-s2005-mcp-memory-server-3a6f7763)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-s2005-mcp-memory-server-3a6f7763",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-s2005-mcp-memory-server-3a6f7763/badge.svg)](https://tensorblock.co/mcp/servers/github-s2005-mcp-memory-server-3a6f7763)",
   "links": {
     "primary": "https://github.com/s2005/mcp-memory-server",
     "repo": "https://github.com/s2005/mcp-memory-server",
@@ -12,12 +12,46 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

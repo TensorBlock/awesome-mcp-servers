@@ -1,0 +1,56 @@
+{
+  "id": "github-paperandbeyond23-gif-edgrapi-skills-8438eb43",
+  "name": "paperandbeyond23-gif/edgrapi-skills",
+  "description": "Clean SEC EDGAR financial data MCP server for income statements, balance sheets, cash flow, ratios, company profiles, filings, and 10-K/10-Q narrative sections normalized to JSON for 10,000+ US public companies. Hosted Streamable HTTP at `https://api.edgrapi.com/mcp`; Bearer API key auth with a free tier. Homepage: https://edgrapi.com; docs: https://edgrapi.com/docs.",
+  "category": "Finance & Crypto",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-paperandbeyond23-gif-edgrapi-skills-8438eb43",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-paperandbeyond23-gif-edgrapi-skills-8438eb43/badge.svg)](https://tensorblock.co/mcp/servers/github-paperandbeyond23-gif-edgrapi-skills-8438eb43)",
+  "links": {
+    "primary": "https://github.com/paperandbeyond23-gif/edgrapi-skills",
+    "repo": "https://github.com/paperandbeyond23-gif/edgrapi-skills",
+    "homepage": null,
+    "docs": null,
+    "endpoint": "https://api.edgrapi.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "summary": {
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": "bearer",
+    "installConfidence": "low",
+    "installReady": false,
+    "verification": "unknown",
+    "toolCount": null
+  }
+}

@@ -3,8 +3,8 @@
   "name": "yuna0x0/hackmd-mcp",
   "description": "Integrates HackMD's note-taking platform with AI assistants, enabling operations like note management and team collaboration via the HackMD API.",
   "category": "Knowledge Management & Memory",
-  "profileUrl": "https://tensorblock.co/mcp/github-yuna0x0-hackmd-mcp-14990106",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-yuna0x0-hackmd-mcp-14990106)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-yuna0x0-hackmd-mcp-14990106",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-yuna0x0-hackmd-mcp-14990106/badge.svg)](https://tensorblock.co/mcp/servers/github-yuna0x0-hackmd-mcp-14990106)",
   "links": {
     "primary": "https://github.com/yuna0x0/hackmd-mcp",
     "repo": "https://github.com/yuna0x0/hackmd-mcp",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

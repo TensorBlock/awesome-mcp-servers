@@ -3,8 +3,8 @@
   "name": "atxp-dev/atxp",
   "description": "Agent identity platform. One command (`npx atxp@latest agent register`) gives your AI agent a USDC wallet (Base), @atxp.email inbox, phone number, and 100+ paid MCP tools including web search, image gen, SMS, voice calls, and 100+ LLM models. Self-registers without human login. $5 free credits. Works with Claude Desktop, Claude Code, Cursor, Windsurf, and any MCP client.",
   "category": "Finance & Crypto",
-  "profileUrl": "https://tensorblock.co/mcp/github-atxp-dev-atxp-bba679f7",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-atxp-dev-atxp-bba679f7)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-atxp-dev-atxp-bba679f7",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-atxp-dev-atxp-bba679f7/badge.svg)](https://tensorblock.co/mcp/servers/github-atxp-dev-atxp-bba679f7)",
   "links": {
     "primary": "https://github.com/atxp-dev/atxp",
     "repo": "https://github.com/atxp-dev/atxp",
@@ -12,12 +12,49 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [
+      "npx atxp@latest agent register"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor"
+  ],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }

@@ -3,8 +3,8 @@
   "name": "x0x0b/mcp-nicovideo-snapshot-search",
   "description": "Facilitates video searches on Nicovideo using the Snapshot Search API.",
   "category": "Art, Culture & Media",
-  "profileUrl": "https://tensorblock.co/mcp/github-x0x0b-mcp-nicovideo-snapshot-search-33946130",
-  "badgeMarkdown": "[![Listed on TensorBlock MCP Index](https://img.shields.io/badge/TensorBlock-MCP%20Index-blue)](https://tensorblock.co/mcp/github-x0x0b-mcp-nicovideo-snapshot-search-33946130)",
+  "profileUrl": "https://tensorblock.co/mcp/servers/github-x0x0b-mcp-nicovideo-snapshot-search-33946130",
+  "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-x0x0b-mcp-nicovideo-snapshot-search-33946130/badge.svg)](https://tensorblock.co/mcp/servers/github-x0x0b-mcp-nicovideo-snapshot-search-33946130)",
   "links": {
     "primary": "https://github.com/x0x0b/mcp-nicovideo-snapshot-search",
     "repo": "https://github.com/x0x0b/mcp-nicovideo-snapshot-search",
@@ -12,12 +12,44 @@
     "docs": null,
     "endpoint": null
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [],
+  "license": "unknown",
+  "installReady": false,
+  "verifiedAt": null,
+  "health": {
+    "repoPublic": null,
+    "packageFound": null,
+    "endpointReachable": null,
+    "lastCheckedAt": null
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": []
+  },
+  "community": {
+    "maintainedBy": [],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "summary": {
     "transport": [
       "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }
