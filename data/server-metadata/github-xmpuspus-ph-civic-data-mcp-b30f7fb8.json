@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-xmpuspus-ph-civic-data-mcp-b30f7fb8",
+  "source": {
+    "projectUrl": "https://github.com/xmpuspus/ph-civic-data-mcp"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
