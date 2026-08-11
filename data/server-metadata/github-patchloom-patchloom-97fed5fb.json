@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-patchloom-patchloom-97fed5fb",
+  "source": {
+    "issue": 1686,
+    "projectUrl": "https://github.com/patchloom/patchloom"
+  },
+  "install": {
+    "commands": [
+      "npx -y patchloom mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "any stdio MCP client"
+  ],
+  "license": "MIT / Apache-2.0"
+}
