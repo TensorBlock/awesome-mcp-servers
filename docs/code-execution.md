@@ -2,6 +2,7 @@
 
 Servers designed to execute code snippets or scripts in various languages, often in sandboxed environments.
 
+- [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness): Model-agnostic managed agent runtime with a stdio MCP bridge for persistent sandboxed sessions, streamed runs, artifacts, cancellation, audit, and replay. Source release: [v0.3.0](https://github.com/sandbaseai/sandbase-harness/releases/tag/v0.3.0).
 - [rapidriskradar/RRR-MCP](https://github.com/rapidriskradar/RRR-MCP): Facilitates the execution of RRR scripts through a configurable MCP server interface.
 - [Quathor/CMD-Executor](https://github.com/Quathor/CMD-Executor): Facilitates remote execution of Windows CMD commands via the MCP protocol, ensuring secure and configurable command execution.
 - [JSFrouws/mcp-matlab-executor](https://github.com/JSFrouws/mcp-matlab-executor): Securely execute MATLAB functions and scripts with user-approved security prompts.
@@ -165,4 +166,3 @@ Servers designed to execute code snippets or scripts in various languages, often
 - [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli): A command-line interface for interacting with Model Context Provider servers, enabling seamless communication with LLMs through a robust tool system and advanced conversation management.
 - [aviz85/my-first-mcp](https://github.com/aviz85/my-first-mcp): Facilitates natural language control of computer functions across macOS and Windows using Claude.
 - [MarkusPfundstein/cmd-line-executor-MCP](https://github.com/MarkusPfundstein/cmd-line-executor-MCP): Facilitates command line execution through an MCP server interface, returning execution results like stdout and status codes.
-

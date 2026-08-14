@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sandbaseai-sandbase-harness-7a5986ca",
+  "source": {
+    "projectUrl": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  "links": {
+    "docs": "https://github.com/sandbaseai/sandbase-harness/tree/v0.3.0/examples/deepseek-harness"
+  },
+  "install": {
+    "commands": [
+      "git clone --branch v0.3.0 --depth 1 https://github.com/sandbaseai/sandbase-harness.git && cd sandbase-harness && npm ci && npm run build:runtime"
+    ],
+    "env": [
+      "MANAGED_AGENTS_URL",
+      "MANAGED_AGENTS_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "MANAGED_AGENTS_API_KEY is only required when authentication is enabled on the connected managed-agents runtime."
+    ]
+  },
+  "clients": [
+    "DeepSeek Harness"
+  ],
+  "license": "Apache-2.0",
+  "tools": {
+    "count": 6,
+    "names": [
+      "list_agents",
+      "create_session",
+      "run_session",
+      "get_session",
+      "list_artifacts",
+      "stop_session"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "The v0.3.0 release gate passed 573 tests, production builds, package validation, and CLI/workspace smoke checks.",
+      "The stdio MCP handshake was verified against DeepSeek Harness commit 47f9438."
+    ]
+  }
+}
