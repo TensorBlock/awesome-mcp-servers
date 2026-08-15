@@ -1,0 +1,68 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sandbaseai-cli-c4e113db",
+  "source": {
+    "projectUrl": "https://github.com/sandbaseai/cli"
+  },
+  "description": "MCP bridge and onboarding CLI that connects AI clients to 2,000+ API tools and 200+ AI models with OAuth, diagnostics, ownership-aware configuration updates, and exact rollback.",
+  "category": "Infrastructure",
+  "links": {
+    "docs": "https://docs.sandbase.ai"
+  },
+  "install": {
+    "commands": [
+      "npx -y @sandbaseai/cli connect",
+      "npx -y @sandbaseai/cli mcp-bridge --client codex"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "The connect command completes browser authorization before installing the local bridge and client configuration.",
+      "Credentials are stored locally with restricted file permissions and are not passed in command-line arguments or URLs."
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "OpenCode",
+    "Windsurf",
+    "Kiro",
+    "Warp",
+    "Amp",
+    "Qwen Code",
+    "Kimi CLI",
+    "OpenClaw"
+  ],
+  "tools": {
+    "count": 6,
+    "names": [
+      "sandbase_discover",
+      "sandbase_inspect",
+      "sandbase_run",
+      "sandbase_run_get",
+      "sandbase_runs",
+      "sandbase_account"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "The v0.1.14 release passed the repository CI, package audit, and 150 automated tests before publication."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "sandbaseai"
+    ],
+    "claimed": true
+  }
+}
