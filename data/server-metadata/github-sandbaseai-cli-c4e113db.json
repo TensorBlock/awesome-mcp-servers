@@ -4,7 +4,7 @@
   "source": {
     "projectUrl": "https://github.com/sandbaseai/cli"
   },
-  "description": "MCP bridge and onboarding CLI that connects AI clients to 2,000+ AI models and APIs with OAuth, diagnostics, ownership-aware configuration updates, and exact rollback.",
+  "description": "MCP bridge and onboarding CLI that connects AI clients to 2,000+ AI models with OAuth, diagnostics, ownership-aware configuration updates, and exact rollback.",
   "category": "Infrastructure",
   "links": {
     "docs": "https://docs.sandbase.ai"
