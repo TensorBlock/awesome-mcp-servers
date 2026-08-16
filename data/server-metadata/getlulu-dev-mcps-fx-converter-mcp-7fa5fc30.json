@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getlulu-dev-mcps-fx-converter-mcp-7fa5fc30",
+  "source": {
+    "issue": 1653,
+    "projectUrl": "https://getlulu.dev/mcps/fx-converter-mcp"
+  },
+  "links": {
+    "endpoint": "https://ads.getlulu.dev/fx/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "other MCP clients"
+  ],
+  "license": "n/a (hosted service)"
+}
