@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-hermitsh-ai-texts-mcp-db1b9b55",
+  "source": {
+    "issue": 1761,
+    "projectUrl": "https://github.com/hermitsh-ai/texts-mcp"
+  },
+  "links": {
+    "endpoint": "https://hermitsh.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @hermitsh/texts-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "ChatGPT",
+    "and other clients supporting Streamable HTTP or STDIO MCP servers."
+  ],
+  "license": "MIT"
+}
