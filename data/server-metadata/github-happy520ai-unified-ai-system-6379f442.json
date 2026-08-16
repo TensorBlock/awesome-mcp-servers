@@ -2,12 +2,15 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-happy520ai-unified-ai-system-6379f442",
   "source": {
-    "issue": 1475,
+    "issue": 1636,
     "projectUrl": "https://github.com/happy520ai/unified-ai-system"
+  },
+  "links": {
+    "docs": "https://github.com/happy520ai/unified-ai-system#quick-start"
   },
   "install": {
     "commands": [
-      "docker run --rm -i ghcr.io/happy520ai/unified-ai-system/mcp-server:0.4.0"
+      "docker run --rm -i ghcr.io/happy520ai/unified-ai-system/mcp-server:0.4.6"
     ],
     "env": [],
     "confidence": "medium"
@@ -38,5 +41,14 @@
     ],
     "source": "self_reported"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Metadata refreshed from #1636 for Unified AI System v0.4.6.",
+      "Release: https://github.com/happy520ai/unified-ai-system/releases/tag/v0.4.6.",
+      "Official MCP Registry version: https://registry.modelcontextprotocol.io/v0.1/servers/io.github.happy520ai%2Funified-ai-system/versions/0.4.6.",
+      "Current MCP image: ghcr.io/happy520ai/unified-ai-system/mcp-server:0.4.6."
+    ]
+  }
 }
