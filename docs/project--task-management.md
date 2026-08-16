@@ -2,6 +2,7 @@
 
 Servers integrating with project management and task tracking tools.
 
+- [gonnagetapower/kelvia-mcp](https://github.com/gonnagetapower/kelvia-mcp): Task manager an agent can fully operate, not just read: boards, tasks, sprints, member roles, worklogs and a time-blocking day planner across 58 tools. Hosted endpoint with OAuth 2.1 (one command, no token to paste) plus stdio; every tool carries MCP safety annotations, and toolsets let a client load only the part it needs.
 - [KyaniteLabs/Epoch](https://github.com/KyaniteLabs/Epoch): Software estimation MCP server — PERT, COCOMO II, Monte Carlo, sprint forecasting, and schedule-risk tools for AI agents.
 - [Claw Task Hub](https://github.com/Catfish-75/claw-task-hub): Local-first, SQLite-backed task hub with MCP-compatible tools for AI agent issue tracking, sessions, claims, comments, and acceptance trails.
 - [MadGapun/PBP](https://github.com/MadGapun/PBP): AI-powered MCP server for job application management in the German-speaking market (DACH). 73 tools, 18 guided workflows, 18 job portal scrapers, React dashboard with 8 tabs, email integration (.msg/.eml), calendar with .ics export, intelligent scoring, and AI coaching. Currently German language only. MIT licensed, runs locally, privacy-first.
