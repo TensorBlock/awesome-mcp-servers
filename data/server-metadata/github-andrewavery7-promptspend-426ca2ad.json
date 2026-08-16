@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-andrewavery7-promptspend-426ca2ad",
+  "source": {
+    "issue": 1631,
+    "projectUrl": "https://github.com/AndrewAvery7/promptspend"
+  },
+  "links": {
+    "docs": "https://github.com/AndrewAvery7/promptspend/blob/main/mcp/README.md"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 3,
+    "names": [
+      "get_price",
+      "estimate_cost",
+      "find_cheaper"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #1631. Source: Transport is declared in the MCP registry manifest at the repo root: https://github.com/AndrewAvery7/promptspend/blob/main/server.json -> packages[0].transport.type = \"stdio\".",
+      "Profile claimed by @AndrewAvery7 in #1629 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@AndrewAvery7"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
