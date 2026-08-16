@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-viewer12-nexus-shell-releases-faa8c815",
+  "source": {
+    "issue": 1637,
+    "projectUrl": "https://github.com/viewer12/Nexus-Shell-Releases"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "and other local MCP clients that support stdio"
+  ],
+  "license": "Proprietary macOS app; Agent Bridge core is available on the Free tier."
+}
