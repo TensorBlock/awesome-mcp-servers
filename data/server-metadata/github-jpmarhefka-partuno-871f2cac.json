@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jpmarhefka-partuno-871f2cac",
+  "source": {
+    "issue": 1705,
+    "projectUrl": "https://github.com/JPMarhefka/Partuno"
+  },
+  "install": {
+    "commands": [
+      "uvx --from partuno partuno-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "ChatGPT",
+    "and other stdio-capable MCP clients"
+  ],
+  "license": "Apache-2.0"
+}
