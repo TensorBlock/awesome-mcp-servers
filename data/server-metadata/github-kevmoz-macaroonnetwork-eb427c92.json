@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kevmoz-macaroonnetwork-eb427c92",
+  "source": {
+    "issue": 1783,
+    "projectUrl": "https://github.com/kevmoz/macaroonnetwork/tree/main/mcp-distribution"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "and any stdio-based MCP client"
+  ],
+  "license": "MIT"
+}
