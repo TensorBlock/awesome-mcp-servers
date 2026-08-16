@@ -18,7 +18,6 @@ Servers using tools for browser control, automation, and extracting content from
 - [yan5236/bing-cn-mcp-server](https://github.com/yan5236/bing-cn-mcp-server): A Chinese Bing search tool leveraging MCP for seamless integration with AI tools like Claude, enabling direct Bing searches and webpage content retrieval without an API key.
 - [w1561778301/mcp-playwright-test](https://github.com/w1561778301/mcp-playwright-test): Automates Playwright tests by generating and executing UI and API test cases with detailed reporting.
 - [xinlei413/DOC-Server-MCP](https://github.com/xinlei413/DOC-Server-MCP): Fetches and searches third-party package documentation using versatile scraping and intelligent processing with hybrid search capabilities.
-- [kxkaloo/mcp](https://github.com/kxkaloo/mcp): Enables AI models to extract structured data from websites using the Scrapezy MCP server.
 - [eadm/grain-mcp-server](https://github.com/eadm/grain-mcp-server): Facilitates integration with Grain for meeting recording and transcription through browser automation, bypassing enterprise API restrictions.
 - [jobsonlook/xhs-mcp](https://github.com/jobsonlook/xhs-mcp): Facilitates interaction with Xiaohongshu by reverse-engineering JavaScript to access and manage notes and comments without Playwright.
 - [mohdsuhail007/VerbilioMCP](https://github.com/mohdsuhail007/VerbilioMCP): Facilitates seamless integration with GitHub using Verbilio MCP server for streamlined workflow automation.
@@ -77,7 +76,6 @@ Servers using tools for browser control, automation, and extracting content from
 - [mugoosse/sitemap-mcp-server](https://github.com/mugoosse/sitemap-mcp-server): Fetch, parse, and visualize website sitemaps to uncover hidden pages and analyze site structures efficiently.
 - [panxingfeng/mcp_server_searXNG](https://github.com/panxingfeng/mcp_server_searXNG): Facilitates privacy-friendly web searches using SearXNG with customizable search engines and categories.
 - [flyiu/mobiler-use](https://github.com/flyiu/mobiler-use): A Java-based mobile device control service leveraging Spring Boot and Appium, enabling REST API and MCP protocol interactions for Android devices.
-- [jatidevelopments/MCP-Puppeteer-Advanced-Cursor-...-](https://github.com/jatidevelopments/MCP-Puppeteer-Advanced-Cursor-...-): Facilitates advanced browser automation using Puppeteer, enabling LLMs to interact with web pages for tasks like navigation, screenshot capture, and JavaScript execution.
 - [dragons96/mcp-undetected-chromedriver](https://github.com/dragons96/mcp-undetected-chromedriver): A robust MCP service leveraging undetected-chromedriver to automate Chrome browser tasks while bypassing anti-bot detection.
 - [l0kifs/browser-mcp](https://github.com/l0kifs/browser-mcp): A robust MCP server for browser automation using Playwright, enabling scriptable and reliable DOM interaction and automation.
 - [Hisma/openrouter-search](https://github.com/Hisma/openrouter-search): Leverages the OpenRouter API to enable web search capabilities through an MCP server using the google/gemini-2.5-pro-preview-03-25:online model.
@@ -91,16 +89,13 @@ Servers using tools for browser control, automation, and extracting content from
 - [browserstack/mcp-server](https://github.com/browserstack/mcp-server): BrowserStack MCP Server integrates with AI tools to facilitate comprehensive manual and automated testing across real devices and browsers.
 - [JonaFly/RednoteMCP](https://github.com/JonaFly/RednoteMCP): Automates Xiaohongshu login, keyword search, note retrieval, and intelligent commenting using Playwright.
 - [en30/mcp-cosense-server](https://github.com/en30/mcp-cosense-server): Facilitates LLM interactions with Cosense through Puppeteer-driven browser automation for page creation, modification, and search.
-- [jiashunkang/Fillit](https://github.com/jiashunkang/Fillit): Fillit is an AI agent that automates resume completion on websites using MCP server tools for seamless browser interaction.
 - [clareliguori/wordhippo-mcp-server](https://github.com/clareliguori/wordhippo-mcp-server): A specialized MCP server that retrieves thesaurus data from WordHippo.
 - [MDBs123/playwright-mcp](https://github.com/MDBs123/playwright-mcp): Enables LLMs to perform browser automation tasks using Playwright's accessibility tree for efficient web interactions.
 - [rascal-3/MCP-servers](https://github.com/rascal-3/MCP-servers): Integrates the Sonar API to enable Claude app users to perform real-time web-wide research.
 - [webscraping-ai/webscraping-ai-mcp-server](https://github.com/webscraping-ai/webscraping-ai-mcp-server): Integrates with WebScraping.AI to provide advanced web data extraction capabilities using the Model Context Protocol.
 - [luminati-io/brightdata-mcp](https://github.com/luminati-io/brightdata-mcp): Bright Data's MCP server facilitates seamless public web data access for decision-making by various MCP clients.
-- [LyiZri/demcp_browser_use](https://github.com/LyiZri/demcp_browser_use): Empowers AI agents to automate web browser tasks using the browser-use library.
 - [itsShashankSrivastava/Linkedin-Scrap-MCP-Server](https://github.com/itsShashankSrivastava/Linkedin-Scrap-MCP-Server): Fetches real-time LinkedIn profile data using an MCP server integrated with the Fresh LinkedIn Profile Data API.
 - [dlwjdtn535/mcp-chrome-server](https://github.com/dlwjdtn535/mcp-chrome-server): Facilitates browser automation through a Chrome server using the MCP model, enabling seamless web interactions and credential management.
-- [Kirill812/crawl4ai-mcp-server](https://github.com/Kirill812/crawl4ai-mcp-server): Enables web crawling with markdown output using Crawl4ai for seamless integration with LLMs.
 - [kentaro84207/mcp-sitefetch](https://github.com/kentaro84207/mcp-sitefetch): Fetches entire websites and integrates their content into LLM contexts for enhanced analysis and interaction.
 - [snd-primary/web-scraper](https://github.com/snd-primary/web-scraper): A Python-based MCP server offering web scraping capabilities from MDN Web Docs, seamlessly integrating with Claude Desktop.
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server): Facilitates LinkedIn data scraping and job searches through AI assistants like Claude.
@@ -171,7 +166,6 @@ Servers using tools for browser control, automation, and extracting content from
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp): Facilitates browser automation for LLMs using Playwright's accessibility snapshots, enabling efficient web interactions without visual models.
 - [browsercat/browsercat-mcp-server](https://github.com/browsercat/browsercat-mcp-server): Enables LLMs to automate web interactions and execute JavaScript using BrowserCat's cloud service without local browser installation.
 - [lxe/chrome-mcp](https://github.com/lxe/chrome-mcp): Enables precise control over a Chrome browser instance via the Chrome DevTools Protocol, facilitating seamless integration with LLM agents.
-- [julientrnt/mcp-selenium](https://github.com/julientrnt/mcp-selenium): Enables browser automation through Selenium WebDriver using standardized MCP clients, supporting various browser interactions and headless mode.
 - [thirdstrandstudio/mcp-xpath](https://github.com/thirdstrandstudio/mcp-xpath): Facilitates the execution of XPath queries on XML and HTML content, supporting both local and URL-based data sources.
 - [gpaul-faldin/MCP_puppeteer_extra](https://github.com/gpaul-faldin/MCP_puppeteer_extra): Enhances browser automation with Puppeteer-Extra and Stealth Plugin for LLMs to interact with web pages undetected.
 - [9pros/MCP-Browser-Inspector](https://github.com/9pros/MCP-Browser-Inspector): Facilitates web element inspection and responsive testing with interactive messaging and modification capabilities.
@@ -216,7 +210,6 @@ Servers using tools for browser control, automation, and extracting content from
 - [amotivv/cloudflare-browser-rendering-mcp](https://github.com/amotivv/cloudflare-browser-rendering-mcp): Facilitates web content fetching and processing using Cloudflare Browser Rendering for integration with LLMs in Claude and Cline environments.
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp): Leverage OmniParser to automate GUI operations on Windows through an MCP server.
 - [Scrapezy/mcp](https://github.com/Scrapezy/mcp): Enables AI models to extract structured data from websites using the Model Context Protocol.
-- [Eason748/Selenium-Server](https://github.com/Eason748/Selenium-Server): Empower Selenium-based browser automation and web scraping through a standardized MCP interface, supporting multiple browsers and Docker integration.
 - [bananabit-dev/mcp](https://github.com/bananabit-dev/mcp): Facilitates image generation and web scraping for Windsurf using the Flux Pro model and ScrapeGraph API.
 - [marcopesani/mcp-server-serper](https://github.com/marcopesani/mcp-server-serper): A TypeScript-based server offering web search and webpage scraping capabilities via the Serper API, integrated with Claude Desktop for enhanced content extraction.
 - [screenshotone/mcp](https://github.com/screenshotone/mcp): Facilitates website screenshot rendering via the ScreenshotOne API using the MCP server protocol.
@@ -247,7 +240,6 @@ Servers using tools for browser control, automation, and extracting content from
 - [jwaldor/mcp-scrape-copilot](https://github.com/jwaldor/mcp-scrape-copilot): Enables LLMs to automate browser tasks using Puppeteer for web interaction and JavaScript execution.
 - [adamdude828/playwright_mcp](https://github.com/adamdude828/playwright_mcp): Facilitates browser automation through Playwright using the Model Context Protocol, enabling seamless integration with MCP-compatible clients.
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp): Enhance browser automation with Playwright tools, offering note storage and summarization capabilities.
-- [lebrodus/mcp-playwright](https://github.com/lebrodus/mcp-playwright): Facilitates browser automation with Playwright, enabling LLMs to interact with web pages and execute JavaScript in a real browser environment.
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server): Facilitates seamless interaction with Apify Actors for data extraction and web scraping tasks via the Model Context Protocol.
 - [hrmeetsingh/mcp-browser-automation](https://github.com/hrmeetsingh/mcp-browser-automation): Automate browser interactions using Playwright through a Model Context Protocol server integrated with Claude Desktop.
 - [tokenizin-agency/mcp-npx-fetch](https://github.com/tokenizin-agency/mcp-npx-fetch): Fetch and transform web content into multiple formats with high performance and seamless MCP integration.
