@@ -2,6 +2,7 @@
 
 Servers integrating with healthcare standards, medical literature databases, bioinformatics resources, or specific healthcare platforms.
 
+- [Ask Helena](https://github.com/helena-bioinformatics/ask-helena-mcp): Official public, read-only Helena Bioinformatics MCP for source-cited answers about the company and its published bioinformatics products. Remote Streamable HTTP at `https://api.helena.bio/ask/v1/mcp`; no authentication; Apache-2.0 integration bridge. Excludes private content and patient data and does not perform clinical variant interpretation. [Website](https://www.helena.bio/ask) · [Official Registry](https://registry.modelcontextprotocol.io/?q=io.github.helena-bioinformatics%2Fask-helena)
 - [Legal Fournier Spain Legal](https://legalfournier.com/en/mcp/spain-legal/): Read-only Streamable HTTP MCP server for Spain legal route screening, including visas, Beckham Law eligibility, NIE/TIE, residency, nationality, EU family routes, and handoff preparation.
 - [fastomop/omcp_a2a](https://github.com/fastomop/omcp_a2a): Facilitates LLM-driven analysis of healthcare data in OMOP format through modular MCP servers and A2A protocol integration.
 - [deak-ai/openehr-mcp-server](https://github.com/deak-ai/openehr-mcp-server): Facilitates seamless integration with openEHR REST APIs, enabling the creation and management of electronic health records and compositions.
