@@ -30,7 +30,15 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #1631. Source: Transport is declared in the MCP registry manifest at the repo root: https://github.com/AndrewAvery7/promptspend/blob/main/server.json -> packages[0].transport.type = \"stdio\" Cross-check in the official MCP registry..."
+      "Metadata updated from issue #1631. Source: Transport is declared in the MCP registry manifest at the repo root: https://github.com/AndrewAvery7/promptspend/blob/main/server.json -> packages[0].transport.type = \"stdio\".",
+      "Profile claimed by @AndrewAvery7 in #1629 under the community profile-claim process."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@AndrewAvery7"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
