@@ -73,7 +73,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [ZXreaper/cookbook-mcp-server](https://github.com/ZXreaper/cookbook-mcp-server): Facilitates access to a comprehensive cookbook through MCP server functionalities, enabling retrieval of all recipes or specific dish instructions.
 - [OiPKL/mcp-practice](https://github.com/OiPKL/mcp-practice): A comprehensive MCP server suite offering weather, installation, filesystem, and general-purpose functionalities for seamless integration with Claude desktop configurations.
 - [miso-develop/cube-scrambler-mcp](https://github.com/miso-develop/cube-scrambler-mcp): Facilitates cube scrambling and manipulation through an MCP server, offering randomization and sequence control for various cube states.
-- [shin-t-o/mcp-access](https://github.com/shin-t-o/mcp-access): A personal MCP server template using Deno, featuring command execution, web page parsing to Markdown, and PDF content extraction.
 - [Nuosis/widget-setup-server](https://github.com/Nuosis/widget-setup-server): Automates the setup of FileMaker widget projects by initializing repositories and generating agent prompts.
 - [elmozapanta/compound](https://github.com/elmozapanta/compound): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [janwilmake/curlmcp](https://github.com/janwilmake/curlmcp): A versatile MCP server offering REST API and browser integration for seamless HTTP requests, with OAuth support and markdown transformation for popular sites.

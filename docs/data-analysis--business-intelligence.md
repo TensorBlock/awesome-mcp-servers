@@ -15,7 +15,6 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [rotatingshov/go-mcp-mysql](https://github.com/rotatingshov/go-mcp-mysql): Effortlessly manage MySQL databases with a Go-based MCP server, offering CRUD operations and automation without the need for Node.js or Python.
 - [datafe/maxcompute-mcp-server](https://github.com/datafe/maxcompute-mcp-server): Facilitates data querying and schema management on Alibaba Cloud's MaxCompute platform using MCP protocol.
 - [atcol/glue-mcp](https://github.com/atcol/glue-mcp): Facilitates interaction with AWS Glue Data Catalog through a model context protocol server.
-- [dhrbtjr0331/nba-stats-predictor-mcp](https://github.com/dhrbtjr0331/nba-stats-predictor-mcp): Generates NBA player performance forecasts using real-time data analysis and advanced statistical modeling.
 - [ronantakizawa/gis-dataconvertersion-mcp](https://github.com/ronantakizawa/gis-dataconvertersion-mcp): Facilitates geographic data conversion across multiple formats, enabling seamless integration with LLMs for spatial data manipulation.
 - [albertdow/mcp-datapi](https://github.com/albertdow/mcp-datapi): Facilitates access to ECMWF's Climate Data Store catalogues and job statuses through an MCP server interface.
 - [4R9UN/mcp-kql-server](https://github.com/4R9UN/mcp-kql-server): Facilitates the execution of KQL queries against Azure Data Explorer within Claude Desktop, leveraging Azure CLI for secure authentication and structured data output.
