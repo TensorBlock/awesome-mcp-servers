@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-palisadeemail-palisade-mcp-b7c73edf",
+  "source": {
+    "issue": 1754,
+    "projectUrl": "https://github.com/palisadeemail/palisade-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.palisade.email/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @palisadeemail/mcp"
+    ],
+    "env": [
+      "PALISADE_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "and other MCP-compatible clients"
+  ],
+  "license": "MIT"
+}
