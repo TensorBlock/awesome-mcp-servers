@@ -2,8 +2,8 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-aislon-uizze-mcp-30a796c9",
   "source": {
-    "issue": 1344,
-    "projectUrl": "https://github.com/aislon/uizze-mcp"
+    "issue": 1776,
+    "projectUrl": "https://github.com/uizze/uizze"
   },
   "links": {
     "endpoint": "https://uizze.com/mcp",
@@ -31,11 +31,13 @@
     "Cursor",
     "and other MCP clients"
   ],
-  "description": "UIZZE gives Codex, Claude Code, Cursor, and other coding agents real web and iOS UI context, structured design contracts, and hard finish-gate reviews before shipping.",
+  "category": "Developer Productivity & Utilities",
+  "description": "UIZZE gives Codex, Claude Code, Cursor, Copilot, and other coding agents an anti-UI-slop workflow grounded in 800,000+ real web and iOS screens, with design contracts, implementation validation, audits, and rendered critique.",
+  "license": "MIT",
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #1344. Source: The indexed project URL above is the historical source and now redirects on GitHub to https://github.com/uizze/uizze-mcp after the repository transfer. The destination is the same repository under the UIZZE..."
+      "Canonical repository corrected from the retired aislon/uizze-mcp source in issue #1776. The stable TensorBlock profile id is preserved so existing profile links keep working."
     ]
   }
 }
