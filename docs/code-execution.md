@@ -35,7 +35,6 @@ Servers designed to execute code snippets or scripts in various languages, often
 - [anchor-g/mcp-sentry](https://github.com/anchor-g/mcp-sentry): Facilitates the retrieval and analysis of issues from Sentry.io, offering tools to inspect error reports and stacktraces.
 - [chjtxwd/remote-mcp-server](https://github.com/chjtxwd/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
 - [JohanLi233/mcp-sandbox](https://github.com/JohanLi233/mcp-sandbox): Python MCP Sandbox enables secure and isolated Python code execution and package management within Docker containers, facilitating safe interactions for LLMs.
-- [fgh23333/remote-mcp-server](https://github.com/fgh23333/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [rynnkitty/mcp-studio](https://github.com/rynnkitty/mcp-studio): The repository provides a C# client for interacting with various MCP servers, including those for image reading and filesystem operations.
 - [free-free-6/lnfi-mcp-node-service-test](https://github.com/free-free-6/lnfi-mcp-node-service-test): A Node.js service facilitating interactions with the LnFi API using the Model Context Protocol.
 - [kranners/hyper-mpc](https://github.com/kranners/hyper-mpc): A configurable MCP server wrapper for using the entire Model Context Protocol without a tool count limit in Cursor.
@@ -162,4 +161,3 @@ Servers designed to execute code snippets or scripts in various languages, often
 - [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli): A command-line interface for interacting with Model Context Provider servers, enabling seamless communication with LLMs through a robust tool system and advanced conversation management.
 - [aviz85/my-first-mcp](https://github.com/aviz85/my-first-mcp): Facilitates natural language control of computer functions across macOS and Windows using Claude.
 - [MarkusPfundstein/cmd-line-executor-MCP](https://github.com/MarkusPfundstein/cmd-line-executor-MCP): Facilitates command line execution through an MCP server interface, returning execution results like stdout and status codes.
-

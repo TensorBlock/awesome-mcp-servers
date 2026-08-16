@@ -7,7 +7,6 @@ Servers using tools for browser control, automation, and extracting content from
 - [rog0x/mcp-web-tools](https://github.com/rog0x/mcp-web-tools): Web MCP tools for scraping, search, and monitoring workflows. Install from the `@rog0x` npm package family. MIT.
 - [rog0x/mcp-seo-tools](https://github.com/rog0x/mcp-seo-tools): SEO MCP tools for metadata, keywords, page speed, and search visibility checks. Install from the `@rog0x` npm package family. MIT.
 - [Crawlio-app/crawlio-browser-agent](https://github.com/Crawlio-app/crawlio-browser-agent): AI-powered website crawling MCP server with 38 tools for crawl control, browser enrichment capture, export (WARC/ZIP/single-HTML), observation timeline, and evidence-backed findings. Install: `npx crawlio-mcp`.
-- [Crawlio-app/crawlio-browser-agent](https://github.com/Crawlio-app/crawlio-browser-agent): 100-tool browser automation MCP server for AI agents. Screenshots, DOM inspection, network capture, form filling, framework detection, session recording, and tab orchestration via Chrome extension. Install: `npx crawlio-browser`.
 - [Komos MCP](https://docs.komos.ai/mcp-server): Hosted MCP server for creating, running, and monitoring browser workflow automations with integrations, files, web search, and email tools.
 
 - [giannisalinetti/python-mcp-server](https://github.com/giannisalinetti/python-mcp-server): Facilitates Python code execution for web scraping tasks using an LLM, leveraging Podman for container management.
@@ -91,7 +90,6 @@ Servers using tools for browser control, automation, and extracting content from
 - [en30/mcp-cosense-server](https://github.com/en30/mcp-cosense-server): Facilitates LLM interactions with Cosense through Puppeteer-driven browser automation for page creation, modification, and search.
 - [clareliguori/wordhippo-mcp-server](https://github.com/clareliguori/wordhippo-mcp-server): A specialized MCP server that retrieves thesaurus data from WordHippo.
 - [MDBs123/playwright-mcp](https://github.com/MDBs123/playwright-mcp): Enables LLMs to perform browser automation tasks using Playwright's accessibility tree for efficient web interactions.
-- [rascal-3/MCP-servers](https://github.com/rascal-3/MCP-servers): Integrates the Sonar API to enable Claude app users to perform real-time web-wide research.
 - [webscraping-ai/webscraping-ai-mcp-server](https://github.com/webscraping-ai/webscraping-ai-mcp-server): Integrates with WebScraping.AI to provide advanced web data extraction capabilities using the Model Context Protocol.
 - [luminati-io/brightdata-mcp](https://github.com/luminati-io/brightdata-mcp): Bright Data's MCP server facilitates seamless public web data access for decision-making by various MCP clients.
 - [itsShashankSrivastava/Linkedin-Scrap-MCP-Server](https://github.com/itsShashankSrivastava/Linkedin-Scrap-MCP-Server): Fetches real-time LinkedIn profile data using an MCP server integrated with the Fresh LinkedIn Profile Data API.
