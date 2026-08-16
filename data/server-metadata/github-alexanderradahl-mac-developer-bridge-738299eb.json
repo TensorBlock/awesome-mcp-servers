@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-alexanderradahl-mac-developer-bridge-738299eb",
+  "source": {
+    "issue": 1759,
+    "projectUrl": "https://github.com/alexanderradahl/mac-developer-bridge"
+  },
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "stdio MCP clients can connect to the underlying bridge transport"
+  ],
+  "license": "MIT"
+}
