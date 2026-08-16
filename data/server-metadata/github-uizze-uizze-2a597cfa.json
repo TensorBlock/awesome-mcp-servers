@@ -1,6 +1,6 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "github-aislon-uizze-mcp-30a796c9",
+  "id": "github-uizze-uizze-2a597cfa",
   "source": {
     "issue": 1776,
     "projectUrl": "https://github.com/uizze/uizze"
@@ -37,7 +37,7 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Canonical repository corrected from the retired aislon/uizze-mcp source in issue #1776. The stable TensorBlock profile id is preserved so existing profile links keep working."
+      "Canonical repository corrected from the retired aislon/uizze-mcp source in issue #1776. The metadata sidecar was moved to the profile id derived from the canonical repository URL so it continues to attach to the generated catalog entry."
     ]
   }
 }
