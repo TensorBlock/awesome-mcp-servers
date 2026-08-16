@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-2ools-mcp-server-8ecb8cd3",
+  "source": {
+    "issue": 1672,
+    "projectUrl": "https://github.com/2ools/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://2ools.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
