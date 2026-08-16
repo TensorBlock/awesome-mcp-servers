@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mydreamthreads-xyz-dream-mcp-server-6266d0df",
+  "source": {
+    "issue": 1739,
+    "projectUrl": "https://mydreamthreads.xyz/dream-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mydreamthreads.xyz/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any standards-compatible Streamable HTTP MCP client"
+  ],
+  "license": "Proprietary hosted service; use subject to https://mydreamthreads.xyz/terms"
+}
