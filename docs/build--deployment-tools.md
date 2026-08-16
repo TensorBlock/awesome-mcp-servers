@@ -91,3 +91,4 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [Bigsy/maven-mcp-server](https://github.com/Bigsy/maven-mcp-server): Facilitates LLMs in verifying and retrieving Maven dependency versions from the Maven Central Repository.
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp): Facilitates Docker container and stack management through Claude AI with a Model Context Protocol server.
 - [solomon2773/nora](https://github.com/solomon2773/nora): Deploy, inspect, start, stop, restart, redeploy, and monitor self-hosted OpenClaw and Hermes agent fleets through a Nora control plane, including fleet health, metrics, events, versions, and per-agent cost.
+- [harvis.dev](https://harvis.dev): Publishes static sites from AI agents via a deploy_site tool that returns a live URL. Remote Streamable HTTP endpoint at https://harvis.dev/api/mcp; open access, no auth or account required.
