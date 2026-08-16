@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getlulu-dev-mcps-crypto-price-mcp-7c09b410",
+  "source": {
+    "issue": 1663,
+    "projectUrl": "https://getlulu.dev/mcps/crypto-price-mcp"
+  },
+  "links": {
+    "endpoint": "https://ads.getlulu.dev/crypto/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "other MCP clients"
+  ],
+  "license": "n/a (hosted service)"
+}
