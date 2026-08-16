@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-target1m-traderspy-mcp-77b42ff7",
+  "source": {
+    "issue": 1771,
+    "projectUrl": "https://github.com/target1m/traderspy-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.traderspy.app/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth _Also accepts an API key (`Authorization: Bearer mcp_…` or `?token=`)._"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "Cline",
+    "VS Code"
+  ],
+  "license": "unknown (hosted service; the connector repo is public)"
+}
