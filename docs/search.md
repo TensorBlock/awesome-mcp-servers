@@ -200,3 +200,4 @@ Servers providing web search capabilities or interfacing with specialized search
 - [Lulu / Crypto Price MCP](https://getlulu.dev/mcps/crypto-price-mcp): Free, keyless live cryptocurrency prices, market cap, and 24h change via CoinGecko.
 - [Lulu / Postal Lookup MCP](https://getlulu.dev/mcps/postal-lookup-mcp): Free, keyless postal/ZIP code lookup: place names, state/region, and coordinates for any supported country, via Zippopotam.us.
 - [Lulu / Air Quality MCP](https://getlulu.dev/mcps/air-quality-mcp): Free, keyless real-time air quality (US AQI, PM2.5, PM10, ozone, NO2, SO2, CO) for any city, via Open-Meteo.
+- [Lulu / Holidays MCP](https://getlulu.dev/mcps/holidays-mcp): Free, keyless public holidays lookup for any country and year, plus single-date holiday checks, via Nager.Date.
