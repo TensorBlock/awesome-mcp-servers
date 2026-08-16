@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-uizze-uizze-2a597cfa",
+  "source": {
+    "issue": 1776,
+    "projectUrl": "https://github.com/uizze/uizze"
+  },
+  "links": {
+    "endpoint": "https://uizze.com/mcp",
+    "docs": "https://uizze.com/docs"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "UIZZE_AGENT_TOKEN"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "and other MCP clients"
+  ],
+  "category": "Developer Productivity & Utilities",
+  "description": "UIZZE gives Codex, Claude Code, Cursor, Copilot, and other coding agents an anti-UI-slop workflow grounded in 800,000+ real web and iOS screens, with design contracts, implementation validation, audits, and rendered critique.",
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Canonical repository corrected from the retired aislon/uizze-mcp source in issue #1776. The metadata sidecar was moved to the profile id derived from the canonical repository URL so it continues to attach to the generated catalog entry."
+    ]
+  }
+}
