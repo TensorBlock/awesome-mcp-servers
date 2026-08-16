@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-dacode-dev-agent-context-api-2be5440c",
+  "source": {
+    "issue": 1684,
+    "projectUrl": "https://github.com/dacode-dev/agent-context-api"
+  },
+  "links": {
+    "endpoint": "https://agent-context-api-proxy.agent-context-proxy.workers.dev/mcp"
+  },
+  "install": {
+    "commands": [
+      "npm install && npm run start:mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "No API key for MCP discovery/free local mode; x402 Base USDC is used for the larger hosted HTTP upgrade."
+    ]
+  },
+  "clients": [
+    "Streamable HTTP MCP clients",
+    "local stdio works with standard MCP clients."
+  ],
+  "license": "MIT"
+}
