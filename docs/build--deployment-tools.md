@@ -17,7 +17,6 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [yodablocks/mcp-installer.0](https://github.com/yodablocks/mcp-installer.0): Facilitates the installation of MCP servers from npm or PyPi using Claude, streamlining server setup processes.
 - [akr4/claude-code-mcp-docker](https://github.com/akr4/claude-code-mcp-docker): A Docker container for running Claude Code MCP server with enhanced security features, including a network firewall to prevent unauthorized outbound connections.
 - [sakomws/mcp-cf-deploy](https://github.com/sakomws/mcp-cf-deploy): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [hiroooo000/mydockers](https://github.com/hiroooo000/mydockers): Facilitates browser automation using Playwright within a Dockerized MCP server environment.
 - [dandacompany/webhook-trigger](https://github.com/dandacompany/webhook-trigger): Facilitates dynamic webhook transmission using FastMCP framework with support for various HTTP methods and custom headers.
 - [base/base-builder-mcp](https://github.com/base/base-builder-mcp): Facilitates integration with Base Docs for Model Context Protocol, enabling seamless interaction with Base Builders.
 - [snowsky/mcp-helmfile](https://github.com/snowsky/mcp-helmfile): Facilitates Helmfile command execution and management through a standardized MCP interface, enhancing AI-assisted deployments and configurations.
