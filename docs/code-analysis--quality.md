@@ -10,7 +10,6 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server): Helps MCP enabled clients navigate codebases more easily by giving them access to semantic tools like get definition, references, rename, and diagnostics.
 - [dhylan01/MCP_OA](https://github.com/dhylan01/MCP_OA): Facilitates AI assistants in analyzing code by identifying function usage within Python and TypeScript/TSX files.
 - [angrysky56/ast-mcp-server](https://github.com/angrysky56/ast-mcp-server): Provides code structure and semantic analysis using AST and ASG for multiple programming languages, enhancing code analysis capabilities in Claude Desktop.
-- [joaomj/code-reviewer-mcp](https://github.com/joaomj/code-reviewer-mcp): Automated GitHub pull request code reviews using AI models via MCP integration.
 - [shaydo-deriv/go-archer](https://github.com/shaydo-deriv/go-archer): Go Archer provides a visual representation of package dependencies and can operate as an MCP server for dependency analysis.
 - [RaRdq/RR.MCP](https://github.com/RaRdq/RR.MCP): Facilitates AI-driven .NET project analysis by extracting interfaces, models, and data structures using PowerShell scripts.
 - [mettamatt/code-reasoning](https://github.com/mettamatt/code-reasoning): Enhances Claude's problem-solving capabilities by breaking down complex programming tasks into manageable steps using structured, sequential thinking.
@@ -42,7 +41,6 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [klara-research/MCP-Analyzer](https://github.com/klara-research/MCP-Analyzer): Facilitates the analysis and debugging of Model Context Protocol logs with seamless integration into Claude Desktop.
 - [ast-grep/ast-grep-mcp](https://github.com/ast-grep/ast-grep-mcp): An experimental MCP server leveraging ast-grep for codebase searching and analysis.
 - [JordyZomer/codeql-mcp](https://github.com/JordyZomer/codeql-mcp): Facilitates interaction with CodeQL through structured commands, enabling AI agents and tools like Cursor to perform queries and decode results.
-- [pollyannaanalytics/Figma-BDD-MCP-Server](https://github.com/pollyannaanalytics/Figma-BDD-MCP-Server): Automatically generates BDD test plans from Figma designs using a microservice architecture.
 - [x51xxx/github-explorer-mcp](https://github.com/x51xxx/github-explorer-mcp): A TypeScript MCP server offering comprehensive GitHub repository insights, including file content, directory structure, and metadata for enhanced client interactions.
 - [gtnao/github_deep_blame_mcp](https://github.com/gtnao/github_deep_blame_mcp): Provides comprehensive analysis of GitHub file history by retrieving detailed pull request information, including comments and reviews, beyond standard git blame.
 - [Bigsy/clj-kondo-MCP](https://github.com/Bigsy/clj-kondo-MCP): Enhance your Clojure development with clj-kondo linting capabilities through a dedicated MCP server.
