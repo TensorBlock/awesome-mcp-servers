@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-garphengate-moltline-mcp-ab1d3b55",
+  "source": {
+    "issue": 1802,
+    "projectUrl": "https://github.com/GarphenGate/moltline-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.moltlinestudio.com/catalog"
+  },
+  "install": {
+    "commands": [
+      "Docker: docker build -t moltline-mcp . && docker run -i --rm moltline-mcp timeops"
+    ],
+    "env": [
+      "URL",
+      "MOLTLINE_BASE_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other"
+  ],
+  "license": "MIT"
+}
