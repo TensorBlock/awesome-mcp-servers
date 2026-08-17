@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-apitube-news-api-mcp-e01ad981",
+  "source": {
+    "projectUrl": "https://github.com/apitube/news-api-mcp"
+  },
+  "links": {
+    "docs": "https://docs.apitube.io/platform/news-api/ai/mcp-server",
+    "endpoint": "https://mcp.apitube.io/"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http apitube-news https://mcp.apitube.io/ --header \"Authorization: Bearer YOUR_API_KEY\"",
+      "npx -y mcp-remote https://mcp.apitube.io/ --header \"Authorization: Bearer YOUR_API_KEY\""
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Authorization: Bearer <API_KEY>, or X-API-Key: <API_KEY>",
+      "Key from apitube.io; the MCP server is part of the paid plans, the free tier covers the REST API only"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cline",
+    "Cursor",
+    "VS Code",
+    "Windsurf"
+  ],
+  "tools": {
+    "count": 2,
+    "names": [
+      "search_news",
+      "suggest"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}
