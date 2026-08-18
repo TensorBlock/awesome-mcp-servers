@@ -1,7 +1,7 @@
 {
   "id": "github-entia-ia-entia-mcp-server-61e034a8",
   "name": "ENTIA",
-  "description": "Verified business-identity intelligence for AI agents and MCP clients, covering company verification, VAT, BORME, GLEIF, ownership, and risk signals across 34 countries. Remote streamable HTTP endpoint at `https://mcp.entia.systems/mcp`; free tier available via `npx mcp-remote https://mcp.entia.systems/mcp`. MCP Registry id `io.github.entia-systems-core/entity-verification`. MIT.",
+  "description": "Verified business-identity intelligence for AI agents and MCP clients, covering company verification, VAT, BORME, GLEIF, ownership, and risk signals across 10 countries. Remote streamable HTTP endpoint at `https://mcp.entia.systems/mcp`; free tier available via `npx mcp-remote https://mcp.entia.systems/mcp`. MCP Registry id `io.github.entia-systems-core/entity-verification`. MIT.",
   "category": "Finance & Crypto",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-entia-ia-entia-mcp-server-61e034a8",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-entia-ia-entia-mcp-server-61e034a8/badge.svg)](https://tensorblock.co/mcp/servers/github-entia-ia-entia-mcp-server-61e034a8)",
@@ -53,6 +53,6 @@
     "installConfidence": "medium",
     "installReady": true,
     "verification": "unknown",
-    "toolCount": null
+    "toolCount": 12
   }
 }
