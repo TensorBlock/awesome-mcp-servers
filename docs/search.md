@@ -204,3 +204,4 @@ Servers providing web search capabilities or interfacing with specialized search
 - [Lulu / FX Converter MCP](https://getlulu.dev/mcps/fx-converter-mcp): Free, keyless real-time currency conversion and exchange rates for any currency pair.
 - [Lulu / Weather MCP](https://getlulu.dev/mcps/weather-mcp): Free, keyless real-time weather and 7-day forecasts for any city worldwide, via Open-Meteo.
 - [Lulu / Lulu Registry MCP](https://getlulu.dev/mcps/registry-mcp): Search and get install details on MCP servers directly from the agent -- a unified, cross-registry marketplace index (official MCP registry, Glama, PulseMCP, Smithery), ranked by trust score.
+- [misarreach-mcp](https://github.com/Misar-AI/misarreach-mcp): Run cold-outreach campaigns: build and segment prospect lists, create multi-step sequences, schedule sends, check deliverability, and track opens, clicks and replies. 27 tools over the MisarReach API.
