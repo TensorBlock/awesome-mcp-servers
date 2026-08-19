@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sandbaseai-cli-c4e113db",
+  "source": {
+    "issue": 1834,
+    "projectUrl": "https://github.com/sandbaseai/cli"
+  },
+  "install": {
+    "commands": [
+      "npx -y https://github.com/sandbaseai/cli/releases/download/v0.1.17/sandbaseai-cli-0.1.17.tgz connect"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Gemini CLI",
+    "OpenCode",
+    "Hermes",
+    "OpenClaw",
+    "Warp",
+    "Kiro IDE/CLI",
+    "Cursor CLI",
+    "Kimi CLI",
+    "Qwen Code",
+    "Amp",
+    "Crush",
+    "iFlow CLI",
+    "Claude Desktop",
+    "ChatGPT",
+    "and additional prompt-assisted targets (25 total)"
+  ],
+  "license": "Apache-2.0"
+}
