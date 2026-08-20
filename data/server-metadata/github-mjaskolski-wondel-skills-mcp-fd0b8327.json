@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mjaskolski-wondel-skills-mcp-fd0b8327",
+  "source": {
+    "issue": 1856,
+    "projectUrl": "https://github.com/mjaskolski/wondel-skills-mcp"
+  },
+  "links": {
+    "endpoint": "https://skills.wondel.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Remote Streamable HTTP endpoint. No install, no account, no API key. URL: `https://skills.wondel.ai/mcp` Claude Code: `claude mcp add --transport http wondel-skills https://skills.wondel.ai/mcp` ```json {\"mcpServers\": {\"wondel-skills\":..."
+    ]
+  }
+}
