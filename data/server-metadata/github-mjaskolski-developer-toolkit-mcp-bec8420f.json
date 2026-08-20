@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mjaskolski-developer-toolkit-mcp-bec8420f",
+  "source": {
+    "issue": 1857,
+    "projectUrl": "https://github.com/mjaskolski/developer-toolkit-mcp"
+  },
+  "links": {
+    "endpoint": "https://developertoolkit.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Remote Streamable HTTP endpoint. No install, no account, no API key. URL: `https://developertoolkit.ai/mcp` Claude Code: `claude mcp add --transport http developer-toolkit https://developertoolkit.ai/mcp` ```json {\"mcpServers\":..."
+    ]
+  }
+}
