@@ -49,7 +49,8 @@
   "verification": {
     "status": "verified",
     "notes": [
-      "On 2026-08-21, a live MCP initialize returned server version 0.10.0, tools/list returned these 11 public tools with readOnlyHint=true on every tool, and world_markets_context(section=summary) returned ok=true."
+      "On 2026-08-21, a live MCP initialize returned server version 0.10.0, tools/list returned these 11 public tools with readOnlyHint=true on every tool, and world_markets_context(section=summary) returned ok=true.",
+      "On 2026-08-22, a fresh live MCP initialize returned server version 0.10.1; tools/list again returned exactly 11 public tools with readOnlyHint=true on every tool; world_markets_context(section=summary) returned ok=true with schema seiche.world-markets.v1; and the official MCP Registry returned io.github.beepboop2025/seiche 0.10.1 with status=active and isLatest=true."
     ]
   }
 }
