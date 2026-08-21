@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-donnywin85-arb-dex-mcp-7dd9a70c",
+  "source": {
+    "issue": 1871,
+    "projectUrl": "https://github.com/donnywin85/arb-dex-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @donnywin85 in #1871 under the community profile-claim process.",
+      "Requested profile metadata in #1871: Maintainer: @donnywin85 Docs: https://donnywin85.github.io/arb-dex-mcp/ Repository: https://github.com/donnywin85/arb-dex-mcp Install: `npx -y arb-dex-mcp` Transport: stdio License: MIT Tools (6, self-reported):..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@donnywin85"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
