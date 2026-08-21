@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-beepboop2025-seiche-f83d7e54",
+  "source": {
+    "projectUrl": "https://github.com/beepboop2025/seiche"
+  },
+  "links": {
+    "docs": "https://seiche.info/developers/",
+    "endpoint": "https://api.seiche.info/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http seiche https://api.seiche.info/mcp"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Anonymous access exposes 11 public read-only tools; optional bearer credentials unlock five subscriber-only tools."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Other MCP-compatible Streamable HTTP clients"
+  ],
+  "tools": {
+    "count": 11,
+    "names": [
+      "latest_article",
+      "funding_stress_now",
+      "money_market_context",
+      "world_markets_context",
+      "historical_analogs",
+      "proof_backtest",
+      "data_health",
+      "crypto_stress_record",
+      "institutional_flows",
+      "oil_funding_context",
+      "fx_materials_passage"
+    ],
+    "source": "verified"
+  },
+  "license": "AGPL-3.0",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "On 2026-08-21, a live MCP initialize returned server version 0.10.0, tools/list returned these 11 public tools with readOnlyHint=true on every tool, and world_markets_context(section=summary) returned ok=true."
+    ]
+  }
+}
