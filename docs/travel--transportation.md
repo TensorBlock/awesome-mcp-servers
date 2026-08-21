@@ -3,6 +3,7 @@
 Servers providing data or services related to flights, trains, transportation APIs, or travel planning.
 
 - [drivly/auto-dev-skill](https://github.com/drivly/auto-dev-skill): Automotive data APIs for AI agents — VIN decode, vehicle listings, payments, recalls, and specs.
+- [RevList/pocket-drives-mcp](https://github.com/RevList/pocket-drives-mcp): Public remote MCP for Pocket Drives, a peer-to-peer luxury/exotic/EV rental marketplace. Search, quote, and browse independent hosts. Streamable HTTP at `https://pocketdrives.ai/mcp`, no auth. Booking finishes in the iOS app.
 - [MyCarTracks](https://mycartracks.com/resources/connect-with-ai): Remote MCP server for app-based GPS vehicle tracking and automatic mileage tracking, exposing authorized trip, track, and vehicle data via `https://mycartracks.com/mcp`.
 - [ckorhonen/mta-mcp](https://subwayinfo.nyc): Provides real-time NYC subway arrivals, service status, alerts, station search, and trip planning capabilities.
 - [RikGmee/searchAPI-mcp](https://github.com/RikGmee/searchAPI-mcp): Facilitates complex travel planning by integrating flight, hotel, and map services through a multi-context protocol server.
