@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-uizze-uizze-2a597cfa",
   "source": {
-    "issue": 1776,
+    "issue": 1804,
     "projectUrl": "https://github.com/uizze/uizze"
   },
   "links": {
@@ -20,24 +20,34 @@
     "streamable-http"
   ],
   "auth": {
-    "type": "bearer",
+    "type": "none",
     "notes": [
-      "bearer"
+      "No auth is required for the free preview endpoint; the full hosted MCP uses a bearer token."
     ]
   },
   "clients": [
     "Codex",
     "Claude Code",
     "Cursor",
+    "GitHub Copilot",
+    "VS Code",
     "and other MCP clients"
   ],
   "category": "Developer Productivity & Utilities",
-  "description": "UIZZE gives Codex, Claude Code, Cursor, Copilot, and other coding agents an anti-UI-slop workflow grounded in 800,000+ real web and iOS screens, with design contracts, implementation validation, audits, and rendered critique.",
-  "license": "MIT",
+  "description": "UIZZE gives coding agents a free MIT `anti-ui-slop` Skill and deterministic no-account `check_ui_slop` MCP preview for rendered HTML and CSS. The full product adds live UI research across 800,000+ real web and iOS screens, product-specific design contracts, implementation validation, audits, and rendered critique.",
+  "license": "MIT for the free `anti-ui-slop` Skill and public repository; the hosted full product is separate",
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Canonical repository corrected from the retired aislon/uizze-mcp source in issue #1776. The metadata sidecar was moved to the profile id derived from the canonical repository URL so it continues to attach to the generated catalog entry."
+      "Canonical repository corrected from the retired aislon/uizze-mcp source in issue #1776. The metadata sidecar was moved to the profile id derived from the canonical repository URL so it continues to attach to the generated catalog entry.",
+      "Metadata updated from issue #1804. Sources: canonical README https://github.com/uizze/uizze/blob/main/README.md, MCP setup https://github.com/uizze/uizze/tree/main/integrations/mcp, free preview endpoint https://uizze.com/mcp/preview, free Skill https://uizze.com/ai-ui-slop, and official MCP Registry record https://github.com/mcp/uizze/uizze."
     ]
+  },
+  "tools": {
+    "count": 1,
+    "names": [
+      "check_ui_slop"
+    ],
+    "source": "self_reported"
   }
 }

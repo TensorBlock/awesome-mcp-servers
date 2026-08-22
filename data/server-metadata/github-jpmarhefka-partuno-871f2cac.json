@@ -26,5 +26,19 @@
     "ChatGPT",
     "and other stdio-capable MCP clients"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @JPMarhefka in #1800 under the community profile-claim process.",
+      "Requested profile metadata in #1800: Category: Developer Productivity & Utilities Transport: stdio Auth: oauth Install confidence: medium License: Apache-2.0 Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@JPMarhefka"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
