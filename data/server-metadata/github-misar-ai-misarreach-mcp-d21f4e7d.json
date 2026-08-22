@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-misar-ai-misarreach-mcp-d21f4e7d",
+  "source": {
+    "issue": 1819,
+    "projectUrl": "https://github.com/Misar-AI/misarreach-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.misar.io/reach/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "MISARREACH_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Cline",
+    "VS Code"
+  ],
+  "license": "MIT"
+}

@@ -195,7 +195,8 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [mongodb-developer/mcp-mongodb-atlas](https://github.com/mongodb-developer/mcp-mongodb-atlas): Manage MongoDB Atlas projects, clusters, and users through an MCP interface.
 - [Ilya1991/ff-mcp-clickhouse](https://github.com/Ilya1991/ff-mcp-clickhouse): Facilitates SQL query execution and database management on ClickHouse clusters with secure configurations.
 - [Zhwt/go-mcp-mysql](https://github.com/Zhwt/go-mcp-mysql): Effortlessly manage MySQL databases with a Go-based MCP server, offering CRUD operations and query plan checks without the need for Node.js or Python.
-- [bytebase/dbhub](https://github.com/bytebase/dbhub): DBHub serves as a universal database gateway, enabling seamless MCP client connections to various databases like MySQL, PostgreSQL, SQL Server, and SQLite.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase): Database governance platform with built-in MCP server supporting 20+ mainstream databases.
+- [bytebase/dbhub](https://github.com/bytebase/dbhub): DBHub serves as a universal database gateway, enabling seamless MCP client connections to various databases like MySQL, PostgreSQL, SQL Server, MariaDB, and SQLite.
 - [FarukNetworks/mcp-mssql](https://github.com/FarukNetworks/mcp-mssql): Facilitates seamless integration of MSSQL databases with MCP server capabilities for enhanced data management.
 - [alexcc4/mcp-mysql-server](https://github.com/alexcc4/mcp-mysql-server): Facilitates secure AI-driven interactions with MySQL databases, enabling table listing, schema retrieval, and read-only SQL execution.
 - [furey/mongodb-lens](https://github.com/furey/mongodb-lens): MongoDB Lens enables natural language interaction with MongoDB databases, facilitating queries, aggregations, and performance optimizations via LLMs.
@@ -225,7 +226,6 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [ian-cowley/MCPSqlServer](https://github.com/ian-cowley/MCPSqlServer): Enhance Windsurf IDE with SQL Server integration for seamless database management and query execution.
 - [IzumiSy/mcp-duckdb-memory-server](https://github.com/IzumiSy/mcp-duckdb-memory-server): Enhances the MCP Knowledge Graph Memory Server by integrating DuckDB for efficient data storage and retrieval.
 - [xiangma9712/mysql-mcp-server](https://github.com/xiangma9712/mysql-mcp-server): Facilitates interaction with MySQL databases through an MCP server, supporting read-only and test query executions within a Docker environment.
-- [dperussina/mssql-mcp-server](https://github.com/dperussina/mssql-mcp-server): Facilitates AI-driven exploration and querying of Microsoft SQL Server databases, enabling natural language interactions and secure, read-only access for data analysis.
 - [shubhamdhama/cockroach-mcp](https://github.com/shubhamdhama/cockroach-mcp): A Go-based MCP server that integrates with CockroachDB to expose its schema and query capabilities for MCP hosts.
 - [HarjjotSinghh/mcp-server-postgres-multi-schema](https://github.com/HarjjotSinghh/mcp-server-postgres-multi-schema): Provides read-only access to PostgreSQL databases with enhanced multi-schema support, enabling LLMs to inspect and query across multiple namespaces while maintaining schema isolation.
 - [robertoamoreno/couchdb-mcp-server](https://github.com/robertoamoreno/couchdb-mcp-server): A TypeScript-based server facilitating AI-driven interactions with CouchDB databases through the Model Context Protocol.
