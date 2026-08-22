@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-garphengate-moltline-mcp-ab1d3b55",
+  "source": {
+    "issue": 1802,
+    "projectUrl": "https://github.com/GarphenGate/moltline-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.moltlinestudio.com/catalog",
+    "docs": "https://moltlinestudio.com/servers.html"
+  },
+  "install": {
+    "commands": [
+      "git clone https://github.com/GarphenGate/moltline-mcp && python3 moltline_mcp.py timeops",
+      "docker build -t moltline-mcp . && docker run -i --rm moltline-mcp timeops"
+    ],
+    "env": [
+      "MOLTLINE_TIMEOUT",
+      "MOLTLINE_BASE_URL",
+      "MOLTLINE_DEBUG"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No auth is required for the free tier; premium tools take a license as a tool argument, not a header or URL."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other"
+  ],
+  "license": "MIT",
+  "description": "Search and use the Moltline fleet of 14 hosted MCP servers for code review, agent governance, prompt-injection scanning, business-day and SLA math, CSV/A-B/cohort analytics, unit economics, commerce math, writing/readability analysis, outreach auditing, research statistics, and SKILL.md linting.",
+  "tools": {
+    "count": 35,
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Issue #1802 reports 14 active hosted MCP servers under the DNS-verified com.moltlinestudio namespace, with docs at https://moltlinestudio.com/servers.html and health at https://mcp.moltlinestudio.com/health."
+    ]
+  }
+}
