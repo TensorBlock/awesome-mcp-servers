@@ -18,7 +18,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "The install command opens a one-time browser OAuth authorization flow; no provider API keys or environment variables are required."
     ]
   },
   "clients": [
@@ -42,5 +42,19 @@
     "ChatGPT",
     "and additional prompt-assisted targets (25 total)"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "description": "Lets agents discover 2,000+ AI models and APIs, inspect current input schemas and pricing, execute synchronous or asynchronous requests, poll results, review run history and cost, and check account balance.",
+  "links": {
+    "docs": "https://github.com/sandbaseai/cli/blob/main/llms-install.md"
+  },
+  "tools": {
+    "count": 6,
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Sources supplied in issue #1834: release https://github.com/sandbaseai/cli/releases/tag/v0.1.17, CI https://github.com/sandbaseai/cli/actions/workflows/ci.yml, and agent install guide https://github.com/sandbaseai/cli/blob/main/llms-install.md."
+    ]
+  }
 }
