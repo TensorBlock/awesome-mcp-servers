@@ -51,7 +51,14 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #1852. Source: I maintain this server (PR #1757 added it). The profile currently reads `Transport: unknown`, `Env: none listed` and `Install data: medium`, while also reporting `Auth: api-key` — so the generated install config is..."
+      "Metadata supplied by maintainer @donnywin85 in issue #1852. The server is stdio-only, starts keyless against a free hourly public snapshot, and uses optional RAPIDAPI_KEY only for live per-block reads and per-pair history.",
+      "Sources include https://github.com/donnywin85/arb-dex-mcp, https://donnywin85.github.io/arb-dex-mcp/, https://www.npmjs.com/package/arb-dex-mcp, and MCP Registry id io.github.donnywin85/arb-dex-mcp."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@donnywin85"
+    ],
+    "claimed": true
   }
 }
