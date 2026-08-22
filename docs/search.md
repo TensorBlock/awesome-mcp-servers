@@ -204,3 +204,4 @@ Servers providing web search capabilities or interfacing with specialized search
 - [Lulu / FX Converter MCP](https://getlulu.dev/mcps/fx-converter-mcp): Free, keyless real-time currency conversion and exchange rates for any currency pair.
 - [Lulu / Weather MCP](https://getlulu.dev/mcps/weather-mcp): Free, keyless real-time weather and 7-day forecasts for any city worldwide, via Open-Meteo.
 - [Lulu / Lulu Registry MCP](https://getlulu.dev/mcps/registry-mcp): Search and get install details on MCP servers directly from the agent -- a unified, cross-registry marketplace index (official MCP registry, Glama, PulseMCP, Smithery), ranked by trust score.
+- [ADSBiq](https://github.com/Sky-Power-Services/adsbiq-mcp-server): Query live community-powered aircraft data through three bounded read-only tools: one ICAO-hex aircraft lookup, geographic search capped at 50 aircraft and 250 nautical miles, and four aggregate network statistics.
