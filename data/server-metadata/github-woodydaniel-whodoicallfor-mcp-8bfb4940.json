@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-woodydaniel-whodoicallfor-mcp-8bfb4940",
+  "source": {
+    "projectUrl": "https://github.com/woodydaniel/whodoicallfor-mcp"
+  },
+  "links": {
+    "docs": "https://whodoicallfor.com/for-agents/",
+    "endpoint": "https://whodoicallfor.com/api/mcp/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "tools": {
+    "count": 3,
+    "names": [
+      "route_emergency",
+      "get_scenario",
+      "list_scenarios"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}
