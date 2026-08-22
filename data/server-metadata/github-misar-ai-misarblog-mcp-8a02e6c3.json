@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-misar-ai-misarblog-mcp-8a02e6c3",
+  "source": {
+    "issue": 1817,
+    "projectUrl": "https://github.com/Misar-AI/misarblog-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.misar.io/blog/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "MISARBLOG_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Cline",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
