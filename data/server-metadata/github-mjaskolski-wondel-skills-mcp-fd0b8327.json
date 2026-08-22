@@ -10,18 +10,25 @@
   },
   "install": {
     "commands": [],
-    "env": [
-      "URL"
-    ],
-    "confidence": "low"
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
-    "type": "api-key",
+    "type": "none",
     "notes": [
-      "Remote Streamable HTTP endpoint. No install, no account, no API key. URL: `https://skills.wondel.ai/mcp` Claude Code: `claude mcp add --transport http wondel-skills https://skills.wondel.ai/mcp` ```json {\"mcpServers\": {\"wondel-skills\":..."
+      "No install, account, or API key is required for the remote Streamable HTTP endpoint."
     ]
+  },
+  "description": "Routes agent tasks to the right methodology and loads real skill instructions in-session. It exposes 50 book-based agent skills and 12 guided journeys through read-only remote tools.",
+  "tools": {
+    "count": 2,
+    "names": [
+      "recommend_skills",
+      "load_skill"
+    ],
+    "source": "self_reported"
   }
 }
