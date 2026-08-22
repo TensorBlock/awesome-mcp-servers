@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "magichour-ai-mcp-ef467223",
+  "source": {
+    "projectUrl": "https://magichour.ai/mcp"
+  },
+  "description": "Official hosted MCP server for the Magic Hour AI video and image generation API: generate video (Sora 2, Veo 3.1, Kling 3.0, Seedance, MiniMax, WAN 2.2, LTX) and images (GPT-image, Nano Banana Pro, Seedream, Flux), plus face swap, lip sync, talking photo, and voice generation, with upload and job status/wait tools.",
+  "category": "Multimedia Processing",
+  "links": {
+    "docs": "https://magichour.ai/mcp",
+    "endpoint": "https://mcp.magichour.ai/"
+  },
+  "install": {
+    "commands": [
+      "Remote endpoint: https://mcp.magichour.ai/"
+    ],
+    "env": [
+      "MAGIC_HOUR_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth for Claude connectors; bearer API key for other MCP clients"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "and other MCP clients supporting Streamable HTTP"
+  ]
+}
