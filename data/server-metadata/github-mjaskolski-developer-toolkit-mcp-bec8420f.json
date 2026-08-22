@@ -10,18 +10,25 @@
   },
   "install": {
     "commands": [],
-    "env": [
-      "URL"
-    ],
-    "confidence": "low"
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
-    "type": "api-key",
+    "type": "none",
     "notes": [
-      "Remote Streamable HTTP endpoint. No install, no account, no API key. URL: `https://developertoolkit.ai/mcp` Claude Code: `claude mcp add --transport http developer-toolkit https://developertoolkit.ai/mcp` ```json {\"mcpServers\":..."
+      "No install, account, or API key is required for the remote Streamable HTTP endpoint."
     ]
+  },
+  "description": "Search and read 950+ guides on AI-assisted development for Cursor, Claude Code, Codex, and related workflows in English and Polish.",
+  "tools": {
+    "count": 2,
+    "names": [
+      "search",
+      "fetch"
+    ],
+    "source": "self_reported"
   }
 }
