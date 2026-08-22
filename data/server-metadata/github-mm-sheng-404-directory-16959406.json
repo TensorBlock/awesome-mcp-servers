@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mm-sheng-404-directory-16959406",
+  "source": {
+    "issue": 1874,
+    "projectUrl": "https://github.com/MM-sheng/404-directory"
+  },
+  "links": {
+    "endpoint": "https://404.directory/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "and other Streamable HTTP MCP clients"
+  ],
+  "license": "MIT"
+}

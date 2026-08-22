@@ -5,6 +5,9 @@
     "issue": 1637,
     "projectUrl": "https://github.com/viewer12/Nexus-Shell-Releases"
   },
+  "links": {
+    "docs": "https://nexusshell.app/agent-bridge"
+  },
   "transport": [
     "stdio"
   ],
@@ -18,5 +21,20 @@
     "Cursor",
     "and other local MCP clients that support stdio"
   ],
+  "tools": {
+    "count": 26,
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "The bundled stdio launcher is created locally after the direct-download or Homebrew build starts with Agent Bridge enabled; saved passwords and private keys are not returned to MCP clients."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "viewer12"
+    ]
+  },
   "license": "Proprietary macOS app; Agent Bridge core is available on the Free tier."
 }
