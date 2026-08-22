@@ -6,7 +6,8 @@
     "projectUrl": "https://github.com/Sky-Power-Services/adsbiq-mcp-server"
   },
   "links": {
-    "endpoint": "https://adsbiq.com/mcp"
+    "endpoint": "https://adsbiq.com/mcp",
+    "docs": "https://adsbiq.com/api/other/mcp"
   },
   "install": {
     "commands": [
@@ -24,7 +25,7 @@
   "auth": {
     "type": "bearer",
     "notes": [
-      "bearer"
+      "Remote Streamable HTTP uses the feeder API key as a Bearer token; local stdio uses ADSBIQ_API_KEY in the client environment."
     ]
   },
   "clients": [
@@ -32,5 +33,10 @@
     "Codex",
     "and MCP clients supporting stdio or Streamable HTTP"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "description": "Query live community-powered aircraft data through bounded read-only tools for one ICAO-hex aircraft lookup, geographic aircraft search, and aggregate network statistics.",
+  "tools": {
+    "count": 3,
+    "source": "self_reported"
+  }
 }
