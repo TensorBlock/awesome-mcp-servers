@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-screenpipe-screenpipe-d4e77aca",
+  "source": {
+    "issue": 1815,
+    "projectUrl": "https://github.com/screenpipe/screenpipe"
+  },
+  "description": "screenpipe is local-first workflow memory for AI agents. It captures selected screen, audio, app, and meeting context locally so Claude, Codex, Cursor, and local AI workflows can search real work history through MCP/API. It helps teams turn daily work into cited notes, SOPs, workflow reports, and automation candidates while keeping sensitive context under user control.",
+  "category": "Knowledge Management & Memory",
+  "links": {
+    "docs": "https://docs.screenpipe.com/mcp-server"
+  },
+  "install": {
+    "commands": [
+      "npx -y screenpipe-mcp@latest"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "tools": {
+    "count": 6,
+    "names": [
+      "search-content",
+      "export-video",
+      "list-meetings",
+      "activity-summary",
+      "search-elements",
+      "frame-context"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Screenpipe Commercial License / source-available (see LICENSE.md)",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata correction requested in issue #1815. GitHub license API reports NOASSERTION/Other for LICENSE.md rather than MIT. Sources: https://github.com/screenpipe/screenpipe, https://www.npmjs.com/package/screenpipe-mcp, https://docs.screenpipe.com/mcp-server, and https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md."
+    ]
+  }
+}
