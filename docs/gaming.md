@@ -23,7 +23,6 @@ Servers interacting with game engines, game platforms/APIs, or providing game-re
 - [passontw/slotdemo](https://github.com/passontw/slotdemo): A modern slot machine game built with native JavaScript, CSS animations, and Tailwind CSS, offering a smooth and interactive gaming experience.
 - [jimbo530/baselings-mcp](https://github.com/jimbo530/baselings-mcp): 43 MCP tools for AI agents to play Baselings, a yield-generating pet game on Base chain with guardrailed DeFi swaps, token launches, reactor burns, and carbon retirement. No API key required. Install: `npx baselings-mcp`.
 $UNIFIED
-- [yeonupark/mcp-soccer-data](https://github.com/yeonupark/mcp-soccer-data): Delivers real-time football match data through natural language interactions using the SoccerDataAPI.
 - [andrzejsliwa/6510emu_in_c](https://github.com/andrzejsliwa/6510emu_in_c): A modern C implementation of a 6510/6502 CPU emulator with disassembly support, used in the Commodore 64.
 - [8tako8tako8/sample_mcp_pokemon](https://github.com/8tako8tako8/sample_mcp_pokemon): Retrieve Pokémon data using a dedicated MCP server that interfaces with PokeAPI.
 - [h0rv/d2-mcp](https://github.com/h0rv/d2-mcp): Facilitates the integration of D2 diagram creation and validation into development workflows, offering syntax validation and rendering capabilities.
@@ -38,8 +37,6 @@ $UNIFIED
 - [weekitmo/mcp_godot_rag](https://github.com/weekitmo/mcp_godot_rag): Facilitates access to Godot documentation for the Godot RAG model through an MCP server.
 - [indroneelray/pokemon-mcp-server](https://github.com/indroneelray/pokemon-mcp-server): Fetch Pokémon data using a Model Context Protocol server integrated with the official PokéAPI.
 - [jessiqa1118/factorio-mcp](https://github.com/jessiqa1118/factorio-mcp): Facilitates querying the state of a Factorio game server using the Model Context Protocol, enabling retrieval of server status, player lists, and in-game time.
-- [Rayato159/persona-4-golden-mcp-real-time-hacking](https://github.com/Rayato159/persona-4-golden-mcp-real-time-hacking): A Rust-based tool for real-time memory manipulation in Persona 4 Golden, allowing users to adjust in-game money using MCP technology.
-- [opgginc/esports-mcp](https://github.com/opgginc/esports-mcp): Connects OP.GG Esports data with AI agents for retrieving League of Legends match schedules.
 - [th3w1zard1/mcp-panda3d](https://github.com/th3w1zard1/mcp-panda3d): Facilitates seamless integration of Claude with Panda3D documentation by enabling efficient search and retrieval through a Model Context Protocol server.
 - [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server): Provides AFL data from the Squiggle API, enabling retrieval of game results, standings, and team information.
 - [Saunved/mcp-server-clash-of-clans](https://github.com/Saunved/mcp-server-clash-of-clans): Enhance your Clash of Clans gameplay with advanced analytics and insights through this MCP server.
@@ -72,7 +69,6 @@ $UNIFIED
 - [tonypan2/minesweeper-mcp-server](https://github.com/tonypan2/minesweeper-mcp-server): Facilitates MCP client agents to engage in a game of Minesweeper, integrating with a dedicated game server.
 - [fenxer/steam-review-mcp](https://github.com/fenxer/steam-review-mcp): Facilitates LLMs in accessing and analyzing Steam game reviews and information via MCP.
 - [Grinv/steam-games-mcp](https://github.com/Grinv/steam-games-mcp): MCP server for Steam — store search, prices, discounts, reviews, review trends, news, and Steam Deck/SteamOS/Machine/Frame compatibility, all keyless; plus player profiles, libraries, achievements, and friends via the official Steam Web API (free key).
-- [Purisky/MCP4Unity](https://github.com/Purisky/MCP4Unity): MCP4Unity is a Unity editor extension enabling remote invocation of Unity methods via HTTP requests, facilitating dynamic tool management and execution.
 - [baryhuang/mcp-threejs](https://github.com/baryhuang/mcp-threejs): Facilitates AI-driven searches for downloadable 3D models compatible with Three.js, streamlining the development of 3D web applications.
 - [tahooki/unreal-blender-mcp](https://github.com/tahooki/unreal-blender-mcp): Facilitates AI-driven control of Blender and Unreal Engine through a unified MCP server, enabling seamless integration and interaction with AI agents like Claude and ChatGPT.
 - [quazaai/UnityMCPIntegration](https://github.com/quazaai/UnityMCPIntegration): Integrates AI agents with Unity projects, enabling real-time interaction and control through the Unity Editor using the MCP protocol.

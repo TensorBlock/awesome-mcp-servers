@@ -27,8 +27,6 @@ Servers designed to execute code snippets or scripts in various languages, often
 - [pottekkat/sandbox-mcp](https://github.com/pottekkat/sandbox-mcp): Sandbox MCP provides a secure environment for LLMs to execute code within isolated Docker containers, enhancing code accuracy and safety.
 - [dtkmn/mcp-zap-server](https://github.com/dtkmn/mcp-zap-server): A Spring Boot application enabling AI agents to orchestrate OWASP ZAP actions through the Model Context Protocol.
 - [liuchongchong1995/nodejs](https://github.com/liuchongchong1995/nodejs): Facilitates runtime debugging of Node.js applications using Cursor or Claude Code.
-- [chrisjmendez/mcp_quickstart](https://github.com/chrisjmendez/mcp_quickstart): Facilitates secure local Claude brain setup using Docker, SQLite, and uvx for MCP-style queries.
-- [Dangoron/defillama-mcp](https://github.com/Dangoron/defillama-mcp): Facilitates the execution of DeFiLlama data processing scripts through an MCP server configuration.
 - [tarjeir/chunker-mcp](https://github.com/tarjeir/chunker-mcp): Facilitates code chunking and vectorization using LangChain, storing results in ChromaDB for advanced querying.
 - [bimalpaudels/python-interpreter-mcp](https://github.com/bimalpaudels/python-interpreter-mcp): Facilitates the execution of Python scripts in a controlled environment using LLMs.
 - [johnhenry/vimble-mcp](https://github.com/johnhenry/vimble-mcp): Facilitates the execution of JavaScript code in a secure, sandboxed environment using Vimble.
@@ -37,7 +35,6 @@ Servers designed to execute code snippets or scripts in various languages, often
 - [anchor-g/mcp-sentry](https://github.com/anchor-g/mcp-sentry): Facilitates the retrieval and analysis of issues from Sentry.io, offering tools to inspect error reports and stacktraces.
 - [chjtxwd/remote-mcp-server](https://github.com/chjtxwd/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
 - [JohanLi233/mcp-sandbox](https://github.com/JohanLi233/mcp-sandbox): Python MCP Sandbox enables secure and isolated Python code execution and package management within Docker containers, facilitating safe interactions for LLMs.
-- [fgh23333/remote-mcp-server](https://github.com/fgh23333/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [rynnkitty/mcp-studio](https://github.com/rynnkitty/mcp-studio): The repository provides a C# client for interacting with various MCP servers, including those for image reading and filesystem operations.
 - [free-free-6/lnfi-mcp-node-service-test](https://github.com/free-free-6/lnfi-mcp-node-service-test): A Node.js service facilitating interactions with the LnFi API using the Model Context Protocol.
 - [kranners/hyper-mpc](https://github.com/kranners/hyper-mpc): A configurable MCP server wrapper for using the entire Model Context Protocol without a tool count limit in Cursor.
@@ -101,7 +98,6 @@ Servers designed to execute code snippets or scripts in various languages, often
 - [nguyenvanduocit/script-mcp](https://github.com/nguyenvanduocit/script-mcp): Facilitates the execution of command line scripts across multiple platforms with safety and error handling features.
 - [msl2246/mcp-proxy](https://github.com/msl2246/mcp-proxy): Facilitates seamless communication between stdio and SSE transports for MCP servers, enhancing connectivity for clients like Claude Desktop.
 - [s123104/ClaudeMCP](https://github.com/s123104/ClaudeMCP): Integrates Claude Desktop and Claude Code with Docker to run multiple MCP servers, supporting GitLab project management, time conversion, and structured thinking workflows.
-- [devdanks/mcp-server](https://github.com/devdanks/mcp-server): Showcases reference implementations of MCP servers, demonstrating secure and controlled access for LLMs to various tools and data sources.
 - [pangahn/bond-mcp-server](https://github.com/pangahn/bond-mcp-server): Integrates China bond market data with AkShare using a lightweight MCP server framework.
 - [hygao1024/xingchen-mcp-server](https://github.com/hygao1024/xingchen-mcp-server): Facilitates intelligent workflow scheduling with iFlytek integration, supporting diverse business scenarios through robust node support and advanced orchestration modes.
 - [etrex/mcp_server_demo](https://github.com/etrex/mcp_server_demo): A Ruby-based MCP server implementation designed for educational purposes, demonstrating the fundamental workings of the MCP protocol.
@@ -165,4 +161,3 @@ Servers designed to execute code snippets or scripts in various languages, often
 - [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli): A command-line interface for interacting with Model Context Provider servers, enabling seamless communication with LLMs through a robust tool system and advanced conversation management.
 - [aviz85/my-first-mcp](https://github.com/aviz85/my-first-mcp): Facilitates natural language control of computer functions across macOS and Windows using Claude.
 - [MarkusPfundstein/cmd-line-executor-MCP](https://github.com/MarkusPfundstein/cmd-line-executor-MCP): Facilitates command line execution through an MCP server interface, returning execution results like stdout and status codes.
-

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jpmarhefka-partuno-871f2cac",
+  "source": {
+    "issue": 1705,
+    "projectUrl": "https://github.com/JPMarhefka/Partuno"
+  },
+  "install": {
+    "commands": [
+      "uvx --from partuno partuno-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "ChatGPT",
+    "and other stdio-capable MCP clients"
+  ],
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @JPMarhefka in #1800 under the community profile-claim process.",
+      "Requested profile metadata in #1800: Category: Developer Productivity & Utilities Transport: stdio Auth: oauth Install confidence: medium License: Apache-2.0 Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@JPMarhefka"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

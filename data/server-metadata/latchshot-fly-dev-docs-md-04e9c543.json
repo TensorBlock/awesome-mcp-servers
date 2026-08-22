@@ -1,8 +1,9 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "github-baiqingl-latchshot-mcp-429e759f",
+  "id": "latchshot-fly-dev-docs-md-04e9c543",
   "source": {
-    "projectUrl": "https://github.com/BaiqingL/latchshot-mcp"
+    "issue": 1641,
+    "projectUrl": "https://latchshot.fly.dev/docs.md#hosted-mcp-server"
   },
   "description": "Capture guarded screenshots and PDFs of public web pages with hosted Chromium, inline MCP artifacts, render diagnostics, and successful-render quota reporting.",
   "category": "Browser Automation & Web Scraping",
@@ -33,7 +34,8 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "The official MCP TypeScript SDK completed initialize, tools/list, get_usage, and a live inline PNG capture against production."
+      "The official MCP TypeScript SDK completed initialize, tools/list, get_usage, and a live inline PNG capture against production.",
+      "Catalog-health issue #1641 reported that the original GitHub source URL returned 404. During review on 2026-08-16, hosted docs returned HTTP 200 and the MCP endpoint advertised POST."
     ]
   }
 }

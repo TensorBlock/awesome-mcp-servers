@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nazar256-memheaven-d34b48fd",
+  "source": {
+    "issue": 1703,
+    "projectUrl": "https://github.com/nazar256/memheaven"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT (confirmed) and compatible remote MCP clients"
+  ],
+  "license": "MIT"
+}

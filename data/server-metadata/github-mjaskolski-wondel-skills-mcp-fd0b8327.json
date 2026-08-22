@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mjaskolski-wondel-skills-mcp-fd0b8327",
+  "source": {
+    "issue": 1856,
+    "projectUrl": "https://github.com/mjaskolski/wondel-skills-mcp"
+  },
+  "links": {
+    "endpoint": "https://skills.wondel.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No install, account, or API key is required for the remote Streamable HTTP endpoint."
+    ]
+  },
+  "description": "Routes agent tasks to the right methodology and loads real skill instructions in-session. It exposes 50 book-based agent skills and 12 guided journeys through read-only remote tools.",
+  "tools": {
+    "count": 2,
+    "names": [
+      "recommend_skills",
+      "load_skill"
+    ],
+    "source": "self_reported"
+  }
+}

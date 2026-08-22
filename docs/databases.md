@@ -49,7 +49,6 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [alaturqua/mcp-trino-python](https://github.com/alaturqua/mcp-trino-python): Facilitates advanced data exploration and management in Trino and Iceberg through a standardized interface.
 - [volteditor/mcp.chroma](https://github.com/volteditor/mcp.chroma): Facilitates vector embeddings and document management with ChromaDB through a versatile MCP interface.
 - [OrMacc/claude-mcp-mongodb-integration](https://github.com/OrMacc/claude-mcp-mongodb-integration): Integrates MongoDB with Claude using MCP, enabling natural language database queries.
-- [jdbcx/pydbcx-mcp](https://github.com/jdbcx/pydbcx-mcp): Facilitates data communication with diverse sources via JDBCX server using a Python MCP server implementation.
 - [wescleytorres/mcp-postgres](https://github.com/wescleytorres/mcp-postgres): Facilitates read-only access to PostgreSQL databases, enabling LLMs to inspect schemas and execute queries.
 - [usualoma/mcp-mt-data-api](https://github.com/usualoma/mcp-mt-data-api): Facilitates standardized interactions with Movable Type's Data API for seamless application integration.
 - [jamesg31/mcp-server-postgres](https://github.com/jamesg31/mcp-server-postgres): Facilitates read-only access to PostgreSQL databases, allowing LLMs to inspect schemas and execute queries.
@@ -71,7 +70,6 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [spyfree/hologres-mcp-server](https://github.com/spyfree/hologres-mcp-server): Facilitates seamless interaction between AI agents and Hologres databases, enabling metadata retrieval and SQL execution through multiple transport modes.
 - [spyfree/hologres-mcp-server-sse](https://github.com/spyfree/hologres-mcp-server-sse): Facilitates seamless interaction between AI agents and Hologres databases, enabling metadata retrieval and SQL operations via dual transport modes.
 - [bjmayor/mysql-mcp](https://github.com/bjmayor/mysql-mcp): Facilitates AI agent interactions with MySQL databases through a standardized command interface.
-- [dirgocs/supabase-self-hosted-mcp](https://github.com/dirgocs/supabase-self-hosted-mcp): Connects AI tools with self-hosted Supabase installations, offering comprehensive API management for Supabase resources.
 - [zwldarren/akshare-one-mcp](https://github.com/zwldarren/akshare-one-mcp): Provides interfaces for accessing comprehensive China stock market data, including historical, real-time, and financial statements.
 - [rikster/supabase-mcp](https://github.com/rikster/supabase-mcp): Facilitates AI-driven database operations on Supabase through a standardized MCP interface.
 - [RodrigoPAml/MCP-SqlServer](https://github.com/RodrigoPAml/MCP-SqlServer): Facilitates LLM integration with SQL Server through a C# MCP server, enabling database queries and schema retrieval.
@@ -103,7 +101,6 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [tonykonst/mcp-brave](https://github.com/tonykonst/mcp-brave): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing its versatility in providing secure and controlled access to tools and data sources for LLMs.
 - [xlengelle-sf/Agentforce-MCP](https://github.com/xlengelle-sf/Agentforce-MCP): Facilitates seamless integration between Claude AI and Salesforce's AgentForce API with a secure, modular MCP server and tool setup.
 - [edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server): Facilitates CRUD operations on Nocodb databases using the Model Context Protocol.
-- [fern-api/2025-04-02-mcp-server](https://github.com/fern-api/2025-04-02-mcp-server): A MongoDB MCP server utilizing the Fern API for seamless integration and deployment.
 - [antonkulaga/tokens-mcp](https://github.com/antonkulaga/tokens-mcp): Facilitates access to comprehensive cryptocurrency market data and strategy development through a standardized MCP server interface for the TokenMetrics API.
 - [TonyMugwump/mcpo](https://github.com/TonyMugwump/mcpo): mcpo transforms MCP server commands into OpenAPI-compatible HTTP servers, enhancing security and interoperability with AI tools.
 - [rileylemm/graphrag_mcp](https://github.com/rileylemm/graphrag_mcp): Facilitates seamless integration between large language models and a hybrid graph-vector database system for advanced semantic and graph-based document retrieval.
@@ -172,7 +169,6 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [dubin555/clickhouse_mcp_server](https://github.com/dubin555/clickhouse_mcp_server): Facilitates secure and structured exploration and analysis of ClickHouse databases for AI assistants through a controlled MCP interface.
 - [Headcrab/clickhouse-mcp](https://github.com/Headcrab/clickhouse-mcp): Facilitates interaction with ClickHouse databases through an MCP-compatible server, supporting SQL queries and schema retrieval via stdio and SSE transports.
 - [rioriost/homebrew-age-mcp-server](https://github.com/rioriost/homebrew-age-mcp-server): Facilitates graph data operations on PostgreSQL databases using Apache AGE, with integration support for Azure and Visual Studio Code.
-- [dwarvesf/mcp-db](https://github.com/dwarvesf/mcp-db): Facilitates database interactions and Google Cloud Storage operations using the Model Context Protocol framework.
 - [zalab-inc/mcp-mysql-app](https://github.com/zalab-inc/mcp-mysql-app): Facilitates AI-driven interactions with MySQL databases via Model Context Protocol tools.
 - [Albiemark/dbx-mcp-server](https://github.com/Albiemark/dbx-mcp-server): Integrates Dropbox with MCP-compatible clients for seamless file operations and account management.
 - [DanielRSnell/postgres-mcp](https://github.com/DanielRSnell/postgres-mcp): A server enabling LLMs to perform read-only SQL queries and inspect PostgreSQL database schemas.
@@ -199,7 +195,8 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [mongodb-developer/mcp-mongodb-atlas](https://github.com/mongodb-developer/mcp-mongodb-atlas): Manage MongoDB Atlas projects, clusters, and users through an MCP interface.
 - [Ilya1991/ff-mcp-clickhouse](https://github.com/Ilya1991/ff-mcp-clickhouse): Facilitates SQL query execution and database management on ClickHouse clusters with secure configurations.
 - [Zhwt/go-mcp-mysql](https://github.com/Zhwt/go-mcp-mysql): Effortlessly manage MySQL databases with a Go-based MCP server, offering CRUD operations and query plan checks without the need for Node.js or Python.
-- [bytebase/dbhub](https://github.com/bytebase/dbhub): DBHub serves as a universal database gateway, enabling seamless MCP client connections to various databases like MySQL, PostgreSQL, SQL Server, and SQLite.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase): Database governance platform with built-in MCP server supporting 20+ mainstream databases.
+- [bytebase/dbhub](https://github.com/bytebase/dbhub): DBHub serves as a universal database gateway, enabling seamless MCP client connections to various databases like MySQL, PostgreSQL, SQL Server, MariaDB, and SQLite.
 - [FarukNetworks/mcp-mssql](https://github.com/FarukNetworks/mcp-mssql): Facilitates seamless integration of MSSQL databases with MCP server capabilities for enhanced data management.
 - [alexcc4/mcp-mysql-server](https://github.com/alexcc4/mcp-mysql-server): Facilitates secure AI-driven interactions with MySQL databases, enabling table listing, schema retrieval, and read-only SQL execution.
 - [furey/mongodb-lens](https://github.com/furey/mongodb-lens): MongoDB Lens enables natural language interaction with MongoDB databases, facilitating queries, aggregations, and performance optimizations via LLMs.
@@ -229,7 +226,6 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [ian-cowley/MCPSqlServer](https://github.com/ian-cowley/MCPSqlServer): Enhance Windsurf IDE with SQL Server integration for seamless database management and query execution.
 - [IzumiSy/mcp-duckdb-memory-server](https://github.com/IzumiSy/mcp-duckdb-memory-server): Enhances the MCP Knowledge Graph Memory Server by integrating DuckDB for efficient data storage and retrieval.
 - [xiangma9712/mysql-mcp-server](https://github.com/xiangma9712/mysql-mcp-server): Facilitates interaction with MySQL databases through an MCP server, supporting read-only and test query executions within a Docker environment.
-- [dperussina/mssql-mcp-server](https://github.com/dperussina/mssql-mcp-server): Facilitates AI-driven exploration and querying of Microsoft SQL Server databases, enabling natural language interactions and secure, read-only access for data analysis.
 - [shubhamdhama/cockroach-mcp](https://github.com/shubhamdhama/cockroach-mcp): A Go-based MCP server that integrates with CockroachDB to expose its schema and query capabilities for MCP hosts.
 - [HarjjotSinghh/mcp-server-postgres-multi-schema](https://github.com/HarjjotSinghh/mcp-server-postgres-multi-schema): Provides read-only access to PostgreSQL databases with enhanced multi-schema support, enabling LLMs to inspect and query across multiple namespaces while maintaining schema isolation.
 - [robertoamoreno/couchdb-mcp-server](https://github.com/robertoamoreno/couchdb-mcp-server): A TypeScript-based server facilitating AI-driven interactions with CouchDB databases through the Model Context Protocol.
@@ -298,3 +294,4 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [stucchi/db-mcp-server](https://github.com/stucchi/db-mcp-server): Database MCP server for MySQL, PostgreSQL, and MongoDB with SSH tunneling support. Run queries, explore schemas, and manage data across multiple database types.
 - [haymon-ai/dbmcp](https://github.com/haymon-ai/dbmcp): Connect AI assistants to MySQL, MariaDB, PostgreSQL, and SQLite databases through an MCP server with schema discovery, query execution, read-only mode, and optional PII redaction.
 - [Samyama Graph](https://github.com/samyama-ai/samyama-graph): Auto-generates MCP servers from a graph schema, letting an agent run openCypher traversals and HNSW vector search against the same store. Install: `pip install samyama[mcp]`.
+- [@geek-fun/data-studio-mcp](https://github.com/geek-fun/data-studio-agent): One MCP server for 70+ SQL and NoSQL databases. Agents can explore schemas, run queries, read and write data, manage indices, and inspect metadata through dockit and sqlkit desktop apps acting as local bridges for PostgreSQL, MySQL, SQL Server, Oracle, SQLite, DuckDB, ClickHouse, Snowflake, BigQuery, Elasticsearch, OpenSearch, MongoDB, and DynamoDB.

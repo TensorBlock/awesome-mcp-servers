@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getlulu-dev-mcps-registry-mcp-8ac58eb8",
+  "source": {
+    "issue": 1650,
+    "projectUrl": "https://getlulu.dev/mcps/registry-mcp"
+  },
+  "links": {
+    "endpoint": "https://ads.getlulu.dev/registry/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "other MCP clients"
+  ],
+  "license": "n/a (hosted service)"
+}
