@@ -230,4 +230,3 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Travel & Transportation | 51 | [Browse](docs/travel--transportation.md) |
 | Utilities & Helpers | 357 | [Browse](docs/utilities--helpers.md) |
 | Version Control | 78 | [Browse](docs/version-control.md) |
-- [DSHCorrectover/ccs-mcp-server](https://github.com/DSHCorrectover/ccs-mcp-server) 📇 🏠 🍎 🪟 🐧 - CCS runtime verification MCP server: 7-dimension validation (Structure/Schema/Latency/Cost/Identity/Integrity/Security) for AI agent tool calls with sub-millisecond OOP. Ed25519-signed evidence receipts, blocks RCE/SSRF/credential exfiltration. Zero dependencies, fail-closed, fully offline. IETF Internet-Draft. `npx ccs-mcp-server`.
