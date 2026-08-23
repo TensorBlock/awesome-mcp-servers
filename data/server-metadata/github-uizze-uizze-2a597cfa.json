@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-uizze-uizze-2a597cfa",
   "source": {
-    "issue": 1804,
+    "issue": 1914,
     "projectUrl": "https://github.com/uizze/uizze"
   },
   "links": {
@@ -14,15 +14,15 @@
     "env": [
       "UIZZE_AGENT_TOKEN"
     ],
-    "confidence": "low"
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
+    "type": "bearer",
     "notes": [
-      "No auth is required for the free preview endpoint; the full hosted MCP uses a bearer token."
+      "Authentication is required; the live server card advertises OAuth2 and bearer token schemes."
     ]
   },
   "clients": [
@@ -34,20 +34,21 @@
     "and other MCP clients"
   ],
   "category": "Developer Productivity & Utilities",
-  "description": "UIZZE gives coding agents a free MIT `anti-ui-slop` Skill and deterministic no-account `check_ui_slop` MCP preview for rendered HTML and CSS. The full product adds live UI research across 800,000+ real web and iOS screens, product-specific design contracts, implementation validation, audits, and rendered critique.",
-  "license": "MIT for the free `anti-ui-slop` Skill and public repository; the hosted full product is separate",
+  "description": "Focused full-screen UI references and hosted design materials for coding agents.",
+  "license": "MIT for the public repository; hosted product terms are separate",
   "verification": {
-    "status": "self_reported",
+    "status": "partial",
     "notes": [
-      "Canonical repository corrected from the retired aislon/uizze-mcp source in issue #1776. The metadata sidecar was moved to the profile id derived from the canonical repository URL so it continues to attach to the generated catalog entry.",
-      "Metadata updated from issue #1804. Sources: canonical README https://github.com/uizze/uizze/blob/main/README.md, MCP setup https://github.com/uizze/uizze/tree/main/integrations/mcp, free preview endpoint https://uizze.com/mcp/preview, free Skill https://uizze.com/ai-ui-slop, and official MCP Registry record https://github.com/mcp/uizze/uizze."
+      "Metadata updated from issue #1914 after the anonymous /mcp/preview endpoint was removed.",
+      "On 2026-08-23, https://uizze.com/.well-known/mcp.json advertised Streamable HTTP at https://uizze.com/mcp, and https://uizze.com/.well-known/mcp/server-card.json reported authentication required with oauth2 and bearer schemes plus two tools."
     ]
   },
   "tools": {
-    "count": 1,
+    "count": 2,
     "names": [
-      "check_ui_slop"
+      "find_ui_references",
+      "find_ui_materials"
     ],
-    "source": "self_reported"
+    "source": "verified"
   }
 }
