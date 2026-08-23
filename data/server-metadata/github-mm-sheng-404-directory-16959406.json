@@ -21,5 +21,19 @@
     "Cursor",
     "and other Streamable HTTP MCP clients"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @MM-sheng in #1909 under the community profile-claim process.",
+      "Requested profile metadata in #1909: Maintained by MM-sheng. Public Streamable HTTP endpoint, no authentication required, 12 tools, MIT license. Installation guide: https://404.directory/connect?source=tensorblock"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@MM-sheng"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
