@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cohesivity-org-cohesivity-plugin-44cae61f",
+  "source": {
+    "projectUrl": "https://github.com/cohesivity-org/cohesivity-plugin"
+  },
+  "description": "cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.",
+  "category": "Cloud Platforms & Services",
+  "links": {
+    "docs": "https://cohesivity.ai/auth.md",
+    "endpoint": "https://cohesivity.ai/mcp/manage"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http --scope user cohesivity https://cohesivity.ai/mcp/manage",
+      "codex mcp add cohesivity --url https://cohesivity.ai/mcp/manage"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "The hosted management MCP uses OAuth 2.1 authorization code flow with mandatory PKCE S256 and dynamic client registration.",
+      "The bundled local project-bootstrap stdio server needs no Cohesivity account or authentication."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Gemini CLI",
+    "OpenClaw",
+    "Hermes",
+    "Other MCP-compatible Streamable HTTP clients"
+  ],
+  "tools": {
+    "count": 68,
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "On 2026-08-23, the live endpoint returned the expected OAuth protected-resource challenge, and its public server card confirmed the Streamable HTTP transport and endpoint.",
+      "The official implementation declares 68 typed management tools; tools/list requires an authorized Cohesivity account."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "cohesivity-org"
+    ]
+  }
+}
