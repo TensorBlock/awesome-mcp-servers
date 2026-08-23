@@ -2,13 +2,15 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-mm-sheng-404-directory-16959406",
   "source": {
-    "issue": 1874,
+    "issue": 1908,
     "projectUrl": "https://github.com/MM-sheng/404-directory"
   },
   "links": {
-    "endpoint": "https://404.directory/mcp"
+    "endpoint": "https://404.directory/mcp",
+    "docs": "https://404.directory/connect?source=tensorblock"
   },
   "transport": [
+    "stdio",
     "streamable-http"
   ],
   "auth": {
@@ -16,10 +18,44 @@
     "notes": []
   },
   "clients": [
-    "Codex",
     "Claude Code",
+    "Codex",
     "Cursor",
-    "and other Streamable HTTP MCP clients"
+    "Cline",
+    "VS Code / GitHub Copilot",
+    "and other stdio or Streamable HTTP MCP clients"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "install": {
+    "commands": [
+      "npx -y @mmvv1638/404-directory-mcp --source tensorblock"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "tools": {
+    "count": 12,
+    "names": [
+      "understand_webpage",
+      "verify_web",
+      "search_tools",
+      "get_tool",
+      "compare_tools",
+      "get_trust_score",
+      "recommend_tools",
+      "list_capabilities",
+      "get_capability_graph",
+      "search_official_docs",
+      "inspect_tool_server",
+      "invoke_registered_tool"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "public npm package 0.9.0 was installed from a clean unauthenticated environment and completed MCP initialize, tools/list, and a successful list_capabilities call against production. Production health reports v0.9.0 and 12 tools. The...",
+      "Metadata updated from issue #1908. Source: - Public npm package: https://www.npmjs.com/package/@mmvv1638/404-directory-mcp - Production health: https://404.directory/health - Production MCP metadata: https://404.directory/mcp-info - Client-specific install..."
+    ]
+  }
 }
