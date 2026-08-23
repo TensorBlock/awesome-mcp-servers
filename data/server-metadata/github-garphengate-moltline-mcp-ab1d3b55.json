@@ -47,7 +47,15 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Issue #1802 reports 14 active hosted MCP servers under the DNS-verified com.moltlinestudio namespace, with docs at https://moltlinestudio.com/servers.html and health at https://mcp.moltlinestudio.com/health."
+      "Issue #1802 reports 14 active hosted MCP servers under the DNS-verified com.moltlinestudio namespace, with docs at https://moltlinestudio.com/servers.html and health at https://mcp.moltlinestudio.com/health.",
+      "Profile claimed by @GarphenGate in #1898 under the community profile-claim process; requested metadata matches the existing category, transport, auth, install confidence, and MIT license sidecar values."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@GarphenGate"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
