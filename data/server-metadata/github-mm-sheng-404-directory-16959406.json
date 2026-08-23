@@ -15,7 +15,9 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "No authentication is required. The dependency-free bridge creates and preserves one stable random non-personal Agent ID locally; 404.directory stores only an HMAC digest after successful activity, not the raw ID, prompt, arguments, or result."
+    ]
   },
   "clients": [
     "Claude Code",
@@ -54,8 +56,16 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "public npm package 0.9.0 was installed from a clean unauthenticated environment and completed MCP initialize, tools/list, and a successful list_capabilities call against production. Production health reports v0.9.0 and 12 tools. The...",
-      "Metadata updated from issue #1908. Source: - Public npm package: https://www.npmjs.com/package/@mmvv1638/404-directory-mcp - Production health: https://404.directory/health - Production MCP metadata: https://404.directory/mcp-info - Client-specific install..."
+      "Metadata updated from issue #1908. The public npm package @mmvv1638/404-directory-mcp 0.9.0 was reportedly installed from a clean unauthenticated environment and completed MCP initialize, tools/list, and list_capabilities against production; production health reports v0.9.0 and 12 tools.",
+      "Sources: https://www.npmjs.com/package/@mmvv1638/404-directory-mcp, https://404.directory/health, https://404.directory/mcp-info, https://404.directory/connect?source=tensorblock, https://404.directory/connect.md?source=tensorblock, and registry manifest https://github.com/MM-sheng/404-directory/blob/main/server.json.",
+      "Profile claimed by @MM-sheng in #1909; the claim reports repository ownership and official registry publication under io.github.MM-sheng/404-directory."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@MM-sheng"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
