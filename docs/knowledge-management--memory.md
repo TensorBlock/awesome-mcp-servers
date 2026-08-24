@@ -40,7 +40,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [mkusaka/mcp-server-memory](https://github.com/mkusaka/mcp-server-memory): A persistent memory server utilizing a local knowledge graph to enable Claude to retain user information across interactions.
 - [jordankamto/code-explorer-mcp](https://github.com/jordankamto/code-explorer-mcp): A TypeScript-based server that manages and summarizes text notes using the Model Context Protocol.
 - [meetdhanani17/xgmem](https://github.com/meetdhanani17/xgmem): A TypeScript-based MCP server for managing project-specific and cross-project knowledge graph memory for LLM agents and tools.
-- [jodli/git-github.com-jodli-factorio-modding-api](https://github.com/jodli/git-github.com-jodli-factorio-modding-api): A TypeScript-based server enabling access to Factorio Modding API documentation through Model Context Protocol queries.
 - [Svtter/chatdb](https://github.com/Svtter/chatdb): ChatDB serves as a memory layer for GPT by recording conversations in SQLite, enhancing conversational context retention.
 - [tejasPhaveri/custom-instructions](https://github.com/tejasPhaveri/custom-instructions): Enhances the ultimatememory system with Context7 and Sequential Thinking MCP tools for improved memory management and task execution.
 - [Im-neko/mcp-wikijs](https://github.com/Im-neko/mcp-wikijs): Facilitates AI model interaction with WikiJS content through a TypeScript-based MCP server, enabling document search, creation, and management.
@@ -49,7 +48,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [PyneSys/project-mem-mcp](https://github.com/PyneSys/project-mem-mcp): Facilitates AI agents in maintaining persistent project memory through a memory file system, enabling seamless information retrieval and updates during interactions.
 - [ndlxp2008/mcp-temple](https://github.com/ndlxp2008/mcp-temple): A TypeScript-based MCP server implementing a simple note-taking system with URI-based resource management and note summarization tools.
 - [dwarvesf/mcp-playbook](https://github.com/dwarvesf/mcp-playbook): Facilitates project documentation management and conversation log saving within a specified directory using Node.js and GitHub API interactions.
-- [amphora/patentsafe-mcp](https://github.com/amphora/patentsafe-mcp): Connects to PatentSafe to retrieve documents using raw Lucene queries.
 - [KawaroX/codex-vitea-mcp](https://github.com/KawaroX/codex-vitea-mcp): A specialized MCP server for ViteaOS that connects AI assistants with MongoDB to manage personal information, including item location, travel time estimation, contact management, biodata analysis, and task tracking.
 - [jzumwalt/git-mcp](https://github.com/jzumwalt/git-mcp): GitMCP transforms GitHub projects into documentation hubs, enabling AI tools to access up-to-date documentation and code, reducing hallucinations and improving code accuracy.
 - [shifusen329/doc-lib-mcp](https://github.com/shifusen329/doc-lib-mcp): Facilitates document ingestion, chunking, semantic search, and note management with a custom URI scheme and robust content extraction tools.
@@ -110,7 +108,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [MartinM85/mcp-server-graph-api](https://github.com/MartinM85/mcp-server-graph-api): Facilitates AI-driven interactions with Microsoft Graph API using a C# MCP server.
 - [julianehuettl/wolfram-alpha-mcp](https://github.com/julianehuettl/wolfram-alpha-mcp): Integrates Wolfram Alpha's computational knowledge engine with LLMs for advanced mathematical and scientific queries.
 - [stephen9412/memos-mcp-server](https://github.com/stephen9412/memos-mcp-server): Integrates Memos API with AI assistants for seamless memo management, including search, creation, and retrieval functionalities.
-- [jamesfeng2009/mcp-server-flomo](https://github.com/jamesfeng2009/mcp-server-flomo): A TypeScript-based server for recording and managing notes in Flomo, featuring note creation and summarization tools.
 - [cconstable/obsidian-mcp](https://github.com/cconstable/obsidian-mcp): Facilitates reading and searching Obsidian vaults through an MCP server, enhancing note accessibility and integration with tools like VS Code.
 - [Masuda-1246/sample_mcp](https://github.com/Masuda-1246/sample_mcp): A sample MCP server setup guide with configuration instructions for running a Python-based server.
 - [zohar/knesset-mcp](https://github.com/zohar/knesset-mcp): Facilitates AI applications in accessing and interacting with Israeli Knesset parliamentary data through a standardized interface.
@@ -180,7 +177,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [PhiloSolares/roam-mcp](https://github.com/PhiloSolares/roam-mcp): Connects AI assistants like Claude to Roam Research for seamless data interaction and management.
 - [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers): A curated list of high-quality remote MCP servers for developers seeking reliable and production-ready services for AI applications.
 - [mbcrawfo/KnowledgeBaseServer](https://github.com/mbcrawfo/KnowledgeBaseServer): Facilitates LLMs in storing and retrieving conversational memories using SQLite's full-text search capabilities.
-- [marron-b/paperMate](https://github.com/marron-b/paperMate): PaperMate enhances academic research by integrating MCP server capabilities for paper search, recommendation, and PDF conversion through the Claude Desktop app.
 - [ruliana/mcp-pkm-logseq](https://github.com/ruliana/mcp-pkm-logseq): Facilitates interaction with Logseq's Personal Knowledge Management system through customizable instructions.
 - [FrankGoortani/cv-mcp](https://github.com/FrankGoortani/cv-mcp): A specialized MCP server offering structured access to Frank Goortani's CV data for AI assistants and MCP-compatible clients.
 - [kw510/strava-mcp](https://github.com/kw510/strava-mcp): Integrates Strava OAuth with MCP clients using Cloudflare Workers for secure authentication and tool access.
