@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mtnrabi-google-flights-mcp-91299e2c",
+  "source": {
+    "projectUrl": "https://github.com/mtnrabi/google-flights-mcp"
+  },
+  "description": "Real-time Google Flights fares. One call searches a whole date range and multiple destination airports, and each result carries Google's own price-insight verdict. Bring your own RapidAPI key.",
+  "category": "Travel & Transportation",
+  "links": {
+    "docs": "https://flightpowers.com",
+    "endpoint": "https://google-flights-mcp.flightpowers.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http --scope user google-flights https://google-flights-mcp.flightpowers.com/mcp --header \"x-rapidapi-key: <YOUR_RAPIDAPI_KEY>\""
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "The caller supplies their own RapidAPI key with the `x-rapidapi-key` header or a `rapidapi_key` query parameter; the server stores no upstream credential.",
+      "Keys, including a free tier, come from https://rapidapi.com/mtnrabi/api/google-flights-live-api"
+    ]
+  },
+  "clients": [
+    "MCP clients with Streamable HTTP support"
+  ],
+  "tools": {
+    "count": 2,
+    "names": [
+      "search_oneway_flights",
+      "search_roundtrip_flights"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "community": {
+    "maintainedBy": [
+      "mtnrabi"
+    ]
+  }
+}
