@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-worklittle-jobs-mcp-82c59837",
+  "source": {
+    "issue": 1945,
+    "projectUrl": "https://github.com/worklittle/jobs-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.worklittle.com/"
+  },
+  "install": {
+    "commands": [
+      "npm: worklittle"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "ChatGPT",
+    "VS Code",
+    "MCP clients that support remote HTTP + OAuth"
+  ],
+  "license": "MIT"
+}
