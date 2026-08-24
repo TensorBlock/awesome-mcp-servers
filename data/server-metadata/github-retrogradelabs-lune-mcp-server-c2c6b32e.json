@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-retrogradelabs-lune-mcp-server-c2c6b32e",
+  "source": {
+    "issue": 1932,
+    "projectUrl": "https://github.com/RetrogradeLabs/lune-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.luneresearch.com"
+  },
+  "install": {
+    "commands": [
+      "npx -y @retrograde-labs/lune-mcp-server"
+    ],
+    "env": [
+      "LUNE_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "ChatGPT",
+    "VS Code",
+    "Cline",
+    "Windsurf",
+    "Zed",
+    "and other MCP clients"
+  ],
+  "license": "MIT"
+}
