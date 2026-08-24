@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-twitterapis-twitterapis-mcp-82691907",
+  "source": {
+    "issue": 1936,
+    "projectUrl": "https://github.com/TwitterAPIs/twitterapis-mcp"
+  },
+  "links": {
+    "endpoint": "https://www.npmjs.com/package/@twitterapis/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @twitterapis/mcp@latest"
+    ],
+    "env": [
+      "TWITTERAPIS_KEY",
+      "TWITTERAPIS_BASE_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
