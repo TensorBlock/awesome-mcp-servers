@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-buywhere-buywhere-mcp-d85a442f",
+  "source": {
+    "issue": 1938,
+    "projectUrl": "https://github.com/BuyWhere/buywhere-mcp"
+  },
+  "description": "Cross-border product catalog for AI agents via MCP. 370M+ live products across SG, MY, VN, TH, PH, US, JP. 13 tools including search_products, find_best_price, get_deals, get_product, list_categories. `deliver_to` shipping signals per result.",
+  "links": {
+    "docs": "https://mcp.buywhere.ai"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "BUYWHERE_TOKEN"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 (Bearer token). Self-service signup at https://buywhere.ai — no email required."
+    ]
+  },
+  "tools": {
+    "count": 13,
+    "names": [
+      "search_products",
+      "find_best_price",
+      "get_deals",
+      "get_product",
+      "list_categories",
+      "get_categories",
+      "get_product_offers",
+      "get_product_reviews",
+      "get_merchant",
+      "get_shipping",
+      "get_price_history",
+      "find_best_deal",
+      "suggest_products"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #1938. Source: - BuyWhere/buywhere-mcp README: https://github.com/BuyWhere/buywhere-mcp - BuyWhere/buywhere-mcp server.json (v1.1.0): https://github.com/BuyWhere/buywhere-mcp/blob/main/server.json - Live MCP endpoint:..."
+    ]
+  }
+}
