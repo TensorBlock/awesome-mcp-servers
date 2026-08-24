@@ -6,6 +6,7 @@
     "projectUrl": "https://github.com/RetrogradeLabs/lune-mcp-server"
   },
   "links": {
+    "docs": "https://luneresearch.com/docs",
     "endpoint": "https://mcp.luneresearch.com"
   },
   "install": {
@@ -18,12 +19,13 @@
     "confidence": "medium"
   },
   "transport": [
-    "stdio"
+    "stdio",
+    "streamable-http"
   ],
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Remote endpoint supports OAuth 2.1 with Dynamic Client Registration and RFC 9728 discovery. It also accepts a Lune personal access token as a bearer token; stdio uses LUNE_API_KEY."
     ]
   },
   "clients": [
@@ -35,8 +37,18 @@
     "VS Code",
     "Cline",
     "Windsurf",
-    "Zed",
-    "and other MCP clients"
+    "Zed"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "description": "Official MCP server for Lune Research: search peer-reviewed ML, NLP, computer vision, systems, and security papers, trace citations, extract structured evidence, verify draft claims against quotes, and retrieve research-methodology guidance.",
+  "tools": {
+    "count": 12,
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository metadata and issue #1932 were reviewed on 2026-08-24; submitted metadata includes official MCP Registry name com.luneresearch/lune, 12 tools, 6 prompts, MIT license, and hosted OAuth endpoint."
+    ]
+  }
 }
