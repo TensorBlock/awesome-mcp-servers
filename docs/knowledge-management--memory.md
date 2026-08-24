@@ -243,7 +243,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [hulkworks/readthedocsmcp](https://github.com/hulkworks/readthedocsmcp): Facilitates LLM interaction with Read the Docs documentation through a Multi-Context Protocol server.
 - [MushroomFleet/LTM-CLINE](https://github.com/MushroomFleet/LTM-CLINE): LTM-CLINE enhances Claude 3.7 with long-term memory and persona evolution capabilities using SQLite, integrated with the Cline VSCode extension.
 - [youssefea/docs-mcp](https://github.com/youssefea/docs-mcp): Facilitates integration of Base Docs Model Context Protocol with Cursor and Claude agents for enhanced document processing.
-- [evanmschultz/memcp](https://github.com/evanmschultz/memcp): MemCP enables AI agents to manage and query a temporal knowledge graph using an extensible memory framework integrated with MCP.
 - [gannonh/memento-mcp](https://github.com/gannonh/memento-mcp): Memento MCP offers a scalable knowledge graph memory system with semantic retrieval and temporal awareness for LLMs, leveraging Neo4j for storage and vector search.
 - [s2005/mcp-memory-server](https://github.com/s2005/mcp-memory-server): Enables persistent memory for Claude using a local knowledge graph to remember user information across chats.
 - [kargarisaac/Hekmatica](https://github.com/kargarisaac/Hekmatica): Hekmatica is a deep research agent that uses BAML and LangGraph to answer questions by leveraging web search, external tools, and LLMs.
