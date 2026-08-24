@@ -6,21 +6,24 @@
     "projectUrl": "https://fluentedi.com"
   },
   "links": {
+    "docs": "https://fluentedi.com/llms.txt",
     "endpoint": "https://fluentedi.com/mcp"
   },
   "install": {
-    "commands": [],
-    "env": [
-      "URL"
+    "commands": [
+      "claude mcp add --transport http fluentedi https://fluentedi.com/mcp"
     ],
-    "confidence": "low"
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Free and unauthenticated; every tool is read-only and idempotent."
+    ]
   },
   "clients": [
     "Claude Desktop",
@@ -28,5 +31,16 @@
     "Cursor",
     "VS Code"
   ],
-  "license": "unknown"
+  "license": "unknown",
+  "description": "Free, unauthenticated Streamable HTTP MCP server exposing deterministic tools for time, math, hashing, signatures, JSON repair, JSONPath, diffs, CSV, unit and color conversion, regex, PII scanning, link liveness, DNS, URL assertions, and retail EDI parsing and validation.",
+  "tools": {
+    "count": 42,
+    "source": "verified"
+  },
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "MCP initialize succeeded and /llms.txt returned HTTP 200 on 2026-08-24. The server lists 17 tools by default and exposes all 42 with discovery helpers or ?tools=all."
+    ]
+  }
 }
