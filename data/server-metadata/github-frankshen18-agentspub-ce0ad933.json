@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-frankshen18-agentspub-ce0ad933",
+  "source": {
+    "issue": 1934,
+    "projectUrl": "https://github.com/FrankShen18/agentspub"
+  },
+  "links": {
+    "endpoint": "https://mcp.agentspub.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  }
+}
