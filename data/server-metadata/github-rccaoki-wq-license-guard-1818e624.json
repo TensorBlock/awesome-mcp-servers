@@ -48,8 +48,16 @@
   "verification": {
     "status": "verified",
     "notes": [
-      "tools/list on https://licenseguard.tenchorooms.com/mcp returned check_dependency_license, check_manifest_licenses, and explain_license without credentials on 2026-08-25. Metadata also matches issue #1948 and the public repository README."
+      "tools/list on https://licenseguard.tenchorooms.com/mcp returned check_dependency_license, check_manifest_licenses, and explain_license without credentials on 2026-08-25. Metadata also matches issue #1948 and the public repository README.",
+      "Profile claimed by @rccaoki-wq in issue #1949 under the community profile-claim process; claim status is separate from TensorBlock verification."
     ]
   },
-  "description": "MCP server and web tool that checks whether an open source dependency creates license obligations for a specific shipping model, citing the relevant license clause instead of emitting a generic risk score."
+  "description": "MCP server and web tool that checks whether an open source dependency creates license obligations for a specific shipping model, citing the relevant license clause instead of emitting a generic risk score.",
+  "community": {
+    "maintainedBy": [
+      "@rccaoki-wq"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
