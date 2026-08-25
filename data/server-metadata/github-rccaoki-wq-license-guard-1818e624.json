@@ -6,16 +6,16 @@
     "projectUrl": "https://github.com/rccaoki-wq/license-guard"
   },
   "links": {
-    "docs": "https://github.com/rccaoki-wq/license-guard#readme"
+    "docs": "https://github.com/rccaoki-wq/license-guard#readme",
+    "endpoint": "https://licenseguard.tenchorooms.com/mcp"
   },
   "install": {
     "commands": [
+      "claude mcp add licenseguard --transport http https://licenseguard.tenchorooms.com/mcp",
       "docker run -i --rm ghcr.io/rccaoki-wq/license-guard:1.1.0"
     ],
-    "env": [
-      "none."
-    ],
-    "confidence": "medium"
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
     "stdio",
@@ -23,14 +23,17 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "No API key, OAuth token, bearer token, or environment variable is required for the hosted stateless Streamable HTTP endpoint."
+    ]
   },
   "clients": [
-    "any MCP client. Verified with Claude Code",
+    "Claude Code",
     "Claude Desktop",
     "Cursor",
-    "VS Code and Codex. The profile lists Claude only",
-    "while the install panel already generates configs for all four."
+    "VS Code",
+    "Codex",
+    "Any MCP client"
   ],
   "tools": {
     "count": 3,
@@ -39,13 +42,14 @@
       "check_manifest_licenses",
       "explain_license"
     ],
-    "source": "self_reported"
+    "source": "verified"
   },
-  "license": "Apache-2.0 (already correct).",
+  "license": "Apache-2.0",
   "verification": {
-    "status": "self_reported",
+    "status": "verified",
     "notes": [
-      "Metadata updated from issue #1948. Source: Tool list and the absence of auth, reproducible without credentials: ``` curl -s -X POST https://licenseguard.tenchorooms.com/mcp \\ -H 'content-type: application/json' \\ -H 'accept: application/json,..."
+      "tools/list on https://licenseguard.tenchorooms.com/mcp returned check_dependency_license, check_manifest_licenses, and explain_license without credentials on 2026-08-25. Metadata also matches issue #1948 and the public repository README."
     ]
-  }
+  },
+  "description": "MCP server and web tool that checks whether an open source dependency creates license obligations for a specific shipping model, citing the relevant license clause instead of emitting a generic risk score."
 }
