@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rccaoki-wq-license-guard-1818e624",
+  "source": {
+    "issue": 1948,
+    "projectUrl": "https://github.com/rccaoki-wq/license-guard"
+  },
+  "links": {
+    "docs": "https://github.com/rccaoki-wq/license-guard#readme"
+  },
+  "install": {
+    "commands": [
+      "docker run -i --rm ghcr.io/rccaoki-wq/license-guard:1.1.0"
+    ],
+    "env": [
+      "none."
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "any MCP client. Verified with Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code and Codex. The profile lists Claude only",
+    "while the install panel already generates configs for all four."
+  ],
+  "tools": {
+    "count": 3,
+    "names": [
+      "check_dependency_license",
+      "check_manifest_licenses",
+      "explain_license"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0 (already correct).",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #1948. Source: Tool list and the absence of auth, reproducible without credentials: ``` curl -s -X POST https://licenseguard.tenchorooms.com/mcp \\ -H 'content-type: application/json' \\ -H 'accept: application/json,..."
+    ]
+  }
+}
