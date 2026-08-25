@@ -2,6 +2,7 @@
 
 Servers integrating with project management and task tracking tools.
 
+- [Concord MCP](https://github.com/Get-Concord-AI/concord-mcp): Cross-harness communication and shared work-state for coding agents, with task claims, progress, decisions, direct messages, and overlap warnings shared across Claude Code, Codex, Cursor, Gemini CLI, and Grok Build. Install: `npx -y @concord-ai/concord-mcp`. Transport: stdio. Auth: none for local use. License: MIT. Official MCP Registry id: `io.github.Get-Concord-AI/concord-mcp`.
 - [gonnagetapower/kelvia-mcp](https://github.com/gonnagetapower/kelvia-mcp): Task manager an agent can fully operate, not just read: boards, tasks, sprints, member roles, worklogs and a time-blocking day planner across 58 tools. Hosted endpoint with OAuth 2.1 (one command, no token to paste) plus stdio; every tool carries MCP safety annotations, and toolsets let a client load only the part it needs.
 - [KyaniteLabs/Epoch](https://github.com/KyaniteLabs/Epoch): Software estimation MCP server — PERT, COCOMO II, Monte Carlo, sprint forecasting, and schedule-risk tools for AI agents.
 - [Claw Task Hub](https://github.com/Catfish-75/claw-task-hub): Local-first, SQLite-backed task hub with MCP-compatible tools for AI agent issue tracking, sessions, claims, comments, and acceptance trails.
