@@ -1,3 +1,4 @@
+- [VoDaiLocz/kilo-kit-mcp](https://github.com/VoDaiLocz/kilo-kit-mcp): All-in-one 18-tool MCP runtime and 177-skill library providing protocol-level C4 workflow gates, sandboxed execution, and cognitive reasoning engines (Tree of Thoughts DAG, Red-Team Grilling, 5-Whys Root Cause Tracer, Context Compactor, Self-Evolution) for coding agents across Antigravity, Cursor, Windsurf, Claude Code, and Codex. Install: `npx -y @vodailoc/kilo-kit-mcp setup`. Apache-2.0.
 ## 🛠️ Developer Productivity & Utilities
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
