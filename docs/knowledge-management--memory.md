@@ -302,7 +302,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [shaikMahammedarif/GitHub-MCP-Docs](https://github.com/shaikMahammedarif/GitHub-MCP-Docs): Facilitates GitHub API interactions for file operations, repository management, and advanced search capabilities.
 - [YassineTk/mcp-docs-provider](https://github.com/YassineTk/mcp-docs-provider): Facilitates seamless access and querying of local markdown technical documentation for AI models.
 - [yhc984/cursor-talk-to-figma-mcp-main](https://github.com/yhc984/cursor-talk-to-figma-mcp-main): Facilitates seamless communication between Cursor AI and Figma for programmatic design modifications.
-- [speakeasy-api/markdown-sidecar-mcp](https://github.com/speakeasy-api/markdown-sidecar-mcp): Facilitates structured access to markdown documentation for NPM, Go, and PyPi packages via an MCP server, enhancing code generation by exposing these docs as tools or resources.
 - [dcdpr/bookworm](https://github.com/dcdpr/bookworm): Facilitates querying and managing Rust crate documentation through an MCP server, enabling efficient access and search capabilities for developers.
 - [baranwang/mcp-trends-hub](https://github.com/baranwang/mcp-trends-hub): A comprehensive service aggregating trending topics across the web, fully compatible with MCP for seamless AI application integration.
 - [aminalali8/bns-mcp-server](https://github.com/aminalali8/bns-mcp-server): Facilitates AI-driven management of Bunnyshell resources via natural language commands through the Bunnyshell CLI.
@@ -326,7 +325,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server): Facilitates efficient scraping, indexing, and searching of third-party library documentation using semantic splitting and vector embeddings.
 - [tejpalvirk/contextmanager](https://github.com/tejpalvirk/contextmanager): Enhances AI models with persistent context across work sessions using domain-specific knowledge graphs managed by a central Context Manager.
 - [elliottlawson/kagi-mcp-server](https://github.com/elliottlawson/kagi-mcp-server): A Node.js server enabling AI assistants to perform web searches using the Kagi API, supporting parallel queries and formatted results.
-- [ronaldtebrake/slite-mcp](https://github.com/ronaldtebrake/slite-mcp): Facilitates AI interaction with Slite notes through a Model Context Protocol server, enabling note management and search functionalities.
 - [qingtianyu/mcp-client](https://github.com/qingtianyu/mcp-client): A TypeScript-based MCP client implementation supporting multi-AI platform integration and server management.
 - [TechNavii/mcp_sample](https://github.com/TechNavii/mcp_sample): A Claude MCP server enabling text saving to local files with robust security and error handling features.
 - [clsung/mcp-imdb](https://github.com/clsung/mcp-imdb): Facilitates access to IMDB data through a Model Context Protocol server, featuring note storage and summarization capabilities.
@@ -392,7 +390,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [ttjslbz001/akshare_mcp_server](https://github.com/ttjslbz001/akshare_mcp_server): Provides financial data analysis capabilities using the AKShare library, accessible via the MCP protocol.
 - [zanetworker/docling-mcp-server](https://github.com/zanetworker/docling-mcp-server): Facilitates document conversion to markdown with OCR and batch processing capabilities, enhancing AI assistant integration.
 - [JDJR2024/markdownify-mcp-utf8](https://github.com/JDJR2024/markdownify-mcp-utf8): Transforms various file types into Markdown with enhanced UTF-8 support for multilingual content.
-- [marcushellberg/vaadin-documentation-services](https://github.com/marcushellberg/vaadin-documentation-services): Facilitates semantic search and AI-generated answers for Vaadin documentation through a REST and MCP server integration.
 - [BRO3886/mcp-memory-custom](https://github.com/BRO3886/mcp-memory-custom): Enhances the Memory server by enabling custom memory paths and timestamping for interactions, facilitating the creation and management of a knowledge graph.
 - [antoncoding/mcp-brianknows](https://github.com/antoncoding/mcp-brianknows): Connects Claude to BrianKnows' blockchain knowledge base for DeFi insights.
 - [anarcher/raindrop-io-mcp-server](https://github.com/anarcher/raindrop-io-mcp-server): Facilitates interaction between LLMs and Raindrop.io bookmarks using MCP, implemented in Go.
@@ -490,7 +487,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [Sivan22/mcp-sefaria-server](https://github.com/Sivan22/mcp-sefaria-server): Access Jewish texts from the Sefaria library via a standardized interface for Large Language Models.
 - [9Ninety/MCPNotes](https://github.com/9Ninety/MCPNotes): Facilitates AI-driven note-taking and management with a dual server architecture using MCP and AWS DynamoDB.
 - [SeanMcLoughlin/mcp-vcd](https://github.com/SeanMcLoughlin/mcp-vcd): Facilitates the integration of VCD waveform data into model contexts, optimizing signal analysis for large files.
-- [th3w1zard1/cedarscript-mcp](https://github.com/th3w1zard1/cedarscript-mcp): Integrates CEDARScript grammar for advanced code manipulation and pattern-based transformations.
 - [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp): Facilitates AI-driven management of Obsidian vaults, enabling note reading, creation, editing, and tag management.
 - [emzimmer/server-moz-readability](https://github.com/emzimmer/server-moz-readability): Transforms webpage content into clean, LLM-optimized Markdown using Mozilla's Readability algorithm, removing ads and non-essential elements while preserving core content.
 - [GuoAccount/notepad-server](https://github.com/GuoAccount/notepad-server): A TypeScript-based notes server implementing the MCP protocol, offering note management and integration with Claude Desktop.
@@ -502,7 +498,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [Sivan22/mcp-otzaria-server](https://github.com/Sivan22/mcp-otzaria-server): Facilitates advanced search and reference of Jewish texts for LLMs via the MCP protocol.
 - [ryanjoachim/mcp-rtfm](https://github.com/ryanjoachim/mcp-rtfm): MCP-RTFM transforms unreadable or non-existent documentation into an intelligent, searchable knowledge base with advanced content analysis and metadata generation.
 - [qpd-v/mcp-guide](https://github.com/qpd-v/mcp-guide): A beginner-friendly server offering interactive examples and tutorials to help developers understand and integrate MCP concepts effectively.
-- [Synaptic-Labs-AI/claudesidian](https://github.com/Synaptic-Labs-AI/claudesidian): Facilitates seamless interaction with Obsidian vaults through a robust server setup, offering tools for note creation, editing, and web content scraping.
 - [RafalWilinski/mcp-apple-notes](https://github.com/RafalWilinski/mcp-apple-notes): Facilitates semantic search and retrieval over Apple Notes using Claude, enabling AI-driven note referencing and interaction.
 - [KS-GEN-AI/confluence-mcp-server](https://github.com/KS-GEN-AI/confluence-mcp-server): A TypeScript-based server enabling interaction with Confluence through CQL queries and page content retrieval.
 - [v-3/notion-server](https://github.com/v-3/notion-server): Facilitates seamless interaction between Language Models and Notion workspaces, enabling operations like searching, reading, creating, and updating pages and databases.
