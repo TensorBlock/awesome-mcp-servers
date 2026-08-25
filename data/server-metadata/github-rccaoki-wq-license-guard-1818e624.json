@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rccaoki-wq-license-guard-1818e624",
+  "source": {
+    "issue": 1949,
+    "projectUrl": "https://github.com/rccaoki-wq/license-guard"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @rccaoki-wq in #1949 under the community profile-claim process.",
+      "Requested profile metadata in #1949: Maintainer: @rccaoki-wq Docs: https://github.com/rccaoki-wq/license-guard#readme Homepage: https://licenseguard.tenchorooms.com Auth: none required Tools: check_dependency_license, check_manifest_licenses,..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@rccaoki-wq"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
