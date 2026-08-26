@@ -6,17 +6,39 @@
     "projectUrl": "https://github.com/CapsteraSupport/worthune-sdk"
   },
   "links": {
+    "docs": "https://worthune.com/docs",
     "endpoint": "https://worthune.com/api/mcp/mcp"
+  },
+  "install": {
+    "commands": [
+      "Connect an MCP-compatible HTTP client to https://worthune.com/api/mcp/mcp"
+    ],
+    "env": [
+      "WORTHUNE_API_KEY"
+    ],
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "api-key",
+    "notes": [
+      "The public submission reports no authentication for three sample models and an API key header for the full catalog."
+    ]
+  },
+  "tools": {
+    "count": 55,
+    "source": "self_reported"
   },
   "clients": [
     "MCP-compatible clients"
   ],
-  "license": "Commercial (free tier available)"
+  "license": "Commercial API terms; SDK repository is MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Issue #1979 reports a Streamable HTTP MCP endpoint and 55 Concordance-tested financial models. The public SDK README confirms the MCP endpoint, published specs, sourced facts, and current API terms, but the tool count remains self-reported."
+    ]
+  }
 }
