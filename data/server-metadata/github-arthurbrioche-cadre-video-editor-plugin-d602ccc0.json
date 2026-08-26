@@ -15,7 +15,7 @@
   "auth": {
     "type": "bearer",
     "notes": [
-      "bearer. The stdio process needs no user-supplied credential; it reads Cadre's per-launch rotating bearer token from a private mode-0600 connection file and uses it only for authenticated 127.0.0.1 loopback requests."
+      "The stdio process needs no user-supplied credential. It reads Cadre's per-launch rotating bearer token from a private mode-0600 connection file and uses it only for authenticated 127.0.0.1 loopback requests."
     ]
   },
   "clients": [
@@ -30,9 +30,9 @@
   },
   "license": "MIT for the plugin; the required Cadre companion app is proprietary",
   "verification": {
-    "status": "self_reported",
+    "status": "partial",
     "notes": [
-      "Metadata updated from issue #1966. Source: Plugin README and install/security boundary: https://github.com/ArthurBrioche/cadre-video-editor-plugin/blob/main/README.md Plugin manifest:..."
+      "Issue #1966 was submitted by the Cadre project maintainer. The public plugin README, plugin manifest, evidence page, and current Agent API documentation support the transport, local bearer-token boundary, docs URL, license split, supported clients, and 57-tool count."
     ]
   }
 }
