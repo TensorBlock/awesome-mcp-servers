@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-omnilink-tech-omnisim-da8425ea",
+  "source": {
+    "issue": 1983,
+    "projectUrl": "https://github.com/omnilink-tech/omnisim/tree/main/packages/omnisim-mcp"
+  },
+  "install": {
+    "commands": [
+      "python -m omnisim harness"
+    ],
+    "env": [
+      "OMNISIM_HARNESS_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "and other stdio MCP clients"
+  ],
+  "license": "Apache-2.0"
+}
