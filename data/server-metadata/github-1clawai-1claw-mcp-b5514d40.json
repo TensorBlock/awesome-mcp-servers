@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-1clawai-1claw-mcp-b5514d40",
+  "source": {
+    "issue": 1970,
+    "projectUrl": "https://github.com/1clawAI/1claw-mcp"
+  },
+  "description": "MCP server for a secret vault that gives agents scoped, short-lived access to secrets, signing keys, execution bindings, memory, automations, and security inspection tools without placing raw secrets in model context.",
+  "links": {
+    "docs": "https://github.com/1clawAI/1claw-mcp",
+    "endpoint": "https://mcp.1claw.xyz/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @1claw/mcp"
+    ],
+    "env": [
+      "ONECLAW_AGENT_API_KEY",
+      "ONECLAW_LOCAL_ONLY",
+      "ONECLAW_LOCAL_VAULT"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Stdio mode uses ONECLAW_AGENT_API_KEY for vault access. The hosted Streamable HTTP endpoint accepts the agent API key as a bearer token. Local-only security inspection can run without vault credentials by setting ONECLAW_LOCAL_ONLY=true."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "MCP-compatible clients"
+  ],
+  "tools": {
+    "count": 126,
+    "source": "self_reported"
+  },
+  "license": "PolyForm Noncommercial",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Issue #1970 and the public README confirm the npm package, hosted endpoint, stdio/httpStream transport modes, API-key auth, local-only mode, and 126-tool count. The tool count remains self-reported."
+    ]
+  }
+}
