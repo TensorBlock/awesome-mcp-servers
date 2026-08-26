@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-capsterasupport-worthune-sdk-91b83b58",
+  "source": {
+    "issue": 1979,
+    "projectUrl": "https://github.com/CapsteraSupport/worthune-sdk"
+  },
+  "links": {
+    "endpoint": "https://worthune.com/api/mcp/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "MCP-compatible clients"
+  ],
+  "license": "Commercial (free tier available)"
+}
