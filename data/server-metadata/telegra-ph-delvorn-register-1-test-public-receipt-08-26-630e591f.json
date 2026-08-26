@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "telegra-ph-delvorn-register-1-test-public-receipt-08-26-630e591f",
+  "source": {
+    "issue": 1968,
+    "projectUrl": "https://telegra.ph/Delvorn-register-1-test-public-receipt-08-26"
+  },
+  "links": {
+    "endpoint": "https://delvorn.site/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "MCP: POST https://delvorn.site/api/mcp (JSON-RPC 2.0)"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "OpenClaw",
+    "any MCP JSON-RPC client"
+  ],
+  "license": "unknown"
+}
