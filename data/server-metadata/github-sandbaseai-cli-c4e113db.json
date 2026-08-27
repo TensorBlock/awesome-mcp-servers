@@ -54,7 +54,16 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Sources supplied in issue #1834: release https://github.com/sandbaseai/cli/releases/tag/v0.1.17, CI https://github.com/sandbaseai/cli/actions/workflows/ci.yml, and agent install guide https://github.com/sandbaseai/cli/blob/main/llms-install.md."
+      "Sources supplied in issue #1834: release https://github.com/sandbaseai/cli/releases/tag/v0.1.17, CI https://github.com/sandbaseai/cli/actions/workflows/ci.yml, and agent install guide https://github.com/sandbaseai/cli/blob/main/llms-install.md.",
+      "Profile claimed by @sandbaseai in #2004 under the community profile-claim process.",
+      "Requested profile metadata in #2004: Maintainer: `@sandbaseai` Docs: https://github.com/sandbaseai/cli/blob/main/llms-install.md Support: https://github.com/sandbaseai/cli/issues Install: `npx -y..."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@sandbaseai"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
