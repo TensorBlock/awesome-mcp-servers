@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-antonillos-safeselect-4c99dff4",
+  "source": {
+    "issue": 2013,
+    "projectUrl": "https://github.com/antonillos/safeselect"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "OpenCode",
+    "OpenAI Codex",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "GitHub Copilot",
+    "Gemini CLI"
+  ],
+  "license": "MIT"
+}
