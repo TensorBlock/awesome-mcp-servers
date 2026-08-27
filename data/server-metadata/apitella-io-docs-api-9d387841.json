@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "apitella-io-docs-api-9d387841",
+  "source": {
+    "issue": 2000,
+    "projectUrl": "https://www.apitella.io/docs/api#mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @dodogeny in #2000 under the community profile-claim process.",
+      "Requested profile metadata in #2000: Category: Monitoring & Observability Transport: streamable-http Auth: api-key Install confidence: low License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@dodogeny"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
