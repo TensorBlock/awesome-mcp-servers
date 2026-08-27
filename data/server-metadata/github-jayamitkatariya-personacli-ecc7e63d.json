@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jayamitkatariya-personacli-ecc7e63d",
+  "source": {
+    "issue": 2008,
+    "projectUrl": "https://github.com/jayamitkatariya/personacli"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor"
+  ],
+  "license": "MIT"
+}
