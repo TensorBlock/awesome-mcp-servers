@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-vj88-coder-pairbook-mcp-e0bc1416",
+  "source": {
+    "issue": 2018,
+    "projectUrl": "https://github.com/vj88-coder/pairbook-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y pairbook-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "and any stdio MCP client. Listed on the official MCP registry as io.github.vj88-coder/pairbook-mcp."
+  ],
+  "license": "MIT"
+}
