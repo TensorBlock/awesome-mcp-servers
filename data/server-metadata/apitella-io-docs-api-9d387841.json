@@ -5,11 +5,43 @@
     "issue": 2000,
     "projectUrl": "https://www.apitella.io/docs/api#mcp"
   },
+  "description": "Remote MCP server for schema-drift and security monitoring across MCP servers and REST APIs, plus a public keyless scanner endpoint.",
+  "category": "Monitoring & Observability",
+  "links": {
+    "docs": "https://www.apitella.io/docs/api#mcp",
+    "endpoint": "https://api.apitella.io/v1/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http apitella https://api.apitella.io/v1/mcp --header \"Authorization: Bearer <API key>\"",
+      "claude mcp add --transport http apitella-scan https://api.apitella.io/v1/mcp/public"
+    ],
+    "env": [
+      "APITELLA_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "https://api.apitella.io/v1/mcp requires an API key and exposes five account tools.",
+      "https://api.apitella.io/v1/mcp/public is unauthenticated and exposes the keyless scan tool."
+    ]
+  },
+  "tools": {
+    "count": 6,
+    "source": "verified"
+  },
+  "license": "Unknown",
   "verification": {
-    "status": "self_reported",
+    "status": "partial",
     "notes": [
       "Profile claimed by @dodogeny in #2000 under the community profile-claim process.",
-      "Requested profile metadata in #2000: Category: Monitoring & Observability Transport: streamable-http Auth: api-key Install confidence: low License: unknown Verification: unknown"
+      "Requested profile metadata in #2000: Category: Monitoring & Observability Transport: streamable-http Auth: api-key Install confidence: low License: unknown Verification: unknown",
+      "Metadata correction requested in #1999 was verified against the Apitella API docs during review."
     ]
   },
   "community": {
