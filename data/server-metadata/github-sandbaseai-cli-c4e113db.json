@@ -13,7 +13,8 @@
     "confidence": "medium"
   },
   "transport": [
-    "stdio"
+    "stdio",
+    "streamable-http"
   ],
   "auth": {
     "type": "oauth",
@@ -45,18 +46,20 @@
   "license": "Apache-2.0",
   "description": "Lets agents discover 2,000+ AI models and APIs, inspect current input schemas and pricing, execute synchronous or asynchronous requests, poll results, review run history and cost, and check account balance.",
   "links": {
-    "docs": "https://github.com/sandbaseai/cli/blob/main/llms-install.md"
+    "docs": "https://github.com/sandbaseai/cli/blob/main/llms-install.md",
+    "endpoint": "https://sandbase.ai/v1/mcp"
   },
   "tools": {
     "count": 6,
-    "source": "self_reported"
+    "source": "verified"
   },
   "verification": {
-    "status": "self_reported",
+    "status": "partial",
     "notes": [
       "Sources supplied in issue #1834: release https://github.com/sandbaseai/cli/releases/tag/v0.1.17, CI https://github.com/sandbaseai/cli/actions/workflows/ci.yml, and agent install guide https://github.com/sandbaseai/cli/blob/main/llms-install.md.",
       "Profile claimed by @sandbaseai in #2004 under the community profile-claim process.",
-      "Requested profile metadata in #2004: Maintainer: `@sandbaseai` Docs: https://github.com/sandbaseai/cli/blob/main/llms-install.md Support: https://github.com/sandbaseai/cli/issues Install: `npx -y..."
+      "Requested profile metadata in #2004: maintainer @sandbaseai, docs https://github.com/sandbaseai/cli/blob/main/llms-install.md, support https://github.com/sandbaseai/cli/issues, install command npx -y https://github.com/sandbaseai/cli/releases/download/v0.1.17/sandbaseai-cli-0.1.17.tgz connect, stdio transport, OAuth device flow with PKCE, Apache-2.0, six tools, and 25 supported client targets.",
+      "Install guide and official MCP Registry id io.github.sandbaseai/cli were checked during review."
     ]
   },
   "community": {
