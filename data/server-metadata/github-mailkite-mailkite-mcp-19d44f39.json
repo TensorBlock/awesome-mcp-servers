@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mailkite-mailkite-mcp-19d44f39",
+  "source": {
+    "issue": 2012,
+    "projectUrl": "https://github.com/mailkite/mailkite-mcp"
+  },
+  "description": "Hosted remote MCP server that gives an AI agent its own real email inbox for transactional send, inbound routes, templates, contacts, broadcasts, webhooks, and message search.",
+  "category": "Communication & Messaging",
+  "links": {
+    "docs": "https://mailkite.dev/docs/ai-agents",
+    "endpoint": "https://mcp.mailkite.dev/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http mailkite https://mcp.mailkite.dev/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Remote endpoint supports OAuth 2.0 with dynamic client registration and protected-resource discovery.",
+      "Project metadata also reports API key support with mk_live_... keys."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Other remote MCP clients"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Existing docs row, GitHub repository, docs page, and MCP endpoint status were checked during review.",
+      "Profile claimed by @bucabay in #2012 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@bucabay"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
