@@ -5,6 +5,21 @@
     "issue": 2013,
     "projectUrl": "https://github.com/antonillos/safeselect"
   },
+  "description": "Local stdio MCP server for read-only PostgreSQL and MongoDB inspection with project-scoped policy, bounded reads, and fail-closed mutation blocking.",
+  "category": "Databases",
+  "links": {
+    "docs": "https://github.com/antonillos/safeselect"
+  },
+  "install": {
+    "commands": [
+      "brew install antonillos/tap/safeselect",
+      "safeselect import-dbeaver ~/Downloads/dbeaver-export.zip",
+      "safeselect check --environment testing",
+      "safeselect agent install codex --environment testing --local"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
   "transport": [
     "stdio"
   ],
@@ -21,5 +36,11 @@
     "GitHub Copilot",
     "Gemini CLI"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub README was checked during review for install flow, local stdio transport, read-only policy, and supported PostgreSQL/MongoDB backends."
+    ]
+  }
 }
