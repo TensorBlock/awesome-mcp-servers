@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-codephantom-1-ddmarketer-mcp-10f35e50",
+  "source": {
+    "issue": 2031,
+    "projectUrl": "https://github.com/CodePhantom-1/ddmarketer-mcp"
+  },
+  "links": {
+    "endpoint": "https://www.ddmarketer.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Remote server, nothing to install: ```bash claude mcp add --transport http ddmarketer https://www.ddmarketer.com/api/mcp ``` Or in any MCP client config: ```json { \"mcpServers\": { \"ddmarketer\": { \"type\": \"http\", \"url\":..."
+    ]
+  }
+}
