@@ -5,8 +5,20 @@
     "issue": 2015,
     "projectUrl": "https://docs.pzero.studio/agents/mcp"
   },
+  "description": "Hosted Streamable HTTP MCP endpoint for prepaid chat, image, and video inference through PZERO Studio.",
+  "category": "AI & LLM Integration",
   "links": {
+    "docs": "https://docs.pzero.studio/agents/mcp",
     "endpoint": "https://mcp.pzero.studio/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http --scope user pzero https://mcp.pzero.studio/mcp --header \"Authorization: Bearer pzero_...\""
+    ],
+    "env": [
+      "PZERO_API_KEY"
+    ],
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +26,8 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "API key (Bearer `pzero_…`, prepaid USDC balance)"
+      "Spend and account tools require Authorization: Bearer pzero_... backed by prepaid Studio or agent balance.",
+      "initialize, ping, tools/list, resources/list, resources/templates/list, and prompts/list are available without a key for directory/catalog discovery."
     ]
   },
   "clients": [
@@ -23,5 +36,11 @@
     "Claude Code",
     "other remote MCP clients"
   ],
-  "license": "Hosted product. Not claiming open source."
+  "license": "Hosted product. Not claiming open source.",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Docs page, machine-readable MCP.md, health endpoint, and official MCP Registry id studio.pzero/mcp were checked during review."
+    ]
+  }
 }
