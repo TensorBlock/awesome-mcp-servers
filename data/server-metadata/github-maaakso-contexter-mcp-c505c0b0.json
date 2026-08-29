@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-maaakso-contexter-mcp-c505c0b0",
+  "source": {
+    "issue": 2038,
+    "projectUrl": "https://github.com/maaakso/contexter-mcp"
+  },
+  "links": {
+    "endpoint": "https://contexterai.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude.ai",
+    "Claude Code",
+    "ChatGPT",
+    "any Streamable HTTP MCP client"
+  ],
+  "license": "unknown (hosted service, closed-source; docs repo has no licence yet)"
+}
