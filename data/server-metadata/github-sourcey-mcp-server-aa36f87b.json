@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sourcey-mcp-server-aa36f87b",
+  "source": {
+    "issue": 2049,
+    "projectUrl": "https://github.com/sourcey/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.sourcey.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @sourcey/mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "and any standards-compliant MCP client"
+  ],
+  "license": "MIT"
+}
