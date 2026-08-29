@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-noclickapp-noclick-dcea6a77",
+  "source": {
+    "issue": 2040,
+    "projectUrl": "https://github.com/noclickapp/noclick"
+  },
+  "links": {
+    "endpoint": "https://api.noclick.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Codex"
+  ],
+  "license": "Sustainable Use License 1.0"
+}
