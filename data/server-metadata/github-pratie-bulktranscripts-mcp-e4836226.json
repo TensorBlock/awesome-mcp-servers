@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-pratie-bulktranscripts-mcp-e4836226",
+  "source": {
+    "issue": 2034,
+    "projectUrl": "https://github.com/pratie/bulktranscripts-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @pratie in #2034 under the community profile-claim process.",
+      "Requested profile metadata in #2034: Category: Multimedia Processing Transport: streamable-http Auth: bearer Install confidence: low License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@pratie"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
