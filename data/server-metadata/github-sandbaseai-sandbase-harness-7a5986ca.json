@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sandbaseai-sandbase-harness-7a5986ca",
+  "source": {
+    "issue": 2067,
+    "projectUrl": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  "install": {
+    "commands": [
+      "docker run -i --rm \\"
+    ],
+    "env": [
+      "MANAGED_AGENTS_URL",
+      "MANAGED_AGENTS_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key (optional, depending on the connected Harness deployment)"
+    ]
+  },
+  "clients": [
+    "DeepSeek Harness",
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "OpenCode"
+  ],
+  "license": "Apache-2.0"
+}
