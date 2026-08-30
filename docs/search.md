@@ -31,7 +31,6 @@ Servers providing web search capabilities or interfacing with specialized search
 - [OEvortex/ddg_search](https://github.com/OEvortex/ddg_search): A privacy-focused MCP server that leverages DuckDuckGo for efficient web search and URL content extraction.
 - [BochaAI/bocha-search-mcp](https://github.com/BochaAI/bocha-search-mcp): Bocha Search MCP Server empowers AI applications with high-quality knowledge from billions of web pages and diverse content sources, enhancing search capabilities across multiple domains.
 - [nitish-raj/searxng-mcp-bridge](https://github.com/nitish-raj/searxng-mcp-bridge): Facilitates search operations by bridging MCP clients with a SearxNG instance.
-- [mytechnotalent/RAG_MCP](https://github.com/mytechnotalent/RAG_MCP): A semantic PDF search server utilizing OCR, FAISS, and transformers for intelligent query responses.
 - [g-fukurowl/fess-mcp-server](https://github.com/g-fukurowl/fess-mcp-server): Middleware server that integrates with the Fess search engine to enable information retrieval via MCP clients.
 - [ayush-rudani/google-search-mcp-server](https://github.com/ayush-rudani/google-search-mcp-server): Integrates with Google's Custom Search JSON API to provide advanced web search capabilities with structured results and rate limiting.
 - [alizdavoodi/MCPDocSearch](https://github.com/alizdavoodi/MCPDocSearch): A toolset for crawling websites and generating searchable Markdown documentation via an MCP server, optimized for integration with tools like Cursor.
@@ -50,8 +49,6 @@ Servers providing web search capabilities or interfacing with specialized search
 - [AshlynnLu/search-linkedin-mcp](https://github.com/AshlynnLu/search-linkedin-mcp): Facilitates LinkedIn company profile verification through search, web crawling, and content validation using MCP.
 - [torohash/brave-search-sse-mcp](https://github.com/torohash/brave-search-sse-mcp): Facilitates web and local searches via Brave Search API using an SSE-based MCP server.
 - [joaomj/openrouter-search-server](https://github.com/joaomj/openrouter-search-server): Facilitates web search capabilities through the OpenRouter API using the MCP protocol.
-- [mvkvc/kagi_mcp_local](https://github.com/mvkvc/kagi_mcp_local): Facilitates Kagi Search through a local browser interface, enhancing personal search efficiency.
-- [narumiruna/serpapi-mcp](https://github.com/narumiruna/serpapi-mcp): A template for setting up MCP servers with customizable command configurations.
 - [ChristianSch/openrouter-websearch-mcp](https://github.com/ChristianSch/openrouter-websearch-mcp): Facilitates web searches using OpenRouter's online models to deliver concise, fact-based answers.
 - [kikuchy/pubdev_mcp](https://github.com/kikuchy/pubdev_mcp): Facilitates natural language package search on pub.dev with LLM-powered conversational interactions.
 - [0xDAEF0F/job-searchoor](https://github.com/0xDAEF0F/job-searchoor): Facilitates job search with filtering options for remote work and keyword inclusion/exclusion.
@@ -85,7 +82,6 @@ Servers providing web search capabilities or interfacing with specialized search
 - [MaartenSmeets/mcp-server-search](https://github.com/MaartenSmeets/mcp-server-search): Facilitates AI models in retrieving real-time web information through Google search integration, ensuring efficient and ethical data access.
 - [tisDDM/searxng-mcp](https://github.com/tisDDM/searxng-mcp): Empower AI assistants to conduct privacy-focused web searches using SearXNG with seamless integration and zero-configuration setup.
 - [gergelyszerovay/mcp-server-qdrant-retrieve](https://github.com/gergelyszerovay/mcp-server-qdrant-retrieve): Facilitates semantic search using Qdrant vector database for retrieving similar documents across multiple collections.
-- [rebers/4o-mini-search-mcp](https://github.com/rebers/4o-mini-search-mcp): Enhance your AI's web search capabilities with a cost-effective MCP server using OpenAI's 4o-mini Search model.
 - [appleinmusic/baidu-search-mcp](https://github.com/appleinmusic/baidu-search-mcp): Facilitates intelligent searches using Baidu Wenxin API with support for multiple models and deep search capabilities.
 - [aniketkadukar1/search-mcp](https://github.com/aniketkadukar1/search-mcp): Facilitates real-time documentation search for AI/ML libraries within IDEs using asynchronous processing and Tavily API integration.
 - [showjason/opensearch-mcp-server](https://github.com/showjason/opensearch-mcp-server): Facilitates seamless integration with OpenSearch by providing tools for index and cluster management, as well as document search capabilities.
@@ -102,7 +98,6 @@ Servers providing web search capabilities or interfacing with specialized search
 - [qwang07/kimi-mcp](https://github.com/qwang07/kimi-mcp): Kimi-mcp leverages Kimi AI's web search capabilities to communicate with MCP clients via standard input/output.
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag): A local MCP server enabling RAG-like web search model context without relying on external APIs.
 - [tositon/OpenDeepSearch](https://github.com/tositon/OpenDeepSearch): OpenDeepSearch is an open-source research tool leveraging MCP for in-depth analysis and synthesis of complex topics, integrating seamlessly with various MCP clients.
-- [ipsiuhang/python-doc-assist-mcp](https://github.com/ipsiuhang/python-doc-assist-mcp): Facilitates Python library documentation retrieval and compatibility checks through a search-first MCP approach.
 - [misanthropic-ai/ddg-mcp](https://github.com/misanthropic-ai/ddg-mcp): Provides DuckDuckGo search capabilities through the Model Context Protocol, enabling text, image, news, and video searches, along with AI chat functionalities.
 - [alejandro-ao/mcp-server-example](https://github.com/alejandro-ao/mcp-server-example): An educational MCP server implementation demonstrating integration with LLM clients and showcasing standardized context provision for AI applications.
 - [YeonwooSung/metasearch-mcp](https://github.com/YeonwooSung/metasearch-mcp): Facilitates metasearch operations using the Tavily API, returning AI-enhanced search results with detailed information.
