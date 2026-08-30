@@ -2,6 +2,7 @@
 
 Servers designed to execute code snippets or scripts in various languages, often in sandboxed environments.
 
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness): Self-hosted MCP runtime for running agent sessions with local, Docker, Kubernetes, or worker sandboxes, plus tool permissions, approvals, credentials, and audit/replay. Install: `docker pull ghcr.io/sandbaseai/sandbase-harness-mcp:0.3.8`.
 - [rapidriskradar/RRR-MCP](https://github.com/rapidriskradar/RRR-MCP): Facilitates the execution of RRR scripts through a configurable MCP server interface.
 - [Quathor/CMD-Executor](https://github.com/Quathor/CMD-Executor): Facilitates remote execution of Windows CMD commands via the MCP protocol, ensuring secure and configurable command execution.
 - [JSFrouws/mcp-matlab-executor](https://github.com/JSFrouws/mcp-matlab-executor): Securely execute MATLAB functions and scripts with user-approved security prompts.
