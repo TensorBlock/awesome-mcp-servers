@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "docs-spike-sh-mcp-d3963d89",
+  "source": {
+    "issue": 2058,
+    "projectUrl": "https://docs.spike.sh/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.spike.sh/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor"
+  ],
+  "license": "N/A (hosted service, not open source)"
+}
