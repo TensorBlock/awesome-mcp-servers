@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-contextstream-mcp-server-cb85489e",
+  "source": {
+    "issue": 2073,
+    "projectUrl": "https://github.com/contextstream/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.contextstream.io/mcp?default_context_mode=fast"
+  },
+  "install": {
+    "commands": [
+      "npx --prefer-online -y @contextstream/mcp-server@latest setup"
+    ],
+    "env": [
+      "CONTEXTSTREAM_API_URL",
+      "CONTEXTSTREAM_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Cursor",
+    "Claude Code",
+    "Codex",
+    "Grok",
+    "Windsurf",
+    "VS Code + GitHub Copilot",
+    "Cline",
+    "and the rest"
+  ],
+  "license": "MIT"
+}
