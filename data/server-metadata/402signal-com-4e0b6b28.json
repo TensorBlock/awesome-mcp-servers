@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "402signal-com-4e0b6b28",
+  "source": {
+    "issue": 2069,
+    "projectUrl": "https://402signal.com"
+  },
+  "links": {
+    "endpoint": "https://402signal.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "MCP card: https://402signal.com/mcp.json"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client that can connect to a remote Streamable HTTP server (Cursor",
+    "Claude",
+    "VS Code",
+    "etc.)"
+  ],
+  "license": "unknown (hosted product; public source not published)"
+}
