@@ -5,11 +5,54 @@
     "issue": 1432,
     "projectUrl": "https://github.com/AKzar1el/mcp-web-validator"
   },
+  "description": "Web Validator by DigestSEO validates HTML and CSS, audits technical SEO and accessibility signals, checks JSON-LD and broken links, generates validation reports, and captures responsive screenshots.",
+  "category": "Code Analysis & Quality",
+  "links": {
+    "docs": "https://digestseo.com/validator-mcp/",
+    "endpoint": "https://web-validator-mcp.digestseo.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-web-validator"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "ChatGPT",
+    "Kiro",
+    "other MCP clients supporting stdio or Streamable HTTP"
+  ],
+  "tools": {
+    "count": 8,
+    "names": [
+      "html.local",
+      "html.url",
+      "css.local",
+      "seo.metadata",
+      "links.broken",
+      "schema.markup",
+      "report.validation",
+      "screenshot.capture"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
   "verification": {
     "status": "self_reported",
     "notes": [
       "Profile claimed by @AKzar1el in #1432 under the community profile-claim process.",
-      "Requested profile metadata in #1432: Category: Code Analysis & Quality Transport: unknown Auth: unknown Install confidence: medium License: MIT Verification: unknown"
+      "Metadata matches the public README, MCP Registry-compatible server.json, published npm package, and documented DigestSEO hosted endpoint."
     ]
   },
   "community": {
