@@ -5,7 +5,10 @@
     "issue": 2049,
     "projectUrl": "https://github.com/sourcey/mcp-server"
   },
+  "description": "Search current startup credits and deals, inspect source evidence, check eligibility, and read Agent Readiness report cards from Sourcey's catalog.",
+  "category": "Search",
   "links": {
+    "docs": "https://github.com/sourcey/mcp-server",
     "endpoint": "https://mcp.sourcey.com/mcp"
   },
   "install": {
@@ -13,7 +16,7 @@
       "npx -y @sourcey/mcp-server"
     ],
     "env": [],
-    "confidence": "medium"
+    "confidence": "high"
   },
   "transport": [
     "stdio",
@@ -21,14 +24,30 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "The stdio package and hosted Streamable HTTP endpoint do not require environment variables or authentication."
+    ]
   },
   "clients": [
     "Claude Desktop",
     "Cursor",
     "Codex",
     "VS Code",
-    "and any standards-compliant MCP client"
+    "other standards-compliant MCP clients"
   ],
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and npm package @sourcey/mcp-server were reachable during maintainer review.",
+      "Hosted endpoint returned method-gated MCP status during review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@auscaster"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "license": "MIT"
 }
