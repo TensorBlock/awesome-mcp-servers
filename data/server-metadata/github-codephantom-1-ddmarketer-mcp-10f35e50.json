@@ -5,16 +5,52 @@
     "issue": 2031,
     "projectUrl": "https://github.com/CodePhantom-1/ddmarketer-mcp"
   },
+  "description": "Hosted MCP server for searching validated product gaps mined from Reddit, app stores, and forums, with commercial-intent scores and evidence links.",
+  "category": "Search",
   "links": {
+    "docs": "https://www.ddmarketer.com/mcp",
     "endpoint": "https://www.ddmarketer.com/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http ddmarketer https://www.ddmarketer.com/api/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
-    "type": "unknown",
+    "type": "bearer",
     "notes": [
-      "Remote server, nothing to install: ```bash claude mcp add --transport http ddmarketer https://www.ddmarketer.com/api/mcp ``` Or in any MCP client config: ```json { \"mcpServers\": { \"ddmarketer\": { \"type\": \"http\", \"url\":..."
+      "Free-tier tools require no API key.",
+      "Optional bearer key unlocks get_dossier."
     ]
+  },
+  "tools": {
+    "count": 4,
+    "names": [
+      "search_gaps",
+      "get_top_gaps",
+      "validate_idea",
+      "get_dossier"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and hosted MCP endpoint were reachable during maintainer review.",
+      "Official MCP Registry id io.github.CodePhantom-1/ddmarketer-mcp was supplied in the source issue."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@CodePhantom-1"
+    ],
+    "verifiedBy": [],
+    "claimed": false
   }
 }
