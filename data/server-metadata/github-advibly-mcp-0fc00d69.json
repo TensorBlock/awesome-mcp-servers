@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-advibly-mcp-0fc00d69",
+  "source": {
+    "issue": 2095,
+    "projectUrl": "https://github.com/advibly/mcp"
+  },
+  "links": {
+    "endpoint": "https://advibly.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth (OAuth 2.1 with Dynamic Client Registration, PKCE)"
+    ]
+  },
+  "clients": [
+    "Claude (claude.ai connectors)",
+    "Claude Code",
+    "ChatGPT (connectors/developer mode)",
+    "any MCP client supporting remote streamable HTTP + OAuth"
+  ],
+  "license": "Proprietary hosted service; public docs repo at https://github.com/advibly/mcp"
+}
