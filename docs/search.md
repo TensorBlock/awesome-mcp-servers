@@ -140,7 +140,6 @@ Servers providing web search capabilities or interfacing with specialized search
 - [y7ut/mcp-tavily-search](https://github.com/y7ut/mcp-tavily-search): Facilitates keyword-based news searches with customizable parameters using the Tavily MCP server.
 - [Sheshiyer/jina-ai-mcp-multimodal-search](https://github.com/Sheshiyer/jina-ai-mcp-multimodal-search): Facilitates seamless integration with Jina AI's neural search capabilities, offering semantic, image, and cross-modal search functionalities.
 - [arben-adm/tavily-mcp-search](https://github.com/arben-adm/tavily-mcp-search): A robust MCP server leveraging the Tavily API for high-quality, reliable search results across business, news, finance, and politics.
-- [Lorhlona/geminiserchMCP](https://github.com/Lorhlona/geminiserchMCP): Generates responses using the Gemini API and Google Search, designed for integration with AI assistants.
 - [btwiuse/npm-search-mcp-server](https://github.com/btwiuse/npm-search-mcp-server): Facilitates npm package searches through an MCP server interface, enabling seamless integration with tools like Claude and Zed.
 - [pskill9/web-search](https://github.com/pskill9/web-search): Facilitates free web searches using Google results without requiring API keys, returning structured data for easy integration.
 - [apridachin/brave-search-mcp](https://github.com/apridachin/brave-search-mcp): Facilitates web searches using the Brave Search API through an MCP server.
