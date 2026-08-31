@@ -5,8 +5,18 @@
     "issue": 2040,
     "projectUrl": "https://github.com/noclickapp/noclick"
   },
+  "description": "Hosted MCP server for building agents that automate background tasks from ChatGPT, Claude, and Codex.",
+  "category": "Developer Productivity & Utilities",
   "links": {
+    "docs": "https://docs.noclick.com/mcp/setup",
     "endpoint": "https://api.noclick.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "Add https://api.noclick.io/mcp as a remote Streamable HTTP MCP connector"
+    ],
+    "env": [],
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +24,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth sign-in is required by the hosted NoClick MCP endpoint."
     ]
   },
   "clients": [
@@ -22,5 +32,19 @@
     "Claude",
     "Codex"
   ],
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and setup docs were reachable during maintainer review.",
+      "Hosted endpoint returned an authentication-gated MCP response during review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@dhruvyad"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "license": "Sustainable Use License 1.0"
 }
