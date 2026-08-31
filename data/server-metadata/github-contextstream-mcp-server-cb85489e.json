@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-contextstream-mcp-server-cb85489e",
+  "source": {
+    "issue": 2073,
+    "projectUrl": "https://github.com/contextstream/mcp-server"
+  },
+  "description": "Shared project memory and semantic code search that developers and AI agents can read and write across multiple MCP clients.",
+  "category": "Knowledge Management & Memory",
+  "links": {
+    "docs": "https://contextstream.io",
+    "endpoint": "https://mcp.contextstream.io/mcp?default_context_mode=fast"
+  },
+  "install": {
+    "commands": [
+      "npx --prefer-online -y @contextstream/mcp-server@latest setup"
+    ],
+    "env": [
+      "CONTEXTSTREAM_API_URL",
+      "CONTEXTSTREAM_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Hosted Streamable HTTP requests use the X-ContextStream-API-Key header from the ContextStream dashboard.",
+      "Local setup stores CONTEXTSTREAM_API_KEY for the stdio package."
+    ]
+  },
+  "clients": [
+    "Cursor",
+    "Claude Code",
+    "Codex",
+    "Grok",
+    "Windsurf",
+    "VS Code + GitHub Copilot",
+    "Cline",
+    "Cline",
+    "other MCP clients"
+  ],
+  "tools": {
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and npm package @contextstream/mcp-server were reachable during maintainer review.",
+      "Hosted endpoint returned method-gated MCP status during review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@escott-"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "license": "MIT"
+}
