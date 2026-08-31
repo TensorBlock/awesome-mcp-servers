@@ -14,7 +14,6 @@ Servers integrating with project management and task tracking tools.
 - [eyalzh/kanban-mcp](https://github.com/eyalzh/kanban-mcp): Facilitates task management for AI-driven workflows using a kanban system, enabling structured planning and execution across multiple sessions.
 - [danielealbano/mcp-for-azure-devops-boards](https://github.com/danielealbano/mcp-for-azure-devops-boards): The necessary bits to let your favourite AI manage Azure DevOps Boards like a project manager, with stdio and HTTP support and authentication via standard Azure login.
 - [jj3ny/reclaim-mcp-server](https://github.com/jj3ny/reclaim-mcp-server): A TypeScript-based MCP server enabling seamless interaction with Reclaim.ai's API for task management and scheduling.
-- [namanyayg/giga-mcp](https://github.com/namanyayg/giga-mcp): Enhance AI project management by automating memory and task tracking with seamless integration into MCP clients.
 - [Moss-G/Gantt-server](https://github.com/Moss-G/Gantt-server): Facilitates AI-driven Gantt chart project and task management with interactive visualization capabilities.
 - [pj8/backlog-mcp-server](https://github.com/pj8/backlog-mcp-server): Facilitates seamless integration with Backlog for task management through MCP server capabilities.
 - [danielscholl/backlog-manager-mcp](https://github.com/danielscholl/backlog-manager-mcp): A task tracking and backlog management server for AI assistants, utilizing Anthropic's MCP protocol for seamless integration with AI clients.
@@ -27,7 +26,6 @@ Servers integrating with project management and task tracking tools.
 - [nulab/backlog-mcp-server](https://github.com/nulab/backlog-mcp-server): Facilitates project management and issue tracking on Backlog through Claude integration.
 - [stevengonsalvez/mcp-todoist](https://github.com/stevengonsalvez/mcp-todoist): Integrates Todoist with language models for seamless task management through natural language commands.
 - [bravoure/clickup-mcp](https://github.com/bravoure/clickup-mcp): Facilitates seamless integration between AI assistants and ClickUp for task management and collaboration.
-- [service-hero/housecallpro-mcp-server](https://github.com/service-hero/housecallpro-mcp-server): A remote MCP server deployed on Cloudflare Workers, enabling OAuth login and integration with Claude Desktop for tool invocation.
 - [Leee62/sentry-issues-mcp](https://github.com/Leee62/sentry-issues-mcp): Facilitates the retrieval and analysis of Sentry issues, enabling LLMs to diagnose and suggest fixes for software problems.
 - [alepenavargas/mcp-nav](https://github.com/alepenavargas/mcp-nav): Facilitates navigation and content extraction from modelcontextprotocol.io using a configurable MCP server.
 - [tradesdontlie/task-manager-mcp](https://github.com/tradesdontlie/task-manager-mcp): Facilitates comprehensive task and project management with AI-driven task breakdown and tracking capabilities.
@@ -144,7 +142,6 @@ Servers integrating with project management and task tracking tools.
 - [ps173/google-tasks-to-md](https://github.com/ps173/google-tasks-to-md): A command-line tool to convert Google Tasks into a markdown file for easier viewing and editing.
 - [bigtian99/mcp-zentao](https://github.com/bigtian99/mcp-zentao): A comprehensive API integration package for Zentao project management system, tailored for Cursor IDE, offering task management and bug tracking capabilities.
 - [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp): Facilitates AI-driven interactions with Atlassian Data Center products like Jira, Confluence, and Bitbucket through MCP integration.
-- [n0r1h/backlog-mcp-server](https://github.com/n0r1h/backlog-mcp-server): A TypeScript-based MCP server implementing a simple notes system with tools for note creation and summarization.
 - [adepanges/teamretro-mcp-server](https://github.com/adepanges/teamretro-mcp-server): Facilitates seamless integration with TeamRetro's API for enhanced retrospective management.
 - [runekaagaard/mcp-redmine](https://github.com/runekaagaard/mcp-redmine): Facilitates seamless integration between Claude Desktop and Redmine, enabling comprehensive project management through API interactions.
 - [brysontang/DeltaTask](https://github.com/brysontang/DeltaTask): DeltaTask offers advanced task management with Obsidian integration, leveraging a Model Context Protocol server for seamless task synchronization and prioritization.
@@ -160,7 +157,6 @@ Servers integrating with project management and task tracking tools.
 - [teamcurri/mcp-linear](https://github.com/teamcurri/mcp-linear): Facilitates interaction with Curri's API through a TypeScript-based MCP server, offering note management and summarization tools.
 - [NightTrek/Software-planning-mcp](https://github.com/NightTrek/Software-planning-mcp): Facilitates structured software development planning by breaking down projects into tasks, tracking progress, and managing detailed plans.
 - [mikah13/mcp-clickup](https://github.com/mikah13/mcp-clickup): Facilitates interaction with ClickUp workspaces through an MCP server, enabling task management and authentication via the ClickUp API.
-- [Siroopfles/task-manager-server](https://github.com/Siroopfles/task-manager-server): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
 - [FradSer/mcp-server-apple-reminders](https://github.com/FradSer/mcp-server-apple-reminders): Facilitates seamless interaction with Apple Reminders on macOS through a standardized MCP interface.
 - [smithery-ai/mcpserver-trello](https://github.com/smithery-ai/mcpserver-trello): Facilitates seamless interaction with Trello boards through a robust MCP server, ensuring efficient API integration with built-in rate limiting and error handling.
 - [Chrusic/todoist-mcp-server-extended](https://github.com/Chrusic/todoist-mcp-server-extended): Integrates Claude with Todoist for natural language task management, featuring batch operations and robust error handling.
