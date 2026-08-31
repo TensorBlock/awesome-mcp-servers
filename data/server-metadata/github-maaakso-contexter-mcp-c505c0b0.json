@@ -5,15 +5,18 @@
     "issue": 2038,
     "projectUrl": "https://github.com/maaakso/contexter-mcp"
   },
+  "description": "Hosted shared-context server for reading, searching, saving, sharing, removing, and restoring explicit project context records across MCP clients.",
+  "category": "Knowledge Management & Memory",
   "links": {
+    "docs": "https://github.com/maaakso/contexter-mcp",
     "endpoint": "https://contexterai.com/mcp"
   },
   "install": {
-    "commands": [],
-    "env": [
-      "URL"
+    "commands": [
+      "claude mcp add --transport http contexter https://contexterai.com/mcp"
     ],
-    "confidence": "low"
+    "env": [],
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
@@ -21,7 +24,8 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth 2.1 with dynamic client registration; discovery document is published at https://contexterai.com/.well-known/oauth-authorization-server.",
+      "Sign-in happens through Telegram during the OAuth flow."
     ]
   },
   "clients": [
@@ -31,5 +35,23 @@
     "ChatGPT",
     "any Streamable HTTP MCP client"
   ],
-  "license": "unknown (hosted service, closed-source; docs repo has no licence yet)"
+  "tools": {
+    "count": 26,
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and OAuth authorization-server discovery document were reachable during maintainer review.",
+      "Hosted MCP endpoint returned an authentication-gated response during review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@maaakso"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "license": "Unknown; hosted service"
 }
