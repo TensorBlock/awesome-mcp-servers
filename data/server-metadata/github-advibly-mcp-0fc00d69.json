@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-advibly-mcp-0fc00d69",
+  "source": {
+    "issue": 2095,
+    "projectUrl": "https://github.com/advibly/mcp"
+  },
+  "description": "Hosted advertising-creative MCP server for branded image ads, video ads, UGC-style videos, carousels, voiceovers, music, reusable brand context, assets, and social publishing.",
+  "category": "Marketing, Sales & CRM",
+  "links": {
+    "docs": "https://advibly.com/mcp-setup",
+    "endpoint": "https://advibly.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http advibly https://advibly.com/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with Dynamic Client Registration and PKCE.",
+      "A free account can connect and list tools; generation tools spend the connected account's credits."
+    ]
+  },
+  "clients": [
+    "Claude (claude.ai connectors)",
+    "Claude Code",
+    "ChatGPT (connectors/developer mode)",
+    "any MCP client supporting remote streamable HTTP + OAuth"
+  ],
+  "tools": {
+    "count": 38,
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and setup docs were reachable during maintainer review.",
+      "Hosted endpoint returned an authentication-gated MCP response during review.",
+      "Submission disclosed affiliation with Advibly."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Saransh29"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "license": "Proprietary hosted service; public docs repo at https://github.com/Advibly/mcp"
+}
