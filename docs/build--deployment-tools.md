@@ -2,6 +2,7 @@
 
 Servers interacting with build systems, containerization, CI/CD, or deployment platforms.
 
+- [plyo-dev/plyo-mcp](https://github.com/plyo-dev/plyo-mcp): Saves every AI work session as a restorable checkpoint on Plyo (plyo.dev), publishes the project to a live URL with a pre-publish secret-key scan, and backs up its database. Built for people who build with AI and don't read code. Install: `claude mcp add plyo -e PLYO_TOKEN=... -- npx plyo-mcp`. Stdio transport. MIT.
 - [friendlygeorge/docker-mcp-server](https://github.com/friendlygeorge/docker-mcp-server): Docker MCP server for container management, health checks, auto-restart, Compose lifecycle, log streaming, image, volume, network, and system diagnostics workflows. Install: `npx @supernova123/docker-mcp-server`. Stdio transport; no auth beyond local Docker socket access. MIT.
 - [zenoengine/msbuild-mcp-server](https://github.com/zenoengine/msbuild-mcp-server): Automates MSBuild project builds with dynamic discovery and customizable configurations, integrating seamlessly with various MCP clients.
 - [radostkali/gitlab-mcp-server](https://github.com/radostkali/gitlab-mcp-server): Facilitates GitLab integration using FastMCP for streamlined code review and repository management.
