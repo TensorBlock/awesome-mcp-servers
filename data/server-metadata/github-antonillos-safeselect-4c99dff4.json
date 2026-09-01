@@ -8,13 +8,13 @@
   "description": "Local stdio MCP server for read-only PostgreSQL and MongoDB inspection with project-scoped policy, bounded reads, and fail-closed mutation blocking.",
   "category": "Databases",
   "links": {
-    "docs": "https://github.com/antonillos/safeselect"
+    "docs": "https://github.com/antonillos/safeselect/blob/main/docs/install.md"
   },
   "install": {
     "commands": [
       "brew install antonillos/tap/safeselect",
-      "safeselect import-dbeaver ~/Downloads/dbeaver-export.zip",
-      "safeselect check --environment testing",
+      "asdf plugin add safeselect https://github.com/antonillos/asdf-safeselect.git && asdf install safeselect latest",
+      "curl -fsSL https://raw.githubusercontent.com/antonillos/safeselect/main/packaging/install/install-release.sh | sh",
       "safeselect agent install codex --environment testing --local"
     ],
     "env": [],
@@ -25,7 +25,10 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "No MCP-layer authentication. Database authentication is required.",
+      "Credentials remain local in macOS Keychain or environment variables and are not exposed to the agent."
+    ]
   },
   "clients": [
     "OpenCode",
@@ -36,11 +39,72 @@
     "GitHub Copilot",
     "Gemini CLI"
   ],
+  "tools": {
+    "count": 46,
+    "names": [
+      "agent_detect",
+      "agent_install",
+      "agent_status",
+      "agent_uninstall",
+      "aggregate_documents",
+      "audit_recent",
+      "audit_status",
+      "check",
+      "config_delete_environment",
+      "config_rename_environment",
+      "config_reset",
+      "config_set_password",
+      "config_show",
+      "config_validate",
+      "connect",
+      "count_documents",
+      "database_info",
+      "describe_table",
+      "disconnect",
+      "discover_document_schema",
+      "distinct_documents",
+      "driver_add",
+      "driver_download",
+      "driver_list",
+      "explain",
+      "explain_documents",
+      "find_documents",
+      "generate_document_fixture",
+      "get_collection_stats",
+      "get_database_stats",
+      "get_table_stats",
+      "import_compose",
+      "list_collection_indexes",
+      "list_collections",
+      "list_databases",
+      "list_functions",
+      "list_scheduled_jobs",
+      "list_table_indexes",
+      "list_table_partitions",
+      "list_tables",
+      "list_triggers",
+      "profile_document_field",
+      "reconnect",
+      "security_posture",
+      "select",
+      "uninstall"
+    ],
+    "source": "self_reported"
+  },
   "license": "MIT",
   "verification": {
     "status": "partial",
     "notes": [
-      "GitHub README was checked during review for install flow, local stdio transport, read-only policy, and supported PostgreSQL/MongoDB backends."
+      "GitHub README was checked during review for install flow, local stdio transport, read-only policy, and supported PostgreSQL/MongoDB backends.",
+      "Profile claimed by @antonillos in #2101 under the community profile-claim process.",
+      "Metadata updated from issue #2103 using the install documentation, README quick start, and canonical MCP tool manifest."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@antonillos"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
