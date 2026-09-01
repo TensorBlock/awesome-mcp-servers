@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "keywordise-com-da340a24",
+  "source": {
+    "issue": 2114,
+    "projectUrl": "https://keywordise.com/"
+  },
+  "links": {
+    "endpoint": "https://keywordise.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "YOUR_KEYWORDISE_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Bearer API key, minted and revocable by the person. `initialize`, `ping` and `tools/list` answer without a key so the catalogue is verifiable before connecting; every tool call requires one. The two tools that can send an application..."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "and any client that speaks MCP streamable HTTP with a custom header."
+  ],
+  "license": "Proprietary hosted service. Free trial: 7 days and 27 applications, no card."
+}
