@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devdasx-aperture-e34331d4",
+  "source": {
+    "issue": 2119,
+    "projectUrl": "https://github.com/devdasx/aperture"
+  },
+  "links": {
+    "endpoint": "https://aperturex.io/mcp/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "and other remote Streamable HTTP MCP clients"
+  ],
+  "license": "MIT"
+}
