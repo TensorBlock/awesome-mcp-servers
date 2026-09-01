@@ -2,7 +2,6 @@
 
 Servers interacting with version control systems and platforms for repository management, issues, pull requests, etc.
 
-- [plyo-dev/plyo-mcp](https://github.com/plyo-dev/plyo-mcp): Saves every AI work session as a restorable checkpoint on Plyo (plyo.dev), publishes the project to a live URL with a pre-publish secret-key scan, and backs up its database. Built for people who build with AI and don't read code. Install: `claude mcp add plyo -e PLYO_TOKEN=... -- npx plyo-mcp`. Stdio transport. MIT.
 - [rog0x/mcp-git-tools](https://github.com/rog0x/mcp-git-tools): Git MCP tools for repository logs, diffs, blame, branch statistics, and local version-control workflows. Install from the `@rog0x` npm package family. MIT.
 - [rog0x/mcp-github-tools](https://github.com/rog0x/mcp-github-tools): GitHub MCP tools for repository analytics, pull requests, issues, and project activity workflows. Install from the `@rog0x` npm package family. MIT.
 - [alvnavraii/MCPGithub](https://github.com/alvnavraii/MCPGithub): Facilitates efficient and secure GitHub repository management through MCP integration, offering comprehensive tools for repository, branch, and pull request operations.
