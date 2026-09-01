@@ -5,30 +5,55 @@
     "issue": 2114,
     "projectUrl": "https://keywordise.com/"
   },
+  "description": "Hosted MCP server for job-search automation: match a CV to live vacancies, tailor applications, answer screening questions, and track submissions.",
+  "category": "Developer Productivity & Utilities",
   "links": {
+    "docs": "https://keywordise.com/",
     "endpoint": "https://keywordise.com/mcp"
   },
   "install": {
-    "commands": [],
-    "env": [
-      "YOUR_KEYWORDISE_API_KEY"
+    "commands": [
+      "claude mcp add --transport http keywordise https://keywordise.com/mcp --header \"Authorization: Bearer YOUR_KEYWORDISE_API_KEY\""
     ],
-    "confidence": "low"
+    "env": [
+      "KEYWORDISE_API_KEY"
+    ],
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
-    "type": "api-key",
+    "type": "bearer",
     "notes": [
-      "Bearer API key, minted and revocable by the person. `initialize`, `ping` and `tools/list` answer without a key so the catalogue is verifiable before connecting; every tool call requires one. The two tools that can send an application..."
+      "Bearer API keys are minted and revoked by the user through Keywordise.",
+      "initialize, ping, and tools/list are callable without a key; tool calls require a key.",
+      "Application-submit and answer-submit tools are marked destructive/open-world so clients can request confirmation."
     ]
   },
   "clients": [
     "Claude Code",
     "Claude Desktop",
     "Cursor",
-    "and any client that speaks MCP streamable HTTP with a custom header."
+    "other Streamable HTTP MCP clients with custom header support"
   ],
+  "tools": {
+    "count": 49,
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Keywordise homepage and hosted MCP endpoint were reachable during maintainer review.",
+      "Hosted endpoint returned method-gated MCP status during review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@seblosiv"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "license": "Proprietary hosted service. Free trial: 7 days and 27 applications, no card."
 }
