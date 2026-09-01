@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-antonillos-safeselect-4c99dff4",
   "source": {
-    "issue": 2103,
+    "issue": 2013,
     "projectUrl": "https://github.com/antonillos/safeselect"
   },
   "description": "Local stdio MCP server for read-only PostgreSQL and MongoDB inspection with project-scoped policy, bounded reads, and fail-closed mutation blocking.",
@@ -13,8 +13,8 @@
   "install": {
     "commands": [
       "brew install antonillos/tap/safeselect",
-      "safeselect import-dbeaver ~/Downloads/dbeaver-export.zip",
-      "safeselect check --environment testing",
+      "asdf plugin add safeselect https://github.com/antonillos/asdf-safeselect.git && asdf install safeselect latest",
+      "curl -fsSL https://raw.githubusercontent.com/antonillos/safeselect/main/packaging/install/install-release.sh | sh",
       "safeselect agent install codex --environment testing --local"
     ],
     "env": [],
@@ -24,9 +24,10 @@
     "stdio"
   ],
   "auth": {
-    "type": "unknown",
+    "type": "none",
     "notes": [
-      "No MCP-layer authentication. Database authentication is required. Credentials remain local in macOS Keychain or environment variables and are not exposed to the agent."
+      "No MCP-layer authentication. Database authentication is required.",
+      "Credentials remain local in macOS Keychain or environment variables and are not exposed to the agent."
     ]
   },
   "clients": [
@@ -38,14 +39,6 @@
     "GitHub Copilot",
     "Gemini CLI"
   ],
-  "license": "MIT",
-  "verification": {
-    "status": "partial",
-    "notes": [
-      "GitHub README was checked during review for install flow, local stdio transport, read-only policy, and supported PostgreSQL/MongoDB backends.",
-      "Metadata updated from issue #2103. Source: ```markdown Installation documentation: https://github.com/antonillos/safeselect/blob/main/docs/install.md README Quick Start: https://github.com/antonillos/safeselect#quick-start Canonical MCP tool manifest:..."
-    ]
-  },
   "tools": {
     "count": 46,
     "names": [
@@ -97,5 +90,21 @@
       "uninstall"
     ],
     "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub README was checked during review for install flow, local stdio transport, read-only policy, and supported PostgreSQL/MongoDB backends.",
+      "Profile claimed by @antonillos in #2101 under the community profile-claim process.",
+      "Metadata updated from issue #2103 using the install documentation, README quick start, and canonical MCP tool manifest."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@antonillos"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
