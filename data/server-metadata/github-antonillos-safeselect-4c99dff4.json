@@ -40,7 +40,16 @@
   "verification": {
     "status": "partial",
     "notes": [
-      "GitHub README was checked during review for install flow, local stdio transport, read-only policy, and supported PostgreSQL/MongoDB backends."
+      "GitHub README was checked during review for install flow, local stdio transport, read-only policy, and supported PostgreSQL/MongoDB backends.",
+      "Profile claimed by @antonillos in #2101 under the community profile-claim process.",
+      "Requested profile metadata in #2101: Maintainer: @antonillos Category: Databases Homepage: https://antonillos.github.io/safeselect/ Documentation: https://github.com/antonillos/safeselect#readme Installation:..."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@antonillos"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
