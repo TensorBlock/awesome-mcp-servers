@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sturs49-cryptotaxedge-mcp-b771435b",
+  "source": {
+    "issue": 2131,
+    "projectUrl": "https://github.com/sturs49/cryptotaxedge-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.cryptotaxedge.com/"
+  },
+  "install": {
+    "commands": [
+      "MCP docs: https://cryptotaxedge.com/mcp"
+    ],
+    "env": [
+      "CTE_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Claude Code",
+    "VS Code",
+    "any streamable-HTTP MCP client"
+  ],
+  "license": "MIT"
+}
