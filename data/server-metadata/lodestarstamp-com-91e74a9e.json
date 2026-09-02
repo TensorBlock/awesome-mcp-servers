@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "lodestarstamp-com-91e74a9e",
+  "source": {
+    "issue": 2133,
+    "projectUrl": "https://lodestarstamp.com"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Cursor",
+    "any agent that can GET HTTPS"
+  ],
+  "license": "unknown"
+}
