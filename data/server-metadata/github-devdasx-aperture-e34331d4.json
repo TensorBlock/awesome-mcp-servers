@@ -5,15 +5,28 @@
     "issue": 2119,
     "projectUrl": "https://github.com/devdasx/aperture"
   },
+  "description": "Read-only hosted knowledge server for Aperture Wallet product facts, self-custody security model, supported mainnets, app releases, screen semantics, and Journal articles.",
+  "category": "Finance & Crypto",
   "links": {
+    "docs": "https://github.com/devdasx/aperture#model-context-protocol-mcp",
     "endpoint": "https://aperturex.io/mcp/"
+  },
+  "install": {
+    "commands": [
+      "Add https://aperturex.io/mcp/ as a remote Streamable HTTP MCP connector"
+    ],
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "No API key, OAuth flow, wallet connection, or user data is required.",
+      "The endpoint exposes read-only wallet knowledge and cannot access balances, credentials, or signing."
+    ]
   },
   "clients": [
     "ChatGPT",
@@ -21,7 +34,39 @@
     "Codex",
     "Cursor",
     "VS Code",
-    "and other remote Streamable HTTP MCP clients"
+    "other Streamable HTTP MCP clients"
   ],
+  "tools": {
+    "count": 12,
+    "names": [
+      "search",
+      "fetch",
+      "get_product",
+      "list_features",
+      "get_feature",
+      "list_supported_networks",
+      "get_security_model",
+      "get_latest_release",
+      "list_articles",
+      "get_article",
+      "get_app_screen",
+      "list_app_entry_points"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository, hosted endpoint, official registry entry, and static server card were reachable during maintainer review.",
+      "Source issue reports initialize and tools/list succeeded against production on 2026-09-02."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@devdasx"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  },
   "license": "MIT"
 }
