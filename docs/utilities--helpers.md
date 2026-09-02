@@ -42,7 +42,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [clareliguori/rdap-mcp-server](https://github.com/clareliguori/rdap-mcp-server): Facilitates domain and IP lookups using RDAP through a Model Context Protocol server.
 - [andrewdmontgomery/mcp-server-gravatar](https://github.com/andrewdmontgomery/mcp-server-gravatar): Provides access to Gravatar profiles and avatars via a stdio-based MCP server, enabling easy integration with MCP-aware clients.
 - [HackTastic99/sad](https://github.com/HackTastic99/sad): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [DevSpectrum-max/zebra](https://github.com/DevSpectrum-max/zebra): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [orlando2019/MCP-filesystem](https://github.com/orlando2019/MCP-filesystem): Node.js server enabling filesystem operations through the Model Context Protocol, supporting file manipulation, directory management, and metadata retrieval.
 - [orlando2019/MCP-SEVER](https://github.com/orlando2019/MCP-SEVER): A comprehensive full-stack MCP server implementation for file management and client request handling, supporting integration with n8n, AppSheet, and npm using TypeScript and Python.
 - [wrdan/mcp-server-canteen](https://github.com/wrdan/mcp-server-canteen): Facilitates querying employee canteen dining statistics for specified date ranges, including breakfast and lunch counts.
@@ -69,9 +68,7 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [OiPKL/mcp-practice](https://github.com/OiPKL/mcp-practice): A comprehensive MCP server suite offering weather, installation, filesystem, and general-purpose functionalities for seamless integration with Claude desktop configurations.
 - [miso-develop/cube-scrambler-mcp](https://github.com/miso-develop/cube-scrambler-mcp): Facilitates cube scrambling and manipulation through an MCP server, offering randomization and sequence control for various cube states.
 - [Nuosis/widget-setup-server](https://github.com/Nuosis/widget-setup-server): Automates the setup of FileMaker widget projects by initializing repositories and generating agent prompts.
-- [elmozapanta/compound](https://github.com/elmozapanta/compound): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [janwilmake/curlmcp](https://github.com/janwilmake/curlmcp): A versatile MCP server offering REST API and browser integration for seamless HTTP requests, with OAuth support and markdown transformation for popular sites.
-- [elmozapanta/nine](https://github.com/elmozapanta/nine): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [M6saw0/mcp-client-typescript](https://github.com/M6saw0/mcp-client-typescript): A TypeScript client sample for utilizing multiple MCPs, allowing configuration of server names via JSON.
 - [imb96/mcp-server](https://github.com/imb96/mcp-server): Facilitates integration of filesystem and Google Calendar functionalities through MCP server commands.
 - [intellygentle/mon-magma-mcp](https://github.com/intellygentle/mon-magma-mcp): Facilitates staking and unstaking operations on the Monad network using MCP tools.
@@ -93,8 +90,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [yay12/rubbed](https://github.com/yay12/rubbed): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [Griffis/unusual](https://github.com/Griffis/unusual): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [SecretiveShell/mcp-windows](https://github.com/SecretiveShell/mcp-windows): Facilitates interaction with Windows API for media control, notifications, window management, and more.
-- [briannaluna17/grew](https://github.com/briannaluna17/grew): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [briannaluna17/opposite](https://github.com/briannaluna17/opposite): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [mrwylan/mcpserver](https://github.com/mrwylan/mcpserver): A simple MCP server that provides an interactive list of color names and their hex values, built using Spring Boot.
 - [ddoojoang/mcp-excel-controller-pro](https://github.com/ddoojoang/mcp-excel-controller-pro): Facilitates advanced Excel file manipulation through a Node.js-based MCP server.
 - [yamitzky/deno-clipboard-mcp](https://github.com/yamitzky/deno-clipboard-mcp): Facilitates clipboard operations across platforms using Deno with MCP compatibility.
