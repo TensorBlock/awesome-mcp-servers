@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-melaya-labs-melaya-mcp-b2f67869",
+  "source": {
+    "issue": 2129,
+    "projectUrl": "https://github.com/melaya-labs/melaya-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.melaya.org/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "and anything else that speaks remote streamable HTTP"
+  ],
+  "license": "Apache-2.0"
+}
