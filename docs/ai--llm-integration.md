@@ -22,10 +22,8 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [stephenlb/pubnub-mcp-server](https://github.com/stephenlb/pubnub-mcp-server): Facilitates access to PubNub SDK and Functions documentation within Cursor IDE using a CLI-based MCP server.
 - [CDataSoftware/cdata-jdbc-mcp-server](https://github.com/CDataSoftware/cdata-jdbc-mcp-server): Facilitates querying live data from over 300 sources via CData JDBC Drivers using natural language through a read-only MCP interface.
 - [kylewoolstenhulme-block/Notion-Goose-MCP](https://github.com/kylewoolstenhulme-block/Notion-Goose-MCP): Facilitates seamless interaction with the Notion API through an MCP server, enabling automated content management and integration.
-- [drdeeks/remote-mcp-server](https://github.com/drdeeks/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
 - [raj-mehra/jira-mcp](https://github.com/raj-mehra/jira-mcp): Integrates Jira with MCP to fetch and search ticket details using a flexible framework.
 - [AlexShan2008/mcp-claude-weather](https://github.com/AlexShan2008/mcp-claude-weather): Provides real-time weather alerts and forecasts from the US National Weather Service, seamlessly integrating with Claude for Desktop.
-- [expensivefav/mcp](https://github.com/expensivefav/mcp): Facilitates interaction with Algolia APIs through experimental MCP servers, enabling search and data manipulation tasks.
 - [vinodismyname/redshift-utils-mcp](https://github.com/vinodismyname/redshift-utils-mcp): Facilitates AI-driven interaction with Amazon Redshift, enabling secure data querying and diagnostics via the AWS Data API.
 - [frostming/openweather-mcp](https://github.com/frostming/openweather-mcp): Facilitates weather data retrieval from OpenWeather.org via a Model Context Protocol server.
 - [jasiekkk/jan-stripe](https://github.com/jasiekkk/jan-stripe): Deploy a remote MCP server on Cloudflare Workers without authentication, enabling seamless integration with Cloudflare AI Playground and local MCP clients.
@@ -78,7 +76,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [weekend-project-space/awesome-remote-mcp-servers](https://github.com/weekend-project-space/awesome-remote-mcp-servers): A curated list of remote MCP servers offering real-time interactions and integrations for AI-driven applications across various platforms, including Sentry, Neon, PayPal, and more.
 - [netomantonio/synapstor](https://github.com/netomantonio/synapstor): Synapstor is a modular library for semantic storage and retrieval of information using vector embeddings and the Qdrant database, with integration capabilities through the MCP protocol.
 - [dave-wind/mysql-mcp-server](https://github.com/dave-wind/mysql-mcp-server): Facilitates read-only access to MySQL databases for LLMs, ensuring secure schema discovery and query execution through the Model Context Protocol.
-- [Edison-A-N/watch-mon](https://github.com/Edison-A-N/watch-mon): Monitor and analyze dApps on Monad testnet with real-time insights and Web3 integration.
 - [soub4i/kdebug-mcp](https://github.com/soub4i/kdebug-mcp): KDebug leverages MCP to enable AI-driven interaction with Kubernetes clusters, allowing users to execute commands and monitor resources through conversational AI.
 - [agentience/ts-pkg-distro](https://github.com/agentience/ts-pkg-distro): Facilitates TypeScript package distribution to npm with step-by-step guidance and integration with Roo Code's Boomerang Mode.
 - [toyamarinyon/deepwiki-mcp](https://github.com/toyamarinyon/deepwiki-mcp): Facilitates integration with deepwiki through a customizable MCP server interface.
