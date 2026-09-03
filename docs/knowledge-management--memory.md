@@ -2,6 +2,7 @@
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [SmartRoot7/clideck-mcp](https://github.com/SmartRoot7/clideck-mcp): Free, open-source remote MCP server for verified, version-aware network knowledge, with deterministic answers, change review, snapshot analysis, upgrade guidance, and topology analysis. Endpoint: `https://mcp.clideck.com/mcp`. Transport: `streamable-http`; no auth. Official Registry: `com.clideck/network-knowledge`.
 - [savestatedev/savestate](https://github.com/savestatedev/savestate): Encrypted portable memory for AI agents. Snapshots that survive the chat for Cursor, Claude Code, and Clawdbot. Site: https://savestate.dev/when-the-thread-dies. Install: `npx @savestate/cli`.
 - [datamcp Agent Memory](https://datamcp.app/mcp-memory-server): Hosted remote MCP memory server for structured shared project context. Agents can search prior project work with PostgreSQL full-text search, append structured progress, decisions, bugs, and handoffs, and read reviewed canonical Rules and Project Summary through project-scoped links with controlled access modes. Connect through a generated per-link HTTPS endpoint. Transport: `streamable-http`. Auth: bearer. Clients: Claude, Cursor, Codex, and compatible remote-MCP clients. Docs: https://datamcp.app/docs#agent-memory. Official Registry: `io.github.mironovisa/datamcp`.
 
