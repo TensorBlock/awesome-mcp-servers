@@ -5,13 +5,56 @@
     "issue": 2133,
     "projectUrl": "https://lodestarstamp.com"
   },
+  "description": "Read-only stdio MCP server for dated trust receipts on named entities before agent actions, backed by Lodestar Stamp's public discovery card and REST API.",
+  "category": "Security",
+  "links": {
+    "docs": "https://lodestarstamp.com/docs",
+    "endpoint": "https://lodestarstamp.com/.well-known/mcp.json"
+  },
+  "install": {
+    "commands": [
+      "npx -y lodestar-stamp-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "The public REST path and stdio MCP package do not require an API key."
+    ]
   },
   "clients": [
     "Cursor",
-    "any agent that can GET HTTPS"
+    "Claude Desktop",
+    "Claude Code",
+    "Codex",
+    "other stdio MCP clients"
   ],
-  "license": "unknown"
+  "tools": {
+    "count": 2,
+    "names": [
+      "get_receipt",
+      "list_index"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Website, docs, llms.txt, discovery card, public REST endpoints, and npm package metadata were reachable during maintainer review.",
+      "The discovery card advertises the stdio MCP package lodestar-stamp-mcp."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@banjoventures"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "license": "MIT"
 }
