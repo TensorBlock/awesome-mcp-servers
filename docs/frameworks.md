@@ -233,3 +233,4 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 
 
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp): An AI Agents framework providing 64+ built-in MCP tools for search, memory management, workflow orchestration, code execution, and file operations. Install via uvx praisonai-mcp.
+- [ReadyAgents](https://github.com/readyagents/readyagents-core): Local one-shot YAML/JSON agent workflow CLI with tools, approvals, resume, and an optional stdio MCP server for built-in tools. Install: `pip install "readyagents[mcp]"`; run `readyagents mcp serve`. Apache-2.0, BYOK.
