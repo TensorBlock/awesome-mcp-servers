@@ -2,6 +2,8 @@
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [n3wth/r3](https://github.com/n3wth/r3): Persistent memory for AI assistants (MCP). Site: https://r3.n3wth.com. Install: `npx @n3wth/r3`.
+
 - [savestatedev/savestate](https://github.com/savestatedev/savestate): Encrypted portable memory for AI agents. Snapshots that survive the chat for Cursor, Claude Code, and Clawdbot. Site: https://savestate.dev/when-the-thread-dies. Install: `npx @savestate/cli`.
 - [datamcp Agent Memory](https://datamcp.app/mcp-memory-server): Hosted remote MCP memory server for structured shared project context. Agents can search prior project work with PostgreSQL full-text search, append structured progress, decisions, bugs, and handoffs, and read reviewed canonical Rules and Project Summary through project-scoped links with controlled access modes. Connect through a generated per-link HTTPS endpoint. Transport: `streamable-http`. Auth: bearer. Clients: Claude, Cursor, Codex, and compatible remote-MCP clients. Docs: https://datamcp.app/docs#agent-memory. Official Registry: `io.github.mironovisa/datamcp`.
 
