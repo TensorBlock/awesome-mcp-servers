@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-akzar1el-mcp-gsc-e469b5b3",
+  "source": {
+    "projectUrl": "https://github.com/AKzar1el/mcp-gsc"
+  },
+  "description": "Google Search Console MCP by DigestSEO for search analytics, clicks, impressions, CTR, rankings, URL inspection, sitemap management, indexing workflows, SEO diagnostics, comparisons, and weekly reports.",
+  "category": "Search",
+  "links": {
+    "docs": "https://digestseo.com/gsc-mcp/",
+    "endpoint": "https://mcp-gsc.digestseo.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Google OAuth is used for Search Console access. The hosted DigestSEO endpoint opens the Google sign-in flow; self-hosted Cloudflare Worker deployments provide their own Google OAuth configuration."
+    ]
+  },
+  "clients": [
+    "Claude.ai and Claude Code",
+    "Cursor",
+    "ChatGPT",
+    "Kiro",
+    "other MCP clients supporting Streamable HTTP"
+  ],
+  "tools": {
+    "count": 17,
+    "names": [
+      "server.capabilities",
+      "sites.list",
+      "analytics.query",
+      "urls.inspect",
+      "sitemaps.list",
+      "sites.add",
+      "sites.delete",
+      "sitemaps.submit",
+      "sitemaps.delete",
+      "sitemaps.get",
+      "insights.quick_wins",
+      "insights.cannibalization",
+      "insights.content_decay",
+      "indexing.request",
+      "indexing.list_pages",
+      "analytics.compare",
+      "reports.weekly_digest"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata matches the public repository README and documented DigestSEO-hosted Streamable HTTP endpoint. The npm self-hosting launcher starts a local Cloudflare Workers HTTP server, so TensorBlock client config should prefer the hosted /mcp endpoint rather than treat the npm command as a stdio MCP process."
+    ]
+  }
+}

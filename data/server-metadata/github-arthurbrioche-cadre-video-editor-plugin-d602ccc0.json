@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-arthurbrioche-cadre-video-editor-plugin-d602ccc0",
+  "source": {
+    "issue": 1966,
+    "projectUrl": "https://github.com/ArthurBrioche/cadre-video-editor-plugin"
+  },
+  "description": "Official MIT-licensed local Claude plugin and stdio MCP bridge for Cadre, an Apple Silicon macOS screen recorder and non-destructive video editor. With Cadre open, agents can record, inspect timelines, apply reversible cuts, zooms, captions and styling, save, preview, and export MP4. Recording, editing, and preview are free; Cadre Pro is required only for export.",
+  "links": {
+    "docs": "https://cadre.cam/agents.html"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "The stdio process needs no user-supplied credential. It reads Cadre's per-launch rotating bearer token from a private mode-0600 connection file and uses it only for authenticated 127.0.0.1 loopback requests."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "local Cowork",
+    "Claude Code"
+  ],
+  "tools": {
+    "count": 57,
+    "names": [],
+    "source": "self_reported"
+  },
+  "license": "MIT for the plugin; the required Cadre companion app is proprietary",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Issue #1966 was submitted by the Cadre project maintainer. The public plugin README, plugin manifest, evidence page, and current Agent API documentation support the transport, local bearer-token boundary, docs URL, license split, supported clients, and 57-tool count."
+    ]
+  }
+}

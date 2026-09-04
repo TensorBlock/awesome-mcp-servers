@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-melaya-labs-melaya-mcp-b2f67869",
+  "source": {
+    "issue": 2129,
+    "projectUrl": "https://github.com/melaya-labs/melaya-mcp"
+  },
+  "description": "Hosted remote MCP for controlling a user-paired Android phone and browser, plus authoring, previewing, scheduling, and running Melaya agent pipelines.",
+  "category": "AI & LLM Integration",
+  "links": {
+    "docs": "https://github.com/melaya-labs/melaya-mcp",
+    "endpoint": "https://api.melaya.org/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http melaya https://api.melaya.org/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with PKCE and RFC 7591 dynamic client registration.",
+      "Users approve scopes in a browser; there is no API key or environment variable to paste."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "other Streamable HTTP MCP clients"
+  ],
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and OAuth protected-resource discovery document were reachable during maintainer review.",
+      "Hosted MCP endpoint returned method-gated MCP status during review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@melaya-labs"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "license": "Apache-2.0"
+}

@@ -2,6 +2,7 @@
 
 Servers interacting with build systems, containerization, CI/CD, or deployment platforms.
 
+- [plyo-dev/plyo-mcp](https://github.com/plyo-dev/plyo-mcp): Saves every AI work session as a restorable checkpoint on Plyo (plyo.dev), publishes the project to a live URL with a pre-publish secret-key scan, and backs up its database. Built for people who build with AI and don't read code. Install: `claude mcp add plyo -e PLYO_TOKEN=... -- npx plyo-mcp`. Stdio transport. MIT.
 - [friendlygeorge/docker-mcp-server](https://github.com/friendlygeorge/docker-mcp-server): Docker MCP server for container management, health checks, auto-restart, Compose lifecycle, log streaming, image, volume, network, and system diagnostics workflows. Install: `npx @supernova123/docker-mcp-server`. Stdio transport; no auth beyond local Docker socket access. MIT.
 - [zenoengine/msbuild-mcp-server](https://github.com/zenoengine/msbuild-mcp-server): Automates MSBuild project builds with dynamic discovery and customizable configurations, integrating seamlessly with various MCP clients.
 - [radostkali/gitlab-mcp-server](https://github.com/radostkali/gitlab-mcp-server): Facilitates GitLab integration using FastMCP for streamlined code review and repository management.
@@ -17,7 +18,6 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [yodablocks/mcp-installer.0](https://github.com/yodablocks/mcp-installer.0): Facilitates the installation of MCP servers from npm or PyPi using Claude, streamlining server setup processes.
 - [akr4/claude-code-mcp-docker](https://github.com/akr4/claude-code-mcp-docker): A Docker container for running Claude Code MCP server with enhanced security features, including a network firewall to prevent unauthorized outbound connections.
 - [sakomws/mcp-cf-deploy](https://github.com/sakomws/mcp-cf-deploy): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [hiroooo000/mydockers](https://github.com/hiroooo000/mydockers): Facilitates browser automation using Playwright within a Dockerized MCP server environment.
 - [dandacompany/webhook-trigger](https://github.com/dandacompany/webhook-trigger): Facilitates dynamic webhook transmission using FastMCP framework with support for various HTTP methods and custom headers.
 - [base/base-builder-mcp](https://github.com/base/base-builder-mcp): Facilitates integration with Base Docs for Model Context Protocol, enabling seamless interaction with Base Builders.
 - [snowsky/mcp-helmfile](https://github.com/snowsky/mcp-helmfile): Facilitates Helmfile command execution and management through a standardized MCP interface, enhancing AI-assisted deployments and configurations.
@@ -91,3 +91,4 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [Bigsy/maven-mcp-server](https://github.com/Bigsy/maven-mcp-server): Facilitates LLMs in verifying and retrieving Maven dependency versions from the Maven Central Repository.
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp): Facilitates Docker container and stack management through Claude AI with a Model Context Protocol server.
 - [solomon2773/nora](https://github.com/solomon2773/nora): Deploy, inspect, start, stop, restart, redeploy, and monitor self-hosted OpenClaw and Hermes agent fleets through a Nora control plane, including fleet health, metrics, events, versions, and per-agent cost.
+- [harvis.dev](https://harvis.dev): Publishes static sites from AI agents via a deploy_site tool that returns a live URL. Remote Streamable HTTP endpoint at https://harvis.dev/api/mcp; open access, no auth or account required.

@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-paidsync-paidsync-mcp-a17b0ff1",
+  "source": {
+    "issue": 581,
+    "projectUrl": "https://github.com/PaidSync/paidsync-mcp"
+  },
+  "description": "Hosted advertising MCP server that lets agents audit, manage, and create campaigns across major ad platforms plus GA4, Google Tag Manager, Search Console, and Merchant Center through a thin dispatcher.",
+  "links": {
+    "docs": "https://paidsync.ai/docs",
+    "endpoint": "https://mcp.paidsync.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "Connect an MCP-compatible HTTP client to https://mcp.paidsync.ai/mcp?key=YOUR_API_KEY"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "The README documents per-user MCP URLs with an API key query parameter, for example https://mcp.paidsync.ai/mcp?key=YOUR_API_KEY."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "claude.ai",
+    "Claude Code",
+    "ChatGPT",
+    "Gemini",
+    "Cursor",
+    "Windsurf",
+    "MCP-compatible clients"
+  ],
+  "tools": {
+    "count": 430,
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Issue #581 submitted older 309-tool metadata. The current public README now reports 430+ tools across 13 platforms, a Streamable HTTP MCP URL, API-key auth, free tier, and MIT license. The tool count remains self-reported."
+    ]
+  }
+}

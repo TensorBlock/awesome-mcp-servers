@@ -1,0 +1,67 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-akzar1el-mcp-geo-0608bb33",
+  "source": {
+    "projectUrl": "https://github.com/AKzar1el/mcp-geo"
+  },
+  "description": "DigestSEO GEO Tracker measures brand citations and share of voice across ChatGPT, Claude, Perplexity, Gemini, and Google AI Overviews, with visibility history, competitor comparison, citation evidence, and content-gap recommendations.",
+  "category": "Marketing, Sales & CRM",
+  "links": {
+    "docs": "https://digestseo.com/geo-mcp/",
+    "endpoint": "https://geo-mcp.digestseo.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @digestseo/mcp-geo"
+    ],
+    "env": [
+      "OPENAI_API_KEY",
+      "ANTHROPIC_API_KEY",
+      "GEMINI_API_KEY",
+      "PERPLEXITY_API_KEY",
+      "SERPAPI_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Local stdio uses operator-supplied engine API keys and activates only configured engines. The hosted DigestSEO Streamable HTTP endpoint uses OAuth and does not expose engine API keys to the client."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Kiro",
+    "ChatGPT",
+    "Codex",
+    "other MCP clients"
+  ],
+  "tools": {
+    "count": 9,
+    "names": [
+      "check_visibility",
+      "get_visibility_history",
+      "compare_competitors",
+      "get_citations",
+      "get_content_gaps",
+      "refresh_brand",
+      "track_brand",
+      "list_brands",
+      "generate_prompts"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata matches the public README, MCP Registry-compatible server.json, published @digestseo/mcp-geo npm package, and documented DigestSEO hosted endpoint."
+    ]
+  }
+}

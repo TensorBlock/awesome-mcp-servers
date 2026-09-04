@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rccaoki-wq-license-guard-1818e624",
+  "source": {
+    "issue": 1948,
+    "projectUrl": "https://github.com/rccaoki-wq/license-guard"
+  },
+  "links": {
+    "docs": "https://github.com/rccaoki-wq/license-guard#readme",
+    "endpoint": "https://licenseguard.tenchorooms.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add licenseguard --transport http https://licenseguard.tenchorooms.com/mcp",
+      "docker run -i --rm ghcr.io/rccaoki-wq/license-guard:1.1.0"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No API key, OAuth token, bearer token, or environment variable is required for the hosted stateless Streamable HTTP endpoint."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Any MCP client"
+  ],
+  "tools": {
+    "count": 3,
+    "names": [
+      "check_dependency_license",
+      "check_manifest_licenses",
+      "explain_license"
+    ],
+    "source": "verified"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "tools/list on https://licenseguard.tenchorooms.com/mcp returned check_dependency_license, check_manifest_licenses, and explain_license without credentials on 2026-08-25. Metadata also matches issue #1948 and the public repository README.",
+      "Profile claimed by @rccaoki-wq in issue #1949 under the community profile-claim process; claim status is separate from TensorBlock verification."
+    ]
+  },
+  "description": "MCP server and web tool that checks whether an open source dependency creates license obligations for a specific shipping model, citing the relevant license clause instead of emitting a generic risk score.",
+  "community": {
+    "maintainedBy": [
+      "@rccaoki-wq"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

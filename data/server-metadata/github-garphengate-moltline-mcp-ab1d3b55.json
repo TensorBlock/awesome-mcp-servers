@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-garphengate-moltline-mcp-ab1d3b55",
+  "source": {
+    "issue": 1802,
+    "projectUrl": "https://github.com/GarphenGate/moltline-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.moltlinestudio.com/catalog",
+    "docs": "https://moltlinestudio.com/servers.html"
+  },
+  "install": {
+    "commands": [
+      "git clone https://github.com/GarphenGate/moltline-mcp && python3 moltline_mcp.py timeops",
+      "docker build -t moltline-mcp . && docker run -i --rm moltline-mcp timeops"
+    ],
+    "env": [
+      "MOLTLINE_LICENSE",
+      "MOLTLINE_TIMEOUT",
+      "MOLTLINE_BASE_URL",
+      "MOLTLINE_DEBUG"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No auth is required for the free tier. Premium tools take a licence as the X-Moltline-License request header; the stdio bridge reads it from the MOLTLINE_LICENSE environment variable and deliberately keeps it out of argv and out of the URL."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other"
+  ],
+  "license": "MIT",
+  "description": "Search and use the Moltline fleet of 19 hosted MCP servers for code review, agent governance, prompt-injection scanning, business-day and SLA math, CSV/A-B/cohort analytics, unit economics, commerce math, writing/readability analysis, outreach auditing, research statistics, and SKILL.md linting, plus a catalog server that searches 138 agent skills and personas and 12 kits.",
+  "tools": {
+    "count": 132,
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Issue #1802 reports 14 active hosted MCP servers under the DNS-verified com.moltlinestudio namespace, with docs at https://moltlinestudio.com/servers.html and health at https://mcp.moltlinestudio.com/health.",
+      "Profile claimed by @GarphenGate in #1898 under the community profile-claim process; requested metadata matches the existing category, transport, auth, install confidence, and MIT license sidecar values.",
+      "Refreshed 2026-08-25 against the vendor's own machine-readable surfaces: https://moltlinestudio.com/.well-known/pricing reports 19 servers and 92 of 132 tools free, and the live catalog endpoint reports 138 skills and personas and 12 kits. The earlier 14-server / 35-tool figures and the \"license as a tool argument\" note were stale."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@GarphenGate"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
