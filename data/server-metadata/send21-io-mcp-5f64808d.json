@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "send21-io-mcp-5f64808d",
+  "source": {
+    "issue": 2167,
+    "projectUrl": "https://send21.io/mcp"
+  },
+  "links": {
+    "endpoint": "https://send21.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "mcp.json: https://send21.io/.well-known/mcp.json"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Cursor",
+    "Claude Desktop",
+    "other MCP clients that support Streamable HTTP"
+  ],
+  "license": "unknown"
+}
