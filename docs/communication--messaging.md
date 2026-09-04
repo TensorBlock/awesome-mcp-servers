@@ -2,6 +2,7 @@
 
 Servers for interacting with email, chat platforms, SMS, or notification services.
 
+- [Pilot Protocol](https://github.com/pilot-protocol/pilot-mcp): Connects MCP clients to a specialist-agent directory and peer-to-peer agent messaging. Install: `npx -y pilotprotocol-mcp setup`.
 - [cappyeo/discord-mcp](https://github.com/cappyeo/discord-mcp): Caller-owned Discord operations for AI agents with 208 typed tools, explicit bot/guild boundaries, resumable builds, and Activity Evidence. Install: `npx -y @discord-mcp/cli@0.22.0`.
 - [bekservice/Famulor-MCP](https://github.com/bekservice/Famulor-MCP): Official hosted Famulor MCP server for operating voice assistants, communication history, calls, messaging, campaigns, knowledge, automations, telephony, and workspace settings. Remote endpoint: `https://app.famulor.io/mcp` (Streamable HTTP, OAuth 2.1). 282 tools across 13 toolsets. MIT. Docs at https://docs.famulor.io/en/api-reference/introduction.
 - [anipotts/imessage-mcp](https://github.com/anipotts/imessage-mcp): iMessage MCP server for sending and reading Apple Messages on macOS. Install: `npx imessage-mcp`.
