@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "send21-io-mcp-5f64808d",
+  "source": {
+    "issue": 2167,
+    "projectUrl": "https://send21.io/mcp"
+  },
+  "description": "Hosted MCP server for preparing non-custodial BTC, USDC, USDT, and EURC payment drafts, pay links, transaction templates, rates, and fees.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://send21.io/llms.txt",
+    "endpoint": "https://send21.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "Add https://send21.io/mcp as a remote Streamable HTTP MCP connector with Authorization: Bearer s21_<key>"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "tools/list works unauthenticated.",
+      "Tool calls require Authorization: Bearer s21_<key>; scoped API keys are created by the account owner at https://send21.io/api-keys."
+    ]
+  },
+  "clients": [
+    "Cursor",
+    "Claude Desktop",
+    "other MCP clients that support Streamable HTTP"
+  ],
+  "tools": {
+    "count": 9,
+    "names": [
+      "create_draft",
+      "get_draft",
+      "get_draft_status",
+      "get_transaction_template",
+      "create_payment_request",
+      "get_payment_request",
+      "list_address_book",
+      "get_rate",
+      "get_fee_schedule"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Website, llms.txt, discovery card, OpenAPI metadata, and hosted MCP endpoint were reachable during maintainer review.",
+      "Hosted MCP endpoint returned method-gated MCP status during review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@send21io"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "license": "unknown"
+}
