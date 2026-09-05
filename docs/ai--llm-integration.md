@@ -453,9 +453,7 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [omar-hussain/my-full-stack-app](https://github.com/omar-hussain/my-full-stack-app): A production-ready Next.js template with integrated authentication, Stripe payments, and Supabase, featuring AI-powered development capabilities through MCP.
 - [uraoz/bouyomichan-mcp-nodejs](https://github.com/uraoz/bouyomichan-mcp-nodejs): Provides AI assistants like Claude with text-to-speech capabilities using Bouyomi-chan via a Node.js MCP server.
 - [MGDS01/docusign-test-typescript-sdk](https://github.com/MGDS01/docusign-test-typescript-sdk): A developer-friendly, type-safe TypeScript SDK that integrates with the Docusign API and can be deployed as an MCP server for AI applications.
-- [hpkv-io/memory-mcp-server](https://github.com/hpkv-io/memory-mcp-server): Enhances AI coding assistants in Cursor IDE with long-term memory capabilities, enabling them to remember project structures, user preferences, and previous interactions.
 - [seedprod/remote-mcp-server](https://github.com/seedprod/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [istinyepark/remote-mcp-server](https://github.com/istinyepark/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [timjuenemann/wikipedia-mcp](https://github.com/timjuenemann/wikipedia-mcp): Facilitates AI-driven searches and retrieval of Wikipedia articles using the Model Context Protocol.
 - [BioContext/UniProt-MCP](https://github.com/BioContext/UniProt-MCP): Facilitates LLMs like Claude to access and retrieve detailed protein and proteomics data from the UniProt database.
 - [mgraczyk/json-query-mcp](https://github.com/mgraczyk/json-query-mcp): Empower AI agents to efficiently query and extract data from large JSON files using JSONPath expressions.
@@ -465,7 +463,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [paulobrien/remote-mcp-server](https://github.com/paulobrien/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [alanagoyal/mcp-server](https://github.com/alanagoyal/mcp-server): Provides AI assistants with information about Alana Goyal and Basecase, integrating with popular AI development environments.
 - [llucbrell/chat-with-fhir-mcp-server](https://github.com/llucbrell/chat-with-fhir-mcp-server): A TypeScript-based server enabling interaction with FHIR resources through MCP, integrating tools for resource search and retrieval.
-- [irvinebroque/remote-mcp-server-20](https://github.com/irvinebroque/remote-mcp-server-20): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with Claude Desktop and MCP Inspector.
 - [Sharunikaa/mcp-integration-project](https://github.com/Sharunikaa/mcp-integration-project): A project showcasing MCP integration with GitHub, Slack, file systems, and browser automation for enhanced note management.
 - [hfujikawa77/ardupilot-mcp-server-sandbox](https://github.com/hfujikawa77/ardupilot-mcp-server-sandbox): Facilitates natural language control of ArduPilot drones through LLM integration, accessible via Claude Desktop and Cline.
 - [moonbirdai/mixpanel-mcp-server](https://github.com/moonbirdai/mixpanel-mcp-server): Integrates Mixpanel analytics into AI workflows, enabling AI assistants to track events, page views, and user profiles.
@@ -528,7 +525,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [LemonNekoGH/airi-android](https://github.com/LemonNekoGH/airi-android): Facilitates LLM interaction with Android devices through an MCP server, leveraging Docker for deployment.
 - [iic-llm-solution/mcp-quanmiao-hotnews](https://github.com/iic-llm-solution/mcp-quanmiao-hotnews): Aggregates real-time hot news using Alibaba Cloud's Bailian API, offering both Node.js and Python implementations.
 - [piolla/pkkTUBE](https://github.com/piolla/pkkTUBE): Facilitates YouTube search, summarization, and channel analysis with a YouTube MCP Agent, storing task history for enhanced search capabilities.
-- [jinhyeong-choi/agent-backend](https://github.com/jinhyeong-choi/agent-backend): A Python-based MCP server template utilizing FastAPI for creating customizable endpoints and integrating with various AI clients.
 - [larksuite/lark-openapi-mcp](https://github.com/larksuite/lark-openapi-mcp): Facilitates seamless integration of AI agents with Feishu/Lark through a comprehensive OpenAPI MCP toolkit, enabling automation in document processing, conversation management, and more.
 - [uraoz/bouyomichan-mcp](https://github.com/uraoz/bouyomichan-mcp): Enables AI assistants like Claude to utilize Bouyomi-chan for text-to-speech capabilities via an MCP server.
 - [SmartTokenLabs/TransactionSimulatorMCP](https://github.com/SmartTokenLabs/TransactionSimulatorMCP): AI-driven analysis of Ethereum transactions, simulating outcomes and providing insights on token balances and gas costs.
@@ -554,7 +550,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [takeyaqa/pict-mcp](https://github.com/takeyaqa/pict-mcp): Facilitates pairwise independent combinatorial testing for MCP environments.
 - [MiniMax-AI/MiniMax-MCP-JS](https://github.com/MiniMax-AI/MiniMax-MCP-JS): Seamlessly integrates MiniMax's AI capabilities for image, video, and voice processing through a JavaScript implementation of the Model Context Protocol.
 - [GenerativeAgents/middleman-mcp](https://github.com/GenerativeAgents/middleman-mcp): Middleman-MCP facilitates seamless API key management and server execution for MCP applications.
-- [heygen-com/heygen-mcp](https://github.com/heygen-com/heygen-mcp): Facilitates avatar and video generation through the HeyGen API for MCP clients like Claude Desktop.
 - [abhijithk1/omni-server](https://github.com/abhijithk1/omni-server): Omni Server is a Python-based MCP server designed to help developers understand and implement MCP-based applications, with seamless integration into Claude Desktop.
 - [chenhunghan/keycloak-doc-mcp](https://github.com/chenhunghan/keycloak-doc-mcp): Fetches the latest Keycloak documentation in a format optimized for language model processing.
 - [mindverse/Second-Me-Mcp](https://github.com/mindverse/Second-Me-Mcp): This repository provides a chat client leveraging OpenAI's GPT model and MCP tool service for dynamic tool function execution based on user intent.
