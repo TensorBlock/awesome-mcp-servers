@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cello305-carddeals-mcp-e150b5c7",
+  "source": {
+    "issue": 2191,
+    "projectUrl": "https://github.com/cello305/carddeals-mcp"
+  },
+  "links": {
+    "endpoint": "https://catalog.carddeals.co/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Roo Code",
+    "LibreChat"
+  ],
+  "license": "MIT"
+}
