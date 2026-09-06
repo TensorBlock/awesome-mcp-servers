@@ -567,7 +567,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [mordonez/mcp-example-basic](https://github.com/mordonez/mcp-example-basic): Provides weather alerts and forecasts across the U.S. using the National Weather Service API, integrated with Claude Desktop.
 - [lemannrus/personal-assistant-mcp](https://github.com/lemannrus/personal-assistant-mcp): A versatile personal assistant server that seamlessly integrates with Google Calendar, Obsidian Vault, Trello, and offers web page parsing capabilities.
 - [302ai/302_basic_mcp](https://github.com/302ai/302_basic_mcp): A basic MCP server designed for integration with Claude Desktop, featuring development tools and debugging support.
-- [NextFEM/MCPserver](https://github.com/NextFEM/MCPserver): Facilitates AI chat integration by connecting NextFEM Designer with Claude AI through a local MCP server.
 - [lasso-security/mcp-gateway](https://github.com/lasso-security/mcp-gateway): MCP Gateway centralizes and enhances AI infrastructure by orchestrating multiple MCP servers, providing a unified interface, and ensuring secure data handling with advanced guardrails.
 - [iflytek/ifly-spark-agent-mcp](https://github.com/iflytek/ifly-spark-agent-mcp): Facilitates task chain invocation on the iFlytek SparkAgent Platform using MCP Server.
 - [brs98/linear-mcp](https://github.com/brs98/linear-mcp): Integrates AI models with Linear's API for seamless project and issue management through standardized MCP tools.
@@ -576,7 +575,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [tallamjr/mcp-test-weather](https://github.com/tallamjr/mcp-test-weather): A demonstration MCP server for executing weather-related commands using the Claude framework.
 - [Debargho99/MCP-Agentic-RAG](https://github.com/Debargho99/MCP-Agentic-RAG): Enhances coding environments with a Retrieval-Augmented Generation pipeline using intelligent agents and Model Context Protocols for enriched development workflows.
 - [stephen9412/fastmcp-template](https://github.com/stephen9412/fastmcp-template): A lightweight template for developing and publishing FastMCP servers with TypeScript support and stateless design for npx compatibility.
-- [sidhyaashu/ollama-mcp-integration](https://github.com/sidhyaashu/ollama-mcp-integration): Integrate advanced MCP server capabilities with uv, llama-index, and Ollama for seamless AI agent orchestration and local LLM management.
 - [ChenKun1997/mcp-demo](https://github.com/ChenKun1997/mcp-demo): Node.js server enabling filesystem operations through Model Context Protocol, supporting file manipulation, directory management, and metadata retrieval.
 - [M6saw0/llms_txt_rag](https://github.com/M6saw0/llms_txt_rag): Facilitates retrieval of relevant information from GitHub repositories using llms.txt with an MCP server and client setup.
 - [dangdinhchung/demo-ai-cursor](https://github.com/dangdinhchung/demo-ai-cursor): An advanced e-learning platform integrating MCP servers for seamless online course management and intelligent learning support.
@@ -677,7 +675,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [chew-z/TimeMCP](https://github.com/chew-z/TimeMCP): A Golang-based server offering time and timezone conversion tools through the Model Control Protocol.
 - [cristianoliveira/swaywm-mcp](https://github.com/cristianoliveira/swaywm-mcp): Facilitates interaction with the SwayWM window manager through an LLM and MCP client, enabling dynamic control and data access.
 - [bee1194/weather-mpc-s](https://github.com/bee1194/weather-mpc-s): A Model Context Protocol server built with mcp-framework, designed for easy tool integration and deployment.
-- [osushinekotan/chromadb-fastapi-mcp](https://github.com/osushinekotan/chromadb-fastapi-mcp): Integrates ChromaDB with FastAPI to function as an MCP server, enabling efficient document management and querying through API endpoints.
 - [yuzujoe/newrelic-change-tracking-mcp-server](https://github.com/yuzujoe/newrelic-change-tracking-mcp-server): Facilitates integration with New Relic Change Tracking through chat interfaces, enabling easy recording of deployment events.
 - [pottekkat/dicedb-mcp](https://github.com/pottekkat/dicedb-mcp): Facilitates AI applications to interact with DiceDB databases using the Model Context Protocol.
 - [BirajMainali/poratiner-ce-mcp-server](https://github.com/BirajMainali/poratiner-ce-mcp-server): Facilitates AI-driven management of Docker containers and services via Portainer's API.
@@ -756,7 +753,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [ioehub/ioehub-mcp-time-server](https://github.com/ioehub/ioehub-mcp-time-server): Provides reliable and comprehensive time information to AI models via the MCP protocol, ensuring seamless integration with platforms like Claude and Cursor.
 - [daigo38/g-shell-mcp](https://github.com/daigo38/g-shell-mcp): G-Shell MCP facilitates efficient execution and management of Google Apps Script projects, enabling seamless interaction with Google services through natural language operations.
 - [majie1993/remote-mcp-server](https://github.com/majie1993/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [nCrom/readme-updater-mcp](https://github.com/nCrom/readme-updater-mcp): Enhances README.md files by analyzing semantic conflicts using Ollama and updating content accordingly.
 - [nozo-moto/my-uuid-mcp](https://github.com/nozo-moto/my-uuid-mcp): Facilitates UUID generation through a customizable MCP server setup.
 - [sebsto/mcpserverkit](https://github.com/sebsto/mcpserverkit): A Swift framework offering a high-level API for building MCP servers, simplifying tool creation and server setup.
 - [miracledevlol/remote-mcp-server](https://github.com/miracledevlol/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
@@ -765,7 +761,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [wizd/airylark-mcp-server](https://github.com/wizd/airylark-mcp-server): AiryLark MCP server offers high-precision translation services with seamless integration for AI assistants, supporting multi-language translation and comprehensive quality assessment.
 - [MorDavid/NetworksDB-MCP](https://github.com/MorDavid/NetworksDB-MCP): Integrate NetworksDB with MCP for natural language network intelligence queries, including IP geolocation and DNS analysis.
 - [cjavier/McpServerBasic](https://github.com/cjavier/McpServerBasic): Facilitates AI assistants' interaction with external services and data sources through a Model Context Protocol server compatible with Claude.
-- [Alex-air/mcp_viterbit](https://github.com/Alex-air/mcp_viterbit): Connects Viterbit ATS to Claude, offering candidate metrics and funnel insights via a FastAPI server and MCP interface.
 - [totto2727-org/mcp](https://github.com/totto2727-org/mcp): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [ashleyhindle/croft](https://github.com/ashleyhindle/croft): Enhance Laravel projects with an MCP server for improved AI pair programming and streamlined development tasks.
 - [James-Leslie/mcp-servers](https://github.com/James-Leslie/mcp-servers): A suite of local Python MCP servers designed for seamless integration with Cursor.

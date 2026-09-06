@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cello305-carddeals-mcp-e150b5c7",
+  "source": {
+    "issue": 2191,
+    "projectUrl": "https://github.com/cello305/carddeals-mcp"
+  },
+  "description": "Remote read-only MCP server for querying real-time discounted gift cards across 700+ brands and helping shopping agents find live gift card deals before checkout.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://carddeals.co/mcp",
+    "endpoint": "https://catalog.carddeals.co/mcp"
+  },
+  "install": {
+    "commands": [
+      "Add https://catalog.carddeals.co/mcp as a remote Streamable HTTP MCP connector"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The submitted endpoint is anonymous and read-only."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Roo Code",
+    "LibreChat",
+    "other Streamable HTTP MCP clients"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Project URL, documentation URL, and hosted MCP endpoint were reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@cello305"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}
