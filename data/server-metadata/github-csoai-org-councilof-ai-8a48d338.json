@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-csoai-org-councilof-ai-8a48d338",
+  "source": {
+    "issue": 2200,
+    "projectUrl": "https://github.com/CSOAI-ORG/councilof-ai"
+  },
+  "install": {
+    "commands": [
+      "npx csoai-gspc-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "npx csoai-gspc-mcp Transport: streamable-http"
+    ]
+  }
+}
