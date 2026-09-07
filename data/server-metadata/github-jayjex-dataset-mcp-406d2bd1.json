@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jayjex-dataset-mcp-406d2bd1",
+  "source": {
+    "issue": 2202,
+    "projectUrl": "https://github.com/jayjex/dataset-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:jayjex/dataset-mcp",
+      "npm 12 needs"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "pi",
+    "Codex",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}
