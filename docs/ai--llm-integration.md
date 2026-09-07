@@ -817,7 +817,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [cagritrk/spring-ai-mcp-server](https://github.com/cagritrk/spring-ai-mcp-server): A Spring-based MCP server project showcasing CRUD operations with an in-memory data store for experimenting with AI integrations.
 - [AsyncFuncAI/github-chat-mcp](https://github.com/AsyncFuncAI/github-chat-mcp): Facilitates the analysis and querying of GitHub repositories using the GitHub Chat API, enabling efficient repository indexing and information retrieval.
 - [FradSer/mcp-server-mas-sequential-thinking](https://github.com/FradSer/mcp-server-mas-sequential-thinking): A sophisticated Multi-Agent System leveraging the Agno framework for advanced sequential thinking and problem-solving, served via MCP.
-- [na06078/claude-gpt-memory-api](https://github.com/na06078/claude-gpt-memory-api): Facilitates seamless memory sharing between Claude and GPTs using a REST API, leveraging a unified knowledge graph structure.
 - [recoupable/mcp-perplexity-vercel](https://github.com/recoupable/mcp-perplexity-vercel): Access Perplexity AI's language models via a standardized MCP interface with seamless Vercel deployment.
 - [chinpeerapat/mcpo](https://github.com/chinpeerapat/mcpo): mcpo transforms MCP server commands into OpenAPI-compatible HTTP endpoints, enhancing security and interoperability with AI tools.
 - [mongte/my-mcp-server](https://github.com/mongte/my-mcp-server): Provides real-time weather information for global cities with seamless Claude AI integration.
@@ -830,7 +829,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [Laz1mov/mcp-inscription](https://github.com/Laz1mov/mcp-inscription): Facilitates AI interaction with Bitcoin Ordinals inscriptions, integrating seamlessly with Goose and Claude Desktop for content retrieval and display.
 - [megmogmog1965/example-mcp-server](https://github.com/megmogmog1965/example-mcp-server): Provides example code for setting up an Anthropic MCP server to integrate with Claude Desktop.
 - [kld3v/reed_jobs_mcp](https://github.com/kld3v/reed_jobs_mcp): Integrates with the Reed Jobs API to enable job search and retrieval through a Model Context Protocol server, supporting advanced filtering and remote work options.
-- [mcpflow/esa-mcp-server](https://github.com/mcpflow/esa-mcp-server): Facilitates the integration of ESA.io data into Claude Desktop by providing a Model Context Protocol server.
 - [zlatanpham/ireader-mcp](https://github.com/zlatanpham/ireader-mcp): Facilitates content extraction from web pages, YouTube videos, tweets, and PDFs through a Model Context Protocol server.
 - [yansircc/remote-mcp-server](https://github.com/yansircc/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [allenbijo/gemini-live-mcp](https://github.com/allenbijo/gemini-live-mcp): Gemini Live MCP enables voice-based interaction with Gemini using the Gemini Live API and supports integration with multiple MCP servers for enhanced functionality.
@@ -893,7 +891,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [ddhar1/lastfm_mcp](https://github.com/ddhar1/lastfm_mcp): Facilitates interaction with Last.fm data, enabling Claude to retrieve user-specific and global top tracks.
 - [sumukhipandey/reddit-mcp](https://github.com/sumukhipandey/reddit-mcp): Facilitates Reddit data access and interaction through LLMs, enabling subreddit browsing, post viewing, and trending topic analysis.
 - [seyfigo/mcp](https://github.com/seyfigo/mcp): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for LLMs.
-- [r3-yamauchi/mcp-server-cli-kintone-experimental](https://github.com/r3-yamauchi/mcp-server-cli-kintone-experimental): Experimental MCP server for integrating cli-kintone functionalities, enabling record retrieval from kintone apps.
 - [alexarevalo9/ticktick-mcp-server](https://github.com/alexarevalo9/ticktick-mcp-server): Facilitates task and project management through the TickTick API with comprehensive OAuth authentication and error handling.
 - [satvikchauhan22/remote-mcp-server](https://github.com/satvikchauhan22/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [Rkm1999/Ollama-MCP-Bridge-WebUI](https://github.com/Rkm1999/Ollama-MCP-Bridge-WebUI): A web interface that connects local Ollama LLMs to MCP servers, enabling open-source models to perform file operations, web searches, and reasoning tasks on personal hardware.
@@ -948,7 +945,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp): Integrates Binary Ninja with LLM clients for enhanced reverse engineering workflows.
 - [irvinebroque/remote-mcp-server-10](https://github.com/irvinebroque/remote-mcp-server-10): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp): Facilitates AI-driven control of Unreal Engine through natural language commands using the Model Context Protocol.
-- [mdashley/codex](https://github.com/mdashley/codex): Facilitates legislative data access for LLMs using the Congress.gov API.
 - [QAInsights/jmeter-mcp-server](https://github.com/QAInsights/jmeter-mcp-server): Facilitates the execution of JMeter tests through MCP-compatible clients, enabling both GUI and non-GUI modes for enhanced performance and debugging.
 - [Nhahan/prompt-context](https://github.com/Nhahan/prompt-context): Enhances AI agents' contextual understanding by efficiently managing and summarizing conversation history through an MCP protocol.
 - [UsamaK98/python-notebook-mcp](https://github.com/UsamaK98/python-notebook-mcp): Facilitates AI-driven interactions with Jupyter notebooks, allowing creation, editing, and viewing through the Model Context Protocol.
@@ -1020,7 +1016,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [Tony-Youn/claude-figma-mcp](https://github.com/Tony-Youn/claude-figma-mcp): Facilitates seamless interaction between Cursor AI and Figma for programmatic design modifications via a TypeScript MCP server.
 - [neondatabase-labs/mcp-neon-azure-ai-agent](https://github.com/neondatabase-labs/mcp-neon-azure-ai-agent): Integrates Azure AI Agent Service with Neon Serverless Postgres using MCP to automate project and database management through natural language commands.
 - [mshojaei77/EasyMCP](https://github.com/mshojaei77/EasyMCP): Repository classified as category 0
-- [sabpap/omnillm-mcp](https://github.com/sabpap/omnillm-mcp): OmniLLM serves as a universal bridge for Claude, enabling seamless integration and querying of multiple LLMs like ChatGPT, Azure OpenAI, and Google Gemini.
 - [moritalous/mcp-tools-cli](https://github.com/moritalous/mcp-tools-cli): A command-line client for interacting with Model Context Protocol (MCP) servers, enabling users to list and call tools on specified servers.
 - [fist-maestro/mcp-servers](https://github.com/fist-maestro/mcp-servers): A collection of MCP-based services supporting Cursor IDE's intelligent features, including demo and weather services.
 - [aashari/mcp-server-atlassian-confluence](https://github.com/aashari/mcp-server-atlassian-confluence): Node.js/TypeScript server enabling AI systems to interact with Atlassian Confluence spaces and pages using the MCP interface.
