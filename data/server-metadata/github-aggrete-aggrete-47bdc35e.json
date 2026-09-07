@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aggrete-aggrete-47bdc35e",
+  "source": {
+    "issue": 2217,
+    "projectUrl": "https://github.com/Aggrete/aggrete"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @aggrete-dev in #2217 under the community profile-claim process.",
+      "Requested profile metadata in #2217: Category: Security Transport: unknown Auth: unknown Install confidence: medium License: Apache-2.0 Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@aggrete-dev"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
