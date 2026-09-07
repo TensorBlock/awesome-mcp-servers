@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-pangolin-spg-pangolinfo-mcp-475fef37",
+  "source": {
+    "issue": 2214,
+    "projectUrl": "https://github.com/Pangolin-spg/pangolinfo-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.pangolinfo.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "docker pull pangolinfo/amazon-data-mcp:latest"
+    ],
+    "env": [
+      "PANGOLINFO_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other"
+  ],
+  "license": "MIT"
+}
