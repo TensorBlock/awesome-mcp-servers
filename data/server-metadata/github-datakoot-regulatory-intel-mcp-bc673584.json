@@ -5,20 +5,44 @@
     "issue": 2225,
     "projectUrl": "https://github.com/datakoot/regulatory-intel-mcp"
   },
+  "description": "Hosted keyless MCP server for searching US Federal Register rules, notices, executive orders, full document text, and agency data.",
+  "category": "Search",
   "links": {
     "endpoint": "https://regulatory.datakoot.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http regulatory-intel https://regulatory.datakoot.com/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Keyless free tier allows 100 calls per day with no signup; optional Pro key increases limits."
+    ]
   },
   "clients": [
     "Claude",
     "Cursor",
-    "and any MCP client that speaks streamable HTTP."
+    "any Streamable HTTP MCP client"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Project URL and hosted MCP endpoint were reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@akkadempires"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
 }
