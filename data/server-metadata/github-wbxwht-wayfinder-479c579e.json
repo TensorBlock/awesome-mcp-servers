@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-wbxwht-wayfinder-479c579e",
+  "source": {
+    "issue": 2230,
+    "projectUrl": "https://github.com/WBXWHT/wayfinder"
+  },
+  "description": "Read-only stdio MCP server for locally recorded AI coding history, task trees, prompts, replies, file-change metadata, verdicts, and structured lineage.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://github.com/WBXWHT/wayfinder#readme"
+  },
+  "install": {
+    "commands": [
+      "Install https://github.com/WBXWHT/wayfinder/releases/download/v0.3.3/wayfinder-0.3.3.mcpb",
+      "npm install -g https://github.com/WBXWHT/wayfinder/releases/download/v0.3.3/wbxwht-wayfinder-0.3.3.tgz"
+    ],
+    "env": [
+      "WAYFINDER_PROJECT_DIR"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "stdio MCP clients",
+    "MCP Apps-capable clients for the interactive map"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Project URL, release downloads, and official MCP registry entry were reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@WBXWHT"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}
