@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-synthenova-infiknit-mcp-c187e2b4",
+  "source": {
+    "issue": 2244,
+    "projectUrl": "https://github.com/Synthenova/infiknit-mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Grok Build",
+    "VS Code",
+    "Cline",
+    "Copilot",
+    "Gemini CLI"
+  ],
+  "license": "MIT"
+}
