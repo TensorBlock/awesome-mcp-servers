@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-yubinbin32-ops-mdflow-canvas-ac4ce083",
+  "source": {
+    "issue": 2242,
+    "projectUrl": "https://github.com/yubinbin32-ops/Mdflow-Canvas"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:yubinbin32-ops/Mdflow-Canvas serve"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Cursor",
+    "Claude Desktop",
+    "Codex",
+    "OpenCode",
+    "Google Antigravity"
+  ],
+  "license": "MIT"
+}
