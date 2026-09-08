@@ -5,6 +5,8 @@
     "issue": 2242,
     "projectUrl": "https://github.com/yubinbin32-ops/Mdflow-Canvas"
   },
+  "description": "Stdio MCP server for querying a Git-tracked architecture graph, streaming task-scoped AST code, mutating bound symbols with verification and rollback, and sanitizing terminal logs into failure evidence.",
+  "category": "Developer Productivity & Utilities",
   "install": {
     "commands": [
       "npx -y github:yubinbin32-ops/Mdflow-Canvas serve"
@@ -26,5 +28,18 @@
     "OpenCode",
     "Google Antigravity"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Project URL was reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@yubinbin32-ops"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
 }
