@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-explorium-ai-vibeprospecting-mcp-37211cd8",
+  "source": {
+    "issue": 2246,
+    "projectUrl": "https://github.com/explorium-ai/vibeprospecting-mcp"
+  },
+  "links": {
+    "endpoint": "https://vibeprospecting.explorium.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Codex",
+    "Gemini CLI",
+    "Cursor",
+    "Manus",
+    "Hermes"
+  ],
+  "license": "MIT"
+}
