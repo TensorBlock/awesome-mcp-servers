@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-wbxwht-wayfinder-479c579e",
+  "source": {
+    "issue": 2230,
+    "projectUrl": "https://github.com/WBXWHT/wayfinder"
+  },
+  "install": {
+    "commands": [
+      "npm install -g https://github.com/WBXWHT/wayfinder/releases/download/v0.3.3/wbxwht-wayfinder-0.3.3.tgz"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Protocol-level stdio MCP clients. Interactive HTML requires MCP Apps support",
+    "otherwise the tool returns text and structured data. Authenticated acceptance",
+    "in every named client remains pending and is not claimed."
+  ],
+  "license": "MIT"
+}
