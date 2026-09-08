@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-datakoot-regulatory-intel-mcp-bc673584",
+  "source": {
+    "issue": 2225,
+    "projectUrl": "https://github.com/datakoot/regulatory-intel-mcp"
+  },
+  "links": {
+    "endpoint": "https://regulatory.datakoot.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "and any MCP client that speaks streamable HTTP."
+  ],
+  "license": "MIT"
+}
