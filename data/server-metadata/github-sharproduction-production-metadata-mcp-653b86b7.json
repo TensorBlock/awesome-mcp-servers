@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sharproduction-production-metadata-mcp-653b86b7",
+  "source": {
+    "issue": 2271,
+    "projectUrl": "https://github.com/SHARProduction/production-metadata-mcp"
+  },
+  "install": {
+    "commands": [
+      "npm ci",
+      "node server.js"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Standard MCP-compatible clients using local stdio configuration."
+  ],
+  "license": "MIT"
+}
