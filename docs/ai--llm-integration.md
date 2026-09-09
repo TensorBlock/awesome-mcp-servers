@@ -1316,7 +1316,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [dvcrn/mcp-server-siri-shortcuts](https://github.com/dvcrn/mcp-server-siri-shortcuts): Facilitates seamless interaction with Siri Shortcuts via MCP, enabling LLMs to list, open, and execute shortcuts on macOS.
 - [junyuan-qi/lark-mcp-server](https://github.com/junyuan-qi/lark-mcp-server): Facilitates AI model interactions with Lark's collaboration tools through MCP, enabling messaging and calendar management.
 - [VectorEngineering/oppulence-backend-sdk-typescript](https://github.com/VectorEngineering/oppulence-backend-sdk-typescript): A developer-friendly, type-safe TypeScript SDK that functions as an installable MCP server, exposing various SDK methods as tools for AI applications.
-- [smithery-ai/ntropy-mcp](https://github.com/smithery-ai/ntropy-mcp): Enrich banking data using the Ntropy API with this MCP server, featuring tools for creating account holders and enriching transactions.
 - [devopsnextgenx/ai-psat-generator](https://github.com/devopsnextgenx/ai-psat-generator): Facilitates the testing and deployment of MCP servers using SSE and stdio transports.
 - [GongRzhe/Image-Generation-MCP-Server](https://github.com/GongRzhe/Image-Generation-MCP-Server): Facilitates image generation using the Replicate Flux model through an MCP server interface.
 - [jonrad/lsp-mcp](https://github.com/jonrad/lsp-mcp): Empowers AI agents with language-aware context from codebases using LSP capabilities.
@@ -1330,7 +1329,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [KYBvWHxW/advanced-nlp-entity-extraction](https://github.com/KYBvWHxW/advanced-nlp-entity-extraction): This repository implements the ReAct framework to enhance language models with reasoning and acting capabilities, integrating external knowledge sources like Wikipedia for tasks such as question answering and fact verification.
 - [KYBvWHxW/causal-reasoning-llm](https://github.com/KYBvWHxW/causal-reasoning-llm): Facilitates testing of causal reasoning in large language models across economics, meteorology, and sociology domains.
 - [AdamikHQ/adamik-mcp-server](https://github.com/AdamikHQ/adamik-mcp-server): Facilitates seamless multi-chain blockchain interactions through a unified API, supporting transaction management, account insights, and token operations across 60+ networks.
-- [quickbooks2018/ai-agents](https://github.com/quickbooks2018/ai-agents): Facilitates browser automation and AI agent deployment using MCP servers with Docker and Playwright integration.
 - [faizrazadec/MCPHostWithLLMsAndToolServers](https://github.com/faizrazadec/MCPHostWithLLMsAndToolServers): MCPHost enables LLMs to interact with external tools and system resources via MCP, facilitating tasks like file management and GitHub repository automation.
 - [philipp-eisen/modal-mcp-toolbox](https://github.com/philipp-eisen/modal-mcp-toolbox): Enhance your LLMs with tools for sandboxed Python code execution and FLUX image generation, seamlessly integrated with Modal.
 - [ZaibyS/Model-Context-Protocol](https://github.com/ZaibyS/Model-Context-Protocol): MCPHost enables LLMs to interact with external tools and system resources, facilitating tasks like file management and GitHub repository automation.
@@ -1347,7 +1345,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [baryhuang/mcp-server-any-openapi](https://github.com/baryhuang/mcp-server-any-openapi): Facilitates scalable OpenAPI endpoint discovery and API requests using in-memory semantic search and FastAPI.
 - [shilomagen/rami-levy-mcp](https://github.com/shilomagen/rami-levy-mcp): Facilitates integration of Rami Levy's e-commerce platform with MCP-enabled LLMs for online grocery shopping.
 - [mtane0412/perspective-mcp-server](https://github.com/mtane0412/perspective-mcp-server): Facilitates interaction with the Perspective API for text toxicity analysis and multi-language support.
-- [smithery-ai/mcp-deepseek-agent](https://github.com/smithery-ai/mcp-deepseek-agent): Integrates Ollama's Deepseek model with MCP protocol for seamless AI interactions.
 - [spences10/mcp-sse](https://github.com/spences10/mcp-sse): Facilitates real-time communication for MCP tools using Server-Sent Events, enhancing tool deployment and integration with Coolify.
 - [66julienmartin/MCP-server-Deepseek_R1](https://github.com/66julienmartin/MCP-server-Deepseek_R1): Connects Claude Desktop with DeepSeek's language models for advanced text generation and reasoning tasks.
 - [vrknetha/aisdk-mcp-bridge](https://github.com/vrknetha/aisdk-mcp-bridge): Facilitates seamless integration and real-time communication between MCP servers and AI SDK tools, supporting multiple server types and configurations.
@@ -1414,7 +1411,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [acxelerator/mcp-tenki](https://github.com/acxelerator/mcp-tenki): Provides real-time weather updates for Japan through an MCP server interface.
 - [Tsuchijo/sandbox-mcp](https://github.com/Tsuchijo/sandbox-mcp): Facilitates secure and isolated code execution in Docker containers with multi-language support and environment persistence.
 - [slimslenderslacks/mcp-hello-world](https://github.com/slimslenderslacks/mcp-hello-world): A simple MCP server designed for practicing MCP server packaging, featuring a basic greeting tool.
-- [orhanveli/openapi-client-generator-mcp](https://github.com/orhanveli/openapi-client-generator-mcp): Generates TypeScript API clients from OpenAPI specs using a Model Context Protocol server.
 - [gomcpgo/perplexity-mcp-server](https://github.com/gomcpgo/perplexity-mcp-server): Enables LLMs like Claude to perform real-time internet research with source citations using the Perplexity API.
 - [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking): Facilitates structured, progressive thinking by breaking down complex problems into sequential thoughts and generating summaries.
 - [matthewhand/mcp-flowise](https://github.com/matthewhand/mcp-flowise): A Python package that integrates with the Flowise API to dynamically register tools and manage chatflows using the Model Context Protocol.
@@ -1443,7 +1439,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [blake365/macrostrat-mcp](https://github.com/blake365/macrostrat-mcp): Facilitates access to comprehensive geologic data via the Macrostrat API, enhancing geological understanding through AI applications.
 - [emzimmer/server-anthropic](https://github.com/emzimmer/server-anthropic): Facilitates secure and standardized access to Anthropic's AI models via a Model Context Protocol server, enhancing context window management and API integration.
 - [misterboe/webtools-mcp-server](https://github.com/misterboe/webtools-mcp-server): A Model Context Protocol server offering advanced web analysis tools, including HTML extraction, markdown conversion, and Lighthouse-powered audits for performance, accessibility, and SEO.
-- [Sampathkumarvpatil/aitestverse](https://github.com/Sampathkumarvpatil/aitestverse): AI TestVerse empowers users to write tests in plain English, automating API, web, ETL, and JIRA testing through MCP server configurations.
 - [GongRzhe/Gmail-MCP-Server](https://github.com/GongRzhe/Gmail-MCP-Server): Facilitates AI-driven Gmail management through natural language interactions, supporting comprehensive email and label operations with auto authentication.
 - [GongRzhe/Calendar-Autoauth-MCP-Server](https://github.com/GongRzhe/Calendar-Autoauth-MCP-Server): Facilitates AI-driven management of Google Calendar events with seamless authentication in Claude Desktop.
 - [lyndoncox/token-optimization-mcp](https://github.com/lyndoncox/token-optimization-mcp): A TypeScript-based server that manages and summarizes text notes using Model Context Protocol.
