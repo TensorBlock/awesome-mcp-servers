@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "cdn-careclinic-io-mcp-help-index-html-24c773c1",
+  "source": {
+    "issue": 2257,
+    "projectUrl": "https://cdn.careclinic.io/mcp/help/index.html"
+  },
+  "links": {
+    "endpoint": "https://mcp.careclinic.io/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth OAuth 2.1 with S256 PKCE. Approved client identities and exact registered callbacks are required. CareClinic supports bounded Client ID Metadata Documents and does not expose open Dynamic Client Registration. Please preserve this..."
+    ]
+  },
+  "clients": [
+    "Use the linked CareClinic setup guide for supported client paths. This submission does not claim TensorBlock-tested client compatibility or public approval by an AI provider. Clients without CareClinic's confirmation card should be described using the read capabilities above."
+  ],
+  "license": "Proprietary hosted service. Source is private. The project URL is the public setup documentation, as permitted by..."
+}
