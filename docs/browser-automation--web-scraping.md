@@ -24,7 +24,6 @@ Servers using tools for browser control, automation, and extracting content from
 - [xinlei413/DOC-Server-MCP](https://github.com/xinlei413/DOC-Server-MCP): Fetches and searches third-party package documentation using versatile scraping and intelligent processing with hybrid search capabilities.
 - [eadm/grain-mcp-server](https://github.com/eadm/grain-mcp-server): Facilitates integration with Grain for meeting recording and transcription through browser automation, bypassing enterprise API restrictions.
 - [jobsonlook/xhs-mcp](https://github.com/jobsonlook/xhs-mcp): Facilitates interaction with Xiaohongshu by reverse-engineering JavaScript to access and manage notes and comments without Playwright.
-- [mohdsuhail007/VerbilioMCP](https://github.com/mohdsuhail007/VerbilioMCP): Facilitates seamless integration with GitHub using Verbilio MCP server for streamlined workflow automation.
 - [myzxlin/redbook-mcp](https://github.com/myzxlin/redbook-mcp): Facilitates automated publishing of text and video notes on Xiaohongshu using Playwright for browser automation.
 - [larryhudson/mcp-server-example-image-block](https://github.com/larryhudson/mcp-server-example-image-block): Provides a random image retrieval service using the Lorem Picsum API, demonstrating MCP server capabilities with image blocks.
 - [Elvis720/mcp-agent](https://github.com/Elvis720/mcp-agent): Facilitates browser automation for LLMs using Playwright's accessibility tree, enabling structured web interactions without visual models.
