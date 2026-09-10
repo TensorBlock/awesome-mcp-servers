@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "scoutee-org-en-mcp-public-tenders-1435db60",
+  "source": {
+    "issue": 2281,
+    "projectUrl": "https://scoutee.org/en/mcp-public-tenders"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Proprietary hosted service; MIT documentation"
+}
