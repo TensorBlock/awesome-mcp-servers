@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-renduples-sitepassport-mcp-e30ca83e",
+  "source": {
+    "issue": 2283,
+    "projectUrl": "https://github.com/renduples/sitepassport-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @renduples in #2283 under the community profile-claim process.",
+      "Requested profile metadata in #2283: - Homepage: https://sitepassport.org - Docs: https://sitepassport.org/methodology - Endpoint: https://sitepassport.org/.well-known/mcp.json (streamable-http, no auth) - License: MIT - Support: hello@sitepassport.org"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@renduples"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
