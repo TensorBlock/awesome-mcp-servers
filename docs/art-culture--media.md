@@ -63,7 +63,6 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 - [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw): Facilitates LLMs to interact with Excalidraw diagrams through a robust API for creating, modifying, and managing drawing elements.
 - [Zeeshanunique/figma_plugin](https://github.com/Zeeshanunique/figma_plugin): A development-focused MCP server for Cursor IDE, offering file operations, an interactive CLI, and REST API endpoints.
 - [Tomatio13/graphic-recording-mcp](https://github.com/Tomatio13/graphic-recording-mcp): Transforms Markdown text into graphic recording-style HTML using a specialized prompt.
-- [sherizan/mcp-genui-figma](https://github.com/sherizan/mcp-genui-figma): Integrates with Figma to enable AI assistants to access, analyze, and generate code from design files.
 - [ttiimmaacc/cinema4d-mcp](https://github.com/ttiimmaacc/cinema4d-mcp): Integrates Claude AI with Cinema 4D for prompt-driven 3D modeling and scene manipulation through an MCP server.
 - [mhyrr/sketchup-mcp](https://github.com/mhyrr/sketchup-mcp): Integrates Sketchup with Claude AI for interactive 3D modeling and scene manipulation via the Model Context Protocol.
 - [JayZeeDesign/figma-mcp](https://github.com/JayZeeDesign/figma-mcp): Facilitates AI coding agents' direct access to Figma files and prototypes through a Python-based MCP server.
