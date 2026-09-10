@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "powmcp-com-apps-ssl-certificate-check-98a7ce63",
+  "source": {
+    "issue": 2295,
+    "projectUrl": "https://powmcp.com/apps/ssl-certificate-check/"
+  },
+  "links": {
+    "endpoint": "https://powmcp.com/ssl-certificate-check/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  }
+}
