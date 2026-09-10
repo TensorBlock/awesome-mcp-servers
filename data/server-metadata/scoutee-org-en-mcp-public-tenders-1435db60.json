@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "scoutee-org-en-mcp-public-tenders-1435db60",
+  "source": {
+    "issue": 2281,
+    "projectUrl": "https://scoutee.org/en/mcp-public-tenders"
+  },
+  "description": "Hosted read-only public tender search MCP for Europe and North America, exposing anonymous public notice previews with buyer, location, deadline, estimated value, and Scoutee notice links.",
+  "category": "Search",
+  "links": {
+    "docs": "https://scoutee.org/en/mcp-public-tenders",
+    "endpoint": "https://scoutee.org/api/mcp/public"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http scoutee-public https://scoutee.org/api/mcp/public"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 2,
+    "names": [
+      "search_public_tenders",
+      "get_public_tender"
+    ],
+    "source": "verified"
+  },
+  "license": "Proprietary hosted service; MIT documentation",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Docs returned HTTP 200 during maintainer review on 2026-09-10.",
+      "MCP initialize returned HTTP 200 without authentication during maintainer review.",
+      "Official MCP Registry lists org.scoutee/scoutee version 1.1.0 with public endpoint https://scoutee.org/api/mcp/public."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@qchantel"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}
