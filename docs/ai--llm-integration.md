@@ -1463,7 +1463,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [Hatz-AI/hatz-ai-typescript](https://github.com/Hatz-AI/hatz-ai-typescript): Hatz AI API Typescript SDK provides a secure AI platform for MSPs and SMBs, offering an installable MCP server with various SDK methods exposed as tools for AI applications.
 - [alexwohletz/language-server-mcp](https://github.com/alexwohletz/language-server-mcp): Enhances code editing with language-specific tools and MCP protocol integration for seamless communication.
 - [bsmi021/mcp-filesystem-server](https://github.com/bsmi021/mcp-filesystem-server): Facilitates file system operations and analysis through a standardized MCP interface.
-- [punkpeye/mcp-snyk](https://github.com/punkpeye/mcp-snyk): A standalone server for integrating Snyk security scanning with Model Context Protocol, enabling repository and project vulnerability assessments.
 - [NightTrek/Ollama-mcp](https://github.com/NightTrek/Ollama-mcp): Seamlessly integrates Ollama's local LLM capabilities into MCP-powered applications, offering full API coverage and OpenAI-compatible chat features.
 - [bartwisch/MCPRules](https://github.com/bartwisch/MCPRules): Manages and serves programming guidelines and rules, integrating with development tools to ensure consistent coding standards.
 - [JoeBuildsStuff/mcp-jina-ai](https://github.com/JoeBuildsStuff/mcp-jina-ai): Facilitates web content extraction, search, and fact-checking through Jina AI's services, optimized for LLMs.
@@ -1526,7 +1525,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai): Facilitates querying OpenAI models from Claude using the MCP protocol.
 - [hasura/mcp-vs-promptql](https://github.com/hasura/mcp-vs-promptql): A customized Postgres MCP server supporting multiple databases and SQL tools with enhanced schema descriptions to improve query accuracy.
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi): Integrates Kagi's API for performing web searches and operations using a TypeScript-based MCP server.
-- [dongju93/my-mcp-claude](https://github.com/dongju93/my-mcp-claude): Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.
 - [michalnaka/mcp-substack](https://github.com/michalnaka/mcp-substack): Facilitates seamless integration of Substack content into Claude AI Desktop by downloading and parsing posts.
 - [aidenmi8/aiservers](https://github.com/aidenmi8/aiservers): Showcases diverse MCP server implementations for secure LLM access to tools and data sources.
 
