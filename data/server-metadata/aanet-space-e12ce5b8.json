@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "aanet-space-e12ce5b8",
+  "source": {
+    "issue": 2306,
+    "projectUrl": "https://aanet.space"
+  },
+  "links": {
+    "endpoint": "https://aanet.space/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "any MCP client supporting Streamable HTTP"
+  ],
+  "license": "n/a (hosted service, not an installable package)"
+}
