@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "brainscanner-dev-connect-b6b670e4",
+  "source": {
+    "issue": 2278,
+    "projectUrl": "https://brainscanner.dev/connect"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Codex"
+  ],
+  "license": "Proprietary hosted service (beta terms); private implementation, no open-source license asserted."
+}
