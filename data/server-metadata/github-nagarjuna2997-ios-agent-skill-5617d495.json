@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nagarjuna2997-ios-agent-skill-5617d495",
+  "source": {
+    "issue": 2302,
+    "projectUrl": "https://github.com/Nagarjuna2997/ios-agent-skill"
+  },
+  "install": {
+    "commands": [
+      "npx -y ios-agent-mcp@2.4.0 --project /absolute/path/to/YourApp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Setup guides for Claude",
+    "Codex and Gemini CLI",
+    "standard MCP stdio."
+  ],
+  "license": "MIT"
+}
