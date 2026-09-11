@@ -107,12 +107,10 @@ Servers using tools for browser control, automation, and extracting content from
 - [Streamline-TS/mcp-server-flyder](https://github.com/Streamline-TS/mcp-server-flyder): Facilitates Flyder workflow integration through a Model Context Protocol server.
 - [axlwolf/brave-mcp](https://github.com/axlwolf/brave-mcp): Integrates the Brave Search API to provide comprehensive web and local search capabilities with smart fallbacks and flexible filtering.
 - [302ai/302_browser_use_mcp](https://github.com/302ai/302_browser_use_mcp): Facilitates browser automation through MCP integration, compatible with Claude Desktop.
-- [mmaeso/mcp-server-scrapli](https://github.com/mmaeso/mcp-server-scrapli): Facilitates SSH interactions with network devices using Scrapli through an MCP server.
 - [vishwajeetdabholkar/eget_mcp](https://github.com/vishwajeetdabholkar/eget_mcp): Integrates eGet web scraper with Claude for Desktop, enabling seamless web content scraping and analysis through a local API.
 - [kazuph/mcp-qdrant-docs](https://github.com/kazuph/mcp-qdrant-docs): Scrapes website content, indexes it into Qdrant, and enables natural language queries about the indexed content.
 - [DevEnterpriseSoftware/scrapi-mcp](https://github.com/DevEnterpriseSoftware/scrapi-mcp): Leverage ScrAPI for seamless web scraping with advanced bot detection and geolocation bypass capabilities.
 - [dhruv01234/Mcp-playwright](https://github.com/dhruv01234/Mcp-playwright): Facilitates browser automation using Playwright with MCP server capabilities, supporting both snapshot and vision-based interactions.
-- [sizzlebop/fetch](https://github.com/sizzlebop/fetch): Fetch web content in various formats using a versatile MCP server.
 - [vikaskumarprofessional92/playwright-mcp-project](https://github.com/vikaskumarprofessional92/playwright-mcp-project): Demonstrates the integration of a Playwright MCP server with Jenkins for automated browser testing.
 - [hdcola/mcp-server-playwright](https://github.com/hdcola/mcp-server-playwright): Facilitates browser control via AI using Playwright through MCP integration.
 - [djyde/browser-mcp](https://github.com/djyde/browser-mcp): Enhance browser interaction with a versatile MCP server and extension, enabling tasks like page summarization, style modification, and history search.
@@ -158,7 +156,6 @@ Servers using tools for browser control, automation, and extracting content from
 - [Ichigo3766/crawl4ai-mcp](https://github.com/Ichigo3766/crawl4ai-mcp): Provides web crawling capabilities with markdown output and citations for LLM integration.
 - [toliuweijing/mcp-browser-automation](https://github.com/toliuweijing/mcp-browser-automation): A TypeScript-based MCP server that implements a simple notes system with tools for creating and summarizing text notes.
 - [xkiranj/playwright-universal-mcp](https://github.com/xkiranj/playwright-universal-mcp): A versatile Playwright MCP server enabling browser automation across multiple environments, including containerized setups, with support for various browsers and integration with AI assistants.
-- [pradheep3598/playwright-selector-finder](https://github.com/pradheep3598/playwright-selector-finder): Enables LLMs to interact with web pages using Playwright's accessibility tree for browser automation.
 - [Selenium39/mcp-server-weibo](https://github.com/Selenium39/mcp-server-weibo): A TypeScript-based server for scraping Weibo user information, feeds, and search functionality using the Model Context Protocol.
 - [aptcats/mcp-server-playwright](https://github.com/aptcats/mcp-server-playwright): A browser automation service leveraging Playwright for seamless integration with Claude Desktop.
 - [tanob/mcp-desktop-automation](https://github.com/tanob/mcp-desktop-automation): Empower LLMs with desktop automation through mouse and keyboard control, and screenshot capabilities using RobotJS.
@@ -190,7 +187,6 @@ Servers using tools for browser control, automation, and extracting content from
 - [kbyk004/playwright-lighthouse-mcp](https://github.com/kbyk004/playwright-lighthouse-mcp): Analyzes website performance using Playwright and Lighthouse, enabling LLMs to perform detailed performance analysis via MCP.
 - [snehsuresh/Crawl-In-Chat](https://github.com/snehsuresh/Crawl-In-Chat): A modular system for web crawling and AI-powered chat interfaces, integrating XML sitemap ingestion, vector embeddings, and multiple frontend options including MCP.
 - [AnuragRai017/Web-Scraper-server](https://github.com/AnuragRai017/Web-Scraper-server): A TypeScript-based MCP server implementing a notes system with resources, tools, and prompts for note management and summarization.
-- [punkpeye/scraperis-mcp](https://github.com/punkpeye/scraperis-mcp): Efficiently scrape websites using natural language prompts with the Scraper.is MCP server, designed for seamless integration with Claude Desktop.
 - [laurentvv/crawl4ai-mcp](https://github.com/laurentvv/crawl4ai-mcp): A web crawling tool that seamlessly integrates with AI assistants using MCP to extract and structure website content.
 - [dennisgl/mcp-playwright-scraper](https://github.com/dennisgl/mcp-playwright-scraper): Effortlessly scrape web content and convert it to Markdown using a Playwright-powered MCP server.
 - [afshawnlotfi/mcp-configurable-puppeteer](https://github.com/afshawnlotfi/mcp-configurable-puppeteer): A configurable MCP server leveraging Puppeteer for browser automation, enabling LLMs to interact with web pages and execute JavaScript with customizable options.

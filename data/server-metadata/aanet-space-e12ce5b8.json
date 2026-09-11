@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "aanet-space-e12ce5b8",
+  "source": {
+    "issue": 2306,
+    "projectUrl": "https://aanet.space"
+  },
+  "description": "Hosted Streamable HTTP MCP server for coordinating sub-agent swarms through shared files, ETag-based optimistic concurrency, lease-based locks, point-to-point and broadcast messages, activity logs, and budgeted path-scoped sub-keys.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://aanet.space/AGENTS.md",
+    "endpoint": "https://aanet.space/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Tools take an explicit api_key argument, using the owner key or sub-key returned by aanet_create_workspace or aanet_create_trial_workspace. Every operation is metered and paid per call via x402 after the free trial workspace."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "any MCP client supporting Streamable HTTP"
+  ],
+  "tools": {
+    "names": [
+      "aanet_create_trial_workspace",
+      "aanet_create_workspace",
+      "aanet_read_file",
+      "aanet_write_file",
+      "aanet_acquire_lock",
+      "aanet_send_message"
+    ],
+    "source": "verified"
+  },
+  "license": "Proprietary hosted service; not an installable package.",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Homepage and AGENTS.md returned HTTP 200 during maintainer review on 2026-09-11.",
+      "MCP initialize returned HTTP 200 during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Kuasar137"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}
