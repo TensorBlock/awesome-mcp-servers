@@ -2,6 +2,8 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [PowMCP Ebook File Check](https://powmcp.com/apps/epub-check/): Hosted Streamable HTTP MCP server for validating EPUB files with EPUBCheck and comparing findings between two builds. Tools: `ebook_check` and `ebook_compare`. Checks specification issues, not visual rendering, accessibility, or guaranteed bookstore acceptance. Guest access is available with usage limits; optional account linking uses OAuth. Endpoint: https://powmcp.com/epub-check/mcp.
+
 - [BetterTyped/hype-stack](https://github.com/BetterTyped/hype-stack): Fullstack SaaS monorepo MCP (~11 tools) for creating/composing apps (web, Electron, Expo, extension). Install: `npx @hype-stack/cli mcp install`. The template and free packs are described as open source; paid packs use separate licensing.
 
 - [VoDaiLocz/kilo-kit-mcp](https://github.com/VoDaiLocz/kilo-kit-mcp): All-in-one 18-tool MCP runtime and 177-skill library providing protocol-level C4 workflow gates, sandboxed execution, and cognitive reasoning engines (Tree of Thoughts DAG, Red-Team Grilling, 5-Whys Root Cause Tracer, Context Compactor, Self-Evolution) for coding agents across Antigravity, Cursor, Windsurf, Claude Code, and Codex. Install: `npx -y @vodailoc/kilo-kit-mcp setup`. Apache-2.0.
