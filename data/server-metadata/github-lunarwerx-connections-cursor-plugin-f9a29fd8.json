@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-lunarwerx-connections-cursor-plugin-f9a29fd8",
+  "source": {
+    "issue": 2330,
+    "projectUrl": "https://github.com/Lunarwerx/connections-cursor-plugin"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
