@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "agent-carmotif-com-57df466a",
+  "source": {
+    "issue": 2313,
+    "projectUrl": "https://agent.carmotif.com/"
+  },
+  "links": {
+    "endpoint": "https://api.carmotif.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "CARMOTIF_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Claude Code",
+    "VS Code",
+    "and any MCP client supporting Streamable HTTP."
+  ],
+  "license": "Hosted service; no local package. Service documentation and terms are available from the project homepage."
+}
