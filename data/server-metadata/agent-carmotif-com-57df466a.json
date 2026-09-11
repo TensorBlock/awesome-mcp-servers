@@ -5,7 +5,10 @@
     "issue": 2313,
     "projectUrl": "https://agent.carmotif.com/"
   },
+  "description": "Hosted Streamable HTTP MCP server for searching automotive design references by brand, model, year, color, body type, parts, view tags, and natural language prompts.",
+  "category": "Search",
   "links": {
+    "docs": "https://agent.carmotif.com/",
     "endpoint": "https://api.carmotif.com/mcp"
   },
   "install": {
@@ -13,7 +16,7 @@
     "env": [
       "CARMOTIF_API_KEY"
     ],
-    "confidence": "low"
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
@@ -21,7 +24,7 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "Send `Authorization: Bearer <CARMOTIF_API_KEY>` to the hosted endpoint."
     ]
   },
   "clients": [
@@ -29,7 +32,34 @@
     "Cursor",
     "Claude Code",
     "VS Code",
-    "and any MCP client supporting Streamable HTTP."
+    "Any MCP client supporting Streamable HTTP"
   ],
-  "license": "Hosted service; no local package. Service documentation and terms are available from the project homepage."
+  "tools": {
+    "count": 5,
+    "names": [
+      "natural-language search",
+      "image retrieval",
+      "image metadata",
+      "multi-image comparison",
+      "library facets"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Hosted service; no local package. Service documentation and terms are available from the project homepage.",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Homepage returned HTTP 200 during review.",
+      "Hosted endpoint returned an authentication-required response for an initialize request without a bearer token."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@xgone"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
+  }
 }
