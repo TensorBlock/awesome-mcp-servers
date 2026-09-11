@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stonianua-neither-mcp-d28456da",
+  "source": {
+    "issue": 2324,
+    "projectUrl": "https://github.com/stonianua/neither-mcp"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Cursor",
+    "Claude Desktop"
+  ],
+  "license": "MIT"
+}
