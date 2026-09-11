@@ -5,16 +5,46 @@
     "issue": 2324,
     "projectUrl": "https://github.com/stonianua/neither-mcp"
   },
+  "description": "Local stdio MCP server for retrieving selected company and project context from Neither's hosted context graph with source evidence for Cursor and Claude Desktop.",
+  "category": "Knowledge Management & Memory",
+  "links": {
+    "docs": "https://www.neither.online/start/?product=dev"
+  },
+  "install": {
+    "commands": [
+      "npx -y @neitherai/mcp-server"
+    ],
+    "env": [
+      "NEITHER_API_KEY"
+    ],
+    "confidence": "high"
+  },
   "transport": [
     "stdio"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "api-key",
+    "notes": [
+      "Requires NEITHER_API_KEY in the MCP server environment. NEITHER_API_BASE is optional and defaults to https://api.neither.online."
+    ]
   },
   "clients": [
     "Cursor",
     "Claude Desktop"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and Neither setup pages returned HTTP 200 during maintainer review on 2026-09-11.",
+      "npm package @neitherai/mcp-server returned public package metadata during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stonianua"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
 }
