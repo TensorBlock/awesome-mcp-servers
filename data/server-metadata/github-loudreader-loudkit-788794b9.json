@@ -5,6 +5,11 @@
     "issue": 2310,
     "projectUrl": "https://github.com/loudreader/loudkit"
   },
+  "description": "Local stdio MCP server for offline text-to-speech with 28 bundled voices across 10 languages, voice profiles, long-text continuations, and WAV/FLAC/MP3/Opus audio output.",
+  "category": "Multimedia Processing",
+  "links": {
+    "docs": "https://github.com/loudreader/loudkit/blob/main/docs/guides/04-server-and-agents.md"
+  },
   "install": {
     "commands": [
       "uvx --from \"loudkit[mcp,hub]\" loudkit serve --mcp --checkpoint loudreader/loudr-1"
@@ -25,5 +30,31 @@
     "Cursor",
     "Cline"
   ],
-  "license": "Apache-2.0"
+  "tools": {
+    "count": 3,
+    "names": [
+      "list voices",
+      "synthesize speech",
+      "describe loaded model"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and PyPI package were reachable during review.",
+      "README documents `loudkit serve --mcp` as a local stdio MCP server."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@loudreader",
+      "@pepinu"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
+  }
 }
