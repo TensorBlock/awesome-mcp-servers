@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-loudreader-loudkit-788794b9",
+  "source": {
+    "issue": 2310,
+    "projectUrl": "https://github.com/loudreader/loudkit"
+  },
+  "install": {
+    "commands": [
+      "uvx --from \"loudkit[mcp,hub]\" loudkit serve --mcp --checkpoint loudreader/loudr-1"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Cline"
+  ],
+  "license": "Apache-2.0"
+}
