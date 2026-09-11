@@ -5,6 +5,8 @@
     "issue": 2302,
     "projectUrl": "https://github.com/Nagarjuna2997/ios-agent-skill"
   },
+  "description": "Local stdio MCP server for read-only Swift project reviews and bounded retrieval of Apple guides and local source. The monorepo also documents an optional macOS/Xcode simulator package for build, test, launch, screenshots, and browser preview.",
+  "category": "Developer Productivity & Utilities",
   "install": {
     "commands": [
       "npx -y ios-agent-mcp@2.4.0 --project /absolute/path/to/YourApp"
@@ -20,9 +22,27 @@
     "notes": []
   },
   "clients": [
-    "Setup guides for Claude",
-    "Codex and Gemini CLI",
-    "standard MCP stdio."
+    "Claude",
+    "Codex",
+    "Gemini CLI",
+    "stdio-compatible MCP clients"
   ],
-  "license": "MIT"
+  "tools": {
+    "count": 11,
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and npm package ios-agent-mcp returned public metadata during maintainer review on 2026-09-11."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Nagarjuna2997"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
 }
