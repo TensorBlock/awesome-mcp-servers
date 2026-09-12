@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ronaldanton-x402-shop-485ca8df",
+  "source": {
+    "issue": 2363,
+    "projectUrl": "https://github.com/ronaldanton/x402-shop"
+  },
+  "links": {
+    "endpoint": "https://agentpay.help/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client (Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code) via streamable HTTP"
+  ],
+  "license": "Apache-2.0"
+}
