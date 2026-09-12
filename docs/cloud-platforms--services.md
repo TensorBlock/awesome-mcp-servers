@@ -62,11 +62,9 @@ Servers integrating with major cloud providers or specific cloud services.
 - [vib3ai/monad-mcp-server](https://github.com/vib3ai/monad-mcp-server): Facilitates AI assistants in interacting with the Monad blockchain for balance checks and token transfers.
 - [xiquyila/remote-mcp-server](https://github.com/xiquyila/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [NahumOchoa/mcp-remote-lambda](https://github.com/NahumOchoa/mcp-remote-lambda): A proxy that efficiently connects desktop LLM clients with AWS Lambda functions using MCP, optimizing API calls and costs.
-- [nearvitamin/kubernetes-mcp-server](https://github.com/nearvitamin/kubernetes-mcp-server): Facilitates Kubernetes and OpenShift container management through a Model Context Protocol server, enabling dynamic configuration and resource operations.
 - [mschuchard/vault-mcp-server](https://github.com/mschuchard/vault-mcp-server): A Python-based MCP server designed for interacting with Vault, leveraging the HVAC SDK.
 - [iamgauravn/mcp_server](https://github.com/iamgauravn/mcp_server): A C# implementation of a Model Context Protocol server using .NET 9, featuring monkey data fetching and selling record management services.
 - [BarDweller/ozzynet-mcp-server](https://github.com/BarDweller/ozzynet-mcp-server): A prototype MCP server that requires GitHub OAuth authentication for tool access, utilizing Quarkus OIDC for upstream authorization.
-- [milianks/remote-mcp-server](https://github.com/milianks/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
 - [zheroz00/cf-remote-mcp-server](https://github.com/zheroz00/cf-remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with Claude Desktop and MCP Inspector.
 - [philipp-eisen/cloudflare-images-mcp](https://github.com/philipp-eisen/cloudflare-images-mcp): Facilitates the integration of images into Cloudflare Images using a simple MCP server setup.
 - [oezguercelebi/MCP-Server-Simple-Example](https://github.com/oezguercelebi/MCP-Server-Simple-Example): A Node.js and Express-based MCP server offering tools, resources, and prompts for testing and debugging.
@@ -95,7 +93,6 @@ Servers integrating with major cloud providers or specific cloud services.
 - [adisuryanathan/modelcontextprotocol-servers](https://github.com/adisuryanathan/modelcontextprotocol-servers): Showcases diverse reference implementations of the Model Context Protocol, enabling secure and controlled access for LLMs to various tools and data sources.
 - [rose201107059/remote-mcp-server](https://github.com/rose201107059/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [eitanbar/remote-mcp-server](https://github.com/eitanbar/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [kakahu2015/remote-mcp-server](https://github.com/kakahu2015/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.
 - [steventsao/remote-mcp-server](https://github.com/steventsao/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [Timandes/mcp-gateway](https://github.com/Timandes/mcp-gateway): Facilitates the translation of MCP tool calls into HTTP requests, enabling seamless integration with existing APIs.
 - [bjacobso/remote-mcp-server](https://github.com/bjacobso/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
@@ -105,7 +102,6 @@ Servers integrating with major cloud providers or specific cloud services.
 - [jtucker/mcp-untappd-server-dotnet](https://github.com/jtucker/mcp-untappd-server-dotnet): Leverage Azure Functions to create an Untappd MCP server with Server Sent Events integration.
 - [gravix-db/docketbird-mcp](https://github.com/gravix-db/docketbird-mcp): Access DocketBird's court case data and document management through a dedicated MCP server.
 - [configfacets/configfacets_mcp](https://github.com/configfacets/configfacets_mcp): Configfacets MCP Server facilitates the management and deployment of configuration facets using a Python-based server setup.
-- [phpmac/fetch_mcp](https://github.com/phpmac/fetch_mcp): Fetch web content in various formats using an MCP server, supporting HTML, JSON, plain text, and Markdown outputs.
 - [doitintl/doit-mcp-server](https://github.com/doitintl/doit-mcp-server): Facilitates access to DoiT platform data for troubleshooting and analysis via LLMs like Claude.
 - [norikmb/nifcloud-mcp](https://github.com/norikmb/nifcloud-mcp): Facilitates interaction with FJcloud-V's API through a Model Context Protocol server, offering tools to retrieve lists of servers, disks, load balancers, firewalls, routers, and databases.
 - [Cumulocity-IoT/cumulocity-mcp-server](https://github.com/Cumulocity-IoT/cumulocity-mcp-server): Facilitates interaction with Cumulocity IoT platform's device management, measurements, and alarm systems via the MCP interface.
@@ -126,7 +122,6 @@ Servers integrating with major cloud providers or specific cloud services.
 - [cloudbarista/mcp-server](https://github.com/cloudbarista/mcp-server): Facilitates advanced automation and interaction with GitHub APIs for developers and tools.
 - [h13t0ry/my-mcp-server](https://github.com/h13t0ry/my-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [tlaukkanen/azure-iothub-mcp-server](https://github.com/tlaukkanen/azure-iothub-mcp-server): Facilitates read-only monitoring of Azure IoT Hub using Azure CLI for authentication and device detail retrieval.
-- [MalcolmFeatonby/remote-mcp-server](https://github.com/MalcolmFeatonby/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [danXyu/remote-mcp-server](https://github.com/danXyu/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [OpenLinkSoftware/mcp-pyodbc-server](https://github.com/OpenLinkSoftware/mcp-pyodbc-server): A lightweight server utilizing FastAPI and PyODBC to facilitate ODBC connections with Virtuoso and other DBMS backends.
 - [pankaj-knit/MCP-SV](https://github.com/pankaj-knit/MCP-SV): Provides weather information from the National Weather Service API for integration with AI assistants like Claude.
