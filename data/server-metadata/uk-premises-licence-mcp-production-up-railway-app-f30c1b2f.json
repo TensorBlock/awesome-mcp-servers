@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "uk-premises-licence-mcp-production-up-railway-app-f30c1b2f",
+  "source": {
+    "issue": 2343,
+    "projectUrl": "https://uk-premises-licence-mcp-production.up.railway.app/"
+  },
+  "links": {
+    "endpoint": "https://uk-premises-licence-mcp-production.up.railway.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP-compatible client that supports Streamable HTTP."
+  ],
+  "license": "Hosted service; no open-source license claimed."
+}
