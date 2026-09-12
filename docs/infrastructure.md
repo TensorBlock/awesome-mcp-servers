@@ -39,7 +39,7 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [tjun/terraform-doc-mcp](https://github.com/tjun/terraform-doc-mcp): Facilitates access to Terraform provider and resource documentation for integration with LLMs like Claude Desktop.
 - [jgarciaga/overseerr-mcp](https://github.com/jgarciaga/overseerr-mcp): Facilitates interaction with the Overseerr API for managing movie and TV show requests.
 - [joinbuildclub/buildclub-mcp-server](https://github.com/joinbuildclub/buildclub-mcp-server): BuildClub's official server facilitates seamless integration with Claude Desktop through MCP protocol.
-- [SpaceFrontiers/mcp](https://github.com/SpaceFrontiers/mcp): Facilitates interaction with Space Frontiers data sources via a Model Context Protocol server using FastAPI.
+- [Machine Library by Space Frontiers](https://github.com/SpaceFrontiers/mcp): Citable retrieval across papers, books, patents, Wikipedia, and public discussions. [Hosted MCP](https://mcp.machinelibrary.ai/) with OAuth or a bearer API key; [setup and documentation](https://machinelibrary.ai/mcp).
 - [adityaoberai/github-profile-mcp](https://github.com/adityaoberai/github-profile-mcp): Facilitates AI assistants in accessing and analyzing GitHub profile data and repositories through a simple API.
 - [jroyal/remote-mcp-server](https://github.com/jroyal/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [BhagyaAmarasinghe/mcp-kubernetes](https://github.com/BhagyaAmarasinghe/mcp-kubernetes): Facilitates the execution of Kubernetes commands via Claude Desktop or any MCP-compatible client.
