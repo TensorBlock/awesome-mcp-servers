@@ -5,7 +5,7 @@
     "issue": 2281,
     "projectUrl": "https://scoutee.org/en/mcp-public-tenders"
   },
-  "description": "Hosted read-only public tender search MCP for Europe and North America, exposing anonymous public notice previews with buyer, location, deadline, estimated value, and Scoutee notice links.",
+  "description": "Search public tenders across Europe and North America with free previews. Register free on Scoutee to enable one saved search's daily email alert, capped at 20 results/search. Get your EU CPV codes free with AI and Scoutee's knowledge base. Manage alerts and AI discovery on Scoutee; MCP searches and reads notices.",
   "category": "Search",
   "links": {
     "docs": "https://scoutee.org/en/mcp-public-tenders",

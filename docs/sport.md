@@ -2,6 +2,8 @@
 
 Servers providing access to sports-related APIs and analysis.
 
+- [krmisystems/fantasy-football-manager](https://github.com/krmisystems/fantasy-football-manager): Snake-draft simulations, lineup and waiver analysis, and controlled ESPN actions with approval modes and per-team limits. Install: `uvx fantasy-football-manager` (Python 3.11+). Transport: stdio. Auth: none for imported or synthetic data; ESPN sign-in for live operation. Clients: Codex and other MCP clients. Docs: [Setup](https://github.com/krmisystems/fantasy-football-manager/blob/main/docs/PLUGIN_INSTALL.md). License: MIT.
+
 - [dhrbtjr0331/nba-stats-predictor-mcp](https://github.com/dhrbtjr0331/nba-stats-predictor-mcp): Generates NBA player performance forecasts using real-time data analysis and advanced statistical modeling.
 - [JamsusMaximus/trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp): Accesses TrainingPeaks training data including fitness metrics (CTL/ATL/TSB), workout history, and power/pace personal records for endurance athletes.
 - [henryco23/NBA](https://github.com/henryco23/NBA): A Python server utilizing MCP to provide comprehensive access to NBA statistics and live game data through the NBA API.
