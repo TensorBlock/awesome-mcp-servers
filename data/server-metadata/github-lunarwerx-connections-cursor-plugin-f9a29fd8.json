@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-lunarwerx-connections-cursor-plugin-f9a29fd8",
+  "source": {
+    "issue": 2330,
+    "projectUrl": "https://github.com/Lunarwerx/connections-cursor-plugin"
+  },
+  "links": {
+    "docs": "https://studio.connections.icu/connect",
+    "endpoint": "https://studio.connections.icu/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with PKCE and dynamic client registration against accounts.connections.icu; completed in the browser on first connect."
+    ]
+  }
+}
