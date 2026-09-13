@@ -5,6 +5,8 @@
     "issue": 2330,
     "projectUrl": "https://github.com/Lunarwerx/connections-cursor-plugin"
   },
+  "description": "Hosted remote MCP for events, ticketing, contacts, Deal Flow marketplace work, notes, agent memory, and payments.",
+  "category": "Marketing, Sales & CRM",
   "links": {
     "docs": "https://studio.connections.icu/connect",
     "endpoint": "https://studio.connections.icu/v1/mcp"
@@ -17,5 +19,31 @@
     "notes": [
       "OAuth 2.1 with PKCE and dynamic client registration against accounts.connections.icu; completed in the browser on first connect."
     ]
+  },
+  "clients": [
+    "Cursor",
+    "Grok Bot",
+    "Any MCP client supporting Streamable HTTP and OAuth 2.1"
+  ],
+  "tools": {
+    "count": 41,
+    "source": "self_reported"
+  },
+  "license": "MIT plugin; hosted service terms apply.",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and server-card endpoint were reachable during review.",
+      "Hosted endpoint returned an authentication-required response for an initialize request without OAuth."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@LunarWerxs"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
   }
 }
