@@ -6,6 +6,7 @@
     "projectUrl": "https://github.com/ronaldanton/x402-shop"
   },
   "links": {
+    "docs": "https://agentpay.help/.well-known/x402",
     "endpoint": "https://agentpay.help/mcp"
   },
   "transport": [
@@ -14,13 +15,12 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "No API key; tool calls use x402 USDC micropayments on Base."
+    ]
   },
   "clients": [
-    "Any MCP client (Claude Desktop",
-    "Cursor",
-    "Codex",
-    "VS Code) via streamable HTTP"
+    "Any MCP client that supports Streamable HTTP, including Claude Desktop, Cursor, Codex, and VS Code."
   ],
-  "license": "Apache-2.0"
+  "license": "MIT"
 }
