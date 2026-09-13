@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "agenttrustlab-com-74d260cc",
+  "source": {
+    "issue": 2334,
+    "projectUrl": "https://agenttrustlab.com"
+  },
+  "links": {
+    "endpoint": "https://mcp-selection-lab-production.up.railway.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP-compatible client that supports streamable HTTP"
+  ],
+  "license": "Hosted service; no open-source license claimed."
+}
