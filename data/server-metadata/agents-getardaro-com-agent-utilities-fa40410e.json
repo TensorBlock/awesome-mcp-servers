@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "agents-getardaro-com-agent-utilities-fa40410e",
+  "source": {
+    "issue": 2371,
+    "projectUrl": "https://agents.getardaro.com/agent-utilities"
+  },
+  "links": {
+    "endpoint": "https://agents.getardaro.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "unknown Mixed model: discovery/status and fixed examples require no account, API key, or wallet. Paid analyses require explicit owner-authorized x402 USDC settlement on Base. Per accepted analysis: receipt 0.25; invoice matching 0.50;..."
+    ]
+  },
+  "clients": [
+    "Direct Streamable HTTP MCP requests were checked",
+    "no blanket client compatibility claim."
+  ],
+  "license": "Hosted service; no open-source backend license claimed. The linked examples repository is distinct from the hosted..."
+}
