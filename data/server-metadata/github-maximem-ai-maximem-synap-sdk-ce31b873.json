@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-maximem-ai-maximem-synap-sdk-ce31b873",
+  "source": {
+    "issue": 2383,
+    "projectUrl": "https://github.com/maximem-ai/maximem_synap_sdk"
+  },
+  "links": {
+    "endpoint": "https://synap-mcp.maximem.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "SYNAP_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  }
+}
