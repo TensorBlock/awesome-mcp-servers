@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jshelley-briefing-mcp-3acc4c9f",
+  "source": {
+    "issue": 2387,
+    "projectUrl": "https://github.com/jshelley/briefing-mcp"
+  },
+  "description": "Briefing Service publishes hourly LLM-ranked news briefings as structured JSON, e-ink pages, and a daily PDF from roughly 100 RSS feeds.",
+  "category": "Art, Culture & Media",
+  "links": {
+    "docs": "https://briefing-service.wholemind.workers.dev/llms.txt",
+    "endpoint": "https://briefing-service.wholemind.workers.dev/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:jshelley/briefing-mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "initialize and tools/list are free; the hosted endpoint includes 25 free tool calls per IP per day, then x402 USDC on Base or a Reader key sent as Authorization: Bearer."
+    ]
+  },
+  "clients": [
+    "Any MCP client supporting Streamable HTTP",
+    "Any MCP client supporting stdio via the local package"
+  ],
+  "tools": {
+    "count": 4,
+    "names": [
+      "list_briefings",
+      "get_briefing",
+      "get_page",
+      "render_briefing"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Profile claimed by @jshelley in #2387 under the community profile-claim process.",
+      "Repository, hosted MCP initialize response, docs endpoint, OpenAPI endpoint, npm GitHub package metadata, and TensorBlock README badge were reachable during maintainer review on 2026-09-14."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@jshelley"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
+  }
+}
