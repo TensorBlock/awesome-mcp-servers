@@ -89,7 +89,6 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [derrtaderr/inspecta](https://github.com/derrtaderr/inspecta): InspectorAI enhances web automation and analysis by integrating with MCP to autonomously verify website designs and diagnose errors.
 - [StepanProCoder/ClineTest](https://github.com/StepanProCoder/ClineTest): Facilitates efficient file searching within a filesystem using path fragments, providing detailed metadata for each result.
 - [ggerve/coding-standards-mcp](https://github.com/ggerve/coding-standards-mcp): Facilitates access to standardized coding guidelines and best practices for Java, Python, and React through an MCP server.
-- [punkpeye/file-edit-check-server](https://github.com/punkpeye/file-edit-check-server): Enforces pre-read checks and detailed commit documentation to prevent unauthorized file modifications.
 - [saiprashanths/code-analysis-mcp](https://github.com/saiprashanths/code-analysis-mcp): Facilitates natural language-driven codebase analysis, enabling AI models to explore and understand code structures and data flows.
 - [gokborayilmaz/code-reviewer-fixer-agent](https://github.com/gokborayilmaz/code-reviewer-fixer-agent): An AI agent that leverages GitHub and Sentry MCP servers to analyze code repositories, detect security vulnerabilities, and suggest fixes based on error logs.
 - [davidorex/git-file-forensics](https://github.com/davidorex/git-file-forensics): Provides detailed insights into git file histories and changes, focusing on individual file analysis using MCP tools.
