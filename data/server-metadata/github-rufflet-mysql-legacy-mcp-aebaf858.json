@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rufflet-mysql-legacy-mcp-aebaf858",
+  "source": {
+    "issue": 2407,
+    "projectUrl": "https://github.com/Rufflet/mysql-legacy-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Rufflet in #2407 under the community profile-claim process.",
+      "Requested profile metadata in #2407: Category: Databases Transport: stdio Auth: none Install: npx -y mysql-legacy-mcp Install confidence: medium License: MIT Verification: unknown Docs URL:..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Rufflet"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
