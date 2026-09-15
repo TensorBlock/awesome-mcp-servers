@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "purrplan-ai-en-developers-41498ff4",
+  "source": {
+    "issue": 2413,
+    "projectUrl": "https://purrplan.ai/en/developers/"
+  },
+  "links": {
+    "endpoint": "https://app.purrplan.ai/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Bearer token (API key), self-serve from the workspace. Available on every plan including the 7-day trial."
+    ]
+  },
+  "clients": [
+    "Any client that speaks streamable HTTP with a bearer header. Tested with Claude Code."
+  ],
+  "license": "Proprietary (hosted service, free trial)"
+}
