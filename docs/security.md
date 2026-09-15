@@ -177,3 +177,4 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [CQC Provider Regulatory Decision Layer](https://cqc-provider-mcp-production.up.railway.app/): Evidence-linked CQC registration and regulatory preflight decisions for England.
 - [England Works Watch](https://england-works-watch-production.up.railway.app/): Evidence-linked Skilled Worker sponsor-compliance change-impact decisions for UK employers and agents.
 - [UK Taxi PHV Regulatory Decision Layer](https://uk-taxi-phv-mcp-production.up.railway.app/): Evidence-linked taxi and private-hire licensing preflight and authority comparison for England.
+- [mcp-output-firewall](https://github.com/tangfei7777-cell/mcp-output-firewall): MCP server that inspects tool calls, content and tool results for prompt injection, credential leaks and data egress before they reach the model, returning sanitised evidence instead of echoing the attack text.
