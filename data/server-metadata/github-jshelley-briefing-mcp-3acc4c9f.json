@@ -2,10 +2,10 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-jshelley-briefing-mcp-3acc4c9f",
   "source": {
-    "issue": 2387,
+    "issue": 2391,
     "projectUrl": "https://github.com/jshelley/briefing-mcp"
   },
-  "description": "Briefing Service publishes hourly LLM-ranked news briefings as structured JSON, e-ink pages, and a daily PDF from roughly 100 RSS feeds.",
+  "description": "Hourly LLM-ranked news briefings (AI, frontier labs, markets, US and world news, sports) from ~100 RSS feeds as structured JSON, rendered 1-bit e-ink pages and a daily PDF/EPUB for reMarkable and Kindle.",
   "category": "Art, Culture & Media",
   "links": {
     "docs": "https://briefing-service.wholemind.workers.dev/llms.txt",
@@ -13,20 +13,18 @@
   },
   "install": {
     "commands": [
-      "npx -y github:jshelley/briefing-mcp"
+      "npx -y briefing-mcp"
     ],
     "env": [],
-    "confidence": "high"
+    "confidence": "medium"
   },
   "transport": [
-    "streamable-http",
-    "stdio"
+    "stdio",
+    "streamable-http"
   ],
   "auth": {
     "type": "none",
-    "notes": [
-      "initialize and tools/list are free; the hosted endpoint includes 25 free tool calls per IP per day, then x402 USDC on Base or a Reader key sent as Authorization: Bearer."
-    ]
+    "notes": []
   },
   "clients": [
     "Any MCP client supporting Streamable HTTP",
@@ -37,17 +35,20 @@
     "names": [
       "list_briefings",
       "get_briefing",
+      "get_summary",
+      "get_candidates",
       "get_page",
       "render_briefing"
     ],
-    "source": "verified"
+    "source": "self_reported"
   },
   "license": "MIT",
   "verification": {
     "status": "partial",
     "notes": [
       "Profile claimed by @jshelley in #2387 under the community profile-claim process.",
-      "Repository, hosted MCP initialize response, docs endpoint, OpenAPI endpoint, npm GitHub package metadata, and TensorBlock README badge were reachable during maintainer review on 2026-09-14."
+      "Repository, hosted MCP initialize response, docs endpoint, OpenAPI endpoint, npm GitHub package metadata, and TensorBlock README badge were reachable during maintainer review on 2026-09-14.",
+      "Metadata updated from issue #2391. Source: - npm: https://www.npmjs.com/package/briefing-mcp (briefing-mcp@0.1.0, published 2026-09-14 by the maintainer) - README: https://github.com/jshelley/briefing-mcp#readme (install section updated in commit 99a41af) -..."
     ]
   },
   "community": {
