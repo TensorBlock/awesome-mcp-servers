@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rex-codebase-fable-mode-56d9f590",
+  "source": {
+    "issue": 2411,
+    "projectUrl": "https://github.com/REX-codebase/fable-mode"
+  },
+  "install": {
+    "commands": [
+      "uvx --from fable-engine==1.3.2 fable-engine"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
