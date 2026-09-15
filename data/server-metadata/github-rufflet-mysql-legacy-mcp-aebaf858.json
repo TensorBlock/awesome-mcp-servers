@@ -5,11 +5,61 @@
     "issue": 2407,
     "projectUrl": "https://github.com/Rufflet/mysql-legacy-mcp"
   },
+  "category": "Databases",
+  "links": {
+    "docs": "https://github.com/Rufflet/mysql-legacy-mcp/blob/main/docs/INSTALLATION.md"
+  },
+  "install": {
+    "commands": [
+      "npx -y mysql-legacy-mcp"
+    ],
+    "env": [
+      "MYSQL_LEGACY_HOST",
+      "MYSQL_LEGACY_USER",
+      "MYSQL_LEGACY_PASSWORD",
+      "MYSQL_LEGACY_DATABASE"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Connects to the configured MySQL-compatible database using the supplied environment variables."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 11,
+    "names": [
+      "mysql_legacy_ping",
+      "mysql_legacy_select",
+      "mysql_legacy_list_databases",
+      "mysql_legacy_list_tables",
+      "mysql_legacy_describe_table",
+      "mysql_legacy_show_create_table",
+      "mysql_legacy_list_indexes",
+      "mysql_legacy_insert",
+      "mysql_legacy_update",
+      "mysql_legacy_delete",
+      "mysql_legacy_ddl"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
   "verification": {
     "status": "self_reported",
     "notes": [
       "Profile claimed by @Rufflet in #2407 under the community profile-claim process.",
-      "Requested profile metadata in #2407: Category: Databases Transport: stdio Auth: none Install: npx -y mysql-legacy-mcp Install confidence: medium License: MIT Verification: unknown Docs URL:..."
+      "Claim issue states that @Rufflet owns the GitHub repository, publishes the npm package, and has added the TensorBlock index badge to the project README."
     ]
   },
   "community": {
