@@ -5,6 +5,8 @@
     "issue": 2411,
     "projectUrl": "https://github.com/REX-codebase/fable-mode"
   },
+  "description": "Mechanical Think, Prove, Attack, Write workflow for AI coding agents, with time-locked workspace writes, evidence receipts, adversarial review, and sealed verification records.",
+  "category": "Security",
   "install": {
     "commands": [
       "uvx --from fable-engine==1.3.2 fable-engine"
@@ -24,5 +26,21 @@
     "Cursor",
     "VS Code"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Repository was reachable and MIT licensed during maintainer review.",
+      "PyPI package fable-engine 1.3.2 was reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@REX-codebase"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
+  }
 }
