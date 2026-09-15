@@ -5,15 +5,27 @@
     "issue": 2395,
     "projectUrl": "https://github.com/usenetstate/statsnet-mcp"
   },
+  "description": "Company registry and financial lookup for Kazakhstan, Uzbekistan, and Kyrgyzstan, covering legal entities, executives, registration status, government contracts, court cases, sanctions, debts, financial statements, and public risk signals.",
+  "category": "Data Analysis & Business Intelligence",
   "links": {
+    "docs": "https://statsnet.co",
     "endpoint": "https://statsnet.co/mcp"
+  },
+  "install": {
+    "commands": [
+      "Remote Streamable HTTP endpoint: https://statsnet.co/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Free public cards are available without auth; richer fields may require a Statsnet subscription."
+    ]
   },
   "clients": [
     "Claude Desktop",
@@ -22,5 +34,31 @@
     "VS Code",
     "other"
   ],
-  "license": "MIT"
+  "tools": {
+    "names": [
+      "company_search",
+      "company_profile",
+      "executive_lookup",
+      "financial_statements",
+      "risk_signals"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Repository was reachable and MIT licensed during maintainer review.",
+      "Hosted endpoint answered an MCP initialize request with serverInfo name statsnet and version 1.0.0."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stsqit"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
+  }
 }
