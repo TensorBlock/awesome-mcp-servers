@@ -24,14 +24,17 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "No auth is required for local stdio use, initialize, or tools/list.",
+      "The hosted endpoint includes 25 free tool calls per IP per day, then supports x402 USDC on Base or a Reader key sent as Authorization: Bearer <key>."
+    ]
   },
   "clients": [
     "Any MCP client supporting Streamable HTTP",
     "Any MCP client supporting stdio via the local package"
   ],
   "tools": {
-    "count": 4,
+    "count": 6,
     "names": [
       "list_briefings",
       "get_briefing",
@@ -48,7 +51,7 @@
     "notes": [
       "Profile claimed by @jshelley in #2387 under the community profile-claim process.",
       "Repository, hosted MCP initialize response, docs endpoint, OpenAPI endpoint, npm GitHub package metadata, and TensorBlock README badge were reachable during maintainer review on 2026-09-14.",
-      "Metadata updated from issue #2391. Source: - npm: https://www.npmjs.com/package/briefing-mcp (briefing-mcp@0.1.0, published 2026-09-14 by the maintainer) - README: https://github.com/jshelley/briefing-mcp#readme (install section updated in commit 99a41af) -..."
+      "Metadata updated from issue #2391 with the npm package, README, OpenAPI endpoint, and submitted local verification notes."
     ]
   },
   "community": {
