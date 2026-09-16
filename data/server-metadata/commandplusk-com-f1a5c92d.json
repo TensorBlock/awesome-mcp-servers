@@ -5,8 +5,17 @@
     "issue": 2439,
     "projectUrl": "https://commandplusk.com"
   },
+  "description": "Hosted MCP server that companies build from their own product API and connect to in-product AI assistants or external MCP clients, letting authenticated end-user agents inspect product state and perform approved actions through exposed tools.",
+  "category": "Cloud Platforms & Services",
   "links": {
     "endpoint": "https://commandplusk.com/api/public/mcp"
+  },
+  "install": {
+    "commands": [
+      "Remote Streamable HTTP endpoint: https://commandplusk.com/api/public/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +23,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Each customer endpoint is scoped to its workspace and secured with OAuth."
     ]
   },
   "clients": [
@@ -22,5 +31,21 @@
     "ChatGPT",
     "and any MCP client that supports remote Streamable HTTP servers"
   ],
-  "license": "Proprietary (hosted SaaS)"
+  "license": "Proprietary (hosted SaaS)",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Homepage returned HTTP 200 during maintainer review.",
+      "Remote endpoint returned HTTP 405 to a GET request, matching a POST-only Streamable HTTP MCP endpoint."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@CommandPK"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
+  }
 }
