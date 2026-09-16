@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-antonorlov-mcp-postgres-server-36ea71e6",
+  "source": {
+    "issue": 2435,
+    "projectUrl": "https://github.com/antonorlov/mcp-postgres-server"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @antonorlov in #2435 under the community profile-claim process.",
+      "Requested profile metadata in #2435: Category: Databases Transport: stdio Auth: none for the server itself; database credentials come from environment variables Install: npx -y mcp-postgres-server Install confidence: high License: MIT Docs:..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@antonorlov"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
