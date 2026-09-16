@@ -29,7 +29,6 @@ Servers specifically designed to interact with CMS platforms.
 - [harlley/storyblok-mcp](https://github.com/harlley/storyblok-mcp): Manage Storyblok components using natural language descriptions with this MCP implementation.
 - [starbuck93/tandoor-mcp-server](https://github.com/starbuck93/tandoor-mcp-server): Facilitates seamless interaction with Tandoor Recipe Manager, enabling recipe creation, meal planning, and shopping list management.
 - [theWDY/office-editor-mcp](https://github.com/theWDY/office-editor-mcp): Enhance productivity by seamlessly integrating comprehensive Microsoft Office document processing capabilities into MCP Clients, enabling creation, editing, and management of Word, Excel, and PowerPoint documents without leaving the client environment.
-- [johnnyrobot/claude-canvas-mcp](https://github.com/johnnyrobot/claude-canvas-mcp): Facilitates seamless interaction with Canvas LMS through a Claude desktop MCP server, enabling comprehensive course and student management via the Canvas API.
 - [rakeshgangwar/freshrss-server](https://github.com/rakeshgangwar/freshrss-server): Facilitates AI interaction with FreshRSS feeds via the Fever API, enabling feed management and item retrieval.
 - [sdi2200262/eclass-mcp-server](https://github.com/sdi2200262/eclass-mcp-server): Facilitates AI agents' interaction with Open eClass by enabling authentication, course retrieval, and session management.
 - [mrwyndham/pocketbase-mcp](https://github.com/mrwyndham/pocketbase-mcp): Facilitates rapid development of PocketBase applications with advanced database operations and schema management.
@@ -52,7 +51,6 @@ Servers specifically designed to interact with CMS platforms.
 - [Cleversoft-IT/drupal-tools-mcp](https://github.com/Cleversoft-IT/drupal-tools-mcp): Enhances Drupal development workflows by providing a TypeScript-based MCP server for managing and summarizing text notes with seamless integration into existing tools.
 - [glendaviesnz/wp-mcp](https://github.com/glendaviesnz/wp-mcp): Facilitates interaction between WordPress tools and LLMs through a Model Context Protocol server.
 - [deus-h/claudeus-wp-mcp](https://github.com/deus-h/claudeus-wp-mcp): Claudeus WordPress MCP empowers WordPress management with AI-driven automation, enhancing content creation, SEO, and multi-site operations.
-- [aaronsb/confluence-cloud-mcp](https://github.com/aaronsb/confluence-cloud-mcp): Facilitates AI-driven management of Confluence Cloud spaces, pages, and content through a standardized MCP interface.
 - [stefans71/wordpress-mcp-server](https://github.com/stefans71/wordpress-mcp-server): Automate WordPress interactions using JSON-RPC 2.0 protocol with this MCP server.
 - [nloui/paperless-mcp](https://github.com/nloui/paperless-mcp): Facilitates seamless interaction with Paperless-NGX for document management, including operations like tagging, searching, and uploading documents.
 - [emzimmer/server-wp-mcp](https://github.com/emzimmer/server-wp-mcp): Facilitates AI-driven interactions with multiple WordPress sites via secure REST API access, enabling seamless content management and site configuration.
