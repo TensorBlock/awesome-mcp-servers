@@ -2,6 +2,7 @@
 
 Servers focused on static analysis, linting, code metrics, security scanning, vulnerability checks, or code quality assessment.
 
+- [manmohm/advisorsai-check](https://github.com/manmohm/advisorsai-check): Check bounded machine-readable public-page basics. Live demo: [advisorsai.ai](https://advisorsai.ai/see.html). Remote HTTP endpoint: https://advisorsai.ai/store-readiness-mcp.
 - [sgroy10/speclock](https://github.com/sgroy10/speclock): AI constraint engine for enforcing CLAUDE.md, .cursorrules, and AGENTS.md rules with semantic conflict detection and 51 MCP tools. Install: `npx speclock serve`. MIT.
 - [rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools): Testing MCP tools for test generation, mocks, and coverage workflows. Install from the `@rog0x` npm package family. MIT.
 - [KyaniteLabs/checkyourself](https://github.com/KyaniteLabs/checkyourself): Local-first production-readiness audit for AI-built apps — read-only checks, an evidence-based 0-100 score, and guided fixes before launch.
