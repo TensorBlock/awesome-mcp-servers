@@ -2,6 +2,7 @@
 
 Servers providing interfaces to various database types like SQL, NoSQL, Vector Databases, Graph Databases, Time-Series, etc.
 
+- [pixeltable/mcp-server-pixeltable-developer](https://github.com/pixeltable/mcp-server-pixeltable-developer): Model Context Protocol server for Pixeltable: declarative multimodal AI data engine for tables, computed columns, embedding search, agents, and FastAPI services. Install: `uv tool install --from git+https://github.com/pixeltable/mcp-server-pixeltable-developer.git mcp-server-pixeltable-developer` or run with `uvx`. Apache-2.0.
 - [busabase/busabase](https://github.com/busabase/busabase): Open-source database and workspace for AI agents to manage typed tables, fields, views, records, docs, files, and search; important writes can become ChangeRequests for human review before merge. Hosted Streamable HTTP endpoint: `https://busabase.com/api/mcp` with OAuth, or self-host with `npx busabase server` or Docker. MIT. Official MCP Registry id: `com.busabase/busabase`.
 - [mcp-database-connector-lite](https://pypi.org/project/mcp-database-connector-lite/): Free SQLite MCP server for query execution, schema inspection, and data manipulation from AI assistants. Install: `pip install mcp-database-connector-lite`. MIT.
 - [rog0x/mcp-database-tools](https://github.com/rog0x/mcp-database-tools): Database MCP tools for SQL formatting, schema inspection, and migration workflows. Install from the `@rog0x` npm package family. MIT.
