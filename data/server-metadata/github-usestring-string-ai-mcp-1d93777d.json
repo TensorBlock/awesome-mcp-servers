@@ -5,8 +5,28 @@
     "issue": 2454,
     "projectUrl": "https://github.com/usestring/string-ai-mcp"
   },
+  "category": "Browser Automation & Web Scraping",
+  "links": {
+    "docs": "https://github.com/usestring/string-ai-mcp#readme",
+    "endpoint": "https://mcp.usestring.ai/v1/mcp"
+  },
+  "install": {
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "The hosted endpoint advertises OAuth discovery and the web_access scope.",
+      "The local stdio package requires STRING_AI_API_KEY."
+    ]
+  },
+  "license": "MIT",
   "verification": {
-    "status": "self_reported",
+    "status": "unknown",
     "notes": [
       "Profile claimed by @asavor in #2454 under the community profile-claim process.",
       "Requested profile metadata in #2454: Category: Browser Automation & Web Scraping Transport: streamable-http Auth: oauth Install confidence: medium License: MIT Verification: unknown"
