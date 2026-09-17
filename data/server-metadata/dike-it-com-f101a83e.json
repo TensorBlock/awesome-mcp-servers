@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "dike-it-com-f101a83e",
+  "source": {
+    "issue": 2466,
+    "projectUrl": "https://dike.it.com"
+  },
+  "links": {
+    "endpoint": "https://api.dike.it.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "YOUR_DIKE_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Dify",
+    "n8n",
+    "Zapier",
+    "Make"
+  ],
+  "license": "Not applicable (hosted remote server, no local package)"
+}
