@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-usestring-string-ai-mcp-1d93777d",
+  "source": {
+    "issue": 2454,
+    "projectUrl": "https://github.com/usestring/string-ai-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @asavor in #2454 under the community profile-claim process.",
+      "Requested profile metadata in #2454: Category: Browser Automation & Web Scraping Transport: streamable-http Auth: oauth Install confidence: medium License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@asavor"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
