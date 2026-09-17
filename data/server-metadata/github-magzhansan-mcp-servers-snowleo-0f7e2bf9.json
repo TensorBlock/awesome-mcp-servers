@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-magzhansan-mcp-servers-snowleo-0f7e2bf9",
+  "source": {
+    "projectUrl": "https://github.com/MagzhanSan/mcp-servers-snowleo/tree/main/jobs"
+  },
+  "links": {
+    "endpoint": "https://mcp.apify.com/?actors=snow_leo_data/greenhouse-workday-lever-ashby-ats-jobs-scraper,snow_leo_data/seek-scraper-jobstreet-jobsdb-australia-jobs-salaries,snow_leo_data/jobs-ch-scraper-swiss-switzerland-jobs,snow_leo_data/the-muse-scraper-remote-company-jobs-board"
+  }
+}
