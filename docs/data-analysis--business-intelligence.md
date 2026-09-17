@@ -66,12 +66,10 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [shionhonda/mcp-gsheet](https://github.com/shionhonda/mcp-gsheet): Facilitates interaction with Google Sheets by listing, reading, and writing data through an MCP server.
 - [falahgs/mcp-image-analysis4puzzle](https://github.com/falahgs/mcp-image-analysis4puzzle): A specialized server leveraging Gemini 2.5 Pro to analyze and solve mathematical puzzles for educational purposes.
 - [ucesys/dremio-python-mcp](https://github.com/ucesys/dremio-python-mcp): Facilitates standardized interaction with Dremio databases through a Model-Context Protocol server, enabling SQL execution and data exploration.
-- [Muhammadtallah/google-sheet](https://github.com/Muhammadtallah/google-sheet): Facilitates AI-driven interactions with Google Sheets through a Model Context Protocol connector, enabling seamless spreadsheet management and data manipulation.
 - [varunidealabs/file_analysis_mcp](https://github.com/varunidealabs/file_analysis_mcp): A server utilizing FastMCP to analyze text files, offering tools for word count, character frequency analysis, and file content reading.
 - [Mavline/mcp-server-vegalite](https://github.com/Mavline/mcp-server-vegalite): Facilitates data visualization through Vega-Lite syntax, enabling LLMs to create visual representations of data tables.
 - [osushinekotan/query-fastapi-mcp](https://github.com/osushinekotan/query-fastapi-mcp): Facilitates secure querying of Google BigQuery datasets and Tavily web search through a FastAPI MCP server.
 - [jmchat/mcp-ga4-admin-ts](https://github.com/jmchat/mcp-ga4-admin-ts): Facilitates management of Google Analytics 4 properties and annotations through a Model Context Protocol server.
-- [Mark-Friese/opendatasoft-mcp-server](https://github.com/Mark-Friese/opendatasoft-mcp-server): Facilitates AI-driven exploration and analysis of open datasets via the Opendatasoft Explore API.
 - [jmchat/mcp-ga4-data-ts](https://github.com/jmchat/mcp-ga4-data-ts): Access Google Analytics 4 reporting data through a Model Context Protocol server, compatible with Claude and other MCP clients.
 - [yk097/weather-mcp](https://github.com/yk097/weather-mcp): Enhances MCP clients by integrating contextual weather information.
 - [dasein108/mcp-cw-graph](https://github.com/dasein108/mcp-cw-graph): Facilitates interaction with CW-Social smart contracts on Cosmos blockchains through CRUD operations and rich query capabilities for cyberlinks.
@@ -111,7 +109,6 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [usensedata/mcp](https://github.com/usensedata/mcp): Facilitates enterprise data query services with seamless LLM integration using the MCP protocol.
 - [rlancemartin/vibe-code-benchmark](https://github.com/rlancemartin/vibe-code-benchmark): Benchmarking code agents' integration with external data sources using MCP servers for context retrieval and semantic search.
 - [gifflet/graphiti-mcp-server](https://github.com/gifflet/graphiti-mcp-server): Graphiti MCP Server empowers AI agents with dynamic knowledge graph management using Neo4j and seamless OpenAI model integration.
-- [MJunKWON/multiplication-teacher-mcp](https://github.com/MJunKWON/multiplication-teacher-mcp): Facilitates multiplication table calculations through an MCP server with Claude Desktop integration.
 - [johnib/kusto-mcp](https://github.com/johnib/kusto-mcp): A TypeScript MCP server enabling AI assistants to interact with Azure Data Explorer through a standardized protocol, supporting KQL queries and schema operations.
 - [luisoala/croissant-mcp-poc](https://github.com/luisoala/croissant-mcp-poc): A proof-of-concept MCP server for indexing and accessing Croissant datasets with real-time updates via SSE.
 - [EvanOman/mcp-data-handles](https://github.com/EvanOman/mcp-data-handles): Demonstrates managing pandas DataFrames through handles in MCP servers, offering both simplified and generic operations for data manipulation.
@@ -164,7 +161,6 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [JcXGTcW/wonderful_analysis_handler](https://github.com/JcXGTcW/wonderful_analysis_handler): Facilitates data analysis and visualization through an MCP server integrated with Claude, supporting CSV data manipulation and advanced statistical operations.
 - [root-signals/root-signals-mcp](https://github.com/root-signals/root-signals-mcp): Facilitates AI assistants in evaluating responses using Root Signals evaluators through an MCP server interface.
 - [c-cf/imf-data-mcp](https://github.com/c-cf/imf-data-mcp): Integrates with the IMF data API to facilitate structured querying and processing of economic datasets.
-- [KeriaDaring/DigIt](https://github.com/KeriaDaring/DigIt): DigIt is an MCP-enabled agent that integrates with the Dora dataflow framework and MOFA for efficient context management in complex processing pipelines.
 - [dstotijn/mcp-cbs-cijfers-open-data](https://github.com/dstotijn/mcp-cbs-cijfers-open-data): Facilitates AI interaction with CBS Open Data through a Model Context Protocol server, enabling advanced querying and data retrieval.
 - [recallnet/recall-mcp](https://github.com/recallnet/recall-mcp): Facilitates blockchain storage operations with Recall services, offering account, bucket, and object management through a secure MCP server.
 - [ushishu/sheet-mcp](https://github.com/ushishu/sheet-mcp): Facilitates seamless interaction with Google Sheets through Claude chat, enabling spreadsheet management and data manipulation.
@@ -209,7 +205,6 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [neuromechanist/matlab-mcp-tools](https://github.com/neuromechanist/matlab-mcp-tools): Facilitates interactive MATLAB development by executing scripts and sections while maintaining workspace context.
 - [virtuarian/excel-server](https://github.com/virtuarian/excel-server): Facilitates manipulation of local Excel files through MCP tools, supporting operations like reading, writing, and creating sheets.
 - [truaxki/mcp-variance-log](https://github.com/truaxki/mcp-variance-log): Monitors conversation patterns for statistical anomalies and logs them to a SQLite database, integrating seamlessly with Claude Desktop.
-- [jnoller/condamcp](https://github.com/jnoller/condamcp): Facilitates natural language interactions with the conda ecosystem, transforming complex CLI operations into intuitive commands for environment management and package building.
 - [tosin2013/deekseek-context-optimizer](https://github.com/tosin2013/deekseek-context-optimizer): Repository classified as category 13
 - [rebots-online/ChatGPT-neo4j-qdrant-hybrid-knowledge-graph-analyzer](https://github.com/rebots-online/ChatGPT-neo4j-qdrant-hybrid-knowledge-graph-analyzer): A hybrid system leveraging vector embeddings and knowledge graphs for semantic search and relationship analysis of ChatGPT conversations.
 - [anshumax/world_bank_mcp_server](https://github.com/anshumax/world_bank_mcp_server): Facilitates AI-driven analysis of World Bank open data by listing and evaluating country-specific indicators.
