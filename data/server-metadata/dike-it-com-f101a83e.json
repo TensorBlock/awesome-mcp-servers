@@ -6,14 +6,13 @@
     "projectUrl": "https://dike.it.com"
   },
   "links": {
+    "docs": "https://dike.it.com",
     "endpoint": "https://api.dike.it.com/mcp"
   },
   "install": {
     "commands": [],
-    "env": [
-      "YOUR_DIKE_API_KEY"
-    ],
-    "confidence": "low"
+    "env": [],
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
@@ -21,7 +20,7 @@
   "auth": {
     "type": "bearer",
     "notes": [
-      "bearer"
+      "Send an API key from https://dike.it.com/join as Authorization: Bearer <API key>. No local environment variables are required for the remote endpoint."
     ]
   },
   "clients": [
