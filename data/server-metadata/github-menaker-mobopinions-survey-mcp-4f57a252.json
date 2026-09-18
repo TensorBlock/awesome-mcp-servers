@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-menaker-mobopinions-survey-mcp-4f57a252",
+  "source": {
+    "issue": 2486,
+    "projectUrl": "https://github.com/menaker/mobopinions-survey-mcp"
+  },
+  "links": {
+    "endpoint": "https://surveys.mobopinions.com/light-api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
