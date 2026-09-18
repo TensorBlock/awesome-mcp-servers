@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-robot-speed-mcp-7422cf2e",
+  "source": {
+    "issue": 2490,
+    "projectUrl": "https://github.com/robot-speed/mcp"
+  },
+  "links": {
+    "endpoint": "https://www.robot-speed.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Claude Code",
+    "Cline",
+    "other MCP clients"
+  ],
+  "license": "See repo"
+}
