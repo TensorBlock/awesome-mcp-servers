@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-menaker-adtest-mcp-70e2da43",
+  "source": {
+    "issue": 2485,
+    "projectUrl": "https://github.com/menaker/adtest-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y adtest-mcp",
+      "adtest-mcp"
+    ],
+    "env": [
+      "ADTEST_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
