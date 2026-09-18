@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-neuralverge-neuralverge-mcp-server-b28e9d22",
+  "source": {
+    "issue": 2480,
+    "projectUrl": "https://github.com/neuralverge/neuralverge-mcp-server"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
