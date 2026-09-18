@@ -5,6 +5,10 @@
     "issue": 2485,
     "projectUrl": "https://github.com/menaker/adtest-mcp"
   },
+  "category": "Marketing, Sales & CRM",
+  "links": {
+    "docs": "https://adtest.ai/mcp/"
+  },
   "install": {
     "commands": [
       "npx -y adtest-mcp",
@@ -19,7 +23,15 @@
     "stdio"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
-  }
+    "type": "api-key",
+    "notes": [
+      "ADTEST_API_KEY is required; obtain a developer key from https://app.adtest.ai. Each successful analysis is charged to the account wallet."
+    ]
+  },
+  "tools": {
+    "count": 1,
+    "names": ["analyze_advert"],
+    "source": "self_reported"
+  },
+  "license": "MIT"
 }
