@@ -6,7 +6,11 @@
     "projectUrl": "https://github.com/robot-speed/mcp"
   },
   "links": {
+    "docs": "https://www.robot-speed.com/mcp",
     "endpoint": "https://www.robot-speed.com/api/mcp"
+  },
+  "install": {
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +18,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "The account-specific endpoint requires OAuth 2.1 or an X-API-Key header. The separate free endpoint https://www.robot-speed.com/api/mcp/free provides 12 public tools without auth."
     ]
   },
   "clients": [
@@ -25,5 +29,5 @@
     "Cline",
     "other MCP clients"
   ],
-  "license": "See repo"
+  "license": "Proprietary hosted service"
 }
