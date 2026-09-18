@@ -198,7 +198,7 @@ describe("buildCatalogFromMarkdown", () => {
       "## Experimental",
       [
         "- [Metadata MCP](https://example.com/metadata-mcp):",
-        "Run `npx metadata-mcp` with API_KEY for OAuth-enabled Claude usage.",
+        "Run `npx metadata-mcp` with API_KEY against any URL for OAuth-enabled Claude usage.",
         "Includes 13 tools under MIT license.",
       ].join(" "),
     ].join("\n");

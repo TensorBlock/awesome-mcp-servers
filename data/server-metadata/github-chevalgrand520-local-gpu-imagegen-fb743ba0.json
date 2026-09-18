@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-chevalgrand520-local-gpu-imagegen-fb743ba0",
+  "source": {
+    "issue": 2100,
+    "projectUrl": "https://github.com/ChevalGrand520/local-gpu-imagegen"
+  },
+  "description": "Auditable, confirmation-gated local GPU image generation control plane for existing ComfyUI installations on Windows/NVIDIA systems.",
+  "category": "Multimedia Processing",
+  "links": {
+    "docs": "https://github.com/ChevalGrand520/local-gpu-imagegen#readme"
+  },
+  "install": {
+    "commands": [
+      "uvx --from local-gpu-imagegen==0.9.1 local-gpu-imagegen serve"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The local stdio MCP server does not require MCP-layer authentication."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "other stdio MCP clients"
+  ],
+  "tools": {
+    "count": 17,
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Profile claimed by @ChevalGrand520 in #2100 under the community profile-claim process.",
+      "GitHub repository, PyPI release local-gpu-imagegen 0.9.1, and official MCP Registry id io.github.ChevalGrand520/local-gpu-imagegen were reachable during maintainer review.",
+      "Supported platform from claim: Windows 10/11 x64 with NVIDIA GPUs."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@ChevalGrand520"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

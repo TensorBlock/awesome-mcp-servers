@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-csoai-org-councilof-ai-8a48d338",
+  "source": {
+    "issue": 2200,
+    "projectUrl": "https://github.com/CSOAI-ORG/councilof-ai"
+  },
+  "description": "Independent AI-behaviour measurement MCP for frozen instruments, a live GSPC board, signed cards, Merkle proofs, and paid evidence packs over x402.",
+  "category": "Knowledge Management & Memory",
+  "links": {
+    "docs": "https://councilof.ai/mcp",
+    "endpoint": "https://councilof.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y csoai-gspc-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The submitted MCP endpoint and public board are reachable without an API key; paid evidence packs use x402 on Base."
+    ]
+  },
+  "clients": [
+    "Streamable HTTP MCP clients",
+    "stdio MCP clients through the local npm bridge"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Project URL, npm package, hosted MCP endpoint, and public board endpoint were reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@CSOAI-ORG"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-pratie-bulktranscripts-mcp-e4836226",
+  "source": {
+    "issue": 2034,
+    "projectUrl": "https://github.com/pratie/bulktranscripts-mcp"
+  },
+  "description": "Hosted YouTube transcript server for bulk extraction, search, channel and playlist listings, and free new-upload tracking via RSS.",
+  "category": "Multimedia Processing",
+  "links": {
+    "docs": "https://github.com/pratie/bulktranscripts-mcp",
+    "endpoint": "https://bulktranscripts.co/mcp"
+  },
+  "install": {
+    "commands": [
+      "Add https://bulktranscripts.co/mcp as a remote Streamable HTTP MCP connector"
+    ],
+    "env": [
+      "BULKTRANSCRIPTS_LICENSE_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "The free tier is keyless for 30 transcripts per IP.",
+      "Optional Authorization: Bearer <license key> unlocks one-time credit packs."
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Codex",
+    "other Streamable HTTP MCP clients"
+  ],
+  "tools": {
+    "count": 7,
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @pratie in #2034 under the community profile-claim process.",
+      "Requested profile metadata in #2034: Category: Multimedia Processing Transport: streamable-http Auth: bearer Install confidence: low License: MIT Verification: unknown",
+      "GitHub repository and hosted endpoint metadata from the existing catalog row were preserved while accepting the profile claim."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@pratie"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

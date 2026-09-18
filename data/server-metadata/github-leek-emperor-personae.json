@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-leek-emperor-personae",
+  "source": {
+    "projectUrl": "https://github.com/leek-emperor/Personae"
+  },
+  "description": "Control a selected account-isolated Personae browser identity through a locally running desktop app.",
+  "category": "Browser Automation & Web Scraping",
+  "links": {
+    "docs": "https://github.com/leek-emperor/Personae#connecting-codex--claude-code"
+  },
+  "install": {
+    "commands": [
+      "npx -y @leek-emperor/personae-mcp"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Requires a separately installed and running Personae desktop application.",
+      "The launcher connects through Personae's local loopback bridge and opens no public listener."
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Code"
+  ],
+  "tools": {
+    "count": 13,
+    "names": [
+      "load_skill",
+      "list_identities",
+      "open_identity",
+      "snapshot",
+      "navigate",
+      "click",
+      "fill",
+      "press",
+      "act",
+      "get_text",
+      "get_url",
+      "screenshot",
+      "eval_js"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "The project ships unit-tested MCP routing and release metadata."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "leek-emperor"
+    ],
+    "claimed": true
+  }
+}

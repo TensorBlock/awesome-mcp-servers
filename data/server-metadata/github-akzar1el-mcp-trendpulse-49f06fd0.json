@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-akzar1el-mcp-trendpulse-49f06fd0",
+  "source": {
+    "projectUrl": "https://github.com/AKzar1el/mcp-trendpulse"
+  },
+  "description": "TrendPulse is a Python MCP server for Google News research and Google Trends analytics: search articles, extract content, monitor trending terms, compare keyword interest and growth, inspect regional demand, and discover related queries and topics.",
+  "category": "Search",
+  "links": {
+    "docs": "https://github.com/AKzar1el/mcp-trendpulse#readme"
+  },
+  "install": {
+    "commands": [
+      "uvx --from git+https://github.com/AKzar1el/mcp-trendpulse.git mcp-trendpulse"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The community stdio server requires no authentication. Self-hosted Streamable HTTP deployments can optionally enable Clerk OAuth; no public DigestSEO-hosted endpoint is claimed here."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Kiro",
+    "ChatGPT or Codex when connected to a self-hosted Streamable HTTP deployment"
+  ],
+  "tools": {
+    "count": 16,
+    "names": [
+      "get_news_by_keyword",
+      "get_news_by_location",
+      "get_news_by_topic",
+      "get_top_news",
+      "get_news_by_site",
+      "get_article_content",
+      "get_trending_terms",
+      "get_trends",
+      "get_growth",
+      "get_ranked_trends",
+      "get_top_trends",
+      "get_interest_by_region",
+      "get_related_queries",
+      "get_related_topics",
+      "get_suggestions",
+      "get_categories"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata matches the public README and MCP Registry-compatible server.json. The community server is available now; the separate managed DigestSEO-hosted surface is still documented as unreleased."
+    ]
+  }
+}

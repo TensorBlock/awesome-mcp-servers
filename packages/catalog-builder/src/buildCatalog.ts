@@ -347,7 +347,7 @@ function extractInstallCommands(text: string): string[] {
 
 function extractEnvVars(text: string): string[] {
   const matches = text.match(/\b[A-Z][A-Z0-9_]{2,}\b/g) ?? [];
-  return unique(matches.filter((match) => /(KEY|TOKEN|SECRET|PASSWORD|ENDPOINT|URL)$/.test(match)));
+  return unique(matches.filter((match) => /^.+(?:KEY|TOKEN|SECRET|PASSWORD|ENDPOINT|URL)$/.test(match)));
 }
 
 function extractEndpoint(text: string): string | null {

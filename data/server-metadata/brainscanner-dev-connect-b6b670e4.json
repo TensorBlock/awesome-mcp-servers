@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "brainscanner-dev-connect-b6b670e4",
+  "source": {
+    "issue": 2278,
+    "projectUrl": "https://brainscanner.dev/connect"
+  },
+  "description": "Hosted MCP workspace for inspecting recorded project graphs and context, retrieving project reports, and creating queued follow-up work while keeping execution and validation separate from the hosted metadata workflow.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://brainscanner.dev/connect",
+    "endpoint": "https://brainscanner.dev/mcp/v2"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Create a Brain Scanner account, add https://brainscanner.dev/mcp/v2 as a remote Streamable HTTP MCP server, then complete the OAuth browser authorization flow."
+    ]
+  },
+  "clients": [
+    "Codex"
+  ],
+  "license": "Proprietary hosted service (beta terms); private implementation, no open-source license asserted.",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Connection guide and signup pages returned HTTP 200 during maintainer review on 2026-09-10.",
+      "MCP endpoint returned HTTP 401 missing_token during maintainer review, consistent with OAuth-gated access."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@kevin-lozada-santos"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}

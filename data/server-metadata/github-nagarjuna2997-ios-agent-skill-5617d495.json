@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nagarjuna2997-ios-agent-skill-5617d495",
+  "source": {
+    "issue": 2448,
+    "projectUrl": "https://github.com/Nagarjuna2997/ios-agent-skill"
+  },
+  "description": "Unified local stdio MCP connection for Swift review, bounded Apple reference retrieval, app scaffolding and macOS/Xcode simulator build, test, launch and screenshots. The server includes write and simulator operations; only the 11 review tools and reference retrieval are read-only.",
+  "category": "Developer Productivity & Utilities",
+  "install": {
+    "commands": [
+      "npx -y ios-agent-mcp@2.5.1 --project /absolute/path/to/YourApp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Codex",
+    "Gemini CLI",
+    "stdio-compatible MCP clients"
+  ],
+  "tools": {
+    "count": 34,
+    "source": "self_reported",
+    "names": [
+      "11 Swift reviews",
+      "8 reference tools",
+      "14 simulator tools",
+      "create_app."
+    ]
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and npm package ios-agent-mcp returned public metadata during maintainer review on 2026-09-11.",
+      "Metadata updated from issue #2448. Source: Maintainer correction to the existing listing merged in #2303, not a new server submission. https://www.npmjs.com/package/ios-agent-mcp/v/2.5.1..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Nagarjuna2997"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  },
+  "links": {
+    "docs": "https://github.com/Nagarjuna2997/ios-agent-skill#readme"
+  }
+}

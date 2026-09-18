@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "cdn-careclinic-io-mcp-help-index-html-24c773c1",
+  "source": {
+    "issue": 2257,
+    "projectUrl": "https://cdn.careclinic.io/mcp/help/index.html"
+  },
+  "description": "Hosted OAuth MCP server for personal CareClinic health data, including medication and supplement schedules, recent symptoms, mood, medication activity, and descriptive wellness summaries. Medication writes are disabled, and the service is not for diagnosis, treatment changes, emergency care, or HIPAA-covered clinical use.",
+  "category": "Healthcare & Life Sciences",
+  "links": {
+    "docs": "https://cdn.careclinic.io/mcp/help/index.html",
+    "endpoint": "https://mcp.careclinic.io/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with S256 PKCE. Approved client identities and exact registered callbacks are required; CareClinic supports bounded Client ID Metadata Documents and does not expose open Dynamic Client Registration.",
+      "Users sign in to CareClinic and consent before selected personal health data is shared with the connected AI host."
+    ]
+  },
+  "clients": [
+    "OAuth-capable MCP clients with a registered CareClinic client identity"
+  ],
+  "license": "Proprietary hosted service; source is private.",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Docs returned HTTP 200 during maintainer review on 2026-09-09.",
+      "OAuth metadata returned HTTP 200 and the MCP endpoint returned HTTP 401 with an OAuth challenge during maintainer review.",
+      "Official MCP Registry lists io.careclinic/health-tracker as active."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@tandemloop"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}

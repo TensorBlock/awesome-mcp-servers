@@ -2,6 +2,7 @@
 
 Toolkits, SDKs, starter templates, or code frameworks designed to help developers easily build MCP-compliant servers or applications.
 
+- [simtlix/simfinity.js](https://github.com/simtlix/simfinity.js): Node.js library that exposes selected GraphQL queries and mutations as MCP tools through the optional `@simtlix/simfinity-mcp` package. Supports stdio and Streamable HTTP; applications supply their schema, authentication, and trusted context. Database-independent and Apache-2.0. [Setup and examples](https://simtlix.github.io/simfinity.js/guide/mcp.html).
 - [actionhero/keryx](https://github.com/actionhero/keryx): Fullstack TypeScript framework for MCP and APIs on Bun. One Action can serve HTTP, WebSocket, CLI, background tasks, and MCP tools with OAuth 2.1 and streaming support. npm package: `keryx`. MIT.
 - [us-all/mcp-toolkit](https://github.com/us-all/mcp-toolkit) - Shared library for MCP server authors with token-efficient defaults: category toggles, extractFields response slimming, search-tools meta-tool, ToolRegistry, and runtime helper supporting stdio + Streamable HTTP transports.
 - [askbudi/roundtable](https://github.com/askbudi/roundtable): Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface, built on FastMCP framework.
@@ -233,3 +234,4 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 
 
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp): An AI Agents framework providing 64+ built-in MCP tools for search, memory management, workflow orchestration, code execution, and file operations. Install via uvx praisonai-mcp.
+- [ReadyAgents](https://github.com/readyagentsdev/readyagents-core): Local one-shot YAML/JSON agent workflow CLI with tools, approvals, resume, and an optional stdio MCP server for built-in tools. Install: `git clone https://github.com/readyagentsdev/readyagents-core && cd readyagents-core && pip install -e ".[mcp]"` (or see https://readyagents.dev); run `readyagents mcp serve`. Apache-2.0, BYOK.

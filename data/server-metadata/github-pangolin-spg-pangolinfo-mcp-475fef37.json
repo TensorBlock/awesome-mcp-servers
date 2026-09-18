@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-pangolin-spg-pangolinfo-mcp-475fef37",
+  "source": {
+    "issue": 2214,
+    "projectUrl": "https://github.com/Pangolin-spg/pangolinfo-mcp"
+  },
+  "description": "Hosted MCP server for live Amazon marketplace intelligence, SERP signals, WIPO trademark search, and US PACER patent litigation lookups across 19 read-only tools.",
+  "category": "Browser Automation & Web Scraping",
+  "links": {
+    "endpoint": "https://mcp.pangolinfo.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "PANGOLINFO_API_KEY=your-key npx -y pangolinfo-amazon-data-mcp",
+      "docker pull pangolinfo/amazon-data-mcp:latest"
+    ],
+    "env": [
+      "PANGOLINFO_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Use a Pangolin API key in the Authorization bearer header for the hosted endpoint or PANGOLINFO_API_KEY for the local bridge."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other Streamable HTTP or stdio MCP clients"
+  ],
+  "tools": {
+    "count": 19,
+    "names": [],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Project URL, npm package, and hosted endpoint auth boundary were reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Pangolin-spg"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}

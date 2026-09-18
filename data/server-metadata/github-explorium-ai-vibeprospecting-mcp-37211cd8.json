@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-explorium-ai-vibeprospecting-mcp-37211cd8",
+  "source": {
+    "issue": 2246,
+    "projectUrl": "https://github.com/explorium-ai/vibeprospecting-mcp"
+  },
+  "description": "Remote Streamable HTTP MCP server for B2B prospecting: lead-list building, company research, contact enrichment, and personalized outreach from live Explorium data.",
+  "category": "Marketing Sales & CRM",
+  "links": {
+    "docs": "https://vibeprospecting.ai",
+    "endpoint": "https://vibeprospecting.explorium.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http vibe-prospecting https://vibeprospecting.explorium.ai/mcp",
+      "codex mcp add vibe-prospecting --url https://vibeprospecting.explorium.ai/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Connect to the hosted endpoint and complete browser-based OAuth sign-in on first use."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Codex",
+    "Gemini CLI",
+    "Cursor",
+    "Manus",
+    "Hermes"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Project URL and hosted MCP auth boundary were reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@shaharluftig-exp"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}

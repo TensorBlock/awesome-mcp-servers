@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-liyuan1992-rawmem-956141f4",
+  "source": {
+    "projectUrl": "https://github.com/Liyuan1992/rawmem"
+  },
+  "links": {
+    "docs": "https://github.com/Liyuan1992/rawmem#readme"
+  },
+  "install": {
+    "commands": [
+      "python -m pip install \"rawmem[mcp] @ https://github.com/Liyuan1992/rawmem/releases/download/v0.7.1/rawmem-0.7.1-py3-none-any.whl\""
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The local stdio server requires no API key and exposes read-only tools under the configured disclosure scopes."
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "DeepSeek Harness",
+    "other MCP-compatible clients"
+  ],
+  "tools": {
+    "count": 3,
+    "names": [
+      "rawmem_status",
+      "rawmem_recent",
+      "rawmem_archives"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata matches the public v0.7.1 GitHub release, README, and active official MCP Registry entry io.github.Liyuan1992/rawmem."
+    ]
+  }
+}

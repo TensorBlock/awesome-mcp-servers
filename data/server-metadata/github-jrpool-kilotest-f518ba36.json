@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jrpool-kilotest-f518ba36",
+  "source": {
+    "issue": 2251,
+    "projectUrl": "https://github.com/jrpool/kilotest"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @jrpool in #2251 under the community profile-claim process.",
+      "Requested profile metadata in #2251: - **Transport**: `streamable-http` (remote MCP server, not stdio/npx) - **Install**: Remote URL `https://kilotest.com/mcp`; for Claude Desktop, add as a custom connector with that URL. No local package install..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@jrpool"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
