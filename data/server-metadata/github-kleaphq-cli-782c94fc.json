@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kleaphq-cli-782c94fc",
+  "source": {
+    "issue": 2489,
+    "projectUrl": "https://github.com/kleaphq/cli"
+  },
+  "links": {
+    "endpoint": "https://kleap.co/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Claude Code",
+    "Cline",
+    "other MCP clients"
+  ],
+  "license": "See repo"
+}
