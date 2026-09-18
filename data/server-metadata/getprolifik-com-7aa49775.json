@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getprolifik-com-7aa49775",
+  "source": {
+    "issue": 2495,
+    "projectUrl": "https://getprolifik.com"
+  },
+  "links": {
+    "endpoint": "https://app.getprolifik.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "other MCP clients"
+  ],
+  "license": "Proprietary (closed-source, hosted service)"
+}
