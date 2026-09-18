@@ -5,7 +5,7 @@
     "issue": 2395,
     "projectUrl": "https://github.com/usenetstate/statsnet-mcp"
   },
-  "description": "Company registry and financial lookup for Kazakhstan, Uzbekistan, and Kyrgyzstan, covering legal entities, executives, registration status, government contracts, court cases, sanctions, debts, financial statements, and public risk signals.",
+  "description": "Background checks for companies worldwide, covering registration details, executives, government contracts, courts, and finances. Free tools return public cards; contacts, full contracts, relations, and exports require a Statsnet subscription through its REST API.",
   "category": "Data Analysis & Business Intelligence",
   "links": {
     "docs": "https://statsnet.co",
