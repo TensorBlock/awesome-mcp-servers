@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "dike-it-com-f101a83e",
+  "source": {
+    "issue": 2466,
+    "projectUrl": "https://dike.it.com"
+  },
+  "links": {
+    "docs": "https://dike.it.com",
+    "endpoint": "https://api.dike.it.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Send an API key from https://dike.it.com/join as Authorization: Bearer <API key>. No local environment variables are required for the remote endpoint."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Dify",
+    "n8n",
+    "Zapier",
+    "Make"
+  ],
+  "license": "Not applicable (hosted remote server, no local package)"
+}
