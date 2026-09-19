@@ -57,3 +57,4 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 
 - [fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp): Advanced filesystem operations with large file handling capabilities and Claude-optimized features. Provides fast file reading/writing, sequential reading for large files, directory operations, file search, and streaming writes with backup & recovery.
+- [Markovo (fisher-byte/markovo)](https://github.com/fisher-byte/markovo): Convert PDF, DOCX, PPTX, XLSX and authorized public HTTPS pages (Google Docs, Notion, GitHub, Hacker News, YouTube) into clean, structured Markdown for agent context — either through a hosted remote endpoint or a sandboxed local stdio server.
