@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-speeedy10-agent-authority-check-4bdf6874",
+  "source": {
+    "issue": 2518,
+    "projectUrl": "https://github.com/speeedy10/agent-authority-check"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client supporting Streamable HTTP",
+    "verified with the official MCP SDK and the public zero-dependency discovery demo."
+  ],
+  "license": "MIT"
+}
