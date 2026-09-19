@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-starnikovoleg-tgatlas-mcp-c79d21fb",
+  "source": {
+    "issue": 2497,
+    "projectUrl": "https://github.com/starnikovoleg/tgatlas-mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "TELEGRAM_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}
