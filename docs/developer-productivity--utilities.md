@@ -90,9 +90,7 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [OwnID/claude-desktop-mcp-installer](https://github.com/OwnID/claude-desktop-mcp-installer): Facilitates the integration of MCP servers into Claude Desktop by updating configuration files with server details.
 - [goworkwize/wize-mcp](https://github.com/goworkwize/wize-mcp): Facilitates secure access to the Workwize Public API via MCP tools, with easy extensibility for new functionalities.
 - [Moe03/mcp-express-adapter](https://github.com/Moe03/mcp-express-adapter): Facilitates the deployment of multiple MCP clients on a NodeJS Express server, enabling scalable and efficient tool integration.
-- [LuckyCurve/mcp](https://github.com/LuckyCurve/mcp): Facilitates the execution of MCP servers using SQLite and Python for streamlined operations.
 - [oripitch/remote-mcp-server](https://github.com/oripitch/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [MeganHarrison/remote-agents](https://github.com/MeganHarrison/remote-agents): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [Genesis-N-dev/gusto-mcp](https://github.com/Genesis-N-dev/gusto-mcp): Integrates with Gusto's payroll API to provide structured tools for LLM agents, enabling access to payroll and employee data.
 - [L33gn21/mcp-examples](https://github.com/L33gn21/mcp-examples): Explore Python and Spring implementations of MCP servers with OpenAI API integration for seamless client-server communication.
 - [easdkr/mcp-poc](https://github.com/easdkr/mcp-poc): A TypeScript-based server implementing a notes system with resources, tools, and prompts for generating summaries.
@@ -111,7 +109,6 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [sparshdrolia/Persistent-code-mcp](https://github.com/sparshdrolia/Persistent-code-mcp): Facilitates persistent semantic understanding of codebases by creating and maintaining a knowledge graph, enabling advanced semantic search and context management across sessions.
 - [varunidealabs/simple-calculator-mcp-server](https://github.com/varunidealabs/simple-calculator-mcp-server): A custom server offering arithmetic calculation tools for AI assistants, enhancing their mathematical operation capabilities.
 - [sjwoo1999/cursor-talk-to-figma-mcp](https://github.com/sjwoo1999/cursor-talk-to-figma-mcp): Facilitates seamless communication between Cursor AI and Figma for automated design modifications and interactions.
-- [Nathan-L256/nodit-mcp-server-poc](https://github.com/Nathan-L256/nodit-mcp-server-poc): A proof-of-concept MCP server utilizing the Nodit API for seamless integration and testing.
 - [leo-guinan/remote-mcp-server](https://github.com/leo-guinan/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [nowucca/quack-mcp-server](https://github.com/nowucca/quack-mcp-server): Quack automates code analysis and testing for Python, offering linting and static type analysis through an MCP server.
 - [imax09-wq/DesktopCommanderMCP](https://github.com/imax09-wq/DesktopCommanderMCP): Enhance Claude Desktop with terminal command execution, process management, and advanced file operations using Model Context Protocol.
@@ -122,7 +119,6 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [SzczepanBEN/remote-mcp-server](https://github.com/SzczepanBEN/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
 - [ShenSeanChen/launch-mcp-demo](https://github.com/ShenSeanChen/launch-mcp-demo): A versatile MCP server offering command-line tools for file management, weather updates, and WhatsApp chat analysis, with integrations for Supabase, Stripe, and GitHub in Cursor IDE.
 - [Pekno/mcp-commit-helper](https://github.com/Pekno/mcp-commit-helper): Enhances Git commit messages by analyzing diffs and suggesting conventional messages using LLMs like Claude.
-- [lomen-org/tools](https://github.com/lomen-org/tools): Lomen is a plugin-based framework that integrates blockchain tools with AI agents and language models, featuring an MCP server for seamless tool registration and execution.
 - [clay-inc/clay-mcp](https://github.com/clay-inc/clay-mcp): Facilitates contact and interaction management through a Model Context Protocol server for Clay, enabling efficient search and organization of personal and professional networks.
 - [zaruous/mcp-server-hello](https://github.com/zaruous/mcp-server-hello): A Model Context Protocol server built with mcp-framework, featuring customizable tool development and integration with Claude Desktop.
 - [ktrysmt/mcp-think-as](https://github.com/ktrysmt/mcp-think-as): Facilitates the execution of MCP server tasks using UV and Docker for streamlined integration and deployment.
