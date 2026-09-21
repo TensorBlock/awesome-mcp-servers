@@ -6,6 +6,7 @@
     "projectUrl": "https://eaglevirtual.com/mcp"
   },
   "links": {
+    "docs": "https://eaglevirtual.com/mcp",
     "endpoint": "https://mcp.eaglevirtual.com/mcp"
   },
   "transport": [
