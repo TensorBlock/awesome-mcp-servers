@@ -214,7 +214,7 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Hardware & IoT | 67 | [Browse](docs/hardware--iot.md) |
 | Healthcare & Life Sciences | 59 | [Browse](docs/healthcare--life-sciences.md) |
 | Infrastructure | 162 | [Browse](docs/infrastructure.md) |
-| Knowledge Management & Memory | 573 | [Browse](docs/knowledge-management--memory.md) |
+| Knowledge Management & Memory | 572 | [Browse](docs/knowledge-management--memory.md) |
 | Location & Maps | 92 | [Browse](docs/location--maps.md) |
 | Marketing, Sales & CRM | 189 | [Browse](docs/marketing-sales--crm.md) |
 | Monitoring & Observability | 88 | [Browse](docs/monitoring--observability.md) |
