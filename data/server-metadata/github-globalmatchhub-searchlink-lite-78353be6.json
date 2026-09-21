@@ -23,7 +23,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth. A Google credentials JSON that can read Search Console. Either a service account key or gcloud application default credentials. Scope https://www.googleapis.com/auth/webmasters.readonly. No API key and no publisher account."
+      "Requires Google Search Console credentials from a service account JSON or gcloud application default credentials. Set GOOGLE_APPLICATION_CREDENTIALS to the JSON path unless default credentials are already configured. Uses the webmasters.readonly OAuth scope; no separate API key or publisher account is required."
     ]
   },
   "clients": [
@@ -50,7 +50,7 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #2534. Source: - Credential loading and the error text, including the default gcloud path and the two accepted credential types: [`src/auth.ts` lines..."
+      "Maintainer-submitted metadata cross-checked against the public source and README; authenticated runtime was not tested."
     ]
   }
 }
