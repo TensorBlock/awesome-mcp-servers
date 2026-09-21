@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-taskin-ai-trytaskin-a026ac86",
+  "source": {
+    "issue": 2561,
+    "projectUrl": "https://github.com/taskin-ai/trytaskin"
+  },
+  "links": {
+    "endpoint": "https://trytaskin.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "No license selected for the documentation repository; hosted service, not an open-source implementation."
+}
