@@ -5,16 +5,21 @@
     "issue": 2518,
     "projectUrl": "https://github.com/speeedy10/agent-authority-check"
   },
+  "links": {
+    "docs": "https://github.com/speeedy10/agent-authority-check/blob/main/MACHINE-QUICKSTART.md",
+    "endpoint": "https://xqmokxkbgewocuiinnot.supabase.co/functions/v1/foxify-agent-commerce-mcp"
+  },
   "transport": [
     "streamable-http"
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "No API key or OAuth is needed to connect. The verify_agent_payment_intent tool requires an x402 USDC payment on Base."
+    ]
   },
   "clients": [
-    "Any MCP client supporting Streamable HTTP",
-    "verified with the official MCP SDK and the public zero-dependency discovery demo."
+    "Streamable HTTP MCP clients"
   ],
   "license": "MIT"
 }
