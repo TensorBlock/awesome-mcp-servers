@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-akzar1el-nofax-79b863c6",
+  "source": {
+    "issue": 2568,
+    "projectUrl": "https://github.com/AKzar1el/nofax"
+  },
+  "install": {
+    "commands": [
+      "npx -y nofax mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Gemini CLI",
+    "and generic stdio MCP hosts"
+  ],
+  "license": "MIT"
+}
