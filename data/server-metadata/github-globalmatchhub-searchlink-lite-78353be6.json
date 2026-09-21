@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-globalmatchhub-searchlink-lite-78353be6",
+  "source": {
+    "issue": 2534,
+    "projectUrl": "https://github.com/GlobalMatchHub/searchlink-lite"
+  },
+  "links": {
+    "docs": "https://github.com/GlobalMatchHub/searchlink-lite#readme"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:GlobalMatchHub/searchlink-lite"
+    ],
+    "env": [
+      "GOOGLE_APPLICATION_CREDENTIALS"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth. A Google credentials JSON that can read Search Console. Either a service account key or gcloud application default credentials. Scope https://www.googleapis.com/auth/webmasters.readonly. No API key and no publisher account."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 8,
+    "names": [
+      "list_sites",
+      "site_overview",
+      "search_performance",
+      "find_opportunities",
+      "inspect_url",
+      "sitemaps",
+      "page_check",
+      "algorithm_updates"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #2534. Source: - Credential loading and the error text, including the default gcloud path and the two accepted credential types: [`src/auth.ts` lines..."
+    ]
+  }
+}
