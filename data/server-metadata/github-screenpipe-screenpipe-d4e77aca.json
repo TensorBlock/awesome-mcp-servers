@@ -8,13 +8,15 @@
   "description": "screenpipe is local-first workflow memory for AI agents. It captures selected screen, audio, app, and meeting context locally so Claude, Codex, Cursor, and local AI workflows can search real work history through MCP/API. It helps teams turn daily work into cited notes, SOPs, workflow reports, and automation candidates while keeping sensitive context under user control.",
   "category": "Knowledge Management & Memory",
   "links": {
-    "docs": "https://docs.screenpipe.com/mcp-server"
+    "docs": "https://github.com/screenpipe/screenpipe/blob/main/packages/screenpipe-mcp/README.md"
   },
   "install": {
     "commands": [
       "npx -y screenpipe-mcp@latest"
     ],
-    "env": [],
+    "env": [
+      "SCREENPIPE_LOCAL_API_KEY"
+    ],
     "confidence": "medium"
   },
   "tools": {
@@ -33,7 +35,21 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata correction requested in issue #1815. GitHub license API reports NOASSERTION/Other for LICENSE.md rather than MIT. Sources: https://github.com/screenpipe/screenpipe, https://www.npmjs.com/package/screenpipe-mcp, https://docs.screenpipe.com/mcp-server, and https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md."
+      "Metadata correction requested in issue #1815. GitHub license API reports NOASSERTION/Other for LICENSE.md rather than MIT. Sources: https://github.com/screenpipe/screenpipe, https://www.npmjs.com/package/screenpipe-mcp, https://docs.screenpipe.com/mcp-server, and https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md.",
+      "Setup metadata checked against the official MCP README on 2026-09-19. Capture is local by default; configured cloud AI, transcription, sync and integrations can transmit context off-device. No new runtime or endpoint verification is claimed."
+    ]
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "The MCP server connects to a running local Screenpipe recorder, normally on localhost:3030.",
+      "Recommended desktop setup: Settings > Connections supplies the bundled runtime and SCREENPIPE_LOCAL_API_KEY.",
+      "For manual NPX setup, set SCREENPIPE_LOCAL_API_KEY to your own key from screenpipe auth token. Automatic key discovery is a fallback and can delay startup.",
+      "HTTP transport runs with npx -y screenpipe-mcp@latest --http --port 3031. LAN exposure requires an explicit bearer key; this listing does not provide a public remote endpoint."
     ]
   }
 }
