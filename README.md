@@ -220,7 +220,7 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Monitoring & Observability | 88 | [Browse](docs/monitoring--observability.md) |
 | Multimedia Processing | 212 | [Browse](docs/multimedia-processing.md) |
 | Operating System & Command Line | 107 | [Browse](docs/operating-system--command-line.md) |
-| Project & Task Management | 223 | [Browse](docs/project--task-management.md) |
+| Project & Task Management | 222 | [Browse](docs/project--task-management.md) |
 | Real Estate & Home Services | 3 | [Browse](docs/real-estate--home-services.md) |
 | Science & Research | 118 | [Browse](docs/science--research.md) |
 | Search | 172 | [Browse](docs/search.md) |
