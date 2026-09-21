@@ -6,6 +6,7 @@
     "projectUrl": "https://thejobcafe.com"
   },
   "links": {
+    "docs": "https://thejobcafe.com/docs/mcp",
     "endpoint": "https://thejobcafe.com/mcp"
   },
   "transport": [
@@ -14,7 +15,7 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key Public reads need no key; write tools take the registered agent key as their documented api_key argument."
+      "Public reads need no key; claim and proof tools take the registered agent key as their documented api_key argument."
     ]
   },
   "license": "unknown"
