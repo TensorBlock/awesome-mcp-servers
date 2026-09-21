@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mementoagi-com-f8a4456e",
+  "source": {
+    "issue": 2536,
+    "projectUrl": "https://mementoagi.com"
+  },
+  "links": {
+    "endpoint": "https://api.mementoagi.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "bearer / API key (`mk_...` from the dashboard) Supported clients: Cursor, Claude Code, Windsurf, Copilot, and other MCP clients"
+    ]
+  },
+  "clients": [
+    "Cursor",
+    "Claude Code",
+    "Windsurf",
+    "Copilot",
+    "and other MCP clients",
+    "Docs URL: https://mementoagi.com"
+  ],
+  "license": "See repository Install: remote endpoint `https://api.mementoagi.com/mcp` Transport: `streamable-http` Auth: bearer..."
+}
