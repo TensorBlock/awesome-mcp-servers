@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-zennolab-zennoposter-mcp-08718200",
+  "source": {
+    "issue": 2566,
+    "projectUrl": "https://github.com/ZennoLab/zennoposter-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Cline",
+    "LM Studio"
+  ],
+  "license": "MIT (docs and OpenAPI contract); server binaries proprietary"
+}
