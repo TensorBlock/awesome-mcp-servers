@@ -5,7 +5,9 @@
     "issue": 2495,
     "projectUrl": "https://getprolifik.com"
   },
+  "category": "Social Media & Content Platforms",
   "links": {
+    "docs": "https://getprolifik.com/docs/",
     "endpoint": "https://app.getprolifik.com/mcp"
   },
   "transport": [
@@ -14,7 +16,7 @@
   "auth": {
     "type": "bearer",
     "notes": [
-      "bearer"
+      "Send the dashboard-issued API key in the Authorization: Bearer header; the remote connection does not use OAuth."
     ]
   },
   "clients": [
