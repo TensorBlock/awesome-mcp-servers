@@ -22,5 +22,19 @@
   "clients": [
     "Any MCP client that supports local stdio servers (provider-neutral)"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @TheoV823 in #2553 under the community profile-claim process.",
+      "Requested profile metadata in #2553: Description: Deterministic architectural decision governance for the agentic AI SDLC. Agents can submit non-authoritative decision proposals and query canonical decisions, applicability, and lineage without gaining..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@TheoV823"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
