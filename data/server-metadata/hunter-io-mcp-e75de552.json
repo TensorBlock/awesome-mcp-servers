@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "hunter-io-mcp-e75de552",
+  "source": {
+    "issue": 2557,
+    "projectUrl": "https://hunter.io/mcp"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
