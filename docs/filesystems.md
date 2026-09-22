@@ -51,7 +51,6 @@ Servers focused on interacting with local or remote file systems for reading, wr
 - [FellowTraveler/rs_filesystem](https://github.com/FellowTraveler/rs_filesystem): Filesystem tools in Rust for MCP clients, enabling directory-specific operations within Claude Desktop.
 - [tulong66/filesystem](https://github.com/tulong66/filesystem): Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.
 - [dazzaji/filesystem](https://github.com/dazzaji/filesystem): A Node.js server implementing Model Context Protocol for secure filesystem operations, featuring recursive directory listing and file manipulation within specified directories.
-- [Regan-Milne/MCP_Filesystem](https://github.com/Regan-Milne/MCP_Filesystem): Showcases secure file operations with configurable access controls for LLMs.
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server): A Go server enabling filesystem operations through the Model Context Protocol, offering functionalities like file manipulation and directory management.
 - [philgei/mcp_server_filesystem](https://github.com/philgei/mcp_server_filesystem): An unofficial port of Claude's filesystem MCP server implementation for educational purposes, allowing directory access through Claude Desktop.
 
