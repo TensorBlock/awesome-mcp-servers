@@ -6,7 +6,11 @@
     "projectUrl": "https://docs.cogram.com/integrations/mcp-server"
   },
   "links": {
+    "docs": "https://docs.cogram.com/integrations/mcp-server",
     "endpoint": "https://mcp.cogram.com/mcp"
+  },
+  "install": {
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
@@ -19,8 +23,7 @@
   },
   "clients": [
     "ChatGPT",
-    "claude.ai",
-    "and any MCP client supporting remote servers with OAuth."
+    "Claude"
   ],
   "license": "Unknown / proprietary (hosted service, closed source)"
 }
