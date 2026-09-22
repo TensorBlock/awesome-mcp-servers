@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "marketnow-site-9ef0ea0a",
+  "source": {
+    "issue": 2563,
+    "projectUrl": "https://marketnow.site"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @eddyflores100-lang in #2563 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@eddyflores100-lang"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
