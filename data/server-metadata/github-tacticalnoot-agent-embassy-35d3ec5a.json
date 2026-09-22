@@ -1,0 +1,63 @@
+{
+ "$schema": "../../schemas/server-metadata.schema.json",
+ "auth": {
+  "notes": [
+   "No signup, no account, no API key. initialize and tools/list are free and unauthenticated. Each paid tool call is gated by an x402 v2 micropayment (USDC on Base eip155:8453 or Arbitrum One eip155:42161); the 402 response carries the payment pointer. Receipt verification at /v1/receipts/:id is free."
+  ],
+  "type": "none"
+ },
+ "category": "Finance & Crypto",
+ "clients": [
+  "Claude Desktop",
+  "Claude Code",
+  "Cursor",
+  "VS Code",
+  "any MCP client supporting remote Streamable HTTP"
+ ],
+ "community": {
+  "claimed": false,
+  "maintainedBy": [
+   "@tacticalnoot"
+  ],
+  "verifiedBy": []
+ },
+ "description": "Agents pay for work and prove what happened: paid x402 tools for verified web checks, recovery registration, GPU market data, trust reports, research papers, and assurance checks. USDC on Base or Arbitrum One; MCP discovery and receipt verification are free.",
+ "id": "github-tacticalnoot-agent-embassy-35d3ec5a",
+ "install": {
+  "commands": [],
+  "confidence": "high",
+  "env": []
+ },
+ "license": "Proprietary hosted service; not an installable package.",
+ "links": {
+  "docs": "https://agent-embassy.fly.dev/skill.md",
+  "endpoint": "https://agent-embassy.fly.dev/mcp",
+  "homepage": "https://agent-embassy.fly.dev"
+ },
+ "source": {
+  "projectUrl": "https://github.com/tacticalnoot/agent-embassy"
+ },
+ "tools": {
+  "names": [
+   "verified_check",
+   "register_recovery",
+   "compute_spot_prices",
+   "compute_history",
+   "compute_alerts",
+   "trust_report",
+   "research_paper",
+   "assurance_check"
+  ],
+  "source": "verified"
+ },
+ "transport": [
+  "streamable-http"
+ ],
+ "verification": {
+  "notes": [
+   "Homepage https://agent-embassy.fly.dev returned HTTP 200 during maintainer review on 2026-09-21.",
+   "MCP initialize and tools/list at https://agent-embassy.fly.dev/mcp returned HTTP 200 with 8 tools during maintainer review on 2026-09-22. Paid tool execution was not tested."
+  ],
+  "status": "partial"
+ }
+}

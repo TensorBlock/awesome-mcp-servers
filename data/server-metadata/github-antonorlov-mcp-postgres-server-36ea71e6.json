@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-antonorlov-mcp-postgres-server-36ea71e6",
+  "source": {
+    "issue": 2435,
+    "projectUrl": "https://github.com/antonorlov/mcp-postgres-server"
+  },
+  "category": "Databases",
+  "links": {
+    "docs": "https://github.com/antonorlov/mcp-postgres-server#readme"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-postgres-server"
+    ],
+    "env": [
+      "DATABASE_URL",
+      "PG_HOST",
+      "PG_PORT",
+      "PG_USER",
+      "PG_PASSWORD",
+      "PG_DATABASE",
+      "PG_ALLOW_WRITE",
+      "PG_SSH_HOST",
+      "PG_SSH_PORT",
+      "PG_SSH_USER",
+      "PG_SSH_PRIVATE_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The MCP server itself has no separate auth; database access is controlled by the configured connection environment variables."
+    ]
+  },
+  "clients": [
+    "VS Code",
+    "Cursor",
+    "Claude Code",
+    "Codex",
+    "Windsurf"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @antonorlov in #2435 under the community profile-claim process.",
+      "Claim issue states that @antonorlov owns the GitHub repository, publishes the npm package, and owns the official MCP Registry entry io.github.antonorlov/mcp-postgres-server.",
+      "Repository and npm package were reachable and MIT licensed during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@antonorlov"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

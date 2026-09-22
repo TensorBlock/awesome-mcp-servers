@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-magzhansan-mcp-servers-snowleo-7a9dbbfe",
+  "source": {
+    "projectUrl": "https://github.com/MagzhanSan/mcp-servers-snowleo/tree/main/leads"
+  },
+  "links": {
+    "endpoint": "https://mcp.apify.com/?actors=snow_leo_data/google-maps-places-scraper-leads-emails,snow_leo_data/yellow-pages-scraper-bbb-europages-business-directory-leads,snow_leo_data/duckduckgo-scraper-local-business-maps-leads,snow_leo_data/no-website-local-business-leads-openstreetmap,snow_leo_data/contact-scraper-website-emails-phones-socials-lead-extractor"
+  }
+}

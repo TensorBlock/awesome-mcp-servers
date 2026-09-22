@@ -11,7 +11,7 @@
   },
   "install": {
     "commands": [
-      "uvx --from git+https://github.com/AKzar1el/mcp-trendpulse.git mcp-trendpulse"
+      "uvx mcp-trendpulse"
     ],
     "env": [],
     "confidence": "medium"
