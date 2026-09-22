@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "hunter-io-mcp-e75de552",
+  "source": {
+    "issue": 2557,
+    "projectUrl": "https://hunter.io/mcp"
+  },
+  "links": {
+    "docs": "https://hunter.io/mcp",
+    "endpoint": "https://mcp.hunter.io/mcp"
+  },
+  "install": {
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Requires a Hunter account and API key in the X-API-Key or Bearer header; supported clients can instead use Hunter's OAuth flow."
+    ]
+  }
+}
