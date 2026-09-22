@@ -5,6 +5,9 @@
     "issue": 2568,
     "projectUrl": "https://github.com/AKzar1el/nofax"
   },
+  "links": {
+    "docs": "https://github.com/AKzar1el/nofax#mcp"
+  },
   "install": {
     "commands": [
       "npx -y nofax mcp"
@@ -17,13 +20,14 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "The local stdio server uses the local process boundary; the optional self-hosted remote Worker requires a bearer key."
+    ]
   },
   "clients": [
     "Claude Code",
     "Codex",
-    "Gemini CLI",
-    "and generic stdio MCP hosts"
+    "Gemini CLI"
   ],
   "license": "MIT"
 }
