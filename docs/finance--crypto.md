@@ -171,7 +171,6 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [ArchimedesCrypto/fusion360-mcp-server](https://github.com/ArchimedesCrypto/fusion360-mcp-server): Facilitates natural language-driven design operations in Autodesk Fusion 360 by mapping prompts to API calls through an MCP server.
 - [Rayato159/your-money-left-the-chat](https://github.com/Rayato159/your-money-left-the-chat): A Rust-native financial tracker that uses MCP to log and analyze spending habits through natural language conversations, all stored locally with SQLite.
 - [mnckapilan/starling_mcp](https://github.com/mnckapilan/starling_mcp): Facilitates AI model interactions with Starling Bank API endpoints for account management, transactions, and more.
-- [TradingBalthazar/hyperliquid-mcp-server-v6](https://github.com/TradingBalthazar/hyperliquid-mcp-server-v6): Facilitates trading and strategy management on the Hyperliquid exchange through a Model Context Protocol server.
 - [wowinter13/solscan-mcp](https://github.com/wowinter13/solscan-mcp): Facilitates natural language queries of Solana blockchain data using the Solscan API.
 - [sinco-lab/evm-mcp-server](https://github.com/sinco-lab/evm-mcp-server): Facilitates secure interactions between AI agents and EVM-compatible blockchains using the Model Context Protocol.
 - [ferandreassi/binance-mcp](https://github.com/ferandreassi/binance-mcp): Integrates Binance's data vision API to provide real-time cryptocurrency price information via MCP protocol.
@@ -201,7 +200,6 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [dlwjdtn535/mcp-bybit-server](https://github.com/dlwjdtn535/mcp-bybit-server): Facilitates seamless interaction with the Bybit API for market data retrieval, account management, and order execution using MCP tools.
 - [nimitmk7/mcp-finance](https://github.com/nimitmk7/mcp-finance): Facilitates LLM access to financial data, including stock prices and company information, using yfinance and MarketAux API.
 - [zereight/bithumb-mcp](https://github.com/zereight/bithumb-mcp): Facilitates cryptocurrency transactions and data retrieval through the Bithumb API.
-- [sakura-ku/grobal_mcp_stock_server](https://github.com/sakura-ku/grobal_mcp_stock_server): Facilitates real-time access to global stock market data and analysis for AI assistants.
 - [weerofun/kaiafun-mcp](https://github.com/weerofun/kaiafun-mcp): Facilitates token listing, trading, and blockchain interaction on KaiaFun using the MCP protocol.
 - [huahuayu/etherscan-mcp-server](https://github.com/huahuayu/etherscan-mcp-server): A Go-based server enabling LLM applications to access multi-chain Etherscan blockchain data via the Model Context Protocol.
 - [matiosera3-ops/defi-mcp](https://github.com/matiosera3-ops/defi-mcp): Open-source MCP server for on-chain DeFi data — Aave v3 positions, Chainlink token prices, Uniswap v3 swap simulation across Polygon and Arbitrum.
@@ -220,7 +218,6 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [Dbillionaer/polygonmcp](https://github.com/Dbillionaer/polygonmcp): Facilitates AI-driven interactions with the Polygon blockchain, enabling wallet operations, smart contract deployment, and DeFi activities through a standardized interface.
 - [sydowma/crypto_exchange_mcp](https://github.com/sydowma/crypto_exchange_mcp): Facilitates seamless interaction with cryptocurrency exchanges like Bybit, OKX, and Binance through an MCP server interface.
 - [Jaldekoa/mcp-fredapi](https://github.com/Jaldekoa/mcp-fredapi): Integrates FRED economic data with MCP for seamless AI-driven data retrieval.
-- [tooyipjee/yahoofinance-mcp](https://github.com/tooyipjee/yahoofinance-mcp): Provides real-time and historical financial market data from Yahoo Finance for integration with MCP-compatible assistants like Claude.
 - [Lunatix01/fib-pay-mcp](https://github.com/Lunatix01/fib-pay-mcp): Facilitates secure interactions with First Iraqi Bank's Online Payment API using a lightweight MCP server.
 - [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp): Facilitates seamless interaction with the Alpaca trading API for managing stock and crypto portfolios, executing trades, and accessing market data.
 - [techflavors/paypal-invoice-mcp-server](https://github.com/techflavors/paypal-invoice-mcp-server): Facilitates the creation of PayPal invoices through LLMs using the Model Context Protocol.
@@ -234,8 +231,6 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [marcusrein/TokenAPI-Quickstart](https://github.com/marcusrein/TokenAPI-Quickstart): Integrate The Graph's Token API with Cursor IDE for real-time blockchain data querying using SQL-like commands.
 - [TermiX-official/binance-mcp](https://github.com/TermiX-official/binance-mcp): Facilitates secure and efficient trading on Binance using the Model Context Protocol framework for structured transactions.
 - [anuragkrishna/Indian-Stock-Exchange-MCP](https://github.com/anuragkrishna/Indian-Stock-Exchange-MCP): Provides comprehensive financial data and insights for companies listed on the Bombay and National Stock Exchanges.
-- [uratmangun/ai-custodial-wallet](https://github.com/uratmangun/ai-custodial-wallet): A secure custodial wallet service designed for integration with MCP servers, facilitating encrypted transactions and seamless configuration with Claude Desktop and Cursor IDE.
-- [unibaseio/beeper-mcp](https://github.com/unibaseio/beeper-mcp): Facilitates beeper transactions on Binance Smart Chain with tools for balance management, token transfers, and swaps.
 - [mk965/asset-price-mcp](https://github.com/mk965/asset-price-mcp): Facilitates real-time retrieval and display of asset prices, including precious metals and cryptocurrencies, for large language models.
 - [allthatjazzleo/mantrachain-mcp](https://github.com/allthatjazzleo/mantrachain-mcp): Facilitates interaction with the MantraChain blockchain, enabling token transactions, staking, and smart contract operations via the MCP protocol.
 - [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp): A Yahoo Finance MCP server leveraging yfinance to provide tools for fetching stock data, news, and financial insights.
