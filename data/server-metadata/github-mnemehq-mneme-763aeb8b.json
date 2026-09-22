@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-mnemehq-mneme-763aeb8b",
   "source": {
-    "issue": 2555,
+    "issue": 2446,
     "projectUrl": "https://github.com/MnemeHQ/mneme"
   },
   "install": {
@@ -20,8 +20,7 @@
     "notes": []
   },
   "clients": [
-    "Any MCP client that supports local stdio servers (provider-neutral)",
-    "Homepage: https://mnemehq.com"
+    "Any MCP client that supports local stdio servers (provider-neutral)"
   ],
   "license": "MIT",
   "description": "Deterministic architectural decision governance for the agentic AI software-development lifecycle. Agents can submit non-authoritative proposals and query canonical decisions, applicability, and lineage; human acceptance and enforcement authority remain outside the MCP surface.",
@@ -44,8 +43,15 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Published in the Official MCP Registry as io.github.MnemeHQ/mneme version 0.9.1 and successfully evaluated by Glama.",
-      "Metadata updated from issue #2555. Source: - README / Decision MCP: https://github.com/MnemeHQ/mneme#decision-mcp - MCP Registry metadata: https://github.com/MnemeHQ/mneme/blob/main/server.json - Official MCP Registry:..."
+      "Profile claimed by @TheoV823 in #2553 under the community profile-claim process.",
+      "Install and tool metadata from #2555 match the project README and server.json; runtime was not independently tested."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@TheoV823"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
