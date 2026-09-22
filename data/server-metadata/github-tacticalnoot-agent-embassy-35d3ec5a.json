@@ -21,7 +21,7 @@
   ],
   "verifiedBy": []
  },
- "description": "Agents pay for work and prove what happened.",
+ "description": "Agents pay for work and prove what happened: paid x402 tools for verified web checks, recovery registration, GPU market data, trust reports, research papers, and assurance checks. USDC on Base or Arbitrum One; MCP discovery and receipt verification are free.",
  "id": "github-tacticalnoot-agent-embassy-35d3ec5a",
  "install": {
   "commands": [],
@@ -45,7 +45,8 @@
    "compute_history",
    "compute_alerts",
    "trust_report",
-   "research_paper"
+   "research_paper",
+   "assurance_check"
   ],
   "source": "verified"
  },
@@ -55,7 +56,7 @@
  "verification": {
   "notes": [
    "Homepage https://agent-embassy.fly.dev returned HTTP 200 during maintainer review on 2026-09-21.",
-   "MCP initialize and tools/list at https://agent-embassy.fly.dev/mcp returned HTTP 200 with 5 tools during maintainer review on 2026-09-21."
+   "MCP initialize and tools/list at https://agent-embassy.fly.dev/mcp returned HTTP 200 with 8 tools during maintainer review on 2026-09-22. Paid tool execution was not tested."
   ],
   "status": "partial"
  }
