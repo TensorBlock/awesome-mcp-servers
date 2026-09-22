@@ -5,13 +5,16 @@
     "issue": 2566,
     "projectUrl": "https://github.com/ZennoLab/zennoposter-mcp"
   },
+  "links": {
+    "docs": "https://zennolab.github.io/zennoposter-mcp/install.html"
+  },
   "transport": [
     "streamable-http"
   ],
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "Create a product API key in ProjectMaker and pass it to the local MCP server executable; MCP clients connect to loopback without an Authorization header."
     ]
   },
   "clients": [
