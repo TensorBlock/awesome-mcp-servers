@@ -22,5 +22,36 @@
   "clients": [
     "Any MCP client that supports local stdio servers (provider-neutral)"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "description": "Deterministic architectural decision governance for the agentic AI software-development lifecycle. Agents can submit non-authoritative proposals and query canonical decisions, applicability, and lineage; human acceptance and enforcement authority remain outside the MCP surface.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://mnemehq.com/docs/"
+  },
+  "tools": {
+    "count": 6,
+    "names": [
+      "decision.propose",
+      "decision.propose_batch",
+      "decision.get",
+      "decision.search",
+      "decision.applicable_to",
+      "decision.trace"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @TheoV823 in #2553 under the community profile-claim process.",
+      "Install and tool metadata from #2555 match the project README and server.json; runtime was not independently tested."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@TheoV823"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
