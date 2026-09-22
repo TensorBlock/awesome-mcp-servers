@@ -6,7 +6,11 @@
     "projectUrl": "https://mementoagi.com"
   },
   "links": {
+    "docs": "https://mementoagi.com",
     "endpoint": "https://api.mementoagi.com/mcp"
+  },
+  "install": {
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
@@ -14,16 +18,13 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "bearer / API key (`mk_...` from the dashboard) Supported clients: Cursor, Claude Code, Windsurf, Copilot, and other MCP clients"
+      "Bearer API key from the Memento dashboard (`mk_...`)."
     ]
   },
   "clients": [
     "Cursor",
     "Claude Code",
     "Windsurf",
-    "Copilot",
-    "and other MCP clients",
-    "Docs URL: https://mementoagi.com"
-  ],
-  "license": "See repository Install: remote endpoint `https://api.mementoagi.com/mcp` Transport: `streamable-http` Auth: bearer..."
+    "Copilot"
+  ]
 }
