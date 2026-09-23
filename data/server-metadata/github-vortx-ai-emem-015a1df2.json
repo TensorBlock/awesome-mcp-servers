@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-vortx-ai-emem-015a1df2",
+  "source": {
+    "issue": 2599,
+    "projectUrl": "https://github.com/Vortx-AI/emem"
+  },
+  "links": {
+    "endpoint": "https://emem.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "ChatGPT",
+    "Gemini CLI",
+    "Dify"
+  ],
+  "license": "Apache-2.0"
+}
