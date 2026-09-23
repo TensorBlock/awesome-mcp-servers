@@ -252,6 +252,7 @@ function applyMetadataOverride(
     links: {
       ...entry.links,
       ...(metadata.links?.docs ? { docs: metadata.links.docs } : {}),
+      ...(metadata.links?.homepage ? { homepage: metadata.links.homepage } : {}),
       ...(metadata.links?.endpoint ? { endpoint: metadata.links.endpoint } : {}),
     },
     install: {
