@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mikusnuz-iptime-mcp-33491e15",
+  "source": {
+    "issue": 2627,
+    "projectUrl": "https://github.com/mikusnuz/iptime-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y iptime-mcp"
+    ],
+    "env": [
+      "IPTIME_ROUTER_URL",
+      "IPTIME_ROUTER_PASSWORD"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Install: `npx -y iptime-mcp` (Node.js 22+) Transport: stdio Env: `IPTIME_ROUTER_URL`, `IPTIME_ROUTER_USERNAME`, `IPTIME_ROUTER_PASSWORD` Documentation: https://github.com/mikusnuz/iptime-mcp#readme License: MIT"
+    ]
+  }
+}
