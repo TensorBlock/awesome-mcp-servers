@@ -61,7 +61,6 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 - [ubaumann/mkdocs-mcp](https://github.com/ubaumann/mkdocs-mcp): Integrates an MCP server into the MkDocs workflow, providing a custom script to manage the build process and server launch.
 - [MaxParisotto/iggy-mcp-server](https://github.com/MaxParisotto/iggy-mcp-server): A TypeScript-based MCP server implementing a simple notes system with tools for note creation and summarization.
 - [nlxai/mcp-nodejs-server](https://github.com/nlxai/mcp-nodejs-server): A Node.js server implementation for handling tool requests and API communication using the NLX framework.
-- [dannegm/dnn-mcp-labs](https://github.com/dannegm/dnn-mcp-labs): A sandbox for experimenting with Model Context Protocols to enhance model capabilities with dynamic context awareness.
 - [PhungXuanAnh/mcp-server](https://github.com/PhungXuanAnh/mcp-server): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for LLMs.
 - [coding-w/spring-mcp](https://github.com/coding-w/spring-mcp): A Spring Boot-based MCP server implementation that integrates with LLMs to enhance applications with external data access and tool invocation capabilities.
 - [shcallaway/agi-house-hackathon-mcp-server](https://github.com/shcallaway/agi-house-hackathon-mcp-server): A versatile MCP server scaffold designed for customization with additional tools and functionalities, compatible with Claude Desktop.
@@ -87,7 +86,6 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 - [magicuidesign/mcp](https://github.com/magicuidesign/mcp): Magic UI's official MCP server offers a suite of tools for UI component management and animation effects.
 - [itsAnanth/frappe-mcp-python](https://github.com/itsAnanth/frappe-mcp-python): A Python-based MCP server utilizing dynamic tool registration for seamless integration with Claude Desktop.
 - [madosuki/example-mcp-server](https://github.com/madosuki/example-mcp-server): A Clojure-based stdio MCP server utilizing the Java SDK for integration with Claude desktop configurations.
-- [NikoMix/mcp-server-azdo](https://github.com/NikoMix/mcp-server-azdo): Facilitates seamless integration with Azure DevOps Services API for efficient file operations, repository management, and advanced search capabilities.
 - [tanjibpa/mcp-server-demo](https://github.com/tanjibpa/mcp-server-demo): A demo MCP server for managing organizations and devices with distance calculation using PostgreSQL.
 - [aicoders-academy/ai-guards](https://github.com/aicoders-academy/ai-guards): AI Guards offers a framework for AI-driven development, integrating seamlessly with MCP-compatible tools to standardize code planning, review, execution, and verification processes.
 - [kentwalters/remote-mcp-server](https://github.com/kentwalters/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool invocation.
