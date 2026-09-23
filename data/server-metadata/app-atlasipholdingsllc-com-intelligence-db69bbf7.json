@@ -14,7 +14,7 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "Discovery tools are public; subscribed feed access uses an X-Api-Key issued with the subscription."
     ]
   },
   "clients": [
