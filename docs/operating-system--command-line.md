@@ -6,6 +6,7 @@ Servers providing access to the host operating system's command line/shell, exec
 - [anurag-dhamala/os-info-mcp-server](https://github.com/anurag-dhamala/os-info-mcp-server): Provides real-time operating system information through an MCP server interface.
 - [magicuidesign/cli](https://github.com/magicuidesign/cli): Facilitates the installation and configuration of Magic UI components through a command-line interface.
 - [classfang/ssh-mcp-server](https://github.com/classfang/ssh-mcp-server): Facilitates secure remote SSH command execution via the MCP protocol, enabling AI assistants to interact with servers without exposing SSH credentials.
+- [AI Commander](https://aicommander.dev): Remote shell and detached jobs on your own machines via MCP — harness for Claude Code, Codex, ChatGPT, Cursor, and Grok (works with those tools, not a replacement). Install: `npx -y @aicommander/mcp`. Hosted endpoint: `https://aicommander.dev/mcp`.
 - [winterfx/mcpcli](https://github.com/winterfx/mcpcli): A command-line interface for managing and interacting with multiple MCP servers, offering features like tool invocation and server inspection.
 - [reinier-millo/i18n-mcp-server](https://github.com/reinier-millo/i18n-mcp-server): Facilitates seamless internationalization by translating JSON language files using language models through a server interface.
 - [sadeghtkd/ping-mcp-server](https://github.com/sadeghtkd/ping-mcp-server): Facilitates network connectivity tests and ping operations for Claude Desktop via MCP.
