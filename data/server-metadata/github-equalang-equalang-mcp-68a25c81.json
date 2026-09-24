@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-equalang-equalang-mcp-68a25c81",
+  "source": {
+    "issue": 2624,
+    "projectUrl": "https://github.com/equalang/equalang-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @equalang/mcp@0.2.4"
+    ],
+    "env": [
+      "EQUALANG_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "An Equalang API key and account credits are required; files are uploaded to the Equalang cloud for processing."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Claude Code"
+  ],
+  "license": "Apache-2.0"
+}

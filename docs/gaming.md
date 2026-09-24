@@ -39,7 +39,6 @@ $UNIFIED
 - [weekitmo/mcp_godot_rag](https://github.com/weekitmo/mcp_godot_rag): Facilitates access to Godot documentation for the Godot RAG model through an MCP server.
 - [indroneelray/pokemon-mcp-server](https://github.com/indroneelray/pokemon-mcp-server): Fetch Pokémon data using a Model Context Protocol server integrated with the official PokéAPI.
 - [jessiqa1118/factorio-mcp](https://github.com/jessiqa1118/factorio-mcp): Facilitates querying the state of a Factorio game server using the Model Context Protocol, enabling retrieval of server status, player lists, and in-game time.
-- [th3w1zard1/mcp-panda3d](https://github.com/th3w1zard1/mcp-panda3d): Facilitates seamless integration of Claude with Panda3D documentation by enabling efficient search and retrieval through a Model Context Protocol server.
 - [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server): Provides AFL data from the Squiggle API, enabling retrieval of game results, standings, and team information.
 - [Saunved/mcp-server-clash-of-clans](https://github.com/Saunved/mcp-server-clash-of-clans): Enhance your Clash of Clans gameplay with advanced analytics and insights through this MCP server.
 - [L3-N0X/Minecraft-Wiki-MCP](https://github.com/L3-N0X/Minecraft-Wiki-MCP): Facilitates browsing and searching the official Minecraft Wiki with multi-language support and detailed page navigation.
@@ -101,7 +100,6 @@ $UNIFIED
 - [ayeletstudioindia/unreal-analyzer-mcp](https://github.com/ayeletstudioindia/unreal-analyzer-mcp): Provides advanced source code analysis for Unreal Engine projects, enabling AI assistants to deeply understand and analyze codebases.
 - [turlockmike/chess-mcp](https://github.com/turlockmike/chess-mcp): Enhance your chess analysis with professional evaluations and visualizations using Stockfish directly in Claude.
 - [TheApeMachine/caramba](https://github.com/TheApeMachine/caramba): Caramba is a Go-based agent framework that facilitates seamless integration with AI clients through its Model Context Protocol (MCP) server capabilities.
-- [TKpon/dice-server](https://github.com/TKpon/dice-server): A TypeScript-based MCP server for managing and summarizing text notes with URI-based access and metadata.
 - [tetumemo/dice-server](https://github.com/tetumemo/dice-server): Dice-server provides a simple MCP server for rolling dice with customizable sides.
 - [arjunkmrm/mcp-minecraft](https://github.com/arjunkmrm/mcp-minecraft): Integrates AI assistants with Minecraft servers, enabling interaction and observation of the Minecraft world through a bot.
 - [Sunwood-ai-labs/dice-server](https://github.com/Sunwood-ai-labs/dice-server): Facilitates dice rolling with customizable parameters using the Model Context Protocol.
