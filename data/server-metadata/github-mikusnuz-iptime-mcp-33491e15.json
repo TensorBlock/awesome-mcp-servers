@@ -11,6 +11,7 @@
     ],
     "env": [
       "IPTIME_ROUTER_URL",
+      "IPTIME_ROUTER_USERNAME",
       "IPTIME_ROUTER_PASSWORD"
     ],
     "confidence": "medium"
@@ -21,7 +22,8 @@
   "auth": {
     "type": "unknown",
     "notes": [
-      "Install: `npx -y iptime-mcp` (Node.js 22+) Transport: stdio Env: `IPTIME_ROUTER_URL`, `IPTIME_ROUTER_USERNAME`, `IPTIME_ROUTER_PASSWORD` Documentation: https://github.com/mikusnuz/iptime-mcp#readme License: MIT"
+      "Router administrator credentials are supplied through environment variables."
     ]
-  }
+  },
+  "license": "MIT"
 }
