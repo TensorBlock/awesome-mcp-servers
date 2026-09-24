@@ -6,7 +6,7 @@
     "projectUrl": "https://api.market/mcp"
   },
   "links": {
-    "endpoint": "https://api.market/mcp"
+    "endpoint": "https://api.market/api/mcp/gateway"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +14,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth is recommended; API-key authentication is also supported."
     ]
   },
   "clients": [
