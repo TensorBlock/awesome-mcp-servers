@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "removeduplicates-org-657bb25a",
+  "source": {
+    "issue": 2614,
+    "projectUrl": "https://removeduplicates.org/"
+  },
+  "links": {
+    "endpoint": "https://removeduplicates.org/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Cline",
+    "any Streamable HTTP client"
+  ],
+  "license": "MIT"
+}
