@@ -6,11 +6,13 @@
     "projectUrl": "https://github.com/equalang/equalang-mcp"
   },
   "install": {
-    "commands": [],
+    "commands": [
+      "npx -y @equalang/mcp@0.2.4"
+    ],
     "env": [
       "EQUALANG_API_KEY"
     ],
-    "confidence": "low"
+    "confidence": "medium"
   },
   "transport": [
     "stdio"
@@ -18,14 +20,13 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "An Equalang API key and account credits are required; files are uploaded to the Equalang cloud for processing."
     ]
   },
   "clients": [
-    "Documented configurations: Claude Desktop",
+    "Claude Desktop",
     "Cursor",
-    "Claude Code",
-    "tested at MCP protocol level only."
+    "Claude Code"
   ],
   "license": "Apache-2.0"
 }
