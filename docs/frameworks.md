@@ -115,7 +115,6 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 - [zhixiaoqiang/antd-components-mcp](https://github.com/zhixiaoqiang/antd-components-mcp): Facilitates LLMs in querying and understanding Ant Design components through a dedicated MCP server.
 - [jeasonstudio/zan-mcp-server](https://github.com/jeasonstudio/zan-mcp-server): Facilitates seamless blockchain interaction for AI assistants by providing a Model Context Protocol server tailored for ZAN.top node services.
 - [RedSiamese/sitter_tree_mcp](https://github.com/RedSiamese/sitter_tree_mcp): Sitter Tree MCP leverages Tree-sitter to parse code into XML syntax trees, enhancing large language models' ability to analyze and understand code structures.
-- [SamllPigYanDong/revit_mcp](https://github.com/SamllPigYanDong/revit_mcp): Facilitates seamless interaction between Claude AI and Autodesk Revit through a WebSocket-based MCP server, offering real-time model data access and robust error handling.
 - [garymengcom/serper-mcp-server](https://github.com/garymengcom/serper-mcp-server): Facilitates Google Search integration for LLMs using the Serper API.
 - [purinx/chadcn-figma-mcp](https://github.com/purinx/chadcn-figma-mcp): Integrates Figma designs with shadcn/ui components using MCP to bridge AI agents and the Figma API for accurate design implementation.
 - [bertvanbrakel/mcp-cadquery](https://github.com/bertvanbrakel/mcp-cadquery): Facilitates CadQuery script execution and model management via MCP, offering both HTTP SSE and Stdio modes for client integration.
@@ -176,7 +175,6 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 - [sanchitmonga22/flutter-tools-mcp](https://github.com/sanchitmonga22/flutter-tools-mcp): A toolset for integrating AI assistants with Flutter applications, enabling programmatic interaction, debugging, and optimization through a Model Context Protocol server.
 - [easy-peasy/blender-mcp-OLD](https://github.com/easy-peasy/blender-mcp-OLD): Facilitates seamless interaction between Blender and Claude AI for enhanced 3D modeling and scene manipulation through the Model Context Protocol.
 - [GARCHENG/gar-mcp-starter-client](https://github.com/GARCHENG/gar-mcp-starter-client): A Spring Boot application demonstrating integration with MCP servers using Spring AI's tool execution framework.
-- [punkpeye/flutter-mcp](https://github.com/punkpeye/flutter-mcp): A TypeScript-based server that facilitates querying and summarizing Flutter documentation through a note-taking system.
 - [LinkupPlatform/js-mcp-server](https://github.com/LinkupPlatform/js-mcp-server): Integrates Linkup's web search with AI models using a JavaScript-based MCP server.
 - [vincentkoc/test-opik-mcp](https://github.com/vincentkoc/test-opik-mcp): Opik MCP Server offers a unified interface for integrating Opik's capabilities into IDEs, supporting multiple transport mechanisms for flexible development environments.
 - [yjacquin/fast-mcp](https://github.com/yjacquin/fast-mcp): Fast MCP provides a Ruby-focused implementation of the Model Context Protocol, enabling seamless AI model integration with Ruby applications through a clean and expressive interface.
@@ -228,7 +226,6 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 - [ivo-toby/mcp-openapi-server](https://github.com/ivo-toby/mcp-openapi-server): Transforms OpenAPI specifications into MCP resources, enabling seamless interaction with REST APIs via the MCP protocol.
 - [masacento/mcp-go-example](https://github.com/masacento/mcp-go-example): A Go-based example server for the Model Context Protocol, designed for educational purposes with no security or multiuser support.
 - [Resources-cskwork/model-context-protocol-demo](https://github.com/Resources-cskwork/model-context-protocol-demo): Demonstrates the integration of Model Context Protocol with SQLite for database management in Claude Desktop.
-- [saml7n/parbaked](https://github.com/saml7n/parbaked) - Agent-native FastAPI scaffold for invite-only Python apps. 15 MCP tools to scaffold a project, add routes + SQLModel tables, run dev, manage users (approve/reject/reset), check email/deploy status, and ship to fly.io. Install: `uv tool install parbaked && parbaked mcp`.
 
 
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp): An AI Agents framework providing 64+ built-in MCP tools for search, memory management, workflow orchestration, code execution, and file operations. Install via uvx praisonai-mcp.
