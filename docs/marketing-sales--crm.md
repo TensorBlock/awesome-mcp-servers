@@ -173,6 +173,8 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [Spytrend MCP](https://github.com/Spytrend/spytrend-mcp): Lets an agent search Meta and TikTok ads and creatives, look up the advertisers and websites behind them, and rank what is scaling (21 tools). Connect: add `https://mcp.spytrend.com/mcp` as a remote MCP server (Streamable HTTP, OAuth).
 - [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan): Audit websites for SEO, performance, security, accessibility, and agent experience (260+ rules), returning exact fixes for your coding agent. Hosted MCP server at `https://mcp.squirrelscan.com/mcp`. Homepage: https://squirrelscan.com.
 
+- [Screpy SEO MCP](https://screpy.com/feature/seo-mcp/): Official hosted SEO server with 44 project-scoped tools for crawl and page evidence, links, rank tracking, stored AI visibility, Core Web Vitals, and uptime. Streamable HTTP at `https://mcp.screpy.com`; browser-based OAuth. [Setup and tool documentation](https://github.com/screpylabs/seo-mcp).
+
 - [sharozdawa/ai-visibility](https://github.com/sharozdawa/ai-visibility): Track brand visibility across ChatGPT, Perplexity, Claude, and Gemini with visibility scores, sentiment analysis, and competitor detection.
 - [sharozdawa/indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp): Instant URL indexing via IndexNow (Bing, Yandex, Naver, Seznam) and Google Indexing API with sitemap parsing and key generation.
 - [sharozdawa/robotstxt-ai](https://github.com/sharozdawa/robotstxt-ai): Visual robots.txt manager for AI crawlers with toggle controls for 20+ bots including GPTBot, ClaudeBot, and PerplexityBot.
