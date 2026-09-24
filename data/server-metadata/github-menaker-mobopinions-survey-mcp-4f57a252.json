@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-menaker-mobopinions-survey-mcp-4f57a252",
+  "source": {
+    "issue": 2486,
+    "projectUrl": "https://github.com/menaker/mobopinions-survey-mcp"
+  },
+  "category": "Marketing, Sales & CRM",
+  "links": {
+    "docs": "https://github.com/menaker/mobopinions-survey-mcp#readme",
+    "endpoint": "https://surveys.mobopinions.com/light-api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with dynamic client registration and PKCE. Sign in with a surveys.mobopinions.com account; no API key or local environment variables are required."
+    ]
+  },
+  "clients": ["Claude Desktop", "Claude Code", "ChatGPT", "Cursor", "VS Code"],
+  "tools": {
+    "count": 71,
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-akzar1el-nofax-79b863c6",
+  "source": {
+    "issue": 2568,
+    "projectUrl": "https://github.com/AKzar1el/nofax"
+  },
+  "links": {
+    "docs": "https://github.com/AKzar1el/nofax#mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y nofax mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The local stdio server uses the local process boundary; the optional self-hosted remote Worker requires a bearer key."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Gemini CLI"
+  ],
+  "license": "MIT"
+}

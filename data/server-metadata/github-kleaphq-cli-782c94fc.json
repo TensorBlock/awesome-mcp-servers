@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kleaphq-cli-782c94fc",
+  "source": {
+    "issue": 2489,
+    "projectUrl": "https://github.com/kleaphq/cli"
+  },
+  "links": {
+    "docs": "https://kleap.co/mcp",
+    "endpoint": "https://kleap.co/api/mcp"
+  },
+  "install": {
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Connect to the hosted endpoint and sign in with a Kleap account using OAuth. The optional local kleap-cli stdio client uses a saved login token or KLEAP_API_KEY."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Claude Code",
+    "Cline",
+    "other MCP clients"
+  ],
+  "tools": {
+    "count": 26,
+    "source": "verified"
+  },
+  "license": "MIT"
+}

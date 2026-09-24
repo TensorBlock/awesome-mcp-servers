@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-fisher-byte-markovo-f821742e",
+  "source": {
+    "issue": 2510,
+    "projectUrl": "https://github.com/fisher-byte/markovo"
+  },
+  "links": {
+    "docs": "https://markovo.net/docs/mcp",
+    "endpoint": "https://markovo.net/mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx --from markovo==0.1.1 markovo-mcp"
+    ],
+    "env": [
+      "MARKOVO_API_KEY",
+      "MARKOVO_MCP_ROOT"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Remote: OAuth 2.1 (Authorization Code + PKCE), scopes `markovo:read` / `markovo:convert` approved on the Markovo consent screen. Local: `MARKOVO_API_KEY` environment variable."
+    ]
+  },
+  "clients": [
+    "Any MCP host supporting remote servers or stdio: Claude Desktop",
+    "Cursor",
+    "Cline",
+    "etc. Config examples in the repo README."
+  ]
+}

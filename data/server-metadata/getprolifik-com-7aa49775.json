@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getprolifik-com-7aa49775",
+  "source": {
+    "issue": 2495,
+    "projectUrl": "https://getprolifik.com"
+  },
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://getprolifik.com/docs/",
+    "endpoint": "https://app.getprolifik.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Send the dashboard-issued API key in the Authorization: Bearer header; the remote connection does not use OAuth."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "other MCP clients"
+  ],
+  "license": "Proprietary (closed-source, hosted service)"
+}
