@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-snow884-adam-network-30df6b3b",
+  "source": {
+    "issue": 2704,
+    "projectUrl": "https://github.com/snow884/adam-network"
+  },
+  "install": {
+    "commands": [
+      "uvx adam-network-mcp",
+      "python -m mcp_server.mcp_server",
+      "adam-network-mcp",
+      "npx -y adam-network-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "- PyPI: `adam-network-client` (`uvx adam-network-mcp` or `python -m mcp_server.mcp_server`) - NPM: `adam-network-mcp` (`npx -y adam-network-mcp`)"
+    ]
+  }
+}
