@@ -33,8 +33,6 @@ Servers controlling hardware devices, interacting with embedded systems, serial 
 - [noboru-i/nature-remo-mcp-server](https://github.com/noboru-i/nature-remo-mcp-server): Facilitates automation and management of Nature Remo devices through the Model Context Protocol SDK.
 - [lamaalrajih/kicad-mcp](https://github.com/lamaalrajih/kicad-mcp): Facilitates seamless integration of KiCad projects with MCP-compliant clients for enhanced project management and PCB design analysis.
 - [voska/hass-mcp](https://github.com/voska/hass-mcp): Facilitates seamless interaction between AI assistants and Home Assistant for device control and automation management.
-- [tedostrem/home-assistant-mcp-color](https://github.com/tedostrem/home-assistant-mcp-color): Facilitates AI-driven control of Home Assistant devices using natural language commands via MCP integration.
-- [tedostrem/home-assistant-mcp](https://github.com/tedostrem/home-assistant-mcp): Facilitates AI-driven control of Home Assistant devices via natural language commands.
 - [hpohlmann/home-assistant-mcp](https://github.com/hpohlmann/home-assistant-mcp): Enables AI assistants to control Home Assistant devices via natural language commands, enhancing smart home automation.
 - [Oliver0804/arduino-cli-mcp](https://github.com/Oliver0804/arduino-cli-mcp): Facilitates seamless integration of Arduino CLI with VSCode and Claude, enabling natural language interaction with Arduino boards for compiling, uploading, and managing sketches and libraries.
 - [ykhli/mcp-light-control](https://github.com/ykhli/mcp-light-control): Control Philips Hue lights and send Morse code messages through them using an MCP server.
