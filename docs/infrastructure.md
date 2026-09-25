@@ -27,7 +27,6 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [iannuttall/flux-ui-mcp](https://github.com/iannuttall/flux-ui-mcp): A TypeScript-based server offering AI assistants access to Flux UI component documentation and examples through the Model Context Protocol.
 - [Houlong66/mns-mcp-server](https://github.com/Houlong66/mns-mcp-server): Facilitates management of Alibaba Cloud Message Service queues through an MCP framework, enabling easy integration and operation via configuration files.
 - [melihteke/Subnet-Calculator-MCP-Server](https://github.com/melihteke/Subnet-Calculator-MCP-Server): Facilitates subnet calculations using CIDR notation through an MCP server with SSE transport.
-- [stolostron/server-foundation-dev-context](https://github.com/stolostron/server-foundation-dev-context): Facilitates the setup and management of server foundation repositories through an MCP server integration with code agents.
 - [ardecode/netbox-mcp-server](https://github.com/ardecode/netbox-mcp-server): Connects to NetBox to expose network infrastructure data for use with MCP-compatible LLMs like Claude.
 - [G1L1-Tech/remote-mcp-server](https://github.com/G1L1-Tech/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool invocation.
 - [ap425q/CutterMCP](https://github.com/ap425q/CutterMCP): Facilitates autonomous reverse engineering of applications by LLMs using Cutter's core functionalities.
@@ -35,7 +34,6 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [devilofdev/mcp-config](https://github.com/devilofdev/mcp-config): Facilitates the configuration and management of multiple MCP servers, including filesystem, Obsidian, and Git integrations.
 - [koudaiDemon/mcp-server-hand](https://github.com/koudaiDemon/mcp-server-hand): Enhances user shopping experiences by analyzing conversations to provide personalized product recommendations through intelligent tag matching.
 - [Humboldtian/remote-mcp-server](https://github.com/Humboldtian/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [str8zero/Str8zeroMCP](https://github.com/str8zero/Str8zeroMCP): A template MCP server integrated with Mem0, enabling AI agents to manage long-term memory through semantic search and storage.
 - [tjun/terraform-doc-mcp](https://github.com/tjun/terraform-doc-mcp): Facilitates access to Terraform provider and resource documentation for integration with LLMs like Claude Desktop.
 - [jgarciaga/overseerr-mcp](https://github.com/jgarciaga/overseerr-mcp): Facilitates interaction with the Overseerr API for managing movie and TV show requests.
 - [joinbuildclub/buildclub-mcp-server](https://github.com/joinbuildclub/buildclub-mcp-server): BuildClub's official server facilitates seamless integration with Claude Desktop through MCP protocol.
