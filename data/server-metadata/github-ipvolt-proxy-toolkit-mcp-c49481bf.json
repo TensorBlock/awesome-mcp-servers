@@ -9,13 +9,14 @@
     "endpoint": "https://mcp.ipvolt.com/mcp"
   },
   "install": {
-    "commands": [],
-    "env": [
-      "IPVOLT_PROXY_URL"
+    "commands": [
+      "npx --yes @ipvolt/proxy-toolkit-mcp@0.1.0"
     ],
-    "confidence": "low"
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
+    "stdio",
     "streamable-http"
   ],
   "auth": {
