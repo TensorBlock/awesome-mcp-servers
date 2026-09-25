@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-suleimandoescsec-instantreply-mcp-0eef9885",
+  "source": {
+    "issue": 2670,
+    "projectUrl": "https://github.com/suleimandoescsec/instantreply-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.instantreply.co/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @instantreply.co/mcp"
+    ],
+    "env": [
+      "INSTANTREPLY_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth for remote; local browser pairing or API key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Zed",
+    "any compatible MCP client. Remote OAuth clients depend on their support for the flow."
+  ],
+  "license": "MIT"
+}
