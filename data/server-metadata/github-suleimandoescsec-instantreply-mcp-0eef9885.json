@@ -32,8 +32,7 @@
     "Claude Code",
     "Cursor",
     "Windsurf",
-    "Zed",
-    "any compatible MCP client. Remote OAuth clients depend on their support for the flow."
+    "Zed"
   ],
   "license": "MIT"
 }
