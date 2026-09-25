@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ipvolt-proxy-toolkit-mcp-c49481bf",
+  "source": {
+    "issue": 2686,
+    "projectUrl": "https://github.com/ipvolt/proxy-toolkit-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.ipvolt.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "IPVOLT_PROXY_URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "MCP Inspector (tested)",
+    "any client that supports stdio or Streamable HTTP"
+  ],
+  "license": "MIT"
+}
