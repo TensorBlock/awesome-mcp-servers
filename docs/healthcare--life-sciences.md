@@ -54,7 +54,6 @@ Servers integrating with healthcare standards, medical literature databases, bio
 - [terilios/smartsheet-server](https://github.com/terilios/smartsheet-server): Facilitates intelligent healthcare analytics and document management on Smartsheet through seamless AI integration.
 - [grll/pubmedmcp](https://github.com/grll/pubmedmcp): Facilitates searching and retrieving biomedical literature from PubMed using a dedicated MCP server.
 - [VertexStudio/bioma-tool](https://github.com/VertexStudio/bioma-tool): Bioma-tool is an MCP server designed for generating schemas from MCP schema files, facilitating structured data management.
-- [navisbio/mcp_motherduck](https://github.com/navisbio/mcp_motherduck): Provides read-only access to MotherDuck databases with schema-level access control through MCP.
 - [navisbio/mcp_bigquery_biomedical](https://github.com/navisbio/mcp_bigquery_biomedical): Facilitates access to Google BigQuery biomedical datasets, optimizing data retrieval for biopharma-specific inquiries.
 - [mdagost/mcp-cps-data](https://github.com/mdagost/mcp-cps-data): Facilitates querying local databases for detailed information on Chicago Public Schools, including school neighborhoods and websites.
 - [TakumiY235/uniprot-mcp-server](https://github.com/TakumiY235/uniprot-mcp-server): Facilitates AI-driven access to UniProt protein data, enabling retrieval of protein functions and sequences.
