@@ -128,7 +128,7 @@ export const listRecentServers = (
   catalog: CatalogEntry[],
   rawLimit: number | undefined
 ): ServerSummary[] =>
-  sortWithOriginalOrder(catalog, sortByUpdatedAtThenPullRequest)
+  sortWithOriginalOrder(catalog, sortByPullRequestThenUpdatedAt)
     .slice(0, normalizeLimit(rawLimit))
     .map(summarizeServer);
 
@@ -219,6 +219,10 @@ const sortWithOriginalOrder = (
     .map((entry, index) => ({ entry, index }))
     .sort((left, right) => compare(left.entry, right.entry) || left.index - right.index)
     .map(({ entry }) => entry);
+
+const sortByPullRequestThenUpdatedAt = (left: CatalogEntry, right: CatalogEntry): number =>
+  compareNullableNumberDesc(left.source.pullRequest ?? null, right.source.pullRequest ?? null)
+  || compareNullableNumberDesc(timestampRank(left.source.lastUpdatedAt), timestampRank(right.source.lastUpdatedAt));
 
 const sortByUpdatedAtThenPullRequest = (left: CatalogEntry, right: CatalogEntry): number =>
   compareNullableNumberDesc(timestampRank(left.source.lastUpdatedAt), timestampRank(right.source.lastUpdatedAt))

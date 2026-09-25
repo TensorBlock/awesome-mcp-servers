@@ -253,7 +253,7 @@ describe("catalog helpers", () => {
     expect(normalizeLimit(7.8)).toBe(7);
   });
 
-  it("lists recent servers by update timestamp before pull request fallback", () => {
+  it("lists recent servers by pull request number before update timestamp fallback", () => {
     const timelineCatalog = [
       entry({
         id: "older-pr",
@@ -281,14 +281,14 @@ describe("catalog helpers", () => {
     ];
 
     expect(listRecentServers(timelineCatalog, 3).map((server) => server.id)).toEqual([
-      "timestamp-only",
-      "older-pr",
       "newer-pr",
+      "older-pr",
+      "timestamp-only",
     ]);
     expect(listRecentServers(timelineCatalog, 1)[0]).toMatchObject({
-      id: "timestamp-only",
-      sourcePullRequest: null,
-      lastUpdatedAt: "2026-06-20T10:00:00.000Z",
+      id: "newer-pr",
+      sourcePullRequest: 42,
+      lastUpdatedAt: "2026-06-01T10:00:00.000Z",
     });
   });
 

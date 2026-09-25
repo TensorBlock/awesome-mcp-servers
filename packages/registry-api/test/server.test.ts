@@ -282,10 +282,10 @@ describe("registry API server", () => {
     expect(response.status).toBe(200);
     expect(body.count).toBe(2);
     expect(body.limit).toBe(2);
-    expect(body.servers.map((server) => server.id)).toEqual(["timestamp-only", "older-pr"]);
+    expect(body.servers.map((server) => server.id)).toEqual(["newer-pr", "older-pr"]);
     expect(body.servers[0]).toMatchObject({
-      sourcePullRequest: null,
-      lastUpdatedAt: "2026-06-20T10:00:00.000Z",
+      sourcePullRequest: 42,
+      lastUpdatedAt: "2026-06-01T10:00:00.000Z",
     });
   });
 
