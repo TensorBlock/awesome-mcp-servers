@@ -6,7 +6,7 @@
     "projectUrl": "https://yodu.ai/developers"
   },
   "links": {
-    "endpoint": "https://app.yodu.ai/api/mcp"
+    "endpoint": "https://app.yodu.ai/api/mcp/oauth"
   },
   "transport": [
     "streamable-http"
@@ -14,13 +14,14 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth for the remote endpoint; workspace API keys are also supported at https://app.yodu.ai/api/mcp."
     ]
   },
   "clients": [
-    "Public documentation includes Claude Code",
+    "Claude Code",
     "Claude Desktop",
-    "Cursor and Codex setup. No complete authenticated client test is claimed in this submission."
+    "Cursor",
+    "Codex"
   ],
-  "license": "Proprietary hosted service."
+  "license": "Proprietary hosted service"
 }
