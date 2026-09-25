@@ -10,9 +10,7 @@
   },
   "install": {
     "commands": [],
-    "env": [
-      "URL"
-    ],
+    "env": [],
     "confidence": "low"
   },
   "transport": [
@@ -21,7 +19,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth _Also accepts an API key (`Authorization: Bearer mcp_…` or `?token=`)._"
+      "OAuth 2.1 with dynamic client registration, or a free personal API key sent as `Authorization: Bearer mcp_…` or appended as `?token=mcp_…`. `initialize` and `tools/list` answer anonymously; `tools/call` needs the key or OAuth."
     ]
   },
   "clients": [
@@ -32,5 +30,5 @@
     "Cline",
     "VS Code"
   ],
-  "license": "unknown (hosted service; the connector repo is public)"
+  "license": "MIT for the plugin and docs repo; the hosted server is closed-source."
 }
