@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "yodu-ai-developers-c7ad08d9",
+  "source": {
+    "issue": 2684,
+    "projectUrl": "https://yodu.ai/developers"
+  },
+  "links": {
+    "endpoint": "https://app.yodu.ai/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Public documentation includes Claude Code",
+    "Claude Desktop",
+    "Cursor and Codex setup. No complete authenticated client test is claimed in this submission."
+  ],
+  "license": "Proprietary hosted service."
+}
