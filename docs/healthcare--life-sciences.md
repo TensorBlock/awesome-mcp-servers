@@ -46,7 +46,6 @@ Servers integrating with healthcare standards, medical literature databases, bio
 - [EduBase/MCP](https://github.com/EduBase/MCP): Facilitates seamless interaction between EduBase's e-learning platform and LLMs like Claude through the Model Context Protocol.
 - [tomekkorbak/oura-mcp-server](https://github.com/tomekkorbak/oura-mcp-server): Facilitates querying sleep, readiness, and resilience data from the Oura API for language models.
 - [eka-care/eka_mcp_server](https://github.com/eka-care/eka_mcp_server): Eka MCP Server enhances healthcare workflows by grounding AI responses in verified medical data, reducing hallucinations and ensuring medical accuracy.
-- [TerminallyLazy/MCP-on-FHIR](https://github.com/TerminallyLazy/MCP-on-FHIR): An interactive FHIR application leveraging MCP Knowledge Graph capabilities for healthcare data visualization and interaction.
 - [Kartha-AI/agentcare-mcp](https://github.com/Kartha-AI/agentcare-mcp): Facilitates seamless integration with EMRs like Cerner and Epic, offering healthcare tools and FHIR data interaction capabilities.
 - [catalystneuro/mcp](https://github.com/catalystneuro/mcp): CatalystNeuro's MCP servers facilitate semantic search and other functionalities with customizable configurations.
 - [GBA-BI/bioos-mcp-server](https://github.com/GBA-BI/bioos-mcp-server): Facilitates workflow and Docker image management for Bio-OS platforms using MCP protocols.
