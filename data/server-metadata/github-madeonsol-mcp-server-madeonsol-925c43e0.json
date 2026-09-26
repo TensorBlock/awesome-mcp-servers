@@ -5,6 +5,9 @@
     "issue": 2720,
     "projectUrl": "https://github.com/MadeOnSol/mcp-server-madeonsol"
   },
+  "links": {
+    "docs": "https://madeonsol.com/api-docs"
+  },
   "install": {
     "commands": [
       "npx -y mcp-server-madeonsol"
@@ -14,10 +17,13 @@
     ],
     "confidence": "medium"
   },
+  "transport": [
+    "stdio"
+  ],
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "Use MADEONSOL_API_KEY, or configure the documented keyless x402 payment mode."
     ]
   },
   "clients": [
