@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "arikratt-ee-en-mcp-1c4b2163",
+  "source": {
+    "projectUrl": "https://arikratt.ee/en/mcp"
+  },
+  "description": "Read-only Estonian public-register data for legal entities: company search, company cards, counterparty checks, peer comparison, EMTAK sector statistics, county statistics, open funding calls, public procurement notices, and register risk signals. Company-level records only.",
+  "category": "Data Analysis & Business Intelligence",
+  "links": {
+    "docs": "https://arikratt.ee/en/mcp",
+    "homepage": "https://arikratt.ee",
+    "endpoint": "https://arikratt.ee/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "ARIKRATT_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "tools/call requires the header Authorization: Bearer <personal API key>. The key is not placed in the URL. initialize and tools/list succeed when that header is omitted. An empty or invalid Bearer value is rejected. Trial: 14 days and 50 successful calls, requested by email at arikratt@r-53.com."
+    ]
+  },
+  "clients": [
+    "Claude Desktop (via mcp-remote)",
+    "Claude Code",
+    "Cursor"
+  ],
+  "tools": {
+    "count": 10,
+    "names": [
+      "search_companies",
+      "get_company",
+      "check_counterparty",
+      "compare_companies",
+      "find_companies",
+      "sector_stats",
+      "region_stats",
+      "open_calls",
+      "procurement_notices",
+      "risk_signals"
+    ],
+    "source": "verified"
+  },
+  "license": "No public software license specified; hosted service terms: https://arikratt.ee/en/mcp/tingimused",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Anonymous initialize and tools/list against https://arikratt.ee/mcp succeeded on 2026-09-26 with protocolVersion 2025-06-18 and returned these 10 tools, all annotated readOnlyHint: true. tools/call was not executed.",
+      "Client compatibility, trial terms, and company-only data scope are documented at https://arikratt.ee/en/mcp; client connections and authenticated tool results were not tested.",
+      "This is a submission by the server operator, R-53 OÜ. Tool discovery was checked with AI assistance; this is not TensorBlock verification."
+    ]
+  }
+}
