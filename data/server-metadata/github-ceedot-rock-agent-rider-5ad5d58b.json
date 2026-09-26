@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ceedot-rock-agent-rider-5ad5d58b",
+  "source": {
+    "issue": 2724,
+    "projectUrl": "https://github.com/ceedot-rock/Agent-Rider"
+  },
+  "links": {
+    "endpoint": "https://agentrider.fly.dev/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer (rider JWT only for paid/write tools; discovery is open)"
+    ]
+  },
+  "clients": [
+    "Any MCP client with streamable HTTP support (Cursor",
+    "VS Code",
+    "Claude Code",
+    "etc.)"
+  ],
+  "license": "AGPL-3.0 / commercial (dual)"
+}
