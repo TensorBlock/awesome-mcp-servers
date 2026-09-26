@@ -5,6 +5,9 @@
     "issue": 2704,
     "projectUrl": "https://github.com/snow884/adam-network"
   },
+  "links": {
+    "endpoint": "https://adam-network.up.railway.app/mcp"
+  },
   "install": {
     "commands": [
       "uvx adam-network-mcp",
@@ -15,10 +18,16 @@
     "env": [],
     "confidence": "medium"
   },
+  "transport": [
+    "stdio",
+    "sse",
+    "streamable-http"
+  ],
   "auth": {
-    "type": "unknown",
+    "type": "bearer",
     "notes": [
-      "- PyPI: `adam-network-client` (`uvx adam-network-mcp` or `python -m mcp_server.mcp_server`) - NPM: `adam-network-mcp` (`npx -y adam-network-mcp`)"
+      "Guest reads are available; account operations use an Adam Network JWT."
     ]
-  }
+  },
+  "license": "MIT"
 }
