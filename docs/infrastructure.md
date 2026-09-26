@@ -109,7 +109,6 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [hannesj/mcp-openapi-schema](https://github.com/hannesj/mcp-openapi-schema): Facilitates LLMs in exploring and understanding OpenAPI specifications through specialized tools for schema interaction.
 - [newtype-01/obsidian-mcp](https://github.com/newtype-01/obsidian-mcp): Connects AI models with Obsidian knowledge bases for seamless note management and integration.
 - [severity1/terraform-cloud-mcp](https://github.com/severity1/terraform-cloud-mcp): Integrates AI assistants with Terraform Cloud API for infrastructure management through natural conversation.
-- [saurrx/mcp-test](https://github.com/saurrx/mcp-test): Integrates with the Spheron Protocol SDK to enable compute deployment and management via natural language to YAML conversion.
 - [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server): Integrates with Vectorize for advanced vector retrieval and text extraction.
 - [3dify-project/dify-mcp-client](https://github.com/3dify-project/dify-mcp-client): This repository provides an MCP Client as an Agent Strategy Plugin for connecting to MCP servers, facilitating tool integration and interaction with LLMs.
 - [im2nguyen/mcp-cli](https://github.com/im2nguyen/mcp-cli): A versatile command-line interface for managing and interacting with AI-powered MCP servers, supporting both on-demand and long-running server processes.
@@ -125,10 +124,8 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [dennismartis/mcp-server](https://github.com/dennismartis/mcp-server): A basic MCP server implementing a note storage system with custom URI schemes and summarization capabilities.
 - [mattjoyce/senechal-mcp](https://github.com/mattjoyce/senechal-mcp): A companion MCP server for the Senechal project, enabling LLMs to access and analyze health data through a standardized interface.
 - [ragieai/ragie-mcp-server](https://github.com/ragieai/ragie-mcp-server): Facilitates AI model access to Ragie's knowledge base through a Model Context Protocol server, enabling efficient information retrieval.
-- [nefino/mcp-nefino](https://github.com/nefino/mcp-nefino): Provides LLMs with structured access to renewable energy news and information in Germany via the Nefino API.
 - [AojdevStudio/servers](https://github.com/AojdevStudio/servers): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing its versatility in providing secure, controlled access to tools and data sources for LLMs.
 - [Lumi-node/all_servers](https://github.com/Lumi-node/all_servers): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled tool access for LLMs.
-- [shin-t-o/mcp-access](https://github.com/shin-t-o/mcp-access): A custom MCP server enabling web and PDF text extraction and command execution through a user-friendly interface.
 - [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp): Tavily MCP server enables seamless integration with AI clients like Claude, offering real-time web search and intelligent data extraction capabilities.
 - [waldur/waldur-mcp-server](https://github.com/waldur/waldur-mcp-server): Facilitates seamless interaction between Waldur and Claude Desktop through the Model Context Protocol.
 - [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp): A fast, secure MCP server enhanced with WebAssembly plugins for versatile AI integration across platforms.

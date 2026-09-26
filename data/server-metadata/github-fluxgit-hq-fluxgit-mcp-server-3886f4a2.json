@@ -5,6 +5,13 @@
     "issue": 2700,
     "projectUrl": "https://github.com/fluxgit-hq/fluxgit-mcp-server"
   },
+  "install": {
+    "commands": [
+      "cargo install --git https://github.com/fluxgit-hq/fluxgit-mcp-server fluxgit-mcp-sidecar"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
   "transport": [
     "stdio"
   ],
