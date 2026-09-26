@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-fluxgit-hq-fluxgit-mcp-server-3886f4a2",
+  "source": {
+    "issue": 2700,
+    "projectUrl": "https://github.com/fluxgit-hq/fluxgit-mcp-server"
+  },
+  "install": {
+    "commands": [
+      "cargo install --git https://github.com/fluxgit-hq/fluxgit-mcp-server fluxgit-mcp-sidecar"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "and other local stdio MCP hosts"
+  ],
+  "license": "Apache-2.0"
+}
