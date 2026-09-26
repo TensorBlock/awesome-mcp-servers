@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-snow884-adam-network-30df6b3b",
+  "source": {
+    "issue": 2704,
+    "projectUrl": "https://github.com/snow884/adam-network"
+  },
+  "links": {
+    "endpoint": "https://adam-network.up.railway.app/mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx adam-network-mcp",
+      "python -m mcp_server.mcp_server",
+      "adam-network-mcp",
+      "npx -y adam-network-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "sse",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Guest reads are available; account operations use an Adam Network JWT."
+    ]
+  },
+  "license": "MIT"
+}
