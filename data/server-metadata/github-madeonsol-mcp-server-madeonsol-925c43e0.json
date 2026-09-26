@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-madeonsol-mcp-server-madeonsol-925c43e0",
+  "source": {
+    "issue": 2720,
+    "projectUrl": "https://github.com/MadeOnSol/mcp-server-madeonsol"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-server-madeonsol"
+    ],
+    "env": [
+      "MADEONSOL_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Claude Code",
+    "any MCP client"
+  ],
+  "license": "MIT"
+}
