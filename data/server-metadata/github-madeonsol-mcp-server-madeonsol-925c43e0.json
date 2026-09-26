@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-madeonsol-mcp-server-madeonsol-925c43e0",
+  "source": {
+    "issue": 2720,
+    "projectUrl": "https://github.com/MadeOnSol/mcp-server-madeonsol"
+  },
+  "links": {
+    "docs": "https://madeonsol.com/api-docs"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-server-madeonsol"
+    ],
+    "env": [
+      "MADEONSOL_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Use MADEONSOL_API_KEY, or configure the documented keyless x402 payment mode."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Claude Code",
+    "any MCP client"
+  ],
+  "license": "MIT"
+}
