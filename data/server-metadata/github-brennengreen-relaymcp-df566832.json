@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-brennengreen-relaymcp-df566832",
+  "source": {
+    "issue": 2735,
+    "projectUrl": "https://github.com/brennengreen/RelayMCP"
+  },
+  "links": {
+    "endpoint": "http://127.0.0.1:8765/mcp"
+  },
+  "install": {
+    "commands": [
+      "relaymcp setup",
+      "relaymcp mcp --print"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "GitHub Copilot CLI (registered automatically)",
+    "Claude Code",
+    "VS Code",
+    "and other clients with streamable HTTP support"
+  ],
+  "license": "MIT"
+}
