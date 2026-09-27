@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-brennengreen-speedread-d031574f",
+  "source": {
+    "issue": 2734,
+    "projectUrl": "https://github.com/brennengreen/speedread"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "GitHub Copilot CLI (measured in the project's evals)",
+    "configurations documented for Claude Code",
+    "Claude Desktop",
+    "VS Code",
+    "Cursor",
+    "Codex CLI",
+    "Gemini CLI and Zed"
+  ],
+  "license": "MIT"
+}
