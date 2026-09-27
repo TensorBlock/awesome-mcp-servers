@@ -124,7 +124,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [julianehuettl/wolfram-alpha-mcp](https://github.com/julianehuettl/wolfram-alpha-mcp): Integrates Wolfram Alpha's computational knowledge engine with LLMs for advanced mathematical and scientific queries.
 - [stephen9412/memos-mcp-server](https://github.com/stephen9412/memos-mcp-server): Integrates Memos API with AI assistants for seamless memo management, including search, creation, and retrieval functionalities.
 - [cconstable/obsidian-mcp](https://github.com/cconstable/obsidian-mcp): Facilitates reading and searching Obsidian vaults through an MCP server, enhancing note accessibility and integration with tools like VS Code.
-- [Masuda-1246/sample_mcp](https://github.com/Masuda-1246/sample_mcp): A sample MCP server setup guide with configuration instructions for running a Python-based server.
 - [zohar/knesset-mcp](https://github.com/zohar/knesset-mcp): Facilitates AI applications in accessing and interacting with Israeli Knesset parliamentary data through a standardized interface.
 - [blck-snwmn/repodocs](https://github.com/blck-snwmn/repodocs): Facilitates document management and access within repositories using a simple MCP server setup.
 - [zereight/google-docs-mcp](https://github.com/zereight/google-docs-mcp): Facilitates access, reading, and editing of Google Docs documents through an MCP server.
@@ -176,14 +175,12 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [BangyiZhang/xmind-generator-mcp](https://github.com/BangyiZhang/xmind-generator-mcp): Facilitates the creation of structured Xmind mind maps through LLMs using the MCP protocol.
 - [fnf-deepHeading/mcp-api-server-wrapper](https://github.com/fnf-deepHeading/mcp-api-server-wrapper): A template for wrapping external APIs into MCP servers using AI, featuring automatic API integration and Docker support.
 - [apw124/logseq-mcp](https://github.com/apw124/logseq-mcp): Facilitates AI agents' interaction with Logseq graphs through a set of MCP tools, enabling seamless data manipulation and retrieval.
-- [rsym/how-person](https://github.com/rsym/how-person): A TypeScript-based MCP server implementing a simple notes system with tools for note creation and summarization.
 - [rarandeyo/INIAD-MOOCs-MCP](https://github.com/rarandeyo/INIAD-MOOCs-MCP): Automates login, assignment submission, and file uploads for INIAD MOOCs using Playwright MCP.
 - [moritalous/mermaid-doc-mcp-server](https://github.com/moritalous/mermaid-doc-mcp-server): Facilitates the generation and retrieval of Mermaid diagram documentation through an MCP server interface.
 - [EnzoVezzaro/mcp-dominican-layer](https://github.com/EnzoVezzaro/mcp-dominican-layer): Access detailed information about the Dominican Congress, including legislative agendas and new bills, through a dedicated MCP server.
 - [OpenMined/DistributedKnowledge](https://github.com/OpenMined/DistributedKnowledge): Distributed Knowledge is a decentralized, network-aware LLM system that leverages a federated architecture for secure and private data exchange, fully compatible with MCP hosts.
 - [cer12u/growi-mcp](https://github.com/cer12u/growi-mcp): Repository classified as category 19
 - [Rwb3n/obsidian-mcp](https://github.com/Rwb3n/obsidian-mcp): Facilitates interaction with an Obsidian vault by providing tools for note management, metadata handling, and content searching.
-- [qubaomingg/byted_fe_mcp](https://github.com/qubaomingg/byted_fe_mcp): A documentation service for Byte Frontend component libraries, enabling component search and categorization through Model Context Protocol.
 - [nirvash/bookmark-mcp](https://github.com/nirvash/bookmark-mcp): Facilitates Chrome bookmark management through LLM commands using a Machine Control Protocol server.
 - [Jacobinwwey/Notemd-mcp](https://github.com/Jacobinwwey/Notemd-mcp): A TypeScript-based MCP server enabling a notes system with multi-client AI support, including Claude and Cline integrations.
 - [vyahhi/hyperskill-mcp-server](https://github.com/vyahhi/hyperskill-mcp-server): Facilitates searching and accessing educational content on Hyperskill through an MCP server.
@@ -215,7 +212,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [closerbrasil/remote-mcp-server](https://github.com/closerbrasil/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [RedSiamese/local-knowledge-mcp](https://github.com/RedSiamese/local-knowledge-mcp): Local Knowledge manages and provides a local knowledge base for dynamic storage, updating, and querying of knowledge, tailored for large language models to access workspace-relevant information.
 - [pfldy2850/mcp-openmetadata](https://github.com/pfldy2850/mcp-openmetadata): Facilitates seamless integration of OpenMetadata APIs with FastMCP for efficient metadata management.
-- [mat-griffin/jamf-mcp](https://github.com/mat-griffin/jamf-mcp): Integrates with Jamf Pro to query computer information using Cursor AI, allowing for detailed management and security insights.
 - [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server): Facilitates seamless interaction with MediaWiki-based sites, enabling LLMs to search and retrieve content from platforms like Wikipedia and Fandom.
 - [Tae4an/mcp-prompt-manager](https://github.com/Tae4an/mcp-prompt-manager): Facilitates efficient management of local prompt files for AI models like Claude, enabling prompt creation, retrieval, modification, and deletion.
 - [uoky5217/Mcp-Server-Study](https://github.com/uoky5217/Mcp-Server-Study): A learning project implementing an MCP server with stdio and SSE transport methods for basic arithmetic operations.
@@ -245,7 +241,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [jespino/developers-conferences-agenda-mcp](https://github.com/jespino/developers-conferences-agenda-mcp): Facilitates access to developer conferences and events data, allowing users to search, filter, and retrieve information through MCP-compatible clients.
 - [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp): Access Dutch WWII archives through AI-powered natural language queries using the Oorlogsbronnen MCP server.
 - [abeyuya/memory-bank-loader-mcp](https://github.com/abeyuya/memory-bank-loader-mcp): Efficiently retrieves and organizes files from a memory-bank directory to streamline AI tool usage and reduce operational costs.
-- [onigeya/siyuan-mcp-server](https://github.com/onigeya/siyuan-mcp-server): Integrates AI models with the SiYuan Note system for seamless note data access and manipulation.
 - [valentinludu/oblio-mcp](https://github.com/valentinludu/oblio-mcp): Facilitates seamless interaction between Claude and Oblio.eu accounting software through a robust MCP server implementation.
 - [scotthelm/wikipedia-mcp-server](https://github.com/scotthelm/wikipedia-mcp-server): Facilitates AI-driven interactions with Wikipedia through a Model Context Protocol server, enabling content retrieval, historical event searches, and image access.
 - [xianminx/mcp-server-flomo](https://github.com/xianminx/mcp-server-flomo): Facilitates seamless note creation in Flomo through AI chat interactions using natural language commands.
