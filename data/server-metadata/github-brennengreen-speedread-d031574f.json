@@ -5,6 +5,13 @@
     "issue": 2734,
     "projectUrl": "https://github.com/brennengreen/speedread"
   },
+  "install": {
+    "commands": [
+      "speedread mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
   "transport": [
     "stdio"
   ],
@@ -21,5 +28,15 @@
     "Codex CLI",
     "Gemini CLI and Zed"
   ],
+  "tools": {
+    "count": 4,
+    "names": [
+      "map",
+      "search",
+      "trace",
+      "read"
+    ],
+    "source": "verified"
+  },
   "license": "MIT"
 }
