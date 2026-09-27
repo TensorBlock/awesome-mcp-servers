@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-pitiflautico-neobrowser-125c2473",
+  "source": {
+    "issue": 1962,
+    "projectUrl": "https://github.com/pitiflautico/neobrowser"
+  },
+  "description": "MCP server that drives a real Google Chrome instance over CDP with logged-in session reuse, real file uploads, bot-wall detection, verified action statuses, search, screenshots, and multi-tab workflows.",
+  "links": {
+    "docs": "https://pitiflautico.github.io/neobrowser/"
+  },
+  "install": {
+    "commands": [
+      "curl -fsSL https://raw.githubusercontent.com/pitiflautico/neobrowser/main/install.sh | sh",
+      "brew tap pitiflautico/neobrowser https://github.com/pitiflautico/neobrowser && brew install neobrowser"
+    ],
+    "env": [
+      "NEOBROWSER_REAL_PROFILE",
+      "NEOBROWSER_REAL_PROFILE_DOMAINS",
+      "NEOBROWSER_TOOLSET",
+      "NEOBROWSER_REQUIRE_APPROVAL"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The local MCP server does not require an API key. Real-profile cookie import is opt-in through environment variables, and sensitive actions can be gated with NEOBROWSER_REQUIRE_APPROVAL."
+    ]
+  },
+  "clients": [
+    "VS Code",
+    "Cursor",
+    "Claude Desktop",
+    "MCP-compatible clients"
+  ],
+  "tools": {
+    "count": 67,
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Issue #1962 and the public README confirm the real-Chrome CDP model, install paths, MCP config shape, 67-tool count, and MIT license. The tool count remains self-reported."
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "purrplan-ai-en-developers-41498ff4",
+  "source": {
+    "issue": 2413,
+    "projectUrl": "https://purrplan.ai/en/developers/"
+  },
+  "description": "Hosted Streamable HTTP MCP for planning, drafting, scheduling, publishing, and analyzing social posts across Instagram, TikTok, X, LinkedIn, Facebook Pages and Groups, YouTube, Threads, Bluesky, Mastodon, Pinterest, Reddit, Telegram, and Google Business Profile.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://purrplan.ai/en/developers/",
+    "endpoint": "https://app.purrplan.ai/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http purrplan https://app.purrplan.ai/api/mcp --header \"Authorization: Bearer <token>\""
+    ],
+    "env": [
+      "PURRPLAN_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Bearer token (API key), self-serve from the workspace. Available on every plan including the 7-day trial."
+    ]
+  },
+  "clients": [
+    "Any client that speaks streamable HTTP with a bearer header. Tested with Claude Code."
+  ],
+  "tools": {
+    "names": [
+      "workspaces",
+      "accounts",
+      "posts",
+      "drafts",
+      "media",
+      "schedule",
+      "analytics",
+      "inbox"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary (hosted service, free trial)",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Developer docs returned HTTP 200 during maintainer review.",
+      "Hosted endpoint returned HTTP 401 without a bearer token, matching the submitted authentication requirements."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@sebastiendb"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
+  }
+}

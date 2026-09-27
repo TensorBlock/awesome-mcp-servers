@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "docs-cogram-com-integrations-mcp-server-5068ead3",
+  "source": {
+    "issue": 2550,
+    "projectUrl": "https://docs.cogram.com/integrations/mcp-server"
+  },
+  "links": {
+    "docs": "https://docs.cogram.com/integrations/mcp-server",
+    "endpoint": "https://mcp.cogram.com/mcp"
+  },
+  "install": {
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with dynamic client registration. Requires a Cogram account; the agent sees exactly what the connecting user can see."
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude"
+  ],
+  "license": "Unknown / proprietary (hosted service, closed source)"
+}

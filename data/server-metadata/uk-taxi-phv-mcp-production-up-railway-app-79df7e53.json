@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "uk-taxi-phv-mcp-production-up-railway-app-79df7e53",
+  "source": {
+    "issue": 2337,
+    "projectUrl": "https://uk-taxi-phv-mcp-production.up.railway.app/"
+  },
+  "links": {
+    "endpoint": "https://uk-taxi-phv-mcp-production.up.railway.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP-compatible client that supports Streamable HTTP."
+  ],
+  "license": "Hosted service; no open-source license claimed."
+}

@@ -25,5 +25,19 @@
     "Codex",
     "Claude Code"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @wp-a in #1763 under the community profile-claim process.",
+      "Requested profile metadata in #1763: Category: Search Transport: stdio Auth: none Install confidence: medium License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@wp-a"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }

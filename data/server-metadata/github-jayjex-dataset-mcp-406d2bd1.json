@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jayjex-dataset-mcp-406d2bd1",
+  "source": {
+    "issue": 2202,
+    "projectUrl": "https://github.com/jayjex/dataset-mcp"
+  },
+  "description": "Stdio MCP server for querying public datasets with dataset discovery, samples, filtered queries, pagination, and statistics while fetching verified CSV release files on demand.",
+  "category": "Databases",
+  "install": {
+    "commands": [
+      "npx -y github:jayjex/dataset-mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "any stdio MCP client"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Project URL was reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@jayjex"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}

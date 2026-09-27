@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "thefomite-com-bd64aa18",
+  "source": {
+    "issue": 1841,
+    "projectUrl": "https://thefomite.com"
+  },
+  "links": {
+    "endpoint": "https://thefomite.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "any MCP client that supports remote Streamable-HTTP servers"
+  ],
+  "license": "Service is free; census data is CC0."
+}

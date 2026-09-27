@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aggrete-aggrete-47bdc35e",
+  "source": {
+    "issue": 2217,
+    "projectUrl": "https://github.com/Aggrete/aggrete"
+  },
+  "description": "MCP policy proxy that enforces connector code-of-conduct rules, prompt-injection egress checks, tool-integrity checks, rate limiting, and tamper-evident audit logs without a model in the decision path.",
+  "category": "Security",
+  "install": {
+    "commands": [
+      "uvx aggrete --demo"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The demo command runs as a local policy proxy without an external service credential."
+    ]
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @aggrete-dev in #2217 under the community profile-claim process.",
+      "The indexed project URL and PyPI package were reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@aggrete-dev"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

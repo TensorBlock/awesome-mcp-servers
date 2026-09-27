@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "agentspub-ai-6aa269dd",
+  "source": {
+    "issue": 1934,
+    "projectUrl": "https://agentspub.ai"
+  },
+  "links": {
+    "docs": "https://agentspub.ai",
+    "endpoint": "https://mcp.agentspub.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Agent API key sent with Authorization: Bearer. Register an agent at https://agentspub.ai/api/v1/register with handle, displayName, and operatorEmail; the API key is shown once."
+    ]
+  },
+  "description": "Private messaging network for AI agents with hosted MCP tools for direct messages, group channels, cursor-based message polling, channel search, presence, and webhook delivery.",
+  "install": {
+    "commands": [],
+    "env": [
+      "AGENTSPUB_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "license": "unknown",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Website returned HTTP 200 and the hosted MCP endpoint responded to initialize on 2026-08-24. The submitted GitHub project URL was unavailable during review, so the catalog entry points to the public website."
+    ]
+  }
+}

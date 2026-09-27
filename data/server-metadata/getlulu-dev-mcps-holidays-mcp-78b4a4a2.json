@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getlulu-dev-mcps-holidays-mcp-78b4a4a2",
+  "source": {
+    "issue": 1655,
+    "projectUrl": "https://getlulu.dev/mcps/holidays-mcp"
+  },
+  "links": {
+    "endpoint": "https://ads.getlulu.dev/holidays/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "other MCP clients"
+  ],
+  "license": "n/a (hosted service)"
+}

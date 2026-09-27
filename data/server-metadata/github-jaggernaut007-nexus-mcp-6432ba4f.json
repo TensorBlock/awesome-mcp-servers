@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jaggernaut007-nexus-mcp-6432ba4f",
+  "source": {
+    "projectUrl": "https://github.com/jaggernaut007/Nexus-MCP"
+  },
+  "links": {
+    "docs": "https://github.com/jaggernaut007/Nexus-MCP#readme"
+  },
+  "install": {
+    "commands": ["nexus-mcp-ci"],
+    "confidence": "medium"
+  },
+  "transport": ["stdio"],
+  "auth": {
+    "type": "none",
+    "notes": ["Install nexus-mcp-ci from PyPI before launching the local stdio server. No API key is required."]
+  },
+  "license": "PolyForm-Noncommercial-1.0.0"
+}

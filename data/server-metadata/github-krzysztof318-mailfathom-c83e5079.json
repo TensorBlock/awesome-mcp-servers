@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-krzysztof318-mailfathom-c83e5079",
+  "source": {
+    "issue": 1737,
+    "projectUrl": "https://github.com/Krzysztof318/MailFathom"
+  },
+  "install": {
+    "commands": [
+      "docker.io/krzysztof318/mailfathom:0.6.0"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "api-key (OAuth is also supported when configured)"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Claude Code",
+    "Visual Studio Code with GitHub Copilot",
+    "and Cursor"
+  ],
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-synthenova-infiknit-mcp-c187e2b4",
+  "source": {
+    "issue": 2244,
+    "projectUrl": "https://github.com/Synthenova/infiknit-mcp"
+  },
+  "description": "Local stdio launcher for Infiknit desktop so agents can generate images and videos into a local project and build canvas workflows on the same computer.",
+  "category": "Multimedia Processing",
+  "links": {
+    "docs": "https://infiknit.app"
+  },
+  "install": {
+    "commands": [
+      "Install https://github.com/Synthenova/infiknit-mcp/releases/download/v1.12.0/infiknit.mcpb",
+      "node plugins/infiknit/bin/infiknit-mcp.cjs"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "The local launcher discovers and connects to the running Infiknit desktop app; do not configure a remote 127.0.0.1 URL."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Grok Build",
+    "VS Code",
+    "Cline",
+    "Copilot",
+    "Gemini CLI"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Project URL, release bundle URL, homepage, and official MCP registry entry were reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@zach-sndr"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}

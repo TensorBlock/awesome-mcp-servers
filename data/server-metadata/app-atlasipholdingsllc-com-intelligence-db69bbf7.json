@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "app-atlasipholdingsllc-com-intelligence-db69bbf7",
+  "source": {
+    "issue": 2594,
+    "projectUrl": "https://app.atlasipholdingsllc.com/intelligence"
+  },
+  "links": {
+    "endpoint": "https://app.atlasipholdingsllc.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Discovery tools are public; subscribed feed access uses an X-Api-Key issued with the subscription."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "and other MCP clients supporting remote Streamable HTTP."
+  ],
+  "license": "Proprietary/commercial service"
+}

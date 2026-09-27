@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-geek-fun-data-studio-agent-49a1a3ca",
+  "source": {
+    "issue": 1680,
+    "projectUrl": "https://github.com/geek-fun/data-studio-agent"
+  },
+  "install": {
+    "commands": [
+      "npm install -g @geek-fun/data-studio-mcp",
+      "npx -y @geek-fun/data-studio-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}

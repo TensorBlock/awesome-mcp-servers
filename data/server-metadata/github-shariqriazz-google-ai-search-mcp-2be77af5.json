@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-shariqriazz-google-ai-search-mcp-2be77af5",
+  "source": {
+    "issue": 1689,
+    "projectUrl": "https://github.com/shariqriazz/google-ai-search-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y google-ai-search-mcp"
+    ],
+    "env": [
+      "GEMINI_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "unknown Provider-dependent: Vertex AI uses Google Application Default Credentials or a service account; the Gemini API uses `GEMINI_API_KEY`."
+    ]
+  },
+  "clients": [
+    "Cline"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-renduples-sitepassport-mcp-e30ca83e",
+  "source": {
+    "issue": 2283,
+    "projectUrl": "https://github.com/renduples/sitepassport-mcp"
+  },
+  "description": "Site Passport live-checks whether a WordPress site, or any website, is ready to be operated by AI agents by checking llms.txt, AI-crawler robots.txt directives, schema.org markup, and a WebMCP manifest against the live site.",
+  "category": "Monitoring & Observability",
+  "links": {
+    "docs": "https://sitepassport.org/methodology",
+    "endpoint": "https://sitepassport.org/.well-known/mcp.json"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "tools": {
+    "count": 1,
+    "names": [
+      "check_wordpress_agent_readiness"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Profile claimed by @renduples in #2283 under the community profile-claim process.",
+      "Requested profile metadata in #2283: - Homepage: https://sitepassport.org - Docs: https://sitepassport.org/methodology - Endpoint: https://sitepassport.org/.well-known/mcp.json (streamable-http, no auth) - License: MIT - Support: hello@sitepassport.org",
+      "Repository, methodology page, and MCP discovery document were reachable during maintainer review on 2026-09-10."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@renduples"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

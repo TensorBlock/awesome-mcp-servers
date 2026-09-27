@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-affixio-affixio-mcp-a6b0292f",
+  "source": {
+    "projectUrl": "https://github.com/AffixIO/affixio-mcp"
+  },
+  "auth": {
+    "type": "none",
+    "notes": [
+      "AFFIX_API_KEY is an optional licence key and defaults to local_operator for offline use. No OAuth is required for this local stdio server."
+    ]
+  }
+}

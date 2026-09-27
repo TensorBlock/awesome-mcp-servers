@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-akzar1el-god-prompt-mcp-955b27a7",
+  "source": {
+    "projectUrl": "https://github.com/AKzar1el/god-prompt-mcp"
+  },
+  "description": "GodPrompt MCP gives AI coding agents reusable software-engineering workflows for task classification, TDD, systematic debugging, verification gates, anti-pattern detection, and progressive disclosure.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://tomiseregi.si/projects/god-prompt"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:AKzar1el/god-prompt-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Kiro",
+    "Cursor",
+    "Claude Desktop and other MCPB-compatible clients",
+    "other stdio MCP clients"
+  ],
+  "tools": {
+    "count": 7,
+    "names": [
+      "get_god_prompt",
+      "get_core_skill",
+      "get_protocols",
+      "get_gates",
+      "get_anti_patterns",
+      "classify_task",
+      "get_version"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata matches the public README, MCP Registry-compatible server.json, and published GitHub release/MCPB distribution."
+    ]
+  }
+}

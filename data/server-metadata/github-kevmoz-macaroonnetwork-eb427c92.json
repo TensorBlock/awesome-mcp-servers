@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kevmoz-macaroonnetwork-eb427c92",
+  "source": {
+    "issue": 1783,
+    "projectUrl": "https://github.com/kevmoz/macaroonnetwork/tree/main/mcp-distribution"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No auth or env vars are required for free search and metadata tools; optional LND credentials enable auto-pay on purchase and execute flows."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "and any stdio-based MCP client"
+  ],
+  "license": "MIT",
+  "description": "Discover and pay for machine-verifiable data and compute capabilities on Macaroon Network, a live marketplace with free search/metadata tools and paid execution via Lightning L402 or Base x402/USDC.",
+  "install": {
+    "commands": [
+      "pip install macaroonnetwork-mcp"
+    ],
+    "env": [
+      "MACAROONS_BUYER_LND_MODE"
+    ],
+    "confidence": "medium"
+  },
+  "tools": {
+    "count": 4,
+    "names": [
+      "macaroons_search",
+      "macaroons_metadata",
+      "macaroons_purchase",
+      "macaroons_execute"
+    ],
+    "source": "self_reported"
+  }
+}

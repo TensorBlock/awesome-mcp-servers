@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-donnywin85-arb-dex-mcp-7dd9a70c",
+  "source": {
+    "issue": 1852,
+    "projectUrl": "https://github.com/donnywin85/arb-dex-mcp"
+  },
+  "description": "Live cross-DEX pool prices, liquidity and gross cross-venue spreads on 6 EVM chains, read from on-chain pool state at a stated block. Works keyless.",
+  "links": {
+    "docs": "https://donnywin85.github.io/arb-dex-mcp/"
+  },
+  "install": {
+    "commands": [
+      "npx -y arb-dex-mcp"
+    ],
+    "env": [
+      "RAPIDAPI_KEY",
+      "ARB_DEX_TIMEOUT_MS",
+      "ARB_DEX_FREE_BASE_URL",
+      "ARB_DEX_RAPIDAPI_HOST"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key, optional RAPIDAPI_KEY — the server starts and answers without one"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor"
+  ],
+  "tools": {
+    "count": 6,
+    "names": [
+      "get_chains",
+      "get_pairs",
+      "get_prices",
+      "get_spreads",
+      "get_history_summary",
+      "get_history"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata supplied by maintainer @donnywin85 in issue #1852. The server is stdio-only, starts keyless against a free hourly public snapshot, and uses optional RAPIDAPI_KEY only for live per-block reads and per-pair history.",
+      "Sources include https://github.com/donnywin85/arb-dex-mcp, https://donnywin85.github.io/arb-dex-mcp/, https://www.npmjs.com/package/arb-dex-mcp, and MCP Registry id io.github.donnywin85/arb-dex-mcp."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@donnywin85"
+    ],
+    "claimed": true
+  }
+}

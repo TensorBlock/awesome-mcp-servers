@@ -24,6 +24,7 @@
       "type": "object",
       "properties": {
         "docs": { "type": "string", "format": "uri", "minLength": 1 },
+        "homepage": { "type": "string", "format": "uri", "minLength": 1 },
         "endpoint": { "type": "string", "format": "uri", "minLength": 1 }
       },
       "additionalProperties": false

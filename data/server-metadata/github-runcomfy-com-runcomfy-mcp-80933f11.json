@@ -5,7 +5,7 @@
     "issue": 1206,
     "projectUrl": "https://github.com/runcomfy-com/runcomfy-mcp"
   },
-  "description": "Official remote MCP server for managing RunComfy Serverless API GPU deployments and asynchronous ComfyUI image and video inference.",
+  "description": "Official remote MCP server for RunComfy. Its 31 tools cover ComfyUI Serverless GPU deployments and asynchronous image/video inference, hosted model inference, and LoRA training jobs.",
   "category": "Multimedia Processing",
   "links": {
     "docs": "https://docs.runcomfy.com/mcp",
@@ -29,15 +29,48 @@
     "Remote MCP clients that support Streamable HTTP and bearer headers"
   ],
   "tools": {
-    "count": 10,
-    "names": [],
+    "count": 31,
+    "names": [
+      "list_deployments",
+      "get_deployment",
+      "create_deployment",
+      "update_deployment",
+      "delete_deployment",
+      "submit_request",
+      "get_request_status",
+      "get_request_result",
+      "cancel_request",
+      "call_instance_proxy",
+      "list_models",
+      "list_model_categories",
+      "get_model",
+      "run_model",
+      "get_model_request_status",
+      "get_model_request_result",
+      "cancel_model_request",
+      "create_dataset",
+      "list_datasets",
+      "get_dataset_status",
+      "delete_dataset",
+      "upload_dataset_file_from_url",
+      "upload_dataset_text_file",
+      "get_dataset_upload_urls",
+      "submit_training_job",
+      "get_training_job_status",
+      "get_training_job_result",
+      "cancel_training_job",
+      "resume_training_job",
+      "edit_training_job",
+      "get_balance"
+    ],
     "source": "verified"
   },
   "license": "MIT",
   "verification": {
     "status": "partial",
     "notes": [
-      "The hosted endpoint completed MCP initialize and tools/list checks on 2026-07-14."
+      "The hosted endpoint completed MCP initialize and tools/list checks on 2026-07-14.",
+      "Tool list refreshed to 31 tools for release v1.1.0 (official registry: io.github.runcomfy-com/runcomfy-mcp)."
     ]
   }
 }

@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "conthunt-app-287ef2e6",
+  "source": {
+    "issue": 2418,
+    "projectUrl": "https://conthunt.app"
+  },
+  "description": "Hosted Streamable HTTP MCP server for discovering and researching Instagram, TikTok, and YouTube creators from a product URL.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://conthunt.app",
+    "endpoint": "https://mcp.conthunt.app"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Hosted endpoint requires OAuth; an unauthenticated initialize request returned invalid_token during maintainer review."
+    ]
+  },
+  "clients": [
+    "Any MCP client supporting Streamable HTTP and OAuth"
+  ],
+  "license": "Hosted service; no open-source license claimed.",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Website, hosted MCP endpoint, and submitted icon URL were reachable during maintainer review.",
+      "Submitted GitHub URL https://github.com/Synthenova/conthunt returned 404 during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Nirmal2000"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
+  }
+}

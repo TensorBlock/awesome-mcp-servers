@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-fly0pants-admapix-494652cd",
+  "source": {
+    "issue": 1854,
+    "projectUrl": "https://github.com/fly0pants/admapix"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "ADMAPIX_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "API key (`ADMAPIX_API_KEY`)"
+    ]
+  },
+  "clients": [
+    "MCP-compatible clients that support stdio servers",
+    "including Claude Desktop",
+    "Cursor",
+    "Codex",
+    "and other MCP clients."
+  ],
+  "license": "Not declared in the public repository."
+}

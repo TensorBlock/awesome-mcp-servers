@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-apitube-news-api-mcp-e01ad981",
+  "source": {
+    "projectUrl": "https://github.com/apitube/news-api-mcp"
+  },
+  "description": "Hosted MCP server for the APITube News API: real-time and archived news search across 500,000+ sources, 177 countries and 59 languages, with sentiment scores and named entities on every article.",
+  "category": "Search",
+  "links": {
+    "docs": "https://docs.apitube.io/platform/news-api/ai/mcp-server",
+    "endpoint": "https://mcp.apitube.io/"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http apitube-news https://mcp.apitube.io/ --header \"Authorization: Bearer YOUR_API_KEY\"",
+      "npx -y mcp-remote https://mcp.apitube.io/ --header \"Authorization: Bearer YOUR_API_KEY\""
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Authorization: Bearer <API_KEY>, or X-API-Key: <API_KEY>. Keys come from apitube.io.",
+      "initialize, tools/list and prompts/list answer without a key; search_news and suggest require a paid-plan key (Starter and up, free tier is REST-only)."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cline",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "other MCP clients"
+  ],
+  "tools": {
+    "count": 2,
+    "names": [
+      "search_news",
+      "suggest"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Submitted by the vendor. Anyone can check the server without a key: curl -X POST https://mcp.apitube.io/ -H 'Content-Type: application/json' -H 'Accept: application/json, text/event-stream' -d '{\"jsonrpc\":\"2.0\",\"id\":1,\"method\":\"tools/list\"}' returns search_news and suggest.",
+      "initialize reports server APITube News MCP-Server 1.0.0, protocol 2025-11-25 negotiated down to the client version (2024-11-05 works), capabilities tools and prompts.",
+      "Listed in the official MCP registry as io.apitube/news."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "APITube"
+    ],
+    "claimed": false
+  }
+}

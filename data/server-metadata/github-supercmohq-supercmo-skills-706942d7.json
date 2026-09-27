@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-supercmohq-supercmo-skills-706942d7",
+  "source": {
+    "issue": 1716,
+    "projectUrl": "https://github.com/SupercmoHQ/superCMO-skills"
+  },
+  "install": {
+    "commands": [
+      "uvx supercmo-skills",
+      "npx --yes github:SupercmoHQ/superCMO-skills --all"
+    ],
+    "env": [
+      "WAVESPEED_API_KEY",
+      "FAL_KEY",
+      "ELEVENLABS_API_KEY",
+      "GEMINI_API_KEY",
+      "FIRECRAWL_API_KEY",
+      "URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "Gemini CLI",
+    "Hermes",
+    "and any Agent Skills host"
+  ],
+  "license": "Apache-2.0"
+}

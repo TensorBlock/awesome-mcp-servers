@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-buywhere-buywhere-mcp-d85a442f",
+  "source": {
+    "issue": 1938,
+    "projectUrl": "https://github.com/BuyWhere/buywhere-mcp"
+  },
+  "description": "Cross-border product catalog for AI agents via MCP. Search 370M+ live products across SG, MY, VN, TH, PH, US, and JP, compare prices, find deals, inspect offers, reviews, merchant data, shipping signals, and price history.",
+  "links": {
+    "docs": "https://mcp.buywhere.ai",
+    "endpoint": "https://mcp.buywhere.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http buywhere https://mcp.buywhere.ai/mcp --header \"Authorization: Bearer $BUYWHERE_TOKEN\""
+    ],
+    "env": [
+      "BUYWHERE_TOKEN"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 bearer token. Self-service signup is available at https://buywhere.ai without email."
+    ]
+  },
+  "tools": {
+    "count": 13,
+    "names": [
+      "search_products",
+      "find_best_price",
+      "get_deals",
+      "get_product",
+      "list_categories",
+      "get_categories",
+      "get_product_offers",
+      "get_product_reviews",
+      "get_merchant",
+      "get_shipping",
+      "get_price_history",
+      "find_best_deal",
+      "suggest_products"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata submitted in issue #1938 with README, server.json, live endpoint, official MCP Registry, Glama, and Smithery references."
+    ]
+  },
+  "category": "Search"
+}

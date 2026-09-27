@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-usenetstate-statsnet-mcp-c474dc97",
+  "source": {
+    "issue": 2395,
+    "projectUrl": "https://github.com/usenetstate/statsnet-mcp"
+  },
+  "description": "Background checks for companies worldwide, covering registration details, executives, government contracts, courts, and finances. Free tools return public cards; contacts, full contracts, relations, and exports require a Statsnet subscription through its REST API.",
+  "category": "Data Analysis & Business Intelligence",
+  "links": {
+    "docs": "https://statsnet.co",
+    "endpoint": "https://statsnet.co/mcp"
+  },
+  "install": {
+    "commands": [
+      "Remote Streamable HTTP endpoint: https://statsnet.co/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Free public cards are available without auth; richer fields may require a Statsnet subscription."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other"
+  ],
+  "tools": {
+    "names": [
+      "company_search",
+      "company_profile",
+      "executive_lookup",
+      "financial_statements",
+      "risk_signals"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Repository was reachable and MIT licensed during maintainer review.",
+      "Hosted endpoint answered an MCP initialize request with serverInfo name statsnet and version 1.0.0."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stsqit"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
+  }
+}

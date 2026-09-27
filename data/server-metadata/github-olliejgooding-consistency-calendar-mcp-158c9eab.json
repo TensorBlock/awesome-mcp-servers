@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-olliejgooding-consistency-calendar-mcp-158c9eab",
+  "source": {
+    "issue": 1700,
+    "projectUrl": "https://github.com/olliejgooding/consistency-calendar-mcp"
+  },
+  "links": {
+    "endpoint": "https://consistencycalendar.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Codex",
+    "and any MCP client supporting remote Streamable HTTP servers"
+  ],
+  "license": "Proprietary hosted service; public metadata repository only"
+}

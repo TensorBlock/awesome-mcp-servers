@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getlulu-dev-mcps-air-quality-mcp-5a1a913a",
+  "source": {
+    "issue": 1657,
+    "projectUrl": "https://getlulu.dev/mcps/air-quality-mcp"
+  },
+  "links": {
+    "endpoint": "https://ads.getlulu.dev/air-quality/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "other MCP clients"
+  ],
+  "license": "n/a (hosted service)"
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "oedon-dev-725c70af",
+  "source": {
+    "issue": 1917,
+    "projectUrl": "https://oedon.dev"
+  },
+  "description": "Bitcoin on-chain intelligence MCP service for fee pressure, mempool statistics, address analytics, hashrate trends, difficulty adjustments, latest blocks, mining pool distribution, transaction lookup, and whale alerts.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://oedon.dev/.well-known/mcp.json"
+  },
+  "transport": [
+    "unknown"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Issue #1917 reports x402 USDC on Base payment; no API key or direct connection endpoint beyond the well-known MCP manifest was provided."
+    ]
+  },
+  "tools": {
+    "count": 1,
+    "names": [
+      "chain_query_onchain_intelligence"
+    ],
+    "source": "verified"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "On 2026-08-23, https://oedon.dev/.well-known/mcp.json returned a manifest for oedon with the chain_query_onchain_intelligence tool covering nine Bitcoin on-chain query types."
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ronaldanton-x402-shop-485ca8df",
+  "source": {
+    "issue": 2363,
+    "projectUrl": "https://github.com/ronaldanton/x402-shop"
+  },
+  "description": "AgentPay exposes pay-per-call AI microservices over a remote MCP server, with x402 USDC payment challenges for paid tool calls and a local stdio wallet-settlement option.",
+  "category": "AI & LLM Integration",
+  "links": {
+    "docs": "https://agentpay.help/.well-known/x402",
+    "endpoint": "https://agentpay.help/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No API key; tool calls use x402 USDC micropayments on Base."
+    ]
+  },
+  "clients": [
+    "Any MCP client that supports Streamable HTTP, including Claude Desktop, Cursor, Codex, and VS Code."
+  ],
+  "tools": {
+    "count": 28,
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and hosted endpoint were reachable during review.",
+      "Initialize returned serverInfo for `agentpay` version 1.0.0."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@ronaldanton"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
+  }
+}

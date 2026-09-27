@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jayamitkatariya-personacli-ecc7e63d",
+  "source": {
+    "issue": 2010,
+    "projectUrl": "https://github.com/jayamitkatariya/personacli"
+  },
+  "description": "Local-first macOS Markdown workspace MCP server for reading and writing notes and tasks from Claude Code, Cursor, Hermes, Windsurf, opencode, and other MCP clients.",
+  "category": "Knowledge Management & Memory",
+  "links": {
+    "docs": "https://github.com/jayamitkatariya/personacli/blob/main/docs/mcp.md",
+    "endpoint": "http://127.0.0.1:4321/mcp"
+  },
+  "install": {
+    "commands": [
+      "persona mcp",
+      "npx -y persona mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Stdio is local. Optional Streamable HTTP binds to 127.0.0.1; do not expose it publicly."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Hermes",
+    "Windsurf",
+    "opencode",
+    "Other local MCP clients"
+  ],
+  "tools": {
+    "count": 15,
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub README and docs/mcp.md were checked during review for install flow, transport, local-only auth behavior, and tool count."
+    ]
+  }
+}

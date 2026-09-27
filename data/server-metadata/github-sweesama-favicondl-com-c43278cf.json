@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sweesama-favicondl-com-c43278cf",
+  "source": {
+    "issue": 1669,
+    "projectUrl": "https://github.com/sweesama/favicondl.com"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "MIT"
+}

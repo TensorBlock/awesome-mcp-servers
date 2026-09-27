@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mcp-algolab-vn-76eff5c6",
+  "source": {
+    "issue": 2663,
+    "projectUrl": "https://mcp.algolab.vn/"
+  },
+  "links": {
+    "endpoint": "https://mcp.algolab.vn"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web/desktop/Code)",
+    "ChatGPT",
+    "Gemini CLI",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Proprietary hosted service (free tier available)"
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-twitterapis-twitterapis-mcp-82691907",
+  "source": {
+    "issue": 1936,
+    "projectUrl": "https://github.com/TwitterAPIs/twitterapis-mcp"
+  },
+  "links": {
+    "docs": "https://docs.twitterapis.com"
+  },
+  "install": {
+    "commands": [
+      "npx -y @twitterapis/mcp@latest"
+    ],
+    "env": [
+      "TWITTERAPIS_KEY",
+      "TWITTERAPIS_BASE_URL",
+      "TWITTERAPIS_TIMEOUT_MS"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Requires a TWITTERAPIS_KEY from twitterapis.com. Some account-only reads and most write actions also require a linked X session or per-call inline X credentials."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "VS Code"
+  ],
+  "license": "MIT",
+  "description": "Official stdio MCP server for twitterapis.com exposing the Twitter/X API as native tools for MCP clients, with public reads, account-linked reads, write actions, articles, and monitoring/webhook administration.",
+  "tools": {
+    "count": 94,
+    "source": "verified"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Repository README verified on 2026-08-24: package install, env vars, supported clients, MIT license, and 94-tool count. Source issue #1936 was not available during review."
+    ]
+  }
+}

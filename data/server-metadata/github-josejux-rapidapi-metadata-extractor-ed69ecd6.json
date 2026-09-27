@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-josejux-rapidapi-metadata-extractor-ed69ecd6",
+  "source": {
+    "issue": 1741,
+    "projectUrl": "https://github.com/JosejuX/rapidapi-metadata-extractor"
+  },
+  "links": {
+    "endpoint": "https://mcp.rapidapi.com"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "YOUR_RAPIDAPI_KEY",
+      "RAPIDAPI_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}

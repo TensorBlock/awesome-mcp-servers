@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getlulu-dev-mcps-weather-mcp-09e3402c",
+  "source": {
+    "issue": 1651,
+    "projectUrl": "https://getlulu.dev/mcps/weather-mcp"
+  },
+  "links": {
+    "endpoint": "https://ads.getlulu.dev/weather/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "other MCP clients"
+  ],
+  "license": "n/a (hosted service)"
+}

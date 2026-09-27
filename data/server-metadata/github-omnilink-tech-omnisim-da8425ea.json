@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-omnilink-tech-omnisim-da8425ea",
+  "source": {
+    "issue": 1983,
+    "projectUrl": "https://github.com/omnilink-tech/omnisim/tree/main/packages/omnisim-mcp"
+  },
+  "description": "Stdio MCP adapter for OmniSim's local World Harness. Agents can load or hot-sync robot worlds, inspect scenes and robot state, frame cameras, capture screenshots, step or reset simulation, and read events while the simulator stays local.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://github.com/omnilink-tech/omnisim/tree/main/packages/omnisim-mcp"
+  },
+  "install": {
+    "commands": [
+      "git clone https://github.com/omnilink-tech/omnisim && cd omnisim && pip install -e packages/omnisim-mcp",
+      "python scripts/dev/omnisim_dev.py harness",
+      "OMNISIM_HARNESS_URL=http://127.0.0.1:6789 omnisim-mcp"
+    ],
+    "env": [
+      "OMNISIM_HARNESS_URL"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "and other stdio MCP clients"
+  ],
+  "tools": {
+    "count": 14,
+    "names": [
+      "harness_status",
+      "load_world",
+      "get_scene_tree",
+      "get_scene_node",
+      "look_at",
+      "screenshot",
+      "render_stats",
+      "sim_step",
+      "sim_reset",
+      "get_events",
+      "list_robots",
+      "get_robot_joints",
+      "get_contacts",
+      "get_diagnostics"
+    ],
+    "source": "verified"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Install and tool metadata verified from the package README; runtime not executed during catalog review."
+    ]
+  }
+}

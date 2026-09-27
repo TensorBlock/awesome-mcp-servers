@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-misar-ai-misarmail-mcp-8b8f50c6",
+  "source": {
+    "issue": 1818,
+    "projectUrl": "https://github.com/Misar-AI/misarmail-mcp"
+  },
+  "links": {
+    "endpoint": "https://mail.misar.io/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "MISARMAIL_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Cline",
+    "VS Code"
+  ],
+  "license": "MIT"
+}

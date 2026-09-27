@@ -22,7 +22,6 @@ Servers interacting with version control systems and platforms for repository ma
 - [stephanj/GitHubMCP](https://github.com/stephanj/GitHubMCP): Facilitates LLM agents' interaction with GitHub resources through a Model Context Protocol server.
 - [ravi-accolite/mcpserver](https://github.com/ravi-accolite/mcpserver): Facilitates seamless integration between LLM applications and version control systems like GitHub and GitLab, enhancing automation and management capabilities.
 - [Foxhunt/gitlab-mcp-server](https://github.com/Foxhunt/gitlab-mcp-server): A TypeScript-based server for managing and interacting with GitLab data, including projects, issues, and wiki pages.
-- [Ghraven/github-mcp-server](https://github.com/Ghraven/github-mcp-server): Facilitates advanced automation and interaction with GitHub APIs for developers and tools.
 - [axlwolf/github-mcp](https://github.com/axlwolf/github-mcp): Facilitates GitHub API interactions for file operations, repository management, and advanced search capabilities.
 - [ZephyrDeng/mcp-server-gitlab](https://github.com/ZephyrDeng/mcp-server-gitlab): Integrates GitLab RESTful API tools with platforms like Claude and Smithery, enabling seamless project management and collaboration.
 - [rose201107059/remote-mcp-github-oauth](https://github.com/rose201107059/remote-mcp-github-oauth): A remote MCP server with integrated GitHub OAuth, deployable on Cloudflare, enabling secure user authentication and tool access for connected clients.
@@ -37,7 +36,6 @@ Servers interacting with version control systems and platforms for repository ma
 - [piyushgIITian/github-enterprice-mcp](https://github.com/piyushgIITian/github-enterprice-mcp): Facilitates seamless integration with GitHub Enterprise APIs for efficient file operations, repository management, and advanced search capabilities.
 - [ZephyrDeng/gitlab-mcp-server](https://github.com/ZephyrDeng/gitlab-mcp-server): A robust GitLab integration server built on the MCP framework, enabling secure RESTful API access to GitLab resources for large language models like Claude.
 - [ttekun/bitbucket-cloud-mcp-server](https://github.com/ttekun/bitbucket-cloud-mcp-server): Facilitates read-only interactions with Bitbucket Cloud Pull Requests via the Model Context Protocol.
-- [hktari/mcp-gitingest](https://github.com/hktari/mcp-gitingest): Facilitates the extraction of GitHub repository information, including summaries, directory structures, and file contents, for integration with MCP clients.
 - [Everforth/github-cli-mcp-server](https://github.com/Everforth/github-cli-mcp-server): Facilitates secure GraphQL access to GitHub using a customizable Docker-based MCP server.
 - [minimind-org/github-mcp-server](https://github.com/minimind-org/github-mcp-server): Facilitates GitHub operations such as file management, repository creation, and advanced search through the GitHub API.
 - [nguyenvanduocit/github-mcp](https://github.com/nguyenvanduocit/github-mcp): Facilitates interaction with GitHub API for managing repositories, pull requests, and issues via MCP.

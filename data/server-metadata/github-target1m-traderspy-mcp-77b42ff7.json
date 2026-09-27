@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-target1m-traderspy-mcp-77b42ff7",
+  "source": {
+    "issue": 1771,
+    "projectUrl": "https://github.com/target1m/traderspy-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.traderspy.app/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with dynamic client registration, or a free personal API key sent as `Authorization: Bearer mcp_…` or appended as `?token=mcp_…`. `initialize` and `tools/list` answer anonymously; `tools/call` needs the key or OAuth."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "Cline",
+    "VS Code"
+  ],
+  "license": "MIT for the plugin and docs repo; the hosted server is closed-source."
+}

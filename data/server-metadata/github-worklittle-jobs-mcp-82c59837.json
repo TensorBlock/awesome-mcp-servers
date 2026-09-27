@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-worklittle-jobs-mcp-82c59837",
+  "source": {
+    "issue": 1945,
+    "projectUrl": "https://github.com/worklittle/jobs-mcp"
+  },
+  "links": {
+    "docs": "https://docs.worklittle.com/mcp",
+    "endpoint": "https://mcp.worklittle.com/"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http worklittle https://mcp.worklittle.com/"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth is used when connecting a Worklittle account to save roles or apply from supported clients."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "ChatGPT",
+    "VS Code",
+    "Codex",
+    "MCP clients that support remote HTTP and OAuth"
+  ],
+  "license": "MIT",
+  "description": "Remote Streamable HTTP MCP server for searching more than 4 million jobs with visa, salary, distance, and other filters, then connecting a Worklittle account to save roles or swipe to apply in AI apps.",
+  "tools": {
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Repository README and issue #1945 reviewed on 2026-08-25; remote MCP URL, docs URL, OAuth requirement, official registry id, and MIT license are self-reported by the maintainer."
+    ]
+  }
+}

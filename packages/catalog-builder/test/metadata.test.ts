@@ -56,6 +56,7 @@ describe("server-metadata.schema.json", () => {
       category: "Monitoring & Observability",
       links: {
         docs: "https://docs.example.com/demo-mcp",
+        homepage: "https://example.com/demo-mcp",
       },
       install: {
         commands: ["npx -y @owner/demo-mcp"],

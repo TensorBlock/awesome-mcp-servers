@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "myfaceshapechart-com-753c1091",
+  "source": {
+    "issue": 2452,
+    "projectUrl": "https://myfaceshapechart.com/"
+  },
+  "links": {
+    "endpoint": "https://myfaceshapechart.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "MCP server card: https://myfaceshapechart.com/.well-known/mcp/server-card.json"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Generic MCP clients supporting Streamable HTTP",
+    "initialize and tools/list verified with a generic client."
+  ],
+  "license": "Not stated on the public site."
+}

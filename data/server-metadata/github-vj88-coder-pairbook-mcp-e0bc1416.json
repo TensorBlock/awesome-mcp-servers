@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-vj88-coder-pairbook-mcp-e0bc1416",
+  "source": {
+    "issue": 2018,
+    "projectUrl": "https://github.com/vj88-coder/pairbook-mcp"
+  },
+  "description": "MCP server and CLI for US stock and ETF correlation, diversification, holdings overlap, fund facts, fundamentals, and weekly return-series analysis.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://github.com/vj88-coder/pairbook-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y pairbook-mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Any stdio MCP client"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository, npm package pairbook-mcp, and official MCP Registry id io.github.vj88-coder/pairbook-mcp were checked during review."
+    ]
+  }
+}

@@ -2,12 +2,15 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-happy520ai-unified-ai-system-6379f442",
   "source": {
-    "issue": 1475,
+    "issue": 1636,
     "projectUrl": "https://github.com/happy520ai/unified-ai-system"
+  },
+  "links": {
+    "docs": "https://github.com/happy520ai/unified-ai-system#quick-start"
   },
   "install": {
     "commands": [
-      "docker run --rm -i ghcr.io/happy520ai/unified-ai-system/mcp-server:0.4.0"
+      "docker run --rm -i ghcr.io/happy520ai/unified-ai-system/mcp-server:0.8.0"
     ],
     "env": [],
     "confidence": "medium"
@@ -24,19 +27,34 @@
     "Cursor and other stdio MCP clients are protocol-compatible and documented."
   ],
   "tools": {
-    "count": 9,
+    "count": 15,
     "names": [
       "gateway_health",
       "gateway_readiness",
+      "agent_governance_status",
+      "agent_governance_list",
+      "agent_governance_describe",
       "gateway_prompt_enhance",
+      "gateway_prompt_enhance_llm",
       "gateway_chat",
       "knowledge_readiness",
+      "knowledge_retrieve",
       "workflow_health",
       "workflow_actions",
+      "workflow_run",
       "workforce_health",
       "workforce_agents"
     ],
     "source": "self_reported"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Metadata refreshed from PR #2707 for Unified AI System v0.8.0.",
+      "Release: https://github.com/happy520ai/unified-ai-system/releases/tag/v0.8.0.",
+      "Official MCP Registry version: https://registry.modelcontextprotocol.io/v0.1/servers/io.github.happy520ai%2Funified-ai-system/versions/0.8.0.",
+      "Current MCP image: ghcr.io/happy520ai/unified-ai-system/mcp-server:0.8.0."
+    ]
+  }
 }

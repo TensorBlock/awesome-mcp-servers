@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-invompt-invompt-plugin-2ee585af",
+  "source": {
+    "projectUrl": "https://github.com/Invompt/invompt-plugin"
+  },
+  "description": "Create and review invoices from an AI assistant with Invompt's hosted MCP server.",
+  "links": {
+    "docs": "https://invompt.com/install",
+    "endpoint": "https://mcp.invompt.com/mcp"
+  },
+  "install": {
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Connect through your MCP client's browser-based OAuth flow; no API key or local server is required."
+    ]
+  },
+  "license": "MIT"
+}

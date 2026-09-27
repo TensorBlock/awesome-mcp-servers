@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-maximem-ai-maximem-synap-sdk-ce31b873",
+  "source": {
+    "issue": 2383,
+    "projectUrl": "https://github.com/maximem-ai/maximem_synap_sdk"
+  },
+  "description": "Remote Streamable HTTP MCP memory layer for logging conversation exchanges and recalling relevant user context, facts, preferences, and recent memories across sessions.",
+  "category": "Knowledge Management & Memory",
+  "links": {
+    "docs": "https://www.maximem.ai/synap",
+    "endpoint": "https://synap-mcp.maximem.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "SYNAP_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Send `Authorization: Bearer <SYNAP_API_KEY>` to the hosted endpoint."
+    ]
+  },
+  "clients": [
+    "Any MCP client supporting Streamable HTTP with custom headers"
+  ],
+  "tools": {
+    "count": 4,
+    "names": [
+      "log_exchange",
+      "recall_context",
+      "list_recent_memories",
+      "check_memory_status"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository and product page were reachable during review.",
+      "Hosted endpoint returned MCP initialize serverInfo for `synap` version 0.1.0."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@uday-maximem-ai"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
+  }
+}

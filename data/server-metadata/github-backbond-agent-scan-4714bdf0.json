@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-backbond-agent-scan-4714bdf0",
+  "source": {
+    "projectUrl": "https://github.com/BackBond/agent-scan"
+  },
+  "links": {
+    "docs": "https://github.com/BackBond/agent-scan/tree/v0.6.2"
+  },
+  "install": {
+    "commands": ["npx -y @backbond/agent-scan@0.6.2 mcp"],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": ["stdio"],
+  "auth": {
+    "type": "none",
+    "notes": ["The local stdio server requires no API key or account."]
+  },
+  "tools": {
+    "count": 2,
+    "names": ["scan_my_runtime", "vet_tools_before_attach"],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

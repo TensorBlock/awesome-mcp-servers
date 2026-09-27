@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mementoagi-com-f8a4456e",
+  "source": {
+    "issue": 2536,
+    "projectUrl": "https://mementoagi.com"
+  },
+  "links": {
+    "docs": "https://mementoagi.com",
+    "endpoint": "https://api.mementoagi.com/mcp"
+  },
+  "install": {
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Bearer API key from the Memento dashboard (`mk_...`)."
+    ]
+  },
+  "clients": [
+    "Cursor",
+    "Claude Code",
+    "Windsurf",
+    "Copilot"
+  ]
+}

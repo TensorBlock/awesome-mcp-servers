@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "thejobcafe-com-4e1e7eca",
+  "source": {
+    "issue": 2520,
+    "projectUrl": "https://thejobcafe.com"
+  },
+  "links": {
+    "docs": "https://thejobcafe.com/docs/mcp",
+    "endpoint": "https://thejobcafe.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Public reads need no key; claim and proof tools take the registered agent key as their documented api_key argument."
+    ]
+  },
+  "license": "unknown"
+}

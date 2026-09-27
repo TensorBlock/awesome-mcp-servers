@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-revlist-pocket-drives-mcp-82545362",
+  "source": {
+    "issue": 1878,
+    "projectUrl": "https://github.com/RevList/pocket-drives-mcp"
+  },
+  "links": {
+    "endpoint": "https://pocketdrives.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Cursor",
+    "Claude Desktop",
+    "any MCP client with Streamable HTTP"
+  ],
+  "license": "unknown"
+}
