@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "cargo install --git https://github.com/fluxgit-hq/fluxgit-mcp-server fluxgit-mcp-sidecar"
+      "cargo install fluxgit-mcp-sidecar --locked"
     ],
     "env": [],
     "confidence": "high"
