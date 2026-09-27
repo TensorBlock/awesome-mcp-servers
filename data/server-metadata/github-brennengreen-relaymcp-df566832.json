@@ -10,6 +10,7 @@
   },
   "install": {
     "commands": [
+      "uv tool install \"relaymcp[voice] @ git+https://github.com/brennengreen/RelayMCP\"",
       "relaymcp setup",
       "relaymcp mcp --print"
     ],
