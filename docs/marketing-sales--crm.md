@@ -2,6 +2,7 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [Omentir](https://github.com/vanshyadav1408/Omentir): LinkedIn sales outreach for agents: create lead finders and outreach agents, import prospects, inspect scored leads and evidence, manage the send queue, stop outreach, and read or answer replies with human-paced daily limits. Hosted Streamable HTTP at `https://omentir.com/api/agent/v1/mcp`; OAuth for interactive clients or bearer agent tokens. MIT. [Docs](https://omentir.com/integrations/mcp).
 - [Hunter MCP](https://hunter.io/mcp): Hosted GTM data tools for company discovery, contact search, email verification, enrichment, and lead management. Streamable HTTP at `https://mcp.hunter.io/mcp`; requires a Hunter API key (`X-API-Key` or Bearer header), or OAuth where the client supports it. [Setup](https://hunter.io/mcp).
 
 - [AdTest.AI (adtest-mcp)](https://github.com/menaker/adtest-mcp): Score image, video, or text ads on 13 effectiveness dimensions with the `analyze_advert` tool, returning a scoring report and suggested fixes. Video analysis runs as an asynchronous job. Install: `npx -y adtest-mcp`; transport: stdio; required env: `ADTEST_API_KEY` from https://app.adtest.ai. Analyses are paid. Docs: https://adtest.ai/mcp/. MIT.
