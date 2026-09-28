@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-j0hanz-filesystem-mcp-82baaeff",
+  "source": {
+    "issue": 2760,
+    "projectUrl": "https://github.com/j0hanz/filesystem-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @j0hanz/filesystem-mcp@latest /path/to/allowed/dir",
+      "docker run -i --rm -v /path:/workspace ghcr.io/j0hanz/filesystem-mcp"
+    ],
+    "env": [
+      "FS_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "VS Code",
+    "Cursor",
+    "Visual Studio"
+  ],
+  "license": "MIT"
+}
