@@ -2,6 +2,7 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- **[BuyWhere](https://github.com/BuyWhere/buywhere-mcp)** - Shopping MCP for AI agents: search 300M+ products across 150K+ merchants and 9 markets. Remote MCP: https://api.buywhere.ai/mcp — docs https://docs.buywhere.ai
 - [Omentir](https://github.com/vanshyadav1408/Omentir): LinkedIn sales outreach for agents: create lead finders and outreach agents, import prospects, inspect scored leads and evidence, manage the send queue, stop outreach, and read or answer replies with human-paced daily limits. Hosted Streamable HTTP at `https://omentir.com/api/agent/v1/mcp`; OAuth for interactive clients or bearer agent tokens. MIT. [Docs](https://omentir.com/integrations/mcp).
 - [Hunter MCP](https://hunter.io/mcp): Hosted GTM data tools for company discovery, contact search, email verification, enrichment, and lead management. Streamable HTTP at `https://mcp.hunter.io/mcp`; requires a Hunter API key (`X-API-Key` or Bearer header), or OAuth where the client supports it. [Setup](https://hunter.io/mcp).
 
