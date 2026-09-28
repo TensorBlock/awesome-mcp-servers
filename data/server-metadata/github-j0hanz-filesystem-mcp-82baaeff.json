@@ -5,6 +5,8 @@
     "issue": 2760,
     "projectUrl": "https://github.com/j0hanz/filesystem-mcp"
   },
+  "description": "Filesystem access constrained to explicitly allowed directories, with read-only mode and tools for navigation, search, diffs, edits, and patches.",
+  "category": "Filesystems",
   "install": {
     "commands": [
       "npx -y @j0hanz/filesystem-mcp@latest /path/to/allowed/dir",
@@ -16,11 +18,14 @@
     "confidence": "medium"
   },
   "transport": [
+    "stdio",
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "api-key",
+    "notes": [
+      "Authentication is optional for Streamable HTTP via FS_API_KEY; local stdio requires no auth."
+    ]
   },
   "clients": [
     "Claude Desktop",
@@ -29,5 +34,24 @@
     "Cursor",
     "Visual Studio"
   ],
+  "tools": {
+    "count": 13,
+    "names": [
+      "list_roots",
+      "list",
+      "find_files",
+      "stat",
+      "read",
+      "search_text",
+      "diff",
+      "create",
+      "edit",
+      "move",
+      "delete",
+      "replace_text",
+      "patch"
+    ],
+    "source": "self_reported"
+  },
   "license": "MIT"
 }
