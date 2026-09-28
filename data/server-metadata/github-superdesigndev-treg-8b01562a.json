@@ -5,13 +5,28 @@
     "issue": 2771,
     "projectUrl": "https://github.com/superdesigndev/treg"
   },
+  "description": "Search, compare, and call a catalog of API endpoints through one hosted or self-hosted tool registry.",
+  "category": "Search",
+  "links": {
+    "docs": "https://treg.to/llms.txt",
+    "homepage": "https://treg.to",
+    "endpoint": "https://treg.to/mcp/v2/"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http treg https://treg.to/mcp/v2/",
+      "pip install \"tools-registry[server]\""
+    ],
+    "env": [],
+    "confidence": "high"
+  },
   "transport": [
     "streamable-http"
   ],
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "The hosted endpoint starts OAuth sign-in on first use."
     ]
   },
   "clients": [
