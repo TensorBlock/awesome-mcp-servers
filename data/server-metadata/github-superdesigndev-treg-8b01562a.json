@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-superdesigndev-treg-8b01562a",
+  "source": {
+    "issue": 2771,
+    "projectUrl": "https://github.com/superdesigndev/treg"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Claude.ai"
+  ],
+  "license": "Apache-2.0 with an additional hosted-service restriction (source-available)"
+}
