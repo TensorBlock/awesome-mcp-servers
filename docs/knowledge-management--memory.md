@@ -230,7 +230,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [bradleygolden/hexdocs-mcp-server](https://github.com/bradleygolden/hexdocs-mcp-server): A TypeScript server offering semantic search for Hex package documentation, leveraging the Model Context Protocol for seamless AI integration.
 - [ronniemh/phrases-MCP-server](https://github.com/ronniemh/phrases-MCP-server): An elegant and efficient MCP server for managing inspirational phrases, seamlessly integrating with Claude for Desktop and other MCP clients.
 - [yuzhi-jiang/memos-mcp](https://github.com/yuzhi-jiang/memos-mcp): Connects to Memos for structured access and interaction via AI assistants like Claude, offering features like search, creation, and management of memos.
-- [xinthink/mcp-reader](https://github.com/xinthink/mcp-reader): A Rust-based CLI server template for implementing MCP, facilitating seamless integration between LLM applications and external data sources.
 - [jaohbib/MCP-for-VuFind](https://github.com/jaohbib/MCP-for-VuFind): Facilitates the integration of VuFind's Swagger API into LLMs for literature search capabilities.
 - [ChenyqThu/mcp-server-memos](https://github.com/ChenyqThu/mcp-server-memos): Facilitates natural language interaction with Memos note service via MCP protocol, supporting note creation, search, and updates with secure token authentication.
 - [1nbuc/mcp-integration-suite](https://github.com/1nbuc/mcp-integration-suite): Facilitates seamless integration with SAP Integration Suite by managing and deploying integration artifacts like IFlows and Message Mappings.
@@ -248,7 +247,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [OfWind/graph-memory-mcp](https://github.com/OfWind/graph-memory-mcp): A persistent memory server utilizing a local knowledge graph to enable Claude to retain user information across interactions.
 - [hulkworks/readthedocsmcp](https://github.com/hulkworks/readthedocsmcp): Facilitates LLM interaction with Read the Docs documentation through a Multi-Context Protocol server.
 - [MushroomFleet/LTM-CLINE](https://github.com/MushroomFleet/LTM-CLINE): LTM-CLINE enhances Claude 3.7 with long-term memory and persona evolution capabilities using SQLite, integrated with the Cline VSCode extension.
-- [youssefea/docs-mcp](https://github.com/youssefea/docs-mcp): Facilitates integration of Base Docs Model Context Protocol with Cursor and Claude agents for enhanced document processing.
 - [gannonh/memento-mcp](https://github.com/gannonh/memento-mcp): Memento MCP offers a scalable knowledge graph memory system with semantic retrieval and temporal awareness for LLMs, leveraging Neo4j for storage and vector search.
 - [s2005/mcp-memory-server](https://github.com/s2005/mcp-memory-server): Enables persistent memory for Claude using a local knowledge graph to remember user information across chats.
 - [kargarisaac/Hekmatica](https://github.com/kargarisaac/Hekmatica): Hekmatica is a deep research agent that uses BAML and LangGraph to answer questions by leveraging web search, external tools, and LLMs.
@@ -268,7 +266,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [ruan11223344/McpDocServer](https://github.com/ruan11223344/McpDocServer): A specialized server for retrieving and managing development framework documentation using the MCP protocol, featuring multi-threaded crawling, local document loading, and precise keyword search capabilities.
 - [Gucci-Slides/fractal-thinking](https://github.com/Gucci-Slides/fractal-thinking): Facilitates fractal thinking analysis by providing tools for recursive problem-solving and pattern recognition.
 - [nbiish/gikendaasowin-aabajichiganan-mcp](https://github.com/nbiish/gikendaasowin-aabajichiganan-mcp): Gikendaasowin Aabajichiganan offers a suite of cognitive tools for AI Pair Programming, enabling structured problem-solving through iterative refinement and tool integration.
-- [StuMason/mcp-knowledge-vault](https://github.com/StuMason/mcp-knowledge-vault): A robust knowledge management system enabling AI models to efficiently store, retrieve, and manage structured information using the Model Context Protocol.
 - [ue-sho/mcp-obsidian-kotlin](https://github.com/ue-sho/mcp-obsidian-kotlin): Facilitates AI-driven interactions with Obsidian notes through a Kotlin-based MCP server.
 - [baryhuang/my-apple-remembers](https://github.com/baryhuang/my-apple-remembers): Facilitates memory recall and persistence on macOS by interfacing with Apple Notes and other native applications.
 - [nguyenvanduocit/confluence-mcp](https://github.com/nguyenvanduocit/confluence-mcp): Facilitates interaction with Confluence API for managing pages and spaces through MCP.
@@ -323,7 +320,6 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [LuotoCompany/cursor-local-indexing](https://github.com/LuotoCompany/cursor-local-indexing): Provides local codebase indexing and semantic search capabilities for Cursor using ChromaDB, accessible via an MCP server.
 - [j5ik2o/shared-knowledge-mcp](https://github.com/j5ik2o/shared-knowledge-mcp): Facilitates shared knowledge base access across multiple AI assistants using Retrieval Augmented Generation for efficient information retrieval.
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server): Transforms Markdown content into interactive mindmaps, offering both HTML and file path outputs for seamless integration with MCP clients.
-- [xiejeep/english-mcp](https://github.com/xiejeep/english-mcp): Facilitates English learning through interactive commands and note management.
 - [okooo5km/memory-mcp-server](https://github.com/okooo5km/memory-mcp-server): A Swift-based server that enables LLMs to manage and persist knowledge graphs, facilitating memory retention across conversations.
 - [Jktfe/myAImemory-mcp](https://github.com/Jktfe/myAImemory-mcp): Synchronizes user preferences and personal details across all Claude interfaces with high-performance caching.
 - [awkoy/notion-mcp-server](https://github.com/awkoy/notion-mcp-server): Facilitates AI-driven interactions with Notion's API, enabling seamless content management through natural language commands.
