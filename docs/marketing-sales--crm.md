@@ -2,6 +2,7 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [SEOmatic](https://github.com/Minh42/seomatic-mcp): SEO agent for your own site: Search Console performance, striking-distance keywords, backlinks, Google Ads and AI-answer visibility (ChatGPT, Claude, Perplexity, AI Overviews), plus site fixes that are staged and applied only after human approval. 37 tools. Hosted Streamable HTTP at `https://app.seomatic.ai/api/mcp`; OAuth 2.1 or Bearer API key (`smk_live_...`); free tier. Official MCP Registry id `ai.seomatic/seomatic`. [Docs](https://seomatic.ai/developers/mcp).
 - [Omentir](https://github.com/vanshyadav1408/Omentir): LinkedIn sales outreach for agents: create lead finders and outreach agents, import prospects, inspect scored leads and evidence, manage the send queue, stop outreach, and read or answer replies with human-paced daily limits. Hosted Streamable HTTP at `https://omentir.com/api/agent/v1/mcp`; OAuth for interactive clients or bearer agent tokens. MIT. [Docs](https://omentir.com/integrations/mcp).
 - [Hunter MCP](https://hunter.io/mcp): Hosted GTM data tools for company discovery, contact search, email verification, enrichment, and lead management. Streamable HTTP at `https://mcp.hunter.io/mcp`; requires a Hunter API key (`X-API-Key` or Bearer header), or OAuth where the client supports it. [Setup](https://hunter.io/mcp).
 
