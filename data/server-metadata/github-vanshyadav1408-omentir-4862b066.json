@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-vanshyadav1408-omentir-4862b066",
+  "source": {
+    "issue": 2762,
+    "projectUrl": "https://github.com/vanshyadav1408/Omentir"
+  },
+  "links": {
+    "endpoint": "https://omentir.com/api/agent/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "Codex",
+    "Grok"
+  ],
+  "license": "MIT"
+}
