@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jobspipe-mcp-a837c582",
+  "source": {
+    "issue": 2802,
+    "projectUrl": "https://github.com/jobspipe/mcp"
+  },
+  "links": {
+    "endpoint": "https://github.com/jobspipe/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth / API key (hosted MCP)"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "any MCP client"
+  ],
+  "license": "See repository"
+}
