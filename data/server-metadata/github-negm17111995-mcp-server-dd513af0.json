@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-negm17111995-mcp-server-dd513af0",
+  "source": {
+    "issue": 2824,
+    "projectUrl": "https://github.com/negm17111995/mcp-server"
+  },
+  "description": "Official MCP server for MAQAMI hotel and flight booking (3M+ hotels): search live hotel rates and flights, look up places, airports and hotel details, then prebook and book.",
+  "links": {
+    "docs": "https://github.com/negm17111995/mcp-server#readme"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #2824. Source: Maintainer (repo owner negm17111995). Official MCP Registry entry: io.github.negm17111995/maqami-travel."
+    ]
+  }
+}
