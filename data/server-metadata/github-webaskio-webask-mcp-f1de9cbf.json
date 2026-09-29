@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-webaskio-webask-mcp-f1de9cbf",
+  "source": {
+    "issue": 2815,
+    "projectUrl": "https://github.com/WebAskio/webask-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.webask.io/mcp/v1"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "WEBASK_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "OpenAI Codex CLI",
+    "Gemini CLI"
+  ],
+  "license": "MIT (repository docs, configs, and skills); hosted WebAsk service is proprietary"
+}
