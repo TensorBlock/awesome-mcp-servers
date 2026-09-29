@@ -5,15 +5,21 @@
     "issue": 2815,
     "projectUrl": "https://github.com/WebAskio/webask-mcp"
   },
+  "description": "Create and publish surveys, quizzes, and forms; manage projects and responses; analyze results and generate reports in WebAsk.",
+  "category": "Project & Task Management",
   "links": {
+    "docs": "https://github.com/WebAskio/webask-mcp/blob/main/en/README.md",
+    "homepage": "https://webask.io",
     "endpoint": "https://mcp.webask.io/mcp/v1"
   },
   "install": {
-    "commands": [],
+    "commands": [
+      "claude mcp add --transport http webask https://mcp.webask.io/mcp/v1 --header \"Authorization: Bearer $WEBASK_API_KEY\""
+    ],
     "env": [
       "WEBASK_API_KEY"
     ],
-    "confidence": "low"
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
@@ -21,7 +27,7 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "Send a WebAsk API key as an Authorization bearer token. Create the key under Settings > API / MCP in WebAsk."
     ]
   },
   "clients": [
@@ -32,5 +38,15 @@
     "OpenAI Codex CLI",
     "Gemini CLI"
   ],
+  "tools": {
+    "count": 161,
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Repository, documentation, license, and hosted endpoint authentication response were checked during maintainer review."
+    ]
+  },
   "license": "MIT (repository docs, configs, and skills); hosted WebAsk service is proprietary"
 }
