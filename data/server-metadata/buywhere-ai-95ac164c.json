@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "buywhere-ai-95ac164c",
+  "source": {
+    "issue": 2791,
+    "projectUrl": "https://buywhere.ai"
+  },
+  "links": {
+    "endpoint": "https://api.buywhere.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
