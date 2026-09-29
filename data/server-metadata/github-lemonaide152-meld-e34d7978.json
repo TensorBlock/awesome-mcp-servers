@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-lemonaide152-meld-e34d7978",
+  "source": {
+    "issue": 2819,
+    "projectUrl": "https://github.com/lemonaide152/meld"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @mergeinc in #2819 under the community profile-claim process.",
+      "Requested profile metadata in #2819: Category: Communication & Messaging Transport: stdio Auth: unknown Install confidence: low License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@mergeinc"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
