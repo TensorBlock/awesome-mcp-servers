@@ -14,7 +14,6 @@ Servers using mapping APIs, providing geolocation services, address lookups, or 
 - [tlaukkanen/nysse-mcp-server](https://github.com/tlaukkanen/nysse-mcp-server): Facilitates AI agents in accessing real-time bus traffic information for Tampere's public transport system.
 - [ankushdeore/citystack-agent-kumbh-nashik](https://github.com/ankushdeore/citystack-agent-kumbh-nashik): CityStack Agent provides real-time civic service location data for large events, starting with the Kumbh Mela 2027 in Nashik, using the Model Context Protocol.
 - [leonhardholz/mcp-openweathermap](https://github.com/leonhardholz/mcp-openweathermap): Provides real-time weather data using OpenWeatherMap API through a simple MCP server.
-- [stephen9412/taiwan-cwa-mcp-server](https://github.com/stephen9412/taiwan-cwa-mcp-server): Facilitates seamless access to Taiwan's weather data through the Central Weather Administration API.
 - [ChandekarDhruvin/claude-openweather-mcp](https://github.com/ChandekarDhruvin/claude-openweather-mcp): Facilitates real-time weather data interaction for Claude using OpenWeather API through a Python-based MCP server.
 - [sneharao/wheather-mcp-server](https://github.com/sneharao/wheather-mcp-server): Connects with Claude Desktop to provide weather alerts and information using the MCP protocol.
 - [tb280320889/tb-mcp-geo](https://github.com/tb280320889/tb-mcp-geo): Facilitates geolocation data retrieval for AI models using EdgeOne Pages Functions and MCP integration.
