@@ -5,8 +5,18 @@
     "issue": 2802,
     "projectUrl": "https://github.com/jobspipe/mcp"
   },
+  "description": "Search normalized live jobs from more than 30 ATS feeds, job boards, and public employment services.",
+  "category": "Search",
   "links": {
-    "endpoint": "https://github.com/jobspipe/mcp"
+    "docs": "https://docs.jobspipe.dev/ai-agents/mcp",
+    "homepage": "https://jobspipe.dev",
+    "endpoint": "https://mcp.jobspipe.dev/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http jobspipe https://mcp.jobspipe.dev/mcp"
+    ],
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
@@ -14,13 +24,26 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "OAuth / API key (hosted MCP)"
+      "MCP clients can use the hosted OAuth flow. Scripts and clients without interactive sign-in can send a JobsPipe API key as a bearer token."
     ]
   },
   "clients": [
     "Claude",
     "Cursor",
-    "any MCP client"
+    "ChatGPT",
+    "VS Code",
+    "Codex",
+    "Gemini CLI"
   ],
-  "license": "See repository"
+  "tools": {
+    "count": 9,
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Repository, documentation, MIT license, and hosted endpoint authentication response were checked during maintainer review."
+    ]
+  },
+  "license": "MIT"
 }
