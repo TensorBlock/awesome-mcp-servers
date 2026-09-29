@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sharafutdinovdi-revit-model-mcp-7af85841",
+  "source": {
+    "issue": 2793,
+    "projectUrl": "https://github.com/sharafutdinovdi/revit-model-mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx revit-model-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor or any MCP client"
+  ],
+  "license": "MIT"
+}
