@@ -2,6 +2,7 @@
 
 Servers providing data or services related to flights, trains, transportation APIs, or travel planning.
 
+- [Your Next Tours](https://yournext.tours/ai-assistant-integration/): Hosted MCP server for Your Next Tours, a phone-based audio guide system for tour groups. Tour guides and tour companies manage tour templates, travel programs, trips and participants; Enterprise companies can also edit their website. Remote Streamable HTTP endpoint at `https://api.yournext.tours/api/mcp/guide`; OAuth 2.1 sign-in, free accounts supported.
 - [mattjeff/orizn-mcp-server](https://github.com/mattjeff/orizn-mcp-server): Visa and entry requirements for 199 passports across 232 destinations in 15 languages, from the Orizn Visa API. Each answer carries the date that passport/destination pair was last verified, and covers non-sovereign territories (Aruba, Curaçao, Cayman, Greenland, Guam, Gibraltar) that most visa datasets omit. Free tier, no card.
 - [MAQAMI Travel](https://github.com/negm17111995/mcp-server): Hosted hotel and flight search, prebooking, and booking tools with direct booking links and coverage across 249 countries. Streamable HTTP endpoint at `https://mcp.maqami.co`; no auth required.
 - [OctoTrip/rental-cars](https://github.com/OctoTrip/rental-cars): Free rental car search with real-time pricing from multiple providers worldwide. No API key or login required. Returns cars grouped by category (economy, compact, SUV, etc.) with per-day pricing, vendor details, and booking links. Remote Streamable HTTP endpoint at `https://mcp.octotrip.app/rental-cars/mcp`.
