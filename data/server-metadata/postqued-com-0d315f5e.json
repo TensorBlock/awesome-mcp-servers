@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "postqued-com-0d315f5e",
+  "source": {
+    "issue": 2830,
+    "projectUrl": "https://postqued.com"
+  },
+  "links": {
+    "endpoint": "https://mcp.postqued.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor"
+  ],
+  "license": "unknown"
+}
