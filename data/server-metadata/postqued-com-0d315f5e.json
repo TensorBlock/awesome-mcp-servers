@@ -14,7 +14,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth-capable clients can connect interactively; an organization API key can also be sent as a Bearer token."
     ]
   },
   "clients": [
