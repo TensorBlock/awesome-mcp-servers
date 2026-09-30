@@ -7,7 +7,9 @@
   },
   "description": "Official MCP server for MAQAMI hotel and flight booking (3M+ hotels): search live hotel rates and flights, look up places, airports and hotel details, then prebook and book.",
   "links": {
-    "docs": "https://github.com/negm17111995/mcp-server#readme"
+    "docs": "https://github.com/negm17111995/mcp-server#readme",
+    "homepage": "https://maqami.co",
+    "endpoint": "https://mcp.maqami.co/"
   },
   "transport": [
     "streamable-http"
