@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-samihalawa-magicinterview-plugin-fcfbbcc6",
+  "source": {
+    "issue": 2838,
+    "projectUrl": "https://github.com/samihalawa/magicinterview-plugin"
+  },
+  "links": {
+    "endpoint": "https://magicinterview.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "MIT"
+}
