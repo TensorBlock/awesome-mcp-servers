@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "continuitywriter-com-8ac5ac68",
+  "source": {
+    "issue": 2862,
+    "projectUrl": "https://continuitywriter.com"
+  },
+  "links": {
+    "endpoint": "https://continuitywriter.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Gemini",
+    "Grok",
+    "Cursor"
+  ],
+  "license": "proprietary hosted service, source is not public"
+}
