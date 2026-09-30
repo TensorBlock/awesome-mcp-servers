@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-parlel-parlel-mono-8c5be400",
+  "source": {
+    "issue": 2864,
+    "projectUrl": "https://github.com/Parlel/parlel-mono"
+  },
+  "links": {
+    "endpoint": "https://api.parlel.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "other MCP clients"
+  ],
+  "license": "unknown"
+}
