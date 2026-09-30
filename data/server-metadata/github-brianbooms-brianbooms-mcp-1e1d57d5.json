@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-brianbooms-brianbooms-mcp-1e1d57d5",
+  "source": {
+    "issue": 2859,
+    "projectUrl": "https://github.com/brianbooms/brianbooms-mcp"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "any MCP-compatible client"
+  ],
+  "license": "MIT"
+}
