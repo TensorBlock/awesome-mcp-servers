@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "falcoscan-com-mcp-e6d8d560",
+  "source": {
+    "issue": 2899,
+    "projectUrl": "https://falcoscan.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://falcoscan.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Any MCP client that supports remote streamable HTTP servers (Claude",
+    "Cursor)"
+  ]
+}
