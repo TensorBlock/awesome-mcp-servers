@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "eye-art-polyphemus-api-bc4004fa",
+  "source": {
+    "issue": 2873,
+    "projectUrl": "https://eye.art/polyphemus/api"
+  },
+  "links": {
+    "docs": "https://eye.art/polyphemus/api",
+    "endpoint": "https://eye.art/api/eye-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other MCP-compatible clients"
+  ],
+  "license": "Hosted service: proprietary; public client skill: Apache-2.0"
+}
