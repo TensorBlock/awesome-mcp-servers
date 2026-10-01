@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "continuitywriter-com-8ac5ac68",
+  "source": {
+    "issue": 2862,
+    "projectUrl": "https://continuitywriter.com"
+  },
+  "links": {
+    "docs": "https://github.com/LAHutchins91/continuity-mcp",
+    "endpoint": "https://continuitywriter.com/mcp",
+    "homepage": "https://continuitywriter.com"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with dynamic client registration; no API key is required."
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Gemini",
+    "Grok",
+    "Cursor"
+  ],
+  "license": "proprietary hosted service, source is not public"
+}
