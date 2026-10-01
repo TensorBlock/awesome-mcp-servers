@@ -366,7 +366,7 @@ function inferTransport(text: string): CatalogEntry["transport"] {
 
   if (lower.includes("stdio")) transports.push("stdio");
   if (lower.includes("streamable") || /\bhttp\b/.test(lower)) transports.push("streamable-http");
-  if (lower.includes("sse")) transports.push("sse");
+  if (/\bsse\b/.test(lower)) transports.push("sse");
 
   return transports.length > 0 ? transports : ["unknown"];
 }
