@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-webaskio-webask-mcp-f1de9cbf",
   "source": {
-    "issue": 2815,
+    "issue": 2880,
     "projectUrl": "https://github.com/WebAskio/webask-mcp"
   },
   "description": "Create and publish surveys, quizzes, and forms; manage projects and responses; analyze results and generate reports in WebAsk.",
@@ -27,7 +27,7 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "Send a WebAsk API key as an Authorization bearer token. Create the key under Settings > API / MCP in WebAsk."
+      "api-key; send the required Authorization request header with a Bearer token from the user's own WebAsk API key. Create the key under Settings > API / MCP in WebAsk."
     ]
   },
   "clients": [
@@ -45,7 +45,8 @@
   "verification": {
     "status": "partial",
     "notes": [
-      "Repository, documentation, license, and hosted endpoint authentication response were checked during maintainer review."
+      "Repository, documentation, license, and hosted endpoint authentication response were checked during maintainer review.",
+      "Metadata updated from issue #2880. Source: https://github.com/WebAskio/webask-mcp/blob/main/en/README.md https://webask.io/dev/api/mcp"
     ]
   },
   "license": "MIT (repository docs, configs, and skills); hosted WebAsk service is proprietary"
