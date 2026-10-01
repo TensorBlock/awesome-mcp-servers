@@ -1,12 +1,14 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "github-parlel-parlel-mono-8c5be400",
+  "id": "parlel-com-28a25ecb",
   "source": {
     "issue": 2864,
-    "projectUrl": "https://github.com/Parlel/parlel-mono"
+    "projectUrl": "https://parlel.com"
   },
   "links": {
-    "endpoint": "https://api.parlel.com/mcp"
+    "docs": "https://parlel.com/guides/parlel-mcp-guide",
+    "endpoint": "https://api.parlel.com/mcp",
+    "homepage": "https://parlel.com"
   },
   "transport": [
     "streamable-http"
