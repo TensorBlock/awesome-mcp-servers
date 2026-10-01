@@ -2,11 +2,13 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-samihalawa-magicinterview-plugin-fcfbbcc6",
   "source": {
-    "issue": 2838,
+    "issue": 2891,
     "projectUrl": "https://github.com/samihalawa/magicinterview-plugin"
   },
   "links": {
-    "endpoint": "https://magicinterview.app/mcp"
+    "endpoint": "https://magicinterview.app/mcp",
+    "docs": "https://github.com/samihalawa/magicinterview-plugin/blob/main/README.md",
+    "homepage": "https://magicinterview.app"
   },
   "transport": [
     "streamable-http"
@@ -14,11 +16,28 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth; users sign in to their MagicInterview account through the client authorization flow."
     ]
   },
   "clients": [
     "Claude"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "tools": {
+    "count": 5,
+    "names": [
+      "get_profile",
+      "get_tool_catalog",
+      "learn_tools",
+      "read_tool",
+      "execute_tool"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #2891. Sources: https://github.com/samihalawa/magicinterview-plugin/blob/main/.mcp.json, https://github.com/samihalawa/magicinterview-plugin/blob/main/skills/meeting-prep/SKILL.md, https://magicinterview.app/.well-known/oauth-protected-resource/mcp, and https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.samihalawa%2Fmagicinterview."
+    ]
+  }
 }
