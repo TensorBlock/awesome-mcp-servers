@@ -82,7 +82,6 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [Ayesha0300/linkedin-profile-mcp](https://github.com/Ayesha0300/linkedin-profile-mcp): Fetch LinkedIn profile data asynchronously using the Fresh LinkedIn Profile Data API.
 - [abdallah-abdelsabour/mcp_odoo](https://github.com/abdallah-abdelsabour/mcp_odoo): Integrates Odoo ORM methods with Claude Desktop using an MCP server for prompt processing.
 - [kkeeling/zoho-mcp](https://github.com/kkeeling/zoho-mcp): Facilitates AI-driven interactions with Zoho Books through a versatile MCP server supporting multiple transport modes.
-- [shopwareLabs/shopware-mcp](https://github.com/shopwareLabs/shopware-mcp): A specialized MCP server designed for integrating and managing tools within the Shopware ecosystem using the mcp-framework.
 - [TrueClicks/google-ads-mcp-dotnet](https://github.com/TrueClicks/google-ads-mcp-dotnet): Facilitates seamless integration of GPTs with Google Ads via GAQL.app, eliminating complex setup requirements.
 - [ramakay/ShopifyMockMCP](https://github.com/ramakay/ShopifyMockMCP): A secure and transparent MCP server for Shopify development, enabling safe interactions with the Storefront API via mock.shop.
 - [opestro/woocommerce-mcp-server](https://github.com/opestro/woocommerce-mcp-server): Facilitates AI assistants' interaction with WooCommerce stores by fetching and retrieving order details through MCP protocol.
@@ -120,7 +119,6 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [speakeasy-api/hubspot-typescript](https://github.com/speakeasy-api/hubspot-typescript): A developer-friendly, type-safe TypeScript SDK for leveraging the mcp-hubspot API, with methods exposed as tools for AI applications.
 - [effytech/freshdesk_mcp](https://github.com/effytech/freshdesk_mcp): Integrates AI models with Freshdesk for automated support operations, including ticket management and API interactions.
 - [mmokarzel/brand-to-theme-mcp-server](https://github.com/mmokarzel/brand-to-theme-mcp-server): Automates the transformation of brand identity PDFs into fully functional Shopify themes, ensuring brand consistency.
-- [SheffieldP/hubspot_mcp](https://github.com/SheffieldP/hubspot_mcp): Facilitates AI-driven interactions with HubSpot CRM through a standardized MCP interface, enabling seamless data management and operations.
 - [illGATESmusic/click-funnels-mcp-shared](https://github.com/illGATESmusic/click-funnels-mcp-shared): Integrates ClickFunnels with Claude Desktop for streamlined funnel management and debugging.
 - [jasondsmith72/CWM-API-Gateway-MCP](https://github.com/jasondsmith72/CWM-API-Gateway-MCP): Facilitates seamless interaction with the ConnectWise Manage API, enhancing API discovery, execution, and management for developers and AI assistants.
 - [Geeksfino/finclip-agent](https://github.com/Geeksfino/finclip-agent): An AI-powered customer experience agent that integrates with MCP servers for enhanced knowledge base access and intelligent responses.
