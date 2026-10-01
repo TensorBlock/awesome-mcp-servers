@@ -5,6 +5,17 @@
     "issue": 2859,
     "projectUrl": "https://github.com/brianbooms/brianbooms-mcp"
   },
+  "links": {
+    "docs": "https://github.com/brianbooms/brianbooms-mcp#readme",
+    "homepage": "https://brianbooms.com"
+  },
+  "install": {
+    "commands": [
+      "npx -y brianbooms-mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
   "transport": [
     "stdio"
   ],
@@ -19,5 +30,15 @@
     "Codex",
     "any MCP-compatible client"
   ],
+  "tools": {
+    "count": 4,
+    "names": [
+      "search_catalog",
+      "get_product",
+      "buy_product",
+      "get_market"
+    ],
+    "source": "verified"
+  },
   "license": "MIT"
 }
