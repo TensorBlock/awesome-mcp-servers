@@ -5,6 +5,10 @@
     "issue": 2873,
     "projectUrl": "https://eye.art/polyphemus/api"
   },
+  "links": {
+    "docs": "https://eye.art/polyphemus/api",
+    "endpoint": "https://eye.art/api/eye-mcp"
+  },
   "transport": [
     "streamable-http"
   ],
