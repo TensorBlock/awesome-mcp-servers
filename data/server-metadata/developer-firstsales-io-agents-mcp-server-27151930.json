@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "developer-firstsales-io-agents-mcp-server-27151930",
+  "source": {
+    "issue": 2894,
+    "projectUrl": "https://developer.firstsales.io/agents/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://api.app.firstsales.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude and ChatGPT",
+    "other clients must support authenticated Streamable HTTP MCP."
+  ],
+  "license": "Proprietary hosted service. No public server source repository is claimed."
+}
