@@ -7,7 +7,8 @@
   },
   "links": {
     "endpoint": "https://magicinterview.app/mcp",
-    "docs": "https://github.com/samihalawa/magicinterview-plugin/blob/main/README.md"
+    "docs": "https://github.com/samihalawa/magicinterview-plugin/blob/main/README.md",
+    "homepage": "https://magicinterview.app"
   },
   "transport": [
     "streamable-http"
@@ -22,13 +23,6 @@
     "Claude"
   ],
   "license": "MIT",
-  "install": {
-    "commands": [],
-    "env": [
-      "None required for the remote connection."
-    ],
-    "confidence": "low"
-  },
   "tools": {
     "count": 5,
     "names": [
@@ -43,7 +37,7 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #2891. Source: https://github.com/samihalawa/magicinterview-plugin/blob/main/.mcp.json https://github.com/samihalawa/magicinterview-plugin/blob/main/skills/meeting-prep/SKILL.md..."
+      "Metadata updated from issue #2891. Sources: https://github.com/samihalawa/magicinterview-plugin/blob/main/.mcp.json, https://github.com/samihalawa/magicinterview-plugin/blob/main/skills/meeting-prep/SKILL.md, https://magicinterview.app/.well-known/oauth-protected-resource/mcp, and https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.samihalawa%2Fmagicinterview."
     ]
   }
 }
