@@ -6,7 +6,9 @@
     "projectUrl": "https://continuitywriter.com"
   },
   "links": {
-    "endpoint": "https://continuitywriter.com/mcp"
+    "docs": "https://github.com/LAHutchins91/continuity-mcp",
+    "endpoint": "https://continuitywriter.com/mcp",
+    "homepage": "https://continuitywriter.com"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +16,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth 2.1 with dynamic client registration; no API key is required."
     ]
   },
   "clients": [
