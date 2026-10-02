@@ -6,6 +6,7 @@
     "projectUrl": "https://github.com/voygr-tech/placecall"
   },
   "links": {
+    "docs": "https://api.voygr.tech/docs",
     "endpoint": "https://api.voygr.tech/mcp"
   },
   "transport": [
@@ -14,7 +15,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Use the MCP client's OAuth flow, or provide a PlaceCall API key through the X-API-Key header or as a bearer token."
     ]
   },
   "clients": [
