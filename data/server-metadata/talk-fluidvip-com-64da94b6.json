@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "talk-fluidvip-com-64da94b6",
+  "source": {
+    "issue": 2926,
+    "projectUrl": "https://talk.fluidvip.com"
+  },
+  "links": {
+    "endpoint": "https://api-talk.fluidvip.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key: a FluidTalk MCP key (ftm_...) minted in the MCP tab of the FluidTalk app, sent as `Authorization: Bearer ftm_...`"
+    ]
+  },
+  "clients": [
+    "Any MCP client that can connect to a remote streamable-http server and send an Authorization header"
+  ],
+  "license": "Proprietary hosted service; the fluidtalk SDKs on npm and PyPI are MIT"
+}
