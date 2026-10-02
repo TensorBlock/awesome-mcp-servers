@@ -6,7 +6,8 @@
     "projectUrl": "https://symbioza.dev"
   },
   "links": {
-    "endpoint": "https://symbioza.dev/mcp"
+    "endpoint": "https://symbioza.dev/mcp",
+    "homepage": "https://symbioza.dev"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +15,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Sign in through the MCP client's OAuth flow; no API key is required."
     ]
   },
   "clients": [
