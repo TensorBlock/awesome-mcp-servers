@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-arcmira-mcp-d182d6ad",
+  "source": {
+    "issue": 2929,
+    "projectUrl": "https://github.com/arcmira/mcp"
+  },
+  "links": {
+    "docs": "https://arcmira.com/docs/mcp-server",
+    "endpoint": "https://mcp.arcmira.com/mcp",
+    "homepage": "https://arcmira.com"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Sign in through the MCP client's OAuth flow; no local package is required."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "Gemini CLI"
+  ],
+  "license": "Proprietary server; Apache-2.0 plugin and skills."
+}
