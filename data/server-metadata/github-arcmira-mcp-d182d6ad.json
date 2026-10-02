@@ -6,7 +6,9 @@
     "projectUrl": "https://github.com/arcmira/mcp"
   },
   "links": {
-    "endpoint": "https://mcp.arcmira.com/mcp"
+    "docs": "https://arcmira.com/docs/mcp-server",
+    "endpoint": "https://mcp.arcmira.com/mcp",
+    "homepage": "https://arcmira.com"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +16,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Sign in through the MCP client's OAuth flow; no local package is required."
     ]
   },
   "clients": [
