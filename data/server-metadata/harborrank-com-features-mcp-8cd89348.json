@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "harborrank-com-features-mcp-8cd89348",
+  "source": {
+    "issue": 2914,
+    "projectUrl": "https://harborrank.com/features/mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @winsley-jeune in #2914 under the community profile-claim process.",
+      "Requested profile metadata in #2914: Repo: https://github.com/winsley-jeune/harborrank-skills (Claude Code plugin and skills; the hosted server itself is closed-source) Docs: https://harborrank.com/docs/mcp Endpoint: https://app.harborrank.com/mcp..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@winsley-jeune"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
