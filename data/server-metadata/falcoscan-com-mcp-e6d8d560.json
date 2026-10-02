@@ -6,7 +6,9 @@
     "projectUrl": "https://falcoscan.com/mcp"
   },
   "links": {
-    "endpoint": "https://falcoscan.com/api/mcp"
+    "docs": "https://falcoscan.com/mcp",
+    "endpoint": "https://falcoscan.com/api/mcp",
+    "homepage": "https://falcoscan.com"
   },
   "transport": [
     "streamable-http"
@@ -14,11 +16,12 @@
   "auth": {
     "type": "bearer",
     "notes": [
-      "bearer"
+      "Send a FalcoScan API key in the Authorization bearer header; keys are available from the FalcoScan data-access page."
     ]
   },
   "clients": [
-    "Any MCP client that supports remote streamable HTTP servers (Claude",
-    "Cursor)"
+    "Claude",
+    "Cursor",
+    "Other Streamable HTTP MCP clients"
   ]
 }
