@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-robinfaraj-postel-mcp-863bf07a",
+  "source": {
+    "issue": 2944,
+    "projectUrl": "https://github.com/robinfaraj/postel-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @robinsadeghpour in #2944 under the community profile-claim process.",
+      "Requested profile metadata in #2944: Name: Postel Description: Draft, schedule and publish X (Twitter) and LinkedIn posts in your own voice. Category: Social Media & Content Platforms Transport: streamable-http Endpoint: https://www.postel.app/api/mcp..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@robinsadeghpour"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
