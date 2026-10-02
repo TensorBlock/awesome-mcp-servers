@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-scottlepp-tempo-mcp-server-fa2bc6ce",
+  "source": {
+    "issue": 2920,
+    "projectUrl": "https://github.com/scottlepp/tempo-mcp-server"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The public source repository was transferred to grafana-cold-storage and archived; last checked 2026-10-02. The entry remains indexed because the source is still available."
+    ]
+  }
+}
