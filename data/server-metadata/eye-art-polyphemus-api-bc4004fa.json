@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "eye-art-polyphemus-api-bc4004fa",
   "source": {
-    "issue": 2873,
+    "issue": 2903,
     "projectUrl": "https://eye.art/polyphemus/api"
   },
   "links": {
@@ -23,5 +23,28 @@
     "VS Code",
     "other MCP-compatible clients"
   ],
-  "license": "Hosted service: proprietary; public client skill: Apache-2.0"
+  "license": "Proprietary hosted service. No public client skill license is asserted.",
+  "description": "Remote conversational MCP for image generation, reference-based image editing, prompt ideation, website-matched visuals from HTML/CSS, and editable SVG output.",
+  "tools": {
+    "count": 9,
+    "names": [
+      "eye_art_make_image",
+      "eye_art_make_svg",
+      "eye_art_edit_image",
+      "eye_art_prompt_ideas",
+      "eye_art_image_status",
+      "eye_art_create_session",
+      "eye_art_list_conversations",
+      "eye_art_get_conversation",
+      "eye_art_delete_conversation."
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "The public API documentation lists these nine tools and documents Streamable HTTP with no authentication. A prior live probe returned eight tools, so the current endpoint tool list still needs a fresh live check; this listing does not...",
+      "Metadata updated from issue #2903. Source: - API endpoint and MCP metadata: https://eye.art/api/eye-mcp - API guide: https://eye.art/polyphemus/api - Public connector README: https://github.com/jacobwell/eye-art-mcp/blob/main/README.md"
+    ]
+  }
 }
