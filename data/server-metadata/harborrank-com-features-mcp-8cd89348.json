@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "harborrank-com-features-mcp-8cd89348",
+  "source": {
+    "issue": 2914,
+    "projectUrl": "https://harborrank.com/features/mcp"
+  },
+  "links": {
+    "docs": "https://harborrank.com/docs/mcp",
+    "endpoint": "https://app.harborrank.com/mcp",
+    "homepage": "https://harborrank.com"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http harborrank https://app.harborrank.com/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.0 with dynamic client registration."
+    ]
+  },
+  "license": "Proprietary hosted service; the public plugin and skills repository is MIT.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @winsley-jeune in #2914 under the community profile-claim process.",
+      "The hosted endpoint and public plugin repository supplied in #2914 were reachable when checked on 2026-10-02."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@winsley-jeune"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
