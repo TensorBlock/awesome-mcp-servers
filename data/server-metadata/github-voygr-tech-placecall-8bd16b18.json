@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-voygr-tech-placecall-8bd16b18",
+  "source": {
+    "issue": 2912,
+    "projectUrl": "https://github.com/voygr-tech/placecall"
+  },
+  "links": {
+    "endpoint": "https://api.voygr.tech/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "claude.ai (custom connector)",
+    "Claude Code",
+    "ChatGPT (custom MCP app)",
+    "Cursor",
+    "Windsurf",
+    "Hermes Agent",
+    "MCP Inspector"
+  ],
+  "license": "Hosted service: proprietary; public client repo (plugin, skill, docs): MIT"
+}
