@@ -5,23 +5,46 @@
     "issue": 2873,
     "projectUrl": "https://eye.art/polyphemus/api"
   },
+  "description": "No-auth remote MCP image studio. Polyphemus makes and edits raster images, creates editable SVG, accepts image and webpage-code references, routes artist and motion workflows, and preserves follow-up chat context.",
+  "category": "image-generation",
   "links": {
     "docs": "https://eye.art/polyphemus/api",
+    "homepage": "https://eye.art/polyphemus",
     "endpoint": "https://eye.art/api/eye-mcp"
+  },
+  "install": {
+    "commands": ["Add https://eye.art/api/eye-mcp as a remote Streamable HTTP MCP server; no local install or environment variables are required."],
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": ["No API key or Authorization header is required. Anonymous image generation is limited to 20 requests per hour per caller network identity."]
   },
   "clients": [
-    "Claude",
-    "Cursor",
-    "Codex",
-    "VS Code",
-    "other MCP-compatible clients"
+    "MCP-compatible clients"
   ],
-  "license": "Hosted service: proprietary; public client skill: Apache-2.0"
+  "tools": {
+    "count": 9,
+    "names": [
+      "eye_art_make_image",
+      "eye_art_make_svg",
+      "eye_art_edit_image",
+      "eye_art_prompt_ideas",
+      "eye_art_image_status",
+      "eye_art_create_session",
+      "eye_art_list_conversations",
+      "eye_art_get_conversation",
+      "eye_art_delete_conversation"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Hosted service: proprietary; no separate public client skill license declared.",
+  "verification": {
+    "status": "partial",
+    "notes": ["Public Eye.Art MCP documentation identifies the tools listed above. Recheck the deployed tools/list response before marking the tool inventory fully verified; the docs group conversation list/get/delete operations."]
+  }
 }
