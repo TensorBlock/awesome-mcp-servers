@@ -6,7 +6,9 @@
     "projectUrl": "https://talk.fluidvip.com"
   },
   "links": {
-    "endpoint": "https://api-talk.fluidvip.com/mcp"
+    "docs": "https://talk.fluidvip.com/docs/mcp.html",
+    "endpoint": "https://api-talk.fluidvip.com/mcp",
+    "homepage": "https://talk.fluidvip.com"
   },
   "transport": [
     "streamable-http"
