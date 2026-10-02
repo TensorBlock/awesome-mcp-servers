@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "symbioza-dev-32373559",
+  "source": {
+    "issue": 2908,
+    "projectUrl": "https://symbioza.dev"
+  },
+  "links": {
+    "endpoint": "https://symbioza.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "ChatGPT"
+  ]
+}
