@@ -6,16 +6,10 @@
     "projectUrl": "https://eye.art/polyphemus/api"
   },
   "description": "No-auth remote MCP image studio. Polyphemus makes and edits raster images, creates editable SVG, accepts image and webpage-code references, routes artist and motion workflows, and preserves follow-up chat context.",
-  "category": "image-generation",
   "links": {
     "docs": "https://eye.art/polyphemus/api",
     "homepage": "https://eye.art/polyphemus",
     "endpoint": "https://eye.art/api/eye-mcp"
-  },
-  "install": {
-    "commands": ["Add https://eye.art/api/eye-mcp as a remote Streamable HTTP MCP server; no local install or environment variables are required."],
-    "env": [],
-    "confidence": "high"
   },
   "transport": [
     "streamable-http"
@@ -40,11 +34,11 @@
       "eye_art_get_conversation",
       "eye_art_delete_conversation"
     ],
-    "source": "self_reported"
+    "source": "verified"
   },
   "license": "Hosted service: proprietary; no separate public client skill license declared.",
   "verification": {
     "status": "partial",
-    "notes": ["Public Eye.Art MCP documentation identifies the tools listed above. Recheck the deployed tools/list response before marking the tool inventory fully verified; the docs group conversation list/get/delete operations."]
+    "notes": ["The live endpoint initialized successfully on 2026-10-02, and tools/list returned the nine tools recorded above."]
   }
 }
