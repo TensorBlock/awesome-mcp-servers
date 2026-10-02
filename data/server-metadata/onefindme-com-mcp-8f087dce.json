@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "onefindme-com-mcp-8f087dce",
+  "source": {
+    "issue": 2938,
+    "projectUrl": "https://onefindme.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://onefindme.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI",
+    "Claude Code"
+  ],
+  "license": "Hosted service (plugin config repo: MIT)"
+}
