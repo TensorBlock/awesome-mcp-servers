@@ -6,7 +6,9 @@
     "projectUrl": "https://bitcoinyield.co/docs"
   },
   "links": {
-    "endpoint": "https://bitcoinyield.co/api/mcp"
+    "docs": "https://bitcoinyield.co/docs",
+    "endpoint": "https://bitcoinyield.co/api/mcp",
+    "homepage": "https://bitcoinyield.co"
   },
   "transport": [
     "streamable-http"
