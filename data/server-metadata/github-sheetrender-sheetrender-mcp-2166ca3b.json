@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sheetrender-sheetrender-mcp-2166ca3b",
+  "source": {
+    "issue": 2956,
+    "projectUrl": "https://github.com/sheetrender/sheetrender-mcp"
+  },
+  "links": {
+    "docs": "https://sheetrender.com/docs/chatgpt-and-claude",
+    "endpoint": "https://mcp.sheetrender.com/mcp",
+    "homepage": "https://sheetrender.com"
+  },
+  "install": {
+    "commands": [
+      "npx -y @sheetrender/mcp"
+    ],
+    "env": [
+      "SHEETRENDER_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Built-in hosted templates work without authentication; a SheetRender bearer API key unlocks the full hosted or local tool set."
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
