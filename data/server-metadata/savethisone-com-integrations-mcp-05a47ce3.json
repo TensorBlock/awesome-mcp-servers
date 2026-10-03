@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "savethisone-com-integrations-mcp-05a47ce3",
+  "source": {
+    "issue": 2985,
+    "projectUrl": "https://savethisone.com/integrations/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.savethisone.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "The public setup guide covers Claude",
+    "Cursor",
+    "and ChatGPT. Interactive MCP Apps views depend on host support."
+  ],
+  "license": "Proprietary hosted service; no public source repository or installable package is being submitted."
+}
