@@ -6,9 +6,9 @@
     "projectUrl": "https://github.com/samihalawa/magicinterview-plugin"
   },
   "links": {
-    "endpoint": "https://magicinterview.app/mcp",
+    "endpoint": "https://magicinterview.ai/mcp",
     "docs": "https://github.com/samihalawa/magicinterview-plugin/blob/main/README.md",
-    "homepage": "https://magicinterview.app"
+    "homepage": "https://magicinterview.ai"
   },
   "transport": [
     "streamable-http"
@@ -37,15 +37,7 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #2891. Sources: https://github.com/samihalawa/magicinterview-plugin/blob/main/.mcp.json, https://github.com/samihalawa/magicinterview-plugin/blob/main/skills/meeting-prep/SKILL.md, https://magicinterview.app/.well-known/oauth-protected-resource/mcp, and https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.samihalawa%2Fmagicinterview.",
-      "Metadata updated from issue #3002. Source: https://github.com/samihalawa/magicinterview-plugin/blob/main/.mcp.json https://magicinterview.ai/.well-known/oauth-protected-resource/mcp..."
+      "MagicInterview moved its hosted endpoint and homepage from magicinterview.app to magicinterview.ai; the new OAuth metadata endpoint was reachable on 2026-10-03."
     ]
-  },
-  "install": {
-    "commands": [],
-    "env": [
-      "None required for the remote connection."
-    ],
-    "confidence": "low"
   }
 }
