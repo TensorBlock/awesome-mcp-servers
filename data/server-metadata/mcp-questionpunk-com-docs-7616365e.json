@@ -6,7 +6,9 @@
     "projectUrl": "https://mcp.questionpunk.com/docs"
   },
   "links": {
-    "endpoint": "https://mcp.questionpunk.com/docs"
+    "docs": "https://mcp.questionpunk.com/docs",
+    "endpoint": "https://app.questionpunk.com/api/v1",
+    "homepage": "https://questionpunk.com"
   },
   "transport": [
     "streamable-http"
@@ -14,14 +16,12 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Add the remote endpoint and complete the client sign-in flow."
     ]
   },
   "clients": [
-    "Claude (web",
-    "Desktop",
-    "Code)",
-    "ChatGPT developer mode"
+    "Claude",
+    "ChatGPT"
   ],
   "license": "Proprietary hosted service"
 }
