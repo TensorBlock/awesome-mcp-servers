@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-creativeclawco-creative-claw-marketplace-9ba8b355",
+  "source": {
+    "issue": 3005,
+    "projectUrl": "https://github.com/CreativeClawCo/creative-claw-marketplace"
+  },
+  "links": {
+    "docs": "https://creativeclaw.co/how-to-connect/",
+    "endpoint": "https://app.creativeclaw.co/mcp",
+    "homepage": "https://creativeclaw.co"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Complete the browser-based OAuth flow after adding the hosted endpoint."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "Grok Bot",
+    "Hermes Agent",
+    "OpenClaw"
+  ],
+  "license": "Apache-2.0 for the public plugin package. The hosted service uses pay-as-you-go credits."
+}
