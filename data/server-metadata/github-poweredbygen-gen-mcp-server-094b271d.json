@@ -6,7 +6,9 @@
     "projectUrl": "https://github.com/poweredbyGEN/gen-mcp-server"
   },
   "links": {
-    "endpoint": "https://mcp.gen.pro"
+    "docs": "https://gen.pro/docs",
+    "endpoint": "https://mcp.gen.pro",
+    "homepage": "https://gen.pro"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +16,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth (PAT via bearer or API-key header also supported)"
+      "OAuth is supported; a personal access token can also be sent as a bearer token or X-API-Key."
     ]
   },
   "license": "unknown"
