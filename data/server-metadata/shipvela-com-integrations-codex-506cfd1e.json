@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "shipvela-com-integrations-codex-506cfd1e",
+  "source": {
+    "issue": 3045,
+    "projectUrl": "https://shipvela.com/integrations/codex"
+  },
+  "links": {
+    "endpoint": "https://shipvela.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Codex"
+  ]
+}
