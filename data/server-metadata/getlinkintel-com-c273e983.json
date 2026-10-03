@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getlinkintel-com-c273e983",
+  "source": {
+    "issue": 2983,
+    "projectUrl": "https://www.getlinkintel.com"
+  },
+  "links": {
+    "endpoint": "https://www.getlinkintel.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude.ai",
+    "Claude Desktop",
+    "any MCP client with remote OAuth support"
+  ],
+  "license": "Proprietary (hosted SaaS, $39/month)"
+}
