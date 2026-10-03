@@ -5,9 +5,13 @@
     "issue": 2936,
     "projectUrl": "https://github.com/Alien6-Studio/outerspace-apizr"
   },
+  "links": {
+    "docs": "https://apizr.outerspace.sh/reference/apizr-mcp-server/",
+    "homepage": "https://apizr.outerspace.sh"
+  },
   "install": {
     "commands": [
-      "outerspace-apizr-mcp==0.4.2"
+      "/absolute/core/bin/apizr mcp serve --project /absolute/project/apizr.toml --operator-policy /absolute/operator.json --plugins-dir /absolute/plugins"
     ],
     "env": [],
     "confidence": "medium"
@@ -17,7 +21,9 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "No remote authentication; local project access is controlled by the required operator policy and explicit plugin activation."
+    ]
   },
   "clients": [
     "VS Code configuration is documented",
