@@ -6,7 +6,9 @@
     "projectUrl": "https://github.com/growsurf/growsurf-mcp"
   },
   "links": {
-    "endpoint": "https://mcp.growsurf.com"
+    "docs": "https://docs.growsurf.com/build-with-ai",
+    "endpoint": "https://mcp.growsurf.com",
+    "homepage": "https://growsurf.com"
   },
   "install": {
     "commands": [
@@ -24,7 +26,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth (hosted); api-key (local API-backed actions)"
+      "The hosted server uses OAuth; local API-backed actions use GROWSURF_API_KEY."
     ]
   },
   "clients": [
