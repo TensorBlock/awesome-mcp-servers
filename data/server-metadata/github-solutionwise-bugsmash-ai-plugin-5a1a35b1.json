@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-solutionwise-bugsmash-ai-plugin-5a1a35b1",
+  "source": {
+    "issue": 3012,
+    "projectUrl": "https://github.com/solutionwise/bugsmash-ai-plugin"
+  },
+  "links": {
+    "endpoint": "https://api.bugsmash.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Claude custom connector"
+  ],
+  "license": "MIT"
+}
