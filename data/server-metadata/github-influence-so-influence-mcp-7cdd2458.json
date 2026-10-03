@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-influence-so-influence-mcp-7cdd2458",
+  "source": {
+    "issue": 3032,
+    "projectUrl": "https://github.com/influence-so/influence-mcp"
+  },
+  "description": "Draft, review, schedule and publish approved social posts through Influence. Paid subscription with a seven-day, card-required trial; connect with OAuth or a scoped bearer key.",
+  "links": {
+    "docs": "https://influence.so/publish-from-chatgpt"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3032. Source: Public customer connection guide: https://influence.so/publish-from-chatgpt Public connector instructions: https://github.com/influence-so/influence-mcp#connection First-party product and pricing:..."
+    ]
+  }
+}
