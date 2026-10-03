@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "docs-zyte-com-zyte-web-data-mcp-html-856eb9c4",
+  "source": {
+    "issue": 2990,
+    "projectUrl": "https://docs.zyte.com/zyte-web-data/mcp.html"
+  },
+  "links": {
+    "endpoint": "https://mcp.zyte.com/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "GitHub Copilot",
+    "VS Code"
+  ],
+  "license": "Proprietary hosted service (no public repository)"
+}
