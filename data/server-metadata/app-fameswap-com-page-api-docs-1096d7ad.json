@@ -6,7 +6,9 @@
     "projectUrl": "https://app.fameswap.com/page/api-docs#mcp"
   },
   "links": {
-    "endpoint": "https://app.fameswap.com/mcp"
+    "docs": "https://app.fameswap.com/page/api-docs#mcp",
+    "endpoint": "https://app.fameswap.com/mcp",
+    "homepage": "https://fameswap.com"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +16,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Add the hosted endpoint in a compatible client and sign in with a FameSwap account."
     ]
   },
   "clients": [
