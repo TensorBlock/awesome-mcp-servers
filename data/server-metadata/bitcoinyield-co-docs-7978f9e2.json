@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "bitcoinyield-co-docs-7978f9e2",
+  "source": {
+    "issue": 2981,
+    "projectUrl": "https://bitcoinyield.co/docs"
+  },
+  "links": {
+    "endpoint": "https://bitcoinyield.co/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "ChatGPT custom connectors",
+    "any Streamable HTTP client"
+  ]
+}
