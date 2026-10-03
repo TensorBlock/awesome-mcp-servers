@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-shawnhvac-agentworld-mcp-5cdf1d5c",
+  "source": {
+    "issue": 3051,
+    "projectUrl": "https://github.com/shawnhvac/agentworld-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @shawnhvac in #3051 under the community profile-claim process.",
+      "Requested profile metadata in #3051: Maintainers: @shawnhvac Homepage: https://agentworld.me Docs: https://agentworld.me/mcp Endpoint: https://agentworld.me/mcp License: MIT"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@shawnhvac"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
