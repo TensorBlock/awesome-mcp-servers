@@ -6,14 +6,9 @@
     "projectUrl": "https://pdf-to-md.app/"
   },
   "links": {
-    "endpoint": "https://pdf-to-md.app/mcp"
-  },
-  "install": {
-    "commands": [],
-    "env": [
-      "YOUR_API_KEY"
-    ],
-    "confidence": "low"
+    "docs": "https://pdf-to-md.app/developers",
+    "endpoint": "https://pdf-to-md.app/mcp",
+    "homepage": "https://pdf-to-md.app"
   },
   "transport": [
     "streamable-http"
@@ -21,7 +16,7 @@
   "auth": {
     "type": "bearer",
     "notes": [
-      "bearer"
+      "Send an account API key in the Authorization bearer header."
     ]
   },
   "clients": [
