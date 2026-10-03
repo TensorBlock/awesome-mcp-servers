@@ -6,7 +6,9 @@
     "projectUrl": "https://github.com/solutionwise/bugsmash-ai-plugin"
   },
   "links": {
-    "endpoint": "https://api.bugsmash.io/mcp"
+    "docs": "https://github.com/solutionwise/bugsmash-ai-plugin/blob/main/docs/client-setup.md",
+    "endpoint": "https://api.bugsmash.io/mcp",
+    "homepage": "https://bugsmash.io"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +16,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth 2.1 with PKCE; sign in to BugSmash when the MCP client prompts."
     ]
   },
   "clients": [
