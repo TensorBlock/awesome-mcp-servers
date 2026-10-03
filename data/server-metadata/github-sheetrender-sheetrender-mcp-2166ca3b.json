@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sheetrender-sheetrender-mcp-2166ca3b",
+  "source": {
+    "issue": 2956,
+    "projectUrl": "https://github.com/sheetrender/sheetrender-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.sheetrender.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "SHEETRENDER_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
