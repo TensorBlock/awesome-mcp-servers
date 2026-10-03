@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-poweredbygen-gen-mcp-server-094b271d",
+  "source": {
+    "issue": 3022,
+    "projectUrl": "https://github.com/poweredbyGEN/gen-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.gen.pro"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth (PAT via bearer or API-key header also supported)"
+    ]
+  },
+  "license": "unknown"
+}
