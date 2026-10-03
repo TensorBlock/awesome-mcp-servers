@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mcp-questionpunk-com-docs-7616365e",
+  "source": {
+    "issue": 3015,
+    "projectUrl": "https://mcp.questionpunk.com/docs"
+  },
+  "links": {
+    "docs": "https://mcp.questionpunk.com/docs",
+    "endpoint": "https://app.questionpunk.com/api/v1",
+    "homepage": "https://questionpunk.com"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Add the remote endpoint and complete the client sign-in flow."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT"
+  ],
+  "license": "Proprietary hosted service"
+}
