@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-audiojs-audio-6a8927fc",
+  "source": {
+    "issue": 2967,
+    "projectUrl": "https://github.com/audiojs/audio"
+  },
+  "install": {
+    "commands": [
+      "npx -y audio --mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "Gemini CLI",
+    "VS Code",
+    "Zed",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}
