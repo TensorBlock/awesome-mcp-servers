@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-samihalawa-magicinterview-plugin-fcfbbcc6",
   "source": {
-    "issue": 2891,
+    "issue": 3002,
     "projectUrl": "https://github.com/samihalawa/magicinterview-plugin"
   },
   "links": {
@@ -37,7 +37,15 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #2891. Sources: https://github.com/samihalawa/magicinterview-plugin/blob/main/.mcp.json, https://github.com/samihalawa/magicinterview-plugin/blob/main/skills/meeting-prep/SKILL.md, https://magicinterview.app/.well-known/oauth-protected-resource/mcp, and https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.samihalawa%2Fmagicinterview."
+      "Metadata updated from issue #2891. Sources: https://github.com/samihalawa/magicinterview-plugin/blob/main/.mcp.json, https://github.com/samihalawa/magicinterview-plugin/blob/main/skills/meeting-prep/SKILL.md, https://magicinterview.app/.well-known/oauth-protected-resource/mcp, and https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.samihalawa%2Fmagicinterview.",
+      "Metadata updated from issue #3002. Source: https://github.com/samihalawa/magicinterview-plugin/blob/main/.mcp.json https://magicinterview.ai/.well-known/oauth-protected-resource/mcp..."
     ]
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "None required for the remote connection."
+    ],
+    "confidence": "low"
   }
 }
