@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "app-fameswap-com-page-api-docs-1096d7ad",
+  "source": {
+    "issue": 3019,
+    "projectUrl": "https://app.fameswap.com/page/api-docs#mcp"
+  },
+  "links": {
+    "endpoint": "https://app.fameswap.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "MCP clients supporting remote Streamable HTTP and OAuth. Client compatibility has not been independently tested for this submission."
+  ],
+  "license": "Proprietary hosted service; source repository is private."
+}
