@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-robinfaraj-postel-mcp-863bf07a",
+  "source": {
+    "issue": 2944,
+    "projectUrl": "https://github.com/robinfaraj/postel-mcp"
+  },
+  "links": {
+    "docs": "https://www.postel.app/postel-mcp-server",
+    "endpoint": "https://www.postel.app/api/mcp",
+    "homepage": "https://www.postel.app"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http postel https://www.postel.app/api/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Use OAuth 2.1 with dynamic client registration, or provide a Postel API key as a bearer token."
+    ]
+  },
+  "license": "Proprietary hosted service; the public listing repository is MIT.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @robinsadeghpour in #2944 under the community profile-claim process.",
+      "The endpoint, documentation, and official registry identity supplied in #2944 were reachable when checked on 2026-10-03."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@robinsadeghpour"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
