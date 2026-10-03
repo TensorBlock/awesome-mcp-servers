@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "varg-ai-ca0ac027",
+  "source": {
+    "projectUrl": "https://varg.ai"
+  },
+  "description": "Official hosted MCP server for varg.ai: generate AI video, images, speech and music with Kling, Seedance, Veo, Sora, Flux, ElevenLabs and 90+ other models from one account, estimate costs, check balance, poll jobs and fetch result files.",
+  "category": "Multimedia Processing",
+  "links": {
+    "docs": "https://docs.varg.ai/mcp-server",
+    "homepage": "https://varg.ai",
+    "endpoint": "https://mcp.varg.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @vargai/mcp"
+    ],
+    "env": [
+      "VARG_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Hosted endpoint uses OAuth 2.1 with dynamic client registration (scopes: email offline_access); no API key needed.",
+      "The stdio package @vargai/mcp uses VARG_API_KEY from Settings -> API Keys instead of OAuth.",
+      "Paid plans from $24/month; there is no free tier."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "claude.ai",
+    "Cursor",
+    "any MCP client supporting Streamable HTTP"
+  ],
+  "tools": {
+    "count": 41,
+    "names": [
+      "generate_video",
+      "generate_image",
+      "generate_speech",
+      "render_video",
+      "estimate_cost",
+      "check_balance",
+      "list_models",
+      "get_job",
+      "get_file",
+      "search_voices"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (npm package @vargai/mcp); hosted service itself is proprietary",
+  "community": {
+    "maintainedBy": [
+      "@vargHQ"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}
