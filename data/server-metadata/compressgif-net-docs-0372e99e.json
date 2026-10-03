@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "compressgif-net-docs-0372e99e",
+  "source": {
+    "issue": 2978,
+    "projectUrl": "https://compressgif.net/docs"
+  },
+  "links": {
+    "docs": "https://compressgif.net/docs",
+    "endpoint": "https://compressgif.net/api/mcp",
+    "homepage": "https://compressgif.net"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Send a bearer token or X-API-Key created in the CompressGIF account settings."
+    ]
+  },
+  "clients": [
+    "Streamable HTTP clients that can send a configured API key header. Individual client applications have not all been tested."
+  ],
+  "license": "Hosted service: website terms. Downloadable adapter source is available in the documentation."
+}
