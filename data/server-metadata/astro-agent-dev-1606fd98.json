@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "astro-agent-dev-1606fd98",
+  "source": {
+    "issue": 3039,
+    "projectUrl": "https://astro-agent.dev"
+  },
+  "links": {
+    "endpoint": "https://astro-agent.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "and other MCP clients that support remote Streamable HTTP servers."
+  ],
+  "license": "Hosted proprietary service; the docs repository is public."
+}
