@@ -6,7 +6,9 @@
     "projectUrl": "https://github.com/skysay-ai/skysay-mcp"
   },
   "links": {
-    "endpoint": "https://api.skysay.ai/mcp"
+    "docs": "https://skysay.ai/docs/mcp",
+    "endpoint": "https://api.skysay.ai/mcp",
+    "homepage": "https://skysay.ai"
   },
   "transport": [
     "streamable-http"
