@@ -6,7 +6,9 @@
     "projectUrl": "https://onefindme.com/mcp"
   },
   "links": {
-    "endpoint": "https://onefindme.com/mcp"
+    "docs": "https://onefindme.com/mcp",
+    "endpoint": "https://onefindme.com/mcp",
+    "homepage": "https://onefindme.com"
   },
   "transport": [
     "streamable-http"
