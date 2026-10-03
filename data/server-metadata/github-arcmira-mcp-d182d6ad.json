@@ -37,5 +37,19 @@
       "arcmira_feedback"
     ],
     "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @zealous1 in #3024 under the community profile-claim process.",
+      "Requested profile metadata in #3024: - Name: Arcmira: YouTube Transcript Search - Primary API documentation: https://arcmira.com/docs - MCP setup documentation: https://arcmira.com/docs/mcp-server - OpenAPI schema:..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@zealous1"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
