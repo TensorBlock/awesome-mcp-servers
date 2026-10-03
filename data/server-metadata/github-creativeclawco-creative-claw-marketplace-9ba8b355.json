@@ -6,7 +6,9 @@
     "projectUrl": "https://github.com/CreativeClawCo/creative-claw-marketplace"
   },
   "links": {
-    "endpoint": "https://app.creativeclaw.co/mcp"
+    "docs": "https://creativeclaw.co/how-to-connect/",
+    "endpoint": "https://app.creativeclaw.co/mcp",
+    "homepage": "https://creativeclaw.co"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +16,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Complete the browser-based OAuth flow after adding the hosted endpoint."
     ]
   },
   "clients": [
