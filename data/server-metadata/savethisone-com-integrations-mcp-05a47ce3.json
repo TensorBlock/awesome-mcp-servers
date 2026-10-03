@@ -6,7 +6,9 @@
     "projectUrl": "https://savethisone.com/integrations/mcp"
   },
   "links": {
-    "endpoint": "https://mcp.savethisone.com/mcp"
+    "docs": "https://savethisone.com/integrations/mcp",
+    "endpoint": "https://mcp.savethisone.com/mcp",
+    "homepage": "https://savethisone.com"
   },
   "transport": [
     "streamable-http"
@@ -14,13 +16,13 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Add the remote endpoint in an OAuth-capable client and complete the browser sign-in."
     ]
   },
   "clients": [
-    "The public setup guide covers Claude",
+    "Claude",
     "Cursor",
-    "and ChatGPT. Interactive MCP Apps views depend on host support."
+    "ChatGPT"
   ],
   "license": "Proprietary hosted service; no public source repository or installable package is being submitted."
 }
