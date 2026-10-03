@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "compressgif-net-docs-0372e99e",
+  "source": {
+    "issue": 2978,
+    "projectUrl": "https://compressgif.net/docs"
+  },
+  "links": {
+    "endpoint": "https://compressgif.net/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "MCP adapter source: https://compressgif.net/mcp-adapter-source.tar.gz"
+    ],
+    "env": [
+      "YOUR_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Streamable HTTP clients that can send a configured API key header. Individual client applications have not all been tested."
+  ],
+  "license": "Hosted service: website terms. Downloadable adapter source is available in the documentation."
+}
