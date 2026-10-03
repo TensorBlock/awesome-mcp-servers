@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "podcaststotext-com-mcp-eaee7a65",
+  "source": {
+    "issue": 3029,
+    "projectUrl": "https://podcaststotext.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://podcaststotext.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (connector and Claude Code)",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Codex",
+    "Gemini CLI"
+  ],
+  "license": "Hosted service; agent skill and plugin are MIT (https://github.com/marstyl99/podcaststotext-agent)"
+}
