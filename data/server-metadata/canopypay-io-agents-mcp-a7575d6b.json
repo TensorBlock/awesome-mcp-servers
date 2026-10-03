@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "canopypay-io-agents-mcp-a7575d6b",
+  "source": {
+    "issue": 2974,
+    "projectUrl": "https://www.canopypay.io/agents/mcp"
+  },
+  "links": {
+    "endpoint": "https://www.canopypay.io/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "CANOPY_SECRET_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Claude Desktop",
+    "Claude.ai",
+    "ChatGPT custom connectors"
+  ]
+}
