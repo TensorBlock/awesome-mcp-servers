@@ -6,7 +6,9 @@
     "projectUrl": "https://www.canopypay.io/agents/mcp"
   },
   "links": {
-    "endpoint": "https://www.canopypay.io/api/mcp"
+    "docs": "https://www.canopypay.io/agents/mcp",
+    "endpoint": "https://www.canopypay.io/api/mcp",
+    "homepage": "https://www.canopypay.io"
   },
   "install": {
     "commands": [],
@@ -21,7 +23,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Use OAuth in compatible clients, or send a Canopy secret key as an Authorization bearer token."
     ]
   },
   "clients": [
