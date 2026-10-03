@@ -6,7 +6,7 @@
     "projectUrl": "https://github.com/arcmira/mcp"
   },
   "links": {
-    "docs": "https://arcmira.com/docs/mcp-server",
+    "docs": "https://arcmira.com/docs",
     "endpoint": "https://mcp.arcmira.com/mcp",
     "homepage": "https://arcmira.com"
   },
@@ -27,5 +27,15 @@
     "VS Code",
     "Gemini CLI"
   ],
-  "license": "Proprietary server; Apache-2.0 plugin and skills."
+  "license": "Proprietary server; Apache-2.0 plugin and skills.",
+  "tools": {
+    "count": 4,
+    "names": [
+      "arcmira_describe",
+      "arcmira_execute_read",
+      "arcmira_execute_write",
+      "arcmira_feedback"
+    ],
+    "source": "self_reported"
+  }
 }
