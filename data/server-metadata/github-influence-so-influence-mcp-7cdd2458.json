@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-influence-so-influence-mcp-7cdd2458",
+  "source": {
+    "issue": 3034,
+    "projectUrl": "https://github.com/influence-so/influence-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @influence-so in #3034 under the community profile-claim process.",
+      "Optional maintainer proof submitted in #3034: The indexed source repository belongs to the Influence company organization. The public repository and https://influence.so/ identify Influence and link its customer connection instructions. This request concerns...",
+      "Requested profile metadata in #3034: Company maintainer: influence-so. Public connection guide: https://influence.so/publish-from-chatgpt. The hosted service uses https://influence.so/api/mcp. Claiming this company profile should preserve its existing..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@influence-so"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
