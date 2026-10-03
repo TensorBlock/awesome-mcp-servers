@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "savethisone-com-integrations-mcp-05a47ce3",
+  "source": {
+    "issue": 2985,
+    "projectUrl": "https://savethisone.com/integrations/mcp"
+  },
+  "links": {
+    "docs": "https://savethisone.com/integrations/mcp",
+    "endpoint": "https://mcp.savethisone.com/mcp",
+    "homepage": "https://savethisone.com"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Add the remote endpoint in an OAuth-capable client and complete the browser sign-in."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "ChatGPT"
+  ],
+  "license": "Proprietary hosted service; no public source repository or installable package is being submitted."
+}

@@ -152,6 +152,30 @@ test("builds GitHub repo findings from real API-shaped repo checks", () => {
   assert.match(findings[2].details, /disabled on GitHub/);
 });
 
+test("does not reopen an accepted archived-source finding", () => {
+  const archivedEntry = {
+    ...catalog[2],
+    verification: {
+      status: "partial",
+      notes: [
+        "The public source repository was archived by its owner; last checked 2026-10-03. The entry remains indexed because the source is still available.",
+      ],
+    },
+  };
+  const findings = buildGithubRepoFindings([archivedEntry], new Map([
+    ["owner/archived", {
+      status: 200,
+      data: {
+        html_url: "https://github.com/owner/archived",
+        archived: true,
+        disabled: false,
+      },
+    }],
+  ]));
+
+  assert.deepEqual(findings, []);
+});
+
 test("builds broken-entry issue titles and bodies with stable health markers", () => {
   const [finding] = findDuplicatePrimaryLinkFindings(catalog);
   const title = buildHealthIssueTitle(finding);

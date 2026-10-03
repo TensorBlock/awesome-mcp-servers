@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-alien6-studio-outerspace-apizr-3b8a48c7",
+  "source": {
+    "issue": 2936,
+    "projectUrl": "https://github.com/Alien6-Studio/outerspace-apizr"
+  },
+  "links": {
+    "docs": "https://apizr.outerspace.sh/reference/apizr-mcp-server/",
+    "homepage": "https://apizr.outerspace.sh"
+  },
+  "install": {
+    "commands": [
+      "/absolute/core/bin/apizr mcp serve --project /absolute/project/apizr.toml --operator-policy /absolute/operator.json --plugins-dir /absolute/plugins"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No remote authentication; local project access is controlled by the required operator policy and explicit plugin activation."
+    ]
+  },
+  "clients": [
+    "VS Code configuration is documented",
+    "protocol-compatible stdio MCP clients. No claim of separate live qualification for every client."
+  ],
+  "license": "GPL-3.0-or-later"
+}
