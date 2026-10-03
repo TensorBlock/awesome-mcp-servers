@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "usertold-ai-8a972da8",
+  "source": {
+    "issue": 3036,
+    "projectUrl": "https://usertold.ai"
+  },
+  "links": {
+    "endpoint": "https://mcp.usertold.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "and other compatible MCP clients."
+  ],
+  "license": "Hosted proprietary service; no open-source server license claimed."
+}
