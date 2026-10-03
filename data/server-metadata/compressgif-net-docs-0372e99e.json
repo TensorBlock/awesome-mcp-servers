@@ -6,16 +6,9 @@
     "projectUrl": "https://compressgif.net/docs"
   },
   "links": {
-    "endpoint": "https://compressgif.net/api/mcp"
-  },
-  "install": {
-    "commands": [
-      "MCP adapter source: https://compressgif.net/mcp-adapter-source.tar.gz"
-    ],
-    "env": [
-      "YOUR_API_KEY"
-    ],
-    "confidence": "medium"
+    "docs": "https://compressgif.net/docs",
+    "endpoint": "https://compressgif.net/api/mcp",
+    "homepage": "https://compressgif.net"
   },
   "transport": [
     "streamable-http"
@@ -23,7 +16,7 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "Send a bearer token or X-API-Key created in the CompressGIF account settings."
     ]
   },
   "clients": [
