@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "pdf-to-md-app-974b2ab9",
+  "source": {
+    "issue": 2976,
+    "projectUrl": "https://pdf-to-md.app/"
+  },
+  "links": {
+    "docs": "https://pdf-to-md.app/developers",
+    "endpoint": "https://pdf-to-md.app/mcp",
+    "homepage": "https://pdf-to-md.app"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Send an account API key in the Authorization bearer header."
+    ]
+  },
+  "clients": [
+    "Requires an MCP client with Streamable HTTP transport and Bearer-header configuration. An independently verified client compatibility matrix is not provided with this submission."
+  ],
+  "license": "Closed-source hosted service; no public software license specified."
+}
