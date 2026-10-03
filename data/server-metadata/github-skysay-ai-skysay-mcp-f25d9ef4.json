@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-skysay-ai-skysay-mcp-f25d9ef4",
+  "source": {
+    "issue": 2962,
+    "projectUrl": "https://github.com/skysay-ai/skysay-mcp"
+  },
+  "links": {
+    "docs": "https://skysay.ai/docs/mcp",
+    "endpoint": "https://api.skysay.ai/mcp",
+    "homepage": "https://skysay.ai"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 or scoped API key."
+    ]
+  },
+  "license": "Hosted service terms: https://skysay.ai/terms. No open-source license is claimed."
+}
