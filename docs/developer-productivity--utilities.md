@@ -2,6 +2,7 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [Fillo](https://github.com/jacobfunch/usefillo): Create and publish forms, read responses, and manage uploads and webhooks. Install: `npx -y @usefillo/mcp`. Transport: stdio. Auth: saved Fillo CLI login or scoped API key for private operations. Docs URL: https://fillo.so/developers. License: MIT.
 - [Aident Loadout](https://github.com/Aident-AI/aident-skill): Connect agents to 1,000+ application and platform tools, including Gmail, Slack, Linear, Google Sheets, Notion, HubSpot, Firecrawl, Exa, and Fal, with credentials stored in Aident Vault and action history available for audit. Hosted Streamable HTTP at `https://loadout.aident.ai/mcp`; OAuth on first connection. MIT. [Docs](https://docs.aident.ai).
 - [PowMCP Ebook File Check](https://powmcp.com/apps/epub-check/): Hosted Streamable HTTP MCP server for validating EPUB files with EPUBCheck and comparing findings between two builds. Tools: `ebook_check` and `ebook_compare`. Checks specification issues, not visual rendering, accessibility, or guaranteed bookstore acceptance. Guest access is available with usage limits; optional account linking uses OAuth. Endpoint: https://powmcp.com/epub-check/mcp.
 
