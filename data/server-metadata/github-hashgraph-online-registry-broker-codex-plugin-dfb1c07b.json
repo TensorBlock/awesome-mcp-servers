@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-hashgraph-online-registry-broker-codex-plugin-dfb1c07b",
+  "source": {
+    "issue": 3064,
+    "projectUrl": "https://github.com/hashgraph-online/registry-broker-codex-plugin"
+  },
+  "install": {
+    "commands": [
+      "Node >= 20 and pnpm >= 10. From the repo: `pnpm install` then `pnpm run build`. Entrypoint:"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "unknown"
+    ]
+  },
+  "clients": [
+    "Codex"
+  ],
+  "license": "Apache-2.0"
+}
