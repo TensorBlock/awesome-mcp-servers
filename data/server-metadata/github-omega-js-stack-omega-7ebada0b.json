@@ -5,6 +5,9 @@
     "issue": 3026,
     "projectUrl": "https://github.com/Omega-JS-Stack/omega/tree/main/packages/mcp-router"
   },
+  "links": {
+    "docs": "https://github.com/Omega-JS-Stack/omega/blob/main/packages/mcp-router/README.md"
+  },
   "install": {
     "commands": [
       "npx -y @omega.js/mcp-router",
