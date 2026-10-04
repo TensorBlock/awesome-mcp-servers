@@ -6,7 +6,9 @@
     "projectUrl": "https://github.com/sky-access/skyaccess-mcp"
   },
   "links": {
-    "endpoint": "https://mcp.skyaccess.com/mcp"
+    "docs": "https://github.com/sky-access/skyaccess-mcp#readme",
+    "endpoint": "https://mcp.skyaccess.com/mcp",
+    "homepage": "https://skyaccess.com"
   },
   "transport": [
     "streamable-http"
