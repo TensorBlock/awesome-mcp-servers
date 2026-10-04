@@ -11,6 +11,11 @@
     "endpoint": "https://influence.so/api/mcp",
     "homepage": "https://influence.so"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
   "verification": {
     "status": "self_reported",
     "notes": [
