@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "tinyplates-dev-0cd2a49a",
+  "source": {
+    "issue": 3079,
+    "projectUrl": "https://www.tinyplates.dev/"
+  },
+  "links": {
+    "endpoint": "https://api.tinyplates.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "OpenAI Codex CLI"
+  ],
+  "license": "Hosted service; server source is not publicly released under an open-source license."
+}
