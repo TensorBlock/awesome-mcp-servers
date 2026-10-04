@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-gidianb-querysail-gsc-40ef8ffa",
+  "source": {
+    "issue": 3072,
+    "projectUrl": "https://github.com/GidianB/querysail-gsc"
+  },
+  "links": {
+    "endpoint": "https://mcp.querysail.com/gsc/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude Code",
+    "Claude Desktop / claude.ai",
+    "Codex",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Listing files MIT; the hosted service is proprietary."
+}
