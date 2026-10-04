@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-influence-so-influence-mcp-7cdd2458",
   "source": {
-    "issue": 3032,
+    "issue": 3034,
     "projectUrl": "https://github.com/influence-so/influence-mcp"
   },
   "description": "Draft, review, schedule and publish approved social posts through Influence. Paid subscription with a seven-day, card-required trial; connect with OAuth or a scoped bearer key.",
@@ -19,7 +19,16 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata supplied in issue #3032 and supported by the public connection guide and repository."
+      "Profile claimed by @influence-so in #3034 under the community profile-claim process.",
+      "Description and documentation metadata were supplied in issue #3032.",
+      "The organization repository and public connection guide support the claim recorded in issue #3034."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@influence-so"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
