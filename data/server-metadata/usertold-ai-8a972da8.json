@@ -5,8 +5,11 @@
     "issue": 3036,
     "projectUrl": "https://usertold.ai"
   },
+  "category": "Marketing, Sales & CRM",
   "links": {
-    "endpoint": "https://mcp.usertold.ai/mcp"
+    "docs": "https://usertold.ai/docs/mcp",
+    "endpoint": "https://mcp.usertold.ai/mcp",
+    "homepage": "https://usertold.ai"
   },
   "transport": [
     "streamable-http"
@@ -14,14 +17,13 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Complete browser authorization with OAuth 2.1 and PKCE; no local API token is required."
     ]
   },
   "clients": [
     "Claude Code",
     "Cursor",
-    "Codex",
-    "and other compatible MCP clients."
+    "Codex"
   ],
   "license": "Hosted proprietary service; no open-source server license claimed."
 }
