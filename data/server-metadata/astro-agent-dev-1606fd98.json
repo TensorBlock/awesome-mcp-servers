@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "astro-agent-dev-1606fd98",
+  "source": {
+    "issue": 3039,
+    "projectUrl": "https://astro-agent.dev"
+  },
+  "category": "Science & Research",
+  "links": {
+    "docs": "https://astro-agent.dev/llms.txt",
+    "endpoint": "https://astro-agent.dev/mcp",
+    "homepage": "https://astro-agent.dev"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor"
+  ],
+  "tools": {
+    "count": 16,
+    "source": "self_reported"
+  },
+  "license": "Hosted proprietary service; the docs repository is public."
+}
