@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-shawnhvac-agentworld-mcp-5cdf1d5c",
   "source": {
-    "issue": 3050,
+    "issue": 3051,
     "projectUrl": "https://github.com/shawnhvac/agentworld-mcp"
   },
   "description": "Live AI agent economy on Base L2 with 113 tools — agent rosters, SolvScore credit data, the Venture business game, x402 USDC payment tools, and crypto news.",
@@ -55,7 +55,15 @@
     "status": "verified",
     "notes": [
       "MCP initialize and tools/list returned HTTP 200 on 2026-10-03; tools/list reported 113 tools.",
-      "Metadata and source links were supplied in issue #3050."
+      "Metadata and source links were supplied in issue #3050.",
+      "Profile claimed by @shawnhvac in #3051 under the community profile-claim process."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@shawnhvac"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
