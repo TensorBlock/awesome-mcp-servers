@@ -6,7 +6,9 @@
     "projectUrl": "https://shipvela.com/integrations/codex"
   },
   "links": {
-    "endpoint": "https://shipvela.com/mcp"
+    "docs": "https://shipvela.com/integrations/codex",
+    "endpoint": "https://shipvela.com/mcp",
+    "homepage": "https://shipvela.com"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +16,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Sign in to Shipvela and approve the requested read or publish scopes; access can be revoked in Settings."
     ]
   },
   "clients": [
