@@ -6,7 +6,9 @@
     "projectUrl": "https://github.com/GidianB/querysail-gsc"
   },
   "links": {
-    "endpoint": "https://mcp.querysail.com/gsc/mcp"
+    "docs": "https://querysail.com/google-search-console#connect",
+    "endpoint": "https://mcp.querysail.com/gsc/mcp",
+    "homepage": "https://querysail.com"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +16,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Sign in with a QuerySail account, then connect the Google Search Console account to authorize read-only access."
     ]
   },
   "clients": [
