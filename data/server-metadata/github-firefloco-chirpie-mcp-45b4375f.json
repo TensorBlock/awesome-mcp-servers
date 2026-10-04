@@ -6,7 +6,9 @@
     "projectUrl": "https://github.com/Firefloco/chirpie-mcp"
   },
   "links": {
-    "endpoint": "https://chirpie.ai/mcp"
+    "docs": "https://chirpie.ai/docs/mcp",
+    "endpoint": "https://chirpie.ai/mcp",
+    "homepage": "https://chirpie.ai"
   },
   "install": {
     "commands": [
@@ -24,7 +26,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "The hosted endpoint supports OAuth 2.1 with PKCE and dynamic client registration; a Chirpie bearer API key also works."
     ]
   },
   "clients": [
