@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "engawahomes-com-mcp-3f01538e",
+  "source": {
+    "issue": 3056,
+    "projectUrl": "https://engawahomes.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://engawahomes.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "ENGAWA_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  }
+}
