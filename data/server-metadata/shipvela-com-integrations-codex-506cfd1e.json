@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "shipvela-com-integrations-codex-506cfd1e",
+  "source": {
+    "issue": 3045,
+    "projectUrl": "https://shipvela.com/integrations/codex"
+  },
+  "links": {
+    "docs": "https://shipvela.com/integrations/codex",
+    "endpoint": "https://shipvela.com/mcp",
+    "homepage": "https://shipvela.com"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Sign in to Shipvela and approve the requested read or publish scopes; access can be revoked in Settings."
+    ]
+  },
+  "clients": [
+    "Codex"
+  ]
+}
