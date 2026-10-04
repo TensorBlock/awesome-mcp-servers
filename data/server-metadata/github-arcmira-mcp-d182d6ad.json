@@ -10,6 +10,11 @@
     "endpoint": "https://mcp.arcmira.com/mcp",
     "homepage": "https://arcmira.com"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
   "transport": [
     "streamable-http"
   ],
@@ -37,5 +42,19 @@
       "arcmira_feedback"
     ],
     "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @zealous1 in #3024 under the community profile-claim process.",
+      "Claim details and supporting repository commit are recorded in issue #3024."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@zealous1"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
