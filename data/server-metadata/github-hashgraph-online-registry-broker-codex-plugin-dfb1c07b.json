@@ -5,9 +5,15 @@
     "issue": 3064,
     "projectUrl": "https://github.com/hashgraph-online/registry-broker-codex-plugin"
   },
+  "links": {
+    "docs": "https://github.com/hashgraph-online/registry-broker-codex-plugin#install",
+    "homepage": "https://hol.org/plugins"
+  },
   "install": {
     "commands": [
-      "Node >= 20 and pnpm >= 10. From the repo: `pnpm install` then `pnpm run build`. Entrypoint:"
+      "pnpm install",
+      "pnpm run build",
+      "node ./dist/cli.cjs up --transport stdio"
     ],
     "env": [],
     "confidence": "medium"
@@ -16,9 +22,9 @@
     "stdio"
   ],
   "auth": {
-    "type": "unknown",
+    "type": "api-key",
     "notes": [
-      "unknown"
+      "REGISTRY_BROKER_API_KEY is optional and is only needed when the configured broker deployment requires authenticated chat flows."
     ]
   },
   "clients": [
