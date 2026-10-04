@@ -5,12 +5,17 @@
     "issue": 3065,
     "projectUrl": "https://github.com/hashgraph-online/hol-guard"
   },
+  "links": {
+    "docs": "https://github.com/hashgraph-online/hol-guard/blob/main/llms-install.md",
+    "homepage": "https://hol.org/guard"
+  },
   "install": {
     "commands": [
-      "Python >= 3.10. Minimum CLI for the plugin contract noted upstream: 2.0.1024."
+      "pipx install hol-guard",
+      "hol-guard mcp serve --stdio"
     ],
     "env": [],
-    "confidence": "medium"
+    "confidence": "high"
   },
   "transport": [
     "stdio"
@@ -22,8 +27,16 @@
   "clients": [
     "Codex",
     "Claude Code",
-    "Cursor",
-    "and other MCP clients that can launch a local stdio server."
+    "Cursor"
   ],
+  "tools": {
+    "count": 3,
+    "names": [
+      "search",
+      "fetch",
+      "get_guard_status"
+    ],
+    "source": "self_reported"
+  },
   "license": "Apache-2.0"
 }
