@@ -10,6 +10,11 @@
     "endpoint": "https://mcp.querysail.com/gsc/mcp",
     "homepage": "https://querysail.com"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
   "transport": [
     "streamable-http"
   ],
