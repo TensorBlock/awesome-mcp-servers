@@ -6,7 +6,9 @@
     "projectUrl": "https://www.tinyplates.dev/"
   },
   "links": {
-    "endpoint": "https://api.tinyplates.dev/mcp"
+    "docs": "https://www.tinyplates.dev/docs/mcp",
+    "endpoint": "https://api.tinyplates.dev/mcp",
+    "homepage": "https://www.tinyplates.dev"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +16,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth is supported; a Tiny Plates API key can also be supplied as a bearer token."
     ]
   },
   "clients": [
