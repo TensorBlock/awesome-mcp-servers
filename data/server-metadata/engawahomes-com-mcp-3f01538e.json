@@ -6,7 +6,9 @@
     "projectUrl": "https://engawahomes.com/mcp"
   },
   "links": {
-    "endpoint": "https://engawahomes.com/api/mcp"
+    "docs": "https://engawahomes.com/mcp",
+    "endpoint": "https://engawahomes.com/api/mcp",
+    "homepage": "https://engawahomes.com"
   },
   "install": {
     "commands": [],
@@ -21,7 +23,8 @@
   "auth": {
     "type": "bearer",
     "notes": [
-      "bearer"
+      "Use an ENGAWA_API_KEY from the Engawa account API-key page as a bearer token."
     ]
-  }
+  },
+  "license": "Hosted proprietary service"
 }
