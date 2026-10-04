@@ -5,12 +5,18 @@
     "issue": 3034,
     "projectUrl": "https://github.com/influence-so/influence-mcp"
   },
+  "description": "Draft, review, schedule and publish approved social posts through Influence. Paid subscription with a seven-day, card-required trial; connect with OAuth or a scoped bearer key.",
+  "links": {
+    "docs": "https://influence.so/publish-from-chatgpt",
+    "endpoint": "https://influence.so/api/mcp",
+    "homepage": "https://influence.so"
+  },
   "verification": {
     "status": "self_reported",
     "notes": [
       "Profile claimed by @influence-so in #3034 under the community profile-claim process.",
-      "Optional maintainer proof submitted in #3034: The indexed source repository belongs to the Influence company organization. The public repository and https://influence.so/ identify Influence and link its customer connection instructions. This request concerns...",
-      "Requested profile metadata in #3034: Company maintainer: influence-so. Public connection guide: https://influence.so/publish-from-chatgpt. The hosted service uses https://influence.so/api/mcp. Claiming this company profile should preserve its existing..."
+      "Description and documentation metadata were supplied in issue #3032.",
+      "The organization repository and public connection guide support the claim recorded in issue #3034."
     ]
   },
   "community": {
