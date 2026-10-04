@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-hashgraph-online-hol-guard-49e364e4",
+  "source": {
+    "issue": 3065,
+    "projectUrl": "https://github.com/hashgraph-online/hol-guard"
+  },
+  "install": {
+    "commands": [
+      "Python >= 3.10. Minimum CLI for the plugin contract noted upstream: 2.0.1024."
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "and other MCP clients that can launch a local stdio server."
+  ],
+  "license": "Apache-2.0"
+}
