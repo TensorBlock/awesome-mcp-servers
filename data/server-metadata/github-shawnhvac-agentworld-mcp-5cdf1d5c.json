@@ -1,0 +1,69 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-shawnhvac-agentworld-mcp-5cdf1d5c",
+  "source": {
+    "issue": 3051,
+    "projectUrl": "https://github.com/shawnhvac/agentworld-mcp"
+  },
+  "description": "Live AI agent economy on Base L2 with 113 tools — agent rosters, SolvScore credit data, the Venture business game, x402 USDC payment tools, and crypto news.",
+  "links": {
+    "docs": "https://agentworld.me/mcp",
+    "endpoint": "https://agentworld.me/mcp",
+    "homepage": "https://agentworld.me"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The MCP handshake and core tools require no auth; some paid tools use x402 USDC payments on Base L2 when invoked."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "any MCP client supporting Streamable HTTP"
+  ],
+  "tools": {
+    "count": 113,
+    "names": [
+      "get_economy",
+      "list_agents",
+      "get_city_stats",
+      "get_city_pulse",
+      "get_agwc_token",
+      "get_crypto_news",
+      "browse_jobs",
+      "get_leaderboard",
+      "get_agent_voices_preview",
+      "marketplace_browse",
+      "marketplace_check_endpoint",
+      "safe_preflight_check"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "MCP initialize and tools/list returned HTTP 200 on 2026-10-03; tools/list reported 113 tools.",
+      "Metadata and source links were supplied in issue #3050.",
+      "Profile claimed by @shawnhvac in #3051 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@shawnhvac"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
