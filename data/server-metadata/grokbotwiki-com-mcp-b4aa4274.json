@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "grokbotwiki-com-mcp-b4aa4274",
+  "source": {
+    "projectUrl": "https://www.grokbotwiki.com/mcp"
+  },
+  "links": {
+    "homepage": "https://www.grokbotwiki.com",
+    "docs": "https://www.grokbotwiki.com/mcp",
+    "endpoint": "https://www.grokbotwiki.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Free, read-only access to public wiki content; no account, API key, OAuth or bearer token required."
+    ]
+  },
+  "tools": {
+    "count": 8,
+    "names": [
+      "fetch",
+      "get_bot",
+      "get_guide",
+      "list_categories",
+      "search",
+      "search_bots",
+      "search_guides",
+      "troubleshoot"
+    ],
+    "source": "self_reported"
+  },
+  "license": "unknown",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Project-affiliated submission. Direct initialize, tools/list, search and fetch calls returned HTTP 200 on 2026-10-04; all eight tools advertise readOnlyHint. Individual client applications were not tested.",
+      "The hosted implementation is not public; no source license is asserted.",
+      "Independent community resource, not affiliated with or endorsed by xAI. Template listings describe public share pages and are not independently tested workflows."
+    ]
+  }
+}
