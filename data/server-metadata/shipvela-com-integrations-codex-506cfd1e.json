@@ -10,6 +10,11 @@
     "endpoint": "https://shipvela.com/mcp",
     "homepage": "https://shipvela.com"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
   "transport": [
     "streamable-http"
   ],
