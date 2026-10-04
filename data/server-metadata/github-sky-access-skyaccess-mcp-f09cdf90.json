@@ -10,6 +10,11 @@
     "endpoint": "https://mcp.skyaccess.com/mcp",
     "homepage": "https://skyaccess.com"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
   "transport": [
     "streamable-http"
   ],
