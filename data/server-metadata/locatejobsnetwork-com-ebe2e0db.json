@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "locatejobsnetwork-com-ebe2e0db",
+  "source": {
+    "issue": 3043,
+    "projectUrl": "https://locatejobsnetwork.com"
+  },
+  "links": {
+    "endpoint": "https://locatejobsnetwork.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "ChatGPT",
+    "Cursor",
+    "other MCP clients"
+  ],
+  "license": "unknown"
+}
