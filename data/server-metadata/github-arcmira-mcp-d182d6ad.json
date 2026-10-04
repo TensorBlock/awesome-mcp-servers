@@ -42,7 +42,7 @@
     "status": "self_reported",
     "notes": [
       "Profile claimed by @zealous1 in #3024 under the community profile-claim process.",
-      "Requested profile metadata in #3024: - Name: Arcmira: YouTube Transcript Search - Primary API documentation: https://arcmira.com/docs - MCP setup documentation: https://arcmira.com/docs/mcp-server - OpenAPI schema:..."
+      "Claim details and supporting repository commit are recorded in issue #3024."
     ]
   },
   "community": {
