@@ -2,6 +2,8 @@
 
 Servers accessing scientific databases, research platforms, or providing tools for scientific computation/simulation.
 
+- [Astro Agents (io.github.aidatatools-dev/astro-agents)](https://astro-agent.dev): Deterministic Western and Vedic astrology calculations, including natal charts, aspects, transits, synastry, kundli, divisional charts, dashas, nakshatras, panchang, doshas, and Gun Milan. All 16 tools are read-only and results include a SHA-256 hash. Hosted Streamable HTTP at `https://astro-agent.dev/mcp`; no auth. [Docs](https://astro-agent.dev/llms.txt).
+
 - [morluto/jacobian](https://github.com/morluto/jacobian): MCP server, CLI, and Python library for composable mathematics: exact computation and conjecture testing across polynomial maps, linear algebra, and graph algorithms. Install: `npx -y jacobian mcp`.
 
 - [xmpuspus/ph-civic-data-mcp](https://github.com/xmpuspus/ph-civic-data-mcp): Philippine civic data plus global Earth observation as MCP tools. Browse, describe and query the full PSA OpenSTAT statistical catalog (~2,900 tables) through three tools with bounded, validated queries. Also covers PSGC location resolver, PHIVOLCS earthquakes and volcano alerts, PAGASA weather and typhoons, PhilGEPS procurement with infra-spending accountability flags, PSA population, poverty, and economy (inflation, labor, health), NASA POWER solar/climate, Open-Meteo air quality, NASA MODIS NDVI, USGS earthquakes, NOAA IBTrACS typhoon tracks, and World Bank macro indicators. 32 tools across 12 sources, zero required API keys, with a cross-source multi-hazard risk profiler and a `get_area_profile` auto-stitch that composes demographics, economy, procurement, hazard, and weather in one call. Install: `uvx ph-civic-data-mcp`.
