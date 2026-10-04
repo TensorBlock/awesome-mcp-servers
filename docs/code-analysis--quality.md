@@ -2,6 +2,7 @@
 
 Servers focused on static analysis, linting, code metrics, security scanning, vulnerability checks, or code quality assessment.
 
+- [gendjo-owlhead/mcp-contract-check](https://github.com/gendjo-owlhead/mcp-contract-check): MCP server contract testing and schema fuzzing CI tool. Validates tool schemas, detects breaking schema changes, performs dual-pass schema fuzzing, and verifies response envelopes in GitHub Actions or locally. Action: `gendjo-owlhead/mcp-contract-check@v1`. MIT.
 - [space-bacon/blackwindow-weave-mcp](https://github.com/space-bacon/blackwindow-weave-mcp): Local semantic search over the folders on your machine for any MCP client, with the Motherlode code-search encoder running on the CPU. Tools: `weave_folder`, `weave_search`, `weave_list`, `weave_forget`. Install: `npx -y blackwindow-weave-mcp`. BUSL-1.1 with an internal-use grant.
 - [manmohm/advisorsai-check](https://github.com/manmohm/advisorsai-check): Check bounded machine-readable public-page basics. Live demo: [advisorsai.ai](https://advisorsai.ai/see.html). Remote HTTP endpoint: https://advisorsai.ai/store-readiness-mcp.
 - [sgroy10/speclock](https://github.com/sgroy10/speclock): AI constraint engine for enforcing CLAUDE.md, .cursorrules, and AGENTS.md rules with semantic conflict detection and 51 MCP tools. Install: `npx speclock serve`. MIT.
