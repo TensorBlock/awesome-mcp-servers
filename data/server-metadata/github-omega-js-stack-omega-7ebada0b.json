@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-omega-js-stack-omega-7ebada0b",
+  "source": {
+    "issue": 3026,
+    "projectUrl": "https://github.com/Omega-JS-Stack/omega/tree/main/packages/mcp-router"
+  },
+  "links": {
+    "docs": "https://github.com/Omega-JS-Stack/omega/blob/main/packages/mcp-router/README.md"
+  },
+  "install": {
+    "commands": [
+      "npx -y @omega.js/mcp-router",
+      "npx -p @omega.js/mcp-router omega-mcp add my-server npx -y my-mcp@latest"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "any stdio MCP client"
+  ],
+  "license": "Elastic-2.0"
+}
