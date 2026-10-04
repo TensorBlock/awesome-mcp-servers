@@ -2,6 +2,8 @@
 
 Servers providing access to sports-related APIs and analysis.
 
+- [GymFlexa](https://github.com/gymflexa/claude-plugin): Read owned gym configuration, capacity, service catalogs, aggregate schedules and recorded-payment summaries without member records. Hosted Streamable HTTP at `https://mcp.gymflexa.com/mcp`; OAuth account authorization required. [Docs](https://www.gymflexa.com/developers/#mcp). Public connector configuration and workflow skills: Apache-2.0.
+
 - [krmisystems/fantasy-football-manager](https://github.com/krmisystems/fantasy-football-manager): Snake-draft simulations, lineup and waiver analysis, and controlled ESPN actions with approval modes and per-team limits. Install: `uvx fantasy-football-manager` (Python 3.11+). Transport: stdio. Auth: none for imported or synthetic data; ESPN sign-in for live operation. Clients: Codex and other MCP clients. Docs: [Setup](https://github.com/krmisystems/fantasy-football-manager/blob/main/docs/PLUGIN_INSTALL.md). License: MIT.
 
 - [dhrbtjr0331/nba-stats-predictor-mcp](https://github.com/dhrbtjr0331/nba-stats-predictor-mcp): Generates NBA player performance forecasts using real-time data analysis and advanced statistical modeling.

@@ -2,6 +2,9 @@
 
 Servers specifically designed to interact with CMS platforms.
 
+- [Polyblog](https://github.com/polyblog-io/claude-plugin): Research topics, draft text and manage multilingual blog articles, localization coverage and editorial workflows with confirmed publication changes. Hosted Streamable HTTP at `https://mcp.polyblog.io/mcp`; OAuth account authorization required. [Docs](https://www.polyblog.io/developers/?utm_source=official-mcp-registry&utm_medium=mcp_directory&utm_campaign=mcp-registries-2026#mcp). Public connector configuration and workflow skills: Apache-2.0.
+- [Tutorializer](https://github.com/tutorializer/claude-plugin): Audit localized product-tutorial libraries, rendered videos and voiceovers, and maintain tutorial definitions, projects and pronunciation rules with confirmed changes. Hosted Streamable HTTP at `https://mcp.tutorializer.com/mcp`; OAuth account authorization required. [Docs](https://www.tutorializer.com/developers/#mcp). Public connector configuration and workflow skills: Apache-2.0.
+
 - [UnMarkdown/mcp-server](https://github.com/UnMarkdown/mcp-server): Converts markdown to formatted documents for Google Docs, Word, Slack, OneNote, Email, and Plain Text with 62 templates, plus document management and publishing via 7 MCP tools.
 - [edgarrmondragon/limesurvey-mcp](https://github.com/edgarrmondragon/limesurvey-mcp): Facilitates seamless management of LimeSurvey surveys and responses through a dedicated MCP server.
 - [thoy-le-duc/mcp-woocommerce-thoy](https://github.com/thoy-le-duc/mcp-woocommerce-thoy): Facilitates seamless WooCommerce store management via JSON-RPC 2.0, integrating with WordPress REST API across multiple platforms.
