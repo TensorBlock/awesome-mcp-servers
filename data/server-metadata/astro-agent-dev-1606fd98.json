@@ -5,8 +5,11 @@
     "issue": 3039,
     "projectUrl": "https://astro-agent.dev"
   },
+  "category": "Science & Research",
   "links": {
-    "endpoint": "https://astro-agent.dev/mcp"
+    "docs": "https://astro-agent.dev/llms.txt",
+    "endpoint": "https://astro-agent.dev/mcp",
+    "homepage": "https://astro-agent.dev"
   },
   "transport": [
     "streamable-http"
@@ -18,8 +21,11 @@
   "clients": [
     "Claude Code",
     "Claude Desktop",
-    "Cursor",
-    "and other MCP clients that support remote Streamable HTTP servers."
+    "Cursor"
   ],
+  "tools": {
+    "count": 16,
+    "source": "self_reported"
+  },
   "license": "Hosted proprietary service; the docs repository is public."
 }
