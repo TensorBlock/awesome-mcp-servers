@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-reflectme-source-acqpath-distribution-1cc07aa1",
+  "source": {
+    "issue": 3114,
+    "projectUrl": "https://github.com/reflectme-source/acqpath-distribution"
+  },
+  "links": {
+    "endpoint": "https://api.getacqpath.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client supporting remote Streamable HTTP."
+  ],
+  "license": "UNLICENSED / no open-source client license currently claimed"
+}
