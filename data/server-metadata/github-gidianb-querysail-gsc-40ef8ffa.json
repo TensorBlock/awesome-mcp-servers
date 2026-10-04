@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-gidianb-querysail-gsc-40ef8ffa",
+  "source": {
+    "issue": 3072,
+    "projectUrl": "https://github.com/GidianB/querysail-gsc"
+  },
+  "links": {
+    "docs": "https://querysail.com/google-search-console#connect",
+    "endpoint": "https://mcp.querysail.com/gsc/mcp",
+    "homepage": "https://querysail.com"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Sign in with a QuerySail account, then connect the Google Search Console account to authorize read-only access."
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude Code",
+    "Claude Desktop / claude.ai",
+    "Codex",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Listing files MIT; the hosted service is proprietary."
+}
