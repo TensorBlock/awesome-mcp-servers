@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "ligosocial-com-integrations-claude-580c3dbf",
+  "source": {
+    "issue": 3093,
+    "projectUrl": "https://ligosocial.com/integrations/claude"
+  },
+  "links": {
+    "endpoint": "https://ligosocial.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "unknown"
+}
