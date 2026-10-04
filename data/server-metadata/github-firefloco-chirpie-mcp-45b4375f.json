@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-firefloco-chirpie-mcp-45b4375f",
+  "source": {
+    "issue": 3074,
+    "projectUrl": "https://github.com/Firefloco/chirpie-mcp"
+  },
+  "links": {
+    "endpoint": "https://chirpie.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @chirpie/mcp"
+    ],
+    "env": [
+      "CHIRPIE_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "ChatGPT",
+    "VS Code",
+    "Gemini CLI"
+  ],
+  "license": "MIT (MCP server source); hosted service terms at https://chirpie.ai/terms"
+}
