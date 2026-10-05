@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-growingupvideo-growingupvideo-mcp-45538adb",
+  "source": {
+    "issue": 3120,
+    "projectUrl": "https://github.com/GrowingUpVideo/growingupvideo-mcp"
+  },
+  "links": {
+    "endpoint": "https://growingupvideo.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "and any MCP client with remote servers"
+  ],
+  "license": "MIT"
+}
