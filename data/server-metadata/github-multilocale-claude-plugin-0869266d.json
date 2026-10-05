@@ -1,0 +1,65 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-multilocale-claude-plugin-0869266d",
+  "source": {
+    "projectUrl": "https://github.com/multilocale/claude-plugin"
+  },
+  "description": "Manage software-localization projects, translation phrases and locales, audit coverage, and apply confirmed translation changes.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://www.multilocale.com/integrations/mcp-server/",
+    "homepage": "https://www.multilocale.com/",
+    "endpoint": "https://mcp.multilocale.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 18,
+    "names": [
+      "add_locale",
+      "add_phrase",
+      "add_project",
+      "delete_phrase",
+      "export_locale_dictionary",
+      "find_duplicate_phrase_values",
+      "find_missing_translations",
+      "get_phrase",
+      "get_project",
+      "list_phrases",
+      "list_projects",
+      "list_team_members",
+      "open_multilocale",
+      "search_phrases",
+      "share_phrase",
+      "show_project_overview",
+      "update_phrase",
+      "update_project"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}
