@@ -8,14 +8,17 @@
   "description": "Official VideoGen MCP server for creating, editing, captioning, and exporting videos and media, including ecommerce product ads and demos. Supports hosted Streamable HTTP with OAuth or a VideoGen API key, plus local stdio through @videogen/mcp. A VideoGen account and generation credits are required.",
   "links": {
     "docs": "https://docs.videogen.io/libraries/mcp",
+    "homepage": "https://videogen.io/videogen-mcp",
     "endpoint": "https://mcp.videogen.io/mcp"
   },
   "install": {
     "commands": [
       "npx -y @videogen/mcp"
     ],
-    "env": [],
-    "confidence": "medium"
+    "env": [
+      "VIDEOGEN_API_KEY"
+    ],
+    "confidence": "high"
   },
   "transport": [
     "stdio",
@@ -24,7 +27,9 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "Hosted OAuth clients use OAuth without an API-key environment variable. API-key clients send Authorization: Bearer YOUR_VIDEOGEN_API_KEY. Local stdio requires VIDEOGEN_API_KEY. Please avoid labeling the local npx configuration as..."
+      "Hosted OAuth clients can authorize without an API-key environment variable.",
+      "Hosted API-key clients send Authorization: Bearer YOUR_VIDEOGEN_API_KEY.",
+      "Local stdio requires VIDEOGEN_API_KEY."
     ]
   },
   "clients": [
@@ -33,8 +38,7 @@
     "ChatGPT",
     "VS Code",
     "Codex",
-    "and other MCP-compatible clients",
-    "subject to their transport/auth support."
+    "other MCP-compatible clients"
   ],
   "tools": {
     "count": 50,
@@ -52,13 +56,14 @@
       "export_project",
       "get_workflow_run"
     ],
-    "source": "self_reported"
+    "source": "verified"
   },
-  "license": "MIT The current page prints the Markdown links in its description as literal text and shows Homepage: Not declared....",
+  "license": "MIT",
   "verification": {
-    "status": "self_reported",
+    "status": "partial",
     "notes": [
-      "Metadata updated from issue #3159. Source: - Public source and setup: https://github.com/video-gen/videogen-mcp - Tool schemas: https://github.com/video-gen/videogen-mcp/blob/main/TOOL_SCHEMAS.md - Machine-readable schemas:..."
+      "The project repository, MIT license, installation instructions, and 50 machine-readable tool schemas were verified against public source on 2026-10-05.",
+      "Hosted OAuth and authenticated tool execution were not tested."
     ]
   }
 }
