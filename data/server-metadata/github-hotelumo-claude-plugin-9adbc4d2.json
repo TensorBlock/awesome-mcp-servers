@@ -1,0 +1,58 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-hotelumo-claude-plugin-9adbc4d2",
+  "source": {
+    "projectUrl": "https://github.com/hotelumo/claude-plugin"
+  },
+  "description": "Read hotel metadata, availability, aggregate schedules, room operations, rate plans, daily rates and extras without guest or individual-stay records.",
+  "category": "Travel & Transportation",
+  "links": {
+    "docs": "https://www.hotelumo.com/developers/#mcp",
+    "homepage": "https://www.hotelumo.com/",
+    "endpoint": "https://mcp.hotelumo.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 11,
+    "names": [
+      "get_hotel",
+      "get_hotel_availability",
+      "get_hotel_schedule_summary",
+      "get_room_type",
+      "list_daily_rates",
+      "list_extras",
+      "list_hotels",
+      "list_rate_plans",
+      "list_room_types",
+      "list_rooms",
+      "show_hotel_overview"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}

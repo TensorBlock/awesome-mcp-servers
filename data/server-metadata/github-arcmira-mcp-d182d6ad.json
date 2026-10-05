@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-arcmira-mcp-d182d6ad",
   "source": {
-    "issue": 2929,
+    "issue": 3088,
     "projectUrl": "https://github.com/arcmira/mcp"
   },
   "links": {
@@ -47,7 +47,8 @@
     "status": "self_reported",
     "notes": [
       "Profile claimed by @zealous1 in #3024 under the community profile-claim process.",
-      "Claim details and supporting repository commit are recorded in issue #3024."
+      "Claim details and supporting repository commit are recorded in issue #3024.",
+      "Metadata updated from issue #3088. Source: Maintainer follow-up to #3025. - API documentation: https://arcmira.com/docs - Usage documentation: https://arcmira.com/docs/usage-and-billing - MCP setup: https://arcmira.com/docs/mcp-server This is a description..."
     ]
   },
   "community": {
@@ -56,5 +57,6 @@
     ],
     "verifiedBy": [],
     "claimed": true
-  }
+  },
+  "description": "Search indexed YouTube transcripts for timestamped quotes, speaker appearances, mentions, sponsors and recommendations. Monitor new mentions across channels. Premium reads use credits from your plan, then your on-demand budget."
 }
