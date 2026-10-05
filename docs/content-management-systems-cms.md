@@ -2,6 +2,7 @@
 
 Servers specifically designed to interact with CMS platforms.
 
+- [io.kamaan/kamaan](https://kamaan.io/docs/mcp): Write, edit, translate, and publish articles across the blogs and help centers in a Kamaan account.
 - [io.hydori/hydori](https://hydori.io): Read, write, and translate blog articles, check SEO and GEO scores, and sync content to WordPress, Webflow, or Ghost.
 - [UnMarkdown/mcp-server](https://github.com/UnMarkdown/mcp-server): Converts markdown to formatted documents for Google Docs, Word, Slack, OneNote, Email, and Plain Text with 62 templates, plus document management and publishing via 7 MCP tools.
 - [edgarrmondragon/limesurvey-mcp](https://github.com/edgarrmondragon/limesurvey-mcp): Facilitates seamless management of LimeSurvey surveys and responses through a dedicated MCP server.
