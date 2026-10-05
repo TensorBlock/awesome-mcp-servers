@@ -3,6 +3,9 @@
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
 - [Vocenya Docs](https://vocenya.com/docs/mcp): Public, read-only search over the Vocenya AI receptionist API docs: guides, every REST endpoint with its scope and parameters, and code samples in cURL, Node, PHP and Python. Streamable HTTP at `https://vocenya.com/mcp/docs`; no auth.
+- [Multilocale](https://github.com/multilocale/claude-plugin): Manage software-localization projects, translation phrases and locales, audit coverage, and apply confirmed translation changes. Hosted Streamable HTTP at `https://mcp.multilocale.com/mcp`; OAuth account authorization required. [Docs](https://www.multilocale.com/integrations/mcp-server/). Public connector configuration and workflow skills: Apache-2.0.
+
+- [AllBack](https://www.allback.ai): Form builder with automatic reminders. Agents can create forms, send personal prefilled links, identify missing responses, remind only nonrespondents, read insights, and export answers as CSV.
 - [Momus Agent Marketplace](https://market.momusdigital.com/agents): 17 fixed-price results for CSV/JSON transforms and checks, dated game/Texas data, original SVG/glTF/web bundles and a bounded Qwen answer. Free discovery; private tools use guest Bearer access from the documented HTTP bootstrap. Results cost $1–$3 via operator-approved hosted Stripe Checkout after preparation. Transport: streamable-http. Endpoint: https://market.momusdigital.com/mcp.
 
 - [Fillo](https://github.com/jacobfunch/usefillo): Create and publish forms, read responses, and manage uploads and webhooks. Install: `npx -y @usefillo/mcp`. Transport: stdio. Auth: saved Fillo CLI login or scoped API key for private operations. Docs URL: https://fillo.so/developers. License: MIT.

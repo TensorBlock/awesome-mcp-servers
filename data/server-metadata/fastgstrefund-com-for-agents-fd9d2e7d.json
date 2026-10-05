@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "fastgstrefund-com-for-agents-fd9d2e7d",
+  "source": {
+    "issue": 3086,
+    "projectUrl": "https://fastgstrefund.com/for-agents/"
+  },
+  "description": "Five free MCP tools for Indian service-export GST refund preparation: checklists, cited guide search and retrieval, upload-error guidance, and anonymous receipt-allocation checks.",
+  "links": {
+    "docs": "https://fastgstrefund.com/for-agents/",
+    "endpoint": "https://fastgstrefund.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "tools": {
+    "count": 5,
+    "names": [
+      "get_refund_checklist",
+      "search_refund_guides",
+      "read_refund_guide",
+      "explain_upload_error",
+      "check_receipt_allocation"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3086. Source: Additional project corrections for maintainer review: - Repository URL: https://github.com/syllogismos/fast-gst-refund-mcp - Homepage: https://fastgstrefund.com/ - Please replace the existing Repository value (our..."
+    ]
+  }
+}
