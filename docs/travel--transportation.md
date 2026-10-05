@@ -2,6 +2,8 @@
 
 Servers providing data or services related to flights, trains, transportation APIs, or travel planning.
 
+- [Hotelumo](https://github.com/hotelumo/claude-plugin): Read hotel metadata, availability, aggregate schedules, room operations, rate plans, daily rates and extras without guest or individual-stay records. Hosted Streamable HTTP at `https://mcp.hotelumo.com/mcp`; OAuth account authorization required. [Docs](https://www.hotelumo.com/developers/#mcp). Public connector configuration and workflow skills: Apache-2.0.
+
 - [chucho — Book Direct](https://chucho.ai/chatgpt/): Find vacation rentals by destination, guest count, bedrooms and amenities; explore public photos and property details, then open direct host booking links. English and Spanish. Hosted Streamable HTTP endpoint at `https://chucho.ai/chatgpt/mcp`; free public discovery, no authentication. Dates, prices and availability are confirmed by the host.
 - [PriceDotWin/pricewin-agent-plugin](https://github.com/PriceDotWin/pricewin-agent-plugin): Live hotel and flight prices compared across Booking.com, Agoda, Trip.com and Traveloka, in USD, with links to book at the source. Hosted Streamable HTTP endpoint at `https://mcp.price.win/mcp`; no auth required. The repo packages it with a search skill for Claude Code, Codex CLI, Copilot CLI and Antigravity.
 - [Your Next Tours](https://yournext.tours/ai-assistant-integration/): Hosted MCP server for Your Next Tours, a phone-based audio guide system for tour groups. Tour guides and tour companies manage tour templates, travel programs, trips and participants; Enterprise companies can also edit their website. Remote Streamable HTTP endpoint at `https://api.yournext.tours/api/mcp/guide`; OAuth 2.1 sign-in, free accounts supported.

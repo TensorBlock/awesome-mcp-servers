@@ -1,0 +1,70 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-tutorializer-claude-plugin-5b6aae45",
+  "source": {
+    "projectUrl": "https://github.com/tutorializer/claude-plugin"
+  },
+  "description": "Audit localized product-tutorial libraries, rendered videos and voiceovers, and maintain tutorial definitions, projects and pronunciation rules with confirmed changes.",
+  "category": "Content Management Systems",
+  "links": {
+    "docs": "https://www.tutorializer.com/developers/#mcp",
+    "homepage": "https://www.tutorializer.com/",
+    "endpoint": "https://mcp.tutorializer.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 23,
+    "names": [
+      "create_project",
+      "create_speech",
+      "create_tutorial",
+      "create_video",
+      "delete_speech",
+      "delete_tutorial",
+      "delete_video",
+      "get_project",
+      "get_project_localization_summary",
+      "get_speech",
+      "get_tutorial",
+      "get_video",
+      "list_projects",
+      "list_speeches",
+      "list_tutorials",
+      "list_videos",
+      "remove_pronunciation_rule",
+      "set_pronunciation_rule",
+      "show_project_overview",
+      "update_project",
+      "update_speech",
+      "update_tutorial",
+      "update_video"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}

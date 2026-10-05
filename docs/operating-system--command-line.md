@@ -82,7 +82,6 @@ Servers providing access to the host operating system's command line/shell, exec
 - [lyuhau/claude-mcp-repl](https://github.com/lyuhau/claude-mcp-repl): Enhances Claude with Python execution, shell commands, and file manipulation capabilities through a Python-based REPL server.
 - [anton-107/server-run-commands](https://github.com/anton-107/server-run-commands): Facilitates command execution on the local OS via MCP, returning process results to the LLM.
 - [stat-guy/terminal](https://github.com/stat-guy/terminal): Facilitates terminal command execution via Claude Desktop with comprehensive output capture and error handling.
-- [odysseus0/mcp-server-shell](https://github.com/odysseus0/mcp-server-shell): Facilitates controlled shell command execution via Model Context Protocol, enabling LLMs to interact with system environments.
 - [chelsea-zhou/mcp-init](https://github.com/chelsea-zhou/mcp-init): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server): Facilitates secure command-line operations with customizable security policies for controlled CLI access in LLM applications.
 - [oakenai/mcp-edit-file-lines](https://github.com/oakenai/mcp-edit-file-lines): A TypeScript-based server for precise line-based text file edits using string or regex patterns, ensuring secure operations within specified directories.
