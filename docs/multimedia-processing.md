@@ -2,6 +2,7 @@
 
 Servers focused on generating or manipulating images, processing video, audio transcription, text-to-speech, or document conversion.
 
+- [GrowingUpVideo](https://github.com/GrowingUpVideo/growingupvideo-mcp): Turn photos of a person, couple, or pet across the years into an AI growing-up morph video. Agents can get current prices and inclusions with `get_offer`, provide photo-selection guidance with `photo_tips`, and return a link to start the project.
 - [Imagelato](https://github.com/imagelato/claude-plugin): Review image projects, processed batches, deterministic resize and format presets, and webhook delivery health; maintain presets with confirmation. Hosted Streamable HTTP at `https://mcp.imagelato.com/mcp`; OAuth account authorization required. [Docs](https://www.imagelato.com/developers/#claude-mcp). Public connector configuration and workflow skills: Apache-2.0.
 
 - [thirds.ai](https://thirds.ai/docs/mcp): Make branded PDFs and PNG, JPEG, or WebP images from saved templates, brand kits, and data. Hosted Streamable HTTP at `https://thirds.ai/mcp`; OAuth 2.1 or bearer API key. Official vendor-maintained service.
