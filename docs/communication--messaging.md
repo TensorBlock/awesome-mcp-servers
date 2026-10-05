@@ -328,7 +328,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [sdairs/claudekeep](https://github.com/sdairs/claudekeep): ClaudeKeep enables saving and sharing AI conversations from Claude Desktop using an MCP server.
 - [speakeasy-api/bluesky-ts](https://github.com/speakeasy-api/bluesky-ts): A TypeScript SDK for Bluesky API, offering a developer-friendly, type-safe interface with MCP server capabilities for AI applications.
 - [wazionapps/mcp-server](https://github.com/wazionapps/mcp-server): WAzion - WhatsApp Business platform with 244 MCP tools for messaging, CRM, campaigns, workflows, and AI automation. Supports Streamable HTTP and stdio transports.
-- [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant): MCP server for Microsoft Outlook with 20 consolidated tools for email, calendar, contacts, and mailbox management via Graph API. Features dry-run preview, session rate limiting, and recipient allowlists for safe email sending.
+- [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant): MCP server for Microsoft Outlook (Outlook.com and Microsoft 365) with 22 tools for email, calendar, contacts, rules and mailbox settings via Microsoft Graph. Features dry-run previews, read-only mode, session send limits and recipient allowlists for safe email sending.
 - [daedalus/mcp-telegram-bot](https://github.com/daedalus/mcp-telegram-bot) - MCP server that exposes a Telegram bot.
 - [daedalus/mcp-whatsapp](https://github.com/daedalus/mcp-whatsapp) - MCP server exposing WhatsApp bot functionality.
 - [daedalus/mcp-zmq](https://github.com/daedalus/mcp-zmq) - MCP server for ZMQ messaging.
