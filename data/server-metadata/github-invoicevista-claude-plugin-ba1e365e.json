@@ -1,0 +1,56 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-invoicevista-claude-plugin-ba1e365e",
+  "source": {
+    "projectUrl": "https://github.com/invoicevista/claude-plugin"
+  },
+  "description": "Read owned business metadata, product catalogs, plan limits and aggregate revenue, receivables and quote summaries without individual customer, invoice or payment records.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://www.invoicevista.com/developers/#mcp",
+    "homepage": "https://www.invoicevista.com/",
+    "endpoint": "https://mcp.invoicevista.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 9,
+    "names": [
+      "get_business",
+      "get_quote_pipeline_summary",
+      "get_receivables_summary",
+      "get_revenue_summary",
+      "get_subscription",
+      "list_businesses",
+      "list_products",
+      "open_invoicevista",
+      "show_business_overview"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}
