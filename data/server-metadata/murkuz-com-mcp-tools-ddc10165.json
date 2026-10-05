@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "murkuz-com-mcp-tools-ddc10165",
+  "source": {
+    "issue": 3097,
+    "projectUrl": "https://murkuz.com/mcp-tools"
+  },
+  "links": {
+    "endpoint": "https://murkuz.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "unknown"
+}
