@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-video-gen-videogen-mcp-b9ef7285",
+  "source": {
+    "issue": 3159,
+    "projectUrl": "https://github.com/video-gen/videogen-mcp"
+  },
+  "description": "Official VideoGen MCP server for creating, editing, captioning, and exporting videos and media, including ecommerce product ads and demos. Supports hosted Streamable HTTP with OAuth or a VideoGen API key, plus local stdio through @videogen/mcp. A VideoGen account and generation credits are required.",
+  "links": {
+    "docs": "https://docs.videogen.io/libraries/mcp",
+    "endpoint": "https://mcp.videogen.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @videogen/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Hosted OAuth clients use OAuth without an API-key environment variable. API-key clients send Authorization: Bearer YOUR_VIDEOGEN_API_KEY. Local stdio requires VIDEOGEN_API_KEY. Please avoid labeling the local npx configuration as..."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "ChatGPT",
+    "VS Code",
+    "Codex",
+    "and other MCP-compatible clients",
+    "subject to their transport/auth support."
+  ],
+  "tools": {
+    "count": 50,
+    "names": [
+      "script_to_video",
+      "voiceover_to_video",
+      "slideshow_to_video",
+      "storyboard_to_video",
+      "generate_video_clip",
+      "generate_image",
+      "text_to_speech",
+      "generate_music",
+      "generate_avatar",
+      "remix_project",
+      "export_project",
+      "get_workflow_run"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT The current page prints the Markdown links in its description as literal text and shows Homepage: Not declared....",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3159. Source: - Public source and setup: https://github.com/video-gen/videogen-mcp - Tool schemas: https://github.com/video-gen/videogen-mcp/blob/main/TOOL_SCHEMAS.md - Machine-readable schemas:..."
+    ]
+  }
+}
