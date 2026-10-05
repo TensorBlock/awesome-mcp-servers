@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "sudokumax-com-developers-mcp-8ed76f73",
+  "source": {
+    "issue": 3175,
+    "projectUrl": "https://sudokumax.com/developers/mcp"
+  },
+  "links": {
+    "endpoint": "https://sudokumax.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "YOUR_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "license": "Hosted service; source is not currently public. API calls are free with attribution required for published output...."
+}
