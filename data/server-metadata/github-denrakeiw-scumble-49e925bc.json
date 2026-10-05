@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-denrakeiw-scumble-49e925bc",
+  "source": {
+    "issue": 3083,
+    "projectUrl": "https://github.com/DenRakEiw/scumble"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "any stdio MCP client"
+  ],
+  "license": "GPL-3.0"
+}
