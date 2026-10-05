@@ -1,0 +1,62 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-supovia-claude-plugin-b179ab45",
+  "source": {
+    "projectUrl": "https://github.com/supovia/claude-plugin"
+  },
+  "description": "Review help-center knowledge, unresolved conversations and support summaries, send an explicitly approved reply, and manage conversation resolution.",
+  "category": "Communication & Messaging",
+  "links": {
+    "docs": "https://www.supovia.com/developers/#mcp",
+    "homepage": "https://www.supovia.com/",
+    "endpoint": "https://mcp.supovia.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 15,
+    "names": [
+      "get_conversation",
+      "get_document",
+      "get_unresolved_conversation_counts",
+      "get_website",
+      "list_campaigns",
+      "list_conversations",
+      "list_documents",
+      "list_websites",
+      "open_customer_inbox_conversation",
+      "open_supovia",
+      "resolve_conversation",
+      "search_documents",
+      "send_message",
+      "show_customer_inbox",
+      "show_support_overview"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}
