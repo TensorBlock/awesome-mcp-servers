@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "nomac-app-a53b83ea",
+  "source": {
+    "issue": 3164,
+    "projectUrl": "https://nomac.app"
+  },
+  "links": {
+    "endpoint": "https://mcp.nomac.app/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @nomac/cli mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "ChatGPT",
+    "Claude",
+    "VS Code and any MCP client with remote servers and OAuth"
+  ],
+  "license": "Proprietary (hosted service)"
+}
