@@ -1,0 +1,62 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-appskyline-claude-plugin-52cbf62c",
+  "source": {
+    "projectUrl": "https://github.com/appskyline/claude-plugin"
+  },
+  "description": "Research app-store keywords, rankings, reviews and listings across the iOS App Store, macOS App Store, Google Play and Microsoft Store, and manage tracked keywords.",
+  "category": "Marketing, Sales & CRM",
+  "links": {
+    "docs": "https://www.appskyline.com/developers/?utm_source=official-mcp-registry&utm_medium=mcp_directory&utm_campaign=mcp-registries-2026#claude-mcp",
+    "homepage": "https://www.appskyline.com/",
+    "endpoint": "https://mcp.appskyline.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 15,
+    "names": [
+      "add_keyword",
+      "delete_keyword",
+      "get_app",
+      "get_app_engagement_summary",
+      "get_keyword_history",
+      "get_keyword_overview",
+      "get_keyword_rank",
+      "get_store_listing",
+      "get_store_metadata",
+      "list_apps",
+      "list_google_play_reviews",
+      "list_keywords",
+      "open_appskyline",
+      "search_store_results",
+      "show_app_overview"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}
