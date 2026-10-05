@@ -1,0 +1,54 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-gymflexa-claude-plugin-8460285f",
+  "source": {
+    "projectUrl": "https://github.com/gymflexa/claude-plugin"
+  },
+  "description": "Read owned gym configuration, capacity, service catalogs, aggregate schedules and recorded-payment summaries without member records.",
+  "category": "Sports",
+  "links": {
+    "docs": "https://www.gymflexa.com/developers/#mcp",
+    "homepage": "https://www.gymflexa.com/",
+    "endpoint": "https://mcp.gymflexa.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 7,
+    "names": [
+      "get_gym",
+      "get_gym_availability",
+      "get_gym_payment_summary",
+      "get_gym_schedule_summary",
+      "list_gyms",
+      "list_services",
+      "show_gym_overview"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}
