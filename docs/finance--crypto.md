@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [StockDrifts](https://github.com/Stockdrifts/stockdrifts-mcp): Rated US 13F funds with each fund's average buy price, company-specific KPIs, Japanese large-shareholder (EDINET) filings with investor ratings, and Korean insider trades (DART). 32 read-only tools. Hosted Streamable HTTP at `https://mcp.stockdrifts.io/mcp/`; API key required.
 - [InvoiceVista](https://github.com/invoicevista/claude-plugin): Read owned business metadata, product catalogs, plan limits and aggregate revenue, receivables and quote summaries without individual customer, invoice or payment records. Hosted Streamable HTTP at `https://mcp.invoicevista.com/mcp`; OAuth account authorization required. [Docs](https://www.invoicevista.com/developers/#mcp). Public connector configuration and workflow skills: Apache-2.0.
 
 - [Fast GST Refund](https://fastgstrefund.com/for-agents/): Indian service-export GST refund checklists, cited guides, Statement 3 and Annexure B upload-error guidance, and anonymous receipt-allocation checks. Five free read-only tools. Streamable HTTP: `https://fastgstrefund.com/mcp`; no authentication.
