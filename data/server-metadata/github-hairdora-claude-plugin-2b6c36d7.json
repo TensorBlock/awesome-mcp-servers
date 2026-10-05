@@ -1,0 +1,61 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-hairdora-claude-plugin-2b6c36d7",
+  "source": {
+    "projectUrl": "https://github.com/hairdora/claude-plugin"
+  },
+  "description": "Review owned salons, schedules, bookable availability, services, clients, appointments, quotes and payment status through read-only tools.",
+  "category": "Marketing, Sales & CRM",
+  "links": {
+    "docs": "https://www.hairdora.com/developers/#mcp",
+    "homepage": "https://www.hairdora.com/",
+    "endpoint": "https://mcp.hairdora.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 14,
+    "names": [
+      "get_appointment",
+      "get_client",
+      "get_salon",
+      "get_salon_availability",
+      "list_appointments",
+      "list_calendar_events",
+      "list_clients",
+      "list_payments",
+      "list_providers",
+      "list_quotes",
+      "list_salons",
+      "list_services",
+      "open_hairdora",
+      "show_salon_overview"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}

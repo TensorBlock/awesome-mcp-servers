@@ -2,6 +2,11 @@
 
 Servers specifically designed to interact with CMS platforms.
 
+- [Polyblog](https://github.com/polyblog-io/claude-plugin): Research topics, draft text and manage multilingual blog articles, localization coverage and editorial workflows with confirmed publication changes. Hosted Streamable HTTP at `https://mcp.polyblog.io/mcp`; OAuth account authorization required. [Docs](https://www.polyblog.io/developers/?utm_source=official-mcp-registry&utm_medium=mcp_directory&utm_campaign=mcp-registries-2026#mcp). Public connector configuration and workflow skills: Apache-2.0.
+- [Tutorializer](https://github.com/tutorializer/claude-plugin): Audit localized product-tutorial libraries, rendered videos and voiceovers, and maintain tutorial definitions, projects and pronunciation rules with confirmed changes. Hosted Streamable HTTP at `https://mcp.tutorializer.com/mcp`; OAuth account authorization required. [Docs](https://www.tutorializer.com/developers/#mcp). Public connector configuration and workflow skills: Apache-2.0.
+
+- [io.kamaan/kamaan](https://kamaan.io/docs/mcp): Write, edit, translate, and publish articles across the blogs and help centers in a Kamaan account.
+- [io.hydori/hydori](https://hydori.io): Read, write, and translate blog articles, check SEO and GEO scores, and sync content to WordPress, Webflow, or Ghost.
 - [UnMarkdown/mcp-server](https://github.com/UnMarkdown/mcp-server): Converts markdown to formatted documents for Google Docs, Word, Slack, OneNote, Email, and Plain Text with 62 templates, plus document management and publishing via 7 MCP tools.
 - [edgarrmondragon/limesurvey-mcp](https://github.com/edgarrmondragon/limesurvey-mcp): Facilitates seamless management of LimeSurvey surveys and responses through a dedicated MCP server.
 - [thoy-le-duc/mcp-woocommerce-thoy](https://github.com/thoy-le-duc/mcp-woocommerce-thoy): Facilitates seamless WooCommerce store management via JSON-RPC 2.0, integrating with WordPress REST API across multiple platforms.
@@ -66,3 +71,4 @@ Servers specifically designed to interact with CMS platforms.
 - [WPGuard MCP](https://github.com/cgallic/wpguard-mcp): Run repeatable WordPress website work with exact change previews, human correction checks, guarded Gutenberg block edits, staging evidence, native revisions, and plugin/theme update rollback. Install: `docker run ghcr.io/cgallic/wpguard-mcp:0.4.0`.
 - [Keepp](https://github.com/thinslatelabs/keepp-skill): Build and edit a website or link-in-bio page at keepp.link/yourname with a store, bookings, forms and chat, by asking. Remote server `https://api.keepp.link/mcp`, OAuth.
 - [Dibatto](https://dibatto.com/developers): Review saved podcast rundowns and transcripts, and prepare private episode drafts. Connect `https://dibatto.com/mcp` via Streamable HTTP; OAuth 2.1/PKCE.
+- [Misar.Blog](https://www.misar.blog): Blogging platform MCP server for writing, publishing, and growing a blog from any AI assistant — manage articles, series, newsletters, generate cover images, and pull analytics. 23 tools, 8 prompts, 5 resources. Transport: Streamable HTTP at `https://www.misar.blog/api/mcp` or stdio via `npx -y @misarblog/mcp@latest`; auth: Bearer API key (`mbk_...`). Official MCP Registry id `io.github.Misar-AI/misarblog-mcp`. [Docs](https://docs.misar.io/blog/mcp). [GitHub](https://github.com/Misar-AI/misarblog-mcp).
