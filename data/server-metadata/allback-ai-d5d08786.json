@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "allback-ai-d5d08786",
+  "source": {
+    "issue": 3108,
+    "projectUrl": "https://www.allback.ai"
+  },
+  "links": {
+    "endpoint": "https://mcp.allback.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "and any MCP client with remote servers and OAuth"
+  ],
+  "license": "Proprietary (hosted service)"
+}
