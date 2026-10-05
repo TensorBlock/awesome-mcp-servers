@@ -2,6 +2,7 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [com.murkuz/murkuz](https://murkuz.com/mcp-tools): Work with Search Console, GA4, and Bing Webmaster data across owned sites, including quick wins, content decay, and cannibalization analysis.
 - [UGC](https://ugc.africa): Human Ad Network. Create and fund campaigns, discover slots, and check a wallet from chat. Hosted Streamable HTTP at `https://api.ugc.africa/mcp`; OAuth 2.1 with PKCE, public client, client ID metadata documents supported. Official MCP Registry id `africa.ugc/ugc`. Website: https://ugc.africa.
 - [UserTold (ai.usertold/usertold-mcp)](https://usertold.ai): Run consented in-product interviews and work with source-linked evidence and findings. Agents can manage studies, inspect authorized interview artifacts, review findings, and send approved findings to a project's configured Linear or GitHub destination. Hosted Streamable HTTP at `https://mcp.usertold.ai/mcp` with OAuth 2.1 and PKCE. [Docs](https://usertold.ai/docs/mcp).
 
