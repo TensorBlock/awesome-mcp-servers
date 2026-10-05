@@ -2,6 +2,8 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [QRtracer](https://qrtracer.io/qr-code-mcp): Create dynamic QR codes, update destinations after printing, compare scan analytics, render QR images, and check link reachability. Hosted Streamable HTTP at `https://qrtracer.io/mcp`; public tools support limited anonymous use, while private account tools require a scoped bearer API key and existing plan eligibility. 11 tools. Official MCP Registry id `io.github.danieldedaniel/qrtracer`.
+
 - [Productify](https://www.useproductify.com/printify-chatgpt-mcp): Turn a seller's designs into Printify products, write listings in the shop's voice, publish them, and edit titles, tags, or prices. Create, publish, and edit operations return a preview before execution.
 - [AppSkyline](https://github.com/appskyline/claude-plugin): Research app-store keywords, rankings, reviews and listings across the iOS App Store, macOS App Store, Google Play and Microsoft Store, and manage tracked keywords. Hosted Streamable HTTP at `https://mcp.appskyline.com/mcp`; OAuth account authorization required. [Docs](https://www.appskyline.com/developers/?utm_source=official-mcp-registry&utm_medium=mcp_directory&utm_campaign=mcp-registries-2026#claude-mcp). Public connector configuration and workflow skills: Apache-2.0.
 - [HairDora](https://github.com/hairdora/claude-plugin): Review owned salons, schedules, bookable availability, services, clients, appointments, quotes and payment status through read-only tools. Hosted Streamable HTTP at `https://mcp.hairdora.com/mcp`; OAuth account authorization required. [Docs](https://www.hairdora.com/developers/#mcp). Public connector configuration and workflow skills: Apache-2.0.
