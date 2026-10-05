@@ -2,6 +2,7 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [AllBack](https://www.allback.ai): Form builder with automatic reminders. Agents can create forms, send personal prefilled links, identify missing responses, remind only nonrespondents, read insights, and export answers as CSV.
 - [Momus Agent Marketplace](https://market.momusdigital.com/agents): 17 fixed-price results for CSV/JSON transforms and checks, dated game/Texas data, original SVG/glTF/web bundles and a bounded Qwen answer. Free discovery; private tools use guest Bearer access from the documented HTTP bootstrap. Results cost $1–$3 via operator-approved hosted Stripe Checkout after preparation. Transport: streamable-http. Endpoint: https://market.momusdigital.com/mcp.
 
 - [Fillo](https://github.com/jacobfunch/usefillo): Create and publish forms, read responses, and manage uploads and webhooks. Install: `npx -y @usefillo/mcp`. Transport: stdio. Auth: saved Fillo CLI login or scoped API key for private operations. Docs URL: https://fillo.so/developers. License: MIT.
