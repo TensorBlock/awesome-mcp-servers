@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "dmparrot-com-850861da",
+  "source": {
+    "issue": 3162,
+    "projectUrl": "https://dmparrot.com"
+  },
+  "links": {
+    "endpoint": "https://dmparrot.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  }
+}
