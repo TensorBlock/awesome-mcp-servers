@@ -1,0 +1,69 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-video-gen-videogen-mcp-b9ef7285",
+  "source": {
+    "issue": 3159,
+    "projectUrl": "https://github.com/video-gen/videogen-mcp"
+  },
+  "description": "Official VideoGen MCP server for creating, editing, captioning, and exporting videos and media, including ecommerce product ads and demos. Supports hosted Streamable HTTP with OAuth or a VideoGen API key, plus local stdio through @videogen/mcp. A VideoGen account and generation credits are required.",
+  "links": {
+    "docs": "https://docs.videogen.io/libraries/mcp",
+    "homepage": "https://videogen.io/videogen-mcp",
+    "endpoint": "https://mcp.videogen.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @videogen/mcp"
+    ],
+    "env": [
+      "VIDEOGEN_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Hosted OAuth clients can authorize without an API-key environment variable.",
+      "Hosted API-key clients send Authorization: Bearer YOUR_VIDEOGEN_API_KEY.",
+      "Local stdio requires VIDEOGEN_API_KEY."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "ChatGPT",
+    "VS Code",
+    "Codex",
+    "other MCP-compatible clients"
+  ],
+  "tools": {
+    "count": 50,
+    "names": [
+      "script_to_video",
+      "voiceover_to_video",
+      "slideshow_to_video",
+      "storyboard_to_video",
+      "generate_video_clip",
+      "generate_image",
+      "text_to_speech",
+      "generate_music",
+      "generate_avatar",
+      "remix_project",
+      "export_project",
+      "get_workflow_run"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The project repository, MIT license, installation instructions, and 50 machine-readable tool schemas were verified against public source on 2026-10-05.",
+      "Hosted OAuth and authenticated tool execution were not tested."
+    ]
+  }
+}
