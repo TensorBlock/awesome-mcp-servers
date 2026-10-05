@@ -2,6 +2,9 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [AppSkyline](https://github.com/appskyline/claude-plugin): Research app-store keywords, rankings, reviews and listings across the iOS App Store, macOS App Store, Google Play and Microsoft Store, and manage tracked keywords. Hosted Streamable HTTP at `https://mcp.appskyline.com/mcp`; OAuth account authorization required. [Docs](https://www.appskyline.com/developers/?utm_source=official-mcp-registry&utm_medium=mcp_directory&utm_campaign=mcp-registries-2026#claude-mcp). Public connector configuration and workflow skills: Apache-2.0.
+- [HairDora](https://github.com/hairdora/claude-plugin): Review owned salons, schedules, bookable availability, services, clients, appointments, quotes and payment status through read-only tools. Hosted Streamable HTTP at `https://mcp.hairdora.com/mcp`; OAuth account authorization required. [Docs](https://www.hairdora.com/developers/#mcp). Public connector configuration and workflow skills: Apache-2.0.
+
 - [com.murkuz/murkuz](https://murkuz.com/mcp-tools): Work with Search Console, GA4, and Bing Webmaster data across owned sites, including quick wins, content decay, and cannibalization analysis.
 - [ltd.testimonials/testimonials](https://testimonials.ltd/integrations/claude): Manage a testimonials.ltd workspace by importing reviews from Trustpilot, G2, or Google, approving and tagging them in bulk, and pinning selected reviews to widgets.
 - [io.meisa/meisa](https://meisa.io/docs/claude-connector): Manage contacts, edit templates, run automation sequences, and send or schedule broadcasts in a Meisa email account.
