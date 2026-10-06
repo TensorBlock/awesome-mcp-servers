@@ -63,7 +63,16 @@
     "status": "partial",
     "notes": [
       "The project repository, MIT license, installation instructions, and 50 machine-readable tool schemas were verified against public source on 2026-10-05.",
-      "Hosted OAuth and authenticated tool execution were not tested."
+      "Hosted OAuth and authenticated tool execution were not tested.",
+      "Profile claimed by @video-gen in #3194 under the community profile-claim process.",
+      "Requested profile metadata in #3194: Maintainer: video-gen Homepage: https://videogen.io/videogen-mcp Docs URL: https://docs.videogen.io/libraries/mcp Support: info@videogen.io License: MIT Install: npx -y @videogen/mcp Auth: Hosted Streamable HTTP..."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@video-gen"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
