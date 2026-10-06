@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "qrtracer-io-qr-code-mcp-651576ec",
+  "source": {
+    "projectUrl": "https://qrtracer.io/qr-code-mcp"
+  },
+  "description": "Create and manage dynamic QR codes, update printed-code destinations, compare scan analytics, render QR images, and check current link reachability.",
+  "category": "Marketing, Sales & CRM",
+  "links": {
+    "docs": "https://qrtracer.io/qr-code-mcp",
+    "homepage": "https://qrtracer.io/",
+    "endpoint": "https://qrtracer.io/mcp"
+  },
+  "transport": ["streamable-http"],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Public tools include limited anonymous QR creation, public link checking, and routing simulation. Show the returned claim_url after anonymous creation.",
+      "Private account tools require a scoped QRtracer API key in the Authorization: Bearer header and enforce the connected account's existing plan and ownership permissions.",
+      "OAuth is a controlled pilot; general setup uses the public endpoint or a bearer API key."
+    ]
+  },
+  "tools": {
+    "count": 11,
+    "names": ["create_qr", "get_account", "list_qr_codes", "get_qr_code", "update_destination", "get_analytics", "compare_qr_codes", "render_qr", "check_qr_link", "set_routing", "simulate_scan"],
+    "source": "self_reported"
+  },
+  "license": "Proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Submitted by the QRtracer owner. Public documentation and llms.txt returned HTTP 200 on 2026-10-05.",
+      "Link checking reports current reachability and general provider policy, not guaranteed expiry or destination safety."
+    ]
+  }
+}
