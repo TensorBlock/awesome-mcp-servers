@@ -6,14 +6,9 @@
     "projectUrl": "https://sudokumax.com/developers/mcp"
   },
   "links": {
+    "homepage": "https://sudokumax.com",
+    "docs": "https://sudokumax.com/developers/mcp",
     "endpoint": "https://sudokumax.com/api/mcp"
-  },
-  "install": {
-    "commands": [],
-    "env": [
-      "YOUR_API_KEY"
-    ],
-    "confidence": "low"
   },
   "transport": [
     "streamable-http"
@@ -21,8 +16,8 @@
   "auth": {
     "type": "bearer",
     "notes": [
-      "bearer"
+      "Send the Sudokumax API key in the Authorization: Bearer header."
     ]
   },
-  "license": "Hosted service; source is not currently public. API calls are free with attribution required for published output...."
+  "license": "Hosted proprietary service; API calls are free with attribution required for published output."
 }
