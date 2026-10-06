@@ -6,14 +6,8 @@
     "projectUrl": "https://stride.simmons-simmons.com/"
   },
   "links": {
+    "homepage": "https://stride.simmons-simmons.com/",
     "endpoint": "https://stride.simmons-simmons.com/mcp/"
-  },
-  "install": {
-    "commands": [
-      "npx"
-    ],
-    "env": [],
-    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
@@ -21,7 +15,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth 2.1 and bearer API-key authentication are supported."
     ]
   },
   "clients": [
