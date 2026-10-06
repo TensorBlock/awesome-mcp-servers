@@ -6,6 +6,8 @@
     "projectUrl": "https://github.com/phuryn/askone"
   },
   "links": {
+    "homepage": "https://askone.org",
+    "docs": "https://github.com/phuryn/askone#readme",
     "endpoint": "https://askone.org/api/mcp"
   },
   "install": {
@@ -34,7 +36,7 @@
     "Cursor",
     "Windsurf",
     "Cline",
-    "and any MCP client that runs stdio servers or connects to Streamable HTTP with a bearer header."
+    "other stdio or bearer-authenticated Streamable HTTP MCP clients"
   ],
   "license": "MIT"
 }
