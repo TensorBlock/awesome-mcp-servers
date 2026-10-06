@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-whimbrelresearch-whimbrel-mcp-23b85724",
+  "source": {
+    "issue": 3221,
+    "projectUrl": "https://github.com/WhimbrelResearch/whimbrel-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "other MCP clients with remote server + OAuth support"
+  ],
+  "license": "Not stated (hosted service; repository holds the connector source)"
+}
