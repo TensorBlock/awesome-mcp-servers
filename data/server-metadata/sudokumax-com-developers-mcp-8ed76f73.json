@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "sudokumax-com-developers-mcp-8ed76f73",
+  "source": {
+    "issue": 3175,
+    "projectUrl": "https://sudokumax.com/developers/mcp"
+  },
+  "links": {
+    "homepage": "https://sudokumax.com",
+    "docs": "https://sudokumax.com/developers/mcp",
+    "endpoint": "https://sudokumax.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Send the Sudokumax API key in the Authorization: Bearer header."
+    ]
+  },
+  "license": "Hosted proprietary service; API calls are free with attribution required for published output."
+}
