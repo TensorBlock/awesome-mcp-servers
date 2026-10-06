@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "lexray-simmons-simmons-com-5c4167ff",
+  "source": {
+    "issue": 3166,
+    "projectUrl": "https://lexray.simmons-simmons.com/"
+  },
+  "links": {
+    "homepage": "https://lexray.simmons-simmons.com/",
+    "endpoint": "https://lexray.simmons-simmons.com/mcp/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 and bearer API-key authentication are supported."
+    ]
+  },
+  "clients": [
+    "Remote MCP clients supporting Streamable HTTP and OAuth 2.1 or bearer API keys."
+  ],
+  "license": "Proprietary hosted service"
+}
