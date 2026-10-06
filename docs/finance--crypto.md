@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [BlockVectra](https://github.com/blockvectra/mcp): Official remote MCP server for EVM JSON-RPC across Arbitrum One, Base, BNB Smart Chain, Ethereum, HyperEVM, Polygon, and Robinhood Chain, plus indexed blockchain data, documentation, and service status for AI agents. Transport: Streamable HTTP. Endpoint: `https://docs.blockvectra.com/mcp`. Auth: optional API key; documentation and chain discovery tools are keyless, data queries require an API key. Official MCP Registry id `com.blockvectra/docs`. Docs: https://docs.blockvectra.com/?ref=gh-awesome-mcp-servers. MIT.
 - [InvoiceVista](https://github.com/invoicevista/claude-plugin): Read owned business metadata, product catalogs, plan limits and aggregate revenue, receivables and quote summaries without individual customer, invoice or payment records. Hosted Streamable HTTP at `https://mcp.invoicevista.com/mcp`; OAuth account authorization required. [Docs](https://www.invoicevista.com/developers/#mcp). Public connector configuration and workflow skills: Apache-2.0.
 
 - [Fast GST Refund](https://fastgstrefund.com/for-agents/): Indian service-export GST refund checklists, cited guides, Statement 3 and Annexure B upload-error guidance, and anonymous receipt-allocation checks. Five free read-only tools. Streamable HTTP: `https://fastgstrefund.com/mcp`; no authentication.
