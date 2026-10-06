@@ -6,6 +6,8 @@
     "projectUrl": "https://tokelements.com/integrations"
   },
   "links": {
+    "homepage": "https://tokelements.com/",
+    "docs": "https://tokelements.com/integrations",
     "endpoint": "https://tokelements.com/api/mcp"
   },
   "transport": [
@@ -18,13 +20,11 @@
     ]
   },
   "clients": [
-    "Claude (claude.ai",
-    "Desktop",
-    "Code)",
+    "Claude",
     "ChatGPT",
     "Cursor",
     "VS Code",
-    "any client with remote MCP + OAuth"
+    "other OAuth-capable remote MCP clients"
   ],
   "license": "Proprietary (hosted service, free plan)"
 }
