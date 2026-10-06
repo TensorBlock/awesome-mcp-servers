@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-phuryn-askone-2a53b34e",
+  "source": {
+    "issue": 3212,
+    "projectUrl": "https://github.com/phuryn/askone"
+  },
+  "links": {
+    "endpoint": "https://askone.org/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y askone-mcp"
+    ],
+    "env": [
+      "ASKONE_API_TOKEN",
+      "ASKONE_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "Cline",
+    "and any MCP client that runs stdio servers or connects to Streamable HTTP with a bearer header."
+  ],
+  "license": "MIT"
+}
