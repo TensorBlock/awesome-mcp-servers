@@ -16,5 +16,19 @@
     "notes": [
       "oauth"
     ]
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @agentstacktech in #3227 under the community profile-claim process.",
+      "Requested profile metadata in #3227: Category: Cloud Platforms & Services Transport: streamable-http Auth: oauth Install confidence: low License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@agentstacktech"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
