@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "gastrosync-com-80806638",
+  "source": {
+    "issue": 3216,
+    "projectUrl": "https://gastrosync.com/"
+  },
+  "links": {
+    "endpoint": "https://gastrosync.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude (remote MCP connectors)"
+  ],
+  "license": "Proprietary hosted service"
+}
