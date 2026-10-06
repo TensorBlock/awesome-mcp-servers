@@ -6,7 +6,8 @@
     "projectUrl": "https://github.com/happywpco/pdftomarkdown-mcp"
   },
   "links": {
-    "endpoint": "https://pdftomarkdown.ai/mcp"
+    "homepage": "https://pdftomarkdown.ai/",
+    "docs": "https://pdftomarkdown.ai/developers"
   },
   "install": {
     "commands": [
