@@ -5,6 +5,11 @@
     "issue": 3221,
     "projectUrl": "https://github.com/WhimbrelResearch/whimbrel-mcp"
   },
+  "links": {
+    "homepage": "https://whimbrelresearch.com/",
+    "docs": "https://whimbrelresearch.com/connect/",
+    "endpoint": "https://data.whimbrelresearch.com"
+  },
   "transport": [
     "streamable-http"
   ],
@@ -18,7 +23,7 @@
     "Claude",
     "ChatGPT",
     "Cursor",
-    "other MCP clients with remote server + OAuth support"
+    "other OAuth-capable remote MCP clients"
   ],
   "license": "Not stated (hosted service; repository holds the connector source)"
 }
