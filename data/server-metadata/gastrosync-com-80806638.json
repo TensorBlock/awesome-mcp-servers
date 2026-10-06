@@ -6,6 +6,8 @@
     "projectUrl": "https://gastrosync.com/"
   },
   "links": {
+    "homepage": "https://gastrosync.com/",
+    "docs": "https://gastrosync.com/chatgpt",
     "endpoint": "https://gastrosync.com/mcp"
   },
   "transport": [
@@ -19,7 +21,7 @@
   },
   "clients": [
     "ChatGPT",
-    "Claude (remote MCP connectors)"
+    "Claude"
   ],
   "license": "Proprietary hosted service"
 }
