@@ -2,6 +2,7 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [marstudio360/gumroad-dna-mcp](https://github.com/marstudio360/gumroad-dna-mcp): Lets an agent run a Gumroad store through the API v2 (products, files, sales, refunds, subscribers, license keys, offer codes, webhooks) and scan the public storefront to size a niche. Install: clone the repo, `pip install -r requirements.txt`, run `python server.py` with `GUMROAD_ACCESS_TOKEN` set. Transport: stdio. Auth: Gumroad access token. License: MIT.
 - [Debriefing (io.debriefing/debriefing)](https://github.com/0xrome/debriefing-mcp): Competitive intelligence for B2B teams. Read tracked competitors, evidence-backed signals with their sources, digests and battlecards; change the watchlist, act on signals and run research with the write and spend scopes. Hosted Streamable HTTP at `https://debriefing.io/mcp`; OAuth 2.1 (PKCE, DCR, client ID metadata documents) or API key. 41 tools; 4 public tools for published competitive briefs and CI guides need no sign-in. Docs: https://debriefing.io/developers?tab=mcp
 - [QRtracer](https://qrtracer.io/qr-code-mcp): Create dynamic QR codes, update destinations after printing, compare scan analytics, render QR images, and check link reachability. Hosted Streamable HTTP at `https://qrtracer.io/mcp`; public tools support limited anonymous use, while private account tools require a scoped bearer API key and existing plan eligibility. 11 tools. Official MCP Registry id `io.github.danieldedaniel/qrtracer`.
 
