@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-weidwonder-terminal-mcp-server-04e3b6b9",
+  "source": {
+    "issue": 3200,
+    "projectUrl": "https://github.com/weidwonder/terminal-mcp-server"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The public source repository was archived by its owner; last checked 2026-10-06. The entry remains indexed because the source is still available."
+    ]
+  }
+}
