@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "fitmaxxx-com-5a838896",
+  "source": {
+    "issue": 3181,
+    "projectUrl": "https://fitmaxxx.com"
+  },
+  "links": {
+    "homepage": "https://fitmaxxx.com",
+    "docs": "https://fitmaxxx.com/integrations",
+    "endpoint": "https://api.fitmaxxx.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "other OAuth-capable remote MCP clients"
+  ],
+  "license": "Hosted proprietary service; no open-source license asserted."
+}
