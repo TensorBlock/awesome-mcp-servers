@@ -16,5 +16,18 @@
     "notes": [
       "oauth"
     ]
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @agentstacktech in #3227 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@agentstacktech"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
