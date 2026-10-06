@@ -1,9 +1,9 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "github-gidianb-querysail-gsc-40ef8ffa",
+  "id": "github-querysail-querysail-gsc-7136f4e9",
   "source": {
     "issue": 3072,
-    "projectUrl": "https://github.com/GidianB/querysail-gsc"
+    "projectUrl": "https://github.com/querysail/querysail-gsc"
   },
   "links": {
     "docs": "https://querysail.com/google-search-console#connect",
