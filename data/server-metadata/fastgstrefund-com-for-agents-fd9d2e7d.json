@@ -5,26 +5,37 @@
     "issue": 3086,
     "projectUrl": "https://fastgstrefund.com/for-agents/"
   },
-  "description": "Five free MCP tools for Indian service-export GST refund preparation: checklists, cited guide search and retrieval, upload-error guidance, and anonymous receipt-allocation checks.",
+  "description": "Indian service-export GST refund guidance, record validation and Statement 3/Annexure B JSON generation without the GST offline Excel utilities.",
   "links": {
     "docs": "https://fastgstrefund.com/for-agents/",
-    "endpoint": "https://fastgstrefund.com/mcp"
+    "endpoint": "https://fastgstrefund.com/mcp",
+    "homepage": "https://fastgstrefund.com/"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "oauth",
+    "notes": [
+      "Guidance, requirements and validation are free without sign-in.",
+      "Direct JSON delivery uses OAuth with the refund:generate scope and access for the GSTIN/refund period.",
+      "Website sign-in and payment are available through a 24-hour browser handoff; ₹499 + GST covers both files and corrections."
+    ]
   },
   "tools": {
-    "count": 5,
+    "count": 11,
     "names": [
       "get_refund_checklist",
       "search_refund_guides",
       "read_refund_guide",
       "explain_upload_error",
-      "check_receipt_allocation"
+      "check_receipt_allocation",
+      "get_statement3_requirements",
+      "validate_statement3",
+      "generate_statement3",
+      "get_annexure_b_requirements",
+      "validate_annexure_b",
+      "generate_annexure_b"
     ],
     "source": "self_reported"
   },
@@ -32,7 +43,8 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #3086. Source: Additional project corrections for maintainer review: - Repository URL: https://github.com/syllogismos/fast-gst-refund-mcp - Homepage: https://fastgstrefund.com/ - Please replace the existing Repository value (our..."
+      "Publisher metadata checked against MCP initialize/tools/list on 7 October 2026 UTC: hosted version 1.3.1, eleven tools.",
+      "Public documentation and connector repository: https://github.com/syllogismos/fast-gst-refund-mcp. Hosted implementation is proprietary."
     ]
   }
 }
