@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-global-database-mcp-server-9c21d0e5",
+  "source": {
+    "projectUrl": "https://github.com/global-database/mcp-server"
+  },
+  "links": {
+    "docs": "https://api.globaldatabase.com/docs/v2/#mcp-server",
+    "endpoint": "https://mcp.globaldatabase.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Browser-based Global Database account sign-in and authorization; no API key needs to be pasted into the MCP client.",
+      "Account API access and credits are required; the current documentation describes a free trial through sign-in."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Codex"
+  ],
+  "license": "Proprietary hosted service; MIT covers repository distribution metadata and documentation."
+}
