@@ -2,6 +2,8 @@
 
 Servers accessing scientific databases, research platforms, or providing tools for scientific computation/simulation.
 
+- [Liminality (jaybro2042-alt/liminality-mcp)](https://github.com/jaybro2042-alt/liminality-mcp): Breaks a question into checkable sub-questions, grounds each, and returns an answer that marks what it couldn't confirm. Hosted Streamable HTTP at `https://liminality.physea.ai/mcp`; OAuth or `X-API-Key` header. [Connect](https://liminal.physea.ai/connect).
+
 - [Astro Agents (io.github.aidatatools-dev/astro-agents)](https://astro-agent.dev): Deterministic Western and Vedic astrology calculations, including natal charts, aspects, transits, synastry, kundli, divisional charts, dashas, nakshatras, panchang, doshas, and Gun Milan. All 16 tools are read-only and results include a SHA-256 hash. Hosted Streamable HTTP at `https://astro-agent.dev/mcp`; no auth. [Docs](https://astro-agent.dev/llms.txt).
 
 - [morluto/jacobian](https://github.com/morluto/jacobian): MCP server, CLI, and Python library for composable mathematics: exact computation and conjecture testing across polynomial maps, linear algebra, and graph algorithms. Install: `npx -y jacobian mcp`.
