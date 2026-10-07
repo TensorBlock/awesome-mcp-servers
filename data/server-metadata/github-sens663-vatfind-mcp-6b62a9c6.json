@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sens663-vatfind-mcp-6b62a9c6",
+  "source": {
+    "issue": 3256,
+    "projectUrl": "https://github.com/sens663/vatfind-mcp"
+  },
+  "links": {
+    "docs": "https://vatfind.com/docs/mcp",
+    "homepage": "https://vatfind.com",
+    "endpoint": "https://vatfind.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.0 authorization code with PKCE S256, dynamic client registration, and resource-bound access tokens."
+    ]
+  },
+  "clients": [
+    "Remote OAuth-compatible MCP clients",
+    "Claude",
+    "ChatGPT"
+  ],
+  "license": "Commercial hosted service; public connection documentation and configuration are MIT, while the service implementation is maintained separately."
+}

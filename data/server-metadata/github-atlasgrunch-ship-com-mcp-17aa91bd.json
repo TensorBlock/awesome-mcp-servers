@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-atlasgrunch-ship-com-mcp-17aa91bd",
+  "source": {
+    "issue": 3249,
+    "projectUrl": "https://github.com/AtlasGrunch/ship-com-mcp"
+  },
+  "links": {
+    "docs": "https://www.ship.com/api/mcp",
+    "homepage": "https://www.ship.com",
+    "endpoint": "https://app.ship.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Use a Ship.com Bearer token or a supported OAuth sign-in flow."
+    ]
+  }
+}
