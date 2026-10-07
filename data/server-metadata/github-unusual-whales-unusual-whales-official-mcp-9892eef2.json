@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-unusual-whales-unusual-whales-official-mcp-9892eef2",
+  "source": {
+    "issue": 3244,
+    "projectUrl": "https://github.com/unusual-whales/unusual-whales-official-mcp"
+  },
+  "links": {
+    "docs": "https://unusualwhales.com/public-api/mcp",
+    "endpoint": "https://api.unusualwhales.com/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @unusualwhales/mcp"
+    ],
+    "env": [
+      "UW_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Use UW_API_KEY for local stdio or Authorization: Bearer <key> for the hosted endpoint."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Windsurf"
+  ],
+  "license": "MIT"
+}
