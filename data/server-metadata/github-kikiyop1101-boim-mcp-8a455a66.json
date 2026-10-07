@@ -10,6 +10,11 @@
     "homepage": "https://boim.io",
     "endpoint": "https://boim.io/api/mcp"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
   "transport": [
     "streamable-http"
   ],

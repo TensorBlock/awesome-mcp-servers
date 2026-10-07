@@ -10,6 +10,11 @@
     "homepage": "https://www.ship.com",
     "endpoint": "https://app.ship.com/mcp"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
   "transport": [
     "streamable-http"
   ],

@@ -10,6 +10,11 @@
     "homepage": "https://vatfind.com",
     "endpoint": "https://vatfind.com/api/mcp"
   },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
   "transport": [
     "streamable-http"
   ],
