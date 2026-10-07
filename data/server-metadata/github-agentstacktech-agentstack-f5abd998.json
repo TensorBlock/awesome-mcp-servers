@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-agentstacktech-agentstack-f5abd998",
+  "source": {
+    "issue": 3207,
+    "projectUrl": "https://github.com/agentstacktech/AgentStack"
+  },
+  "links": {
+    "endpoint": "https://agentstack.tech/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @agentstacktech in #3227 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@agentstacktech"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
