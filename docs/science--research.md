@@ -2,6 +2,8 @@
 
 Servers accessing scientific databases, research platforms, or providing tools for scientific computation/simulation.
 
+- [SlashYear (com.slashyear/mcp)](https://slashyear.com): Dated historical events for agents, each a sentence quoted verbatim from a cited English Wikipedia revision with its revision id. Tools search the record and return a year, a calendar day across all years, a subject's timeline or a country's record. Remote endpoint: `https://slashyear.com/mcp`. Transport: `streamable-http`; no auth; read-only. Data CC BY-SA 4.0, code Apache-2.0. Source: https://github.com/ctrl-maud/slashyear. Official Registry: `com.slashyear/mcp`.
+
 - [Astro Agents (io.github.aidatatools-dev/astro-agents)](https://astro-agent.dev): Deterministic Western and Vedic astrology calculations, including natal charts, aspects, transits, synastry, kundli, divisional charts, dashas, nakshatras, panchang, doshas, and Gun Milan. All 16 tools are read-only and results include a SHA-256 hash. Hosted Streamable HTTP at `https://astro-agent.dev/mcp`; no auth. [Docs](https://astro-agent.dev/llms.txt).
 
 - [morluto/jacobian](https://github.com/morluto/jacobian): MCP server, CLI, and Python library for composable mathematics: exact computation and conjecture testing across polynomial maps, linear algebra, and graph algorithms. Install: `npx -y jacobian mcp`.
