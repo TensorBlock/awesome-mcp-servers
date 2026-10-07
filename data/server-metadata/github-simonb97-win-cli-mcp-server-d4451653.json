@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-simonb97-win-cli-mcp-server-d4451653",
+  "source": {
+    "issue": 3261,
+    "projectUrl": "https://github.com/SimonB97/win-cli-mcp-server"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The repository now redirects to https://github.com/simon-ami/win-cli-mcp-server and is archived; last checked 2026-10-07. The entry remains indexed because the source is still available."
+    ]
+  }
+}
