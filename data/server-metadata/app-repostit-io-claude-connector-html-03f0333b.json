@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "app-repostit-io-claude-connector-html-03f0333b",
+  "source": {
+    "issue": 3234,
+    "projectUrl": "https://app.repostit.io/claude-connector.html"
+  },
+  "links": {
+    "docs": "https://app.repostit.io/claude-connector.html",
+    "homepage": "https://app.repostit.io"
+  },
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Connect through Claude's connector directory, sign in to Repostit, and approve the requested permissions."
+    ]
+  },
+  "clients": [
+    "Claude"
+  ]
+}
