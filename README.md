@@ -230,3 +230,8 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Travel & Transportation | 51 | [Browse](docs/travel--transportation.md) |
 | Utilities & Helpers | 357 | [Browse](docs/utilities--helpers.md) |
 | Version Control | 78 | [Browse](docs/version-control.md) |
+
+
+## Security, Validation & Diagnostics
+
+- [mcpdoctor](https://github.com/xka0085-byte/mcp-doctor) — Read-only MCP initialize/	ools/list schema checker and x402 HTTP 402 endpoint inspector for agent developers. Includes a GitHub Action for CI. [Docs](https://xka0085-byte.github.io/mcp-doctor/)
