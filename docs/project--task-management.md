@@ -25,7 +25,6 @@ Servers integrating with project management and task tracking tools.
 - [Gitreceiver/TAMA-MCP](https://github.com/Gitreceiver/TAMA-MCP): Tama is an AI-enhanced task management CLI that operates as an MCP server, enabling programmatic task management and AI-driven task expansion.
 - [mkusaka/linear-mcp](https://github.com/mkusaka/linear-mcp): Facilitates seamless management of Linear issues, projects, and teams through Cline integration.
 - [digitalcube/advanced-backlog-mcp-server](https://github.com/digitalcube/advanced-backlog-mcp-server): Facilitates interaction with Backlog for project management through a Model Context Protocol server, enabling efficient querying and management of projects, issues, wikis, and user activities.
-- [TickTeam/ticktick-mcp](https://github.com/TickTeam/ticktick-mcp): Facilitates task management through TickTick integration, enabling users to view and add tasks via MCP server commands.
 - [nulab/backlog-mcp-server](https://github.com/nulab/backlog-mcp-server): Facilitates project management and issue tracking on Backlog through Claude integration.
 - [stevengonsalvez/mcp-todoist](https://github.com/stevengonsalvez/mcp-todoist): Integrates Todoist with language models for seamless task management through natural language commands.
 - [bravoure/clickup-mcp](https://github.com/bravoure/clickup-mcp): Facilitates seamless integration between AI assistants and ClickUp for task management and collaboration.
