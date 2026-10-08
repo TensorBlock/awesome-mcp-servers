@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-contracko-contracko-skills-d65fb502",
+  "source": {
+    "issue": 3303,
+    "projectUrl": "https://github.com/contracko/contracko-skills"
+  },
+  "description": "AI contract lifecycle management for reviewing, extracting, searching, and tracking contracts, parties, terms, dates, events, reminders, and bulk parsing jobs.",
+  "category": "Project & Task Management",
+  "links": {
+    "docs": "https://contracko.com/docs/mcp-server",
+    "homepage": "https://contracko.com",
+    "endpoint": "https://app.contracko.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @contracko/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "The hosted endpoint uses OAuth 2.0 with dynamic client registration and contract:read, contract:write, and parser:compute scopes."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "Claude Code",
+    "Gemini CLI",
+    "Grok"
+  ],
+  "license": "MIT (skills and launcher); the hosted server is proprietary."
+}
