@@ -5,8 +5,8 @@
     "projectUrl": "https://github.com/masondelan/selvedge"
   },
   "links": {
-    "homepage": "https://selvedge.sh/",
-    "docs": "https://selvedge.sh/start/quickstart/"
+    "homepage": "https://selvedge.sh/?utm_campaign=placement-tensorblock",
+    "docs": "https://selvedge.sh/start/quickstart/?utm_campaign=placement-tensorblock"
   },
   "install": {
     "commands": ["uvx --from selvedge==0.3.16 selvedge-server"],
