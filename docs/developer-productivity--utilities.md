@@ -2,6 +2,8 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [chddaniel/chatpack](https://github.com/chddaniel/chatpack): Read-only search and retrieval of Chatpack documentation, framework setup guides, and React UI block source. Install: `npx -y @chatpack/mcp` (Node.js 20+). Transport: stdio. Auth: none. License: MIT. [Docs](https://github.com/chddaniel/chatpack/tree/main/packages/mcp). Tools: `search_docs`, `get_document`, `get_integration_guide`, `list_ui_blocks`, `get_ui_block`.
+
 - [Enhance](https://github.com/enhance-labs-builds/enhance-plugin): Design, edit, review and publish live prototypes on a shared canvas with coding agents. Hosted Streamable HTTP at `https://api.enhancelabs.ai/mcp`; OAuth required. [Website](https://enhancelabs.ai) and [docs](https://app.enhancelabs.ai/docs). The local plugin also supports source and build workflows.
 - [Vocenya Docs](https://vocenya.com/mcp/docs): Public, read-only search over the Vocenya AI receptionist API docs: guides, every REST endpoint with its scope and parameters, and code samples in cURL, Node, PHP and Python. Streamable HTTP; no auth.
 - [Multilocale](https://github.com/multilocale/claude-plugin): Manage software-localization projects, translation phrases and locales, audit coverage, and apply confirmed translation changes. Hosted Streamable HTTP at `https://mcp.multilocale.com/mcp`; OAuth account authorization required. [Docs](https://www.multilocale.com/integrations/mcp-server/). Public connector configuration and workflow skills: Apache-2.0.
