@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-azeemkafridi-bulkpublish-api-d5800bab",
+  "source": {
+    "issue": 3346,
+    "projectUrl": "https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server"
+  },
+  "description": "Official BulkPublish MCP server for scheduling, cross-posting, and analyzing social media posts across 15 platforms. Use the hosted remote server with OAuth or run it locally with npx.",
+  "links": {
+    "docs": "https://www.bulkpublish.com/integrations/mcp-server/",
+    "homepage": "https://www.bulkpublish.com",
+    "endpoint": "https://mcp.bulkpublish.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @bulkpublish/mcp-server"
+    ],
+    "env": [
+      "BULKPUBLISH_API_KEY",
+      "BULKPUBLISH_TOOL_PROFILE"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "The hosted endpoint supports OAuth 2.1 with dynamic client registration and PKCE S256 (scope `bulkpublish`) or an `Authorization: Bearer bp_...` API key. Local stdio requires `BULKPUBLISH_API_KEY`."
+    ]
+  },
+  "tools": {
+    "count": 79,
+    "names": [],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3346 using the package README, project source, MCP docs, and OAuth discovery metadata.",
+      "The local full profile exposes 79 tools; the hosted core profile exposes 20 tools, or 27 with the inbox profile."
+    ]
+  }
+}

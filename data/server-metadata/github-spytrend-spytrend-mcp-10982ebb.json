@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-spytrend-spytrend-mcp-10982ebb",
+  "source": {
+    "issue": 3300,
+    "projectUrl": "https://github.com/Spytrend/spytrend-mcp"
+  },
+  "description": "Advertising analytics for Facebook, Meta, TikTok, and competitor ads, with a free plan and browser-based Spytrend OAuth.",
+  "category": "Marketing, Sales & CRM",
+  "links": {
+    "docs": "https://github.com/Spytrend/spytrend-mcp/blob/main/docs/quickstart.md",
+    "homepage": "https://spytrend.com/mcp/?utm_source=tensorblock&utm_medium=directory&utm_campaign=mcp-launch",
+    "endpoint": "https://mcp.spytrend.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Users sign in to Spytrend in the browser."
+    ]
+  },
+  "license": "MIT (repository metadata and documentation)",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @cherlysch in #3300 under the community profile-claim process.",
+      "Claim and metadata are self-reported by a project contributor; claiming is separate from TensorBlock verification."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@cherlysch"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

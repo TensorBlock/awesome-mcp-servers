@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "ballranks-com-929b0ae5",
+  "source": {
+    "issue": 3317,
+    "projectUrl": "https://ballranks.com/"
+  },
+  "description": "Read-only NFL and NBA fantasy rankings and player projections, including weekly, season, and player rankings.",
+  "category": "Sport",
+  "links": {
+    "endpoint": "https://ballranks.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "ChatGPT",
+    "Codex",
+    "Claude",
+    "Cursor",
+    "Other Streamable HTTP MCP clients"
+  ],
+  "license": "Proprietary hosted service"
+}

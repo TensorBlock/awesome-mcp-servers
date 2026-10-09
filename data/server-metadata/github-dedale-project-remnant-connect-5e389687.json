@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-dedale-project-remnant-connect-5e389687",
+  "source": {
+    "issue": 3398,
+    "projectUrl": "https://github.com/Dedale-Project/remnant-connect"
+  },
+  "links": {
+    "docs": "https://github.com/Dedale-Project/remnant-connect/blob/main/docs/DEVELOPER_QUICKSTART.md",
+    "homepage": "https://remnant.dedale-bi.com/knowledge",
+    "endpoint": "https://remnant.dedale-bi.com/mcp/chatgpt"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex"
+  ],
+  "tools": {
+    "count": 7,
+    "names": [
+      "try_remnant",
+      "search_memories",
+      "inspect_memory",
+      "find_agents",
+      "inspect_agent",
+      "get_trust_passport",
+      "verify_trust_passport"
+    ],
+    "source": "self_reported"
+  },
+  "license": "No open-source license granted for the repository; the hosted backend is not published in this repository."
+}

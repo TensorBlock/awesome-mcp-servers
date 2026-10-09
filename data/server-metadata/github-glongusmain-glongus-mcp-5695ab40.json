@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-glongusmain-glongus-mcp-5695ab40",
+  "source": {
+    "issue": 3358,
+    "projectUrl": "https://github.com/glongusmain/glongus-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y glongus-mcp"
+    ],
+    "env": [
+      "GLONGUS_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "GLONGUS_API_KEY is optional for public search and reputation tools and required for buying and selling."
+    ]
+  },
+  "license": "MIT"
+}
