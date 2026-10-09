@@ -114,6 +114,11 @@ const isLaunchCommand = (command: string, parts: string[]): boolean => {
   const [binary, firstArg = ""] = parts;
   const normalizedBinary = binary.toLowerCase();
 
+  const binaryName = normalizedBinary.split("/").pop();
+  if (binaryName === "localcloud" || binaryName === "lc") {
+    return firstArg === "mcp" && parts[2] !== "install";
+  }
+
   if (normalizedBinary === "npx" || normalizedBinary === "uvx") {
     return true;
   }

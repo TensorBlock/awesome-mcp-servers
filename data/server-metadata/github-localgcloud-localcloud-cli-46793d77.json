@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-localgcloud-localcloud-cli-46793d77",
+  "source": {
+    "projectUrl": "https://github.com/LocalGCloud/localcloud-cli"
+  },
+  "description": "Local cloud environment for coding agents to build, test, and debug Google Cloud applications through MCP discovery, SDK settings, resource inspection, queries, and diagnostics. Requires Docker engine, the native macOS/Linux LocalCloud CLI, and the LocalCloud Docker image. Run localcloud mcp over stdio. For Cursor, prefer lc mcp install --client cursor, or set the JSON command to the absolute path returned by command -v localcloud.",
+  "links": {
+    "docs": "https://github.com/LocalGCloud/localcloud-cli#ai-agents--mcp",
+    "homepage": "https://local.cloud/"
+  },
+  "install": {
+    "commands": [
+      "localcloud mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Local workflows do not require a Google Cloud account or real Google Cloud credentials. Docker must be running; the CLI obtains the LocalCloud image when needed."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "LocalCloud Public Preview License",
+  "tools": {
+    "names": [
+      "localcloud_list_services",
+      "localcloud_get_env",
+      "localcloud_check_readiness",
+      "localcloud_check_compatibility",
+      "localcloud_query_data",
+      "localcloud_get_diagnostics"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "The LocalCloud CLI stdio bridge and standard SDK Storage/Pub/Sub/BigQuery workflows were validated. No public remote MCP endpoint is advertised; the setup-guide URL is documentation. GUI clients may need the absolute CLI path from command -v localcloud."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "cloud-orbitor"
+    ]
+  }
+}
