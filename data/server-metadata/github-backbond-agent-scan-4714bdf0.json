@@ -5,10 +5,10 @@
     "projectUrl": "https://github.com/BackBond/agent-scan"
   },
   "links": {
-    "docs": "https://github.com/BackBond/agent-scan/tree/v0.6.2"
+    "docs": "https://github.com/BackBond/agent-scan/tree/v0.6.3"
   },
   "install": {
-    "commands": ["npx -y @backbond/agent-scan@0.6.2 mcp"],
+    "commands": ["npx -y @backbond/agent-scan@0.6.3 mcp"],
     "env": [],
     "confidence": "medium"
   },

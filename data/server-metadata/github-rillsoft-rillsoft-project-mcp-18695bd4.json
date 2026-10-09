@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rillsoft-rillsoft-project-mcp-18695bd4",
+  "source": {
+    "issue": 3241,
+    "projectUrl": "https://github.com/rillsoft/rillsoft-project-mcp"
+  },
+  "links": {
+    "docs": "https://rillsoft.ai/en/mcp/",
+    "endpoint": "http://127.0.0.1:3928/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "A Bearer API key is optional for the loopback-only server."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Codex"
+  ],
+  "license": "CC-BY-4.0 (documentation)"
+}

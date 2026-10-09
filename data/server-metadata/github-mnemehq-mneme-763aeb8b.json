@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "uvx --from \"mneme-hq[mcp]==0.9.1\" mneme decision-mcp"
+      "uvx --from \"mneme-hq[mcp]\" mneme decision-mcp"
     ],
     "env": [],
     "confidence": "medium"
@@ -44,7 +44,8 @@
     "status": "self_reported",
     "notes": [
       "Profile claimed by @TheoV823 in #2553 under the community profile-claim process.",
-      "Install and tool metadata from #2555 match the project README and server.json; runtime was not independently tested."
+      "Install and tool metadata from #2555 match the project README and server.json; runtime was not independently tested.",
+      "Published in the Official MCP Registry as io.github.MnemeHQ/mneme version 0.9.2."
     ]
   },
   "community": {

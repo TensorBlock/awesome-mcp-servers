@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rossbuckley1990-hash-rightclick-76620dab",
+  "source": {
+    "issue": 3232,
+    "projectUrl": "https://github.com/rossbuckley1990-hash/rightclick"
+  },
+  "install": {
+    "commands": [
+      "brew install rossbuckley1990-hash/tap/rightclick",
+      "rightclick setup"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The local stdio server needs no auth; individual discovered capabilities may require locally resolved authority."
+    ]
+  },
+  "clients": [
+    "Cursor",
+    "Claude Code",
+    "Codex",
+    "ChatGPT",
+    "generic MCP clients"
+  ],
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @rossbuckley1990-hash in #3295 under the community profile-claim process.",
+      "Requested profile metadata in #3295: Category: Operating System & Command Line Transport: stdio, streamable-http Auth: none Install confidence: high License: Apache-2.0 Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@rossbuckley1990-hash"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

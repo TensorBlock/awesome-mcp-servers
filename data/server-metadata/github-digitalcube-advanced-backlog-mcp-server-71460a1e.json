@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-digitalcube-advanced-backlog-mcp-server-71460a1e",
+  "source": {
+    "issue": 3260,
+    "projectUrl": "https://github.com/digitalcube/advanced-backlog-mcp-server"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The public source repository was archived by its owner; last checked 2026-10-07. The entry remains indexed because the source is still available."
+    ]
+  }
+}

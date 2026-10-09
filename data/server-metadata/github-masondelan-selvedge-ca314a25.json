@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-masondelan-selvedge-ca314a25",
+  "source": {
+    "projectUrl": "https://github.com/masondelan/selvedge"
+  },
+  "links": {
+    "homepage": "https://selvedge.sh/?utm_campaign=placement-tensorblock",
+    "docs": "https://selvedge.sh/start/quickstart/?utm_campaign=placement-tensorblock"
+  },
+  "install": {
+    "commands": ["uvx --from selvedge==0.3.16 selvedge-server"],
+    "env": [],
+    "confidence": "medium"
+  },
+  "auth": {
+    "type": "none",
+    "notes": ["The local stdio server requires no API key or hosted account."]
+  },
+  "tools": {
+    "count": 8,
+    "names": [
+      "log_change",
+      "prior_attempts",
+      "blame",
+      "diff",
+      "history",
+      "changeset",
+      "search",
+      "stale_decisions"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata follows Selvedge v0.3.16 server.json, pyproject.toml, and selvedge/server.py.",
+      "Requires uv. Use a supported Python release (3.11–3.14); the package also accepts Python 3.10 for compatibility.",
+      "SELVEDGE_DB is optional. Set it to the absolute path of the project's .selvedge/selvedge.db when the client starts outside the project. See the quickstart for initialization and agent instructions."
+    ]
+  }
+}

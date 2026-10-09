@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "wheremind-ai-821a821b",
+  "source": {
+    "issue": 3237,
+    "projectUrl": "https://wheremind.ai"
+  },
+  "links": {
+    "docs": "https://wheremind.ai/llms.txt",
+    "homepage": "https://wheremind.ai",
+    "endpoint": "https://wheremind.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth email-code sign-in is supported on compatible hosts; invited users may alternatively use a dashboard Bearer token."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT (developer mode)",
+    "Cursor",
+    "Claude Code"
+  ],
+  "license": "Proprietary hosted service"
+}

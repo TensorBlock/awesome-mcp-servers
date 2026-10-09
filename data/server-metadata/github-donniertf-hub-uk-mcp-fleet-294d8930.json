@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-donniertf-hub-uk-mcp-fleet-294d8930",
+  "source": {
+    "issue": 3246,
+    "projectUrl": "https://github.com/donniertf-hub/uk-mcp-fleet"
+  },
+  "links": {
+    "docs": "https://github.com/donniertf-hub/uk-mcp-fleet",
+    "endpoint": "https://uk-places-mcp.donniertf.workers.dev/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The example Places endpoint needs no auth for free discovery; paid packs use one-time tokens as documented by each fleet service."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "any Streamable HTTP MCP client"
+  ],
+  "license": "Unknown"
+}
