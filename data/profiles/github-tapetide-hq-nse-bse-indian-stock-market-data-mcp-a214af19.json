@@ -1,37 +1,56 @@
 {
   "id": "github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19",
   "name": "Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
-  "description": "AI-first stock analysis for Indian markets — 34 tools to search, screen & analyze all 8,200+ NSE and BSE stocks: live quotes, financials, technicals, a 326-ratio screener, FII/DII institutional flows, IPOs & portfolio tracking. Hosted MCP, works with Claude, ChatGPT, Cursor & any MCP client. Install: `npx tapetide-mcp`.",
+  "description": "Official Tapetide MCP server for the Indian stock market — 55 tools to search, screen & analyze all 8,200+ NSE and BSE stocks: live quotes, financials, technicals, a 326-ratio screener, FII/DII institutional flows, option chains & IV, parsed filings, IPOs, portfolio and watchlist. Remote Streamable HTTP at `https://mcp.tapetide.com/mcp` (Google OAuth or free token) or stdio via `npx tapetide-mcp`. Works with Claude, ChatGPT, Cursor, VS Code and any MCP client. MIT.",
   "category": "Finance & Crypto",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19/badge.svg)](https://tensorblock.co/mcp/servers/github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19)",
   "links": {
     "primary": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
     "repo": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
-    "homepage": null,
-    "docs": null,
-    "endpoint": null
+    "homepage": "https://tapetide.com/mcp",
+    "docs": "https://tapetide.com/mcp/llms.txt",
+    "endpoint": "https://mcp.tapetide.com/mcp"
   },
   "install": {
     "commands": [
-      "npx tapetide-mcp"
+      "npx tapetide-mcp",
+      "claude mcp add --transport http tapetide https://mcp.tapetide.com/mcp"
     ],
-    "env": [],
-    "confidence": "medium"
+    "env": [
+      {
+        "name": "TAPETIDE_TOKEN",
+        "required": true,
+        "description": "Personal token from https://tapetide.com/settings/tokens (stdio bridge only; the remote endpoint also accepts Google OAuth)"
+      }
+    ],
+    "confidence": "high"
   },
   "transport": [
-    "unknown"
+    "streamable-http",
+    "stdio"
   ],
   "auth": {
-    "type": "unknown",
-    "notes": []
+    "type": "oauth",
+    "notes": [
+      "Google OAuth with dynamic client registration on the remote endpoint",
+      "Bearer personal token (tpt_rt_...) also accepted"
+    ]
   },
   "clients": [
     "Claude",
-    "Cursor"
+    "ChatGPT",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Windsurf",
+    "Kiro",
+    "Zed",
+    "Gemini CLI"
   ],
-  "license": "unknown",
-  "installReady": false,
+  "license": "MIT",
+  "installReady": true,
   "verifiedAt": null,
   "health": {
     "repoPublic": null,
@@ -50,12 +69,13 @@
   },
   "summary": {
     "transport": [
-      "unknown"
+      "streamable-http",
+      "stdio"
     ],
-    "auth": "unknown",
-    "installConfidence": "medium",
-    "installReady": false,
+    "auth": "oauth",
+    "installConfidence": "high",
+    "installReady": true,
     "verification": "unknown",
-    "toolCount": 34
+    "toolCount": 55
   }
 }
