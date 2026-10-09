@@ -1,6 +1,9 @@
 import { describe, expect, it } from "vitest";
 import { generateClientConfig } from "../src/generateConfig.js";
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
+import { readFileSync } from "node:fs";
+import { buildCatalogFromMarkdown } from "../../catalog-builder/src/buildCatalog.js";
+import { readMetadataSidecars } from "../../catalog-builder/src/metadata.js";
 
 const createEntry = (overrides: Partial<CatalogEntry> = {}): CatalogEntry => ({
   id: "github-owner-demo",
@@ -57,6 +60,29 @@ const createEntry = (overrides: Partial<CatalogEntry> = {}): CatalogEntry => ({
 });
 
 describe("generateClientConfig", () => {
+  it.each(["localcloud", "lc", "/opt/homebrew/bin/localcloud", "/home/linuxbrew/.linuxbrew/bin/localcloud"])("recognizes %s mcp as a stdio launch command", (command) => {
+    const entry = createEntry({ install: { commands: [`${command} mcp`], env: [], confidence: "high" } });
+    expect(generateClientConfig(entry, "cursor").config.mcpServers[entry.id]).toEqual({command, args: ["mcp"]});
+  });
+
+  it("does not launch the Cursor configuration installer as an MCP server", () => {
+    const entry = createEntry({ install: { commands: ["lc mcp install --client cursor"], env: [], confidence: "low" } });
+    expect(generateClientConfig(entry, "cursor").config.mcpServers[entry.id]).toEqual({command: "<command>", args: ["<args>"]});
+  });
+
+  it("generates runnable LocalCloud stdio JSON from the actual catalog entry and metadata", () => {
+    const path = "docs/cloud-platforms--services.md";
+    const result = buildCatalogFromMarkdown("", new Map([[path, readFileSync(path, "utf8")]]), readMetadataSidecars());
+    const entry = result.entries.find(entry => entry.id === "github-localgcloud-localcloud-cli-46793d77")!;
+    expect(entry.links.endpoint).toBeNull();
+    expect(entry.links.docs).toBe("https://github.com/LocalGCloud/localcloud-cli#ai-agents--mcp");
+    for (const client of ["claude", "cursor", "codex", "vscode"] as const) {
+      const generated = generateClientConfig(entry, client);
+      expect(JSON.parse(JSON.stringify(generated.config)).mcpServers[entry.id]).toEqual({command: "localcloud", args: ["mcp"]});
+      expect(generated.confidence).toBe("high");
+    }
+  });
+
   it("generates Claude Desktop stdio config from install command and env", () => {
     const entry = createEntry({
       install: {
