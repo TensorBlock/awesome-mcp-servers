@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-le-vai-designesy-org-d37f3bdd",
+  "source": {
+    "issue": 3417,
+    "projectUrl": "https://github.com/LE-VAI/designesy-org"
+  },
+  "links": {
+    "endpoint": "https://www.designesy.org/api/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any Streamable HTTP or stdio MCP client",
+    "the README documents Claude Code and Cursor setup"
+  ],
+  "license": "MIT"
+}
