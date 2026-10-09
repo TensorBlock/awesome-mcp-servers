@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-odehahwal-calcupedia-mcp-694e45e7",
+  "source": {
+    "issue": 3400,
+    "projectUrl": "https://github.com/OdehAhwal/calcupedia-mcp"
+  },
+  "links": {
+    "endpoint": "https://calcupedia.io/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "compatible Streamable HTTP MCP clients"
+  ],
+  "license": "MIT (setup files); hosted service free"
+}
