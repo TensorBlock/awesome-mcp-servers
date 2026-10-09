@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kyleclouthier-secondstrike-agents-6f6dc64f",
+  "source": {
+    "issue": 3412,
+    "projectUrl": "https://github.com/KyleClouthier/secondstrike-agents"
+  },
+  "links": {
+    "endpoint": "https://secondstrike-server-zgqvqzdrta-uc.a.run.app/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
