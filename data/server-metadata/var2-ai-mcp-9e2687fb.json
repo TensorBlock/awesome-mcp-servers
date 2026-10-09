@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "var2-ai-mcp-9e2687fb",
+  "source": {
+    "issue": 3382,
+    "projectUrl": "https://www.var2.ai/mcp"
+  },
+  "links": {
+    "endpoint": "https://www.var2.ai/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth sign-in with a VAR2 account; generation is charged in account credits."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Grok",
+    "Claude Code",
+    "Cursor"
+  ],
+  "license": "Proprietary hosted service; public skills repository is separate from the server source."
+}
