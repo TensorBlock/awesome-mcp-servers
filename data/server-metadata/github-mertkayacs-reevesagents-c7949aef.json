@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mertkayacs-reevesagents-c7949aef",
+  "source": {
+    "issue": 3388,
+    "projectUrl": "https://github.com/mertkayacs/reevesagents"
+  },
+  "install": {
+    "commands": [
+      "npm install -g reevesagents"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex CLI",
+    "Kimi Code",
+    "Qwen Code",
+    "Hermes",
+    "OpenCode"
+  ],
+  "license": "Apache-2.0"
+}
