@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-scoretracker4321-json-mcp-lite-79250ed0",
+  "source": {
+    "issue": 3367,
+    "projectUrl": "https://github.com/scoretracker4321/json-mcp-lite"
+  },
+  "install": {
+    "commands": [
+      "git clone https://github.com/scoretracker4321/json-mcp-lite && cd json-mcp-lite && npm install"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor"
+  ],
+  "license": "MIT"
+}

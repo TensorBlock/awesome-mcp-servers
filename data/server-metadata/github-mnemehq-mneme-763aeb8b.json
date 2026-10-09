@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "uvx --from \"mneme-hq[mcp]==0.9.2\" mneme decision-mcp"
+      "uvx --from \"mneme-hq[mcp]\" mneme decision-mcp"
     ],
     "env": [],
     "confidence": "medium"
