@@ -30,5 +30,19 @@
     "ChatGPT",
     "generic MCP clients"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @rossbuckley1990-hash in #3295 under the community profile-claim process.",
+      "Requested profile metadata in #3295: Category: Operating System & Command Line Transport: stdio, streamable-http Auth: none Install confidence: high License: Apache-2.0 Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@rossbuckley1990-hash"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
