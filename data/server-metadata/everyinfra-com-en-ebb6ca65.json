@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "everyinfra-com-en-ebb6ca65",
+  "source": {
+    "issue": 3449,
+    "projectUrl": "https://everyinfra.com/en"
+  },
+  "links": {
+    "endpoint": "https://api.everyinfra.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "EVERYINFRA_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "any MCP client that can send a Bearer header"
+  ],
+  "license": "Hosted service (closed source); plugin package Apache-2.0 (https://github.com/everyinfra/everyinfra-agent-plugins)"
+}
