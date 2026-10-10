@@ -253814,47 +253814,60 @@
   {
     "id": "github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19",
     "name": "Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
-    "description": "AI-first stock analysis for Indian markets — 34 tools to search, screen & analyze all 8,200+ NSE and BSE stocks: live quotes, financials, technicals, a 326-ratio screener, FII/DII institutional flows, IPOs & portfolio tracking. Hosted MCP, works with Claude, ChatGPT, Cursor & any MCP client. Install: `npx tapetide-mcp`.",
+    "description": "Official Tapetide MCP server for the Indian stock market — 55 tools to search, screen & analyze all 8,200+ NSE and BSE stocks: live quotes, financials, technicals, a 326-ratio screener, FII/DII institutional flows, option chains & IV, parsed filings, IPOs, portfolio and watchlist. Remote Streamable HTTP at `https://mcp.tapetide.com/mcp` (Google OAuth or free token) or stdio via `npx tapetide-mcp`. Works with Claude, ChatGPT, Cursor, VS Code and any MCP client. MIT.",
     "category": "Finance & Crypto",
     "source": {
       "readmePath": null,
       "docsPath": "docs/finance--crypto.md",
       "featuredInReadme": false,
-      "pullRequest": 621,
-      "lastUpdatedAt": "2026-06-04T18:02:44.000Z"
+      "pullRequest": 3411,
+      "lastUpdatedAt": "2026-10-09T18:19:46.000Z"
     },
     "links": {
       "primary": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
       "repo": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
-      "homepage": null,
-      "docs": null,
-      "endpoint": null
+      "homepage": "https://tapetide.com/mcp",
+      "docs": "https://tapetide.com/mcp/llms.txt",
+      "endpoint": "https://mcp.tapetide.com/mcp"
     },
     "install": {
       "commands": [
-        "npx tapetide-mcp"
+        "npx tapetide-mcp",
+        "claude mcp add --transport http tapetide https://mcp.tapetide.com/mcp"
       ],
-      "env": [],
-      "confidence": "medium"
+      "env": [
+        "TAPETIDE_TOKEN"
+      ],
+      "confidence": "high"
     },
     "transport": [
-      "unknown"
+      "streamable-http",
+      "stdio"
     ],
     "auth": {
-      "type": "unknown",
-      "notes": []
+      "type": "oauth",
+      "notes": [
+        "The remote endpoint supports Google OAuth with dynamic client registration or a personal Bearer token; the stdio bridge uses TAPETIDE_TOKEN."
+      ]
     },
     "clients": [
-      "Claude",
-      "Cursor"
+      "ChatGPT",
+      "Claude Code",
+      "Cursor",
+      "VS Code",
+      "Codex",
+      "Windsurf",
+      "Kiro",
+      "Zed",
+      "Gemini CLI"
     ],
     "tools": {
-      "count": 34,
+      "count": 55,
       "names": [],
       "source": "self_reported"
     },
-    "license": "unknown",
-    "installReady": false,
+    "license": "MIT",
+    "installReady": true,
     "verifiedAt": null,
     "health": {
       "repoPublic": null,
