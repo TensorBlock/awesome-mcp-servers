@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "aihot-news-agent-9d0caa32",
+  "source": {
+    "issue": 3462,
+    "projectUrl": "https://aihot.news/agent?tab=mcp"
+  },
+  "links": {
+    "endpoint": "https://aihot.news/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Clients supporting remote Streamable HTTP",
+    "including Claude Code and Codex. Setup depends on the client",
+    "see the public connection page."
+  ],
+  "license": "MIT for the public source code. Hosted service and content have separate use terms: https://aihot.news/terms...."
+}
