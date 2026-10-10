@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-analyticslegends-analytics-legends-mcp-d53471be",
+  "source": {
+    "issue": 3471,
+    "projectUrl": "https://github.com/analyticslegends/analytics-legends-mcp"
+  },
+  "links": {
+    "endpoint": "https://analyticslegends.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
