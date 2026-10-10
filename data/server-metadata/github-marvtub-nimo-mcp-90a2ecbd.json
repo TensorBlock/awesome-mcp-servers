@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-marvtub-nimo-mcp-90a2ecbd",
+  "source": {
+    "issue": 3430,
+    "projectUrl": "https://github.com/marvtub/nimo-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "license": "Proprietary hosted service (paid plans with a free check)"
+}
