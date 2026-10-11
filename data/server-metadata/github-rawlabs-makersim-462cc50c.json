@@ -43,7 +43,7 @@
     ],
     "source": "self_reported"
   },
-  "license": "Not specified; the README states that a project-wide license has not yet been selected.",
+  "license": "MIT",
   "verification": {
     "status": "self_reported",
     "notes": [
