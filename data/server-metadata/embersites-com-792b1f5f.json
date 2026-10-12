@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "embersites-com-792b1f5f",
+  "source": {
+    "issue": 3595,
+    "projectUrl": "https://embersites.com"
+  },
+  "links": {
+    "endpoint": "https://embersites.app/mcp"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
