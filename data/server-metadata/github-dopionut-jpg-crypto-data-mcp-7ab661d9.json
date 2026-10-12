@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-dopionut-jpg-crypto-data-mcp-7ab661d9",
+  "source": {
+    "issue": 3558,
+    "projectUrl": "https://github.com/dopionut-jpg/crypto-data-mcp"
+  },
+  "description": "Crypto positioning and macro behind one endpoint — multi-venue perpetual funding and open interest across Binance, Bybit, OKX and Hyperliquid (largest-open-interest perp per venue, thin venues excluded), order book execution cost, options-implied volatility, ETH exchange whale flows, Bitcoin network health, DeFi TVL, Fear & Greed and dominance, plus the macro regime: Fed funds, 2Y/10Y yields, CPI, dollar index, S&P 500, gold and the catalyst calendar. 17 read-only tools, no API key, live at call time, plus one...",
+  "links": {
+    "docs": "https://crypto-asistent.com/a2a",
+    "endpoint": "https://crypto-asistent.com/mcp"
+  },
+  "tools": {
+    "count": 18,
+    "names": [
+      "get_market_brief",
+      "get_execution_cost",
+      "get_derivatives",
+      "get_derivatives_aggregate",
+      "get_implied_volatility",
+      "get_market_history",
+      "get_eth_whale_flows",
+      "get_eth_address",
+      "get_btc_network",
+      "get_defi_overview",
+      "get_crypto_market",
+      "get_fear_greed",
+      "get_market_dominance",
+      "get_crypto_news",
+      "get_macro_rates",
+      "get_market_quotes",
+      "get_economic_calendar",
+      "analyze_market"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3558. Source: The indexed endpoint is dead. The server moved off Vercel to its own domain, and the old host now returns `402` on every path: ``` $ curl -o /dev/null -w '%{http_code}' https://asistent-crypto.vercel.app/mcp → 402 $..."
+    ]
+  }
+}
