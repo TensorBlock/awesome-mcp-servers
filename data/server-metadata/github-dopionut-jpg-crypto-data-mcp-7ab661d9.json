@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-dopionut-jpg-crypto-data-mcp-7ab661d9",
+  "source": {
+    "issue": 3558,
+    "projectUrl": "https://github.com/dopionut-jpg/crypto-data-mcp"
+  },
+  "description": "Crypto positioning and macro data across Binance, Bybit, OKX and Hyperliquid, including funding, open interest, execution cost, implied volatility, whale flows, Bitcoin network health, DeFi TVL, market sentiment, rates and economic events. Provides 17 free read-only tools plus one paid x402 analysis tool.",
+  "links": {
+    "docs": "https://crypto-asistent.com/a2a",
+    "endpoint": "https://crypto-asistent.com/mcp"
+  },
+  "tools": {
+    "count": 18,
+    "names": [
+      "get_market_brief",
+      "get_execution_cost",
+      "get_derivatives",
+      "get_derivatives_aggregate",
+      "get_implied_volatility",
+      "get_market_history",
+      "get_eth_whale_flows",
+      "get_eth_address",
+      "get_btc_network",
+      "get_defi_overview",
+      "get_crypto_market",
+      "get_fear_greed",
+      "get_market_dominance",
+      "get_crypto_news",
+      "get_macro_rates",
+      "get_market_quotes",
+      "get_economic_calendar",
+      "analyze_market"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3558. The submitter reports that the former Vercel endpoint is obsolete and that the replacement endpoint completes MCP initialization and lists 18 tools."
+    ]
+  }
+}
