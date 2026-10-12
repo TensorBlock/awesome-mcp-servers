@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "decide-fyi-mcp-6d265f8b",
+  "source": {
+    "issue": 3560,
+    "projectUrl": "https://www.decide.fyi/mcp#connect-runtime"
+  },
+  "links": {
+    "endpoint": "https://mcp-live.decide.fyi/developer-prepaid/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Smithery"
+  ],
+  "license": "unknown"
+}
