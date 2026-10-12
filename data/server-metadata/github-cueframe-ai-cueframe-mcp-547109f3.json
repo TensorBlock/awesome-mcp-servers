@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cueframe-ai-cueframe-mcp-547109f3",
+  "source": {
+    "projectUrl": "https://github.com/cueframe-ai/cueframe-mcp"
+  },
+  "category": "Multimedia Processing",
+  "description": "Compose, edit, preview and render videos with captions, graphics and audio through CueFrame\u2019s hosted MCP server.",
+  "links": {
+    "homepage": "https://cueframe.ai",
+    "docs": "https://github.com/cueframe-ai/cueframe-mcp/blob/main/llms-install.md",
+    "endpoint": "https://api.cueframe.ai/v1/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http cueframe https://api.cueframe.ai/v1/mcp"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "A CueFrame account is required; metered media operations consume account credits.",
+      "Headless automation can use an API key as documented by the publisher."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Gemini CLI",
+    "ChatGPT"
+  ],
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata matches the publisher-maintained public setup documentation. Public Apache-2.0 license covers plugin/toolkit, not hosted server implementation."
+    ]
+  }
+}
