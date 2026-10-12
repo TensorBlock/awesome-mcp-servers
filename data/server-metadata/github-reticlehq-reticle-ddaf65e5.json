@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-reticlehq-reticle-ddaf65e5",
+  "source": {
+    "issue": 3550,
+    "projectUrl": "https://github.com/reticlehq/reticle"
+  },
+  "install": {
+    "commands": [
+      "npx -y @reticlehq/server mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "FSL-1.1-ALv2"
+}
