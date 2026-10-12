@@ -21,13 +21,12 @@
     "notes": []
   },
   "clients": [
-    "README includes installation configurations for Claude Desktop",
+    "Claude Desktop",
     "Claude Code",
     "Cursor",
     "Windsurf",
-    "Cline and VS Code. PyPI installation",
-    "MCP initialization and tools/list were verified over stdio (14 tools). These checks are protocol tests",
-    "not a claim of manual testing in every client."
+    "Cline",
+    "VS Code"
   ],
   "license": "MIT"
 }
