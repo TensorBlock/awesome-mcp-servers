@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-shagarwal-databazaar-mcp-2282c146",
+  "source": {
+    "projectUrl": "https://github.com/shagarwal/databazaar-mcp"
+  },
+  "links": {
+    "homepage": "https://databazaar.io",
+    "docs": "https://databazaar.io/integrations",
+    "endpoint": "https://api.databazaar.io/mcp/public"
+  },
+  "install": {
+    "commands": [
+      "npx -y databazaar-mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Public search, metadata, and sample previews require no credentials.",
+      "Full dataset retrieval, including free datasets, purchases, private history, and writes require a DataBazaar account.",
+      "For authenticated tools, use https://api.databazaar.io/mcp or run npx -y databazaar-mcp auth login before starting the local stdio server. An account API key is also supported."
+    ]
+  },
+  "tools": {
+    "names": [
+      "search_datasets",
+      "get_dataset",
+      "preview_sample"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. The hosted public endpoint exposes three discovery tools; the local package also exposes account tools that require authorization when called.",
+      "MIT covers the MCP server code; individual datasets have their own licenses."
+    ]
+  }
+}
