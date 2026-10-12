@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rankcontrol-rankcontrol-8d5aa377",
+  "source": {
+    "issue": 3482,
+    "projectUrl": "https://github.com/rankcontrol/rankcontrol"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @rankcontrol in #3482 under the community profile-claim process.",
+      "Requested profile metadata in #3482: Please set homepage https://rctrl.com and docs https://rctrl.com/docs/mcp. Remote server at https://api.rctrl.com/mcp (Streamable HTTP, OAuth 2.1 with PKCE and dynamic client registration), 80+ tools, listed in the..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@rankcontrol"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
