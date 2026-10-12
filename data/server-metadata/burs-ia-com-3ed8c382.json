@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "burs-ia-com-3ed8c382",
+  "source": {
+    "issue": 3489,
+    "projectUrl": "https://burs-ia.com/"
+  },
+  "links": {
+    "endpoint": "https://burs-ia.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "MCP HTTP clients",
+    "checked with direct JSON-RPC. Additional client-specific compatibility not verified."
+  ],
+  "license": "Unknown / hosted service. Implementation is private; no open-source license claimed."
+}
