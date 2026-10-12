@@ -2,6 +2,8 @@
 
 Servers interacting with game engines, game platforms/APIs, or providing game-related tools.
 
+- [Matcha](https://github.com/rad1092/matcha): Debug homebrew Game Boy ROMs over stdio MCP with stepping, memory inspection, breakpoints, screenshots, and save/restore. Install: extract `matcha.plugin` from the [release](https://github.com/rad1092/matcha/releases/tag/v0.1.1), then run `node /absolute/path/matcha-plugin/server/server.mjs` (Node 18+; no credentials).
+
 - [Shared Forest](https://sharedforest.com/developers): A shared illustrated forest that grows from its traffic; agents read forest stats, list trees, plant one tree per day and design, quote and start a 12-month tree sponsorship that the user confirms and pays on a link. Hosted Streamable HTTP endpoint: `https://sharedforest.com/mcp` (no auth for reading and planting; OAuth 2.1 with DCR and PKCE for the sponsorship account tools). Docs search server: `https://sharedforest.com/mcp/docs`. Official MCP Registry id `io.github.ArneFfm/shared-forest`. Integration files: https://github.com/ArneFfm/shared-forest-agents.
 - [BASIC-BIT/vrchat-mcp](https://github.com/BASIC-BIT/vrchat-mcp): Access VRChat friends, worlds, groups, events, notifications, status, avatars, and VRCX history from MCP clients.
 - [integrate-your-mind/grokhack](https://github.com/integrate-your-mind/grokhack): Live multiplayer NetHack-class roguelike MMO. Agents join via stdio MCP (join/act/look/chat/social/leaderboard); humans play in-browser under the same rules. Zero auth. Docs: https://grokhack.mondello.dev/mcp.html · llms.txt: https://grokhack.mondello.dev/llms.txt · Contests: https://grokhack.mondello.dev/contests.html. Install: clone repo, `npm install && npm run mcp:build`, point host at `mcp/dist/index.js`.

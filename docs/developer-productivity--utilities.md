@@ -2,6 +2,8 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [FirstCall](https://github.com/rad1092/firstcall-local-api-workbench): Verify requests from curl or OpenAPI and export local MCP tools with endpoint policies and separate credential inputs. Install the [Apple Silicon macOS release](https://github.com/rad1092/firstcall-local-api-workbench/releases/tag/v0.3.1), export a verified request, and connect its generated stdio configuration.
+
 - [chddaniel/chatpack](https://github.com/chddaniel/chatpack): Read-only search and retrieval of Chatpack documentation, framework setup guides, and React UI block source. Install: `npx -y @chatpack/mcp` (Node.js 20+). Transport: stdio. Auth: none. License: MIT. [Docs](https://github.com/chddaniel/chatpack/tree/main/packages/mcp). Tools: `search_docs`, `get_document`, `get_integration_guide`, `list_ui_blocks`, `get_ui_block`.
 
 - [Enhance](https://github.com/enhance-labs-builds/enhance-plugin): Design, edit, review and publish live prototypes on a shared canvas with coding agents. Hosted Streamable HTTP at `https://api.enhancelabs.ai/mcp`; OAuth required. [Website](https://enhancelabs.ai) and [docs](https://app.enhancelabs.ai/docs). The local plugin also supports source and build workflows.
