@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "datacircle-dev-695ffd38",
+  "source": {
+    "issue": 3409,
+    "projectUrl": "https://datacircle.dev"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @waynehamadi in #3409 under the community profile-claim process.",
+      "Requested profile metadata in #3409: Category: Marketing, Sales & CRM Transport: streamable-http Remote endpoint: https://api.datacircle.dev/mcp Auth: oauth (OAuth 2.1 with dynamic client registration), or a Datacircle API key as a Bearer token Env:..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@waynehamadi"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

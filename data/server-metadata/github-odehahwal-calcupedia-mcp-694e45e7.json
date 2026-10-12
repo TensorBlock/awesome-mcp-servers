@@ -20,5 +20,19 @@
     "Claude Code",
     "compatible Streamable HTTP MCP clients"
   ],
-  "license": "MIT (setup files); hosted service free"
+  "license": "MIT (setup files); hosted service free",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @OdehAhwal in #3404 under the community profile-claim process.",
+      "Requested profile metadata in #3404: Category: Developer Productivity & Utilities Transport: streamable-http Auth: none Install confidence: low License: MIT (setup files); hosted service free Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@OdehAhwal"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
