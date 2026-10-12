@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-bianhai-111-agent-harbour-a3887c73",
+  "source": {
+    "issue": 3564,
+    "projectUrl": "https://github.com/bianhai-111/agent-harbour"
+  },
+  "links": {
+    "endpoint": "https://kicorn.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer Public discovery/draft tools are anonymous; private operations require the verified-email credential described above."
+    ]
+  },
+  "clients": [
+    "Verified with the repository's Python JSON-RPC discovery example. A client needs remote Streamable HTTP and custom Bearer-header support for private operations. No blanket claim of named-client certification."
+  ],
+  "license": "Proprietary hosted service; public documentation repository currently has no separate open-source license. This is..."
+}
