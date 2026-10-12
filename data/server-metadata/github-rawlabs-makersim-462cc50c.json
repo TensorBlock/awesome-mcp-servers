@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rawlabs-makersim-462cc50c",
+  "source": {
+    "projectUrl": "https://github.com/RawLabs/MakerSim"
+  },
+  "description": "Local experimental load-path analysis for 3D-printed STL parts, revision comparisons, visual reviews, and persistent human-guided engineering sessions.",
+  "category": "Science & Research",
+  "links": {
+    "docs": "https://github.com/RawLabs/MakerSim#local-ai-agent-interface"
+  },
+  "install": {
+    "commands": [
+      "git clone https://github.com/RawLabs/MakerSim.git",
+      "cd MakerSim",
+      "uv sync",
+      ".venv/bin/makersim-mcp"
+    ],
+    "env": ["MAKERSIM_SESSION_DIR"],
+    "confidence": "medium"
+  },
+  "transport": ["stdio"],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Runs as a trusted local process with access to the file paths provided by the client.",
+      "Requires Python 3.11+ and uv. No API key, model download, public website, or hosted endpoint is required.",
+      "MAKERSIM_SESSION_DIR is optional; use the same absolute path in the viewer and MCP client when overriding session storage."
+    ]
+  },
+  "clients": ["MCP-compatible clients that launch local stdio servers"],
+  "tools": {
+    "count": 27,
+    "names": [
+      "get_workflow", "get_test_schema", "get_goal_schema", "list_materials",
+      "inspect_model", "validate_test", "run_test", "get_result", "query_field",
+      "evaluate_goals", "check_convergence", "compare_runs", "capture_result",
+      "create_review", "create_design_session", "get_design_session",
+      "recall_design_context", "connect_design_agent", "update_design_connection",
+      "authorize_design_run", "publish_design_event", "report_design_activity",
+      "begin_design_step", "finish_design_step", "run_session_test",
+      "branch_design_session", "complete_design_session"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer validation on 2026-10-10: 117 Python tests passed, including a real stdio MCP client/server exchange.",
+      "The numerical solver is an experimental coarse linear-elastic preview; results do not establish failure predictions or safe working loads."
+    ]
+  },
+  "community": {
+    "maintainedBy": ["RawLabs"]
+  }
+}
