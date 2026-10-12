@@ -5,7 +5,7 @@
     "issue": 3558,
     "projectUrl": "https://github.com/dopionut-jpg/crypto-data-mcp"
   },
-  "description": "Crypto positioning and macro behind one endpoint — multi-venue perpetual funding and open interest across Binance, Bybit, OKX and Hyperliquid (largest-open-interest perp per venue, thin venues excluded), order book execution cost, options-implied volatility, ETH exchange whale flows, Bitcoin network health, DeFi TVL, Fear & Greed and dominance, plus the macro regime: Fed funds, 2Y/10Y yields, CPI, dollar index, S&P 500, gold and the catalyst calendar. 17 read-only tools, no API key, live at call time, plus one...",
+  "description": "Crypto positioning and macro data across Binance, Bybit, OKX and Hyperliquid, including funding, open interest, execution cost, implied volatility, whale flows, Bitcoin network health, DeFi TVL, market sentiment, rates and economic events. Provides 17 free read-only tools plus one paid x402 analysis tool.",
   "links": {
     "docs": "https://crypto-asistent.com/a2a",
     "endpoint": "https://crypto-asistent.com/mcp"
@@ -38,7 +38,7 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #3558. Source: The indexed endpoint is dead. The server moved off Vercel to its own domain, and the old host now returns `402` on every path: ``` $ curl -o /dev/null -w '%{http_code}' https://asistent-crypto.vercel.app/mcp → 402 $..."
+      "Metadata updated from issue #3558. The submitter reports that the former Vercel endpoint is obsolete and that the replacement endpoint completes MCP initialization and lists 18 tools."
     ]
   }
 }
