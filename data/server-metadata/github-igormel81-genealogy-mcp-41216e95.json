@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-igormel81-genealogy-mcp-41216e95",
+  "source": {
+    "issue": 3552,
+    "projectUrl": "https://github.com/igormel81/genealogy-mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx genealogy-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "README includes installation configurations for Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Cline and VS Code. PyPI installation",
+    "MCP initialization and tools/list were verified over stdio (14 tools). These checks are protocol tests",
+    "not a claim of manual testing in every client."
+  ],
+  "license": "MIT"
+}
