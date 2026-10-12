@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-privateaisystems-needhave-e1c33dad",
+  "source": {
+    "issue": 3576,
+    "projectUrl": "https://github.com/PrivateAISystems/needhave"
+  },
+  "links": {
+    "endpoint": "https://needhave.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Cursor",
+    "Claude Desktop",
+    "any client that supports remote Streamable HTTP MCP"
+  ],
+  "license": "unknown"
+}
