@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "localscreenshot-com-8de7efe7",
+  "source": {
+    "issue": 3579,
+    "projectUrl": "https://localscreenshot.com"
+  },
+  "install": {
+    "commands": [
+      "npx -y localscreenshot <url>"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "any client that speaks Streamable HTTP"
+  ],
+  "license": "MIT for the CLI and the public repositories; the hosted service is proprietary"
+}
