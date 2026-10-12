@@ -1,0 +1,102 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-adamgusky-blawgy-mcp-c3ea9751",
+  "source": {
+    "projectUrl": "https://github.com/adamgusky/blawgy-mcp"
+  },
+  "description": "Research keywords, plan, write, update and publish SEO blog posts to WordPress, Shopify, Webflow, Wix, Framer, Ghost or Duda from any MCP client. Reads Google Search Console traffic, rankings and indexing status, drafts and approves refreshes of live posts, and manages the content plan, guardrails, images, products, location pages, settings, webhooks and team.",
+  "category": "Content Management Systems",
+  "links": {
+    "docs": "https://blawgy.com/help/connecting-ai-agents",
+    "homepage": "https://blawgy.com/mcp",
+    "endpoint": "https://app.blawgy.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http blawgy https://app.blawgy.com/mcp",
+      "gemini mcp add --transport http blawgy https://app.blawgy.com/mcp",
+      "npx -y mcp-remote https://app.blawgy.com/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with PKCE and dynamic client registration (metadata at https://app.blawgy.com/.well-known/oauth-authorization-server), or a Blawgy API key sent as Authorization: Bearer <key>.",
+      "Requires a Blawgy account on a paid plan (free trial available). MCP access is included on every paid plan."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini CLI",
+    "Windsurf",
+    "Cline"
+  ],
+  "tools": {
+    "count": 123,
+    "names": [
+      "get_plan",
+      "generate_plan",
+      "add_to_plan",
+      "update_plan_entry",
+      "reschedule_overdue",
+      "pause_autopilot",
+      "resume_autopilot",
+      "list_articles",
+      "get_article",
+      "write_article_now",
+      "update_article",
+      "publish_draft",
+      "republish_article",
+      "generate_titles",
+      "generate_outline",
+      "write_from_outline",
+      "publish_article_from_builder",
+      "list_update_opportunities",
+      "check_for_updates",
+      "draft_update",
+      "approve_update",
+      "generate_post_image",
+      "list_products",
+      "sync_products",
+      "list_business_locations",
+      "publish_location_pages",
+      "list_guardrails",
+      "create_guardrail",
+      "get_settings",
+      "update_settings",
+      "connect_platform",
+      "get_connect_link",
+      "list_webhooks",
+      "create_webhook",
+      "list_team",
+      "invite_teammate",
+      "get_billing",
+      "search_help"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Tool inventory taken from the listing repo README (123 tools).",
+      "The public GitHub repository holds the listing (README, server.json, logo) under MIT. The hosted server at app.blawgy.com/mcp is proprietary."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "adamgusky"
+    ],
+    "claimed": true
+  }
+}
