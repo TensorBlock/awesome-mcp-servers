@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kreativemanish-iso20022-navigator-mcp-5d7cb275",
+  "source": {
+    "issue": 3474,
+    "projectUrl": "https://github.com/kreativeManish/iso20022-navigator-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.isonavigator.io/iso20022"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "VS Code",
+    "Cursor",
+    "ChatGPT",
+    "Codex CLI"
+  ],
+  "license": "MIT (the server code; the reference data is licensed separately)"
+}

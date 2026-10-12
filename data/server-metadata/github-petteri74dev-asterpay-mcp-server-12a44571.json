@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-petteri74dev-asterpay-mcp-server-12a44571",
+  "source": {
+    "issue": 3517,
+    "projectUrl": "https://github.com/petteri74dev/asterpay-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://x402.asterpay.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @asterpay/mcp-server --mock",
+      "npx -y @asterpay/mcp-server --mode seller",
+      "npx -y @asterpay/mcp-server --mode buyer"
+    ],
+    "env": [
+      "ASTERPAY_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key Production npm buyer/seller mode uses an AsterPay API key; `--mock` does not. Hosted API MCP discovery and free tools do not require an API key; paid routes use x402/MPP payment authorization."
+    ]
+  },
+  "clients": [
+    "Claude Desktop for the documented stdio mock configuration",
+    "custom MCP clients with x402 support for production payment workflows."
+  ],
+  "license": "Apache-2.0"
+}
