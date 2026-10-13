@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-verdixapi-verdix-mcp-1cad9372",
+  "source": {
+    "issue": 3651,
+    "projectUrl": "https://github.com/verdixapi/verdix-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y verdix-mcp (stdio). Env: VERDIX_PRIVATE_KEY (required, the paying wallet's key), VERDIX_MAX_PRICE_USD (optional, default 0.10)."
+    ],
+    "env": [
+      "VERDIX_PRIVATE_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
