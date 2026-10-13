@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "wimm-my-0c0d5f00",
+  "source": {
+    "issue": 3638,
+    "projectUrl": "https://wimm.my/?utm_source=tensorblock&utm_campaign=retailbox-pilot"
+  },
+  "links": {
+    "endpoint": "https://wimm.my/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ]
+}
