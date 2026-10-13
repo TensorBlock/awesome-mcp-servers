@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ipgeolocation-ipgeolocation-io-mcp-9790f6c2",
+  "source": {
+    "issue": 3654,
+    "projectUrl": "https://github.com/IPGeolocation/ipgeolocation-io-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @MudassarTariq, for @IPGeolocation in #3654 under the community profile-claim process.",
+      "Requested profile metadata in #3654: Publisher: IPGeolocation.io Support: support@ipgeolocation.io Docs: https://github.com/IPGeolocation/ipgeolocation-io-mcp/blob/v2.0.1/README.md#install-by-client Website:..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@MudassarTariq, for @IPGeolocation"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
