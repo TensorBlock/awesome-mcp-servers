@@ -20,7 +20,7 @@
   "auth": {
     "type": "none",
     "notes": [
-      "VERDIX_PRIVATE_KEY is required for the paying wallet; checks use USDC on Base via x402. VERDIX_MAX_PRICE_USD optionally limits the per-call price."
+      "Paid checks require a Base wallet private key in VERDIX_PRIVATE_KEY and USDC for x402 payments. VERDIX_MAX_PRICE_USD optionally caps the per-call price (default 0.10)."
     ]
   },
   "clients": [
