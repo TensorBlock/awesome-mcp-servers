@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-querysail-querysail-ga4-ced5b7dd",
+  "source": {
+    "issue": 3504,
+    "projectUrl": "https://github.com/querysail/querysail-ga4"
+  },
+  "links": {
+    "endpoint": "https://mcp.querysail.com/ga4/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude Code",
+    "Claude Desktop / claude.ai",
+    "Codex",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Listing files MIT; the hosted service is proprietary."
+}

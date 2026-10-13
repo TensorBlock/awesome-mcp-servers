@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-azmartone67-dchub-mcp-server-881c79c5",
+  "source": {
+    "issue": 3484,
+    "projectUrl": "https://github.com/azmartone67/dchub-mcp-server"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @azmartone67 in #3484 under the community profile-claim process.",
+      "Requested profile metadata in #3484: Category: Data Analysis & Business Intelligence Transport: streamable-http Auth: api-key Install confidence: low License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@azmartone67"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

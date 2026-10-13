@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-owaid0723666-onomeo-mcp-50803f52",
+  "source": {
+    "issue": 3459,
+    "projectUrl": "https://github.com/Owaid0723666/onomeo-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:Owaid0723666/onomeo-mcp"
+    ],
+    "env": [
+      "ONOMEO_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  }
+}

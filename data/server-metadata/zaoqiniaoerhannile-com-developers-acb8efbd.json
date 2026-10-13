@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "zaoqiniaoerhannile-com-developers-acb8efbd",
+  "source": {
+    "issue": 3569,
+    "projectUrl": "https://zaoqiniaoerhannile.com/developers"
+  },
+  "links": {
+    "endpoint": "https://zaoqiniaoerhannile.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "API key (Bearer token). Prepaid balance — each call that sends a person out costs money, so the tool descriptions tell the model to confirm with the user before ordering."
+    ]
+  },
+  "clients": [
+    "Any MCP client that speaks Streamable HTTP. Tested with Claude Code."
+  ],
+  "license": "MIT (the repo). The hosted service has its own terms at https://zaoqiniaoerhannile.com/terms"
+}
