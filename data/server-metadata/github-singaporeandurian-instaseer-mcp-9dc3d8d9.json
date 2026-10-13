@@ -8,7 +8,8 @@
   "description": "Hosted MCP integration for using permitted saved public Instagram research in AI assistants. Read source-linked reports, compare two saved account reports, check access, and prepare fresh research for owner review. Streamable HTTP at https://www.instaseer.com/mcp with OAuth 2.1. Reading saved evidence does not start collection; fresh research requires owner confirmation in Instaseer. Available tools depend on enabled capabilities and granted permissions. Public repository contains documentation and examples.",
   "links": {
     "docs": "https://www.instaseer.com/mcp",
-    "endpoint": "https://www.instaseer.com/mcp"
+    "endpoint": "https://www.instaseer.com/mcp",
+    "homepage": "https://www.instaseer.com/"
   },
   "transport": [
     "streamable-http"
@@ -26,7 +27,7 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "No new endpoint health test or authenticated client certification is claimed. Keep verification status unchanged. The repository MIT license covers documentation and configuration examples; it must not imply that the hosted backend is...",
+      "No new endpoint health test or authenticated client certification is claimed. The repository MIT license covers documentation and configuration examples, not the hosted backend.",
       "Metadata updated from issue #3633. Source: https://github.com/singaporeandurian/instaseer-mcp"
     ]
   }
