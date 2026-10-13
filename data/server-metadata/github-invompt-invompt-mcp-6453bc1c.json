@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-invompt-invompt-mcp-6453bc1c",
+  "source": {
+    "projectUrl": "https://github.com/Invompt/invompt-mcp"
+  },
+  "description": "Create and review invoices from an AI assistant with Invompt's hosted MCP server.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://www.invompt.com/install",
+    "homepage": "https://www.invompt.com",
+    "endpoint": "https://mcp.invompt.com/mcp"
+  },
+  "install": {
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Connect through the MCP client's browser-based OAuth flow. Users can continue without an account or sign in; no API key or local server is required."
+    ]
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Canonical repository, installation guide, MIT license, and hosted endpoint authentication response were checked during maintainer review."
+    ]
+  },
+  "license": "MIT"
+}

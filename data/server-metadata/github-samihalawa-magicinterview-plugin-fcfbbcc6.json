@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-samihalawa-magicinterview-plugin-fcfbbcc6",
+  "source": {
+    "issue": 3002,
+    "projectUrl": "https://github.com/samihalawa/magicinterview-plugin"
+  },
+  "links": {
+    "endpoint": "https://magicinterview.ai/mcp",
+    "docs": "https://github.com/samihalawa/magicinterview-plugin/blob/main/README.md",
+    "homepage": "https://magicinterview.ai"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth; users sign in to their MagicInterview account through the client authorization flow."
+    ]
+  },
+  "clients": [
+    "Claude"
+  ],
+  "license": "MIT",
+  "tools": {
+    "count": 5,
+    "names": [
+      "get_profile",
+      "get_tool_catalog",
+      "learn_tools",
+      "read_tool",
+      "execute_tool"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "MagicInterview moved its hosted endpoint and homepage from magicinterview.app to magicinterview.ai; the new OAuth metadata endpoint was reachable on 2026-10-03."
+    ]
+  }
+}

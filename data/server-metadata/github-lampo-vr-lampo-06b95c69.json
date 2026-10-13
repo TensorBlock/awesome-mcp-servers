@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-lampo-vr-lampo-06b95c69",
+  "source": {
+    "issue": 3351,
+    "projectUrl": "https://github.com/lampo-vr/lampo"
+  },
+  "links": {
+    "docs": "https://lampo.video/docs/mcp/",
+    "homepage": "https://lampo.video",
+    "endpoint": "https://app.lampo.video/mcp"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "install": {
+    "commands": [
+      "./bin/lampo-mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "The hosted endpoint uses OAuth sign-in and also accepts authenticated Bearer API tokens; the local stdio server needs no MCP authentication."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "license": "AGPL-3.0-only",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3351 using the hosted cloud and MCP connection guides."
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jaybro2042-alt-liminality-mcp-b8a00a04",
+  "source": {
+    "issue": 3343,
+    "projectUrl": "https://github.com/jaybro2042-alt/liminality-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @jaybro2042-alt in #3343 under the community profile-claim process.",
+      "Claiming is separate from TensorBlock verification."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@jaybro2042-alt"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

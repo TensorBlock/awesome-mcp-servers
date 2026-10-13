@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-hashgraph-online-hol-guard-49e364e4",
+  "source": {
+    "issue": 3065,
+    "projectUrl": "https://github.com/hashgraph-online/hol-guard"
+  },
+  "links": {
+    "docs": "https://github.com/hashgraph-online/hol-guard/blob/main/llms-install.md",
+    "homepage": "https://hol.org/guard"
+  },
+  "install": {
+    "commands": [
+      "pipx install hol-guard",
+      "hol-guard mcp serve --stdio"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor"
+  ],
+  "tools": {
+    "count": 3,
+    "names": [
+      "search",
+      "fetch",
+      "get_guard_status"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0"
+}

@@ -151,6 +151,10 @@ export function buildGithubRepoFindings(catalog, repoChecks) {
           ].join("\n"),
         });
       } else if (check.status === 200 && check.data?.archived) {
+        if (hasAcceptedArchivedSource(entry)) {
+          continue;
+        }
+
         findings.push({
           ...base,
           kind: "github-repo-archived",
@@ -292,6 +296,18 @@ function entrySummary(entry) {
     `Category: ${entry.category || "unknown"}`,
     `Source docs: ${entry.source?.docsPath || "unknown"}`,
   ].join("\n");
+}
+
+function hasAcceptedArchivedSource(entry) {
+  if (entry.verification?.status !== "partial") {
+    return false;
+  }
+
+  return entry.verification.notes?.some((note) => {
+    const normalized = note.toLowerCase();
+    return normalized.includes("repository was archived by its owner")
+      && normalized.includes("entry remains indexed");
+  }) ?? false;
 }
 
 function markersInText(value) {

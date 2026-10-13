@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "rivalsweeper-com-solutions-signals-api-38060208",
+  "source": {
+    "issue": 3556,
+    "projectUrl": "https://www.rivalsweeper.com/solutions/signals-api"
+  },
+  "links": {
+    "endpoint": "https://mcp.rivalsweeper.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "any streamable-HTTP MCP client"
+  ],
+  "license": "Proprietary (hosted service)"
+}

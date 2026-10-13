@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sky-access-skyaccess-mcp-f09cdf90",
+  "source": {
+    "issue": 3040,
+    "projectUrl": "https://github.com/sky-access/skyaccess-mcp"
+  },
+  "links": {
+    "docs": "https://github.com/sky-access/skyaccess-mcp#readme",
+    "endpoint": "https://mcp.skyaccess.com/mcp",
+    "homepage": "https://skyaccess.com"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "any Streamable HTTP MCP client"
+  ],
+  "license": "MIT"
+}

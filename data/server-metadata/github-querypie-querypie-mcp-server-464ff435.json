@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-querypie-querypie-mcp-server-464ff435",
+  "source": {
+    "issue": 2919,
+    "projectUrl": "https://github.com/querypie/querypie-mcp-server"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The public source repository was archived by its owner; last checked 2026-10-02. The entry remains indexed because the source is still available."
+    ]
+  }
+}

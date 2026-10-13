@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-swift-mobile-solutions-dev-widely-mcp-6526a9e9",
+  "source": {
+    "issue": 3152,
+    "projectUrl": "https://github.com/Swift-Mobile-Solutions-Dev/widely-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.widely-mobile.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "ChatGPT",
+    "VS Code / Copilot",
+    "Gemini CLI",
+    "Cline",
+    "Docker MCP Toolkit (submitted)",
+    "and other MCP clients that support remote Streamable HTTP + OAuth"
+  ],
+  "license": "unknown"
+}
