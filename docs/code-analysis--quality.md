@@ -2,6 +2,7 @@
 
 Servers focused on static analysis, linting, code metrics, security scanning, vulnerability checks, or code quality assessment.
 
+- [Blackman99/wheelripe](https://github.com/Blackman99/wheelripe): Before moving a project to a new CPython (3.15, free-threaded 3.15t, …), find which locked dependencies have no installable wheel for that Python on your platforms and the smallest version bump that fixes each. Read-only MCP (`wheelripe mcp`) plus CLI and GitHub Action. Install: `uvx --from git+https://github.com/Blackman99/wheelripe wheelripe`. MIT.
 - [gendjo-owlhead/mcp-contract-check](https://github.com/gendjo-owlhead/mcp-contract-check): Continuous contract testing, schema fuzzing, and breaking change detection for MCP servers. Install: `npx -y mcp-contract-check --command "<server-command>"` or GitHub Action: `gendjo-owlhead/mcp-contract-check@v1`. MIT.
 - [space-bacon/blackwindow-weave-mcp](https://github.com/space-bacon/blackwindow-weave-mcp): Local semantic search over the folders on your machine for any MCP client, with the Motherlode code-search encoder running on the CPU. Tools: `weave_folder`, `weave_search`, `weave_list`, `weave_forget`. Install: `npx -y blackwindow-weave-mcp`. BUSL-1.1 with an internal-use grant.
 - [manmohm/advisorsai-check](https://github.com/manmohm/advisorsai-check): Check bounded machine-readable public-page basics. Live demo: [advisorsai.ai](https://advisorsai.ai/see.html). Remote HTTP endpoint: https://advisorsai.ai/store-readiness-mcp.
