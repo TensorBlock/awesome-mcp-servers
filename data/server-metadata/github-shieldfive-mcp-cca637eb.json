@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-shieldfive-mcp-cca637eb",
+  "source": {
+    "issue": 3641,
+    "projectUrl": "https://github.com/shieldfive/mcp"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor"
+  ],
+  "license": "MIT"
+}
