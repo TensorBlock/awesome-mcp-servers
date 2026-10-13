@@ -14,7 +14,7 @@
   "auth": {
     "type": "bearer",
     "notes": [
-      "bearer"
+      "Bearer token for https://nssnap.com/api/mcp; the read-only https://nssnap.com/api/mcp-public endpoint requires no authentication."
     ]
   },
   "clients": [
