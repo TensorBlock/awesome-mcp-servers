@@ -28,24 +28,24 @@
   "category": "Finance & Crypto",
   "install": {
     "commands": [],
-    "env": [
-      "none required"
-    ],
+    "env": [],
     "confidence": "low"
   },
   "tools": {
-    "count": 3,
+    "count": 4,
     "names": [
       "iso20022_bank_transaction_codes",
       "iso20022_message_details",
-      "iso20022_legacy_and_scheme_mappings"
+      "iso20022_legacy_and_scheme_mappings",
+      "iso20022_code_sets"
     ],
     "source": "self_reported"
   },
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #3591. Source: https://github.com/kreativeManish/iso20022-navigator-mcp Official MCP Registry name: io.github.kreativeManish/iso20022-navigator Smithery: https://smithery.ai/servers/kreativemanish/iso20022-navigator"
+      "Metadata updated from issue #3591. Source: https://github.com/kreativeManish/iso20022-navigator-mcp Official MCP Registry name: io.github.kreativeManish/iso20022-navigator Smithery: https://smithery.ai/servers/kreativemanish/iso20022-navigator",
+      "Current public source documents four tools, including iso20022_code_sets."
     ]
   }
 }
