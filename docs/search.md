@@ -34,7 +34,6 @@ Servers providing web search capabilities or interfacing with specialized search
 - [AgentGrade](https://agentgrade.com): Scan any website for AI agent readiness — scores 80+ checks across payments, MCP, OpenAPI, and discovery. Remote MCP server at agentgrade.com/mcp.
 - [unifapi-agent/unifapi-mcp-server](https://github.com/unifapi-agent/unifapi-mcp-server): Hosted remote MCP server for live public data across social, search, scraping, news, creator research, and KOL pricing workflows.
 - [kansei-link/kansei-mcp-server](https://github.com/kansei-link/kansei-mcp-server): Intelligence layer for AI agents to discover and evaluate 156+ SaaS/API services with trust scores, 120 workflow recipes, intent-based search, and Agent Voice feedback from real agent usage.
-- [joaomj/deep-search-mcp](https://github.com/joaomj/deep-search-mcp): Facilitates deep web searches using the LinkUp API, offering structured results and customizable search parameters.
 - [jarondonp/portfolio-mcp-server](https://github.com/jarondonp/portfolio-mcp-server): Integrates the Brave Search API to offer web and local search capabilities with flexible filtering and smart fallbacks.
 - [marioalexandreantunes/mcp-search-mojeek](https://github.com/marioalexandreantunes/mcp-search-mojeek): Integrates the Mojeek search engine into an MCP server for privacy-focused and unbiased search results.
 - [funwarioisii/perplexity-mcp-rb](https://github.com/funwarioisii/perplexity-mcp-rb): Facilitates web search operations through a Perplexity-based MCP server.
