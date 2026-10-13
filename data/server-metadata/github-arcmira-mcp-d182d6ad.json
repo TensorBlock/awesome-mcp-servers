@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-arcmira-mcp-d182d6ad",
+  "source": {
+    "issue": 3088,
+    "projectUrl": "https://github.com/arcmira/mcp"
+  },
+  "links": {
+    "docs": "https://arcmira.com/docs",
+    "endpoint": "https://mcp.arcmira.com/mcp",
+    "homepage": "https://arcmira.com"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Sign in through the MCP client's OAuth flow; no local package is required."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "Gemini CLI"
+  ],
+  "license": "Proprietary server; Apache-2.0 plugin and skills.",
+  "tools": {
+    "count": 4,
+    "names": [
+      "arcmira_describe",
+      "arcmira_execute_read",
+      "arcmira_execute_write",
+      "arcmira_feedback"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @zealous1 in #3024 under the community profile-claim process.",
+      "Claim details and supporting repository commit are recorded in issue #3024.",
+      "Metadata updated from issue #3088. Source: Maintainer follow-up to #3025. - API documentation: https://arcmira.com/docs - Usage documentation: https://arcmira.com/docs/usage-and-billing - MCP setup: https://arcmira.com/docs/mcp-server This is a description..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@zealous1"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "description": "Search indexed YouTube transcripts for timestamped quotes, speaker appearances, mentions, sponsors and recommendations. Monitor new mentions across channels. Premium reads use credits from your plan, then your on-demand budget."
+}

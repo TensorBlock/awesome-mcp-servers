@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "useproductify-com-printify-chatgpt-mcp-bab465a7",
+  "source": {
+    "issue": 3118,
+    "projectUrl": "https://www.useproductify.com/printify-chatgpt-mcp"
+  },
+  "links": {
+    "endpoint": "https://www.useproductify.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Codex",
+    "Claude"
+  ],
+  "license": "Proprietary (hosted service; source not published)"
+}

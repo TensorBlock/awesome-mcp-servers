@@ -1,0 +1,55 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-wapiworld-claude-plugin-efbe2b77",
+  "source": {
+    "projectUrl": "https://github.com/wapiworld/claude-plugin"
+  },
+  "description": "Inspect WhatsApp projects, sender health, recording policy and webhook health, and send one exactly confirmed text message.",
+  "category": "Communication & Messaging",
+  "links": {
+    "docs": "https://app.wapiworld.com/developers#mcp",
+    "homepage": "https://www.wapiworld.com/",
+    "endpoint": "https://mcp.wapiworld.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 8,
+    "names": [
+      "get_instance",
+      "get_instance_status",
+      "get_message_recording_policy",
+      "list_instances",
+      "list_projects",
+      "list_webhook_subscriptions",
+      "send_message",
+      "show_project_overview"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}

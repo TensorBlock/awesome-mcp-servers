@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-otakit-otakit-0c613e1e",
+  "source": {
+    "issue": 3173,
+    "projectUrl": "https://github.com/OtaKit/otakit"
+  },
+  "links": {
+    "homepage": "https://otakit.app",
+    "docs": "https://otakit.app/docs/agents",
+    "endpoint": "https://console.otakit.app/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @otakit/cli@latest mcp"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "The hosted endpoint uses OAuth 2.1; organization API keys also work as bearer tokens. The local server uses credentials from otakit login."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "other OAuth-capable remote or stdio MCP clients"
+  ],
+  "license": "MIT"
+}

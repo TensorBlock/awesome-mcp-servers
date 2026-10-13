@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "stride-simmons-simmons-com-273e0694",
+  "source": {
+    "issue": 3167,
+    "projectUrl": "https://stride.simmons-simmons.com/"
+  },
+  "links": {
+    "homepage": "https://stride.simmons-simmons.com/",
+    "endpoint": "https://stride.simmons-simmons.com/mcp/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 and bearer API-key authentication are supported."
+    ]
+  },
+  "clients": [
+    "Remote MCP clients supporting Streamable HTTP and OAuth 2.1 or bearer API keys."
+  ],
+  "license": "Proprietary hosted service"
+}

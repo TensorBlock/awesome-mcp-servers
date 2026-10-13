@@ -1,0 +1,66 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-polyblog-io-claude-plugin-fe0faef2",
+  "source": {
+    "projectUrl": "https://github.com/polyblog-io/claude-plugin"
+  },
+  "description": "Research topics, draft text and manage multilingual blog articles, localization coverage and editorial workflows with confirmed publication changes.",
+  "category": "Content Management Systems",
+  "links": {
+    "docs": "https://www.polyblog.io/developers/?utm_source=official-mcp-registry&utm_medium=mcp_directory&utm_campaign=mcp-registries-2026#mcp",
+    "homepage": "https://www.polyblog.io/",
+    "endpoint": "https://mcp.polyblog.io/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 19,
+    "names": [
+      "create_article",
+      "create_blog",
+      "delete_article",
+      "generate_article",
+      "get_article",
+      "get_blog",
+      "get_blog_localization_summary",
+      "get_sitemap_urls",
+      "list_article_translations",
+      "list_blogs",
+      "list_topic_ideas",
+      "open_polyblog",
+      "refresh_topic_ideas",
+      "search_articles",
+      "set_topic_idea_status",
+      "set_topic_sources",
+      "show_article_preview",
+      "show_blog_overview",
+      "update_article"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}

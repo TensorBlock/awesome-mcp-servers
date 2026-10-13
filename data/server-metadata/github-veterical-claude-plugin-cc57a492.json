@@ -1,0 +1,58 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-veterical-claude-plugin-cc57a492",
+  "source": {
+    "projectUrl": "https://github.com/veterical/claude-plugin"
+  },
+  "description": "Read veterinary-clinic metadata, capacity, aggregate schedules, numeric procedure configuration, payment aggregates and plan entitlements without animal, owner or clinical records.",
+  "category": "Healthcare & Life Sciences",
+  "links": {
+    "docs": "https://www.veterical.com/developers/#mcp",
+    "homepage": "https://www.veterical.com/",
+    "endpoint": "https://mcp.veterical.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 11,
+    "names": [
+      "get_clinic",
+      "get_clinic_availability",
+      "get_clinic_schedule_summary",
+      "list_calendar_events",
+      "list_clinic_providers",
+      "list_clinics",
+      "list_payments",
+      "list_procedures",
+      "list_subscriptions",
+      "open_veterical",
+      "show_clinic_overview"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}

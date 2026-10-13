@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "tinyplates-dev-0cd2a49a",
+  "source": {
+    "issue": 3079,
+    "projectUrl": "https://www.tinyplates.dev/"
+  },
+  "links": {
+    "docs": "https://www.tinyplates.dev/docs/mcp",
+    "endpoint": "https://api.tinyplates.dev/mcp",
+    "homepage": "https://www.tinyplates.dev"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth is supported; a Tiny Plates API key can also be supplied as a bearer token."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "OpenAI Codex CLI"
+  ],
+  "license": "Hosted service; server source is not publicly released under an open-source license."
+}

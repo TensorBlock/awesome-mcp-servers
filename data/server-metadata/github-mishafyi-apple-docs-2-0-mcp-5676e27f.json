@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mishafyi-apple-docs-2-0-mcp-5676e27f",
+  "source": {
+    "issue": 3562,
+    "projectUrl": "https://github.com/mishafyi/Apple-Docs-2.0-MCP"
+  },
+  "install": {
+    "commands": [
+      "npx -y apple-docs-2.0-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Cline",
+    "Zed",
+    "Codex"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-someaka-wayland-mcp-a42b6209",
+  "source": {
+    "issue": 3139,
+    "projectUrl": "https://github.com/someaka/wayland-mcp"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The public source repository was archived by its owner; last checked 2026-10-05. The entry remains indexed because the source is still available."
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-elcodevrepos-realtime-sports-api-examples-212dd489",
+  "source": {
+    "issue": 3288,
+    "projectUrl": "https://github.com/ElcoDevRepos/realtime-sports-api-examples"
+  },
+  "links": {
+    "docs": "https://www.realtimesportsapi.com/docs/mcp",
+    "homepage": "https://www.realtimesportsapi.com",
+    "endpoint": "https://www.realtimesportsapi.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Initialization and tools/list are public; tool calls require an API key in the Authorization: Bearer header."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Cline",
+    "other remote Streamable HTTP clients"
+  ],
+  "license": "Commercial closed-source hosted service; example client configurations are MIT."
+}

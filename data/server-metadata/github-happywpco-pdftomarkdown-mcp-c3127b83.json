@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-happywpco-pdftomarkdown-mcp-c3127b83",
+  "source": {
+    "issue": 3219,
+    "projectUrl": "https://github.com/happywpco/pdftomarkdown-mcp"
+  },
+  "links": {
+    "homepage": "https://pdftomarkdown.ai/",
+    "docs": "https://pdftomarkdown.ai/developers"
+  },
+  "install": {
+    "commands": [
+      "npx -y @happywp/pdftomarkdown-mcp",
+      "npm install -g @happywp/pdftomarkdown-mcp",
+      "pdftomarkdown-mcp"
+    ],
+    "env": [
+      "PDFTOMARKDOWN_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rollounden-rapid-indexer-mcp-1a03b5c3",
+  "source": {
+    "issue": 3335,
+    "projectUrl": "https://github.com/rollounden/rapid-indexer-mcp"
+  },
+  "links": {
+    "homepage": "https://rapid-indexer.com/mcp/",
+    "endpoint": "https://mcp.rapid-indexer.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y rapid-indexer-mcp"
+    ],
+    "env": [
+      "RAPID_INDEXER_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Set `RAPID_INDEXER_API_KEY` for local stdio, or send the API key as a Bearer token to the hosted endpoint."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Gemini CLI",
+    "other MCP clients"
+  ],
+  "license": "MIT"
+}

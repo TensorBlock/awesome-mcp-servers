@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "tokelements-com-integrations-b415bc69",
+  "source": {
+    "issue": 3209,
+    "projectUrl": "https://tokelements.com/integrations"
+  },
+  "links": {
+    "homepage": "https://tokelements.com/",
+    "docs": "https://tokelements.com/integrations",
+    "endpoint": "https://tokelements.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "other OAuth-capable remote MCP clients"
+  ],
+  "license": "Proprietary (hosted service, free plan)"
+}

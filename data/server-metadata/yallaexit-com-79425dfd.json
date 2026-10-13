@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "yallaexit-com-79425dfd",
+  "source": {
+    "issue": 3182,
+    "projectUrl": "https://yallaexit.com"
+  },
+  "links": {
+    "homepage": "https://yallaexit.com",
+    "docs": "https://yallaexit.com/en/ai-integrations",
+    "endpoint": "https://mcp.yallaexit.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "other OAuth-capable remote MCP clients"
+  ],
+  "license": "Hosted proprietary service; no open-source license asserted."
+}
