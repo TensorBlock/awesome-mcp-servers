@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "npx -y verdix-mcp (stdio). Env: VERDIX_PRIVATE_KEY (required, the paying wallet's key), VERDIX_MAX_PRICE_USD (optional, default 0.10)."
+      "npx -y verdix-mcp"
     ],
     "env": [
       "VERDIX_PRIVATE_KEY"
@@ -19,7 +19,9 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "VERDIX_PRIVATE_KEY is required for the paying wallet; checks use USDC on Base via x402. VERDIX_MAX_PRICE_USD optionally limits the per-call price."
+    ]
   },
   "clients": [
     "Claude Desktop",
