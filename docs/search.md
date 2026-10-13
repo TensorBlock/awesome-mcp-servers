@@ -36,7 +36,6 @@ Servers providing web search capabilities or interfacing with specialized search
 - [kansei-link/kansei-mcp-server](https://github.com/kansei-link/kansei-mcp-server): Intelligence layer for AI agents to discover and evaluate 156+ SaaS/API services with trust scores, 120 workflow recipes, intent-based search, and Agent Voice feedback from real agent usage.
 - [joaomj/deep-search-mcp](https://github.com/joaomj/deep-search-mcp): Facilitates deep web searches using the LinkUp API, offering structured results and customizable search parameters.
 - [jarondonp/portfolio-mcp-server](https://github.com/jarondonp/portfolio-mcp-server): Integrates the Brave Search API to offer web and local search capabilities with flexible filtering and smart fallbacks.
-- [dealwallet1/meiliseachmcp](https://github.com/dealwallet1/meiliseachmcp): Facilitates seamless interaction with Meilisearch through LLM interfaces, offering dynamic connection management, search capabilities, and comprehensive index and task management.
 - [marioalexandreantunes/mcp-search-mojeek](https://github.com/marioalexandreantunes/mcp-search-mojeek): Integrates the Mojeek search engine into an MCP server for privacy-focused and unbiased search results.
 - [funwarioisii/perplexity-mcp-rb](https://github.com/funwarioisii/perplexity-mcp-rb): Facilitates web search operations through a Perplexity-based MCP server.
 - [help116114/zoomeye-mcp-server](https://github.com/help116114/zoomeye-mcp-server): Facilitates AI assistants in querying internet-wide host and web data via the ZoomEye v2 API.
