@@ -83,7 +83,6 @@ Servers providing web search capabilities or interfacing with specialized search
 - [egoist/exa-mcp](https://github.com/egoist/exa-mcp): Facilitates seamless integration with Exa Search API through a robust MCP server, sponsored by ChatWise.
 - [Evilran/baidu-mcp-server](https://github.com/Evilran/baidu-mcp-server): Provides web search capabilities through Baidu with advanced content fetching and parsing, optimized for large language models.
 - [captainChaozi/search-intent-mcp](https://github.com/captainChaozi/search-intent-mcp): Analyze search keywords to determine user intent and support SEO analysis.
-- [chick-p/algolia-search-mcp-server](https://github.com/chick-p/algolia-search-mcp-server): Facilitates text search within Algolia indexes using MCP server capabilities.
 - [baranwang/mcp-deep-research](https://github.com/baranwang/mcp-deep-research): MCP Deep Research leverages the Tavily API to facilitate web searches through the Model Context Protocol, optimized for prompt-based MCP clients.
 - [chenxilol/perplexity-mcp-go](https://github.com/chenxilol/perplexity-mcp-go): A Go-based server enabling LLMs to access Perplexity's search API via MCP, supporting advanced search parameters and real-time results.
 - [habuvo/google-search](https://github.com/habuvo/google-search): Facilitates web searches for LLM applications using Google's Custom Search API.
