@@ -174,7 +174,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [gowtham3105/mcp_server_opensearch](https://github.com/gowtham3105/mcp_server_opensearch): Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.
 - [kiendoantrung/ddg-server](https://github.com/kiendoantrung/ddg-server): Enables web search capabilities through DuckDuckGo using the Model Context Protocol.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server): Empower AI assistants to perform real-time web searches using Exa's API, providing structured results and caching capabilities.
-- [mybuddyandrew/rails_api_search](https://github.com/mybuddyandrew/rails_api_search): Facilitates efficient search across Rails API documentation with comprehensive support for all major framework components.
+- [mybuddyandrew/rails_api_search](https://github.com/mybuddyandrew/rails_api_search): Facilitates efficient search across Rails API documentation with comprehensive support for all major framework components. Archived on GitHub; no longer actively maintained.
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp): Facilitates search and crawl operations using Search1API, offering seamless integration with various MCP clients.
 
 - [pranciskus/newsmcp](https://github.com/pranciskus/newsmcp): Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
