@@ -1,7 +1,7 @@
 {
   "id": "github-xquik-dev-x-twitter-scraper-95ed8f41",
-  "name": "Xquik-dev/x-twitter-scraper",
-  "description": "X/Twitter automation platform with 100+ REST endpoints, 2 MCP tools, 23 extraction types, HMAC webhooks, SDKs, and Streamable HTTP at `https://xquik.com/mcp` with `x-api-key` auth.",
+  "name": "Xquik MCP Server",
+  "description": "Hosted X data workflows with 126 REST operations and 118 MCP operations through 2 tools. Connect over Streamable HTTP at `https://xquik.com/mcp` with OAuth 2.1 or API key fallback. [Documentation](https://docs.xquik.com/mcp/overview). Not affiliated with X Corp.",
   "category": "Social Media & Content Platforms",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-xquik-dev-x-twitter-scraper-95ed8f41",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-xquik-dev-x-twitter-scraper-95ed8f41/badge.svg)](https://tensorblock.co/mcp/servers/github-xquik-dev-x-twitter-scraper-95ed8f41)",
@@ -9,7 +9,7 @@
     "primary": "https://github.com/Xquik-dev/x-twitter-scraper",
     "repo": "https://github.com/Xquik-dev/x-twitter-scraper",
     "homepage": null,
-    "docs": null,
+    "docs": "https://docs.xquik.com/mcp/overview",
     "endpoint": "https://xquik.com/mcp"
   },
   "install": {
@@ -21,9 +21,9 @@
     "streamable-http"
   ],
   "auth": {
-    "type": "api-key",
+    "type": "oauth",
     "notes": [
-      "x-api-key auth"
+      "OAuth 2.1 is primary. API key fallback supports x-api-key or Bearer authentication."
     ]
   },
   "clients": [],
@@ -49,7 +49,7 @@
     "transport": [
       "streamable-http"
     ],
-    "auth": "api-key",
+    "auth": "oauth",
     "installConfidence": "low",
     "installReady": false,
     "verification": "unknown",
