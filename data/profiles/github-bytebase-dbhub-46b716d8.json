@@ -1,7 +1,7 @@
 {
   "id": "github-bytebase-dbhub-46b716d8",
   "name": "bytebase/dbhub",
-  "description": "DBHub serves as a universal database gateway, enabling seamless MCP client connections to various databases like MySQL, PostgreSQL, SQL Server, and SQLite.",
+  "description": "DBHub serves as a universal database gateway, enabling seamless MCP client connections to various databases like MySQL, PostgreSQL, SQL Server, MariaDB, and SQLite.",
   "category": "Databases",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-bytebase-dbhub-46b716d8",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-bytebase-dbhub-46b716d8/badge.svg)](https://tensorblock.co/mcp/servers/github-bytebase-dbhub-46b716d8)",
