@@ -14,9 +14,7 @@
   },
   "install": {
     "commands": [],
-    "env": [
-      "URL"
-    ],
+    "env": [],
     "confidence": "low"
   },
   "transport": [
