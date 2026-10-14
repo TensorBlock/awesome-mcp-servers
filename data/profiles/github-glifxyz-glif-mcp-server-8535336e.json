@@ -1,7 +1,7 @@
 {
   "id": "github-glifxyz-glif-mcp-server-8535336e",
   "name": "glifxyz/glif-mcp-server",
-  "description": "Facilitates AI workflows by managing glifs and bots, offering customizable tools and metadata access through MCP.",
+  "description": "Official hosted media-generation agent from Glif. Generate images, video, and audio, transcribe media, and chain multi-step creative workflows from any MCP client. Streamable HTTP endpoint: `https://glif.app/api/mcp`; OAuth 2.1. MIT.",
   "category": "Multimedia Processing",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-glifxyz-glif-mcp-server-8535336e",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-glifxyz-glif-mcp-server-8535336e/badge.svg)](https://tensorblock.co/mcp/servers/github-glifxyz-glif-mcp-server-8535336e)",
@@ -10,7 +10,7 @@
     "repo": "https://github.com/glifxyz/glif-mcp-server",
     "homepage": null,
     "docs": null,
-    "endpoint": null
+    "endpoint": "https://glif.app/api/mcp"
   },
   "install": {
     "commands": [],
@@ -18,14 +18,14 @@
     "confidence": "low"
   },
   "transport": [
-    "unknown"
+    "streamable-http"
   ],
   "auth": {
-    "type": "unknown",
+    "type": "oauth",
     "notes": []
   },
   "clients": [],
-  "license": "unknown",
+  "license": "MIT",
   "installReady": false,
   "verifiedAt": null,
   "health": {
@@ -45,9 +45,9 @@
   },
   "summary": {
     "transport": [
-      "unknown"
+      "streamable-http"
     ],
-    "auth": "unknown",
+    "auth": "oauth",
     "installConfidence": "low",
     "installReady": false,
     "verification": "unknown",

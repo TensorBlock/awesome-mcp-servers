@@ -1,7 +1,7 @@
 {
   "id": "npmjs-com-package-coinrebate-mcp-server-66eea7ba",
   "name": "@coinrebate/mcp-server",
-  "description": "The only crypto MCP server with **affiliate revenue share for AI agent developers**. Permanent 20-40% trading fee discounts on Binance/OKX/Bybit/Bitget/Gate.io/Hyperliquid/Aster DEX via top-tier referral codes",
+  "description": "Multi-exchange crypto fee and rebate oracle. Compares live trading fees across Binance/OKX/Bybit/Bitget/Gate.io/Hyperliquid/Aster and shows the effective rate after the CoinRebate referral discount (up to 50%, varies by exchange). 6 read-only tools — fee comparison, best referral lookup, trading-cost calculator, country compliance filter, news, exchange list. Exchanges unavailable in the user's country are filtered out server-side. Install: `npx -y @coinrebate/mcp-server`",
   "category": "Finance & Crypto",
   "profileUrl": "https://tensorblock.co/mcp/servers/npmjs-com-package-coinrebate-mcp-server-66eea7ba",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/npmjs-com-package-coinrebate-mcp-server-66eea7ba/badge.svg)](https://tensorblock.co/mcp/servers/npmjs-com-package-coinrebate-mcp-server-66eea7ba)",
@@ -13,9 +13,11 @@
     "endpoint": null
   },
   "install": {
-    "commands": [],
+    "commands": [
+      "npx -y @coinrebate/mcp-server"
+    ],
     "env": [],
-    "confidence": "low"
+    "confidence": "medium"
   },
   "transport": [
     "unknown"
@@ -48,7 +50,7 @@
       "unknown"
     ],
     "auth": "unknown",
-    "installConfidence": "low",
+    "installConfidence": "medium",
     "installReady": false,
     "verification": "unknown",
     "toolCount": null

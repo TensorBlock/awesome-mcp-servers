@@ -17,9 +17,7 @@
       "npx awesome-mcp search postgres",
       "npx -y -p awesome-mcp awesome-mcp-bridge"
     ],
-    "env": [
-      "URL"
-    ],
+    "env": [],
     "confidence": "medium"
   },
   "transport": [

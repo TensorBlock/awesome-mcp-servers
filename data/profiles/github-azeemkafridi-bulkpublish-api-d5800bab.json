@@ -1,34 +1,40 @@
 {
   "id": "github-azeemkafridi-bulkpublish-api-d5800bab",
   "name": "azeemkafridi/bulkpublish-api",
-  "description": "MCP server for social media publishing across 11 platforms — create posts, schedule, upload media, and track analytics. 29 tools via `npx -y @bulkpublish/mcp-server`.",
+  "description": "Official BulkPublish MCP server for scheduling, cross-posting, and analyzing social media posts across 15 platforms. Use the hosted remote server with OAuth or run it locally with npx.",
   "category": "Social Media & Content Platforms",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-azeemkafridi-bulkpublish-api-d5800bab",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-azeemkafridi-bulkpublish-api-d5800bab/badge.svg)](https://tensorblock.co/mcp/servers/github-azeemkafridi-bulkpublish-api-d5800bab)",
   "links": {
     "primary": "https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server",
     "repo": "https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server",
-    "homepage": null,
-    "docs": null,
-    "endpoint": null
+    "homepage": "https://www.bulkpublish.com",
+    "docs": "https://www.bulkpublish.com/integrations/mcp-server/",
+    "endpoint": "https://mcp.bulkpublish.com/mcp"
   },
   "install": {
     "commands": [
       "npx -y @bulkpublish/mcp-server"
     ],
-    "env": [],
+    "env": [
+      "BULKPUBLISH_API_KEY",
+      "BULKPUBLISH_TOOL_PROFILE"
+    ],
     "confidence": "medium"
   },
   "transport": [
-    "unknown"
+    "stdio",
+    "streamable-http"
   ],
   "auth": {
-    "type": "unknown",
-    "notes": []
+    "type": "oauth",
+    "notes": [
+      "The hosted endpoint supports OAuth 2.1 with dynamic client registration and PKCE S256 (scope `bulkpublish`) or an `Authorization: Bearer bp_...` API key. Local stdio requires `BULKPUBLISH_API_KEY`."
+    ]
   },
   "clients": [],
-  "license": "unknown",
-  "installReady": false,
+  "license": "MIT",
+  "installReady": true,
   "verifiedAt": null,
   "health": {
     "repoPublic": null,
@@ -37,8 +43,11 @@
     "lastCheckedAt": null
   },
   "verification": {
-    "status": "unknown",
-    "notes": []
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3346 using the package README, project source, MCP docs, and OAuth discovery metadata.",
+      "The local full profile exposes 79 tools; the hosted core profile exposes 20 tools, or 27 with the inbox profile."
+    ]
   },
   "community": {
     "maintainedBy": [],
@@ -47,12 +56,13 @@
   },
   "summary": {
     "transport": [
-      "unknown"
+      "stdio",
+      "streamable-http"
     ],
-    "auth": "unknown",
+    "auth": "oauth",
     "installConfidence": "medium",
-    "installReady": false,
-    "verification": "unknown",
-    "toolCount": 29
+    "installReady": true,
+    "verification": "self_reported",
+    "toolCount": 79
   }
 }
