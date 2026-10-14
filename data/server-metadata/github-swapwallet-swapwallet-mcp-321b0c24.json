@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-swapwallet-swapwallet-mcp-321b0c24",
+  "source": {
+    "projectUrl": "https://github.com/SwapWallet/swapwallet-mcp"
+  },
+  "links": {
+    "homepage": "https://swapwallet.app",
+    "docs": "https://swapwallet.app/docs/mcp",
+    "endpoint": "https://swapwallet.app/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http swapwallet https://swapwallet.app/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with dynamic client registration (RFC 7591) and PKCE (S256); no API key or client secret.",
+      "The user signs in on SwapWallet's consent page and picks the scopes the agent gets.",
+      "Swaps, transfers and withdrawals run only after the user approves each one in Telegram."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Gemini CLI",
+    "Codex CLI"
+  ],
+  "tools": {
+    "count": 13,
+    "names": [
+      "get_total_balance",
+      "get_balance",
+      "get_user_info",
+      "get_deposit_address",
+      "get_profit_and_loss",
+      "get_transactions",
+      "get_contacts",
+      "get_ibans",
+      "get_action_request",
+      "request_swap",
+      "request_transfer",
+      "request_crypto_withdraw",
+      "request_fiat_withdraw"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (repository docs and client configs); the server itself is a proprietary hosted service.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Official MCP Registry name: app.swapwallet/mcp. Tool list from https://swapwallet.app/.well-known/mcp/server-card.json"
+    ]
+  }
+}
