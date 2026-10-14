@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-beppetemp-cartographer-1c17e6f2",
+  "source": {
+    "issue": 3676,
+    "projectUrl": "https://github.com/BeppeTemp/cartographer"
+  },
+  "links": {
+    "endpoint": "https://cartographer-demo.beppetemp.com/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "OpenCode",
+    "Kiro",
+    "Antigravity",
+    "GitHub Copilot CLI",
+    "Crush",
+    "Claude",
+    "ChatGPT"
+  ],
+  "license": "Apache-2.0"
+}
