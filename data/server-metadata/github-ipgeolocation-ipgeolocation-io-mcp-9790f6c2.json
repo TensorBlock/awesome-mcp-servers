@@ -1,0 +1,67 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ipgeolocation-ipgeolocation-io-mcp-9790f6c2",
+  "source": {
+    "issue": 3653,
+    "projectUrl": "https://github.com/IPGeolocation/ipgeolocation-io-mcp"
+  },
+  "description": "Official IPGeolocation.io MCP server with 17 tools for IP geolocation, security indicators, ASN data, abuse contacts, time zones, astronomy and user-agent parsing. Runs locally with Node.js 22 or later. Supports bulk requests and cached-result pagination.",
+  "category": "Location & Maps",
+  "links": {
+    "docs": "https://github.com/IPGeolocation/ipgeolocation-io-mcp/blob/v2.0.1/README.md#install-by-client"
+  },
+  "install": {
+    "commands": [
+      "npx -y ipgeolocation-io-mcp@2.0.1"
+    ],
+    "env": [
+      "IPGEOLOCATION_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "API key through IPGEOLOCATION_API_KEY for 15 API tools. get_my_ip works without a key. get_cached_result reads stored pages within the original key scope and process. API plan restrictions apply."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cline",
+    "Cursor",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 17,
+    "names": [
+      "lookup_ip",
+      "bulk_lookup_ip",
+      "get_my_ip",
+      "check_security",
+      "bulk_security_check",
+      "get_timezone",
+      "convert_timezone",
+      "get_astronomy",
+      "get_astronomy_time_series",
+      "parse_user_agent",
+      "bulk_parse_user_agent",
+      "lookup_company",
+      "lookup_currency",
+      "lookup_network",
+      "lookup_asn",
+      "get_abuse_contact",
+      "get_cached_result"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3653. Source: [Release 2.0.1](https://github.com/IPGeolocation/ipgeolocation-io-mcp/releases/tag/v2.0.1), [current setup and tool reference](https://github.com/IPGeolocation/ipgeolocation-io-mcp/blob/v2.0.1/README.md), and [npm..."
+    ]
+  }
+}

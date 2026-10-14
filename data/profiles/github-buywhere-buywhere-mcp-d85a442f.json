@@ -1,32 +1,48 @@
 {
   "id": "github-buywhere-buywhere-mcp-d85a442f",
   "name": "BuyWhere MCP",
-  "description": "Product catalog API for AI agents — search, compare, and buy 3M+ products across Singapore retailers. [Website](https://buywhere.ai)",
-  "category": "Marketing, Sales & CRM",
+  "description": "Cross-border product catalog for AI agents via MCP. Search 300M+ products across multiple markets, compare prices, find deals, inspect offers, and discover merchants.",
+  "category": "Search",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-buywhere-buywhere-mcp-d85a442f",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-buywhere-buywhere-mcp-d85a442f/badge.svg)](https://tensorblock.co/mcp/servers/github-buywhere-buywhere-mcp-d85a442f)",
   "links": {
     "primary": "https://github.com/BuyWhere/buywhere-mcp",
     "repo": "https://github.com/BuyWhere/buywhere-mcp",
-    "homepage": null,
-    "docs": null,
-    "endpoint": null
+    "homepage": "https://buywhere.ai",
+    "docs": "https://docs.buywhere.ai",
+    "endpoint": "https://api.buywhere.ai/mcp"
   },
   "install": {
-    "commands": [],
-    "env": [],
-    "confidence": "low"
+    "commands": [
+      "npx -y @buywhere/mcp-server"
+    ],
+    "env": [
+      "BUYWHERE_API_KEY"
+    ],
+    "confidence": "high"
   },
   "transport": [
-    "unknown"
+    "stdio",
+    "streamable-http"
   ],
   "auth": {
-    "type": "unknown",
-    "notes": []
+    "type": "api-key",
+    "notes": [
+      "Use BUYWHERE_API_KEY locally or send the key as an Authorization Bearer token to the hosted endpoint."
+    ]
   },
-  "clients": [],
-  "license": "unknown",
-  "installReady": false,
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Cline",
+    "Windsurf",
+    "OpenCode",
+    "Codex",
+    "Continue.dev"
+  ],
+  "license": "MIT",
+  "installReady": true,
   "verifiedAt": null,
   "health": {
     "repoPublic": null,
@@ -35,8 +51,10 @@
     "lastCheckedAt": null
   },
   "verification": {
-    "status": "unknown",
-    "notes": []
+    "status": "partial",
+    "notes": [
+      "Metadata refreshed from issue #2822 and the project's README and server.json; the repository and hosted endpoint were reachable during maintainer review on 2026-09-30."
+    ]
   },
   "community": {
     "maintainedBy": [],
@@ -45,12 +63,13 @@
   },
   "summary": {
     "transport": [
-      "unknown"
+      "stdio",
+      "streamable-http"
     ],
-    "auth": "unknown",
-    "installConfidence": "low",
-    "installReady": false,
-    "verification": "unknown",
-    "toolCount": null
+    "auth": "api-key",
+    "installConfidence": "high",
+    "installReady": true,
+    "verification": "partial",
+    "toolCount": 13
   }
 }

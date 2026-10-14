@@ -39,8 +39,10 @@
     "lastCheckedAt": null
   },
   "verification": {
-    "status": "unknown",
-    "notes": []
+    "status": "partial",
+    "notes": [
+      "The public source repository was archived by its owner; last checked 2026-09-30. The entry remains indexed because the source is still available."
+    ]
   },
   "community": {
     "maintainedBy": [],
@@ -54,7 +56,7 @@
     "auth": "unknown",
     "installConfidence": "medium",
     "installReady": false,
-    "verification": "unknown",
+    "verification": "partial",
     "toolCount": null
   }
 }
