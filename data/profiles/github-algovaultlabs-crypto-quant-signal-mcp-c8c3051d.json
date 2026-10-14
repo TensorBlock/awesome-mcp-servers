@@ -1,7 +1,7 @@
 {
   "id": "github-algovaultlabs-crypto-quant-signal-mcp-c8c3051d",
   "name": "AlgoVaultLabs/crypto-quant-signal-mcp",
-  "description": "AI trading brain for crypto perps — composite BUY/SELL/HOLD signals with confidence scoring, cross-venue funding-rate arb scanning across 5 venues (Hyperliquid, Binance, Bybit, OKX, Bitget), and market-regime classification for 760+ assets across 11 timeframes. Published track record (91.7% PFE win rate, Merkle-verified on Base L2) via the signal-performance resource. Remote MCP server (Streamable HTTP at https://api.algovault.com/mcp) with x402 micropayments (USDC on Base); free tier available. MIT. Install: `npx crypto-quant-signal-mcp`.",
+  "description": "AI trading brain for crypto perps — composite BUY/SELL/HOLD signals with confidence scoring, cross-venue funding-rate arb scanning across major crypto perp venues, and market-regime classification for 1,300+ assets across 11 timeframes. Published track record (91.6% PFE win rate, Merkle-verified on Base L2) via the signal-performance resource. Remote MCP server (Streamable HTTP at https://api.algovault.com/mcp) with x402 micropayments (USDC on Base); free tier available. MIT. Install: `npx crypto-quant-signal-mcp`.",
   "category": "Finance & Crypto",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-algovaultlabs-crypto-quant-signal-mcp-c8c3051d",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-algovaultlabs-crypto-quant-signal-mcp-c8c3051d/badge.svg)](https://tensorblock.co/mcp/servers/github-algovaultlabs-crypto-quant-signal-mcp-c8c3051d)",
@@ -20,8 +20,7 @@
     "confidence": "medium"
   },
   "transport": [
-    "streamable-http",
-    "sse"
+    "streamable-http"
   ],
   "auth": {
     "type": "unknown",
@@ -48,8 +47,7 @@
   },
   "summary": {
     "transport": [
-      "streamable-http",
-      "sse"
+      "streamable-http"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
