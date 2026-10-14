@@ -37,13 +37,17 @@
     "lastCheckedAt": null
   },
   "verification": {
-    "status": "unknown",
-    "notes": []
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @eddyflores100-lang in #2563 under the community profile-claim process."
+    ]
   },
   "community": {
-    "maintainedBy": [],
+    "maintainedBy": [
+      "@eddyflores100-lang"
+    ],
     "verifiedBy": [],
-    "claimed": false
+    "claimed": true
   },
   "summary": {
     "transport": [
@@ -52,7 +56,7 @@
     "auth": "unknown",
     "installConfidence": "medium",
     "installReady": false,
-    "verification": "unknown",
+    "verification": "self_reported",
     "toolCount": null
   }
 }

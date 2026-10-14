@@ -1,7 +1,7 @@
 {
   "id": "github-daedalus-mcp-whatsapp-d653b559",
   "name": "daedalus/mcp-whatsapp",
-  "description": "MCP server exposing WhatsApp bot functionality.",
+  "description": "Local MCP server for sending WhatsApp messages, media, and locations through either WhatsApp Web or the WhatsApp Business API.",
   "category": "Communication & Messaging",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-daedalus-mcp-whatsapp-d653b559",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-daedalus-mcp-whatsapp-d653b559/badge.svg)](https://tensorblock.co/mcp/servers/github-daedalus-mcp-whatsapp-d653b559)",
@@ -9,24 +9,36 @@
     "primary": "https://github.com/daedalus/mcp-whatsapp",
     "repo": "https://github.com/daedalus/mcp-whatsapp",
     "homepage": null,
-    "docs": null,
+    "docs": "https://github.com/daedalus/mcp-whatsapp",
     "endpoint": null
   },
   "install": {
-    "commands": [],
-    "env": [],
-    "confidence": "low"
+    "commands": [
+      "pip install \"mcp-whatsapp[pywhatkit] @ git+https://github.com/daedalus/mcp-whatsapp.git\"",
+      "mcp-whatsapp"
+    ],
+    "env": [
+      "WHATSAPP_ADAPTER",
+      "WHATSAPP_PHONE_NUMBER_ID",
+      "WHATSAPP_ACCESS_TOKEN",
+      "WHATSAPP_VERIFY_TOKEN"
+    ],
+    "confidence": "medium"
   },
   "transport": [
-    "unknown"
+    "stdio"
   ],
   "auth": {
-    "type": "unknown",
-    "notes": []
+    "type": "none",
+    "notes": [
+      "The local MCP server has no client authentication. The whatsapp-business adapter requires WhatsApp Business API credentials in environment variables."
+    ]
   },
-  "clients": [],
-  "license": "unknown",
-  "installReady": false,
+  "clients": [
+    "MCP clients that support stdio"
+  ],
+  "license": "MIT",
+  "installReady": true,
   "verifiedAt": null,
   "health": {
     "repoPublic": null,
@@ -35,8 +47,11 @@
     "lastCheckedAt": null
   },
   "verification": {
-    "status": "unknown",
-    "notes": []
+    "status": "partial",
+    "notes": [
+      "The repository source confirms the stdio entry point and five registered MCP tools.",
+      "The README advertises a PyPI package, but it was not available from PyPI during review; the install command therefore uses the public Git repository."
+    ]
   },
   "community": {
     "maintainedBy": [],
@@ -45,12 +60,12 @@
   },
   "summary": {
     "transport": [
-      "unknown"
+      "stdio"
     ],
-    "auth": "unknown",
-    "installConfidence": "low",
-    "installReady": false,
-    "verification": "unknown",
-    "toolCount": null
+    "auth": "none",
+    "installConfidence": "medium",
+    "installReady": true,
+    "verification": "partial",
+    "toolCount": 5
   }
 }

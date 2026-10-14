@@ -45,7 +45,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [OEvortex/ddg_search](https://github.com/OEvortex/ddg_search): A privacy-focused MCP server that leverages DuckDuckGo for efficient web search and URL content extraction.
 - [BochaAI/bocha-search-mcp](https://github.com/BochaAI/bocha-search-mcp): Bocha Search MCP Server empowers AI applications with high-quality knowledge from billions of web pages and diverse content sources, enhancing search capabilities across multiple domains.
 - [BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp): Agent-native product search over 300M+ live listings across 150K+ merchants in 9 markets. Remote Streamable HTTP at `https://api.buywhere.ai/mcp`. Install: `npx -y @buywhere/mcp-server`. Tools include product search, product detail, and merchant discovery. Site: https://buywhere.ai. Docs: https://docs.buywhere.ai.
-- [nitish-raj/searxng-mcp-bridge](https://github.com/nitish-raj/searxng-mcp-bridge): Facilitates search operations by bridging MCP clients with a SearxNG instance.
+- [nitish-raj/searxng-mcp-bridge](https://github.com/nitish-raj/searxng-mcp-bridge): Facilitates search operations by bridging MCP clients with a SearxNG instance. Archived on GitHub; no longer actively maintained.
 - [g-fukurowl/fess-mcp-server](https://github.com/g-fukurowl/fess-mcp-server): Middleware server that integrates with the Fess search engine to enable information retrieval via MCP clients.
 - [ayush-rudani/google-search-mcp-server](https://github.com/ayush-rudani/google-search-mcp-server): Integrates with Google's Custom Search JSON API to provide advanced web search capabilities with structured results and rate limiting.
 - [alizdavoodi/MCPDocSearch](https://github.com/alizdavoodi/MCPDocSearch): A toolset for crawling websites and generating searchable Markdown documentation via an MCP server, optimized for integration with tools like Cursor.
@@ -63,7 +63,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [guchey/mcp-server-google-search-console](https://github.com/guchey/mcp-server-google-search-console): Facilitates access to Google Search Console data through an MCP server, enabling detailed search analytics and customizable reporting.
 - [AshlynnLu/search-linkedin-mcp](https://github.com/AshlynnLu/search-linkedin-mcp): Facilitates LinkedIn company profile verification through search, web crawling, and content validation using MCP.
 - [torohash/brave-search-sse-mcp](https://github.com/torohash/brave-search-sse-mcp): Facilitates web and local searches via Brave Search API using an SSE-based MCP server.
-- [joaomj/openrouter-search-server](https://github.com/joaomj/openrouter-search-server): Facilitates web search capabilities through the OpenRouter API using the MCP protocol.
+- [joaomj/openrouter-search-server](https://github.com/joaomj/openrouter-search-server): Facilitates web search capabilities through the OpenRouter API using the MCP protocol. Archived on GitHub; no longer actively maintained.
 - [ChristianSch/openrouter-websearch-mcp](https://github.com/ChristianSch/openrouter-websearch-mcp): Facilitates web searches using OpenRouter's online models to deliver concise, fact-based answers.
 - [kikuchy/pubdev_mcp](https://github.com/kikuchy/pubdev_mcp): Facilitates natural language package search on pub.dev with LLM-powered conversational interactions.
 - [0xDAEF0F/job-searchoor](https://github.com/0xDAEF0F/job-searchoor): Facilitates job search with filtering options for remote work and keyword inclusion/exclusion.
