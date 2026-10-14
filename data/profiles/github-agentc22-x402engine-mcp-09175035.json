@@ -1,7 +1,7 @@
 {
   "id": "github-agentc22-x402engine-mcp-09175035",
   "name": "agentc22/x402engine-mcp",
-  "description": "51 pay-per-call APIs for AI agents — 23 LLMs (GPT-5.2, GPT-4o, Claude, Gemini, Grok, DeepSeek, Llama, Mistral, Qwen, Perplexity, Kimi, MiniMax, GLM, Devstral), image/video generation, code execution, TTS, transcription, embeddings, crypto data, wallet analytics, ENS, tx simulation, web scraping, and IPFS via HTTP 402 micropayments with USDC on Base/Solana and USDm on MegaETH.",
+  "description": "Connects agents to 108 x402 pay-per-call APIs: 72 LLMs plus image/video generation, web search and scraping, code execution, crypto and wallet data, transaction simulation, TTS and transcription, travel, and IPFS. Pay with USDC on Base or Solana, or USDm on MegaETH.",
   "category": "Finance & Crypto",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-agentc22-x402engine-mcp-09175035",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-agentc22-x402engine-mcp-09175035/badge.svg)](https://tensorblock.co/mcp/servers/github-agentc22-x402engine-mcp-09175035)",
@@ -9,8 +9,8 @@
     "primary": "https://github.com/agentc22/x402engine-mcp",
     "repo": "https://github.com/agentc22/x402engine-mcp",
     "homepage": null,
-    "docs": null,
-    "endpoint": null
+    "docs": "https://x402engine.app/docs",
+    "endpoint": "https://x402engine.app/mcp"
   },
   "install": {
     "commands": [],
@@ -18,15 +18,13 @@
     "confidence": "low"
   },
   "transport": [
-    "streamable-http"
+    "unknown"
   ],
   "auth": {
     "type": "unknown",
     "notes": []
   },
-  "clients": [
-    "Claude"
-  ],
+  "clients": [],
   "license": "unknown",
   "installReady": false,
   "verifiedAt": null,
@@ -47,7 +45,7 @@
   },
   "summary": {
     "transport": [
-      "streamable-http"
+      "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",

@@ -63,7 +63,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [guchey/mcp-server-google-search-console](https://github.com/guchey/mcp-server-google-search-console): Facilitates access to Google Search Console data through an MCP server, enabling detailed search analytics and customizable reporting.
 - [AshlynnLu/search-linkedin-mcp](https://github.com/AshlynnLu/search-linkedin-mcp): Facilitates LinkedIn company profile verification through search, web crawling, and content validation using MCP.
 - [torohash/brave-search-sse-mcp](https://github.com/torohash/brave-search-sse-mcp): Facilitates web and local searches via Brave Search API using an SSE-based MCP server.
-- [joaomj/openrouter-search-server](https://github.com/joaomj/openrouter-search-server): Facilitates web search capabilities through the OpenRouter API using the MCP protocol.
+- [joaomj/openrouter-search-server](https://github.com/joaomj/openrouter-search-server): Facilitates web search capabilities through the OpenRouter API using the MCP protocol. Archived on GitHub; no longer actively maintained.
 - [ChristianSch/openrouter-websearch-mcp](https://github.com/ChristianSch/openrouter-websearch-mcp): Facilitates web searches using OpenRouter's online models to deliver concise, fact-based answers.
 - [kikuchy/pubdev_mcp](https://github.com/kikuchy/pubdev_mcp): Facilitates natural language package search on pub.dev with LLM-powered conversational interactions.
 - [0xDAEF0F/job-searchoor](https://github.com/0xDAEF0F/job-searchoor): Facilitates job search with filtering options for remote work and keyword inclusion/exclusion.

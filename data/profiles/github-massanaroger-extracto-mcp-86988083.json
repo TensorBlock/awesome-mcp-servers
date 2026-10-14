@@ -16,13 +16,11 @@
     "commands": [
       "npx -y extracto-mcp"
     ],
-    "env": [
-      "URL"
-    ],
+    "env": [],
     "confidence": "medium"
   },
   "transport": [
-    "sse"
+    "unknown"
   ],
   "auth": {
     "type": "unknown",
@@ -30,7 +28,7 @@
   },
   "clients": [],
   "license": "unknown",
-  "installReady": true,
+  "installReady": false,
   "verifiedAt": null,
   "health": {
     "repoPublic": null,
@@ -49,11 +47,11 @@
   },
   "summary": {
     "transport": [
-      "sse"
+      "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
-    "installReady": true,
+    "installReady": false,
     "verification": "unknown",
     "toolCount": null
   }
