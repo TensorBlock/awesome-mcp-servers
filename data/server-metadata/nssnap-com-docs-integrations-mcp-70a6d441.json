@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "nssnap-com-docs-integrations-mcp-70a6d441",
+  "source": {
+    "issue": 3622,
+    "projectUrl": "https://nssnap.com/docs/integrations/mcp"
+  },
+  "links": {
+    "endpoint": "https://nssnap.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Bearer token for https://nssnap.com/api/mcp; the read-only https://nssnap.com/api/mcp-public endpoint requires no authentication."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "MIT (repository), hosted service"
+}
