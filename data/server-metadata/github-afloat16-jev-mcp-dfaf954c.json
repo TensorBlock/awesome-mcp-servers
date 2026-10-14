@@ -18,17 +18,19 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "Requires TYPESAFE_API_KEY and applicable TypeSafe service access/credits. Tool state is sent to the configured TypeSafe API."
     ]
   },
   "clients": [
-    "Documented installer/configuration targets include Codex",
+    "Codex",
     "Claude Code",
     "Cursor",
-    "Kimi",
+    "Kimi Code",
     "ZCode",
-    "and Gemini CLI",
-    "consult CLIENTS.md for host-specific limits."
+    "Gemini CLI"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "links": {
+    "docs": "https://github.com/Afloat16/jev-mcp/blob/main/docs/QUICKSTART.md"
+  }
 }
