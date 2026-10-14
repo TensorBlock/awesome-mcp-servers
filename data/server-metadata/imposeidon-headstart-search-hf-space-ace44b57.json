@@ -16,9 +16,9 @@
     "notes": []
   },
   "clients": [
-    "Claude (claude.ai connectors",
-    "Claude Code)",
-    "any MCP client that speaks Streamable HTTP"
+    "Claude",
+    "Claude Code",
+    "other Streamable HTTP MCP clients"
   ],
   "license": "Hosted service, free to use"
 }
