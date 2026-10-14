@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-beppetemp-cartographer-1c17e6f2",
+  "source": {
+    "issue": 3676,
+    "projectUrl": "https://github.com/BeppeTemp/cartographer"
+  },
+  "links": {
+    "endpoint": "https://cartographer-demo.beppetemp.com/mcp",
+    "docs": "https://github.com/BeppeTemp/cartographer#readme"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The public read-only demo requires no token. Self-hosted HTTP deployments support bearer tokens; local stdio uses no remote authentication."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "OpenCode",
+    "Kiro",
+    "Antigravity",
+    "GitHub Copilot CLI",
+    "Crush",
+    "Claude",
+    "ChatGPT"
+  ],
+  "license": "Apache-2.0",
+  "install": {
+    "commands": [
+      "cartographer serve --kb ./kb --init"
+    ],
+    "env": [],
+    "confidence": "medium"
+  }
+}

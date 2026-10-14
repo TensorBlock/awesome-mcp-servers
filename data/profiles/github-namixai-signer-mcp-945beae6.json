@@ -20,8 +20,7 @@
     "confidence": "medium"
   },
   "transport": [
-    "stdio",
-    "sse"
+    "stdio"
   ],
   "auth": {
     "type": "unknown",
@@ -48,8 +47,7 @@
   },
   "summary": {
     "transport": [
-      "stdio",
-      "sse"
+      "stdio"
     ],
     "auth": "unknown",
     "installConfidence": "medium",
