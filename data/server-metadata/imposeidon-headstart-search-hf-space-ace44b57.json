@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "imposeidon-headstart-search-hf-space-ace44b57",
+  "source": {
+    "issue": 3693,
+    "projectUrl": "https://imposeidon-headstart-search.hf.space"
+  },
+  "links": {
+    "endpoint": "https://imposeidon-headstart-search.hf.space/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude (claude.ai connectors",
+    "Claude Code)",
+    "any MCP client that speaks Streamable HTTP"
+  ],
+  "license": "Hosted service, free to use"
+}
