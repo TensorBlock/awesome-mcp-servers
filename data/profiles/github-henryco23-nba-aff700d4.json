@@ -2,7 +2,7 @@
   "id": "github-henryco23-nba-aff700d4",
   "name": "henryco23/NBA",
   "description": "A Python server utilizing MCP to provide comprehensive access to NBA statistics and live game data through the NBA API.",
-  "category": "Gaming",
+  "category": "Sports",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-henryco23-nba-aff700d4",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-henryco23-nba-aff700d4/badge.svg)](https://tensorblock.co/mcp/servers/github-henryco23-nba-aff700d4)",
   "links": {
