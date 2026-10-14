@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-openhook-dev-openhook-inbox-ad7873b1",
+  "source": {
+    "projectUrl": "https://github.com/openhook-dev/openhook-inbox"
+  },
+  "links": {
+    "docs": "https://openhook.dev/docs",
+    "homepage": "https://openhook.dev",
+    "endpoint": "https://openhook.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The MCP connection and temporary inbox creation require no account or global API key. Reading and deleting inbox events require the private per-inbox token returned by create_webhook. Provider registration requires separately authorized provider credentials."
+    ]
+  },
+  "tools": {
+    "names": [
+      "create_webhook",
+      "wait_for_request",
+      "get_request",
+      "delete_webhook"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer submission. Hosted callback capture, byte comparison, and cleanup verified on 2026-10-14; this is not an independent security assessment."
+    ]
+  }
+}
