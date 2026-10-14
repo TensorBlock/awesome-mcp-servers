@@ -1,36 +1,45 @@
 {
   "id": "github-hypeprinter007-stack-anchor-x402-mcp-65e7f942",
   "name": "anchor-x402-mcp",
-  "description": "16 pay-per-call USDC tools on Base + Solana mainnet — nine commodity primitives (hash anchoring, OFAC sanctions screening, signed decision attestation, tx + calldata decode, ENS/SNS resolution, USD token price, datetime parser, bundled wallet intel), one async due-diligence investigator (`/v1/investigate`, $7.77), one verifiable signed RNG (`/v1/roll`), and five universal LLM endpoints (roast, oracle with anchored verdict, tldr, aura, grade). Auto-pay via `x402-fetch` + `viem`; configure one `BASE_PRIVATE_KEY` env var, no API keys. Install: `npx anchor-x402-mcp`. MIT.",
+  "description": "14 pay-per-call USDC tools on Base mainnet, $0.001–$0.05 per call — nine commodity primitives (hash anchoring, OFAC sanctions screening, signed decision attestation, tx + calldata decode, ENS/SNS resolution, USD token price, datetime parser, bundled wallet intel) and five universal LLM endpoints (roast, oracle with anchored verdict, tldr, aura, grade). Auto-pay via `x402-fetch` + `viem`; configure one `ANCHOR_WALLET_PRIVATE_KEY` env var, no API keys. Every signed payment authorization is hard-capped in code at $0.05 to anchor's treasury with a bounded validity window, so a compromised endpoint cannot drain the configured wallet. Install: `npx anchor-x402-mcp`. MIT.",
   "category": "Finance & Crypto",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-hypeprinter007-stack-anchor-x402-mcp-65e7f942",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-hypeprinter007-stack-anchor-x402-mcp-65e7f942/badge.svg)](https://tensorblock.co/mcp/servers/github-hypeprinter007-stack-anchor-x402-mcp-65e7f942)",
   "links": {
     "primary": "https://github.com/hypeprinter007-stack/anchor-x402-mcp",
     "repo": "https://github.com/hypeprinter007-stack/anchor-x402-mcp",
-    "homepage": null,
-    "docs": null,
-    "endpoint": null
+    "homepage": "https://anchor-x402.com",
+    "docs": "https://api.anchor-x402.com/docs",
+    "endpoint": "https://api.anchor-x402.com/mcp"
   },
   "install": {
     "commands": [
       "npx anchor-x402-mcp"
     ],
     "env": [
-      "BASE_PRIVATE_KEY"
+      "ANCHOR_WALLET_PRIVATE_KEY"
     ],
-    "confidence": "medium"
+    "confidence": "high"
   },
   "transport": [
-    "unknown"
+    "stdio",
+    "streamable-http"
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "The local stdio package uses ANCHOR_WALLET_PRIVATE_KEY to sign bounded x402 payments. The remote endpoint returns x402 payment requirements for paid tool calls."
+    ]
   },
-  "clients": [],
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "Continue"
+  ],
   "license": "MIT",
-  "installReady": false,
+  "installReady": true,
   "verifiedAt": null,
   "health": {
     "repoPublic": null,
@@ -39,22 +48,27 @@
     "lastCheckedAt": null
   },
   "verification": {
-    "status": "unknown",
-    "notes": []
+    "status": "partial",
+    "notes": [
+      "The local stdio package documents 14 tools; the hosted Streamable HTTP endpoint returned 18 tools during maintainer review on 2026-09-23. Paid tool execution was not tested."
+    ]
   },
   "community": {
-    "maintainedBy": [],
+    "maintainedBy": [
+      "@hypeprinter007-stack"
+    ],
     "verifiedBy": [],
     "claimed": false
   },
   "summary": {
     "transport": [
-      "unknown"
+      "stdio",
+      "streamable-http"
     ],
     "auth": "none",
-    "installConfidence": "medium",
-    "installReady": false,
-    "verification": "unknown",
-    "toolCount": null
+    "installConfidence": "high",
+    "installReady": true,
+    "verification": "partial",
+    "toolCount": 14
   }
 }

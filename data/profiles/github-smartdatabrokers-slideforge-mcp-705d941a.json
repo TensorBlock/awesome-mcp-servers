@@ -1,8 +1,8 @@
 {
   "id": "github-smartdatabrokers-slideforge-mcp-705d941a",
   "name": "smartdatabrokers/slideforge-mcp",
-  "description": "Hosted MCP server for consulting-quality PowerPoint generation from natural language or structured component specs. Generates editable `.pptx` decks with charts, diagrams, and signed download URLs. 8 tools. Streamable HTTP at `https://api.slideforge.dev/mcp/`; OAuth 2.1 for Claude Desktop and bearer/API-key auth for other clients. MIT.",
-  "category": "Multimedia Processing",
+  "description": "Hosted MCP server for consulting-grade PowerPoint generation from typed slide intents or a prose brief. Renders fully editable .pptx decks - charts, diagrams, brand templates - deterministically, with a machine-readable fidelity manifest on every response.",
+  "category": "multimedia-processing",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-smartdatabrokers-slideforge-mcp-705d941a",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-smartdatabrokers-slideforge-mcp-705d941a/badge.svg)](https://tensorblock.co/mcp/servers/github-smartdatabrokers-slideforge-mcp-705d941a)",
   "links": {
@@ -50,9 +50,11 @@
     "notes": []
   },
   "community": {
-    "maintainedBy": [],
+    "maintainedBy": [
+      "smartdatabrokers"
+    ],
     "verifiedBy": [],
-    "claimed": false
+    "claimed": true
   },
   "summary": {
     "transport": [
@@ -62,6 +64,6 @@
     "installConfidence": "high",
     "installReady": true,
     "verification": "unknown",
-    "toolCount": 8
+    "toolCount": 7
   }
 }
