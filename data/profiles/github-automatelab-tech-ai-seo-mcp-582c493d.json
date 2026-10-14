@@ -16,9 +16,7 @@
     "commands": [
       "npx -y @automatelab/ai-seo-mcp"
     ],
-    "env": [
-      "URL"
-    ],
+    "env": [],
     "confidence": "medium"
   },
   "transport": [

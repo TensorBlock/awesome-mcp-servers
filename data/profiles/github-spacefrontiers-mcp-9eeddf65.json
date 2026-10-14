@@ -1,7 +1,7 @@
 {
   "id": "github-spacefrontiers-mcp-9eeddf65",
-  "name": "SpaceFrontiers/mcp",
-  "description": "Facilitates interaction with Space Frontiers data sources via a Model Context Protocol server using FastAPI.",
+  "name": "Machine Library by Space Frontiers",
+  "description": "Machine Library, the search and AI product by Space Frontiers, provides citable retrieval across papers, books, patents, Wikipedia, and public discussions.",
   "category": "Infrastructure",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-spacefrontiers-mcp-9eeddf65",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-spacefrontiers-mcp-9eeddf65/badge.svg)](https://tensorblock.co/mcp/servers/github-spacefrontiers-mcp-9eeddf65)",
@@ -9,8 +9,8 @@
     "primary": "https://github.com/SpaceFrontiers/mcp",
     "repo": "https://github.com/SpaceFrontiers/mcp",
     "homepage": null,
-    "docs": null,
-    "endpoint": null
+    "docs": "https://machinelibrary.ai/mcp",
+    "endpoint": "https://mcp.machinelibrary.ai/"
   },
   "install": {
     "commands": [],
@@ -18,14 +18,16 @@
     "confidence": "low"
   },
   "transport": [
-    "unknown"
+    "streamable-http"
   ],
   "auth": {
-    "type": "unknown",
-    "notes": []
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with PKCE or a bearer API key. Existing Space Frontiers accounts, API keys, and spacefrontiers_* tool names remain compatible."
+    ]
   },
   "clients": [],
-  "license": "unknown",
+  "license": "MIT",
   "installReady": false,
   "verifiedAt": null,
   "health": {
@@ -35,8 +37,10 @@
     "lastCheckedAt": null
   },
   "verification": {
-    "status": "unknown",
-    "notes": []
+    "status": "self_reported",
+    "notes": [
+      "Branding and endpoint match the official repository and MCP Registry entry io.github.SpaceFrontiers/mcp version 0.3.2."
+    ]
   },
   "community": {
     "maintainedBy": [],
@@ -45,12 +49,12 @@
   },
   "summary": {
     "transport": [
-      "unknown"
+      "streamable-http"
     ],
-    "auth": "unknown",
+    "auth": "oauth",
     "installConfidence": "low",
     "installReady": false,
-    "verification": "unknown",
+    "verification": "self_reported",
     "toolCount": null
   }
 }
