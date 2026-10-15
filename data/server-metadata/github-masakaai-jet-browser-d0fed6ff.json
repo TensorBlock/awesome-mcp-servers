@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-masakaai-jet-browser-d0fed6ff",
+  "source": {
+    "projectUrl": "https://github.com/masakaai/jet-browser"
+  },
+  "description": "Local stdio verifier that runs one bounded, network-disabled WPE WebKit acceptance and returns startup, native-input, DOM, fresh-PNG, network, pinned-image, and cleanup evidence.",
+  "category": "Browser Automation & Web Scraping",
+  "links": {
+    "docs": "https://github.com/masakaai/jet-browser/blob/main/integrations/mcp/README.md",
+    "homepage": "https://masaka-ai.vercel.app/jet-browser/"
+  },
+  "install": {
+    "commands": [
+      "docker run --rm -i --network=none --mount type=bind,src=/var/run/docker.sock,dst=/var/run/docker.sock ghcr.io/masakaai/jet-browser-mcp:0.9.0"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No API key is required.",
+      "The local server requires Docker socket access, which grants host-level control; configure it only for a trusted MCP client."
+    ]
+  },
+  "clients": [
+    "VS Code",
+    "Cursor",
+    "other local stdio MCP clients that support Docker command configuration"
+  ],
+  "tools": {
+    "count": 2,
+    "names": [
+      "jet_browser_capabilities",
+      "jet_browser_verify"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata matches the public v0.9.0 source, OCI package, and active official MCP Registry entry io.github.masakaai/jet-browser.",
+      "The verifier accepts no URL, profile, credential, path, or arbitrary command and runs both the outer MCP container and browser acceptance with networking disabled."
+    ]
+  }
+}
