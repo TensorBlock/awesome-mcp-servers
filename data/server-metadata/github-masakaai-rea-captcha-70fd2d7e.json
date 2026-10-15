@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-masakaai-rea-captcha-70fd2d7e",
+  "source": {
+    "issue": 3778,
+    "projectUrl": "https://github.com/masakaai/rea-captcha"
+  },
+  "install": {
+    "commands": [
+      "npx -y rea-captcha mcp --stateless"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "and other stdio MCP clients"
+  ],
+  "license": "MIT"
+}
