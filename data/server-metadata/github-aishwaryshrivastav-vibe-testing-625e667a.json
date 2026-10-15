@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aishwaryshrivastav-vibe-testing-625e667a",
+  "source": {
+    "issue": 3818,
+    "projectUrl": "https://github.com/AishwaryShrivastav/vibe-testing"
+  },
+  "install": {
+    "commands": [
+      "npx -y vibe-testing@latest --mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "VS Code Copilot",
+    "Roo Code"
+  ],
+  "license": "MIT"
+}
