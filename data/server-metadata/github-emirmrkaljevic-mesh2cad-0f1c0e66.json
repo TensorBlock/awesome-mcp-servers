@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-emirmrkaljevic-mesh2cad-0f1c0e66",
+  "source": {
+    "issue": 3854,
+    "projectUrl": "https://github.com/emirmrkaljevic/mesh2cad"
+  },
+  "tools": {
+    "count": 3,
+    "names": [
+      "convert",
+      "analyze",
+      "report"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3854. Source: README MCP section: https://github.com/emirmrkaljevic/mesh2cad#mcp-server-claude-desktop-cursor- Repo owner: @emirmrkaljevic (same account). Related claim issue filed in parallel."
+    ]
+  }
+}
