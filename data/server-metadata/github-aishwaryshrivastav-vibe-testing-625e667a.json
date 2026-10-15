@@ -7,8 +7,7 @@
   },
   "install": {
     "commands": [
-      "npx -y vibe-testing@latest --mcp",
-      "npx vibe-testing@latest init"
+      "npx -y vibe-testing@latest --mcp"
     ],
     "env": [],
     "confidence": "medium"
