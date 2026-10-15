@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "callejear-com-mcp-81dd2d5c",
+  "source": {
+    "issue": 3796,
+    "projectUrl": "https://callejear.com/mcp/"
+  },
+  "links": {
+    "endpoint": "https://callejear.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "Hosted service; municipal data CC BY 4.0, derived OpenStreetMap extract ODbL 1.0."
+}
