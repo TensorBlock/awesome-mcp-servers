@@ -7,8 +7,7 @@
   },
   "install": {
     "commands": [
-      "uvx escalate-anything",
-      "uvx escalate-anything setup"
+      "uvx escalate-anything"
     ],
     "env": [],
     "confidence": "medium"
@@ -32,5 +31,8 @@
     "Goose",
     "Continue"
   ],
-  "license": "MIT (code), CC BY 4.0 (data)"
+  "license": "MIT (code), CC BY 4.0 (data)",
+  "transport": [
+    "stdio"
+  ]
 }
