@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "pathmint-edge-report-32a019e1",
+  "source": {
+    "issue": 3836,
+    "projectUrl": "https://pathmint.edge.report"
+  },
+  "links": {
+    "endpoint": "https://pathmint.edge.report/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client (Cursor",
+    "Claude",
+    "VS Code)"
+  ],
+  "license": "ISC"
+}
