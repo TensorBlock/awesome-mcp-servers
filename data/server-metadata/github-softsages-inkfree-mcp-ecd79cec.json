@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-softsages-inkfree-mcp-ecd79cec",
+  "source": {
+    "issue": 3686,
+    "projectUrl": "https://github.com/softsages/inkfree-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @softsages in #3686 under the community profile-claim process.",
+      "Requested profile metadata in #3686: - Homepage: https://www.inkfree.app/ - Docs: https://inkfree.app/docs/mcp/ - Support: support@inkfree.app - Endpoint: `https://api.inkfree.app/core/inkfree/mcp/` (hosted, nothing to install) - Transport: Streamable..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@softsages"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
