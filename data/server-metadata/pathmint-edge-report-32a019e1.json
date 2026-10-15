@@ -6,6 +6,7 @@
     "projectUrl": "https://pathmint.edge.report"
   },
   "links": {
+    "homepage": "https://pathmint.edge.report",
     "endpoint": "https://pathmint.edge.report/mcp"
   },
   "transport": [
@@ -16,9 +17,16 @@
     "notes": []
   },
   "clients": [
-    "Any MCP client (Cursor",
+    "Cursor",
     "Claude",
-    "VS Code)"
+    "VS Code",
+    "other Streamable HTTP MCP clients"
   ],
-  "license": "ISC"
+  "license": "Hosted service; submitted source URL was unavailable during review",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "The public endpoint responded to MCP initialization during review. The source URL submitted in issue #3836 was unavailable, so the submitted ISC license could not be verified."
+    ]
+  }
 }

@@ -45,7 +45,7 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #3829. Source: I maintain rea-captcha. This is a metadata follow-up to merged PR #3779, not a duplicate server submission. The live profile currently shows Tool surface: Not declared and links its documentation to the catalog..."
+      "Tool names and documentation were submitted by the project maintainer in issue #3829."
     ]
   }
 }

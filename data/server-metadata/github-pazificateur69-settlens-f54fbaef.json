@@ -6,6 +6,8 @@
     "projectUrl": "https://github.com/Pazificateur69/settlens"
   },
   "links": {
+    "homepage": "https://settlens.com",
+    "docs": "https://github.com/Pazificateur69/settlens/blob/main/docs/MCP.md",
     "endpoint": "https://settlens.com/mcp"
   },
   "transport": [
@@ -13,11 +15,31 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "No authentication is required for the six public offline tools. Two additional network-scanning tools require a Settlens bearer token and are not part of this public surface."
+    ]
   },
   "clients": [
-    "Other Streamable HTTP MCP clients. Claude Code connection instructions are documented",
-    "this submission does not claim an independent interoperability certification."
+    "Claude Code",
+    "other Streamable HTTP MCP clients"
   ],
-  "license": "No license granted (publicly readable source; not an open-source licensed project)"
+  "license": "No license granted (publicly readable source; not an open-source licensed project)",
+  "tools": {
+    "count": 6,
+    "names": [
+      "evaluate_payment_requirements",
+      "verify_payment_signature",
+      "verify_solana_transaction",
+      "verify_report",
+      "verify_attestation",
+      "list_checks"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata was submitted by the project maintainer in issue #3833 and the public endpoint responded to MCP initialization during review."
+    ]
+  }
 }
