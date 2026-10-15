@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-masakaai-rea-captcha-70fd2d7e",
   "source": {
-    "issue": 3778,
+    "issue": 3829,
     "projectUrl": "https://github.com/masakaai/rea-captcha"
   },
   "install": {
@@ -26,5 +26,26 @@
     "VS Code",
     "and other stdio MCP clients"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "links": {
+    "docs": "https://github.com/masakaai/rea-captcha/blob/main/docs/mcp-tools.md"
+  },
+  "tools": {
+    "count": 6,
+    "names": [
+      "captcha_analyze",
+      "captcha_inspect",
+      "captcha_complete",
+      "captcha_handoff",
+      "captcha_wait",
+      "captcha_resume"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3829. Source: I maintain rea-captcha. This is a metadata follow-up to merged PR #3779, not a duplicate server submission. The live profile currently shows Tool surface: Not declared and links its documentation to the catalog..."
+    ]
+  }
 }
