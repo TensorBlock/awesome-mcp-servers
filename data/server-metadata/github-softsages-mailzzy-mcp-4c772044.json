@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-softsages-mailzzy-mcp-4c772044",
+  "source": {
+    "issue": 3685,
+    "projectUrl": "https://github.com/softsages/mailzzy-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @softsages in #3685 under the community profile-claim process.",
+      "Requested profile metadata in #3685: - Homepage: https://www.mailzzy.com/ - Docs: https://mailzzy.com/docs/#mcp-overview - Support: support@mailzzy.com - Endpoint: `https://api.mailzzy.com/crm/mcp/` (hosted, nothing to install) - Transport: Streamable..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@softsages"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
