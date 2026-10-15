@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "flowchartai-org-mcp-6147b6a4",
+  "source": {
+    "issue": 3822,
+    "projectUrl": "https://flowchartai.org/mcp"
+  },
+  "links": {
+    "endpoint": "https://flowchartai.org/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth with PKCE or a scoped bearer API key."
+    ]
+  },
+  "clients": [
+    "Official MCP TypeScript SDK 1.32.1 verified with real OAuth/PKCE and 11-tool discovery. Hosted web-client account acceptance is separate and not claimed."
+  ],
+  "license": "MIT for the public connection repository and application source; hosted usage requires account allowance or Credits."
+}
