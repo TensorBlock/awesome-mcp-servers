@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-pazificateur69-settlens-f54fbaef",
+  "source": {
+    "issue": 3833,
+    "projectUrl": "https://github.com/Pazificateur69/settlens"
+  },
+  "links": {
+    "endpoint": "https://settlens.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Other Streamable HTTP MCP clients. Claude Code connection instructions are documented",
+    "this submission does not claim an independent interoperability certification."
+  ],
+  "license": "No license granted (publicly readable source; not an open-source licensed project)"
+}
