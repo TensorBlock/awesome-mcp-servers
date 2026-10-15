@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-alexgaoth-escalate-anything-5ac9213b",
+  "source": {
+    "issue": 3790,
+    "projectUrl": "https://github.com/alexgaoth/escalate-anything"
+  },
+  "install": {
+    "commands": [
+      "uvx escalate-anything"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Cline",
+    "Gemini CLI",
+    "Zed",
+    "Codex",
+    "LM Studio",
+    "Junie",
+    "Goose",
+    "Continue"
+  ],
+  "license": "MIT (code), CC BY 4.0 (data)",
+  "transport": [
+    "stdio"
+  ]
+}
