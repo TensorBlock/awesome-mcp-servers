@@ -11,7 +11,6 @@
   "install": {
     "commands": [],
     "env": [
-      "YOUR_API_KEY",
       "REALTYCRAWL_API_KEY"
     ],
     "confidence": "low"
@@ -19,12 +18,16 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "Bearer API key for the hosted endpoint; REALTYCRAWL_API_KEY for local stdio."
     ]
   },
   "clients": [
     "Standards-compliant Streamable HTTP or stdio MCP clients",
     "connection examples in the repository. Individual client applications were not tested in this submission."
   ],
-  "license": "MIT (public MCP client; hosted service requires API key and credits)"
+  "license": "MIT (public MCP client; hosted service requires API key and credits)",
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ]
 }
