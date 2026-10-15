@@ -93,7 +93,6 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [edoscars/pan-os-mcp](https://github.com/edoscars/pan-os-mcp): Facilitates natural language management and configuration of Palo Alto Networks firewalls via the XML API.
 - [rand-tech/pcm](https://github.com/rand-tech/pcm): A reverse engineering MCP server leveraging IDA for disassembly, decompilation, and memory analysis.
 - [ZeroPathAI/zeropath-mcp-server](https://github.com/ZeroPathAI/zeropath-mcp-server): Facilitates querying and managing ZeroPath security issues and patches through AI-assisted tools, enhancing security workflows with natural language interactions.
-- [Tokeii0/ctf-mcp-server](https://github.com/Tokeii0/ctf-mcp-server): Facilitates AI-driven CTF problem-solving and creation through specialized MCP servers.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP): Enhances Ghidra's reverse engineering capabilities with AI-assisted binary analysis via the Model Context Protocol.
 - [TheRaLabs/legion-mcp](https://github.com/TheRaLabs/legion-mcp): Facilitates database access and query execution through MCP integration, supporting multiple databases with flexible deployment options.
 - [marcoeg/mcp-nvd](https://github.com/marcoeg/mcp-nvd): Facilitates querying the NIST National Vulnerability Database using the Model Context Protocol for real-time vulnerability data retrieval.
@@ -116,7 +115,6 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [kapilduraphe/okta-mcp-server](https://github.com/kapilduraphe/okta-mcp-server): Facilitates user and group management in Okta through Claude integration.
 - [secmate-ai/CyberSecurity-MCPs](https://github.com/secmate-ai/CyberSecurity-MCPs): A collection of MCP servers focused on cybersecurity, featuring implementations like SQL injection testing and network space search engines.
 - [nahmanmate/better-auth-mcp-server](https://github.com/nahmanmate/better-auth-mcp-server): Enterprise-grade authentication management server with multi-protocol support and real-time threat detection.
-- [smithery-ai/netskope-mcp](https://github.com/smithery-ai/netskope-mcp): Facilitates secure management of Netskope Network Private Access infrastructure using LLMs, enhancing Zero Trust Network Access capabilities.
 - [PhialsBasement/nmap-mcp-server](https://github.com/PhialsBasement/nmap-mcp-server): Facilitates AI-driven network scanning and security assessments using NMAP through a standardized MCP interface.
 - [bmorphism/slowtime-mcp-server](https://github.com/bmorphism/slowtime-mcp-server): Facilitates secure time-based operations with timing attack protection and timelock encryption.
 - [Spathodea-Network/opencti-mcp](https://github.com/Spathodea-Network/opencti-mcp): OpenCTI MCP Server integrates seamlessly with the OpenCTI platform to enable querying and retrieving cyber threat intelligence data through a standardized interface.
@@ -128,7 +126,6 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [Sladey01/github-snyk-server](https://github.com/Sladey01/github-snyk-server): Integrates GitHub repository access with Snyk security scanning for enhanced vulnerability analysis in Claude.
 - [fr0gger/MCP_Security](https://github.com/fr0gger/MCP_Security): A Model Context Protocol server for querying the ORKL API, providing tools for threat intelligence analysis and integration with MCP-compatible applications.
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit): Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
-- [true-alter/alter-identity](https://github.com/true-alter/alter-identity): Identity infrastructure for the AI economy — 33-trait psychometric engine delivering verified human identity via MCP. Tools for trait vectors, belonging probability, attunement depth, and privacy-gated inference. Streamable-HTTP remote server at `https://mcp.truealter.com/api/v1/mcp`. Free tier: 16 tools, 10 req/min.
 - [daedalus/mcp-cryptography](https://github.com/daedalus/mcp-cryptography) - MCP server exposing cryptography library functionality.
 - [daedalus/mcp-ecdsa](https://github.com/daedalus/mcp-ecdsa) - MCP server for ECDSA cryptography.
 - [daedalus/mcp-hashlib](https://github.com/daedalus/mcp-hashlib) - An MCP server that exposes hashlib functionality.
