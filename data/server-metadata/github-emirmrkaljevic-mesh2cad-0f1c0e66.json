@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-emirmrkaljevic-mesh2cad-0f1c0e66",
+  "source": {
+    "issue": 3853,
+    "projectUrl": "https://github.com/emirmrkaljevic/mesh2cad"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @emirmrkaljevic in #3853 under the community profile-claim process.",
+      "Requested profile metadata in #3853: - Maintainer: @emirmrkaljevic - License: MIT - Transport: stdio - Auth: none - Install (package): `pip install \"mesh2cad[mcp] @ git+https://github.com/emirmrkaljevic/mesh2cad\"` - Launch command: `mesh2cad` - Launch..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@emirmrkaljevic"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
