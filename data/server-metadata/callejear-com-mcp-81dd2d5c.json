@@ -14,5 +14,6 @@
   "auth": {
     "type": "none",
     "notes": []
-  }
+  },
+  "license": "Hosted service; municipal data CC BY 4.0, derived OpenStreetMap extract ODbL 1.0."
 }
