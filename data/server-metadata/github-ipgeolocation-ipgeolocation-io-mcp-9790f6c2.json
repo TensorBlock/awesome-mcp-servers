@@ -58,6 +58,13 @@
     "source": "self_reported"
   },
   "license": "MIT",
+  "community": {
+    "maintainedBy": [
+      "@IPGeolocation"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
   "verification": {
     "status": "self_reported",
     "notes": [
