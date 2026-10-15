@@ -14,11 +14,11 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth with PKCE or a scoped bearer API key."
     ]
   },
   "clients": [
     "Official MCP TypeScript SDK 1.32.1 verified with real OAuth/PKCE and 11-tool discovery. Hosted web-client account acceptance is separate and not claimed."
   ],
-  "license": "MIT for the public connection repository; application source is separately public and MIT licensed. Hosted usage..."
+  "license": "MIT for the public connection repository and application source; hosted usage requires account allowance or Credits."
 }
