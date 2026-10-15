@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "spritefuse-com-mcp-cd246b40",
+  "source": {
+    "issue": 3804,
+    "projectUrl": "https://spritefuse.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://spritefuse.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "license": "Proprietary hosted service; public documentation and MCP endpoint."
+}
