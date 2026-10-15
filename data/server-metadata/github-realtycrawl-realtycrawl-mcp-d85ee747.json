@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-realtycrawl-realtycrawl-mcp-d85ee747",
+  "source": {
+    "issue": 3808,
+    "projectUrl": "https://github.com/realtycrawl/realtycrawl-mcp"
+  },
+  "links": {
+    "endpoint": "https://realtycrawl.dev/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "REALTYCRAWL_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Bearer API key for the hosted endpoint; REALTYCRAWL_API_KEY for local stdio."
+    ]
+  },
+  "clients": [
+    "Standards-compliant Streamable HTTP or stdio MCP clients",
+    "connection examples in the repository. Individual client applications were not tested in this submission."
+  ],
+  "license": "MIT (public MCP client; hosted service requires API key and credits)",
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ]
+}
