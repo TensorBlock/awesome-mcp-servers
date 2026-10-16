@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "apexai-academy-developers-b0af5780",
+  "source": {
+    "issue": 3915,
+    "projectUrl": "https://apexai.academy/developers/"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @ApexAI-Academy in #3915 under the community profile-claim process.",
+      "Requested profile metadata in #3915: - Homepage: https://apexai.academy/developers/ - Docs: https://apexai.academy/llms.txt - Support: hello@apexai.academy - Endpoint: `https://apexai.academy/mcp` (hosted, nothing to install) - Transport: Streamable..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@ApexAI-Academy"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
