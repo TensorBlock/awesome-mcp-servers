@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-altorank-altorank-0f2d931d",
+  "source": {
+    "issue": 3847,
+    "projectUrl": "https://github.com/AltoRank/altorank"
+  },
+  "links": {
+    "endpoint": "https://app.altorank.co/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "any client with remote MCP + OAuth"
+  ],
+  "license": "AGPL-3.0"
+}
