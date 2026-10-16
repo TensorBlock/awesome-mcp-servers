@@ -230,3 +230,5 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Travel & Transportation | 51 | [Browse](docs/travel--transportation.md) |
 | Utilities & Helpers | 357 | [Browse](docs/utilities--helpers.md) |
 | Version Control | 78 | [Browse](docs/version-control.md) |
+
+- [QWK ($QWK) Autonomous MEV & Seed Escrow](https://github.com/chase-tqg/QWIK-MEV-Core) - Autonomous EVM MEV infrastructure & smart contract seed escrow (`QWKResourceEscrow.sol`) backed by $400,000+ in verified enterprise grants (Google Cloud, NVIDIA, Cloudflare).
