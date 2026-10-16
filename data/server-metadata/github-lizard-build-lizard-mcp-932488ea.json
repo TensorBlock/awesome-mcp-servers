@@ -2,21 +2,41 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-lizard-build-lizard-mcp-932488ea",
   "source": {
-    "issue": 3919,
+    "issue": 3922,
     "projectUrl": "https://github.com/lizard-build/lizard-mcp"
   },
+  "description": "Run code in Lizard Sandboxes and manage apps on Lizard (lizard.build). Includes 56 tools for sandbox files and commands, deployments, managed databases, logs, metrics, secrets and domains.",
+  "links": {
+    "docs": "https://github.com/lizard-build/lizard-mcp#connect-a-client",
+    "endpoint": "https://employ-woman-g1q2.us-east-1.onlizard.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth, bearer-token, api-key"
+    ]
+  },
+  "tools": {
+    "count": 56,
+    "names": [
+      "sandbox_list",
+      "sandbox_show",
+      "sandbox_create",
+      "sandbox_exec",
+      "sandbox_read_file",
+      "sandbox_write_file",
+      "sandbox_delete"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Profile claimed by @yuraoak in #3919 under the community profile-claim process.",
-      "Requested profile metadata in #3919: - Name: Lizard MCP - Description: Run code in Lizard Sandboxes and manage apps on Lizard (lizard.build). Includes 56 tools for sandbox files and commands, deployments, managed databases, logs, metrics, secrets and..."
+      "Metadata updated from issue #3922. Source: - Setup and authentication: https://github.com/lizard-build/lizard-mcp#connect-a-client - Sandbox tools, tests and release: https://github.com/lizard-build/lizard-mcp/pull/5 - Active official registry entry:..."
     ]
-  },
-  "community": {
-    "maintainedBy": [
-      "@yuraoak"
-    ],
-    "verifiedBy": [],
-    "claimed": true
   }
 }
