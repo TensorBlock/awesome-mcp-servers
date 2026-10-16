@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "botmash-xyz-55203035",
+  "source": {
+    "issue": 3912,
+    "projectUrl": "https://botmash.xyz"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client that supports remote Streamable HTTP servers"
+  ],
+  "license": "Proprietary hosted service (free to use)"
+}
