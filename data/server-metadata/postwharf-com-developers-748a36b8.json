@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "postwharf-com-developers-748a36b8",
+  "source": {
+    "issue": 3938,
+    "projectUrl": "https://postwharf.com/developers"
+  },
+  "links": {
+    "endpoint": "https://mcp.postwharf.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "any client that speaks Streamable HTTP MCP"
+  ],
+  "license": "Proprietary (hosted service)"
+}
