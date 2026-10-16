@@ -20,5 +20,9 @@
     "Codex",
     "Gemini CLI"
   ],
-  "license": "Hosted service (no source license); listing data from Overture Maps is CDLA-Permissive-2.0 / Apache 2.0, named on..."
+  "license": "Hosted service (no source license); listing data from Overture Maps is CDLA-Permissive-2.0 / Apache 2.0, named on each result.",
+  "links": {
+    "endpoint": "https://openpath.sh/mcp/search",
+    "docs": "https://openpath.sh/docs/connect"
+  }
 }
