@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kathanmodh259-latent-gate-26041edf",
+  "source": {
+    "issue": 3896,
+    "projectUrl": "https://github.com/KathanModh259/latent-gate"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @KathanModh259 in #3896 under the community profile-claim process.",
+      "Requested profile metadata in #3896: Category: Developer Productivity & Utilities Transport: unknown Auth: none Install confidence: medium License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@KathanModh259"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
