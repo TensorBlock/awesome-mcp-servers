@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-emirmrkaljevic-mesh2cad-0f1c0e66",
   "source": {
-    "issue": 3854,
+    "issue": 3853,
     "projectUrl": "https://github.com/emirmrkaljevic/mesh2cad"
   },
   "tools": {
@@ -17,7 +17,8 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #3854. Source: README MCP section: https://github.com/emirmrkaljevic/mesh2cad#mcp-server-claude-desktop-cursor- Repo owner: @emirmrkaljevic (same account). Related claim issue filed in parallel."
+      "Metadata updated from issue #3854. Source: README MCP section: https://github.com/emirmrkaljevic/mesh2cad#mcp-server-claude-desktop-cursor- Repo owner: @emirmrkaljevic (same account). Related claim issue filed in parallel.",
+      "Profile claimed by @emirmrkaljevic in #3853 under the community profile-claim process."
     ]
   },
   "install": {
@@ -38,5 +39,12 @@
   "links": {
     "docs": "https://github.com/emirmrkaljevic/mesh2cad#readme"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "community": {
+    "maintainedBy": [
+      "@emirmrkaljevic"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
