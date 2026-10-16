@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-lizard-build-lizard-mcp-932488ea",
+  "source": {
+    "issue": 3919,
+    "projectUrl": "https://github.com/lizard-build/lizard-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @yuraoak in #3919 under the community profile-claim process.",
+      "Requested profile metadata in #3919: - Name: Lizard MCP - Description: Run code in Lizard Sandboxes and manage apps on Lizard (lizard.build). Includes 56 tools for sandbox files and commands, deployments, managed databases, logs, metrics, secrets and..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@yuraoak"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
