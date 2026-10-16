@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sorigen-trisport-mcp-f126a3a1",
+  "source": {
+    "issue": 3861,
+    "projectUrl": "https://github.com/sorigen/trisport-mcp"
+  },
+  "links": {
+    "endpoint": "https://www.trisport.ro/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth (catalog tools work without auth)"
+    ]
+  }
+}
