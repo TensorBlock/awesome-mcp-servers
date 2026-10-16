@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "prends-app-agents-ef635e43",
+  "source": {
+    "issue": 3905,
+    "projectUrl": "https://prends.app/agents"
+  },
+  "links": {
+    "endpoint": "https://prends.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Claude Code",
+    "Gemini CLI",
+    "Codex CLI"
+  ],
+  "license": "Proprietary hosted service (free to use)"
+}
