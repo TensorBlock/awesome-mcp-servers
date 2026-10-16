@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-birdwell-runescape-wiki-mcp-38cc8624",
+  "source": {
+    "issue": 3879,
+    "projectUrl": "https://github.com/birdwell/runescape-wiki-mcp"
+  },
+  "links": {
+    "endpoint": "https://runescape-wiki-mcp.fly.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "VS Code",
+    "Codex"
+  ],
+  "license": "MIT"
+}
