@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "proxgetlocal-app-745ab106",
+  "source": {
+    "issue": 3917,
+    "projectUrl": "https://proxgetlocal.app"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client that supports remote Streamable HTTP servers"
+  ],
+  "license": "Proprietary hosted service (free to use)"
+}
