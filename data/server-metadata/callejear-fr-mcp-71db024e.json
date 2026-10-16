@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "callejear-fr-mcp-71db024e",
+  "source": {
+    "issue": 3948,
+    "projectUrl": "https://callejear.fr/mcp/"
+  },
+  "links": {
+    "endpoint": "https://callejear.fr/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
