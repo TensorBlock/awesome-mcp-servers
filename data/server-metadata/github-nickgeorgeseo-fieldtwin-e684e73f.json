@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nickgeorgeseo-fieldtwin-e684e73f",
+  "source": {
+    "issue": 3910,
+    "projectUrl": "https://github.com/nickgeorgeseo/fieldtwin"
+  },
+  "links": {
+    "docs": "https://nickgeorgeai.com/fieldtwin"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "tools": {
+    "count": 14,
+    "names": [
+      "twin_status",
+      "twin_reset",
+      "twin_advance_clock",
+      "twin_run_action",
+      "twin_checkpoint",
+      "twin_changes",
+      "twin_rewind",
+      "twin_list_scenarios",
+      "twin_load_scenario",
+      "twin_set_faults",
+      "twin_set_auth",
+      "twin_set_webhooks",
+      "twin_webhooks",
+      "twin_export_log"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3910. Source: Docs URL: https://nickgeorgeai.com/fieldtwin is fieldtwin's project page. It is the homepage set on the repository (https://github.com/nickgeorgeseo/fieldtwin), the README links to it, and it is the Docs link in the..."
+    ]
+  }
+}
