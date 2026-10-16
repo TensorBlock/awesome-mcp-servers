@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-habanacasta88-mystreetdata-mcp-c91730be",
+  "source": {
+    "issue": 3962,
+    "projectUrl": "https://github.com/Habanacasta88/mystreetdata-mcp"
+  },
+  "links": {
+    "endpoint": "https://mystreetdata.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Official MCP SDK client verified with protocol 2025-11-25",
+    "native remote clients",
+    "no browser cross-origin support. No client-specific UI certification claimed."
+  ],
+  "license": "MIT for public connection metadata and documentation only; hosted implementation and source datasets have separate..."
+}
