@@ -8,11 +8,11 @@
   "description": "Official IPGeolocation.io MCP server with 17 tools for IP geolocation, security indicators, ASN data, abuse contacts, time zones, astronomy and user-agent parsing. Runs locally with Node.js 22 or later. Supports bulk requests and cached-result pagination.",
   "category": "Location & Maps",
   "links": {
-    "docs": "https://github.com/IPGeolocation/ipgeolocation-io-mcp/blob/v2.0.1/README.md#install-by-client"
+    "docs": "https://github.com/IPGeolocation/ipgeolocation-io-mcp/blob/main/README.md#install-by-client"
   },
   "install": {
     "commands": [
-      "npx -y ipgeolocation-io-mcp@2.0.1"
+      "npx -y ipgeolocation-io-mcp@latest"
     ],
     "env": [
       "IPGEOLOCATION_API_KEY"
