@@ -1,0 +1,68 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nativecodeapps-qrflow-sdk-3559cc61",
+  "source": {
+    "issue": 3941,
+    "projectUrl": "https://github.com/nativecodeapps/qrflow-sdk"
+  },
+  "description": "Create and manage dynamic QR codes whose destination can change after printing. Re-point a printed code without reprinting it, name short links on your own domain, and read scan analytics.",
+  "links": {
+    "docs": "https://qrflow.codes/developers",
+    "homepage": "https://qrflow.codes",
+    "endpoint": "https://qrflow.codes/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with PKCE (S256). The user signs in with a QRFLOW.codes account and approves a consent screen.",
+      "No API key or environment variable is pasted into the client.",
+      "Dynamic Client Registration (RFC 7591) and Client Identifier Metadata Documents are both supported.",
+      "Discovery: https://qrflow.codes/.well-known/oauth-authorization-server and https://qrflow.codes/.well-known/oauth-protected-resource"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "claude.ai",
+    "ChatGPT",
+    "Cursor"
+  ],
+  "tools": {
+    "count": 11,
+    "names": [
+      "list_code_kinds",
+      "list_qr_codes",
+      "get_qr_code",
+      "create_qr_code",
+      "update_qr_code",
+      "delete_qr_code",
+      "get_scan_stats",
+      "bulk_create_qr_codes",
+      "list_domains",
+      "get_qr_image",
+      "get_account"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT for the SDK, OpenAPI document and examples; the hosted service is separate",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Listed in the Official MCP Registry as codes.qrflow/qrflow",
+      "Manifest published at https://qrflow.codes/.well-known/mcp/server.json"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "nativecodeapps"
+    ]
+  }
+}
