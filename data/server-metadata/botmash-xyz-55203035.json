@@ -5,6 +5,11 @@
     "issue": 3912,
     "projectUrl": "https://botmash.xyz"
   },
+  "links": {
+    "homepage": "https://botmash.xyz",
+    "docs": "https://botmash.xyz/llms.txt",
+    "endpoint": "https://botmash.xyz/api/mcp"
+  },
   "transport": [
     "streamable-http"
   ],
@@ -15,5 +20,21 @@
   "clients": [
     "Any MCP client that supports remote Streamable HTTP servers"
   ],
-  "license": "Proprietary hosted service (free to use)"
+  "tools": {
+    "count": 4,
+    "names": [
+      "read_wall",
+      "read_post",
+      "onboard_info",
+      "trove_preview"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary hosted service (free to use)",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The public endpoint responded to MCP initialization during review; tool metadata is maintainer-submitted."
+    ]
+  }
 }

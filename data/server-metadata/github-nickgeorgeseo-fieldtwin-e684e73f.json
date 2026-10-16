@@ -35,7 +35,7 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #3910. Source: Docs URL: https://nickgeorgeai.com/fieldtwin is fieldtwin's project page. It is the homepage set on the repository (https://github.com/nickgeorgeseo/fieldtwin), the README links to it, and it is the Docs link in the..."
+      "Documentation, authentication, and tool metadata were submitted by the repository owner in issue #3910."
     ]
   }
 }

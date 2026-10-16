@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "npx -y @melra/cli@alpha setup"
+      "npx -y @melra/cli@alpha serve"
     ],
     "env": [],
     "confidence": "medium"
@@ -44,9 +44,17 @@
     "docs": "https://github.com/XAGI-Lab/melra/blob/main/docs/INSTALLATION.md"
   },
   "verification": {
-    "status": "self_reported",
+    "status": "unknown",
     "notes": [
-      "Metadata updated from issue #3901. Source: - https://github.com/XAGI-Lab/melra/blob/main/docs/INSTALLATION.md - https://github.com/XAGI-Lab/melra/blob/main/README.md - https://www.npmjs.com/package/@melra/cli"
+      "The MCP launch command was corrected from the project installation documentation in issue #3901.",
+      "Profile claimed by @dhe-eraj-s in issue #3933."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@dhe-eraj-s"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }

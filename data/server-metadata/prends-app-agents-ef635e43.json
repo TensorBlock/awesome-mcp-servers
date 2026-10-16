@@ -6,6 +6,8 @@
     "projectUrl": "https://prends.app/agents"
   },
   "links": {
+    "homepage": "https://prends.app",
+    "docs": "https://prends.app/agents",
     "endpoint": "https://prends.app/mcp"
   },
   "transport": [
@@ -14,7 +16,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth 2.1 with dynamic client registration and PKCE. Public tools are also available without sign-in at https://prends.app/mcp/public."
     ]
   },
   "clients": [

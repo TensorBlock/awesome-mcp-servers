@@ -16,7 +16,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth, bearer-token, api-key"
+      "OAuth 2.1 with PKCE and discovery is supported. Clients that set headers may use their own Lizard API key as a Bearer token."
     ]
   },
   "tools": {
@@ -36,7 +36,15 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #3922. Source: - Setup and authentication: https://github.com/lizard-build/lizard-mcp#connect-a-client - Sandbox tools, tests and release: https://github.com/lizard-build/lizard-mcp/pull/5 - Active official registry entry:..."
+      "Tool count and remote setup were submitted by the maintainer in issue #3922. The seven listed names are the newly added sandbox tools, not the complete 56-tool list.",
+      "Profile claimed by @yuraoak in issue #3919."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@yuraoak"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }

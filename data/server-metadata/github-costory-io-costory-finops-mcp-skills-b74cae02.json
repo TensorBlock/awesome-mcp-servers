@@ -6,6 +6,8 @@
     "projectUrl": "https://github.com/costory-io/costory-finops-mcp-skills"
   },
   "links": {
+    "homepage": "https://costory.io",
+    "docs": "https://docs.costory.io/features/mcp",
     "endpoint": "https://app-api.costory.io/mcp"
   },
   "transport": [
@@ -14,7 +16,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth is required for the hosted Costory MCP service."
     ]
   },
   "clients": [
