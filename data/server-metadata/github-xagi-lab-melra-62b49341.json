@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-xagi-lab-melra-62b49341",
   "source": {
-    "issue": 3867,
+    "issue": 3901,
     "projectUrl": "https://github.com/XAGI-Lab/melra"
   },
   "install": {
@@ -39,5 +39,14 @@
     "GitHub Copilot CLI",
     "and other MCP clients"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "links": {
+    "docs": "https://github.com/XAGI-Lab/melra/blob/main/docs/INSTALLATION.md"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3901. Source: - https://github.com/XAGI-Lab/melra/blob/main/docs/INSTALLATION.md - https://github.com/XAGI-Lab/melra/blob/main/README.md - https://www.npmjs.com/package/@melra/cli"
+    ]
+  }
 }
