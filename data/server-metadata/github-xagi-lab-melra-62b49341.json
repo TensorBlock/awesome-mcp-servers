@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-xagi-lab-melra-62b49341",
   "source": {
-    "issue": 3901,
+    "issue": 3950,
     "projectUrl": "https://github.com/XAGI-Lab/melra"
   },
   "install": {
@@ -47,7 +47,8 @@
     "status": "unknown",
     "notes": [
       "The MCP launch command was corrected from the project installation documentation in issue #3901.",
-      "Profile claimed by @dhe-eraj-s in issue #3933."
+      "Profile claimed by @dhe-eraj-s in issue #3933.",
+      "Metadata updated from issue #3950. Source: https://github.com/XAGI-Lab/melra/blob/main/packages/server/src/mcp-server.ts#L244-L463"
     ]
   },
   "community": {
@@ -56,5 +57,22 @@
     ],
     "verifiedBy": [],
     "claimed": true
+  },
+  "tools": {
+    "count": 11,
+    "names": [
+      "melra_capabilities",
+      "melra_plan",
+      "melra_execute",
+      "melra_task_status",
+      "melra_task_cancel",
+      "melra_receipt",
+      "melra_workflow_plan",
+      "melra_workflow_advance",
+      "melra_workflow_status",
+      "melra_workflow_cancel",
+      "melra_workflow_control"
+    ],
+    "source": "self_reported"
   }
 }
