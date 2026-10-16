@@ -2,6 +2,8 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [Fillfolio MCP](https://github.com/fillfolio/portfolio-mcp): Hosted read-only access to stored portfolios, stocks, ETFs, funds, crypto, cash, bank spending and budgets. Streamable HTTP endpoint: `https://fillfolio.com/api/mcp`; OAuth with PKCE and an accepted client identity. Requires a paid account; spending and budgets need separate permissions. Public contracts, documentation and helpers are MIT; the hosted implementation is private. Companion [workflow skills](https://github.com/fillfolio/portfolio-mcp-skills).
+
 - [Universal Crypto MCP](https://github.com/nirholas/universal-crypto-mcp): TypeScript MCP server that lets agents work with Ethereum, Arbitrum, Base, Polygon and BNB Chain through plugins: swaps, bridges, gas, staking, lending and x402 payments. Install: `npx @nirholas/universal-crypto-mcp`.
 - [PandaStock](https://github.com/D-Asce/pandastocksdk): A-share real-time market data MCP server - NATS-pushed quotes, Level-2, DDX big orders, money flow and AI stock screening; 176 server-side endpoints, 22 open endpoints with a free public test account. Install: `pip install pandastock-mcp`.
 - [tonnode/mcp](https://github.com/tonnode/mcp): MCP server for TON (The Open Network) over native ADNL liteservers: GRAM and jetton balances, account state, transaction history, contract get-methods, non-custodial DEX and cross-chain swap building (returns unsigned messages) and wallet generation. Free local mode via `npx -y @tonnode/mcp`, or a hosted endpoint with an API key at `https://mcp.tonnode.io/mcp`.
