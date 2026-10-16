@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aperianalytics-walletfollow-plugin-bbbc3bbe",
+  "source": {
+    "projectUrl": "https://github.com/AperiAnalytics/walletfollow-plugin"
+  },
+  "links": {
+    "homepage": "https://walletfollow.ai",
+    "docs": "https://walletfollow.ai/mcp"
+  }
+}
