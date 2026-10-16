@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "openpath-sh-49f7d797",
+  "source": {
+    "issue": 3849,
+    "projectUrl": "https://openpath.sh"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT (developer mode)",
+    "Cursor",
+    "Codex",
+    "Gemini CLI"
+  ],
+  "license": "Hosted service (no source license); listing data from Overture Maps is CDLA-Permissive-2.0 / Apache 2.0, named on each result.",
+  "links": {
+    "endpoint": "https://openpath.sh/mcp/search",
+    "docs": "https://openpath.sh/docs/connect"
+  }
+}
