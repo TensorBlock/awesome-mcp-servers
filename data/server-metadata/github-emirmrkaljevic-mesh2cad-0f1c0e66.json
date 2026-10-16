@@ -23,8 +23,7 @@
   },
   "install": {
     "commands": [
-      "pip install \"mesh2cad[mcp] @ git+https://github.com/emirmrkaljevic/mesh2cad\"",
-      "mesh2cad mcp"
+      "uvx --from \"mesh2cad[mcp] @ git+https://github.com/emirmrkaljevic/mesh2cad\" mesh2cad mcp"
     ],
     "env": [],
     "confidence": "medium"
