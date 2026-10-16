@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-shruti12xt-klype-mcp-65560b49",
+  "source": {
+    "issue": 3894,
+    "projectUrl": "https://github.com/shruti12XT/klype-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.klype.ai/api/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "any client that supports remote Streamable HTTP"
+  ],
+  "license": "Proprietary hosted service (free trial)"
+}
