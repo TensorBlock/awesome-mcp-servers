@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-xagi-lab-melra-62b49341",
+  "source": {
+    "issue": 3867,
+    "projectUrl": "https://github.com/XAGI-Lab/melra"
+  },
+  "install": {
+    "commands": [
+      "npx -y @melra/cli@alpha setup"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "OpenAI Codex CLI",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI",
+    "Windsurf",
+    "Zed",
+    "Cline",
+    "OpenCode",
+    "Kiro",
+    "Goose",
+    "Continue",
+    "Amp",
+    "OpenClaw",
+    "Hermes Agent",
+    "GitHub Copilot CLI",
+    "and other MCP clients"
+  ],
+  "license": "Apache-2.0"
+}

@@ -16,10 +16,10 @@
     "notes": []
   },
   "clients": [
-    "Any MCP client that speaks Streamable HTTP (Claude",
+    "Claude",
     "Cursor",
     "VS Code",
-    "Codex)"
+    "Codex"
   ],
-  "license": "MIT I searched this repo for `runescape-wiki-mcp` and did not find an existing entry."
+  "license": "MIT"
 }
