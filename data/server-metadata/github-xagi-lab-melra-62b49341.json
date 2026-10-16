@@ -39,5 +39,19 @@
     "GitHub Copilot CLI",
     "and other MCP clients"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @dhe-eraj-s in #3933 under the community profile-claim process.",
+      "Requested profile metadata in #3933: Category: Security Transport: stdio Auth: none Install confidence: medium License: Apache-2.0 Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@dhe-eraj-s"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
