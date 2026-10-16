@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-costory-io-costory-finops-mcp-skills-b74cae02",
+  "source": {
+    "issue": 3930,
+    "projectUrl": "https://github.com/costory-io/costory-finops-mcp-skills"
+  },
+  "links": {
+    "endpoint": "https://app-api.costory.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "ChatGPT"
+  ],
+  "license": "Apache-2.0"
+}
