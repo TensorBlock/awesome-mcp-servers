@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-noqt-yumi-decision-ledger-8ffb613c",
+  "source": {
+    "issue": 4019,
+    "projectUrl": "https://github.com/noqt/yumi-decision-ledger"
+  },
+  "install": {
+    "commands": [
+      "python3.12 -I -B -S mcp_receipt_server.py --workspace PATH"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Popular MCP clients have not been separately tested",
+    "no client-compatibility claim is made."
+  ],
+  "license": "MIT"
+}
