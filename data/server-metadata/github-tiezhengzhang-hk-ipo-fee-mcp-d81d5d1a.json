@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-tiezhengzhang-hk-ipo-fee-mcp-d81d5d1a",
+  "source": {
+    "issue": 3990,
+    "projectUrl": "https://github.com/tiezhengzhang/hk-ipo-fee-mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx hk-ipo-fee-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
