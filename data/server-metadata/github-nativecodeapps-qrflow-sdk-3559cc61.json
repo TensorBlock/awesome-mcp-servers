@@ -14,7 +14,7 @@
   "install": {
     "commands": [],
     "env": [],
-    "confidence": "high"
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"
@@ -54,7 +54,7 @@
   },
   "license": "MIT for the SDK, OpenAPI document and examples; the hosted service is separate",
   "verification": {
-    "status": "self_reported",
+    "status": "unknown",
     "notes": [
       "Listed in the Official MCP Registry as codes.qrflow/qrflow",
       "Manifest published at https://qrflow.codes/.well-known/mcp/server.json"
