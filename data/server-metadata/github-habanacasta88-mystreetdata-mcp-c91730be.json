@@ -16,9 +16,7 @@
     "notes": []
   },
   "clients": [
-    "Official MCP SDK client verified with protocol 2025-11-25",
-    "native remote clients",
-    "no browser cross-origin support. No client-specific UI certification claimed."
+    "MCP SDK client"
   ],
-  "license": "MIT for public connection metadata and documentation only; hosted implementation and source datasets have separate..."
+  "license": "MIT for public connection metadata and documentation only; hosted implementation and source datasets have separate terms."
 }
