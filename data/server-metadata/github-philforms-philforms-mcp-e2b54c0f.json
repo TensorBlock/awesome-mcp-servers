@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-philforms-philforms-mcp-e2b54c0f",
+  "source": {
+    "issue": 3988,
+    "projectUrl": "https://github.com/philforms/philforms-mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "PDFPHILE_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor (any stdio MCP client)"
+  ],
+  "license": "MIT"
+}
