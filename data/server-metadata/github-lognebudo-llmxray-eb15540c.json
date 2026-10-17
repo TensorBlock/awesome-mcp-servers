@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-lognebudo-llmxray-eb15540c",
+  "source": {
+    "issue": 3996,
+    "projectUrl": "https://github.com/LogneBudo/llmxray"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @LogneBudo in #3996 under the community profile-claim process.",
+      "Requested profile metadata in #3996: Category: Monitoring & Observability Transport: unknown Auth: unknown Install confidence: medium License: Apache-2.0 Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@LogneBudo"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
