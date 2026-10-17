@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "callejear-de-mcp-bead11b0",
+  "source": {
+    "issue": 3945,
+    "projectUrl": "https://callejear.de/mcp/"
+  },
+  "links": {
+    "endpoint": "https://callejear.de/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "MCP SDK client"
+  ],
+  "license": "Hosted service (closed source); data ODbL-1.0"
+}
