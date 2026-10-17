@@ -9,7 +9,9 @@
     "endpoint": "https://autoshort.org/api/mcp"
   },
   "install": {
-    "commands": [],
+    "commands": [
+      "npx -y mcp-server-autoshorts"
+    ],
     "env": [
       "AUTOSHORT_API_KEY"
     ],
@@ -22,7 +24,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth 2.1 with PKCE and dynamic client registration for the hosted endpoint; a Bearer API key is also supported."
     ]
   },
   "clients": [
