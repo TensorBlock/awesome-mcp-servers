@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ramaaditya49-titen-0a5c5a43",
+  "source": {
+    "issue": 3970,
+    "projectUrl": "https://github.com/RamaAditya49/titen"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "TITEN_MCP_URL",
+      "TITEN_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "Windsurf",
+    "OpenClaw",
+    "Hermes"
+  ],
+  "license": "Apache-2.0"
+}
