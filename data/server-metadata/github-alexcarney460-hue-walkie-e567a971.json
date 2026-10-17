@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-alexcarney460-hue-walkie-e567a971",
+  "source": {
+    "issue": 3994,
+    "projectUrl": "https://github.com/alexcarney460-hue/walkie"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @alexcarney460-hue in #3994 under the community profile-claim process.",
+      "Requested profile metadata in #3994: Homepage: https://sqwakie.si Install: `curl -fsSL https://sqwakie.si/install.sh | sh` (installs the `walkie` binary and runs `walkie setup`, which connects Claude Code and Codex if it finds them) Platforms: macOS on..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@alexcarney460-hue"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
