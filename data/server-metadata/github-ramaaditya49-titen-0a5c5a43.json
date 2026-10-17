@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ramaaditya49-titen-0a5c5a43",
+  "source": {
+    "issue": 3970,
+    "projectUrl": "https://github.com/RamaAditya49/titen"
+  },
+  "install": {
+    "commands": [
+      "npx -y titen-memory mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Local mode requires no credentials; connecting to a served instance uses TITEN_MCP_URL and TITEN_API_KEY. Bun 1.2+ is required."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "Windsurf",
+    "OpenClaw",
+    "Hermes"
+  ],
+  "license": "Apache-2.0"
+}
