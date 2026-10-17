@@ -6,19 +6,20 @@
     "projectUrl": "https://github.com/RamaAditya49/titen"
   },
   "install": {
-    "commands": [],
-    "env": [
-      "TITEN_MCP_URL",
-      "TITEN_API_KEY"
+    "commands": [
+      "npx -y titen-memory mcp"
     ],
-    "confidence": "low"
+    "env": [],
+    "confidence": "medium"
   },
   "transport": [
     "stdio"
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Local mode requires no credentials; connecting to a served instance uses TITEN_MCP_URL and TITEN_API_KEY. Bun 1.2+ is required."
+    ]
   },
   "clients": [
     "Claude Code",
