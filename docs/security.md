@@ -136,7 +136,6 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [daedalus/mcp-server-nmap](https://github.com/daedalus/mcp-server-nmap) - MCP server that exposes the python-nmap API for network scanning.
 - [daedalus/mcp-shodan](https://github.com/daedalus/mcp-shodan) - MCP server exposing all Shodan API functionality.
 - [daedalus/mcp-smbmap](https://github.com/daedalus/mcp-smbmap) - MCP server exposing smbmap SMB enumeration functionality.
-- [infai-tech/vulnfeed-mcp](https://github.com/infai-tech/vulnfeed-mcp): Dependency vulnerability scanner with EPSS exploit probability scoring. Scans lockfiles (npm, pip, Go, Cargo, Ruby, Composer, Gradle, NuGet, Mix), prioritizes by real-world exploit likelihood, recommends fix versions. 9 MCP tools for scanning, monitoring, and alerting. Free tier + x402 micropayments. `pip install vulnfeed-mcp`.
 
 
 - [AgentLair](https://agentlair.dev): Secure identity infrastructure for AI agents — gives agents their own @agentlair.dev email address, encrypted credential vault, and cryptographically signed audit trail. Remote MCP server, no SMTP/DNS setup. npm: `@agentlair/mcp`.
