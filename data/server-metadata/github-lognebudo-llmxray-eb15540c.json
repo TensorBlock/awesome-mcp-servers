@@ -6,10 +6,9 @@
     "projectUrl": "https://github.com/LogneBudo/llmxray"
   },
   "verification": {
-    "status": "self_reported",
+    "status": "unknown",
     "notes": [
-      "Profile claimed by @LogneBudo in #3996 under the community profile-claim process.",
-      "Requested profile metadata in #3996: Category: Monitoring & Observability Transport: unknown Auth: unknown Install confidence: medium License: Apache-2.0 Verification: unknown"
+      "Profile claimed by @LogneBudo in #3996; issue author matches the GitHub repository owner. Runtime verification remains unknown as requested."
     ]
   },
   "community": {
@@ -18,5 +17,6 @@
     ],
     "verifiedBy": [],
     "claimed": true
-  }
+  },
+  "license": "Apache-2.0"
 }
