@@ -16,10 +16,10 @@
     "notes": []
   },
   "clients": [
-    "Any client supporting remote Streamable HTTP MCP (Claude",
+    "Claude",
     "Cursor",
     "VS Code",
-    "etc.)"
+    "Other Streamable HTTP MCP clients"
   ],
   "license": "Not specified (proprietary hosted service)"
 }
