@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "apexai-academy-developers-b0af5780",
+  "source": {
+    "issue": 3915,
+    "projectUrl": "https://apexai.academy/developers/"
+  },
+  "links": {
+    "homepage": "https://apexai.academy/developers/",
+    "docs": "https://apexai.academy/llms.txt",
+    "endpoint": "https://apexai.academy/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Public tools require no authentication. Premium tools accept a personal API key as a Bearer token."
+    ]
+  },
+  "license": "Hosted service, closed source",
+  "verification": {
+    "status": "unknown",
+    "notes": [
+      "Profile claimed by @ApexAI-Academy in issue #3915. Claim status is separate from TensorBlock verification."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@ApexAI-Academy"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

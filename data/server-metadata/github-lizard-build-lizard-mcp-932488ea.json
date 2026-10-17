@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-lizard-build-lizard-mcp-932488ea",
+  "source": {
+    "issue": 3922,
+    "projectUrl": "https://github.com/lizard-build/lizard-mcp"
+  },
+  "description": "Run code in Lizard Sandboxes and manage apps on Lizard (lizard.build). Includes 56 tools for sandbox files and commands, deployments, managed databases, logs, metrics, secrets and domains.",
+  "links": {
+    "docs": "https://github.com/lizard-build/lizard-mcp#connect-a-client",
+    "endpoint": "https://employ-woman-g1q2.us-east-1.onlizard.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with PKCE and discovery is supported. Clients that set headers may use their own Lizard API key as a Bearer token."
+    ]
+  },
+  "tools": {
+    "count": 56,
+    "names": [
+      "sandbox_list",
+      "sandbox_show",
+      "sandbox_create",
+      "sandbox_exec",
+      "sandbox_read_file",
+      "sandbox_write_file",
+      "sandbox_delete"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Tool count and remote setup were submitted by the maintainer in issue #3922. The seven listed names are the newly added sandbox tools, not the complete 56-tool list.",
+      "Profile claimed by @yuraoak in issue #3919."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@yuraoak"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
