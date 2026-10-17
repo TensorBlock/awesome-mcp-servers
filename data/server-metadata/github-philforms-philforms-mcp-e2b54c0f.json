@@ -6,11 +6,13 @@
     "projectUrl": "https://github.com/philforms/philforms-mcp"
   },
   "install": {
-    "commands": [],
+    "commands": [
+      "npx -y github:philforms/philforms-mcp"
+    ],
     "env": [
       "PDFPHILE_API_KEY"
     ],
-    "confidence": "low"
+    "confidence": "medium"
   },
   "transport": [
     "stdio"
@@ -24,7 +26,7 @@
   "clients": [
     "Claude Desktop",
     "Claude Code",
-    "Cursor (any stdio MCP client)"
+    "Cursor"
   ],
-  "license": "MIT"
+  "license": "MIT client; hosted service is separate"
 }
