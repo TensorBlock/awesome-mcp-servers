@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "autoshort-org-en-developers-5d71abb2",
+  "source": {
+    "issue": 4011,
+    "projectUrl": "https://autoshort.org/en/developers"
+  },
+  "links": {
+    "endpoint": "https://autoshort.org/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "AUTOSHORT_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "ChatGPT (developer mode)"
+  ],
+  "license": "MIT (npm package)"
+}
