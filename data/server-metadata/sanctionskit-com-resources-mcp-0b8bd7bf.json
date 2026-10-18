@@ -17,5 +17,11 @@
       "No account for search_docs, get_doc, get_api_schema and validate_screening_request. Optional workspace tools require OAuth and the relevant scopes; production keys are rejected."
     ]
   },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI"
+  ],
   "license": "MIT for the linked plugin repository; hosted service governed separately."
 }

@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "docs-platformdtc-com-agents-connect-your-own-agent-9b84552a",
+  "source": {
+    "issue": 4000,
+    "projectUrl": "https://docs.platformdtc.com/agents/connect-your-own-agent/"
+  },
+  "links": {
+    "endpoint": "https://api.platformdtc.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT (developer mode)",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "Proprietary (hosted service)"
+}
