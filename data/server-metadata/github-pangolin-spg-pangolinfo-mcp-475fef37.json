@@ -3,12 +3,13 @@
   "id": "github-pangolin-spg-pangolinfo-mcp-475fef37",
   "source": {
     "issue": 2214,
-    "projectUrl": "https://github.com/Pangolin-spg/pangolinfo-mcp"
+    "projectUrl": "https://github.com/pangolinfo/pangolinfo-mcp"
   },
-  "description": "Hosted MCP server for live Amazon marketplace intelligence, SERP signals, WIPO trademark search, and US PACER patent litigation lookups across 19 read-only tools.",
+  "description": "Read-only Amazon product, review, ranking, seller, category, niche and AI-search research; WIPO lookup optionally includes US patent litigation. 18 business tools plus a free local introspection helper.",
   "category": "Browser Automation & Web Scraping",
   "links": {
-    "endpoint": "https://mcp.pangolinfo.com/mcp"
+    "endpoint": "https://mcp.pangolinfo.com/mcp",
+    "docs": "https://docs.pangolinfo.com/en-help-center/mcp/overview"
   },
   "install": {
     "commands": [
@@ -27,7 +28,7 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "Use a Pangolin API key in the Authorization bearer header for the hosted endpoint or PANGOLINFO_API_KEY for the local bridge."
+      "Use your own Pangolinfo API key in the hosted Authorization bearer header or local PANGOLINFO_API_KEY environment variable."
     ]
   },
   "clients": [
