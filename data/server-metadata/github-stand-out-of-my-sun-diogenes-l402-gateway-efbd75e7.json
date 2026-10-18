@@ -2,6 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7",
   "source": {
+    "issue": 4080,
     "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-l402-gateway"
   },
   "description": "Autonomous AI microservices gateway providing pre-execution guardrails, smart contract audits, real-time market search, Solana token risk oracles, MEV analysis, code execution, and EVE Frontier smart assembly management.",
