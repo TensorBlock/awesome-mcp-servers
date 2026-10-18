@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-locusive-shop-nobi-claude-plugin-ac342588",
+  "source": {
+    "projectUrl": "https://github.com/Locusive/shop-nobi-claude-plugin"
+  },
+  "links": {
+    "docs": "https://github.com/Locusive/shop-nobi-claude-plugin#install"
+  },
+  "tools": {
+    "count": 2,
+    "names": [
+      "search_products",
+      "find_shop_nobi_page"
+    ],
+    "source": "self_reported"
+  }
+}
