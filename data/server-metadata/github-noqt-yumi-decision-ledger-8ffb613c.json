@@ -7,10 +7,11 @@
   },
   "install": {
     "commands": [
+      "git clone https://github.com/noqt/yumi-decision-ledger && cd yumi-decision-ledger && git checkout 42497c34add368d32d955010838e567a7846ed56",
       "python3.12 -I -B -S mcp_receipt_server.py --workspace PATH"
     ],
     "env": [],
-    "confidence": "medium"
+    "confidence": "low"
   },
   "transport": [
     "stdio"
@@ -19,9 +20,12 @@
     "type": "none",
     "notes": []
   },
-  "clients": [
-    "Popular MCP clients have not been separately tested",
-    "no client-compatibility claim is made."
-  ],
-  "license": "MIT"
+  "clients": [],
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Experimental receipt bridge pinned to 42497c34add368d32d955010838e567a7846ed56; MCP 2025-11-25 only. Caller must supply complete allowed inputs and artifacts. Popular clients have not been separately tested."
+    ]
+  }
 }
