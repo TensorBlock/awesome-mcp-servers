@@ -15,9 +15,6 @@
     "type": "none",
     "notes": []
   },
-  "clients": [
-    "Clients supporting remote Streamable HTTP MCP",
-    "configuration examples for Claude Code and Cursor are in the repository. This submission does not claim a new test in each client."
-  ],
-  "license": "CC0-1.0 for the published repository materials and audio; the complete hosted backend is not published in this..."
+  "clients": [],
+  "license": "CC0-1.0 for published repository materials and audio; hosted backend is not fully published."
 }
