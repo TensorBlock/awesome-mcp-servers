@@ -5,7 +5,7 @@
     "issue": 3653,
     "projectUrl": "https://github.com/IPGeolocation/ipgeolocation-io-mcp"
   },
-  "description": "Official IPGeolocation.io MCP server with 17 tools for IP geolocation, security indicators, ASN data, abuse contacts, time zones, astronomy and user-agent parsing. Runs locally with Node.js 22 or later. Supports bulk requests and cached-result pagination.",
+  "description": "Official IPGeolocation.io MCP server with 17 tools for accurate IP geolocation, company information, ASN and network data, IP security (VPN, proxy, Tor, bot, hosting and spam detection), abuse contacts, time zones, astronomy, currency data and user-agent parsing. Runs locally over stdio with Node.js 22 or later. Supports bulk lookups and cached-result pagination. API plan restrictions apply.",
   "category": "Location & Maps",
   "links": {
     "docs": "https://github.com/IPGeolocation/ipgeolocation-io-mcp/blob/main/README.md#install-by-client"
