@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-paperandbeyond23-gif-restosignals-mcp-7d7b8e55",
+  "source": {
+    "issue": 4016,
+    "projectUrl": "https://github.com/paperandbeyond23-gif/restosignals-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.restosignals.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "any Streamable HTTP MCP client"
+  ],
+  "license": "MIT (repo contents; the server is hosted)"
+}
