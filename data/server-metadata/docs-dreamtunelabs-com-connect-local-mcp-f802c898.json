@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "docs-dreamtunelabs-com-connect-local-mcp-f802c898",
+  "source": {
+    "projectUrl": "https://docs.dreamtunelabs.com/connect/local-mcp"
+  },
+  "links": {
+    "docs": "https://docs.dreamtunelabs.com/connect/local-mcp",
+    "homepage": "https://dreamtunelabs.com"
+  },
+  "install": {
+    "commands": ["npx -y --package=@dreamtune/sdk@0.1.1 dreamtune mcp"],
+    "env": [
+      "DREAMTUNE_API_KEY",
+      "DREAMTUNE_API_ORIGIN",
+      "DREAMTUNE_REQUEST_TIMEOUT_MS"
+    ],
+    "confidence": "medium"
+  },
+  "transport": ["stdio"],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Use a Dreamtune workspace API key with only the required permissions.",
+      "Set DREAMTUNE_API_ORIGIN to https://api.dreamtunelabs.com and DREAMTUNE_REQUEST_TIMEOUT_MS to 120000; Node.js 22.20 or later is required.",
+      "Paid model, tool and compute operations require prepaid workspace credit."
+    ]
+  },
+  "tools": {
+    "count": 29,
+    "names": [
+      "list_tools", "inspect_tool", "list_runs", "get_run", "create_run",
+      "refresh_run", "model_limits", "create_model_run", "list_model_runs",
+      "get_model_run", "free_chat", "compute_catalog", "create_compute_job",
+      "list_compute_jobs", "get_compute_job", "stop_compute_job",
+      "compute_notebook", "get_prompt", "compile_prompt", "create_prompt",
+      "set_prompt_labels", "list_request_traces", "list_observability_requests",
+      "list_observability_sessions", "list_observability_users",
+      "list_observability_prompts", "get_request_content", "get_request_scores",
+      "score_request_feedback"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The MIT license applies to the published @dreamtune/sdk stdio adapter; the hosted service is proprietary.",
+      "On 2026-10-18, MCP Inspector 2.11.0 discovered 29 tools from SDK 0.1.1 with an isolated fake key and loopback API origin: zero schema errors and seven existing portability warnings.",
+      "No authenticated service execution, paid calls or full editor installation was performed. Generated configs require all three environment values to be supplied."
+    ]
+  }
+}
