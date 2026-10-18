@@ -15,8 +15,6 @@
     "type": "none",
     "notes": []
   },
-  "clients": [
-    "The service operator reports official MCP Python SDK testing before deployment and a live tools/list plus non-activating refusal smoke check after the October 17 deployment. Named desktop-client compatibility and independent outside adoption are not claimed."
-  ],
+  "clients": [],
   "license": "Hosted service under the linked terms; no source-code license is claimed."
 }
