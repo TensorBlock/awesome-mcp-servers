@@ -2,6 +2,7 @@
 
 Servers providing data or services related to flights, trains, transportation APIs, or travel planning.
 
+- [ViaFrei (de.viafrei/mcp)](https://github.com/mavrovde/viafrei-mcp): Live German mobility data from official open sources: motorway traffic, closures and roadworks, train and public-transport departures and disruptions, station lifts, parking, EV charging and hydrogen stations, fuel prices, DWD weather warnings, addresses and places. Read-only, 22 tools, German and English; every answer names its source and licence. Hosted Streamable HTTP at `https://mcp.viafrei.de/mcp`; no auth, no API key, free. stdio bridge: `npx viafrei`. [Docs](https://viafrei.de/en/developers). Apache-2.0.
 - [Hotelumo](https://github.com/hotelumo/claude-plugin): Read hotel metadata, availability, aggregate schedules, room operations, rate plans, daily rates and extras without guest or individual-stay records. Hosted Streamable HTTP at `https://mcp.hotelumo.com/mcp`; OAuth account authorization required. [Docs](https://www.hotelumo.com/developers/#mcp). Public connector configuration and workflow skills: Apache-2.0.
 
 - [chucho — Book Direct](https://chucho.ai/chatgpt/): Find vacation rentals by destination, guest count, bedrooms and amenities; explore public photos and property details, then open direct host booking links. English and Spanish. Hosted Streamable HTTP endpoint at `https://chucho.ai/chatgpt/mcp`; free public discovery, no authentication. Dates, prices and availability are confirmed by the host.
