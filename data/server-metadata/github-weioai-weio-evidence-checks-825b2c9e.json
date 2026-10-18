@@ -19,9 +19,6 @@
     "type": "none",
     "notes": []
   },
-  "clients": [
-    "Official MCP Python SDK 2.3.0 was used for synthetic initialization",
-    "tools/list and calls on Linux. Named desktop-client compatibility is not claimed."
-  ],
+  "clients": [],
   "license": "MIT"
 }
