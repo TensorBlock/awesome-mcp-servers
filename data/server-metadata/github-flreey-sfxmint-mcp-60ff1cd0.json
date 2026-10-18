@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-flreey-sfxmint-mcp-60ff1cd0",
+  "source": {
+    "issue": 4038,
+    "projectUrl": "https://github.com/flreey/sfxmint-mcp"
+  },
+  "links": {
+    "endpoint": "https://sfxmint.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Clients supporting remote Streamable HTTP MCP",
+    "configuration examples for Claude Code and Cursor are in the repository. This submission does not claim a new test in each client."
+  ],
+  "license": "CC0-1.0 for the published repository materials and audio; the complete hosted backend is not published in this..."
+}
