@@ -1,0 +1,77 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7",
+  "source": {
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-l402-gateway"
+  },
+  "description": "Autonomous AI microservices gateway providing pre-execution guardrails, smart contract audits, real-time market search, Solana token risk oracles, MEV analysis, code execution, and EVE Frontier smart assembly management.",
+  "category": "Security",
+  "links": {
+    "docs": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "homepage": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "endpoint": "https://diogenes-micro-gateway.corinth.workers.dev/mcp"
+  },
+  "install": {
+    "commands": [
+      "Add https://diogenes-micro-gateway.corinth.workers.dev/mcp as a remote Streamable HTTP MCP connector"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Zero-friction preview and free-tier testing available via ?demo=true or standard MCP initialization with no API keys, accounts, or tokens required.",
+      "Autonomous tri-rail settlement (Bitcoin Lightning L402, Solana USDC x402, and Base EVM USDC MPP) is supported for production workloads."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other Streamable HTTP MCP clients"
+  ],
+  "tools": {
+    "count": 15,
+    "names": [
+      "guardrail_verify",
+      "contract_audit",
+      "web_brief",
+      "solana_risk",
+      "json_repair",
+      "regex_oracle",
+      "mev_risk",
+      "mpp_deep_search",
+      "code_sandbox",
+      "eve_move_assembly_coder",
+      "eve_gate_route_planner",
+      "eve_network_node_gj_optimizer",
+      "agent_mcp_router",
+      "agent_schema_enforcer",
+      "crypto_bridge_quote"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Live Streamable HTTP endpoint verified on Cloudflare edge (200 OK across both diogenes-micro-gateway and diogenes-l402-gateway).",
+      "MCP tools/list returns 15 production microservices with strict JSON Schema input definitions.",
+      "Zero-cost demo mode verified with no credentials or API keys required."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "verifiedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  }
+}
