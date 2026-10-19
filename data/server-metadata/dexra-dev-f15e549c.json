@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "dexra-dev-f15e549c",
+  "source": {
+    "issue": 4129,
+    "projectUrl": "https://dexra.dev"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @oblivisheee (owner of the @dexra-dev GitHub organization and npm scope) in #4129 under the community profile-claim process.",
+      "Requested profile metadata in #4129: Description: Solana DeFi risk checks for AI agents: token launches, holders after merging linked wallets, wallets, pools, CLMM ranges, perp venues and a swap preflight. Each check answers with a verdict (ok,..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@oblivisheee (owner of the @dexra-dev GitHub organization and npm scope)"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
