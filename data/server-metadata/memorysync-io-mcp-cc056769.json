@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "memorysync-io-mcp-cc056769",
+  "source": {
+    "issue": 4133,
+    "projectUrl": "https://memorysync.io/mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Rafay121 in #4133 under the community profile-claim process.",
+      "Requested profile metadata in #4133: Category: Knowledge Management & Memory Transport: streamable-http Auth: oauth Install confidence: medium License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Rafay121"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
