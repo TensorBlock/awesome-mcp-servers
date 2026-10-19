@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-crawlbrulee-crawlbrulee-mcp-46c8060b",
+  "source": {
+    "issue": 4131,
+    "projectUrl": "https://github.com/crawlbrulee/crawlbrulee-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @cjurjiu in #4131 under the community profile-claim process.",
+      "Requested profile metadata in #4131: - Website: https://crawlbrulee.com - Docs: https://crawlbrulee.com/docs/mcp - Support: support@crawlbrulee.com - Install: npx -y @crawlbrulee/mcp, with CRAWLBRULEE_API_KEY (free key at..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@cjurjiu"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
