@@ -5,7 +5,7 @@
     "issue": 4080,
     "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-l402-gateway"
   },
-  "description": "Autonomous AI microservices gateway providing pre-execution guardrails, smart contract audits, real-time market search, Solana token risk oracles, MEV analysis, code execution, and EVE Frontier smart assembly management.",
+  "description": "Autonomous multi-protocol AI microservices gateway providing 55 dynamic edge microservices: pre-execution SQL/code guardrails, smart contract audits, Solana token risk oracles, MEV analysis, and EVE Frontier smart assembly management.",
   "category": "Security",
   "links": {
     "docs": "https://diogenes-micro-gateway.corinth.workers.dev",
@@ -61,9 +61,9 @@
   "verification": {
     "status": "verified",
     "notes": [
-      "Live Streamable HTTP endpoint verified on Cloudflare edge (200 OK across both diogenes-micro-gateway and diogenes-l402-gateway).",
-      "MCP tools/list returns 15 production microservices with strict JSON Schema input definitions.",
-      "Zero-cost demo mode verified with no credentials or API keys required."
+      "Live Streamable HTTP endpoint verified on Cloudflare edge (200 OK at diogenes-micro-gateway).",
+      "MCP tools/list returns 15 production microservices with strict JSON Schema input definitions, backed by 55 dynamic edge execution engines.",
+      "Zero-cost demo mode verified with no credentials or API keys required, plus L402, x402, and MPP tri-rail settlement."
     ]
   },
   "community": {
