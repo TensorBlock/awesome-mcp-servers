@@ -2,6 +2,7 @@
 
 Servers focused on generating or manipulating images, processing video, audio transcription, text-to-speech, or document conversion.
 
+- [Yap MCP](https://github.com/founden-bot/yap-mcp): Local stdio server that transcribes audio and video files on your computer with NVIDIA Parakeet TDT v3 (25 European languages, no API key, no upload) and searches your Yap dictation history. Works with Claude Code, Claude Desktop, Cursor, VS Code, Windsurf and Gemini CLI. Install: `npx -y github:founden-bot/yap-mcp`. MIT.
 - [Modelflare](https://github.com/castaly-ai/modelflare-mcp): Official stdio server for Modelflare, an OpenAI-compatible AI API gateway. List the image and video models your key can call, generate or edit images, start asynchronous video tasks, check their status and download finished videos, with one Modelflare Smart API Key. 5 tools. Install: `npx -y @modelflare/mcp-server`; auth: `MODELFLARE_API_KEY`. Docs: https://docs.modelflare.dev. MIT.
 - [CueFrame](https://github.com/cueframe-ai/cueframe-mcp): Compose, edit, preview and render videos with captions, graphics and audio. Hosted Streamable HTTP at `https://api.cueframe.ai/v1/mcp`; OAuth account authorization required. Public plugin, workflow skills and setup documentation: Apache-2.0. The hosted server implementation is separate.
 
