@@ -27,7 +27,6 @@ Servers providing data or services related to flights, trains, transportation AP
 - [kennyfong19931/mcp-hk-transport-eta](https://github.com/kennyfong19931/mcp-hk-transport-eta): Facilitates real-time public transport ETA retrieval in Hong Kong via an MCP server.
 - [harimkang/mcp-korea-tourism-api](https://github.com/harimkang/mcp-korea-tourism-api): Empower AI assistants to explore South Korea's tourism offerings using the Korea Tourism API, providing detailed insights into attractions, events, and accommodations.
 - [donghyun-chae/mcp-amadeus](https://github.com/donghyun-chae/mcp-amadeus): Integrates with the Amadeus Flight Offers Search API to enable natural language flight searches through MCP-compatible clients.
-- [opspawn/Google-Flights-MCP-Server](https://github.com/opspawn/Google-Flights-MCP-Server): Interact with Google Flights data using the fast_flights library to fetch and analyze flight information.
 - [hrishabhn/flight-mcp](https://github.com/hrishabhn/flight-mcp): Facilitates flight queries and bookings using the RapidAPI Skyscanner API through the Model Context Protocol.
 - [Ignav Flights](https://ignav.com/mcp): Streamable HTTP transport, endpoint [https://ignav.com/mcp](https://ignav.com/mcp), docs [https://ignav.com/docs/mcp](https://ignav.com/docs/mcp), auth anonymous testing plus optional API key.
 - [birariro/agoda-review-mcp](https://github.com/birariro/agoda-review-mcp): Facilitates LLMs in retrieving and aggregating Agoda hotel reviews for enhanced decision-making.
