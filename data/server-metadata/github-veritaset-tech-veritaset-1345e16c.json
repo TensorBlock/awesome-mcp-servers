@@ -2,7 +2,6 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-veritaset-tech-veritaset-1345e16c",
   "source": {
-    "issue": 4155,
     "projectUrl": "https://github.com/Veritaset-tech/veritaset"
   },
   "links": {
@@ -16,9 +15,9 @@
     "notes": []
   },
   "clients": [
-    "Claude (claude.ai",
-    "desktop",
-    "Claude Code)",
+    "Claude",
+    "Claude Desktop",
+    "Claude Code",
     "Codex",
     "Cursor",
     "VS Code",

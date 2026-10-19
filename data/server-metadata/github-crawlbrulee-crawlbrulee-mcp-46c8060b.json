@@ -5,11 +5,33 @@
     "issue": 4131,
     "projectUrl": "https://github.com/crawlbrulee/crawlbrulee-mcp"
   },
+  "links": {
+    "docs": "https://crawlbrulee.com/docs/mcp",
+    "homepage": "https://crawlbrulee.com"
+  },
+  "install": {
+    "commands": [
+      "npx -y @crawlbrulee/mcp"
+    ],
+    "env": [
+      "CRAWLBRULEE_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Set CRAWLBRULEE_API_KEY; free keys are available from https://dashboard.crawlbrulee.com."
+    ]
+  },
+  "license": "Apache-2.0",
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Profile claimed by @cjurjiu in #4131 under the community profile-claim process.",
-      "Requested profile metadata in #4131: - Website: https://crawlbrulee.com - Docs: https://crawlbrulee.com/docs/mcp - Support: support@crawlbrulee.com - Install: npx -y @crawlbrulee/mcp, with CRAWLBRULEE_API_KEY (free key at..."
+      "Profile claimed by @cjurjiu in #4131 under the community profile-claim process."
     ]
   },
   "community": {

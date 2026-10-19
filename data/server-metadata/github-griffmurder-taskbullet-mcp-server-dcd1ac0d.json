@@ -6,19 +6,22 @@
     "projectUrl": "https://github.com/GriffMurder/taskbullet-mcp-server"
   },
   "install": {
-    "commands": [],
+    "commands": [
+      "npx -y @taskbullet/mcp-server"
+    ],
     "env": [
       "TASKBULLET_API_KEY"
     ],
-    "confidence": "low"
+    "confidence": "medium"
   },
   "transport": [
+    "stdio",
     "streamable-http"
   ],
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "Hosted clients send an x-api-key header; local clients set TASKBULLET_API_KEY."
     ]
   },
   "clients": [

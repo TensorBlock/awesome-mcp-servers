@@ -5,11 +5,32 @@
     "issue": 4133,
     "projectUrl": "https://memorysync.io/mcp"
   },
+  "links": {
+    "docs": "https://docs.memorysync.io/mcp/install",
+    "homepage": "https://memorysync.io/mcp",
+    "endpoint": "https://mcp.memorysync.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y memorysync-mcp-install"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 browser sign-in, or a MemorySync API key for headless clients."
+    ]
+  },
+  "license": "Proprietary (closed-source hosted service)",
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Profile claimed by @Rafay121 in #4133 under the community profile-claim process.",
-      "Requested profile metadata in #4133: Category: Knowledge Management & Memory Transport: streamable-http Auth: oauth Install confidence: medium License: unknown Verification: unknown"
+      "Profile claimed by @Rafay121 in #4133 under the community profile-claim process."
     ]
   },
   "community": {
