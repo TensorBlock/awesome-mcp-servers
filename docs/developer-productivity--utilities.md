@@ -2,6 +2,7 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [AgentSkillsHub](https://github.com/zhuyansen/agentskillshub-mcp): Search a catalog of open-source agent skills and MCP servers by query and filters (category, platform, stars, quality, security risk), check the security grade of an `owner/repo` before installing it, and get install commands without running anything. Three tools: `search_skills`, `audit_skill`, `get_skill_install`. Searches a locally cached index; no API key. Install: `npx -y @agentskillshub/mcp`.
 - [openhook-dev/openhook-inbox](https://github.com/openhook-dev/openhook-inbox): Create webhook inboxes, inspect callbacks, and wait for asynchronous events with resumable cursors. Connect via Streamable HTTP at `https://openhook.dev/mcp`; no account or global API key is required for temporary inboxes, while private per-inbox tokens protect event access. Self-hosting and local forwarding are available from source. License: MIT. [Docs](https://openhook.dev/docs). Tools include `create_webhook`, `wait_for_request`, `get_request`, and `delete_webhook`.
 
 - [FirstCall](https://github.com/rad1092/firstcall-local-api-workbench): Verify requests from curl or OpenAPI and export local MCP tools with endpoint policies and separate credential inputs. Install the [Apple Silicon macOS release](https://github.com/rad1092/firstcall-local-api-workbench/releases/tag/v0.3.1), export a verified request, and connect its generated stdio configuration.
