@@ -18,8 +18,9 @@
     ]
   },
   "clients": [
-    "Any client that supports remote MCP with OAuth (e.g. Claude",
-    "Cursor)"
+    "Claude",
+    "Cursor",
+    "Any remote MCP client with OAuth support"
   ],
   "license": "Proprietary (hosted service)"
 }
