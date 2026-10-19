@@ -1,3 +1,4 @@
+- [Mode VC Radar](https://modevc.com/api/mcp): Real-time venture capital intelligence, 5,193 investor theses, SEC Form D private offering radar, and 38 interactive market valuation benchmarks via Model Context Protocol. Hosted Streamable HTTP endpoint: https://modevc.com/api/mcp (free, no auth). Official MCP Registry id com.modevc/radar. Homepage: https://modevc.com. MIT.
 ## 💰 Finance & Crypto
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
