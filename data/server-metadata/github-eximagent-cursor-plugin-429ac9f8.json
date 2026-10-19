@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-eximagent-cursor-plugin-429ac9f8",
+  "source": {
+    "issue": 4106,
+    "projectUrl": "https://github.com/EximAgent/cursor-plugin"
+  },
+  "links": {
+    "endpoint": "https://mcp.eximagent.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Any client that supports remote MCP with OAuth (e.g. Claude",
+    "Cursor)"
+  ],
+  "license": "Proprietary (hosted service)"
+}
