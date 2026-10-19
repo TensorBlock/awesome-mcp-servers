@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-edouard-claude-whatsapp-mcp-f02134b3",
+  "source": {
+    "issue": 4167,
+    "projectUrl": "https://github.com/edouard-claude/whatsapp-mcp"
+  },
+  "install": {
+    "commands": [
+      "wa-mcp pair perso --phone 33612345678   # link the account with an 8-character code"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "any stdio MCP client (protocol 2025-11-25 and 2026-07-28)."
+  ],
+  "license": "MIT"
+}
