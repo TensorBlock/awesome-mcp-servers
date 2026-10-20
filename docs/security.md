@@ -109,7 +109,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [unmuktoai/Wazuh-MCP-Server](https://github.com/unmuktoai/Wazuh-MCP-Server): Integrates Wazuh security data with LLMs by transforming alerts into MCP-compliant JSON and exposing them via an HTTP endpoint.
 - [rad-security/mcp-server](https://github.com/rad-security/mcp-server): Provides AI-powered security insights for Kubernetes and cloud environments.
 - [Spritualkb/nuclei-mcp](https://github.com/Spritualkb/nuclei-mcp): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
-- [ThreatFlux/YaraFlux](https://github.com/ThreatFlux/YaraFlux): YaraFlux empowers AI assistants to conduct YARA rule-based threat analysis through a modular MCP server architecture, integrating secure scanning and comprehensive rule management.
+- [ThreatFlux/YaraFlux](https://github.com/ThreatFlux/YaraFlux): YaraFlux empowers AI assistants to conduct YARA rule-based threat analysis through a modular MCP server architecture, integrating secure scanning and comprehensive rule management. Archived on GitHub; no longer actively maintained.
 - [lucasoeth/mitmproxy-mcp](https://github.com/lucasoeth/mitmproxy-mcp): Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.
 - [1595901624/crypto-mcp](https://github.com/1595901624/crypto-mcp): Crypto_MCP provides robust encryption, decryption, and hashing capabilities using AES, DES, and various hash algorithms.
 - [sammcj/mcp-snyk](https://github.com/sammcj/mcp-snyk): Facilitates security scanning of repositories and Snyk projects with integration options for Claude desktop and Snyk CLI.
