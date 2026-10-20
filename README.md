@@ -13,7 +13,6 @@
 </div>
 <div style="text-align: left; margin: 20px 0;">
     <a href="https://github.com/TensorBlock/forge" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
-- [moecanales/agent-oracle-beacon](https://github.com/moecanales/agent-oracle-beacon) 📇 ☁️ 🏠 🍎 🪟 🐧 - U.S. residential IP web fetching, DNS and TLS endpoint health auditing, virtual credit card checkout proxy, live U.S. phone verification, and human-in-the-loop bot-wall rescue.
         Explore Forge, our open-source middleware for AI model provider management
     </a>
 </div>
