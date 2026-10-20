@@ -1,0 +1,69 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-web3-security-mcp",
+  "source": {
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-web3-security-mcp"
+  },
+  "description": "Smart contract security audit oracles, Solana token risk scanner, MEV sandwich defense, EIP-712 permit decoder, address poisoning guard, and HTTP 402 challenge verifier.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://diogenes-micro-gateway.corinth.workers.dev/#mcp-packages",
+    "homepage": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "endpoint": "https://diogenes-micro-gateway.corinth.workers.dev/mcp/web3-security"
+  },
+  "install": {
+    "commands": [
+      "Add https://diogenes-micro-gateway.corinth.workers.dev/mcp/web3-security as a remote Streamable HTTP MCP connector"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No auth required for MCP tool discovery or ?demo=true previews.",
+      "Optional L402 Lightning, x402 Solana USDC, or MPP Base USDC headers for production calls."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Windsurf",
+    "VS Code",
+    "Antigravity"
+  ],
+  "tools": {
+    "count": 8,
+    "names": [
+      "contract_audit_security",
+      "solana_token_risk_oracle",
+      "mev_sandwich_risk",
+      "eip712_permit_decoder",
+      "address_poisoning_guard",
+      "http402_challenge_verifier",
+      "utxo_consolidation_planner",
+      "crosschain_bridge_quote"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Published on Official Model Context Protocol Registry as io.github.stand-out-of-my-sun/diogenes-web3-security-mcp.",
+      "Zero-friction remote Streamable HTTP endpoint verified at https://diogenes-micro-gateway.corinth.workers.dev/mcp/web3-security."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "verifiedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  }
+}

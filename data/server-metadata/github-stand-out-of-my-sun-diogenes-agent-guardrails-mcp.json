@@ -1,0 +1,69 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-agent-guardrails-mcp",
+  "source": {
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-agent-guardrails-mcp"
+  },
+  "description": "Pre-execution agent guardrails, bash command sandbox, MCP rugpull diff oracle, sampling gate, output firewall, loop circuit-breaker, and PII scrubber.",
+  "category": "Security",
+  "links": {
+    "docs": "https://diogenes-micro-gateway.corinth.workers.dev/#mcp-packages",
+    "homepage": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "endpoint": "https://diogenes-micro-gateway.corinth.workers.dev/mcp/agent-guardrails"
+  },
+  "install": {
+    "commands": [
+      "Add https://diogenes-micro-gateway.corinth.workers.dev/mcp/agent-guardrails as a remote Streamable HTTP MCP connector"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No auth required for MCP tool discovery or ?demo=true previews.",
+      "Optional L402 Lightning, x402 Solana USDC, or MPP Base USDC headers for production calls."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Windsurf",
+    "VS Code",
+    "Antigravity"
+  ],
+  "tools": {
+    "count": 8,
+    "names": [
+      "agent_guardrail_verify",
+      "bash_command_sandbox",
+      "mcp_rugpull_diff",
+      "mcp_sampling_guard",
+      "tool_output_firewall",
+      "loop_circuit_breaker",
+      "context_compaction_verifier",
+      "pii_scrubber"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Published on Official Model Context Protocol Registry as io.github.stand-out-of-my-sun/diogenes-agent-guardrails-mcp.",
+      "Zero-friction remote Streamable HTTP endpoint verified at https://diogenes-micro-gateway.corinth.workers.dev/mcp/agent-guardrails."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "verifiedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  }
+}
