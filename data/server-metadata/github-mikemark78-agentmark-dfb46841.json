@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mikemark78-agentmark-dfb46841",
+  "source": {
+    "issue": 4254,
+    "projectUrl": "https://github.com/mikemark78/AgentMark"
+  },
+  "links": {
+    "endpoint": "https://agentmarket.fly.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
