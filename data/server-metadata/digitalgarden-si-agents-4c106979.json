@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "digitalgarden-si-agents-4c106979",
+  "source": {
+    "issue": 4196,
+    "projectUrl": "https://digitalgarden.si/agents/"
+  },
+  "links": {
+    "endpoint": "https://mcp.digitalgarden.si/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Actual HTTP and official MCP SDK checks pass. Client setup examples are documented at the project URL",
+    "this is not a claim that all consumer accounts support custom MCP."
+  ],
+  "license": "Hosted public service; implementation is private. Showcase documentation retains its existing rights; no..."
+}
