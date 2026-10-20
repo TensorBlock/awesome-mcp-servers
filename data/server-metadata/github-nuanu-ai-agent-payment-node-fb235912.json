@@ -27,7 +27,14 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #4170. Source: - Merged entry: https://github.com/TensorBlock/awesome-mcp-servers/blob/main/docs/finance--crypto.md - Original submission: https://github.com/TensorBlock/awesome-mcp-servers/pull/4142 - Public README and platform..."
+      "Submitter-reported checks on Apple Silicon macOS with Node 24. Install with brew install nuanu-ai/tap/apn. MCP launch: apn mcp serve. Owner signing stays in a foreground terminal; no independent TensorBlock runtime verification."
     ]
+  },
+  "install": {
+    "commands": [
+      "apn mcp serve"
+    ],
+    "env": [],
+    "confidence": "medium"
   }
 }
