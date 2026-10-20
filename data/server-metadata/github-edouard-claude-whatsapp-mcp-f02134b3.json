@@ -7,9 +7,13 @@
   },
   "install": {
     "commands": [
-      "wa-mcp pair perso --phone 33612345678   # link the account with an 8-character code"
+      "wa-mcp serve"
     ],
-    "env": [],
+    "env": [
+      "WA_DATA_DIR",
+      "WA_READ_ONLY",
+      "RUST_LOG"
+    ],
     "confidence": "medium"
   },
   "transport": [
@@ -17,7 +21,9 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Link the WhatsApp account once by pairing code or QR before launching. No API key."
+    ]
   },
   "clients": [
     "Claude Code",
