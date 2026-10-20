@@ -112,7 +112,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [ThreatFlux/YaraFlux](https://github.com/ThreatFlux/YaraFlux): YaraFlux empowers AI assistants to conduct YARA rule-based threat analysis through a modular MCP server architecture, integrating secure scanning and comprehensive rule management. Archived on GitHub; no longer actively maintained.
 - [lucasoeth/mitmproxy-mcp](https://github.com/lucasoeth/mitmproxy-mcp): Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.
 - [1595901624/crypto-mcp](https://github.com/1595901624/crypto-mcp): Crypto_MCP provides robust encryption, decryption, and hashing capabilities using AES, DES, and various hash algorithms.
-- [sammcj/mcp-snyk](https://github.com/sammcj/mcp-snyk): Facilitates security scanning of repositories and Snyk projects with integration options for Claude desktop and Snyk CLI.
+- [sammcj/mcp-snyk](https://github.com/sammcj/mcp-snyk): Facilitates security scanning of repositories and Snyk projects with integration options for Claude desktop and Snyk CLI. Archived on GitHub; no longer actively maintained.
 - [qianniuspace/mcp-security-audit](https://github.com/qianniuspace/mcp-security-audit): Audits npm package dependencies for security vulnerabilities with real-time checks and automatic fix recommendations.
 - [kapilduraphe/okta-mcp-server](https://github.com/kapilduraphe/okta-mcp-server): Facilitates user and group management in Okta through Claude integration.
 - [secmate-ai/CyberSecurity-MCPs](https://github.com/secmate-ai/CyberSecurity-MCPs): A collection of MCP servers focused on cybersecurity, featuring implementations like SQL injection testing and network space search engines.
