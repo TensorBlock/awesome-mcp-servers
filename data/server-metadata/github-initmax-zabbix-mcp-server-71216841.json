@@ -5,16 +5,13 @@
     "issue": 4184,
     "projectUrl": "https://github.com/initMAX/zabbix-mcp-server"
   },
-  "links": {
-    "endpoint": "http://127.0.0.1:8080/mcp"
-  },
   "transport": [
     "streamable-http"
   ],
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Self-hosted: configure your Zabbix URL and API token, then use the admin portal Client MCP Wizard. OAuth 2.1 or Bearer tokens. Replace http://127.0.0.1:8080/mcp with your deployment URL."
     ]
   },
   "clients": [
@@ -27,5 +24,11 @@
     "JetBrains AI",
     "n8n"
   ],
-  "license": "AGPL-3.0"
+  "license": "AGPL-3.0",
+  "install": {
+    "confidence": "low"
+  },
+  "links": {
+    "docs": "https://github.com/initMAX/zabbix-mcp-server/blob/main/INSTALL.md"
+  }
 }
