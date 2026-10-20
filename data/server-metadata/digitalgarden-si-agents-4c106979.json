@@ -16,8 +16,8 @@
     "notes": []
   },
   "clients": [
-    "Actual HTTP and official MCP SDK checks pass. Client setup examples are documented at the project URL",
-    "this is not a claim that all consumer accounts support custom MCP."
+    "Gemini CLI",
+    "Streamable HTTP MCP clients"
   ],
-  "license": "Hosted public service; implementation is private. Showcase documentation retains its existing rights; no..."
+  "license": "Hosted public service; private implementation. Read access does not transfer rights to source, assets or third-party material."
 }
