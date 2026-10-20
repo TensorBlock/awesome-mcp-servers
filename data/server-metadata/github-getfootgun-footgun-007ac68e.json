@@ -13,7 +13,9 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Read-only lookup tools require no auth; file_trap and confirm_trap require Authorization: Bearer <key>."
+    ]
   },
   "clients": [
     "Claude Code",
