@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "xtiles-app-en-imagine-e88c2100",
+  "source": {
+    "issue": 4284,
+    "projectUrl": "https://xtiles.app/en/imagine/"
+  },
+  "links": {
+    "endpoint": "https://mcp.xtiles.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "Cline",
+    "Raycast",
+    "Postman",
+    "Microsoft 365 Copilot",
+    "other MCP clients with OAuth"
+  ],
+  "license": "Proprietary (hosted service)"
+}
