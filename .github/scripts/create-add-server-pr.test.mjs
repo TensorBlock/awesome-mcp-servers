@@ -433,6 +433,33 @@ test("builds sidecar endpoint, command, and transport from install text", () => 
   });
 });
 
+test("preserves named MCP endpoint paths from connection instructions", () => {
+  for (const endpoint of [
+    "https://example.com/api/quote-mcp",
+    "https://example.com/api/rollfit-mcp?version=1",
+    "https://example.com/api/locale-mcp/",
+  ]) {
+    const submission = {
+      ...parseAddServerIssue(issueBody),
+      install: `Connect using Streamable HTTP to \`${endpoint}\`. Authentication: none.`,
+      transport: "streamable-http",
+    };
+    const metadata = JSON.parse(buildMetadataSidecar({ issue: { number: 751 }, submission }).content);
+    assert.equal(metadata.links.endpoint, endpoint);
+  }
+});
+
+test("prefers an explicitly declared endpoint over a documentation URL", () => {
+  const endpoint = "https://example.com/rpc/receiving?version=1";
+  const submission = {
+    ...parseAddServerIssue(issueBody),
+    install: `Docs URL: https://docs.example.com/mcp\nRemote MCP endpoint: \`${endpoint}\``,
+    transport: "streamable-http",
+  };
+  const metadata = JSON.parse(buildMetadataSidecar({ issue: { number: 752 }, submission }).content);
+  assert.equal(metadata.links.endpoint, endpoint);
+});
+
 test("validates required fields and category", () => {
   const submission = parseAddServerIssue(issueBody);
   assert.deepEqual(validateSubmission(submission), []);
@@ -546,3 +573,4 @@ test("plans ready-for-pr label when a draft PR is created", () => {
   assert.deepEqual(plan.add, ["ready-for-pr"]);
   assert.deepEqual(plan.remove, ["automation-blocked", "needs-metadata"]);
 });
+
