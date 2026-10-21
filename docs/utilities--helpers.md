@@ -15,7 +15,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [dotku/mcpm](https://github.com/dotku/mcpm): Manage and configure multiple MCP servers with ease, supporting filesystem operations and SSE server integration.
 - [adarshem/mcp-server-learn](https://github.com/adarshem/mcp-server-learn): A Node.js-based MCP server offering weather alerts and forecasts using the US National Weather Service API.
 - [dynstat/agents-mcp-clients](https://github.com/dynstat/agents-mcp-clients): Facilitates file system operations via a server-client architecture using MCP.
-- [Kr8thor/n8n-mcp-tool](https://github.com/Kr8thor/n8n-mcp-tool): Facilitates the management of n8n workflows within Docker containers, offering tools for listing, updating, and troubleshooting workflows.
 - [va99/napier](https://github.com/va99/napier): Napier facilitates the installation of MCP servers through prompt-based commands, streamlining the setup process for npm and PyPi hosted servers.
 - [Masa1984a/jrhokkaido_train_info](https://github.com/Masa1984a/jrhokkaido_train_info): Provides real-time train operation information for JR Hokkaido, including delays and cancellations, across various regions.
 - [helebest/my-mcp-lab](https://github.com/helebest/my-mcp-lab): Facilitates the setup and execution of an SSE MCP server for seamless integration with various desktop applications.
