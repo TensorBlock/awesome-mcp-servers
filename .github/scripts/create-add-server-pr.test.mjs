@@ -451,13 +451,20 @@ test("preserves named MCP endpoint paths from connection instructions", () => {
 
 test("prefers an explicitly declared endpoint over a documentation URL", () => {
   const endpoint = "https://example.com/rpc/receiving?version=1";
-  const submission = {
-    ...parseAddServerIssue(issueBody),
-    install: `Docs URL: https://docs.example.com/mcp\nRemote MCP endpoint: \`${endpoint}\``,
-    transport: "streamable-http",
-  };
-  const metadata = JSON.parse(buildMetadataSidecar({ issue: { number: 752 }, submission }).content);
-  assert.equal(metadata.links.endpoint, endpoint);
+  for (const declaration of [
+    `Remote MCP endpoint: \`${endpoint}\``,
+    `**Remote MCP endpoint:** \`${endpoint}\``,
+    `**Remote MCP endpoint**: \`${endpoint}\``,
+    `Remote MCP endpoint: [connect](${endpoint})`,
+  ]) {
+    const submission = {
+      ...parseAddServerIssue(issueBody),
+      install: `Docs URL: https://docs.example.com/mcp\n${declaration}`,
+      transport: "streamable-http",
+    };
+    const metadata = JSON.parse(buildMetadataSidecar({ issue: { number: 752 }, submission }).content);
+    assert.equal(metadata.links.endpoint, endpoint);
+  }
 });
 
 test("validates required fields and category", () => {
