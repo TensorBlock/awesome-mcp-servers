@@ -721,6 +721,13 @@ function extractEnvVars(value) {
 }
 
 function extractEndpoint(value) {
+  // Preserve custom endpoint paths. Prefer the connection URL explicitly
+  // labelled by the submitter over documentation links or path heuristics.
+  const declared = value.match(/\b(?:(?:remote|hosted)\s+)?(?:mcp\s+)?endpoint\s*:\s*[`"<]?(https?:\/\/[^\s`,)\]>"']+)/i);
+  if (declared) {
+    const endpoint = stripUrlPunctuation(declared[1]);
+    if (isValidHttpUrl(endpoint)) return endpoint;
+  }
   const urls = value.match(/https?:\/\/[^\s`,)\]]+/gi) ?? [];
   return urls.map(stripUrlPunctuation).find(looksLikeMcpEndpoint) ?? null;
 }
@@ -748,7 +755,7 @@ function looksLikeMcpEndpoint(url) {
     const hostname = parsed.hostname.toLowerCase();
     const pathname = parsed.pathname.toLowerCase().replace(/\/+$/, "");
 
-    return hostname.startsWith("mcp.") || pathname === "/mcp" || pathname.endsWith("/mcp");
+    return hostname.startsWith("mcp.") || pathname === "/mcp" || pathname.endsWith("/mcp") || /(?:^|\/)[a-z0-9._~-]+-mcp$/.test(pathname);
   } catch {
     return false;
   }
@@ -1073,3 +1080,4 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
     process.exit(1);
   });
 }
+
