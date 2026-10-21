@@ -24,6 +24,22 @@ TensorBlock MCP Index turns this community-curated MCP server directory into a h
 
 **Community cleanup queue:** [Help verify and improve indexed MCP servers](docs/community-cleanup-queue.md)
 
+## ☁️ Run your MCP-powered agent in the cloud
+
+**[LagrangeCloud](https://lgr.tensorblock.co/) · Built by TensorBlock**
+
+Found the MCP tools for your agent? Deploy the agent you built
+in Codex or Claude Code and make it available beyond your terminal.
+
+- Bring your agent instructions, skills, scripts, and supported MCP connections.
+- Call your agent through an API, embed it on your site, or run it on a schedule.
+- Inspect execution traces to see what happened in each run.
+
+Sign up with code **MCP50** for **$5 in credit** to try LagrangeCloud.
+
+**[Sign up & get $5 credit →](https://lgr.tensorblock.co/console/?coupon=MCP50)**
+· [Plugin & setup guide](https://github.com/TensorBlock/lagrange-plugins)
+
 ## MCP Maintainer Quick Start
 
 If you maintain an MCP server, the index can give your project a public profile, install-config previews, API metadata, and a README badge.
