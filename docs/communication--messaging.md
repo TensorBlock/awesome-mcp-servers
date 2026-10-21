@@ -2,6 +2,8 @@
 
 Servers for interacting with email, chat platforms, SMS, or notification services.
 
+- [VaEmail](https://github.com/vaemail/vaemail-mcp): Email infrastructure for AI agents: send, authenticate domains, track delivery and diagnose issues, hosted in France. Install with `npx -y vaemail mcp` (stdio, `VAEMAIL_API_KEY`); hosted endpoint at `https://mcp.vaemail.fr`. Official MCP Registry id `io.github.vaemail/vaemail`. [Docs](https://vaemail.fr/agents.md).
+
 - [BubblaV](https://www.bubblav.com): Official hosted server by the BubblaV team for its AI customer-support chatbot: analytics reports, unanswered questions and content gaps, knowledge base (search, add, upload, crawl), conversations and leads, persona, widget, forms and flows. Hosted Streamable HTTP at `https://www.bubblav.com/mcp` (JSON-RPC alt path `https://www.bubblav.com/api/mcp`); OAuth 2.1 (PKCE, dynamic client registration) or an `X-API-Key` header for headless clients. Official MCP Registry id `io.github.bubblav-org/bubblav`. [Docs](https://docs.bubblav.com/developer-guide/mcp-server).
 
 - [Signatoro](https://signatoro.com/docs/install-signature/agent/mcp): Fetch a person's saved HTML and text email signature, list signatures available to the person and connected AI agents, update the person's signature, create a free signature, and manage company members. Hosted Streamable HTTP endpoint: `https://signatoro.com/mcp`; OAuth 2.1 with dynamic client registration or a Bearer API key. Official MCP Registry id `com.signatoro/signatoro`.
