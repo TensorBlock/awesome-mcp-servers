@@ -723,7 +723,7 @@ function extractEnvVars(value) {
 function extractEndpoint(value) {
   // Preserve custom endpoint paths. Prefer the connection URL explicitly
   // labelled by the submitter over documentation links or path heuristics.
-  const declared = value.match(/\b(?:(?:remote|hosted)\s+)?(?:mcp\s+)?endpoint\s*:\s*[`"<]?(https?:\/\/[^\s`,)\]>"']+)/i);
+  const declared = value.match(/\b(?:(?:remote|hosted)\s+)?(?:mcp\s+)?endpoint(?:\*\*|__|`)?\s*:\s*(?:\*\*|__|`)?\s*(?:\[[^\]\r\n]+\]\(\s*)?[`"<]?(https?:\/\/[^\s`,)\]>"']+)/i);
   if (declared) {
     const endpoint = stripUrlPunctuation(declared[1]);
     if (isValidHttpUrl(endpoint)) return endpoint;
