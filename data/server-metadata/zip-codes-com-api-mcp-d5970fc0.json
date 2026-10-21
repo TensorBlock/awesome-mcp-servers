@@ -10,9 +10,7 @@
   },
   "install": {
     "commands": [],
-    "env": [
-      "YOUR_KEY"
-    ],
+    "env": [],
     "confidence": "low"
   },
   "transport": [
@@ -20,15 +18,16 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Unauthenticated demo mode; optional X-Api-Key header enables the account credit allowance."
+    ]
   },
   "clients": [
     "Claude Code",
-    "Claude Desktop (custom connector",
-    "demo mode)",
+    "Claude Desktop (custom connector, demo mode)",
     "Cursor",
     "VS Code",
-    "any Streamable HTTP client"
+    "Streamable HTTP clients"
   ],
   "license": "Proprietary"
 }
