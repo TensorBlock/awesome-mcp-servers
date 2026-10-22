@@ -94,7 +94,7 @@ const buildNotes = (entry: CatalogEntry): string[] => {
   return notes;
 };
 
-const findLaunchCommand = (commands: string[]): string[] | null => {
+export const findLaunchCommand = (commands: string[]): string[] | null => {
   for (const command of commands) {
     const parts = splitCommand(command);
 

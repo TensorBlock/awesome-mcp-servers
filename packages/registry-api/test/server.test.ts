@@ -324,6 +324,79 @@ describe("registry API server", () => {
     ]);
   });
 
+  it("generates the lgr.yaml entry for LagrangeCloud", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/servers/postgres-mcp/install-config?client=lagrange`);
+    const body = await response.json() as Record<string, unknown>;
+
+    expect(response.status).toBe(200);
+    expect(body).toMatchObject({
+      serverId: "postgres-mcp",
+      client: "lagrange",
+      cloudReady: true,
+      mcp: {
+        name: "postgres-mcp",
+        command: "npx",
+        args: ["-y", "postgres-mcp"],
+        env: { DATABASE_URL: "${DATABASE_URL}" },
+      },
+      secrets: ["DATABASE_URL"],
+    });
+  });
+
+  it("filters search results to servers LagrangeCloud can run", async () => {
+    const hostedOnly = catalogEntry({
+      id: "docker-postgres",
+      name: "Docker Postgres",
+      install: { commands: ["docker run -i postgres-mcp"], env: [], confidence: "high" },
+    });
+    const baseUrl = await startServer([...catalog, hostedOnly]);
+    const response = await fetch(`${baseUrl}/v1/servers?query=postgres&cloud=true`);
+    const body = await response.json() as { filters: { cloud: boolean }; servers: Array<{ id: string; cloudReady: boolean }> };
+
+    expect(response.status).toBe(200);
+    expect(body.filters.cloud).toBe(true);
+    expect(body.servers.map((server) => server.id)).toEqual(["postgres-mcp"]);
+    expect(body.servers[0].cloudReady).toBe(true);
+  });
+
+  it("rejects an unknown cloud filter value", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/servers?cloud=maybe`);
+
+    expect(response.status).toBe(400);
+  });
+
+  it("recommends servers from a description of the agent", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/recommend?text=${encodeURIComponent("Answer questions from our Postgres database")}`);
+    const body = await response.json() as { count: number; cloud: boolean; servers: Array<{ id: string; lagrange: { cloudReady: boolean } }> };
+
+    expect(response.status).toBe(200);
+    expect(body.cloud).toBe(true);
+    expect(body.servers.map((server) => server.id)).toEqual(["postgres-mcp"]);
+    expect(body.servers[0].lagrange.cloudReady).toBe(true);
+  });
+
+  it("recommends servers for each need the agent lists", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/recommend?needs=postgres,unknown+thing`);
+    const body = await response.json() as { needs: Array<{ need: string; servers: Array<{ id: string }> }> };
+
+    expect(response.status).toBe(200);
+    expect(body.needs.map((group) => [group.need, group.servers.map((server) => server.id)])).toEqual([
+      ["postgres", ["postgres-mcp"]],
+      ["unknown thing", []],
+    ]);
+  });
+
+  it("asks for a description or needs when recommend gets neither", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/recommend`);
+
+    expect(response.status).toBe(400);
+  });
+
   it("returns JSON errors for missing profile pages", async () => {
     const baseUrl = await startServer();
     const response = await fetch(`${baseUrl}/servers/missing`);

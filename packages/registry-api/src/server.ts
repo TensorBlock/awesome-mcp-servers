@@ -6,6 +6,7 @@ import {
   generateClientConfig,
   type ClientName,
 } from "../../config-generator/src/generateConfig.js";
+import { generateLagrangeConfig } from "../../config-generator/src/generateLagrangeConfig.js";
 import {
   findServer,
   listCategories,
@@ -14,6 +15,7 @@ import {
   normalizeLimit,
   searchCatalog,
 } from "./search.js";
+import { recommendForNeeds, recommendServers } from "./recommend.js";
 import { renderServerProfilePage } from "./profilePage.js";
 import { webProfileTemplate } from "./webProfile.js";
 import { renderBadgeSvg, renderMissingServerBadgeSvg } from "./badge.js";
@@ -136,6 +138,11 @@ const handleRequest = async (
       return;
     }
 
+    if (segments[1] === "recommend" && segments.length === 2) {
+      handleRecommend(url, response, state.catalog);
+      return;
+    }
+
     if (segments[1] === "servers" && segments.length === 2) {
       handleSearch(url, response, state.catalog);
       return;
@@ -183,12 +190,15 @@ const handleRequest = async (
 const discoveryPayload = (state: RegistryApiState) => ({
   name: "TensorBlock MCP Index API",
   version: "v1",
-  description: "Search MCP servers, inspect catalog profiles, and generate MCP client install configs.",
+  description: "Search MCP servers, recommend servers for an agent, inspect catalog profiles, and generate MCP client install configs.",
   catalogEntries: state.catalog.length,
   endpoints: {
     health: "/health",
     categories: "/v1/categories",
     searchServers: "/v1/servers?query=postgres&limit=5",
+    searchCloudReadyServers: "/v1/servers?query=postgres&cloud=true",
+    recommendServers: "/v1/recommend?text=Triage+new+GitHub+issues+and+post+a+summary+to+Slack",
+    recommendServersForNeeds: "/v1/recommend?needs=github,slack,web+search",
     recentServers: "/v1/servers/recent?limit=12",
     updatedServers: "/v1/servers/updated?limit=12",
     getServer: "/v1/servers/{id}",
@@ -196,6 +206,7 @@ const discoveryPayload = (state: RegistryApiState) => ({
     apiHtmlProfile: "/servers/{id}",
     badge: "/v1/servers/{id}/badge.svg",
     getInstallConfig: "/v1/servers/{id}/install-config?client=claude-desktop",
+    getLagrangeConfig: "/v1/servers/{id}/install-config?client=lagrange",
   },
   docs: "https://github.com/TensorBlock/awesome-mcp-servers/blob/main/docs/index-api.md",
 });
@@ -238,6 +249,13 @@ const handleSearch = (
     return;
   }
 
+  const cloud = optionalBoolean(url.searchParams.get("cloud"), "cloud");
+
+  if (cloud instanceof Error) {
+    sendError(response, 400, cloud.message);
+    return;
+  }
+
   const rawLimit = url.searchParams.get("limit");
   const limit = normalizeLimit(rawLimit ? Number(rawLimit) : undefined);
   const servers = searchCatalog(catalog, {
@@ -245,6 +263,7 @@ const handleSearch = (
     category: url.searchParams.get("category") ?? undefined,
     transport,
     auth,
+    cloud,
     limit,
   });
 
@@ -256,7 +275,55 @@ const handleSearch = (
       category: url.searchParams.get("category"),
       transport: transport ?? null,
       auth: auth ?? null,
+      cloud: cloud ?? false,
     },
+    servers,
+  });
+};
+
+const handleRecommend = (
+  url: URL,
+  response: ServerResponse,
+  catalog: CatalogEntry[]
+): void => {
+  const text = url.searchParams.get("text")?.trim() ?? "";
+  const needs = (url.searchParams.get("needs") ?? "").split(",").map((need) => need.trim()).filter(Boolean);
+
+  if (!text && needs.length === 0) {
+    sendError(response, 400, "Describe the agent in the text parameter, or list what it needs in needs (comma-separated).");
+    return;
+  }
+
+  const cloud = optionalBoolean(url.searchParams.get("cloud"), "cloud");
+
+  if (cloud instanceof Error) {
+    sendError(response, 400, cloud.message);
+    return;
+  }
+
+  if (needs.length > 0) {
+    const rawPerNeed = url.searchParams.get("perNeed");
+    sendJson(response, 200, {
+      cloud: cloud ?? true,
+      needs: recommendForNeeds(catalog, {
+        needs,
+        perNeed: rawPerNeed ? Number(rawPerNeed) : undefined,
+        cloudOnly: cloud ?? true,
+      }),
+    });
+    return;
+  }
+
+  const rawLimit = url.searchParams.get("limit");
+  const servers = recommendServers(catalog, {
+    text,
+    limit: rawLimit ? Number(rawLimit) : undefined,
+    cloudOnly: cloud ?? true,
+  });
+
+  sendJson(response, 200, {
+    count: servers.length,
+    cloud: cloud ?? true,
     servers,
   });
 };
@@ -274,10 +341,17 @@ const handleInstallConfig = (
     return;
   }
 
-  const client = normalizeClientName(url.searchParams.get("client") ?? "claude-desktop");
+  const requestedClient = url.searchParams.get("client") ?? "claude-desktop";
+
+  if (requestedClient.toLowerCase() === "lagrange") {
+    sendJson(response, 200, generateLagrangeConfig(entry));
+    return;
+  }
+
+  const client = normalizeClientName(requestedClient);
 
   if (!client) {
-    sendError(response, 400, "Unsupported client. Use claude-desktop, cursor, codex, or vscode.");
+    sendError(response, 400, "Unsupported client. Use claude-desktop, cursor, codex, vscode, or lagrange.");
     return;
   }
 
@@ -320,6 +394,22 @@ const optionalAuthType = (auth: string | null): AuthType | undefined | Error => 
   return AUTH_TYPES.has(auth as AuthType)
     ? auth as AuthType
     : new Error(`Unsupported auth type: ${auth}`);
+};
+
+const optionalBoolean = (value: string | null, name: string): boolean | undefined | Error => {
+  if (value === null || value === "") {
+    return undefined;
+  }
+
+  if (value === "true" || value === "1") {
+    return true;
+  }
+
+  if (value === "false" || value === "0") {
+    return false;
+  }
+
+  return new Error(`Unsupported ${name} value: ${value}. Use true or false.`);
 };
 
 const sendJson = (response: ServerResponse, statusCode: number, value: unknown): void => {

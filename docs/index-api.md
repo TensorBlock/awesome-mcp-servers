@@ -15,12 +15,14 @@ GET /
 GET /health
 GET /v1
 GET /v1/categories
-GET /v1/servers?query=&category=&transport=&auth=&limit=
+GET /v1/servers?query=&category=&transport=&auth=&cloud=&limit=
+GET /v1/recommend?text=&cloud=&limit=
+GET /v1/recommend?needs=&cloud=&perNeed=
 GET /v1/servers/recent?limit=
 GET /v1/servers/updated?limit=
 GET /v1/servers/{id}
 GET /v1/servers/{id}/badge.svg
-GET /v1/servers/{id}/install-config?client=claude-desktop|cursor|codex|vscode
+GET /v1/servers/{id}/install-config?client=claude-desktop|cursor|codex|vscode|lagrange
 ```
 
 ## Examples
@@ -62,6 +64,14 @@ Filter by category and transport:
 curl "$MCP_INDEX_API_URL/v1/servers?category=Databases&transport=stdio"
 ```
 
+Only return servers a LagrangeCloud agent can use: a hosted endpoint, or an `npx`/`uvx` package its sandbox can start:
+
+```bash
+curl "$MCP_INDEX_API_URL/v1/servers?query=postgres&cloud=true"
+```
+
+Every server summary includes `cloudReady` for the same check.
+
 Fetch recently added servers:
 
 ```bash
@@ -101,6 +111,63 @@ Generate an install config:
 ```bash
 curl "$MCP_INDEX_API_URL/v1/servers/github-crystaldba-postgres-mcp-22e80ea8/install-config?client=claude-desktop"
 ```
+
+## LagrangeCloud
+
+LagrangeCloud runs agents in a cloud sandbox and lists their MCP servers under `mcp:` in `lgr.yaml`. These endpoints let it suggest servers when a user creates or deploys an agent.
+
+Generate the `lgr.yaml` entry for a server:
+
+```bash
+curl "$MCP_INDEX_API_URL/v1/servers/github-crystaldba-postgres-mcp-22e80ea8/install-config?client=lagrange"
+```
+
+```json
+{
+  "serverId": "github-crystaldba-postgres-mcp-22e80ea8",
+  "client": "lagrange",
+  "confidence": "high",
+  "cloudReady": true,
+  "mcp": {
+    "name": "postgres-mcp",
+    "command": "uvx",
+    "args": ["postgres-mcp", "--access-mode=restricted"],
+    "env": { "DATABASE_URI": "${DATABASE_URI}" }
+  },
+  "secrets": ["DATABASE_URI"],
+  "signIn": false,
+  "notes": ["Every environment variable is listed as a secret; drop the ones this agent doesn't need."]
+}
+```
+
+`mcp` is the entry to add under `mcp:`, or `null` when the sandbox can't run the server. A hosted server is `{ name, url, secret? }`, where `secret` names the secret sent as a bearer token. A package is `{ name, command, args, env? }`. `secrets` lists the names to store with `lgr secrets set`. `signIn` is true when the user signs in to the server through OAuth on the agent's page after deploying.
+
+Recommend servers for an agent from a description of it, such as its AGENTS.md or what the user typed when creating it:
+
+```bash
+curl "$MCP_INDEX_API_URL/v1/recommend?text=Triage+new+GitHub+issues+every+morning+and+post+a+summary+to+Slack"
+```
+
+The ranking favors servers whose name or domain matches a tool the agent mentions, prefers reviewed servers with a high install confidence, and suggests one server per tool before a second for the same tool. Each result is a server summary plus `score`, `matchedTerms`, and the `lagrange` install config above.
+
+When the caller can name what the agent needs, for example an LLM that read the agent's instructions, ask for each need instead. Common needs such as web search rank better this way than inside a longer description:
+
+```bash
+curl "$MCP_INDEX_API_URL/v1/recommend?needs=github,slack,web+search&perNeed=3"
+```
+
+```json
+{
+  "cloud": true,
+  "needs": [
+    { "need": "github", "servers": [{ "id": "github-github-github-mcp-server-faa31886", "...": "..." }] },
+    { "need": "slack", "servers": [{ "id": "docs-slack-dev-ai-slack-mcp-server-6c5eedff", "...": "..." }] },
+    { "need": "web search", "servers": [{ "id": "github-firecrawl-firecrawl-mcp-server-96f88187", "...": "..." }] }
+  ]
+}
+```
+
+Both forms return only servers LagrangeCloud can run; pass `cloud=false` to include the rest.
 
 ## Railway Deployment
 

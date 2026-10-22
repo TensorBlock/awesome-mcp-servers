@@ -1,4 +1,5 @@
 import type { CatalogEntry, AuthType, Transport } from "../../catalog-builder/src/types.js";
+import { cloudRuntime } from "../../config-generator/src/generateLagrangeConfig.js";
 import { webProfileUrl } from "./webProfile.js";
 
 export interface CatalogSearchFilters {
@@ -6,6 +7,7 @@ export interface CatalogSearchFilters {
   category?: string;
   transport?: Transport;
   auth?: AuthType;
+  cloud?: boolean;
   limit?: number;
 }
 
@@ -18,6 +20,7 @@ export interface ServerSummary {
   auth: AuthType;
   installConfidence: CatalogEntry["install"]["confidence"];
   installReady: boolean;
+  cloudReady: boolean;
   verifiedAt: string | null;
   primaryUrl: string;
   profilePath: string;
@@ -49,6 +52,7 @@ export const summarizeServer = (entry: CatalogEntry): ServerSummary => ({
   auth: entry.auth.type,
   installConfidence: entry.install.confidence,
   installReady: entry.installReady,
+  cloudReady: cloudRuntime(entry) !== null,
   verifiedAt: entry.verifiedAt,
   primaryUrl: entry.links.primary,
   profilePath: `/v1/servers/${entry.id}`,
@@ -158,6 +162,10 @@ const matchesFilters = (entry: CatalogEntry, filters: CatalogSearchFilters): boo
   }
 
   if (filters.auth && entry.auth.type !== filters.auth) {
+    return false;
+  }
+
+  if (filters.cloud && cloudRuntime(entry) === null) {
     return false;
   }
 
