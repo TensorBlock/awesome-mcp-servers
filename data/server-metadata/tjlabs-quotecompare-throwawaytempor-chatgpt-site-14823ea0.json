@@ -15,5 +15,8 @@
   "clients": [
     "MCP clients supporting remote Streamable HTTP"
   ],
-  "license": "Proprietary hosted service with free public comparison tools."
+  "license": "Proprietary hosted service with free public comparison tools.",
+  "links": {
+    "endpoint": "https://tjlabs-quotecompare.throwawaytempor.chatgpt.site/api/quote-mcp"
+  }
 }
