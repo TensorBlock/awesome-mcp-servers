@@ -2,6 +2,8 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [Nitrosend](https://github.com/nitrosend/mcp): Manage branded email and SMS campaigns, contacts, automation flows, and transactional messages through Nitrosend. Connect directly to the hosted Streamable HTTP MCP at `https://api.nitrosend.com/mcp` with OAuth; an optional MIT-licensed stdio bridge uses a Nitrosend API key for clients without HTTP transport. [MCP setup](https://docs.nitrosend.com/mcp).
+
 - [New Term Radar (io.github.zhuyansen/new-term-radar)](https://github.com/zhuyansen/new-term-radar): Catch the names of new AI models, products and repos on X, Hugging Face, GitHub and sitemaps before keyword tools list them, then get a keyword table for any names you give it: the generic search terms behind each name, sized with Google Ads volume and Google Trends, checked for room on Google's first page and given a decision (prioritize, watch or skip). Three tools: `recent_leads` (free), `keyword_table` and `run_radar` (paid lookups through an AIsa API key). Local stdio: `uvx --with mcp new-term-radar mcp`. License: MIT.
 - [harshmaur/apify-facebook-ads-library-scraper](https://github.com/harshmaur/apify-facebook-ads-library-scraper): Gives agents Meta Ad Library ads for an advertiser or keyword, with copy, creative links, dates and disclosed audience statistics. Hosted Streamable HTTP at `https://mcp.apify.com/?tools=harshmaur/facebook-ads-library-scraper`; requires an Apify sign-in or token. Pay per ad. MIT.
 
