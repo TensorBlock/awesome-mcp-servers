@@ -44,7 +44,6 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server): Facilitates AI-driven interactions with Twitter, enabling tweet management and user engagement through natural language commands.
 - [shariqriazz/upsplash-mcp-server](https://github.com/shariqriazz/upsplash-mcp-server): Facilitates interaction with the Unsplash API for photo searching and downloading through MCP tools.
 - [funtuan/tw-kfc-coupon-mcp](https://github.com/funtuan/tw-kfc-coupon-mcp): Facilitates the search for KFC Taiwan coupons using the MCP protocol, enabling seamless integration with AI-driven applications.
-- [LuniaKunal/mcp-twitter](https://github.com/LuniaKunal/mcp-twitter): Facilitates programmatic management of Twitter accounts with features like timeline retrieval, hashtag search, and direct messaging.
 - [yorickchan/mcp_youtube_dlp](https://github.com/yorickchan/mcp_youtube_dlp): Facilitates AI assistants in downloading YouTube videos and audio using yt-dlp.
 - [ganyariya/misskey-mcp-server](https://github.com/ganyariya/misskey-mcp-server): Facilitates posting notes to Misskey using an unofficial MCP server implementation.
 - [saginawj/mcp-reddit-companion](https://github.com/saginawj/mcp-reddit-companion): Enhance your Reddit experience with natural language interaction, enabling custom curated feeds and content analysis using your preferred LLM client.
