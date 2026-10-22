@@ -13,11 +13,13 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Public discovery requires no credentials; private account tools require OAuth."
+    ]
   },
   "clients": [
-    "Claude and MCP clients supporting Streamable HTTP",
-    "the official repository includes Claude/ChatGPT configuration. Native Grok installation has not been verified."
+    "Claude",
+    "MCP clients supporting Streamable HTTP"
   ],
   "license": "MIT for the public plugin files; hosted backend not distributed"
 }
