@@ -45,7 +45,7 @@
     "status": "self_reported",
     "notes": [
       "The maintained plugin README documents the hosted endpoint, two discovery tools, and separate local execution.",
-      "The plugin’s 512px logo matches the current Mechanism symbol served on runx.ai."
+      "The plugin\u2019s 512px logo matches the current Mechanism symbol served on runx.ai."
     ]
   },
   "community": {
