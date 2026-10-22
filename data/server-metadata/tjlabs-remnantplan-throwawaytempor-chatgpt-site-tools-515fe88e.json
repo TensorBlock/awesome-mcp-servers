@@ -17,8 +17,5 @@
       "oauth"
     ]
   },
-  "clients": [
-    "Client-by-client compatibility review in progress."
-  ],
-  "license": "Proprietary hosted implementation. The remote planning tools are free to use, and users own their generated plans..."
+  "license": "Proprietary hosted implementation. Remote planning tools are free to use; users own generated plans and cut lists under the linked tool terms."
 }
