@@ -15,5 +15,8 @@
   "clients": [
     "Custom Python MCP client (protocol smoke check)"
   ],
-  "license": "Proprietary (free hosted use; see public product terms)"
+  "license": "Proprietary (free hosted use; see public product terms)",
+  "links": {
+    "endpoint": "https://tjl-locale-desk.throwawaytempor.chatgpt.site/api/locale-mcp"
+  }
 }
