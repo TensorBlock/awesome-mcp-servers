@@ -1,6 +1,7 @@
 ## 🌐 Browser Automation & Web Scraping
 
 Servers using tools for browser control, automation, and extracting content from websites.
+- [ContextQA MCP](https://mcp.contextqa.com/docs): Hosted MCP server for creating and running end-to-end tests and investigating failures, with OAuth browser sign-in. Transport: Streamable HTTP. Endpoint: `https://mcp.contextqa.com/mcp`. Proprietary hosted service.
 - [harshmaur/apify-linkedin-jobs-scraper](https://github.com/harshmaur/apify-linkedin-jobs-scraper): Gives an agent LinkedIn job postings by title, location and date posted, with salary, seniority, recruiter and optional company data. Hosted Streamable HTTP at `https://mcp.apify.com/?tools=harshmaur/linkedin-jobs-scraper` (Apify sign-in or token as Bearer). Pay per job on Apify. MIT.
 
 - [browser-use/browser-use](https://github.com/browser-use/browser-use): Official Browser Use MCP server. Hosted: runs browser agent tasks on Browser Use Cloud stealth browsers with proxies, persistent profiles and a live view URL. Tools: `run_session`, `get_session`, `send_task`, `stop_session`, `get_session_messages`, `list_sessions`, `list_browser_profiles`. Hosted Streamable HTTP endpoint at `https://api.browser-use.com/v3/mcp` (`Authorization: Bearer <API_KEY>`). Local: `uvx --from 'browser-use[cli]' browser-use --mcp` drives a local browser over stdio with your own LLM key. Transport: stdio, Streamable HTTP. Auth: API key (hosted), none (local). License: MIT. Docs: https://docs.browser-use.com/cloud/guides/mcp-server. Official MCP Registry: `com.browser-use/browser-use`.
