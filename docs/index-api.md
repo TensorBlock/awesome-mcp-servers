@@ -114,7 +114,7 @@ curl "$MCP_INDEX_API_URL/v1/servers/github-crystaldba-postgres-mcp-22e80ea8/inst
 
 ## LagrangeCloud
 
-LagrangeCloud runs agents in a cloud sandbox and lists their MCP servers under `mcp:` in `lgr.yaml`. These endpoints let it suggest servers when a user creates or deploys an agent.
+LagrangeCloud runs agents in a cloud sandbox and lists their MCP servers under `mcp_servers:` in `lgr.yaml`. These endpoints let it suggest servers when a user creates or deploys an agent.
 
 Generate the `lgr.yaml` entry for a server:
 
@@ -140,7 +140,7 @@ curl "$MCP_INDEX_API_URL/v1/servers/github-crystaldba-postgres-mcp-22e80ea8/inst
 }
 ```
 
-`mcp` is the entry to add under `mcp:`, or `null` when the sandbox can't run the server. A hosted server is `{ name, url, secret? }`, where `secret` names the secret sent as a bearer token. A package is `{ name, command, args, env? }`. `secrets` lists the names to store with `lgr secrets set`. `signIn` is true when the user signs in to the server through OAuth on the agent's page after deploying.
+`mcp` is the entry to add under `mcp_servers:`, or `null` when the sandbox can't run the server. A hosted server is `{ name, url, secret? }`, where `secret` names the secret sent as a bearer token. A package is `{ name, command, args, env? }`. `secrets` lists the names to store with `lgr secrets set`. `signIn` is true when the user signs in to the server through OAuth on the agent's page after deploying.
 
 Recommend servers for an agent from a description of it, such as its AGENTS.md or what the user typed when creating it:
 

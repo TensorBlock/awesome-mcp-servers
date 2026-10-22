@@ -8,7 +8,7 @@ export type CloudRuntime =
   | { kind: "remote"; url: string }
   | { kind: "command"; command: "npx" | "uvx"; args: string[] };
 
-// One entry under `mcp:` in an agent's lgr.yaml, in the shape `lgr import` writes.
+// One entry under `mcp_servers:` in an agent's lgr.yaml, in the shape `lgr import` writes.
 export type LagrangeMcpServer =
   | {
       name: string;
