@@ -13,9 +13,10 @@
     "notes": []
   },
   "clients": [
-    "Custom HTTP MCP reviewer client",
-    "using protocol version 2025-11-25. Public initialize",
-    "tool discovery and all five planning/comparison review cases were executed successfully on 21 October 2026. Named-client installation checks continue in the existing publisher workflow."
+    "Custom HTTP MCP reviewer client (protocol smoke check)"
   ],
-  "license": "Proprietary hosted implementation. The public calculation tools are free to use under the linked terms."
+  "license": "Proprietary hosted implementation. The public calculation tools are free to use under the linked terms.",
+  "links": {
+    "endpoint": "https://tjl-rollfit.throwawaytempor.chatgpt.site/api/rollfit-mcp"
+  }
 }
