@@ -3,18 +3,26 @@ import {
   generateLagrangeConfig,
   type LagrangeConfig,
 } from "../../config-generator/src/generateLagrangeConfig.js";
+import { isHealthy, withCheckedAuth, type ServerHealth } from "./health.js";
 import { normalizeLimit, summarizeServer, type ServerSummary } from "./search.js";
 
-export interface RecommendOptions {
-  text: string;
-  limit?: number;
+interface FilterOptions {
+  // Only servers LagrangeCloud's sandbox can run. Defaults to true.
   cloudOnly?: boolean;
+  // Only servers whose last live check passed.
+  checkedOnly?: boolean;
+  // The latest live check per server, when the caller runs them.
+  health?: (serverId: string) => ServerHealth | undefined;
 }
 
-export interface NeedsOptions {
+export interface RecommendOptions extends FilterOptions {
+  text: string;
+  limit?: number;
+}
+
+export interface NeedsOptions extends FilterOptions {
   needs: string[];
   perNeed?: number;
-  cloudOnly?: boolean;
 }
 
 export interface NeedRecommendation {
@@ -25,6 +33,7 @@ export interface NeedRecommendation {
 export interface Recommendation extends ServerSummary {
   score: number;
   matchedTerms: string[];
+  check: ServerHealth | null;
   lagrange: LagrangeConfig;
 }
 
@@ -33,7 +42,7 @@ interface IndexedEntry {
   name: Set<string>;
   description: Set<string>;
   category: Set<string>;
-  lagrange: LagrangeConfig;
+  cloudReady: boolean;
   quality: number;
   trusted: boolean;
 }
@@ -54,6 +63,8 @@ const CANDIDATE_POOL = 200;
 const COVERED_TERM_WEIGHT = 0.3;
 // Later picks scoring under this share of the first pick are noise, not suggestions.
 const MIN_SHARE_OF_TOP = 0.3;
+// A server that just passed a live check outranks one nobody has checked.
+const CHECKED_BOOST = 1.3;
 
 // Hosting and registry domains say where a server lives, not what it does.
 const GENERIC_HOSTS = new Set([
@@ -94,18 +105,10 @@ export const recommendServers = (
     return [];
   }
 
-  const index = recommendIndex(catalog);
-  const cloudOnly = options.cloudOnly ?? true;
   const limit = normalizeLimit(options.limit ?? DEFAULT_RECOMMEND_LIMIT);
+  const candidates = scoreCandidates(recommendIndex(catalog), terms, options).slice(0, CANDIDATE_POOL);
 
-  const candidates = index.entries
-    .filter((indexed) => !cloudOnly || indexed.lagrange.cloudReady)
-    .map((indexed) => scoreIndexedEntry(indexed, terms, index.idf))
-    .filter((scored): scored is ScoredRecommendation => scored !== null)
-    .sort(compareScored)
-    .slice(0, CANDIDATE_POOL);
-
-  return pickDiverse(candidates, limit).map(toRecommendation);
+  return pickDiverse(candidates, limit).map((scored) => toRecommendation(scored, options));
 };
 
 // Ranks servers separately for each need an agent has, such as "github",
@@ -118,7 +121,6 @@ export const recommendForNeeds = (
   options: NeedsOptions
 ): NeedRecommendation[] => {
   const index = recommendIndex(catalog);
-  const cloudOnly = options.cloudOnly ?? true;
   const perNeed = Math.min(Math.max(Math.floor(options.perNeed ?? DEFAULT_PER_NEED), 1) || DEFAULT_PER_NEED, MAX_PER_NEED);
   const needs = [...new Set(options.needs.map((need) => need.trim()).filter(Boolean))].slice(0, MAX_NEEDS);
 
@@ -126,24 +128,69 @@ export const recommendForNeeds = (
     const terms = [...new Set(tokenize(need.slice(0, 200)))];
     const servers = terms.length === 0
       ? []
-      : index.entries
-          .filter((indexed) => !cloudOnly || indexed.lagrange.cloudReady)
-          .map((indexed) => scoreIndexedEntry(indexed, terms, index.idf))
-          .filter((scored): scored is ScoredRecommendation => scored !== null && scored.matchedTerms.length === terms.length)
-          .sort(compareScored)
+      : scoreCandidates(index, terms, options)
+          .filter((scored) => scored.matchedTerms.length === terms.length)
           .slice(0, perNeed)
-          .map(toRecommendation);
+          .map((scored) => toRecommendation(scored, options));
 
     return { need, servers };
   });
 };
 
-const toRecommendation = ({ indexed, score, matchedTerms }: ScoredRecommendation): Recommendation => ({
-  ...summarizeServer(indexed.entry),
-  score: Math.round(score * 100) / 100,
-  matchedTerms,
-  lagrange: indexed.lagrange,
-});
+// Scores every eligible server, best first. A server whose last live check
+// failed is never suggested, since a dead server breaks the agent's first run.
+const scoreCandidates = (
+  index: RecommendIndex,
+  terms: string[],
+  options: FilterOptions
+): ScoredRecommendation[] => {
+  const cloudOnly = options.cloudOnly ?? true;
+  const scored: ScoredRecommendation[] = [];
+
+  for (const indexed of index.entries) {
+    if (cloudOnly && !indexed.cloudReady) {
+      continue;
+    }
+
+    const health = options.health?.(indexed.entry.id);
+
+    if (health?.status === "failing" || (options.checkedOnly && !isHealthy(health))) {
+      continue;
+    }
+
+    const result = scoreIndexedEntry(indexed, terms, index.idf);
+
+    if (!result) {
+      continue;
+    }
+
+    if (isHealthy(health)) {
+      result.score *= CHECKED_BOOST;
+      for (const [term, contribution] of result.contributions) {
+        result.contributions.set(term, contribution * CHECKED_BOOST);
+      }
+    }
+
+    scored.push(result);
+  }
+
+  return scored.sort(compareScored);
+};
+
+const toRecommendation = (
+  { indexed, score, matchedTerms }: ScoredRecommendation,
+  options: FilterOptions
+): Recommendation => {
+  const health = options.health?.(indexed.entry.id);
+
+  return {
+    ...summarizeServer(indexed.entry),
+    score: Math.round(score * 100) / 100,
+    matchedTerms,
+    check: health ?? null,
+    lagrange: generateLagrangeConfig(withCheckedAuth(indexed.entry, health)),
+  };
+};
 
 interface ScoredRecommendation {
   indexed: IndexedEntry;
@@ -267,7 +314,7 @@ const recommendIndex = (catalog: CatalogEntry[]): RecommendIndex => {
     name: new Set([...tokenize(withoutRegistryIds(entry.name)), ...tokenize(hostWords(entry))]),
     description: new Set(tokenize(entry.description)),
     category: new Set(tokenize(entry.category)),
-    lagrange: generateLagrangeConfig(entry),
+    cloudReady: generateLagrangeConfig(entry).cloudReady,
     quality: qualityFactor(entry),
     trusted: (entry.verification.status === "verified" || entry.verification.status === "partial")
       && entry.install.confidence === "high",

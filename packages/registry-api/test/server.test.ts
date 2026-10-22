@@ -390,6 +390,24 @@ describe("registry API server", () => {
     ]);
   });
 
+  it("returns only checked servers when verified=true", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/recommend?needs=postgres&verified=true`);
+    const body = await response.json() as { verified: boolean; needs: Array<{ servers: unknown[] }> };
+
+    expect(response.status).toBe(200);
+    expect(body.verified).toBe(true);
+    expect(body.needs[0].servers).toEqual([]);
+  });
+
+  it("reports server checks as disabled when the API runs without them", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/health`);
+    const body = await response.json() as { serverChecks: { enabled: boolean } };
+
+    expect(body.serverChecks).toEqual({ enabled: false });
+  });
+
   it("asks for a description or needs when recommend gets neither", async () => {
     const baseUrl = await startServer();
     const response = await fetch(`${baseUrl}/v1/recommend`);

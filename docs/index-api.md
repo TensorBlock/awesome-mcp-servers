@@ -169,6 +169,17 @@ curl "$MCP_INDEX_API_URL/v1/recommend?needs=github,slack,web+search&perNeed=3"
 
 Both forms return only servers LagrangeCloud can run; pass `cloud=false` to include the rest.
 
+### Live server checks
+
+The API checks every server LagrangeCloud could run when it starts, then every 12 hours. A hosted server passes when it completes an MCP `initialize` request or answers with a sign-in challenge (HTTP 401/403); a package passes when npm or PyPI has it. Servers checked for the first time go first, so entries merged since the last deploy are covered early in the run.
+
+- Recommendations never include a server whose last check failed, and rank servers that passed above unchecked ones.
+- `verified=true` keeps to servers whose last check passed, for callers that attach suggestions to an agent without asking the user.
+- Each recommendation and `install-config?client=lagrange` include `check`: `{ status, auth, detail, checkedAt }`, or `null` before the first check of that server. When the catalog doesn't know a hosted server's auth, the auth its endpoint asked for is used in the `lgr.yaml` entry.
+- `/health` reports progress under `serverChecks`.
+
+Results live in memory and are rebuilt after each deploy; a full run over about 1,600 servers takes about six minutes. Set `SERVER_CHECKS=off` to disable checks, or `SERVER_CHECK_INTERVAL_HOURS` to change how often they run.
+
 ## Railway Deployment
 
 The API is designed to run as a Railway service from this repository.

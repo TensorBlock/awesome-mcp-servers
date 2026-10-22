@@ -15,6 +15,7 @@ import {
   normalizeLimit,
   searchCatalog,
 } from "./search.js";
+import { HealthMonitor, withCheckedAuth } from "./health.js";
 import { recommendForNeeds, recommendServers } from "./recommend.js";
 import { renderServerProfilePage } from "./profilePage.js";
 import { webProfileTemplate } from "./webProfile.js";
@@ -36,7 +37,10 @@ interface RegistryApiState {
   catalog: CatalogEntry[];
   loadedAt: string;
   build: BuildInfo;
+  health?: HealthMonitor;
 }
+
+const DEFAULT_HEALTH_CHECK_INTERVAL_HOURS = 12;
 
 export interface BuildInfo {
   commitSha: string | null;
@@ -103,6 +107,7 @@ const handleRequest = async (
         loadedAt: state.loadedAt,
         build: state.build,
         uptimeSeconds: Math.floor((Date.now() - startedAt.getTime()) / 1000),
+        serverChecks: state.health?.summary() ?? { enabled: false },
       });
       return;
     }
@@ -139,7 +144,7 @@ const handleRequest = async (
     }
 
     if (segments[1] === "recommend" && segments.length === 2) {
-      handleRecommend(url, response, state.catalog);
+      handleRecommend(url, response, state);
       return;
     }
 
@@ -176,7 +181,7 @@ const handleRequest = async (
     }
 
     if (segments[1] === "servers" && segments[3] === "install-config" && segments.length === 4) {
-      handleInstallConfig(url, response, state.catalog, segments[2]);
+      handleInstallConfig(url, response, state, segments[2]);
       return;
     }
 
@@ -199,6 +204,7 @@ const discoveryPayload = (state: RegistryApiState) => ({
     searchCloudReadyServers: "/v1/servers?query=postgres&cloud=true",
     recommendServers: "/v1/recommend?text=Triage+new+GitHub+issues+and+post+a+summary+to+Slack",
     recommendServersForNeeds: "/v1/recommend?needs=github,slack,web+search",
+    recommendCheckedServers: "/v1/recommend?needs=github,slack&verified=true",
     recentServers: "/v1/servers/recent?limit=12",
     updatedServers: "/v1/servers/updated?limit=12",
     getServer: "/v1/servers/{id}",
@@ -284,7 +290,7 @@ const handleSearch = (
 const handleRecommend = (
   url: URL,
   response: ServerResponse,
-  catalog: CatalogEntry[]
+  state: RegistryApiState
 ): void => {
   const text = url.searchParams.get("text")?.trim() ?? "";
   const needs = (url.searchParams.get("needs") ?? "").split(",").map((need) => need.trim()).filter(Boolean);
@@ -295,20 +301,29 @@ const handleRecommend = (
   }
 
   const cloud = optionalBoolean(url.searchParams.get("cloud"), "cloud");
+  const verified = optionalBoolean(url.searchParams.get("verified"), "verified");
 
-  if (cloud instanceof Error) {
-    sendError(response, 400, cloud.message);
+  if (cloud instanceof Error || verified instanceof Error) {
+    sendError(response, 400, (cloud instanceof Error ? cloud : verified as Error).message);
     return;
   }
+
+  const filters = {
+    cloudOnly: cloud ?? true,
+    checkedOnly: verified ?? false,
+    health: state.health ? (serverId: string) => state.health?.get(serverId) : undefined,
+  };
+  const catalog = state.catalog;
 
   if (needs.length > 0) {
     const rawPerNeed = url.searchParams.get("perNeed");
     sendJson(response, 200, {
-      cloud: cloud ?? true,
+      cloud: filters.cloudOnly,
+      verified: filters.checkedOnly,
       needs: recommendForNeeds(catalog, {
+        ...filters,
         needs,
         perNeed: rawPerNeed ? Number(rawPerNeed) : undefined,
-        cloudOnly: cloud ?? true,
       }),
     });
     return;
@@ -316,14 +331,15 @@ const handleRecommend = (
 
   const rawLimit = url.searchParams.get("limit");
   const servers = recommendServers(catalog, {
+    ...filters,
     text,
     limit: rawLimit ? Number(rawLimit) : undefined,
-    cloudOnly: cloud ?? true,
   });
 
   sendJson(response, 200, {
     count: servers.length,
-    cloud: cloud ?? true,
+    cloud: filters.cloudOnly,
+    verified: filters.checkedOnly,
     servers,
   });
 };
@@ -331,10 +347,10 @@ const handleRecommend = (
 const handleInstallConfig = (
   url: URL,
   response: ServerResponse,
-  catalog: CatalogEntry[],
+  state: RegistryApiState,
   serverId: string
 ): void => {
-  const entry = findServer(catalog, serverId);
+  const entry = findServer(state.catalog, serverId);
 
   if (!entry) {
     sendError(response, 404, `Server not found: ${serverId}`);
@@ -344,7 +360,11 @@ const handleInstallConfig = (
   const requestedClient = url.searchParams.get("client") ?? "claude-desktop";
 
   if (requestedClient.toLowerCase() === "lagrange") {
-    sendJson(response, 200, generateLagrangeConfig(entry));
+    const health = state.health?.get(entry.id);
+    sendJson(response, 200, {
+      ...generateLagrangeConfig(withCheckedAuth(entry, health)),
+      check: health ?? null,
+    });
     return;
   }
 
@@ -466,16 +486,31 @@ export const main = (): void => {
   const catalog = loadCatalog();
   const port = Number(process.env.PORT ?? 3000);
   const host = process.env.HOST ?? "0.0.0.0";
+  const health = startHealthChecks(catalog);
   const server = createRegistryApiServer({
     catalog,
     loadedAt: new Date().toISOString(),
     build: loadBuildInfo(),
+    health,
   });
 
   server.listen(port, host, () => {
     console.log(`TensorBlock MCP Index API listening on ${host}:${port}`);
     console.log(`Loaded ${catalog.length} catalog entries`);
   });
+};
+
+// Checks servers in the background so recommendations skip dead ones. Set
+// SERVER_CHECKS=off to disable, or SERVER_CHECK_INTERVAL_HOURS to change how often.
+const startHealthChecks = (catalog: CatalogEntry[]): HealthMonitor | undefined => {
+  if (process.env.SERVER_CHECKS === "off") {
+    return undefined;
+  }
+
+  const hours = Number(process.env.SERVER_CHECK_INTERVAL_HOURS ?? DEFAULT_HEALTH_CHECK_INTERVAL_HOURS);
+  const monitor = new HealthMonitor(catalog);
+  monitor.start(Math.max(hours > 0 ? hours : DEFAULT_HEALTH_CHECK_INTERVAL_HOURS, 1) * 60 * 60 * 1000);
+  return monitor;
 };
 
 const isDirectRun = (): boolean => {
