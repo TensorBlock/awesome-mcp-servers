@@ -2,6 +2,7 @@
 
 Servers using mapping APIs, providing geolocation services, address lookups, or geospatial data.
 
+- [Thx93/mcp-weather-server](https://github.com/Thx93/mcp-weather-server): US weather from the National Weather Service: active alerts for a two-letter state code and five-period forecasts for a latitude and longitude. Transport: stdio, installed with `npx -y @thx93/mcp-weather-server`, and streamable-http. Endpoint: https://agent-evidence-api.thx93.workers.dev/weather/mcp. Auth: none when run locally; x402 payment per call (0.01 USDC on Base) on the hosted endpoint, where initialization and `tools/list` are free. Tools: `get-alerts`, `get-forecast`. License: ISC. Official MCP Registry id `io.github.Thx93/weather`.
 - [bailaohe/mcp_tianditu](https://github.com/bailaohe/mcp_tianditu): Provides comprehensive geographic information services through a set of MCP protocol-compliant APIs, including geocoding, reverse geocoding, and route planning.
 - [peschinskiy/yandex-maps-mcp](https://github.com/peschinskiy/yandex-maps-mcp): Facilitates map rendering and geocoding via Yandex Maps APIs, enabling location-based queries and visualizations.
 - [RikGmee/google-map-mcp](https://github.com/RikGmee/google-map-mcp): Facilitates interaction with Google Maps API for geocoding, reverse geocoding, place searches, and more.
