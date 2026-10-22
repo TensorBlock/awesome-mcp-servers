@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stripe-ai-669f6a0b",
+  "source": {
+    "projectUrl": "https://github.com/stripe/ai"
+  },
+  "links": {
+    "endpoint": "https://mcp.stripe.com",
+    "docs": "https://docs.stripe.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Send a Stripe secret or restricted API key as Authorization: Bearer; OAuth sign-in is also supported."
+    ]
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "STRIPE_SECRET_KEY"
+    ],
+    "confidence": "high"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint answered an MCP initialize request on 2026-10-22 with HTTP 401 and OAuth protected-resource metadata, so it is live and requires sign-in."
+    ]
+  }
+}

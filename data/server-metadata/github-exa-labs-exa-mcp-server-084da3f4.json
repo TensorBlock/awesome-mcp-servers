@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-exa-labs-exa-mcp-server-084da3f4",
+  "source": {
+    "projectUrl": "https://github.com/exa-labs/exa-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.exa.ai/mcp"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The hosted endpoint works without a key at a free rate limit; the npx server takes EXA_API_KEY."
+    ]
+  },
+  "install": {
+    "commands": [
+      "npx -y exa-mcp-server"
+    ],
+    "env": [
+      "EXA_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint completed an MCP initialize request without credentials on 2026-10-22."
+    ]
+  }
+}

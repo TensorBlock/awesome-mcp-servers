@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-microsoft-playwright-mcp-ba31bde2",
+  "source": {
+    "projectUrl": "https://github.com/microsoft/playwright-mcp"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "install": {
+    "commands": [
+      "npx -y @playwright/mcp@latest --headless --isolated --no-sandbox"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "npm package @playwright/mcp 0.0.83 accepts --headless, --isolated and --no-sandbox (checked 2026-10-22). It drives an installed Chrome, so a cloud sandbox has to install a browser first."
+    ]
+  }
+}

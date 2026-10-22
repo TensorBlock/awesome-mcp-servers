@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "huggingface-co-docs-hub-agents-mcp-24c7080e",
+  "source": {
+    "projectUrl": "https://huggingface.co/docs/hub/agents-mcp"
+  },
+  "links": {
+    "endpoint": "https://huggingface.co/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Anonymous use works; a Hugging Face token as Authorization: Bearer adds the user's own Spaces and settings."
+    ]
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint completed an MCP initialize request without credentials on 2026-10-22."
+    ]
+  }
+}

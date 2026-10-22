@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-supabase-community-supabase-mcp-5a2b1bfa",
+  "source": {
+    "projectUrl": "https://github.com/supabase-community/supabase-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.supabase.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Hosted server signs in with Supabase through OAuth 2.1; clients without a browser sign-in can't connect."
+    ]
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint answered an MCP initialize request on 2026-10-22 with HTTP 401 and OAuth protected-resource metadata, so it is live and requires sign-in."
+    ]
+  }
+}

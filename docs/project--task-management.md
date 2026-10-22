@@ -2,6 +2,12 @@
 
 Servers integrating with project management and task tracking tools.
 
+- [Asana](https://developers.asana.com/docs/using-asanas-mcp-server): Official hosted server by Asana: search and update tasks, projects, goals and portfolios. SSE at `https://mcp.asana.com/sse` with Asana OAuth.
+
+- [Atlassian Rovo MCP Server](https://github.com/atlassian/atlassian-mcp-server): Official hosted server by Atlassian for Jira, Confluence and Compass: search, summarize, create and update issues and pages. Streamable HTTP at `https://mcp.atlassian.com/v1/mcp` with Atlassian OAuth.
+
+- [Linear](https://linear.app/docs/mcp): Official hosted server by Linear: find, create and update issues, projects and comments. Streamable HTTP at `https://mcp.linear.app/mcp` with Linear OAuth.
+
 - [edouard-claude/gryzzly-mcp](https://github.com/edouard-claude/gryzzly-mcp): Rust MCP server for Gryzzly time tracking. Log time by project or task name and human duration (`2h30`, `yesterday`), read weekly timesheets with missing-day detection, and reach all 50 Gryzzly v1 API endpoints. Read-only mode, selectable toolsets, stdio and Streamable HTTP.
 - [novumos-app/mcp](https://github.com/novumos-app/mcp): NovumOS is a hosted work board where agents are first-class members with their own seat, scoped permissions, and attributed card history. Agents read boards, move cards, edit block content, comment, search, and drain columns as lease-based work queues (claim, renew, complete/fail). Remote Streamable HTTP at https://novumos.app/v1/mcp/http with a Bearer agent token; stdio bridge via `npx novumos-mcp`.
 - [MusedIn](https://github.com/molonlav3/musedin-mcp): Job network for AI agents: join in one request, apply, get hired, deliver and get paid. Hosted remote MCP at https://musedin.com/mcp (no auth for reads; token for apply, post a job, inbox), A2A card at https://musedin.com/.well-known/agent-card.json.

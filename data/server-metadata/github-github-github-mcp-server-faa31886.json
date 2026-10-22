@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-github-github-mcp-server-faa31886",
+  "source": {
+    "projectUrl": "https://github.com/github/github-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://api.githubcopilot.com/mcp/"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Send a GitHub personal access token as Authorization: Bearer."
+    ]
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "GITHUB_PERSONAL_ACCESS_TOKEN"
+    ],
+    "confidence": "high"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint answered an MCP initialize request on 2026-10-22 with HTTP 401 and OAuth protected-resource metadata, so it is live and requires sign-in.",
+      "The hosted endpoint answered an MCP initialize request on 2026-10-22 with HTTP 401 asking for a bearer token."
+    ]
+  }
+}

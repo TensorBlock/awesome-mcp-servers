@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-firecrawl-firecrawl-mcp-server-96f88187",
+  "source": {
+    "projectUrl": "https://github.com/firecrawl/firecrawl-mcp-server"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Set FIRECRAWL_API_KEY to a Firecrawl API key."
+    ]
+  },
+  "install": {
+    "commands": [
+      "npx -y firecrawl-mcp"
+    ],
+    "env": [
+      "FIRECRAWL_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "npm package firecrawl-mcp 3.33.4 publishes the firecrawl-mcp binary (checked 2026-10-22)."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cloudflare-mcp-server-cloudflare-57ccfa67",
+  "source": {
+    "projectUrl": "https://github.com/cloudflare/mcp-server-cloudflare"
+  },
+  "links": {
+    "endpoint": "https://docs.mcp.cloudflare.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The documentation server needs no sign-in; Cloudflare's account servers use OAuth."
+    ]
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint completed an MCP initialize request without credentials on 2026-10-22."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-upstash-context7-16a7277d",
+  "source": {
+    "projectUrl": "https://github.com/upstash/context7"
+  },
+  "links": {
+    "endpoint": "https://mcp.context7.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Works without a key; a Context7 API key raises rate limits."
+    ]
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint completed an MCP initialize request without credentials on 2026-10-22."
+    ]
+  }
+}

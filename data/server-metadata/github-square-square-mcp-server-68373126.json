@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-square-square-mcp-server-68373126",
+  "source": {
+    "projectUrl": "https://github.com/square/square-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.squareup.com/sse"
+  },
+  "transport": [
+    "sse"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Hosted server signs in with Square through OAuth 2.1; clients without a browser sign-in can't connect."
+    ]
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint answered an MCP initialize request on 2026-10-22 with HTTP 401 and OAuth protected-resource metadata, so it is live and requires sign-in."
+    ]
+  }
+}

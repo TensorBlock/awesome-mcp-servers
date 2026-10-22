@@ -3,6 +3,9 @@
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
 - [xmcp Docs](https://xmcp.dev/docs/guides/xmcp-mcp-server): Search and retrieve the official xmcp documentation for building MCP servers with TypeScript. Endpoint: `https://xmcp.dev/mcp`. Transport: streamable-http. Auth: none. Tools: `search` (query documentation or retrieve a page by ID). Free and read-only. License: MIT. [Source](https://github.com/basementstudio/xmcp/tree/main/apps/website).
+- [Figma](https://developers.figma.com/docs/figma-mcp-server/): Official hosted server by Figma: read frames, components, variables and design context to generate code from designs. Streamable HTTP at `https://mcp.figma.com/mcp` with Figma OAuth.
+
+- [Context7](https://github.com/upstash/context7): Up-to-date, version-specific library documentation and code examples for coding agents, by Upstash. Streamable HTTP at `https://mcp.context7.com/mcp`, no sign-in required; an API key raises rate limits.
 
 - [Runx](https://github.com/runxhq/runx-plugin): Search the public Runx skill catalog and inspect a skill’s source and requirements through the read-only hosted Streamable HTTP MCP at `https://api.runx.ai/mcp`. The two discovery tools are `search_skills` and `get_skill`; no auth is required. Running a skill is a separate local Runx operation with explicit authority and signed receipts. Apache-2.0 plugin. [MCP docs](https://runx.ai/docs/mcp).
 

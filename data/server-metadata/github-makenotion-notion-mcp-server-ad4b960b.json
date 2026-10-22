@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-makenotion-notion-mcp-server-ad4b960b",
+  "source": {
+    "projectUrl": "https://github.com/makenotion/notion-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.notion.com/mcp"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Hosted server signs in with Notion through OAuth 2.1; clients without a browser sign-in can't connect.",
+      "The local npx server takes a Notion integration token in NOTION_TOKEN instead."
+    ]
+  },
+  "install": {
+    "commands": [
+      "npx -y @notionhq/notion-mcp-server"
+    ],
+    "env": [
+      "NOTION_TOKEN"
+    ],
+    "confidence": "high"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint answered an MCP initialize request on 2026-10-22 with HTTP 401 and OAuth protected-resource metadata, so it is live and requires sign-in."
+    ]
+  }
+}

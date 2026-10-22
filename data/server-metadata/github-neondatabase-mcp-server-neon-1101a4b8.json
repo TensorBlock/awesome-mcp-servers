@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-neondatabase-mcp-server-neon-1101a4b8",
+  "source": {
+    "projectUrl": "https://github.com/neondatabase/mcp-server-neon"
+  },
+  "links": {
+    "endpoint": "https://mcp.neon.tech/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Hosted server signs in with Neon through OAuth 2.1; clients without a browser sign-in can't connect.",
+      "A Neon API key as Authorization: Bearer also works."
+    ]
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The hosted endpoint answered an MCP initialize request on 2026-10-22 with HTTP 401 and OAuth protected-resource metadata, so it is live and requires sign-in."
+    ]
+  }
+}
