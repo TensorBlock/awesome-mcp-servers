@@ -29,6 +29,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 - [0kenx/filesystem-mcp](https://github.com/0kenx/filesystem-mcp): A Python-based MCP server for secure and efficient filesystem operations, featuring advanced file manipulation, directory management, and search capabilities.
 - [mateicanavra/mcp-filesystem](https://github.com/mateicanavra/mcp-filesystem): Node.js server for secure and controlled filesystem operations using the Model Context Protocol.
 - [stephanj/MCPJavaFileSystem](https://github.com/stephanj/MCPJavaFileSystem): Facilitates LLM agents' interaction with local filesystems and web resources through a Java-based MCP server.
+- [mountable.io](https://github.com/writeitai/mountable): Manage persistent agent filesystems, issue mount tickets and revoke mount sessions. Install: `npx -y mountable-cli mcp`.
 - [SDILogin/filesystem-android](https://github.com/SDILogin/filesystem-android): A Claude MCP server facilitating secure access to Android project files for AI-assisted code navigation and analysis.
 - [1yhy/oss-mcp](https://github.com/1yhy/oss-mcp): Facilitates seamless file uploads to Alibaba Cloud OSS, integrating with various MCP tools for enhanced workflow automation.
 - [diganto-deb/local_file_organizer](https://github.com/diganto-deb/local_file_organizer): A Python-based system that organizes and manages files across directories using the Model Context Protocol framework.
