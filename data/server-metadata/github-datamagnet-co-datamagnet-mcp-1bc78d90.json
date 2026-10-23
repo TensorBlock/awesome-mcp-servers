@@ -14,13 +14,13 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth 2.1 with dynamic registration and PKCE, or Datamagnet bearer API key."
     ]
   },
   "clients": [
-    "Claude (web",
-    "desktop",
-    "Claude Code)",
+    "Claude Web",
+    "Claude Desktop",
+    "Claude Code",
     "ChatGPT",
     "Cursor",
     "VS Code",
