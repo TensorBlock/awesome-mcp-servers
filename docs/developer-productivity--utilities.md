@@ -2,6 +2,8 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [xmcp Docs](https://xmcp.dev/docs/guides/xmcp-mcp-server): Search and retrieve the official xmcp documentation for building MCP servers with TypeScript. Endpoint: `https://xmcp.dev/mcp`. Transport: streamable-http. Auth: none. Tools: `search` (query documentation or retrieve a page by ID). Free and read-only. License: MIT. [Source](https://github.com/basementstudio/xmcp/tree/main/apps/website).
+
 - [Runx](https://github.com/runxhq/runx-plugin): Search the public Runx skill catalog and inspect a skill’s source and requirements through the read-only hosted Streamable HTTP MCP at `https://api.runx.ai/mcp`. The two discovery tools are `search_skills` and `get_skill`; no auth is required. Running a skill is a separate local Runx operation with explicit authority and signed receipts. Apache-2.0 plugin. [MCP docs](https://runx.ai/docs/mcp).
 
 - [openhook-dev/openhook-inbox](https://github.com/openhook-dev/openhook-inbox): Create webhook inboxes, inspect callbacks, and wait for asynchronous events with resumable cursors. Connect via Streamable HTTP at `https://openhook.dev/mcp`; no account or global API key is required for temporary inboxes, while private per-inbox tokens protect event access. Self-hosting and local forwarding are available from source. License: MIT. [Docs](https://openhook.dev/docs). Tools include `create_webhook`, `wait_for_request`, `get_request`, and `delete_webhook`.
