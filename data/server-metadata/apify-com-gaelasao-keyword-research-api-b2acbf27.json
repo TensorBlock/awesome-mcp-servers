@@ -1,9 +1,9 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "github-gaelasao-apify-mcp-tools-754012ae",
+  "id": "apify-com-gaelasao-keyword-research-api-b2acbf27",
   "source": {
     "issue": 4425,
-    "projectUrl": "https://github.com/gaelasao/apify-mcp-tools"
+    "projectUrl": "https://apify.com/gaelasao/keyword-research-api"
   },
   "links": {
     "endpoint": "https://mcp.apify.com/?tools=gaelasao/keyword-research-api"
@@ -14,7 +14,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Apify OAuth or bearer API token; paid actor runs."
     ]
   },
   "clients": [
