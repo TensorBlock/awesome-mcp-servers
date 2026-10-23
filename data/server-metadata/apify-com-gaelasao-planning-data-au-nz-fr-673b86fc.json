@@ -1,9 +1,9 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "github-gaelasao-apify-mcp-tools-754012ae",
+  "id": "apify-com-gaelasao-planning-data-au-nz-fr-673b86fc",
   "source": {
     "issue": 4426,
-    "projectUrl": "https://github.com/gaelasao/apify-mcp-tools"
+    "projectUrl": "https://apify.com/gaelasao/planning-data-au-nz-fr"
   },
   "links": {
     "endpoint": "https://mcp.apify.com/?tools=gaelasao/planning-data-au-nz-fr"
@@ -14,7 +14,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "Apify OAuth or bearer API token; paid actor runs."
     ]
   },
   "clients": [
