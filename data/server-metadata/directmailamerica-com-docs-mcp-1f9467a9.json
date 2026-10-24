@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "directmailamerica-com-docs-mcp-1f9467a9",
+  "source": {
+    "issue": 4350,
+    "projectUrl": "https://directmailamerica.com/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://directmailamerica.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth; workspace bearer API key is also supported. Public initialization and tool enumeration do not require credentials."
+    ]
+  },
+  "license": "Hosted proprietary service; no public backend source repository is being submitted."
+}
