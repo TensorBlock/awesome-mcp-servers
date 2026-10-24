@@ -20,5 +20,8 @@
     "Grok",
     "Mistral"
   ],
-  "license": "Proprietary"
+  "license": "Proprietary",
+  "links": {
+    "endpoint": "https://www.pandagreetings.com/mcp/designs"
+  }
 }
