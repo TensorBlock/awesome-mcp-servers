@@ -141,7 +141,7 @@ describe("generateLagrangeConfig", () => {
 
     const config = generateLagrangeConfig(entry);
 
-    expect(config.mcp).toEqual({ name: "demo-server", url: "https://mcp.example.com/mcp" });
+    expect(config.mcp).toEqual({ name: "demo-server", url: "https://mcp.example.com/mcp", secret: "DEMO_SERVER_TOKEN", oauth: true });
     expect(config.secrets).toEqual([]);
     expect(config.signIn).toBe(true);
   });

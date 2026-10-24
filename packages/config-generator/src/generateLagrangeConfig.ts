@@ -13,7 +13,10 @@ export type LagrangeMcpServer =
   | {
       name: string;
       url: string;
+      // The project secret holding the bearer token. For an OAuth server the
+      // platform fills it when the user connects the server on the agent's page.
       secret?: string;
+      oauth?: true;
     }
   | {
       name: string;
@@ -82,10 +85,12 @@ export const generateLagrangeConfig = (entry: CatalogEntry): LagrangeConfig => {
         notes.push("If the server expects its key in another header, set it under headers: with ${" + secret + "} instead.");
       }
     } else {
-      mcp = { name, url: runtime.url };
       signIn = entry.auth.type === "oauth";
       if (signIn) {
-        notes.push("Sign in to this server on the agent's page after deploying.");
+        mcp = { name, url: runtime.url, secret: `${envName(name)}_TOKEN`, oauth: true };
+        notes.push("Connect this server on the agent's page after deploying; the platform keeps its sign-in in the secret.");
+      } else {
+        mcp = { name, url: runtime.url };
       }
     }
   } else {

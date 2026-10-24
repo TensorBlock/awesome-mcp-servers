@@ -140,7 +140,7 @@ curl "$MCP_INDEX_API_URL/v1/servers/github-crystaldba-postgres-mcp-22e80ea8/inst
 }
 ```
 
-`mcp` is the entry to add under `mcp_servers:`, or `null` when the sandbox can't run the server. A hosted server is `{ name, url, secret? }`, where `secret` names the secret sent as a bearer token. A package is `{ name, command, args, env? }`. `secrets` lists the names to store with `lgr secrets set`. `signIn` is true when the user signs in to the server through OAuth on the agent's page after deploying.
+`mcp` is the entry to add under `mcp_servers:`, or `null` when the sandbox can't run the server. A hosted server is `{ name, url, secret? }`, where `secret` names the secret sent as a bearer token; one that signs in with OAuth also has `oauth: true`, and the platform fills its `secret` when the user connects the server on the agent's page. A package is `{ name, command, args, env? }`. `secrets` lists the names to store with `lgr secrets set`. `signIn` is true when the user signs in to the server through OAuth on the agent's page after deploying.
 
 Recommend servers for an agent from a description of it, such as its AGENTS.md or what the user typed when creating it:
 

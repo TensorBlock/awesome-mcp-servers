@@ -110,7 +110,7 @@ describe("recommendServers", () => {
   it("includes the lgr.yaml entry for each suggestion", () => {
     const [slack] = recommendServers(catalog, { text: "Post to Slack" });
 
-    expect(slack.lagrange.mcp).toEqual({ name: "slack", url: "https://mcp.slack.com/mcp" });
+    expect(slack.lagrange.mcp).toEqual({ name: "slack", url: "https://mcp.slack.com/mcp", secret: "SLACK_TOKEN", oauth: true });
     expect(slack.lagrange.signIn).toBe(true);
   });
 
