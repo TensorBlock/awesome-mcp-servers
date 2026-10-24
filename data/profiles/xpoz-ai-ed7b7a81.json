@@ -1,7 +1,7 @@
 {
   "id": "xpoz-ai-ed7b7a81",
   "name": "Xpoz MCP",
-  "description": "Remote-only social media MCP server for Twitter/X, Instagram, and TikTok data & insights. 1.5B+ posts indexed. No installation required - just add endpoint URL (https://mcp.xpoz.ai). No API keys needed.",
+  "description": "Remote-only social media MCP server for Twitter/X, Instagram, Reddit, and TikTok data & insights. Billions of posts indexed. No installation required - just add endpoint URL (`https://mcp.xpoz.ai/mcp`). No API keys needed.",
   "category": "Social Media & Content Platforms",
   "profileUrl": "https://tensorblock.co/mcp/servers/xpoz-ai-ed7b7a81",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/xpoz-ai-ed7b7a81/badge.svg)](https://tensorblock.co/mcp/servers/xpoz-ai-ed7b7a81)",
@@ -10,13 +10,11 @@
     "repo": null,
     "homepage": "https://xpoz.ai",
     "docs": null,
-    "endpoint": "https://mcp.xpoz.ai"
+    "endpoint": "https://mcp.xpoz.ai/mcp"
   },
   "install": {
     "commands": [],
-    "env": [
-      "URL"
-    ],
+    "env": [],
     "confidence": "low"
   },
   "transport": [

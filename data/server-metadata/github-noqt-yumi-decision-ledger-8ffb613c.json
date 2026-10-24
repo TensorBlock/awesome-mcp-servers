@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-noqt-yumi-decision-ledger-8ffb613c",
+  "source": {
+    "issue": 4019,
+    "projectUrl": "https://github.com/noqt/yumi-decision-ledger"
+  },
+  "install": {
+    "commands": [
+      "git clone https://github.com/noqt/yumi-decision-ledger && cd yumi-decision-ledger && git checkout 42497c34add368d32d955010838e567a7846ed56",
+      "python3.12 -I -B -S mcp_receipt_server.py --workspace PATH"
+    ],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Experimental receipt bridge pinned to 42497c34add368d32d955010838e567a7846ed56; MCP 2025-11-25 only. Caller must supply complete allowed inputs and artifacts. Popular clients have not been separately tested."
+    ]
+  }
+}

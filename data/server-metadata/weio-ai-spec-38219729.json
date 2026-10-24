@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "weio-ai-spec-38219729",
+  "source": {
+    "issue": 4030,
+    "projectUrl": "https://weio.ai/spec/"
+  },
+  "links": {
+    "endpoint": "https://weio.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "Hosted service under the linked terms; no source-code license is claimed."
+}

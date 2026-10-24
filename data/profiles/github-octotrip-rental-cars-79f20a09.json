@@ -44,13 +44,17 @@
     "lastCheckedAt": null
   },
   "verification": {
-    "status": "unknown",
-    "notes": []
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @xltnapps in #1075 under the community profile-claim process."
+    ]
   },
   "community": {
-    "maintainedBy": [],
+    "maintainedBy": [
+      "@xltnapps"
+    ],
     "verifiedBy": [],
-    "claimed": false
+    "claimed": true
   },
   "summary": {
     "transport": [
@@ -59,7 +63,7 @@
     "auth": "none",
     "installConfidence": "medium",
     "installReady": true,
-    "verification": "unknown",
+    "verification": "self_reported",
     "toolCount": null
   }
 }

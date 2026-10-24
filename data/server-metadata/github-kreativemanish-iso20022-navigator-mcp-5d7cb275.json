@@ -2,11 +2,12 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-kreativemanish-iso20022-navigator-mcp-5d7cb275",
   "source": {
-    "issue": 3474,
+    "issue": 3591,
     "projectUrl": "https://github.com/kreativeManish/iso20022-navigator-mcp"
   },
   "links": {
-    "endpoint": "https://mcp.isonavigator.io/iso20022"
+    "endpoint": "https://mcp.isonavigator.io/iso20022",
+    "docs": "https://github.com/kreativeManish/iso20022-navigator-mcp#readme"
   },
   "transport": [
     "streamable-http"
@@ -23,5 +24,28 @@
     "ChatGPT",
     "Codex CLI"
   ],
-  "license": "MIT (the server code; the reference data is licensed separately)"
+  "license": "MIT (the server code; the reference data is licensed separately)",
+  "category": "Finance & Crypto",
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "tools": {
+    "count": 4,
+    "names": [
+      "iso20022_bank_transaction_codes",
+      "iso20022_message_details",
+      "iso20022_legacy_and_scheme_mappings",
+      "iso20022_code_sets"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3591. Source: https://github.com/kreativeManish/iso20022-navigator-mcp Official MCP Registry name: io.github.kreativeManish/iso20022-navigator Smithery: https://smithery.ai/servers/kreativemanish/iso20022-navigator",
+      "Current public source documents four tools, including iso20022_code_sets."
+    ]
+  }
 }

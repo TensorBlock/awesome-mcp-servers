@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "juzpost-com-624d286d",
+  "source": {
+    "issue": 4036,
+    "projectUrl": "https://www.juzpost.com"
+  },
+  "links": {
+    "endpoint": "https://www.juzpost.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (connector directory)",
+    "Claude Code",
+    "any MCP client that supports remote OAuth servers"
+  ],
+  "license": "Proprietary (hosted service)"
+}

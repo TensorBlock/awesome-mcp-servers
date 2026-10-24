@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-verdixapi-verdix-mcp-1cad9372",
+  "source": {
+    "issue": 3651,
+    "projectUrl": "https://github.com/verdixapi/verdix-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y verdix-mcp"
+    ],
+    "env": [
+      "VERDIX_PRIVATE_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "VERDIX_PRIVATE_KEY is required for the paying wallet; checks use USDC on Base via x402. VERDIX_MAX_PRICE_USD optionally limits the per-call price."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "MIT"
+}

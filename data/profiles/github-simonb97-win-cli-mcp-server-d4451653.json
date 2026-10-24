@@ -35,8 +35,10 @@
     "lastCheckedAt": null
   },
   "verification": {
-    "status": "unknown",
-    "notes": []
+    "status": "partial",
+    "notes": [
+      "The repository now redirects to https://github.com/simon-ami/win-cli-mcp-server and is archived; last checked 2026-10-07. The entry remains indexed because the source is still available."
+    ]
   },
   "community": {
     "maintainedBy": [],
@@ -50,7 +52,7 @@
     "auth": "unknown",
     "installConfidence": "low",
     "installReady": false,
-    "verification": "unknown",
+    "verification": "partial",
     "toolCount": null
   }
 }

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "jev-agent-com-docs-621a44e0",
+  "source": {
+    "issue": 4002,
+    "projectUrl": "https://jev-agent.com/docs"
+  },
+  "links": {
+    "endpoint": "https://jev-agent.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  }
+}
