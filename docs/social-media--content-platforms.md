@@ -67,7 +67,6 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [1282saa/news_se](https://github.com/1282saa/news_se): Facilitates AI model access to Seoul Economic Daily's stylebook data with advanced search and authentication features.
 - [tropical-362827/futaba-mcp](https://github.com/tropical-362827/futaba-mcp): A Python library enabling AI assistants to interact with ふたば☆ちゃんねる by retrieving and sorting thread data.
 - [TuliEscobar/mcp-linkedin](https://github.com/TuliEscobar/mcp-linkedin): Facilitates interaction with LinkedIn's Feeds and Job API using unofficial LinkedIn API access.
-- [PTNA/mcp-ptna-news](https://github.com/PTNA/mcp-ptna-news): Facilitates access to the latest news from the All Japan Piano Teachers Association with category filtering capabilities.
 - [hrishi0102/spotifyyy-mcp](https://github.com/hrishi0102/spotifyyy-mcp): Interact with Spotify through Claude to search for songs, create playlists, and get personalized recommendations using your Spotify account.
 - [the0807/GeekNews-MCP-Server](https://github.com/the0807/GeekNews-MCP-Server): Facilitates the retrieval of articles and weekly news from GeekNews using BeautifulSoup for web scraping.
 - [xincmm/twitter-screenshot-mcp-server](https://github.com/xincmm/twitter-screenshot-mcp-server): A remote MCP server deployed on Cloudflare Workers with OAuth login, enabling seamless integration with Claude Desktop and MCP Inspector.
