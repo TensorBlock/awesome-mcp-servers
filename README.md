@@ -222,8 +222,8 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Communication & Messaging | 334 | [Browse](docs/communication--messaging.md) |
 | Content Management Systems | 60 | [Browse](docs/content-management-systems-cms.md) |
 | Data Analysis & Business Intelligence | 244 | [Browse](docs/data-analysis--business-intelligence.md) |
-| Databases | 299 | [Browse](docs/databases.md) |
-| Developer Productivity & Utilities | 414 | [Browse](docs/developer-productivity--utilities.md) |
+| Databases | 305 | [Browse](docs/databases.md) |
+| Developer Productivity & Utilities | 524 | [Browse](docs/developer-productivity--utilities.md) |
 | Filesystems | 56 | [Browse](docs/filesystems.md) |
 | Finance & Crypto | 445 | [Browse](docs/finance--crypto.md) |
 | Frameworks | 245 | [Browse](docs/frameworks.md) |
