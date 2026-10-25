@@ -35,8 +35,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [WeatherXM/weatherxm-pro-mcp](https://github.com/WeatherXM/weatherxm-pro-mcp): Access WeatherXM PRO APIs for weather data and forecasts via MCP tools.
 - [trutohq/truto-mcp-stdio](https://github.com/trutohq/truto-mcp-stdio): A command-line interface proxy facilitating communication between JSON-RPC messages and HTTP Streamable MCP servers.
 - [veithly/ipfs-uploader](https://github.com/veithly/ipfs-uploader): A TypeScript-based MCP server for uploading images to IPFS, featuring a simple notes system with text note creation and summarization tools.
-- [OpenSourceGuru776/consist](https://github.com/OpenSourceGuru776/consist): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [TheCommitKing/world](https://github.com/TheCommitKing/world): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [xoy8n/webp-converter](https://github.com/xoy8n/webp-converter): Transforms image files into WebP format with configurable quality and compression settings.
 - [denisechee/cookies](https://github.com/denisechee/cookies): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [blajanclaudiu/camera](https://github.com/blajanclaudiu/camera): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
