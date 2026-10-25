@@ -6,7 +6,6 @@
     "projectUrl": "https://github.com/getremcp/docsy-plugin"
   },
   "transport": [
-    "stdio",
     "streamable-http"
   ],
   "auth": {
@@ -23,5 +22,8 @@
     "VS Code",
     "other HTTP MCP clients"
   ],
-  "license": "MIT (public plugin release)"
+  "license": "MIT (public plugin release)",
+  "links": {
+    "endpoint": "https://docsy.remcp.site/mcp/registry"
+  }
 }
