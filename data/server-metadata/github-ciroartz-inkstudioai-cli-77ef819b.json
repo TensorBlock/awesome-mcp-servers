@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "npx inkstudioai login"
+      "npx -y inkstudioai mcp"
     ],
     "env": [
       "INKSTUDIO_API_KEY"
