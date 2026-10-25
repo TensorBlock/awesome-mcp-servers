@@ -2,6 +2,8 @@
 
 Servers for interacting with email, chat platforms, SMS, or notification services.
 
+- [Cooper Email](https://cooperemail.com/docs/mcp): Gives an AI agent its own email inbox: send, list, read and reply, and wait for the next message or a sign-up code (`cooper_wait_for_code`). Hosted Streamable HTTP at `https://cooperemail.com/mcp`; Bearer API key (an agent can create its own account and key with one unauthenticated call) or OAuth. Free tier, no card. [Docs](https://cooperemail.com/llms.txt). Skills and plugin config: https://github.com/cooper-email/cooper-email.
+
 - [VaEmail](https://github.com/vaemail/vaemail-mcp): Email infrastructure for AI agents: send, authenticate domains, track delivery and diagnose issues, hosted in France. Install with `npx -y vaemail mcp` (stdio, `VAEMAIL_API_KEY`); hosted endpoint at `https://mcp.vaemail.fr`. Official MCP Registry id `io.github.vaemail/vaemail`. [Docs](https://vaemail.fr/agents.md).
 
 - [BubblaV](https://www.bubblav.com): Official hosted server by the BubblaV team for its AI customer-support chatbot: analytics reports, unanswered questions and content gaps, knowledge base (search, add, upload, crawl), conversations and leads, persona, widget, forms and flows. Hosted Streamable HTTP at `https://www.bubblav.com/mcp` (JSON-RPC alt path `https://www.bubblav.com/api/mcp`); OAuth 2.1 (PKCE, dynamic client registration) or an `X-API-Key` header for headless clients. Official MCP Registry id `io.github.bubblav-org/bubblav`. [Docs](https://docs.bubblav.com/developer-guide/mcp-server).
