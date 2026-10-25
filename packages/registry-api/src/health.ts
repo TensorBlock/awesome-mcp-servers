@@ -1,9 +1,11 @@
 import type { AuthType, CatalogEntry } from "../../catalog-builder/src/types.js";
 import { cloudRuntime } from "../../config-generator/src/generateLagrangeConfig.js";
+import { probeMcpEndpoint } from "./mcpProbe.js";
 
 // What the last live check of a server found. A hosted server is "ok" when it
-// completes an MCP initialize, and "auth-required" when it answers 401/403, which
-// still proves it is up. A package is "ok" when npm or PyPI has it.
+// answers an MCP initialize with a valid result (see mcpProbe.ts), and
+// "auth-required" when it answers with a sign-in challenge, which still proves
+// it is up. A package is "ok" when npm or PyPI has it.
 export type HealthStatus = "ok" | "auth-required" | "failing" | "unchecked";
 
 export interface ServerHealth {
@@ -22,7 +24,10 @@ export interface HealthSummary {
 }
 
 export interface HealthMonitorOptions {
+  // For package lookups on npm and PyPI, which are fixed, trusted hosts.
   fetch?: typeof fetch;
+  // Which addresses checks of hosted servers may connect to; public ones by default.
+  allowAddress?: (address: string) => boolean;
   concurrency?: number;
   timeoutMs?: number;
   now?: () => Date;
@@ -30,18 +35,6 @@ export interface HealthMonitorOptions {
 
 const DEFAULT_CONCURRENCY = 16;
 const DEFAULT_TIMEOUT_MS = 10_000;
-const MAX_BODY_BYTES = 64 * 1024;
-
-const INITIALIZE_REQUEST = JSON.stringify({
-  jsonrpc: "2.0",
-  id: 1,
-  method: "initialize",
-  params: {
-    protocolVersion: "2025-06-18",
-    capabilities: {},
-    clientInfo: { name: "tensorblock-mcp-index-health", version: "1.0" },
-  },
-});
 
 // Checks every server LagrangeCloud could run, keeps the latest result per
 // server in memory, and repeats on an interval, so new catalog entries are
@@ -50,6 +43,7 @@ const INITIALIZE_REQUEST = JSON.stringify({
 export class HealthMonitor {
   private readonly results = new Map<string, ServerHealth>();
   private readonly fetchImpl: typeof fetch;
+  private readonly allowAddress: ((address: string) => boolean) | undefined;
   private readonly concurrency: number;
   private readonly timeoutMs: number;
   private readonly now: () => Date;
@@ -60,6 +54,7 @@ export class HealthMonitor {
 
   constructor(private readonly catalog: CatalogEntry[], options: HealthMonitorOptions = {}) {
     this.fetchImpl = options.fetch ?? fetch;
+    this.allowAddress = options.allowAddress;
     this.concurrency = options.concurrency ?? DEFAULT_CONCURRENCY;
     this.timeoutMs = options.timeoutMs ?? DEFAULT_TIMEOUT_MS;
     this.now = options.now ?? (() => new Date());
@@ -129,44 +124,18 @@ export class HealthMonitor {
       }
 
       if (runtime.kind === "remote") {
-        return { ...(await this.checkEndpoint(runtime.url, entry.transport.includes("sse"))), checkedAt };
+        const result = await probeMcpEndpoint(runtime.url, {
+          deadline: Date.now() + this.timeoutMs,
+          allowAddress: this.allowAddress,
+          legacySse: entry.transport.includes("sse"),
+        });
+        return { ...result, checkedAt };
       }
 
       return { ...(await this.checkPackage(runtime.command, runtime.args)), checkedAt };
     } catch (error) {
       return { status: "failing", auth: null, detail: errorMessage(error), checkedAt };
     }
-  }
-
-  private async checkEndpoint(url: string, legacySse: boolean): Promise<Omit<ServerHealth, "checkedAt">> {
-    const posted = await this.request(url, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "Accept": "application/json, text/event-stream",
-      },
-      body: INITIALIZE_REQUEST,
-    });
-
-    // Servers on the older SSE transport open their stream with a GET instead.
-    const response = legacySse && (posted.status === 404 || posted.status === 405)
-      ? await this.request(url, { method: "GET", headers: { Accept: "text/event-stream" } }, "event:")
-      : posted;
-
-    if (response.status === 401 || response.status === 403) {
-      const challenge = response.headers.get("www-authenticate") ?? "";
-      return {
-        status: "auth-required",
-        auth: /resource_metadata|realm="oauth"/i.test(challenge) ? "oauth" : "bearer",
-        detail: `HTTP ${response.status}`,
-      };
-    }
-
-    if (response.status === 200 && (response.matched || /protocolVersion/.test(response.body))) {
-      return { status: "ok", auth: "none", detail: null };
-    }
-
-    return { status: "failing", auth: null, detail: `HTTP ${response.status}` };
   }
 
   private async checkPackage(command: "npx" | "uvx", args: string[]): Promise<Omit<ServerHealth, "checkedAt">> {
@@ -179,55 +148,30 @@ export class HealthMonitor {
     const url = command === "npx"
       ? `https://registry.npmjs.org/${name.replace("/", "%2F")}`
       : `https://pypi.org/pypi/${encodeURIComponent(name)}/json`;
-    const response = await this.request(url, { method: "GET", headers: { Accept: "application/json" } });
+    const status = await this.registryStatus(url);
     const registry = command === "npx" ? "npm" : "PyPI";
 
-    if (response.status === 200) {
+    if (status === 200) {
       return { status: "ok", auth: null, detail: `${registry} package ${name}` };
     }
 
     return {
       status: "failing",
       auth: null,
-      detail: response.status === 404 ? `${registry} has no package ${name}` : `${registry} answered HTTP ${response.status}`,
+      detail: status === 404 ? `${registry} has no package ${name}` : `${registry} answered HTTP ${status}`,
     };
   }
 
-  // Reads at most MAX_BODY_BYTES, and stops early once `until` shows up, since
-  // an MCP server may hold an event stream open after its first message.
-  private async request(
-    url: string,
-    init: RequestInit,
-    until = "protocolVersion"
-  ): Promise<{ status: number; headers: Headers; body: string; matched: boolean }> {
+  // The HTTP status of a package registry lookup. npm and PyPI are fixed hosts,
+  // so their redirects (PyPI's to a package's canonical name) are followed.
+  private async registryStatus(url: string): Promise<number> {
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), this.timeoutMs);
 
     try {
-      const response = await this.fetchImpl(url, { ...init, redirect: "follow", signal: controller.signal });
-      let body = "";
-      let matched = false;
-
-      if (response.body) {
-        const reader = response.body.getReader();
-        const decoder = new TextDecoder();
-
-        while (body.length < MAX_BODY_BYTES) {
-          const chunk = await reader.read().catch(() => ({ done: true, value: undefined }));
-          if (chunk.done) {
-            break;
-          }
-          body += decoder.decode(chunk.value, { stream: true });
-          if (body.includes(until)) {
-            matched = true;
-            break;
-          }
-        }
-
-        await reader.cancel().catch(() => undefined);
-      }
-
-      return { status: response.status, headers: response.headers, body, matched };
+      const response = await this.fetchImpl(url, { headers: { Accept: "application/json" }, redirect: "follow", signal: controller.signal });
+      await response.body?.cancel().catch(() => undefined);
+      return response.status;
     } finally {
       clearTimeout(timeout);
     }

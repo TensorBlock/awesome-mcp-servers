@@ -171,7 +171,13 @@ Both forms return only servers LagrangeCloud can run; pass `cloud=false` to incl
 
 ### Live server checks
 
-The API checks every server LagrangeCloud could run when it starts, then every 12 hours. A hosted server passes when it completes an MCP `initialize` request or answers with a sign-in challenge (HTTP 401/403); a package passes when npm or PyPI has it. Servers checked for the first time go first, so entries merged since the last deploy are covered early in the run.
+The API checks every server LagrangeCloud could run when it starts, then every 12 hours. Servers checked for the first time go first, so entries merged since the last deploy are covered early in the run.
+
+- A hosted server passes when it answers `initialize` with a JSON-RPC result for that request that carries a `protocolVersion` and `capabilities`, as JSON or on an event stream; the check then sends `notifications/initialized` and ends any session it opened. A server on the older HTTP+SSE transport goes through that handshake: its event stream has to name an endpoint on the same origin, and the result has to come back on the stream. A JSON-RPC error, a web page or any other content fails, whatever it mentions.
+- A hosted server that wants credentials passes as signed-in-only when it answers with a `WWW-Authenticate` challenge, a JSON error, or a 401 that isn't a web page. A login page or a bot wall's 403 fails.
+- A package passes when npm or PyPI has it.
+
+Listings are community data, so checks only connect to public addresses: private, loopback, link-local (including cloud metadata), carrier-grade NAT, multicast and reserved ranges are refused, as are IPv6 addresses that carry one of those IPv4 addresses. Host names are resolved by the check and refused when any address is private, and the connection goes to the address that was checked. Redirects are followed by hand, at most three, each to a checked destination, and a POST only follows 307 and 308. Checks send no credentials, reuse no connections, and stop after 10 seconds or 64 KB. Where the platform allows it, also deny the service outbound access to private networks, so these rules aren't the only protection.
 
 - Recommendations never include a server whose last check failed, and rank servers that passed above unchecked ones.
 - `verified=true` keeps to servers whose last check passed, for callers that attach suggestions to an agent without asking the user.
