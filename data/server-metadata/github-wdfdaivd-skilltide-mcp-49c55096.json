@@ -8,13 +8,6 @@
   "links": {
     "endpoint": "https://anclum.com/mcp"
   },
-  "install": {
-    "commands": [
-      "MCP Registry id: `io.github.wdfdaivd/anclum"
-    ],
-    "env": [],
-    "confidence": "medium"
-  },
   "transport": [
     "streamable-http"
   ],
