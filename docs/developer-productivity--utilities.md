@@ -2,6 +2,8 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [Labelixa](https://github.com/Labelixa/labelixa-mcp): Thermal label MCP server for rendering, validating, debugging and converting ZPL, EPL, TSPL and CPCL labels — PNG preview, lint, DPI conversion, image-to-ZPL, barcode analysis and printer compatibility. Remote Streamable HTTP endpoint: `https://api.labelixa.com/mcp` (anonymous use rate-limited, optional `lbx_` API key). Install: `npx -y labelixa-mcp`.
+
 - [xmcp Docs](https://xmcp.dev/docs/guides/xmcp-mcp-server): Search and retrieve the official xmcp documentation for building MCP servers with TypeScript. Endpoint: `https://xmcp.dev/mcp`. Transport: streamable-http. Auth: none. Tools: `search` (query documentation or retrieve a page by ID). Free and read-only. License: MIT. [Source](https://github.com/basementstudio/xmcp/tree/main/apps/website).
 
 - [Runx](https://github.com/runxhq/runx-plugin): Search the public Runx skill catalog and inspect a skill’s source and requirements through the read-only hosted Streamable HTTP MCP at `https://api.runx.ai/mcp`. The two discovery tools are `search_skills` and `get_skill`; no auth is required. Running a skill is a separate local Runx operation with explicit authority and signed receipts. Apache-2.0 plugin. [MCP docs](https://runx.ai/docs/mcp).
