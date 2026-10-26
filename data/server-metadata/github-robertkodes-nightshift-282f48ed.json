@@ -6,7 +6,7 @@
     "projectUrl": "https://github.com/RobertKodes/nightshift"
   },
   "links": {
-    "endpoint": "https://getnightshift.tech/mcp"
+    "endpoint": "https://getnightshift.tech/mcp/public"
   },
   "transport": [
     "streamable-http"
