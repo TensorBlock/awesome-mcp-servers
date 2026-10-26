@@ -1,12 +1,13 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "github-gaelasao-apify-mcp-tools-754012ae",
+  "id": "apify-com-gaelasao-ai-visibility-tracker-84b0478e",
   "source": {
     "issue": 4591,
-    "projectUrl": "https://github.com/gaelasao/apify-mcp-tools"
+    "projectUrl": "https://apify.com/gaelasao/ai-visibility-tracker"
   },
   "links": {
-    "endpoint": "https://mcp.apify.com/?tools=gaelasao/ai-visibility-tracker"
+    "endpoint": "https://mcp.apify.com/?tools=gaelasao/ai-visibility-tracker",
+    "docs": "https://github.com/gaelasao/apify-mcp-tools"
   },
   "transport": [
     "streamable-http"
