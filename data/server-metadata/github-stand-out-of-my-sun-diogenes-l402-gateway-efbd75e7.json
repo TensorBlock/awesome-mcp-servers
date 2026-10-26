@@ -58,13 +58,16 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Endpoint and tool metadata supplied by the maintainer. TensorBlock remote probe received HTTP 403; no independent runtime or payment verification."
+      "Endpoint and tool metadata supplied by the maintainer. TensorBlock remote probe received HTTP 403; no independent runtime or payment verification.",
+      "Profile claimed by @stand-out-of-my-sun in #4577 under the community profile-claim process.",
+      "Requested profile metadata in #4577: Category: Security Transport: streamable-http Auth: none (No auth required for tool discovery and ?demo=true previews; L402, x402, or MPP for production) Install confidence: high Install: npx -y mcp-remote..."
     ]
   },
   "community": {
     "maintainedBy": [
       "@stand-out-of-my-sun"
     ],
-    "claimed": true
+    "claimed": true,
+    "verifiedBy": []
   }
 }
