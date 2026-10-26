@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-eve-frontier-mcp-85db8291",
+  "source": {
+    "issue": 4567,
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-eve-frontier-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @stand-out-of-my-sun in #4567 under the community profile-claim process.",
+      "Requested profile metadata in #4567: Category: Gaming Transport: streamable-http Auth: none (No auth required for tool discovery and ?demo=true previews; L402, x402, or MPP for production) Install confidence: high Install: npx -y mcp-remote..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
