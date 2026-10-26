@@ -34,19 +34,19 @@
   "tools": {
     "count": 13,
     "names": [
+      "ghl_agency_connection_health",
+      "ghl_agency_tools_search",
+      "ghl_agency_tools_enable",
+      "ghl_agency_contexts",
+      "ghl_agency_doctor",
+      "ghl_agency_locations",
       "ghl_snapshot_diff_audit",
       "ghl_site_builder_sync",
       "ghl_domain_ssl_onboard",
       "ghl_workflow_ivr_builder",
       "ghl_custom_values_audit",
       "ghl_phone_wallet_audit",
-      "ghl_user_role_governance",
-      "ghl_agency_quickstart",
-      "ghl_agency_catalog_overview",
-      "ghl_agency_search_tools",
-      "ghl_agency_list_packs",
-      "ghl_agency_auth_status",
-      "ghl_agency_connect_guide"
+      "ghl_user_role_governance"
     ],
     "source": "self_reported"
   },
