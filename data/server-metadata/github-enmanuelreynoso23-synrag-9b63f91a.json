@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-enmanuelreynoso23-synrag-9b63f91a",
+  "source": {
+    "issue": 4612,
+    "projectUrl": "https://github.com/EnmanuelReynoso23/synrag"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @mantainer in #4612 under the community profile-claim process.",
+      "Requested profile metadata in #4612: Category: Code Analysis & Quality Transport: unknown Auth: unknown Install confidence: low License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@mantainer"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
