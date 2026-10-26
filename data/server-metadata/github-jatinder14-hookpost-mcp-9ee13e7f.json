@@ -8,13 +8,6 @@
   "links": {
     "endpoint": "https://hookpost.hookstep.in/api/mcp"
   },
-  "install": {
-    "commands": [],
-    "env": [
-      "YOUR_API_KEY"
-    ],
-    "confidence": "low"
-  },
   "transport": [
     "streamable-http"
   ],
