@@ -1,0 +1,71 @@
+{
+  "": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-eve-frontier-mcp-85db8291",
+  "source": {
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-eve-frontier-mcp"
+  },
+  "description": "Specialized Sui Move smart assembly development engines and navigation tools for EVE Frontier: turret coders, smart gate toll routers, and fuel/capacitor burn optimizers.",
+  "category": "Gaming",
+  "links": {
+    "docs": "https://diogenes-micro-gateway.corinth.workers.dev/#eve-frontier",
+    "homepage": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "endpoint": "https://diogenes-micro-gateway.corinth.workers.dev/mcp/eve-frontier"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-remote https://diogenes-micro-gateway.corinth.workers.dev/mcp/eve-frontier"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Zero-friction preview and free-tier testing available via ?demo=true or standard MCP initialization with no API keys, accounts, or tokens required.",
+      "Multi-protocol settlement (Bitcoin Lightning L402, Solana USDC x402, and Base EVM USDC MPP) is supported for production workloads."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other Streamable HTTP MCP clients"
+  ],
+  "tools": {
+    "count": 14,
+    "names": [
+      "inspect_eve_assembly_state",
+      "audit_eve_tribe_standings",
+      "generate_eve_assembly_move",
+      "compile_eve_gate_acl",
+      "simulate_eve_sui_ptb",
+      "verify_eve_zklogin_character",
+      "plan_eve_gate_route",
+      "optimize_eve_node_power",
+      "simulate_eve_capacitor_siege",
+      "monitor_eve_constellation_fuel",
+      "quote_eve_ssu_market",
+      "find_eve_ssu_arbitrage",
+      "analyze_eve_killmail_threats",
+      "prioritize_eve_turret_targets"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Verified live Streamable HTTP MCP endpoint with 14 production tools, 100% test passing rate, and maintainer @stand-out-of-my-sun ownership."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  }
+}

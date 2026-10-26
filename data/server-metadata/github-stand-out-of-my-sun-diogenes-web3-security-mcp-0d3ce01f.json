@@ -1,0 +1,72 @@
+{
+  "": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-web3-security-mcp-0d3ce01f",
+  "source": {
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-web3-security-mcp"
+  },
+  "description": "On-chain DeFi and smart contract security analysis: EIP-712 permit decoder, vanity address poisoning detection, Solana honeypot auditor, and DEX MEV risk oracle.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://diogenes-micro-gateway.corinth.workers.dev/#web3-security",
+    "homepage": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "endpoint": "https://diogenes-micro-gateway.corinth.workers.dev/mcp/web3-security"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-remote https://diogenes-micro-gateway.corinth.workers.dev/mcp/web3-security"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Zero-friction preview and free-tier testing available via ?demo=true or standard MCP initialization with no API keys, accounts, or tokens required.",
+      "Multi-protocol settlement (Bitcoin Lightning L402, Solana USDC x402, and Base EVM USDC MPP) is supported for production workloads."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other Streamable HTTP MCP clients"
+  ],
+  "tools": {
+    "count": 15,
+    "names": [
+      "audit_smart_contract_code",
+      "scan_solana_cpi_reentrancy",
+      "evaluate_solana_token_risk",
+      "inspect_solana_token_liquidity",
+      "track_solana_whale_flows",
+      "estimate_solana_priority_fees",
+      "decode_eip712_permit_signature",
+      "simulate_evm_transaction_calldata",
+      "evaluate_dex_mev_risk",
+      "detect_address_poisoning_scam",
+      "verify_http402_payment_challenge",
+      "estimate_bitcoin_mempool_fees",
+      "plan_bitcoin_utxo_consolidation",
+      "calculate_spot_swap_rate",
+      "compare_crosschain_bridge_routes"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Verified live Streamable HTTP MCP endpoint with 15 production tools, 100% test passing rate, and maintainer @stand-out-of-my-sun ownership."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  }
+}

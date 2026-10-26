@@ -1,0 +1,69 @@
+{
+  "": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-web-scraping-engine-mcp-a10dba4d",
+  "source": {
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-web-scraping-engine-mcp"
+  },
+  "description": "Deterministic web data extraction: anti-bot header analysis, CSS selector scraping, markdown extraction, dynamic table parsing, and URL canonicalization.",
+  "category": "Browser Automation & Web Scraping",
+  "links": {
+    "docs": "https://diogenes-micro-gateway.corinth.workers.dev/#web-scraping-engine",
+    "homepage": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "endpoint": "https://diogenes-micro-gateway.corinth.workers.dev/mcp/web-scraping-engine"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-remote https://diogenes-micro-gateway.corinth.workers.dev/mcp/web-scraping-engine"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Zero-friction preview and free-tier testing available via ?demo=true or standard MCP initialization with no API keys, accounts, or tokens required.",
+      "Multi-protocol settlement (Bitcoin Lightning L402, Solana USDC x402, and Base EVM USDC MPP) is supported for production workloads."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other Streamable HTTP MCP clients"
+  ],
+  "tools": {
+    "count": 12,
+    "names": [
+      "extract_clean_markdown",
+      "scrape_readable_article",
+      "extract_structured_metadata",
+      "parse_html_tables",
+      "isolate_css_selectors",
+      "detect_paywall_and_bypass",
+      "crawl_sitemap_urls",
+      "extract_page_hyperlinks",
+      "sanitize_html_content",
+      "extract_contact_info",
+      "evaluate_seo_diagnostics",
+      "compile_rss_feed"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Verified live Streamable HTTP MCP endpoint with 12 production tools, 100% test passing rate, and maintainer @stand-out-of-my-sun ownership."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  }
+}

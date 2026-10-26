@@ -15,7 +15,41 @@
     "maintainedBy": [
       "@stand-out-of-my-sun"
     ],
-    "verifiedBy": [],
     "claimed": true
-  }
+  },
+  "description": "Primary remote Streamable HTTP Model Context Protocol endpoint for Diogenes Microservice Gateway.",
+  "category": "Security",
+  "links": {
+    "docs": "https://diogenes-micro-gateway.corinth.workers.dev/llms.txt",
+    "homepage": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "endpoint": "https://diogenes-micro-gateway.corinth.workers.dev/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-remote https://diogenes-micro-gateway.corinth.workers.dev/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No API key or auth required for tool discovery or ?demo=true previews."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other Streamable HTTP MCP clients"
+  ],
+  "tools": {
+    "count": 107,
+    "source": "verified"
+  },
+  "license": "MIT"
 }

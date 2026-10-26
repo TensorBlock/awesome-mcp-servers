@@ -1,0 +1,69 @@
+{
+  "": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-agent-guardrails-mcp-4ed1e9aa",
+  "source": {
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-agent-guardrails-mcp"
+  },
+  "description": "Deterministic pre-execution security firewalls for autonomous agents: AST SQL injection check, prompt-injection scrubbing, schema rugpull detection, and circuit breakers.",
+  "category": "Security",
+  "links": {
+    "docs": "https://diogenes-micro-gateway.corinth.workers.dev/#agent-guardrails",
+    "homepage": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "endpoint": "https://diogenes-micro-gateway.corinth.workers.dev/mcp/agent-guardrails"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-remote https://diogenes-micro-gateway.corinth.workers.dev/mcp/agent-guardrails"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Zero-friction preview and free-tier testing available via ?demo=true or standard MCP initialization with no API keys, accounts, or tokens required.",
+      "Multi-protocol settlement (Bitcoin Lightning L402, Solana USDC x402, and Base EVM USDC MPP) is supported for production workloads."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other Streamable HTTP MCP clients"
+  ],
+  "tools": {
+    "count": 12,
+    "names": [
+      "verify_agent_command_safety",
+      "validate_sql_query_ast",
+      "execute_python_sandbox",
+      "audit_mcp_server_manifest",
+      "detect_mcp_schema_rugpull",
+      "validate_mcp_sampling_request",
+      "sanitize_tool_output_stream",
+      "redact_sensitive_pii",
+      "detect_agent_action_loop",
+      "verify_a2a_agent_card",
+      "audit_outbound_egress_url",
+      "audit_response_factuality"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Verified live Streamable HTTP MCP endpoint with 12 production tools, 100% test passing rate, and maintainer @stand-out-of-my-sun ownership."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  }
+}

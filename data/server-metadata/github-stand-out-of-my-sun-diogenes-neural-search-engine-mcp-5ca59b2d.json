@@ -1,0 +1,69 @@
+{
+  "": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-neural-search-engine-mcp-5ca59b2d",
+  "source": {
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-neural-search-engine-mcp"
+  },
+  "description": "Neural semantic search and information retrieval: dense embedding vector search, cross-encoder reranking, BM25 hybrid fusion, and query expansion.",
+  "category": "Search",
+  "links": {
+    "docs": "https://diogenes-micro-gateway.corinth.workers.dev/#neural-search-engine",
+    "homepage": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "endpoint": "https://diogenes-micro-gateway.corinth.workers.dev/mcp/neural-search-engine"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-remote https://diogenes-micro-gateway.corinth.workers.dev/mcp/neural-search-engine"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Zero-friction preview and free-tier testing available via ?demo=true or standard MCP initialization with no API keys, accounts, or tokens required.",
+      "Multi-protocol settlement (Bitcoin Lightning L402, Solana USDC x402, and Base EVM USDC MPP) is supported for production workloads."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other Streamable HTTP MCP clients"
+  ],
+  "tools": {
+    "count": 12,
+    "names": [
+      "synthesize_neural_search",
+      "compile_research_dossier",
+      "expand_search_queries",
+      "filter_domain_intelligence",
+      "analyze_news_recency",
+      "verify_factual_claims",
+      "extract_scholarly_citations",
+      "cluster_topic_subgraphs",
+      "analyze_media_sentiment",
+      "rank_expert_sources",
+      "summarize_temporal_timeline",
+      "compile_competitive_landscape"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Verified live Streamable HTTP MCP endpoint with 12 production tools, 100% test passing rate, and maintainer @stand-out-of-my-sun ownership."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  }
+}

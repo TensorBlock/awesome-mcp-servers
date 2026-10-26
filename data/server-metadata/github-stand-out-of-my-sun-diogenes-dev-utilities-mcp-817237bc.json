@@ -1,0 +1,71 @@
+{
+  "": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-dev-utilities-mcp-817237bc",
+  "source": {
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-dev-utilities-mcp"
+  },
+  "description": "Developer utilities for malformed JSON healing, ReDoS-safe regex synthesis, schema enforcement, agent routing, and token budget allocation.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://diogenes-micro-gateway.corinth.workers.dev/#dev-utilities",
+    "homepage": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "endpoint": "https://diogenes-micro-gateway.corinth.workers.dev/mcp/dev-utilities"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-remote https://diogenes-micro-gateway.corinth.workers.dev/mcp/dev-utilities"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Zero-friction preview and free-tier testing available via ?demo=true or standard MCP initialization with no API keys, accounts, or tokens required.",
+      "Multi-protocol settlement (Bitcoin Lightning L402, Solana USDC x402, and Base EVM USDC MPP) is supported for production workloads."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other Streamable HTTP MCP clients"
+  ],
+  "tools": {
+    "count": 14,
+    "names": [
+      "heal_malformed_json",
+      "enforce_json_schema_types",
+      "clean_tabular_dataset",
+      "synthesize_safe_regex",
+      "compile_xml_agent_prompt",
+      "verify_context_compaction_fidelity",
+      "route_mcp_workflow_plan",
+      "arbitrate_agent_deliverable_escrow",
+      "extract_structured_json_entities",
+      "synthesize_python_automation_code",
+      "summarize_technical_document",
+      "synthesize_web_intelligence_brief",
+      "infer_mpp_streaming_session",
+      "generate_x402_vector_embeddings"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "verified",
+    "notes": [
+      "Verified live Streamable HTTP MCP endpoint with 14 production tools, 100% test passing rate, and maintainer @stand-out-of-my-sun ownership."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  }
+}
