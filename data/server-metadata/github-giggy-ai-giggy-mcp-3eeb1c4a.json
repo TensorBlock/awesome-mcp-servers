@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-giggy-ai-giggy-mcp-3eeb1c4a",
+  "source": {
+    "issue": 4716,
+    "projectUrl": "https://github.com/giggy-ai/giggy-mcp"
+  },
+  "links": {
+    "endpoint": "https://giggy.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "unknown"
+    ]
+  }
+}
