@@ -7,7 +7,8 @@
   },
   "links": {
     "docs": "https://app.repostit.io/claude-connector.html",
-    "homepage": "https://app.repostit.io"
+    "homepage": "https://app.repostit.io",
+    "endpoint": "https://repostit-mcp-cfjcykgqda-uc.a.run.app/mcp/v1.1"
   },
   "auth": {
     "type": "oauth",
