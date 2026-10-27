@@ -17,5 +17,11 @@
       "oauth"
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "clients": [
+    "Claude (custom connector)",
+    "ChatGPT",
+    "Cursor",
+    "Grok"
+  ]
 }
