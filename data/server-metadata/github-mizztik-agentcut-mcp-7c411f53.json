@@ -1,12 +1,12 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "github-diegobruegger-prog-shortformkit-mcp-923dbea7",
+  "id": "github-mizztik-agentcut-mcp-7c411f53",
   "source": {
-    "issue": 3872,
-    "projectUrl": "https://github.com/diegobruegger-prog/shortformkit-mcp"
+    "issue": 4339,
+    "projectUrl": "https://github.com/MIZZTIK/agentcut-mcp"
   },
   "links": {
-    "endpoint": "https://shortformkit.com/mcp"
+    "endpoint": "https://agentcut.dev/mcp"
   },
   "transport": [
     "streamable-http"
@@ -16,12 +16,12 @@
     "notes": []
   },
   "clients": [
-    "Claude Desktop",
-    "Claude.ai",
     "Claude Code",
+    "Claude Desktop",
     "Cursor",
+    "Codex",
     "VS Code",
-    "ChatGPT (connectors)"
+    "any client that supports remote Streamable HTTP"
   ],
   "license": "MIT"
 }
