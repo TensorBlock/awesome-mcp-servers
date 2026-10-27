@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ishay60-mcpolyglot-0f72bcfc",
+  "source": {
+    "issue": 4690,
+    "projectUrl": "https://github.com/ishay60/mcpolyglot"
+  },
+  "install": {
+    "commands": [
+      "npx @mcpolyglot/cli init \"$DATABASE_URL\"   # writes a read-only policy config",
+      "npx @mcpolyglot/cli serve                  # MCP server on stdio",
+      "npm: https://www.npmjs.com/package/@mcpolyglot/cli. Official MCP Registry name: io.github.ishay60/mcpolyglot."
+    ],
+    "env": [
+      "DATABASE_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "any MCP client"
+  ],
+  "license": "MIT"
+}
