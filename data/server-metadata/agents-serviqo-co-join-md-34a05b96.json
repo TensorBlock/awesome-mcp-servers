@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "agents-serviqo-co-join-md-34a05b96",
+  "source": {
+    "issue": 4647,
+    "projectUrl": "https://agents.serviqo.co/join.md"
+  },
+  "links": {
+    "endpoint": "https://agents.serviqo.co/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Generic HTTP JSON-RPC MCP discovery verified on 27 October 2026: initialize and tools/list returned HTTP 200",
+    "with 11 tools. No branded-client compatibility claim is made by that check. No registration or campaign event was created."
+  ],
+  "license": "Not asserted for this hosted service; listing does not grant redistribution rights to the linked devotional content."
+}
