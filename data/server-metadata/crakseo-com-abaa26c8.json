@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "crakseo-com-abaa26c8",
+  "source": {
+    "issue": 4734,
+    "projectUrl": "https://crakseo.com"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth (or scoped bearer API key)"
+    ]
+  },
+  "clients": [
+    "Client-specific connection guides are linked from the documentation. Not claiming an independently completed native-client acceptance test in this submission."
+  ],
+  "license": "Proprietary hosted service; no public-source license claimed."
+}
