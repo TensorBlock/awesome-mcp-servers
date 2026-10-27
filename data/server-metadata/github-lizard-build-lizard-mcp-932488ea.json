@@ -5,7 +5,7 @@
     "issue": 3922,
     "projectUrl": "https://github.com/lizard-build/lizard-mcp"
   },
-  "description": "Run code in Lizard Sandboxes on Lizard (lizard.build). Provides 90 MCP tools, including 17 sandbox tools for commands, files, pause/resume, snapshots, forks and HTTPS ports, plus app, database and Git tools. Connect over Streamable HTTP with OAuth or your own API key. Cloud usage is billed; see lizard.build/pricing.",
+  "description": "Run code in Lizard Sandboxes on Lizard (lizard.build). Provides 89 MCP tools, including 17 sandbox tools for commands, files, pause/resume, snapshots, forks and HTTPS ports, plus app, database and Git tools. Connect over Streamable HTTP with OAuth or your own API key. Cloud usage is billed; see lizard.build/pricing.",
   "links": {
     "docs": "https://github.com/lizard-build/lizard-mcp#connect-a-client",
     "endpoint": "https://employ-woman-g1q2.us-east-1.onlizard.com/mcp",
@@ -21,7 +21,7 @@
     ]
   },
   "tools": {
-    "count": 90,
+    "count": 89,
     "names": [
       "addon_create",
       "billing_status",
@@ -95,7 +95,6 @@
       "service_show",
       "service_sleep_set",
       "service_sleep_status",
-      "ssh_exec",
       "template_deploy",
       "template_list",
       "template_show",
@@ -120,8 +119,8 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Maintainer check on 2026-10-27: authenticated tools/list returned 90 unique tools, including 17 sandbox tools, and whoami completed without an MCP error. The names field is the full tools/list result.",
-      "Cline CLI 3.0.73 connected to the remote endpoint with Streamable HTTP and a user-supplied Bearer token; its native lizard__whoami call passed. Interactive OAuth was not tested in this check.",
+      "Maintainer check on 2026-10-27 after release f6581a2: authenticated tools/list returned 89 unique tools, including 17 sandbox tools, and whoami completed without an MCP error. The names field is the full tools/list result. The release removes the unavailable service shell tool ssh_exec.",
+      "An earlier Cline CLI 3.0.73 check connected to the same remote endpoint with Streamable HTTP and a user-supplied Bearer token; its native lizard__whoami call passed. Interactive OAuth was not tested in that check.",
       "Unauthenticated access returned HTTP 401 with an OAuth protected-resource discovery URL. The endpoint and client setup are documented in the linked README.",
       "Profile claimed by @yuraoak in issue #3919."
     ]
