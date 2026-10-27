@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-gearotons-servomotor-mcp-3b80a08d",
+  "source": {
+    "issue": 2268,
+    "projectUrl": "https://github.com/Gearotons/servomotor-mcp"
+  },
+  "description": "MCP server for driving Gearotons M17 open-source closed-loop NEMA-17 servomotors over an RS-485 bus, with serial-port discovery, motor auto-detection, firmware commands, high-level motion tools, status checks, stop controls, and a mock backend for use without hardware.",
+  "category": "Hardware & IoT",
+  "links": {
+    "docs": "https://github.com/Gearotons/servomotor-mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx --from servomotor-mcp servomotor-mcp",
+      "uvx --from \"servomotor-mcp[serial]\" servomotor-mcp"
+    ],
+    "env": [
+      "GEAROTONS_MOTOR_BACKEND",
+      "GEAROTONS_SERIAL_PORT",
+      "GEAROTONS_DEFAULT_SPEED_DPS"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "stdio-compatible MCP clients"
+  ],
+  "tools": {
+    "names": [
+      "move_to",
+      "move_relative",
+      "run_sequence",
+      "get_motor_status",
+      "stop"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "GitHub repository returned public metadata during maintainer review on 2026-09-09.",
+      "PyPI package servomotor-mcp returned public package metadata during maintainer review on 2026-09-09."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Gearotons",
+      "@tomrodinger"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}

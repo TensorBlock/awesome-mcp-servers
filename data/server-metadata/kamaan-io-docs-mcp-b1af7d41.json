@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "kamaan-io-docs-mcp-b1af7d41",
+  "source": {
+    "issue": 3101,
+    "projectUrl": "https://kamaan.io/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://kamaan.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "unknown"
+}

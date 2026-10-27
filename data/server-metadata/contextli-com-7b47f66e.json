@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "contextli-com-7b47f66e",
+  "source": {
+    "issue": 3095,
+    "projectUrl": "https://contextli.com"
+  },
+  "links": {
+    "endpoint": "https://mcp.contextli.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "unknown"
+}

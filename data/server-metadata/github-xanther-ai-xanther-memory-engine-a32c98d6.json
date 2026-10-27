@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-xanther-ai-xanther-memory-engine-a32c98d6",
+  "source": {
+    "issue": 2198,
+    "projectUrl": "https://github.com/Xanther-Ai/xanther-memory-engine"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @rajbhattacharya02 in #2198 under the community profile-claim process.",
+      "Requested profile metadata in #2198: Category: Knowledge Management & Memory Transport: stdio Auth: none Install confidence: medium License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@rajbhattacharya02"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

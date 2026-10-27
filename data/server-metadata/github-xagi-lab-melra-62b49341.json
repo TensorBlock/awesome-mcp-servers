@@ -1,0 +1,79 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-xagi-lab-melra-62b49341",
+  "source": {
+    "issue": 3957,
+    "projectUrl": "https://github.com/XAGI-Lab/melra"
+  },
+  "install": {
+    "commands": [
+      "npx -y @melra/cli@alpha serve"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "OpenAI Codex CLI",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI",
+    "Windsurf",
+    "Zed",
+    "Cline",
+    "OpenCode",
+    "Kiro",
+    "Goose",
+    "Continue",
+    "Amp",
+    "OpenClaw",
+    "Hermes Agent",
+    "GitHub Copilot CLI",
+    "and other MCP clients"
+  ],
+  "license": "Apache-2.0",
+  "links": {
+    "docs": "https://github.com/XAGI-Lab/melra/blob/main/packages/server/README.md"
+  },
+  "verification": {
+    "status": "unknown",
+    "notes": [
+      "The MCP launch command was corrected from the project installation documentation in issue #3901.",
+      "Profile claimed by @dhe-eraj-s in issue #3933.",
+      "Metadata updated from issue #3957. Source: - https://github.com/XAGI-Lab/melra/blob/main/packages/server/README.md - https://github.com/XAGI-Lab/melra/blob/main/packages/protocol/src/index.ts - https://github.com/XAGI-Lab/melra/releases/tag/v0.3.0-alpha.14"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@dhe-eraj-s"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "description": "MELRA is a local MCP execution runtime for agent tool calls. It applies policy and scoped approvals before actions, verifies declared evidence, records redacted receipts, and leaves interrupted mutations for reconciliation instead of blindly replaying them.",
+  "tools": {
+    "count": 11,
+    "names": [
+      "melra_capabilities",
+      "melra_plan",
+      "melra_execute",
+      "melra_task_status",
+      "melra_task_cancel",
+      "melra_receipt",
+      "melra_workflow_plan",
+      "melra_workflow_advance",
+      "melra_workflow_status",
+      "melra_workflow_cancel",
+      "melra_workflow_control"
+    ],
+    "source": "self_reported"
+  }
+}

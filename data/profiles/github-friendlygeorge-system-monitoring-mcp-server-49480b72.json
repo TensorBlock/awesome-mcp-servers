@@ -20,7 +20,7 @@
     "confidence": "medium"
   },
   "transport": [
-    "sse"
+    "unknown"
   ],
   "auth": {
     "type": "none",
@@ -28,7 +28,7 @@
   },
   "clients": [],
   "license": "MIT",
-  "installReady": true,
+  "installReady": false,
   "verifiedAt": null,
   "health": {
     "repoPublic": null,
@@ -47,11 +47,11 @@
   },
   "summary": {
     "transport": [
-      "sse"
+      "unknown"
     ],
     "auth": "none",
     "installConfidence": "medium",
-    "installReady": true,
+    "installReady": false,
     "verification": "unknown",
     "toolCount": 19
   }

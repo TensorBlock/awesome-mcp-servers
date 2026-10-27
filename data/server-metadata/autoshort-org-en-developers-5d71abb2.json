@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "autoshort-org-en-developers-5d71abb2",
+  "source": {
+    "issue": 4011,
+    "projectUrl": "https://autoshort.org/en/developers"
+  },
+  "links": {
+    "endpoint": "https://autoshort.org/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-server-autoshorts"
+    ],
+    "env": [
+      "AUTOSHORT_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with PKCE and dynamic client registration for the hosted endpoint; a Bearer API key is also supported."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "ChatGPT (developer mode)"
+  ],
+  "license": "MIT (npm package)"
+}

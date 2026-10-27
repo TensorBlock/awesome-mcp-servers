@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "councilof-ai-d42b6835",
+  "source": {
+    "issue": 3547,
+    "projectUrl": "https://councilof.ai"
+  },
+  "description": "Read a signed AI measurement board and verify signed measurement records over MCP; free read-only endpoint https://councilof.ai/mcp/free.",
+  "category": "Science & Research",
+  "links": {
+    "docs": "https://councilof.ai/connect/claude/",
+    "homepage": "https://councilof.ai",
+    "endpoint": "https://councilof.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y csoai-gspc-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The submitted MCP endpoint and public board are reachable without an API key; paid evidence packs use x402 on Base."
+    ]
+  },
+  "clients": [
+    "Streamable HTTP MCP clients",
+    "stdio MCP clients through the local npm bridge"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The replacement project URL, npm package, hosted MCP endpoint, and public board endpoint were reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@CSOAI-ORG"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}

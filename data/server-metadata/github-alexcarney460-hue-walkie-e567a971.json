@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-alexcarney460-hue-walkie-e567a971",
+  "source": {
+    "issue": 3994,
+    "projectUrl": "https://github.com/alexcarney460-hue/walkie"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @alexcarney460-hue in #3994; ownership matched the issue author and GitHub repository owner. Claiming does not establish external runtime verification.",
+      "Installer supports macOS Apple Silicon and Linux x64/arm64; walkie setup connects installed Claude Code and Codex clients. Tool names are a documented subset, not the total inventory."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@alexcarney460-hue"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "links": {
+    "homepage": "https://sqwakie.si",
+    "docs": "https://github.com/alexcarney460-hue/walkie#readme"
+  },
+  "clients": [
+    "Claude Code",
+    "Codex"
+  ],
+  "license": "FSL-1.1-ALv2",
+  "install": {
+    "commands": [
+      "curl -fsSL https://sqwakie.si/install.sh | sh"
+    ],
+    "env": [],
+    "confidence": "low"
+  },
+  "tools": {
+    "names": [
+      "walkie_post",
+      "walkie_read",
+      "walkie_reply",
+      "walkie_ask",
+      "walkie_inbox",
+      "walkie_answer",
+      "walkie_set_status",
+      "walkie_who",
+      "walkie_share",
+      "walkie_fetch"
+    ],
+    "source": "self_reported"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-doctofam-claude-plugin-336afe69",
+  "source": {
+    "projectUrl": "https://github.com/doctofam/claude-plugin"
+  },
+  "description": "Read clinic metadata, bookable capacity, provider and room configuration, procedure catalogs, calendar blocks and aggregate schedules without patient or clinical records.",
+  "category": "Healthcare & Life Sciences",
+  "links": {
+    "docs": "https://www.doctofam.com/developers/#mcp",
+    "homepage": "https://www.doctofam.com/",
+    "endpoint": "https://mcp.doctofam.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 10,
+    "names": [
+      "get_clinic",
+      "get_clinic_availability",
+      "get_clinic_schedule_summary",
+      "get_subscription_status",
+      "list_calendar_events",
+      "list_clinics",
+      "list_procedures",
+      "list_providers",
+      "list_rooms",
+      "show_clinic_overview"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}

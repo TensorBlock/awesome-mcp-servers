@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "agents-getardaro-com-agent-utilities-fa40410e",
+  "source": {
+    "issue": 2371,
+    "projectUrl": "https://agents.getardaro.com/agent-utilities"
+  },
+  "description": "Hosted Streamable HTTP MCP server with read-only advisory utilities for receipt checks, invoice and purchase-order comparison, context compaction, intent suggestions, budget checks, and API-ledger reconciliation.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://agents.getardaro.com/agent-utilities",
+    "endpoint": "https://agents.getardaro.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Discovery, status, and fixed examples require no account, API key, or wallet.",
+      "Paid analyses require explicit owner-authorized x402 USDC settlement on Base."
+    ]
+  },
+  "clients": [
+    "Direct Streamable HTTP MCP requests verified; no broad client compatibility claim."
+  ],
+  "tools": {
+    "count": 18,
+    "source": "verified"
+  },
+  "license": "Hosted service; no open-source backend license claimed. The linked examples repository is distinct from the hosted server implementation.",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Hosted endpoint returned MCP initialize serverInfo for `ardaro-agent-services` version 1.3.0.",
+      "Public documentation page returned HTTP 200 during review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@ashevilleislove"
+    ],
+    "verifiedBy": [
+      "@TensorBlock"
+    ],
+    "claimed": true
+  }
+}

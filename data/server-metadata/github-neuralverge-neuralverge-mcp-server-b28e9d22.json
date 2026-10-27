@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-neuralverge-neuralverge-mcp-server-b28e9d22",
+  "source": {
+    "issue": 2480,
+    "projectUrl": "https://github.com/neuralverge/neuralverge-mcp-server"
+  },
+  "links": {
+    "docs": "https://docs.neuralverge.ai/mcp-server",
+    "endpoint": "https://api.neuralverge.ai/functions/v1/mcp-server"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Send the NeuralVerge API key as Authorization: Bearer <API key>. initialize and tools/list are public; tool calls require a key from https://app.neuralverge.ai."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 15,
+    "names": [
+      "run_research",
+      "get_session_status",
+      "run_search",
+      "run_extract",
+      "run_linkedin_email",
+      "run_linkedin_domain",
+      "run_linkedin_company_search",
+      "run_linkedin_people_search",
+      "run_linkedin_company_employee",
+      "run_email_enrichment",
+      "run_email_validation",
+      "run_email_finder",
+      "run_phone_enrichment",
+      "run_phone_enrichment_us",
+      "run_crunchbase_company"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT"
+}

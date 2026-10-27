@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "meisa-io-docs-claude-connector-b2a3afc7",
+  "source": {
+    "issue": 3091,
+    "projectUrl": "https://meisa.io/docs/claude-connector"
+  },
+  "links": {
+    "endpoint": "https://mcp.meisa.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "unknown"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-alxspiker-windows-command-line-mcp-server-f7fb0aa1",
+  "source": {
+    "issue": 3136,
+    "projectUrl": "https://github.com/alxspiker/Windows-Command-Line-MCP-Server"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The public source repository was archived by its owner; last checked 2026-10-05. The entry remains indexed because the source is still available."
+    ]
+  }
+}

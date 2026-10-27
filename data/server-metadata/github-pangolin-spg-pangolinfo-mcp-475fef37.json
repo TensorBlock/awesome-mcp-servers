@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-pangolin-spg-pangolinfo-mcp-475fef37",
+  "source": {
+    "issue": 2214,
+    "projectUrl": "https://github.com/pangolinfo/pangolinfo-mcp"
+  },
+  "description": "Read-only Amazon product, review, ranking, seller, category, niche and AI-search research; WIPO lookup optionally includes US patent litigation. 18 business tools plus a free local introspection helper.",
+  "category": "Browser Automation & Web Scraping",
+  "links": {
+    "endpoint": "https://mcp.pangolinfo.com/mcp",
+    "docs": "https://docs.pangolinfo.com/en-help-center/mcp/overview"
+  },
+  "install": {
+    "commands": [
+      "PANGOLINFO_API_KEY=your-key npx -y pangolinfo-amazon-data-mcp",
+      "docker pull pangolinfo/amazon-data-mcp:latest"
+    ],
+    "env": [
+      "PANGOLINFO_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Use your own Pangolinfo API key in the hosted Authorization bearer header or local PANGOLINFO_API_KEY environment variable."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other Streamable HTTP or stdio MCP clients"
+  ],
+  "tools": {
+    "count": 19,
+    "names": [],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Project URL, npm package, and hosted endpoint auth boundary were reachable during maintainer review."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Pangolin-spg"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}

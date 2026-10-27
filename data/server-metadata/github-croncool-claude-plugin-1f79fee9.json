@@ -1,0 +1,58 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "github-croncool-claude-plugin-1f79fee9",
+  "source": {
+    "projectUrl": "https://github.com/croncool/claude-plugin"
+  },
+  "description": "Inspect scheduled jobs, execution history, durable workflow traces and webhook health, and trigger one configured job after confirmation.",
+  "category": "Monitoring & Observability",
+  "links": {
+    "docs": "https://www.cron.cool/developers/#mcp",
+    "homepage": "https://www.cron.cool/",
+    "endpoint": "https://mcp.cron.cool/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorize with an account and organization membership for this product. Each tool call requires a valid product-scoped OAuth grant; descriptor discovery is public."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 11,
+    "names": [
+      "get_job",
+      "get_job_runs",
+      "get_workflow_run",
+      "list_jobs",
+      "list_projects",
+      "list_webhook_subscriptions",
+      "list_workflow_runs",
+      "list_workflows",
+      "open_croncool",
+      "run_job",
+      "show_project_overview"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-provided metadata. Public tool inventory sampled on 2026-10-04; no authenticated tool execution is claimed here.",
+      "The public GitHub repository contains remote connector configuration and workflow skills, not hosted server source. Apache-2.0 applies to that connector package."
+    ]
+  }
+}

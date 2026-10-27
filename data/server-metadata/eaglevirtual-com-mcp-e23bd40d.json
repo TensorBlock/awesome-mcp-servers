@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "eaglevirtual-com-mcp-e23bd40d",
+  "source": {
+    "issue": 2515,
+    "projectUrl": "https://eaglevirtual.com/mcp"
+  },
+  "links": {
+    "docs": "https://eaglevirtual.com/mcp",
+    "endpoint": "https://mcp.eaglevirtual.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude web and desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Not applicable: hosted service, no public code repository"
+}

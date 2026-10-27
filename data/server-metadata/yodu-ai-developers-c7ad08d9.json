@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "yodu-ai-developers-c7ad08d9",
+  "source": {
+    "issue": 2684,
+    "projectUrl": "https://yodu.ai/developers"
+  },
+  "links": {
+    "endpoint": "https://app.yodu.ai/api/mcp/oauth"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth for the remote endpoint; workspace API keys are also supported at https://app.yodu.ai/api/mcp."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "Proprietary hosted service"
+}

@@ -198,8 +198,8 @@ describe("buildCatalogFromMarkdown", () => {
       "## Experimental",
       [
         "- [Metadata MCP](https://example.com/metadata-mcp):",
-        "Run `npx metadata-mcp` with API_KEY for OAuth-enabled Claude usage.",
-        "Includes 13 tools under MIT license.",
+        "Run `npx metadata-mcp` with API_KEY against any URL for OAuth-enabled Claude usage.",
+        "Includes 13 tools for managing assets under MIT license.",
       ].join(" "),
     ].join("\n");
 
@@ -209,6 +209,7 @@ describe("buildCatalogFromMarkdown", () => {
     expect(entry?.install.commands).toEqual(["npx metadata-mcp"]);
     expect(entry?.install.env).toEqual(["API_KEY"]);
     expect(entry?.install.confidence).toBe("medium");
+    expect(entry?.transport).toEqual(["unknown"]);
     expect(entry?.auth.type).toBe("oauth");
     expect(entry?.clients).toEqual(["Claude"]);
     expect(entry?.tools).toEqual({

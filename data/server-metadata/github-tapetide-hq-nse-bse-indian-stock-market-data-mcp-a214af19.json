@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19",
+  "source": {
+    "projectUrl": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp"
+  },
+  "links": {
+    "docs": "https://tapetide.com/mcp/llms.txt",
+    "homepage": "https://tapetide.com/mcp",
+    "endpoint": "https://mcp.tapetide.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx tapetide-mcp",
+      "claude mcp add --transport http tapetide https://mcp.tapetide.com/mcp"
+    ],
+    "env": [
+      "TAPETIDE_TOKEN"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "The remote endpoint supports Google OAuth with dynamic client registration or a personal Bearer token; the stdio bridge uses TAPETIDE_TOKEN."
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Windsurf",
+    "Kiro",
+    "Zed",
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 55,
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

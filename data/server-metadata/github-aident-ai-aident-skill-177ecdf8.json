@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aident-ai-aident-skill-177ecdf8",
+  "source": {
+    "issue": 2759,
+    "projectUrl": "https://github.com/Aident-AI/aident-skill"
+  },
+  "description": "Connect agents to application and platform tools through Aident Loadout with managed credentials and an audit history.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://docs.aident.ai",
+    "homepage": "https://aident.ai",
+    "endpoint": "https://loadout.aident.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http aident https://loadout.aident.ai/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "The hosted endpoint starts OAuth sign-in on first connection."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Claude.ai",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "ChatGPT",
+    "Gemini CLI",
+    "Codex"
+  ],
+  "license": "MIT"
+}

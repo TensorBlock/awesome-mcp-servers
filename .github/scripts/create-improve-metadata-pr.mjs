@@ -457,7 +457,7 @@ function normalizeMetadataScalar(value) {
 
 function extractEnvVars(value) {
   const matches = value.match(/\b[A-Z][A-Z0-9_]{2,}\b/g) ?? [];
-  return unique(matches.filter((match) => /(KEY|TOKEN|SECRET|PASSWORD|ENDPOINT|URL)$/.test(match)));
+  return unique(matches.filter((match) => /^.+(?:KEY|TOKEN|SECRET|PASSWORD|ENDPOINT|URL)$/.test(match)));
 }
 
 function extractFirstUrl(value) {

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-brianbooms-quiet-menders-9bf7edb1",
+  "source": {
+    "issue": 2693,
+    "projectUrl": "https://github.com/brianbooms/quiet-menders"
+  },
+  "links": {
+    "endpoint": "https://quiet-menders-mcp.brianbooms.workers.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "MIT"
+}

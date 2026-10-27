@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-starnikovoleg-tgatlas-mcp-c79d21fb",
+  "source": {
+    "issue": 2497,
+    "projectUrl": "https://github.com/starnikovoleg/tgatlas-mcp"
+  },
+  "links": {
+    "docs": "https://github.com/starnikovoleg/tgatlas-mcp#readme"
+  },
+  "install": {
+    "commands": [
+      "npx -y tgatlas-mcp"
+    ],
+    "env": [
+      "TELEGRAM_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "TELEGRAM_API_KEY is a RapidAPI key for telegram155; the free tier needs no card."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}

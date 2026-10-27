@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "powmcp-com-apps-ssl-certificate-check-98a7ce63",
+  "source": {
+    "issue": 2295,
+    "projectUrl": "https://powmcp.com/apps/ssl-certificate-check/"
+  },
+  "description": "Hosted TLS inspection MCP server for checking the certificate and supported TLS protocol versions served by a public endpoint.",
+  "category": "Security",
+  "links": {
+    "docs": "https://powmcp.com/apps/ssl-certificate-check/",
+    "endpoint": "https://powmcp.com/ssl-certificate-check/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Guest access is supported; optional account linking uses OAuth."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "VS Code",
+    "Streamable HTTP MCP clients"
+  ],
+  "tools": {
+    "count": 1,
+    "names": [
+      "ssl_check"
+    ],
+    "source": "verified"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Docs returned HTTP 200 during maintainer review on 2026-09-10.",
+      "MCP initialize returned HTTP 200 when called with Accept: application/json, text/event-stream during maintainer review."
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "newruntime-com-agents-fa43d23b",
+  "source": {
+    "issue": 2697,
+    "projectUrl": "https://newruntime.com/agents/"
+  },
+  "links": {
+    "endpoint": "https://newruntime.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client that supports remote Streamable HTTP servers"
+  ],
+  "license": "Hosted service; source is not public"
+}

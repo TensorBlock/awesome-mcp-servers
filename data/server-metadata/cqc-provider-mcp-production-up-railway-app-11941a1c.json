@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "cqc-provider-mcp-production-up-railway-app-11941a1c",
+  "source": {
+    "issue": 2340,
+    "projectUrl": "https://cqc-provider-mcp-production.up.railway.app/"
+  },
+  "links": {
+    "endpoint": "https://cqc-provider-mcp-production.up.railway.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP-compatible client that supports Streamable HTTP."
+  ],
+  "license": "Hosted service; no open-source license claimed."
+}

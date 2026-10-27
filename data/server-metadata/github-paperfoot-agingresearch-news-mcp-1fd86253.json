@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-paperfoot-agingresearch-news-mcp-1fd86253",
+  "source": {
+    "issue": 3604,
+    "projectUrl": "https://github.com/paperfoot/agingresearch-news-mcp"
+  },
+  "links": {
+    "endpoint": "https://agingresearch.news/api/mcp",
+    "docs": "https://agingresearch.news/connect"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Public research lookups require no auth; personal features require OAuth."
+    ]
+  },
+  "license": "Hosted service; the linked repository contains the public connection manifest, not the application source."
+}
