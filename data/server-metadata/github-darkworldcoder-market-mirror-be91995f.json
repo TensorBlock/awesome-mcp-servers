@@ -20,7 +20,9 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "No authentication for the local stdio MCP connection. Engine setup and the chosen model provider require separate configuration and may require credentials and model usage costs. Do not expose this launcher as an unauthenticated remote service."
+    ]
   },
   "clients": [
     "Claude Desktop",
@@ -45,10 +47,9 @@
   },
   "license": "AGPL-3.0",
   "verification": {
-    "status": "partial",
+    "status": "self_reported",
     "notes": [
-      "partial — PyPI 0.4.2 launcher initialization, tools/list (27 tools), and doctor diagnostics exercised on Linux with an empty engine path and no model credentials. Engine setup, model inference and client-specific integration were not...",
-      "Metadata updated from issue #4653. Source: I maintain MarketMirror. This follows the [metadata contribution guide](https://github.com/TensorBlock/awesome-mcp-servers/blob/main/docs/index-alpha/contribution-guide.md) for an **existing listing**, added in..."
+      "Maintainer reports testing PyPI 0.4.2 stdio initialization, discovery (27 tools), and doctor diagnostics. Engine setup, model inference, and client UI integrations were not tested."
     ]
   }
 }
