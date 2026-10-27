@@ -13,11 +13,9 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "No authentication for discovery, self-registration and public mission links; bearer authorization for protected administrative tools."
+    ]
   },
-  "clients": [
-    "Generic HTTP JSON-RPC MCP discovery verified on 27 October 2026: initialize and tools/list returned HTTP 200",
-    "with 11 tools. No branded-client compatibility claim is made by that check. No registration or campaign event was created."
-  ],
   "license": "Not asserted for this hosted service; listing does not grant redistribution rights to the linked devotional content."
 }
