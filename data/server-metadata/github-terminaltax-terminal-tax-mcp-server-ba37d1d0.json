@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-terminaltax-terminal-tax-mcp-server-ba37d1d0",
+  "source": {
+    "issue": 4633,
+    "projectUrl": "https://github.com/terminaltax/terminal-tax-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.terminal.tax/v1/hosted-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Cline",
+    "Kiro"
+  ],
+  "license": "MIT (repository); hosted service"
+}
