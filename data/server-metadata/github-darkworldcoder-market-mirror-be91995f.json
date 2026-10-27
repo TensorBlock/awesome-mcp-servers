@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-darkworldcoder-market-mirror-be91995f",
+  "source": {
+    "issue": 4653,
+    "projectUrl": "https://github.com/DarkWorldCoder/market-mirror"
+  },
+  "links": {
+    "docs": "https://github.com/DarkWorldCoder/market-mirror/blob/main/plugin/README.md"
+  },
+  "install": {
+    "commands": [
+      "uvx --from marketmirror==0.4.2 marketmirror"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 27,
+    "names": [
+      "doctor",
+      "setup",
+      "market_test",
+      "job_status",
+      "results",
+      "campaign_plan",
+      "actuals_import",
+      "holdout_backtest",
+      "website_test"
+    ],
+    "source": "self_reported"
+  },
+  "license": "AGPL-3.0",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "partial — PyPI 0.4.2 launcher initialization, tools/list (27 tools), and doctor diagnostics exercised on Linux with an empty engine path and no model credentials. Engine setup, model inference and client-specific integration were not...",
+      "Metadata updated from issue #4653. Source: I maintain MarketMirror. This follows the [metadata contribution guide](https://github.com/TensorBlock/awesome-mcp-servers/blob/main/docs/index-alpha/contribution-guide.md) for an **existing listing**, added in..."
+    ]
+  }
+}
