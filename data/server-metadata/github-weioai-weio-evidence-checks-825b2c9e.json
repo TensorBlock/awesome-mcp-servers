@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-weioai-weio-evidence-checks-825b2c9e",
+  "source": {
+    "issue": 4028,
+    "projectUrl": "https://github.com/weioai/weio-evidence-checks"
+  },
+  "install": {
+    "commands": [
+      "python -m pip install ./weio_evidence_checks-0.1.0a2-py3-none-any.whl"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "MIT"
+}

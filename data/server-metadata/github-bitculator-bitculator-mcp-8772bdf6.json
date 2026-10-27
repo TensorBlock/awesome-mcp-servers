@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-bitculator-bitculator-mcp-8772bdf6",
+  "source": {
+    "issue": 3644,
+    "projectUrl": "https://github.com/Bitculator/bitculator-mcp"
+  },
+  "category": "Finance & Crypto",
+  "links": {
+    "endpoint": "https://bitculator.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Send the MCP key as an Authorization Bearer token or X-API-Key header; free keys are available from Bitculator."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT (connector repo); hosted service"
+}

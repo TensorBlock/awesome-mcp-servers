@@ -18,7 +18,7 @@
     "confidence": "low"
   },
   "transport": [
-    "sse"
+    "unknown"
   ],
   "auth": {
     "type": "unknown",
@@ -45,7 +45,7 @@
   },
   "summary": {
     "transport": [
-      "sse"
+      "unknown"
     ],
     "auth": "unknown",
     "installConfidence": "low",

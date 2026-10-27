@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-lakesky-bridge-watch-mcp-066fc39d",
+  "source": {
+    "issue": 3514,
+    "projectUrl": "https://github.com/LakeSky/bridge-watch-mcp"
+  },
+  "links": {
+    "endpoint": "https://agentsapi.top/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y bridge-watch-mcp          # stdio transport, zero dependencies, Node >= 18",
+      "npx -y bridge-watch-mcp --tools  # print the live tool list (server reachability check)"
+    ],
+    "env": [
+      "BRIDGE_WATCH_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "any stdio or streamable-HTTP MCP client"
+  ],
+  "license": "MIT"
+}

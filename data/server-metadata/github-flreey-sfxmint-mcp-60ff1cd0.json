@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-flreey-sfxmint-mcp-60ff1cd0",
+  "source": {
+    "issue": 4038,
+    "projectUrl": "https://github.com/flreey/sfxmint-mcp"
+  },
+  "links": {
+    "endpoint": "https://sfxmint.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [],
+  "license": "CC0-1.0 for published repository materials and audio; hosted backend is not fully published."
+}

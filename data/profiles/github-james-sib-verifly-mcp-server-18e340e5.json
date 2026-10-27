@@ -18,8 +18,7 @@
     "confidence": "low"
   },
   "transport": [
-    "streamable-http",
-    "sse"
+    "streamable-http"
   ],
   "auth": {
     "type": "api-key",
@@ -46,8 +45,7 @@
   },
   "summary": {
     "transport": [
-      "streamable-http",
-      "sse"
+      "streamable-http"
     ],
     "auth": "api-key",
     "installConfidence": "low",

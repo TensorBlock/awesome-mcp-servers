@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "proxgetlocal-app-745ab106",
+  "source": {
+    "issue": 3917,
+    "projectUrl": "https://proxgetlocal.app"
+  },
+  "links": {
+    "homepage": "https://proxgetlocal.app",
+    "docs": "https://proxgetlocal.app/llms.txt",
+    "endpoint": "https://proxgetlocal.app/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client that supports remote Streamable HTTP servers"
+  ],
+  "tools": {
+    "count": 4,
+    "names": [
+      "find_nearby_shops",
+      "whats_live_nearby",
+      "find_open_houses",
+      "whats_happening"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary hosted service (free to use)",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "The public endpoint responded to MCP initialization during review; tool metadata is maintainer-submitted."
+    ]
+  }
+}
