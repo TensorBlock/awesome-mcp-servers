@@ -246,6 +246,29 @@ describe("registry API server", () => {
     });
   });
 
+  it("exposes Codex copyable TOML alongside the unchanged remote JSON config", async () => {
+    const remote = catalogEntry({
+      id: "remote-docs",
+      links: { endpoint: "https://example.invalid/mcp" },
+      install: { commands: [], env: [], confidence: "medium" },
+      transport: ["streamable-http"],
+      auth: { type: "none", notes: [] },
+    });
+    const baseUrl = await startServer([remote]);
+    const response = await fetch(`${baseUrl}/v1/servers/remote-docs/install-config?client=codex`);
+    const body = await response.json();
+    expect(response.status).toBe(200);
+    expect(body.config).toEqual({ mcpServers: { "remote-docs": { url: "https://example.invalid/mcp" } } });
+    expect(body.copy).toEqual({
+      format: "toml", targetFile: "~/.codex/config.toml",
+      text: '[mcp_servers."remote-docs"]\nurl = "https://example.invalid/mcp"\n',
+    });
+    const cursor = await fetch(`${baseUrl}/v1/servers/remote-docs/install-config?client=cursor`);
+    const cursorBody = await cursor.json();
+    expect(cursorBody.config).toEqual(body.config);
+    expect(cursorBody).not.toHaveProperty("copy");
+  });
+
   it("returns recently added server summaries", async () => {
     const baseUrl = await startServer([
       catalogEntry({

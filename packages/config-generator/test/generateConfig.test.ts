@@ -60,6 +60,48 @@ const createEntry = (overrides: Partial<CatalogEntry> = {}): CatalogEntry => ({
 });
 
 describe("generateClientConfig", () => {
+  it("adds native Codex TOML for an anonymous remote endpoint without changing the JSON config", () => {
+    const entry = createEntry();
+    entry.links.endpoint = "https://example.invalid/mcp?source=docs&mode=read";
+    entry.transport = ["streamable-http"];
+
+    const codex = generateClientConfig(entry, "codex");
+    const cursor = generateClientConfig(entry, "cursor");
+
+    expect(codex.config).toEqual(cursor.config);
+    expect(codex.copy).toEqual({
+      format: "toml",
+      targetFile: "~/.codex/config.toml",
+      text: '[mcp_servers."github-owner-demo"]\nurl = "https://example.invalid/mcp?source=docs&mode=read"\n',
+    });
+    expect(cursor).not.toHaveProperty("copy");
+    expect(codex.copy!.text).not.toMatch(/command|authorization|http_headers|bearer_token/iu);
+  });
+
+  it("serializes stdio command, arguments and environment placeholders as Codex TOML", () => {
+    const entry = createEntry({
+      install: { commands: ['npx -y "@owner/demo mcp"'], env: ["DEMO_API_KEY"], confidence: "medium" },
+    });
+    const generated = generateClientConfig(entry, "codex");
+    expect(generated.copy!.text).toBe(
+      '[mcp_servers."github-owner-demo"]\ncommand = "npx"\nargs = ["-y", "@owner/demo mcp"]\n\n' +
+      '[mcp_servers."github-owner-demo".env]\n"DEMO_API_KEY" = "<DEMO_API_KEY>"\n'
+    );
+    expect(generated.config.mcpServers[entry.id]).toEqual({
+      command: "npx", args: ["-y", "@owner/demo mcp"], env: { DEMO_API_KEY: "<DEMO_API_KEY>" },
+    });
+  });
+
+  it("quotes table keys and escapes TOML string controls without creating extra tables", () => {
+    const entry = createEntry({ id: 'demo.with."quotes"\n[other]' });
+    entry.links.endpoint = 'https://example.invalid/\\path?x="quoted"\t\n\u007f';
+    const text = generateClientConfig(entry, "codex").copy!.text;
+    expect(text).toBe(
+      '[mcp_servers."demo.with.\\"quotes\\"\\n[other]"]\n' +
+      'url = "https://example.invalid/\\\\path?x=\\"quoted\\"\\t\\n\\u007f"\n'
+    );
+  });
+
   it.each(["localcloud", "lc", "/opt/homebrew/bin/localcloud", "/home/linuxbrew/.linuxbrew/bin/localcloud"])("recognizes %s mcp as a stdio launch command", (command) => {
     const entry = createEntry({ install: { commands: [`${command} mcp`], env: [], confidence: "high" } });
     expect(generateClientConfig(entry, "cursor").config.mcpServers[entry.id]).toEqual({command, args: ["mcp"]});

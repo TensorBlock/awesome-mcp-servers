@@ -1,6 +1,7 @@
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
 import { badgeMarkdown } from "./badge.js";
 import { webProfileUrl } from "./webProfile.js";
+import { generateClientConfig } from "../../config-generator/src/generateConfig.js";
 
 const CLIENTS = ["claude-desktop", "cursor", "codex", "vscode"] as const;
 const DISCORD_URL = "https://discord.com/invite/Ej5NmeHFf2";
@@ -11,6 +12,7 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
   const profileUrl = webProfileUrl(entry.id);
   const readmeBadge = badgeMarkdown(entry, profileUrl);
   const maintainerActions = renderMaintainerActions(entry);
+  const codexCopy = generateClientConfig(entry, "codex").copy!;
   const maintainerIntro = entry.community.claimed
     ? "This profile has been claimed by a community maintainer. Claim status is separate from TensorBlock verification; keep metadata current when install, auth, docs, license, or tool details change."
     : "Use this profile as the public install and metadata page for your MCP server. Claim the profile, add the badge to your README, and send metadata fixes when install or auth details change.";
@@ -273,6 +275,12 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
         <dt>Generated configs</dt>
         <dd>${CLIENTS.map((client) => `<a href="/v1/servers/${encodeURIComponent(entry.id)}/install-config?client=${client}">${client}</a>`).join(" · ")}</dd>
       </dl>
+      <h3>Codex config.toml</h3>
+      <p class="helper">Merge this server table into <code>${codexCopy.targetFile}</code> or a trusted project's <code>.codex/config.toml</code>. Keep your other settings; update an existing table with the same name instead of adding it twice. Replace any placeholder values before use.</p>
+      <pre><code id="codex-config">${escapeHtml(codexCopy.text)}</code></pre>
+      <div class="links">
+        <button class="button" type="button" data-copy-target="codex-config">Copy Codex TOML</button>
+      </div>
     </section>
 
     <section>

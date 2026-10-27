@@ -56,6 +56,22 @@ const entry: CatalogEntry = {
 };
 
 describe("renderServerProfilePage", () => {
+  it("renders an escaped Codex TOML copy target with the configuration destination", () => {
+    const html = renderServerProfilePage({
+      ...entry,
+      links: { ...entry.links, endpoint: 'https://example.invalid/mcp?value=<script>alert(1)</script>&q="x"' },
+      install: { commands: [], env: [], confidence: "medium" },
+      transport: ["streamable-http"],
+    });
+    expect(html).toContain("~/.codex/config.toml");
+    expect(html).toContain('id="codex-config"');
+    expect(html).toContain('data-copy-target="codex-config"');
+    expect(html).toContain('[mcp_servers."unsafe-demo"]');
+    expect(html).toContain("&lt;script&gt;alert(1)&lt;/script&gt;");
+    expect(html).not.toContain("<script>alert(1)</script>");
+    expect(html).toContain("Merge this server table");
+  });
+
   it("escapes text and blocks unsafe links", () => {
     const html = renderServerProfilePage(entry);
 

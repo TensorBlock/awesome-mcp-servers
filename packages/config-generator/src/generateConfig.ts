@@ -9,6 +9,11 @@ export interface GeneratedConfig {
   config: {
     mcpServers: Record<string, ServerConfig>;
   };
+  copy?: {
+    format: "toml";
+    targetFile: "~/.codex/config.toml";
+    text: string;
+  };
   notes: string[];
 }
 
@@ -42,9 +47,41 @@ export const generateClientConfig = (
         [entry.id]: serverConfig,
       },
     },
+    ...(client === "codex" ? {
+      copy: {
+        format: "toml" as const,
+        targetFile: "~/.codex/config.toml" as const,
+        text: codexToml(entry.id, serverConfig),
+      },
+    } : {}),
     notes: buildNotes(entry),
   };
 };
+
+// This is a server-table snippet, not a replacement for the user's config file.
+const codexToml = (id: string, server: ServerConfig): string => {
+  const table = `mcp_servers.${tomlString(id)}`;
+  const lines = [`[${table}]`];
+
+  if ("url" in server) {
+    lines.push(`url = ${tomlString(server.url)}`);
+  } else {
+    lines.push(`command = ${tomlString(server.command)}`);
+    lines.push(`args = [${server.args.map(tomlString).join(", ")}]`);
+    if (server.env && Object.keys(server.env).length > 0) {
+      lines.push("", `[${table}.env]`);
+      for (const [key, value] of Object.entries(server.env)) {
+        lines.push(`${tomlString(key)} = ${tomlString(value)}`);
+      }
+    }
+  }
+
+  return `${lines.join("\n")}\n`;
+};
+
+// JSON basic-string escapes are valid TOML; DEL must also be escaped in TOML.
+const tomlString = (value: string): string =>
+  JSON.stringify(value).replace(/\u007f/g, "\\u007f");
 
 const buildServerConfig = (entry: CatalogEntry): ServerConfig => {
   const commandParts = findLaunchCommand(entry.install.commands);

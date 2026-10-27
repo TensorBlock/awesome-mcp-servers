@@ -102,6 +102,26 @@ Generate an install config:
 curl "$MCP_INDEX_API_URL/v1/servers/github-crystaldba-postgres-mcp-22e80ea8/install-config?client=claude-desktop"
 ```
 
+For `client=codex`, the JSON response also includes a `copy` object:
+
+```json
+{
+  "format": "toml",
+  "targetFile": "~/.codex/config.toml",
+  "text": "[mcp_servers.\"example\"]\nurl = \"https://example.invalid/mcp\"\n"
+}
+```
+
+`copy.text` is the native TOML snippet to display or copy for direct Codex configuration. Merge that server table into an existing `~/.codex/config.toml`, or a trusted project's `.codex/config.toml`; keep other settings and update an existing same-name table rather than adding a duplicate. Replace indexed environment placeholders before use. See the [official Codex MCP configuration documentation](https://learn.chatgpt.com/docs/extend/mcp?surface=cli).
+
+Print just the TOML snippet:
+
+```bash
+curl --fail "$MCP_INDEX_API_URL/v1/servers/github-crystaldba-postgres-mcp-22e80ea8/install-config?client=codex" | jq -r '.copy.text'
+```
+
+The existing `config.mcpServers` JSON remains available for API consumers and is unchanged for all clients. It is an intermediate object for Codex, not text to paste into `config.toml`. Other clients do not receive the Codex-specific `copy` field. The API's HTML fallback at `/servers/{id}` renders the TOML snippet and a copy button; website install panels can use the same `copy.text` field when integrating this response. Generated configuration is not a live connection test.
+
 ## Railway Deployment
 
 The API is designed to run as a Railway service from this repository.
