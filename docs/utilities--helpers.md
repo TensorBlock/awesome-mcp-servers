@@ -41,7 +41,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [blajanclaudiu/cotton](https://github.com/blajanclaudiu/cotton): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [clareliguori/rdap-mcp-server](https://github.com/clareliguori/rdap-mcp-server): Facilitates domain and IP lookups using RDAP through a Model Context Protocol server.
 - [andrewdmontgomery/mcp-server-gravatar](https://github.com/andrewdmontgomery/mcp-server-gravatar): Provides access to Gravatar profiles and avatars via a stdio-based MCP server, enabling easy integration with MCP-aware clients.
-- [HackTastic99/sad](https://github.com/HackTastic99/sad): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [orlando2019/MCP-filesystem](https://github.com/orlando2019/MCP-filesystem): Node.js server enabling filesystem operations through the Model Context Protocol, supporting file manipulation, directory management, and metadata retrieval.
 - [orlando2019/MCP-SEVER](https://github.com/orlando2019/MCP-SEVER): A comprehensive full-stack MCP server implementation for file management and client request handling, supporting integration with n8n, AppSheet, and npm using TypeScript and Python.
 - [wrdan/mcp-server-canteen](https://github.com/wrdan/mcp-server-canteen): Facilitates querying employee canteen dining statistics for specified date ranges, including breakfast and lunch counts.
@@ -77,12 +76,7 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [Lockingdong/todo-list-mcp-ts](https://github.com/Lockingdong/todo-list-mcp-ts): A TypeScript-based todo list application utilizing MCP for efficient task management.
 - [kentrino/faker-mcp-server](https://github.com/kentrino/faker-mcp-server): A TypeScript-based server utilizing Faker.js to generate customizable fake data across various locales.
 - [raymondlowe/mcp-edit-text](https://github.com/raymondlowe/mcp-edit-text): Facilitates text file region editing with tools for retrieving, modifying, and managing content in HTML and Markdown formats.
-- [paulmicahsalas/pound](https://github.com/paulmicahsalas/pound): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [paulmicahsalas/since](https://github.com/paulmicahsalas/since): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [paulmicahsalas/load](https://github.com/paulmicahsalas/load): Markdownify transforms various file types and web content into Markdown format, enhancing readability and shareability.
 - [voltagr/smooth](https://github.com/voltagr/smooth): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [johnin007/citizen](https://github.com/johnin007/citizen): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [johnin007/anyway](https://github.com/johnin007/anyway): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [justicedavid/slight](https://github.com/justicedavid/slight): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [imsaar/todo_mcp_server](https://github.com/imsaar/todo_mcp_server): Facilitates task management through a simple todo model context protocol server built with TypeScript.
 - [yay12/simply](https://github.com/yay12/simply): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
@@ -95,8 +89,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [yamitzky/deno-clipboard-mcp](https://github.com/yamitzky/deno-clipboard-mcp): Facilitates clipboard operations across platforms using Deno with MCP compatibility.
 - [vinas1221/he](https://github.com/vinas1221/he): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [lbrichards/mcp-file-surgeon](https://github.com/lbrichards/mcp-file-surgeon): MCP File Surgeon empowers AI assistants to perform advanced file system operations, enabling precise file edits and efficient context management.
-- [notarybob/powder](https://github.com/notarybob/powder): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [notarybob/explain](https://github.com/notarybob/explain): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 - [chenmingyong0423/mcp-ip-geo](https://github.com/chenmingyong0423/mcp-ip-geo): Facilitates IP geolocation lookups using ip-api.com, offering integration via executable or HTTP for seamless MCP server deployment.
 - [KS-GEN-AI/word-mcp-server](https://github.com/KS-GEN-AI/word-mcp-server): Facilitates seamless interaction with Microsoft Word files, offering precise conversion to PDF while maintaining formatting integrity.
 - [Macha-Nai/weather_service](https://github.com/Macha-Nai/weather_service): A Python MCP server offering weather information and note management services with customizable summaries.
@@ -116,7 +108,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [slouchd/cyberchef-api-mcp-server](https://github.com/slouchd/cyberchef-api-mcp-server): Facilitates seamless interaction with CyberChef's API through an MCP server, enabling LLM/MCP clients to leverage CyberChef's data processing capabilities.
 - [al-codaio/test](https://github.com/al-codaio/test): Facilitates seamless integration with Google Calendar, enabling LLMs to manage calendar events through a standardized interface.
 - [p-gokul/JsonPlaceHolder-MCP](https://github.com/p-gokul/JsonPlaceHolder-MCP): Facilitates interaction with the JSONPlaceholder API, offering tools to access and manage user, post, and album data.
-- [juliaviluhina/mcp_rest_api_taf_helper](https://github.com/juliaviluhina/mcp_rest_api_taf_helper): Automates TypeScript DTO generation from Swagger/OpenAPI JSON definitions in GitHub repositories.
 - [imsaar/prayer-time-mcp-server](https://github.com/imsaar/prayer-time-mcp-server): Provides daily Muslim prayer times based on location and date, with additional note-taking and summarization features.
 - [edkranz/up-mcp](https://github.com/edkranz/up-mcp): Facilitates interaction with the Up Bank API for managing accounts, transactions, categories, tags, and webhooks through MCP-enabled clients.
 - [jaychenthinkfast/ip-mcp](https://github.com/jaychenthinkfast/ip-mcp): Facilitates IP address geolocation queries using the MCP protocol, integrating seamlessly with other MCP-compatible systems.
@@ -170,7 +161,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [0Itsuki0/MCPDemo-Typescript-](https://github.com/0Itsuki0/MCPDemo-Typescript-): A TypeScript-based tool for creating and managing MCP server projects, complete with setup instructions and sample code for server instance creation and tool execution.
 - [hungson175/WM_MCP](https://github.com/hungson175/WM_MCP): Facilitates access to Federal Reserve Economic Data through LLM clients, offering real-time data retrieval and search capabilities.
 - [pinkpixel-dev/datetime-mcp](https://github.com/pinkpixel-dev/datetime-mcp): Provides LLMs with real-time date and time context using a TypeScript-based MCP server.
-- [everbove/remote-mcp-server-test](https://github.com/everbove/remote-mcp-server-test): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [fulfilio/mcp-utils](https://github.com/fulfilio/mcp-utils): A Python utility package offering synchronous tools and helpers for building MCP-compliant servers using Flask and Redis.
 - [jakesimonds/mcpleasework](https://github.com/jakesimonds/mcpleasework): Demonstrates the use of the Model Context Protocol SDK for Python with installation and configuration guidance for Claude.
 - [0xkohe/mcp-gen-uuid](https://github.com/0xkohe/mcp-gen-uuid): A Deno-based server that generates Version 4 UUIDs using the Model Context Protocol.
