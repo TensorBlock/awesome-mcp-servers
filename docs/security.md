@@ -90,13 +90,13 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [colygon/zkpmcp](https://github.com/colygon/zkpmcp): Facilitates zero-knowledge proof operations using Circom, enabling secure verification without revealing sensitive data.
 - [shinzo-labs/heimdall](https://github.com/shinzo-labs/heimdall): Heimdall acts as a guardian proxy to manage and authorize MCP server tools for multiple clients on a single device.
 - [Rul1an/assay](https://github.com/Rul1an/assay): The firewall for MCP tool calls — policy enforcement proxy with allow/deny/constraints, replayable evidence bundles, and OWASP MCP Top 10 coverage. Run via `assay mcp wrap --policy X -- npx server`.
-- [atamaplus-public/mcp-guardrail](https://github.com/atamaplus-public/mcp-guardrail): MCP Guardrail Server provides a secure environment for executing pre-authorized commands, ideal for high-security applications.
+- [atamaplus-public/mcp-guardrail](https://github.com/atamaplus-public/mcp-guardrail): MCP Guardrail Server provides a secure environment for executing pre-authorized commands, ideal for high-security applications. Archived repository; retained as a reference.
 - [cmsparks/mcp-bearer-auth-test](https://github.com/cmsparks/mcp-bearer-auth-test): Deploy and manage a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.
 - [securityfortech/secops-mcp](https://github.com/securityfortech/secops-mcp): A comprehensive security testing toolbox integrating popular open source tools via a unified MCP interface for tasks like pentesting and threat hunting.
 - [MCPPhalanx/binaryninja-mcp](https://github.com/MCPPhalanx/binaryninja-mcp): Facilitates advanced binary analysis and manipulation through Binary Ninja integration.
 - [0xKoda/WireMCP](https://github.com/0xKoda/WireMCP): WireMCP empowers LLMs with real-time network traffic analysis using Wireshark's tshark for threat detection and diagnostics.
 - [edoscars/pan-os-mcp](https://github.com/edoscars/pan-os-mcp): Facilitates natural language management and configuration of Palo Alto Networks firewalls via the XML API.
-- [rand-tech/pcm](https://github.com/rand-tech/pcm): A reverse engineering MCP server leveraging IDA for disassembly, decompilation, and memory analysis.
+- [rand-tech/pcm](https://github.com/rand-tech/pcm): A reverse engineering MCP server leveraging IDA for disassembly, decompilation, and memory analysis. Archived repository; retained as a reference.
 - [ZeroPathAI/zeropath-mcp-server](https://github.com/ZeroPathAI/zeropath-mcp-server): Facilitates querying and managing ZeroPath security issues and patches through AI-assisted tools, enhancing security workflows with natural language interactions.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP): Enhances Ghidra's reverse engineering capabilities with AI-assisted binary analysis via the Model Context Protocol.
 - [TheRaLabs/legion-mcp](https://github.com/TheRaLabs/legion-mcp): Facilitates database access and query execution through MCP integration, supporting multiple databases with flexible deployment options.
