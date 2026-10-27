@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-j0hanz-filesystem-mcp-82baaeff",
+  "source": {
+    "issue": 2760,
+    "projectUrl": "https://github.com/j0hanz/filesystem-mcp"
+  },
+  "description": "Filesystem access constrained to explicitly allowed directories, with read-only mode and tools for navigation, search, diffs, edits, and patches.",
+  "category": "Filesystems",
+  "install": {
+    "commands": [
+      "npx -y @j0hanz/filesystem-mcp@latest /path/to/allowed/dir",
+      "docker run -i --rm -v /path:/workspace ghcr.io/j0hanz/filesystem-mcp"
+    ],
+    "env": [
+      "FS_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Authentication is optional for Streamable HTTP via FS_API_KEY; local stdio requires no auth."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "VS Code",
+    "Cursor",
+    "Visual Studio"
+  ],
+  "tools": {
+    "count": 13,
+    "names": [
+      "list_roots",
+      "list",
+      "find_files",
+      "stat",
+      "read",
+      "search_text",
+      "diff",
+      "create",
+      "edit",
+      "move",
+      "delete",
+      "replace_text",
+      "patch"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-reflectme-source-acqpath-distribution-1cc07aa1",
+  "source": {
+    "issue": 3145,
+    "projectUrl": "https://github.com/reflectme-source/acqpath-distribution"
+  },
+  "links": {
+    "endpoint": "https://api.getacqpath.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Remote MCP endpoint: https://api.getacqpath.com/mcp Documentation: https://developers.getacqpath.com"
+    ]
+  }
+}

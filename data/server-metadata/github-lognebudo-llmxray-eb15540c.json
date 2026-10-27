@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-lognebudo-llmxray-eb15540c",
+  "source": {
+    "issue": 3996,
+    "projectUrl": "https://github.com/LogneBudo/llmxray"
+  },
+  "description": "Lets an agent ask what went wrong with its own Ollama calls, in sentences with the fix: lost prompt cache and the token where the prompt stopped matching, context overflow, a prompt cut silently to fit, a model running partly on CPU, tool schemas crowding the prompt. Also lists its recent turns, compares them before and after a change, estimates whether a prompt fits a loaded model, and lists which local models fit in video memory. Reads from a running LLMxRay (start it with `npx llmxray` and send Ollama calls through its port 11435). Local, read-only, no account or API key.",
+  "category": "Monitoring & Observability",
+  "links": {
+    "homepage": "https://lognebudo.github.io/llmxray/",
+    "docs": "https://lognebudo.github.io/llmxray/docs/"
+  },
+  "install": {
+    "commands": [
+      "npx -y -p llmxray llmxray-mcp"
+    ],
+    "env": [
+      "LLMXRAY_URL (optional, default http://localhost:5174): the running LLMxRay server the tools read from",
+      "OLLAMA_URL (optional, default http://localhost:11434): the Ollama daemon, for list_local_models"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Runs locally and talks only to localhost; no account, no API key."
+    ]
+  },
+  "clients": [
+    "any MCP client supporting stdio"
+  ],
+  "tools": {
+    "count": 7,
+    "names": [
+      "diagnose_my_turns",
+      "read_my_last_turn",
+      "list_my_turns",
+      "compare_my_turns",
+      "estimate_my_prompt",
+      "list_local_models",
+      "read_llmxray_status"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @LogneBudo in #3996; issue author matches the GitHub repository owner.",
+      "On 2026-10-17 llmxray 0.8.6 answered initialize and tools/list over stdio (7 tools) with no LLMxRay server running."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@LogneBudo"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

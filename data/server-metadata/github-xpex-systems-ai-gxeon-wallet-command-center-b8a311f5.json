@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-xpex-systems-ai-gxeon-wallet-command-center-b8a311f5",
+  "source": {
+    "issue": 2948,
+    "projectUrl": "https://github.com/xpex-systems-ai/GXEON-Wallet-Command-Center"
+  },
+  "links": {
+    "endpoint": "https://gxeon-wallet-command-center.vercel.app/api/v1/mcp?view=public-market"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}

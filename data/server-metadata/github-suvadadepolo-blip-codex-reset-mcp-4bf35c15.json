@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-suvadadepolo-blip-codex-reset-mcp-4bf35c15",
+  "source": {
+    "issue": 2639,
+    "projectUrl": "https://github.com/suvadadepolo-blip/codex-reset-mcp"
+  },
+  "links": {
+    "endpoint": "https://codex-reset.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI",
+    "any Streamable HTTP client"
+  ],
+  "license": "MIT (client configs); data free with credit"
+}

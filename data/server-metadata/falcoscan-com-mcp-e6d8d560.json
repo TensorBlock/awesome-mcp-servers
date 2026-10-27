@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "falcoscan-com-mcp-e6d8d560",
+  "source": {
+    "issue": 2899,
+    "projectUrl": "https://falcoscan.com/mcp"
+  },
+  "links": {
+    "docs": "https://falcoscan.com/mcp",
+    "endpoint": "https://falcoscan.com/api/mcp",
+    "homepage": "https://falcoscan.com"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Send a FalcoScan API key in the Authorization bearer header; keys are available from the FalcoScan data-access page."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Other Streamable HTTP MCP clients"
+  ]
+}

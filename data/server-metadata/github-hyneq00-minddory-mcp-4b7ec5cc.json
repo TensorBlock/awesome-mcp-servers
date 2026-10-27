@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-hyneq00-minddory-mcp-4b7ec5cc",
+  "source": {
+    "issue": 3926,
+    "projectUrl": "https://github.com/Hyneq00/minddory-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.minddory.com/v1/brain/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web + Desktop)",
+    "Cursor",
+    "Continue",
+    "Zed",
+    "Cline"
+  ],
+  "license": "MIT"
+}

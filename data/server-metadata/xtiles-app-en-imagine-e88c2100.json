@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "xtiles-app-en-imagine-e88c2100",
+  "source": {
+    "issue": 4284,
+    "projectUrl": "https://xtiles.app/en/imagine/"
+  },
+  "links": {
+    "endpoint": "https://mcp.xtiles.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "Cline",
+    "Raycast",
+    "Postman",
+    "Microsoft 365 Copilot",
+    "other MCP clients with OAuth"
+  ],
+  "license": "Proprietary (hosted service)",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @xtiles-owner in #4669 under the community profile-claim process.",
+      "Requested profile metadata in #4669: Maintainer: XTILES INC. (@xtiles-owner) Docs URL: https://xtiles.app/en/imagine/ Support: acc@xtiles.app Transport: streamable-http Auth: oauth (OAuth 2.1, authorization code with PKCE S256, Dynamic Client..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@xtiles-owner"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

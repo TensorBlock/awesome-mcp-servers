@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "docs-empiriolabs-ai-mcp-c49d55e8",
+  "source": {
+    "issue": 3881,
+    "projectUrl": "https://docs.empiriolabs.ai/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.empiriolabs.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini CLI",
+    "Windsurf",
+    "Microsoft Copilot Studio"
+  ],
+  "license": "Proprietary (hosted service)"
+}

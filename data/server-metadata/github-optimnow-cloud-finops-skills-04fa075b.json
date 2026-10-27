@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-optimnow-cloud-finops-skills-04fa075b",
+  "source": {
+    "issue": 4024,
+    "projectUrl": "https://github.com/OptimNow/cloud-finops-skills"
+  },
+  "links": {
+    "endpoint": "https://mcp.optimnow.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex CLI",
+    "Windsurf",
+    "VS Code"
+  ],
+  "license": "CC-BY-SA-4.0"
+}

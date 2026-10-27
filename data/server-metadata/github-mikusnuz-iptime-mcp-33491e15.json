@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mikusnuz-iptime-mcp-33491e15",
+  "source": {
+    "issue": 2627,
+    "projectUrl": "https://github.com/mikusnuz/iptime-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y iptime-mcp"
+    ],
+    "env": [
+      "IPTIME_ROUTER_URL",
+      "IPTIME_ROUTER_USERNAME",
+      "IPTIME_ROUTER_PASSWORD"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Router administrator credentials are supplied through environment variables."
+    ]
+  },
+  "license": "MIT"
+}

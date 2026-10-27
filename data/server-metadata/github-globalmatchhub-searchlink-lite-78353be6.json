@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-globalmatchhub-searchlink-lite-78353be6",
+  "source": {
+    "issue": 2534,
+    "projectUrl": "https://github.com/GlobalMatchHub/searchlink-lite"
+  },
+  "links": {
+    "docs": "https://github.com/GlobalMatchHub/searchlink-lite#readme"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:GlobalMatchHub/searchlink-lite"
+    ],
+    "env": [
+      "GOOGLE_APPLICATION_CREDENTIALS"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Requires Google Search Console credentials from a service account JSON or gcloud application default credentials. Set GOOGLE_APPLICATION_CREDENTIALS to the JSON path unless default credentials are already configured. Uses the webmasters.readonly OAuth scope; no separate API key or publisher account is required."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 8,
+    "names": [
+      "list_sites",
+      "site_overview",
+      "search_performance",
+      "find_opportunities",
+      "inspect_url",
+      "sitemaps",
+      "page_check",
+      "algorithm_updates"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer-submitted metadata cross-checked against the public source and README; authenticated runtime was not tested."
+    ]
+  }
+}

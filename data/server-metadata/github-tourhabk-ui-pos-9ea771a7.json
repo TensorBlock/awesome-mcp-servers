@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-tourhabk-ui-pos-9ea771a7",
+  "source": {
+    "issue": 3959,
+    "projectUrl": "https://github.com/tourhabk-ui/pos"
+  },
+  "links": {
+    "endpoint": "https://vedarai.ru/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "VS Code",
+    "Other Streamable HTTP MCP clients"
+  ],
+  "license": "Not specified (proprietary hosted service)"
+}

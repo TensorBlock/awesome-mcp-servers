@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-taskin-ai-trytaskin-a026ac86",
+  "source": {
+    "issue": 2561,
+    "projectUrl": "https://github.com/taskin-ai/trytaskin"
+  },
+  "links": {
+    "docs": "https://trytaskin.ai/agents.md",
+    "endpoint": "https://trytaskin.ai/mcp"
+  },
+  "install": {
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Public MCP discovery and task tools require no credential; account-scoped access has separate authorization requirements."
+    ]
+  },
+  "license": "No license selected for the documentation repository; hosted service, not an open-source implementation."
+}

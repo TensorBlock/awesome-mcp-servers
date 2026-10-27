@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-swenbo1-web-agents-learning-bfce4daf",
+  "source": {
+    "issue": 3512,
+    "projectUrl": "https://github.com/swenbo1-web/agents-learning"
+  },
+  "install": {
+    "commands": [
+      "python -B /absolute/path/agents-learning/scripts/learning.py --home /absolute/path/agents-learning-data --workspace /absolute/path/project serve --role worker"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-inchwormz-iter0-mcp-23bd5572",
+  "source": {
+    "issue": 3364,
+    "projectUrl": "https://github.com/inchwormz/iter0-mcp"
+  },
+  "links": {
+    "endpoint": "https://iter0.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "compatible Streamable HTTP MCP clients"
+  ],
+  "license": "MIT (connection docs in this repo); iter0 is a hosted service"
+}

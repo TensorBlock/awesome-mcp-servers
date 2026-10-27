@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-spacefrontiers-mcp-9eeddf65",
+  "source": {
+    "projectUrl": "https://github.com/SpaceFrontiers/mcp"
+  },
+  "description": "Machine Library, the search and AI product by Space Frontiers, provides cited retrieval across papers, books, patents, standards, Wikipedia, and public discussions.",
+  "links": {
+    "docs": "https://machinelibrary.ai/mcp",
+    "endpoint": "https://mcp.machinelibrary.ai/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with PKCE and dynamic client registration, or a Bearer API key. Existing Space Frontiers accounts and API keys keep working; tools use the machinelibrary_* names (the spacefrontiers_* names were retired on 2026-10-07)."
+    ]
+  },
+  "tools": {
+    "count": 8,
+    "names": [
+      "machinelibrary_search_documents",
+      "machinelibrary_search_social",
+      "machinelibrary_fetch_document",
+      "machinelibrary_search_in_document",
+      "machinelibrary_research",
+      "machinelibrary_search_feedback",
+      "machinelibrary_comment_on_document",
+      "machinelibrary_vote_on_comment"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Branding, endpoint and tool names match the official repository and MCP Registry entry io.github.SpaceFrontiers/mcp version 0.4.0."
+    ]
+  }
+}

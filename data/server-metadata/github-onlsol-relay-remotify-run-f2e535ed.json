@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-onlsol-relay-remotify-run-f2e535ed",
+  "source": {
+    "issue": 3628,
+    "projectUrl": "https://github.com/onlsol/relay.remotify.run"
+  },
+  "install": {
+    "commands": [
+      "npx -y remotify-mcp@latest"
+    ],
+    "env": [
+      "REMOTIFY_URL",
+      "REMOTIFY_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "license": "Apache-2.0"
+}

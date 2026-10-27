@@ -1,0 +1,39 @@
+{
+  "id": "github-rowsafe-rowsafe-97db810e",
+  "source": {
+    "projectUrl": "https://github.com/rowsafe/rowsafe"
+  },
+  "links": {
+    "homepage": "https://rowsafe.sh",
+    "docs": "https://rowsafe.sh/docs/reference/mcp",
+    "endpoint": "https://api.rowsafe.sh/mcp"
+  },
+  "install": {
+    "commands": [
+      "rowsafe mcp"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "A RowSafe account and the separate hosted service are required.",
+      "Remote Streamable HTTP supports OAuth 2.1 or a RowSafe API key in the Authorization: Bearer header.",
+      "For stdio, install the CLI using https://rowsafe.sh/docs/reference/cli#install and run rowsafe login before launching rowsafe mcp. ROWSAFE_API_KEY is an alternative to the saved CLI login.",
+      "The stdio command is read-only by default; --allow-restore-points or --allow-writes enables additional tools. Remote permissions depend on the connected app or API key."
+    ]
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata is based on public RowSafe documentation: https://rowsafe.sh/docs/reference/mcp and https://rowsafe.sh/docs/reference/cli, and source: https://github.com/rowsafe/rowsafe/blob/main/cmd/rowsafe/mcp.go.",
+      "This metadata update does not verify remote endpoint health or claim TensorBlock verification.",
+      "Apache-2.0 applies to the agent, CLI and MCP server; the hosted service is separate."
+    ]
+  }
+}

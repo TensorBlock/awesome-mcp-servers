@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "england-works-watch-production-up-railway-app-2544e7aa",
+  "source": {
+    "issue": 2339,
+    "projectUrl": "https://england-works-watch-production.up.railway.app/"
+  },
+  "links": {
+    "endpoint": "https://england-works-watch-production.up.railway.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP-compatible client that supports Streamable HTTP."
+  ],
+  "license": "Hosted service; no open-source license claimed."
+}

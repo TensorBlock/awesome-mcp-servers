@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kikiyop1101-boim-mcp-8a455a66",
+  "source": {
+    "issue": 3278,
+    "projectUrl": "https://github.com/kikiyop1101/boim-mcp"
+  },
+  "links": {
+    "docs": "https://github.com/kikiyop1101/boim-mcp",
+    "homepage": "https://boim.io",
+    "endpoint": "https://boim.io/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "The free tier needs no auth and returns up to five results per tool; full results require a BOIM API key."
+    ]
+  },
+  "clients": [
+    "claude.ai",
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT (developer mode)",
+    "Cursor",
+    "VS Code (GitHub Copilot agent mode)",
+    "any client via mcp-remote"
+  ],
+  "license": "Proprietary hosted service; the GitHub documentation and client configurations are MIT"
+}

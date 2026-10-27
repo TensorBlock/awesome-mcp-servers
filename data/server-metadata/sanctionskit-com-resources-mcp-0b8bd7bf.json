@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "sanctionskit-com-resources-mcp-0b8bd7bf",
+  "source": {
+    "issue": 3851,
+    "projectUrl": "https://www.sanctionskit.com/resources/mcp"
+  },
+  "links": {
+    "endpoint": "https://www.sanctionskit.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "No account for search_docs, get_doc, get_api_schema and validate_screening_request. Optional workspace tools require OAuth and the relevant scopes; production keys are rejected."
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI"
+  ],
+  "license": "MIT for the linked plugin repository; hosted service governed separately."
+}

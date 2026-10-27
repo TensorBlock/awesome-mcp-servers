@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-fillfolio-portfolio-mcp-d32c6859",
+  "source": {
+    "projectUrl": "https://github.com/fillfolio/portfolio-mcp"
+  },
+  "description": "Read stored portfolio, holdings, cash, spending and budget data through the hosted Fillfolio service.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://github.com/fillfolio/portfolio-mcp#readme",
+    "homepage": "https://fillfolio.com",
+    "endpoint": "https://fillfolio.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Authorization code with PKCE S256, resource https://fillfolio.com/api/mcp and mcp:read scope. Client identities and exact callbacks must be accepted by Fillfolio; dynamic registration is disabled.",
+      "A paid account is required. Spending and budgets additionally require an eligible plan, bank-spending consent and separate per-client permissions."
+    ]
+  },
+  "clients": [
+    "Codex",
+    "ChatGPT Work (desktop)"
+  ],
+  "tools": {
+    "count": 10,
+    "names": [
+      "open_fillfolio",
+      "get_portfolio_summary",
+      "list_portfolios",
+      "list_holdings",
+      "list_cash_and_liabilities",
+      "list_activity",
+      "get_asset",
+      "get_spending_summary",
+      "list_bank_transactions",
+      "list_budgets"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT for public contracts, documentation and helpers; proprietary hosted implementation.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher-provided tool and client metadata; this submission does not assert TensorBlock verification.",
+      "Streamable HTTP, OAuth and skill support are separate client capabilities. Other clients remain subject to accepted identities and documented limitations."
+    ]
+  }
+}

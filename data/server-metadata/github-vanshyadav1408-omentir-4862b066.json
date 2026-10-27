@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-vanshyadav1408-omentir-4862b066",
+  "source": {
+    "issue": 2762,
+    "projectUrl": "https://github.com/vanshyadav1408/Omentir"
+  },
+  "description": "LinkedIn sales outreach for agents with lead discovery, prospect scoring, queue controls, and reply management.",
+  "category": "Marketing, Sales & CRM",
+  "links": {
+    "docs": "https://omentir.com/integrations/mcp",
+    "homepage": "https://omentir.com",
+    "endpoint": "https://omentir.com/api/agent/v1/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http omentir https://omentir.com/api/agent/v1/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth is supported for interactive clients; bearer agent tokens are also available."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "Codex",
+    "Grok"
+  ],
+  "license": "MIT"
+}

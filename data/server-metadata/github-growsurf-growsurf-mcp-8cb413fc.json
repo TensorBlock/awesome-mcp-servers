@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-growsurf-growsurf-mcp-8cb413fc",
+  "source": {
+    "issue": 2959,
+    "projectUrl": "https://github.com/growsurf/growsurf-mcp"
+  },
+  "links": {
+    "docs": "https://docs.growsurf.com/build-with-ai",
+    "endpoint": "https://mcp.growsurf.com",
+    "homepage": "https://growsurf.com"
+  },
+  "install": {
+    "commands": [
+      "npx -y @growsurfteam/growsurf-mcp"
+    ],
+    "env": [
+      "GROWSURF_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "The hosted server uses OAuth; local API-backed actions use GROWSURF_API_KEY."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "Codex",
+    "VS Code / GitHub Copilot"
+  ],
+  "license": "MIT"
+}
