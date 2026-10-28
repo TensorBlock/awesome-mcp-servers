@@ -2,6 +2,8 @@
 
 Servers interacting with social networks, content platforms, or feed aggregators.
 
+- [TryPost](https://github.com/trypostit/trypost): Run your social media on autopilot with AI agents. Your agent plans, writes and schedules posts across 13 networks, with approvals and analytics. Open source. Hosted Streamable HTTP at `https://app.trypost.it/mcp/trypost` with OAuth. PHP. Website: https://trypost.it
+
 - [harshmaur/apify-tiktok-scraper](https://github.com/harshmaur/apify-tiktok-scraper): Helps agents compare TikTok videos, creators and hashtag feeds with views, likes, shares, comments and profile statistics. Hosted Streamable HTTP at `https://mcp.apify.com/?tools=harshmaur/tiktok-scraper`; requires an Apify sign-in or token. Paid per result, with optional transcripts and downloads. MIT.
 
 - [Mysocial](https://github.com/mysocialio/mysocial-intelligence): Social media intelligence for creators and teams: search supported connected content, read channel analytics and brand context, and save ideas or drafts. Hosted Streamable HTTP endpoint: `https://app.mysocial.io/mcp`, with OAuth 2.1 (PKCE and dynamic client registration), for Claude, ChatGPT, Codex and compatible MCP clients. Free workspace tools and standard MCP; paid Content Memory archive intelligence from USD49/month. Platform and permission coverage varies. Proprietary hosted service; public connector metadata and skills are MIT. Docs: https://mysocial.io/mcp/. Pricing: https://mysocial.io/pricing/.
