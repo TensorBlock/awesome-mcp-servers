@@ -17,5 +17,9 @@
   "clients": [
     "Client-specific connection guides are linked from the documentation. Not claiming an independently completed native-client acceptance test in this submission."
   ],
-  "license": "Proprietary hosted service; no public-source license claimed."
+  "license": "Proprietary hosted service; no public-source license claimed.",
+  "links": {
+    "endpoint": "https://crakseo.com/mcp/seo",
+    "docs": "https://docs.crakseo.com/seo-mcp/connect"
+  }
 }
