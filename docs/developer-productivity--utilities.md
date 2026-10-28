@@ -2,6 +2,7 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [Screenrove](https://screenrove.com/agents): Real product UI references from 30+ products (onboarding flows, signed-in journeys, pricing pages) with design guides; pick one in chat and build from it. Hosted remote server, no auth. Transport: Streamable HTTP at `https://screenrove.com/mcp`.
 - [POSH](https://github.com/skatkov/posh-mcp): Search and read local Ruby and gem documentation matched to project versions. Install: `brew install --cask skatkov/tap/poshtui`, AUR, or the published MCPB bundle; run `posh mcp`. Transport: stdio (macOS/Linux). Auth: locally activated POSH agent-tools license; no API-key environment variable. Tools: `docsets`, `search`, `list`, `outline`, `read`, `sync`; sync downloads docs and updates the local index. License: proprietary; this public repository contains installation metadata, not application source. [Docs](https://poshtui.com/docs/mcp/).
 
 - [xmcp Docs](https://xmcp.dev/docs/guides/xmcp-mcp-server): Search and retrieve the official xmcp documentation for building MCP servers with TypeScript. Endpoint: `https://xmcp.dev/mcp`. Transport: streamable-http. Auth: none. Tools: `search` (query documentation or retrieve a page by ID). Free and read-only. License: MIT. [Source](https://github.com/basementstudio/xmcp/tree/main/apps/website).
