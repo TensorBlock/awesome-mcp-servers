@@ -7,9 +7,8 @@
   },
   "install": {
     "commands": [
-      "npx @mcpolyglot/cli init \"$DATABASE_URL\"   # writes a read-only policy config",
-      "npx @mcpolyglot/cli serve                  # MCP server on stdio",
-      "npm: https://www.npmjs.com/package/@mcpolyglot/cli. Official MCP Registry name: io.github.ishay60/mcpolyglot."
+      "npx @mcpolyglot/cli init \"$DATABASE_URL\"",
+      "npx @mcpolyglot/cli serve"
     ],
     "env": [
       "DATABASE_URL"
@@ -21,8 +20,10 @@
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "bearer",
+    "notes": [
+      "HTTP uses per-agent bearer tokens; local stdio requires no MCP authentication."
+    ]
   },
   "clients": [
     "Claude Desktop",
