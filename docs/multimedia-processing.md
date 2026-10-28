@@ -2,7 +2,7 @@
 
 Servers focused on generating or manipulating images, processing video, audio transcription, text-to-speech, or document conversion.
 
-- [Blazing Video](https://github.com/acstener/takes-plugin): Record your Mac screen, face and voice, edit the video by its transcript (cut fillers, pauses, false starts), and share a link that plays instantly. Local stdio server inside the Blazing Video macOS app ([blazingvideo.com](https://blazingvideo.com)); macOS only.
+- [Blazing Video](https://github.com/acstener/takes-plugin): Record your Mac screen, face and voice, edit the video by its transcript (cut fillers, pauses, false starts), and share a link that plays instantly. Local server (HTTP at `http://127.0.0.1:43120/mcp`) inside the Blazing Video macOS app ([blazingvideo.com](https://blazingvideo.com)); macOS only.
 - [imageat](https://github.com/incendies/imageat-mcp): MCP server for AI image generation and editing, video, and 20+ image-edit tools. Run with `npx -y @imageat/mcp` and an `IMAGEAT_API_KEY`, or use the hosted Streamable HTTP server at `https://mcp.imageat.com/mcp` (OAuth). Credits per generation. MIT.
 - [toolkb-mcp](https://github.com/jack-reson8/toolkb-mcp): Local stdio server that returns YouTube video and playlist transcripts with timestamps, web pages as Markdown, and App Store reviews with a rating histogram. Install: `npx -y github:jack-reson8/toolkb-mcp`; Node.js 18+, no API key or account. MIT.
 - [Snipaya](https://github.com/krzysztofsurdy/snipaya-mcp): Local stdio bridge to Snipaya, a macOS screenshot and image annotator. Lets agents add images, draw arrows, numbered steps and callouts, blur secrets, lay out several screenshots on one canvas and export. Runs on the Mac only, no cloud. Install: `npx -y snipaya-mcp`.
