@@ -1,6 +1,7 @@
 ## 🌐 Browser Automation & Web Scraping
 
 Servers using tools for browser control, automation, and extracting content from websites.
+- [agbrowser](https://agbrowser.shveik.dev): Hosted browser sessions for AI agents: navigate, interact, read pages and take screenshots. Remote MCP at `https://agbrowser.shveik.dev/mcp` (Streamable HTTP); session purchases and extensions use stablecoins through x402 or MPP on Base. Browser operations use session credentials. [Operator](https://shveik.dev).
 - [johannschiffer/crawlengine-mcp](https://github.com/johannschiffer/crawlengine-mcp): Resilient web scraping and anti-bot perimeter evasion MCP server for AI agents, featuring automated request header rotation, clean LLM-optimized Markdown extraction, and token-bounded structured scraping. Compatible with Claude Desktop, Cursor, and Windsurf via uvx. MIT.
 - [ContextQA MCP](https://mcp.contextqa.com/docs): Hosted MCP server for creating and running end-to-end tests and investigating failures, with OAuth browser sign-in. Transport: Streamable HTTP. Endpoint: `https://mcp.contextqa.com/mcp`. Proprietary hosted service.
 - [swimmwatch/cloakbrowser-mcp](https://github.com/swimmwatch/cloakbrowser-mcp): Runs upstream Playwright MCP with CloakBrowser Chromium, preserving its browser tools and adding bridge diagnostics. Install: `npx -y cloakbrowser-mcp@latest` (Node.js `^22.13.0 || >=24.0.0`). Transport: stdio; self-hosted Streamable HTTP also supported. Auth: none for local stdio. License: MIT. Docs: https://swimmwatch.github.io/cloakbrowser-mcp/.
