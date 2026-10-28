@@ -12,7 +12,10 @@
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
-  }
+    "type": "oauth",
+    "notes": [
+      "Public tools require no authentication; personal tools require scoped browser OAuth."
+    ]
+  },
+  "license": "MIT connection metadata and documentation; proprietary hosted implementation."
 }
