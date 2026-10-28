@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kamilkaczmareksolutions-polish-mcp-servers-356ec026",
+  "source": {
+    "issue": 4793,
+    "projectUrl": "https://github.com/kamilkaczmareksolutions/polish-mcp-servers"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @kamilkaczmareksolutions in #4793 under the community profile-claim process.",
+      "Requested profile metadata in #4793: Maintainer: @kamilkaczmareksolutions Docs URL: https://github.com/kamilkaczmareksolutions/polish-mcp-servers#readme Support: https://github.com/kamilkaczmareksolutions/polish-mcp-servers/issues Install: `npx -y..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@kamilkaczmareksolutions"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
