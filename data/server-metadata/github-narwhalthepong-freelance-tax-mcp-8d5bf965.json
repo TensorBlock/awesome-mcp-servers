@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "npm: https://www.npmjs.com/package/freelance-tax-mcp"
+      "npx -y freelance-tax-mcp"
     ],
     "env": [],
     "confidence": "medium"
