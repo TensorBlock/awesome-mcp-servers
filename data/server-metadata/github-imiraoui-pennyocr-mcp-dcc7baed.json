@@ -6,7 +6,8 @@
     "projectUrl": "https://github.com/imiraoui/pennyocr-mcp"
   },
   "links": {
-    "endpoint": "https://mcp.pennyocr.com"
+    "endpoint": "https://mcp.pennyocr.com",
+    "docs": "https://pennyocr.com/mcp/"
   },
   "transport": [
     "streamable-http"
@@ -16,5 +17,6 @@
     "notes": [
       "PENNYOCR_API_KEY sent as an Authorization Bearer header."
     ]
-  }
+  },
+  "license": "MIT"
 }
