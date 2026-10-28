@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "npm: https://www.npmjs.com/package/seller-fees-mcp"
+      "npx -y seller-fees-mcp"
     ],
     "env": [],
     "confidence": "medium"
