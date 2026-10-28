@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sadofriod-graphrag-ts-a95df6d4",
+  "source": {
+    "issue": 4788,
+    "projectUrl": "https://github.com/sadofriod/graphrag-ts"
+  },
+  "links": {
+    "endpoint": "https://mcp.ashesborn.cloud/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
