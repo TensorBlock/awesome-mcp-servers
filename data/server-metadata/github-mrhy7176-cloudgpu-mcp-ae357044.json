@@ -6,11 +6,11 @@
     "projectUrl": "https://github.com/mrhy7176/cloudgpu-mcp"
   },
   "links": {
-    "endpoint": "https://cloudgpu.app/docs/mcp"
+    "docs": "https://cloudgpu.app/docs/mcp"
   },
   "install": {
     "commands": [
-      "npm: https://www.npmjs.com/package/cloudgpu-mcp"
+      "npx -y cloudgpu-mcp"
     ],
     "env": [
       "CLOUDGPU_API_KEY"
