@@ -9,27 +9,27 @@
     "docs": "https://poshtui.com/docs/mcp/"
   },
   "install": {
-    "commands": [],
-    "env": [
-      "none required for MCP authentication."
+    "commands": [
+      "brew install --cask skatkov/tap/poshtui"
     ],
+    "env": [],
     "confidence": "low"
   },
   "transport": [
     "stdio"
   ],
   "auth": {
-    "type": "oauth",
+    "type": "unknown",
     "notes": [
-      "other — locally activated POSH agent-tools license; no API-key environment variable, bearer header, or remote OAuth flow."
+      "other \u2014 locally activated POSH agent-tools license; no API-key environment variable, bearer header, or remote OAuth flow."
     ]
   },
   "clients": [
-    "local-stdio-capable clients on macOS/Linux",
-    "including Claude Desktop",
+    "Claude Desktop",
     "Cursor",
     "Codex",
-    "VS Code and OpenCode."
+    "VS Code",
+    "OpenCode"
   ],
   "tools": {
     "count": 6,
