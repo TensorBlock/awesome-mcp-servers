@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "pozeidon-ai-mcp-cd81f6af",
+  "source": {
+    "issue": 3328,
+    "projectUrl": "https://www.pozeidon.ai/mcp"
+  },
+  "links": {
+    "docs": "https://www.pozeidon.ai/mcp",
+    "endpoint": "https://pozeidon.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Sign in with a Pozeidon account through OAuth."
+    ]
+  },
+  "clients": [
+    "Claude web",
+    "Claude Desktop",
+    "Claude mobile",
+    "ChatGPT (developer mode connectors)",
+    "Claude Code",
+    "VS Code (GitHub Copilot agent mode)",
+    "OpenAI Codex"
+  ],
+  "tools": {
+    "count": 7,
+    "names": [
+      "ask_pozeidon_readonly",
+      "ask_pozeidon_to_change",
+      "get_answer",
+      "get_job_data",
+      "query_job_file",
+      "cancel_job",
+      "list_jobs"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary (hosted service)"
+}

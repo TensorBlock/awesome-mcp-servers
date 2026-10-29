@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mailsenpai-mailsenpai-mcp-de674984",
+  "source": {
+    "issue": 3333,
+    "projectUrl": "https://github.com/mailsenpai/mailsenpai-mcp"
+  },
+  "links": {
+    "docs": "https://mcp.mailsenpai.com/docs",
+    "endpoint": "https://mcp.mailsenpai.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with dynamic client registration and PKCE; users sign in with a MailSenpai account and do not paste an API key."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Other remote MCP clients with OAuth support"
+  ],
+  "license": "MIT (repository files); hosted service is proprietary"
+}

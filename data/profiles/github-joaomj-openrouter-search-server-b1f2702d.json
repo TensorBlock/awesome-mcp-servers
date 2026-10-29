@@ -1,7 +1,7 @@
 {
   "id": "github-joaomj-openrouter-search-server-b1f2702d",
   "name": "joaomj/openrouter-search-server",
-  "description": "Facilitates web search capabilities through the OpenRouter API using the MCP protocol.",
+  "description": "Facilitates web search capabilities through the OpenRouter API using the MCP protocol. Archived on GitHub; no longer actively maintained. The maintainer points to https://github.com/joaomj/openrouter-websearch-mcp for future development.",
   "category": "Search",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-joaomj-openrouter-search-server-b1f2702d",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-joaomj-openrouter-search-server-b1f2702d/badge.svg)](https://tensorblock.co/mcp/servers/github-joaomj-openrouter-search-server-b1f2702d)",

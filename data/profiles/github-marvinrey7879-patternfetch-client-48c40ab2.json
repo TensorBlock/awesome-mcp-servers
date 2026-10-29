@@ -1,7 +1,7 @@
 {
   "id": "github-marvinrey7879-patternfetch-client-48c40ab2",
   "name": "MarvinRey7879/patternfetch-client",
-  "description": "Agent-first crypto market-state-brief MCP server. One call returns a compact, token-efficient market state — candles, chart patterns, support/resistance, and interpreted indicators — instead of raw OHLCV. Remote streamable-HTTP at https://patternfetch.com/mcp with one-click OAuth; free tier, paid access via x402 USDC on Base.",
+  "description": "Agent-first market-state-brief MCP server for US stocks, ETFs and crypto spot. One call returns a compact, token-efficient market state — candles, chart patterns, support/resistance, and interpreted indicators — instead of raw OHLCV, and each detected pattern carries its backtested base rate, sample size and lift against a pattern-free baseline rather than a bare hit rate. Remote streamable-HTTP at https://patternfetch.com/mcp with one-click OAuth; free tier, paid access via x402 USDC on Base.",
   "category": "Finance & Crypto",
   "profileUrl": "https://tensorblock.co/mcp/servers/github-marvinrey7879-patternfetch-client-48c40ab2",
   "badgeMarkdown": "[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-marvinrey7879-patternfetch-client-48c40ab2/badge.svg)](https://tensorblock.co/mcp/servers/github-marvinrey7879-patternfetch-client-48c40ab2)",

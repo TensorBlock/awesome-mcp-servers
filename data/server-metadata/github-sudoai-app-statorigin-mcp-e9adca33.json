@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sudoai-app-statorigin-mcp-e9adca33",
+  "source": {
+    "issue": 3631,
+    "projectUrl": "https://github.com/SudoAI-App/statorigin-mcp"
+  },
+  "links": {
+    "endpoint": "https://statorigin.org/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "ChatGPT"
+  ],
+  "license": "Repository docs MIT; data CC BY 4.0"
+}

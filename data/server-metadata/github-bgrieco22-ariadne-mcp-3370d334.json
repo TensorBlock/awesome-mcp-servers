@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-bgrieco22-ariadne-mcp-3370d334",
+  "source": {
+    "issue": 3534,
+    "projectUrl": "https://github.com/bgrieco22/ariadne-mcp"
+  },
+  "links": {
+    "endpoint": "https://therapists.ariadnemarketing.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude (claude.ai",
+    "Desktop",
+    "Code)",
+    "ChatGPT custom connectors",
+    "Cursor",
+    "VS Code",
+    "MCP Inspector"
+  ],
+  "license": "MIT (MCP layer source in the repo)"
+}

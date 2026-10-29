@@ -1,0 +1,39 @@
+{
+  "id": "github-superfast-robotics-robot-skill-hub-c87479bf",
+  "source": {
+    "projectUrl": "https://github.com/Superfast-Robotics/robot-skill-hub"
+  },
+  "links": {
+    "docs": "https://hub.superfastrobotics.com/agent-quickstart.md",
+    "endpoint": "https://api.superfastrobotics.com/mcp"
+  },
+  "install": {
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Public read-only discovery requires no authentication. Contribution APIs are separate and require authorization."
+    ]
+  },
+  "tools": {
+    "count": 3,
+    "names": [
+      "find_robot_skills",
+      "inspect_robot_skill",
+      "get_hub_capabilities"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Submitted by the Superfast Robotics maintainer with Codex assistance.",
+      "Maintainer-tested MCP discovery only; no desktop-client or physical robot execution is claimed. MIT covers the Hub implementation; linked upstream sources retain their own terms."
+    ]
+  }
+}

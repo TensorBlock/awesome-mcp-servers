@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-masakaai-rea-captcha-70fd2d7e",
+  "source": {
+    "issue": 3829,
+    "projectUrl": "https://github.com/masakaai/rea-captcha"
+  },
+  "install": {
+    "commands": [
+      "npx -y rea-captcha mcp --stateless"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "and other stdio MCP clients"
+  ],
+  "license": "MIT",
+  "links": {
+    "docs": "https://github.com/masakaai/rea-captcha/blob/main/docs/mcp-tools.md"
+  },
+  "tools": {
+    "count": 6,
+    "names": [
+      "captcha_analyze",
+      "captcha_inspect",
+      "captcha_complete",
+      "captcha_handoff",
+      "captcha_wait",
+      "captcha_resume"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Tool names and documentation were submitted by the project maintainer in issue #3829."
+    ]
+  }
+}

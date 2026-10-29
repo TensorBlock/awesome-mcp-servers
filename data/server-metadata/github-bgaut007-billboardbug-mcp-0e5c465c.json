@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-bgaut007-billboardbug-mcp-0e5c465c",
+  "source": {
+    "issue": 4005,
+    "projectUrl": "https://github.com/bgaut007/billboardbug-mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "BILLBOARDBUG_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "OpenClaw",
+    "other MCP clients"
+  ],
+  "license": "MIT"
+}

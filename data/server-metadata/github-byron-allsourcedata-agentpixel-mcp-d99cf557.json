@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-byron-allsourcedata-agentpixel-mcp-d99cf557",
+  "source": {
+    "issue": 3486,
+    "projectUrl": "https://github.com/byron-allsourcedata/agentpixel-mcp"
+  },
+  "links": {
+    "endpoint": "https://agentpixel.io/mcp?src=tensorblock"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI",
+    "Cline"
+  ],
+  "license": "MIT (client configs and docs; hosted service)"
+}

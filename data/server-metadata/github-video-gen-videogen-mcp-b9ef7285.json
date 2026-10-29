@@ -63,7 +63,15 @@
     "status": "partial",
     "notes": [
       "The project repository, MIT license, installation instructions, and 50 machine-readable tool schemas were verified against public source on 2026-10-05.",
-      "Hosted OAuth and authenticated tool execution were not tested."
+      "Hosted OAuth and authenticated tool execution were not tested.",
+      "Profile claimed for @video-gen through community issue #3194."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@video-gen"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
