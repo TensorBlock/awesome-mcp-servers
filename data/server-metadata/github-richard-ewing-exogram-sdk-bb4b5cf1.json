@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-richard-ewing-exogram-sdk-bb4b5cf1",
+  "source": {
+    "issue": 4889,
+    "projectUrl": "https://github.com/Richard-Ewing/exogram-sdk"
+  },
+  "links": {
+    "endpoint": "https://api.exogram.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx mcp-server-exogram --local"
+    ],
+    "env": [
+      "EXOGRAM_BEARER_TOKEN",
+      "EXOGRAM_API_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "optional Bearer API key (zero-auth in local SQLite WAL mode)"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Google Antigravity",
+    "VS Code",
+    "any MCP client"
+  ],
+  "license": "MIT"
+}
