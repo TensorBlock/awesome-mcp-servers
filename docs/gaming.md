@@ -2,6 +2,7 @@
 
 Servers interacting with game engines, game platforms/APIs, or providing game-related tools.
 
+- [Appside](https://github.com/odedkovach/appside-mcp): Read-only docs search, SDK snippets, SDK status and published pricing for Appside, a self-serve web store and checkout for mobile games, so an agent can write the store integration from the real docs. Install: remote `https://appside.build/mcp` (Streamable HTTP, no auth) or `node stdio.mjs` from the repo.
 - [Matcha](https://github.com/rad1092/matcha): Debug homebrew Game Boy ROMs over stdio MCP with stepping, memory inspection, breakpoints, screenshots, and save/restore. Install: extract `matcha.plugin` from the [release](https://github.com/rad1092/matcha/releases/tag/v0.1.1), then run `node /absolute/path/matcha-plugin/server/server.mjs` (Node 18+; no credentials).
 
 - [Waspes](https://waspes.com/api): AI Website Builder, 3D Studio & Roblox Studio MCP Server. Generates full-stack HTML5 websites, standalone working contact forms, master prompts, and 3D models (`.glb`/`.obj`/`.fbx`) and inserts textured `MeshPart` assets directly into a live Roblox Studio place via plugin. Hosted Streamable HTTP endpoint: `https://waspes.com/api/mcp` (Bearer API key `wsp_...` or OAuth 2.0 PKCE; `initialize`, `tools/list`, and capped `generate_website` demo require no auth). Tools: `start_website`, `get_website`, `generate_website`, `generate_form`, `generate_master_prompt`, `list_3d_models`, `connect_roblox`, `send_to_roblox`. Docs: https://waspes.com/api · Roblox Studio plugin: https://waspes.com/roblox.
