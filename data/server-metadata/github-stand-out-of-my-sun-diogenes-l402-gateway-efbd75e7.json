@@ -58,7 +58,8 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Endpoint and tool metadata supplied by the maintainer. TensorBlock remote probe received HTTP 403; no independent runtime or payment verification."
+      "Endpoint and tool metadata supplied by the maintainer. TensorBlock remote probe received HTTP 403; no independent runtime or payment verification.",
+      "Maintainer claim submitted by @stand-out-of-my-sun in #4577. Claim records maintenance only; requested live verification and high confidence were not independently established."
     ]
   },
   "community": {
