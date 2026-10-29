@@ -233,6 +233,7 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Infrastructure | 162 | [Browse](docs/infrastructure.md) |
 | Knowledge Management & Memory | 572 | [Browse](docs/knowledge-management--memory.md) |
 | Location & Maps | 92 | [Browse](docs/location--maps.md) |
+| Logistics & Shipping | 1 | [Browse](docs/logistics--shipping.md) |
 | Marketing, Sales & CRM | 189 | [Browse](docs/marketing-sales--crm.md) |
 | Monitoring & Observability | 88 | [Browse](docs/monitoring--observability.md) |
 | Multimedia Processing | 212 | [Browse](docs/multimedia-processing.md) |
