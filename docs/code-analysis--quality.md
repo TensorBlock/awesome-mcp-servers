@@ -48,6 +48,7 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [nodetec/nostr-code-snippet-mcp](https://github.com/nodetec/nostr-code-snippet-mcp): Facilitates the execution of code snippets via a node-based MCP server.
 - [BangNGH/github-code-index-mcp-server](https://github.com/BangNGH/github-code-index-mcp-server): Facilitates code indexing, searching, and analysis for large language models across multiple programming languages.
 - [CodeLogicIncEngineering/codelogic-mcp-server](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server): Leverage Codelogic's software dependency data for impact assessments in AI programming assistants.
+- [Daiveedjay/iris-code-mcp](https://github.com/Daiveedjay/iris-code-mcp): Local Iris Code MCP launcher for project code-quality rules, findings, preview-first safe fixes, refactor verification and quality-gate results.
 - [treaties-ai/local-scanner-mcp](https://github.com/treaties-ai/local-scanner-mcp): Enhances AI assistants' capabilities to interact with local development environments by scanning code and localhost URLs for testing, debugging, and validation.
 - [klara-research/MCP-Analyzer](https://github.com/klara-research/MCP-Analyzer): Facilitates the analysis and debugging of Model Context Protocol logs with seamless integration into Claude Desktop.
 - [ast-grep/ast-grep-mcp](https://github.com/ast-grep/ast-grep-mcp): An experimental MCP server leveraging ast-grep for codebase searching and analysis.
