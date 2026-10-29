@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-theluckystrike-common-ground-20831b97",
+  "source": {
+    "issue": 4804,
+    "projectUrl": "https://github.com/theluckystrike/common-ground"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @theluckystrike in #4804 under the community profile-claim process.",
+      "Optional maintainer proof submitted in #4804: I maintain theluckystrike/common-ground. The repository is public under this GitHub account. The README names Michael Lip as the builder. The source entry was merged in...",
+      "Requested profile metadata in #4804: Maintainer handle @theluckystrike. Please record a community maintainer claim. This does not request TensorBlock verification. The source also supports MIT licensing, homepage..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@theluckystrike"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
