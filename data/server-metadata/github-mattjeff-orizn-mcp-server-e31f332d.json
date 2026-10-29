@@ -14,7 +14,7 @@
       "npx -y orizn-visa-mcp"
     ],
     "env": [
-      "ORIZN_API_KEY (optional)"
+      "ORIZN_API_KEY"
     ],
     "confidence": "high"
   },
