@@ -2,6 +2,7 @@
 
 Servers for interacting with email, chat platforms, SMS, or notification services.
 
+- [model.tools](https://github.com/maceip/model-tools-mcp): Zero-auth email OTP extraction, KV state checkpoints, webhook receiver bins, delayed HTTP wakeup callbacks, and URL-to-Markdown reader for autonomous agents. Connect via Streamable HTTP at `https://mcp.model.tools/mcp` or stdio (`npx -y github:maceip/model-tools-mcp`); no API key, OAuth, or account required. [Documentation](https://docs.model.tools/llms.txt).
 - [AliasMail](https://github.com/aliasmail-space/aliasmail-mcp): Zero-log disposable temporary inboxes, autonomous OTP & verification code extraction (`aliasmail_wait_for_code`), and deep email forensics suite powered by [AliasMail.space](https://aliasmail.space). Stdio MCP server (`npx -y aliasmail-mcp`). No registration or API key required. [Live Web Inbox](https://aliasmail.space/temporary/). MIT.
 
 - [Cooper Email](https://cooperemail.com/docs/mcp): Gives an AI agent its own email inbox: send, list, read and reply, and wait for the next message or a sign-up code (`cooper_wait_for_code`). Hosted Streamable HTTP at `https://cooperemail.com/mcp`; Bearer API key (an agent can create its own account and key with one unauthenticated call) or OAuth. Free tier, no card. [Docs](https://cooperemail.com/llms.txt). Skills and plugin config: https://github.com/cooper-email/cooper-email.
