@@ -54,7 +54,6 @@ export const CATEGORY_TO_DOCS_PATH = {
   Infrastructure: "docs/infrastructure.md",
   "Knowledge Management & Memory": "docs/knowledge-management--memory.md",
   "Location & Maps": "docs/location--maps.md",
-  "Logistics & Shipping": "docs/logistics--shipping.md",
   "Marketing, Sales & CRM": "docs/marketing-sales--crm.md",
   "Monitoring & Observability": "docs/monitoring--observability.md",
   "Multimedia Processing": "docs/multimedia-processing.md",
