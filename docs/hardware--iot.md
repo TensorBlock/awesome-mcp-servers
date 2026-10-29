@@ -2,6 +2,7 @@
 
 Servers controlling hardware devices, interacting with embedded systems, serial communication, 3D printers, or smart home systems.
 
+- [emirmrkaljevic/iotaudit](https://github.com/emirmrkaljevic/iotaudit): Local, consent-first audit of your own smart home devices from a passive capture, with per-device reports, diffs between runs, and an MCP server. No telemetry.
 - [veonua/smartthings-mcp](https://github.com/veonua/smartthings-mcp): Lightweight Samsung SmartThings MCP server for room mapping, device listing, status checks, and device command execution.
 - [kukapay/modbus-mcp](https://github.com/kukapay/modbus-mcp): Standardizes and contextualizes Modbus data for seamless AI agent integration with industrial IoT systems.
 - [zradlicz/particle-mcp-server](https://github.com/zradlicz/particle-mcp-server): Facilitates AI-driven management of Particle IoT devices through natural language commands.
