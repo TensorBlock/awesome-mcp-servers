@@ -10,9 +10,7 @@
   },
   "install": {
     "commands": [],
-    "env": [
-      "YOUR_TOKEN"
-    ],
+    "env": [],
     "confidence": "low"
   },
   "transport": [
