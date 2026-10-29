@@ -18,9 +18,9 @@
     ]
   },
   "clients": [
-    "Configuration is documented for Claude Code",
-    "Cursor and Codex",
-    "each client must support remote MCP and OAuth. No authenticated client test was performed for this submission."
+    "Claude Code",
+    "Cursor",
+    "Codex"
   ],
   "license": "Proprietary hosted service; no public server source."
 }
