@@ -15,12 +15,12 @@
     "confidence": "medium"
   },
   "transport": [
-    "stdio"
+    "streamable-http"
   ],
   "auth": {
-    "type": "none",
+    "type": "unknown",
     "notes": [
-      "Desktop app: install from the Windows or macOS package on the Releases page, then enable the MCP server inside the app."
+      "Local desktop endpoint; configure authentication and a tunnel for remote access."
     ]
   },
   "clients": [
