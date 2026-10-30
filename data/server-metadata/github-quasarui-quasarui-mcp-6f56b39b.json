@@ -23,8 +23,10 @@
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "api-key",
+    "notes": [
+      "Optional QUASARUI_ACCESS_KEY for local stdio or Authorization: Bearer for hosted access; free components need no key."
+    ]
   },
   "clients": [
     "Claude Code",
