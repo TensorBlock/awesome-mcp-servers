@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-routinerun-routinerun-c2c8ebd5",
+  "source": {
+    "issue": 4964,
+    "projectUrl": "https://github.com/routinerun/routinerun"
+  },
+  "links": {
+    "endpoint": "https://api.routinerun.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  }
+}

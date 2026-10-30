@@ -56,9 +56,9 @@
     "source": "self_reported"
   },
   "verification": {
-    "status": "verified",
+    "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #4980. Source: - Official GitHub repo (author @Richard-Ewing): https://github.com/Richard-Ewing/exogram-sdk - Official Anthropic MCP Registry manifest (v0.2.3):..."
+      "Metadata supplied by the maintainer in #4980; documentation reviewed, no independent runtime or client validation performed."
     ]
   }
 }
