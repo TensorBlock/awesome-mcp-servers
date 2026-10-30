@@ -99,7 +99,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [MCPPhalanx/binaryninja-mcp](https://github.com/MCPPhalanx/binaryninja-mcp): Facilitates advanced binary analysis and manipulation through Binary Ninja integration.
 - [0xKoda/WireMCP](https://github.com/0xKoda/WireMCP): WireMCP empowers LLMs with real-time network traffic analysis using Wireshark's tshark for threat detection and diagnostics.
 - [edoscars/pan-os-mcp](https://github.com/edoscars/pan-os-mcp): Facilitates natural language management and configuration of Palo Alto Networks firewalls via the XML API.
-- [rand-tech/pcm](https://github.com/rand-tech/pcm): A reverse engineering MCP server leveraging IDA for disassembly, decompilation, and memory analysis. Archived repository; retained as a reference.
+- [rand-tech/pcm](https://github.com/rand-tech/pcm): A reverse engineering MCP server leveraging IDA for disassembly, decompilation, and memory analysis. Archived repository; retained as a reference. Project archived on GitHub; no longer actively maintained.
 - [ZeroPathAI/zeropath-mcp-server](https://github.com/ZeroPathAI/zeropath-mcp-server): Facilitates querying and managing ZeroPath security issues and patches through AI-assisted tools, enhancing security workflows with natural language interactions.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP): Enhances Ghidra's reverse engineering capabilities with AI-assisted binary analysis via the Model Context Protocol.
 - [TheRaLabs/legion-mcp](https://github.com/TheRaLabs/legion-mcp): Facilitates database access and query execution through MCP integration, supporting multiple databases with flexible deployment options.
