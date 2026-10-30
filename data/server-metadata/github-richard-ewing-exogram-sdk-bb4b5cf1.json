@@ -37,5 +37,19 @@
     "VS Code",
     "any MCP client"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Richard-Ewing in #4981 under the community profile-claim process.",
+      "Requested profile metadata in #4981: Maintainer: @Richard-Ewing Website: https://exogram.ai Docs: https://exogram.ai/docs/mcp Remote Streamable HTTP Endpoint: https://api.exogram.ai/mcp Positioning: Exogram — Personal AI Agent & Workspace for your..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Richard-Ewing"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
