@@ -22,7 +22,8 @@
     "claimed": true
   },
   "links": {
-    "docs": "https://github.com/theluckystrike/common-ground/blob/6009870c0dcf0a02a80f9712f8f777b2f75a6e8e/README.md#use-it-from-an-agent"
+    "docs": "https://github.com/theluckystrike/common-ground/blob/6009870c0dcf0a02a80f9712f8f777b2f75a6e8e/README.md#use-it-from-an-agent",
+    "homepage": "https://common-ground.lipmichal.workers.dev"
   },
   "tools": {
     "count": 2,
