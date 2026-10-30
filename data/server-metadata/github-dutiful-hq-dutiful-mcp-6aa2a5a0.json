@@ -9,7 +9,6 @@
     "endpoint": "https://dutiful.work/mcp"
   },
   "transport": [
-    "stdio",
     "streamable-http"
   ],
   "auth": {
