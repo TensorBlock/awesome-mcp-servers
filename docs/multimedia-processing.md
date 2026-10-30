@@ -2,6 +2,7 @@
 
 Servers focused on generating or manipulating images, processing video, audio transcription, text-to-speech, or document conversion.
 
+- [Quady3D](https://github.com/quady3dai/quady3d-tools): Official local stdio server for text- or single-image-to-3D assets, credit quotes, original-task recovery and saving model files into allowed project folders. Install: `npx --yes --ignore-scripts --package=@quady3d/mcp@0.1.2 quady3d-mcp --root /absolute/path/to/project`; Node.js 22+, `QUADY3D_API_KEY`, account credits and download access required. Eight tools. MIT client. [Setup guide](https://quady3d.com/integrations/mcp).
 - [imageat](https://github.com/incendies/imageat-mcp): MCP server for AI image generation and editing, video, and 20+ image-edit tools. Run with `npx -y @imageat/mcp` and an `IMAGEAT_API_KEY`, or use the hosted Streamable HTTP server at `https://mcp.imageat.com/mcp` (OAuth). Credits per generation. MIT.
 - [toolkb-mcp](https://github.com/jack-reson8/toolkb-mcp): Local stdio server that returns YouTube video and playlist transcripts with timestamps, web pages as Markdown, and App Store reviews with a rating histogram. Install: `npx -y github:jack-reson8/toolkb-mcp`; Node.js 18+, no API key or account. MIT.
 - [Snipaya](https://github.com/krzysztofsurdy/snipaya-mcp): Local stdio bridge to Snipaya, a macOS screenshot and image annotator. Lets agents add images, draw arrows, numbered steps and callouts, blur secrets, lay out several screenshots on one canvas and export. Runs on the Mac only, no cloud. Install: `npx -y snipaya-mcp`.
