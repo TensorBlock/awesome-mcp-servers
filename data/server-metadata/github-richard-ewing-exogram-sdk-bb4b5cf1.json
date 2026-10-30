@@ -2,19 +2,19 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-richard-ewing-exogram-sdk-bb4b5cf1",
   "source": {
-    "issue": 4889,
+    "issue": 4980,
     "projectUrl": "https://github.com/Richard-Ewing/exogram-sdk"
   },
   "links": {
-    "endpoint": "https://api.exogram.ai/mcp"
+    "endpoint": "https://api.exogram.ai/mcp",
+    "docs": "https://exogram.ai/docs/mcp"
   },
   "install": {
     "commands": [
-      "uvx mcp-server-exogram --local"
+      "uvx mcp-server-exogram"
     ],
     "env": [
-      "EXOGRAM_BEARER_TOKEN",
-      "EXOGRAM_API_URL"
+      "EXOGRAM_API_KEY"
     ],
     "confidence": "medium"
   },
@@ -25,7 +25,7 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "optional Bearer API key (zero-auth in local SQLite WAL mode)"
+      "api-key, optional EXOGRAM_API_KEY for Exogram Cloud sync (zero-signup local SQLite WAL works with no key)"
     ]
   },
   "clients": [
@@ -33,11 +33,28 @@
     "Claude Code",
     "Cursor",
     "Windsurf",
-    "Google Antigravity",
     "VS Code",
-    "any MCP client"
+    "Cline"
   ],
   "license": "MIT",
+  "description": "Official MCP bridge to Exogram (https://exogram.ai) — the Personal AI Agent and workspace that understands your work, people, and life, coordinates specialist agents, renders interactive deliverables, and executes tasks with your approval.",
+  "tools": {
+    "count": 22,
+    "names": [
+      "search_vault",
+      "search_memory_vault",
+      "store_memory",
+      "update_memory_vault",
+      "query_graph",
+      "get_neural_cluster",
+      "check_action_safety",
+      "record_decision",
+      "verify_audit_trail",
+      "find_tool",
+      "render_live_widget"
+    ],
+    "source": "self_reported"
+  },
   "verification": {
     "status": "self_reported",
     "notes": [
