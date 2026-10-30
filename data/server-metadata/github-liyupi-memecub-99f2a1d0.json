@@ -19,8 +19,10 @@
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "api-key",
+    "notes": [
+      "Search works without a key; match_article requires a free account API key sent as Authorization: Bearer."
+    ]
   },
   "clients": [
     "Claude Code",
