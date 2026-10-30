@@ -6,7 +6,8 @@
     "projectUrl": "https://github.com/meestierolff/trendsfast-open"
   },
   "links": {
-    "endpoint": "https://trendsfast.com/mcp"
+    "endpoint": "https://trendsfast.com/api/mcp/v3",
+    "docs": "https://trendsfast.com/mcp"
   },
   "transport": [
     "streamable-http"
