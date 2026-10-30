@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-darksider4all-leadgen-mcp-d2d7bd16",
+  "source": {
+    "issue": 4903,
+    "projectUrl": "https://github.com/darksider4all/leadgen-mcp"
+  },
+  "links": {
+    "endpoint": "https://leadgen-mcp.adrianhomelab.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "API key (X-API-Key); anonymous trial allowed."
+    ]
+  }
+}
