@@ -2,6 +2,7 @@
 
 Servers providing data or services related to flights, trains, transportation APIs, or travel planning.
 
+- [AwardClaw](https://www.awardclaw.com/agents): Business and first class award seat alerts, saver availability search, trip watches and points news. Tools: `search_drops`, `get_drop`, `search_award_space`, `list_trip_watches`, `create_trip_watch`, `delete_trip_watch`, `get_daily_briefing`, `search_points_news`, `get_card_offers`, `get_account`. Transport: Streamable HTTP at `https://www.awardclaw.com/api/mcp`. Auth: API key as a Bearer token in the Authorization header (keys from a Pro+ account at https://www.awardclaw.com/dashboard/agents). Official MCP Registry id `com.awardclaw/award-travel`.
 - [Carrier Ledger](https://github.com/equinoxaifinance-rgb/carrier-ledger-docs): Authority, insurance and notices for any USDOT or MC number, each with its FMCSA source. Lookups are free with no account. Remote: `https://carrierledger.steellantern.com/mcp`.
 - [Hotelumo](https://github.com/hotelumo/claude-plugin): Read hotel metadata, availability, aggregate schedules, room operations, rate plans, daily rates and extras without guest or individual-stay records. Hosted Streamable HTTP at `https://mcp.hotelumo.com/mcp`; OAuth account authorization required. [Docs](https://www.hotelumo.com/developers/#mcp). Public connector configuration and workflow skills: Apache-2.0.
 
