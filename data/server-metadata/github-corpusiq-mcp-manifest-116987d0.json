@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-corpusiq-mcp-manifest-116987d0",
+  "source": {
+    "issue": 5018,
+    "projectUrl": "https://github.com/CorpusIQ/mcp-manifest"
+  },
+  "links": {
+    "endpoint": "https://mcp2.corpusiq.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web and desktop) and ChatGPT as native connectors",
+    "Cursor",
+    "VS Code and any MCP-capable client over the remote endpoint."
+  ],
+  "license": "Proprietary hosted service; public manifest has no declared license"
+}
