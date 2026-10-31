@@ -34,7 +34,7 @@
     "Cline",
     "Windsurf",
     "VS Code Copilot",
-    "OpenCode",
-    "Also listed in the official MCP Registry as `tech.landmine/landmine`. License: MIT."
-  ]
+    "OpenCode"
+  ],
+  "license": "MIT"
 }
