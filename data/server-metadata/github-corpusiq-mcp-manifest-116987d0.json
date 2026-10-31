@@ -22,5 +22,5 @@
     "Cursor",
     "VS Code and any MCP-capable client over the remote endpoint."
   ],
-  "license": "unknown To be precise: the hosted service is proprietary, and the public repository above carries the published..."
+  "license": "Proprietary hosted service; public manifest has no declared license"
 }
