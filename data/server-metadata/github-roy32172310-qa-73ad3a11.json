@@ -8,8 +8,7 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Profile claimed by @ROY32172310 in #4994 under the community profile-claim process.",
-      "Requested profile metadata in #4994: Maintainer: @ROY32172310 Category: Browser Automation & Web Scraping Transport: stdio Tool surface: audit_web_page Auth: none Install: uvx ego-webqa@0.8.2 mcp Docs: https://github.com/ROY32172310/qa#readme License:..."
+      "Profile claimed by @ROY32172310 in #4994 under the community profile-claim process."
     ]
   },
   "community": {
