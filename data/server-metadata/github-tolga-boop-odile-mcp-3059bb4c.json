@@ -12,8 +12,10 @@
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "oauth",
+    "notes": [
+      "Public discovery and Direct lookups do not require authentication. Account operations use OAuth 2.1."
+    ]
   },
   "clients": [
     "Claude Code",
