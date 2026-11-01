@@ -10,13 +10,12 @@
   },
   "install": {
     "commands": [
-      "MCP tools need a Premium, Ultra or Enterprise plan; every plan starts with a 3-day trial. Official MCP Registry:"
+      "npx -y mcp-remote https://mcp.ugcagent.app/mcp"
     ],
     "env": [],
     "confidence": "medium"
   },
   "transport": [
-    "stdio",
     "streamable-http"
   ],
   "auth": {
