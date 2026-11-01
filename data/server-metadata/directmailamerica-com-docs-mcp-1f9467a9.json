@@ -7,8 +7,8 @@
   },
   "links": {
     "endpoint": "https://directmailamerica.com/api/mcp",
-    "docs": "https://directmailamerica.com/docs/mcp",
-    "homepage": "https://directmailamerica.com"
+    "docs": "https://directmailamerica.com/docs/mcp?utm_source=tensorblock&utm_medium=referral&utm_campaign=mcp_directories",
+    "homepage": "https://directmailamerica.com/?utm_source=tensorblock&utm_medium=referral&utm_campaign=mcp_directories"
   },
   "transport": [
     "streamable-http"
