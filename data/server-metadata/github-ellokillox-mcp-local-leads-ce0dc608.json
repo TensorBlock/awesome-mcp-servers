@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "docker build -t mcp-local-leads . && docker run -i -e GOOGLE_PLACES_API_KEY=... mcp-local-leads"
+      "python3 /absolute/path/to/server.py"
     ],
     "env": [
       "GOOGLE_PLACES_API_KEY"
