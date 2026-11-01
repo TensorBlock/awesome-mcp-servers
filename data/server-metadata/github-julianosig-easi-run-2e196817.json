@@ -17,9 +17,9 @@
     "streamable-http"
   ],
   "auth": {
-    "type": "unknown",
+    "type": "bearer",
     "notes": [
-      "unknown"
+      "Local stdio requires Docker permissions, with no per-agent token. Remote HTTPS requires an agent-specific bearer token."
     ]
   },
   "clients": [
