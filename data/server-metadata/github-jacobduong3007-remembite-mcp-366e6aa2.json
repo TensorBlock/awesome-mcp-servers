@@ -19,8 +19,7 @@
   },
   "clients": [
     "Claude",
-    "ChatGPT (developer mode",
-    "beta)",
+    "ChatGPT (developer mode, beta)",
     "other MCP clients via remote URL or personal access token"
   ],
   "license": "n/a (hosted service; repo holds metadata only)"
