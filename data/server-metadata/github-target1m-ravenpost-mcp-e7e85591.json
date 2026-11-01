@@ -14,7 +14,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth _Also accepts a personal access token (`Authorization: Bearer rvp_…`)._"
+      "oauth _Also accepts a personal access token (`Authorization: Bearer rvp_\u2026`)._"
     ]
   },
   "clients": [
