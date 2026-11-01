@@ -14,9 +14,6 @@
       "npx -y @sequenzy/mcp"
     ],
     "env": [
-      "SEQUENZY_API_KEY` (required",
-      "secret",
-      "customer-owned key for local stdio).",
       "SEQUENZY_API_KEY"
     ],
     "confidence": "medium"
@@ -37,9 +34,9 @@
     "Cursor",
     "Codex",
     "VS Code",
-    "ChatGPT (remote connector/plugin)."
+    "ChatGPT (remote connector/plugin)"
   ],
-  "license": "MIT The current generated profile has a malformed install command (`; npm package:`), transport/auth/license marked...",
+  "license": "MIT",
   "verification": {
     "status": "self_reported",
     "notes": [
