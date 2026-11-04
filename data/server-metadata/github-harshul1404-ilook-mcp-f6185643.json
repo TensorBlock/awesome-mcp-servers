@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-harshul1404-ilook-mcp-f6185643",
+  "source": {
+    "issue": 5333,
+    "projectUrl": "https://github.com/harshul1404/ilook-mcp"
+  },
+  "links": {
+    "endpoint": "https://www.ilook.fit/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "any streamable-http MCP client"
+  ],
+  "license": "MIT (config repo)"
+}
