@@ -10,7 +10,8 @@
       "node /absolute/path/to/flamingo-file-tools-mcp/server/index.mjs"
     ],
     "env": [
-      "RAPIDAPI_KEY"
+      "RAPIDAPI_KEY",
+      "FLAMINGO_WORKSPACE_DIR"
     ],
     "confidence": "medium"
   },
