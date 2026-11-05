@@ -9,11 +9,19 @@
     "endpoint": "https://mcpserverlist.io/mcp"
   },
   "transport": [
+    "stdio",
     "streamable-http"
   ],
   "auth": {
     "type": "none",
     "notes": []
   },
-  "license": "MIT"
+  "license": "MIT",
+  "install": {
+    "commands": [
+      "npx -y mcpserverlist-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  }
 }
