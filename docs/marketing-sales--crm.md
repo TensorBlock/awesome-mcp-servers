@@ -2,7 +2,7 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
-- [AgentSEO](https://github.com/AgentSEO-dev/agentseo-clients): SEO intelligence tools for SERPs, keyword research, backlinks, rank tracking, content planning and site audits. Install: `npx -y @agentseo/mcp-server@0.1.4`. Transport: stdio; hosted Streamable HTTP at `https://www.agentseo.dev/mcp`. Auth: API key; local client uses `AGENTSEO_API_KEY`, hosted requests use `x-api-key` or `Authorization: Bearer`. Requires an AgentSEO account and usage credits. Clients: Claude Desktop and Cursor. License: MIT for the npm client. [MCP documentation](https://github.com/AgentSEO-dev/agentseo-clients/tree/main/packages/mcp-server).
+- [AgentSEO](https://github.com/AgentSEO-dev/agentseo-clients): SEO intelligence tools for SERPs, keyword research, backlinks, rank tracking, content planning and site audits. Install: `npx -y @agentseo/mcp-server@0.1.5`. Transport: stdio; hosted Streamable HTTP at `https://www.agentseo.dev/mcp`. Auth: API key; local client uses `AGENTSEO_API_KEY`, hosted requests use `x-api-key` or `Authorization: Bearer`. Requires an AgentSEO account and usage credits. Clients: Claude Desktop and Cursor. License: MIT for the npm client. [MCP documentation](https://github.com/AgentSEO-dev/agentseo-clients/tree/main/packages/mcp-server).
 
 - [Watchr](https://github.com/getwatchr/watchr-mcp): Search monitored competitor signals, validated insights and reports in a Watchr workspace. Hosted Streamable HTTP at `https://mcp.watchr.ai/mcp`; OAuth 2.1 sign-in or personal API key required. Official MCP Registry id `io.github.getwatchr/watchr-mcp`.
 
