@@ -8,13 +8,6 @@
   "links": {
     "endpoint": "https://api.uberllm.dev/mcp"
   },
-  "install": {
-    "commands": [
-      "mcp-remote"
-    ],
-    "env": [],
-    "confidence": "medium"
-  },
   "transport": [
     "streamable-http"
   ],
