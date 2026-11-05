@@ -5,9 +5,6 @@
     "issue": 5339,
     "projectUrl": "https://github.com/azenvoc/sayql"
   },
-  "links": {
-    "endpoint": "https://sayql.dev/docs/mcp/"
-  },
   "transport": [
     "stdio"
   ],
@@ -24,5 +21,8 @@
     "GitHub Copilot CLI",
     "opencode"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "links": {
+    "docs": "https://sayql.dev/docs/mcp/"
+  }
 }
