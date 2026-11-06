@@ -16,5 +16,15 @@
     "notes": [
       "API key (X-API-Key); anonymous trial allowed."
     ]
-  }
+  },
+  "clients": [
+    "Claude Desktop (via mcp-remote)",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Cline",
+    "Continue",
+    "MCP Inspector"
+  ],
+  "license": "Proprietary hosted commercial service; source public for reference only. Terms: https://leadgen.adrianhomelab.com/terms"
 }
