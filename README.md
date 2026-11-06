@@ -244,6 +244,6 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Security | 140 | [Browse](docs/security.md) |
 | Social Media & Content Platforms | 112 | [Browse](docs/social-media--content-platforms.md) |
 | Sports | 3 | [Browse](docs/sport.md) |
-| Travel & Transportation | 51 | [Browse](docs/travel--transportation.md) |
+| Travel & Transportation | 52 | [Browse](docs/travel--transportation.md) |
 | Utilities & Helpers | 357 | [Browse](docs/utilities--helpers.md) |
 | Version Control | 78 | [Browse](docs/version-control.md) |
