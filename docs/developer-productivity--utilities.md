@@ -2,6 +2,8 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [OneSimpleAPI](https://onesimpleapi.com/docs/mcp): Generate PDFs, capture screenshots, convert and optimize images, create QR codes, and use web and data utilities. Endpoint: `https://onesimpleapi.com/mcp`. Transport: streamable-http. Auth: OAuth or Bearer API key. A OneSimpleAPI account is required; API usage is metered.
+
 - [Ollav](https://github.com/ollav-app/ollav-mcp): Lets a coding agent publish a self-contained HTML prototype as a review link, pull open element-pinned comments as Markdown + JSON with a polling cursor, update the same URL with a new version and resolve threads. Endpoint: `https://app.ollav.app/mcp`. Transport: streamable-http. Auth: OAuth 2.1 (DCR + PKCE) or Bearer API key. Tools: `share_html`, `get_review`, `publish_new_version`, `resolve_comment` and 7 more. Free plan available. [Website](https://ollav.app/?utm_source=tensorblock&utm_medium=directory&utm_campaign=launch) and [docs](https://ollav.app/docs/mcp).
 
 - [Beamline UI](https://beamline.io/connect): Lets a coding agent find, preview and install Beamline UI's React components and complete app screens into the project as editable source files. Endpoint: `https://mcp.beamline.io/mcp`. Transport: streamable-http. Auth: OAuth 2.1 (sign in with Google, GitHub or an e-mail code). Tools: `beamline_capabilities`, `beamline_component`, `beamline_picture`, `beamline_install`. Clients: Claude Code, Codex, Cursor. A free MIT sample comes with every account; the complete system is paid. [Docs](https://beamline.io/auth.md).
