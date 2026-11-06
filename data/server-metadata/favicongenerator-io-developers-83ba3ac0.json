@@ -16,11 +16,11 @@
     "notes": []
   },
   "clients": [
-    "Any Streamable HTTP MCP client (Claude Code",
+    "Claude Code",
     "Claude Desktop",
     "Cursor",
     "VS Code",
-    "Codex)"
+    "Codex"
   ],
   "license": "Hosted service, free to use (source not published)"
 }
