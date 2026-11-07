@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-bitbusca-juris-licita-mcp-0de53057",
+  "source": {
+    "issue": 5491,
+    "projectUrl": "https://github.com/bitbusca/juris-licita-mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "BITBUSCA_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
