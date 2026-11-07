@@ -18,5 +18,30 @@
     ],
     "verifiedBy": [],
     "claimed": true
-  }
+  },
+  "links": {
+    "homepage": "https://sync.so",
+    "docs": "https://sync.so/docs/plugins-and-extensions/mcp-server",
+    "endpoint": "https://mcp.sync.so/mcp"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Hosted server uses OAuth 2.1 with dynamic client registration; local stdio server requires SYNC_API_KEY."
+    ]
+  },
+  "install": {
+    "commands": [
+      "npx -y @sync.so/mcp-server@latest"
+    ],
+    "env": [
+      "SYNC_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "license": "MIT"
 }
