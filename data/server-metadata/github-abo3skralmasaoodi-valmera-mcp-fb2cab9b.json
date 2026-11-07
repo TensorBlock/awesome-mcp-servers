@@ -21,8 +21,11 @@
     "Cursor",
     "Codex",
     "VS Code",
-    "Gemini CLI",
-    "setup: https://valmera.io/mcp/setup"
+    "Gemini CLI"
   ],
-  "license": "MIT for public connector docs, manifests and skills; hosted editing service is commercial: https://valmera.io/legal"
+  "license": "MIT for public connector docs, manifests and skills; hosted editing service is commercial: https://valmera.io/legal",
+  "links": {
+    "endpoint": "https://valmera.io/mcp/server",
+    "docs": "https://valmera.io/mcp/setup"
+  }
 }
