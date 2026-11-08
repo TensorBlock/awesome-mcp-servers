@@ -10,11 +10,17 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Public endpoint requires no authentication; account and office endpoints use OAuth 2.1."
+    ]
   },
   "clients": [
     "Claude (custom connector)",
     "any client with Streamable HTTP support"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "links": {
+    "endpoint": "https://powerplayers.app/api/mcp/v1",
+    "docs": "https://powerplayers.app/connect-ai"
+  }
 }
