@@ -8,13 +8,6 @@
   "links": {
     "endpoint": "https://www.1clickwebsite.ai/api/mcp"
   },
-  "install": {
-    "commands": [],
-    "env": [
-      "YOUR_KEY"
-    ],
-    "confidence": "low"
-  },
   "transport": [
     "streamable-http"
   ],
