@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "openaxia-com-agent-182bcab1",
+  "source": {
+    "issue": 5552,
+    "projectUrl": "https://openaxia.com/agent"
+  },
+  "links": {
+    "docs": "https://openaxia.com/agent"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Optional API key. Anonymous read-only access is supported (60 requests/hour/IP, shared with the REST API). A free key increases the quota to 5,000/day; it can be supplied via Authorization: Bearer or X-API-Key. Do not mark..."
+    ]
+  },
+  "tools": {
+    "count": 9,
+    "names": [
+      "motobase_search_products",
+      "motobase_get_product",
+      "motobase_compare_products",
+      "motobase_list_certifications",
+      "motobase_recent_signals",
+      "motobase_get_spec_template",
+      "motobase_get_series",
+      "motobase_find_replacement",
+      "motobase_list_events.",
+      "The project URL is documentation for the hosted service",
+      "not a public source repository. Please do not infer an open-source license from the directory's own license. The published data reuse terms require attribution",
+      "they are documented on the page above.",
+      "This request does not ask for a verified badge or an independent health-test result. Please retain those as unverified until your own checks support a change. Replacement candidates are specification comparisons",
+      "not installation-compatibility approval."
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #5552. Source: https://openaxia.com/agent — “MCP server”, “Limits and caching”, and “Data use and attribution” sections. https://github.com/TensorBlock/awesome-mcp-servers/pull/5524 — original accepted contribution."
+    ]
+  }
+}
