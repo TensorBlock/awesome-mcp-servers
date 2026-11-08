@@ -13,11 +13,14 @@
     "confidence": "low"
   },
   "transport": [
+    "stdio",
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "api-key",
+    "notes": [
+      "Public tools need no key; optional BITBUSCA_API_KEY enables additional services."
+    ]
   },
   "clients": [
     "Claude Desktop",
