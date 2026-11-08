@@ -8,13 +8,6 @@
   "links": {
     "endpoint": "https://hotrepo.ai/mcp"
   },
-  "install": {
-    "commands": [],
-    "env": [
-      "YOUR_KEY"
-    ],
-    "confidence": "low"
-  },
   "transport": [
     "streamable-http"
   ],
@@ -31,8 +24,7 @@
     "Codex",
     "Gemini CLI",
     "Windsurf",
-    "Claude Desktop (see setup documentation",
-    "no new client compatibility tests performed for this submission)"
+    "Claude Desktop"
   ],
   "license": "Proprietary hosted service; source code is not publicly licensed"
 }
