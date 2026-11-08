@@ -25,5 +25,19 @@
     "VS Code",
     "Windsurf"
   ],
-  "license": "Proprietary (hosted service)"
+  "license": "Proprietary (hosted service)",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @ritzelm in #5345 under the community profile-claim process.",
+      "Requested profile metadata in #5345: Category: Marketing, Sales & CRM Transport: streamable-http Auth: oauth Install confidence: low License: Proprietary (hosted service) Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@ritzelm"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
