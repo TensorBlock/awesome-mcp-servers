@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-zkysar1-lodestar-mcp-481e8d2e",
+  "source": {
+    "issue": 5512,
+    "projectUrl": "https://github.com/zkysar1/lodestar-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.lodestar.wiki/v1/mycelium/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  }
+}
