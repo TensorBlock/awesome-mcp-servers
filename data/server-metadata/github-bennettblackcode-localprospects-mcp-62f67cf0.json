@@ -8,13 +8,6 @@
   "links": {
     "endpoint": "https://localprospects.ai/api/mcp"
   },
-  "install": {
-    "commands": [],
-    "env": [
-      "YOUR_KEY"
-    ],
-    "confidence": "low"
-  },
   "transport": [
     "streamable-http"
   ],
