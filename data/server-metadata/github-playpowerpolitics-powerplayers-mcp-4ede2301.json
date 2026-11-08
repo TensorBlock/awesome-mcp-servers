@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-playpowerpolitics-powerplayers-mcp-4ede2301",
+  "source": {
+    "issue": 5544,
+    "projectUrl": "https://github.com/Playpowerpolitics/powerplayers-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude (custom connector)",
+    "any client with Streamable HTTP support"
+  ],
+  "license": "MIT"
+}
