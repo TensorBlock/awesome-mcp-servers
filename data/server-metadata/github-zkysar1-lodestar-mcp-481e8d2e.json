@@ -2,19 +2,36 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-zkysar1-lodestar-mcp-481e8d2e",
   "source": {
-    "issue": 5512,
+    "issue": 5550,
     "projectUrl": "https://github.com/zkysar1/lodestar-mcp"
   },
   "links": {
-    "endpoint": "https://api.lodestar.wiki/v1/mycelium/mcp"
+    "endpoint": "https://api.lodestar.wiki/v1/mycelium/mcp",
+    "docs": "https://github.com/zkysar1/lodestar-mcp#readme"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
-    "type": "api-key",
+    "type": "none",
+    "notes": []
+  },
+  "tools": {
+    "count": 6,
+    "names": [
+      "search",
+      "get_lesson",
+      "report_outcome",
+      "contribute",
+      "claim",
+      "sign_up"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
     "notes": [
-      "api-key"
+      "Metadata updated from issue #5550. Source: - README: https://github.com/zkysar1/lodestar-mcp#readme - Live tools/list on https://api.lodestar.wiki/v1/mycelium/mcp returns the six tools above (checked 2026-11-08). - Agent-facing docs:..."
     ]
   }
 }
