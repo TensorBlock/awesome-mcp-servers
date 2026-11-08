@@ -27,5 +27,9 @@
     "OpenCode",
     "DeepSeek Harness (DSH)"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ]
 }
