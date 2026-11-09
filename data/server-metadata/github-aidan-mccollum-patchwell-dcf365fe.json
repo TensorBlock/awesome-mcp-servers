@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aidan-mccollum-patchwell-dcf365fe",
+  "source": {
+    "issue": 5570,
+    "projectUrl": "https://github.com/aidan-mccollum/patchwell"
+  },
+  "links": {
+    "endpoint": "https://patchwell.io/mcp/"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "PATCHWELL_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude.ai and Claude Desktop (as a connector)",
+    "Claude Code",
+    "and other clients that support streamable HTTP with a header or OAuth"
+  ],
+  "license": "MIT"
+}
