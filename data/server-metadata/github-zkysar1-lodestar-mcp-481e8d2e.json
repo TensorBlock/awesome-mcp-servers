@@ -14,7 +14,9 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Connection and search need no key; other tools use a key returned by sign_up."
+    ]
   },
   "tools": {
     "count": 6,
