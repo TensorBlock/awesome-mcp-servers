@@ -183,7 +183,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [windwhinny/whatismyip](https://github.com/windwhinny/whatismyip): A lightweight service for retrieving public IP addresses via MCP server commands.
 - [whoesli/remote-mcp-server](https://github.com/whoesli/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [Vuong/actually](https://github.com/Vuong/actually): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
-- [mahalel/mcp-ipcalc-go](https://github.com/mahalel/mcp-ipcalc-go): A Go-based MCP server offering IP address calculation and subnet information akin to the `ipcalc` tool.
 - [AlexanderVTr/cursor-mcp-file-organizer](https://github.com/AlexanderVTr/cursor-mcp-file-organizer): Organizes files in the Downloads folder by type using Cursor IDE with real-time monitoring and customizable rules.
 - [mvavassori/calculator-mcp-server](https://github.com/mvavassori/calculator-mcp-server): A TypeScript-based server offering extensive mathematical functions as MCP tools for seamless integration with language models.
 - [thuhoai27/mcp-file-reader](https://github.com/thuhoai27/mcp-file-reader): Facilitates AI models in accessing and analyzing text files from the local file system.
@@ -219,7 +218,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [7gugu/zip-mcp](https://github.com/7gugu/zip-mcp): Empower AI with advanced file compression and decompression capabilities using the ZIP MCP Server, featuring customizable parameters and secure encryption options.
 - [ubie-oss/mcp-proxy](https://github.com/ubie-oss/mcp-proxy): Facilitates HTTP connectivity to MCP servers by acting as a lightweight proxy, eliminating the need for custom streaming transports.
 - [kobonwc/test](https://github.com/kobonwc/test): Facilitates seamless interaction with Shopify store data via GraphQL API, offering comprehensive tools for managing products, customers, and orders.
-- [msl2246/rmcpp](https://github.com/msl2246/rmcpp): A versatile proxy tool enabling seamless communication between stdio and SSE transports for MCP servers.
 - [FutureUnreal/mcp-pdf2md](https://github.com/FutureUnreal/mcp-pdf2md): A high-performance service for converting PDFs to Markdown using MinerU API, supporting batch processing and seamless integration with LLM clients.
 - [5Devanshu/new_mcp](https://github.com/5Devanshu/new_mcp): A real-time news aggregator leveraging MCP and Claude Desktop to fetch and summarize news from multiple sources with user customization and bookmarking features.
 - [karateboss/mcp_pdf_reader](https://github.com/karateboss/mcp_pdf_reader): Enables reading of PDF documents through an MCP server, tested with Claude Desktop and LibreChat.
@@ -238,7 +236,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [kazuph/mcp-preview-opener](https://github.com/kazuph/mcp-preview-opener): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note creation and summarization.
 - [sidharthrajaram/time-mcp](https://github.com/sidharthrajaram/time-mcp): Empowers agents with real-time date and time awareness for executing time-sensitive tasks.
 - [omegaatt36/mcp-calculator-go](https://github.com/omegaatt36/mcp-calculator-go): A Go-based MCP server that performs basic arithmetic operations using the mcp-go library.
-- [neobundy/cwkCursorPippaMCP](https://github.com/neobundy/cwkCursorPippaMCP): A comprehensive memory management system for Cursor IDE, enabling AI assistants to maintain persistent memory across conversations using the MCP protocol.
 - [springwq/kayzen-mcp](https://github.com/springwq/kayzen-mcp): Facilitates AI-driven analysis of Kayzen advertising data through a standardized MCP interface.
 - [zengwenliang416/mcp-server-sequential-thinking](https://github.com/zengwenliang416/mcp-server-sequential-thinking): Facilitates structured problem-solving by breaking down complex issues into manageable steps with iterative refinement and alternative reasoning paths.
 - [norisuke3/mcp-state-server](https://github.com/norisuke3/mcp-state-server): A TypeScript-based MCP server implementing a notes system with resources, tools, and prompts for note management and summarization.
@@ -279,13 +276,11 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [seanivore/md-pdf-mcp](https://github.com/seanivore/md-pdf-mcp): Transform Markdown files into beautifully styled PDFs with integrated note management and summarization capabilities.
 - [ccc0168/modes-mcp-server](https://github.com/ccc0168/modes-mcp-server): Facilitates the management of Roo's custom operational modes with full CRUD operations and schema validation.
 - [OSpoon/chinese-holidays](https://github.com/OSpoon/chinese-holidays): Provides tools to query and manage information about Chinese holidays.
-- [peakmojo/mcp-server-peakmojo](https://github.com/peakmojo/mcp-server-peakmojo): Integrates with the PeakMojo API, offering resource and tool-based access with automatic mock responses for development.
 - [yukiko8888/-mcp-dice-server-](https://github.com/yukiko8888/-mcp-dice-server-): Facilitates dice rolling with customizable sides and quantities via MCP integration.
 - [worldnine/url-opener](https://github.com/worldnine/url-opener): Facilitates opening URLs in the default browser, designed for integration with Claude Desktop.
 - [shaneholloman/prime](https://github.com/shaneholloman/prime): Prime serves as a CLI host application enabling LLMs to interact with external tools via the Model Context Protocol, supporting models like Claude, OpenAI, and Ollama.
 - [turlockmike/mcp-rand](https://github.com/turlockmike/mcp-rand): Offers a suite of random generation utilities, including UUIDs, numbers, strings, passwords, dice rolls, and card draws, for seamless integration with MCP clients.
 - [yandmats/suekou](https://github.com/yandmats/suekou): Facilitates interaction between Claude and Notion workspaces through a dedicated MCP server.
-- [olegshilin/mcp-eagle](https://github.com/olegshilin/mcp-eagle): Facilitates communication between the Eagle app and Claude Desktop through a Model Context Protocol server.
 - [2b3pro/markdown2pdf-mcp](https://github.com/2b3pro/markdown2pdf-mcp): Effortlessly convert Markdown documents to PDFs with syntax highlighting and custom styling using this MCP server.
 - [Alesion30/my-mcp-server](https://github.com/Alesion30/my-mcp-server): Facilitates seamless integration of AI models with diverse data sources and tools using the Model Context Protocol.
 - [hanweg/mcp-pdf-tools](https://github.com/hanweg/mcp-pdf-tools): Facilitates PDF manipulation tasks such as merging and extracting pages through the Model Context Protocol.
