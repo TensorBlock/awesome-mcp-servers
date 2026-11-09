@@ -18,11 +18,9 @@
     ]
   },
   "clients": [
-    "Claude (web",
-    "desktop",
-    "mobile)",
+    "Claude (web, desktop, mobile)",
     "Claude Code",
-    "and other MCP clients with remote OAuth support"
+    "Other MCP clients with remote OAuth support"
   ],
   "license": "Proprietary hosted service (the repo holds docs and server.json)"
 }
