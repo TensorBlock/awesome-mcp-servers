@@ -18,7 +18,6 @@ Servers interacting with version control systems and platforms for repository ma
 - [BirajMainali/git-committer-mcp-server](https://github.com/BirajMainali/git-committer-mcp-server): Facilitates automated generation and staging of commit messages by analyzing Git changes.
 - [Adit-999/gitlab-mcp](https://github.com/Adit-999/gitlab-mcp): Facilitates AI-driven interactions with GitLab, enabling operations on repositories, issues, and merge requests with both synchronous and asynchronous execution.
 - [aniketsingh98571/github-mcp](https://github.com/aniketsingh98571/github-mcp): Facilitates seamless interaction with GitHub's API through a Model Control Protocol interface, enabling efficient repository management and user information retrieval.
-- [musthafa-mohammed/mvn-repo-mcp](https://github.com/musthafa-mohammed/mvn-repo-mcp): Facilitates AI-driven IDEs to interact with Maven Central for package search, version listings, and vulnerability checks.
 - [stephanj/GitHubMCP](https://github.com/stephanj/GitHubMCP): Facilitates LLM agents' interaction with GitHub resources through a Model Context Protocol server.
 - [ravi-accolite/mcpserver](https://github.com/ravi-accolite/mcpserver): Facilitates seamless integration between LLM applications and version control systems like GitHub and GitLab, enhancing automation and management capabilities.
 - [Foxhunt/gitlab-mcp-server](https://github.com/Foxhunt/gitlab-mcp-server): A TypeScript-based server for managing and interacting with GitLab data, including projects, issues, and wiki pages.
