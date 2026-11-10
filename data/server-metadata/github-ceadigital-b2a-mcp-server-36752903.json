@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ceadigital-b2a-mcp-server-36752903",
+  "source": {
+    "issue": 5704,
+    "projectUrl": "https://github.com/ceadigital/b2a-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://ceadigital.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-remote https://ceadigital.io/mcp",
+      "node index.js"
+    ],
+    "env": [
+      "CEA_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Cline",
+    "Windsurf",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
