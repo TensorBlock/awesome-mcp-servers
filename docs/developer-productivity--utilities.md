@@ -2,6 +2,8 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [MeetJSON](https://meetjson.com): Extract AST code skeletons, prune large JSON/data payloads, and repair broken JSON streams at the edge to reduce LLM context token usage by 60-99%. Endpoint: `https://api.meetjson.com/mcp` (SSE: `https://api.meetjson.com/sse`). Transport: streamable-http, sse. Auth: Open or Bearer API key. Tools: `meetjson_process`, `meetjson_state`. Free tier available.
+
 - [OneSimpleAPI](https://onesimpleapi.com/docs/mcp): Generate PDFs, capture screenshots, convert and optimize images, create QR codes, and use web and data utilities. Endpoint: `https://onesimpleapi.com/mcp`. Transport: streamable-http. Auth: OAuth or Bearer API key. A OneSimpleAPI account is required; API usage is metered.
 
 - [Ollav](https://github.com/ollav-app/ollav-mcp): Lets a coding agent publish a self-contained HTML prototype as a review link, pull open element-pinned comments as Markdown + JSON with a polling cursor, update the same URL with a new version and resolve threads. Endpoint: `https://app.ollav.app/mcp`. Transport: streamable-http. Auth: OAuth 2.1 (DCR + PKCE) or Bearer API key. Tools: `share_html`, `get_review`, `publish_new_version`, `resolve_comment` and 7 more. Free plan available. [Website](https://ollav.app/?utm_source=tensorblock&utm_medium=directory&utm_campaign=launch) and [docs](https://ollav.app/docs/mcp).
