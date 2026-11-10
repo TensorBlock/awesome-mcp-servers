@@ -289,7 +289,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [qpd-v/mcp-image-downloader](https://github.com/qpd-v/mcp-image-downloader): Facilitates AI-driven image downloading and optimization through MCP server capabilities.
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp): Fetches web content in various formats using a flexible HTTP fetching Model Context Protocol server.
 - [Qcasares/tfl](https://github.com/Qcasares/tfl): Facilitates note storage and summarization for London Transport data with customizable prompts and tools.
-- [Kohsuk3/random-num-mcp](https://github.com/Kohsuk3/random-num-mcp): Generates random numbers using a TypeScript-based MCP server, easily integrated with Claude Desktop.
 - [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime): Provides datetime formatting and filename generation services for the Claude Desktop Application.
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc): Facilitates seamless document format conversion using Pandoc, supporting a wide range of input and output formats.
 - [isaacphi/mcp-python-helper](https://github.com/isaacphi/mcp-python-helper): Enhance Python projects with tools and configurations for MCP server integration and deployment.
