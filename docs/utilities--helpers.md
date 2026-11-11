@@ -243,7 +243,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [SirTenzin/autumn-mcp-server](https://github.com/SirTenzin/autumn-mcp-server): Facilitates seamless interaction with the Autumn pricing API for customer management and billing operations.
 - [HardCoreDevMachine/FileFinderMcp](https://github.com/HardCoreDevMachine/FileFinderMcp): Facilitates file searching in the filesystem by path fragment, returning results in JSON format.
 - [DumoeDss/mcp-server-software](https://github.com/DumoeDss/mcp-server-software): Facilitates software management across multiple operating systems, enabling LLMs to list, open, and close applications.
-- [punkpeye/gas-interpreter-mcp](https://github.com/punkpeye/gas-interpreter-mcp): Connects MCP clients like Claude Desktop with Google Apps Script via a Node.js bridge server, enabling script execution through HTTP POST requests.
 - [sondn/mcp-partnr](https://github.com/sondn/mcp-partnr): Facilitates CRUD operations and transaction approvals for Partnr Vaults using MCP protocol.
 - [usrrname/worldtime-mcp-server](https://github.com/usrrname/worldtime-mcp-server): Provides current time information for various timezones using the WorldTime and TimezoneDB APIs.
 - [yuukab/mcp-weather](https://github.com/yuukab/mcp-weather): Provides weather information for major Japanese cities using the Model Context Protocol, integrating with Claude for Desktop.
