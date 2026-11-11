@@ -247,3 +247,5 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Travel & Transportation | 51 | [Browse](docs/travel--transportation.md) |
 | Utilities & Helpers | 357 | [Browse](docs/utilities--helpers.md) |
 | Version Control | 78 | [Browse](docs/version-control.md) |
+
+- [kolivritech/kolivri-voice-mcp](https://github.com/kolivritech/kolivri-voice-mcp) - Real AI phone line for Claude Code, OpenCode, Cursor, and Claude Desktop to place outbound AI voice calls, inspect transcripts/recordings, and generate carrier call-forwarding codes.
