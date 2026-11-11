@@ -2,6 +2,8 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [Unique.domains](https://github.com/UniqueDomains/mcp-server): 51 read-only tools over a daily record of 37 million domain names: is a name taken, its WHOIS record, what nine registrars charge for an ending, renewal traps, auctions and sales totals. None registers, buys or changes a name. Free, with no sign-in. Hosted Streamable HTTP at `https://mcp.unique.domains/mcp`. On your machine: `npx -y @uniquedomains/mcp-server` (stdio). License: MIT. Docs: https://unique.domains/api/mcp. Official MCP Registry id `domains.unique/mcp-server`.
+
 - [AgentCV](https://agentcv.ai/mcp-server): AgentCV — a public registry of AI agent teams, with each team's roles, platforms and evidence labelled real, curated or illustrative. Read-only remote MCP server, no sign-in: search teams, read profiles, and check a profile before registering.
 
 - [PlushSource](https://github.com/quickman924/plushsource-mcp): Search, filter and compare custom plush manufacturers listed in the PlushSource directory. Facts are recorded as stated by the manufacturers; unpublished fields are shown as Not stated. Local stdio server, bundled data, no network calls, no API key. Install: `npx -y plushsource-mcp`. Transport: stdio. Auth: none. License: MIT (code), CC BY 4.0 (data). Docs: https://plushsource.com/llms.txt. Website: https://plushsource.com. Official MCP Registry id `io.github.quickman924/plushsource-mcp`. Tools: `search_manufacturers`, `get_manufacturer`, `compare_manufacturers`, `get_facets`, `get_dataset_info`. Prompt: `rfq_draft`.
