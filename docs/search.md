@@ -2,6 +2,8 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [AgentCV](https://agentcv.ai/mcp-server): AgentCV — a public registry of AI agent teams, with each team's roles, platforms and evidence labelled real, curated or illustrative. Read-only remote MCP server, no sign-in: search teams, read profiles, and check a profile before registering.
+
 - [PlushSource](https://github.com/quickman924/plushsource-mcp): Search, filter and compare custom plush manufacturers listed in the PlushSource directory. Facts are recorded as stated by the manufacturers; unpublished fields are shown as Not stated. Local stdio server, bundled data, no network calls, no API key. Install: `npx -y plushsource-mcp`. Transport: stdio. Auth: none. License: MIT (code), CC BY 4.0 (data). Docs: https://plushsource.com/llms.txt. Website: https://plushsource.com. Official MCP Registry id `io.github.quickman924/plushsource-mcp`. Tools: `search_manufacturers`, `get_manufacturer`, `compare_manufacturers`, `get_facets`, `get_dataset_info`. Prompt: `rfq_draft`.
 
 - [LifeVerse Product Discovery](https://github.com/lifeversegu/lifeverse-mcp): Discover, search, inspect, and recommend 11 public LifeVerse AI products and interactive experiences through four read-only tools. Hosted Streamable HTTP at `https://lifeverse.gufreelancer.com/api/mcp`; no account or API key. Docs: https://lifeverse.gufreelancer.com/mcp. MIT. Official MCP Registry id `com.gufreelancer.lifeverse/public-catalog`.
