@@ -9,13 +9,12 @@
     "endpoint": "https://mcp.lastscanned.com/mcp"
   },
   "transport": [
-    "stdio",
     "streamable-http"
   ],
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "Keyless free tier; API key or OAuth for higher limits."
     ]
   },
   "clients": [
