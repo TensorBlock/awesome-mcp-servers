@@ -8,13 +8,6 @@
   "links": {
     "endpoint": "https://mcp.nimply.io/mcp"
   },
-  "install": {
-    "commands": [
-      "mcp.json: `{\"mcpServers\": {\"nimply\": {\"url\": \"https://mcp.nimply.io/mcp\"}}}"
-    ],
-    "env": [],
-    "confidence": "medium"
-  },
   "transport": [
     "streamable-http"
   ],
@@ -25,9 +18,9 @@
     ]
   },
   "clients": [
-    "Claude (claude.ai",
-    "Desktop",
-    "Code)",
+    "Claude",
+    "Claude Desktop",
+    "Claude Code",
     "ChatGPT",
     "Cursor",
     "VS Code",
