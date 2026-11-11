@@ -32,5 +32,19 @@
     "Windsurf",
     "other clients with remote HTTP and custom headers"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @shahidcodes in #5679 under the community profile-claim process.",
+      "Requested profile metadata in #5679: - Description: Lets an agent run AI QA test suites on a web app and read the bugs they find. - Remote endpoint: https://api.testoptim.com/api/mcp - Transport: streamable-http - Auth: API key or OAuth (OAuth 2.1 with..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@shahidcodes"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
