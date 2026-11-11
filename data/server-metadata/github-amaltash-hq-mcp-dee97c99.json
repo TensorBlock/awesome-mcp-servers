@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-amaltash-hq-mcp-dee97c99",
+  "source": {
+    "issue": 5789,
+    "projectUrl": "https://github.com/amaltash-hq/mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @arpwal in #5789 under the community profile-claim process.",
+      "Requested profile metadata in #5789: - Homepage / Docs URL: https://amaltash.com/mcp/calculators - License: MIT - Support: https://github.com/amaltash-hq/mcp/issues"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@arpwal"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
