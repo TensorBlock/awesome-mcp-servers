@@ -18,5 +18,9 @@
     ],
     "verifiedBy": [],
     "claimed": true
-  }
+  },
+  "links": {
+    "docs": "https://amaltash.com/mcp/calculators"
+  },
+  "license": "MIT"
 }
