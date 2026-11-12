@@ -5,10 +5,26 @@
     "issue": 5790,
     "projectUrl": "https://github.com/amaltash-hq/mcp"
   },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @arpwal in #5789 under the community profile-claim process.",
+      "Requested profile metadata in #5789: - Homepage / Docs URL: https://amaltash.com/mcp/calculators - License: MIT - Support: https://github.com/amaltash-hq/mcp/issues",
+      "Metadata updated from issue #5790. Source: - README install section: https://github.com/amaltash-hq/mcp#install - License: https://github.com/amaltash-hq/mcp/blob/main/LICENSE - Live `tools/list` on https://tools.amaltash.com/mcp - Official MCP Registry:..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@arpwal"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
   "links": {
     "docs": "https://amaltash.com/mcp/calculators",
     "endpoint": "https://tools.amaltash.com/mcp"
   },
+  "license": "MIT",
   "transport": [
     "streamable-http"
   ],
@@ -39,12 +55,5 @@
       "list_assets"
     ],
     "source": "self_reported"
-  },
-  "license": "MIT",
-  "verification": {
-    "status": "self_reported",
-    "notes": [
-      "Metadata updated from issue #5790. Source: - README install section: https://github.com/amaltash-hq/mcp#install - License: https://github.com/amaltash-hq/mcp/blob/main/LICENSE - Live `tools/list` on https://tools.amaltash.com/mcp - Official MCP Registry:..."
-    ]
   }
 }
