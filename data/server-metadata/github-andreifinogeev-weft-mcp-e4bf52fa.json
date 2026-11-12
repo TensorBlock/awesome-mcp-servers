@@ -18,5 +18,19 @@
     ],
     "verifiedBy": [],
     "claimed": true
-  }
+  },
+  "links": {
+    "endpoint": "https://letsweft.com/api/mcp",
+    "docs": "https://letsweft.com/llms-install.md"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with dynamic client registration and PKCE, or Bearer access token."
+    ]
+  },
+  "license": "MIT"
 }
