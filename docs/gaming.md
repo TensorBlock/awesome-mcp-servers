@@ -2,6 +2,7 @@
 
 Servers interacting with game engines, game platforms/APIs, or providing game-related tools.
 
+- [PlayDrop](https://github.com/playdrop-ai/playdrop-plugin): Publish a browser game from your AI agent and get a link that plays on any phone or computer. Remote endpoint: `https://mcp.playdrop.ai/mcp` (OAuth).
 - [Appside](https://github.com/odedkovach/appside-mcp): Read-only docs search, SDK snippets, SDK status and published pricing for Appside, a self-serve web store and checkout for mobile games, so an agent can write the store integration from the real docs. Install: remote `https://appside.build/mcp` (Streamable HTTP, no auth) or `node stdio.mjs` from the repo.
 - [Matcha](https://github.com/rad1092/matcha): Debug homebrew Game Boy ROMs over stdio MCP with stepping, memory inspection, breakpoints, screenshots, and save/restore. Install: extract `matcha.plugin` from the [release](https://github.com/rad1092/matcha/releases/tag/v0.1.1), then run `node /absolute/path/matcha-plugin/server/server.mjs` (Node 18+; no credentials).
 
