@@ -18,5 +18,25 @@
     ],
     "verifiedBy": [],
     "claimed": true
-  }
+  },
+  "links": {
+    "endpoint": "https://oxyo.si/mcp",
+    "docs": "https://oxyo.si/mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx oxyo-mcp"
+    ]
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Bearer access token for authenticated tools."
+    ]
+  },
+  "license": "MIT"
 }
