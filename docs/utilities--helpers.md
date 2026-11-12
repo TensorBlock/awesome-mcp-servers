@@ -291,7 +291,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime): Provides datetime formatting and filename generation services for the Claude Desktop Application.
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc): Facilitates seamless document format conversion using Pandoc, supporting a wide range of input and output formats.
 - [isaacphi/mcp-python-helper](https://github.com/isaacphi/mcp-python-helper): Enhance Python projects with tools and configurations for MCP server integration and deployment.
-- [script-money/apidance-py-sdk](https://github.com/script-money/apidance-py-sdk): A Python SDK for interacting with the Apidance API, featuring Twitter integration and MCP server hosting capabilities.
 - [justjoehere/mcp-weather-sse](https://github.com/justjoehere/mcp-weather-sse): Provides real-time weather data through a Server-Sent Events MCP server, facilitating seamless integration with AI agents.
 - [gkctou/mcp-mermaid-img](https://github.com/gkctou/mcp-mermaid-img): Convert Mermaid diagram code into high-quality images with customizable formats and themes for seamless integration into presentations and AI conversations.
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily): Facilitates detailed web searches using the Tavily API, returning AI-enhanced results with URIs and titles.
