@@ -277,7 +277,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [OSpoon/chinese-holidays](https://github.com/OSpoon/chinese-holidays): Provides tools to query and manage information about Chinese holidays.
 - [yukiko8888/-mcp-dice-server-](https://github.com/yukiko8888/-mcp-dice-server-): Facilitates dice rolling with customizable sides and quantities via MCP integration.
 - [worldnine/url-opener](https://github.com/worldnine/url-opener): Facilitates opening URLs in the default browser, designed for integration with Claude Desktop.
-- [shaneholloman/prime](https://github.com/shaneholloman/prime): Prime serves as a CLI host application enabling LLMs to interact with external tools via the Model Context Protocol, supporting models like Claude, OpenAI, and Ollama.
 - [turlockmike/mcp-rand](https://github.com/turlockmike/mcp-rand): Offers a suite of random generation utilities, including UUIDs, numbers, strings, passwords, dice rolls, and card draws, for seamless integration with MCP clients.
 - [yandmats/suekou](https://github.com/yandmats/suekou): Facilitates interaction between Claude and Notion workspaces through a dedicated MCP server.
 - [2b3pro/markdown2pdf-mcp](https://github.com/2b3pro/markdown2pdf-mcp): Effortlessly convert Markdown documents to PDFs with syntax highlighting and custom styling using this MCP server.
