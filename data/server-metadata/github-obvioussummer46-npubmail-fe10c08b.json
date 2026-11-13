@@ -17,7 +17,9 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Requests are signed with the agent\u2019s locally created Nostr key (NIP-98); no API key is required."
+    ]
   },
   "clients": [
     "Claude Desktop (MCPB)",
