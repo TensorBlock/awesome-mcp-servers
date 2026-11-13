@@ -2,6 +2,8 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [Systra Tools](https://github.com/systra-tools/systra-tools-plugin): Remote MCP library for React and Tailwind developers. Search production-ready sections and elements, retrieve source code, and explore page recipes and visual styles from coding agents. Endpoint: `https://systra.tools/api/mcp`. Transport: streamable-http. Auth: none for the free selection; optional Bearer key for Premium. Tools include `search_components`, `get_component`, `list_recipes`, and `get_recipe`. [Docs](https://systra.tools/mcp?utm_source=tensorblock&utm_medium=referral&utm_campaign=mcp_directory). Connector license: MIT.
+
 - [MeetJSON](https://meetjson.com): Extract AST code skeletons, prune large JSON/data payloads, and repair broken JSON streams at the edge to reduce LLM context token usage by 60-99%. Endpoint: `https://api.meetjson.com/mcp` (SSE: `https://api.meetjson.com/sse`). Transport: streamable-http, sse. Auth: Open or Bearer API key. Tools: `meetjson_process`, `meetjson_state`. Free tier available.
 
 - [OneSimpleAPI](https://onesimpleapi.com/docs/mcp): Generate PDFs, capture screenshots, convert and optimize images, create QR codes, and use web and data utilities. Endpoint: `https://onesimpleapi.com/mcp`. Transport: streamable-http. Auth: OAuth or Bearer API key. A OneSimpleAPI account is required; API usage is metered.
