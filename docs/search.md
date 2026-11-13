@@ -2,6 +2,8 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [Compare the Cloud](https://github.com/danielctc/comparethecloud-mcp): Read-only access to a UK B2B technology provider directory (20,000+ cloud, MSP, cybersecurity and AI vendors) plus Compare the Cloud articles, news and expert opinion. Hosted Streamable HTTP at `https://mcp.comparethecloud.net/mcp`; no auth required, optional free key for a higher rate limit. Local use: `npx mcp-remote https://mcp.comparethecloud.net/mcp`. Tools: `search_providers`, `get_provider`, `similar_providers`, `list_categories`, `directory_stats`, `search_content`, `get_content`, `search`, `fetch`, `site_guide`.
+
 - [Unique.domains](https://github.com/UniqueDomains/mcp-server): 51 read-only tools over a daily record of 37 million domain names: is a name taken, its WHOIS record, what nine registrars charge for an ending, renewal traps, auctions and sales totals. None registers, buys or changes a name. Free, with no sign-in. Hosted Streamable HTTP at `https://mcp.unique.domains/mcp`. On your machine: `npx -y @uniquedomains/mcp-server` (stdio). License: MIT. Docs: https://unique.domains/api/mcp. Official MCP Registry id `domains.unique/mcp-server`.
 
 - [AgentCV](https://agentcv.ai/mcp-server): AgentCV — a public registry of AI agent teams, with each team's roles, platforms and evidence labelled real, curated or illustrative. Read-only remote MCP server, no sign-in: search teams, read profiles, and check a profile before registering.
