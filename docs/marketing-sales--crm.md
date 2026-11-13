@@ -2,6 +2,8 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [SEOBolt](https://seobolt.app): Lets an AI agent crawl a site, audit Google and AI-search readiness and get a fix plan to apply in a codebase. Hosted Streamable HTTP endpoint: `https://seobolt.app/mcp`; OAuth sign-in. Official MCP Registry: `app.seobolt/seobolt`.
+- [GrowFast](https://growfast.sh): Lets an AI agent find B2B customers for a product: score matching companies, draft emails and listen on Reddit. Hosted Streamable HTTP endpoint: `https://growfast.sh/api/mcp`; OAuth sign-in. Official MCP Registry: `sh.growfast/growfast`.
 - [AgentSEO](https://github.com/AgentSEO-dev/agentseo-clients): SEO intelligence tools for SERPs, keyword research, backlinks, rank tracking, content planning and site audits. Install: `npx -y @agentseo/mcp-server@0.1.5`. Transport: stdio; hosted Streamable HTTP at `https://www.agentseo.dev/mcp`. Auth: API key; local client uses `AGENTSEO_API_KEY`, hosted requests use `x-api-key` or `Authorization: Bearer`. Requires an AgentSEO account and usage credits. Clients: Claude Desktop and Cursor. License: MIT for the npm client. [MCP documentation](https://github.com/AgentSEO-dev/agentseo-clients/tree/main/packages/mcp-server).
 
 - [ASOClimb (com.asoclimb/aso)](https://asoclimb.com/docs/mcp): App Store and Google Play keyword research, daily rank tracking, competitor keyword gaps, charts and niche analysis for indie apps (49 tools). Hosted Streamable HTTP at `https://asoclimb.com/mcp`; OAuth 2.1 with PKCE and dynamic client registration, or a Bearer API key from Account → Developer. Free plan available. Official MCP Registry id `com.asoclimb/aso`. Proprietary hosted service.
