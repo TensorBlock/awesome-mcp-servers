@@ -39,7 +39,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [MartinPSDev/curl-mcp](https://github.com/MartinPSDev/curl-mcp): Transforms natural language instructions into curl commands, supporting English and Spanish, for seamless HTTP requests.
 - [natifridman/stocks-mcp](https://github.com/natifridman/stocks-mcp): Fetches real-time stock information from Google Finance using a Pythonic MCP server framework.
 - [dithom/shopware-mcp](https://github.com/dithom/shopware-mcp): Automates bugfixing for Shopware plugins by leveraging LLMs to handle support tickets and plugin versions.
-- [shankarpriyank/remote-mcp-server-authless](https://github.com/shankarpriyank/remote-mcp-server-authless): Deploy a remote MCP server without authentication on Cloudflare Workers, enabling seamless integration with Cloudflare AI Playground and local MCP clients.
 - [slot181/openapi-integrator-mcp](https://github.com/slot181/openapi-integrator-mcp): Facilitates high-quality image generation through OpenAI-compatible APIs, offering a standardized interface for specifying image parameters.
 - [kukapay/crypto-rss-mcp](https://github.com/kukapay/crypto-rss-mcp): Aggregates real-time cryptocurrency news from multiple RSS feeds to assist AI agents in making informed market decisions.
 - [AlekseyKapustyanenko/NihFix.Postgres.Mcp](https://github.com/AlekseyKapustyanenko/NihFix.Postgres.Mcp): Facilitates real-time AI agent interactions with PostgreSQL databases using SSE and STDIO protocols.
@@ -95,7 +94,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [RusianHu/GitHubDailyTrendingFetcher-mcp](https://github.com/RusianHu/GitHubDailyTrendingFetcher-mcp): Fetches detailed information on GitHub's daily trending repositories using the FastMCP framework, allowing for efficient content summarization and token savings.
 - [AdirD/hilanet-mcp](https://github.com/AdirD/hilanet-mcp): A satirical MCP server offering HR-related tools for a corporate dystopia, built with fastMCP.
 - [yoyooyooo/cf-mcp-server](https://github.com/yoyooyooo/cf-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [supermaodou/mcp-demo](https://github.com/supermaodou/mcp-demo): A Spring Boot-based server providing course data query services through a defined tool interface.
 - [xysele/worker-mcp-sse](https://github.com/xysele/worker-mcp-sse): Deploy a remote MCP server on Cloudflare Workers without authentication, enabling seamless integration with Cloudflare AI Playground and local MCP clients.
 - [yukilab2/read_rules_thru_mcp](https://github.com/yukilab2/read_rules_thru_mcp): Facilitates AI clients in accessing rule data via a local MCP server.
 - [leighmcculloch/mcp-gemini](https://github.com/leighmcculloch/mcp-gemini): Facilitates communication between Claude and Google's Gemini using the Claude Model Context Protocol.
