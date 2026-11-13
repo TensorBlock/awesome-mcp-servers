@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-bolvein-firex-recipe-for-agents-mcp-2abf626b",
+  "source": {
+    "issue": 5928,
+    "projectUrl": "https://github.com/bolvein-firex/recipe-for-agents-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Codex CLI",
+    "Gemini CLI",
+    "ChatGPT",
+    "n8n"
+  ],
+  "license": "MIT"
+}
