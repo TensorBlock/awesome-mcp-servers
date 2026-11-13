@@ -2,6 +2,7 @@
 
 Servers controlling hardware devices, interacting with embedded systems, serial communication, 3D printers, or smart home systems.
 
+- [MatterCatalog](https://github.com/mattercatalog/mcp): Checks whether a smart home device is Matter certified (MatterCatalog's read of the CSA Distributed Compliance Ledger), lists Matter devices by category, platform and network, names the stores a product page links, compares two products and gives dated certification figures. Five read-only tools; answers carry no prices. Remote Streamable HTTP endpoint: `https://mattercatalog.com/api/mcp?src=mcp-tensorblock`. No auth. Official MCP Registry: `com.mattercatalog/catalog`. Hosted, closed source; docs repo CC BY 4.0.
 - [emirmrkaljevic/iotaudit](https://github.com/emirmrkaljevic/iotaudit): Local, consent-first audit of your own smart home devices from a passive capture, with per-device reports, diffs between runs, and an MCP server. No telemetry.
 - [veonua/smartthings-mcp](https://github.com/veonua/smartthings-mcp): Lightweight Samsung SmartThings MCP server for room mapping, device listing, status checks, and device command execution.
 - [kukapay/modbus-mcp](https://github.com/kukapay/modbus-mcp): Standardizes and contextualizes Modbus data for seamless AI agent integration with industrial IoT systems.
