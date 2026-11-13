@@ -13,7 +13,9 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Public tools need no token; account tools require a bearer token from an approved account."
+    ]
   },
   "clients": [
     "Cursor",
