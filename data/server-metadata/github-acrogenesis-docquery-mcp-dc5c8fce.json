@@ -8,13 +8,6 @@
   "links": {
     "endpoint": "https://docquery.io/api/v1/mcp"
   },
-  "install": {
-    "commands": [
-      "mcp:read"
-    ],
-    "env": [],
-    "confidence": "medium"
-  },
   "transport": [
     "streamable-http"
   ],
