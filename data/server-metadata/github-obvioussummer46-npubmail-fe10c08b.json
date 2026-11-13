@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-obvioussummer46-npubmail-fe10c08b",
+  "source": {
+    "issue": 5906,
+    "projectUrl": "https://github.com/obvioussummer46/npubmail"
+  },
+  "install": {
+    "commands": [
+      "npubmail-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop (MCPB)",
+    "Claude Code",
+    "Cursor",
+    "any MCP client"
+  ],
+  "license": "MIT (clients / MCP server; the mail service itself is hosted)"
+}
