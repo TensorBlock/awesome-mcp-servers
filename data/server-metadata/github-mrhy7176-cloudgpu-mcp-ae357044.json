@@ -3,7 +3,7 @@
   "id": "github-mrhy7176-cloudgpu-mcp-ae357044",
   "source": {
     "issue": 4683,
-    "projectUrl": "https://github.com/mrhy7176/cloudgpu-mcp"
+    "projectUrl": "https://github.com/cloudgpu-app/cloudgpu-mcp"
   },
   "links": {
     "docs": "https://cloudgpu.app/docs/mcp"
@@ -18,12 +18,14 @@
     "confidence": "medium"
   },
   "transport": [
-    "stdio"
+    "stdio",
+    "streamable-http"
   ],
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "api-key",
+      "optional: connect_account browser approval issues a key with spending limit, GPU count and expiry"
     ]
   },
   "clients": [
