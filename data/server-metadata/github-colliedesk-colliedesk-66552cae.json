@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-colliedesk-colliedesk-66552cae",
+  "source": {
+    "issue": 5958,
+    "projectUrl": "https://github.com/colliedesk/colliedesk"
+  },
+  "links": {
+    "endpoint": "https://app.colliedesk.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web",
+    "desktop",
+    "mobile)",
+    "Claude Code",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "AGPL-3.0"
+}
