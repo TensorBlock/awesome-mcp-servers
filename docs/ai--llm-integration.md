@@ -126,13 +126,11 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [akream/mcpgo](https://github.com/akream/mcpgo): A Go-based MCP server delivering random cat facts to LLMs like Claude.
 - [dinasaur404/remote-mcp-server-authless-transport](https://github.com/dinasaur404/remote-mcp-server-authless-transport): Deploy a remote MCP server on Cloudflare Workers without authentication, enabling seamless integration with Cloudflare AI Playground and local MCP clients.
 - [mohammadgholampour/convert-figma-code-cursor](https://github.com/mohammadgholampour/convert-figma-code-cursor): Facilitates seamless communication between Cursor AI and Figma for programmatic design modifications.
-- [Paulhb7/mcp-sequential-ethical-thinking](https://github.com/Paulhb7/mcp-sequential-ethical-thinking): Facilitates structured ethical reasoning through deontological and consequentialist analysis, enabling moral judgment simulation and AI alignment.
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp): Facilitates interactive communication between LLMs and users through local prompts, chat, and notifications.
 - [alontu/tuval-remote-mcp-server](https://github.com/alontu/tuval-remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [wmxl/mcp-weather](https://github.com/wmxl/mcp-weather): A Java-based MCP server offering weather forecasts and alerts using the US National Weather Service API.
 - [Norcim133/OutlookMCPServer](https://github.com/Norcim133/OutlookMCPServer): Facilitates seamless integration of Microsoft 365 mail and calendar functionalities with Claude Desktop using the Microsoft Graph API.
 - [Overseer66/comfyui-mcp-server](https://github.com/Overseer66/comfyui-mcp-server): Integrates ComfyUI with MCP, enabling seamless workflow execution and image processing through customizable tools.
-- [SachetRay/databricks_mcp](https://github.com/SachetRay/databricks_mcp): Facilitates seamless interaction between Claude in Cursor and Databricks workspaces, enabling SQL query execution and workspace management.
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp): A Python-based recipe assistant MCP server using FastMCP to recommend recipes and plan meals.
 - [Contrast-Security-OSS/mcp-contrast](https://github.com/Contrast-Security-OSS/mcp-contrast): Facilitates the remediation of vulnerabilities by integrating Contrast Security's data with AI agents and coding tools.
 - [Hajime-Y/multiagents-thinking](https://github.com/Hajime-Y/multiagents-thinking): Facilitates multi-agent thinking by leveraging specialist agents for parallel task execution and diverse problem-solving strategies.
@@ -147,7 +145,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [inventer-dev/mcp-internet-speed-test](https://github.com/inventer-dev/mcp-internet-speed-test): Enables AI models and agents to perform comprehensive internet speed measurements and network performance analysis.
 - [VerveMind/vervepaint-mcp-server](https://github.com/VerveMind/vervepaint-mcp-server): Deploy and manage a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.
 - [kiskander/mcp-network-assistant](https://github.com/kiskander/mcp-network-assistant): Facilitates network engineers in accessing structured network knowledge through an MCP server, enabling integration with LLMs like Claude for Desktop.
-- [LuizBranco-ClickHype/mcp-vps](https://github.com/LuizBranco-ClickHype/mcp-vps): Automated installation script for an MCP Server on Ubuntu VPS, enabling remote connections and integration with Cursor AI.
 - [cquilumbacmc/mi-super-agente-86](https://github.com/cquilumbacmc/mi-super-agente-86): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing secure and controlled access to tools and data sources for Large Language Models.
 - [danielscholl/just-prompt-mcp](https://github.com/danielscholl/just-prompt-mcp): A lightweight server offering unified access to leading LLM providers like OpenAI and Anthropic.
 - [mstc-xqp/secdoc](https://github.com/mstc-xqp/secdoc): Access SEC EDGAR database filings via a simple API, enabling searches by CIK and retrieval of filing documents with optional filters.
@@ -160,7 +157,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [NoxFr/jira-mcp-server](https://github.com/NoxFr/jira-mcp-server): Facilitates seamless synchronization and interaction with Jira data through an MCP interface, supporting both SSE and stdio communication modes.
 - [kukapay/bridge-rates-mcp](https://github.com/kukapay/bridge-rates-mcp): Delivers real-time cross-chain bridge rates and optimal transfer routes for onchain AI agents.
 - [mia303/remote-mcp-server-authless](https://github.com/mia303/remote-mcp-server-authless): Deploy a remote MCP server on Cloudflare Workers without authentication, enabling seamless integration with Cloudflare AI Playground and local MCP clients.
-- [nbbaier/remote-mcp-server-authless](https://github.com/nbbaier/remote-mcp-server-authless): Deploy a remote MCP server on Cloudflare Workers without authentication, enabling seamless integration with Cloudflare AI Playground and local MCP clients.
 - [DSchau/coingecko-mcp-demo](https://github.com/DSchau/coingecko-mcp-demo): A Postman Agent Generator-based MCP server that automates API tool exposure for MCP-compatible clients, with Docker support for production deployment.
 - [dfeirstein/image-creator-mcp](https://github.com/dfeirstein/image-creator-mcp): Enables AI clients to generate and edit images using OpenAI models, saving them directly to a specified project directory.
 - [coredevsushant/mcp.example](https://github.com/coredevsushant/mcp.example): Connects Claude AI with a .NET Web API for real-time data exchange using Model Context Protocol.
