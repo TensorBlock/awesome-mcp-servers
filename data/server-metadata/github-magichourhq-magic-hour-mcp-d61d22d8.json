@@ -5,7 +5,7 @@
     "issue": 5924,
     "projectUrl": "https://github.com/magichourhq/magic-hour-mcp"
   },
-  "description": "Magic Hour’s official hosted MCP server creates and edits images and video, generates audio, and retrieves completed media projects. Connect using the setup guide for your client.",
+  "description": "Magic Hour\u2019s official hosted MCP server creates and edits images and video, generates audio, and retrieves completed media projects. Connect using the setup guide for your client.",
   "links": {
     "docs": "https://magichour.ai/mcp",
     "endpoint": "https://mcp.magichour.ai/"
