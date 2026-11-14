@@ -277,7 +277,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [OSpoon/chinese-holidays](https://github.com/OSpoon/chinese-holidays): Provides tools to query and manage information about Chinese holidays.
 - [yukiko8888/-mcp-dice-server-](https://github.com/yukiko8888/-mcp-dice-server-): Facilitates dice rolling with customizable sides and quantities via MCP integration.
 - [worldnine/url-opener](https://github.com/worldnine/url-opener): Facilitates opening URLs in the default browser, designed for integration with Claude Desktop.
-- [shaneholloman/prime](https://github.com/shaneholloman/prime): Prime serves as a CLI host application enabling LLMs to interact with external tools via the Model Context Protocol, supporting models like Claude, OpenAI, and Ollama.
 - [turlockmike/mcp-rand](https://github.com/turlockmike/mcp-rand): Offers a suite of random generation utilities, including UUIDs, numbers, strings, passwords, dice rolls, and card draws, for seamless integration with MCP clients.
 - [yandmats/suekou](https://github.com/yandmats/suekou): Facilitates interaction between Claude and Notion workspaces through a dedicated MCP server.
 - [2b3pro/markdown2pdf-mcp](https://github.com/2b3pro/markdown2pdf-mcp): Effortlessly convert Markdown documents to PDFs with syntax highlighting and custom styling using this MCP server.
@@ -333,3 +332,4 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [tidybytetools/json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite): Reshape, filter and flatten JSON locally. No API key. Install: `uvx json-shaper-lite-mcp`. Official MCP Registry id `io.github.tidybytetools/json-shaper-lite`. MIT.
 - [tidybytetools/base64-lite](https://github.com/tidybytetools/base64-lite): Encode or decode Base64 for text and local files, with URL-safe and data-URI options. Runs locally. No API key. Install: `uvx --from git+https://github.com/tidybytetools/base64-lite base64-lite-mcp`. Transport: stdio. Auth: none. License: MIT.
 - [GPA Calculator MCP (AnonymousOnyx22/gpa-calculator-mcp)](https://github.com/AnonymousOnyx22/gpa-calculator-mcp): GPA, grade conversion and the grade you need on the final, for AI. Works offline, no account. Install: `npx -y gpa-calculator-mcp`.
+- [Citations MCP (AnonymousOnyx22/student-citations-mcp)](https://github.com/AnonymousOnyx22/student-citations-mcp): APA, MLA and Chicago citations from a DOI, an ISBN or typed details. No account. Install: `npx -y student-citations-mcp`.
