@@ -17,6 +17,7 @@ export const readGitLineMetadata = (
       ], {
         cwd,
         encoding: "utf8",
+        maxBuffer: 64 * 1024 * 1024,
         stdio: ["ignore", "pipe", "ignore"],
       });
 
@@ -94,3 +95,4 @@ const unixSecondsToIso = (value: string): string | null => {
 
   return new Date(seconds * 1000).toISOString();
 };
+
