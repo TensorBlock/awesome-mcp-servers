@@ -1,10 +1,11 @@
-import { readFileSync } from "node:fs";
+import { readFileSync, readdirSync } from "node:fs";
 import { createRequire } from "node:module";
 import { describe, expect, it } from "vitest";
 import type { FormatsPlugin } from "ajv-formats";
 import { Ajv2020 as Ajv } from "ajv/dist/2020.js";
 import { buildCatalogFromMarkdown } from "../src/buildCatalog.js";
 import { slugFromUrl } from "../src/parseMarkdown.js";
+import { readMetadataSidecars } from "../src/metadata.js";
 
 const require = createRequire(import.meta.url);
 const addFormats = require("ajv-formats") as FormatsPlugin;
@@ -384,5 +385,38 @@ describe("buildCatalogFromMarkdown", () => {
 
     expect(validate(result.entries[0])).toBe(true);
     expect(validate.errors).toBeNull();
+  });
+});
+
+describe("GNU license identifiers", () => {
+  it.each([
+    "GPL-2.0", "GPL-2.0-only", "GPL-2.0-or-later",
+    "GPL-3.0-only", "GPL-3.0-or-later",
+    "AGPL-3.0-only", "AGPL-3.0-or-later",
+  ])("preserves the complete stated identifier %s", (license) => {
+    const markdown = "## Experimental\n- [Demo](https://example.com/demo): Search server. License: " + license + ".";
+    expect(buildCatalogFromMarkdown(markdown, new Map()).entries[0].license).toBe(license);
+  });
+
+  it.each(["GPL-3.0", "AGPL-3.0", "MIT", "Apache-2.0", "BSD-3-Clause"])(
+    "keeps the existing identifier %s unchanged", (license) => {
+      const markdown = "## Experimental\n- [Demo](https://example.com/demo): License: " + license;
+      expect(buildCatalogFromMarkdown(markdown, new Map()).entries[0].license).toBe(license);
+    });
+
+  it("keeps explicit sidecar license metadata authoritative", () => {
+    const project = "https://example.com/demo";
+    const markdown = "## Experimental\n- [Demo](" + project + "): License: GPL-3.0-or-later.";
+    const metadata = new Map([[slugFromUrl(project), { license: "MIT" }]]);
+    expect(buildCatalogFromMarkdown(markdown, new Map(), metadata).entries[0].license).toBe("MIT");
+  });
+
+  it("preserves the GPL-3.0-only declaration in the existing Folio entry", () => {
+    const docs = new Map(readdirSync("docs").filter(file => file.endsWith(".md"))
+      .map(file => ["docs/" + file, readFileSync("docs/" + file, "utf8")]));
+    const entries = buildCatalogFromMarkdown("", docs, readMetadataSidecars()).entries;
+    const entry = entries.find(item => item.id === "github-jakubro-folio-eea116cb");
+    expect(entry).toBeDefined();
+    expect(entry!.license).toBe("GPL-3.0-only");
   });
 });

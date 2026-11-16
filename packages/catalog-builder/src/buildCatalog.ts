@@ -402,7 +402,7 @@ function extractToolCount(text: string): number | null {
 }
 
 function inferLicense(text: string): string {
-  const match = text.match(/\b(MIT|Apache-2\.0|AGPL-3\.0|GPL-3\.0|BSD-3-Clause|BSD-2-Clause|ISC)\b/i);
+  const match = text.match(/\b(MIT|Apache-2\.0|AGPL-3\.0(?:-only|-or-later)?|GPL-[23]\.0(?:-only|-or-later)?|BSD-3-Clause|BSD-2-Clause|ISC)\b/i);
   return match?.[1] ?? "unknown";
 }
 
@@ -435,3 +435,4 @@ function looksLikeRemoteEndpoint(url: string): boolean {
     return false;
   }
 }
+
