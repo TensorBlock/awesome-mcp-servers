@@ -31,3 +31,7 @@ writeFileSync("data/catalog-errors.json", `${JSON.stringify(result.errors, null,
 
 console.log(`Catalog entries: ${result.entries.length}`);
 console.log(`Catalog errors: ${result.errors.length}`);
+
+if (result.errors.length > 0) {
+  process.exitCode = 1;
+}
