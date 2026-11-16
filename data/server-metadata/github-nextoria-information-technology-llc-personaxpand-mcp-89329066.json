@@ -22,5 +22,19 @@
     "Claude Code",
     "Other MCP clients with remote OAuth support"
   ],
-  "license": "Proprietary hosted service (the repo holds docs and server.json)"
+  "license": "Proprietary hosted service (the repo holds docs and server.json)",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Nextoria-Information-Technology-LLC in #6130 under the community profile-claim process.",
+      "Requested profile metadata in #6130: Category: Social Media & Content Platforms Transport: streamable-http Auth: oauth Install confidence: low License: Proprietary hosted service (the repo holds docs and server.json) Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Nextoria-Information-Technology-LLC"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
