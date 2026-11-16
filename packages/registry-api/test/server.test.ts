@@ -379,3 +379,53 @@ const startServer = async (
   const address = server.address() as AddressInfo;
   return `http://127.0.0.1:${address.port}`;
 };
+
+
+describe("registry HTTP method semantics", () => {
+  it.each([
+  "/",
+  "/health",
+  "/v1",
+  "/v1/categories",
+  "/v1/servers?query=postgres",
+  "/v1/servers/recent",
+  "/v1/servers/updated",
+  "/v1/servers/postgres-mcp",
+  "/servers/postgres-mcp",
+  "/v1/servers/postgres-mcp/badge.svg",
+  "/servers/postgres-mcp/badge.svg",
+  "/v1/servers/postgres-mcp/install-config",
+  "/v1/servers/postgres-mcp/install-config?client=codex&format=toml",
+  "/v1/servers/missing",
+  "/v1/servers?transport=invalid"
+])("serves HEAD metadata without a response body at %s", async (path) => {
+    const baseUrl = await startServer();
+    const getResponse = await fetch(`${baseUrl}${path}`);
+    await getResponse.text();
+    const headResponse = await fetch(`${baseUrl}${path}`, { method: "HEAD" });
+    expect(headResponse.status).toBe(getResponse.status);
+    for (const header of ["content-type", "cache-control", "access-control-allow-origin"]) {
+      expect(headResponse.headers.get(header)).toBe(getResponse.headers.get(header));
+    }
+    expect(headResponse.headers.get("access-control-allow-methods")).toBe("GET, HEAD, OPTIONS");
+    expect(await headResponse.text()).toBe("");
+  });
+
+  it.each(["POST", "PUT", "DELETE", "PATCH"])("advertises permitted methods when rejecting %s", async (method) => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/servers`, { method });
+    expect(response.status).toBe(405);
+    expect(response.headers.get("allow")).toBe("GET, HEAD, OPTIONS");
+    expect(response.headers.get("cache-control")).toBe("no-store");
+    expect(await response.json()).toEqual({ error: { message: "Method not allowed", statusCode: 405 } });
+  });
+
+  it("advertises HEAD during an OPTIONS preflight", async () => {
+    const baseUrl = await startServer();
+    const response = await fetch(`${baseUrl}/v1/servers`, { method: "OPTIONS" });
+    expect(response.status).toBe(204);
+    expect(response.headers.get("allow")).toBe("GET, HEAD, OPTIONS");
+    expect(response.headers.get("access-control-allow-methods")).toBe("GET, HEAD, OPTIONS");
+    expect(await response.text()).toBe("");
+  });
+});

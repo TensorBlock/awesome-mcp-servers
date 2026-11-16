@@ -24,6 +24,8 @@ GET /v1/servers/{id}/install-config?client=claude-desktop|cursor|codex|vscode
 GET /v1/servers/{id}/install-config?client=codex&format=toml
 ```
 
+Each GET endpoint also accepts HEAD and returns the same status and representation headers without a response body. OPTIONS and 405 responses advertise the supported methods in the `Allow` header.
+
 ## Examples
 
 Discover available endpoints:

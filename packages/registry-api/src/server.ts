@@ -29,6 +29,7 @@ const CLIENT_ALIASES: Record<string, ClientName> = {
 
 const TRANSPORTS = new Set<Transport>(["stdio", "streamable-http", "sse", "unknown"]);
 const AUTH_TYPES = new Set<AuthType>(["none", "api-key", "oauth", "bearer", "unknown"]);
+const ALLOWED_METHODS = "GET, HEAD, OPTIONS";
 
 interface RegistryApiState {
   catalog: CatalogEntry[];
@@ -76,11 +77,13 @@ const handleRequest = async (
   const method = request.method ?? "GET";
 
   if (method === "OPTIONS") {
+    response.setHeader("Allow", ALLOWED_METHODS);
     sendJson(response, 204, null);
     return;
   }
 
-  if (method !== "GET") {
+  if (method !== "GET" && method !== "HEAD") {
+    response.setHeader("Allow", ALLOWED_METHODS);
     sendError(response, 405, "Method not allowed");
     return;
   }
@@ -291,7 +294,7 @@ const handleInstallConfig = (
   if (format === "toml" && generated.nativeConfig) {
     response.writeHead(200, {
       "Access-Control-Allow-Origin": "*",
-      "Access-Control-Allow-Methods": "GET, OPTIONS",
+      "Access-Control-Allow-Methods": ALLOWED_METHODS,
       "Access-Control-Allow-Headers": "Content-Type",
       "Cache-Control": "public, max-age=60",
       "Content-Type": "text/plain; charset=utf-8",
@@ -344,7 +347,7 @@ const optionalAuthType = (auth: string | null): AuthType | undefined | Error => 
 const sendJson = (response: ServerResponse, statusCode: number, value: unknown): void => {
   response.writeHead(statusCode, {
     "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Methods": "GET, OPTIONS",
+    "Access-Control-Allow-Methods": ALLOWED_METHODS,
     "Access-Control-Allow-Headers": "Content-Type",
     "Cache-Control": statusCode === 200 ? "public, max-age=60" : "no-store",
     "Content-Type": "application/json; charset=utf-8",
@@ -370,7 +373,7 @@ const sendError = (response: ServerResponse, statusCode: number, message: string
 const sendHtml = (response: ServerResponse, statusCode: number, value: string): void => {
   response.writeHead(statusCode, {
     "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Methods": "GET, OPTIONS",
+    "Access-Control-Allow-Methods": ALLOWED_METHODS,
     "Access-Control-Allow-Headers": "Content-Type",
     "Cache-Control": statusCode === 200 ? "public, max-age=300" : "no-store",
     "Content-Type": "text/html; charset=utf-8",
@@ -382,7 +385,7 @@ const sendHtml = (response: ServerResponse, statusCode: number, value: string): 
 const sendSvg = (response: ServerResponse, statusCode: number, value: string): void => {
   response.writeHead(statusCode, {
     "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Methods": "GET, OPTIONS",
+    "Access-Control-Allow-Methods": ALLOWED_METHODS,
     "Access-Control-Allow-Headers": "Content-Type",
     "Cache-Control": statusCode === 200 ? "public, max-age=3600" : "no-store",
     "Content-Type": "image/svg+xml; charset=utf-8",
@@ -431,3 +434,4 @@ function isNodeFileNotFoundError(error: unknown): error is NodeJS.ErrnoException
     && "code" in error
     && (error as NodeJS.ErrnoException).code === "ENOENT";
 }
+
