@@ -1,4 +1,5 @@
 import { spawnSync } from "node:child_process";
+import { createRequire } from "node:module";
 import { mkdtempSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
@@ -6,7 +7,7 @@ import { fileURLToPath } from "node:url";
 import { describe, expect, it } from "vitest";
 
 const cli = fileURLToPath(new URL("../src/cli.ts", import.meta.url));
-const loader = import.meta.resolve("tsx");
+const loader = createRequire(import.meta.url).resolve("tsx");
 const entry = "- [Demo](https://example.com/demo): Search server.";
 
 const runBuild = (readme: string, docs: string) => {
