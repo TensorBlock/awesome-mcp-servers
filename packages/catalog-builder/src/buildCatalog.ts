@@ -343,8 +343,9 @@ function isGithubUrl(url: string): boolean {
 }
 
 function extractInstallCommands(text: string): string[] {
-  const commands = text.match(/`([^`]*(?:npx|uvx|pip|docker|npm)[^`]*)`/gi) ?? [];
-  return unique(commands.map((command) => command.slice(1, -1).trim()).filter(Boolean));
+  const spans = text.matchAll(/(?<!`)(`+)(?!`)([\s\S]*?)(?<!`)\1(?!`)/g);
+  return unique(Array.from(spans, (match) => match[2].trim())
+    .filter((command) => /\b(?:npx|uvx|pip(?:3|x)?|docker|npm|pnpm)\b/i.test(command)));
 }
 
 function extractEnvVars(text: string): string[] {
@@ -435,3 +436,4 @@ function looksLikeRemoteEndpoint(url: string): boolean {
     return false;
   }
 }
+

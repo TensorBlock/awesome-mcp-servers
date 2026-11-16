@@ -386,3 +386,14 @@ describe("buildCatalogFromMarkdown", () => {
     expect(validate.errors).toBeNull();
   });
 });
+
+describe("complete inline-code install commands", () => {
+  it.each([["Run `node server.js`; requires npm and Git. Tools: `search`.",[]],["Configure `API_KEY` using Docker, then invoke `lookup`.",[]],["Tools: `pipeline_summary`, `npm_status`, and `docker_stats`.",[]],["Configure `API_KEY` via npm, then run `npx demo`.",["npx demo"]],["Run ``npx demo --label `word` ``.",["npx demo --label `word`"]],["URLs: `https://example.com/pipeline`.",[]],["Install `npm install demo` then `npm start`.",["npm install demo","npm start"]],["Run `uvx demo`; configure `API_TOKEN`.",["uvx demo"]],["Install `pip3 install demo`, `pipx install demo`, or `pnpm add demo`.",["pip3 install demo","pipx install demo","pnpm add demo"]],["An unclosed span: `npx demo",[]],["Prepare `git clone https://example.com/demo && cd demo && npm install`.",["git clone https://example.com/demo && cd demo && npm install"]]] as Array<[string, string[]]>)(
+    "extracts commands without consuming prose: %s", (description, commands) => {
+      const markdown = "## Experimental\n- [Demo](https://example.com/demo): " + description;
+      const result = buildCatalogFromMarkdown(markdown, new Map());
+      expect(result.errors).toEqual([]);
+      expect(result.entries[0].install.commands).toEqual(commands);
+      expect(result.entries[0].install.confidence).toBe(commands.length ? "medium" : "low");
+    });
+});
