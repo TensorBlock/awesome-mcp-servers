@@ -386,3 +386,96 @@ describe("buildCatalogFromMarkdown", () => {
     expect(validate.errors).toBeNull();
   });
 });
+
+describe("catalog tool count parsing", () => {
+  it.each([
+  [
+    "1,234 tools",
+    1234
+  ],
+  [
+    "12,345 MCP tools",
+    12345
+  ],
+  [
+    "1,234,567 Tools",
+    1234567
+  ],
+  [
+    "1,000,000,000,000 tools",
+    1000000000000
+  ],
+  [
+    "1.5 tools",
+    null
+  ],
+  [
+    "0.5 MCP tools",
+    null
+  ],
+  [
+    "1,23 tools",
+    null
+  ],
+  [
+    "12,34 tools",
+    null
+  ],
+  [
+    "1,23,456 tools",
+    null
+  ],
+  [
+    "3-5 tools",
+    null
+  ],
+  [
+    "-5 tools",
+    null
+  ],
+  [
+    "+5 tools",
+    null
+  ],
+  [
+    "9007199254740992 tools",
+    null
+  ],
+  [
+    "12 tools",
+    12
+  ],
+  [
+    "0 tools",
+    0
+  ],
+  [
+    "1 MCP tool",
+    1
+  ],
+  [
+    "2e3 tools",
+    null
+  ],
+  [
+    "no tool count",
+    null
+  ]
+])("interprets %s without accepting a numeric suffix", (description, count) => {
+    const markdown = `## Search\n- [Demo](https://example.com/demo): Offers ${description}.`;
+    const result = buildCatalogFromMarkdown("", new Map([["docs/search.md", markdown]]));
+    expect(result.errors).toEqual([]);
+    expect(result.entries[0].tools).toEqual({
+      count, names: [], source: count === null ? "unknown" : "self_reported",
+    });
+  });
+
+  it("keeps explicit tool metadata authoritative", () => {
+    const url = "https://example.com/override";
+    const markdown = `## Search\n- [Demo](${url}): Offers 1,234 tools.`;
+    const result = buildCatalogFromMarkdown("", new Map([["docs/search.md", markdown]]), new Map([
+      [slugFromUrl(url), { tools: { count: 7, source: "self_reported" } }],
+    ]));
+    expect(result.entries[0].tools.count).toBe(7);
+  });
+});

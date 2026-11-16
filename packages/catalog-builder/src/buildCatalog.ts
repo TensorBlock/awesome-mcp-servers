@@ -397,8 +397,13 @@ function inferClients(text: string): string[] {
 }
 
 function extractToolCount(text: string): number | null {
-  const match = text.match(/\b(\d+)\s+(?:mcp\s+)?tools?\b/i);
-  return match ? Number(match[1]) : null;
+  const match = text.match(/(?<![\w.,+\-])((?:\d{1,3}(?:,\d{3})+|\d+))\s+(?:mcp\s+)?tools?\b/i);
+  if (!match) {
+    return null;
+  }
+
+  const count = Number(match[1].replace(/,/g, ""));
+  return Number.isSafeInteger(count) ? count : null;
 }
 
 function inferLicense(text: string): string {
@@ -435,3 +440,4 @@ function looksLikeRemoteEndpoint(url: string): boolean {
     return false;
   }
 }
+
