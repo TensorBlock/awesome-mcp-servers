@@ -212,3 +212,44 @@ describe("Codex native configuration", () => {
     expect(() => generateClientConfig(entry, "cursor")).not.toThrow();
   });
 });
+
+describe("quoted launch arguments", () => {
+  it.each([
+    ['node server.js --label "" --next value', ["server.js", "--label", "", "--next", "value"]],
+    ["node server.js ''", ["server.js", ""]],
+    [String.raw`node 'C:\tools\server.js'`, [String.raw`C:\tools\server.js`]],
+    [String.raw`node server.js '\n'`, ["server.js", String.raw`\n`]],
+    [String.raw`node "C:\tools\server.js"`, [String.raw`C:\tools\server.js`]],
+    [String.raw`node server.js "\q"`, ["server.js", String.raw`\q`]],
+    ["node server.js last\\ ", ["server.js", "last "]],
+    ["node server\\\n.js", ["server.js"]],
+    ['node "path with spaces/server.js"', ["path with spaces/server.js"]],
+    [String.raw`node server.js "a\"b" "c\\d"`, ["server.js", 'a"b', "c\\d"]],
+    ['node server.js pre"two words"post', ["server.js", "pretwo wordspost"]],
+    [String.raw`node path\ with\ spaces.js`, ["path with spaces.js"]],
+  ] as Array<[string, string[]]>)("preserves the argv of %s", (command, args) => {
+    const entry = createEntry({ install: { commands: [command], env: [], confidence: "medium" } });
+    for (const client of ["claude", "cursor", "codex", "vscode"] as const) {
+      expect(generateClientConfig(entry, client).config.mcpServers[entry.id]).toEqual({
+        command: "node", args,
+      });
+    }
+  });
+
+  it.each(['node "unterminated', "node 'unterminated", "node trailing\\"])(
+    "skips an incomplete command instead of changing its argv: %s", (command) => {
+      const entry = createEntry({ install: {
+        commands: [command, "node valid.js"], env: [], confidence: "medium",
+      } });
+      expect(generateClientConfig(entry, "cursor").config.mcpServers[entry.id]).toEqual({
+        command: "node", args: ["valid.js"],
+      });
+    });
+
+  it("retains the setup fallback for an incomplete command without an alternative", () => {
+    const entry = createEntry({ install: { commands: ['node "unterminated'], env: [], confidence: "medium" } });
+    const generated = generateClientConfig(entry, "cursor");
+    expect(generated.config.mcpServers[entry.id]).toEqual({ command: "<command>", args: ["<args>"] });
+    expect(generated.notes).toContain("Install commands look like setup steps; provide the server launch command before use.");
+  });
+});

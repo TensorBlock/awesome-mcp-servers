@@ -184,52 +184,58 @@ const splitCommand = (command: string): string[] => {
   const parts: string[] = [];
   let current = "";
   let quote: "'" | "\"" | null = null;
-  let escaping = false;
+  let started = false;
 
-  for (const char of command.trim()) {
-    if (escaping) {
-      current += char;
-      escaping = false;
+  for (let index = 0; index < command.length; index += 1) {
+    const char = command[index];
+
+    if (quote === "'") {
+      if (char === quote) quote = null;
+      else current += char;
       continue;
     }
 
     if (char === "\\") {
-      escaping = true;
+      const next = command[index + 1];
+      if (next === undefined) return [];
+      if (quote === "\"" && !["$", "`", "\"", "\\", "\n"].includes(next)) {
+        current += char;
+        continue;
+      }
+      if (next !== "\n") {
+        current += next;
+        started = true;
+      }
+      index += 1;
       continue;
     }
 
-    if (quote) {
-      if (char === quote) {
-        quote = null;
-      } else {
-        current += char;
-      }
+    if (quote === "\"") {
+      if (char === quote) quote = null;
+      else current += char;
       continue;
     }
 
     if (char === "'" || char === "\"") {
       quote = char;
+      started = true;
       continue;
     }
 
     if (/\s/.test(char)) {
-      if (current.length > 0) {
+      if (started) {
         parts.push(current);
         current = "";
+        started = false;
       }
       continue;
     }
 
     current += char;
+    started = true;
   }
 
-  if (escaping) {
-    current += "\\";
-  }
-
-  if (current.length > 0) {
-    parts.push(current);
-  }
-
+  if (quote) return [];
+  if (started) parts.push(current);
   return parts;
 };
