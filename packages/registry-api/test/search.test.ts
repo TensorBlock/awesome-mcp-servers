@@ -326,3 +326,46 @@ describe("catalog helpers", () => {
     });
   });
 });
+
+describe("bounded search result ordering", () => {
+  const entries = Array.from({ length: 480 }, (_, index) => entry({
+    id: `entry-${index}`,
+    name: `MCP ${String(479 - index).padStart(3, "0")}`,
+    category: `Category ${index % 5}`,
+    description: index % 3 === 0 ? "MCP helper" : "Useful helper",
+    transport: [index % 2 === 0 ? "stdio" : "sse"],
+    auth: { type: index % 4 === 0 ? "none" : "api-key" },
+  }));
+  const byCategoryAndName = (left: CatalogEntry, right: CatalogEntry) =>
+    left.category.localeCompare(right.category) || left.name.localeCompare(right.name);
+
+  it.each([[1, 1], [2, 2], [5, 5], [25, 25], [100, 100], [150, 100], [0, 25], [-3, 25], [NaN, 25], [Infinity, 100]])(
+    "preserves alphabetic and scored ordering with limit %s",
+    (limit, expectedCount) => {
+      const originalIds = entries.map(({ id }) => id);
+      const alphabetic = [...entries].sort(byCategoryAndName);
+      const scored = [...entries].sort((left, right) =>
+        Number(right.description.includes("MCP")) - Number(left.description.includes("MCP"))
+        || byCategoryAndName(left, right));
+      expect(searchCatalog(entries, { limit })).toEqual(alphabetic.slice(0, expectedCount).map(summarizeServer));
+      expect(searchCatalog(entries, { query: "mcp", limit })).toEqual(scored.slice(0, expectedCount).map(summarizeServer));
+      expect(entries.map(({ id }) => id)).toEqual(originalIds);
+    },
+  );
+
+  it.each([1, 25, 100])("retains the original order for exact ties at limit %s", (limit) => {
+    const tied = Array.from({ length: 260 }, (_, index) => entry({ id: `tied-${index}` }));
+    expect(searchCatalog(tied, { limit }).map(({ id }) => id)).toEqual(tied.slice(0, limit).map(({ id }) => id));
+    expect(searchCatalog(tied, { query: "base", limit }).map(({ id }) => id)).toEqual(tied.slice(0, limit).map(({ id }) => id));
+  });
+
+  it("applies filters before retaining the highest-ranked entries", () => {
+    const expected = entries.filter((value) => value.transport.includes("stdio") && value.auth.type === "none")
+      .sort((left, right) => Number(right.description.includes("MCP")) - Number(left.description.includes("MCP"))
+        || byCategoryAndName(left, right));
+    expect(searchCatalog(entries, { query: "mcp", transport: "stdio", auth: "none", limit: 25 }))
+      .toEqual(expected.slice(0, 25).map(summarizeServer));
+    expect(searchCatalog(entries, { category: "absent", limit: 1 })).toEqual([]);
+    expect(searchCatalog(entries, { query: "unmatched-term", limit: 1 })).toEqual([]);
+  });
+});

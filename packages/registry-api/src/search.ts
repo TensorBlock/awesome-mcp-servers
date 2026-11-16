@@ -88,19 +88,40 @@ export const searchCatalog = (
   const query = filters.query?.trim() ?? "";
   const terms = tokenize(query);
 
-  const filtered = catalog.filter((entry) => matchesFilters(entry, filters));
-  const ranked = terms.length > 0
-    ? filtered
-        .map((entry) => ({
-          entry,
-          score: scoreEntry(entry, terms),
-        }))
-        .filter(({ score }) => score > 0)
-        .sort(sortScoredEntries)
-        .map(({ entry }) => entry)
-    : filtered.sort(sortEntries);
+  const ranked: ScoredEntry[] = [];
+  for (const entry of catalog) {
+    if (!matchesFilters(entry, filters)) {
+      continue;
+    }
 
-  return ranked.slice(0, limit).map(summarizeServer);
+    const score = terms.length > 0 ? scoreEntry(entry, terms) : 0;
+    if (terms.length > 0 && score === 0) {
+      continue;
+    }
+
+    const candidate = { entry, score };
+    if (ranked.length === limit && sortScoredEntries(candidate, ranked[limit - 1]) >= 0) {
+      continue;
+    }
+
+    let low = 0;
+    let high = ranked.length;
+    while (low < high) {
+      const middle = Math.floor((low + high) / 2);
+      if (sortScoredEntries(candidate, ranked[middle]) < 0) {
+        high = middle;
+      } else {
+        low = middle + 1;
+      }
+    }
+
+    ranked.splice(low, 0, candidate);
+    if (ranked.length > limit) {
+      ranked.pop();
+    }
+  }
+
+  return ranked.map(({ entry }) => summarizeServer(entry));
 };
 
 export const findServer = (
