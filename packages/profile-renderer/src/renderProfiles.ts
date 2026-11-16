@@ -1,4 +1,4 @@
-import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
 import { badgeMarkdown } from "../../registry-api/src/badge.js";
@@ -70,19 +70,26 @@ export const writeProfiles = (
   outputDir: string
 ): number => {
   mkdirSync(outputDir, { recursive: true });
-  removeStaleProfiles(outputDir);
+  const currentFiles = new Set<string>();
 
   for (const entry of catalog) {
     const profile = renderProfile(entry, baseUrl);
-    writeFileSync(join(outputDir, `${entry.id}.json`), `${JSON.stringify(profile, null, 2)}\n`);
+    const fileName = `${entry.id}.json`;
+    const path = join(outputDir, fileName);
+    const content = `${JSON.stringify(profile, null, 2)}\n`;
+    if (!existsSync(path) || readFileSync(path, "utf8") !== content) {
+      writeFileSync(path, content);
+    }
+    currentFiles.add(fileName);
   }
 
+  removeStaleProfiles(outputDir, currentFiles);
   return catalog.length;
 };
 
-const removeStaleProfiles = (outputDir: string): void => {
+const removeStaleProfiles = (outputDir: string, currentFiles: Set<string>): void => {
   for (const fileName of readdirSync(outputDir)) {
-    if (fileName.endsWith(".json")) {
+    if (fileName.endsWith(".json") && !currentFiles.has(fileName)) {
       rmSync(join(outputDir, fileName));
     }
   }
