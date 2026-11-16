@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { generateClientConfig } from "../src/generateConfig.js";
 import type { CatalogEntry } from "../../catalog-builder/src/types.js";
-import { readFileSync } from "node:fs";
+import { readFileSync, readdirSync } from "node:fs";
 import { buildCatalogFromMarkdown } from "../../catalog-builder/src/buildCatalog.js";
 import { readMetadataSidecars } from "../../catalog-builder/src/metadata.js";
 
@@ -251,5 +251,34 @@ describe("quoted launch arguments", () => {
     const generated = generateClientConfig(entry, "cursor");
     expect(generated.config.mcpServers[entry.id]).toEqual({ command: "<command>", args: ["<args>"] });
     expect(generated.notes).toContain("Install commands look like setup steps; provide the server launch command before use.");
+  });
+});
+
+describe("literal shell punctuation in argv", () => {
+  it.each([["uvx --with \"mcp>=2,<3\" demo-mcp","uvx",["--with","mcp>=2,<3","demo-mcp"]],["node server.js --query \"SELECT a; b\"","node",["server.js","--query","SELECT a; b"]],["node server.js 'https://example.test/?a=1&b=2'","node",["server.js","https://example.test/?a=1&b=2"]],["node server.js \\> literal","node",["server.js",">","literal"]],["node server.js \"a|b\"","node",["server.js","a|b"]],["node server.js \"a&&b\"","node",["server.js","a&&b"]]] as Array<[string, string, string[]]>)(
+    "preserves quoted or escaped punctuation in %s", (commandLine, command, args) => {
+      const entry = createEntry({ install: { commands: [commandLine], env: [], confidence: "medium" } });
+      expect(generateClientConfig(entry, "cursor").config.mcpServers[entry.id]).toEqual({ command, args });
+    });
+
+  it.each(["&&", "||", ";", "|", ">", "<", "&"])(
+    "still rejects the unquoted shell operator %s", (operator) => {
+      const entry = createEntry({ install: {
+        commands: ["node server.js " + operator + " other"], env: [], confidence: "medium",
+      } });
+      expect(generateClientConfig(entry, "cursor").config.mcpServers[entry.id]).toEqual({
+        command: "<command>", args: ["<args>"],
+      });
+    });
+
+  it("keeps the real catalog's quoted uvx dependency constraint runnable", () => {
+    const docs = new Map(readdirSync("docs").filter(file => file.endsWith(".md"))
+      .map(file => ["docs/" + file, readFileSync("docs/" + file, "utf8")]));
+    const entries = buildCatalogFromMarkdown("", docs, readMetadataSidecars()).entries;
+    const entry = entries.find(item => item.id === "github-bijectivelabs-trading-research-agents-55d4402e");
+    expect(entry).toBeDefined();
+    expect(generateClientConfig(entry!, "cursor").config.mcpServers[entry!.id]).toMatchObject({
+      command: "uvx", args: ["--with", "mcp>=2,<3", "trading-research-agents", "mcp", "serve"],
+    });
   });
 });

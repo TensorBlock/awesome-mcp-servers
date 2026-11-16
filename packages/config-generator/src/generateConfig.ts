@@ -140,7 +140,7 @@ const findLaunchCommand = (commands: string[]): string[] | null => {
   for (const command of commands) {
     const parts = splitCommand(command);
 
-    if (isLaunchCommand(command, parts)) {
+    if (isLaunchCommand(parts)) {
       return parts;
     }
   }
@@ -148,8 +148,8 @@ const findLaunchCommand = (commands: string[]): string[] | null => {
   return null;
 };
 
-const isLaunchCommand = (command: string, parts: string[]): boolean => {
-  if (parts.length === 0 || /(?:&&|\|\||[;|<>])/.test(command)) {
+const isLaunchCommand = (parts: string[]): boolean => {
+  if (parts.length === 0) {
     return false;
   }
 
@@ -221,6 +221,8 @@ const splitCommand = (command: string): string[] => {
       started = true;
       continue;
     }
+
+    if (/[;&|<>]/.test(char)) return [];
 
     if (/\s/.test(char)) {
       if (started) {
