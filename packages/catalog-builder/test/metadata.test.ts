@@ -73,3 +73,37 @@ describe("server-metadata.schema.json", () => {
     expect(validate.errors).toBeNull();
   });
 });
+
+describe("metadata sidecar identity collisions", () => {
+  it.each([
+    ["a.json", { id: "shared" }, "b.json", { id: "shared" }],
+    ["shared.json", {}, "z-override.json", { id: "shared" }],
+    ["a-override.json", { id: "shared" }, "shared.json", {}],
+  ] as const)("rejects duplicate IDs in %s and %s", (first, firstData, second, secondData) => {
+    const directory = mkdtempSync(join(tmpdir(), "mcp-metadata-duplicate-"));
+    try {
+      writeFileSync(join(directory, first), JSON.stringify(firstData));
+      writeFileSync(join(directory, second), JSON.stringify(secondData));
+      expect(() => readMetadataSidecars(directory)).toThrow(
+        `Duplicate metadata id "shared" in ${join(directory, first)} and ${join(directory, second)}`,
+      );
+    } finally {
+      rmSync(directory, { recursive: true, force: true });
+    }
+  });
+
+  it("keeps distinct explicit and filename-derived IDs", () => {
+    const directory = mkdtempSync(join(tmpdir(), "mcp-metadata-distinct-"));
+    try {
+      writeFileSync(join(directory, "a.json"), JSON.stringify({ id: "explicit", description: "A" }));
+      writeFileSync(join(directory, "fallback.json"), JSON.stringify({ description: "B" }));
+      writeFileSync(join(directory, "notes.txt"), "not JSON");
+      const metadata = readMetadataSidecars(directory);
+      expect([...metadata.keys()]).toEqual(["explicit", "fallback"]);
+      expect(metadata.get("explicit")?.description).toBe("A");
+      expect(metadata.get("fallback")?.description).toBe("B");
+    } finally {
+      rmSync(directory, { recursive: true, force: true });
+    }
+  });
+});
