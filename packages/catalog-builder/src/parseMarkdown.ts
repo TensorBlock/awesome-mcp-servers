@@ -17,9 +17,23 @@ export function cleanCategoryHeading(raw: string): string {
 export function parseMarkdownEntries(markdown: string, sourcePath: string): ParsedMarkdownEntry[] {
   const entries: ParsedMarkdownEntry[] = [];
   let category: string | null = null;
+  let fence: { marker: string; length: number } | null = null;
   const lines = markdown.split(/\r?\n/);
 
   lines.forEach((line, index) => {
+    const delimiter = line.match(/^ {0,3}(`{3,}|~{3,})(.*)$/);
+    if (fence) {
+      if (delimiter && delimiter[1][0] === fence.marker
+        && delimiter[1].length >= fence.length && /^[ \t]*$/.test(delimiter[2])) {
+        fence = null;
+      }
+      return;
+    }
+    if (delimiter && (delimiter[1][0] === "~" || !delimiter[2].includes("`"))) {
+      fence = { marker: delimiter[1][0], length: delimiter[1].length };
+      return;
+    }
+
     if (/^##\s+/.test(line)) {
       category = cleanCategoryHeading(line);
       return;
@@ -113,3 +127,4 @@ function domainSlug(hostname: string, pathname: string): string {
 
   return parts || "unknown-server";
 }
+

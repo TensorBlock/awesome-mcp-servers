@@ -197,3 +197,45 @@ describe("CATEGORY_TO_DOCS_PATH", () => {
     expect(Object.values(CATEGORY_TO_DOCS_PATH).filter((docsPath) => !existsSync(docsPath))).toEqual([]);
   });
 });
+
+describe("fenced catalog examples", () => {
+  const realEntry = "- [Real](https://example.com/real): Real server.";
+  const exampleEntry = "- [Example](https://example.com/example): Example only.";
+
+  it.each(["```", "~~~", "````", "~~~~", "   ```", "   ~~~"])(
+    "ignores entries and category headings inside %s fences", (delimiter) => {
+      const markdown = [
+        "## Search", `${delimiter}markdown`, "## Example category", exampleEntry,
+        delimiter, realEntry,
+      ].join("\n");
+      expect(parseMarkdownEntries(markdown, "README.md")).toEqual([{
+        category: "Search", name: "Real", url: "https://example.com/real",
+        description: "Real server.", sourcePath: "README.md", line: 6,
+      }]);
+    });
+
+  it.each(["```", "~~~~", "```` trailing-text", "    ````"])(
+    "does not close a four-backtick block with %s", (invalidClosing) => {
+      const markdown = ["## Search", "````", invalidClosing, exampleEntry, "`````  \t", realEntry].join("\n");
+      expect(parseMarkdownEntries(markdown, "README.md").map(entry => entry.name)).toEqual(["Real"]);
+    });
+
+  it("ignores an unclosed fence through the end of the document", () => {
+    expect(parseMarkdownEntries(["## Search", realEntry, "~~~", exampleEntry].join("\n"), "README.md")
+      .map(entry => entry.name)).toEqual(["Real"]);
+  });
+
+  it("does not discover a category inside a fenced example", () => {
+    const markdown = ["```", "## Example category", exampleEntry, "```", exampleEntry, "## Search", realEntry].join("\r\n");
+    expect(parseMarkdownEntries(markdown, "docs/search.md")).toEqual([{
+      category: "Search", name: "Real", url: "https://example.com/real",
+      description: "Real server.", sourcePath: "docs/search.md", line: 7,
+    }]);
+  });
+
+  it.each(["``markdown", "    ```", "```lang`text"])(
+    "does not open a fenced block for %s", (line) => {
+      expect(parseMarkdownEntries(["## Search", line, realEntry].join("\n"), "README.md")
+        .map(entry => entry.name)).toEqual(["Real"]);
+    });
+});
