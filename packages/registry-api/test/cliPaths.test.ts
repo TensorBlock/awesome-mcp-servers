@@ -1,26 +1,28 @@
-import { spawn } from "node:child_process";
+import { execFileSync, spawn } from "node:child_process";
 import { once } from "node:events";
 import { cpSync, mkdtempSync, rmSync, writeFileSync } from "node:fs";
 import { createRequire } from "node:module";
 import { tmpdir } from "node:os";
 import { join, resolve } from "node:path";
-import { pathToFileURL } from "node:url";
-import { describe, expect, it } from "vitest";
+import { beforeAll, describe, expect, it } from "vitest";
 
-const loaderUrl = pathToFileURL(createRequire(import.meta.url).resolve("tsx")).href;
+const compilerPath = createRequire(import.meta.url).resolve("typescript/bin/tsc");
+
+beforeAll(() => {
+  execFileSync(process.execPath, [compilerPath, "-p", "tsconfig.base.json"], { stdio: "pipe" });
+}, 15000);
 
 describe("registry API CLI filesystem paths", () => {
   it.each(["hash#mark", "query?mark", "literal%20escape", "plain", "with space"])(
     "starts the API from a directory containing %s",
     async (suffix) => {
       const directory = mkdtempSync(join(tmpdir(), `registry-cli-${suffix}-`));
-      cpSync(resolve("packages"), join(directory, "packages"), { recursive: true });
+      cpSync(resolve("dist-ts/packages"), join(directory, "packages"), { recursive: true });
       cpSync(resolve("package.json"), join(directory, "package.json"));
       const catalogPath = join(directory, "catalog.json");
       writeFileSync(catalogPath, "[]");
       const child = spawn(process.execPath, [
-        "--import", loaderUrl,
-        join(directory, "packages/registry-api/src/server.ts"),
+        join(directory, "packages/registry-api/src/server.js"),
       ], {
         cwd: directory,
         env: {
