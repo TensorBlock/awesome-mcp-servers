@@ -86,7 +86,13 @@ const handleRequest = async (
   }
 
   const url = new URL(request.url ?? "/", "http://localhost");
-  const segments = url.pathname.split("/").filter(Boolean);
+  let segments: string[];
+  try {
+    segments = url.pathname.split("/").filter(Boolean).map((segment) => decodeURIComponent(segment));
+  } catch {
+    sendError(response, 400, "Malformed URL path");
+    return;
+  }
 
   try {
     if (url.pathname === "/" || url.pathname === "/v1" || url.pathname === "/v1/") {
@@ -431,3 +437,4 @@ function isNodeFileNotFoundError(error: unknown): error is NodeJS.ErrnoException
     && "code" in error
     && (error as NodeJS.ErrnoException).code === "ENOENT";
 }
+

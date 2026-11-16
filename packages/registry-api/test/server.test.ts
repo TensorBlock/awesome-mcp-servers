@@ -379,3 +379,44 @@ const startServer = async (
   const address = server.address() as AddressInfo;
   return `http://127.0.0.1:${address.port}`;
 };
+
+
+describe("percent-encoded registry path segments", () => {
+  const routes = [
+    ["/v1/servers/", ""],
+    ["/servers/", ""],
+    ["/v1/servers/", "/badge.svg"],
+    ["/servers/", "/badge.svg"],
+    ["/v1/servers/", "/install-config?client=claude-desktop"],
+  ] as const;
+
+  for (const encodedId of ["postgres%2Dmcp", "example%2Fpostgres-mcp", "Postgres%20MCP"]) {
+    it.each(routes)(`resolves ${encodedId} through %s%s`, async (prefix, suffix) => {
+      const baseUrl = await startServer();
+      const expected = await fetch(`${baseUrl}${prefix}postgres-mcp${suffix}`);
+      const response = await fetch(`${baseUrl}${prefix}${encodedId}${suffix}`);
+      expect(response.status).toBe(200);
+      expect(response.headers.get("content-type")).toBe(expected.headers.get("content-type"));
+      expect(await response.text()).toBe(await expected.text());
+    });
+  }
+
+  it.each(["/v1/servers/%", "/servers/%GG", "/v1/servers/%C3%28/install-config"])(
+    "returns a client error for malformed escapes in %s",
+    async (path) => {
+      const baseUrl = await startServer();
+      const response = await fetch(`${baseUrl}${path}`);
+      expect(response.status).toBe(400);
+      expect(response.headers.get("cache-control")).toBe("no-store");
+      expect(await response.json()).toEqual({
+        error: { message: "Malformed URL path", statusCode: 400 },
+      });
+      expect((await fetch(`${baseUrl}/health`)).status).toBe(200);
+    },
+  );
+
+  it.each(["postgres%252Dmcp", "missing%2Fserver"])("does not over-decode or invent a match for %s", async (id) => {
+    const baseUrl = await startServer();
+    expect((await fetch(`${baseUrl}/v1/servers/${id}`)).status).toBe(404);
+  });
+});
