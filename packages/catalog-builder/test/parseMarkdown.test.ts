@@ -1,3 +1,4 @@
+import { buildCatalogFromMarkdown } from "../src/buildCatalog.js";
 import { existsSync, readFileSync } from "node:fs";
 import { describe, expect, it } from "vitest";
 import { CATEGORY_TO_DOCS_PATH } from "../src/category-map.js";
@@ -195,5 +196,65 @@ describe("CATEGORY_TO_DOCS_PATH", () => {
     expect(categories.filter((category) => !category || !CATEGORY_TO_DOCS_PATH[category])).toEqual([]);
     expect(docsPaths).toEqual(categories.map((category) => CATEGORY_TO_DOCS_PATH[category ?? ""]));
     expect(Object.values(CATEGORY_TO_DOCS_PATH).filter((docsPath) => !existsSync(docsPath))).toEqual([]);
+  });
+});
+
+
+describe("parentheses in catalog link destinations", () => {
+  it.each([
+  [
+    "https://example.com/mcp(v2)",
+    "https://example.com/mcp(v2)"
+  ],
+  [
+    "https://example.com/mcp(one(two))",
+    "https://example.com/mcp(one(two))"
+  ],
+  [
+    "https://example.com/mcp?filter=(active)",
+    "https://example.com/mcp?filter=(active)"
+  ],
+  [
+    "https://example.com/mcp\\)v2",
+    "https://example.com/mcp)v2"
+  ],
+  [
+    "https://example.com/mcp\\(v2",
+    "https://example.com/mcp(v2"
+  ],
+  [
+    "https://example.com/mcp\\(v2\\)",
+    "https://example.com/mcp(v2)"
+  ],
+  [
+    "https://example.com/mcp%28v2%29",
+    "https://example.com/mcp%28v2%29"
+  ]
+])("preserves %s", (destination, expectedUrl) => {
+    const markdown = `## Search\n- [Demo](${destination}): Search service.`;
+    expect(parseMarkdownEntries(markdown, "docs/search.md")).toEqual([{
+      category: "Search", name: "Demo", url: expectedUrl, description: "Search service.",
+      sourcePath: "docs/search.md", line: 2,
+    }]);
+  });
+
+  it.each([
+  "https://example.com/mcp(v2",
+  "https://example.com/mcp\\"
+])(
+    "does not accept a closing delimiter inside an unfinished destination %s",
+    (destination) => {
+      expect(parseMarkdownEntries(`## Search\n- [Demo](${destination}): Search service.`, "docs/search.md")).toEqual([]);
+    },
+  );
+
+  it("uses the full destination for catalog links and stable identifiers", () => {
+    const url = "https://example.com/search(v2)";
+    const markdown = `## Search\n- [Demo](${url}): Search service.`;
+    const built = buildCatalogFromMarkdown(markdown, new Map([["docs/search.md", markdown]]));
+    expect(built.errors).toEqual([]);
+    expect(built.entries).toHaveLength(1);
+    expect(built.entries[0].links.primary).toBe(url);
+    expect(built.entries[0].id).toBe(slugFromUrl(url));
   });
 });

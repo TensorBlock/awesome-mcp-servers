@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto";
 import type { ParsedMarkdownEntry } from "./types.js";
 
-const BULLET_LINK_RE = /^-\s+\[([^\]]+)\]\(([^)]+)\)(.*)$/;
+const BULLET_LINK_PREFIX_RE = /^-\s+\[([^\]]+)\]\(/;
 const LEADING_METADATA_LINK_RE =
   /^(?:\[!\[[^\]]*\]\([^)]+\)\]\([^)]+\)|!\[[^\]]*\]\([^)]+\)|\[[^\]]+\]\([^)]+\))\s*/;
 const TEXT_CONTENT_RE = /[\p{L}\p{N}]/u;
@@ -25,12 +25,12 @@ export function parseMarkdownEntries(markdown: string, sourcePath: string): Pars
       return;
     }
 
-    const match = line.match(BULLET_LINK_RE);
+    const match = parseBulletLink(line);
     if (!match || !category) {
       return;
     }
 
-    const [, name, url, remainder] = match;
+    const { name, url, remainder } = match;
     const description = parseDescriptionRemainder(remainder);
     if (!description) {
       return;
@@ -47,6 +47,33 @@ export function parseMarkdownEntries(markdown: string, sourcePath: string): Pars
   });
 
   return entries;
+}
+
+function parseBulletLink(line: string): { name: string; url: string; remainder: string } | null {
+  const prefix = line.match(BULLET_LINK_PREFIX_RE);
+  if (!prefix) {
+    return null;
+  }
+
+  const start = prefix[0].length;
+  let depth = 0;
+  for (let index = start; index < line.length; index += 1) {
+    const character = line[index];
+    if (character === "\\") {
+      index += 1;
+    } else if (character === "(") {
+      depth += 1;
+    } else if (character === ")") {
+      if (depth > 0) {
+        depth -= 1;
+      } else {
+        const url = line.slice(start, index).trim().replace(/\\([\\()])/g, "$1");
+        return url ? { name: prefix[1], url, remainder: line.slice(index + 1) } : null;
+      }
+    }
+  }
+
+  return null;
 }
 
 function parseDescriptionRemainder(raw: string): string | null {
@@ -113,3 +140,4 @@ function domainSlug(hostname: string, pathname: string): string {
 
   return parts || "unknown-server";
 }
+
