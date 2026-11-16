@@ -51,7 +51,7 @@ export function parseMarkdownEntries(markdown: string, sourcePath: string): Pars
 
 function parseDescriptionRemainder(raw: string): string | null {
   const remainder = stripLeadingMetadataLinks(raw);
-  const explicitSeparator = remainder.match(/^.*?(?::\s*|(?:^|\s)[-\u2014\u2013]\s+)(.+)$/u);
+  const explicitSeparator = remainder.match(/^[^\p{L}\p{N}]*?(?::\s*|(?:^|\s)[-\u2014\u2013]\s+)(.+)$/u);
   const description = explicitSeparator ? explicitSeparator[1].trim() : remainder.trim();
 
   return TEXT_CONTENT_RE.test(description) ? description : null;
@@ -113,3 +113,4 @@ function domainSlug(hostname: string, pathname: string): string {
 
   return parts || "unknown-server";
 }
+

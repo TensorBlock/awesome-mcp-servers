@@ -197,3 +197,25 @@ describe("CATEGORY_TO_DOCS_PATH", () => {
     expect(Object.values(CATEGORY_TO_DOCS_PATH).filter((docsPath) => !existsSync(docsPath))).toEqual([]);
   });
 });
+
+describe("whitespace description punctuation", () => {
+  it.each([
+    "Search: query public indexes.",
+    "Fetch https://example.com/api for live results.",
+    "Runs at 12:30 UTC.",
+    "Search - including archived pages.",
+    "Search — including archived pages.",
+    "Search – including archived pages.",
+    "支持搜索：中文内容 and HTTP: endpoints.",
+  ])("keeps the full fallback description %s", (description) => {
+    const markdown = `## Search\n- [Demo](https://example.com/demo) ${description}`;
+    expect(parseMarkdownEntries(markdown, "README.md")[0]?.description).toBe(description);
+  });
+
+  it.each([": ", " - ", " — ", " – ", " 🎖️ 📇 ☁️ 🏠 - "])(
+    "continues to recognize an initial separator %s", (separator) => {
+      const description = "Search: use https://example.com/api - with filters.";
+      const markdown = `## Search\n- [Demo](https://example.com/demo)${separator}${description}`;
+      expect(parseMarkdownEntries(markdown, "README.md")[0]?.description).toBe(description);
+    });
+});
