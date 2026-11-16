@@ -85,7 +85,13 @@ const handleRequest = async (
     return;
   }
 
-  const url = new URL(request.url ?? "/", "http://localhost");
+  let url: URL;
+  try {
+    url = new URL(request.url ?? "/", "http://localhost");
+  } catch {
+    sendError(response, 400, "Invalid request URL");
+    return;
+  }
   const segments = url.pathname.split("/").filter(Boolean);
 
   try {
@@ -431,3 +437,4 @@ function isNodeFileNotFoundError(error: unknown): error is NodeJS.ErrnoException
     && "code" in error
     && (error as NodeJS.ErrnoException).code === "ENOENT";
 }
+
