@@ -97,6 +97,17 @@ afterEach(async () => {
 });
 
 describe("registry API server", () => {
+  it.each(["constructor", "Constructor", "__proto__", "__PROTO__", "not-a-client"])(
+    "rejects a client name outside the declared aliases: %s", async (client) => {
+      const baseUrl = await startServer();
+      const response = await fetch(`${baseUrl}/v1/servers/postgres-mcp/install-config?client=${client}`);
+      expect(response.status).toBe(400);
+      expect(response.headers.get("cache-control")).toBe("no-store");
+      const body = await response.json() as { error: { statusCode: number; message: string } };
+      expect(body.error.statusCode).toBe(400);
+      expect(body.error.message).toContain("Unsupported client");
+    });
+
   it("serves Codex TOML for a direct-copy request while default JSON stays available", async () => {
     const baseUrl = await startServer();
     const url = `${baseUrl}/v1/servers/postgres-mcp/install-config?client=codex`;
@@ -379,3 +390,4 @@ const startServer = async (
   const address = server.address() as AddressInfo;
   return `http://127.0.0.1:${address.port}`;
 };
+

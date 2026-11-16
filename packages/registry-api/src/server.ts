@@ -318,8 +318,10 @@ const handleBadge = (
   sendSvg(response, 200, renderBadgeSvg(entry));
 };
 
-const normalizeClientName = (client: string): ClientName | null =>
-  CLIENT_ALIASES[client.toLowerCase()] ?? null;
+const normalizeClientName = (client: string): ClientName | null => {
+  const key = client.toLowerCase();
+  return Object.hasOwn(CLIENT_ALIASES, key) ? CLIENT_ALIASES[key] : null;
+};
 
 const optionalTransport = (transport: string | null): Transport | undefined | Error => {
   if (!transport) {
@@ -431,3 +433,4 @@ function isNodeFileNotFoundError(error: unknown): error is NodeJS.ErrnoException
     && "code" in error
     && (error as NodeJS.ErrnoException).code === "ENOENT";
 }
+
