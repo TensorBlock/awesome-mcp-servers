@@ -169,8 +169,12 @@ const isLaunchCommand = (command: string, parts: string[]): boolean => {
     return firstArg === "run";
   }
 
-  if (normalizedBinary === "node" || normalizedBinary === "python" || normalizedBinary === "python3") {
+  if (normalizedBinary === "node") {
     return true;
+  }
+
+  if (normalizedBinary === "python" || normalizedBinary === "python3") {
+    return !(firstArg === "-m" && (parts[2] === "pip" || parts[2] === "pip.__main__"));
   }
 
   if (normalizedBinary === "npm") {
@@ -233,3 +237,4 @@ const splitCommand = (command: string): string[] => {
 
   return parts;
 };
+

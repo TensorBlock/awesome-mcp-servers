@@ -212,3 +212,66 @@ describe("Codex native configuration", () => {
     expect(() => generateClientConfig(entry, "cursor")).not.toThrow();
   });
 });
+
+
+
+describe("Python package-manager setup commands", () => {
+  const installers = [
+    "python -m pip install demo-mcp",
+    "python3 -m pip install demo-mcp",
+    "python -m pip.__main__ install demo-mcp",
+    "python3 -m pip.__main__ install demo-mcp",
+  ];
+
+  it.each(installers)("selects the server after %s", (installer) => {
+    const entry = createEntry({ install: {
+      commands: [installer, "python -m demo_mcp"], env: ["DEMO_KEY"], confidence: "medium",
+    } });
+    expect(generateClientConfig(entry, "claude").config.mcpServers[entry.id]).toEqual({
+      command: "python", args: ["-m", "demo_mcp"], env: { DEMO_KEY: "<DEMO_KEY>" },
+    });
+  });
+
+  it.each(installers)("does not use %s as the only launch command", (installer) => {
+    const entry = createEntry({ install: {
+      commands: [installer], env: [], confidence: "medium",
+    } });
+    const generated = generateClientConfig(entry, "cursor");
+    expect(generated.config.mcpServers[entry.id]).toEqual({ command: "<command>", args: ["<args>"] });
+    expect(generated.notes).toContain(
+      "Install commands look like setup steps; provide the server launch command before use."
+    );
+  });
+
+  it.each(installers)("uses a remote endpoint instead of %s", (installer) => {
+    const entry = createEntry({
+      install: { commands: [installer], env: [], confidence: "medium" },
+      links: { ...createEntry().links, endpoint: "https://example.com/mcp" },
+    });
+    expect(generateClientConfig(entry, "codex").config.mcpServers[entry.id]).toEqual({
+      url: "https://example.com/mcp",
+    });
+  });
+
+  it.each(["python", "python3"])("preserves runnable %s modules", (command) => {
+    for (const module of ["pip_server", "pipx"]) {
+      const args = module === "pipx" ? ["-m", module, "run", "demo-mcp"] : ["-m", module];
+      const entry = createEntry({ install: {
+        commands: [[command, ...args].join(" ")], env: [], confidence: "medium",
+      } });
+      expect(generateClientConfig(entry, "vscode").config.mcpServers[entry.id]).toEqual({ command, args });
+    }
+  });
+
+  it("selects the launch step from the catalog's install-then-run metadata", () => {
+    const path = "docs/knowledge-management--memory.md";
+    const result = buildCatalogFromMarkdown("", new Map([[path, readFileSync(path, "utf8")]]), readMetadataSidecars());
+    const entry = result.entries.find(entry => entry.id === "github-afloat16-ai-memory-book-e5dd5f33")!;
+    expect(entry).toBeDefined();
+    for (const client of ["claude", "cursor", "codex", "vscode"] as const) {
+      expect(generateClientConfig(entry, client).config.mcpServers[entry.id]).toEqual({
+        command: "python", args: ["-m", "memory_book", "mcp"],
+      });
+    }
+  });
+});
