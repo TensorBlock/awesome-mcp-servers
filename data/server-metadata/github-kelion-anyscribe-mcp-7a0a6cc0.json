@@ -6,6 +6,9 @@
     "projectUrl": "https://github.com/KELiON/anyscribe-mcp"
   },
   "links": {
+    "repo": "https://github.com/KELiON/anyscribe-mcp",
+    "homepage": "https://www.anyscribe.app",
+    "docs": "https://www.anyscribe.app/mcp",
     "endpoint": "https://mcp.anyscribe.app"
   },
   "transport": [
