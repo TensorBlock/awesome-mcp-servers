@@ -212,3 +212,31 @@ describe("Codex native configuration", () => {
     expect(() => generateClientConfig(entry, "cursor")).not.toThrow();
   });
 });
+
+describe("independent placeholder configs", () => {
+  it.each(["claude", "cursor", "codex", "vscode"] as const)(
+    "returns fresh placeholder objects and argument arrays for %s", (client) => {
+      const first = generateClientConfig(createEntry(), client).config.mcpServers["github-owner-demo"];
+      const second = generateClientConfig(createEntry({ id: "another-server" }), client).config.mcpServers["another-server"];
+      expect(first).not.toBe(second);
+      if (!("args" in first) || !("args" in second)) throw new Error("Expected stdio placeholders");
+      expect(first.args).not.toBe(second.args);
+      expect(second).toEqual({ command: "<command>", args: ["<args>"] });
+    });
+
+  it("does not leak a caller's edits into later configurations", () => {
+    const first = generateClientConfig(createEntry(), "cursor").config.mcpServers["github-owner-demo"];
+    if (!("command" in first)) throw new Error("Expected a stdio placeholder");
+    try {
+      first.command = "custom-server";
+      first.args.push("--custom-option");
+      const later = generateClientConfig(createEntry({ id: "later-server" }), "claude");
+      expect(later.config.mcpServers["later-server"]).toEqual({
+        command: "<command>", args: ["<args>"],
+      });
+    } finally {
+      first.command = "<command>";
+      first.args.splice(0, first.args.length, "<args>");
+    }
+  });
+});

@@ -27,11 +27,6 @@ type ServerConfig =
       url: string;
     };
 
-const PLACEHOLDER_CONFIG: ServerConfig = {
-  command: "<command>",
-  args: ["<args>"],
-};
-
 export const generateClientConfig = (
   entry: CatalogEntry,
   client: ClientName
@@ -113,7 +108,7 @@ const buildServerConfig = (entry: CatalogEntry): ServerConfig => {
     };
   }
 
-  return PLACEHOLDER_CONFIG;
+  return { command: "<command>", args: ["<args>"] };
 };
 
 const buildNotes = (entry: CatalogEntry): string[] => {
@@ -233,3 +228,4 @@ const splitCommand = (command: string): string[] => {
 
   return parts;
 };
+
