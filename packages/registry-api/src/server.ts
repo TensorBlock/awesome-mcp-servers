@@ -1,6 +1,7 @@
 import { createServer, type IncomingMessage, type ServerResponse } from "node:http";
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
+import { fileURLToPath } from "node:url";
 import type { CatalogEntry, AuthType, Transport } from "../../catalog-builder/src/types.js";
 import {
   generateClientConfig,
@@ -412,7 +413,7 @@ const isDirectRun = (): boolean => {
     return false;
   }
 
-  return import.meta.url === new URL(`file://${resolve(process.argv[1])}`).href;
+  return fileURLToPath(import.meta.url) === resolve(process.argv[1]);
 };
 
 if (isDirectRun()) {
@@ -431,3 +432,4 @@ function isNodeFileNotFoundError(error: unknown): error is NodeJS.ErrnoException
     && "code" in error
     && (error as NodeJS.ErrnoException).code === "ENOENT";
 }
+
