@@ -1,10 +1,11 @@
-import { readFileSync } from "node:fs";
+import { readFileSync, readdirSync } from "node:fs";
 import { createRequire } from "node:module";
 import { describe, expect, it } from "vitest";
 import type { FormatsPlugin } from "ajv-formats";
 import { Ajv2020 as Ajv } from "ajv/dist/2020.js";
 import { buildCatalogFromMarkdown } from "../src/buildCatalog.js";
 import { slugFromUrl } from "../src/parseMarkdown.js";
+import { readMetadataSidecars } from "../src/metadata.js";
 
 const require = createRequire(import.meta.url);
 const addFormats = require("ajv-formats") as FormatsPlugin;
@@ -384,5 +385,52 @@ describe("buildCatalogFromMarkdown", () => {
 
     expect(validate(result.entries[0])).toBe(true);
     expect(validate.errors).toBeNull();
+  });
+});
+
+describe("repository links are not inferred endpoints", () => {
+  it.each([
+    "https://github.com/owner/mcp",
+    "https://github.com/owner/repo/tree/main/packages/mcp",
+    "https://github.com/owner/repo/blob/main/docs/mcp",
+    "https://www.github.com/owner/mcp",
+    "https://GITHUB.COM/owner/sse",
+    "https://github.com/owner/repo/tree/main/api/mcp",
+  ])("keeps the GitHub documentation URL %s out of endpoint metadata", (url) => {
+    const markdown = "## Experimental\n- [Demo](https://example.com/demo): See " + url + " for documentation.";
+    expect(buildCatalogFromMarkdown(markdown, new Map()).entries[0].links.endpoint).toBeNull();
+  });
+
+  it.each([
+    "https://mcp.example.com",
+    "https://example.com/api/mcp",
+    "https://owner.github.io/mcp",
+    "https://gitlab.com/api/v4/mcp",
+  ])("preserves the endpoint candidate %s", (url) => {
+    const markdown = "## Experimental\n- [Demo](https://example.com/demo): Endpoint: " + url;
+    expect(buildCatalogFromMarkdown(markdown, new Map()).entries[0].links.endpoint).toBe(url);
+  });
+
+  it("continues to apply explicit sidecar endpoint overrides", () => {
+    const project = "https://example.com/demo";
+    const markdown = "## Experimental\n- [Demo](" + project + "): See https://github.com/owner/mcp.";
+    const metadata = new Map([[slugFromUrl(project), { links: { endpoint: "https://github.com/owner/mcp" } }]]);
+    expect(buildCatalogFromMarkdown(markdown, new Map(), metadata).entries[0].links.endpoint)
+      .toBe("https://github.com/owner/mcp");
+  });
+
+  it("corrects the three inferred GitHub endpoints in the current catalog", () => {
+    const docs = new Map(readdirSync("docs").filter(file => file.endsWith(".md"))
+      .map(file => ["docs/" + file, readFileSync("docs/" + file, "utf8")]));
+    const entries = buildCatalogFromMarkdown("", docs, readMetadataSidecars()).entries;
+    for (const id of [
+      "zop-dev-learn-mcp-server-be6edc57",
+      "github-chddaniel-chatpack-06dd9a45",
+      "github-semgrep-mcp-32f573c8",
+    ]) {
+      const entry = entries.find(item => item.id === id);
+      expect(entry).toBeDefined();
+      expect(entry!.links.endpoint).toBeNull();
+    }
   });
 });

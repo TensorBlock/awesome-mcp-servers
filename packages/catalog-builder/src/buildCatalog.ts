@@ -420,6 +420,8 @@ function looksLikeRemoteEndpoint(url: string): boolean {
     const hostname = parsed.hostname.toLowerCase().replace(/^www\./, "");
     const pathname = parsed.pathname.toLowerCase().replace(/\/+$/, "");
 
+    if (hostname === "github.com") return false;
+
     return (
       hostname.startsWith("mcp.") ||
       hostname.startsWith("sse.") ||
@@ -435,3 +437,4 @@ function looksLikeRemoteEndpoint(url: string): boolean {
     return false;
   }
 }
+
