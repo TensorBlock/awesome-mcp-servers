@@ -56,6 +56,22 @@ const entry: CatalogEntry = {
 };
 
 describe("renderServerProfilePage", () => {
+  it("shows publisher authentication setup beside generated install links and escapes note content", () => {
+    const html = renderServerProfilePage({
+      ...entry,
+      auth: {
+        type: "bearer",
+        notes: ["Set Authorization: Bearer <your workspace API key>.", "<script>notExecutable()</script>"],
+      },
+    });
+    const installSection = html.split("<h2>Install Metadata</h2>")[1].split("</section>")[0];
+    expect(installSection).toContain("Authentication setup");
+    expect(installSection).toContain("Set Authorization: Bearer &lt;your workspace API key&gt;.");
+    expect(installSection).toContain("&lt;script&gt;notExecutable()&lt;/script&gt;");
+    expect(installSection).not.toContain("<script>notExecutable()</script>");
+    expect(installSection).toContain("Generated configs");
+  });
+
   it("labels the Codex destination and links to copyable TOML", () => {
     const html = renderServerProfilePage(entry);
     expect(html).toContain('install-config?client=codex&amp;format=toml">Codex (config.toml)</a>');

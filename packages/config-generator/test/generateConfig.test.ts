@@ -60,6 +60,21 @@ const createEntry = (overrides: Partial<CatalogEntry> = {}): CatalogEntry => ({
 });
 
 describe("generateClientConfig", () => {
+  it("surfaces the actual AppStruct remote authentication instructions without inventing credentials", () => {
+    const path = "docs/social-media--content-platforms.md";
+    const result = buildCatalogFromMarkdown("", new Map([[path, readFileSync(path, "utf8")]]), readMetadataSidecars());
+    const entry = result.entries.find(entry => entry.id === "appstruct-ai-social-39262045")!;
+    expect(entry.auth.type).toBe("bearer");
+    expect(entry.auth.notes.length).toBeGreaterThan(0);
+    const generated = generateClientConfig(entry, "cursor");
+    expect(generated.notes).toEqual(expect.arrayContaining(entry.auth.notes));
+    expect(generated.notes.join(" ")).toContain("Set Authorization: Bearer");
+    expect(generated.notes.join(" ")).toContain("does not configure the required header");
+    expect(generated.config.mcpServers[entry.id]).toEqual({ url: "https://api.appstruct.ai/v1/social/mcp" });
+    expect(generated.confidence).toBe("low");
+    expect(entry.installReady).toBe(false);
+  });
+
   it.each(["localcloud", "lc", "/opt/homebrew/bin/localcloud", "/home/linuxbrew/.linuxbrew/bin/localcloud"])("recognizes %s mcp as a stdio launch command", (command) => {
     const entry = createEntry({ install: { commands: [`${command} mcp`], env: [], confidence: "high" } });
     expect(generateClientConfig(entry, "cursor").config.mcpServers[entry.id]).toEqual({command, args: ["mcp"]});

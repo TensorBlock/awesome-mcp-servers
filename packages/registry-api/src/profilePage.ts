@@ -270,6 +270,8 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
         <dd>${installCommands}</dd>
         <dt>Environment</dt>
         <dd>${envVars}</dd>
+        ${entry.auth.notes.length > 0 ? `<dt>Authentication setup</dt>
+        <dd>${renderInlineValues(entry.auth.notes, "")}</dd>` : ""}
         <dt>Generated configs</dt>
         <dd>${CLIENTS.map((client) => `<a href="/v1/servers/${encodeURIComponent(entry.id)}/install-config?client=${client}${client === "codex" ? "&amp;format=toml" : ""}">${client === "codex" ? "Codex (config.toml)" : client}</a>`).join(" · ")}</dd>
       </dl>

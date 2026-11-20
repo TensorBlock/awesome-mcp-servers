@@ -129,6 +129,8 @@ const buildNotes = (entry: CatalogEntry): string[] => {
     notes.push(`Authentication type: ${entry.auth.type}.`);
   }
 
+  notes.push(...entry.auth.notes);
+
   if (entry.install.commands.length > 0 && !findLaunchCommand(entry.install.commands)) {
     notes.push("Install commands look like setup steps; provide the server launch command before use.");
   }
