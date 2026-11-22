@@ -2,6 +2,7 @@
 
 Servers interacting with social networks, content platforms, or feed aggregators.
 
+- [Fiko](https://github.com/omidlog/fiko-mcp): Connect an AI assistant to a Fiko workspace to run Instagram, WhatsApp and Telegram business: inbox and CRM, AI replies, workflows, bookings, link-in-bio pages, scheduled publishing and Instagram insights. About 160 tools. Hosted Streamable HTTP at `https://api.fiko.net/mcp` with OAuth 2.1 (PKCE, Client ID Metadata Documents or Dynamic Client Registration). Official MCP Registry id `net.fiko/fiko`. Docs: https://api.fiko.net/mcp/docs. Published by Fiko AI Labs. Website: https://fiko.io
 - [Posty: Social Media Scheduler](https://github.com/norbertlevente/posty-agent): Write, schedule and publish posts to 20 social platforms (Facebook, Instagram, X, LinkedIn, TikTok, YouTube, Threads, Bluesky, Pinterest, Mastodon, Tumblr, WordPress, Telegram, Discord, Slack and more) with a content calendar and full-quality photo and video uploads. Hosted Streamable HTTP at `https://api.posty.hu/mcp-oauth` with OAuth 2.1 browser sign-in (dynamic client registration, no API key); a Posty account is needed (free trial). Docs: https://posty.hu/en/docs/mcp. Not related to posty.social.
 - [TryPost](https://github.com/trypostit/trypost): Run your social media on autopilot with AI agents. Your agent plans, writes and schedules posts across 13 networks, with approvals and analytics. Open source. Hosted Streamable HTTP at `https://app.trypost.it/mcp/trypost` with OAuth. PHP. Website: https://trypost.it
 
