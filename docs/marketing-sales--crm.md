@@ -2,6 +2,7 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [RuMCP](https://github.com/babang1da/rumcp): Hosted MCP server for the Yandex marketing stack: read Yandex Metrika and Webmaster data from Claude, ChatGPT or Cursor via Yandex OAuth (Wordstat and Direct planned). Remote endpoint: `https://rumcp.212-108-82-65.sslip.io/mcp`.
 - [AgentSEO](https://github.com/AgentSEO-dev/agentseo-clients): SEO intelligence tools for SERPs, keyword research, backlinks, rank tracking, content planning and site audits. Install: `npx -y @agentseo/mcp-server@0.1.5`. Transport: stdio; hosted Streamable HTTP at `https://www.agentseo.dev/mcp`. Auth: API key; local client uses `AGENTSEO_API_KEY`, hosted requests use `x-api-key` or `Authorization: Bearer`. Requires an AgentSEO account and usage credits. Clients: Claude Desktop and Cursor. License: MIT for the npm client. [MCP documentation](https://github.com/AgentSEO-dev/agentseo-clients/tree/main/packages/mcp-server).
 
 - [ASOClimb (com.asoclimb/aso)](https://asoclimb.com/docs/mcp): App Store and Google Play keyword research, daily rank tracking, competitor keyword gaps, charts and niche analysis for indie apps (49 tools). Hosted Streamable HTTP at `https://asoclimb.com/mcp`; OAuth 2.1 with PKCE and dynamic client registration, or a Bearer API key from Account → Developer. Free plan available. Official MCP Registry id `com.asoclimb/aso`. Proprietary hosted service.
