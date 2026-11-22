@@ -2,6 +2,8 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast): Zero-dependency local Stdio MCP plugin for Google Antigravity (CLI, Desktop 2.0, IDE) that batches concurrent searches, 15-language symbol outlines, atomic multi-file edits with inline verification, and parallel build/lint/test runs under a strict `≤8.8 KB` inline response cap to reduce LLM turns and token quota. Install: `curl -fsSL https://raw.githubusercontent.com/INK-Q/agy-fast/main/install.sh | sh` (macOS/Linux) or `irm https://raw.githubusercontent.com/INK-Q/agy-fast/main/install.ps1 | iex` (Windows). Transport: stdio (Node.js >= 20). Auth: none. Tools: `batch_search`, `quick_outline`, `read_slices`, `apply_edits`, `run_checks`. License: MIT.
+
 - [MeetJSON](https://meetjson.com): Extract AST code skeletons, prune large JSON/data payloads, and repair broken JSON streams at the edge to reduce LLM context token usage by 60-99%. Endpoint: `https://api.meetjson.com/mcp` (SSE: `https://api.meetjson.com/sse`). Transport: streamable-http, sse. Auth: Open or Bearer API key. Tools: `meetjson_process`, `meetjson_state`. Free tier available.
 
 - [OneSimpleAPI](https://onesimpleapi.com/docs/mcp): Generate PDFs, capture screenshots, convert and optimize images, create QR codes, and use web and data utilities. Endpoint: `https://onesimpleapi.com/mcp`. Transport: streamable-http. Auth: OAuth or Bearer API key. A OneSimpleAPI account is required; API usage is metered.
