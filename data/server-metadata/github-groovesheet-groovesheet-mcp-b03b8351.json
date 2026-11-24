@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-groovesheet-groovesheet-mcp-b03b8351",
+  "source": {
+    "issue": 6810,
+    "projectUrl": "https://github.com/groovesheet/groovesheet-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.groovesheet.net/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT (repo); the server is hosted"
+}
