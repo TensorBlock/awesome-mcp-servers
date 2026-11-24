@@ -247,3 +247,4 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Travel & Transportation | 51 | [Browse](docs/travel--transportation.md) |
 | Utilities & Helpers | 357 | [Browse](docs/utilities--helpers.md) |
 | Version Control | 78 | [Browse](docs/version-control.md) |
+- **[AQX Logistics Shipping Rates](https://github.com/AQXLOGISTICS/aqx-shipping-rates-mcp)** - Real-time international air freight quotes, volumetric weight calculation (`L×W×H / 5000`), and customs de minimis lookup across 15 trade corridors via the public [AQX Logistics API](https://aqxlogistics.com/developers).
