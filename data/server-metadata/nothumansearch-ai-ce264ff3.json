@@ -14,5 +14,9 @@
     "commands": [],
     "env": [],
     "confidence": "medium"
+  },
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "source": {
+    "projectUrl": "https://nothumansearch.ai"
   }
 }
