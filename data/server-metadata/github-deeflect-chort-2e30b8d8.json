@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-deeflect-chort-2e30b8d8",
+  "source": {
+    "issue": 6848,
+    "projectUrl": "https://github.com/deeflect/chort"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor"
+  ],
+  "license": "unknown"
+}

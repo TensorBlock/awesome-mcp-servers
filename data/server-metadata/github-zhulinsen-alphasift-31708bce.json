@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-zhulinsen-alphasift-31708bce",
+  "source": {
+    "issue": 6797,
+    "projectUrl": "https://github.com/ZhuLinsen/alphasift"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "GEMINI_API_KEY",
+      "DEEPSEEK_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "OpenClaw"
+  ],
+  "license": "Apache-2.0"
+}
