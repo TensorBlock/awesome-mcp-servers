@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ai-chili-aichili-63bdfae9",
+  "source": {
+    "projectUrl": "https://github.com/AI-Chili/aichili"
+  },
+  "description": "Zero-dependency CLI and MCP server for AI video and talking-avatar generation, live model discovery, dry-run credit quoting, and PAYG cost estimation.",
+  "category": "Multimedia Processing",
+  "links": {
+    "repo": "https://github.com/AI-Chili/aichili",
+    "docs": "https://aichili.ai/developers",
+    "homepage": "https://aichili.ai",
+    "endpoint": "https://aichili.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http aichili https://aichili.ai/mcp",
+      "npx -y --package=github:AI-Chili/aichili aichili-mcp"
+    ],
+    "env": [
+      "AICHILI_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Read-only discovery and cost estimation tools (platform_overview, list_video_models, estimate_video_cost) require no authentication.",
+      "Wallet balance, dry-run quote planning, and video generation tools require a chili_sk_* Bearer API key (AICHILI_API_KEY)."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "Gemini CLI",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 7,
+    "names": [
+      "platform_overview",
+      "list_video_models",
+      "estimate_video_cost",
+      "get_credit_balance",
+      "plan_video_generation",
+      "create_video_generation",
+      "get_video_generation"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}
