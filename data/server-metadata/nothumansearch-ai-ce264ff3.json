@@ -1,0 +1,22 @@
+{
+  "id": "nothumansearch-ai-ce264ff3",
+  "links": {
+    "homepage": "https://nothumansearch.ai",
+    "endpoint": "https://nothumansearch.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "source": {
+    "projectUrl": "https://nothumansearch.ai"
+  }
+}
