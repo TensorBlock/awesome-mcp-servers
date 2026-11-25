@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "maximem-ai-vity-0fbf09cb",
+  "source": {
+    "issue": 6778,
+    "projectUrl": "https://www.maximem.ai/vity"
+  },
+  "links": {
+    "endpoint": "https://vity-mcp.maximem.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx @maximem/vity"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Gemini",
+    "Cursor",
+    "Claude Code",
+    "Codex"
+  ],
+  "license": "Hosted service (closed source, free to use). Setup CLI @maximem/vity is MIT."
+}
