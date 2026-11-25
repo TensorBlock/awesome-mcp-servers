@@ -6,7 +6,7 @@
     "projectUrl": "https://github.com/foreclosuredatahub/foreclosuredatahub-mcp"
   },
   "links": {
-    "endpoint": "https://www.foreclosuredatahub.com/mcp"
+    "endpoint": "https://www.foreclosuredatahub.com/api/mcp"
   },
   "install": {
     "commands": [],
