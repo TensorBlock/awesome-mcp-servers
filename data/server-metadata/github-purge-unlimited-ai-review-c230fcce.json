@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-purge-unlimited-ai-review-c230fcce",
+  "source": {
+    "issue": 6865,
+    "projectUrl": "https://github.com/purge-unlimited/ai-review"
+  },
+  "install": {
+    "commands": [
+      "node server.js"
+    ],
+    "env": [
+      "AI_REVIEW_CLOUD_BASE_URL",
+      "AI_REVIEW_CLOUD_API_KEY",
+      "AI_REVIEW_LOCAL_BASE_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Desktop",
+    "Cursor",
+    "any MCP stdio client"
+  ],
+  "license": "MIT"
+}
