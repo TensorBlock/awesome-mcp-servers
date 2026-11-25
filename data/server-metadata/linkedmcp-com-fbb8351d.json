@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "linkedmcp-com-fbb8351d",
+  "source": {
+    "issue": 6792,
+    "projectUrl": "https://linkedmcp.com"
+  },
+  "links": {
+    "endpoint": "https://mcp.linkedmcp.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web",
+    "desktop",
+    "Claude Code)",
+    "ChatGPT"
+  ],
+  "license": "Proprietary (hosted service)"
+}
