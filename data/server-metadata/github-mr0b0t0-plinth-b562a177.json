@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mr0b0t0-plinth-b562a177",
+  "source": {
+    "issue": 6805,
+    "projectUrl": "https://github.com/mr0b0t0/plinth"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @mr0b0t0 in #6805 under the community profile-claim process.",
+      "Requested profile metadata in #6805: Category: Developer Productivity & Utilities Transport: streamable-http Auth: oauth Install confidence: medium License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@mr0b0t0"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-deeflect-genvas-27c85555",
+  "source": {
+    "issue": 6849,
+    "projectUrl": "https://github.com/deeflect/genvas"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor"
+  ],
+  "license": "unknown"
+}
