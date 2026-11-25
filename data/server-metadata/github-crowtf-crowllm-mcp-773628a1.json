@@ -7,13 +7,10 @@
   },
   "install": {
     "commands": [
-      "npx -y crowllm-mcp"
+      "npx -y crowllm-mcp",
+      "npx -y github:crowtf/crowllm-mcp#v0.1.2"
     ],
     "env": [
-      "CROWLLM_API_KEY` (chat only",
-      "secret)",
-      "CROWLLM_BASE_URL` (optional",
-      "defaults to https://crowllm.com)",
       "CROWLLM_API_KEY",
       "CROWLLM_BASE_URL"
     ],
@@ -25,7 +22,7 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key — CROWLLM_API_KEY is required only for the `chat` tool; `search_models` and `get_pricing` are keyless"
+      "api-key \u2014 CROWLLM_API_KEY is required only for the `chat` tool; `search_models` and `get_pricing` are keyless"
     ]
   },
   "clients": [
@@ -52,7 +49,15 @@
     "status": "self_reported",
     "notes": [
       "published as npm `crowllm-mcp@0.1.2`; official MCP registry `io.github.crowtf/crowllm-mcp` v0.1.2, status active",
-      "Metadata updated from issue #6838. Source: - npm: https://www.npmjs.com/package/crowllm-mcp - Registry: https://registry.modelcontextprotocol.io/v0/servers?search=io.github.crowtf/crowllm-mcp - README tool table: https://github.com/crowtf/crowllm-mcp#tools"
+      "Metadata updated from issue #6838. Source: - npm: https://www.npmjs.com/package/crowllm-mcp - Registry: https://registry.modelcontextprotocol.io/v0/servers?search=io.github.crowtf/crowllm-mcp - README tool table: https://github.com/crowtf/crowllm-mcp#tools",
+      "Profile claimed by @crowtf in #6807 under the community profile-claim process."
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@crowtf"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }
