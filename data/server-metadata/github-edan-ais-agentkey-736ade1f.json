@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-edan-ais-agentkey-736ade1f",
+  "source": {
+    "issue": 6882,
+    "projectUrl": "https://github.com/edan-ais/agentkey"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Install: npx tryagentkey Package: https://www.npmjs.com/package/tryagentkey Homepage: https://agentkey.waiwiser.com"
+    ]
+  }
+}
