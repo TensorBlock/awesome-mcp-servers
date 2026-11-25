@@ -195,6 +195,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [Ilya1991/ff-mcp-clickhouse](https://github.com/Ilya1991/ff-mcp-clickhouse): Facilitates SQL query execution and database management on ClickHouse clusters with secure configurations.
 - [Zhwt/go-mcp-mysql](https://github.com/Zhwt/go-mcp-mysql): Effortlessly manage MySQL databases with a Go-based MCP server, offering CRUD operations and query plan checks without the need for Node.js or Python.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase): Database governance platform with built-in MCP server supporting 20+ mainstream databases.
+- [bytebase/bytebase-mcp](https://github.com/bytebase/bytebase-mcp): Official MCP server for Bytebase. Runs locally over stdio and lets AI assistants query data, inspect schemas and propose database changes through a Bytebase instance, under its approval flow, access control, data masking and audit logging.
 - [bytebase/dbhub](https://github.com/bytebase/dbhub): DBHub serves as a universal database gateway, enabling seamless MCP client connections to various databases like MySQL, PostgreSQL, SQL Server, MariaDB, and SQLite.
 - [FarukNetworks/mcp-mssql](https://github.com/FarukNetworks/mcp-mssql): Facilitates seamless integration of MSSQL databases with MCP server capabilities for enhanced data management.
 - [alexcc4/mcp-mysql-server](https://github.com/alexcc4/mcp-mysql-server): Facilitates secure AI-driven interactions with MySQL databases, enabling table listing, schema retrieval, and read-only SQL execution.

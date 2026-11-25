@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-maxtechera-hushdrop-ab87b876",
+  "source": {
+    "issue": 6815,
+    "projectUrl": "https://github.com/maxtechera/hushdrop"
+  },
+  "links": {
+    "endpoint": "https://hushdrop.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "MIT"
+}
