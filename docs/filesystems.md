@@ -2,6 +2,7 @@
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
 
+- [Tarkle](https://github.com/tarkleHQ/tarkle-mcp-server): Hosted MCP server to upload, store and organize team files and folders, share files, and request documents from your team, clients and partners on your own domain. Connect to `https://mcp.tarkle.tech/mcp` using Streamable HTTP and sign in with a Tarkle account via OAuth 2.1; no API key needed. 102 tools. Apache-2.0. [Documentation](https://tarkle.tech/docs/mcp). Official MCP Registry: `tech.tarkle/tarkle`. The public repository contains client setup instructions; the hosted service is maintained separately.
 - [ctxd-dev/ctxd](https://github.com/ctxd-dev/ctxd) - Open-source context infrastructure with a local MCP bridge for path inspection and bounded source reads.
 - [us-all/google-drive-mcp-server](https://github.com/us-all/google-drive-mcp-server) - Google Drive + Workspace MCP server with 98 tools across Docs, Sheets, Slides, Shared Drives, Labels, and Approvals. OAuth2 / Service Account + Domain-Wide Delegation auth.
 - [raullenchai/vnsh-mcp](https://github.com/raullenchai/vnsh/tree/main/mcp): Ephemeral encrypted file sharing for AI workflows. Client-side AES-256 encryption with 24h auto-vaporization. Read vnsh URLs and share large outputs securely.
