@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "variafy-com-d2ec00c2",
+  "source": {
+    "issue": 6783,
+    "projectUrl": "https://www.variafy.com"
+  },
+  "links": {
+    "endpoint": "https://www.variafy.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Gemini CLI"
+  ],
+  "license": "Proprietary (hosted service)"
+}
