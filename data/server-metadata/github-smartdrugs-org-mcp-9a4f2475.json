@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-smartdrugs-org-mcp-9a4f2475",
+  "source": {
+    "issue": 6836,
+    "projectUrl": "https://github.com/smartdrugs-org/mcp"
+  },
+  "links": {
+    "endpoint": "https://smartdrugs.com.br/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any client with remote MCP over Streamable HTTP (Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI",
+    "ChatGPT developer mode)"
+  ],
+  "license": "MIT (docs and manifests; the hosted service is run by SmartDrugs)"
+}
