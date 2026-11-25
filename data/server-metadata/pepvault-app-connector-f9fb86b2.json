@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "pepvault-app-connector-f9fb86b2",
+  "source": {
+    "issue": 6788,
+    "projectUrl": "https://pepvault.app/connector"
+  },
+  "links": {
+    "endpoint": "https://pepvault.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude (custom connector)",
+    "any client that takes a remote Streamable HTTP server"
+  ],
+  "license": "Proprietary hosted service; no source repository"
+}

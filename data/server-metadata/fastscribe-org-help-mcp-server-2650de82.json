@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "fastscribe-org-help-mcp-server-2650de82",
+  "source": {
+    "issue": 6867,
+    "projectUrl": "https://fastscribe.org/help/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://fastscribe.org/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor and other clients that support remote Streamable HTTP servers with bearer authentication."
+  ],
+  "license": "Proprietary hosted service."
+}
