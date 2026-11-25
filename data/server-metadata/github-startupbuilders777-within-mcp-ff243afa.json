@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-startupbuilders777-within-mcp-ff243afa",
+  "source": {
+    "issue": 6774,
+    "projectUrl": "https://github.com/startupbuilders777/within-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @startupbuilders777 in #6774 under the community profile-claim process.",
+      "Requested profile metadata in #6774: Category: Commerce / shopping Transport: streamable-http (https://shopwithin.co/mcp) Auth: none (public, read only) Install confidence: high License: MIT Verification: official MCP registry, co.shopwithin/within..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@startupbuilders777"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
