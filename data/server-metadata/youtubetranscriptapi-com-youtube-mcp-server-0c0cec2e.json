@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "youtubetranscriptapi-com-youtube-mcp-server-0c0cec2e",
+  "source": {
+    "issue": 6818,
+    "projectUrl": "https://youtubetranscriptapi.com/youtube-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://youtubetranscriptapi.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web",
+    "desktop",
+    "Claude Code)",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "n8n"
+  ],
+  "license": "Proprietary (hosted service)"
+}

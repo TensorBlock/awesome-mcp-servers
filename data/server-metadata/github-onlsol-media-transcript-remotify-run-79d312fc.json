@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-onlsol-media-transcript-remotify-run-79d312fc",
+  "source": {
+    "issue": 6776,
+    "projectUrl": "https://github.com/onlsol/media-transcript.remotify.run"
+  },
+  "install": {
+    "commands": [
+      "npx -y media-transcript-mcp@latest"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex CLI",
+    "Gemini CLI",
+    "OpenCode V2"
+  ],
+  "license": "Apache-2.0"
+}
