@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "aiprocurement-club-agent-services-for-agents-91965a9f",
+  "source": {
+    "issue": 6812,
+    "projectUrl": "https://aiprocurement.club/agent-services/for-agents"
+  },
+  "links": {
+    "endpoint": "https://mcp.aiprocurement.club/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "AGENT_SERVICES_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "VS Code"
+  ]
+}
