@@ -31,5 +31,19 @@
     "Cherry Studio",
     "LibreChat"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @crowtf in #6807 under the community profile-claim process.",
+      "Requested profile metadata in #6807: Category: AI & LLM Integration Transport: stdio Auth: api-key Install confidence: medium License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@crowtf"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
