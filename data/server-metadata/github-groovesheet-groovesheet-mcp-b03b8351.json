@@ -6,14 +6,16 @@
     "projectUrl": "https://github.com/groovesheet/groovesheet-mcp"
   },
   "links": {
-    "endpoint": "https://api.groovesheet.net/mcp"
+    "endpoint": "https://api.groovesheet.net/mcp/public"
   },
   "transport": [
     "streamable-http"
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Public endpoint requires no authentication; signed-in endpoint https://api.groovesheet.net/mcp uses OAuth 2.1."
+    ]
   },
   "clients": [
     "Claude",
