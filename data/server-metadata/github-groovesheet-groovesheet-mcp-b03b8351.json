@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-groovesheet-groovesheet-mcp-b03b8351",
+  "source": {
+    "issue": 6810,
+    "projectUrl": "https://github.com/groovesheet/groovesheet-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.groovesheet.net/mcp/public"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Public endpoint requires no authentication; signed-in endpoint https://api.groovesheet.net/mcp uses OAuth 2.1."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT (repo); the server is hosted"
+}
