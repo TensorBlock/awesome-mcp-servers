@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "moonbase-cloud-docs-deploy-from-ai-chat-5fd932d2",
+  "source": {
+    "issue": 6947,
+    "projectUrl": "https://moonbase.cloud/docs/deploy-from-ai-chat"
+  },
+  "links": {
+    "endpoint": "https://app.moonbase.cloud/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code with GitHub Copilot",
+    "Gemini CLI",
+    "Devin Desktop (setup guides exist for these)"
+  ],
+  "license": "Proprietary hosted service"
+}
