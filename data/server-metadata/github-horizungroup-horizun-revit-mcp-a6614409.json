@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-horizungroup-horizun-revit-mcp-a6614409",
+  "source": {
+    "issue": 6976,
+    "projectUrl": "https://github.com/HorizunGroup/horizun-revit-mcp"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop (.mcpb extension)",
+    "Codex",
+    "Cursor",
+    "Cline",
+    "Windsurf"
+  ],
+  "license": "Apache-2.0"
+}
