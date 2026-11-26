@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "validemailcollector-com-extract-any-mail-ultimate-8070bc46",
+  "source": {
+    "issue": 6989,
+    "projectUrl": "https://validemailcollector.com/extract-any-mail-ultimate"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
