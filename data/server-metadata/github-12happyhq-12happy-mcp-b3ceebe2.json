@@ -6,7 +6,9 @@
     "projectUrl": "https://github.com/12happyhq/12happy-mcp"
   },
   "install": {
-    "commands": [],
+    "commands": [
+      "npx -y 12happy-mcp"
+    ],
     "env": [
       "TWELVEHAPPY_API_KEY"
     ],
