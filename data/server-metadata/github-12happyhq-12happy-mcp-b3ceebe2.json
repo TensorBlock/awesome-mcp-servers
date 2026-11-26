@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-12happyhq-12happy-mcp-b3ceebe2",
+  "source": {
+    "issue": 6915,
+    "projectUrl": "https://github.com/12happyhq/12happy-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y 12happy-mcp"
+    ],
+    "env": [
+      "TWELVEHAPPY_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}

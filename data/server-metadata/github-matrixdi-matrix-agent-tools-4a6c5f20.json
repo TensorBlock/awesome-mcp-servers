@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-matrixdi-matrix-agent-tools-4a6c5f20",
+  "source": {
+    "issue": 6960,
+    "projectUrl": "https://github.com/matrixdi/matrix-agent-tools"
+  },
+  "links": {
+    "endpoint": "https://agents.matrixdigitalltd.com/v1/agent/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Third-party client-specific certification is pending."
+  ],
+  "license": "Proprietary hosted service."
+}
