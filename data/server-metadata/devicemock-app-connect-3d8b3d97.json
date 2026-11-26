@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "npx -y devicemock mcp (stdio)"
+      "npx -y devicemock mcp"
     ],
     "env": [],
     "confidence": "medium"
