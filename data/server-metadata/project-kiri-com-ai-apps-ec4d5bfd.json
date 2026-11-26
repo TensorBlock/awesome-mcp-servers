@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "project-kiri-com-ai-apps-ec4d5bfd",
+  "source": {
+    "issue": 6941,
+    "projectUrl": "https://project-kiri.com/ai-apps"
+  },
+  "links": {
+    "endpoint": "https://api.project-kiri.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "ChatGPT (custom MCP server)",
+    "Claude (custom connector)"
+  ],
+  "license": "Hosted service, not open source"
+}
