@@ -2,6 +2,7 @@
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [Storyledger](https://github.com/rowhousesoftware/storyledger): Checks book chapters against a novelist's story notes. Finds facts and builds a timeline. First 3 chapters free. Remote endpoint: `https://ledger.rowhousesoftware.com/mcp` (Streamable HTTP, OAuth 2.1). 5 tools. Site: https://ledger.rowhousesoftware.com
 - [DocuSense](https://github.com/hksharma2004/docu-sense): Lets an agent read local PDF, DOCX, HTML and Markdown files by section and claim, with SHA-256 verified citations, version diffs, blame and cross-document contradiction checks. Runs locally on embedded SQLite. Install: `uvx docusense-mcp`.
 - [Job-o-Matic](https://github.com/JR91387/jobomatic-reusme-skills-database): Local career database your AI keeps current and writes résumés, cover letters and interview answers from. SQLite + MCP, MIT. Install: `uvx job-o-matic-mcp`.
 - [Muralnick/sugo](https://github.com/Muralnick/sugo): Local, offline MCP server that converts PDFs, scans, screenshots and Office files into compact Markdown for an agent, with built-in OCR. Read-only tools: `convert_document`, `estimate_savings` (2). Reads only the folders passed with `--root`; no network access at conversion time. Install: `uvx sugo-cli mcp --root <folder>`. Transport: stdio; no auth. Python, Linux, macOS, Windows. AGPL-3.0. Official MCP Registry id: `io.github.Muralnick/sugo`.
