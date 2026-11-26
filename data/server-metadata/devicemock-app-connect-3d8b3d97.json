@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "devicemock-app-connect-3d8b3d97",
+  "source": {
+    "issue": 6911,
+    "projectUrl": "https://devicemock.app/connect"
+  },
+  "install": {
+    "commands": [
+      "npx -y devicemock mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "other MCP clients"
+  ],
+  "license": "Proprietary"
+}
