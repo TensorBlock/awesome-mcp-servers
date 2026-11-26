@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ymcbzrgn-engineering-corpus-51da2f09",
+  "source": {
+    "issue": 6934,
+    "projectUrl": "https://github.com/ymcbzrgn/engineering-corpus"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Cursor",
+    "any MCP client"
+  ],
+  "license": "MIT"
+}
