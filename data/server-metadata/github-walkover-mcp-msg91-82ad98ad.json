@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-walkover-mcp-msg91-82ad98ad",
+  "source": {
+    "issue": 6997,
+    "projectUrl": "https://github.com/walkover-mcp/msg91"
+  },
+  "links": {
+    "endpoint": "https://mcp.msg91.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "any MCP client with Streamable HTTP + OAuth (e.g. Claude Code",
+    "Cline)"
+  ]
+}
