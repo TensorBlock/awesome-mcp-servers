@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "wimsta-com-0502105d",
+  "source": {
+    "issue": 6968,
+    "projectUrl": "https://wimsta.com"
+  },
+  "links": {
+    "endpoint": "https://wimsta.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y wimsta-mcp",
+      "wimsta-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Tested with MCP Inspector CLI",
+    "the official MCP TypeScript SDK client",
+    "and Cline's MCP manager (`@cline/core`)"
+  ],
+  "license": "MIT"
+}
