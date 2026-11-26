@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nstdata-ai-nstdata-mcp-server-8db8a157",
+  "source": {
+    "issue": 6965,
+    "projectUrl": "https://github.com/nstdata-ai/nstdata-mcp-server"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @nstdata-dev in #6965 under the community profile-claim process.",
+      "Requested profile metadata in #6965: Maintainer: nstdata-dev Category: Browser Automation & Web Scraping License: MIT Docs URL: https://github.com/nstdata-ai/nstdata-mcp-server#readme Support URL: https://github.com/nstdata-ai/nstdata-mcp-server/issues..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@nstdata-dev"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
