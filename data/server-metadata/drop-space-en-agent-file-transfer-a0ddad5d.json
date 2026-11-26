@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "drop-space-en-agent-file-transfer-a0ddad5d",
+  "source": {
+    "issue": 6909,
+    "projectUrl": "https://drop.space/en/agent-file-transfer/"
+  },
+  "links": {
+    "docs": "https://drop.space/en/agent-file-transfer/",
+    "endpoint": "https://drop.space/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "DROP_TOKEN"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer. Configure the Authorization header locally with your own token from DROP MCP setup."
+    ]
+  },
+  "clients": [
+    "Cursor",
+    "VS Code",
+    "Claude Code"
+  ],
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #6909. Source: The public Agent guide documents client setup, the personal token requirement, and the DROP_TOKEN variable used in its examples. https://drop.space/en/agent-file-transfer/#desktop-or-remote-mcp"
+    ]
+  }
+}
