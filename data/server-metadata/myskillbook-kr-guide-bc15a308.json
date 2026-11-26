@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "myskillbook-kr-guide-bc15a308",
+  "source": {
+    "issue": 6986,
+    "projectUrl": "https://myskillbook.kr/guide"
+  },
+  "links": {
+    "endpoint": "https://myskillbook.kr/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Gemini"
+  ],
+  "license": "proprietary (hosted service, source not public)"
+}
