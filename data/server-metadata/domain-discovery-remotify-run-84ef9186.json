@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "domain-discovery-remotify-run-84ef9186",
+  "source": {
+    "issue": 6901,
+    "projectUrl": "https://domain-discovery.remotify.run"
+  },
+  "links": {
+    "endpoint": "https://domain-discovery.remotify.run/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y domain-discovery-mcp@latest"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex CLI",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Apache-2.0 (npm connector)"
+}
