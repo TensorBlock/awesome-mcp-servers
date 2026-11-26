@@ -2,6 +2,8 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [cocaxcode/api-testing-mcp](https://github.com/cocaxcode/api-testing-mcp): Test HTTP APIs with assertions, authenticated request flows, OpenAPI import, load testing, and Postman collection import/export. Install: `npx -y @cocaxcode/api-testing-mcp`. Transport: stdio. License: MIT.
+
 - [AgentCostLab x402 MCP](https://github.com/Jettlin927/x402-mcp-agentcost): Multi-turn AI agent O(N²) cost simulation, Pareto-optimal Planner/Worker model routing across 24 LLMs, and `CLAUDE.md`/`mcp.json` prompt cache-buster auditing on Cloudflare Workers. Endpoint: `https://x402-mcp-agentcost.jettlin666.workers.dev/mcp`. Transport: streamable-http. Auth: Open for discovery & `list_models_pricing`; x402 v2 (Base USDC, $0.005–$0.01/call) for simulation & auditing tools. Tools: `list_models_pricing`, `recommend_pareto_route`, `simulate_agent_cost`, `audit_prompt_cache_tax`. License: MIT. [Web Simulator](https://jettlin927.github.io/agentcostlab/).
 
 - [MeetJSON](https://meetjson.com): Extract AST code skeletons, prune large JSON/data payloads, and repair broken JSON streams at the edge to reduce LLM context token usage by 60-99%. Endpoint: `https://api.meetjson.com/mcp` (SSE: `https://api.meetjson.com/sse`). Transport: streamable-http, sse. Auth: Open or Bearer API key. Tools: `meetjson_process`, `meetjson_state`. Free tier available.
