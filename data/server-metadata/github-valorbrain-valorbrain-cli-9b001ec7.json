@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-valorbrain-valorbrain-cli-9b001ec7",
+  "source": {
+    "issue": 6907,
+    "projectUrl": "https://github.com/ValorBrain/valorbrain-cli"
+  },
+  "links": {
+    "endpoint": "https://mcpbrain.valor.digital/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @valorbrain/cli mcp",
+      "npx @valorbrain/cli init --agent"
+    ],
+    "env": [
+      "VALORBRAIN_MCP_TOKEN"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Gemini CLI (per the repo README)"
+  ],
+  "license": "MIT"
+}
