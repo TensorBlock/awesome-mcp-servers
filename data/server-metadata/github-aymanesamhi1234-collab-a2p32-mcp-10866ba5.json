@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aymanesamhi1234-collab-a2p32-mcp-10866ba5",
+  "source": {
+    "issue": 6919,
+    "projectUrl": "https://github.com/aymanesamhi1234-collab/a2p32-mcp"
+  },
+  "links": {
+    "endpoint": "https://zealous-unburned-tameness.ngrok-free.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any streamable-HTTP MCP client (verified with a standard MCP client: initialize",
+    "tools/list",
+    "tools/call)"
+  ],
+  "license": "MIT"
+}
