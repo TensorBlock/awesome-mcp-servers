@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-tarklehq-tarkle-mcp-server-45860ffe",
+  "source": {
+    "issue": 6893,
+    "projectUrl": "https://github.com/tarkleHQ/tarkle-mcp-server"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @tarkleHQ in #6893 under the community profile-claim process.",
+      "Requested profile metadata in #6893: Category: Filesystems Transport: streamable-http Auth: none Install confidence: low License: Apache-2.0 Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@tarkleHQ"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
