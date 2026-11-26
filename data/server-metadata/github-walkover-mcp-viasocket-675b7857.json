@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-walkover-mcp-viasocket-675b7857",
+  "source": {
+    "issue": 6995,
+    "projectUrl": "https://github.com/walkover-mcp/viasocket"
+  },
+  "links": {
+    "endpoint": "https://connect.viasocket.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "any MCP client with Streamable HTTP + OAuth (e.g. Claude Code",
+    "Cline)"
+  ]
+}
