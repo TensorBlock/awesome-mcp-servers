@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-codedesignapp-mcp-78a4cbe4",
+  "source": {
+    "issue": 6991,
+    "projectUrl": "https://github.com/codedesignapp/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.codedesign.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "license": "MIT (listing repo)"
+}
