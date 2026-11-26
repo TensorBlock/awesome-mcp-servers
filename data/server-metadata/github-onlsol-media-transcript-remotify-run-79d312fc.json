@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-onlsol-media-transcript-remotify-run-79d312fc",
   "source": {
-    "issue": 6776,
+    "issue": 6895,
     "projectUrl": "https://github.com/onlsol/media-transcript.remotify.run"
   },
   "install": {
@@ -26,5 +26,27 @@
     "Gemini CLI",
     "OpenCode V2"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "description": "Fetches and searches existing YouTube captions, publisher-linked podcast transcripts and local SRT, VTT or JSON files, returning timestamped passages and source links. Uses a local stdio connector with the hosted service at https://media-transcript.remotify.run. Does not transcribe audio.",
+  "links": {
+    "docs": "https://github.com/onlsol/media-transcript.remotify.run#readme",
+    "homepage": "https://media-transcript.remotify.run"
+  },
+  "tools": {
+    "count": 5,
+    "names": [
+      "media_transcript_retrieve_youtube",
+      "media_transcript_retrieve_feed",
+      "media_transcript_register_file",
+      "media_transcript_search",
+      "media_transcript_read_page"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #6895. Source: Official README: https://github.com/onlsol/media-transcript.remotify.run#tools-exposed Official website: https://media-transcript.remotify.run Current API:..."
+    ]
+  }
 }
