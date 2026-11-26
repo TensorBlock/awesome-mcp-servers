@@ -18,5 +18,43 @@
     ],
     "verifiedBy": [],
     "claimed": true
+  },
+  "links": {
+    "docs": "https://github.com/nstdata-ai/nstdata-mcp-server#readme",
+    "homepage": "https://nstdata.io",
+    "endpoint": "https://mcp.nstdata.io/crawl"
+  },
+  "install": {
+    "commands": [
+      "npx --yes @nstdata-ai/mcp-server@1.0.5"
+    ],
+    "env": [
+      "NSTDATA_MODULES",
+      "NSTDATA_API_TOKEN"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Local Crawl: NSTDATA_MODULES=crawl and NSTDATA_API_TOKEN set to your Nstdata API key. Hosted access supports OAuth or an API key in X-API-Key."
+    ]
+  },
+  "license": "MIT",
+  "tools": {
+    "count": 6,
+    "names": [
+      "nstdata_crawl_scrape",
+      "nstdata_crawl_scrape_result",
+      "nstdata_crawl_start",
+      "nstdata_crawl_status",
+      "nstdata_crawl_pages",
+      "nstdata_crawl_read_result"
+    ],
+    "source": "self_reported"
   }
 }
