@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "seotesting-com-api-mcp-2db549ba",
+  "source": {
+    "issue": 6993,
+    "projectUrl": "https://seotesting.com/api-mcp/"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
