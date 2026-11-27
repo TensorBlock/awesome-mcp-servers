@@ -2,11 +2,12 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-heuv-technologies-graviola-5a0eb675",
   "source": {
-    "issue": 7067,
+    "issue": 7158,
     "projectUrl": "https://github.com/heuv-technologies/graviola"
   },
   "links": {
-    "endpoint": "https://mcp.graviola.dev/api/mcp"
+    "endpoint": "https://mcp.graviola.dev/api/mcp",
+    "docs": "https://graviola.dev/docs/connect-your-ai"
   },
   "transport": [
     "streamable-http"
@@ -14,14 +15,21 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth; sign in with a Graviola account. No local server package or API key is required for this OAuth connection."
     ]
   },
   "clients": [
     "Claude",
     "Claude Code",
     "Cursor",
-    "Codex and compatible MCP clients (OAuth support required)"
+    "Codex",
+    "and compatible MCP clients with OAuth support."
   ],
-  "license": "Hosted service: proprietary; public repository contains documentation and examples, not server source."
+  "license": "Hosted service: proprietary; public repository contains documentation and examples, not server source.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #7158. Source: Submitted setup instructions and docs URL: https://github.com/TensorBlock/awesome-mcp-servers/issues/7067 Public setup guide: https://graviola.dev/docs/connect-your-ai Product facts and limits:..."
+    ]
+  }
 }
