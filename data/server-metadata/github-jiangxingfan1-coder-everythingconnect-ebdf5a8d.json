@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jiangxingfan1-coder-everythingconnect-ebdf5a8d",
+  "source": {
+    "issue": 7160,
+    "projectUrl": "https://github.com/jiangxingfan1-coder/EverythingConnect"
+  },
+  "install": {
+    "commands": [
+      "deconstruct-mcp",
+      "npx"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "The server was tested locally with an MCP stdio client for initialization and tool listing",
+    "individual tools and named host integrations were not tested in that check."
+  ],
+  "license": "Apache-2.0"
+}
