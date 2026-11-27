@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-singularitydotcom-si-singularity-skill-b06bccb1",
+  "source": {
+    "issue": 7085,
+    "projectUrl": "https://github.com/singularitydotcom-si/singularity-skill"
+  },
+  "links": {
+    "endpoint": "https://singularitydotcom.si/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Grok (custom connector)",
+    "any Streamable HTTP MCP client"
+  ],
+  "license": "Not specified"
+}
