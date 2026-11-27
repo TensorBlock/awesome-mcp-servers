@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-callmodels-mcp-plugin-a9ba78ed",
+  "source": {
+    "issue": 7027,
+    "projectUrl": "https://github.com/callmodels/mcp-plugin"
+  },
+  "links": {
+    "endpoint": "https://mcp.callmodels.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "Gemini"
+  ],
+  "license": "MIT"
+}

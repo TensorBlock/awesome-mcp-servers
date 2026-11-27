@@ -5,7 +5,7 @@
     "issue": 1440,
     "projectUrl": "https://www.jobvetta.com/mcp"
   },
-  "description": "Jobvetta MCP Server searches current India job openings gathered from official employer career pages by keyword, city or state, and posting age.",
+  "description": "Jobvetta MCP Server searches 6.5M+ live job openings gathered directly from 238,000+ official employer career sites across 242 countries by keyword, location, company, remote status, and posting age.",
   "category": "Search",
   "links": {
     "docs": "https://www.jobvetta.com/mcp",
