@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-arven-soft-conbridge-mcp-97f7b8d8",
+  "source": {
+    "projectUrl": "https://github.com/arven-soft/conbridge-mcp"
+  },
+  "links": {
+    "repo": "https://github.com/arven-soft/conbridge-mcp",
+    "docs": "https://conbridge.app/docs/mcp/tools",
+    "homepage": "https://conbridge.app",
+    "endpoint": "https://mcp.conbridge.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with PKCE and dynamic client registration; no API key or additional headers.",
+      "OAuth documentation: https://conbridge.app/docs/mcp/oauth"
+    ]
+  },
+  "license": "MIT (listing repository; hosted server source is not public)"
+}

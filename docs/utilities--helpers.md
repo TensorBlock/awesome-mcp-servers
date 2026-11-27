@@ -63,7 +63,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [vinitngr/mcpVinit](https://github.com/vinitngr/mcpVinit): Facilitates basic MCP server connections using stdio and SSE methods for practice and experimentation.
 - [a2amarket/mcp-clamav](https://github.com/a2amarket/mcp-clamav): Facilitates virus scanning of files using ClamAV through an MCP server interface.
 - [buckylee2019/powerpoint-automation-mcp](https://github.com/buckylee2019/powerpoint-automation-mcp): Facilitates PowerPoint automation through a server that manages presentations, slides, and content using MCP.
-- [yukinissie/us-weather-mcp](https://github.com/yukinissie/us-weather-mcp): Provides weather information through an MCP server implemented in Kotlin, compatible with the Claude Desktop app.
 - [ZXreaper/cookbook-mcp-server](https://github.com/ZXreaper/cookbook-mcp-server): Facilitates access to a comprehensive cookbook through MCP server functionalities, enabling retrieval of all recipes or specific dish instructions.
 - [OiPKL/mcp-practice](https://github.com/OiPKL/mcp-practice): A comprehensive MCP server suite offering weather, installation, filesystem, and general-purpose functionalities for seamless integration with Claude desktop configurations.
 - [miso-develop/cube-scrambler-mcp](https://github.com/miso-develop/cube-scrambler-mcp): Facilitates cube scrambling and manipulation through an MCP server, offering randomization and sequence control for various cube states.

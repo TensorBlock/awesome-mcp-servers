@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-magistry-io-mcp-69186840",
+  "source": {
+    "issue": 7080,
+    "projectUrl": "https://github.com/Magistry-io/mcp"
+  },
+  "links": {
+    "endpoint": "https://app.magistry.io/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web",
+    "desktop",
+    "Code)",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI",
+    "other remote-MCP clients"
+  ],
+  "license": "MIT (docs/manifests repo); server is hosted"
+}
