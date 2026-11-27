@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-autoposterai-mcp-1ea85de6",
+  "source": {
+    "issue": 7108,
+    "projectUrl": "https://github.com/autoposterai/mcp"
+  },
+  "links": {
+    "endpoint": "https://agent.autoposter.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @autoposter/mcp"
+    ],
+    "env": [
+      "AUTOPOSTER_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "Windsurf",
+    "Gemini CLI"
+  ],
+  "license": "MIT"
+}

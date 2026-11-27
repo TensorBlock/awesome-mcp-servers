@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "quso-ai-mcp-d3ac2f8f",
+  "source": {
+    "issue": 7039,
+    "projectUrl": "https://quso.ai/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.quso.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Codex",
+    "Cursor"
+  ],
+  "license": "Proprietary (hosted service, free plan available)"
+}
