@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-johngodlmao-keelson-m3-2fb3616c",
+  "source": {
+    "issue": 7089,
+    "projectUrl": "https://github.com/johngodlmao/keelson-m3"
+  },
+  "links": {
+    "endpoint": "https://keelson.groundworkit.com.au/w/<workspace>/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (tested)",
+    "any client that supports remote MCP servers with OAuth"
+  ],
+  "license": "Proprietary (hosted service)"
+}
