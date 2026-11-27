@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-yangzichao-mcp-server-overleaf-0e4e693e",
+  "source": {
+    "issue": 7073,
+    "projectUrl": "https://github.com/yangzichao/mcp-server-overleaf"
+  },
+  "install": {
+    "commands": [
+      "npx --yes mcp-server-overleaf@0.6.3 --stdio"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cline",
+    "Codex",
+    "Cursor",
+    "Gemini CLI",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
