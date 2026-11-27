@@ -2,6 +2,8 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [booksy-mcp](https://github.com/PiotrZapolski/booksy-mcp): MCP server for Booksy Biz (salon and barbershop software). Reads calendar, staff schedules, clients, payments and reports through your own logged-in Chrome tab: no API key, no hosted service, the session never leaves your machine. Install: from source (not on npm yet). Transport: stdio.
+
 - [Winly MCP](https://github.com/getwinly/winly-mcp): Run your Instagram and Facebook DMs from Claude, ChatGPT or any AI agent. Read chats, search contacts, tag leads, set a stage and owner, add notes, reply to comments on your posts and pull reports like speed to lead and response rate. Built on Meta's official API. Hosted Streamable HTTP at `https://app.sbccrm.com/bld/api/mcp`; OAuth 2.1 sign-in or an API key in the `X-API-Key` header. Official, closed source (public docs repo).
 
 - [Wiro Agent Connectors (ai.wiro/agent-connectors)](https://github.com/wiroai/Wiro-Agent-Connectors): MCP connectors for 45 services with no official MCP server: ads and analytics (Google Ads, Meta Ads, Google Analytics 4, Search Console, Merchant Center), email and CRM (Mailchimp, Brevo, SendGrid, Apollo, Gmail), social publishing (Instagram, Facebook Pages, LinkedIn, TikTok, YouTube, X, Threads, Pinterest, Reddit), commerce (Shopify, WooCommerce) and more. One dependency-free module per service, run as its own stdio server with your own credentials: `npx -y @wiro-ai/wiro-agent-connectors <connector>` (`--list` prints them all). MIT.
