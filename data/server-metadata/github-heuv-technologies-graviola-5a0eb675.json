@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-heuv-technologies-graviola-5a0eb675",
+  "source": {
+    "issue": 7067,
+    "projectUrl": "https://github.com/heuv-technologies/graviola"
+  },
+  "links": {
+    "endpoint": "https://mcp.graviola.dev/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Codex and compatible MCP clients (OAuth support required)"
+  ],
+  "license": "Hosted service: proprietary; public repository contains documentation and examples, not server source."
+}
