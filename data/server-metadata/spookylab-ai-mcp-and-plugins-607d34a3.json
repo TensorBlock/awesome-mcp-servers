@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "spookylab-ai-mcp-and-plugins-607d34a3",
+  "source": {
+    "issue": 7059,
+    "projectUrl": "https://spookylab.ai/mcp-and-plugins"
+  },
+  "links": {
+    "endpoint": "https://spookylab.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "Cline",
+    "Gemini CLI"
+  ],
+  "license": "MIT"
+}
