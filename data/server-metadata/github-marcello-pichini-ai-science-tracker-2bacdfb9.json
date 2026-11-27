@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-marcello-pichini-ai-science-tracker-2bacdfb9",
+  "source": {
+    "issue": 7064,
+    "projectUrl": "https://github.com/marcello-pichini/ai-science-tracker/tree/main/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.aisciencetracker.org/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude (Connectors Directory)",
+    "Claude Code",
+    "Codex",
+    "Gemini CLI",
+    "Cursor",
+    "VS Code",
+    "any Streamable HTTP MCP client"
+  ],
+  "license": "Code MIT (LICENSE-CODE), catalog data CC BY 4.0 (LICENSE)"
+}
