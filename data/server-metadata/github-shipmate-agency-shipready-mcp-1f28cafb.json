@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-shipmate-agency-shipready-mcp-1f28cafb",
+  "source": {
+    "issue": 6850,
+    "projectUrl": "https://github.com/Shipmate-agency/shipready-mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx shipready-mcp (Python 3.10+, PyPI package shipready-mcp) or python3 server.py from a clone."
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Cursor",
+    "Claude Code",
+    "Windsurf"
+  ],
+  "license": "MIT"
+}

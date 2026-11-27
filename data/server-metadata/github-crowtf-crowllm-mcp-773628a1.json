@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-crowtf-crowllm-mcp-773628a1",
+  "source": {
+    "issue": 6838,
+    "projectUrl": "https://github.com/crowtf/crowllm-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y crowllm-mcp",
+      "npx -y github:crowtf/crowllm-mcp#v0.1.2"
+    ],
+    "env": [
+      "CROWLLM_API_KEY",
+      "CROWLLM_BASE_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key \u2014 CROWLLM_API_KEY is required only for the `chat` tool; `search_models` and `get_pricing` are keyless"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cline",
+    "Continue",
+    "Cherry Studio",
+    "LibreChat"
+  ],
+  "license": "MIT",
+  "links": {
+    "docs": "https://github.com/crowtf/crowllm-mcp"
+  },
+  "tools": {
+    "count": 3,
+    "names": [
+      "search_models",
+      "get_pricing",
+      "chat"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "published as npm `crowllm-mcp@0.1.2`; official MCP registry `io.github.crowtf/crowllm-mcp` v0.1.2, status active",
+      "Metadata updated from issue #6838. Source: - npm: https://www.npmjs.com/package/crowllm-mcp - Registry: https://registry.modelcontextprotocol.io/v0/servers?search=io.github.crowtf/crowllm-mcp - README tool table: https://github.com/crowtf/crowllm-mcp#tools",
+      "Profile claimed by @crowtf in #6807 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@crowtf"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

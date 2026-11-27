@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "corespeed-io-docs-mcp-d6cf4c0e",
+  "source": {
+    "issue": 6954,
+    "projectUrl": "https://corespeed.io/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.corespeed.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "ChatGPT",
+    "VS Code"
+  ],
+  "license": "proprietary",
+  "description": "CoreSpeed is the agent-native cloud: one MCP endpoint that gives AI agents such as Claude Code, Codex and Cursor your apps, built-in tools and team memory.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #6954. Source: https://corespeed.io/about (the same sentence opens the page)"
+    ]
+  }
+}
