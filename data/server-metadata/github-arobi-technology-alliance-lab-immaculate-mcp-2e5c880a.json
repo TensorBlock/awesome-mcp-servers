@@ -36,11 +36,20 @@
     "Windsurf"
   ],
   "tools": {
-    "count": 4,
+    "count": 13,
     "names": [
       "arobi_route_grant",
+      "arobi_revoke_grant",
       "arobi_authorize",
       "arobi_classify_and_route",
+      "arobi_record_route_outcome",
+      "arobi_begin_effect",
+      "arobi_record_step",
+      "arobi_close_effect",
+      "arobi_claim_effect",
+      "arobi_list_open_effects",
+      "arobi_compensate",
+      "arobi_accept_effect",
       "arobi_verify_chain"
     ],
     "source": "self_reported"
@@ -50,7 +59,7 @@
     "status": "self_reported",
     "notes": [
       "Profile claimed by @PossumXI, an admin of the Arobi-Technology-Alliance-Lab organization that owns the repository and the maintainer named in its glama.json. Claiming is separate from TensorBlock verification.",
-      "Maintainer check on 2026-11-20: the npx command answers initialize and tools/list over stdio with these 4 tools, and the hosted endpoint answers initialize and tools/list without a key. Tool calls were not part of this check."
+      "Maintainer check on 2026-11-27: the npx command (local engine, serverInfo 1.5.0) answers tools/list over stdio with the 13 tools listed; the hosted endpoint (serverInfo 1.4.0) answers initialize and tools/list without a key with 6: arobi_authorize, arobi_route_grant, arobi_revoke_grant, arobi_classify_and_route, arobi_verify_chain, arobi_list_records. Tool calls were not part of this check."
     ]
   },
   "community": {

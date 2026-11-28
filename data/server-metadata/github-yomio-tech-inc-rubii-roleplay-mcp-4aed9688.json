@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-yomio-tech-inc-rubii-roleplay-mcp-4aed9688",
+  "source": {
+    "issue": 7189,
+    "projectUrl": "https://github.com/YoMio-Tech-Inc/rubii-roleplay-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.rubii.ai/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "MIT"
+}
