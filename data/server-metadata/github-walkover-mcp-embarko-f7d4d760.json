@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-walkover-mcp-embarko-f7d4d760",
   "source": {
-    "issue": 6369,
+    "issue": 7203,
     "projectUrl": "https://github.com/walkover-mcp/embarko"
   },
   "links": {
@@ -21,5 +21,12 @@
     "Claude Code",
     "Claude Desktop"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "description": "A shared workspace to publish, use and improve anything built with AI.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #7203. Source: https://github.com/walkover-mcp/embarko#readme (README updated 2026-11-28)"
+    ]
+  }
 }
