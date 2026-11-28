@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cybedefend-cybedefend-7ec5d811",
+  "source": {
+    "issue": 7131,
+    "projectUrl": "https://github.com/CybeDefend/cybedefend"
+  },
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor"
+  ],
+  "license": "AGPL-3.0"
+}
