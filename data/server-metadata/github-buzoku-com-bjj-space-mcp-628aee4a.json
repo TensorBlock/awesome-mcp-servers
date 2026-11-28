@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-buzoku-com-bjj-space-mcp-628aee4a",
+  "source": {
+    "issue": 7169,
+    "projectUrl": "https://github.com/buzoku-com/bjj.space-mcp"
+  },
+  "links": {
+    "endpoint": "https://bjj.space/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code (Copilot)",
+    "Gemini CLI",
+    "Cline"
+  ],
+  "license": "MIT (listing repo); the data is free to use in answers with a link to bjj.space, see https://bjj.space/terms"
+}

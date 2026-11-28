@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-anisdhiyaeddine-simowl-mcp-9c977b08",
+  "source": {
+    "issue": 7138,
+    "projectUrl": "https://github.com/AnisDhiyaEddine/simowl-mcp"
+  },
+  "links": {
+    "endpoint": "https://simowl.com/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude (connector directory: https://claude.ai/directory/connectors/simowl)",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "ChatGPT",
+    "other"
+  ],
+  "license": "MIT (docs repo); hosted server"
+}

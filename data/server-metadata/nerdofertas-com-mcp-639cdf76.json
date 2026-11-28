@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "nerdofertas-com-mcp-639cdf76",
+  "source": {
+    "issue": 7185,
+    "projectUrl": "https://nerdofertas.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://nerdofertas.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (claude.ai",
+    "desktop and mobile)"
+  ],
+  "license": "Proprietary (free to use)"
+}
