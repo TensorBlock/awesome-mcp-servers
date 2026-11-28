@@ -9,11 +9,9 @@
     "endpoint": "https://mcp.qonvert.ai/mcp"
   },
   "install": {
-    "commands": [
-      "google_ads_mcp"
-    ],
+    "commands": [],
     "env": [],
-    "confidence": "medium"
+    "confidence": "low"
   },
   "transport": [
     "streamable-http"
