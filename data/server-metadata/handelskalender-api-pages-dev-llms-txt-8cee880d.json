@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "handelskalender-api-pages-dev-llms-txt-8cee880d",
+  "source": {
+    "issue": 7130,
+    "projectUrl": "https://github.com/vstockma/x402-trading-calendar-mcp"
+  },
+  "links": {
+    "repo": "https://github.com/vstockma/x402-trading-calendar-mcp",
+    "docs": "https://handelskalender-api.pages.dev/llms.txt",
+    "endpoint": "https://handelskalender-api.pages.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Paid tool calls use x402 v2 USDC on Base in request _meta; payment is not an API credential."
+    ]
+  }
+}
