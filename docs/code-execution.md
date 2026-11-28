@@ -2,6 +2,7 @@
 
 Servers designed to execute code snippets or scripts in various languages, often in sandboxed environments.
 
+- [Sandscale](https://sandscale.dev/sandboxes/mcp): Official hosted MCP server for Sandscale sandboxes. An agent can create a Firecracker microVM sandbox, run commands in it, move files in and out, and stop it, with every call recorded in an audit log. Endpoint: `https://mcp.sandscale.dev/mcp`. Transport: streamable-http. Auth: OAuth (sign-in through the client, no API key). Install: `claude mcp add --transport http sandscale https://mcp.sandscale.dev/mcp`. Tools: create_sandbox, exec, write_file, read_file, terminate_sandbox.
 - [SandBase Harness](https://github.com/sandbaseai/sandbase-harness): Local-first, self-hosted runtime for managed agent sessions with sandbox, approvals, audit, replay, and artifact inspection controls. Its stdio MCP bridge lets clients discover agents, create and stream runs, inspect state, list artifacts, and stop sessions. Install with `docker run -i --rm -e MANAGED_AGENTS_URL -e MANAGED_AGENTS_API_KEY ghcr.io/sandbaseai/sandbase-harness-mcp:0.3.8`. Apache-2.0.
 - [JSFrouws/mcp-matlab-executor](https://github.com/JSFrouws/mcp-matlab-executor): Securely execute MATLAB functions and scripts with user-approved security prompts.
 - [cloudywu0410/python_sandbox_mcp_server](https://github.com/cloudywu0410/python_sandbox_mcp_server): Enables LLMs to execute Python code securely in isolated Docker containers with real-time communication via SSE.
