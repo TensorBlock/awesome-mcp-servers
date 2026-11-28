@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "livinginmovie-com-en-mcp-dd2c637b",
+  "source": {
+    "issue": 7134,
+    "projectUrl": "https://www.livinginmovie.com/en/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.livinginmovie.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with dynamic client registration (Google sign-in)."
+    ]
+  },
+  "clients": [
+    "Claude (claude.ai and Claude Desktop)",
+    "ChatGPT",
+    "any MCP client with remote server support"
+  ],
+  "license": "Proprietary (hosted service)"
+}
