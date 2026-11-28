@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-walkover-mcp-viasocket-675b7857",
   "source": {
-    "issue": 6995,
+    "issue": 7204,
     "projectUrl": "https://github.com/walkover-mcp/viasocket"
   },
   "links": {
@@ -20,5 +20,12 @@
   "clients": [
     "any MCP client with Streamable HTTP + OAuth (e.g. Claude Code",
     "Cline)"
-  ]
+  ],
+  "description": "Infrastructure for building apps and AI agents, with integrations, automation and AI capabilities. Please also update the line in docs/developer-productivity--utilities.md: OLD: - [walkover-mcp/viasocket](https://github.com/walkover-mcp/viasocket): Explore ViaSocket documentation and APIs to build and verify app integrations, automations and AI workflows across connected user accounts. Hosted Streamable HTTP at `https://connect.viasocket.com/mcp`; OAuth sign-in. NEW: -...",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #7204. Source: https://github.com/walkover-mcp/viasocket#readme (README updated 2026-11-28)"
+    ]
+  }
 }
