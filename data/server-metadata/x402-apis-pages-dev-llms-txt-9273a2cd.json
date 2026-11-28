@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "x402-apis-pages-dev-llms-txt-9273a2cd",
+  "source": {
+    "issue": 7129,
+    "projectUrl": "https://github.com/vstockma/x402-company-data-mcp"
+  },
+  "links": {
+    "repo": "https://github.com/vstockma/x402-company-data-mcp",
+    "docs": "https://x402-apis.pages.dev/llms.txt",
+    "endpoint": "https://x402-apis.pages.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Paid tool calls use x402 v2 USDC on Base in request _meta; payment is not an API credential."
+    ]
+  }
+}
