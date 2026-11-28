@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "watchfor-io-docs-api-mcp-dc09581f",
+  "source": {
+    "issue": 7164,
+    "projectUrl": "https://watchfor.io/docs/api/mcp"
+  },
+  "links": {
+    "endpoint": "https://watchfor.io/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (Connectors directory)",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "Proprietary (hosted service)"
+}
