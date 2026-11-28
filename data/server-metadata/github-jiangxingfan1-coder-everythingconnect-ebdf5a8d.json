@@ -6,12 +6,11 @@
     "projectUrl": "https://github.com/jiangxingfan1-coder/EverythingConnect"
   },
   "install": {
-    "commands": [
-      "deconstruct-mcp",
-      "npx"
+    "commands": [],
+    "env": [
+      "EC_DECONSTRUCT_READ_ROOTS"
     ],
-    "env": [],
-    "confidence": "medium"
+    "confidence": "low"
   },
   "transport": [
     "stdio"
@@ -20,9 +19,5 @@
     "type": "none",
     "notes": []
   },
-  "clients": [
-    "The server was tested locally with an MCP stdio client for initialization and tool listing",
-    "individual tools and named host integrations were not tested in that check."
-  ],
   "license": "Apache-2.0"
 }
