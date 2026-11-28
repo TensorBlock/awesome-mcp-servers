@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "theletterpilot-com-mcp-64c00d1f",
+  "source": {
+    "issue": 7119,
+    "projectUrl": "https://theletterpilot.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://theletterpilot.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
