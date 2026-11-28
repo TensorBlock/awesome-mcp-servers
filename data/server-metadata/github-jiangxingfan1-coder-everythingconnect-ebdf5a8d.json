@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jiangxingfan1-coder-everythingconnect-ebdf5a8d",
+  "source": {
+    "issue": 7160,
+    "projectUrl": "https://github.com/jiangxingfan1-coder/EverythingConnect"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "EC_DECONSTRUCT_READ_ROOTS"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "Apache-2.0"
+}
