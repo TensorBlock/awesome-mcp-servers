@@ -23,13 +23,18 @@
     "Claude Code",
     "Cursor",
     "Codex",
-    "and compatible MCP clients with OAuth support."
+    "compatible MCP clients with OAuth support"
   ],
   "license": "Hosted service: proprietary; public repository contains documentation and examples, not server source.",
   "verification": {
-    "status": "self_reported",
-    "notes": [
-      "Metadata updated from issue #7158. Source: Submitted setup instructions and docs URL: https://github.com/TensorBlock/awesome-mcp-servers/issues/7067 Public setup guide: https://graviola.dev/docs/connect-your-ai Product facts and limits:..."
-    ]
+    "status": "unknown",
+    "notes": []
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http --scope user graviola https://mcp.graviola.dev/api/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
   }
 }
