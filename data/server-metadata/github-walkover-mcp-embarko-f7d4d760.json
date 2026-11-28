@@ -22,7 +22,7 @@
     "Claude Desktop"
   ],
   "license": "MIT",
-  "description": "A shared workspace to publish, use and improve anything built with AI. Please also update the line in docs/cloud-platforms--services.md: OLD: - [walkover-mcp/embarko](https://github.com/walkover-mcp/embarko): Deploy and host AI-built apps and websites, and get a live URL without any DevOps setup. Tools: deploy_app, read_app (status, logs, env vars, domains, analytics), update_app (env vars, custom domains, rollback), app_danger_zone (delete/rename). Website: https://embarko.ai | Docs:...",
+  "description": "A shared workspace to publish, use and improve anything built with AI.",
   "verification": {
     "status": "self_reported",
     "notes": [
