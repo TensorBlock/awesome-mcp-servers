@@ -2,6 +2,8 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [Google Trends for Agent (gtfa-mcp)](https://github.com/meka-im/google-trends-for-agent): Free, open-source (MIT) Google Trends MCP server & CLI (`pytrends` alternative) returning calibrated daily search volume estimates via 59 Google Ads anchors, related queries, and structured JSON/charts. Local stdio server, no API key required ($0 unlimited on local IP or HTTPS_PROXY): `npx -y -p google-trends-for-agent gtfa-mcp`. Docs: https://meka.im/google-trends-for-agent.
+
 - [Job Opportunities API (JOA)](https://github.com/lucagiftzek/joa-mcp): Remote Streamable HTTP MCP server (`https://api.jobopportunitiesapi.org/mcp`) for searching live job postings collected from employers' own career sites, with company hiring trends and a change feed. Free plan; the coverage tool needs no key.
 
 - [FlashData MCP](https://github.com/flashdatadev/flashdata-mcp): Official local stdio and hosted Streamable HTTP MCP server (`https://data.flashdata.dev/mcp`) for real-time Google Search (Web, News, Images, Shopping, Videos, Places), timestamped YouTube transcripts/metadata, and cloud video downloads (free trial, no credit card required).
