@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "konverter-pro-de-428e52e2",
+  "source": {
+    "issue": 7178,
+    "projectUrl": "https://konverter-pro.de"
+  },
+  "links": {
+    "endpoint": "https://konverter-pro.de/api/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client with Streamable HTTP (e.g. Claude",
+    "Cursor",
+    "VS Code)"
+  ],
+  "license": "Proprietary (hosted service)"
+}
