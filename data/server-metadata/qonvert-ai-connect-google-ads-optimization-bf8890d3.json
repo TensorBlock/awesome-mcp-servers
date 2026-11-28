@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "qonvert-ai-connect-google-ads-optimization-bf8890d3",
+  "source": {
+    "issue": 7155,
+    "projectUrl": "https://qonvert.ai/connect/google-ads-optimization"
+  },
+  "links": {
+    "endpoint": "https://mcp.qonvert.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Compatible remote MCP clients with OAuth. Client-specific onboarding is documented in the setup guide."
+  ],
+  "license": "Hosted service. The linked setup skill is MIT."
+}
