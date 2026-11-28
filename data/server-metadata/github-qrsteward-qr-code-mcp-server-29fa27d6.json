@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-qrsteward-qr-code-mcp-server-29fa27d6",
+  "source": {
+    "issue": 7218,
+    "projectUrl": "https://github.com/qrsteward/qr-code-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.qrsteward.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  }
+}
