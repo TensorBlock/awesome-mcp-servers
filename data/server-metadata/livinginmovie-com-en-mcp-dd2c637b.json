@@ -12,8 +12,10 @@
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with dynamic client registration (Google sign-in)."
+    ]
   },
   "clients": [
     "Claude (claude.ai and Claude Desktop)",
